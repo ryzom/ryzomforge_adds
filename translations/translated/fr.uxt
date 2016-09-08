@@ -27309,3 +27309,7 @@ uimwAppZone	[AppZone]
 // INDEX 6491
 uiPlayedTime	[Vous avez joué avec ce personnage pendant %time.]
 
+// HASH_VALUE EB1A8C8F22674C92
+// INDEX 6492
+uiPlaylistRefresh	[Rafraîchir]
+

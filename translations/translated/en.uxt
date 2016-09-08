@@ -14087,11 +14087,11 @@ uiRename	[RENAME]
 
 // HASH_VALUE 04D370123E71CC24
 // INDEX 3351
-uiCreateUserLM	[CREATE LANDMARK]
+uiCreateUserLM	[Create Landmark]
 
 // HASH_VALUE 8B04AC48FE634E3B
 // INDEX 3352
-uiCreateUserLMAtUserPos	[CREATE LANDMARK AT CURRENT LOCATION]
+uiCreateUserLMAtUserPos	[Create Landmark at Current Location]
 
 // HASH_VALUE 086F0F3E7E60DC28
 // INDEX 3353
@@ -27334,4 +27334,8 @@ uimwAppZone	[AppZone]
 // HASH_VALUE 27273D41B0FA7DD2
 // INDEX 6491
 uiPlayedTime	[You played with this character for %time.]
+
+// HASH_VALUE EB1A8C8F22674C92
+// INDEX 6492
+uiPlaylistRefresh	[Refresh]
 
