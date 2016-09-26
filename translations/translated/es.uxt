@@ -21326,7 +21326,7 @@ uiEulaContent	[LICENCIA RYZOM\n
 	\n
 	10. MEJORAS DE VERSIONES POSTERIORES. Ni este Contrato ni su cuenta le autorizan a cualquier versión posterior de Ryzom y/o a las herramientas Ryzom Arkitect. Winch Gate puede actualizar o mejorar el juego, pero no está obligado a proveerlo a usted con esta actualización o mejora. La provisión de Winch Gate de una actualización o mejora gratuita no le autoriza a usted a posteriores actualizaciones o mejoras.\n
 	\n
-	11. PROPIETARIO DEL JUEGO Y SUS ELEMENTOS. Winch Gate es el único propietario de Ryzom y las herramientas Ryzom Arkitect, de todos los elementos registrados diseñados para hacerlo funcionar, y de todos los derechos de propiedad intelectual que conciernen a estos elementos. Usted reconoce que Ryzom y su contenido están protegidos por copyright y por otros derechos de propiedad intelectual en posesión de Winch Gate o sus proveedores, y que no está autorizado más allá de la licencia de derechos limitada expresamente garantizada a usted bajo los términos del Artículo 7 de este Contrato. Winch Gate es a su vez el propietario exclusivo de la cuenta del Usuario y de cualquier elemento, objeto, diseño o contenido creado o usado por el Usuario a través de esa cuenta, incluyendo pero no limitandose a los personajes, su aspecto características, historias, objetos creados o elaborados, gremios, grupos y títulos, y de cualquier elemento, objeto, diseño o cualquier contenido creado usando las herramientas Ryzom Arkitect. El Usuario también otorga a Winch Gate el completo derecho de propiedad para usar la información enviada al servidor a través de la cuenta y de cualquier elemento, objeto, diseño o contenido creado usando las herramientas Ryzom Arkitect (con la excepción de la información personal y los mensajes enviados al Usuario) si fuera necesario, incluyendo la explotación comercial. PREGUNTA\n
+	11. PROPIETARIO DEL JUEGO Y SUS ELEMENTOS. Winch Gate es el único propietario de Ryzom y las herramientas Ryzom Arkitect, de todos los elementos registrados diseñados para hacerlo funcionar, y de todos los derechos de propiedad intelectual que conciernen a estos elementos. Usted reconoce que Ryzom y su contenido están protegidos por copyright y por otros derechos de propiedad intelectual en posesión de Winch Gate o sus proveedores, y que no está autorizado más allá de la licencia de derechos limitada expresamente garantizada a usted bajo los términos del Artículo 7 de este Contrato. Winch Gate es a su vez el propietario exclusivo de la cuenta del Usuario y de cualquier elemento, objeto, diseño o contenido creado o usado por el Usuario a través de esa cuenta, incluyendo pero no limitandose a los personajes, su aspecto características, historias, objetos creados o elaborados, gremios, grupos y títulos, y de cualquier elemento, objeto, diseño o cualquier contenido creado usando las herramientas Ryzom Arkitect. El Usuario también otorga a Winch Gate el completo derecho de propiedad para usar la información enviada al servidor a través de la cuenta y de cualquier elemento, objeto, diseño o contenido creado usando las herramientas Ryzom Arkitect (con la excepción de la información personal y los mensajes enviados al Usuario) como crea necesario, incluyendo la explotación comercial.\n
 	\n
 	12. INFORMACIÓN Y DATOS ENVIADOS POR EL USUARIO. La información y los datos comunicados o enviados por el Usuario en el curso de su uso de Ryzom no deben (a) infringir los derechos de cualquier otra parte, incluyendo derechos de la propiedad intelectual, derechos de la imagen y el derecho a la privacidad; (b) violar cualquier ley o regulación: (c) contener ninguna declaración difamatoria, indecente, obscena o de alguna manera dañina para los menores; o (d) contener algún virus, troyano, código malicioso, gusano, logic bomb o cualquier otra instrucción de ordenador, programa o sub-programa que tenga por objetivo dañar o dañe los datos o haga cambios no autorizados a Ryzom o a los servidores de Ryzom o en las herramientas Ryzom Arkitect. Nos reservamos el derecho de optar por cualquier medida de emergencia en su cuenta (incluyendo la suspensión o cancelación) que consideremos oportuna, si creemos que su uso contraviene con las prohibiciones arriba mencionadas.\n
 	\n
@@ -27222,7 +27222,7 @@ uiShowClock12h	[Usar reloj de 12 horas]
 
 // HASH_VALUE BCF4DB5845BC4EDA
 // INDEX 6464
-uittShowClock12h	[Si marcado, usar reloj de 12 horas en el reloj de la brújula y en los mensajes de chat.]
+uittShowClock12h	[Si marcado, usa el sistema horario de 12 horas en el reloj de la brújula y en los mensajes de chat.]
 
 // HASH_VALUE 68F99C8C69A81273
 // INDEX 6465
@@ -27230,7 +27230,7 @@ uiRadarUseCamera	[El radar sigue la rotación de la cámara]
 
 // HASH_VALUE B83EBD58DE9C068F
 // INDEX 6466
-uittRadarUseCamera	[Si marcado, usar la rotación de cámara para la vista de radar.]
+uittRadarUseCamera	[Si marcado, usa la rotación de cámara para la vista de radar.]
 
 // HASH_VALUE 82A1901C06A3F72E
 // INDEX 6467
