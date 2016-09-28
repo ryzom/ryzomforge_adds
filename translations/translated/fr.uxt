@@ -5058,7 +5058,7 @@ uiOutpostChangeCapital	[Modifier le capital]
 // HASH_VALUE 0B48E9436F6E2255
 // INDEX 1244
 uittPvpOutpostOutOfZone	[Vous participez à une guerre d'avant-poste.\n
-	Vous êtes sortis de la zone, vous serez encore flaggué PVP pour un moment. Si vous faites l'une des actions suivantes, le timer redémarrera :\n
+	Vous êtes sortis de la zone, vous serez encore flaggué PVP pour un moment. Si vous faites l'une des actions suivantes, le chronomètre redémarrera :\n
 	@{T4}- Soigner un allié.\n
 	@{T4}- Attaquer un ennemi.\n
 	@{T4}- Rentrer dans la zone de l'avant-poste.]
@@ -22619,7 +22619,7 @@ uittProtect_Poison	[Absorption des dommages de poison : @{6F6F}%v%@{FFFF} %max]
 
 // HASH_VALUE C10039287A9472FB
 // INDEX 5389
-uittProtect_Electricity	[Absorption des dommages d'électricité: @{6F6F}%v%@{FFFF} %max]
+uittProtect_Electricity	[Absorption des dommages d'électricité : @{6F6F}%v%@{FFFF} %max]
 
 // HASH_VALUE 56A951A06FA9108A
 // INDEX 5390
