@@ -11,11 +11,11 @@ end
 setWeatherValue(false, 0.8)
 --ENDE
 
-local shape="fy_land_telepod.ps"
-runAH(nil, "add_shape", "shape="..shape.."|x=18950|y=-24633|z=13|angle=0|scale=1")
-runAH(nil, "add_shape", "shape="..shape.."|x=4145|y=-3498|z=-13|angle=0|scale=1")
-runAH(nil, "add_shape", "shape="..shape.."|x=17469|y=-33233|z=1|angle=0|scale=1")
-runAH(nil, "add_shape", "shape="..shape.."|x=8922|y=-3515|z=-79|angle=0|scale=1")
+--local shape="fy_land_telepod.ps"
+--runAH(nil, "add_shape", "shape="..shape.."|x=18950|y=-24633|z=13|angle=0|scale=1")
+--runAH(nil, "add_shape", "shape="..shape.."|x=4145|y=-3498|z=-13|angle=0|scale=1")
+--runAH(nil, "add_shape", "shape="..shape.."|x=17469|y=-33233|z=1|angle=0|scale=1")
+--runAH(nil, "add_shape", "shape="..shape.."|x=8922|y=-3515|z=-79|angle=0|scale=1")
 --end
 
 -- Index of the mission slected during the last session (read from  the config file)
