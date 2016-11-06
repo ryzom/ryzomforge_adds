@@ -894,70 +894,70 @@ ccjjb2	LightBird
 ccjjb3	LightBird							
 ccjjb4	LightBird							
 cckdf1	Varynx							
-cckdf2	Varynx
-cckdf3	Varynx
-cckdf4	Varynx
-cckfe1	Varynx
-cckfe2	Varynx
-cckfe3	Varynx
-cckfe4	Varynx
-cckff1	Varynx
-cckff2	Varynx
-cckff3	Varynx
-cckff4	Varynx
-cclde1	Mektoub(Carnivore)
-cclde2	Mektoub(Carnivore)
-cclde3	Mektoub(Carnivore)
-cclde4	Mektoub(Carnivore)
-cclff1	Mektoub(Carnivore)
-cclff2	Mektoub(Carnivore)
-cclff3	Mektoub(Carnivore)
-cclff4	Mektoub(Carnivore)
-ccmff1	Kakty
-ccmff2	Kakty
-ccmff3	Kakty
-ccmff4	Kakty
-ccmgb1	Kakty
-ccmgb2	Kakty
-ccmgb3	Kakty
-ccmgb4	Kakty
-ccmgc1	Kakty
-ccmgc2	Kakty
-ccmgc3	Kakty
-ccmgc4	Kakty
-ccmgd1	Kakty
-ccmgd2	Kakty
-ccmgd3	Kakty
-ccmgd4	Kakty
-ccmge1	Kakty
-ccmge2	Kakty
-ccmge3	Kakty
-ccmge4	Kakty
-ccmgf1	Kakty
-ccmgf2	Kakty
-ccmgf3	Kakty
-ccmgf4	Kakty
-ccmpf1	Kakty
-ccmpf2	Kakty
-ccmpf3	Kakty
-ccmpf4	Kakty
-ccnlf1	CocoClaw
-ccnlf2	CocoClaw
-ccnlf3	CocoClaw
-ccnlf4	CocoClaw
-ccnpd1	CocoClaw
-ccnpd2	CocoClaw
-ccnpd3	CocoClaw
-ccnpd4	CocoClaw
-ccodf1	Ryzerb
-ccodf2	Ryzerb
-ccodf3	Ryzerb
-ccodf4	Ryzerb
-ccope1	Ryzerb
-ccope2	Ryzerb
-ccope3	Ryzerb
-ccope4	Ryzerb
-ccopf1	Ryzerb
+cckdf2	Varynx							
+cckdf3	Varynx							
+cckdf4	Varynx							
+cckfe1	Varynx							
+cckfe2	Varynx							
+cckfe3	Varynx							
+cckfe4	Varynx							
+cckff1	Varynx							
+cckff2	Varynx							
+cckff3	Varynx							
+cckff4	Varynx							
+cclde1	Mektoub(Carnivore)							
+cclde2	Mektoub(Carnivore)							
+cclde3	Mektoub(Carnivore)							
+cclde4	Mektoub(Carnivore)							
+cclff1	Mektoub(Carnivore)							
+cclff2	Mektoub(Carnivore)							
+cclff3	Mektoub(Carnivore)							
+cclff4	Mektoub(Carnivore)							
+ccmff1	Kakty							
+ccmff2	Kakty							
+ccmff3	Kakty							
+ccmff4	Kakty							
+ccmgb1	Kakty							
+ccmgb2	Kakty							
+ccmgb3	Kakty							
+ccmgb4	Kakty							
+ccmgc1	Kakty							
+ccmgc2	Kakty							
+ccmgc3	Kakty							
+ccmgc4	Kakty							
+ccmgd1	Kakty							
+ccmgd2	Kakty							
+ccmgd3	Kakty							
+ccmgd4	Kakty							
+ccmge1	Kakty							
+ccmge2	Kakty							
+ccmge3	Kakty							
+ccmge4	Kakty							
+ccmgf1	Kakty							
+ccmgf2	Kakty							
+ccmgf3	Kakty							
+ccmgf4	Kakty							
+ccmpf1	Kakty							
+ccmpf2	Kakty							
+ccmpf3	Kakty							
+ccmpf4	Kakty							
+ccnlf1	CocoClaw							
+ccnlf2	CocoClaw							
+ccnlf3	CocoClaw							
+ccnlf4	CocoClaw							
+ccnpd1	CocoClaw							
+ccnpd2	CocoClaw							
+ccnpd3	CocoClaw							
+ccnpd4	CocoClaw							
+ccodf1	Ryzerb							
+ccodf2	Ryzerb							
+ccodf3	Ryzerb							
+ccodf4	Ryzerb							
+ccope1	Ryzerb							
+ccope2	Ryzerb							
+ccope3	Ryzerb							
+ccope4	Ryzerb							
+ccopf1	Ryzerb							
 ccopf2	Ryzerb							
 ccopf3	Ryzerb							
 ccopf4	Ryzerb							
@@ -1918,102 +1918,102 @@ chmfc4	Capriny
 chnfd1	Kakty							
 chnfd2	Kakty							
 chnfd3	Kakty							
-chnfd4	Kakty
-chnjc1	Kakty
-chnjc2	Kakty
-chnjc3	Kakty
-chnjc4	Kakty
-chofc1	Dag
-chofc2	Dag
-chofc3	Dag
-chofc4	Dag
-chogb1	Dag
-chogb2	Dag
-chogb3	Dag
-chogb4	Dag
-chogc1	Dag
-chogc2	Dag
-chogc3	Dag
-chogc4	Dag
-chogd1	Dag
-chogd2	Dag
-chogd3	Dag
-chogd4	Dag
-choge1	Dag
-choge2	Dag
-choge3	Dag
-choge4	Dag
-chogf1	Dag
-chogf2	Dag
-chogf3	Dag
-chogf4	Dag
-chpdc1	Capriny
-chpdc2	Capriny
-chpdc3	Capriny
-chpdc4	Capriny
-chpfd1	Capriny
-chpfd2	Capriny
-chpfd3	Capriny
-chpfd4	Capriny
-chqfe1	Mektoub
-chqfe2	Mektoub
-chqfe3	Mektoub
-chqfe4	Mektoub
-chqlc1	Mektoub
-chqlc2	Mektoub
-chqlc3	Mektoub
-chqlc4	Mektoub
-chrfe1	Kakty
-chrfe2	Kakty
-chrfe3	Kakty
-chrfe4	Kakty
-chrlf1	Kakty
-chrlf2	Kakty
-chrlf3	Kakty
-chrlf4	Kakty
-chsdf1	Ryzerb
-chsdf2	Ryzerb
-chsdf3	Ryzerb
-chsdf4	Ryzerb
-chsle1	Ryzerb
-chsle2	Ryzerb
-chsle3	Ryzerb
-chsle4	Ryzerb
-chtde1	Arma
-chtde2	Arma
-chtde3	Arma
-chtde4	Arma
-chtjf1	Arma
-chtjf2	Arma
-chtjf3	Arma
-chtjf4	Arma
-chuje1	Kakty
-chuje2	Kakty
-chuje3	Kakty
-chuje4	Kakty
-chulf1	Kakty
-chulf2	Kakty
-chulf3	Kakty
-chulf4	Kakty
-chvff1	Arma
-chvff2	Arma
-chvff3	Arma
-chvff4	Arma
-chvje1	Arma
-chvje2	Arma
-chvje3	Arma
-chvje4	Arma
-chwde1	Ryzerb
-chwde2	Ryzerb
-chwde3	Ryzerb
-chwde4	Ryzerb
-chwff1	Ryzerb
-chwff2	Ryzerb
-chwff3	Ryzerb
-chwff4	Ryzerb
-chxjf1	Mektoub
-chxjf2	Mektoub
-chxjf3	Mektoub
+chnfd4	Kakty							
+chnjc1	Kakty							
+chnjc2	Kakty							
+chnjc3	Kakty							
+chnjc4	Kakty							
+chofc1	Dag							
+chofc2	Dag							
+chofc3	Dag							
+chofc4	Dag							
+chogb1	Dag							
+chogb2	Dag							
+chogb3	Dag							
+chogb4	Dag							
+chogc1	Dag							
+chogc2	Dag							
+chogc3	Dag							
+chogc4	Dag							
+chogd1	Dag							
+chogd2	Dag							
+chogd3	Dag							
+chogd4	Dag							
+choge1	Dag							
+choge2	Dag							
+choge3	Dag							
+choge4	Dag							
+chogf1	Dag							
+chogf2	Dag							
+chogf3	Dag							
+chogf4	Dag							
+chpdc1	Capriny							
+chpdc2	Capriny							
+chpdc3	Capriny							
+chpdc4	Capriny							
+chpfd1	Capriny							
+chpfd2	Capriny							
+chpfd3	Capriny							
+chpfd4	Capriny							
+chqfe1	Mektoub							
+chqfe2	Mektoub							
+chqfe3	Mektoub							
+chqfe4	Mektoub							
+chqlc1	Mektoub							
+chqlc2	Mektoub							
+chqlc3	Mektoub							
+chqlc4	Mektoub							
+chrfe1	Kakty							
+chrfe2	Kakty							
+chrfe3	Kakty							
+chrfe4	Kakty							
+chrlf1	Kakty							
+chrlf2	Kakty							
+chrlf3	Kakty							
+chrlf4	Kakty							
+chsdf1	Ryzerb							
+chsdf2	Ryzerb							
+chsdf3	Ryzerb							
+chsdf4	Ryzerb							
+chsle1	Ryzerb							
+chsle2	Ryzerb							
+chsle3	Ryzerb							
+chsle4	Ryzerb							
+chtde1	Arma							
+chtde2	Arma							
+chtde3	Arma							
+chtde4	Arma							
+chtjf1	Arma							
+chtjf2	Arma							
+chtjf3	Arma							
+chtjf4	Arma							
+chuje1	Kakty							
+chuje2	Kakty							
+chuje3	Kakty							
+chuje4	Kakty							
+chulf1	Kakty							
+chulf2	Kakty							
+chulf3	Kakty							
+chulf4	Kakty							
+chvff1	Arma							
+chvff2	Arma							
+chvff3	Arma							
+chvff4	Arma							
+chvje1	Arma							
+chvje2	Arma							
+chvje3	Arma							
+chvje4	Arma							
+chwde1	Ryzerb							
+chwde2	Ryzerb							
+chwde3	Ryzerb							
+chwde4	Ryzerb							
+chwff1	Ryzerb							
+chwff2	Ryzerb							
+chwff3	Ryzerb							
+chwff4	Ryzerb							
+chxjf1	Mektoub							
+chxjf2	Mektoub							
+chxjf3	Mektoub							
 chxjf4	Mektoub							
 chxpe1	Mektoub							
 chxpe2	Mektoub							
@@ -2334,22 +2334,22 @@ ckcle4	Kizarak
 ckclf1	Kizarak							
 ckclf2	Kizarak							
 ckclf3	Kizarak							
-ckclf4	Kizarak
-ckcpe1	Kizarak
-ckcpe2	Kizarak
-ckcpe3	Kizarak
-ckcpe4	Kizarak
-ckcpf1	Kizarak
-ckcpf2	Kizarak
-ckcpf3	Kizarak
-ckcpf4	Kizarak
-ckdfd1	Kincher
-ckdfd2	Kincher
-ckdfd3	Kincher
-ckdfd4	Kincher
-ckdfe1	Kincher
-ckdfe2	Kincher
-ckdfe3	Kincher
+ckclf4	Kizarak							
+ckcpe1	Kizarak							
+ckcpe2	Kizarak							
+ckcpe3	Kizarak							
+ckcpe4	Kizarak							
+ckcpf1	Kizarak							
+ckcpf2	Kizarak							
+ckcpf3	Kizarak							
+ckcpf4	Kizarak							
+ckdfd1	Kincher							
+ckdfd2	Kincher							
+ckdfd3	Kincher							
+ckdfd4	Kincher							
+ckdfe1	Kincher							
+ckdfe2	Kincher							
+ckdfe3	Kincher							
 ckdfe4	Kincher							
 ckdff1	Kincher							
 ckdff2	Kincher							
@@ -2590,22 +2590,22 @@ ckfjf1	Lacerating Kirosta	a	the			Lacerating Kirostas		the
 ckfjf2	Kirosta Hunter	a	the			Kirosta Hunters		the
 ckfjf3	Kirosta Queen	a	the			Kirostas Queens		the
 ckfjf6	Kirosta							
-ckfle1	Kirosta
-ckfle2	Kirosta
-ckfle3	Kirosta
-ckfle4	Kirosta
-ckflf1	Kirosta
-ckflf2	Kirosta
-ckflf3	Kirosta
-ckflf4	Kirosta
-ckfpe1	Kirosta
-ckfpe2	Kirosta
-ckfpe3	Kirosta
-ckfpe4	Kirosta
-ckfpf1	Kirosta
-ckfpf2	Kirosta
-ckfpf3	Kirosta
-ckfpf4	Kirosta
+ckfle1	Kirosta							
+ckfle2	Kirosta							
+ckfle3	Kirosta							
+ckfle4	Kirosta							
+ckflf1	Kirosta							
+ckflf2	Kirosta							
+ckflf3	Kirosta							
+ckflf4	Kirosta							
+ckfpe1	Kirosta							
+ckfpe2	Kirosta							
+ckfpe3	Kirosta							
+ckfpe4	Kirosta							
+ckfpf1	Kirosta							
+ckfpf2	Kirosta							
+ckfpf3	Kirosta							
+ckfpf4	Kirosta							
 ckgc4	Kiban Migrator	a	the			Kiban Migrators		the
 ckgde1	Kiban							
 ckgde2	Kiban							
@@ -2942,22 +2942,22 @@ ckipf1	Lacerating Kizoar	a	the			Lacerating Kizoars		the
 ckipf2	Kizoar Hunter	a	the			Kizoar Hunters		the
 ckipf3	Kizoar Queen	a	the			Kizoar Queens		the
 ckjdd1	Kipesta							
-ckjdd2	Kipesta
-ckjdd3	Kipesta
-ckjdd4	Kipesta
-ckjde1	Kipesta
-ckjde2	Kipesta
-ckjde3	Kipesta
-ckjde4	Kipesta
-ckjdf1	Kipesta
-ckjdf2	Kipesta
-ckjdf3	Kipesta
-ckjdf4	Kipesta
-ckjfd1	Kipesta
-ckjfd2	Kipesta
-ckjfd3	Kipesta
-ckjfd4	Kipesta
-ckjfe1	Kipesta
+ckjdd2	Kipesta							
+ckjdd3	Kipesta							
+ckjdd4	Kipesta							
+ckjde1	Kipesta							
+ckjde2	Kipesta							
+ckjde3	Kipesta							
+ckjde4	Kipesta							
+ckjdf1	Kipesta							
+ckjdf2	Kipesta							
+ckjdf3	Kipesta							
+ckjdf4	Kipesta							
+ckjfd1	Kipesta							
+ckjfd2	Kipesta							
+ckjfd3	Kipesta							
+ckjfd4	Kipesta							
+ckjfe1	Kipesta							
 ckjfe2	Kipesta							
 ckjfe3	Kipesta							
 ckjfe4	Kipesta							
@@ -2990,22 +2990,22 @@ ckjgf2	Kipesta Hunter	a	the			Kipesta Hunters		the
 ckjgf3	Kipesta Queen	a	the			Kipesta Queens		the
 ckjjd1	Kipesta							
 ckjjd2	Kipesta							
-ckjjd3	Kipesta
-ckjjd4	Kipesta
-ckjje1	Kipesta
-ckjje2	Kipesta
-ckjje3	Kipesta
-ckjje4	Kipesta
-ckjjf1	Kipesta
-ckjjf2	Kipesta
-ckjjf3	Kipesta
-ckjjf4	Kipesta
-ckjld1	Kipesta
-ckjld2	Kipesta
-ckjld3	Kipesta
-ckjld4	Kipesta
-ckjle1	Kipesta
-ckjle2	Kipesta
+ckjjd3	Kipesta							
+ckjjd4	Kipesta							
+ckjje1	Kipesta							
+ckjje2	Kipesta							
+ckjje3	Kipesta							
+ckjje4	Kipesta							
+ckjjf1	Kipesta							
+ckjjf2	Kipesta							
+ckjjf3	Kipesta							
+ckjjf4	Kipesta							
+ckjld1	Kipesta							
+ckjld2	Kipesta							
+ckjld3	Kipesta							
+ckjld4	Kipesta							
+ckjle1	Kipesta							
+ckjle2	Kipesta							
 ckjle3	Kipesta							
 ckjle4	Kipesta							
 ckjlf1	Kipesta							
@@ -3358,1382 +3358,1382 @@ cdale8	cute
 ckjle8	kitikil							
 ckfle8	kitinega							
 ccnle8	C5							
-ckele8	kitinagan
-ccfle8	ryzerb
-ckele7	kitinagan
-cdale7	cute
-chsle7	H7
-chale7	arma
-ccdle7	jungler
-ccdlf4	jungler
-ccflf4	ryzerb
-ckhlf4	pucetron
-ckblf4	kitihank
-ckglf4	kitinokto
-ccdlf5	jungler
-ccflf5	ryzerb
-chrlf5	H6
-ckglf5	kitinokto
-ccnlf8	C5
-cdalf8	cute
-ccflf8	ryzerb
-chulf8	H9
-ckflf8	kitinega
-ccnlf7	C5
-chulf7	H9
-chgpd5	kakty
-ckjpd5	kitikil
-ccipd5	zerx
-ckhpd5	pucetron
-chbpd5	bul
-cdapd5	cute
-ckjpd8	kitikil
-ccnpd8	C5
-cdapd8	cute
-ckipd8	ktifly
-ccipd8	kitikil
-ckdpd8	kitimandib
-cpapd7	cephaloplant
-ckdpd7	kitimandib
-cdapd7	cute
-ccnpd7	C5
-chlpe5	vampignon
-ckepe5	ktitinagan
-ckdpe5	kitimandib
-ckipe5	kitifly
-ckfpe5	kitinega
-ccope5	C6
-cchpe5	varinx
-chxpe5	H12
-chape5	arma
-chbpe5	bul
-ckgpe5	kitinokto
-ckipe8	kitifly
-ckfpe8	kitinega
-ccope8	C6
-ckdpe8	kitimandib
-chxpe8	H12
-chape8	arma
-cchpe8	varinx
-ckgpe8	kitinokto
-cdape8	cute
-ckepe8	kitinagan
-ccope7	C6
-ckhpe7	pucetron
-chlpe7	vampignon
-ckfpe7	kitinega
-chxpe7	H12
-chlpf4	vampignon
-chgpf4	kakty
-cpapf4	cephaloplant
-ckhpf4	pucetron
-ckbpf4	kitihank
-ckgpf4	kitinokto
-ckapf4	diranak
-ckepf4	kitinagan
-ckjpf4	kitikil
-ckipf4	kitifly
-ckfpf6	kitinega
-chhpf5	mektoub
-chlpf5	vampignon
-chgpf5	kakty
-ccmpf5	C4
-ccopf5	C6
-ccgpf5	ryzoholok
-ckhpf5	pucetron
-ckgpf5	kitinokto
-ckepf5	kitinagan
-ckjpf5	kitikil
-ckipf5	kitifly
-ckfpf5	kitinega
-ckdpf5	kitimandib
-chxpf6	H12
-cdapf6	cute
-ccgpf7	ryzoholok
-ccmpf7	C4
-ccopf7	C6
-ckdpf7	kitimandib
-chgpf7	kakty
-ckfpf7	kitinega
-ckipf7	kitifly
-ckepf7	kitinega
-ckgpf7	kitinokto
-cpapf7	cephaloplant
-chlpf7	vampignon
-chhpf7	mektoub
-chfgc2	filin
-ccdgc1	jungler
-ccdgc2	jungler
-ccdgc3	jungler
-ccdgc4	jungler
-chfgd1	filin
-ccdgd1	jungler
-ccdgd2	jungler
-ccdgd3	jungler
-ccdgd4	jungler
-chfge4	filin
-ccdge1	jungler
-ccdge2	jungler
-ccdge3	jungler
-ccdge4	jungler
-chegf4	estrasson
-chfgf3	filin
-chfgf4	filin
-chkgf4	ryzoholo
-chlgf4	vampignon
-ccagf4	chonari
-ccbgf4	cococlaw
-ccdgf1	jungler
-ccdgf2	jungler
-ccdgf3	jungler
-ccdgf4	jungler
-ccegf4	regus
-ccfgf4	ryzerb
-ccggf4	ryzoholok
-cbagf4	kazoar
-cbcgf4	yber
-cpagf4	cephaloplant
-cpbgf4	electrolag
-cpcgf4	phytopsy
-cpdgf4	sap enslaver
-cpfgf4	swarmplant
-ckagf4	diranak
-ckbgf4	kitihank
-ckcgf4	kitiharak
-ckdgf4	kitimandib
-ckegf4	kitinagan
-ckggf4	kitinokto
-ckigf4	kitifly
-ckjgf4	kitikil
-cdagf4	cute
-cdcgf4	frahar
-cdbgf4	gibbai
-ckaib1	diranak
-ckaib2	diranak
-ckaib3	diranak
-ckaib4	diranak
-ckbib1	kitihank
-ckbib2	kitihank
-ckbib3	kitihank
-ckbib4	kitihank
-ckcib1	kitiharak
-ckcib2	kitiharak
-ckcib3	kitiharak
-ckcib4	kitiharak
-ckdib1	kitimandib
-ckdib2	kitimandib
-ckdib3	kitimandib
-ckdib4	kitimandib
-ckeib1	kitinagan
-ckeib2	kitinagan
-ckeib3	kitinagan
-ckeib4	kitinagan
-ckfib1	kitinega
-ckfib2	kitinega
-ckfib3	kitinega
-ckfib4	kitinega
-ckfrb1	kitinega
-ckfrb2	kitinega
-ckfrb3	kitinega
-ckfrb4	kitinega
-ckgib1	kitinokto
-ckgib2	kitinokto
-ckgib3	kitinokto
-ckgib4	kitinokto
-ckhib1	pucetron
-ckhib2	pucetron
-ckhib3	pucetron
-ckhib4	pucetron
-ckiib1	kitifly
-ckiib2	kitifly
-ckiib3	kitifly
-ckiib4	kitifly
-ckjib1	kitikil
-ckjib2	kitikil
-ckjib3	kitikil
-ckjib4	kitikil
-ckbib5	kitihank
-ckeib7	kitinagan
-ckaic1	diranak
-ckaic2	diranak
-ckaic3	diranak
-ckaic4	diranak
-ckbic1	kitihank
-ckbic2	kitihank
-ckbic3	kitihank
-ckbic4	kitihank
-ckcic1	kitiharak
-ckcic2	kitiharak
-ckcic3	kitiharak
-ckcic4	kitiharak
-ckdic1	kitimandib
-ckdic2	kitimandib
-ckdic3	kitimandib
-ckdic4	kitimandib
-ckeic1	kitinagan
-ckeic2	kitinagan
-ckeic3	kitinagan
-ckeic4	kitinagan
-ckfic1	kitinega
-ckfic2	kitinega
-ckfic3	kitinega
-ckfic4	kitinega
-ckfrc1	kitinega
-ckfrc2	kitinega
-ckfrc3	kitinega
-ckfrc4	kitinega
-ckgic1	kitinokto
-ckgic2	kitinokto
-ckgic3	kitinokto
-ckgic4	kitinokto
-ckhic1	pucetron
-ckhic2	pucetron
-ckhic3	pucetron
-ckhic4	pucetron
-ckiic1	kitifly
-ckiic2	kitifly
-ckiic3	kitifly
-ckiic4	kitifly
-ckjic1	kitikil
-ckjic2	kitikil
-ckjic3	kitikil
-ckjic4	kitikil
-ckbic5	kitihank
-ckeic7	kitinagan
-ckaid1	diranak
-ckaid2	diranak
-ckaid3	diranak
-ckaid4	diranak
-ckbid1	kitihank
-ckbid2	kitihank
-ckbid3	kitihank
-ckbid4	kitihank
-ckcid1	kitiharak
-ckcid2	kitiharak
-ckcid3	kitiharak
-ckcid4	kitiharak
-ckdid1	kitimandib
-ckdid2	kitimandib
-ckdid3	kitimandib
-ckdid4	kitimandib
-ckeid1	kitinagan
-ckeid2	kitinagan
-ckeid3	kitinagan
-ckeid4	kitinagan
-ckfid1	kitinega
-ckfid2	kitinega
-ckfid3	kitinega
-ckfid4	kitinega
-ckfrd1	kitinega
-ckfrd2	kitinega
-ckfrd3	kitinega
-ckfrd4	kitinega
-ckgid1	kitinokto
-ckgid2	kitinokto
-ckgid3	kitinokto
-ckgid4	kitinokto
-ckhid1	pucetron
-ckhid2	pucetron
-ckhid3	pucetron
-ckhid4	pucetron
-ckiid1	kitifly
-ckiid2	kitifly
-ckiid3	kitifly
-ckiid4	kitifly
-ckjid1	kitikil
-ckjid2	kitikil
-ckjid3	kitikil
-ckjid4	kitikil
-ckbid5	kitihank
-ckeid7	kitinagan
-ckaie1	diranak
-ckaie2	diranak
-ckaie3	diranak
-ckaie4	diranak
-ckbie1	kitihank
-ckbie2	kitihank
-ckbie3	kitihank
-ckbie4	kitihank
-ckcie1	kitiharak
-ckcie2	kitiharak
-ckcie3	kitiharak
-ckcie4	kitiharak
-ckdie1	kitimandib
-ckdie2	kitimandib
-ckdie3	kitimandib
-ckdie4	kitimandib
-ckeie1	kitinagan
-ckeie2	kitinagan
-ckeie3	kitinagan
-ckeie4	kitinagan
-ckfie1	kitinega
-ckfie2	kitinega
-ckfie3	kitinega
-ckfie4	kitinega
-ckfre1	kitinega
-ckfre2	kitinega
-ckfre3	kitinega
-ckfre4	kitinega
-ckgie1	kitinokto
-ckgie2	kitinokto
-ckgie3	kitinokto
-ckgie4	kitinokto
-ckhie1	pucetron
-ckhie2	pucetron
-ckhie3	pucetron
-ckhie4	pucetron
-ckiie1	kitifly
-ckiie2	kitifly
-ckiie3	kitifly
-ckiie4	kitifly
-ckjie1	kitikil
-ckjie2	kitikil
-ckjie3	kitikil
-ckjie4	kitikil
-ckbie5	kitihank
-ckeie7	kitinagan
-ckaif1	diranak
-ckaif2	diranak
-ckaif3	diranak
-ckaif4	diranak
-ckbif1	kitihank
-ckbif2	kitihank
-ckbif3	kitihank
-ckbif4	kitihank
-ckcif1	kitiharak
-ckcif2	kitiharak
-ckcif3	kitiharak
-ckcif4	kitiharak
-ckdif1	kitimandib
-ckdif2	kitimandib
-ckdif3	kitimandib
-ckdif4	kitimandib
-ckeif1	kitinagan
-ckeif2	kitinagan
-ckeif3	kitinagan
-ckeif4	kitinagan
-ckfif1	kitinega
-ckfif2	kitinega
-ckfif3	kitinega
-ckfif4	kitinega
-ckfrf1	kitinega
-ckfrf2	kitinega
-ckfrf3	kitinega
-ckfrf4	kitinega
-ckgif1	kitinokto
-ckgif2	kitinokto
-ckgif3	kitinokto
-ckgif4	kitinokto
-ckhif1	pucetron
-ckhif2	pucetron
-ckhif3	pucetron
-ckhif4	pucetron
-ckiif1	kitifly
-ckiif2	kitifly
-ckiif3	kitifly
-ckiif4	kitifly
-ckjif1	kitikil
-ckjif2	kitikil
-ckjif3	kitikil
-ckjif4	kitikil
-ckbif5	kitihank
-ckeif7	kitinagan
-cbblc8	Izam
-cbcld5	Yber
-ccafc5	Gingo
-ccajd5	Gingo
-ccaje5	Gingo
-ccaje8	Gingo
-ccbdc7	Clopper
-ccbde8	Clopper
-ccblb8	Clopper
-cccdb7	Goari
-cccdc8	Goari
-ccdfe5	Torbak
-ccdfe7	Torbak
-ccdfe8	Torbak
-ccdjc5	Torbak
-ccdjc8	Torbak
-ccdje5	Torbak
-ccejb7	Ragus
-ccejc8	Ragus
-ccelc7	Ragus
-cceld8	Ragus
-ccfjf4	Najab
-ccfjf5	Najab
-ccfld5	Najab
-ccgpf8	Vorax
-cchdd8	Varinx
-cchde5	Varinx
-cchde7	Varinx
-ccidd5	Zerx
-ccidd7	Zerx
-ccidf4	Zerx
-ccidf5	Zerx
-ccijf4	Zerx
-ccijf7	Zerx
-ccjfd5	Javing
-ccjfd7	Javing
-cckdd8	Cuttler
-cckdf7	Cuttler
-cckdf8	Cuttler
-cckfe5	Cuttler
-cckfe7	Cuttler
-cckfe8	Cuttler
-cckff5	Cuttler
-cckff8	Cuttler
-cclde5	Ocyx
-cclde7	Ocyx
-cclde8	Ocyx
-cclfe8	Ocyx
-ccmff7	Jugula
-ccmff8	Jugula
-ccmpf8	Jugula
-ccnfe8	Horncher
-ccode8	Tyrancha
-ccopf8	Tyrancha
-ccpfe8	Yetin
-ccpff8	Yetin
-ccpjf7	Yetin
-cdald8	Cute
-cdapf8	Cute
-cdbfe7	Gibbai
-cdbfe8	Gibbai
-cdbff8	Gibbai
-cdbje5	Gibbai
-cdbje8	Gibbai
-cdcdd7	Frahar
-cdcde4	Frahar
-cdcde5	Frahar
-cdcde8	Frahar
-cdcdf8	Frahar
-chafe5	Arma
-chajf8	Arma
-chajf5	Arma
-chbfb7	Bodoc
-chbfb8	Bodoc
-chblc5	Bodoc
-chcjd5	Capryni
-chdlb8	Yubo
-chelc8	Cray
-cheld5	Cray
-chfjd8	Messab
-chflb7	Messab
-chgde5	Lumper
-chgpf8	Lumper
-chhdd5	Mektoub
-chhfc8	Mektoub
-chhpf8	Mektoub
-chidb2	Mektoub Mount
-chifb2	Mektoub Mount
-chijb2	Mektoub Mount
-chilb2	Mektoub Mount
-chkde5	Timari
-chkdf4	Timari
-chkjd7	Timari
-chldb8	Yelk
-chldf4	Yelk
-chldf5	Yelk
-chldf7	Yelk
-chlfe5	Yelk
-chlfe7	Yelk
-chlfe8	Yelk
-chlle1	Yelk
-chlle2	Yelk
-chlle3	Yelk
-chlle4	Yelk
-chmdd5	Raspal
-chmdd7	Raspal
-chnfd5	Bawaab
-chnfd8	Bawaab
-chnjc7	Bawaab
-chpdc5	Frippo
-chpdc8	Frippo
-chpfd8	Frippo
-chqfe5	Gnoof
-chqfe7	Gnoof
-chqfe8	Gnoof
-chrfe5	Bolobi
-chrfe7	Bolobi
-chsdf5	Shalah
-chtde7	Ploderos
-chtfe8	Ploderos
-chtjf5	Ploderos
-chtjf8	Ploderos
-chuje5	Wombai
-chvff5	Madakam
-chvje7	Madakam
-chvje8	Madakam
-chwde5	Arana
-chwde7	Arana
-chwff7	Arana
-chxjf7	Gubani
-chxjf8	Gubani
-chxpf8	Gubani
-ckadf4	Kidinak
-ckbde8	Kinrey
-ckbdf4	Kinrey
-ckbff4	Kinrey
-ckcdf4	Kizarak
-ckcff4	Kizarak
-ckcjf4	Kizarak
-ckddd1	Kincher
-ckddd2	Kincher
-ckddd3	Kincher
-ckddd4	Kincher
-ckddd8	Kincher
-ckdde1	Kincher
-ckdde2	Kincher
-ckdde3	Kincher
-ckdde4	Kincher
-ckdde5	Kincher
-ckdde8	Kincher
-ckddf1	Kincher
-ckddf2	Kincher
-ckddf3	Kincher
-ckddf4	Kincher
-ckddf7	Kincher
-ckdfd8	Kincher
-ckdfe5	Kincher
-ckdfe7	Kincher
-ckdfe8	Kincher
-ckdjd7	Kincher
-ckdjd8	Kincher
-ckdje7	Kincher
-ckdjf4	Kincher
-ckdld7	Kincher
-ckdld8	Kincher
-ckdpf8	Kincher
-ckede5	Kipuka
-ckede7	Kipuka
-ckedf5	Kipuka
-ckedf8	Kipuka
-ckefe8	Kipuka
-ckeff4	Kipuka
-ckeje5	Kipuka
-ckeje7	Kipuka
-ckeje8	Kipuka
-ckepf8	Kipuka
-ckfdf4	Kirosta
-ckfje5	Kirosta
-ckfje7	Kirosta
-ckfjf4	Kirosta
-ckfpf8	Kirosta
-ckgdd8	Kiban
-ckgdf8	Kiban
-ckgfe5	Kiban
-ckgff5	Kiban
-ckgje8	Kiban
-ckgpf8	Kiban
-ckhdd5	Kipee
-ckhdd7	Kipee
-ckhdd8	Kipee
-ckhdf4	Kipee
-ckhdf8	Kipee
-ckhfd7	Kipee
-ckhfe5	Kipee
-ckhfe8	Kipee
-ckhff4	Kipee
-ckhff6	Kipee
-ckhjb8	Kipee
-ckhje8	Kipee
-ckhjf4	Kipee
-ckhpf8	Kipee
-ckide5	Kizoar
-ckidf4	Kizoar
-ckifc8	Kizoar
-ckife5	Kizoar
-ckiff7	Kizoar
-ckiff8	Kizoar
-ckije5	Kizoar
-ckijf4	Kizoar
-ckipf8	Kizoar
-ckjde7	Kipesta
-ckjde8	Kipesta
-ckjfe5	Kipesta
-ckjjd8	Kipesta
-ckjje8	Kipesta
-ckjjf8	Kipesta
-ckjld7	Kipesta
-ckjpf8	Kipesta
-cpcfc7	Psykopla
-cpdff4	Slaveni
-cpefe7	Cratcha
-cpefe8	Cratcha
-cpejf4	Cratcha
-ckjdd8	Slayer Kipesta
-ckglf7	Kibakan
-cbbdd4	Carrion Izam
-cbbdd7	Izaketh
-cccdd4	Prowling Goari
-cccdd7	Goaketh
-chcdb7	Capryketh
-chidc2	Mektoub Mount
-chidd2	Mektoub Mount
-chide2	Mektoub Mount
-chidf2	Mektoub Mount
-chpde4	Violent Rendor
-chpde7	Rendoketh
-chsdf7	Shalaketh
-ckhdf7	Kipeeketh
-cpfdf4	Devastating Shooki
-cpfdf7	Shooketh
-ccafe7	Ginketh
-cceff4	Great Ragus
-cceff7	Raguketh
-chifc2	Mektoub Mount
-chifd2	Mektoub Mount	
-chife2	Mektoub Mount	
-chiff2	Mektoub Mount	
-chpfd7	Rendokin	
-chvfe4	Violent Madakam	
-chvfe7	Madaketh	
-shooter_mektoub_packer	Shooter Packer	
-choge6	Frippo Corruptor	
-cbarb1	<GEN>cbarb1	r
-cbarb2	<GEN>cbarb2	r
-cbarb3	<GEN>cbarb3	r
-cbarb4	<GEN>cbarb4	r
-cbarc1	<GEN>cbarc1	r
-cbarc2	<GEN>cbarc2	r
-cbarc3	<GEN>cbarc3	r
-cbarc4	<GEN>cbarc4	r
-cbard1	<GEN>cbard1	r
-cbard2	<GEN>cbard2	r
-cbard3	<GEN>cbard3	r
-cbard4	<GEN>cbard4	r
-cbare1	<GEN>cbare1	r
-cbare2	<GEN>cbare2	r
-cbare3	<GEN>cbare3	r
-cbare4	<GEN>cbare4	r
-cbarf1	<GEN>cbarf1	r
-cbarf2	<GEN>cbarf2	r
-cbarf3	<GEN>cbarf3	r
-cbarf4	<GEN>cbarf4	r
-cbcrb1	<GEN>cbcrb1	r
-cbcrb2	<GEN>cbcrb2	r
-cbcrb3	<GEN>cbcrb3	r
-cbcrb4	<GEN>cbcrb4	r
-cbcrc1	<GEN>cbcrc1	r
-cbcrc2	<GEN>cbcrc2	r
-cbcrc3	<GEN>cbcrc3	r
-cbcrc4	<GEN>cbcrc4	r
-cbcrd1	<GEN>cbcrd1	r
-cbcrd2	<GEN>cbcrd2	r
-cbcrd3	<GEN>cbcrd3	r
-cbcrd4	<GEN>cbcrd4	r
-cbcre1	<GEN>cbcre1	r
-cbcre2	<GEN>cbcre2	r
-cbcre3	<GEN>cbcre3	r
-cbcre4	<GEN>cbcre4	r
-cbcrf1	<GEN>cbcrf1	r
-cbcrf2	<GEN>cbcrf2	r
-cbcrf3	<GEN>cbcrf3	r
-cbcrf4	<GEN>cbcrf4	r
-ccaib1	<GEN>ccaib1	i
-ccaib2	<GEN>ccaib2	i
-ccaib3	<GEN>ccaib3	i
-ccaib4	<GEN>ccaib4	i
-ccaic1	<GEN>ccaic1	i
-ccaic2	<GEN>ccaic2	i
-ccaic3	<GEN>ccaic3	i
-ccaic4	<GEN>ccaic4	i
-ccaid1	<GEN>ccaid1	i
-ccaid2	<GEN>ccaid2	i
-ccaid3	<GEN>ccaid3	i
-ccaid4	<GEN>ccaid4	i
-ccaie1	<GEN>ccaie1	i
-ccaie2	<GEN>ccaie2	i
-ccaie3	<GEN>ccaie3	i
-ccaie4	<GEN>ccaie4	i
-ccaif1	<GEN>ccaif1	i
-ccaif2	<GEN>ccaif2	i
-ccaif3	<GEN>ccaif3	i
-ccaif4	<GEN>ccaif4	i
-ccarb1	<GEN>ccarb1	r
-ccarb2	<GEN>ccarb2	r
-ccarb3	<GEN>ccarb3	r
-ccarb4	<GEN>ccarb4	r
-ccarc1	<GEN>ccarc1	r
-ccarc2	<GEN>ccarc2	r
-ccarc3	<GEN>ccarc3	r
-ccarc4	<GEN>ccarc4	r
-ccard1	<GEN>ccard1	r
-ccard2	<GEN>ccard2	r
-ccard3	<GEN>ccard3	r
-ccard4	<GEN>ccard4	r
-ccare1	<GEN>ccare1	r
-ccare2	<GEN>ccare2	r
-ccare3	<GEN>ccare3	r
-ccare4	<GEN>ccare4	r
-ccarf1	<GEN>ccarf1	r
-ccarf2	<GEN>ccarf2	r
-ccarf3	<GEN>ccarf3	r
-ccarf4	<GEN>ccarf4	r
-ccbrb1	<GEN>ccbrb1	r
-ccbrb2	<GEN>ccbrb2	r
-ccbrb3	<GEN>ccbrb3	r
-ccbrb4	<GEN>ccbrb4	r
-ccbrc1	<GEN>ccbrc1	r
-ccbrc2	<GEN>ccbrc2	r
-ccbrc3	<GEN>ccbrc3	r
-ccbrc4	<GEN>ccbrc4	r
-ccbrd1	<GEN>ccbrd1	r
-ccbrd2	<GEN>ccbrd2	r
-ccbrd3	<GEN>ccbrd3	r
-ccbrd4	<GEN>ccbrd4	r
-ccbre1	<GEN>ccbre1	r
-ccbre2	<GEN>ccbre2	r
-ccbre3	<GEN>ccbre3	r
-ccbre4	<GEN>ccbre4	r
-ccbrf1	<GEN>ccbrf1	r
-ccbrf2	<GEN>ccbrf2	r
-ccbrf3	<GEN>ccbrf3	r
-ccbrf4	<GEN>ccbrf4	r
-cccrb1	<GEN>cccrb1	r
-cccrb2	<GEN>cccrb2	r
-cccrb3	<GEN>cccrb3	r
-cccrb4	<GEN>cccrb4	r
-cccrc1	<GEN>cccrc1	r
-cccrc2	<GEN>cccrc2	r
-cccrc3	<GEN>cccrc3	r
-cccrc4	<GEN>cccrc4	r
-cccrd1	<GEN>cccrd1	r
-cccrd2	<GEN>cccrd2	r
-cccrd3	<GEN>cccrd3	r
-cccrd4	<GEN>cccrd4	r
-cccre1	<GEN>cccre1	r
-cccre2	<GEN>cccre2	r
-cccre3	<GEN>cccre3	r
-cccre4	<GEN>cccre4	r
-cccrf1	<GEN>cccrf1	r
-cccrf2	<GEN>cccrf2	r
-cccrf3	<GEN>cccrf3	r
-cccrf4	<GEN>cccrf4	r
-ccdrb1	<GEN>ccdrb1	r
-ccdrb2	<GEN>ccdrb2	r
-ccdrb3	<GEN>ccdrb3	r
-ccdrb4	<GEN>ccdrb4	r
-ccdrc1	<GEN>ccdrc1	r
-ccdrc2	<GEN>ccdrc2	r
-ccdrc3	<GEN>ccdrc3	r
-ccdrc4	<GEN>ccdrc4	r
-ccdrd1	<GEN>ccdrd1	r
-ccdrd2	<GEN>ccdrd2	r
-ccdrd3	<GEN>ccdrd3	r
-ccdrd4	<GEN>ccdrd4	r
-ccdre1	<GEN>ccdre1	r
-ccdre2	<GEN>ccdre2	r
-ccdre3	<GEN>ccdre3	r
-ccdre4	<GEN>ccdre4	r
-ccdrf1	<GEN>ccdrf1	r
-ccdrf2	<GEN>ccdrf2	r
-ccdrf3	<GEN>ccdrf3	r
-ccdrf4	<GEN>ccdrf4	r
-ccerb1	<GEN>ccerb1	r
-ccerb2	<GEN>ccerb2	r
-ccerb3	<GEN>ccerb3	r
-ccerb4	<GEN>ccerb4	r
-ccerc1	<GEN>ccerc1	r
-ccerc2	<GEN>ccerc2	r
-ccerc3	<GEN>ccerc3	r
-ccerc4	<GEN>ccerc4	r
-ccerd1	<GEN>ccerd1	r
-ccerd2	<GEN>ccerd2	r
-ccerd3	<GEN>ccerd3	r
-ccerd4	<GEN>ccerd4	r
-ccere1	<GEN>ccere1	r
-ccere2	<GEN>ccere2	r
-ccere3	<GEN>ccere3	r
-ccere4	<GEN>ccere4	r
-ccerf1	<GEN>ccerf1	r
-ccerf2	<GEN>ccerf2	r
-ccerf3	<GEN>ccerf3	r
-ccerf4	<GEN>ccerf4	r
-ccfrb1	<GEN>ccfrb1	r
-ccfrb2	<GEN>ccfrb2	r
-ccfrb3	<GEN>ccfrb3	r
-ccfrb4	<GEN>ccfrb4	r
-ccfrc1	<GEN>ccfrc1	r
-ccfrc2	<GEN>ccfrc2	r
-ccfrc3	<GEN>ccfrc3	r
-ccfrc4	<GEN>ccfrc4	r
-ccfrd1	<GEN>ccfrd1	r
-ccfrd2	<GEN>ccfrd2	r
-ccfrd3	<GEN>ccfrd3	r
-ccfrd4	<GEN>ccfrd4	r
-ccfre1	<GEN>ccfre1	r
-ccfre2	<GEN>ccfre2	r
-ccfre3	<GEN>ccfre3	r
-ccfre4	<GEN>ccfre4	r
-ccfrf1	<GEN>ccfrf1	r
-ccfrf2	<GEN>ccfrf2	r
-ccfrf3	<GEN>ccfrf3	r
-ccfrf4	<GEN>ccfrf4	r
-ccgrf1	<GEN>ccgrf1	r
-ccgrf2	<GEN>ccgrf2	r
-ccgrf3	<GEN>ccgrf3	r
-ccgrf4	<GEN>ccgrf4	r
-cchrb1	<GEN>cchrb1	r
-cchrb2	<GEN>cchrb2	r
-cchrb3	<GEN>cchrb3	r
-cchrb4	<GEN>cchrb4	r
-cchrc1	<GEN>cchrc1	r
-cchrc2	<GEN>cchrc2	r
-cchrc3	<GEN>cchrc3	r
-cchrc4	<GEN>cchrc4	r
-cchrd1	<GEN>cchrd1	r
-cchrd2	<GEN>cchrd2	r
-cchrd3	<GEN>cchrd3	r
-cchrd4	<GEN>cchrd4	r
-cchre1	<GEN>cchre1	r
-cchre2	<GEN>cchre2	r
-cchre3	<GEN>cchre3	r
-cchre4	<GEN>cchre4	r
-cchrf1	<GEN>cchrf1	r
-cchrf2	<GEN>cchrf2	r
-cchrf3	<GEN>cchrf3	r
-cchrf4	<GEN>cchrf4	r
-ccmrb1	<GEN>ccmrb1	r
-ccmrb2	<GEN>ccmrb2	r
-ccmrb3	<GEN>ccmrb3	r
-ccmrb4	<GEN>ccmrb4	r
-ccmrc1	<GEN>ccmrc1	r
-ccmrc2	<GEN>ccmrc2	r
-ccmrc3	<GEN>ccmrc3	r
-ccmrc4	<GEN>ccmrc4	r
-ccmrd1	<GEN>ccmrd1	r
-ccmrd2	<GEN>ccmrd2	r
-ccmrd3	<GEN>ccmrd3	r
-ccmrd4	<GEN>ccmrd4	r
-ccmre1	<GEN>ccmre1	r
-ccmre2	<GEN>ccmre2	r
-ccmre3	<GEN>ccmre3	r
-ccmre4	<GEN>ccmre4	r
-ccmrf1	<GEN>ccmrf1	r
-ccmrf2	<GEN>ccmrf2	r
-ccmrf3	<GEN>ccmrf3	r
-ccmrf4	<GEN>ccmrf4	r
-ccnib1	<GEN>ccnib1	i
-ccnib2	<GEN>ccnib2	i
-ccnib3	<GEN>ccnib3	i
-ccnib4	<GEN>ccnib4	i
-ccnic1	<GEN>ccnic1	i
-ccnic2	<GEN>ccnic2	i
-ccnic3	<GEN>ccnic3	i
-ccnic4	<GEN>ccnic4	i
-ccnid1	<GEN>ccnid1	i
-ccnid2	<GEN>ccnid2	i
-ccnid3	<GEN>ccnid3	i
-ccnid4	<GEN>ccnid4	i
-ccnie1	<GEN>ccnie1	i
-ccnie2	<GEN>ccnie2	i
-ccnie3	<GEN>ccnie3	i
-ccnie4	<GEN>ccnie4	i
-ccnif1	<GEN>ccnif1	i
-ccnif2	<GEN>ccnif2	i
-ccnif3	<GEN>ccnif3	i
-ccnif4	<GEN>ccnif4	i
-cdarb1	<GEN>cdarb1	r
-cdarb2	<GEN>cdarb2	r
-cdarb3	<GEN>cdarb3	r
-cdarb4	<GEN>cdarb4	r
-cdarc1	<GEN>cdarc1	r
-cdarc2	<GEN>cdarc2	r
-cdarc3	<GEN>cdarc3	r
-cdarc4	<GEN>cdarc4	r
-cdard1	<GEN>cdard1	r
-cdard2	<GEN>cdard2	r
-cdard3	<GEN>cdard3	r
-cdard4	<GEN>cdard4	r
-cdare1	<GEN>cdare1	r
-cdare2	<GEN>cdare2	r
-cdare3	<GEN>cdare3	r
-cdare4	<GEN>cdare4	r
-cdarf1	<GEN>cdarf1	r
-cdarf2	<GEN>cdarf2	r
-cdarf3	<GEN>cdarf3	r
-cdarf4	<GEN>cdarf4	r
-cdbrb1	<GEN>cdbrb1	r
-cdbrb2	<GEN>cdbrb2	r
-cdbrb3	<GEN>cdbrb3	r
-cdbrb4	<GEN>cdbrb4	r
-cdbrc1	<GEN>cdbrc1	r
-cdbrc2	<GEN>cdbrc2	r
-cdbrc3	<GEN>cdbrc3	r
-cdbrc4	<GEN>cdbrc4	r
-cdbrd1	<GEN>cdbrd1	r
-cdbrd2	<GEN>cdbrd2	r
-cdbrd3	<GEN>cdbrd3	r
-cdbrd4	<GEN>cdbrd4	r
-cdbre1	<GEN>cdbre1	r
-cdbre2	<GEN>cdbre2	r
-cdbre3	<GEN>cdbre3	r
-cdbre4	<GEN>cdbre4	r
-cdbrf1	<GEN>cdbrf1	r
-cdbrf2	<GEN>cdbrf2	r
-cdbrf3	<GEN>cdbrf3	r
-cdbrf4	<GEN>cdbrf4	r
-cdcrb1	<GEN>cdcrb1	r
-cdcrb2	<GEN>cdcrb2	r
-cdcrb3	<GEN>cdcrb3	r
-cdcrb4	<GEN>cdcrb4	r
-cdcrc1	<GEN>cdcrc1	r
-cdcrc2	<GEN>cdcrc2	r
-cdcrc3	<GEN>cdcrc3	r
-cdcrc4	<GEN>cdcrc4	r
-cdcrd1	<GEN>cdcrd1	r
-cdcrd2	<GEN>cdcrd2	r
-cdcrd3	<GEN>cdcrd3	r
-cdcrd4	<GEN>cdcrd4	r
-cdcre1	<GEN>cdcre1	r
-cdcre2	<GEN>cdcre2	r
-cdcre3	<GEN>cdcre3	r
-cdcre4	<GEN>cdcre4	r
-cdcrf1	<GEN>cdcrf1	r
-cdcrf2	<GEN>cdcrf2	r
-cdcrf3	<GEN>cdcrf3	r
-cdcrf4	<GEN>cdcrf4	r
-chdib1	<GEN>chdib1	i
-chdib2	<GEN>chdib2	i
-chdib3	<GEN>chdib3	i
-chdib4	<GEN>chdib4	i
-chdib7	<GEN>chdib7	i
-cherb1	<GEN>cherb1	r
-cherb2	<GEN>cherb2	r
-cherb3	<GEN>cherb3	r
-cherb4	<GEN>cherb4	r
-cherc1	<GEN>cherc1	r
-cherc2	<GEN>cherc2	r
-cherc3	<GEN>cherc3	r
-cherc4	<GEN>cherc4	r
-cherc6	<GEN>cherc6	r
-cherd1	<GEN>cherd1	r
-cherd2	<GEN>cherd2	r
-cherd3	<GEN>cherd3	r
-cherd4	<GEN>cherd4	r
-chere1	<GEN>chere1	r
-chere2	<GEN>chere2	r
-chere3	<GEN>chere3	r
-chere4	<GEN>chere4	r
-cherf1	<GEN>cherf1	r
-cherf2	<GEN>cherf2	r
-cherf3	<GEN>cherf3	r
-cherf4	<GEN>cherf4	r
-chfrb1	<GEN>chfrb1	r
-chfrb2	<GEN>chfrb2	r
-chfrb3	<GEN>chfrb3	r
-chfrb4	<GEN>chfrb4	r
-chfrc1	<GEN>chfrc1	r
-chfrc2	<GEN>chfrc2	r
-chfrc3	<GEN>chfrc3	r
-chfrc4	<GEN>chfrc4	r
-chfrd1	<GEN>chfrd1	r
-chfrd2	<GEN>chfrd2	r
-chfrd3	<GEN>chfrd3	r
-chfrd4	<GEN>chfrd4	r
-chfre1	<GEN>chfre1	r
-chfre2	<GEN>chfre2	r
-chfre3	<GEN>chfre3	r
-chfre4	<GEN>chfre4	r
-chfrf1	<GEN>chfrf1	r
-chfrf2	<GEN>chfrf2	r
-chfrf3	<GEN>chfrf3	r
-chfrf4	<GEN>chfrf4	r
-chgrb1	<GEN>chgrb1	r
-chgrb2	<GEN>chgrb2	r
-chgrb3	<GEN>chgrb3	r
-chgrb4	<GEN>chgrb4	r
-chgrc1	<GEN>chgrc1	r
-chgrc2	<GEN>chgrc2	r
-chgrc3	<GEN>chgrc3	r
-chgrc4	<GEN>chgrc4	r
-chgrd1	<GEN>chgrd1	r
-chgrd2	<GEN>chgrd2	r
-chgrd3	<GEN>chgrd3	r
-chgrd4	<GEN>chgrd4	r
-chgre1	<GEN>chgre1	r
-chgre2	<GEN>chgre2	r
-chgre3	<GEN>chgre3	r
-chgre4	<GEN>chgre4	r
-chgrf1	<GEN>chgrf1	r
-chgrf2	<GEN>chgrf2	r
-chgrf3	<GEN>chgrf3	r
-chgrf4	<GEN>chgrf4	r
-chkrb1	<GEN>chkrb1	r
-chkrb2	<GEN>chkrb2	r
-chkrb3	<GEN>chkrb3	r
-chkrb4	<GEN>chkrb4	r
-chkrc1	<GEN>chkrc1	r
-chkrc2	<GEN>chkrc2	r
-chkrc3	<GEN>chkrc3	r
-chkrc4	<GEN>chkrc4	r
-chkrd1	<GEN>chkrd1	r
-chkrd2	<GEN>chkrd2	r
-chkrd3	<GEN>chkrd3	r
-chkrd4	<GEN>chkrd4	r
-chkre1	<GEN>chkre1	r
-chkre2	<GEN>chkre2	r
-chkre3	<GEN>chkre3	r
-chkre4	<GEN>chkre4	r
-chkrf1	<GEN>chkrf1	r
-chkrf2	<GEN>chkrf2	r
-chkrf3	<GEN>chkrf3	r
-chkrf4	<GEN>chkrf4	r
-chlrb1	<GEN>chlrb1	r
-chlrb2	<GEN>chlrb2	r
-chlrb3	<GEN>chlrb3	r
-chlrb4	<GEN>chlrb4	r
-chlrc1	<GEN>chlrc1	r
-chlrc2	<GEN>chlrc2	r
-chlrc3	<GEN>chlrc3	r
-chlrc4	<GEN>chlrc4	r
-chlrd1	<GEN>chlrd1	r
-chlrd2	<GEN>chlrd2	r
-chlrd3	<GEN>chlrd3	r
-chlrd4	<GEN>chlrd4	r
-chlre1	<GEN>chlre1	r
-chlre2	<GEN>chlre2	r
-chlre3	<GEN>chlre3	r
-chlre4	<GEN>chlre4	r
-chlrf1	<GEN>chlrf1	r
-chlrf2	<GEN>chlrf2	r
-chlrf3	<GEN>chlrf3	r
-chlrf4	<GEN>chlrf4	r
-chorb1	<GEN>chorb1	r
-chorb2	<GEN>chorb2	r
-chorb3	<GEN>chorb3	r
-chorb4	<GEN>chorb4	r
-chorc1	<GEN>chorc1	r
-chorc2	<GEN>chorc2	r
-chorc3	<GEN>chorc3	r
-chorc4	<GEN>chorc4	r
-chord1	<GEN>chord1	r
-chord2	<GEN>chord2	r
-chord3	<GEN>chord3	r
-chord4	<GEN>chord4	r
-chore1	<GEN>chore1	r
-chore2	<GEN>chore2	r
-chore3	<GEN>chore3	r
-chore4	<GEN>chore4	r
-chorf1	<GEN>chorf1	r
-chorf2	<GEN>chorf2	r
-chorf3	<GEN>chorf3	r
-chorf4	<GEN>chorf4	r
-ckarb1	<GEN>ckarb1	r
-ckarb2	<GEN>ckarb2	r
-ckarb3	<GEN>ckarb3	r
-ckarb4	<GEN>ckarb4	r
-ckarc1	<GEN>ckarc1	r
-ckarc2	<GEN>ckarc2	r
-ckarc3	<GEN>ckarc3	r
-ckarc4	<GEN>ckarc4	r
-ckard1	<GEN>ckard1	r
-ckard2	<GEN>ckard2	r
-ckard3	<GEN>ckard3	r
-ckard4	<GEN>ckard4	r
-ckare1	<GEN>ckare1	r
-ckare2	<GEN>ckare2	r
-ckare3	<GEN>ckare3	r
-ckare4	<GEN>ckare4	r
-ckarf1	<GEN>ckarf1	r
-ckarf2	<GEN>ckarf2	r
-ckarf3	<GEN>ckarf3	r
-ckarf4	<GEN>ckarf4	r
-ckbrb1	<GEN>ckbrb1	r
-ckbrb2	<GEN>ckbrb2	r
-ckbrb3	<GEN>ckbrb3	r
-ckbrb4	<GEN>ckbrb4	r
-ckbrc1	<GEN>ckbrc1	r
-ckbrc2	<GEN>ckbrc2	r
-ckbrc3	<GEN>ckbrc3	r
-ckbrc4	<GEN>ckbrc4	r
-ckbrd1	<GEN>ckbrd1	r
-ckbrd2	<GEN>ckbrd2	r
-ckbrd3	<GEN>ckbrd3	r
-ckbrd4	<GEN>ckbrd4	r
-ckbre1	<GEN>ckbre1	r
-ckbre2	<GEN>ckbre2	r
-ckbre3	<GEN>ckbre3	r
-ckbre4	<GEN>ckbre4	r
-ckbrf1	<GEN>ckbrf1	r
-ckbrf2	<GEN>ckbrf2	r
-ckbrf3	<GEN>ckbrf3	r
-ckbrf4	<GEN>ckbrf4	r
-ckcrb1	<GEN>ckcrb1	r
-ckcrb2	<GEN>ckcrb2	r
-ckcrb3	<GEN>ckcrb3	r
-ckcrb4	<GEN>ckcrb4	r
-ckcrc1	<GEN>ckcrc1	r
-ckcrc2	<GEN>ckcrc2	r
-ckcrc3	<GEN>ckcrc3	r
-ckcrc4	<GEN>ckcrc4	r
-ckcrd1	<GEN>ckcrd1	r
-ckcrd2	<GEN>ckcrd2	r
-ckcrd3	<GEN>ckcrd3	r
-ckcrd4	<GEN>ckcrd4	r
-ckcre1	<GEN>ckcre1	r
-ckcre2	<GEN>ckcre2	r
-ckcre3	<GEN>ckcre3	r
-ckcre4	<GEN>ckcre4	r
-ckcrf1	<GEN>ckcrf1	r
-ckcrf2	<GEN>ckcrf2	r
-ckcrf3	<GEN>ckcrf3	r
-ckcrf4	<GEN>ckcrf4	r
-ckdrb1	<GEN>ckdrb1	r
-ckdrb2	<GEN>ckdrb2	r
-ckdrb3	<GEN>ckdrb3	r
-ckdrb4	<GEN>ckdrb4	r
-ckdrc1	<GEN>ckdrc1	r
-ckdrc2	<GEN>ckdrc2	r
-ckdrc3	<GEN>ckdrc3	r
-ckdrc4	<GEN>ckdrc4	r
-ckdrd1	<GEN>ckdrd1	r
-ckdrd2	<GEN>ckdrd2	r
-ckdrd3	<GEN>ckdrd3	r
-ckdrd4	<GEN>ckdrd4	r
-ckdre1	<GEN>ckdre1	r
-ckdre2	<GEN>ckdre2	r
-ckdre3	<GEN>ckdre3	r
-ckdre4	<GEN>ckdre4	r
-ckdrf1	<GEN>ckdrf1	r
-ckdrf2	<GEN>ckdrf2	r
-ckdrf3	<GEN>ckdrf3	r
-ckdrf4	<GEN>ckdrf4	r
-ckerb1	<GEN>ckerb1	r
-ckerb2	<GEN>ckerb2	r
-ckerb3	<GEN>ckerb3	r
-ckerb4	<GEN>ckerb4	r
-ckerc1	<GEN>ckerc1	r
-ckerc2	<GEN>ckerc2	r
-ckerc3	<GEN>ckerc3	r
-ckerc4	<GEN>ckerc4	r
-ckerd1	<GEN>ckerd1	r
-ckerd2	<GEN>ckerd2	r
-ckerd3	<GEN>ckerd3	r
-ckerd4	<GEN>ckerd4	r
-ckere1	<GEN>ckere1	r
-ckere2	<GEN>ckere2	r
-ckere3	<GEN>ckere3	r
-ckere4	<GEN>ckere4	r
-ckerf1	<GEN>ckerf1	r
-ckerf2	<GEN>ckerf2	r
-ckerf3	<GEN>ckerf3	r
-ckerf4	<GEN>ckerf4	r
-ckgrb1	<GEN>ckgrb1	r
-ckgrb2	<GEN>ckgrb2	r
-ckgrb3	<GEN>ckgrb3	r
-ckgrb4	<GEN>ckgrb4	r
-ckgrc1	<GEN>ckgrc1	r
-ckgrc2	<GEN>ckgrc2	r
-ckgrc3	<GEN>ckgrc3	r
-ckgrc4	<GEN>ckgrc4	r
-ckgrd1	<GEN>ckgrd1	r
-ckgrd2	<GEN>ckgrd2	r
-ckgrd3	<GEN>ckgrd3	r
-ckgrd4	<GEN>ckgrd4	r
-ckgre1	<GEN>ckgre1	r
-ckgre2	<GEN>ckgre2	r
-ckgre3	<GEN>ckgre3	r
-ckgre4	<GEN>ckgre4	r
-ckgrf1	<GEN>ckgrf1	r
-ckgrf2	<GEN>ckgrf2	r
-ckgrf3	<GEN>ckgrf3	r
-ckgrf4	<GEN>ckgrf4	r
-ckirb1	<GEN>ckirb1	r
-ckirb2	<GEN>ckirb2	r
-ckirb3	<GEN>ckirb3	r
-ckirb4	<GEN>ckirb4	r
-ckirc1	<GEN>ckirc1	r
-ckirc2	<GEN>ckirc2	r
-ckirc3	<GEN>ckirc3	r
-ckirc4	<GEN>ckirc4	r
-ckird1	<GEN>ckird1	r
-ckird2	<GEN>ckird2	r
-ckird3	<GEN>ckird3	r
-ckird4	<GEN>ckird4	r
-ckire1	<GEN>ckire1	r
-ckire2	<GEN>ckire2	r
-ckire3	<GEN>ckire3	r
-ckire4	<GEN>ckire4	r
-ckirf1	<GEN>ckirf1	r
-ckirf2	<GEN>ckirf2	r
-ckirf3	<GEN>ckirf3	r
-ckirf4	<GEN>ckirf4	r
-ckjrb1	<GEN>ckjrb1	r
-ckjrb2	<GEN>ckjrb2	r
-ckjrb3	<GEN>ckjrb3	r
-ckjrb4	<GEN>ckjrb4	r
-ckjrc1	<GEN>ckjrc1	r
-ckjrc2	<GEN>ckjrc2	r
-ckjrc3	<GEN>ckjrc3	r
-ckjrc4	<GEN>ckjrc4	r
-ckjrd1	<GEN>ckjrd1	r
-ckjrd2	<GEN>ckjrd2	r
-ckjrd3	<GEN>ckjrd3	r
-ckjrd4	<GEN>ckjrd4	r
-ckjre1	<GEN>ckjre1	r
-ckjre2	<GEN>ckjre2	r
-ckjre3	<GEN>ckjre3	r
-ckjre4	<GEN>ckjre4	r
-ckjrf1	<GEN>ckjrf1	r
-ckjrf2	<GEN>ckjrf2	r
-ckjrf3	<GEN>ckjrf3	r
-ckjrf4	<GEN>ckjrf4	r
-cparb1	<GEN>cparb1	r
-cparb2	<GEN>cparb2	r
-cparb3	<GEN>cparb3	r
-cparb4	<GEN>cparb4	r
-cparc1	<GEN>cparc1	r
-cparc2	<GEN>cparc2	r
-cparc3	<GEN>cparc3	r
-cparc4	<GEN>cparc4	r
-cpard1	<GEN>cpard1	r
-cpard2	<GEN>cpard2	r
-cpard3	<GEN>cpard3	r
-cpard4	<GEN>cpard4	r
-cpare1	<GEN>cpare1	r
-cpare2	<GEN>cpare2	r
-cpare3	<GEN>cpare3	r
-cpare4	<GEN>cpare4	r
-cparf1	<GEN>cparf1	r
-cparf2	<GEN>cparf2	r
-cparf3	<GEN>cparf3	r
-cparf4	<GEN>cparf4	r
-cpbrb1	<GEN>cpbrb1	r
-cpbrb2	<GEN>cpbrb2	r
-cpbrb3	<GEN>cpbrb3	r
-cpbrb4	<GEN>cpbrb4	r
-cpbrc1	<GEN>cpbrc1	r
-cpbrc2	<GEN>cpbrc2	r
-cpbrc3	<GEN>cpbrc3	r
-cpbrc4	<GEN>cpbrc4	r
-cpbrd1	<GEN>cpbrd1	r
-cpbrd2	<GEN>cpbrd2	r
-cpbrd3	<GEN>cpbrd3	r
-cpbrd4	<GEN>cpbrd4	r
-cpbre1	<GEN>cpbre1	r
-cpbre2	<GEN>cpbre2	r
-cpbre3	<GEN>cpbre3	r
-cpbre4	<GEN>cpbre4	r
-cpbrf1	<GEN>cpbrf1	r
-cpbrf2	<GEN>cpbrf2	r
-cpbrf3	<GEN>cpbrf3	r
-cpbrf4	<GEN>cpbrf4	r
-cpcrb1	<GEN>cpcrb1	r
-cpcrb2	<GEN>cpcrb2	r
-cpcrb3	<GEN>cpcrb3	r
-cpcrb4	<GEN>cpcrb4	r
-cpcrc1	<GEN>cpcrc1	r
-cpcrc2	<GEN>cpcrc2	r
-cpcrc3	<GEN>cpcrc3	r
-cpcrc4	<GEN>cpcrc4	r
-cpcrd1	<GEN>cpcrd1	r
-cpcrd2	<GEN>cpcrd2	r
-cpcrd3	<GEN>cpcrd3	r
-cpcrd4	<GEN>cpcrd4	r
-cpcre1	<GEN>cpcre1	r
-cpcre2	<GEN>cpcre2	r
-cpcre3	<GEN>cpcre3	r
-cpcre4	<GEN>cpcre4	r
-cpcrf1	<GEN>cpcrf1	r
-cpcrf2	<GEN>cpcrf2	r
-cpcrf3	<GEN>cpcrf3	r
-cpcrf4	<GEN>cpcrf4	r
-cpdrb1	<GEN>cpdrb1	r
-cpdrb2	<GEN>cpdrb2	r
-cpdrb3	<GEN>cpdrb3	r
-cpdrb4	<GEN>cpdrb4	r
-cpdrc1	<GEN>cpdrc1	r
-cpdrc2	<GEN>cpdrc2	r
-cpdrc3	<GEN>cpdrc3	r
-cpdrc4	<GEN>cpdrc4	r
-cpdrd1	<GEN>cpdrd1	r
-cpdrd2	<GEN>cpdrd2	r
-cpdrd3	<GEN>cpdrd3	r
-cpdrd4	<GEN>cpdrd4	r
-cpdre1	<GEN>cpdre1	r
-cpdre2	<GEN>cpdre2	r
-cpdre3	<GEN>cpdre3	r
-cpdre4	<GEN>cpdre4	r
-cpdrf1	<GEN>cpdrf1	r
-cpdrf2	<GEN>cpdrf2	r
-cpdrf3	<GEN>cpdrf3	r
-cpdrf4	<GEN>cpdrf4	r
-cperb1	<GEN>cperb1	r
-cperb2	<GEN>cperb2	r
-cperb3	<GEN>cperb3	r
-cperb4	<GEN>cperb4	r
-cperc1	<GEN>cperc1	r
-cperc2	<GEN>cperc2	r
-cperc3	<GEN>cperc3	r
-cperc4	<GEN>cperc4	r
-cperd1	<GEN>cperd1	r
-cperd2	<GEN>cperd2	r
-cperd3	<GEN>cperd3	r
-cperd4	<GEN>cperd4	r
-cpere1	<GEN>cpere1	r
-cpere2	<GEN>cpere2	r
-cpere3	<GEN>cpere3	r
-cpere4	<GEN>cpere4	r
-cperf1	<GEN>cperf1	r
-cperf2	<GEN>cperf2	r
-cperf3	<GEN>cperf3	r
-cperf4	<GEN>cperf4	r
-cpfrb1	<GEN>cpfrb1	r
-cpfrb2	<GEN>cpfrb2	r
-cpfrb3	<GEN>cpfrb3	r
-cpfrb4	<GEN>cpfrb4	r
-cpfrc1	<GEN>cpfrc1	r
-cpfrc2	<GEN>cpfrc2	r
-cpfrc3	<GEN>cpfrc3	r
-cpfrc4	<GEN>cpfrc4	r
-cpfrd1	<GEN>cpfrd1	r
-cpfrd2	<GEN>cpfrd2	r
-cpfrd3	<GEN>cpfrd3	r
-cpfrd4	<GEN>cpfrd4	r
-cpfre1	<GEN>cpfre1	r
-cpfre2	<GEN>cpfre2	r
-cpfre3	<GEN>cpfre3	r
-cpfre4	<GEN>cpfre4	r
-cpfrf1	<GEN>cpfrf1	r
-cpfrf2	<GEN>cpfrf2	r
-cpfrf3	<GEN>cpfrf3	r
-cpfrf4	<GEN>cpfrf4	r
-cbajb7	Igakya	
-ccfjd4	Prowling Najab	
-ccfjd7	Najakya
-cdbje7	Gibbakya
-chaje8	Demolisher Arma
-chijc2	Mektoub Mount
-chijd2	Mektoub Mount
-chije2	Mektoub Mount
-chijf2	Mektoub Mount
-chtjf7	Plodekya
-chuje7	Wombakya
-ckdje5	Named Kincher
-ckfjf7	Kirokya
-cpdje7	Slavekya
-cbclc7	Yberkan
-ccclf4	Great Goari
-ccclf7	Goakan
-chcld4	Scrounging Capryni
-chcld7	Caprykan
-chele7	Craykan
-chilc2	Mektoub Mount
-child2	Mektoub Mount
-chile2	Mektoub Mount
-chilf2	Mektoub Mount
-cpblf4	Devastating Stinga
-cpblf7	Stinkan
-cbbpe4	Rapacious Izam
-cbbpe7	Izakoo
-ccepf4	Great Ragus
-ccepf7	Rakoo
-ccfpe4	Huge Najab
-ccfpe7	Najakoo
-cchpe7	Varykoo
-ccipd7	Zerkoo
+ckele8	kitinagan							
+ccfle8	ryzerb							
+ckele7	kitinagan							
+cdale7	cute							
+chsle7	H7							
+chale7	arma							
+ccdle7	jungler							
+ccdlf4	jungler							
+ccflf4	ryzerb							
+ckhlf4	pucetron							
+ckblf4	kitihank							
+ckglf4	kitinokto							
+ccdlf5	jungler							
+ccflf5	ryzerb							
+chrlf5	H6							
+ckglf5	kitinokto							
+ccnlf8	C5							
+cdalf8	cute							
+ccflf8	ryzerb							
+chulf8	H9							
+ckflf8	kitinega							
+ccnlf7	C5							
+chulf7	H9							
+chgpd5	kakty							
+ckjpd5	kitikil							
+ccipd5	zerx							
+ckhpd5	pucetron							
+chbpd5	bul							
+cdapd5	cute							
+ckjpd8	kitikil							
+ccnpd8	C5							
+cdapd8	cute							
+ckipd8	ktifly							
+ccipd8	kitikil							
+ckdpd8	kitimandib							
+cpapd7	cephaloplant							
+ckdpd7	kitimandib							
+cdapd7	cute							
+ccnpd7	C5							
+chlpe5	vampignon							
+ckepe5	ktitinagan							
+ckdpe5	kitimandib							
+ckipe5	kitifly							
+ckfpe5	kitinega							
+ccope5	C6							
+cchpe5	varinx							
+chxpe5	H12							
+chape5	arma							
+chbpe5	bul							
+ckgpe5	kitinokto							
+ckipe8	kitifly							
+ckfpe8	kitinega							
+ccope8	C6							
+ckdpe8	kitimandib							
+chxpe8	H12							
+chape8	arma							
+cchpe8	varinx							
+ckgpe8	kitinokto							
+cdape8	cute							
+ckepe8	kitinagan							
+ccope7	C6							
+ckhpe7	pucetron							
+chlpe7	vampignon							
+ckfpe7	kitinega							
+chxpe7	H12							
+chlpf4	vampignon							
+chgpf4	kakty							
+cpapf4	cephaloplant							
+ckhpf4	pucetron							
+ckbpf4	kitihank							
+ckgpf4	kitinokto							
+ckapf4	diranak							
+ckepf4	kitinagan							
+ckjpf4	kitikil							
+ckipf4	kitifly							
+ckfpf6	kitinega							
+chhpf5	mektoub							
+chlpf5	vampignon							
+chgpf5	kakty							
+ccmpf5	C4							
+ccopf5	C6							
+ccgpf5	ryzoholok							
+ckhpf5	pucetron							
+ckgpf5	kitinokto							
+ckepf5	kitinagan							
+ckjpf5	kitikil							
+ckipf5	kitifly							
+ckfpf5	kitinega							
+ckdpf5	kitimandib							
+chxpf6	H12							
+cdapf6	cute							
+ccgpf7	ryzoholok							
+ccmpf7	C4							
+ccopf7	C6							
+ckdpf7	kitimandib							
+chgpf7	kakty							
+ckfpf7	kitinega							
+ckipf7	kitifly							
+ckepf7	kitinega							
+ckgpf7	kitinokto							
+cpapf7	cephaloplant							
+chlpf7	vampignon							
+chhpf7	mektoub							
+chfgc2	filin							
+ccdgc1	jungler							
+ccdgc2	jungler							
+ccdgc3	jungler							
+ccdgc4	jungler							
+chfgd1	filin							
+ccdgd1	jungler							
+ccdgd2	jungler							
+ccdgd3	jungler							
+ccdgd4	jungler							
+chfge4	filin							
+ccdge1	jungler							
+ccdge2	jungler							
+ccdge3	jungler							
+ccdge4	jungler							
+chegf4	estrasson							
+chfgf3	filin							
+chfgf4	filin							
+chkgf4	ryzoholo							
+chlgf4	vampignon							
+ccagf4	chonari							
+ccbgf4	cococlaw							
+ccdgf1	jungler							
+ccdgf2	jungler							
+ccdgf3	jungler							
+ccdgf4	jungler							
+ccegf4	regus							
+ccfgf4	ryzerb							
+ccggf4	ryzoholok							
+cbagf4	kazoar							
+cbcgf4	yber							
+cpagf4	cephaloplant							
+cpbgf4	electrolag							
+cpcgf4	phytopsy							
+cpdgf4	sap enslaver							
+cpfgf4	swarmplant							
+ckagf4	diranak							
+ckbgf4	kitihank							
+ckcgf4	kitiharak							
+ckdgf4	kitimandib							
+ckegf4	kitinagan							
+ckggf4	kitinokto							
+ckigf4	kitifly							
+ckjgf4	kitikil							
+cdagf4	cute							
+cdcgf4	frahar							
+cdbgf4	gibbai							
+ckaib1	diranak							
+ckaib2	diranak							
+ckaib3	diranak							
+ckaib4	diranak							
+ckbib1	kitihank							
+ckbib2	kitihank							
+ckbib3	kitihank							
+ckbib4	kitihank							
+ckcib1	kitiharak							
+ckcib2	kitiharak							
+ckcib3	kitiharak							
+ckcib4	kitiharak							
+ckdib1	kitimandib							
+ckdib2	kitimandib							
+ckdib3	kitimandib							
+ckdib4	kitimandib							
+ckeib1	kitinagan							
+ckeib2	kitinagan							
+ckeib3	kitinagan							
+ckeib4	kitinagan							
+ckfib1	kitinega							
+ckfib2	kitinega							
+ckfib3	kitinega							
+ckfib4	kitinega							
+ckfrb1	kitinega							
+ckfrb2	kitinega							
+ckfrb3	kitinega							
+ckfrb4	kitinega							
+ckgib1	kitinokto							
+ckgib2	kitinokto							
+ckgib3	kitinokto							
+ckgib4	kitinokto							
+ckhib1	pucetron							
+ckhib2	pucetron							
+ckhib3	pucetron							
+ckhib4	pucetron							
+ckiib1	kitifly							
+ckiib2	kitifly							
+ckiib3	kitifly							
+ckiib4	kitifly							
+ckjib1	kitikil							
+ckjib2	kitikil							
+ckjib3	kitikil							
+ckjib4	kitikil							
+ckbib5	kitihank							
+ckeib7	kitinagan							
+ckaic1	diranak							
+ckaic2	diranak							
+ckaic3	diranak							
+ckaic4	diranak							
+ckbic1	kitihank							
+ckbic2	kitihank							
+ckbic3	kitihank							
+ckbic4	kitihank							
+ckcic1	kitiharak							
+ckcic2	kitiharak							
+ckcic3	kitiharak							
+ckcic4	kitiharak							
+ckdic1	kitimandib							
+ckdic2	kitimandib							
+ckdic3	kitimandib							
+ckdic4	kitimandib							
+ckeic1	kitinagan							
+ckeic2	kitinagan							
+ckeic3	kitinagan							
+ckeic4	kitinagan							
+ckfic1	kitinega							
+ckfic2	kitinega							
+ckfic3	kitinega							
+ckfic4	kitinega							
+ckfrc1	kitinega							
+ckfrc2	kitinega							
+ckfrc3	kitinega							
+ckfrc4	kitinega							
+ckgic1	kitinokto							
+ckgic2	kitinokto							
+ckgic3	kitinokto							
+ckgic4	kitinokto							
+ckhic1	pucetron							
+ckhic2	pucetron							
+ckhic3	pucetron							
+ckhic4	pucetron							
+ckiic1	kitifly							
+ckiic2	kitifly							
+ckiic3	kitifly							
+ckiic4	kitifly							
+ckjic1	kitikil							
+ckjic2	kitikil							
+ckjic3	kitikil							
+ckjic4	kitikil							
+ckbic5	kitihank							
+ckeic7	kitinagan							
+ckaid1	diranak							
+ckaid2	diranak							
+ckaid3	diranak							
+ckaid4	diranak							
+ckbid1	kitihank							
+ckbid2	kitihank							
+ckbid3	kitihank							
+ckbid4	kitihank							
+ckcid1	kitiharak							
+ckcid2	kitiharak							
+ckcid3	kitiharak							
+ckcid4	kitiharak							
+ckdid1	kitimandib							
+ckdid2	kitimandib							
+ckdid3	kitimandib							
+ckdid4	kitimandib							
+ckeid1	kitinagan							
+ckeid2	kitinagan							
+ckeid3	kitinagan							
+ckeid4	kitinagan							
+ckfid1	kitinega							
+ckfid2	kitinega							
+ckfid3	kitinega							
+ckfid4	kitinega							
+ckfrd1	kitinega							
+ckfrd2	kitinega							
+ckfrd3	kitinega							
+ckfrd4	kitinega							
+ckgid1	kitinokto							
+ckgid2	kitinokto							
+ckgid3	kitinokto							
+ckgid4	kitinokto							
+ckhid1	pucetron							
+ckhid2	pucetron							
+ckhid3	pucetron							
+ckhid4	pucetron							
+ckiid1	kitifly							
+ckiid2	kitifly							
+ckiid3	kitifly							
+ckiid4	kitifly							
+ckjid1	kitikil							
+ckjid2	kitikil							
+ckjid3	kitikil							
+ckjid4	kitikil							
+ckbid5	kitihank							
+ckeid7	kitinagan							
+ckaie1	diranak							
+ckaie2	diranak							
+ckaie3	diranak							
+ckaie4	diranak							
+ckbie1	kitihank							
+ckbie2	kitihank							
+ckbie3	kitihank							
+ckbie4	kitihank							
+ckcie1	kitiharak							
+ckcie2	kitiharak							
+ckcie3	kitiharak							
+ckcie4	kitiharak							
+ckdie1	kitimandib							
+ckdie2	kitimandib							
+ckdie3	kitimandib							
+ckdie4	kitimandib							
+ckeie1	kitinagan							
+ckeie2	kitinagan							
+ckeie3	kitinagan							
+ckeie4	kitinagan							
+ckfie1	kitinega							
+ckfie2	kitinega							
+ckfie3	kitinega							
+ckfie4	kitinega							
+ckfre1	kitinega							
+ckfre2	kitinega							
+ckfre3	kitinega							
+ckfre4	kitinega							
+ckgie1	kitinokto							
+ckgie2	kitinokto							
+ckgie3	kitinokto							
+ckgie4	kitinokto							
+ckhie1	pucetron							
+ckhie2	pucetron							
+ckhie3	pucetron							
+ckhie4	pucetron							
+ckiie1	kitifly							
+ckiie2	kitifly							
+ckiie3	kitifly							
+ckiie4	kitifly							
+ckjie1	kitikil							
+ckjie2	kitikil							
+ckjie3	kitikil							
+ckjie4	kitikil							
+ckbie5	kitihank							
+ckeie7	kitinagan							
+ckaif1	diranak							
+ckaif2	diranak							
+ckaif3	diranak							
+ckaif4	diranak							
+ckbif1	kitihank							
+ckbif2	kitihank							
+ckbif3	kitihank							
+ckbif4	kitihank							
+ckcif1	kitiharak							
+ckcif2	kitiharak							
+ckcif3	kitiharak							
+ckcif4	kitiharak							
+ckdif1	kitimandib							
+ckdif2	kitimandib							
+ckdif3	kitimandib							
+ckdif4	kitimandib							
+ckeif1	kitinagan							
+ckeif2	kitinagan							
+ckeif3	kitinagan							
+ckeif4	kitinagan							
+ckfif1	kitinega							
+ckfif2	kitinega							
+ckfif3	kitinega							
+ckfif4	kitinega							
+ckfrf1	kitinega							
+ckfrf2	kitinega							
+ckfrf3	kitinega							
+ckfrf4	kitinega							
+ckgif1	kitinokto							
+ckgif2	kitinokto							
+ckgif3	kitinokto							
+ckgif4	kitinokto							
+ckhif1	pucetron							
+ckhif2	pucetron							
+ckhif3	pucetron							
+ckhif4	pucetron							
+ckiif1	kitifly							
+ckiif2	kitifly							
+ckiif3	kitifly							
+ckiif4	kitifly							
+ckjif1	kitikil							
+ckjif2	kitikil							
+ckjif3	kitikil							
+ckjif4	kitikil							
+ckbif5	kitihank							
+ckeif7	kitinagan							
+cbblc8	Izam							
+cbcld5	Yber							
+ccafc5	Gingo							
+ccajd5	Gingo							
+ccaje5	Gingo							
+ccaje8	Gingo							
+ccbdc7	Clopper							
+ccbde8	Clopper							
+ccblb8	Clopper							
+cccdb7	Goari							
+cccdc8	Goari							
+ccdfe5	Torbak							
+ccdfe7	Torbak							
+ccdfe8	Torbak							
+ccdjc5	Torbak							
+ccdjc8	Torbak							
+ccdje5	Torbak							
+ccejb7	Ragus							
+ccejc8	Ragus							
+ccelc7	Ragus							
+cceld8	Ragus							
+ccfjf4	Najab							
+ccfjf5	Najab							
+ccfld5	Najab							
+ccgpf8	Vorax							
+cchdd8	Varinx							
+cchde5	Varinx							
+cchde7	Varinx							
+ccidd5	Zerx							
+ccidd7	Zerx							
+ccidf4	Zerx							
+ccidf5	Zerx							
+ccijf4	Zerx							
+ccijf7	Zerx							
+ccjfd5	Javing							
+ccjfd7	Javing							
+cckdd8	Cuttler							
+cckdf7	Cuttler							
+cckdf8	Cuttler							
+cckfe5	Cuttler							
+cckfe7	Cuttler							
+cckfe8	Cuttler							
+cckff5	Cuttler							
+cckff8	Cuttler							
+cclde5	Ocyx							
+cclde7	Ocyx							
+cclde8	Ocyx							
+cclfe8	Ocyx							
+ccmff7	Jugula							
+ccmff8	Jugula							
+ccmpf8	Jugula							
+ccnfe8	Horncher							
+ccode8	Tyrancha							
+ccopf8	Tyrancha							
+ccpfe8	Yetin							
+ccpff8	Yetin							
+ccpjf7	Yetin							
+cdald8	Cute							
+cdapf8	Cute							
+cdbfe7	Gibbai							
+cdbfe8	Gibbai							
+cdbff8	Gibbai							
+cdbje5	Gibbai							
+cdbje8	Gibbai							
+cdcdd7	Frahar							
+cdcde4	Frahar							
+cdcde5	Frahar							
+cdcde8	Frahar							
+cdcdf8	Frahar							
+chafe5	Arma							
+chajf8	Arma							
+chajf5	Arma							
+chbfb7	Bodoc							
+chbfb8	Bodoc							
+chblc5	Bodoc							
+chcjd5	Capryni							
+chdlb8	Yubo							
+chelc8	Cray							
+cheld5	Cray							
+chfjd8	Messab							
+chflb7	Messab							
+chgde5	Lumper							
+chgpf8	Lumper							
+chhdd5	Mektoub							
+chhfc8	Mektoub							
+chhpf8	Mektoub							
+chidb2	Mektoub Mount							
+chifb2	Mektoub Mount							
+chijb2	Mektoub Mount							
+chilb2	Mektoub Mount							
+chkde5	Timari							
+chkdf4	Timari							
+chkjd7	Timari							
+chldb8	Yelk							
+chldf4	Yelk							
+chldf5	Yelk							
+chldf7	Yelk							
+chlfe5	Yelk							
+chlfe7	Yelk							
+chlfe8	Yelk							
+chlle1	Yelk							
+chlle2	Yelk							
+chlle3	Yelk							
+chlle4	Yelk							
+chmdd5	Raspal							
+chmdd7	Raspal							
+chnfd5	Bawaab							
+chnfd8	Bawaab							
+chnjc7	Bawaab							
+chpdc5	Frippo							
+chpdc8	Frippo							
+chpfd8	Frippo							
+chqfe5	Gnoof							
+chqfe7	Gnoof							
+chqfe8	Gnoof							
+chrfe5	Bolobi							
+chrfe7	Bolobi							
+chsdf5	Shalah							
+chtde7	Ploderos							
+chtfe8	Ploderos							
+chtjf5	Ploderos							
+chtjf8	Ploderos							
+chuje5	Wombai							
+chvff5	Madakam							
+chvje7	Madakam							
+chvje8	Madakam							
+chwde5	Arana							
+chwde7	Arana							
+chwff7	Arana							
+chxjf7	Gubani							
+chxjf8	Gubani							
+chxpf8	Gubani							
+ckadf4	Kidinak							
+ckbde8	Kinrey							
+ckbdf4	Kinrey							
+ckbff4	Kinrey							
+ckcdf4	Kizarak							
+ckcff4	Kizarak							
+ckcjf4	Kizarak							
+ckddd1	Kincher							
+ckddd2	Kincher							
+ckddd3	Kincher							
+ckddd4	Kincher							
+ckddd8	Kincher							
+ckdde1	Kincher							
+ckdde2	Kincher							
+ckdde3	Kincher							
+ckdde4	Kincher							
+ckdde5	Kincher							
+ckdde8	Kincher							
+ckddf1	Kincher							
+ckddf2	Kincher							
+ckddf3	Kincher							
+ckddf4	Kincher							
+ckddf7	Kincher							
+ckdfd8	Kincher							
+ckdfe5	Kincher							
+ckdfe7	Kincher							
+ckdfe8	Kincher							
+ckdjd7	Kincher							
+ckdjd8	Kincher							
+ckdje7	Kincher							
+ckdjf4	Kincher							
+ckdld7	Kincher							
+ckdld8	Kincher							
+ckdpf8	Kincher							
+ckede5	Kipuka							
+ckede7	Kipuka							
+ckedf5	Kipuka							
+ckedf8	Kipuka							
+ckefe8	Kipuka							
+ckeff4	Kipuka							
+ckeje5	Kipuka							
+ckeje7	Kipuka							
+ckeje8	Kipuka							
+ckepf8	Kipuka							
+ckfdf4	Kirosta							
+ckfje5	Kirosta							
+ckfje7	Kirosta							
+ckfjf4	Kirosta							
+ckfpf8	Kirosta							
+ckgdd8	Kiban							
+ckgdf8	Kiban							
+ckgfe5	Kiban							
+ckgff5	Kiban							
+ckgje8	Kiban							
+ckgpf8	Kiban							
+ckhdd5	Kipee							
+ckhdd7	Kipee							
+ckhdd8	Kipee							
+ckhdf4	Kipee							
+ckhdf8	Kipee							
+ckhfd7	Kipee							
+ckhfe5	Kipee							
+ckhfe8	Kipee							
+ckhff4	Kipee							
+ckhff6	Kipee							
+ckhjb8	Kipee							
+ckhje8	Kipee							
+ckhjf4	Kipee							
+ckhpf8	Kipee							
+ckide5	Kizoar							
+ckidf4	Kizoar							
+ckifc8	Kizoar							
+ckife5	Kizoar							
+ckiff7	Kizoar							
+ckiff8	Kizoar							
+ckije5	Kizoar							
+ckijf4	Kizoar							
+ckipf8	Kizoar							
+ckjde7	Kipesta							
+ckjde8	Kipesta							
+ckjfe5	Kipesta							
+ckjjd8	Kipesta							
+ckjje8	Kipesta							
+ckjjf8	Kipesta							
+ckjld7	Kipesta							
+ckjpf8	Kipesta							
+cpcfc7	Psykopla							
+cpdff4	Slaveni							
+cpefe7	Cratcha							
+cpefe8	Cratcha							
+cpejf4	Cratcha							
+ckjdd8	Slayer Kipesta							
+ckglf7	Kibakan							
+cbbdd4	Carrion Izam							
+cbbdd7	Izaketh							
+cccdd4	Prowling Goari							
+cccdd7	Goaketh							
+chcdb7	Capryketh							
+chidc2	Mektoub Mount							
+chidd2	Mektoub Mount							
+chide2	Mektoub Mount							
+chidf2	Mektoub Mount							
+chpde4	Violent Rendor							
+chpde7	Rendoketh							
+chsdf7	Shalaketh							
+ckhdf7	Kipeeketh							
+cpfdf4	Devastating Shooki							
+cpfdf7	Shooketh							
+ccafe7	Ginketh							
+cceff4	Great Ragus							
+cceff7	Raguketh							
+chifc2	Mektoub Mount							
+chifd2	Mektoub Mount							
+chife2	Mektoub Mount							
+chiff2	Mektoub Mount							
+chpfd7	Rendokin							
+chvfe4	Violent Madakam							
+chvfe7	Madaketh							
+shooter_mektoub_packer	Shooter Packer							
+choge6	Frippo Corruptor							
+cbarb1	<GEN>cbarb1	r						
+cbarb2	<GEN>cbarb2	r						
+cbarb3	<GEN>cbarb3	r						
+cbarb4	<GEN>cbarb4	r						
+cbarc1	<GEN>cbarc1	r						
+cbarc2	<GEN>cbarc2	r						
+cbarc3	<GEN>cbarc3	r						
+cbarc4	<GEN>cbarc4	r						
+cbard1	<GEN>cbard1	r						
+cbard2	<GEN>cbard2	r						
+cbard3	<GEN>cbard3	r						
+cbard4	<GEN>cbard4	r						
+cbare1	<GEN>cbare1	r						
+cbare2	<GEN>cbare2	r						
+cbare3	<GEN>cbare3	r						
+cbare4	<GEN>cbare4	r						
+cbarf1	<GEN>cbarf1	r						
+cbarf2	<GEN>cbarf2	r						
+cbarf3	<GEN>cbarf3	r						
+cbarf4	<GEN>cbarf4	r						
+cbcrb1	<GEN>cbcrb1	r						
+cbcrb2	<GEN>cbcrb2	r						
+cbcrb3	<GEN>cbcrb3	r						
+cbcrb4	<GEN>cbcrb4	r						
+cbcrc1	<GEN>cbcrc1	r						
+cbcrc2	<GEN>cbcrc2	r						
+cbcrc3	<GEN>cbcrc3	r						
+cbcrc4	<GEN>cbcrc4	r						
+cbcrd1	<GEN>cbcrd1	r						
+cbcrd2	<GEN>cbcrd2	r						
+cbcrd3	<GEN>cbcrd3	r						
+cbcrd4	<GEN>cbcrd4	r						
+cbcre1	<GEN>cbcre1	r						
+cbcre2	<GEN>cbcre2	r						
+cbcre3	<GEN>cbcre3	r						
+cbcre4	<GEN>cbcre4	r						
+cbcrf1	<GEN>cbcrf1	r						
+cbcrf2	<GEN>cbcrf2	r						
+cbcrf3	<GEN>cbcrf3	r						
+cbcrf4	<GEN>cbcrf4	r						
+ccaib1	<GEN>ccaib1	i						
+ccaib2	<GEN>ccaib2	i						
+ccaib3	<GEN>ccaib3	i						
+ccaib4	<GEN>ccaib4	i						
+ccaic1	<GEN>ccaic1	i						
+ccaic2	<GEN>ccaic2	i						
+ccaic3	<GEN>ccaic3	i						
+ccaic4	<GEN>ccaic4	i						
+ccaid1	<GEN>ccaid1	i						
+ccaid2	<GEN>ccaid2	i						
+ccaid3	<GEN>ccaid3	i						
+ccaid4	<GEN>ccaid4	i						
+ccaie1	<GEN>ccaie1	i						
+ccaie2	<GEN>ccaie2	i						
+ccaie3	<GEN>ccaie3	i						
+ccaie4	<GEN>ccaie4	i						
+ccaif1	<GEN>ccaif1	i						
+ccaif2	<GEN>ccaif2	i						
+ccaif3	<GEN>ccaif3	i						
+ccaif4	<GEN>ccaif4	i						
+ccarb1	<GEN>ccarb1	r						
+ccarb2	<GEN>ccarb2	r						
+ccarb3	<GEN>ccarb3	r						
+ccarb4	<GEN>ccarb4	r						
+ccarc1	<GEN>ccarc1	r						
+ccarc2	<GEN>ccarc2	r						
+ccarc3	<GEN>ccarc3	r						
+ccarc4	<GEN>ccarc4	r						
+ccard1	<GEN>ccard1	r						
+ccard2	<GEN>ccard2	r						
+ccard3	<GEN>ccard3	r						
+ccard4	<GEN>ccard4	r						
+ccare1	<GEN>ccare1	r						
+ccare2	<GEN>ccare2	r						
+ccare3	<GEN>ccare3	r						
+ccare4	<GEN>ccare4	r						
+ccarf1	<GEN>ccarf1	r						
+ccarf2	<GEN>ccarf2	r						
+ccarf3	<GEN>ccarf3	r						
+ccarf4	<GEN>ccarf4	r						
+ccbrb1	<GEN>ccbrb1	r						
+ccbrb2	<GEN>ccbrb2	r						
+ccbrb3	<GEN>ccbrb3	r						
+ccbrb4	<GEN>ccbrb4	r						
+ccbrc1	<GEN>ccbrc1	r						
+ccbrc2	<GEN>ccbrc2	r						
+ccbrc3	<GEN>ccbrc3	r						
+ccbrc4	<GEN>ccbrc4	r						
+ccbrd1	<GEN>ccbrd1	r						
+ccbrd2	<GEN>ccbrd2	r						
+ccbrd3	<GEN>ccbrd3	r						
+ccbrd4	<GEN>ccbrd4	r						
+ccbre1	<GEN>ccbre1	r						
+ccbre2	<GEN>ccbre2	r						
+ccbre3	<GEN>ccbre3	r						
+ccbre4	<GEN>ccbre4	r						
+ccbrf1	<GEN>ccbrf1	r						
+ccbrf2	<GEN>ccbrf2	r						
+ccbrf3	<GEN>ccbrf3	r						
+ccbrf4	<GEN>ccbrf4	r						
+cccrb1	<GEN>cccrb1	r						
+cccrb2	<GEN>cccrb2	r						
+cccrb3	<GEN>cccrb3	r						
+cccrb4	<GEN>cccrb4	r						
+cccrc1	<GEN>cccrc1	r						
+cccrc2	<GEN>cccrc2	r						
+cccrc3	<GEN>cccrc3	r						
+cccrc4	<GEN>cccrc4	r						
+cccrd1	<GEN>cccrd1	r						
+cccrd2	<GEN>cccrd2	r						
+cccrd3	<GEN>cccrd3	r						
+cccrd4	<GEN>cccrd4	r						
+cccre1	<GEN>cccre1	r						
+cccre2	<GEN>cccre2	r						
+cccre3	<GEN>cccre3	r						
+cccre4	<GEN>cccre4	r						
+cccrf1	<GEN>cccrf1	r						
+cccrf2	<GEN>cccrf2	r						
+cccrf3	<GEN>cccrf3	r						
+cccrf4	<GEN>cccrf4	r						
+ccdrb1	<GEN>ccdrb1	r						
+ccdrb2	<GEN>ccdrb2	r						
+ccdrb3	<GEN>ccdrb3	r						
+ccdrb4	<GEN>ccdrb4	r						
+ccdrc1	<GEN>ccdrc1	r						
+ccdrc2	<GEN>ccdrc2	r						
+ccdrc3	<GEN>ccdrc3	r						
+ccdrc4	<GEN>ccdrc4	r						
+ccdrd1	<GEN>ccdrd1	r						
+ccdrd2	<GEN>ccdrd2	r						
+ccdrd3	<GEN>ccdrd3	r						
+ccdrd4	<GEN>ccdrd4	r						
+ccdre1	<GEN>ccdre1	r						
+ccdre2	<GEN>ccdre2	r						
+ccdre3	<GEN>ccdre3	r						
+ccdre4	<GEN>ccdre4	r						
+ccdrf1	<GEN>ccdrf1	r						
+ccdrf2	<GEN>ccdrf2	r						
+ccdrf3	<GEN>ccdrf3	r						
+ccdrf4	<GEN>ccdrf4	r						
+ccerb1	<GEN>ccerb1	r						
+ccerb2	<GEN>ccerb2	r						
+ccerb3	<GEN>ccerb3	r						
+ccerb4	<GEN>ccerb4	r						
+ccerc1	<GEN>ccerc1	r						
+ccerc2	<GEN>ccerc2	r						
+ccerc3	<GEN>ccerc3	r						
+ccerc4	<GEN>ccerc4	r						
+ccerd1	<GEN>ccerd1	r						
+ccerd2	<GEN>ccerd2	r						
+ccerd3	<GEN>ccerd3	r						
+ccerd4	<GEN>ccerd4	r						
+ccere1	<GEN>ccere1	r						
+ccere2	<GEN>ccere2	r						
+ccere3	<GEN>ccere3	r						
+ccere4	<GEN>ccere4	r						
+ccerf1	<GEN>ccerf1	r						
+ccerf2	<GEN>ccerf2	r						
+ccerf3	<GEN>ccerf3	r						
+ccerf4	<GEN>ccerf4	r						
+ccfrb1	<GEN>ccfrb1	r						
+ccfrb2	<GEN>ccfrb2	r						
+ccfrb3	<GEN>ccfrb3	r						
+ccfrb4	<GEN>ccfrb4	r						
+ccfrc1	<GEN>ccfrc1	r						
+ccfrc2	<GEN>ccfrc2	r						
+ccfrc3	<GEN>ccfrc3	r						
+ccfrc4	<GEN>ccfrc4	r						
+ccfrd1	<GEN>ccfrd1	r						
+ccfrd2	<GEN>ccfrd2	r						
+ccfrd3	<GEN>ccfrd3	r						
+ccfrd4	<GEN>ccfrd4	r						
+ccfre1	<GEN>ccfre1	r						
+ccfre2	<GEN>ccfre2	r						
+ccfre3	<GEN>ccfre3	r						
+ccfre4	<GEN>ccfre4	r						
+ccfrf1	<GEN>ccfrf1	r						
+ccfrf2	<GEN>ccfrf2	r						
+ccfrf3	<GEN>ccfrf3	r						
+ccfrf4	<GEN>ccfrf4	r						
+ccgrf1	<GEN>ccgrf1	r						
+ccgrf2	<GEN>ccgrf2	r						
+ccgrf3	<GEN>ccgrf3	r						
+ccgrf4	<GEN>ccgrf4	r						
+cchrb1	<GEN>cchrb1	r						
+cchrb2	<GEN>cchrb2	r						
+cchrb3	<GEN>cchrb3	r						
+cchrb4	<GEN>cchrb4	r						
+cchrc1	<GEN>cchrc1	r						
+cchrc2	<GEN>cchrc2	r						
+cchrc3	<GEN>cchrc3	r						
+cchrc4	<GEN>cchrc4	r						
+cchrd1	<GEN>cchrd1	r						
+cchrd2	<GEN>cchrd2	r						
+cchrd3	<GEN>cchrd3	r						
+cchrd4	<GEN>cchrd4	r						
+cchre1	<GEN>cchre1	r						
+cchre2	<GEN>cchre2	r						
+cchre3	<GEN>cchre3	r						
+cchre4	<GEN>cchre4	r						
+cchrf1	<GEN>cchrf1	r						
+cchrf2	<GEN>cchrf2	r						
+cchrf3	<GEN>cchrf3	r						
+cchrf4	<GEN>cchrf4	r						
+ccmrb1	<GEN>ccmrb1	r						
+ccmrb2	<GEN>ccmrb2	r						
+ccmrb3	<GEN>ccmrb3	r						
+ccmrb4	<GEN>ccmrb4	r						
+ccmrc1	<GEN>ccmrc1	r						
+ccmrc2	<GEN>ccmrc2	r						
+ccmrc3	<GEN>ccmrc3	r						
+ccmrc4	<GEN>ccmrc4	r						
+ccmrd1	<GEN>ccmrd1	r						
+ccmrd2	<GEN>ccmrd2	r						
+ccmrd3	<GEN>ccmrd3	r						
+ccmrd4	<GEN>ccmrd4	r						
+ccmre1	<GEN>ccmre1	r						
+ccmre2	<GEN>ccmre2	r						
+ccmre3	<GEN>ccmre3	r						
+ccmre4	<GEN>ccmre4	r						
+ccmrf1	<GEN>ccmrf1	r						
+ccmrf2	<GEN>ccmrf2	r						
+ccmrf3	<GEN>ccmrf3	r						
+ccmrf4	<GEN>ccmrf4	r						
+ccnib1	<GEN>ccnib1	i						
+ccnib2	<GEN>ccnib2	i						
+ccnib3	<GEN>ccnib3	i						
+ccnib4	<GEN>ccnib4	i						
+ccnic1	<GEN>ccnic1	i						
+ccnic2	<GEN>ccnic2	i						
+ccnic3	<GEN>ccnic3	i						
+ccnic4	<GEN>ccnic4	i						
+ccnid1	<GEN>ccnid1	i						
+ccnid2	<GEN>ccnid2	i						
+ccnid3	<GEN>ccnid3	i						
+ccnid4	<GEN>ccnid4	i						
+ccnie1	<GEN>ccnie1	i						
+ccnie2	<GEN>ccnie2	i						
+ccnie3	<GEN>ccnie3	i						
+ccnie4	<GEN>ccnie4	i						
+ccnif1	<GEN>ccnif1	i						
+ccnif2	<GEN>ccnif2	i						
+ccnif3	<GEN>ccnif3	i						
+ccnif4	<GEN>ccnif4	i						
+cdarb1	<GEN>cdarb1	r						
+cdarb2	<GEN>cdarb2	r						
+cdarb3	<GEN>cdarb3	r						
+cdarb4	<GEN>cdarb4	r						
+cdarc1	<GEN>cdarc1	r						
+cdarc2	<GEN>cdarc2	r						
+cdarc3	<GEN>cdarc3	r						
+cdarc4	<GEN>cdarc4	r						
+cdard1	<GEN>cdard1	r						
+cdard2	<GEN>cdard2	r						
+cdard3	<GEN>cdard3	r						
+cdard4	<GEN>cdard4	r						
+cdare1	<GEN>cdare1	r						
+cdare2	<GEN>cdare2	r						
+cdare3	<GEN>cdare3	r						
+cdare4	<GEN>cdare4	r						
+cdarf1	<GEN>cdarf1	r						
+cdarf2	<GEN>cdarf2	r						
+cdarf3	<GEN>cdarf3	r						
+cdarf4	<GEN>cdarf4	r						
+cdbrb1	<GEN>cdbrb1	r						
+cdbrb2	<GEN>cdbrb2	r						
+cdbrb3	<GEN>cdbrb3	r						
+cdbrb4	<GEN>cdbrb4	r						
+cdbrc1	<GEN>cdbrc1	r						
+cdbrc2	<GEN>cdbrc2	r						
+cdbrc3	<GEN>cdbrc3	r						
+cdbrc4	<GEN>cdbrc4	r						
+cdbrd1	<GEN>cdbrd1	r						
+cdbrd2	<GEN>cdbrd2	r						
+cdbrd3	<GEN>cdbrd3	r						
+cdbrd4	<GEN>cdbrd4	r						
+cdbre1	<GEN>cdbre1	r						
+cdbre2	<GEN>cdbre2	r						
+cdbre3	<GEN>cdbre3	r						
+cdbre4	<GEN>cdbre4	r						
+cdbrf1	<GEN>cdbrf1	r						
+cdbrf2	<GEN>cdbrf2	r						
+cdbrf3	<GEN>cdbrf3	r						
+cdbrf4	<GEN>cdbrf4	r						
+cdcrb1	<GEN>cdcrb1	r						
+cdcrb2	<GEN>cdcrb2	r						
+cdcrb3	<GEN>cdcrb3	r						
+cdcrb4	<GEN>cdcrb4	r						
+cdcrc1	<GEN>cdcrc1	r						
+cdcrc2	<GEN>cdcrc2	r						
+cdcrc3	<GEN>cdcrc3	r						
+cdcrc4	<GEN>cdcrc4	r						
+cdcrd1	<GEN>cdcrd1	r						
+cdcrd2	<GEN>cdcrd2	r						
+cdcrd3	<GEN>cdcrd3	r						
+cdcrd4	<GEN>cdcrd4	r						
+cdcre1	<GEN>cdcre1	r						
+cdcre2	<GEN>cdcre2	r						
+cdcre3	<GEN>cdcre3	r						
+cdcre4	<GEN>cdcre4	r						
+cdcrf1	<GEN>cdcrf1	r						
+cdcrf2	<GEN>cdcrf2	r						
+cdcrf3	<GEN>cdcrf3	r						
+cdcrf4	<GEN>cdcrf4	r						
+chdib1	<GEN>chdib1	i						
+chdib2	<GEN>chdib2	i						
+chdib3	<GEN>chdib3	i						
+chdib4	<GEN>chdib4	i						
+chdib7	<GEN>chdib7	i						
+cherb1	<GEN>cherb1	r						
+cherb2	<GEN>cherb2	r						
+cherb3	<GEN>cherb3	r						
+cherb4	<GEN>cherb4	r						
+cherc1	<GEN>cherc1	r						
+cherc2	<GEN>cherc2	r						
+cherc3	<GEN>cherc3	r						
+cherc4	<GEN>cherc4	r						
+cherc6	<GEN>cherc6	r						
+cherd1	<GEN>cherd1	r						
+cherd2	<GEN>cherd2	r						
+cherd3	<GEN>cherd3	r						
+cherd4	<GEN>cherd4	r						
+chere1	<GEN>chere1	r						
+chere2	<GEN>chere2	r						
+chere3	<GEN>chere3	r						
+chere4	<GEN>chere4	r						
+cherf1	<GEN>cherf1	r						
+cherf2	<GEN>cherf2	r						
+cherf3	<GEN>cherf3	r						
+cherf4	<GEN>cherf4	r						
+chfrb1	<GEN>chfrb1	r						
+chfrb2	<GEN>chfrb2	r						
+chfrb3	<GEN>chfrb3	r						
+chfrb4	<GEN>chfrb4	r						
+chfrc1	<GEN>chfrc1	r						
+chfrc2	<GEN>chfrc2	r						
+chfrc3	<GEN>chfrc3	r						
+chfrc4	<GEN>chfrc4	r						
+chfrd1	<GEN>chfrd1	r						
+chfrd2	<GEN>chfrd2	r						
+chfrd3	<GEN>chfrd3	r						
+chfrd4	<GEN>chfrd4	r						
+chfre1	<GEN>chfre1	r						
+chfre2	<GEN>chfre2	r						
+chfre3	<GEN>chfre3	r						
+chfre4	<GEN>chfre4	r						
+chfrf1	<GEN>chfrf1	r						
+chfrf2	<GEN>chfrf2	r						
+chfrf3	<GEN>chfrf3	r						
+chfrf4	<GEN>chfrf4	r						
+chgrb1	<GEN>chgrb1	r						
+chgrb2	<GEN>chgrb2	r						
+chgrb3	<GEN>chgrb3	r						
+chgrb4	<GEN>chgrb4	r						
+chgrc1	<GEN>chgrc1	r						
+chgrc2	<GEN>chgrc2	r						
+chgrc3	<GEN>chgrc3	r						
+chgrc4	<GEN>chgrc4	r						
+chgrd1	<GEN>chgrd1	r						
+chgrd2	<GEN>chgrd2	r						
+chgrd3	<GEN>chgrd3	r						
+chgrd4	<GEN>chgrd4	r						
+chgre1	<GEN>chgre1	r						
+chgre2	<GEN>chgre2	r						
+chgre3	<GEN>chgre3	r						
+chgre4	<GEN>chgre4	r						
+chgrf1	<GEN>chgrf1	r						
+chgrf2	<GEN>chgrf2	r						
+chgrf3	<GEN>chgrf3	r						
+chgrf4	<GEN>chgrf4	r						
+chkrb1	<GEN>chkrb1	r						
+chkrb2	<GEN>chkrb2	r						
+chkrb3	<GEN>chkrb3	r						
+chkrb4	<GEN>chkrb4	r						
+chkrc1	<GEN>chkrc1	r						
+chkrc2	<GEN>chkrc2	r						
+chkrc3	<GEN>chkrc3	r						
+chkrc4	<GEN>chkrc4	r						
+chkrd1	<GEN>chkrd1	r						
+chkrd2	<GEN>chkrd2	r						
+chkrd3	<GEN>chkrd3	r						
+chkrd4	<GEN>chkrd4	r						
+chkre1	<GEN>chkre1	r						
+chkre2	<GEN>chkre2	r						
+chkre3	<GEN>chkre3	r						
+chkre4	<GEN>chkre4	r						
+chkrf1	<GEN>chkrf1	r						
+chkrf2	<GEN>chkrf2	r						
+chkrf3	<GEN>chkrf3	r						
+chkrf4	<GEN>chkrf4	r						
+chlrb1	<GEN>chlrb1	r						
+chlrb2	<GEN>chlrb2	r						
+chlrb3	<GEN>chlrb3	r						
+chlrb4	<GEN>chlrb4	r						
+chlrc1	<GEN>chlrc1	r						
+chlrc2	<GEN>chlrc2	r						
+chlrc3	<GEN>chlrc3	r						
+chlrc4	<GEN>chlrc4	r						
+chlrd1	<GEN>chlrd1	r						
+chlrd2	<GEN>chlrd2	r						
+chlrd3	<GEN>chlrd3	r						
+chlrd4	<GEN>chlrd4	r						
+chlre1	<GEN>chlre1	r						
+chlre2	<GEN>chlre2	r						
+chlre3	<GEN>chlre3	r						
+chlre4	<GEN>chlre4	r						
+chlrf1	<GEN>chlrf1	r						
+chlrf2	<GEN>chlrf2	r						
+chlrf3	<GEN>chlrf3	r						
+chlrf4	<GEN>chlrf4	r						
+chorb1	<GEN>chorb1	r						
+chorb2	<GEN>chorb2	r						
+chorb3	<GEN>chorb3	r						
+chorb4	<GEN>chorb4	r						
+chorc1	<GEN>chorc1	r						
+chorc2	<GEN>chorc2	r						
+chorc3	<GEN>chorc3	r						
+chorc4	<GEN>chorc4	r						
+chord1	<GEN>chord1	r						
+chord2	<GEN>chord2	r						
+chord3	<GEN>chord3	r						
+chord4	<GEN>chord4	r						
+chore1	<GEN>chore1	r						
+chore2	<GEN>chore2	r						
+chore3	<GEN>chore3	r						
+chore4	<GEN>chore4	r						
+chorf1	<GEN>chorf1	r						
+chorf2	<GEN>chorf2	r						
+chorf3	<GEN>chorf3	r						
+chorf4	<GEN>chorf4	r						
+ckarb1	<GEN>ckarb1	r						
+ckarb2	<GEN>ckarb2	r						
+ckarb3	<GEN>ckarb3	r						
+ckarb4	<GEN>ckarb4	r						
+ckarc1	<GEN>ckarc1	r						
+ckarc2	<GEN>ckarc2	r						
+ckarc3	<GEN>ckarc3	r						
+ckarc4	<GEN>ckarc4	r						
+ckard1	<GEN>ckard1	r						
+ckard2	<GEN>ckard2	r						
+ckard3	<GEN>ckard3	r						
+ckard4	<GEN>ckard4	r						
+ckare1	<GEN>ckare1	r						
+ckare2	<GEN>ckare2	r						
+ckare3	<GEN>ckare3	r						
+ckare4	<GEN>ckare4	r						
+ckarf1	<GEN>ckarf1	r						
+ckarf2	<GEN>ckarf2	r						
+ckarf3	<GEN>ckarf3	r						
+ckarf4	<GEN>ckarf4	r						
+ckbrb1	<GEN>ckbrb1	r						
+ckbrb2	<GEN>ckbrb2	r						
+ckbrb3	<GEN>ckbrb3	r						
+ckbrb4	<GEN>ckbrb4	r						
+ckbrc1	<GEN>ckbrc1	r						
+ckbrc2	<GEN>ckbrc2	r						
+ckbrc3	<GEN>ckbrc3	r						
+ckbrc4	<GEN>ckbrc4	r						
+ckbrd1	<GEN>ckbrd1	r						
+ckbrd2	<GEN>ckbrd2	r						
+ckbrd3	<GEN>ckbrd3	r						
+ckbrd4	<GEN>ckbrd4	r						
+ckbre1	<GEN>ckbre1	r						
+ckbre2	<GEN>ckbre2	r						
+ckbre3	<GEN>ckbre3	r						
+ckbre4	<GEN>ckbre4	r						
+ckbrf1	<GEN>ckbrf1	r						
+ckbrf2	<GEN>ckbrf2	r						
+ckbrf3	<GEN>ckbrf3	r						
+ckbrf4	<GEN>ckbrf4	r						
+ckcrb1	<GEN>ckcrb1	r						
+ckcrb2	<GEN>ckcrb2	r						
+ckcrb3	<GEN>ckcrb3	r						
+ckcrb4	<GEN>ckcrb4	r						
+ckcrc1	<GEN>ckcrc1	r						
+ckcrc2	<GEN>ckcrc2	r						
+ckcrc3	<GEN>ckcrc3	r						
+ckcrc4	<GEN>ckcrc4	r						
+ckcrd1	<GEN>ckcrd1	r						
+ckcrd2	<GEN>ckcrd2	r						
+ckcrd3	<GEN>ckcrd3	r						
+ckcrd4	<GEN>ckcrd4	r						
+ckcre1	<GEN>ckcre1	r						
+ckcre2	<GEN>ckcre2	r						
+ckcre3	<GEN>ckcre3	r						
+ckcre4	<GEN>ckcre4	r						
+ckcrf1	<GEN>ckcrf1	r						
+ckcrf2	<GEN>ckcrf2	r						
+ckcrf3	<GEN>ckcrf3	r						
+ckcrf4	<GEN>ckcrf4	r						
+ckdrb1	<GEN>ckdrb1	r						
+ckdrb2	<GEN>ckdrb2	r						
+ckdrb3	<GEN>ckdrb3	r						
+ckdrb4	<GEN>ckdrb4	r						
+ckdrc1	<GEN>ckdrc1	r						
+ckdrc2	<GEN>ckdrc2	r						
+ckdrc3	<GEN>ckdrc3	r						
+ckdrc4	<GEN>ckdrc4	r						
+ckdrd1	<GEN>ckdrd1	r						
+ckdrd2	<GEN>ckdrd2	r						
+ckdrd3	<GEN>ckdrd3	r						
+ckdrd4	<GEN>ckdrd4	r						
+ckdre1	<GEN>ckdre1	r						
+ckdre2	<GEN>ckdre2	r						
+ckdre3	<GEN>ckdre3	r						
+ckdre4	<GEN>ckdre4	r						
+ckdrf1	<GEN>ckdrf1	r						
+ckdrf2	<GEN>ckdrf2	r						
+ckdrf3	<GEN>ckdrf3	r						
+ckdrf4	<GEN>ckdrf4	r						
+ckerb1	<GEN>ckerb1	r						
+ckerb2	<GEN>ckerb2	r						
+ckerb3	<GEN>ckerb3	r						
+ckerb4	<GEN>ckerb4	r						
+ckerc1	<GEN>ckerc1	r						
+ckerc2	<GEN>ckerc2	r						
+ckerc3	<GEN>ckerc3	r						
+ckerc4	<GEN>ckerc4	r						
+ckerd1	<GEN>ckerd1	r						
+ckerd2	<GEN>ckerd2	r						
+ckerd3	<GEN>ckerd3	r						
+ckerd4	<GEN>ckerd4	r						
+ckere1	<GEN>ckere1	r						
+ckere2	<GEN>ckere2	r						
+ckere3	<GEN>ckere3	r						
+ckere4	<GEN>ckere4	r						
+ckerf1	<GEN>ckerf1	r						
+ckerf2	<GEN>ckerf2	r						
+ckerf3	<GEN>ckerf3	r						
+ckerf4	<GEN>ckerf4	r						
+ckgrb1	<GEN>ckgrb1	r						
+ckgrb2	<GEN>ckgrb2	r						
+ckgrb3	<GEN>ckgrb3	r						
+ckgrb4	<GEN>ckgrb4	r						
+ckgrc1	<GEN>ckgrc1	r						
+ckgrc2	<GEN>ckgrc2	r						
+ckgrc3	<GEN>ckgrc3	r						
+ckgrc4	<GEN>ckgrc4	r						
+ckgrd1	<GEN>ckgrd1	r						
+ckgrd2	<GEN>ckgrd2	r						
+ckgrd3	<GEN>ckgrd3	r						
+ckgrd4	<GEN>ckgrd4	r						
+ckgre1	<GEN>ckgre1	r						
+ckgre2	<GEN>ckgre2	r						
+ckgre3	<GEN>ckgre3	r						
+ckgre4	<GEN>ckgre4	r						
+ckgrf1	<GEN>ckgrf1	r						
+ckgrf2	<GEN>ckgrf2	r						
+ckgrf3	<GEN>ckgrf3	r						
+ckgrf4	<GEN>ckgrf4	r						
+ckirb1	<GEN>ckirb1	r						
+ckirb2	<GEN>ckirb2	r						
+ckirb3	<GEN>ckirb3	r						
+ckirb4	<GEN>ckirb4	r						
+ckirc1	<GEN>ckirc1	r						
+ckirc2	<GEN>ckirc2	r						
+ckirc3	<GEN>ckirc3	r						
+ckirc4	<GEN>ckirc4	r						
+ckird1	<GEN>ckird1	r						
+ckird2	<GEN>ckird2	r						
+ckird3	<GEN>ckird3	r						
+ckird4	<GEN>ckird4	r						
+ckire1	<GEN>ckire1	r						
+ckire2	<GEN>ckire2	r						
+ckire3	<GEN>ckire3	r						
+ckire4	<GEN>ckire4	r						
+ckirf1	<GEN>ckirf1	r						
+ckirf2	<GEN>ckirf2	r						
+ckirf3	<GEN>ckirf3	r						
+ckirf4	<GEN>ckirf4	r						
+ckjrb1	<GEN>ckjrb1	r						
+ckjrb2	<GEN>ckjrb2	r						
+ckjrb3	<GEN>ckjrb3	r						
+ckjrb4	<GEN>ckjrb4	r						
+ckjrc1	<GEN>ckjrc1	r						
+ckjrc2	<GEN>ckjrc2	r						
+ckjrc3	<GEN>ckjrc3	r						
+ckjrc4	<GEN>ckjrc4	r						
+ckjrd1	<GEN>ckjrd1	r						
+ckjrd2	<GEN>ckjrd2	r						
+ckjrd3	<GEN>ckjrd3	r						
+ckjrd4	<GEN>ckjrd4	r						
+ckjre1	<GEN>ckjre1	r						
+ckjre2	<GEN>ckjre2	r						
+ckjre3	<GEN>ckjre3	r						
+ckjre4	<GEN>ckjre4	r						
+ckjrf1	<GEN>ckjrf1	r						
+ckjrf2	<GEN>ckjrf2	r						
+ckjrf3	<GEN>ckjrf3	r						
+ckjrf4	<GEN>ckjrf4	r						
+cparb1	<GEN>cparb1	r						
+cparb2	<GEN>cparb2	r						
+cparb3	<GEN>cparb3	r						
+cparb4	<GEN>cparb4	r						
+cparc1	<GEN>cparc1	r						
+cparc2	<GEN>cparc2	r						
+cparc3	<GEN>cparc3	r						
+cparc4	<GEN>cparc4	r						
+cpard1	<GEN>cpard1	r						
+cpard2	<GEN>cpard2	r						
+cpard3	<GEN>cpard3	r						
+cpard4	<GEN>cpard4	r						
+cpare1	<GEN>cpare1	r						
+cpare2	<GEN>cpare2	r						
+cpare3	<GEN>cpare3	r						
+cpare4	<GEN>cpare4	r						
+cparf1	<GEN>cparf1	r						
+cparf2	<GEN>cparf2	r						
+cparf3	<GEN>cparf3	r						
+cparf4	<GEN>cparf4	r						
+cpbrb1	<GEN>cpbrb1	r						
+cpbrb2	<GEN>cpbrb2	r						
+cpbrb3	<GEN>cpbrb3	r						
+cpbrb4	<GEN>cpbrb4	r						
+cpbrc1	<GEN>cpbrc1	r						
+cpbrc2	<GEN>cpbrc2	r						
+cpbrc3	<GEN>cpbrc3	r						
+cpbrc4	<GEN>cpbrc4	r						
+cpbrd1	<GEN>cpbrd1	r						
+cpbrd2	<GEN>cpbrd2	r						
+cpbrd3	<GEN>cpbrd3	r						
+cpbrd4	<GEN>cpbrd4	r						
+cpbre1	<GEN>cpbre1	r						
+cpbre2	<GEN>cpbre2	r						
+cpbre3	<GEN>cpbre3	r						
+cpbre4	<GEN>cpbre4	r						
+cpbrf1	<GEN>cpbrf1	r						
+cpbrf2	<GEN>cpbrf2	r						
+cpbrf3	<GEN>cpbrf3	r						
+cpbrf4	<GEN>cpbrf4	r						
+cpcrb1	<GEN>cpcrb1	r						
+cpcrb2	<GEN>cpcrb2	r						
+cpcrb3	<GEN>cpcrb3	r						
+cpcrb4	<GEN>cpcrb4	r						
+cpcrc1	<GEN>cpcrc1	r						
+cpcrc2	<GEN>cpcrc2	r						
+cpcrc3	<GEN>cpcrc3	r						
+cpcrc4	<GEN>cpcrc4	r						
+cpcrd1	<GEN>cpcrd1	r						
+cpcrd2	<GEN>cpcrd2	r						
+cpcrd3	<GEN>cpcrd3	r						
+cpcrd4	<GEN>cpcrd4	r						
+cpcre1	<GEN>cpcre1	r						
+cpcre2	<GEN>cpcre2	r						
+cpcre3	<GEN>cpcre3	r						
+cpcre4	<GEN>cpcre4	r						
+cpcrf1	<GEN>cpcrf1	r						
+cpcrf2	<GEN>cpcrf2	r						
+cpcrf3	<GEN>cpcrf3	r						
+cpcrf4	<GEN>cpcrf4	r						
+cpdrb1	<GEN>cpdrb1	r						
+cpdrb2	<GEN>cpdrb2	r						
+cpdrb3	<GEN>cpdrb3	r						
+cpdrb4	<GEN>cpdrb4	r						
+cpdrc1	<GEN>cpdrc1	r						
+cpdrc2	<GEN>cpdrc2	r						
+cpdrc3	<GEN>cpdrc3	r						
+cpdrc4	<GEN>cpdrc4	r						
+cpdrd1	<GEN>cpdrd1	r						
+cpdrd2	<GEN>cpdrd2	r						
+cpdrd3	<GEN>cpdrd3	r						
+cpdrd4	<GEN>cpdrd4	r						
+cpdre1	<GEN>cpdre1	r						
+cpdre2	<GEN>cpdre2	r						
+cpdre3	<GEN>cpdre3	r						
+cpdre4	<GEN>cpdre4	r						
+cpdrf1	<GEN>cpdrf1	r						
+cpdrf2	<GEN>cpdrf2	r						
+cpdrf3	<GEN>cpdrf3	r						
+cpdrf4	<GEN>cpdrf4	r						
+cperb1	<GEN>cperb1	r						
+cperb2	<GEN>cperb2	r						
+cperb3	<GEN>cperb3	r						
+cperb4	<GEN>cperb4	r						
+cperc1	<GEN>cperc1	r						
+cperc2	<GEN>cperc2	r						
+cperc3	<GEN>cperc3	r						
+cperc4	<GEN>cperc4	r						
+cperd1	<GEN>cperd1	r						
+cperd2	<GEN>cperd2	r						
+cperd3	<GEN>cperd3	r						
+cperd4	<GEN>cperd4	r						
+cpere1	<GEN>cpere1	r						
+cpere2	<GEN>cpere2	r						
+cpere3	<GEN>cpere3	r						
+cpere4	<GEN>cpere4	r						
+cperf1	<GEN>cperf1	r						
+cperf2	<GEN>cperf2	r						
+cperf3	<GEN>cperf3	r						
+cperf4	<GEN>cperf4	r						
+cpfrb1	<GEN>cpfrb1	r						
+cpfrb2	<GEN>cpfrb2	r						
+cpfrb3	<GEN>cpfrb3	r						
+cpfrb4	<GEN>cpfrb4	r						
+cpfrc1	<GEN>cpfrc1	r						
+cpfrc2	<GEN>cpfrc2	r						
+cpfrc3	<GEN>cpfrc3	r						
+cpfrc4	<GEN>cpfrc4	r						
+cpfrd1	<GEN>cpfrd1	r						
+cpfrd2	<GEN>cpfrd2	r						
+cpfrd3	<GEN>cpfrd3	r						
+cpfrd4	<GEN>cpfrd4	r						
+cpfre1	<GEN>cpfre1	r						
+cpfre2	<GEN>cpfre2	r						
+cpfre3	<GEN>cpfre3	r						
+cpfre4	<GEN>cpfre4	r						
+cpfrf1	<GEN>cpfrf1	r						
+cpfrf2	<GEN>cpfrf2	r						
+cpfrf3	<GEN>cpfrf3	r						
+cpfrf4	<GEN>cpfrf4	r						
+cbajb7	Igakya							
+ccfjd4	Prowling Najab							
+ccfjd7	Najakya							
+cdbje7	Gibbakya							
+chaje8	Demolisher Arma							
+chijc2	Mektoub Mount							
+chijd2	Mektoub Mount							
+chije2	Mektoub Mount							
+chijf2	Mektoub Mount							
+chtjf7	Plodekya							
+chuje7	Wombakya							
+ckdje5	Named Kincher							
+ckfjf7	Kirokya							
+cpdje7	Slavekya							
+cbclc7	Yberkan							
+ccclf4	Great Goari							
+ccclf7	Goakan							
+chcld4	Scrounging Capryni							
+chcld7	Caprykan							
+chele7	Craykan							
+chilc2	Mektoub Mount							
+child2	Mektoub Mount							
+chile2	Mektoub Mount							
+chilf2	Mektoub Mount							
+cpblf4	Devastating Stinga							
+cpblf7	Stinkan							
+cbbpe4	Rapacious Izam							
+cbbpe7	Izakoo							
+ccepf4	Great Ragus							
+ccepf7	Rakoo							
+ccfpe4	Huge Najab							
+ccfpe7	Najakoo							
+cchpe7	Varykoo							
+ccipd7	Zerkoo							
 chape7	Armkoo							
 chgpd7	Lumpkoo							
 chipd2	Mektoub Mount							
@@ -4871,14 +4871,1106 @@ ckesf4_sw_boss_zorai	Exterminateur Zoraï	un	l'	de l'	à l'	Exterminateurs Zora�
 ckfsf4_sw_boss_tryker	Exterminateur Tryker	un	l'	de l'	à l'	Exterminateurs Tryker	des	les
 object_backpack_loot_player	Sac à dos	un	le 	dans le	au	Sacs à dos	des	les
 object_backpack_loot_player_r2	Sac à dos	un	le 	dans le	au	Sacs à dos	des	les
-object_pr_s3_ploomweed_a	Ploomweed Dash
-object_pr_s3_ploomweed_b	Ploomweed Zuc
-object_pr_s3_amoeba_a	Amoeba Dan
-object_pr_s3_amoeba_b	Amoeba Tolz
-object_pr_s3_amoeba_c	Amoeba Shon
-object_pr_s3_cokamool_a	Cokamool Frez
-object_pr_s3_cokamool_b	Cokamool Kloro
-object_pr_s3_cokamool_c	Cokamool Tiny
-object_pr_s2_toopetz_a	Toopetz Gret
-object_pr_s2_toopetz_b	Toopetz Dual
-object_pr_s2_toopetz_c	Toopetz Try
+object_pr_s3_ploomweed_a	Ploomweed Dash							
+object_pr_s3_ploomweed_b	Ploomweed Zuc							
+object_pr_s3_amoeba_a	Amoeba Dan							
+object_pr_s3_amoeba_b	Amoeba Tolz							
+object_pr_s3_amoeba_c	Amoeba Shon							
+object_pr_s3_cokamool_a	Cokamool Frez							
+object_pr_s3_cokamool_b	Cokamool Kloro							
+object_pr_s3_cokamool_c	Cokamool Tiny							
+object_pr_s2_toopetz_a	Toopetz Gret							
+object_pr_s2_toopetz_b	Toopetz Dual							
+object_pr_s2_toopetz_c	Toopetz Try							
+ccecf3	<GEN>ccecf3							
+cchdd6	<GEN>cchdd6							
+ccdeb1	<GEN>ccdeb1							
+ccdeb2	<GEN>ccdeb2							
+ccdeb3	<GEN>ccdeb3							
+ccdeb4	<GEN>ccdeb4							
+ccdec1	<GEN>ccdec1							
+ccdec2	<GEN>ccdec2							
+ccdec3	<GEN>ccdec3							
+ccdec4	<GEN>ccdec4							
+ccded1	<GEN>ccded1							
+ccded2	<GEN>ccded2							
+ccded3	<GEN>ccded3							
+ccded4	<GEN>ccded4							
+ccdee1	<GEN>ccdee1							
+ccdee2	<GEN>ccdee2							
+ccdee3	<GEN>ccdee3							
+ccdee4	<GEN>ccdee4							
+ccdef1	<GEN>ccdef1							
+ccdef2	<GEN>ccdef2							
+ccdef3	<GEN>ccdef3							
+ccdef4	<GEN>ccdef4							
+ccheb1	<GEN>ccheb1							
+ccheb2	<GEN>ccheb2							
+ccheb3	<GEN>ccheb3							
+ccheb4	<GEN>ccheb4							
+cchec1	<GEN>cchec1							
+cchec2	<GEN>cchec2							
+cchec3	<GEN>cchec3							
+cchec4	<GEN>cchec4							
+cched1	<GEN>cched1							
+cched2	<GEN>cched2							
+cched3	<GEN>cched3							
+cched4	<GEN>cched4							
+cchee1	<GEN>cchee1							
+cchee2	<GEN>cchee2							
+cchee3	<GEN>cchee3							
+cchee4	<GEN>cchee4							
+cchef1	<GEN>cchef1							
+cchef2	<GEN>cchef2							
+cchef3	<GEN>cchef3							
+cchef4	<GEN>cchef4							
+cdaeb1	<GEN>cdaeb1							
+cdaeb2	<GEN>cdaeb2							
+cdaeb3	<GEN>cdaeb3							
+cdaeb4	<GEN>cdaeb4							
+cdaec1	<GEN>cdaec1							
+cdaec2	<GEN>cdaec2							
+cdaec3	<GEN>cdaec3							
+cdaec4	<GEN>cdaec4							
+cdaed1	<GEN>cdaed1							
+cdaed2	<GEN>cdaed2							
+cdaed3	<GEN>cdaed3							
+cdaed4	<GEN>cdaed4							
+cdaee1	<GEN>cdaee1							
+cdaee2	<GEN>cdaee2							
+cdaee3	<GEN>cdaee3							
+cdaee4	<GEN>cdaee4							
+cdaef1	<GEN>cdaef1							
+cdaef2	<GEN>cdaef2							
+cdaef3	<GEN>cdaef3							
+cdaef4	<GEN>cdaef4							
+cdanb1	<GEN>cdanb1							
+cdanb2	<GEN>cdanb2							
+cdanb3	<GEN>cdanb3							
+cdanb4	<GEN>cdanb4							
+cdanc1	<GEN>cdanc1							
+cdanc2	<GEN>cdanc2							
+cdanc3	<GEN>cdanc3							
+cdanc4	<GEN>cdanc4							
+cdand1	<GEN>cdand1							
+cdand2	<GEN>cdand2							
+cdand3	<GEN>cdand3							
+cdand4	<GEN>cdand4							
+cdane1	<GEN>cdane1							
+cdane2	<GEN>cdane2							
+cdane3	<GEN>cdane3							
+cdane4	<GEN>cdane4							
+cdanf1	<GEN>cdanf1							
+cdanf2	<GEN>cdanf2							
+cdanf3	<GEN>cdanf3							
+cdanf4	<GEN>cdanf4							
+cdasb1	<GEN>cdasb1							
+cdasb2	<GEN>cdasb2							
+cdasb3	<GEN>cdasb3							
+cdasb4	<GEN>cdasb4							
+cdasc1	<GEN>cdasc1							
+cdasc2	<GEN>cdasc2							
+cdasc3	<GEN>cdasc3							
+cdasc4	<GEN>cdasc4							
+cdasd1	<GEN>cdasd1							
+cdasd2	<GEN>cdasd2							
+cdasd3	<GEN>cdasd3							
+cdasd4	<GEN>cdasd4							
+cdase1	<GEN>cdase1							
+cdase2	<GEN>cdase2							
+cdase3	<GEN>cdase3							
+cdase4	<GEN>cdase4							
+cdasf1	<GEN>cdasf1							
+cdasf2	<GEN>cdasf2							
+cdasf3	<GEN>cdasf3							
+cdasf4	<GEN>cdasf4							
+cdatb1	<GEN>cdatb1							
+cdatb2	<GEN>cdatb2							
+cdatb3	<GEN>cdatb3							
+cdatb4	<GEN>cdatb4							
+cdatc1	<GEN>cdatc1							
+cdatc2	<GEN>cdatc2							
+cdatc3	<GEN>cdatc3							
+cdatc4	<GEN>cdatc4							
+cdatd1	<GEN>cdatd1							
+cdatd2	<GEN>cdatd2							
+cdatd3	<GEN>cdatd3							
+cdatd4	<GEN>cdatd4							
+cdate1	<GEN>cdate1							
+cdate2	<GEN>cdate2							
+cdate3	<GEN>cdate3							
+cdate4	<GEN>cdate4							
+cdatf1	<GEN>cdatf1							
+cdatf2	<GEN>cdatf2							
+cdatf3	<GEN>cdatf3							
+cdatf4	<GEN>cdatf4							
+cdaub1	<GEN>cdaub1							
+cdaub2	<GEN>cdaub2							
+cdaub3	<GEN>cdaub3							
+cdaub4	<GEN>cdaub4							
+cdauc1	<GEN>cdauc1							
+cdauc2	<GEN>cdauc2							
+cdauc3	<GEN>cdauc3							
+cdauc4	<GEN>cdauc4							
+cdaud1	<GEN>cdaud1							
+cdaud2	<GEN>cdaud2							
+cdaud3	<GEN>cdaud3							
+cdaud4	<GEN>cdaud4							
+cdaue1	<GEN>cdaue1							
+cdaue2	<GEN>cdaue2							
+cdaue3	<GEN>cdaue3							
+cdaue4	<GEN>cdaue4							
+cdauf1	<GEN>cdauf1							
+cdauf2	<GEN>cdauf2							
+cdauf3	<GEN>cdauf3							
+cdauf4	<GEN>cdauf4							
+cdavb1	<GEN>cdavb1							
+cdavb2	<GEN>cdavb2							
+cdavb3	<GEN>cdavb3							
+cdavb4	<GEN>cdavb4							
+cdavc1	<GEN>cdavc1							
+cdavc2	<GEN>cdavc2							
+cdavc3	<GEN>cdavc3							
+cdavc4	<GEN>cdavc4							
+cdavd1	<GEN>cdavd1							
+cdavd2	<GEN>cdavd2							
+cdavd3	<GEN>cdavd3							
+cdavd4	<GEN>cdavd4							
+cdave1	<GEN>cdave1							
+cdave2	<GEN>cdave2							
+cdave3	<GEN>cdave3							
+cdave4	<GEN>cdave4							
+cdavf1	<GEN>cdavf1							
+cdavf2	<GEN>cdavf2							
+cdavf3	<GEN>cdavf3							
+cdavf4	<GEN>cdavf4							
+cdawb1	<GEN>cdawb1							
+cdawb2	<GEN>cdawb2							
+cdawb3	<GEN>cdawb3							
+cdawb4	<GEN>cdawb4							
+cdawc1	<GEN>cdawc1							
+cdawc2	<GEN>cdawc2							
+cdawc3	<GEN>cdawc3							
+cdawc4	<GEN>cdawc4							
+cdawd1	<GEN>cdawd1							
+cdawd2	<GEN>cdawd2							
+cdawd3	<GEN>cdawd3							
+cdawd4	<GEN>cdawd4							
+cdawe1	<GEN>cdawe1							
+cdawe2	<GEN>cdawe2							
+cdawe3	<GEN>cdawe3							
+cdawe4	<GEN>cdawe4							
+cdawf1	<GEN>cdawf1							
+cdawf2	<GEN>cdawf2							
+cdawf3	<GEN>cdawf3							
+cdawf4	<GEN>cdawf4							
+cdaxb1	<GEN>cdaxb1							
+cdaxb2	<GEN>cdaxb2							
+cdaxb3	<GEN>cdaxb3							
+cdaxb4	<GEN>cdaxb4							
+cdaxc1	<GEN>cdaxc1							
+cdaxc2	<GEN>cdaxc2							
+cdaxc3	<GEN>cdaxc3							
+cdaxc4	<GEN>cdaxc4							
+cdaxd1	<GEN>cdaxd1							
+cdaxd2	<GEN>cdaxd2							
+cdaxd3	<GEN>cdaxd3							
+cdaxd4	<GEN>cdaxd4							
+cdaxe1	<GEN>cdaxe1							
+cdaxe2	<GEN>cdaxe2							
+cdaxe3	<GEN>cdaxe3							
+cdaxe4	<GEN>cdaxe4							
+cdaxf1	<GEN>cdaxf1							
+cdaxf2	<GEN>cdaxf2							
+cdaxf3	<GEN>cdaxf3							
+cdaxf4	<GEN>cdaxf4							
+cdayb1	<GEN>cdayb1							
+cdayb2	<GEN>cdayb2							
+cdayb3	<GEN>cdayb3							
+cdayb4	<GEN>cdayb4							
+cdayc1	<GEN>cdayc1							
+cdayc2	<GEN>cdayc2							
+cdayc3	<GEN>cdayc3							
+cdayc4	<GEN>cdayc4							
+cdayd1	<GEN>cdayd1							
+cdayd2	<GEN>cdayd2							
+cdayd3	<GEN>cdayd3							
+cdayd4	<GEN>cdayd4							
+cdaye1	<GEN>cdaye1							
+cdaye2	<GEN>cdaye2							
+cdaye3	<GEN>cdaye3							
+cdaye4	<GEN>cdaye4							
+cdayf1	<GEN>cdayf1							
+cdayf2	<GEN>cdayf2							
+cdayf3	<GEN>cdayf3							
+cdayf4	<GEN>cdayf4							
+cdbeb1	<GEN>cdbeb1							
+cdbeb2	<GEN>cdbeb2							
+cdbeb3	<GEN>cdbeb3							
+cdbeb4	<GEN>cdbeb4							
+cdbec1	<GEN>cdbec1							
+cdbec2	<GEN>cdbec2							
+cdbec3	<GEN>cdbec3							
+cdbec4	<GEN>cdbec4							
+cdbed1	<GEN>cdbed1							
+cdbed2	<GEN>cdbed2							
+cdbed3	<GEN>cdbed3							
+cdbed4	<GEN>cdbed4							
+cdbee1	<GEN>cdbee1							
+cdbee2	<GEN>cdbee2							
+cdbee3	<GEN>cdbee3							
+cdbee4	<GEN>cdbee4							
+cdbef1	<GEN>cdbef1							
+cdbef2	<GEN>cdbef2							
+cdbef3	<GEN>cdbef3							
+cdbef4	<GEN>cdbef4							
+cdbnb1	<GEN>cdbnb1							
+cdbnb2	<GEN>cdbnb2							
+cdbnb3	<GEN>cdbnb3							
+cdbnb4	<GEN>cdbnb4							
+cdbnc1	<GEN>cdbnc1							
+cdbnc2	<GEN>cdbnc2							
+cdbnc3	<GEN>cdbnc3							
+cdbnc4	<GEN>cdbnc4							
+cdbnd1	<GEN>cdbnd1							
+cdbnd2	<GEN>cdbnd2							
+cdbnd3	<GEN>cdbnd3							
+cdbnd4	<GEN>cdbnd4							
+cdbne1	<GEN>cdbne1							
+cdbne2	<GEN>cdbne2							
+cdbne3	<GEN>cdbne3							
+cdbne4	<GEN>cdbne4							
+cdbnf1	<GEN>cdbnf1							
+cdbnf2	<GEN>cdbnf2							
+cdbnf3	<GEN>cdbnf3							
+cdbnf4	<GEN>cdbnf4							
+cdbsb1	<GEN>cdbsb1							
+cdbsb2	<GEN>cdbsb2							
+cdbsb3	<GEN>cdbsb3							
+cdbsb4	<GEN>cdbsb4							
+cdbsc1	<GEN>cdbsc1							
+cdbsc2	<GEN>cdbsc2							
+cdbsc3	<GEN>cdbsc3							
+cdbsc4	<GEN>cdbsc4							
+cdbsd1	<GEN>cdbsd1							
+cdbsd2	<GEN>cdbsd2							
+cdbsd3	<GEN>cdbsd3							
+cdbsd4	<GEN>cdbsd4							
+cdbse1	<GEN>cdbse1							
+cdbse2	<GEN>cdbse2							
+cdbse3	<GEN>cdbse3							
+cdbse4	<GEN>cdbse4							
+cdbsf1	<GEN>cdbsf1							
+cdbsf2	<GEN>cdbsf2							
+cdbsf3	<GEN>cdbsf3							
+cdbsf4	<GEN>cdbsf4							
+cdbtb1	<GEN>cdbtb1							
+cdbtb2	<GEN>cdbtb2							
+cdbtb3	<GEN>cdbtb3							
+cdbtb4	<GEN>cdbtb4							
+cdbtc1	<GEN>cdbtc1							
+cdbtc2	<GEN>cdbtc2							
+cdbtc3	<GEN>cdbtc3							
+cdbtc4	<GEN>cdbtc4							
+cdbtd1	<GEN>cdbtd1							
+cdbtd2	<GEN>cdbtd2							
+cdbtd3	<GEN>cdbtd3							
+cdbtd4	<GEN>cdbtd4							
+cdbte1	<GEN>cdbte1							
+cdbte2	<GEN>cdbte2							
+cdbte3	<GEN>cdbte3							
+cdbte4	<GEN>cdbte4							
+cdbtf1	<GEN>cdbtf1							
+cdbtf2	<GEN>cdbtf2							
+cdbtf3	<GEN>cdbtf3							
+cdbtf4	<GEN>cdbtf4							
+cdbub1	<GEN>cdbub1							
+cdbub2	<GEN>cdbub2							
+cdbub3	<GEN>cdbub3							
+cdbub4	<GEN>cdbub4							
+cdbuc1	<GEN>cdbuc1							
+cdbuc2	<GEN>cdbuc2							
+cdbuc3	<GEN>cdbuc3							
+cdbuc4	<GEN>cdbuc4							
+cdbud1	<GEN>cdbud1							
+cdbud2	<GEN>cdbud2							
+cdbud3	<GEN>cdbud3							
+cdbud4	<GEN>cdbud4							
+cdbue1	<GEN>cdbue1							
+cdbue2	<GEN>cdbue2							
+cdbue3	<GEN>cdbue3							
+cdbue4	<GEN>cdbue4							
+cdbuf1	<GEN>cdbuf1							
+cdbuf2	<GEN>cdbuf2							
+cdbuf3	<GEN>cdbuf3							
+cdbuf4	<GEN>cdbuf4							
+cdbvb1	<GEN>cdbvb1							
+cdbvb2	<GEN>cdbvb2							
+cdbvb3	<GEN>cdbvb3							
+cdbvb4	<GEN>cdbvb4							
+cdbvc1	<GEN>cdbvc1							
+cdbvc2	<GEN>cdbvc2							
+cdbvc3	<GEN>cdbvc3							
+cdbvc4	<GEN>cdbvc4							
+cdbvd1	<GEN>cdbvd1							
+cdbvd2	<GEN>cdbvd2							
+cdbvd3	<GEN>cdbvd3							
+cdbvd4	<GEN>cdbvd4							
+cdbve1	<GEN>cdbve1							
+cdbve2	<GEN>cdbve2							
+cdbve3	<GEN>cdbve3							
+cdbve4	<GEN>cdbve4							
+cdbvf1	<GEN>cdbvf1							
+cdbvf2	<GEN>cdbvf2							
+cdbvf3	<GEN>cdbvf3							
+cdbvf4	<GEN>cdbvf4							
+cdbwb1	<GEN>cdbwb1							
+cdbwb2	<GEN>cdbwb2							
+cdbwb3	<GEN>cdbwb3							
+cdbwb4	<GEN>cdbwb4							
+cdbwc1	<GEN>cdbwc1							
+cdbwc2	<GEN>cdbwc2							
+cdbwc3	<GEN>cdbwc3							
+cdbwc4	<GEN>cdbwc4							
+cdbwd1	<GEN>cdbwd1							
+cdbwd2	<GEN>cdbwd2							
+cdbwd3	<GEN>cdbwd3							
+cdbwd4	<GEN>cdbwd4							
+cdbwe1	<GEN>cdbwe1							
+cdbwe2	<GEN>cdbwe2							
+cdbwe3	<GEN>cdbwe3							
+cdbwe4	<GEN>cdbwe4							
+cdbwf1	<GEN>cdbwf1							
+cdbwf2	<GEN>cdbwf2							
+cdbwf3	<GEN>cdbwf3							
+cdbwf4	<GEN>cdbwf4							
+cdbxb1	<GEN>cdbxb1							
+cdbxb2	<GEN>cdbxb2							
+cdbxb3	<GEN>cdbxb3							
+cdbxb4	<GEN>cdbxb4							
+cdbxc1	<GEN>cdbxc1							
+cdbxc2	<GEN>cdbxc2							
+cdbxc3	<GEN>cdbxc3							
+cdbxc4	<GEN>cdbxc4							
+cdbxd1	<GEN>cdbxd1							
+cdbxd2	<GEN>cdbxd2							
+cdbxd3	<GEN>cdbxd3							
+cdbxd4	<GEN>cdbxd4							
+cdbxe1	<GEN>cdbxe1							
+cdbxe2	<GEN>cdbxe2							
+cdbxe3	<GEN>cdbxe3							
+cdbxe4	<GEN>cdbxe4							
+cdbxf1	<GEN>cdbxf1							
+cdbxf2	<GEN>cdbxf2							
+cdbxf3	<GEN>cdbxf3							
+cdbxf4	<GEN>cdbxf4							
+cdbyb1	<GEN>cdbyb1							
+cdbyb2	<GEN>cdbyb2							
+cdbyb3	<GEN>cdbyb3							
+cdbyb4	<GEN>cdbyb4							
+cdbyc1	<GEN>cdbyc1							
+cdbyc2	<GEN>cdbyc2							
+cdbyc3	<GEN>cdbyc3							
+cdbyc4	<GEN>cdbyc4							
+cdbyd1	<GEN>cdbyd1							
+cdbyd2	<GEN>cdbyd2							
+cdbyd3	<GEN>cdbyd3							
+cdbyd4	<GEN>cdbyd4							
+cdbye1	<GEN>cdbye1							
+cdbye2	<GEN>cdbye2							
+cdbye3	<GEN>cdbye3							
+cdbye4	<GEN>cdbye4							
+cdbyf1	<GEN>cdbyf1							
+cdbyf2	<GEN>cdbyf2							
+cdbyf3	<GEN>cdbyf3							
+cdbyf4	<GEN>cdbyf4							
+cdceb1	<GEN>cdceb1							
+cdceb2	<GEN>cdceb2							
+cdceb3	<GEN>cdceb3							
+cdceb4	<GEN>cdceb4							
+cdcec1	<GEN>cdcec1							
+cdcec2	<GEN>cdcec2							
+cdcec3	<GEN>cdcec3							
+cdcec4	<GEN>cdcec4							
+cdced1	<GEN>cdced1							
+cdced2	<GEN>cdced2							
+cdced3	<GEN>cdced3							
+cdced4	<GEN>cdced4							
+cdcee1	<GEN>cdcee1							
+cdcee2	<GEN>cdcee2							
+cdcee3	<GEN>cdcee3							
+cdcee4	<GEN>cdcee4							
+cdcef1	<GEN>cdcef1							
+cdcef2	<GEN>cdcef2							
+cdcef3	<GEN>cdcef3							
+cdcef4	<GEN>cdcef4							
+cdcnb1	<GEN>cdcnb1							
+cdcnb2	<GEN>cdcnb2							
+cdcnb3	<GEN>cdcnb3							
+cdcnb4	<GEN>cdcnb4							
+cdcnc1	<GEN>cdcnc1							
+cdcnc2	<GEN>cdcnc2							
+cdcnc3	<GEN>cdcnc3							
+cdcnc4	<GEN>cdcnc4							
+cdcnd1	<GEN>cdcnd1							
+cdcnd2	<GEN>cdcnd2							
+cdcnd3	<GEN>cdcnd3							
+cdcnd4	<GEN>cdcnd4							
+cdcne1	<GEN>cdcne1							
+cdcne2	<GEN>cdcne2							
+cdcne3	<GEN>cdcne3							
+cdcne4	<GEN>cdcne4							
+cdcnf1	<GEN>cdcnf1							
+cdcnf2	<GEN>cdcnf2							
+cdcnf3	<GEN>cdcnf3							
+cdcnf4	<GEN>cdcnf4							
+cdcsb1	<GEN>cdcsb1							
+cdcsb2	<GEN>cdcsb2							
+cdcsb3	<GEN>cdcsb3							
+cdcsb4	<GEN>cdcsb4							
+cdcsc1	<GEN>cdcsc1							
+cdcsc2	<GEN>cdcsc2							
+cdcsc3	<GEN>cdcsc3							
+cdcsc4	<GEN>cdcsc4							
+cdcsd1	<GEN>cdcsd1							
+cdcsd2	<GEN>cdcsd2							
+cdcsd3	<GEN>cdcsd3							
+cdcsd4	<GEN>cdcsd4							
+cdcse1	<GEN>cdcse1							
+cdcse2	<GEN>cdcse2							
+cdcse3	<GEN>cdcse3							
+cdcse4	<GEN>cdcse4							
+cdcsf1	<GEN>cdcsf1							
+cdcsf2	<GEN>cdcsf2							
+cdcsf3	<GEN>cdcsf3							
+cdcsf4	<GEN>cdcsf4							
+cdctb1	<GEN>cdctb1							
+cdctb2	<GEN>cdctb2							
+cdctb3	<GEN>cdctb3							
+cdctb4	<GEN>cdctb4							
+cdctc1	<GEN>cdctc1							
+cdctc2	<GEN>cdctc2							
+cdctc3	<GEN>cdctc3							
+cdctc4	<GEN>cdctc4							
+cdctd1	<GEN>cdctd1							
+cdctd2	<GEN>cdctd2							
+cdctd3	<GEN>cdctd3							
+cdctd4	<GEN>cdctd4							
+cdcte1	<GEN>cdcte1							
+cdcte2	<GEN>cdcte2							
+cdcte3	<GEN>cdcte3							
+cdcte4	<GEN>cdcte4							
+cdctf1	<GEN>cdctf1							
+cdctf2	<GEN>cdctf2							
+cdctf3	<GEN>cdctf3							
+cdctf4	<GEN>cdctf4							
+cdcub1	<GEN>cdcub1							
+cdcub2	<GEN>cdcub2							
+cdcub3	<GEN>cdcub3							
+cdcub4	<GEN>cdcub4							
+cdcuc1	<GEN>cdcuc1							
+cdcuc2	<GEN>cdcuc2							
+cdcuc3	<GEN>cdcuc3							
+cdcuc4	<GEN>cdcuc4							
+cdcud1	<GEN>cdcud1							
+cdcud2	<GEN>cdcud2							
+cdcud3	<GEN>cdcud3							
+cdcud4	<GEN>cdcud4							
+cdcue1	<GEN>cdcue1							
+cdcue2	<GEN>cdcue2							
+cdcue3	<GEN>cdcue3							
+cdcue4	<GEN>cdcue4							
+cdcuf1	<GEN>cdcuf1							
+cdcuf2	<GEN>cdcuf2							
+cdcuf3	<GEN>cdcuf3							
+cdcuf4	<GEN>cdcuf4							
+cdcvb1	<GEN>cdcvb1							
+cdcvb2	<GEN>cdcvb2							
+cdcvb3	<GEN>cdcvb3							
+cdcvb4	<GEN>cdcvb4							
+cdcvc1	<GEN>cdcvc1							
+cdcvc2	<GEN>cdcvc2							
+cdcvc3	<GEN>cdcvc3							
+cdcvc4	<GEN>cdcvc4							
+cdcvd1	<GEN>cdcvd1							
+cdcvd2	<GEN>cdcvd2							
+cdcvd3	<GEN>cdcvd3							
+cdcvd4	<GEN>cdcvd4							
+cdcve1	<GEN>cdcve1							
+cdcve2	<GEN>cdcve2							
+cdcve3	<GEN>cdcve3							
+cdcve4	<GEN>cdcve4							
+cdcvf1	<GEN>cdcvf1							
+cdcvf2	<GEN>cdcvf2							
+cdcvf3	<GEN>cdcvf3							
+cdcvf4	<GEN>cdcvf4							
+cdcwb1	<GEN>cdcwb1							
+cdcwb2	<GEN>cdcwb2							
+cdcwb3	<GEN>cdcwb3							
+cdcwb4	<GEN>cdcwb4							
+cdcwc1	<GEN>cdcwc1							
+cdcwc2	<GEN>cdcwc2							
+cdcwc3	<GEN>cdcwc3							
+cdcwc4	<GEN>cdcwc4							
+cdcwd1	<GEN>cdcwd1							
+cdcwd2	<GEN>cdcwd2							
+cdcwd3	<GEN>cdcwd3							
+cdcwd4	<GEN>cdcwd4							
+cdcwe1	<GEN>cdcwe1							
+cdcwe2	<GEN>cdcwe2							
+cdcwe3	<GEN>cdcwe3							
+cdcwe4	<GEN>cdcwe4							
+cdcwf1	<GEN>cdcwf1							
+cdcwf2	<GEN>cdcwf2							
+cdcwf3	<GEN>cdcwf3							
+cdcwf4	<GEN>cdcwf4							
+cdcxb1	<GEN>cdcxb1							
+cdcxb2	<GEN>cdcxb2							
+cdcxb3	<GEN>cdcxb3							
+cdcxb4	<GEN>cdcxb4							
+cdcxc1	<GEN>cdcxc1							
+cdcxc2	<GEN>cdcxc2							
+cdcxc3	<GEN>cdcxc3							
+cdcxc4	<GEN>cdcxc4							
+cdcxd1	<GEN>cdcxd1							
+cdcxd2	<GEN>cdcxd2							
+cdcxd3	<GEN>cdcxd3							
+cdcxd4	<GEN>cdcxd4							
+cdcxe1	<GEN>cdcxe1							
+cdcxe2	<GEN>cdcxe2							
+cdcxe3	<GEN>cdcxe3							
+cdcxe4	<GEN>cdcxe4							
+cdcxf1	<GEN>cdcxf1							
+cdcxf2	<GEN>cdcxf2							
+cdcxf3	<GEN>cdcxf3							
+cdcxf4	<GEN>cdcxf4							
+cdcyb1	<GEN>cdcyb1							
+cdcyb2	<GEN>cdcyb2							
+cdcyb3	<GEN>cdcyb3							
+cdcyb4	<GEN>cdcyb4							
+cdcyc1	<GEN>cdcyc1							
+cdcyc2	<GEN>cdcyc2							
+cdcyc3	<GEN>cdcyc3							
+cdcyc4	<GEN>cdcyc4							
+cdcyd1	<GEN>cdcyd1							
+cdcyd2	<GEN>cdcyd2							
+cdcyd3	<GEN>cdcyd3							
+cdcyd4	<GEN>cdcyd4							
+cdcye1	<GEN>cdcye1							
+cdcye2	<GEN>cdcye2							
+cdcye3	<GEN>cdcye3							
+cdcye4	<GEN>cdcye4							
+cdcyf1	<GEN>cdcyf1							
+cdcyf2	<GEN>cdcyf2							
+cdcyf3	<GEN>cdcyf3							
+cdcyf4	<GEN>cdcyf4							
+chleb1	<GEN>chleb1							
+chleb2	<GEN>chleb2							
+chleb3	<GEN>chleb3							
+chleb4	<GEN>chleb4							
+chlec1	<GEN>chlec1							
+chlec2	<GEN>chlec2							
+chlec3	<GEN>chlec3							
+chlec4	<GEN>chlec4							
+chled1	<GEN>chled1							
+chled2	<GEN>chled2							
+chled3	<GEN>chled3							
+chled4	<GEN>chled4							
+chlee1	<GEN>chlee1							
+chlee2	<GEN>chlee2							
+chlee3	<GEN>chlee3							
+chlee4	<GEN>chlee4							
+chlef1	<GEN>chlef1							
+chlef2	<GEN>chlef2							
+chlef3	<GEN>chlef3							
+chlef4	<GEN>chlef4							
+ckaeb1	<GEN>ckaeb1							
+ckaeb2	<GEN>ckaeb2							
+ckaeb3	<GEN>ckaeb3							
+ckaeb4	<GEN>ckaeb4							
+ckaec1	<GEN>ckaec1							
+ckaec2	<GEN>ckaec2							
+ckaec3	<GEN>ckaec3							
+ckaec4	<GEN>ckaec4							
+ckaed1	<GEN>ckaed1							
+ckaed2	<GEN>ckaed2							
+ckaed3	<GEN>ckaed3							
+ckaed4	<GEN>ckaed4							
+ckaee1	<GEN>ckaee1							
+ckaee2	<GEN>ckaee2							
+ckaee3	<GEN>ckaee3							
+ckaee4	<GEN>ckaee4							
+ckaef1	<GEN>ckaef1							
+ckaef2	<GEN>ckaef2							
+ckaef3	<GEN>ckaef3							
+ckaef4	<GEN>ckaef4							
+ckbeb1	<GEN>ckbeb1							
+ckbeb2	<GEN>ckbeb2							
+ckbeb3	<GEN>ckbeb3							
+ckbeb4	<GEN>ckbeb4							
+ckbec1	<GEN>ckbec1							
+ckbec2	<GEN>ckbec2							
+ckbec3	<GEN>ckbec3							
+ckbec4	<GEN>ckbec4							
+ckbed1	<GEN>ckbed1							
+ckbed2	<GEN>ckbed2							
+ckbed3	<GEN>ckbed3							
+ckbed4	<GEN>ckbed4							
+ckbee1	<GEN>ckbee1							
+ckbee2	<GEN>ckbee2							
+ckbee3	<GEN>ckbee3							
+ckbee4	<GEN>ckbee4							
+ckbef1	<GEN>ckbef1							
+ckbef2	<GEN>ckbef2							
+ckbef3	<GEN>ckbef3							
+ckbef4	<GEN>ckbef4							
+ckbsb1	<GEN>ckbsb1							
+ckbsb2	<GEN>ckbsb2							
+ckbsb3	<GEN>ckbsb3							
+ckbsb4	<GEN>ckbsb4							
+ckbsc1	<GEN>ckbsc1							
+ckbsc2	<GEN>ckbsc2							
+ckbsc3	<GEN>ckbsc3							
+ckbsc4	<GEN>ckbsc4							
+ckbsd1	<GEN>ckbsd1							
+ckbsd2	<GEN>ckbsd2							
+ckbsd3	<GEN>ckbsd3							
+ckbsd4	<GEN>ckbsd4							
+ckbse1	<GEN>ckbse1							
+ckbse2	<GEN>ckbse2							
+ckbse3	<GEN>ckbse3							
+ckbse4	<GEN>ckbse4							
+ckbsf1	<GEN>ckbsf1							
+ckbsf2	<GEN>ckbsf2							
+ckbsf3	<GEN>ckbsf3							
+ckbsf4	<GEN>ckbsf4							
+ckbtb1	<GEN>ckbtb1							
+ckbtb2	<GEN>ckbtb2							
+ckbtb3	<GEN>ckbtb3							
+ckbtb4	<GEN>ckbtb4							
+ckbtc1	<GEN>ckbtc1							
+ckbtc2	<GEN>ckbtc2							
+ckbtc3	<GEN>ckbtc3							
+ckbtc4	<GEN>ckbtc4							
+ckbtd1	<GEN>ckbtd1							
+ckbtd2	<GEN>ckbtd2							
+ckbtd3	<GEN>ckbtd3							
+ckbtd4	<GEN>ckbtd4							
+ckbte1	<GEN>ckbte1							
+ckbte2	<GEN>ckbte2							
+ckbte3	<GEN>ckbte3							
+ckbte4	<GEN>ckbte4							
+ckbtf1	<GEN>ckbtf1							
+ckbtf2	<GEN>ckbtf2							
+ckbtf3	<GEN>ckbtf3							
+ckbtf4	<GEN>ckbtf4							
+ckceb1	<GEN>ckceb1							
+ckceb2	<GEN>ckceb2							
+ckceb3	<GEN>ckceb3							
+ckceb4	<GEN>ckceb4							
+ckcec1	<GEN>ckcec1							
+ckcec2	<GEN>ckcec2							
+ckcec3	<GEN>ckcec3							
+ckcec4	<GEN>ckcec4							
+ckced1	<GEN>ckced1							
+ckced2	<GEN>ckced2							
+ckced3	<GEN>ckced3							
+ckced4	<GEN>ckced4							
+ckcee1	<GEN>ckcee1							
+ckcee2	<GEN>ckcee2							
+ckcee3	<GEN>ckcee3							
+ckcee4	<GEN>ckcee4							
+ckcef1	<GEN>ckcef1							
+ckcef2	<GEN>ckcef2							
+ckcef3	<GEN>ckcef3							
+ckcef4	<GEN>ckcef4							
+ckdeb1	<GEN>ckdeb1							
+ckdeb2	<GEN>ckdeb2							
+ckdeb3	<GEN>ckdeb3							
+ckdeb4	<GEN>ckdeb4							
+ckdec1	<GEN>ckdec1							
+ckdec2	<GEN>ckdec2							
+ckdec3	<GEN>ckdec3							
+ckdec4	<GEN>ckdec4							
+ckded1	<GEN>ckded1							
+ckded2	<GEN>ckded2							
+ckded3	<GEN>ckded3							
+ckded4	<GEN>ckded4							
+ckdee1	<GEN>ckdee1							
+ckdee2	<GEN>ckdee2							
+ckdee3	<GEN>ckdee3							
+ckdee4	<GEN>ckdee4							
+ckdef1	<GEN>ckdef1							
+ckdef2	<GEN>ckdef2							
+ckdef3	<GEN>ckdef3							
+ckdef4	<GEN>ckdef4							
+ckdsb1	<GEN>ckdsb1							
+ckdsb2	<GEN>ckdsb2							
+ckdsb3	<GEN>ckdsb3							
+ckdsb4	<GEN>ckdsb4							
+ckdsc1	<GEN>ckdsc1							
+ckdsc2	<GEN>ckdsc2							
+ckdsc3	<GEN>ckdsc3							
+ckdsc4	<GEN>ckdsc4							
+ckdsd1	<GEN>ckdsd1							
+ckdsd2	<GEN>ckdsd2							
+ckdsd3	<GEN>ckdsd3							
+ckdsd4	<GEN>ckdsd4							
+ckdse1	<GEN>ckdse1							
+ckdse2	<GEN>ckdse2							
+ckdse3	<GEN>ckdse3							
+ckdse4	<GEN>ckdse4							
+ckdsf1	<GEN>ckdsf1							
+ckdsf2	<GEN>ckdsf2							
+ckdsf3	<GEN>ckdsf3							
+ckdsf4	<GEN>ckdsf4							
+ckdsf4_rite	<GEN>ckdsf4_rite							
+ckeeb1	<GEN>ckeeb1							
+ckeeb2	<GEN>ckeeb2							
+ckeeb3	<GEN>ckeeb3							
+ckeeb4	<GEN>ckeeb4							
+ckeec1	<GEN>ckeec1							
+ckeec2	<GEN>ckeec2							
+ckeec3	<GEN>ckeec3							
+ckeec4	<GEN>ckeec4							
+ckeed1	<GEN>ckeed1							
+ckeed2	<GEN>ckeed2							
+ckeed3	<GEN>ckeed3							
+ckeed4	<GEN>ckeed4							
+ckeee1	<GEN>ckeee1							
+ckeee2	<GEN>ckeee2							
+ckeee3	<GEN>ckeee3							
+ckeee4	<GEN>ckeee4							
+ckeef1	<GEN>ckeef1							
+ckeef2	<GEN>ckeef2							
+ckeef3	<GEN>ckeef3							
+ckeef4	<GEN>ckeef4							
+ckesb1	<GEN>ckesb1							
+ckesb2	<GEN>ckesb2							
+ckesb3	<GEN>ckesb3							
+ckesb4	<GEN>ckesb4							
+ckesc1	<GEN>ckesc1							
+ckesc2	<GEN>ckesc2							
+ckesc3	<GEN>ckesc3							
+ckesc4	<GEN>ckesc4							
+ckesd1	<GEN>ckesd1							
+ckesd2	<GEN>ckesd2							
+ckesd3	<GEN>ckesd3							
+ckesd4	<GEN>ckesd4							
+ckese1	<GEN>ckese1							
+ckese2	<GEN>ckese2							
+ckese3	<GEN>ckese3							
+ckese4	<GEN>ckese4							
+ckesf1	<GEN>ckesf1							
+ckesf2	<GEN>ckesf2							
+ckesf3	<GEN>ckesf3							
+ckesf4	<GEN>ckesf4							
+ckfeb1	<GEN>ckfeb1							
+ckfeb2	<GEN>ckfeb2							
+ckfeb3	<GEN>ckfeb3							
+ckfeb4	<GEN>ckfeb4							
+ckfec1	<GEN>ckfec1							
+ckfec2	<GEN>ckfec2							
+ckfec3	<GEN>ckfec3							
+ckfec4	<GEN>ckfec4							
+ckfed1	<GEN>ckfed1							
+ckfed2	<GEN>ckfed2							
+ckfed3	<GEN>ckfed3							
+ckfed4	<GEN>ckfed4							
+ckfee1	<GEN>ckfee1							
+ckfee2	<GEN>ckfee2							
+ckfee3	<GEN>ckfee3							
+ckfee4	<GEN>ckfee4							
+ckfef1	<GEN>ckfef1							
+ckfef2	<GEN>ckfef2							
+ckfef3	<GEN>ckfef3							
+ckfef4	<GEN>ckfef4							
+ckfsb1	<GEN>ckfsb1							
+ckfsb2	<GEN>ckfsb2							
+ckfsb3	<GEN>ckfsb3							
+ckfsb4	<GEN>ckfsb4							
+ckfsc1	<GEN>ckfsc1							
+ckfsc2	<GEN>ckfsc2							
+ckfsc3	<GEN>ckfsc3							
+ckfsc4	<GEN>ckfsc4							
+ckfsd1	<GEN>ckfsd1							
+ckfsd2	<GEN>ckfsd2							
+ckfsd3	<GEN>ckfsd3							
+ckfsd4	<GEN>ckfsd4							
+ckfse1	<GEN>ckfse1							
+ckfse2	<GEN>ckfse2							
+ckfse3	<GEN>ckfse3							
+ckfse4	<GEN>ckfse4							
+ckfsf1	<GEN>ckfsf1							
+ckfsf2	<GEN>ckfsf2							
+ckfsf3	<GEN>ckfsf3							
+ckfsf4	<GEN>ckfsf4							
+ckgeb1	<GEN>ckgeb1							
+ckgeb2	<GEN>ckgeb2							
+ckgeb3	<GEN>ckgeb3							
+ckgeb4	<GEN>ckgeb4							
+ckgec1	<GEN>ckgec1							
+ckgec2	<GEN>ckgec2							
+ckgec3	<GEN>ckgec3							
+ckgec4	<GEN>ckgec4							
+ckged1	<GEN>ckged1							
+ckged2	<GEN>ckged2							
+ckged3	<GEN>ckged3							
+ckged4	<GEN>ckged4							
+ckgee1	<GEN>ckgee1							
+ckgee2	<GEN>ckgee2							
+ckgee3	<GEN>ckgee3							
+ckgee4	<GEN>ckgee4							
+ckgef1	<GEN>ckgef1							
+ckgef2	<GEN>ckgef2							
+ckgef3	<GEN>ckgef3							
+ckgef4	<GEN>ckgef4							
+ckgsb1	<GEN>ckgsb1							
+ckgsb2	<GEN>ckgsb2							
+ckgsb3	<GEN>ckgsb3							
+ckgsb4	<GEN>ckgsb4							
+ckgsc1	<GEN>ckgsc1							
+ckgsc2	<GEN>ckgsc2							
+ckgsc3	<GEN>ckgsc3							
+ckgsc4	<GEN>ckgsc4							
+ckgsd1	<GEN>ckgsd1							
+ckgsd2	<GEN>ckgsd2							
+ckgsd3	<GEN>ckgsd3							
+ckgsd4	<GEN>ckgsd4							
+ckgse1	<GEN>ckgse1							
+ckgse2	<GEN>ckgse2							
+ckgse3	<GEN>ckgse3							
+ckgse4	<GEN>ckgse4							
+ckgsf1	<GEN>ckgsf1							
+ckgsf2	<GEN>ckgsf2							
+ckgsf3	<GEN>ckgsf3							
+ckgsf4	<GEN>ckgsf4							
+ckheb1	<GEN>ckheb1							
+ckheb2	<GEN>ckheb2							
+ckheb3	<GEN>ckheb3							
+ckheb4	<GEN>ckheb4							
+ckhec1	<GEN>ckhec1							
+ckhec2	<GEN>ckhec2							
+ckhec3	<GEN>ckhec3							
+ckhec4	<GEN>ckhec4							
+ckhed1	<GEN>ckhed1							
+ckhed2	<GEN>ckhed2							
+ckhed3	<GEN>ckhed3							
+ckhed4	<GEN>ckhed4							
+ckhee1	<GEN>ckhee1							
+ckhee2	<GEN>ckhee2							
+ckhee3	<GEN>ckhee3							
+ckhee4	<GEN>ckhee4							
+ckhef1	<GEN>ckhef1							
+ckhef2	<GEN>ckhef2							
+ckhef3	<GEN>ckhef3							
+ckhef4	<GEN>ckhef4							
+ckhsb1	<GEN>ckhsb1							
+ckhsb2	<GEN>ckhsb2							
+ckhsb3	<GEN>ckhsb3							
+ckhsb4	<GEN>ckhsb4							
+ckhsc1	<GEN>ckhsc1							
+ckhsc2	<GEN>ckhsc2							
+ckhsc3	<GEN>ckhsc3							
+ckhsc4	<GEN>ckhsc4							
+ckhsd1	<GEN>ckhsd1							
+ckhsd2	<GEN>ckhsd2							
+ckhsd3	<GEN>ckhsd3							
+ckhsd4	<GEN>ckhsd4							
+ckhse1	<GEN>ckhse1							
+ckhse2	<GEN>ckhse2							
+ckhse3	<GEN>ckhse3							
+ckhse4	<GEN>ckhse4							
+ckhsf1	<GEN>ckhsf1							
+ckhsf2	<GEN>ckhsf2							
+ckhsf3	<GEN>ckhsf3							
+ckhsf4	<GEN>ckhsf4							
+ckieb1	<GEN>ckieb1							
+ckieb2	<GEN>ckieb2							
+ckieb3	<GEN>ckieb3							
+ckieb4	<GEN>ckieb4							
+ckiec1	<GEN>ckiec1							
+ckiec2	<GEN>ckiec2							
+ckiec3	<GEN>ckiec3							
+ckiec4	<GEN>ckiec4							
+ckied1	<GEN>ckied1							
+ckied2	<GEN>ckied2							
+ckied3	<GEN>ckied3							
+ckied4	<GEN>ckied4							
+ckiee1	<GEN>ckiee1							
+ckiee2	<GEN>ckiee2							
+ckiee3	<GEN>ckiee3							
+ckiee4	<GEN>ckiee4							
+ckief1	<GEN>ckief1							
+ckief2	<GEN>ckief2							
+ckief3	<GEN>ckief3							
+ckief4	<GEN>ckief4							
+ckjeb1	<GEN>ckjeb1							
+ckjeb2	<GEN>ckjeb2							
+ckjeb3	<GEN>ckjeb3							
+ckjeb4	<GEN>ckjeb4							
+ckjec1	<GEN>ckjec1							
+ckjec2	<GEN>ckjec2							
+ckjec3	<GEN>ckjec3							
+ckjec4	<GEN>ckjec4							
+ckjed1	<GEN>ckjed1							
+ckjed2	<GEN>ckjed2							
+ckjed3	<GEN>ckjed3							
+ckjed4	<GEN>ckjed4							
+ckjee1	<GEN>ckjee1							
+ckjee2	<GEN>ckjee2							
+ckjee3	<GEN>ckjee3							
+ckjee4	<GEN>ckjee4							
+ckjef1	<GEN>ckjef1							
+ckjef2	<GEN>ckjef2							
+ckjef3	<GEN>ckjef3							
+ckjef4	<GEN>ckjef4							
+ckjsb1	<GEN>ckjsb1							
+ckjsb2	<GEN>ckjsb2							
+ckjsb3	<GEN>ckjsb3							
+ckjsb4	<GEN>ckjsb4							
+ckjsc1	<GEN>ckjsc1							
+ckjsc2	<GEN>ckjsc2							
+ckjsc3	<GEN>ckjsc3							
+ckjsc4	<GEN>ckjsc4							
+ckjsd1	<GEN>ckjsd1							
+ckjsd2	<GEN>ckjsd2							
+ckjsd3	<GEN>ckjsd3							
+ckjsd4	<GEN>ckjsd4							
+ckjse1	<GEN>ckjse1							
+ckjse2	<GEN>ckjse2							
+ckjse3	<GEN>ckjse3							
+ckjse4	<GEN>ckjse4							
+ckjsf1	<GEN>ckjsf1							
+ckjsf2	<GEN>ckjsf2							
+ckjsf3	<GEN>ckjsf3							
+ckjsf4	<GEN>ckjsf4							
+cpbeb1	<GEN>cpbeb1							
+cpbeb2	<GEN>cpbeb2							
+cpbeb3	<GEN>cpbeb3							
+cpbeb4	<GEN>cpbeb4							
+cpbec1	<GEN>cpbec1							
+cpbec2	<GEN>cpbec2							
+cpbec3	<GEN>cpbec3							
+cpbec4	<GEN>cpbec4							
+cpbed1	<GEN>cpbed1							
+cpbed2	<GEN>cpbed2							
+cpbed3	<GEN>cpbed3							
+cpbed4	<GEN>cpbed4							
+cpbee1	<GEN>cpbee1							
+cpbee2	<GEN>cpbee2							
+cpbee3	<GEN>cpbee3							
+cpbee4	<GEN>cpbee4							
+cpbef1	<GEN>cpbef1							
+cpbef2	<GEN>cpbef2							
+cpbef3	<GEN>cpbef3							
+cpbef4	<GEN>cpbef4							
+cpdeb1	<GEN>cpdeb1							
+cpdeb2	<GEN>cpdeb2							
+cpdeb3	<GEN>cpdeb3							
+cpdeb4	<GEN>cpdeb4							
+cpdec1	<GEN>cpdec1							
+cpdec2	<GEN>cpdec2							
+cpdec3	<GEN>cpdec3							
+cpdec4	<GEN>cpdec4							
+cpded1	<GEN>cpded1							
+cpded2	<GEN>cpded2							
+cpded3	<GEN>cpded3							
+cpded4	<GEN>cpded4							
+cpdee1	<GEN>cpdee1							
+cpdee2	<GEN>cpdee2							
+cpdee3	<GEN>cpdee3							
+cpdee4	<GEN>cpdee4							
+cpdef1	<GEN>cpdef1							
+cpdef2	<GEN>cpdef2							
+cpdef3	<GEN>cpdef3							
+cpdef4	<GEN>cpdef4							
+ccjfx1	<GEN>ccjfx1							
+cclfx2	<GEN>cclfx2							
+chbfx3	<GEN>chbfx3							
+chdfa3	<GEN>chdfa3							
+chpfa3	<GEN>chpfa3							
+ckdbd4	<GEN>ckdbd4							
+ckdfa3	<GEN>ckdfa3							
+ckfbd4	<GEN>ckfbd4							
+ckffa3	<GEN>ckffa3							
+ckffa4	<GEN>ckffa4							
+ckhfx3	<GEN>ckhfx3							
+ckifx3	<GEN>ckifx3							
+ckjbd2	<GEN>ckjbd2							
+ckjfa3	<GEN>ckjfa3							
+cpgfa1	<GEN>cpgfa1							
+cclga3	<GEN>cclga3							
+cclgf5_a	<GEN>cclgf5_a							
+cclgf5_b	<GEN>cclgf5_b							
+choga3	<GEN>choga3							
+chogx2	<GEN>chogx2							
+chpga3	<GEN>chpga3							
+tcm_blackbox	<GEN>tcm_blackbox							
+ccaif1_a	<GEN>ccaif1_a							
+ccaif2_a	<GEN>ccaif2_a							
+ccaif3_a	<GEN>ccaif3_a							
+ccaif4_a	<GEN>ccaif4_a							
+ccnif1_a	<GEN>ccnif1_a							
+ccnif2_a	<GEN>ccnif2_a							
+ccnif3_a	<GEN>ccnif3_a							
+ccnif4_a	<GEN>ccnif4_a							
+ckaif1_a	<GEN>ckaif1_a							
+ckaif2_a	<GEN>ckaif2_a							
+ckaif3_a	<GEN>ckaif3_a							
+ckaif4_a	<GEN>ckaif4_a							
+ckarf4_a	<GEN>ckarf4_a							
+ckbif1_a	<GEN>ckbif1_a							
+ckbif2_a	<GEN>ckbif2_a							
+ckbif3_a	<GEN>ckbif3_a							
+ckbif4_a	<GEN>ckbif4_a							
+ckbrf4_a	<GEN>ckbrf4_a							
+ckcif1_a	<GEN>ckcif1_a							
+ckcif2_a	<GEN>ckcif2_a							
+ckcif3_a	<GEN>ckcif3_a							
+ckcif4_a	<GEN>ckcif4_a							
+ckcrf4_a	<GEN>ckcrf4_a							
+ckdif1_a	<GEN>ckdif1_a							
+ckdif2_a	<GEN>ckdif2_a							
+ckdif3_a	<GEN>ckdif3_a							
+ckdif4_a	<GEN>ckdif4_a							
+ckdrf4_a	<GEN>ckdrf4_a							
+ckeif1_a	<GEN>ckeif1_a							
+ckeif2_a	<GEN>ckeif2_a							
+ckeif3_a	<GEN>ckeif3_a							
+ckeif4_a	<GEN>ckeif4_a							
+ckerf4_a	<GEN>ckerf4_a							
+ckfif1_a	<GEN>ckfif1_a							
+ckfif2_a	<GEN>ckfif2_a							
+ckfif3_a	<GEN>ckfif3_a							
+ckfif4_a	<GEN>ckfif4_a							
+ckfrf4_a	<GEN>ckfrf4_a							
+ckgif1_a	<GEN>ckgif1_a							
+ckgif2_a	<GEN>ckgif2_a							
+ckgif3_a	<GEN>ckgif3_a							
+ckgif4_a	<GEN>ckgif4_a							
+ckgrf4_a	<GEN>ckgrf4_a							
+ckhif1_a	<GEN>ckhif1_a							
+ckhif2_a	<GEN>ckhif2_a							
+ckhif3_a	<GEN>ckhif3_a							
+ckhif4_a	<GEN>ckhif4_a							
+ckhrf4_a	<GEN>ckhrf4_a							
+ckiif1_a	<GEN>ckiif1_a							
+ckiif2_a	<GEN>ckiif2_a							
+ckiif3_a	<GEN>ckiif3_a							
+ckiif4_a	<GEN>ckiif4_a							
+ckjif1_a	<GEN>ckjif1_a							
+ckjif2_a	<GEN>ckjif2_a							
+ckjif3_a	<GEN>ckjif3_a							
+ckjif4_a	<GEN>ckjif4_a							
+ckjrf4_a	<GEN>ckjrf4_a							
+cbbjc6	<GEN>cbbjc6							
+ccjja3	<GEN>ccjja3							
+chajf7	<GEN>chajf7							
+ckjja3	<GEN>ckjja3							
+chqlc6	<GEN>chqlc6							
+ckdad2	<GEN>ckdad2							
+ckjad2	<GEN>ckjad2							
+ckcpf7	<GEN>ckcpf7							
+ckfpc0	<GEN>ckfpc0							
+ckqpf7	<GEN>ckqpf7							

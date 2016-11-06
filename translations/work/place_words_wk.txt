@@ -817,6 +817,68 @@ place_cwzh02_mp1	Dung Prospection Zone
 place_cwzh03_mp1	Pearl Prospection Zone					
 place_cimetiere_avalae	Avalae Cemetery					
 mission_ff60_emplacement_message	Message Location					
-place_marauder_camp	Marauder Camp	
-place_lieudit_marauder_arena	Marauder Arena	
-marauder_stable	Marauder Stables	the
+place_marauder_camp	Marauder Camp					
+place_lieudit_marauder_arena	Marauder Arena					
+marauder_stable	Marauder Stables	the				
+matis_island_episode2	<GEN>matis_island_episode2					
+tp_matis_island_ep 2	<GEN>tp_matis_island_ep 2					
+mission_visiter_salle_reine_1	<GEN>mission_visiter_salle_reine_1					
+mission_visiter_salle_reine_2	<GEN>mission_visiter_salle_reine_2					
+mission_visiter_salle_reine_3	<GEN>mission_visiter_salle_reine_3					
+mission_cartographie_1	<GEN>mission_cartographie_1					
+mission_cartographie_2	<GEN>mission_cartographie_2					
+mission_cartographie_3	<GEN>mission_cartographie_3					
+mission_cartographie_4	<GEN>mission_cartographie_4					
+mission_cartographie_5	<GEN>mission_cartographie_5					
+mission_cartographie_6	<GEN>mission_cartographie_6					
+mission_cartographie_7	<GEN>mission_cartographie_7					
+mission_source_magique	<GEN>mission_source_magique					
+mission_extrait_substance	<GEN>mission_extrait_substance					
+mission_substance_royale	<GEN>mission_substance_royale					
+endroit_residu_oeuf	<GEN>endroit_residu_oeuf					
+emplacement_materiau1	<GEN>emplacement_materiau1					
+emplacement_materiau2	<GEN>emplacement_materiau2					
+emplacement_materiau3	<GEN>emplacement_materiau3					
+emplacement_2_materiau1	<GEN>emplacement_2_materiau1					
+emplacement_2_materiau2	<GEN>emplacement_2_materiau2					
+emplacement_2_materiau3	<GEN>emplacement_2_materiau3					
+episode2_temple_karavan_fyros	<GEN>episode2_temple_karavan_fyros					
+episode2_temple_kami_fyros	<GEN>episode2_temple_kami_fyros					
+mission_ff70_camp_wb	<GEN>mission_ff70_camp_wb					
+r_11_19_cure_1	<GEN>r_11_19_cure_1					
+place_r_07_17	<GEN>place_r_07_17					
+episode2_temple_karavan_matis	<GEN>episode2_temple_karavan_matis					
+episode2_temple_kami_matis	<GEN>episode2_temple_kami_matis					
+place_shooting_range_fail	<GEN>place_shooting_range_fail					
+ragusrespawn	<GEN>ragusrespawn					
+ruinerespawn	<GEN>ruinerespawn					
+place_arrival_from_matis_bagne	<GEN>place_arrival_from_matis_bagne					
+place_arrival_from_nexus_bagne	<GEN>place_arrival_from_nexus_bagne					
+mission_visiter_salle_reine_4	<GEN>mission_visiter_salle_reine_4					
+endroit_rÃ©sidu_oeuf	<GEN>endroit_rÃ©sidu_oeuf					
+place_arrival_from_bagne_nexus	<GEN>place_arrival_from_bagne_nexus					
+place_arrival_from_route_gouffre_nexus	<GEN>place_arrival_from_route_gouffre_nexus					
+place_arrival_from_terre_nexus	<GEN>place_arrival_from_terre_nexus					
+place_arrival_from_fyros_route_gouffre	<GEN>place_arrival_from_fyros_route_gouffre					
+place_arrival_from_nexus_route_gouffre	<GEN>place_arrival_from_nexus_route_gouffre					
+place_arrival_from_zorai_route_gouffre	<GEN>place_arrival_from_zorai_route_gouffre					
+place_arrival_from_tryker_route_gouffre	<GEN>place_arrival_from_tryker_route_gouffre					
+place_arrival_from_fyros_sources	<GEN>place_arrival_from_fyros_sources					
+place_arrival_from_zorai_sources	<GEN>place_arrival_from_zorai_sources					
+place_arrival_from_zorai_terre	<GEN>place_arrival_from_zorai_terre					
+place_arrival_from_nexus_terre	<GEN>place_arrival_from_nexus_terre					
+continent_r2_roots	<GEN>continent_r2_roots					
+continent_r2_desert	<GEN>continent_r2_desert					
+continent_r2_lakes	<GEN>continent_r2_lakes					
+continent_r2_forest	<GEN>continent_r2_forest					
+continent_r2_jungle	<GEN>continent_r2_jungle					
+fyros_island	<GEN>fyros_island					
+tp_fyros_island_ep2	<GEN>tp_fyros_island_ep2					
+tryker_island_episode2	<GEN>tryker_island_episode2					
+tp_tryker_island_ep 7	<GEN>tp_tryker_island_ep 7					
+mission_tf100_endroit_bataille	<GEN>mission_tf100_endroit_bataille					
+boss_tryker_light_start_spawn_place	<GEN>boss_tryker_light_start_spawn_place					
+episode2_temple_kami_tryker	<GEN>episode2_temple_kami_tryker					
+episode2_temple_karavan_tryker	<GEN>episode2_temple_karavan_tryker					
+episode2_temple_kami_zorai	<GEN>episode2_temple_kami_zorai					
+episode2_temple_karavan_zorai	<GEN>episode2_temple_karavan_zorai					
