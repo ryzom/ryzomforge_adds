@@ -2155,7 +2155,7 @@ votuloa
 vruf	Zekos Deps	fyros_guard_f_h
 vukto		
 vuloiruks	Zelus Deps	fyros_guard_f_h
-vuos		
+vuos	Zemus Deps	fyros_guard_f_h
 vur	Pexius Eubus	fyhc1
 vutua	Pian Eubus	fyros_guard_f_h
 yerherd	Pibus Eubus	fyhc1
