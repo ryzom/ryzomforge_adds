@@ -14337,7 +14337,7 @@ uiTipsEnd	[Drücke die Hoch/Runter-Taste, um den vorherigen/nächsten Tipp anzuz
 
 // HASH_VALUE 9A983F205D463162
 // INDEX 3410
-uiTipsTeleport	[Lade den Kontinent:   %s , Tag %d, Uhrzeit %d. Es ist %s und das Wetter ist %s.]
+uiTipsTeleport	[Lade den Kontinent: %s, Tag %d, Uhrzeit %d Uhr. Es ist %s, das Wetter ist %s.]
 
 // HASH_VALUE A8B4501E4B0EFB14
 // INDEX 3411
