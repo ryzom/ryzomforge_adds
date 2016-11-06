@@ -1988,8 +1988,8 @@ _AD1CCC85D31438B6	oruiroi	Apothus Eubus	fyhc1
 _B1493CC56A95746D	oruors	Apotis Eubus	fyhc2		
 _6F38F0C66A952C56	osalma	Apoton Eubus	fyhc2		
 _1CF6AB9829F7DF81	osao	Boean Eubus	fyhc2		
-_925BA1FE2EB7F48F	osifa	Aethus Cegrips	fyros_guard_f_h		
-_AA29ECB7AAB9E0AD	osifo	Aetis Cegrips			
+_E4C9FCB02994424C	osifa	Aethus Cegrips	fyros_guard_f_h		
+_212438ADA0C9485D	osifo	Aetis Cegrips	fyros_guard_f_f		
 _6BE9D4B8AD59E4AF	otkof	Aexius Cegrips			
 _60D844BC60D844BC	otoa	Apoan Cegrips			
 _6F5A08C46F2914BF	otoro	Apocaon Cegrips			

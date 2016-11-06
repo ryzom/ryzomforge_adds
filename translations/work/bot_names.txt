@@ -1989,7 +1989,7 @@ oruors	Apotis Eubus	fyhc2
 osalma	Apoton Eubus	fyhc2
 osao	Boean Eubus	fyhc2
 osifa	Aethus Cegrips	fyros_guard_f_h
-osifo		
+osifo	Aetis Cegrips	fyros_guard_f_f
 otkof		
 otoa		
 otoro		
