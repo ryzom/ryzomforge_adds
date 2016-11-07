@@ -40288,7 +40288,7 @@ zo_kami_walking_4_m	[Respectez la nature et soyez élogieux envers les Kamis, et
 // INDEX 9455
 zo_kami_walking_5	[Nous devons aller lutter ensemble contre la terrible maladie qu'est la Goo !]
 
-// HASH_VALUE 6AA54185CFA6A54D
+// HASH_VALUE 6EE60F907D755DC0
 // INDEX 9456
-zo_kami_walking_6	[Parfois, les Kamis nous honore en nous demandant notre aide. N'hésitez pas à proposer votre aide si vous en voyez un.]
+zo_kami_walking_6	[Parfois, les Kamis nous honorent en nous demandant notre aide. N'hésitez pas à proposer votre aide si vous en voyez un.]
 
