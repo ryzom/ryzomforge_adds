@@ -27563,3 +27563,7 @@ uiPlayedTime	[You played with this character for %time.]
 // INDEX 6492
 uiPlaylistRefresh	[Refresh]
 
+// HASH_VALUE 570A63956CA078B7
+// INDEX 6493
+uiFreeViewTablet	[Tablet or touchscreen]
+
