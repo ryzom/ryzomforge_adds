@@ -7806,5 +7806,5 @@ tp_karavan_corrupted_moor_fairhaven	<GEN>tp_karavan_corrupted_moor_fairhaven
 tp_karavan_corrupted_moor_pyr	<GEN>tp_karavan_corrupted_moor_pyr														
 tp_karavan_corrupted_moor_yrkanis	<GEN>tp_karavan_corrupted_moor_yrkanis														
 tp_karavan_corrupted_moor_zora	<GEN>tp_karavan_corrupted_moor_zora														
-xmas_gingerubo	Gingerbread Yubo	a	the	Gingerbread Yubo		the									
+xmas_gingeryubo	Gingerbread Yubo	a	the	Gingerbread Yubo		the									
 xmas_gingerbread	Gingerbread Man	a	the	Gingerbread Man		the									
