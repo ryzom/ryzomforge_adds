@@ -6888,3 +6888,5 @@ _29B958CBA68A90A0	web_transaction	Transaction	a	the	Transactions	\d	the
 _2015701C2C98F49B	rpjobloot_casket	Mysterious Casket 	a	the	Mysterious Caskets	\d	the	
 _2E488BD22789DCAB	rpjobloot_event	Mysterious Purse	a	the	Mysterious Purses	\d	the	
 _02C0AA7F32FA1A42	marauder_teleport_crystal	Marauder Teleport Crystal	a	the	Marauder Teleport Crystals	\d	the	
+_30284704CC2117ED	xmas_gingeryubo	Gingerbread Yubo	a	the	Gingerbread Yubo		the	
+_992D57D25430CAB2	xmas_gingerbread	Gingerbread Man	a	the	Gingerbread Man		the	

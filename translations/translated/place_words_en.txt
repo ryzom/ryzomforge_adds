@@ -770,7 +770,7 @@ _8B05117DBECCE27B	place_forage_start	Prospection Zone	the
 _D32CB2D7CF615792	place_forage_zun	Zun Prospection Zone	the
 _65DD63BF98F5768D	place_forage_shat	Multiple Prospection Zone	the
 _651E2A3B082B51E9	place_forage_chloro	Spots of Goo	the
-_1ADAA4AC1A147076	gerder_food	Passage of Gerder	the
+_A4C578AF23F6B7A0	gerder_food	Passage of Gerder	the
 _0B9FC534BF35F140	rpjob_magnecarto_1_a	Magnetics Measuring Area A	\d
 _4B9FC934BF35F140	rpjob_magnecarto_1_b	Magnetics Measuring Area B	\d
 _8B9FCD34BF35F140	rpjob_magnecarto_1_c	Magnetics Measuring Area C	\d

@@ -770,7 +770,7 @@ place_forage_start	Zone de prospection	la	dans la
 place_forage_zun	Zone de prospection de la zun	la	dans la			
 place_forage_shat	Zone de prospection multiple	la	dans la			
 place_forage_chloro	Spots de Goo	les	dans les			
-gerder_food	<GEN>gerder_food					
+gerder_food	Passage of Gerder	the				
 rpjob_magnecarto_1_a	Measure area A of magnetism					
 rpjob_magnecarto_1_b	Measure area B of magnetism					
 rpjob_magnecarto_1_c	Measure area C of magnetism					
