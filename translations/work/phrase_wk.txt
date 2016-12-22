@@ -3174,8 +3174,8 @@ ROOM_YOU_INVITE(player p)
 ROOM_INVITED_BY(player p)
 {
 	(p.gender = male)
-		team_proposal_m	[&AROUND&$p$ invites you into his room.]
-	team_proposal_f	[&AROUND&$p$ invites you into her room.]
+		room_invited_by_m	[&AROUND&$p$ invites you into his room.]
+	room_invited_by_f	[&AROUND&$p$ invites you into her room.]
 }
 
 ///////////////////////////////////////////////////////////////////////////////
