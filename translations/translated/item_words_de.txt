@@ -6888,3 +6888,5 @@ _29B958CBA68A90A0	web_transaction	Transaktion	Transaktion	Transaktion	eine	die	T
 _2015701C2C98F49B	rpjobloot_casket	geheimnisvolle Kiste	geheimnisvolle Kiste	geheimnisvolle Kiste	eine	die	geheimnisvolle Kisten	geheimnisvollen Kisten	eine	die		
 _2E488BD22789DCAB	rpjobloot_event	Geheimnisvoller Beutel	geheimnisvolle Beutel	geheimnisvollen Beutel	ein	der	geheimnisvolle Beutel	geheimnisvollen Beutel	einen	die		
 _02C0AA7F32FA1A42	marauder_teleport_crystal	Marauders-Teleportationskristall	Marauders-Teleportationskristall	Marauders-Teleportationskristall	ein	der	Marauders-Teleportationskristalle	Marauders-Teleportationskristalle	einen	die		
+_30284704CC2117ED	xmas_gingeryubo	Lebkuchen Yubo	Lebkuchen Yubo	Lebkuchen Yubo	ein	der	Lebkuchen Yubo	Lebkuchen Yubos	einen	die		
+_992D57D25430CAB2	xmas_gingerbread	Lebkuchenmännchen	Lebkuchenmännchen	Lebkuchenmännchen	ein	der	Lebkuchenmännchen	Lebkuchenmännchen	einen	die		
