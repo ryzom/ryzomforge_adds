@@ -820,3 +820,4 @@ _5193CA370C64AE7D	mission_ff60_emplacement_message	Message Location
 _4C9B80A7A9B7946E	place_marauder_camp	Marauder Camp					
 _3FEFB69CBBDF4DAB	place_lieudit_marauder_arena	Marauder Arena					
 _A59A81E8140A6CA7	marauder_stable	Marauder Stables	the				
+_29AC391EC68F71FC	continent_r2_forest	Leewind Lands	the	in	the		
