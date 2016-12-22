@@ -820,3 +820,4 @@ _5193CA370C64AE7D	mission_ff60_emplacement_message	Emplacement du message	l'\d	d
 _4C9B80A7A9B7946E	place_marauder_camp	Camp Maraudeur	le	dans le			
 _3FEFB69CBBDF4DAB	place_lieudit_marauder_arena	Arène Maraudeur	l'\d	dans l'			
 _A59A81E8140A6CA7	marauder_stable	Etables Maraudeurs	les	dans les	Etables Maraudeurs	les	dans les
+_29AC391EC68F71FC	continent_r2_forest	Terres Sous le Vent	les	dans les	Terres Sous le Vent	les	dans les
