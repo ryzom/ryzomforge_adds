@@ -770,6 +770,7 @@ _8B05117DBECCE27B	place_forage_start	Zone de prospection	la	dans la
 _D32CB2D7CF615792	place_forage_zun	Zone de prospection de la zun	la	dans la			
 _65DD63BF98F5768D	place_forage_shat	Zone de prospection multiple	la	dans la			
 _651E2A3B082B51E9	place_forage_chloro	Spots de Goo	les	dans les			
+_1ADAA4AC1A147076	gerder_food	Passage of Gerder	the
 _0B9FC534BF35F140	rpjob_magnecarto_1_a	Measure area A of magnetism					
 _4B9FC934BF35F140	rpjob_magnecarto_1_b	Measure area B of magnetism					
 _8B9FCD34BF35F140	rpjob_magnecarto_1_c	Measure area C of magnetism					
