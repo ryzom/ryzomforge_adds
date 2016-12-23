@@ -27313,3 +27313,7 @@ uiPlayedTime	[Vous avez joué avec ce personnage pendant %time.]
 // INDEX 6492
 uiPlaylistRefresh	[Rafraîchir]
 
+// HASH_VALUE 570A63956CA078B7
+// INDEX 6493
+uiFreeViewTablet	[Tablette ou écran tactile]
+

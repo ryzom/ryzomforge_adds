@@ -10124,19 +10124,19 @@ uiItemRMClass0	[Basis]
 
 // HASH_VALUE 6498941864989418
 // INDEX 2442
-uiItemRMClass1	[feine.]
+uiItemRMClass1	[feine/s/r]
 
 // HASH_VALUE 27567C58E7947078
 // INDEX 2443
-uiItemRMClass2	[vorzügliche.]
+uiItemRMClass2	[vorzügliche/s/r]
 
 // HASH_VALUE A058808C2A3884AC
 // INDEX 2444
-uiItemRMClass3	[exzellente.]
+uiItemRMClass3	[exzellente/s/r]
 
 // HASH_VALUE A95AF4AAE9E96C8A
 // INDEX 2445
-uiItemRMClass4	[erhabene.]
+uiItemRMClass4	[erhabene/s/r]
 
 // HASH_VALUE 5D26625CB2217642
 // INDEX 2446
@@ -27352,4 +27352,8 @@ uiPlayedTime	[Du hast diesen Charakter %time lang gespielt.]
 // HASH_VALUE EB1A8C8F22674C92
 // INDEX 6492
 uiPlaylistRefresh	[Aktualisieren]
+
+// HASH_VALUE 570A63956CA078B7
+// INDEX 6493
+uiFreeViewTablet	[Tablet oder Touchscreen]
 

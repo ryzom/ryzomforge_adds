@@ -6620,28 +6620,28 @@ system_mp_choice_purple	Matière Première Générique de Choix	(Violet)	une	la	
 system_mp_choice_red	Matière Première Générique de Choix (Rouge)	une	la	Matières Premières Génériques de Choix	des	les									
 system_mp_choice_turquoise	Matière Première Générique de Choix (Turquoise)	une	la	Matières Premières Génériques de Choix	des	les									
 system_mp_choice_white	Matière Première Générique de Choix (Blanche)	une	la	Matières Premières Génériques de Choix	des	les									
-event_barrel_of_beer	<GEN>event_barrel_of_beer														
-event_barrel_of_shooki_liquor	<GEN>event_barrel_of_shooki_liquor														
-event_barrel_of_water	<GEN>event_barrel_of_water														
-event_blood	<GEN>event_blood														
-event_goo	<GEN>event_goo														
-event_incandescent_wood	<GEN>event_incandescent_wood														
-event_lakes_beer	<GEN>event_lakes_beer														
-event_magnetized_amber	<GEN>event_magnetized_amber														
-event_magnetized_amber_sphere	<GEN>event_magnetized_amber_sphere														
-event_meat	<GEN>event_meat														
-event_missive	<GEN>event_missive														
-event_missive_fyros	<GEN>event_missive_fyros														
-event_missive_kami	<GEN>event_missive_kami														
-event_missive_kara	<GEN>event_missive_kara														
-event_missive_matis	<GEN>event_missive_matis														
-event_missive_tryker	<GEN>event_missive_tryker														
-event_missive_zorai	<GEN>event_missive_zorai														
-event_purified_sap	<GEN>event_purified_sap														
-event_shooki_liquor	<GEN>event_shooki_liquor														
-event_taliari_pearl_black	<GEN>event_taliari_pearl_black														
-event_taliari_pearl_blue	<GEN>event_taliari_pearl_blue														
-event_taliari_pearl_violet	<GEN>event_taliari_pearl_violet														
+event_barrel_of_beer	Barrel of Lakes Beer	a	the	Barrels of Lakes Beer	\d	the	
+event_barrel_of_shooki_liquor	Barrel of Shooki Liquor	a	the	Barrels of Shooki Liquor	\d	the	
+event_barrel_of_water	Barrel of Lake Water	a	the	Barrels of Lake Water	\d	the	
+event_blood	Blood	some	the	Blood	\d	the	
+event_goo	Goo	some	the	Goo	\d	the	
+event_incandescent_wood	Incandescent Wood	some	the	Incandescent Wood	\d	the	
+event_lakes_beer	Lakes Beer	some	the	Lakes Beer	\d	the	
+event_magnetized_amber	Magnetized Amber	a	the	Magnetized Amber	\d	the	
+event_magnetized_amber_sphere	Sphere Magnetized Amber	a	the	Sphere Magnetized Amber	\d	the	
+event_meat	Meat	some	the	Meats	\d	the	
+event_missive	Missive	a	the	Missives	\d	the	
+event_missive_fyros	Fyros Missive	a	the	Fyros Missives	\d	the	
+event_missive_kami	Kami Missive	a	the	Kami Missives	\d	the	
+event_missive_kara	Karavan Missive	a	the	Karavan Missives	\d	the	
+event_missive_matis	Matis Missive	a	the	Matis Missives	\d	the	
+event_missive_tryker	Tryker Missive	a	the	Tryker Missives	\d	the	
+event_missive_zorai	Zoraï Missive	a	the	Zoraï Missives	\d	the	
+event_purified_sap	Purified Sap	some	the	Purified Sap	\d	the	
+event_shooki_liquor	Shooki Liquor	some	the	Shooki Liquor	\d	the	
+event_taliari_pearl_black	Black Taliari Pearl	a	the	Black Taliari Pearls	\d	the	
+event_taliari_pearl_blue	Blue Taliari Pearl	a	the	Blue Taliari Pearls	\d	the	
+event_taliari_pearl_violet	Violet Taliari Pearl	a	the	Violet Taliari Pearls	\d	the	
 winch	Winch	a	the	Winchs		the									
 winch_2	Winch	a	the	Winchs		the									
 winch_3	Winch	a	the	Winchs		the									
@@ -7806,3 +7806,5 @@ tp_karavan_corrupted_moor_fairhaven	<GEN>tp_karavan_corrupted_moor_fairhaven
 tp_karavan_corrupted_moor_pyr	<GEN>tp_karavan_corrupted_moor_pyr														
 tp_karavan_corrupted_moor_yrkanis	<GEN>tp_karavan_corrupted_moor_yrkanis														
 tp_karavan_corrupted_moor_zora	<GEN>tp_karavan_corrupted_moor_zora														
+xmas_gingeryubo	Gingerbread Yubo	a	the	Gingerbread Yubo		the									
+xmas_gingerbread	Gingerbread Man	a	the	Gingerbread Man		the									
