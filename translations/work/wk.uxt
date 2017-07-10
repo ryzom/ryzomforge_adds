@@ -13503,8 +13503,8 @@ uiBrowse [Browse]
 
 //createGroup
 cmdCreateGroupUsage1 [createGroup command usage :]
-cmdCreateGroupUsage2 [/createGroup group_name : create a group named group_nam with all your equipped items]
-cmdCreateGroupUsage3 [/createGroup group_name true : create a group named group_nam with all your equipped items, and create a remove command for every empty slot]
+cmdCreateGroupUsage2 [/createGroup group_name : create a group named group_name with all your equipped items]
+cmdCreateGroupUsage3 [/createGroup group_name true : create a group named group_name with all your equipped items, and create a remove command for every empty slot]
 cmdCreateGroupError [A group named %name already exist, cannot create one with the same name.]
 cmdCreateGroupSuccess1 [Group %name successfully created.]
 cmdCreateGroupSuccess2 [Group %name successfully created with removal for all unequiped items.]

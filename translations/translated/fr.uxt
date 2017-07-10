@@ -27329,11 +27329,11 @@ uiBrowse	[Atteindre]
 // INDEX 6496
 cmdCreateGroupUsage1	[Syntaxe de la commande createGroup :]
 
-// HASH_VALUE 6B318968D9E78D3D
+// HASH_VALUE 672F2158D608B33D
 // INDEX 6497
 cmdCreateGroupUsage2	[/createGroup nom_groupe : crée un groupe nom_groupe avec tous vos objets équippés]
 
-// HASH_VALUE 52388538C8AFF916
+// HASH_VALUE 281F2D43F2731DEC
 // INDEX 6498
 cmdCreateGroupUsage3	[/createGroup nom_groupe true : crée un groupe nom_groupe avec tous vos objets équippés, et crée une commande de suppression pour chaque emplacement vide]
 

@@ -27357,3 +27357,115 @@ uiPlaylistRefresh	[Aktualisieren]
 // INDEX 6493
 uiFreeViewTablet	[Tablet oder Touchscreen]
 
+// HASH_VALUE 781CF40C781CF40C
+// INDEX 6494
+uiCopy	[Kopiere]
+
+// HASH_VALUE AF4704666E75D097
+// INDEX 6495
+uiBrowse	[Durchsuche]
+
+// HASH_VALUE 4046D798ED76B4BE
+// INDEX 6496
+cmdCreateGroupUsage1	[createGroup Befehls-Verwendung :]
+
+// HASH_VALUE 672F2158D608B33D
+// INDEX 6497
+cmdCreateGroupUsage2	[/createGroup group_name : erstelle eine Gruppe mit dem Namen group_name mit all deinen ausgerüsteten Gegenständen.]
+
+// HASH_VALUE 281F2D43F2731DEC
+// INDEX 6498
+cmdCreateGroupUsage3	[/createGroup group_name true : erstelle eine Gruppe mit dem Namen group_name mit all deinen ausgerüsteten Gegenständen, und erstelle einen Entfernungs-Befehl für jeden leeren Slotplatz]
+
+// HASH_VALUE 87A04D4E0C663745
+// INDEX 6499
+cmdCreateGroupError	[Eine Gruppe mit dem Namen %name existiert bereits, es kann keine mit demselben Namen erstellt werden.]
+
+// HASH_VALUE 57AAD85BEAA4D7B9
+// INDEX 6500
+cmdCreateGroupSuccess1	[Gruppe %name wurde erfolgreich erstellt.]
+
+// HASH_VALUE 9C6A88FAC1CEA4DC
+// INDEX 6501
+cmdCreateGroupSuccess2	[Gruppe %name wurde erfolgreich erstellt, mitsamt Entfernung aller nicht-ausgerüsteten Gegenstände.]
+
+// HASH_VALUE EBB1FF685D7AFCC7
+// INDEX 6502
+cmdEquipGroupUsage1	[equipGroup Befehls-Verwendung :]
+
+// HASH_VALUE 0FDFE7D6741FF8C5
+// INDEX 6503
+cmdEquipGroupUsage2	[/equipGroup group_name : ziehe die Gegenstände aus der Gruppe group_name aus dem verfügbaren Inventar und rüste sie aus.]
+
+// HASH_VALUE 5434105FEEDBCB30
+// INDEX 6504
+cmdEquipGroupError	[Kann Gruppe %name nicht ausrüsten, weil keine Gruppe dieses Namens gefunden wurde.]
+
+// HASH_VALUE 5B9A98912A55C7C1
+// INDEX 6505
+cmdEquipGroupSuccess	[Gruppe %name erfolgreich ausgerüstet.]
+
+// HASH_VALUE 82B6A399EDB6D0B1
+// INDEX 6506
+cmdDeleteGroupUsage1	[deleteGroup Befehls-Verwendung :]
+
+// HASH_VALUE 2022F308D2F5591B
+// INDEX 6507
+cmdDeleteGroupUsage2	[/deleteGroup group_name : entferne die Gruppe namens group_name , wenn sie existiert.]
+
+// HASH_VALUE 06DA351B3C7F2E56
+// INDEX 6508
+cmdDeleteGroupError	[Kann Gruppe %name nicht löschen : keine Gruppe mit diesem Namen gefunden.]
+
+// HASH_VALUE 19D9DC5BEAA4D7BD
+// INDEX 6509
+cmdDeleteGroupSuccess	[Gruppe %name erfolgreich gelöscht.]
+
+// HASH_VALUE ADEA727BDB89387A
+// INDEX 6510
+cmdMoveGroupUsage1	[moveGroup Befehls-Verwendung :]
+
+// HASH_VALUE 9AF23A3F90C2A5A1
+// INDEX 6511
+cmdMoveGroupUsage2	[/moveGroup group_name destination : verschiebe Gegenstände von allen verfügbaren Inventaren zum Ziel.]
+
+// HASH_VALUE 5BE3F613CFC022DC
+// INDEX 6512
+cmdMoveGroupUsage3	[Das Ziel kann sein : bag, player_room, guild, pet_animal1, pet_animal2, pet_animal3, pet_animal4]
+
+// HASH_VALUE 063AAC84DBD18975
+// INDEX 6513
+cmdMoveGroupError	[Konnte die Gruppe  %name nicht in %inventory verschieben, weil keine Gruppe dieses Namens gefunden wurde, und/oder es kein gültiges Inventar war.]
+
+// HASH_VALUE 53F23D1089A67059
+// INDEX 6514
+cmdMoveGroupSuccess	[Gruppe %name erfolgreich zu %inventory verschoben.]
+
+// HASH_VALUE AE999B8E9D9143A5
+// INDEX 6515
+cmdListGroupHeader	[Verfügbare Gegenstands-Gruppe :]
+
+// HASH_VALUE 5BD4C6549B44ABA5
+// INDEX 6516
+cmdListGroupLine	[* %name, mit %size enthaltenen Gegenständen.]
+
+// HASH_VALUE 3267346D71E53896
+// INDEX 6517
+uimGroup	[Gruppe]
+
+// HASH_VALUE 0C8BC4F4AE78A6B7
+// INDEX 6518
+uiMacroItemGroupEquip	[Rüste eine Gegenstands-Gruppe aus]
+
+// HASH_VALUE 5614A7A2A707B055
+// INDEX 6519
+uiMacroItemGroupName	[Gegenstands-Gruppen-Name]
+
+// HASH_VALUE AC27CF9914116C1B
+// INDEX 6520
+uiMacroItemGroupMove	[Verschiebe eine Gegenstands-Gruppe]
+
+// HASH_VALUE A7A1CC916E59E066
+// INDEX 6521
+uiMacroItemGroupDestination	[Ziel der Gegenstands-Gruppe]
+
