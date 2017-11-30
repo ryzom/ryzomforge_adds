@@ -1884,7 +1884,7 @@ gn_boss_tryker_light_stone_back	Teleportation stone
 gn_boss_tryker_light_loot_box	Dante's chest	
 gn_boss_tryker_light_start_boss	Dante the Teaser	
 gn_boss_tryker_light_start_stone	Teleportation stone	
-gn_boss_tryker_light_start_box	Dante's crate
+gn_boss_tryker_light_start_box	Dante's crate	
 fct_consumable_merchant	(Consumable Merchant)	
 title00031	Fyros Ambassador	Fyros Ambassador
 title00032	Matis Ambassador	Matis Ambassador
@@ -1901,5 +1901,15 @@ gn_kami_altar_almati	Almati Woods Kami Altar
 gn_karavan_altar_almati	Almati Woods Karavan Altar	
 gn_kami_altar_nexus	Nexus Kami Altar	
 gn_karavan_altar_nexus	Nexus Karavan Altar	
-gn_gravats	Rubble
-gn_room_access	Access Terminal
+gn_gravats	Rubble	
+gn_room_access	Access Terminal	
+		
+#(Veteran Ranger)	#(Veteran Ranger)	
+#Marauder Aktimoskain#pvp_enemy_marauder	#Marauder Aktimoskain#pvp_enemy_marauder	
+#Ranger Guide#spe_labs.png	#Ranger Guide#spe_labs.png	
+#Ranger Instructor#spe_labs.png	#Ranger Instructor#spe_labs.png	
+#Ranger Quartermaster#spe_labs.png	#Ranger Quartermaster#spe_labs.png	
+#RangerÂ Guide#spe_labs.png	#RangerÂ Guide#spe_labs.png	
+#To New Horizons	#To New Horizons	
+#faction#_rpjob_#jobname#_title	#faction#_rpjob_#jobname#_title	
+fct_royal_painter#spe_com.tga	fct_royal_painter#spe_com.tga	
