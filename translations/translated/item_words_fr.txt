@@ -991,5 +991,5 @@ _7BCF5353A1E2FD89	m0001dxalf01	Fagot suprême de bois / Abhaya des Lacs	un	le	Fa
 _3CF6B7208F6D5746	m0001dxapd01	Fagot de choix de bois / Abhaya des Primes Racines	u
 _AD64ADF3C56C8440	tp_kami_ranger_camp	Kami Teleporter Pact for Ranger Camp	a	the	Kami Teleporter Pacts for Ranger Camp		the	
 _85BA00F2EAE1B540	tp_kami_shining_lake	Kami Teleporter Pact for Shining Lake	a	the	Kami Teleporter Pacts for Shining Lake		the	
-_B764294652099E59	tp_karavan_ranger_camp	Kami Teleporter Pact for Ranger Camp	a	the	Kami Teleporter Pacts for Ranger Camp		the	
-_9578951FDC31F571	tp_karavan_shattered_ruins	Kami Teleporter Pact for Shattered Ruins	a	the	Kami Teleporter Pacts for Shattered Ruins		the	
+_B764294652099E59	tp_karavan_ranger_camp	Karavan Teleporter Pact for Ranger Camp	a	the	Karavan Teleporter Pacts for Ranger Camp		the	
+_9578951FDC31F571	tp_karavan_shattered_ruins	Karavan Teleporter Pact for Shattered Ruins	a	the	Karavan Teleporter Pacts for Shattered Ruins		the	
