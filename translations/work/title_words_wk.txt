@@ -1906,10 +1906,10 @@ gn_room_access	Access Terminal
 		
 #(Veteran Ranger)	#(Veteran Ranger)	
 #Marauder Aktimoskain#pvp_enemy_marauder	#Marauder Aktimoskain#pvp_enemy_marauder	
-#Ranger Guide#spe_labs.png	#Ranger Guide#spe_labs.png	
-#Ranger Instructor#spe_labs.png	#Ranger Instructor#spe_labs.png	
-#Ranger Quartermaster#spe_labs.png	#Ranger Quartermaster#spe_labs.png	
-#RangerÂ Guide#spe_labs.png	#RangerÂ Guide#spe_labs.png	
+gn_karavan_altar_silan_ranger_camp	Ranger Camp Karavan Altar	
+gn_kami_altar_silan_ranger_camp	Ranger Camp Kami Altar	
+gn_karavan_altar_silan_shattered_ruins	Shattered Ruins Karavan Altar	
+gn_kami_altar_silan_shining_lake	Shining Lake Kami Altar	
 #To New Horizons	#To New Horizons	
 #faction#_rpjob_#jobname#_title	#faction#_rpjob_#jobname#_title	
 fct_royal_painter#spe_com.tga	fct_royal_painter#spe_com.tga	

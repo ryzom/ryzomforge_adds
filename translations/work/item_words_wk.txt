@@ -7808,3 +7808,7 @@ tp_karavan_corrupted_moor_yrkanis	<GEN>tp_karavan_corrupted_moor_yrkanis
 tp_karavan_corrupted_moor_zora	<GEN>tp_karavan_corrupted_moor_zora														
 xmas_gingeryubo	Gingerbread Yubo	a	the	Gingerbread Yubo		the									
 xmas_gingerbread	Gingerbread Man	a	the	Gingerbread Man		the									
+tp_kami_ranger_camp	Kami Teleporter Pact for Ranger Camp	a	the	Kami Teleporter Pacts for Ranger Camp		the									
+tp_kami_shining_lake	Kami Teleporter Pact for Shining Lake	a	the	Kami Teleporter Pacts for Shining Lake		the									
+tp_karavan_ranger_camp	Kami Teleporter Pact for Ranger Camp	a	the	Kami Teleporter Pacts for Ranger Camp		the									
+tp_karavan_shattered_ruins	Kami Teleporter Pact for Shattered Ruins	a	the	Kami Teleporter Pacts for Shattered Ruins		the									
