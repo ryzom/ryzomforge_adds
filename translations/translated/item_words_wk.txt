@@ -6891,3 +6891,4 @@ _02C0AA7F32FA1A42	marauder_teleport_crystal	Marauder Teleport Crystal	a	the	Mara
 _30284704CC2117ED	xmas_gingeryubo	Gingerbread Yubo	a	the	Gingerbread Yubo		the	
 _992D57D25430CAB2	xmas_gingerbread	Gingerbread Man	a	the	Gingerbread Man		the	
 _E558E5FDAECBB8AB	event_sheet_music	Sheet	a	the	Sheet		the	
+_822ED5F858D9899F	ic_ice_stick	Ice Stick	a	the	Ice Sticks		the	
