@@ -611,21 +611,21 @@ _8AE5AEF243A8538E	icfacg	Droge-Handschuhe	Droge-Handschuhe	Droge-Handschuhe		die
 _1857779654B56ED9	icfacp	Droge-Hose	Droge-Hose	Droge-Hose	eine	die	Droge-Hosen	Droge-Hosen	eine	die	Magier-Kleidung nach Fyros-Handwerksplan in Basis-Qualität	
 _D11348882578CB31	icfacs	Droge-Armschützer	Droge-Armschützer	Droge-Armschützer		die	Droge-Armschützer	Droge-Armschützer	eine	die	Magier-Kleidung nach Fyros-Handwerksplan in Basis-Qualität	
 _8D8962AE4CE18E47	icfacv	Droge-Weste	Droge-Weste	Droge-Weste	eine	die	Droge-Westen	Droge-Westen	eine	die	Magier-Kleidung nach Fyros-Handwerksplan in Basis-Qualität	
-_7A6A71829D564DF9	icfr2ab	Brennender Fraser	Brennende Fraser	Brennenden Fraser	ein	der	Brennende Fraser	Brennenden Fraser	einen	die	Fyros-Fernwaffe	
-_8CF5ECEC1A858547	icfr2lb	Brennender Brazer	Brennende Brazer	Brennenden Brazer	ein	der	Brennende Brazer	Brennenden Brazer	einen	die	Fyros-Fernwaffe	
-_5CB36472C3515D84	icfsbb	Brennender Blok	Brennende Blok	Brennenden Blok	ein	der	Brennende Bloks	Brennenden Bloks	einen	die		
+_7A6A71829D564DF9	icfr2ab	brennender Fraser	brennende Fraser	brennenden Fraser	ein	der	brennende Fraser	brennenden Fraser	einen	die	Fyros-Fernwaffe	
+_8CF5ECEC1A858547	icfr2lb	brennender Brazer	brennende Brazer	brennenden Brazer	ein	der	brennende Brazer	brennenden Brazer	einen	die	Fyros-Fernwaffe	
+_5CB36472C3515D84	icfsbb	brennender Blok	brennende Blok	brennenden Blok	ein	der	brennende Bloks	brennenden Bloks	einen	die		
 _65EE1F67A543BA84	icmacb	Vestini-Stiefel	Vestini-Stiefel	Vestini-Stiefel		die	Vestini-Stiefel	Vestini-Stiefel	eine	die	Magier-Kleidung nach Matis-Handwerksplan in Basis-Qualität	
 _DBA2581DDAB2C1D6	icmacg	Vestini-Handschuhe	Vestini-Handschuhe	Vestini-Handschuhe		die	Vestini-Handschuhe	Vestini-Handschuhe	eine	die	Magier-Kleidung nach Matis-Handwerksplan in Basis-Qualität	
 _65EE1B58A614BA92	icmacp	Vestini-Hose	Vestini-Hose	Vestini-Hose	eine	die	Vestini-Hosen	Vestini-Hosen	eine	die	Magier-Kleidung nach Matis-Handwerksplan in Basis-Qualität	
 _09B1F8ADA8114B63	icmacs	Vestini-Armschützer	Vestini-Armschützer	Vestini-Armschützer		die	Vestini-Armschützer	Vestini-Armschützer	eine	die	Magier-Kleidung nach Matis-Handwerksplan in Basis-Qualität	
 _65883F0ED9E655AD	icmacv	Vestini-Weste	Vestini-Weste	Vestini-Weste	eine	die	Vestini-Westen	Vestini-Westen	eine	die	Magier-Kleidung nach Matis-Handwerksplan in Basis-Qualität	
-_9E2CE211B5C3C01F	icmm1psl	Lebende Palor-Lanze	Lebende Palor-Lanze	Lebende Palor-Lanze	eine	die	Lebende Palor-Lanzen	Lebenden Palor-Lanzen	eine	die	(Speer) Matis-Nahkampfwaffe	
-_D3CF01118FDCE16D	icmm1pdl	Lebender Limmel-Dolch	Lebende Limmel-Dolch	Lebenden Limmel-Dolch	ein	der	Lebende Limmel-Dolche	Lebenden Limmel-Dolche	einen	die	Matis-Nahkampfwaffe	
-_86F538940BF32D56	icmm2ppl	Lebende Krop-Pike	Lebende Krop-Pike	Lebende Krop-Pike	eine	die	Lebende Krop-Piken	Lebenden Krop-Piken	eine	die	Matis-Zweihand-Nahkampfwaffe 	
-_A2A4BE1360CA3B2D	icmm2ssl	Lebendes Slathe-Schwert	Lebende Slathe-Schwert	Lebende Slathe-Schwert	ein	das	Lebende Slathe-Schwerter	Lebenden Slathe-Schwerter	ein	die	Matis-Nahkampfwaffe	
-_A61358368149F453	icmr1pl	Lebende Maka-Pistole	Lebende Maka-Pistole	Lebende Maka-Pistole	eine	die	Lebende Maka-Pistolen	Lebenden Maka-Pistolen	eine	die	Matis-Fernwaffe	
-_C9902A1D2DB066EF	icmr2rl	Lebendes Stylone-Gewehr	Lebende Stylone-Gewehr	Lebende Stylone-Gewehr	ein	das	Lebende Stylone-Gewehre	Lebenden Stylone-Gewehre	ein	die	Matis-Fernwaffe	
-_5FF325E63108A94A	icmsbl	Lebender Wod-Beschützer	Lebende Wod-Beschützer	Lebenden Wod-Beschützer	ein	der	Lebende Wod-Beschützer	Lebenden Wod-Beschützer	einen	die	Matis-Schild	
+_9E2CE211B5C3C01F	icmm1psl	lebende Palor-Lanze	lebende Palor-Lanze	lebende Palor-Lanze	eine	die	lebende Palor-Lanzen	lebenden Palor-Lanzen	eine	die	(Speer) Matis-Nahkampfwaffe	
+_D3CF01118FDCE16D	icmm1pdl	lebender Limmel-Dolch	lebende Limmel-Dolch	lebenden Limmel-Dolch	ein	der	lebende Limmel-Dolche	lebenden Limmel-Dolche	einen	die	Matis-Nahkampfwaffe	
+_86F538940BF32D56	icmm2ppl	lebende Krop-Pike	lebende Krop-Pike	lebende Krop-Pike	eine	die	lebende Krop-Piken	lebenden Krop-Piken	eine	die	Matis-Zweihand-Nahkampfwaffe 	
+_A2A4BE1360CA3B2D	icmm2ssl	lebendes Slathe-Schwert	lebende Slathe-Schwert	lebende Slathe-Schwert	ein	das	lebende Slathe-Schwerter	lebenden Slathe-Schwerter	ein	die	Matis-Nahkampfwaffe	
+_A61358368149F453	icmr1pl	lebende Maka-Pistole	lebende Maka-Pistole	lebende Maka-Pistole	eine	die	lebende Maka-Pistolen	lebenden Maka-Pistolen	eine	die	Matis-Fernwaffe	
+_C9902A1D2DB066EF	icmr2rl	lebendes Stylone-Gewehr	lebende Stylone-Gewehr	lebende Stylone-Gewehr	ein	das	lebende Stylone-Gewehre	lebenden Stylone-Gewehre	ein	die	Matis-Fernwaffe	
+_5FF325E63108A94A	icmsbl	lebender Wod-Beschützer	lebende Wod-Beschützer	lebenden Wod-Beschützer	ein	der	lebende Wod-Beschützer	lebenden Wod-Beschützer	einen	die	Matis-Schild	
 _3ED1357F14EF0049	icralb	leichte Flüchtlingsstiefel	leichte Flüchtlingsstiefel	leichten Flüchtlingsstiefel		die	leichte Flüchtlingsstiefel	leichten Flüchtlingsstiefel	eine	die	schlichte Kleidung, die kaum Schutz bietet	
 _7B56811D6B11CB1D	icralg	leichte Flüchtlingshandschuhe	leichte Flüchtlingshandschuhe	leichten Flüchtlingshandschuhe		die	leichte Flüchtlingshandschuhe	leichten Flüchtlingshandschuhe	eine	die	schlichte Kleidung, die kaum Schutz bietet	
 _B581B6120C7B0416	icrals	leichte Flüchtlingsarmschützer	leichte Flüchtlingsarmschützer	leichten Flüchtlingsarmschützer	ein	der	leichte Flüchtlingsarmschützer	leichten Flüchtlingsarmschützer	einen	die	schlichte Kleidung, die kaum Schutz bietet	
@@ -634,21 +634,21 @@ _75F3B886ABA4196B	ictacg	Lithen-Handschuhe	Lithen-Handschuhe	Lithen-Handschuhe		
 _E179C70941596714	ictacp	Lithen-Hose	Lithen-Hose	Lithen-Hose	eine	die	Lithen-Hosen	Lithen-Hosen	eine	die	Magier-Kleidung nach Tryker-Handwerksplan in Basis-Qualität	
 _9E44AC0ED6829CE3	ictacs	Lithen-Armschützer	Lithen-Armschützer	Lithen-Armschützer		die	Lithen-Armschützer	Lithen-Armschützer	eine	die	Magier-Kleidung nach Tryker-Handwerksplan in Basis-Qualität	
 _97B76203A3C55F66	ictacv	Lithen-Weste	Lithen-Weste	Lithen-Weste	eine	die	Lithen-Westen	Lithen-Westen	eine	die	Magier-Kleidung nach Tryker-Handwerksplan in Basis-Qualität	
-_A8A8BB10D410205E	ictm1pdw	Wehender Fyler-Dolch	Wehende Fyler-Dolch	Wehenden Fyler-Dolch	ein	der	Wehende Fyler-Dolche	Wehenden Fyler-Dolche	einen	die	Tryker-Nahkampfwaffe	
-_89957B12DF110A03	ictm1ssw	Wehendes Tanner-Schwert	Wehende Tanner-Schwert	Wehende Tanner-Schwert	ein	das	Wehende Tanner-Schwerter	Wehenden Tanner-Schwerter	ein	die	Tryker-Nahkampfwaffe	
-_1EA35A6728332B21	ictm2ssw	Wehendes Flence-Zweihand-Schwert	Wehende Flence-Zweihand-Schwert	Wehende Flence-Zweihand-Schwert	ein	das	Wehende Flence-Zweihand-Schwerter	Wehenden Flence-Zweihand-Schwerter	ein	die	Tryker-Nahkampfwaffe	
-_E0801C132F672B62	ictr1bw	Wehende Fletcher-Bogenpistole	Wehende Fletcher-Bogenpistole	Wehende Fletcher-Bogenpistole	eine	die	Wehende Fletcher-Bogenpistolen	Wehenden Fletcher-Bogenpistolen	eine	die	Tryker-Fernwaffe	
-_825EDDC969EB2A95	ictsbw	Wehender Stilten-Beschützer	Wehende Stilten-Beschützer	Wehenden Stilten-Beschützer	ein	der	Wehende Stilten-Beschützer	Wehenden Stilten-Beschützer	einen	die	Tryker-Schild	
+_A8A8BB10D410205E	ictm1pdw	wehender Fyler-Dolch	wehende Fyler-Dolch	wehenden Fyler-Dolch	ein	der	wehende Fyler-Dolche	wehenden Fyler-Dolche	einen	die	Tryker-Nahkampfwaffe	
+_89957B12DF110A03	ictm1ssw	wehendes Tanner-Schwert	wehende Tanner-Schwert	wehende Tanner-Schwert	ein	das	wehende Tanner-Schwerter	wehenden Tanner-Schwerter	ein	die	Tryker-Nahkampfwaffe	
+_1EA35A6728332B21	ictm2ssw	wehendes Flence-Zweihand-Schwert	wehende Flence-Zweihand-Schwert	wehende Flence-Zweihand-Schwert	ein	das	wehende Flence-Zweihand-Schwerter	wehenden Flence-Zweihand-Schwerter	ein	die	Tryker-Nahkampfwaffe	
+_E0801C132F672B62	ictr1bw	wehende Fletcher-Bogenpistole	wehende Fletcher-Bogenpistole	wehende Fletcher-Bogenpistole	eine	die	wehende Fletcher-Bogenpistolen	wehenden Fletcher-Bogenpistolen	eine	die	Tryker-Fernwaffe	
+_825EDDC969EB2A95	ictsbw	wehender Stilten-Beschützer	wehende Stilten-Beschützer	wehenden Stilten-Beschützer	ein	der	wehende Stilten-Beschützer	wehenden Stilten-Beschützer	einen	die	Tryker-Schild	
 _F096CE005FE83740	iczacb	Lin-ko-Stiefel	Lin-ko-Stiefel	Lin-ko-Stiefel		die	Lin-ko-Stiefel	Lin-ko-Stiefel	eine	die	Magier-Kleidung nach Zoraï-Handwerksplan in Basis-Qualität	
 _44F9936D72B63A41	iczacg	Lin-ko-Handschuhe	Lin-ko-Handschuhe	Lin-ko-Handschuhe		die	Lin-ko-Handschuhe	Lin-ko-Handschuhe	eine	die	Magier-Kleidung nach Zoraï-Handwerksplan in Basis-Qualität	
 _6D77CE00DF28DF3F	iczacp	Lin-ko-Hose	Lin-ko-Hose	Lin-ko-Hose	eine	die	Lin-ko-Hosen	Lin-ko-Hosen	eine	die	Magier-Kleidung nach Zoraï-Handwerksplan in Basis-Qualität	
 _45931F1FE590B4FA	iczacs	Lin-ko-Armschützer	Lin-ko-Armschützer	Lin-ko-Armschützer		die	Lin-ko-Armschützer	Lin-ko-Armschützer	eine	die	Magier-Kleidung nach Zoraï-Handwerksplan in Basis-Qualität	
 _E2AA1DFAE264867F	iczacv	Lin-ko-Weste	Lin-ko-Weste	Lin-ko-Weste	eine	die	Lin-ko-Westen	Lin-ko-Westen	eine	die	Magier-Kleidung nach Zoraï-Handwerksplan in Basis-Qualität	
-_5CF176EB88D5BC11	iczm1bme	Elektrischer Nanka-Streitkolben	Elektrische Nanka-Streitkolben	Elektrischen Nanka-Streitkolben	ein	der	Elektrische Nanka-Streitkolben	Elektrischen Nanka-Streitkolben	einen	die	Zoraï-Nahkampfwaffe	
-_DCA1965060EBF132	iczm2bme	Elektrischer Kanka-Zweihand-Streitkolben	Elektrische Kanka-Zweihand-Streitkolben	Elektrischen Kanka-Zweihand-Streitkolben	ein	der	Elektrische Kanka-Zweihand-Streitkolben	Elektrischen Kanka-Zweihand-Streitkolben	einen	die	Zoraï-Nahkampfwaffe	
-_B7214AE3AFCDFC0E	iczr2be	Elektrisches Ma-kam-Bogengewehr	Elektrische Ma-kam-Bogengewehr	Elektrische Ma-kam-Bogengewehr	ein	das	Elektrische Ma-kam-Bogengewehre	Elektrischen Ma-kam-Bogengewehre	ein	die	Zoraï-Fernwaffe	
-_DB694C4D0445EB54	iczr2le	Elektrischer Ba-zoon-Raketenwerfer	Elektrische Ba-zoon-Raketenwerfer	Elektrischen Ba-zoon-Raketenwerfer	ein	der	Elektrische Ba-zoon-Raketenwerfer	Elektrischen Ba-zoon-Raketenwerfer	einen	die	Zoraï-Fernwaffe	
-_BB7A582F40CADE67	iczsbe	Elektrischer Kastu-Beschützer	Elektrische Kastu-Beschützer	Elektrischen Kastu-Beschützer	ein	der	Elektrische Kastu-Beschützer	Elektrischen Kastu-Beschützer	einen	die	Zoraï-Schild	
+_5CF176EB88D5BC11	iczm1bme	elektrischer Nanka-Streitkolben	elektrische Nanka-Streitkolben	elektrischen Nanka-Streitkolben	ein	der	elektrische Nanka-Streitkolben	elektrischen Nanka-Streitkolben	einen	die	Zoraï-Nahkampfwaffe	
+_DCA1965060EBF132	iczm2bme	elektrischer Kanka-Zweihand-Streitkolben	elektrische Kanka-Zweihand-Streitkolben	elektrischen Kanka-Zweihand-Streitkolben	ein	der	elektrische Kanka-Zweihand-Streitkolben	elektrischen Kanka-Zweihand-Streitkolben	einen	die	Zoraï-Nahkampfwaffe	
+_B7214AE3AFCDFC0E	iczr2be	elektrisches Ma-kam-Bogengewehr	elektrische Ma-kam-Bogengewehr	elektrische Ma-kam-Bogengewehr	ein	das	elektrische Ma-kam-Bogengewehre	elektrischen Ma-kam-Bogengewehre	ein	die	Zoraï-Fernwaffe	
+_DB694C4D0445EB54	iczr2le	elektrischer Ba-zoon-Raketenwerfer	elektrische Ba-zoon-Raketenwerfer	elektrischen Ba-zoon-Raketenwerfer	ein	der	elektrische Ba-zoon-Raketenwerfer	elektrischen Ba-zoon-Raketenwerfer	einen	die	Zoraï-Fernwaffe	
+_BB7A582F40CADE67	iczsbe	elektrischer Kastu-Beschützer	elektrische Kastu-Beschützer	elektrischen Kastu-Beschützer	ein	der	elektrische Kastu-Beschützer	elektrischen Kastu-Beschützer	einen	die	Zoraï-Schild	
 _AF58BA57E7A8747B	icfacb_2	Drogeus-Stiefel	Drogeus-Stiefel	Drogeus-Stiefel		die	Drogeus-Stiefel	Drogeus-Stiefel	eine	die	Magier-Kleidung nach Fyros-Handwerksplan in mittlerer Qualität	
 _0977FFD83D537D1B	icfacg_2	Drogeus-Handschuhe	Drogeus-Handschuhe	Drogeus-Handschuhe		die	Drogeus-Handschuhe	Drogeus-Handschuhe	eine	die	Magier-Kleidung nach Fyros-Handwerksplan in mittlerer Qualität	
 _6F68BA65A7C8E47B	icfacp_2	Drogeus-Hose	Drogeus-Hose	Drogeus-Hose	eine	die	Drogeus-Hosen	Drogeus-Hosen	eine	die	Magier-Kleidung nach Fyros-Handwerksplan in mittlerer Qualität	
@@ -6890,3 +6890,5 @@ _2E488BD22789DCAB	rpjobloot_event	Geheimnisvoller Beutel	geheimnisvolle Beutel	g
 _02C0AA7F32FA1A42	marauder_teleport_crystal	Marauders-Teleportationskristall	Marauders-Teleportationskristall	Marauders-Teleportationskristall	ein	der	Marauders-Teleportationskristalle	Marauders-Teleportationskristalle	einen	die		
 _30284704CC2117ED	xmas_gingeryubo	Lebkuchen Yubo	Lebkuchen Yubo	Lebkuchen Yubo	ein	der	Lebkuchen Yubo	Lebkuchen Yubos	einen	die		
 _992D57D25430CAB2	xmas_gingerbread	Lebkuchenmännchen	Lebkuchenmännchen	Lebkuchenmännchen	ein	der	Lebkuchenmännchen	Lebkuchenmännchen	einen	die		
+_E558E5FDAECBB8AB	event_sheet_music	Blatt	Blatt	Blatt	ein	das	Blatt	Blatt	einen	die		
+_822ED5F858D9899F	ic_ice_stick	Stab des Frosts	Stab des Frosts	Stab des Frosts	ein	der	Stäbe des Frosts	die		die		
