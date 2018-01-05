@@ -7810,3 +7810,4 @@ xmas_gingeryubo	Gingerbread Yubo	a	the	Gingerbread Yubo		the
 xmas_gingerbread	Gingerbread Man	a	the	Gingerbread Man		the									
 event_sheet_music	Sheet	a	the	Sheet		the									
 ic_ice_stick	Ice Stick	a	the	Ice Sticks		the									
+ic_star_stick	Star Stick	a	the	Star Sticks		the									
