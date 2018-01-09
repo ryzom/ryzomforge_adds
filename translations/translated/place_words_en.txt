@@ -648,7 +648,7 @@ _0F1086393F8B083C	r_01_27_place_libertylake_2	Clopper beach	\d
 _53F9A97830AA1FE7	r_12_04	If you see this text, it's a bug: r_12_04	\d
 _D8EE237CA3C73181	r_01_28_mission_tp_1	Vortex Cave near the Winds of Muse	the
 _321059AE9A1F0970	r_01_28_mission_tp_2	Passage near the Winds of Muse	the
-_2C7D7F0D60A5B869	continent_zorai_island	<zoraï islets>	\d
+_2C7D7F0D60A5B869	continent_zorai_island	Oflovak Road	\d
 _DB798FE7FE88087C	region_zorai_island1	<zoraï islet 1>	\d
 _1B798FE8FE88087C	region_zorai_island2	<zoraï islet 2>	\d
 _5B798FE9FE88087C	region_zorai_island3	<zoraï islet 3>	\d
@@ -821,3 +821,4 @@ _4C9B80A7A9B7946E	place_marauder_camp	Marauder Camp	the
 _3FEFB69CBBDF4DAB	place_lieudit_marauder_arena	Marauder Arena	the
 _A59A81E8140A6CA7	marauder_stable	Marauder Stables	the
 _29AC391EC68F71FC	continent_r2_forest	Leewind Lands	the
+_BAA17AACA3D42E1E	region_zorai_islands	Oflovak Road -- Jungle	the
