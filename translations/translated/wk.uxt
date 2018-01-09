@@ -27588,7 +27588,7 @@ cmdCreateGroupUsage2	[/createGroup group_name : create a group named group_name 
 
 // HASH_VALUE 281F2D43F2731DEC
 // INDEX 6498
-cmdCreateGroupUsage3	[/createGroup group_name true : create a group named group_nam with all your equipped items, and create a remove command for every empty slot]
+cmdCreateGroupUsage3	[/createGroup group_name true : create a group named group_name with all your equipped items, and create a remove command for every empty slot]
 
 // HASH_VALUE 87A04D4E0C663745
 // INDEX 6499

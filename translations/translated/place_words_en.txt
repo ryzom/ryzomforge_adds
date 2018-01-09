@@ -821,3 +821,4 @@ _4C9B80A7A9B7946E	place_marauder_camp	Marauder Camp	the
 _3FEFB69CBBDF4DAB	place_lieudit_marauder_arena	Marauder Arena	the
 _A59A81E8140A6CA7	marauder_stable	Marauder Stables	the
 _29AC391EC68F71FC	continent_r2_forest	Leewind Lands	the
+_BAA17AACA3D42E1E	region_zorai_islands	Oflovak Road -- Jungle	the

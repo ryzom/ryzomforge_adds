@@ -1903,4 +1903,3 @@ _20B0F1D427E793A1	gn_kami_altar_nexus	Kami-Altar des Nexus	Kami-Altar des Nexus
 _605D8587427E9DCE	gn_karavan_altar_nexus	Karavan-Altar des Nexus	Karavan-Altar des Nexus
 _6C340CB6625A1CA8	gn_gravats	Geröll	Geröll
 _294880982226786E	gn_room_access	Zugriffsterminal	Zugriffsterminal
-
