@@ -6894,3 +6894,6 @@ _AD64ADF3C56C8440	tp_kami_ranger_camp	Kami Teleporter Pact for Ranger Camp	a	the
 _85BA00F2EAE1B540	tp_kami_shining_lake	Kami Teleporter Pact for Shining Lake	a	the	Kami Teleporter Pacts for Shining Lake		the			
 _B764294652099E59	tp_karavan_ranger_camp	Karavan Teleporter Pact for Ranger Camp	a	the	Karavan Teleporter Pacts for Ranger Camp		the			
 _9578951FDC31F571	tp_karavan_shattered_ruins	Karavan Teleporter Pact for Shattered Ruins	a	the	Karavan Teleporter Pacts for Shattered Ruins		the			
+_E558E5FDAECBB8AB	event_sheet_music	Partition	une	la	Partitions	des	les			
+_822ED5F858D9899F	ic_ice_stick	Férule Glaciale	une	la	Férules Glaciales		les			
+_7DAC507AA992B127	ic_star_stick	Bâton étoilé	un	le	Bâtons étoilés	des	les			
