@@ -882,4 +882,3 @@ episode2_temple_kami_tryker	<GEN>episode2_temple_kami_tryker
 episode2_temple_karavan_tryker	<GEN>episode2_temple_karavan_tryker					
 episode2_temple_kami_zorai	<GEN>episode2_temple_kami_zorai					
 episode2_temple_karavan_zorai	<GEN>episode2_temple_karavan_zorai					
-region_zorai_islands	Oflovak Road -- Jungle	the	in	the		
