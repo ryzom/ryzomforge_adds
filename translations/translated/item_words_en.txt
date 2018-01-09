@@ -6896,6 +6896,5 @@ _1BB4E021DB5BE209	tp_karavan_ranger_camp	Karavan Teleporter Pact for Ranger Camp
 _79A8C0CE2A3D11EA	tp_karavan_shattered_ruins	Karavan Teleporter Pact for Shattered Ruins	a	the	Karavan Teleporter Pacts for Shattered Ruins		the	
 _5DBA9814E46B947A	rite_ranger_map_book	Map	a	the	Map		the	
 _E558E5FDAECBB8AB	event_sheet_music	Sheet	a	the	Sheet		the	
-_E558E5FDAECBB8AB	event_sheet_music	Sheet	a	the	Sheet		the	
 _822ED5F858D9899F	ic_ice_stick	Ice Stick	an	the	Ice Sticks		the	
 _7DAC507AA992B127	ic_star_stick	Star Stick	a	the	Star Sticks		the	
