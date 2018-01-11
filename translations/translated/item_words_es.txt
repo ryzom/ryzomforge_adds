@@ -6888,3 +6888,8 @@ _29B958CBA68A90A0	web_transaction	Transacción
 _2015701C2C98F49B	rpjobloot_casket	Cofre/ataúd Misterioso						
 _2E488BD22789DCAB	rpjobloot_event	Bolso Misterioso						
 _02C0AA7F32FA1A42	marauder_teleport_crystal	Cristal de Teletransporte Merodeador	un	el	Cristales de Teletransporte Merodeadores	unos	los	
+_30284704CC2117ED	xmas_gingeryubo	yubo de jengibre	un	el	yubos de jengibre		los	
+_992D57D25430CAB2	xmas_gingerbread	Homincito de jengibre	un	el	Homincitos de jengibre		los	
+_E558E5FDAECBB8AB	event_sheet_music	Hoja	una	la	Hojas		las	
+_822ED5F858D9899F	ic_ice_stick	Pico para el hielo	un	el	Picos para el hielo		los	
+_7DAC507AA992B127	ic_star_stick	cayado estrellado	un	el	cayados estrellados		los	
