@@ -9967,3 +9967,7 @@ _E149AC5A948ACCB0	room_access_zora	$gn_room_access$
 _6364741AAA99249A	room_access_jenlai	$gn_room_access$			
 _63648C2167494C98	room_access_hoicho	$gn_room_access$			
 _63648C216799349D	room_access_mincho	$gn_room_access$			
+_05813D9240610C5B	karavan_altar_silan_ranger_camp	$gn_karavan_altar_silan_ranger_camp$			
+_176BF2166F78ADAD	karavan_altar_silan_shattered_ruins	$gn_karavan_altar_silan_shattered_ruins$			
+_0EA1F8323AECDB4B	kami_altar_silan_shining_lake	$gn_kami_altar_silan_shining_lake$			
+_DA6E381CF5EC33A6	kami_altar_silan_ranger_camp	$gn_kami_altar_silan_ranger_camp$			
