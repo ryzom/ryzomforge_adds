@@ -6009,6 +6009,11 @@ FACTION_RU()
 {
 	[русский Uni]
 }
+OPEN_SILAN_ANNOUNCE_TEXT()
+{
+	[Did you know we can reach Silan over the bark ? It seems that Rangers are maintaining a path whose entrance is at grove of confusion’s very end.]
+}
+
 MENU_HELLO_LEADER()
 {
 	[Hello?]
