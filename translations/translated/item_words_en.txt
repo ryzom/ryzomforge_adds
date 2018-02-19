@@ -6898,3 +6898,4 @@ _AD64ADF3C56C8440	tp_kami_ranger_camp	Kami Teleporter Pact for Ranger Camp	a	the
 _85BA00F2EAE1B540	tp_kami_shining_lake	Kami Teleporter Pact for Shining Lake	a	the	Kami Teleporter Pacts for Shining Lake		the	
 _1BB4E021DB5BE209	tp_karavan_ranger_camp	Karavan Teleporter Pact for Ranger Camp	a	the	Karavan Teleporter Pacts for Ranger Camp		the	
 _79A8C0CE2A3D11EA	tp_karavan_shattered_ruins	Karavan Teleporter Pact for Shattered Ruins	a	the	Karavan Teleporter Pacts for Shattered Ruins		the	
+_5DBA9814E46B947A	rite_ranger_map_book	Map	a	the	Map		the	
