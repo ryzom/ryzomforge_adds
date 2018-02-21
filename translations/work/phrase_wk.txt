@@ -4914,6 +4914,10 @@ FACTION_MARAUDERS()
 {
 	[Marauder]
 }
+FACTION_RANGER()
+{
+	[Ranger]
+}
 
 FACTION_AGNOS()
 {
