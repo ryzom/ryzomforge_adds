@@ -6897,3 +6897,4 @@ _AD64ADF3C56C8440	tp_kami_ranger_camp	Pacto Kami / Teleportador hacia el Campami
 _85BA00F2EAE1B540	tp_kami_shining_lake	Pacto Kami / Teleportador hacia el Lago reluciente	un	el	Pactes Kami / Teleportadores hacia le Lago étincelant		los	
 _1BB4E021DB5BE209	tp_karavan_ranger_camp	Pacto Karavan / Teleportador hacia el Campement Ranger	un	el	Pactos Karavan / Teleportadores hacia le Campamiento Ranger		los	
 _79A8C0CE2A3D11EA	tp_karavan_shattered_ruins	Pacto Karavan / Teleportador hacia las Ruinas devastadas	un	el	Pactos Karavan / Teleportadores hacia las Ruinas devastadas		los	
+_5DBA9814E46B947A	rite_ranger_map_book	Plano	un	el	Planos		los	

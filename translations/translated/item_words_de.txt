@@ -6897,3 +6897,4 @@ _AD64ADF3C56C8440	tp_kami_ranger_camp	Kami Teleportationspakt für das Rangerlag
 _85BA00F2EAE1B540	tp_kami_shining_lake	Kami Teleportationspakt für den Funkelnden See	Kami Teleportationspakt für den Funkelnden See	Kami Teleportationspakt für den Funkelnden See			ein	der	Kami Teleportationspakte für den Funkelnden See			
 _1BB4E021DB5BE209	tp_karavan_ranger_camp	Karavan Teleportationspakt für das Rangerlager	Karavan Teleportationspakt für das Rangerlager	Karavan Teleportationspakt für das Rangerlager			ein	der	Karavan Teleportationspakte für das Rangerlager			
 _79A8C0CE2A3D11EA	tp_karavan_shattered_ruins	Karavan Teleportationspakt für Zerstörte Ruinen	Karavan Teleportationspakt für Zerstörte Ruinen	Karavan Teleportationspakt für Zerstörte Ruinen			ein	der	Karavan Teleportationspakte für Zerstörte Ruinen			
+_5DBA9814E46B947A	rite_ranger_map_book	Karte	Karte	Karte			eine	die	Karten		die	
