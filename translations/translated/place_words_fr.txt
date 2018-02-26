@@ -648,7 +648,7 @@ _0F1086393F8B083C	r_01_27_place_libertylake_2	Plage aux cloppers	la	sur la
 _53F9A97830AA1FE7	r_12_04	Si vous voyez ce texte, c'est un bug : r_12_04					
 _D8EE237CA3C73181	r_01_28_mission_tp_1	Grotte du Vortex vers Vents du Songe	la	dans la	Grottes du Vortex vers Vents du Songe	les	dans les
 _321059AE9A1F0970	r_01_28_mission_tp_2	Passage vers Vents du Songe	le	dans le	Passages vers Vents du Songe	les	dans les
-_2C7D7F0D60A5B869	continent_zorai_island	Ilôts zoraï	les	dans les			
+_2C7D7F0D60A5B869	continent_zorai_island	Route d’Oflovak	les	sur la			
 _DB798FE7FE88087C	region_zorai_island1	Ilôt zoraï 1					
 _1B798FE8FE88087C	region_zorai_island2	Ilôt zoraï 2					
 _5B798FE9FE88087C	region_zorai_island3	Ilôt zoraï 3					

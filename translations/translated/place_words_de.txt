@@ -648,7 +648,7 @@ _0F1086393F8B083C	r_01_27_place_libertylake_2	Clopper-Strand	Clopper-Strand	Clop
 _53F9A97830AA1FE7	r_12_04	Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: r_12_04						
 _D8EE237CA3C73181	r_01_28_mission_tp_1	Grotte des Wirbels nach Gang der Winde der Muse	Grotte des Wirbels nach Gang der Winde der Muse	Grotte des Wirbels nach Gang der Winde der Muse	die	die	in der	zur
 _321059AE9A1F0970	r_01_28_mission_tp_2	Gang der Winde der Muse	Gang der Winde der Muse	Gang der Winde der Muse	der	den	im	zum
-_2C7D7F0D60A5B869	continent_zorai_island	Zorai Inseln	Zorai-Inseln					
+_2C7D7F0D60A5B869	continent_zorai_island	Zorai Inseln	Oflovak's Straße					
 _DB798FE7FE88087C	region_zorai_island1	Zorai Insel 1	Zorai-Insel 					
 _1B798FE8FE88087C	region_zorai_island2	Zorai Insel 2	Zorai-Insel 					
 _5B798FE9FE88087C	region_zorai_island3	Zorai Insel 3	Zorai-Insel 					
