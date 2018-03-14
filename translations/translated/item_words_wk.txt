@@ -6898,3 +6898,5 @@ _85BA00F2EAE1B540	tp_kami_shining_lake	Kami Teleporter Pact for Shining Lake	a	t
 _1BB4E021DB5BE209	tp_karavan_ranger_camp	Karavan Teleporter Pact for Ranger Camp	a	the	Karavan Teleporter Pacts for Ranger Camp		the	
 _79A8C0CE2A3D11EA	tp_karavan_shattered_ruins	Karavan Teleporter Pact for Shattered Ruins	a	the	Karavan Teleporter Pacts for Shattered Ruins		the	
 _5DBA9814E46B947A	rite_ranger_map_book	Map	a	the	Map		the	
+_3869B7E1D7D0813A	ranger_rite_leader_tool	Leader Tool	a	the	Leader Tool		the	
+_16FED261B53DAA77	ranger_rite_flare_gun	Flare Gun	a	the	Flare Gun		the	
