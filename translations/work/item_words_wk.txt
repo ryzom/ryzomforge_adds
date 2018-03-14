@@ -7818,3 +7818,4 @@ tp_karavan_ranger_camp	Karavan Teleporter Pact for Ranger Camp	a	the	Karavan Tel
 tp_karavan_shattered_ruins	Karavan Teleporter Pact for Shattered Ruins	a	the	Karavan Teleporter Pacts for Shattered Ruins		the									
 rite_ranger_map_book	Map	a	the	Map		the									
 ranger_rite_leader_tool	Leader Tool	a	the	Leader Tool		the									
+ranger_rite_flare_gun	Flare Gun	a	the	Flare Gun		the									
