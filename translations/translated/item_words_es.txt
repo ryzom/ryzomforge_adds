@@ -6898,3 +6898,5 @@ _85BA00F2EAE1B540	tp_kami_shining_lake	Pacto Kami / Teleportador hacia el Lago r
 _1BB4E021DB5BE209	tp_karavan_ranger_camp	Pacto Karavan / Teleportador hacia el Campement Ranger	un	el	Pactos Karavan / Teleportadores hacia le Campamiento Ranger		los	
 _79A8C0CE2A3D11EA	tp_karavan_shattered_ruins	Pacto Karavan / Teleportador hacia las Ruinas devastadas	un	el	Pactos Karavan / Teleportadores hacia las Ruinas devastadas		los	
 _5DBA9814E46B947A	rite_ranger_map_book	Plano	un	el	Planos		los	
+_3869B7E1D7D0813A	ranger_rite_leader_tool	maestro de heramientas	un	el	maestros de heramientas		los	
+_16FED261B53DAA77	ranger_rite_flare_gun	pistola de bengalas	una	la	pistolas de bengalas		las	

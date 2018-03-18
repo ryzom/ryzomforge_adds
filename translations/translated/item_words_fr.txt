@@ -6898,3 +6898,5 @@ _85BA00F2EAE1B540	tp_kami_shining_lake	Pacte Kami / Téléporteur vers le Lac é
 _1BB4E021DB5BE209	tp_karavan_ranger_camp	Pacte Karavan / Téléporteur vers le Campement ranger	un	le	Pactes Karavan / Téléporteurs vers le Campement ranger	des	les			
 _79A8C0CE2A3D11EA	tp_karavan_shattered_ruins	Pacte Karavan / Téléporteur vers les Ruines dévastées	un	le	Pactes Karavan / Téléporteurs vers les Ruines dévastées	des	les			
 _5DBA9814E46B947A	rite_ranger_map_book	Carte	une	la	Cartes	des	les			
+_3869B7E1D7D0813A	ranger_rite_leader_tool	Éditeur de Liste	un	l’	Éditeurs de Liste	des	les			
+_16FED261B53DAA77	ranger_rite_flare_gun	Lance-fusée	un	le	Lance-fusées	des	les			
