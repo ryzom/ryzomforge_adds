@@ -9967,6 +9967,10 @@ _E149AC5A948ACCB0	room_access_zora	$gn_room_access$
 _6364741AAA99249A	room_access_jenlai	$gn_room_access$			
 _63648C2167494C98	room_access_hoicho	$gn_room_access$			
 _63648C216799349D	room_access_mincho	$gn_room_access$			
+_FDD5C69A438D5C09	ranger_rite_giver_newbieland	Xypholion Ioros			
+_0B64B6051AD6165B	ranger_rite_giver_dummy_newbieland	Xypholion Ioros			
+_E35F4529470EBCF4	ranger_rite_start_enrty_npc	Be'arlly Emer			
+_12880513A9A3CC83	ranger_rite_helper_island	Ku Co-Yon			
 _05813D9240610C5B	karavan_altar_silan_ranger_camp	$gn_karavan_altar_silan_ranger_camp$			
 _176BF2166F78ADAD	karavan_altar_silan_shattered_ruins	$gn_karavan_altar_silan_shattered_ruins$			
 _0EA1F8323AECDB4B	kami_altar_silan_shining_lake	$gn_kami_altar_silan_shining_lake$			

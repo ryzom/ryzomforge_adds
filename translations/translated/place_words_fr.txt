@@ -648,7 +648,7 @@ _0F1086393F8B083C	r_01_27_place_libertylake_2	Plage aux cloppers	la	sur la
 _53F9A97830AA1FE7	r_12_04	Si vous voyez ce texte, c'est un bug : r_12_04					
 _D8EE237CA3C73181	r_01_28_mission_tp_1	Grotte du Vortex vers Vents du Songe	la	dans la	Grottes du Vortex vers Vents du Songe	les	dans les
 _321059AE9A1F0970	r_01_28_mission_tp_2	Passage vers Vents du Songe	le	dans le	Passages vers Vents du Songe	les	dans les
-_2C7D7F0D60A5B869	continent_zorai_island	Ilôts zoraï	les	dans les			
+_2C7D7F0D60A5B869	continent_zorai_island	Route d’Oflovak	les	sur la			
 _DB798FE7FE88087C	region_zorai_island1	Ilôt zoraï 1					
 _1B798FE8FE88087C	region_zorai_island2	Ilôt zoraï 2					
 _5B798FE9FE88087C	region_zorai_island3	Ilôt zoraï 3					
@@ -825,6 +825,7 @@ _77FF328F086049B2	continent_r2_roots	Inexploré Prims	le	dans le
 _CD28268946CD000E	continent_r2_desert	Inexploré Desert	le	dans le			
 _77FF3278876F21B2	continent_r2_lakes	Inexploré Lakes	le	dans le			
 _09D61686092E180E	continent_r2_jungle	Inexploré Jungle	le	dans le			
+_BAA17AACA3D42E1E	region_zorai_islands	Route d’Oflovak – Jungle	la	sur la	Routes d’Oflovak – Jungle	les	sur les
 _C3D3C8B1555AC85E	uiR2_Jungle30	Grand vallon	le	dans le			
 _6AF70C1CB1909CCB	uiR2_Jungle47	Région des braves	le	dans le			
 _21BA3D37090079C2	uiR2_Jungle36	Le lagon oublié	le	dans le			

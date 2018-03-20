@@ -4914,6 +4914,10 @@ FACTION_MARAUDERS()
 {
 	[Marauder]
 }
+FACTION_RANGER()
+{
+	[Ranger]
+}
 
 FACTION_AGNOS()
 {
@@ -6011,5 +6015,42 @@ FACTION_RU()
 }
 OPEN_SILAN_ANNOUNCE_TEXT()
 {
-	[Did you know we can reach Silan ove the bark ? It seems that Rangers are maintaining a path whose entrance is at grove of confusion’s very end.]
+	[Did you know we can reach Silan over the bark ? It seems that Rangers are maintaining a path whose entrance is at grove of confusion’s very end.]
+}
+
+MENU_HELLO_LEADER()
+{
+	[Hello?]
+}
+MENU_AN_OPENING()
+{
+	[An Opening?]
+}
+MENU_OPEN_CHEST()
+{
+	[Open the Chest]
+}
+MENU_HELPER_NPC()
+{
+	[Hello]
+}
+MENU_RESCUE_TEAM_1()
+{
+	[kami'ata]
+}
+MENU_RESCUE_TEAM_2()
+{
+	[deles silam]
+}
+MENU_RESCUE_TEAM_3()
+{
+	[oren pyr]
+}
+MENU_RESCUE_TEAM_4()
+{
+	[lordoy]
+}
+MENU_RESCUE_TEAM_5()
+{
+	[lordoy]
 }
