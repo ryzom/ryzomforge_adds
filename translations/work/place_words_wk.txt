@@ -881,7 +881,7 @@ boss_tryker_light_start_spawn_place	<GEN>boss_tryker_light_start_spawn_place
 episode2_temple_kami_tryker	<GEN>episode2_temple_kami_tryker					
 episode2_temple_karavan_tryker	<GEN>episode2_temple_karavan_tryker					
 episode2_temple_kami_zorai	<GEN>episode2_temple_kami_zorai					
-episode2_temple_karavan_zorai	<GEN>episode2_temple_karavan_zorai					
+episode2_temple_karavan_zorai	<GEN>episode2_temple_karavan_zorai
 region_zorai_islands	Oflovak Road -- Jungle	the	in	the		
 uiR2_Jungle30	Great Dale the	in	the		
 uiR2_Jungle47	Range of the Brave the	in	the		

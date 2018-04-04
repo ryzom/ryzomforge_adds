@@ -821,11 +821,11 @@ _4C9B80A7A9B7946E	place_marauder_camp	Marauder Camp
 _3FEFB69CBBDF4DAB	place_lieudit_marauder_arena	Marauder Arena					
 _A59A81E8140A6CA7	marauder_stable	Marauder Stables	the				
 _29AC391EC68F71FC	continent_r2_forest	Leewind Lands	the	in	the		
-_BAA17AACA3D42E1E	region_zorai_islands	Oflovak Road -- Jungle	the	in	the		
 _77FF328F086049B2	continent_r2_roots	Unexplored Prims	the	in	the		
 _CD28268946CD000E	continent_r2_desert	Unexplored Desert	the	in	the		
 _77FF3278876F21B2	continent_r2_lakes	Unexplored Lakes	the	in	the		
 _09D61686092E180E	continent_r2_jungle	Unexplored Jungle	the	in	the		
+_BAA17AACA3D42E1E	region_zorai_islands	Oflovak Road -- Jungle	the	in	the		
 _C3D3C8B1555AC85E	uiR2_Jungle30	Great Dale the	in	the			
 _6AF70C1CB1909CCB	uiR2_Jungle47	Range of the Brave the	in	the			
 _21BA3D37090079C2	uiR2_Jungle36	The Forgotten Lagoon the	in	the			

@@ -24284,8 +24284,7 @@ uittPhraseUpgrades	[@{6F6F}Verbesserungen @{FFFF}von Aktionen oder Eigenschaften
 // INDEX 5768
 uittPhraseXPMalus	[@{6F6F}Sterbe-Erfahrungsstrafe.\n
 	@{FFFF}Wenn dein Charakter von den Mächten wiederbelebt werden muss, wird diese Strafe erhöht.\n
-	Die darauf folgenden Erfahrungs-Gewinne begleichen die Strafe, bis sie abgetragen ist.\n
-	Bis die Strafe auf 0 gesunken ist, bringen ausgeführte Aktionen keine Fertigkeitserhöhungen. Es verbleiben @{6F6F}%dp@{FFFF}% der Strafe.]
+	Die darauf folgenden Erfahrungs-Gewinne begleichen die Strafe, bis sie abgetragen ist.]
 
 // HASH_VALUE 29532B61D5EBA4EA
 // INDEX 5769
