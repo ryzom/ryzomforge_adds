@@ -9965,3 +9965,11 @@ room_access_zora	$gn_room_access$
 room_access_jenlai	$gn_room_access$
 room_access_hoicho	$gn_room_access$
 room_access_mincho	$gn_room_access$
+ranger_rite_giver_newbieland	Xypholion Ioros
+ranger_rite_giver_dummy_newbieland	Xypholion Ioros
+ranger_rite_start_enrty_npc	Be'arlly Emer
+ranger_rite_helper_island	Ku Co-Yon
+karavan_altar_silan_ranger_camp	$gn_karavan_altar_silan_ranger_camp$
+karavan_altar_silan_shattered_ruins	$gn_karavan_altar_silan_shattered_ruins$
+kami_altar_silan_shining_lake	$gn_kami_altar_silan_shining_lake$
+kami_altar_silan_ranger_camp	$gn_kami_altar_silan_ranger_camp$
