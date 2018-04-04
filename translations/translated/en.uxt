@@ -27137,321 +27137,325 @@ uiOrganization	[ORGANIZATION]
 // INDEX 6442
 uiOrganization_5	[Marauders]
 
-// HASH_VALUE D17100514DC2A035
+// HASH_VALUE A64770772586B48A
 // INDEX 6443
+uiOrganization_7	[Ranger]
+
+// HASH_VALUE D17100514DC2A035
+// INDEX 6444
 uiOrganization_0	[Undefined]
 
 // HASH_VALUE 22FAEC96E434B371
-// INDEX 6444
+// INDEX 6445
 uiPoints	[Points:]
 
 // HASH_VALUE 5BD76F5861C46365
-// INDEX 6445
+// INDEX 6446
 uiOrganizationStatus	[Rank:]
 
 // HASH_VALUE 67A9E49D2609E451
-// INDEX 6446
+// INDEX 6447
 uittOrganization	[You can join an @{6F6F}Organization@{FFFF} and get the advantages of belonging to that organization by passing a rite.\n
 	\n
 	You will need to meet the fame requirements before you do the rite. The sage (or equivalent) of the organization can give you more information.]
 
 // HASH_VALUE 65C71C3EEC5A0FC8
-// INDEX 6447
+// INDEX 6448
 uiRpTags	[Roleplay Tags]
 
 // HASH_VALUE 011E7DD3846A697E
-// INDEX 6448
+// INDEX 6449
 uittRpTags	[Show any Roleplay Tags above the character]
 
 // HASH_VALUE 68DC145070582480
-// INDEX 6449
+// INDEX 6450
 uimwTaskBar	[Taskbar]
 
 // HASH_VALUE 20D0043864581438
-// INDEX 6450
+// INDEX 6451
 uiWindowNpcName	[NPC Name]
 
 // HASH_VALUE F926A4436B4D184B
-// INDEX 6451
+// INDEX 6452
 uittNpcName	[Show friendly NPC's names above the character]
 
 // HASH_VALUE 7F73C093A7248307
-// INDEX 6452
+// INDEX 6453
 uiNpcTitle	[NPC Title]
 
 // HASH_VALUE CE3119F23A3FD1F4
-// INDEX 6453
+// INDEX 6454
 uittNpcTitle	[Show friendly NPC's titles above the character]
 
 // HASH_VALUE C6C48E46D588B347
-// INDEX 6454
+// INDEX 6455
 uiHands2	[Actions #2]
 
 // HASH_VALUE 6C669F5DD9357859
-// INDEX 6455
+// INDEX 6456
 uittChooseLMFiberColor	[Choose color for 'Fiber' landmark]
 
 // HASH_VALUE 9B4A6C691004BB09
-// INDEX 6456
+// INDEX 6457
 uiSelectShortcutBar2	[Select Shortcut Bar #2]
 
 // HASH_VALUE 5854C7639701383B
-// INDEX 6457
+// INDEX 6458
 uiFXAA	[Enable FXAA]
 
 // HASH_VALUE DC75700D1144549D
-// INDEX 6458
+// INDEX 6459
 uiVREnable	[Enable VR]
 
 // HASH_VALUE EFCBC4603996C0AE
-// INDEX 6459
+// INDEX 6460
 uiVRGeneral	[Virtual Reality Options]
 
 // HASH_VALUE CF42883683C0EC33
-// INDEX 6460
+// INDEX 6461
 uigcVR	[VIRTUAL REALITY]
 
 // HASH_VALUE 9C58F47FED081B8E
-// INDEX 6461
+// INDEX 6462
 uigcFxAnisotropicFilter	[Anisotropic Filtering:]
 
 // HASH_VALUE 6498F4386498F438
-// INDEX 6462
+// INDEX 6463
 uigcFxAnisotropicFilterNone	[None]
 
 // HASH_VALUE 050BB49718B1CAD4
-// INDEX 6463
+// INDEX 6464
 uiShowClock12h	[Use 12-hour clock]
 
 // HASH_VALUE BCF4DB5845BC4EDA
-// INDEX 6464
+// INDEX 6465
 uittShowClock12h	[If checked, use 12-hour clock in compass and in chat messages.]
 
 // HASH_VALUE 68F99C8C69A81273
-// INDEX 6465
+// INDEX 6466
 uiRadarUseCamera	[Compass follows camera rotation]
 
 // HASH_VALUE B83EBD58DE9C068F
-// INDEX 6466
+// INDEX 6467
 uittRadarUseCamera	[If checked, use camera rotation for compass view.]
 
 // HASH_VALUE 82A1901C06A3F72E
-// INDEX 6467
+// INDEX 6468
 uiTotalPatch	[TOTAL PATCH]
 
 // HASH_VALUE D091B40C4890BC25
-// INDEX 6468
+// INDEX 6469
 uiRequiredFiles	[REQUIRED FILES]
 
 // HASH_VALUE 8C42E02F0C01D422
-// INDEX 6469
+// INDEX 6470
 uiLodValue	[NORMAL]
 
 // HASH_VALUE 6878DC2CC23A6CB6
-// INDEX 6470
+// INDEX 6471
 uiDebugProfileFillRate	[Profile Fillrate]
 
 // HASH_VALUE 0F54678C93B4CBF6
-// INDEX 6471
+// INDEX 6472
 uiFixedMissionEntry_Mainland_Unknwown	[Main land / Unknown]
 
 // HASH_VALUE CAB123089C80B66B
-// INDEX 6472
+// INDEX 6473
 uiNoFiles	[No Files...]
 
 // HASH_VALUE 4090240840902408
-// INDEX 6473
+// INDEX 6474
 uiByte	[B]
 
 // HASH_VALUE AA699882DFD7A376
-// INDEX 6474
+// INDEX 6475
 uiCP_Name_Generator	[Names generator]
 
 // HASH_VALUE 6498541C641C14C8
-// INDEX 6475
+// INDEX 6476
 uiCP_Name_Generate	[Generate]
 
 // HASH_VALUE 609C1434705844D4
-// INDEX 6476
+// INDEX 6477
 uiCP_Maraudeur	[Marauder]
 
 // HASH_VALUE 92C6D489AAC438C4
-// INDEX 6477
+// INDEX 6478
 uiCP_Name_Policy	[Naming policy]
 
 // HASH_VALUE E7473F9596B88799
-// INDEX 6478
+// INDEX 6479
 uiCP_FirstName	[First name]
 
 // HASH_VALUE 6467007F5645D768
-// INDEX 6479
+// INDEX 6480
 uiCP_LastName	[Last name]
 
 // HASH_VALUE 6DA7FC912D38D095
-// INDEX 6480
+// INDEX 6481
 uiHorizontal	[Horizontal]
 
 // HASH_VALUE 749C54586C5834A4
-// INDEX 6481
+// INDEX 6482
 uiVertical	[Vertical]
 
 // HASH_VALUE 641C5434641C5434
-// INDEX 6482
+// INDEX 6483
 uiKeyMUTE	[Mute]
 
 // HASH_VALUE 3165F321EF51FEF1
-// INDEX 6483
+// INDEX 6484
 uiKeyPLAYPAUSE	[Play / pause]
 
 // HASH_VALUE 26C8EF962CB49073
-// INDEX 6484
+// INDEX 6485
 uiKeyVOLUMEDOWN	[Volume down]
 
 // HASH_VALUE E828AC5B1985D0BD
-// INDEX 6485
+// INDEX 6486
 uiKeyVOLUMEUP	[Volume up]
 
 // HASH_VALUE E906D08868678C93
-// INDEX 6486
+// INDEX 6487
 uiKeyCALC	[Calculator]
 
 // HASH_VALUE 60C82889E9C9B49B
-// INDEX 6487
+// INDEX 6488
 uiKeyPARAGRAPH	[Paragraph]
 
 // HASH_VALUE ECEC8E017F3FDAE2
-// INDEX 6488
+// INDEX 6489
 uiKeyOEM_102	[OEM 102]
 
 // HASH_VALUE 61B9BCDD9CF5F488
-// INDEX 6489
+// INDEX 6490
 uiFilterMenuDynamic	[%channel @{T8}/%shortcut]
 
 // HASH_VALUE 6588A87B1E781483
-// INDEX 6490
+// INDEX 6491
 uimwAppZone	[AppZone]
 
 // HASH_VALUE 27273D41B0FA7DD2
-// INDEX 6491
+// INDEX 6492
 uiPlayedTime	[You played with this character for %time.]
 
 // HASH_VALUE EB1A8C8F22674C92
-// INDEX 6492
+// INDEX 6493
 uiPlaylistRefresh	[Refresh]
 
 // HASH_VALUE 570A63956CA078B7
-// INDEX 6493
+// INDEX 6494
 uiFreeViewTablet	[Tablet or touchscreen]
 
 // HASH_VALUE 781CF40C781CF40C
-// INDEX 6494
+// INDEX 6495
 uiCopy	[Copy]
 
 // HASH_VALUE AF4704666E75D097
-// INDEX 6495
+// INDEX 6496
 uiBrowse	[Browse]
 
 // HASH_VALUE 4046D798ED76B4BE
-// INDEX 6496
+// INDEX 6497
 cmdCreateGroupUsage1	[createGroup command usage:]
 
 // HASH_VALUE 672F2158D608B33D
-// INDEX 6497
+// INDEX 6498
 cmdCreateGroupUsage2	[/createGroup group_name: create a group named group_name with all your equipped items]
 
 // HASH_VALUE 281F2D43F2731DEC
-// INDEX 6498
+// INDEX 6499
 cmdCreateGroupUsage3	[/createGroup group_name true: create a group named group_name with all your equipped items, and create a remove command for every empty slot]
 
 // HASH_VALUE 87A04D4E0C663745
-// INDEX 6499
+// INDEX 6500
 cmdCreateGroupError	[A group named %name already exists, cannot create one with the same name.]
 
 // HASH_VALUE 57AAD85BEAA4D7B9
-// INDEX 6500
+// INDEX 6501
 cmdCreateGroupSuccess1	[Group %name successfully created.]
 
 // HASH_VALUE 9C6A88FAC1CEA4DC
-// INDEX 6501
+// INDEX 6502
 cmdCreateGroupSuccess2	[Group %name successfully created with removal for all unequiped items.]
 
 // HASH_VALUE EBB1FF685D7AFCC7
-// INDEX 6502
+// INDEX 6503
 cmdEquipGroupUsage1	[equipGroup command usage:]
 
 // HASH_VALUE 0FDFE7D6741FF8C5
-// INDEX 6503
+// INDEX 6504
 cmdEquipGroupUsage2	[/equipGroup group_name: Pull the items from the group group_name from available inventory and equip them.]
 
 // HASH_VALUE 5434105FEEDBCB30
-// INDEX 6504
+// INDEX 6505
 cmdEquipGroupError	[Could not equip group %name because no group named like this was found.]
 
 // HASH_VALUE 5B9A98912A55C7C1
-// INDEX 6505
+// INDEX 6506
 cmdEquipGroupSuccess	[Group %name successfully equipped.]
 
 // HASH_VALUE 82B6A399EDB6D0B1
-// INDEX 6506
+// INDEX 6507
 cmdDeleteGroupUsage1	[deleteGroup command usage:]
 
 // HASH_VALUE 2022F308D2F5591B
-// INDEX 6507
+// INDEX 6508
 cmdDeleteGroupUsage2	[/deleteGroup group_name: Remove the group named group_name if it exists.]
 
 // HASH_VALUE 06DA351B3C7F2E56
-// INDEX 6508
+// INDEX 6509
 cmdDeleteGroupError	[Cannot delete group %name: no group with this name found.]
 
 // HASH_VALUE 19D9DC5BEAA4D7BD
-// INDEX 6509
+// INDEX 6510
 cmdDeleteGroupSuccess	[Group %name successfully deleted.]
 
 // HASH_VALUE ADEA727BDB89387A
-// INDEX 6510
+// INDEX 6511
 cmdMoveGroupUsage1	[moveGroup command usage:]
 
 // HASH_VALUE 9AF23A3F90C2A5A1
-// INDEX 6511
+// INDEX 6512
 cmdMoveGroupUsage2	[/moveGroup group_name destination: move items from all available inventories to destination]
 
 // HASH_VALUE 5BE3F613CFC022DC
-// INDEX 6512
+// INDEX 6513
 cmdMoveGroupUsage3	[destination can be either bag, player_room, guild, pet_animal1, pet_animal2, pet_animal3, pet_animal4]
 
 // HASH_VALUE 063AAC84DBD18975
-// INDEX 6513
+// INDEX 6514
 cmdMoveGroupError	[Could not move group %name to %inventory because no group named like this was found, and/or it wasn't a valid inventory.]
 
 // HASH_VALUE 53F23D1089A67059
-// INDEX 6514
+// INDEX 6515
 cmdMoveGroupSuccess	[Group %name successfully moved to %inventory.]
 
 // HASH_VALUE AE999B8E9D9143A5
-// INDEX 6515
+// INDEX 6516
 cmdListGroupHeader	[Available item groups:]
 
 // HASH_VALUE 5BD4C6549B44ABA5
-// INDEX 6516
+// INDEX 6517
 cmdListGroupLine	[* %name, with %size items inside.]
 
 // HASH_VALUE 3267346D71E53896
-// INDEX 6517
+// INDEX 6518
 uimGroup	[Groups]
 
 // HASH_VALUE 0C8BC4F4AE78A6B7
-// INDEX 6518
+// INDEX 6519
 uiMacroItemGroupEquip	[Equip an item group]
 
 // HASH_VALUE 5614A7A2A707B055
-// INDEX 6519
+// INDEX 6520
 uiMacroItemGroupName	[Item group name]
 
 // HASH_VALUE AC27CF9914116C1B
-// INDEX 6520
+// INDEX 6521
 uiMacroItemGroupMove	[Move an item group]
 
 // HASH_VALUE A7A1CC916E59E066
-// INDEX 6521
+// INDEX 6522
 uiMacroItemGroupDestination	[Item group destination]
 
