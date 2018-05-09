@@ -7288,6 +7288,11 @@ uiGuildDescription	[Description]
 
 uiGuildBlasonDesign	[Flag Design]
 
+uiGuildNameWarning [The name should be no longer than 32 characters. No symbols or numbers.]
+
+uiGuildDescWarning [The description should be no more than 200 characters. No symbols or numbers.]
+
+uiGuildCostInfo [The Cost of creating a guild is 100,000 dappers.]
 
 uiGuildBlasonBack	[Back]
 
@@ -13541,3 +13546,7 @@ uiMacroItemGroupEquip [Equip an item group]
 uiMacroItemGroupName  [Item group name]
 uiMacroItemGroupMove  [Move an item group]
 uiMacroItemGroupDestination [Item group destination]
+
+//map search
+uiMapSearch [Map search]
+uittMapSearch [Map search]
