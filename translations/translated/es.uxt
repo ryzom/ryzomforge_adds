@@ -27476,3 +27476,11 @@ uiMapSearch	[Búsqueda en el mapa]
 // INDEX 6527
 uittMapSearch	[Búsqueda en el mapa]
 
+// HASH_VALUE 5814F40C5814F40C
+// INDEX 6528
+uimMacroCopy	[COPIA]
+
+// HASH_VALUE 5814F40C5814F40C
+// INDEX 6529
+uimMCCopy	[COPIA]
+
