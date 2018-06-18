@@ -1596,6 +1596,11 @@ REQUIRED_EQUIP()
 	[&CHK&You haven't requipred characteristic for wear this item.]
 }
 
+REQUIRED_EQUIP_CIV_CULT_ORGA()
+{
+	[&CHK&You haven't requipred Civilisation/Cult/Organization for wear this item.]
+}
+
 INVENTORY_BUY_ITEM(item item, int qty, int cost, int fp)
 {
 	(qty=1 & fp=0)
