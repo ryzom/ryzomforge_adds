@@ -1596,6 +1596,11 @@ REQUIRED_EQUIP()
 	[&CHK&You haven't requipred characteristic for wear this item.]
 }
 
+REQUIRED_EQUIP_CIV_CULT_ORGA()
+{
+	[&CHK&You haven't requipred Civilisation/Cult/Organization for wear this item.]
+}
+
 INVENTORY_BUY_ITEM(item item, int qty, int cost, int fp)
 {
 	(qty=1 & fp=0)
@@ -5240,6 +5245,10 @@ MIS_FAME_GAIN (faction faction)
 }
 
 
+NO_ACTION_WHILE_PVP()
+{
+	no_action_while_pvp	[&CHK&You cannot use actions if you have recently been involved in PvP actions.]
+}
 NO_ACTION_WHILE_SWIMMING()
 {
 	no_action_while_swimming	[&CHK&You cannot use actions while you are near water.]
