@@ -5240,6 +5240,10 @@ MIS_FAME_GAIN (faction faction)
 }
 
 
+NO_ACTION_WHILE_PVP()
+{
+	no_action_while_pvp	[&CHK&You cannot use actions if you have recently been involved in PvP actions.]
+}
 NO_ACTION_WHILE_SWIMMING()
 {
 	no_action_while_swimming	[&CHK&You cannot use actions while you are near water.]
