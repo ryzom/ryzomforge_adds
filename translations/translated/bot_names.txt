@@ -9975,3 +9975,5 @@ _05813D9240610C5B	karavan_altar_silan_ranger_camp	$gn_karavan_altar_silan_ranger
 _176BF2166F78ADAD	karavan_altar_silan_shattered_ruins	$gn_karavan_altar_silan_shattered_ruins$			
 _0EA1F8323AECDB4B	kami_altar_silan_shining_lake	$gn_kami_altar_silan_shining_lake$			
 _DA6E381CF5EC33A6	kami_altar_silan_ranger_camp	$gn_kami_altar_silan_ranger_camp$			
+_1329441BAAA6F097	marauder_camp_foreman	Shonga DeFao			
+_A67747ACA7496082	marauder_camp_barman	Kelen BaRopi			
