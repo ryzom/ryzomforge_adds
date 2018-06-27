@@ -2366,7 +2366,7 @@ uiBuildingEmpty	[no building]
 // The guild building is not build
 uiBuildingState0	[building]
 
-// The guild building is building
+// The guild building is building 
 
 uiBuildingState1	[builded]
 
@@ -2497,7 +2497,7 @@ Toutes les dépenses faites pendant cette guerre ont été remboursées aux guil
 uiOutpostWarStatus		[STATUT DE LA GUERRE]
 
 uiOutpostLvlThreshold		[Seuil Minimum : ]
-uittOutpostLvlThreshold
+uittOutpostLvlThreshold		
 [
 @{6F6F}Seuil Minimum@{FFFF}\n
 C'est le @{6F6F}Niveau de Round@{FFFF} que les attaquants doivent dépasser lors de leur @{6F6F}Période d'Attaque@{FFFF}.\n
@@ -2511,20 +2511,20 @@ uittOutpostLvlMaxAttacker
 C'est le @{6F6F}Niveau de Round@{FFFF} maximum que les attaquants ont pu valider pendant leur période d'Attaque.\n
 ]
 uiOutpostLvlMaxDefender		[Niveau Max. des Défenseurs : ]
-uittOutpostLvlMaxDefender
+uittOutpostLvlMaxDefender	
 [
 @{6F6F}Niveau de Round@{FFFF} maximum Atteint par les défenseurs.\n
 C'est le @{6F6F}Niveau de Round@{FFFF} maximum que les défenseurs ont pu valider pendant leur période de Défense.\n
 ]
 uiOutpostLvlCurrent		[Niveau de Round Courant : ]
-uittOutpostLvlCurrent
+uittOutpostLvlCurrent		
 
 [
 @{6F6F}Niveau de Round@{FFFF} courant.\n
 Pendant une période d'attaque ou de défense, C'est le @{6F6F}Niveau de Round@{FFFF} courant atteint par le camp qui attaque les escouades.\n
 ]
 uiOutpostRoundCur		[Round Courant : ]
-uittOutpostRoundCur
+uittOutpostRoundCur		
 [
 Round courant.\n
 Pendant une période d'attaque ou de défense, C'est le numéro de Round courant / nombre de round maximum.\n
@@ -2543,7 +2543,7 @@ uittOutpostDefHourError
 [
 @{6F6F}Horaire de Défense@{FFFF}\n
 Horaire à laquelle la guilde veut défendre sont avant-poste (Horaire @{6F6F}LOCAL@{FFFF} au fuseau horaire sélectionné).\n
-@{F80F}L'horaire sélectionné n'a pu être appliqué car la plage horaire doit rentrer en entier dans la phase de défense.
+@{F80F}L'horaire sélectionné n'a pu être appliqué car la plage horaire doit rentrer en entier dans la phase de défense. 
 Par conséquent l'heure de défense a été avancée.
 
 ]
@@ -2573,7 +2573,7 @@ uiOutpostPeriodFormat		[%dayname %daynumber %month de %timestart à %timeend]
 uiOutpostPeriodEnded		[Attaque terminée]
 
 uiOutpostTimeZone		[Fuseau Horaire : ]
-uittOutpostTimeZone
+uittOutpostTimeZone		
 [
 Choisissez le fuseau horaire de votre pays pour un affichage correct des heures.\n
 @{6F6F}Attention!@{FFFF} Il vous faut prendre en compte aussi l'heure d'été dans ce choix.\n
@@ -2603,7 +2603,7 @@ uittOutpostAttHourError
 [
 @{6F6F}Horaire d' Attaque@{FFFF}\n
 Horaire à laquelle la guilde veut attaquer sont avant-poste (Horaire @{6F6F}LOCAL@{FFFF} au fuseau horaire sélectionné).\n
-@{F80F}L'horaire sélectionné n'a pu être appliqué car la plage horaire doit rentrer en entier dans la phase d'attaque.
+@{F80F}L'horaire sélectionné n'a pu être appliqué car la plage horaire doit rentrer en entier dans la phase d'attaque. 
 Par conséquent l'heure d'attaque a été avancée.
 ]
 
@@ -2633,7 +2633,7 @@ Escouades sorties et défendant l'avant-poste.\n
 Au total, le nombre de squads sorties dépend directement du @{6F6F}Niveau de Round@{FFFF}.\n
 ]
 uiOutpostTSquad	[ESCOUADES EN ATTENTE]
-uittOutpostTSquad
+uittOutpostTSquad		
 [
 Escouades prêtes à combattre et en attente pour le prochain Round.\n
 Suivant le @{6F6F}Niveau de Round@{FFFF}, seules les 'X' premières sortiront.\n
@@ -5216,7 +5216,7 @@ uiSHOUT	[SHOUT]
 // ************************************************************************************
 // ************************************************************************************
 // ************************************************************************************
-// HELP
+// HELP 
 // ************************************************************************************
 // ************************************************************************************
 // ************************************************************************************
@@ -5233,21 +5233,21 @@ uittKeepInfo	[Keep the info in this window]
 // **************
 // HELP - ITEM - magic bonus
 // **************
-uihelpItemMagicBonusAll
+uihelpItemMagicBonusAll	
 [
 @{FFF9}Bonus For All Magic:\n
 @{T3}Cast Speed:@{T14}@{FFFF}%cs%@{FFF9}\n
 @{T3}Power:@{T14}@{FFFF}%mp%\n
 ]
 
-uihelpItemMagicBonusOffElemental
+uihelpItemMagicBonusOffElemental	
 [
 @{FFF9}Bonus For Offensive Elemental Magic:\n
 @{T3}Cast Speed:@{T14}@{FFFF}%cs%@{FFF9}\n
 @{T3}Power:@{T14}@{FFFF}%mp%\n
 ]
 
-uihelpItemMagicBonusOffAffliction
+uihelpItemMagicBonusOffAffliction	
 [
 @{FFF9}Bonus For Offensive Affliction Magic:\n
 @{T3}Cast Speed:@{T14}@{FFFF}%cs%@{FFF9}\n
@@ -5255,14 +5255,14 @@ uihelpItemMagicBonusOffAffliction
 ]
 
 
-uihelpItemMagicBonusDefHeal
+uihelpItemMagicBonusDefHeal	
 [
 @{FFF9}Bonus For Defensive Heal Magic:\n
 @{T3}Cast Speed:@{T14}@{FFFF}%cs%@{FFF9}\n
 @{T3}Power:@{T14}@{FFFF}%mp%\n
 ]
 
-uihelpItemMagicBonusDefAffliction
+uihelpItemMagicBonusDefAffliction	
 
 [
 @{FFF9}Bonus For Defensive Affliction Magic:\n
@@ -5378,7 +5378,7 @@ uihelpItemNoRentDesc	[@{F80B}Cet item sera détruit lorsque vous vous deconnecte
 
 // HELP - ITEM - Cosmetic
 // **************
-uihelpItemCosmetic
+uihelpItemCosmetic 
 [
 \n
 \n
@@ -6765,7 +6765,7 @@ uiBeast	[ANIMALS]
 
 uiAggro	[Aggressiveness]
 
-//
+// 
 uiFrozenSkill	[Frozen]
 
 uiInitHelp1	[These buttons represents your 4 virtual desktops.]
@@ -11271,7 +11271,7 @@ uiawrSFR2ARL	[Living Rifle]
 uiawrSFR2ARM	[Rifle]
 
 
-// Multiple Skill composition. NB: IMPORTANT: order of OR definition (SFM1B_SFM2B...)
+// Multiple Skill composition. NB: IMPORTANT: order of OR definition (SFM1B_SFM2B...) 
 // must be sorted by skill enum else won't match
 uiawrSFM1B_SFM2B	[Any Blunt Melee Weapon]
 
@@ -11798,7 +11798,7 @@ gn_zorai_voluteer_f	[zorai_voluteer]
 uimwEncyclopedia		[ENCYCLOPEDIA]
 
 uiEncyclopedia		[ENCYCLOPEDIA]
-uiEncyExplanation
+uiEncyExplanation	
 [
 This is your encyclopedia.\n
 This window is to be used for collecting the knowledge you have found on atys. The amber cube correspond to a thema. And themas are grouped in albums.
@@ -11832,7 +11832,7 @@ uiItemMpNoCraft			[Cannot be used to Craft]
 uiItemMpCraftRequirement	[Requis pour l'artisanat de certains objets]
 
 uiQuitingRyzom		[Leaving Ryzom...]
-uiQuitingRules
+uiQuitingRules		
 [
 Note: If you move or are hit, the leave will be canceled.\n
 Note: If you 'Quit Now' your avatar will still be connected for 30 seconds.
@@ -11874,7 +11874,7 @@ uiBCNotAvailable		[Not Available]
 uiBCDestroy				[Destroy]
 
 uiBCAutoReset			[Réinitialiser les Filtres à l'ouverture]
-uittBCAutoReset
+uittBCAutoReset			
 [
 Si coché, tous les @{6F6F}filtres@{FFFF} seront réinitialisés à l'ouverture de cette fenêtre.\n
 Décochez cette option pour conserver les filtres de @{6F6F}Prix@{FFFF}, @{6F6F}Qualité@{FFFF} et @{6F6F}Classe@{FFFF} entre deux ouvertures de cette fenêtre.
@@ -11956,7 +11956,7 @@ uittProtect_MaxAbsorb			[Maximum des Dommages Magiques absorbés.\nSomme de @{6F
 
 // Resists
 uiResistsTable			[RESISTS]
-uittMagicResistTable
+uittMagicResistTable	
 [
 Les sorts des créatures et des joueurs peuvent être complètement @{6F6F}résistés@{FFFF}.\n
 Le @{6F6F}pourcentage de chance@{FFFF} de résistance dépend:\n
@@ -12410,7 +12410,7 @@ uiMk_action3_1		[Course]
 uiMk_action3_1_tt	[Vous êtes en mode @{6F6F}Course@{FFFF}.\nCliquez pour marcher]
 
 uiMk_action4_0		[Esquive]
-uiMk_action4_0_tt
+uiMk_action4_0_tt	
 [
 Vous êtes en mode @{6F6F}Esquive@{FFFF}.\n
 Vos chances d'esquiver dépendent de votre score d'esquive et en particulier de votre équipement (voir fenêtre @{6F6F}Identité@{FFFF}).\n
@@ -12545,7 +12545,7 @@ uittInventoryWeight	[@{6F6F}Poids @{FFFF}total du sac]
 
 uittFriendsOnline	[Connected on the same Mainland or Ring Scenario]
 uittFriendsOnlineAbroad	[Connected on another Mainland or Ring Scenario]
-uittFriendsOffline	[Not connected]
+uittFriendsOffline	[Not connected] 
 
 uittGuildMemberOnline		[Connected on the same Mainland or Ring Scenario]
 uittGuildMemberOnlineAbroad	[Connected on another Mainland or Ring Scenario]
@@ -12803,7 +12803,7 @@ uiRAP_ST_2 [Story telling]
 uiRAP_ST_3 [Mistery]
 uiRAP_ST_4 [Hack'n'Slash]
 uiRAP_ST_5 [Guild training]
-uiRAP_ST_6 [Other]
+uiRAP_ST_6 [Other]      
 
 uiCP_InRingSession [The Ring Scenario that this character launched was left running. Click @{6F6F}'Resume Scenario' @{FFFF}to continue]
 uiCharSel_ResumeSession [Resume Scenario]
@@ -13148,7 +13148,7 @@ uiBGD_NormalPriority [Normal priority]
 uiBGD_PriorityTooltip [Select the priority of the Ryzom Downloader. You may want to @{6F6F}Pause@{FFFF} the downloader if you experience slowdown. If you have a fast machine, or want to speed up the patching process, you select choose @{6F6F}Normal Priority@{FFFF}]
 
 uiBGD_NotUsed [Not used] // background downloader is not used, standard downloader is used instead -> this is displayed in the bg downloader window in-game
-
+						 
 uiBGD_ShutdownFailed [Failed to shutdown the Ryzom Downloader, you may need to restart your computer to solve the problem]
 
 uiBGD_InGamePatchIncomplete [Access to the Atys mainland and Ryzom Ring requires patching to have been finished. The patching progress is indicated in the Patch Window.]
@@ -13322,7 +13322,7 @@ uittTabBuyPower [Learn new powers and auras]
 uittTabBuyCarac [Increase your caracteristics]
 
 uittSeconds [ second(s) ] // spell cast time (displayed in the tooltip of actions)
-uittMinutes [ minutes(s) ]
+uittMinutes [ minutes(s) ] 
 uittHours [ hour(s) ]
 
 uittSecondsShort [ s ] // 'seconds' (abreviated)
@@ -13556,14 +13556,3 @@ uittMapSearch [Map search]
 //macro copy
 uimMacroCopy [COPY]
 uimMCCopy [COPY]
-
-//zigs
-uitabInvPAZig1	[ZIG 1]
-uitabInvPAZig2	[ZIG 2]
-uitabInvPAZig3	[ZIG 3]
-uiPABagTitleMount4	[ZIG 1]
-uiPABagTitleMount5	[ZIG 2]
-uiPABagTitleMount6	[ZIG 3]
-uiPATitleMount5	[Zig 1]
-uiPATitleMount6	[Zig 2]
-uiPATitleMount7	[Zig 3]
