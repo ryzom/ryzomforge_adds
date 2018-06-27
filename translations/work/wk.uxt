@@ -13554,3 +13554,15 @@ uittMapSearch [Map search]
 //macro copy
 uimMacroCopy [COPY]
 uimMCCopy [COPY]
+
+
+//zigs
+uitabInvPAZig1	[ZIG 1]
+uitabInvPAZig2	[ZIG 2]
+uitabInvPAZig3	[ZIG 3]
+uiPABagTitleMount4	[ZIG 1]
+uiPABagTitleMount5	[ZIG 2]
+uiPABagTitleMount6	[ZIG 3]
+uiPATitleMount5	[Zig 1]
+uiPATitleMount6	[Zig 2]
+uiPATitleMount7	[Zig 3]
