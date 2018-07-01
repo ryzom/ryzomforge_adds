@@ -6054,3 +6054,7 @@ MENU_RESCUE_TEAM_5()
 {
 	[lordoy]
 }
+MENU_SCENARIO_EDITOR_TP()
+{
+	[Open the Scenario Editor.]
+}
