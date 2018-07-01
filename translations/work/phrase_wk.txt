@@ -6058,7 +6058,7 @@ MENU_RESCUE_TEAM_5()
 {
 	[lordoy]
 }
-OPEN_SILAN_ANNOUNCE_TEXT()
+MENU_SCENARIO_EDITOR_TP()
 {
-	[Did you know we can reach Silan over the bark ? It seems that Rangers are maintaining a path whose entrance is at grove of confusion’s very end.]
+	[Open the Scenario Editor.]
 }
