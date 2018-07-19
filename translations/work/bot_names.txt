@@ -9973,3 +9973,4 @@ karavan_altar_silan_ranger_camp	$gn_karavan_altar_silan_ranger_camp$
 karavan_altar_silan_shattered_ruins	$gn_karavan_altar_silan_shattered_ruins$
 kami_altar_silan_shining_lake	$gn_kami_altar_silan_shining_lake$
 kami_altar_silan_ranger_camp	$gn_kami_altar_silan_ranger_camp$
+liv_laby2012_start_npc	Ba'peappy Shidgen
