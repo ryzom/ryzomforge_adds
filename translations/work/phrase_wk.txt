@@ -6054,3 +6054,15 @@ MENU_RESCUE_TEAM_5()
 {
 	[lordoy]
 }
+MENU_SCENARIO_EDITOR_TP()
+{
+	[Open the Scenario Editor.]
+}
+MENU_OREN_PYR()
+{
+	[oren pyr !]
+}
+MENU_GLOWING_COAL()
+{
+	[Glowing Coal]
+}
