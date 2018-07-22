@@ -26801,7 +26801,7 @@ uiRpJobs	[Berufe]
 
 // HASH_VALUE 21D2AB9C60E8E0A4
 // INDEX 6356
-uiRpJobsElementary	[Basis-Berufe]
+uiRpJobsElementary	[Basisberufe]
 
 // HASH_VALUE 62A74024692697BB
 // INDEX 6357
@@ -26861,7 +26861,7 @@ uiChapterIII	[Kapitel III: Außenposten]
 
 // HASH_VALUE A3244C43859A1438
 // INDEX 6371
-uiChapterIV	[Kapitel IV: Basis-Berufe]
+uiChapterIV	[Kapitel IV: Basisberufe]
 
 // HASH_VALUE 96469B3B70F9145A
 // INDEX 6372
@@ -27252,7 +27252,7 @@ uiRadarUseCamera	[Kompass folgt der Kameraausrichtung.]
 
 // HASH_VALUE B83EBD58DE9C068F
 // INDEX 6467
-uittRadarUseCamera	[Wenn aktiviert, wird die Rotation für die Kompass-Ansicht eingeschaltet.]
+uittRadarUseCamera	[Wenn aktiviert, wird die Rotation für die Kompassansicht eingeschaltet.]
 
 // HASH_VALUE 82A1901C06A3F72E
 // INDEX 6468
@@ -27372,7 +27372,7 @@ uiBrowse	[Durchsuche]
 
 // HASH_VALUE 4046D798ED76B4BE
 // INDEX 6497
-cmdCreateGroupUsage1	[createGroup Befehls-Verwendung :]
+cmdCreateGroupUsage1	[createGroup Befehlsverwendung :]
 
 // HASH_VALUE 672F2158D608B33D
 // INDEX 6498
@@ -27380,7 +27380,7 @@ cmdCreateGroupUsage2	[/createGroup group_name : erstelle eine Gruppe mit dem Nam
 
 // HASH_VALUE 281F2D43F2731DEC
 // INDEX 6499
-cmdCreateGroupUsage3	[/createGroup group_name true : erstelle eine Gruppe mit dem Namen group_name mit all deinen ausgerüsteten Gegenständen, und erstelle einen Entfernungs-Befehl für jeden leeren Slotplatz]
+cmdCreateGroupUsage3	[/createGroup group_name true : erstelle eine Gruppe mit dem Namen group_name mit all deinen ausgerüsteten Gegenständen, und erstelle einen Entfernungsbefehl für jeden leeren Slotplatz]
 
 // HASH_VALUE 87A04D4E0C663745
 // INDEX 6500
@@ -27396,7 +27396,7 @@ cmdCreateGroupSuccess2	[Gruppe %name wurde erfolgreich erstellt, mitsamt Entfern
 
 // HASH_VALUE EBB1FF685D7AFCC7
 // INDEX 6503
-cmdEquipGroupUsage1	[equipGroup Befehls-Verwendung :]
+cmdEquipGroupUsage1	[equipGroup Befehlsverwendung :]
 
 // HASH_VALUE 0FDFE7D6741FF8C5
 // INDEX 6504
@@ -27412,7 +27412,7 @@ cmdEquipGroupSuccess	[Gruppe %name erfolgreich ausgerüstet.]
 
 // HASH_VALUE 82B6A399EDB6D0B1
 // INDEX 6507
-cmdDeleteGroupUsage1	[deleteGroup Befehls-Verwendung :]
+cmdDeleteGroupUsage1	[deleteGroup Befehlsverwendung :]
 
 // HASH_VALUE 2022F308D2F5591B
 // INDEX 6508
@@ -27428,7 +27428,7 @@ cmdDeleteGroupSuccess	[Gruppe %name erfolgreich gelöscht.]
 
 // HASH_VALUE ADEA727BDB89387A
 // INDEX 6511
-cmdMoveGroupUsage1	[moveGroup Befehls-Verwendung :]
+cmdMoveGroupUsage1	[moveGroup Befehlsverwendung :]
 
 // HASH_VALUE 9AF23A3F90C2A5A1
 // INDEX 6512
@@ -27448,7 +27448,7 @@ cmdMoveGroupSuccess	[Gruppe %name erfolgreich zu %inventory verschoben.]
 
 // HASH_VALUE AE999B8E9D9143A5
 // INDEX 6516
-cmdListGroupHeader	[Verfügbare Gegenstands-Gruppe :]
+cmdListGroupHeader	[Verfügbare Gegenstandsgruppe :]
 
 // HASH_VALUE 5BD4C6549B44ABA5
 // INDEX 6517
@@ -27460,17 +27460,17 @@ uimGroup	[Gruppe]
 
 // HASH_VALUE 0C8BC4F4AE78A6B7
 // INDEX 6519
-uiMacroItemGroupEquip	[Rüste eine Gegenstands-Gruppe aus]
+uiMacroItemGroupEquip	[Rüste eine Gegenstandsgruppe aus]
 
 // HASH_VALUE 5614A7A2A707B055
 // INDEX 6520
-uiMacroItemGroupName	[Gegenstands-Gruppen-Name]
+uiMacroItemGroupName	[Gegenstandsgruppen-Name]
 
 // HASH_VALUE AC27CF9914116C1B
 // INDEX 6521
-uiMacroItemGroupMove	[Verschiebe eine Gegenstands-Gruppe]
+uiMacroItemGroupMove	[Verschiebe eine Gegenstandsgruppe]
 
 // HASH_VALUE A7A1CC916E59E066
 // INDEX 6522
-uiMacroItemGroupDestination	[Ziel der Gegenstands-Gruppe]
+uiMacroItemGroupDestination	[Ziel der Gegenstandsgruppe]
 

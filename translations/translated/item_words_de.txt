@@ -6683,9 +6683,9 @@ _F0093121888B44F3	r_06_08_phial_full	Flasche	Flasche	Flasche	eine	die	Flaschen	F
 _FC6CAD2C67ECB821	r_06_08_report	Report	Report	Report	ein	der	Reporte	Reporte	einen	die		
 _A6098DA120A6473F	r_06_09_kizoar_element	Flügel eines tödlichen Kizoars	Flügel eines tödlichen Kizoars	Flügel eines tödlichen Kizoars	ein	der	Flügel eines tödlichen Kizoars	Flügel eines tödlichen Kizoars	einen	die		
 _FC6CAD2C67FCB821	r_06_09_report	Report	Report	Report	ein	der	Reporte	Reporte	einen	die		
-_3555F7DD2126222F	rpjob_elementary	Basis-Beruf	Basis-Beruf	Basis-Beruf	ein	der	Basis-Berufe	Basis-Berufe	einen	die		
+_3555F7DD2126222F	rpjob_elementary	Basis-Beruf	Basis-Beruf	Basis-Beruf	ein	der	Basisberufe	Basisberufe	einen	die		
 _9DA562B26F425A61	rpjob_advanced	Fortgeschrittener Beruf	Fortgeschrittene Beruf	Fortgeschrittenen Beruf	ein	der	fortgeschrittene Berufe	fortgeschrittenen Berufe	einen	die		
-_16515F8222A6FA6C	rpjob_roleplay	Basis-Beruf	Basis-Beruf	Basis-Beruf	ein	der	Basis-Berufe	Basis-Berufe	einen	die		
+_16515F8222A6FA6C	rpjob_roleplay	Basis-Beruf	Basis-Beruf	Basis-Beruf	ein	der	Basisberufe	Basisberufe	einen	die		
 _85B4A1C5D99F7053	rpjobitem_certifications	Meister-Instrument	Meister-Instrument	Meister-Instrument	ein	das	Meister-Instrumente	Meister-Instrumente	ein	die		
 _0F3D776412F0C65C	rpjob_200	Fleischer-Lehrling	Fleischer-Lehrling	Fleischer-Lehrling	ein	der	Fleischer-Lehrling	Fleischer-Lehrling	einen	der		
 _FA0E017088640A01	rpjobitem_200_a0	Element eines Fleischer-Kits	Element eines Fleischer-Kits	Element eines Fleischer-Kits	ein	das	Elemente eines Fleischer-Kits	Elemente eines Fleischer-Kits	ein	die		

@@ -2276,7 +2276,7 @@ citizenship_zorai_query_1_mabreka	[Der Große Weise Mabreka-Cho]
 
 // HASH_VALUE 1607E0CE0DE39B62
 // INDEX 557
-citizenship_zorai_query_2	[Du hast richtig geantwortet. Mabreka-Cho hat diesen Namen angenommen, um seinen Meistern und der Cho-Dynatsie seine Ehre zu erweisen. Er ist unser spiritueller Anführer, die Stimme der Vernunft die unser Volk leitet. Kannst du mir sagen, in welchem Land Mabreka zum Großen Weisen der Zoraï wurde?]
+citizenship_zorai_query_2	[Du hast richtig geantwortet. Mabreka-Cho hat diesen Namen angenommen, um seinen Meistern und der Cho-Dynastie seine Ehre zu erweisen. Er ist unser spiritueller Anführer, die Stimme der Vernunft die unser Volk leitet. Kannst Du mir sagen, in welchem Jahr Mabreka zum Großen Weisen der Zoraï wurde?]
 
 // HASH_VALUE 300C40C8300C40C8
 // INDEX 558
@@ -21901,12 +21901,12 @@ root_faber_not_first	[&CHK&Basisherstellungs-Szanzas müssen in der ersten Posit
 
 // HASH_VALUE 1080E8C2F67649BA
 // INDEX 5151
-rpjob_allready_have_job_m	[Du hast bereits die maximal erlaubte Anzahl der Basis-Berufe erlernt.\n
+rpjob_allready_have_job_m	[Du hast bereits die maximal erlaubte Anzahl der Basisberufe erlernt.\n
 	Es ist für dich nicht möglich, $jobitem.ia$ $jobitem$ zu werden.]
 
 // HASH_VALUE 02058F4C91CD11AF
 // INDEX 5152
-rpjob_allready_have_job_f	[Du hast bereits die maximal erlaubte Anzahl der Basis-Berufe erlernt.\n
+rpjob_allready_have_job_f	[Du hast bereits die maximal erlaubte Anzahl der Basisberufe erlernt.\n
 	Es ist für dich nicht möglich, $jobitem.pia$ $jobitem.p$ zu werden.]
 
 // HASH_VALUE CFBE9FB3E3B373BB
