@@ -515,13 +515,13 @@ _87A6C55BFF2FF1CE	zo_mincho_foreman_quarter	Min-Cho Aufseherquartier	Min-Cho Auf
 _CD71BE9A7ADBAE42	zo_mincho_messenger_quarter	Min-Cho Botenquartier	Min-Cho Botenquartier	Min-Cho Botenquartier	das	das	im	zum
 _C6F90833283497A4	zo_mincho_sage_quarter	Min-Cho Weisenquartier	Min-Cho Weisenquartier	Min-Cho Weisenquartier	das	das	im	zum
 _8FE1CA8A3A5A7A4C	zo_mincho_intendant_quarter	Min-Cho Intendantenquartier	Min-Cho Intendantenquartier	Min-Cho Intendantenquartier	das	das	im	zum
-_15D00F73DAD6F62A	zo_mincho_guard_chief_quarter	Min-Cho Hauptwächterquartier	Min-Cho Hauptwächterquartier	Min-Cho Hauptwächterquartier	das	das	im	zum
+_15D00F73DAD6F62A	zo_mincho_guard_chief_quarter	Min-Cho Hauptquartier der Wache	Min-Cho Hauptquartier der Wache	Min-Cho Hauptquartier der Wache	das	das	im	zum
 _E64EB21043AFD1D4	zo_hoicho_captain_quarter	Hoï-Cho Captainsquartier	Hoï-Cho Captainsquartier	Hoï-Cho Captainsquartier	das	das	im	zum
 _A606B15BFF2FDDD4	zo_hoicho_foreman_quarter	Hoï-Cho Aufseherquartier	Hoï-Cho Aufseherquartier	Hoï-Cho Aufseherquartier	das	das	im	zum
 _4B71BE9A7ADBA04E	zo_hoicho_messenger_quarter	Hoï-Cho Botenquartier	Hoï-Cho Botenquartier	Hoï-Cho Botenquartier	das	das	im	zum
 _85F908B4A9E483AA	zo_hoicho_sage_quarter	Hoï-Cho Weisenquartier	Hoï-Cho Weisenquartier	Hoï-Cho Weisenquartier	das	das	im	zum
 _0DE1CA8A3A5A6C58	zo_hoicho_intendant_quarter	Hoï-Cho Intendantenquartier	Hoï-Cho Intendantenquartier	Hoï-Cho Intendantenquartier	das	das	im	zum
-_D4D00F733A36CE30	zo_hoicho_guard_chief_quarter	Hoï-Cho Hauptwächterquartier	Hoï-Cho Hauptwächterquartier	Hoï-Cho Hauptwächterquartier	das	das	im	zum
+_D4D00F733A36CE30	zo_hoicho_guard_chief_quarter	Hoï-Cho Hauptquartier der Wache	Hoï-Cho Hauptquartier der Wache	Hoï-Cho Hauptquartier der Wache	das	das	im	zum
 _1A656D1C65D737B0	place_fairhaven_p_1	Fairhaven Trödelmarkt	Fairhaven Trödelmarkt	Fairhaven Trödelmarkt	der	den	auf dem	zum
 _DE1377BC50588CA0	place_fairhaven_p_2	Landende	Landende	Landende	das	das	auf	zum
 _5D251869E5588CA8	place_fairhaven_p_3	Umwehte Höhe	Umwehte Höhe	Umwehten Höhe	die	die	auf der	zur
