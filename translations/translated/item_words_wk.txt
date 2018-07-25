@@ -6900,3 +6900,5 @@ _79A8C0CE2A3D11EA	tp_karavan_shattered_ruins	Karavan Teleporter Pact for Shatter
 _5DBA9814E46B947A	rite_ranger_map_book	Map	a	the	Map		the	
 _3869B7E1D7D0813A	ranger_rite_leader_tool	Leader Tool	a	the	Leader Tool		the	
 _16FED261B53DAA77	ranger_rite_flare_gun	Flare Gun	a	the	Flare Gun		the	
+_1DABFEA149D1383F	m0817googf01	Supreme leaf of corrupted cratcha	a	the	Supreme leaf of corrupted cratcha		the	
+_1E9C1AA10B11744E	m0818googf01	Supreme stem of corrupted cratcha	a	the	Supreme stem of corrupted cratcha		the	
