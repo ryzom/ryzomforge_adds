@@ -5,6 +5,7 @@ tryker	Tryker	the		Tryker	the	a
 zorai	Zorai	the		Zorai	the	a
 bandit	bandit	the	a	bandit	the	a
 civil	civil	the	a	civil	the	a
+black_kami	Marauder	the	a	Marauder	the	a
 degen	degen	the	a	degen	the	a
 fauna	fauna	the	a	fauna	the	a
 fauna_carnivore	carnivor fauna	the	a	carnivor fauna	the	a
