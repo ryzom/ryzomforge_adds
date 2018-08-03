@@ -7818,3 +7818,9 @@ tp_karavan_shattered_ruins	Karavan Teleporter Pact for Shattered Ruins	a	the	Kar
 rite_ranger_map_book	Map	a	the	Map		the									
 ranger_rite_leader_tool	Leader Tool	a	the	Leader Tool		the									
 ranger_rite_flare_gun	Flare Gun	a	the	Flare Gun		the									
+teddragus	Peluche	une	la	Peluches	des	les									
+teddploderos	Peluche	une	la	Peluches	des	les									
+teddmadakam	Peluche	une	la	Peluches	des	les									
+teddlumper	Peluche	une	la	Peluches	des	les									
+teddgubani	Peluche	une	la	Peluches	des	les									
+teddarma	Peluche	une	la	Peluches	des	les									
