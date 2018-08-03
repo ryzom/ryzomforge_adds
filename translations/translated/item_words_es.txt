@@ -7824,3 +7824,5 @@ _F9902D115DEA7C12	teddmadakam	Teddy	un	el	Teddies		los
 _C1BDB91DE857FCA9	teddlumper	Teddy	un	el	Teddies		los	
 _C1BD952624A7FCA4	teddgubani	Teddy	un	el	Teddies		los	
 _AA282DFA2D299478	teddarma	Teddy	un	el	Teddies		los	
+_1DABFEA149D1383F	m0817googf01	hoja suprema de cratcha corrompida	una	la	hojas supremas de cratcha corrompida		las	
+_1E9C1AA10B11744E	m0818googf01	tallo supremo de cratcha corrompida	un	el	tallos supremos de cratcha corrompida		los	
