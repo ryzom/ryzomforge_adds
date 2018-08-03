@@ -1845,7 +1845,7 @@ uiEM_Bow	[Saluer]
 
 // HASH_VALUE CAC26C2F09B1C01E
 // INDEX 461
-uiEM_Brave	[Courageux]
+uiEM_Brave	[Brave]
 
 // HASH_VALUE CB3018129030281C
 // INDEX 462
@@ -1885,7 +1885,7 @@ uiEM_Cheer	[Acclamer]
 
 // HASH_VALUE 4C50C40C4C503424
 // INDEX 471
-uiEM_Clinical	[Méticuleux]
+uiEM_Clinical	[Tatillon]
 
 // HASH_VALUE 4410F40C4410F40C
 // INDEX 472
@@ -2057,7 +2057,7 @@ uiEM_Ecstatic	[Délirant]
 
 // HASH_VALUE 48D074144050444C
 // INDEX 514
-uiEM_Egoistic	[Égoïste]
+uiEM_Egoistic	[Ego]
 
 // HASH_VALUE 09C2542C0CB1B025
 // INDEX 515
@@ -2289,7 +2289,7 @@ uiEM_Lazy	[Paresseux]
 
 // HASH_VALUE 5450F43044909420
 // INDEX 572
-uiEM_Loathing	[Dégoût]
+uiEM_Loathing	[Déteste]
 
 // HASH_VALUE 85508C2B09F0A41C
 // INDEX 573
@@ -2741,7 +2741,7 @@ uiEM_Warm	[Chaleureux]
 
 // HASH_VALUE 5894145C5894145C
 // INDEX 685
-uiEM_Wary	[Prudent]
+uiEM_Wary	[Avisé]
 
 // HASH_VALUE 4494145C4494145C
 // INDEX 686
