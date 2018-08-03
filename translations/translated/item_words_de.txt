@@ -6900,3 +6900,5 @@ _79A8C0CE2A3D11EA	tp_karavan_shattered_ruins	Karavan Teleportationspakt für Zer
 _5DBA9814E46B947A	rite_ranger_map_book	Karte	Karte	Karte			eine	die	Karten		die	
 _3869B7E1D7D0813A	ranger_rite_leader_tool	Listeneditor	Listeneditor	ein	der	Listeneditoren	Listeneditoren		die			
 _16FED261B53DAA77	ranger_rite_flare_gun	Leuchtpistole	Leuchtpistole	eine	die	Leuchtpistolen	Leuchtpistolen	eine	die			
+_1DABFEA149D1383F	m0817googf01	Erhabenes Blatt eines verdorbenen Cratcha	Erhabene Blatt eines verdorbenen Cratcha	Erhabenen Blatt eines verdorbenen Cratcha			ein	das	Erhabene Blätter eines verdorbenen Cratcha			
+_1E9C1AA10B11744E	m0818googf01	Erhabener Stiel eines verdorbenen Cratcha	Erhabene Stiel eines verdorbenen Cratcha	Erhabenen Stiel eines verdorbenen Cratcha			ein	der	Erhabene Stiele eines verdorbenen Cratcha			

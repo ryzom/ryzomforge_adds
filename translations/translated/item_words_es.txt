@@ -6900,3 +6900,5 @@ _79A8C0CE2A3D11EA	tp_karavan_shattered_ruins	Pacto Karavan / Teleportador hacia 
 _5DBA9814E46B947A	rite_ranger_map_book	Plano	un	el	Planos		los	
 _3869B7E1D7D0813A	ranger_rite_leader_tool	maestro de heramientas	un	el	maestros de heramientas		los	
 _16FED261B53DAA77	ranger_rite_flare_gun	pistola de bengalas	una	la	pistolas de bengalas		las	
+_1DABFEA149D1383F	m0817googf01	hoja suprema de cratcha corrompida	una	la	hojas supremas de cratcha corrompida		las	
+_1E9C1AA10B11744E	m0818googf01	tallo supremo de cratcha corrompida	un	el	tallos supremos de cratcha corrompida		los	
