@@ -817,9 +817,9 @@ _B04B51C19F5A18BD	place_cwzh02_mp1	Zone für die Dungsuche	Zone für die Dungsuc
 _74DB3417A0D81801	place_cwzh03_mp1	Zone für die Perlensuche	Zone für die Perlensuche	Zone für die Perlensuche	die	die	in der	zur
 _42DFA10429F6E8C4	place_cimetiere_avalae	Friedhof von Avalae	Friedhof von Avalae	Friedhof von Avalae	der	der	im	zum
 _5193CA370C64AE7D	mission_ff60_emplacement_message	Ort der Nachricht	Ort der Nachricht	Ort der Nachricht	der	der	beim	zum
-_4C9B80A7A9B7946E	place_marauder_camp	Marodeur-Lager	Marodeur-Lager	Marodeur-Lager	das	das	im	zum
-_3FEFB69CBBDF4DAB	place_lieudit_marauder_arena	Marodeur-Arena	Marodeur-Arena	Marodeur-Arena	die	die	in der	zur
-_A59A81E8140A6CA7	marauder_stable	Marodeur-Stall	Marodeur-Stall	Marodeur-Stall	der	den	beim	zum
+_4C9B80A7A9B7946E	place_marauder_camp	Lager der Marodeure	Lager der Marodeure	Lager der Marodeure	das	das	im	zum
+_3FEFB69CBBDF4DAB	place_lieudit_marauder_arena	Arena der Marodeure	Arena der Marodeure	Arena der Marodeure	die	die	in der	zur
+_A59A81E8140A6CA7	marauder_stable	Stall der Marodeure	Stall der Marodeure	Stall der Marodeure	der	den	beim	zum
 _29AC391EC68F71FC	continent_r2_forest	Leewindsteg	Leewindsteg	Leewindsteg	der	den	am	zum
 _BAA17AACA3D42E1E	region_zorai_islands	Oflovak's Straße - Dschungel	Oflovak's Straße - Dschungel	Oflovak's Straße - Dschungel	die	der	an der	zur
 _77FF328F086049B2	continent_r2_roots	Unerforschte Prims			der	den	beim	zum

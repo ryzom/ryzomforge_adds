@@ -15981,7 +15981,7 @@ uiThundery	[stürmisch]
 
 // HASH_VALUE 68585420781C9490
 // INDEX 3818
-uiHumidity	[feucht]
+uiHumidity	[Feuchtigkeit]
 
 // HASH_VALUE 6498945C6498945C
 // INDEX 3819
@@ -23307,7 +23307,7 @@ uiLoadingString6	[Wüsten-Holzstaub wird mit dem Rechen in sanfte Wellen gezogen
 
 // HASH_VALUE C3845961575BCF17
 // INDEX 5539
-uiLoadingString7	[Holzstaub aus der Versteckten Quelle wird übers ganze Marodeur-Lager verteilt...]
+uiLoadingString7	[Holzstaub aus der Versteckten Quelle wird übers ganze Lager der Marodeure verteilt...]
 
 // HASH_VALUE 38F016093D5F5AF8
 // INDEX 5540
@@ -27184,7 +27184,7 @@ uiOrganizationStatus	[Rang:]
 // HASH_VALUE 67A9E49D2609E451
 // INDEX 6450
 uittOrganization	[Du kannst einer @{6F6F}Organisation@{FFFF} beitreten und durch das Absolvieren einer Rite die Vorteile dafür erlangen, dieser Organisation anzugehören.\n
-	Du musst zuerst die erforderlichen Ruhm-Voraussetzungen erfüllen, bevor du diesen Ritus ablegen kannst. Ein Hüter des Wissen der Organisation kann dir bei Interesse genauere Informationen darüber geben.]
+	Du musst zuerst die erforderlichen Ruhm-Voraussetzungen erfüllen, bevor du diesen Ritus ablegen kannst. Ein Hüter des Wissens der Organisation kann dir bei Interesse genauere Informationen darüber geben.]
 
 // HASH_VALUE 65C71C3EEC5A0FC8
 // INDEX 6451
