@@ -257,26 +257,26 @@ _34E7EFB6CA0DB3F8	fct_prangeweapon_merchant	 (Händler für Fernwaffenteile)	(H�
 _7E3DF2AEAADC9FF8	fct_pmeleeweapon_merchant	 (Händler für Nahkampfwaffenteile)	(Händlerin für Nahkampfwaffenteile)
 _E83DEC0A055E761D	fct_prm_merchant	 (Händler für Rohmaterialteile)	(Händlerin für Rohmaterialteile)
 _A62BEF654E075666	fct_pjewel_merchant	 (Händler für Schmuckteile)	(Händlerin für Schmuckteile)
-_AA2319C048ABD076	fct_mf_welcomer	 (Nahkampf-Gilden-Empfänger)	(Nahkampf-Gilden-Empfängerin)
-_FD25F4C9262CF297	fct_rf_welcomer	(Fernkampf-Gilden-Empfänger)	(Fernkampf-Gilden-Empfängerin)
-_61BD0474ED26592D	fct_mh_welcomer	 (Heilmagier-Gilden-Empfänger)	(Heilmagier-Gilden-Empfängerin)
-_61ADF43F30FF58F1	fct_mb_welcomer	 (Schutzmagier-Gilden-Empfänger)	(Schutzmagier-Gilden-Empfängerin)
-_909C344AEF81E95D	fct_ma_welcomer	 (Kampfmagier-Gilden-Empfänger)	(Kampfmagier-Gilden-Empfängerin)
-_061720C2F34C9125	fct_t_welcomer	 (Händler-Gilden-Empfänger)	(Händler-Gilden-Empfängerin)
-_376864BFF40BEDAB	fct_h_welcomer	 (Ranger-Gilden-Empfänger)	(Ranger-Gilden-Empfängerin)
-_7F8454BBF7BB39C9	fct_f_welcomer	 (Handwerks-Gilden-Empfänger)	(Handwerks-Gilden-Empfängerin)
+_AA2319C048ABD076	fct_mf_welcomer	 (Nahkampfgilden-Empfänger)	(Nahkampfgilden-Empfängerin)
+_FD25F4C9262CF297	fct_rf_welcomer	(Fernkampfgilden-Empfänger)	(Fernkampfgilden-Empfängerin)
+_61BD0474ED26592D	fct_mh_welcomer	 (Heilmagiergilden-Empfänger)	(Heilmagiergilden-Empfängerin)
+_61ADF43F30FF58F1	fct_mb_welcomer	 (Schutzmagier-Gilden-Empfänger)	(Schutzmagiergilden-Empfängerin)
+_909C344AEF81E95D	fct_ma_welcomer	 (Kampfmagiergilden-Empfänger)	(Kampfmagiergilden-Empfängerin)
+_061720C2F34C9125	fct_t_welcomer	 (Händlergilden-Empfänger)	(Händlergilden-Empfängerin)
+_376864BFF40BEDAB	fct_h_welcomer	 (Rangergilden-Empfänger)	(Rangergilden-Empfängerin)
+_7F8454BBF7BB39C9	fct_f_welcomer	 (Handwerksgilden-Empfänger)	(Handwerksgilden-Empfängerin)
 _A5657CBE7FDECF61	fct_welcomer	 (Gildenempfänger)	(Gildenempfängerin)
-_015226EF338D0839	fct_p_caretaker	 (Wohnungs-Verwalter)	(Wohnungs-Verwalterin)
-_3E3226F7299DCE6C	fct_g_caretaker	 (Gildenhallen-Verwalter)	(Gildenhallen-Verwalterin)
+_015226EF338D0839	fct_p_caretaker	 (Wohnungsverwalter)	(Wohnungsverwalterin)
+_3E3226F7299DCE6C	fct_g_caretaker	 (Gildenhallenverwalter)	(Gildenhallenverwalterin)
 _E519A4C75ED1939F	fct_caretaker	 (Hausverwalter)	(Hausverwalterin)
-_B52DAAA1521B7120	fct_mf_chief	 (Nahkampf-Gilden-Führer)	(Nahkampf-Gilden-Führerin)
-_B7B61AEE5A87959D	fct_rf_chief	 (Fernkampf-Gilden-Führer)	(Fernkampf-Gilden-Führerin
-_9B308580B8C348B3	fct_mh_chief	 (Heilmagier-Gilden-Führer)	(Heilmagier-Gilden-Führerin)
-_FF89948078835CBD	fct_mb_chief	 (Schutzmagier-Gilden-Führer)	(Schutzmagier-Gilden-Führerin)
-_09E3463D348484B8	fct_ma_chief	 (Kampfmagier-Gilden-Führer)	(Kampfmagier-Gilden-Führerin)
-_2DE15522C48C2BE5	fct_t_chief	 (Händler-Gilden-Führer)	(Händler-Gilden-Führerin)
-_B30E653382BD3BE5	fct_h_chief	 (Ernte-Gilden-Führer)	(Ernte-Gilden-Führerin)
-_EB801C08755C0FE7	fct_f_chief	 (Handwerks-Gilden-Führer)	(Handwerks-Gilden-Führerin)
+_B52DAAA1521B7120	fct_mf_chief	 (Nahkampfgildenanführer)	(Nahkampfgildenanführerin)
+_B7B61AEE5A87959D	fct_rf_chief	 (Fernkampfgildenanführer)	(Fernkampfgildenanführerin
+_9B308580B8C348B3	fct_mh_chief	 (Heilmagiergildenanführer)	(Heilmagiergildenanführerin)
+_FF89948078835CBD	fct_mb_chief	 (Schutzmagiergildenanführer)	(Schutzmagiergildenanführerin)
+_09E3463D348484B8	fct_ma_chief	 (Kampfmagiergildenanführer)	(Kampfmagiergildenanführerin)
+_2DE15522C48C2BE5	fct_t_chief	 (Händlergildenanführer)	(Händlergildenanführerin)
+_B30E653382BD3BE5	fct_h_chief	 (Erntegildenanführer)	(Erntegildenanführerin)
+_EB801C08755C0FE7	fct_f_chief	 (Handwerksgildenanführer)	(Handwerksgildenanführerin)
 _EB80452EC33FA0E9	fct_mission_officer	 (Missionsoffizier)	(Missionsoffizierin)
 _52AA28B8A564B964	fct_mv_guard	 (Wächter von Yrkanis)	(Wächterin von Yrkanis)
 _BDBFAD6B2D3FF9CF	fct_mv_guardchief	 (Oberwächter von Yrkanis)	(Oberwächterin von Yrkanis)
@@ -1365,8 +1365,8 @@ _51A47A5F4B75462B	gn_karavaneer_captain_event	Karavan-Führungskraft	Karavan-Fü
 _186F666EC7CD6834	gn_karavaneer_guard_sanctuary	Tempelwächter	Tempelwächterin
 _0F95B79392D6C657	gn_karavaneer_captain_sanctuary	Tempel-Oberwächter	Tempel-Oberwächter
 _44CE5BCB49FE89D4	gn_karavan_tower	Karavan-Verteidigungsturm	Karavan-Verteidigungsturm
-_5CF4989B257814A1	gn_kami_altar	Kami-Altar	Kami-Altar
-_E398CC7B68C6B7A7	gn_karavan_altar	Karavan-Altar	Karavan-Altar
+_5CF4989B257814A1	gn_kami_altar	Kamialtar	Kamialtar
+_E398CC7B68C6B7A7	gn_karavan_altar	Karavanaltar	Karavanaltar
 _5127D064E4388AAA	gn_kami_hof	Ruhmessäule	Ruhmessäule
 _18D714975A94709C	gn_kami_frise	Wissenswurzel	Wissenswurzel
 _5996D4112E3394A6	gn_karavan_hof	Ruhmessäule	Ruhmessäule
@@ -1897,10 +1897,10 @@ _242A8DFB2F9FD907	gn_boss_zorai_light_dalton_1	Vao Do-Duang	Vao Do-Duang
 _9E4EE13E43CF39CA	gn_boss_zorai_light_dalton_2	Jeoi Do-Duang	Jeoi Do-Duang
 _6E9CED94003081AC	gn_boss_zorai_light_dalton_3	Chaio Do-Duang	Chaio Do-Duang
 _319C84265F3B1DF4	gn_boss_zorai_light_dalton_4	We Do-Duang	We Do-Duang
-_BB5BE2556F8EA5A3	gn_kami_altar_almati	Kami-Altar des Almati-Waldes	Kami-Altar des Almati-Waldes
-_CCCAF6639D638564	gn_karavan_altar_almati	Karavan-Altar des Almati-Waldes	Karavan-Altar des Almati-Waldes
-_20B0F1D427E793A1	gn_kami_altar_nexus	Kami-Altar des Nexus	Kami-Altar des Nexus
-_605D8587427E9DCE	gn_karavan_altar_nexus	Karavan-Altar des Nexus	Karavan-Altar des Nexus
+_BB5BE2556F8EA5A3	gn_kami_altar_almati	Kamialtar des Almati-Waldes	Kamialtar des Almati-Waldes
+_CCCAF6639D638564	gn_karavan_altar_almati	Karavanaltar des Almati-Waldes	Karavanaltar des Almati-Waldes
+_20B0F1D427E793A1	gn_kami_altar_nexus	Kamialtar des Nexus	Kamialtar des Nexus
+_605D8587427E9DCE	gn_karavan_altar_nexus	Karavanaltar des Nexus	Karavanaltar des Nexus
 _6C340CB6625A1CA8	gn_gravats	Geröll	Geröll
 _294880982226786E	gn_room_access	Zugriffsterminal	Zugriffsterminal
 _B1BFD0FB3C756DEC	gn_karavan_altar_silan_ranger_camp	Ranger Lager Karavan Altar	
