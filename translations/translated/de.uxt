@@ -11118,11 +11118,11 @@ fct_stableboy_merchant	[(Stallbursche)]
 
 // HASH_VALUE 24A79E1955F16AB0
 // INDEX 2611
-fct_rm_merchant	[(Rohmaterial-Händler)]
+fct_rm_merchant	[(Händler für Rohmaterialien)]
 
 // HASH_VALUE 5FA36AD6DB1898A7
 // INDEX 2612
-fct_jewel_merchant	[(Schmuck-Händler)]
+fct_jewel_merchant	[(Schmuckhändler)]
 
 // HASH_VALUE EAF6D20A4A92D4A0
 // INDEX 2613
@@ -11566,19 +11566,19 @@ fct_karavan_officer	[(Karavan-Offizier)]
 
 // HASH_VALUE 9BB2924395F7AB84
 // INDEX 2723
-fct_h_hairdresser	[(Herren-Friseur)]
+fct_h_hairdresser	[(Herrenfriseur)]
 
 // HASH_VALUE C9184F485B478339
 // INDEX 2724
-fct_f_hairdresser	[(Damen-Friseurin)]
+fct_f_hairdresser	[(Damenfriseurin)]
 
 // HASH_VALUE 2816633087EF3E65
 // INDEX 2725
-fct_h_tattooer	[(Herren-Tätowierer)]
+fct_h_tattooer	[(Herrentätowierer)]
 
 // HASH_VALUE EA54F6BD9888C4BF
 // INDEX 2726
-fct_f_tattooer	[(Damen-Tätowiererin)]
+fct_f_tattooer	[(Damentätowiererin)]
 
 // HASH_VALUE 93D5536A24E46F62
 // INDEX 2727
@@ -11882,7 +11882,7 @@ fct_village_welcomer	[(Dorfempfänger)]
 
 // HASH_VALUE ECA6935855599CB4
 // INDEX 2802
-fct_foreman_apprentice	[(Lehrlings-Ausbilder)]
+fct_foreman_apprentice	[(Ausbilder der Lehrlinge)]
 
 // HASH_VALUE A769D08C61671482
 // INDEX 2803
@@ -11906,7 +11906,7 @@ fct_kami_ambassador	[Kami-Botschafter]
 
 // HASH_VALUE 64D58B7CA664BC6B
 // INDEX 2808
-fct_kami_welcomer	[Kami-Empfänger]
+fct_kami_welcomer	[Kamiempfänger]
 
 // HASH_VALUE 63158369559A5CBD
 // INDEX 2809
@@ -11918,7 +11918,7 @@ fct_karavan_agent	[Karavan-Agent]
 
 // HASH_VALUE 60DA3444487874CA
 // INDEX 2811
-fct_karavan_welcomer	[Karavan-Empfänger]
+fct_karavan_welcomer	[Karavanempfänger]
 
 // HASH_VALUE E788ACA123151358
 // INDEX 2812
