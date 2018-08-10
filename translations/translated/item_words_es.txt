@@ -7824,3 +7824,9 @@ _F9902D115DEA7C12	teddmadakam	Teddy	un	el	Teddies		los
 _C1BDB91DE857FCA9	teddlumper	Teddy	un	el	Teddies		los	
 _C1BD952624A7FCA4	teddgubani	Teddy	un	el	Teddies		los	
 _AA282DFA2D299478	teddarma	Teddy	un	el	Teddies		los	
+_5FB35676CF1F05E9	gubani_mount_0	Montura de Gubani	una	la	Monturas de Gubanis		las	Monturas de Gubani
+_5FB35676CF1F09E9	gubani_mount_1	Montura de Gubani	una	la	Monturas de Gubanis		las	Monturas de Gubani
+_5FB35676CF1F0DE9	gubani_mount_2	Montura de Gubani	una	la	Monturas de Gubanis		las	Monturas de Gubani
+_5FB35676CF1F11E9	gubani_mount_3	Montura de Gubani	una	la	Monturas de Gubanis		las	Monturas de Gubani
+_5FB35676CF1F15E9	gubani_mount_4	Montura de Gubani	una	la	Monturas de Gubanis		las	Monturas de Gubani
+_E52228C4E969886E	iaad	Gubani zigzag	un	el	Gubanis zigzag		los	Gubani del Desierto con una constitucion muy pobre

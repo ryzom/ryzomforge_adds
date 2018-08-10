@@ -7824,3 +7824,9 @@ _F9902D115DEA7C12	teddmadakam	Peluche	une	la	Peluches	des	les
 _C1BDB91DE857FCA9	teddlumper	Peluche	une	la	Peluches	des	les	
 _C1BD952624A7FCA4	teddgubani	Peluche	une	la	Peluches	des	les	
 _AA282DFA2D299478	teddarma	Peluche	une	la	Peluches	des	les	
+_5FB35676CF1F05E9	gubani_mount_0	Gubani Mount	a	the	Gubani Mount	\d	the	
+_5FB35676CF1F09E9	gubani_mount_1	Gubani Mount	a	the	Gubani Mount	\d	the	
+_5FB35676CF1F0DE9	gubani_mount_2	Gubani Mount	a	the	Gubani Mount	\d	the	
+_5FB35676CF1F11E9	gubani_mount_3	Gubani Mount	a	the	Gubani Mount	\d	the	
+_5FB35676CF1F15E9	gubani_mount_4	Gubani Mount	a	the	Gubani Mount	\d	the	
+_E52228C4E969886E	iaad	Gubani Zig	a	the	Gubani Zig	\d	the	

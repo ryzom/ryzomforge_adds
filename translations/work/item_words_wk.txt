@@ -7824,3 +7824,9 @@ teddmadakam	Peluche	une	la	Peluches	des	les
 teddlumper	Peluche	une	la	Peluches	des	les									
 teddgubani	Peluche	une	la	Peluches	des	les									
 teddarma	Peluche	une	la	Peluches	des	les									
+gubani_mount_0	Gubani Mount	a	the	Gubani Mount	\d	the	
+gubani_mount_1	Gubani Mount	a	the	Gubani Mount	\d	the	
+gubani_mount_2	Gubani Mount	a	the	Gubani Mount	\d	the	
+gubani_mount_3	Gubani Mount	a	the	Gubani Mount	\d	the	
+gubani_mount_4	Gubani Mount	a	the	Gubani Mount	\d	the	
+iaad	Gubani Zig	a	the	Gubani Zig	\d	the	
