@@ -6902,3 +6902,9 @@ _3869B7E1D7D0813A	ranger_rite_leader_tool	Leader Tool	a	the	Leader Tool		the
 _16FED261B53DAA77	ranger_rite_flare_gun	Flare Gun	a	the	Flare Gun		the	
 _1DABFEA149D1383F	m0817googf01	Supreme leaf of corrupted cratcha	a	the	Supreme leaf of corrupted cratcha		the	
 _1E9C1AA10B11744E	m0818googf01	Supreme stem of corrupted cratcha	a	the	Supreme stem of corrupted cratcha		the	
+_5FB35676CF1F05E9	gubani_mount_0	Gubani Mount	a	the	Gubani Mount	\d	the	
+_5FB35676CF1F09E9	gubani_mount_1	Gubani Mount	a	the	Gubani Mount	\d	the	
+_5FB35676CF1F0DE9	gubani_mount_2	Gubani Mount	a	the	Gubani Mount	\d	the	
+_5FB35676CF1F11E9	gubani_mount_3	Gubani Mount	a	the	Gubani Mount	\d	the	
+_5FB35676CF1F15E9	gubani_mount_4	Gubani Mount	a	the	Gubani Mount	\d	the	
+_E52228C4E969886E	iaad	Gubani Zig	a	the	Gubani Zig	\d	the	
