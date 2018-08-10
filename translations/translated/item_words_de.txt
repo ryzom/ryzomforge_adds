@@ -6535,7 +6535,7 @@ _20D63F6346C95590	micro_boss_loot_lumper	Lumperoths Auge	Lumperoths Auge	Lumpero
 _B3E8845B428E1C86	micro_boss_loot_igara	Igaroths Schnabel	Igaroths Schnabel	Igaroths Schnabel	ein	der	Igaroths Schnäbel	Igaroths Schnäbel	einen	die	Jemand aus der Stadt könnte an dieser Trophäe interessiert sein.	
 _5DB8706FF0860A17	micro_boss_loot_cray	Crayoths Panzer	Crayoths Panzer	Crayoths Panzer	ein	der	Crayoths Panzer	Crayoths Panzer	einen	die	Jemand aus der Stadt könnte an dieser Trophäe interessiert sein.	
 _A49AC6F03BC738AC	micro_boss_loot_capryni	Caprynoths Ohr	Caprynoths Ohr	Caprynoths Ohr	ein	das	Caprynoths Ohren	Caprynoths Ohren	ein	die	Jemand aus der Stadt könnte an dieser Trophäe interessiert sein.	
-_29AAC0226E584882	casino_token	Jeton	Jeton	Jeton	ein	der	Jetons	Jetons	einen	die	Jetons zum Spielen am Glücksrad. Kann nicht mit Spielern gehandelt werden	
+_29AAC0226E584882	casino_token	Jeton	Jeton	Jeton	einen	der	Jetons	Jetons	einen	die	Jetons zum Spielen am Glücksrad. Kann nicht mit Spielern gehandelt werden	
 _187B6098685744B7	casino_ticket	Siegerticket	Siegerticket	Siegerticket	ein	das	Siegertickets	Siegertickets	ein	die		
 _629F6DCEC37E0CAE	casino_title1	Coupon für einen Titel (Glück)	Coupon für einen Titel (Glück)	Coupon für einen Titel (Glück)	ein	das	Coupons für einen Titel (Glück)	Coupons für einen Titel (Glück)	ein	die		
 _629FADD3C5EE40AF	casino_title2	Coupon für einen Titel (Unglück)	Coupon für einen Titel (Unglück)	Coupon für einen Titel (Unglück)	ein	das	Coupons für einen Titel (Unglück)	Coupons für einen Titel (Unglück)	ein	die		
