@@ -9359,6 +9359,7 @@ casino_machine_tryker01	Jackpot
 token_dispenser	Vendeur de Jeton	
 token_dispenser_fyros01	Ba'Arppy Garren	
 token_dispenser_matis01	Ba'Gan Effxy	
+token_dispenser_matis02	Ba'Roppy Allan	
 token_dispenser_tryker01	Ba'Duffy Baxan	
 token_dispenser_zorai01	Ba'Dardan Garnan	
 mf_100_eboulis	$eboulis$	
