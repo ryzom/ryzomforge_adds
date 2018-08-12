@@ -7818,3 +7818,5 @@ tp_karavan_shattered_ruins	Karavan Teleporter Pact for Shattered Ruins	a	the	Kar
 rite_ranger_map_book	Map	a	the	Map		the									
 ranger_rite_leader_tool	Leader Tool	a	the	Leader Tool		the									
 ranger_rite_flare_gun	Flare Gun	a	the	Flare Gun		the									
+m0817googf01	Supreme leaf of corrupted cratcha	a	the	Supreme leaf of corrupted cratcha		the									
+m0818googf01	Supreme stem of corrupted cratcha	a	the	Supreme stem of corrupted cratcha		the									
