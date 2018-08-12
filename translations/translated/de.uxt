@@ -52,7 +52,7 @@ uittQuitRyzom	[Ryzom verlassen]
 
 // HASH_VALUE 6187AF81E9FAF455
 // INDEX 13
-uittQuitGame	[Charakter-Auswahl]
+uittQuitGame	[Charakterauswahl]
 
 // HASH_VALUE 1538E0EB43F8ACC9
 // INDEX 14
@@ -1295,7 +1295,7 @@ uiPassword	[Passwort]
 
 // HASH_VALUE EA3A842642FA0CC0
 // INDEX 323
-uiConfirmPassword	[Password-Bestätigung]
+uiConfirmPassword	[Passwort bestätigen]
 
 // HASH_VALUE A9797F6868794A8F
 // INDEX 324
@@ -1431,7 +1431,7 @@ uiLoginGetFile	[Lade Datei:]
 
 // HASH_VALUE 373988CC56A4B9DB
 // INDEX 357
-uiDLFailed	[Download vom Notfall-Server gescheitert, Login wurde abgebrochen]
+uiDLFailed	[Download vom Notfallserver gescheitert, Login wurde abgebrochen]
 
 // HASH_VALUE 0DD314AEEB0A6833
 // INDEX 358
@@ -1439,7 +1439,7 @@ uiDLURIFailed	[Download von der URL gescheitert (neuer Versuch):]
 
 // HASH_VALUE 9FEF11F92FE58883
 // INDEX 359
-uiNoMoreURI	[Keine Verbindung mehr zur URL, versuche den Notfall-Server]
+uiNoMoreURI	[Keine Verbindung mehr zur URL, versuche den Notfallserver]
 
 // HASH_VALUE D126843FEAF6BF89
 // INDEX 360
@@ -3217,7 +3217,7 @@ uigcSpanish	[SPANISCH]
 
 // HASH_VALUE D72E51D69923FABB
 // INDEX 802
-uigcRequestReboot	[Ryzom muss neu gestartet werden, um diese Änderungen zu übernehmen. Jetzt neustarten?]
+uigcRequestReboot	[Ryzom muss neu gestartet werden, um diese Änderungen zu übernehmen. Jetzt neu starten?]
 
 // HASH_VALUE 11E314364F722841
 // INDEX 803
@@ -3369,7 +3369,7 @@ uiCharFarClip	[Sichtweite]
 
 // HASH_VALUE 28E8807DD82152A6
 // INDEX 840
-uiEnableRacialAnimation	[alternative Geh-Animation]
+uiEnableRacialAnimation	[alternative Laufanimation]
 
 // HASH_VALUE 5CDA8874D1C96450
 // INDEX 841
@@ -4325,7 +4325,7 @@ uimGcmFree	[Das Tier freilassen]
 
 // HASH_VALUE 28897B5DEC77428A
 // INDEX 1078
-uimGcmEnterStable	[Das Tier den Stall betreten lassen]
+uimGcmEnterStable	[Das Tier in den Stall schicken]
 
 // HASH_VALUE EDC82852A5045446
 // INDEX 1079
@@ -11118,11 +11118,11 @@ fct_stableboy_merchant	[(Stallbursche)]
 
 // HASH_VALUE 24A79E1955F16AB0
 // INDEX 2611
-fct_rm_merchant	[(Rohmaterial-Händler)]
+fct_rm_merchant	[(Händler für Rohmaterialien)]
 
 // HASH_VALUE 5FA36AD6DB1898A7
 // INDEX 2612
-fct_jewel_merchant	[(Schmuck-Händler)]
+fct_jewel_merchant	[(Schmuckhändler)]
 
 // HASH_VALUE EAF6D20A4A92D4A0
 // INDEX 2613
@@ -11566,19 +11566,19 @@ fct_karavan_officer	[(Karavan-Offizier)]
 
 // HASH_VALUE 9BB2924395F7AB84
 // INDEX 2723
-fct_h_hairdresser	[(Herren-Friseur)]
+fct_h_hairdresser	[(Herrenfriseur)]
 
 // HASH_VALUE C9184F485B478339
 // INDEX 2724
-fct_f_hairdresser	[(Damen-Friseurin)]
+fct_f_hairdresser	[(Damenfriseurin)]
 
 // HASH_VALUE 2816633087EF3E65
 // INDEX 2725
-fct_h_tattooer	[(Herren-Tätowierer)]
+fct_h_tattooer	[(Herrentätowierer)]
 
 // HASH_VALUE EA54F6BD9888C4BF
 // INDEX 2726
-fct_f_tattooer	[(Damen-Tätowiererin)]
+fct_f_tattooer	[(Damentätowiererin)]
 
 // HASH_VALUE 93D5536A24E46F62
 // INDEX 2727
@@ -11882,7 +11882,7 @@ fct_village_welcomer	[(Dorfempfänger)]
 
 // HASH_VALUE ECA6935855599CB4
 // INDEX 2802
-fct_foreman_apprentice	[(Lehrlings-Ausbilder)]
+fct_foreman_apprentice	[(Ausbilder der Lehrlinge)]
 
 // HASH_VALUE A769D08C61671482
 // INDEX 2803
@@ -11906,7 +11906,7 @@ fct_kami_ambassador	[Kami-Botschafter]
 
 // HASH_VALUE 64D58B7CA664BC6B
 // INDEX 2808
-fct_kami_welcomer	[Kami-Empfänger]
+fct_kami_welcomer	[Kamiempfänger]
 
 // HASH_VALUE 63158369559A5CBD
 // INDEX 2809
@@ -11918,7 +11918,7 @@ fct_karavan_agent	[Karavan-Agent]
 
 // HASH_VALUE 60DA3444487874CA
 // INDEX 2811
-fct_karavan_welcomer	[Karavan-Empfänger]
+fct_karavan_welcomer	[Karavanempfänger]
 
 // HASH_VALUE E788ACA123151358
 // INDEX 2812
@@ -15981,7 +15981,7 @@ uiThundery	[stürmisch]
 
 // HASH_VALUE 68585420781C9490
 // INDEX 3818
-uiHumidity	[feucht]
+uiHumidity	[Feuchtigkeit]
 
 // HASH_VALUE 6498945C6498945C
 // INDEX 3819
@@ -20331,7 +20331,7 @@ uiAppear_Infos_Tryker	[DIE TRYKER-ZIVILISATION\n
 uiAppear_Infos_Zorai	[DIE ZORAÏ-ZIVILISATION\n
 	\n
 	Unsere Gesellschaft beruht auf dem Streben nach spirituellen Vollendung, Weisheit und Respekt der Natur. Über die Jahrhunderte haben wir eine enge Beziehung zu den Kami aufgebaut – göttliche Entitäten, die von Ma-Duk gesandt wurden, dem Erschaffer von Atys. Wir sind stolz, die Kami Maske der Verwandtschaft zu tragen, die uns von den Homin-Rassen mit schwächerer spiritueller Substanz unterscheidet.\n
-	Wir haben nach Wissen gestrebt, wo andere nur ihren persönlichen Gewinn im Sinn hatten. Wir waren die Ersten, die das gesprochene Wort niedergeschrieben haben, um das Wissen unserer Ahnen zu bewahren. Unsere Gesellschaft hat sich um atemberaubende Tempelstädte herum aufgebaut, in denen große Zeremonien inszeniert wurden, um die Goo-Seuche abzuwehren, die die Flora befällt, und welche die Kamis nicht in der Lage waren, selbst abzuwehren.\n
+	Wir haben nach Wissen gestrebt, wo andere nur ihren persönlichen Gewinn im Sinn hatten. Wir waren die Ersten, die das gesprochene Wort niedergeschrieben haben, um das Wissen unserer Ahnen zu bewahren. Unsere Gesellschaft hat sich um atemberaubende Tempelstädte herum aufgebaut, in denen große Zeremonien inszeniert wurden, um die Goo-Seuche abzuwehren, die die Flora befällt, und welche die Kamis nicht in der Lage waren selbst abzuwehren.\n
 	Seit dem zerstörerischen Schwärmen der Kitins haben wir unsere neuen Städte wieder bewusst inmitten des zauberhaften Dschungels erneut errichtet, wo der Goo-Befall weit verbreitet ist.\n
 	Wir streben jetzt danach, die Herrlichkeit unserer vergangenen Dynastie wiederherzustellen und sie als Leuchtfeuer der Weisheit erstrahlen zu lassen. Wir sind darauf ausgerichtet, ein spirituelles Bewusstsein über die Welt zu verteilen, sodass die ganze Hominheit ewige Glückseligkeit erreichen möge.\n
 	\n
@@ -23307,7 +23307,7 @@ uiLoadingString6	[Wüsten-Holzstaub wird mit dem Rechen in sanfte Wellen gezogen
 
 // HASH_VALUE C3845961575BCF17
 // INDEX 5539
-uiLoadingString7	[Holzstaub aus der Versteckten Quelle wird übers ganze Marodeur-Lager verteilt...]
+uiLoadingString7	[Holzstaub aus der Versteckten Quelle wird übers ganze Lager der Marodeure verteilt...]
 
 // HASH_VALUE 38F016093D5F5AF8
 // INDEX 5540
@@ -24204,7 +24204,7 @@ uittGaugesSta	[@{6F6F}Ausdauerpunkte@{FFFF}:\n
 // HASH_VALUE 21A49D1370B3A93A
 // INDEX 5752
 uittGaugesFoc	[@{6F6F}Fokuspunkte@{FFFF}:\n
-	Wenn du zu wenig Fokus hast, kannst du keinen Rohstoffabbau mehr betreiben und keine Handwerkserzeugnisse mit Boni herstellen. Fokus erholt sich langsam von selbst (schneller im Sitzen), kann aber auch durch andere Spieler, Verbrauchsgüter und Fertigkeiten geheilt werden.]
+	Wenn du zu wenig Fokus hast, kannst du keinen Rohstoffabbau mehr betreiben und keine Handwerkserzeugnisse mit Boni herstellen. Fokus erholt sich langsam von selbst (schneller im Sitzen), kann aber auch durch Verbrauchsgüter und Fertigkeiten geheilt werden.]
 
 // HASH_VALUE 1AC7CE1C76B16FB8
 // INDEX 5753
@@ -26813,7 +26813,7 @@ uiRpJobs	[Berufe]
 
 // HASH_VALUE 21D2AB9C60E8E0A4
 // INDEX 6359
-uiRpJobsElementary	[Basis-Berufe]
+uiRpJobsElementary	[Basisberufe]
 
 // HASH_VALUE 62A74024692697BB
 // INDEX 6360
@@ -26873,7 +26873,7 @@ uiChapterIII	[Kapitel III: Außenposten]
 
 // HASH_VALUE A3244C43859A1438
 // INDEX 6374
-uiChapterIV	[Kapitel IV: Basis-Berufe]
+uiChapterIV	[Kapitel IV: Basisberufe]
 
 // HASH_VALUE 96469B3B70F9145A
 // INDEX 6375
@@ -27184,7 +27184,7 @@ uiOrganizationStatus	[Rang:]
 // HASH_VALUE 67A9E49D2609E451
 // INDEX 6450
 uittOrganization	[Du kannst einer @{6F6F}Organisation@{FFFF} beitreten und durch das Absolvieren einer Rite die Vorteile dafür erlangen, dieser Organisation anzugehören.\n
-	Du musst zuerst die erforderlichen Ruhm-Voraussetzungen erfüllen, bevor du diesen Ritus ablegen kannst. Ein Wissen-Hüter der Organisation kann dir bei Interesse genauere Informationen darüber geben.]
+	Du musst zuerst die erforderlichen Ruhm-Voraussetzungen erfüllen, bevor du diesen Ritus ablegen kannst. Ein Hüter des Wissens der Organisation kann dir bei Interesse genauere Informationen darüber geben.]
 
 // HASH_VALUE 65C71C3EEC5A0FC8
 // INDEX 6451
@@ -27260,11 +27260,11 @@ uittShowClock12h	[Wenn aktiviert, wird die Uhrzeit am Kompass und zu den Chat-Na
 
 // HASH_VALUE 68F99C8C69A81273
 // INDEX 6469
-uiRadarUseCamera	[Kompass folgt der Kamera-Drehung.]
+uiRadarUseCamera	[Kompass folgt der Kameraausrichtung.]
 
 // HASH_VALUE B83EBD58DE9C068F
 // INDEX 6470
-uittRadarUseCamera	[Wenn aktiviert, wird die Rotation für die Kompass-Ansicht eingeschaltet.]
+uittRadarUseCamera	[Wenn aktiviert, wird die Rotation für die Kompassansicht eingeschaltet.]
 
 // HASH_VALUE 82A1901C06A3F72E
 // INDEX 6471
@@ -27384,7 +27384,7 @@ uiBrowse	[Durchsuche]
 
 // HASH_VALUE 4046D798ED76B4BE
 // INDEX 6500
-cmdCreateGroupUsage1	[createGroup Befehls-Verwendung :]
+cmdCreateGroupUsage1	[createGroup Befehlsverwendung :]
 
 // HASH_VALUE 672F2158D608B33D
 // INDEX 6501
@@ -27392,7 +27392,7 @@ cmdCreateGroupUsage2	[/createGroup group_name : erstelle eine Gruppe mit dem Nam
 
 // HASH_VALUE 281F2D43F2731DEC
 // INDEX 6502
-cmdCreateGroupUsage3	[/createGroup group_name true : erstelle eine Gruppe mit dem Namen group_name mit all deinen ausgerüsteten Gegenständen, und erstelle einen Entfernungs-Befehl für jeden leeren Slotplatz]
+cmdCreateGroupUsage3	[/createGroup group_name true : erstelle eine Gruppe mit dem Namen group_name mit all deinen ausgerüsteten Gegenständen, und erstelle einen Entfernungsbefehl für jeden leeren Slotplatz]
 
 // HASH_VALUE 87A04D4E0C663745
 // INDEX 6503
@@ -27408,7 +27408,7 @@ cmdCreateGroupSuccess2	[Gruppe %name wurde erfolgreich erstellt, mitsamt Entfern
 
 // HASH_VALUE EBB1FF685D7AFCC7
 // INDEX 6506
-cmdEquipGroupUsage1	[equipGroup Befehls-Verwendung :]
+cmdEquipGroupUsage1	[equipGroup Befehlsverwendung :]
 
 // HASH_VALUE 0FDFE7D6741FF8C5
 // INDEX 6507
@@ -27424,7 +27424,7 @@ cmdEquipGroupSuccess	[Gruppe %name erfolgreich ausgerüstet.]
 
 // HASH_VALUE 82B6A399EDB6D0B1
 // INDEX 6510
-cmdDeleteGroupUsage1	[deleteGroup Befehls-Verwendung :]
+cmdDeleteGroupUsage1	[deleteGroup Befehlsverwendung :]
 
 // HASH_VALUE 2022F308D2F5591B
 // INDEX 6511
@@ -27440,7 +27440,7 @@ cmdDeleteGroupSuccess	[Gruppe %name erfolgreich gelöscht.]
 
 // HASH_VALUE ADEA727BDB89387A
 // INDEX 6514
-cmdMoveGroupUsage1	[moveGroup Befehls-Verwendung :]
+cmdMoveGroupUsage1	[moveGroup Befehlsverwendung :]
 
 // HASH_VALUE 9AF23A3F90C2A5A1
 // INDEX 6515
@@ -27460,7 +27460,7 @@ cmdMoveGroupSuccess	[Gruppe %name erfolgreich zu %inventory verschoben.]
 
 // HASH_VALUE AE999B8E9D9143A5
 // INDEX 6519
-cmdListGroupHeader	[Verfügbare Gegenstands-Gruppe :]
+cmdListGroupHeader	[Verfügbare Gegenstandsgruppe :]
 
 // HASH_VALUE 5BD4C6549B44ABA5
 // INDEX 6520
@@ -27472,19 +27472,19 @@ uimGroup	[Gruppe]
 
 // HASH_VALUE 0C8BC4F4AE78A6B7
 // INDEX 6522
-uiMacroItemGroupEquip	[Rüste eine Gegenstands-Gruppe aus]
+uiMacroItemGroupEquip	[Rüste eine Gegenstandsgruppe aus]
 
 // HASH_VALUE 5614A7A2A707B055
 // INDEX 6523
-uiMacroItemGroupName	[Gegenstands-Gruppen-Name]
+uiMacroItemGroupName	[Gegenstandsgruppen-Name]
 
 // HASH_VALUE AC27CF9914116C1B
 // INDEX 6524
-uiMacroItemGroupMove	[Verschiebe eine Gegenstands-Gruppe]
+uiMacroItemGroupMove	[Verschiebe eine Gegenstandsgruppe]
 
 // HASH_VALUE A7A1CC916E59E066
 // INDEX 6525
-uiMacroItemGroupDestination	[Ziel der Gegenstands-Gruppe]
+uiMacroItemGroupDestination	[Ziel der Gegenstandsgruppe]
 
 // HASH_VALUE 1627848455283B93
 // INDEX 6526

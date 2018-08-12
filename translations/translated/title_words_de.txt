@@ -240,8 +240,8 @@ _EBFB3438BF0A71F2	fct_ammo_merchant	 (Händler für Munition)	(Händlerin für M
 _919CA19DDAA4D948	fct_rangeweapon_merchant	 (Händler für Fernwaffen)	(Händlerin für Fernwaffen)
 _DBF2A497BA13E943	fct_meleeweapon_merchant	 (Händler für Nahkampfwaffen)	(Händlerin für Nahkampfwaffen)
 _ADE0C9FD9644E8C0	fct_stableboy_merchant	 (Stallbursche)	(Stallbedienstete)
-_7996632501A4593B	fct_rm_merchant	 (Rohmaterial-Händler)	(Rohmaterial-Händlerin)
-_2EAB05EA910C19BE	fct_jewel_merchant	 (Schmuck-Händler)	(Schmuck-Händlerin)
+_7996632501A4593B	fct_rm_merchant	 (Händler für Rohmaterialien)	(Händler für Rohmaterialienin)
+_2EAB05EA910C19BE	fct_jewel_merchant	 (Schmuckhändler)	(Schmuckhändlerin)
 _AA2B200E2D36C3C5	fct_tool_merchant	 (Werkzeughändler)	(Werkzeughändlerin)
 _70F01D08DCBDE22A	fct_plarmor_merchant	 (Händler für Bestandteile leichter Rüstungen)	(Händlerin für Bestandteile leichter Rüstungen)
 _8F1133326EDC0A26	fct_pmarmor_merchant	 (Händler für Bestandteile mittelschwerer Rüstungen)	(Händlerin für Bestandteile mittelschwerer Rüstungen)
@@ -257,26 +257,26 @@ _34E7EFB6CA0DB3F8	fct_prangeweapon_merchant	 (Händler für Fernwaffenteile)	(H�
 _7E3DF2AEAADC9FF8	fct_pmeleeweapon_merchant	 (Händler für Nahkampfwaffenteile)	(Händlerin für Nahkampfwaffenteile)
 _E83DEC0A055E761D	fct_prm_merchant	 (Händler für Rohmaterialteile)	(Händlerin für Rohmaterialteile)
 _A62BEF654E075666	fct_pjewel_merchant	 (Händler für Schmuckteile)	(Händlerin für Schmuckteile)
-_AA2319C048ABD076	fct_mf_welcomer	 (Nahkampf-Gilden-Empfänger)	(Nahkampf-Gilden-Empfängerin)
-_FD25F4C9262CF297	fct_rf_welcomer	(Fernkampf-Gilden-Empfänger)	(Fernkampf-Gilden-Empfängerin)
-_61BD0474ED26592D	fct_mh_welcomer	 (Heilmagier-Gilden-Empfänger)	(Heilmagier-Gilden-Empfängerin)
-_61ADF43F30FF58F1	fct_mb_welcomer	 (Schutzmagier-Gilden-Empfänger)	(Schutzmagier-Gilden-Empfängerin)
-_909C344AEF81E95D	fct_ma_welcomer	 (Kampfmagier-Gilden-Empfänger)	(Kampfmagier-Gilden-Empfängerin)
-_061720C2F34C9125	fct_t_welcomer	 (Händler-Gilden-Empfänger)	(Händler-Gilden-Empfängerin)
-_376864BFF40BEDAB	fct_h_welcomer	 (Ranger-Gilden-Empfänger)	(Ranger-Gilden-Empfängerin)
-_7F8454BBF7BB39C9	fct_f_welcomer	 (Handwerks-Gilden-Empfänger)	(Handwerks-Gilden-Empfängerin)
+_AA2319C048ABD076	fct_mf_welcomer	 (Nahkampfgilden-Empfänger)	(Nahkampfgilden-Empfängerin)
+_FD25F4C9262CF297	fct_rf_welcomer	(Fernkampfgilden-Empfänger)	(Fernkampfgilden-Empfängerin)
+_61BD0474ED26592D	fct_mh_welcomer	 (Heilmagiergilden-Empfänger)	(Heilmagiergilden-Empfängerin)
+_61ADF43F30FF58F1	fct_mb_welcomer	 (Schutzmagier-Gilden-Empfänger)	(Schutzmagiergilden-Empfängerin)
+_909C344AEF81E95D	fct_ma_welcomer	 (Kampfmagiergilden-Empfänger)	(Kampfmagiergilden-Empfängerin)
+_061720C2F34C9125	fct_t_welcomer	 (Händlergilden-Empfänger)	(Händlergilden-Empfängerin)
+_376864BFF40BEDAB	fct_h_welcomer	 (Rangergilden-Empfänger)	(Rangergilden-Empfängerin)
+_7F8454BBF7BB39C9	fct_f_welcomer	 (Handwerksgilden-Empfänger)	(Handwerksgilden-Empfängerin)
 _A5657CBE7FDECF61	fct_welcomer	 (Gildenempfänger)	(Gildenempfängerin)
-_015226EF338D0839	fct_p_caretaker	 (Wohnungs-Verwalter)	(Wohnungs-Verwalterin)
-_3E3226F7299DCE6C	fct_g_caretaker	 (Gildenhallen-Verwalter)	(Gildenhallen-Verwalterin)
+_015226EF338D0839	fct_p_caretaker	 (Wohnungsverwalter)	(Wohnungsverwalterin)
+_3E3226F7299DCE6C	fct_g_caretaker	 (Gildenhallenverwalter)	(Gildenhallenverwalterin)
 _E519A4C75ED1939F	fct_caretaker	 (Hausverwalter)	(Hausverwalterin)
-_B52DAAA1521B7120	fct_mf_chief	 (Nahkampf-Gilden-Führer)	(Nahkampf-Gilden-Führerin)
-_B7B61AEE5A87959D	fct_rf_chief	 (Fernkampf-Gilden-Führer)	(Fernkampf-Gilden-Führerin
-_9B308580B8C348B3	fct_mh_chief	 (Heilmagier-Gilden-Führer)	(Heilmagier-Gilden-Führerin)
-_FF89948078835CBD	fct_mb_chief	 (Schutzmagier-Gilden-Führer)	(Schutzmagier-Gilden-Führerin)
-_09E3463D348484B8	fct_ma_chief	 (Kampfmagier-Gilden-Führer)	(Kampfmagier-Gilden-Führerin)
-_2DE15522C48C2BE5	fct_t_chief	 (Händler-Gilden-Führer)	(Händler-Gilden-Führerin)
-_B30E653382BD3BE5	fct_h_chief	 (Ernte-Gilden-Führer)	(Ernte-Gilden-Führerin)
-_EB801C08755C0FE7	fct_f_chief	 (Handwerks-Gilden-Führer)	(Handwerks-Gilden-Führerin)
+_B52DAAA1521B7120	fct_mf_chief	 (Nahkampfgildenanführer)	(Nahkampfgildenanführerin)
+_B7B61AEE5A87959D	fct_rf_chief	 (Fernkampfgildenanführer)	(Fernkampfgildenanführerin
+_9B308580B8C348B3	fct_mh_chief	 (Heilmagiergildenanführer)	(Heilmagiergildenanführerin)
+_FF89948078835CBD	fct_mb_chief	 (Schutzmagiergildenanführer)	(Schutzmagiergildenanführerin)
+_09E3463D348484B8	fct_ma_chief	 (Kampfmagiergildenanführer)	(Kampfmagiergildenanführerin)
+_2DE15522C48C2BE5	fct_t_chief	 (Händlergildenanführer)	(Händlergildenanführerin)
+_B30E653382BD3BE5	fct_h_chief	 (Erntegildenanführer)	(Erntegildenanführerin)
+_EB801C08755C0FE7	fct_f_chief	 (Handwerksgildenanführer)	(Handwerksgildenanführerin)
 _EB80452EC33FA0E9	fct_mission_officer	 (Missionsoffizier)	(Missionsoffizierin)
 _52AA28B8A564B964	fct_mv_guard	 (Wächter von Yrkanis)	(Wächterin von Yrkanis)
 _BDBFAD6B2D3FF9CF	fct_mv_guardchief	 (Oberwächter von Yrkanis)	(Oberwächterin von Yrkanis)
@@ -396,7 +396,7 @@ _9459CCB3DF3E975B	fct_registar	 (Gildenschreiber)	(Gildenschreiberin)
 _5D441AD8E996D8B9	fct_ins_f	 (Kampflehrer)	(Kampflehrerin)
 _DAE41AB616D6F4B3	fct_ins_m	 (Magielehrer)	(Magielehrerin)
 _686B9F2924B7F4C0	fct_ins_r	 (Handwerkslehrer)	(Handwerkslehrerin)
-_FC35BE16E9460CAF	fct_ins_h	 (Rohstoffernte-Lehrer)	(Rohstoffernte-Lehrerin)
+_FC35BE16E9460CAF	fct_ins_h	 (Rohstofferntelehrer)	(Rohstofferntelehrerin)
 _41F4E0488729241C	fct_mf_rolemaster	 (Nahkampf-Gilden-Gelehrter)	(Nahkampf-Gilden-Gelehrte)
 _1F750264DA2BFF2A	fct_rf_rolemaster	(Fernkampf-Gilden-Gelehrter)	(Fernkampf-Gilden-Gelehrte)
 _2900034FE35E71B7	fct_c_rolemaster	 (Kampf-Gilden-Gelehrter)	(Kampf-Gilden-Gelehrte)
@@ -410,7 +410,7 @@ _238946101D6A59BA	fct_f_rolemaster	 (Handwerks-Gilden-Gelehrter)	(Handwerks-Gild
 _FEE10832815C7C47	fct_f_trainer	 (Kampflehrer)	(Kampflehrerin)
 _3A30101023C7B85B	fct_m_trainer	(Magielehrer)	(Magielehrerin)
 _2D80081AA4667F2D	fct_c_trainer	 (Handwerkslehrer)	(Handwerkslehrerin)
-_3AE134166CF4C85D	fct_h_trainer	 (Rohstoffernte-Lehrer)	(Rohstoffernte-Lehrerin)
+_3AE134166CF4C85D	fct_h_trainer	 (Rohstofferntelehrer)	(Rohstofferntelehrerin)
 _B9C8045A62476B86	fct_f_guild_trainer	 (Kampf-Gilden-Lehrer)	(Kampf-Gilden-Lehrerin)
 _39A61F0126172F82	fct_m_guild_trainer	 (Magie-Gilden-Lehrer)	(Magie-Gilden-Lehrerin)
 _B94727EB93D56E7D	fct_c_guild_trainer	 (Handwerks-Gilden-Lehrer)	(Handwerks-Gilden-Lehrerin)
@@ -426,16 +426,16 @@ _98CAA891AF99102B	fct_sergent	 (Wachtmeister)	(Wachtmeisterin)
 _1138D4932AF6E85A	fct_captain	 (Befehlshaber)	(Befehlshaberin)
 _11CFB773732E88B9	fct_city_welcomer	 (Stadtempfänger)	(Stadtempfängerin)
 _992106B23D12F5C0	fct_village_welcomer	 (Dorfempfänger)	(Dorfempfängerin)
-_DBB854FAB4CD3968	fct_foreman_apprentice	 (Lehrlings-Ausbilder)	(Lehrlings-Ausbilderin)
+_DBB854FAB4CD3968	fct_foreman_apprentice	 (Ausbilder der Lehrlinge)	(Ausbilder der Lehrlingein)
 _12E97FAC6BCA0263	fct_foreman	 (Vorarbeiter)	(Vorarbeiterin)
 _2C8C85CA36B29969	fct_foreman_master	 (Obervorarbeiter)	(Obervorarbeiterin)
 _5485F09DE885E881	fct_hawker	 (Hausierer)	(Hausiererin)
 _EAC803F3D976B8A0	fct_journeyman	 (Geselle)	(Gesellin)
 _2A91C9AAE63A90C1	fct_kami_ambassador	 Kami-Gesandter	 Kami-Gesandte
-_34E7060715EA8D92	fct_kami_welcomer	 Kami-Empfänger	 Kami-Empfängerin
+_34E7060715EA8D92	fct_kami_welcomer	 Kamiempfänger	 Kamiempfängerin
 _7F448DC446CEEA84	fct_karavan_ambassador	 Karavan-Botschafter	Karavan-Botschafterin
 _A31BECD1E2F7F500	fct_karavan_agent	 Karavan-Agent	Karavan-Agentin
-_50AF2F01EA1319AA	fct_karavan_welcomer	 Karavan-Empfänger	 Karavan-Empfängerin
+_50AF2F01EA1319AA	fct_karavan_welcomer	 Karavanempfänger	 Karavanempfängerin
 _DB80A90FAAA63F79	fct_local_messenger	 (Lokaler Bote)	(Lokale Botin)
 _9DD66D7FCD23A90E	fct_frontiers_messenger	 (Grenzbote)	(Grenzbotin)
 _E7CD1B8DD473CB65	fct_outlands_messenger	 (Kurier)	(Kurierin)
@@ -789,45 +789,45 @@ _4D01DB0DF35F29FB	gn_ecowarriors_kami_ambassador_m1	Kami-Botschafter der Ökokri
 _BED02C6E419264EF	gn_firstdeserters_kami_ambassador_m1	Kami-Botschafter der Ersten Deserteure	Kami-Botschafterin der Ersten Deserteure
 _2D0B05EBD586BD89	gn_fraharhunters_kami_ambassador_f1	Kami-Botschafter der Frahar-Jäger	Kami-Botschafterin der Frahar-Jäger
 _EC4D1BA5567D0B2F	gn_hamazans_kami_ambassador_z1	Kami-Botschafter der Matis-Amazonen	Kami-Botschafterin der Matis-Amazonen
-_82C1FD0D8B307A8E	gn_kami_welcomer_f1	Kami-Empfänger der Dünen der Verbannung	Kami-Empfängerin der Dünen der Verbannung
-_170E3D0D0CB03AB7	gn_kami_welcomer_f2	Kami-Empfänger der Frahar-Türme	Kami-Empfängerin der Frahar-Türme
-_55B93E8802601EB2	gn_kami_welcomer_f3	Kami-Empfänger der Imperialen Dünen	Kami-Empfängerin der Imperialen Dünen
-_0FBCA4C3E3362EC3	gn_kami_welcomer_f4	Kami-Empfänger von Oflovaks Oase	Kami-Empfängerin von Oflovaks Oase
-_1820C239D5E22AB7	gn_kami_welcomer_f5	Kami-Empfänger des Canyons der Gesetzlosen	Kami-Empfängerin des Canyons der Gesetzlosen
-_91BF210DC9C16EB2	gn_kami_welcomer_f6	Kami-Empfänger der Sägemehl-Minen	Kami-Empfängerin der Sägemehl-Minen
-_11C252092BD12EB0	gn_kami_welcomer_f7	Kami-Empfänger der Wilden Dünen	Kami-Empfängerin der Wilden Dünen
-_542AF20D8BC0713C	gn_kami_welcomer_f8	Kami-Empfänger der Sengenden Schlucht	Kami-Empfängerin der Sengenden Schlucht
-_0FE1AA47149B85B2	gn_kami_welcomer_m1	Kami-Empfänger des Vergänglichen Gartens	Kami-Empfängerin des Vergänglichen Gartens
-_7144739C66FA9E23	gn_kami_welcomer_m2	Kami-Empfänger des Hains der Verwirrung	Kami-Empfängerin des Hains der Verwirrung
-_E7AA56428AB80FCE	gn_kami_welcomer_m3	Kami-Empfänger von Ketzers Hütte	Kami-Empfängerin von Ketzers Hütte
-_4A0A8D59B45D42B6	gn_kami_welcomer_m4	Kami-Empfänger der Versteckten Quelle	Kami-Empfängerin der Versteckten Quelle
-_B5F65A2115DC1FD6	gn_kami_welcomer_m5	Kami-Empfänger der Hügel der Abtrünnigen	Kami-Empfängerin der Hügel der Abtrünnigen
-_54A7BB2D90C53EAD	gn_kami_welcomer_m6	Kami-Empfänger des Majestätischen Gartens	Kami-Empfängerin des Majestätischen Gartens
-_12C9CE4AF3F22EB6	gn_kami_welcomer_m7	Kami-Empfänger des Oberen Sumpfes	Kami-Empfängerin des Oberen Sumpfes
-_2F3873728D9B43DE	gn_kami_welcomer_p1	Kami-Empfänger der Verbotenen Tiefen	Kami-Empfängerin der Verbotenen Tiefen
-_7A773E509B05FA44	gn_kami_welcomer_p10	Kami-Empfänger der Pforte des Sturms	Kami-Empfängerin der Pforte des Sturms
-_D663378774710228	gn_kami_welcomer_p2	Kami-Empfänger des Tors der Dunkelheit	Kami-Empfängerin des Tors der Dunkelheit
-_7B4B29D68399CC57	gn_kami_welcomer_p3	Kami-Empfänger des Nexus	Kami-Empfängerin des Nexus
-_8FBFED338B1652B2	gn_kami_welcomer_p4	Kami-Empfänger des Abgrunds von Ichor	Kami-Empfängerin des Abgrunds von Ichor
-_23E20B87FA7DCF20	gn_kami_welcomer_p5	Kami-Empfänger des Unergründlichen Waldes	Kami-Empfängerin des Unergründlichen Waldes
-_9593636CC957EF23	gn_kami_welcomer_p6	Kami-Empfänger des Landes der Kontinuität	Kami-Empfängerin des Landes der Kontinuität
-_097CD29EE57D72BC	gn_kami_welcomer_p7	Kami-Empfänger der Versunkenen Stadt	Kami-Empfängerin der Versunkenen Stadt
-_26D4737978D6AEE6	gn_kami_welcomer_p8	Kami-Empfänger des Grabens der Heimsuchung	Kami-Empfängerin des Grabens der Heimsuchung
-_98379B3C8D3422BB	gn_kami_welcomer_p9	Kami-Empfänger der Verbotenen Quellen	Kami-Empfängerin der Verbotenen Quellen
-_0ED40E7AB7151ABA	gn_kami_welcomer_t1	Kami-Empfänger der Strände des Überflusses	Kami-Empfängerin der Strände des Überflusses
-_9692ED7F3AF4E1B9	gn_kami_welcomer_t2	Kami-Empfänger der Region der Tautropfen	Kami-Empfängerin der Region der Tautropfen
-_D46EE1571E42F3BD	gn_kami_welcomer_t3	Kami-Empfänger der Verzauberten Insel	Kami-Empfängerin der Verzauberten Insel
-_0AEC6A0CB7654EC2	gn_kami_welcomer_t4	Kami-Empfänger der Lagunen von Loria	Kami-Empfängerin der Lagunen von Loria
-_80DEA91EBBC2F6AA	gn_kami_welcomer_t5	Kami-Empfänger des Sees der Freiheit	Kami-Empfängerin des Sees der Freiheit
-_929E8914E0DE19C8	gn_kami_welcomer_t6	Kami-Empfänger des Ruhigen Wassers	Kami-Empfängerin des Ruhigen Wassers
-_F20629595BBFA153	gn_kami_welcomer_t7	Kami-Empfänger des Ursprungs	Kami-Empfängerin des Ursprungs
-_949F7D1D70F036C6	gn_kami_welcomer_t8	Kami-Empfänger der Winde der Muse	Kami-Empfängerin der Winde der Muse
-_DF961A76CDE15284	gn_kami_welcomer_z1	Kami-Empfänger der Städte der Einsicht	Kami-Empfängerin der Städte der Einsicht
-_95EDA3A023B69E80	gn_kami_welcomer_z2	Kami-Empfänger des Wäldchens von Umbra	Kami-Empfängerin des Wäldchens von Umbra
-_568282F0DC7D1DAE	gn_kami_welcomer_z3	Kami-Empfänger des Hafens der Reinheit	Kami-Empfängerin des Hafens der Reinheit
-_8396B76435B5F38C	gn_kami_welcomer_z4	Kami-Empfänger des Knotens des Demenz	Kami-Empfängerin des Knotens des Demenz
-_16711E208BE0F6C0	gn_kami_welcomer_z5	Kami-Empfänger des Jungfräulichen Wäldchens	Kami-Empfängerin des Jungfräulichen Wäldchens
-_773A61DE8399CCE4	gn_kami_welcomer_z6	Kami-Empfänger des Nichts	Kami-Empfängerin des Nichts
+_82C1FD0D8B307A8E	gn_kami_welcomer_f1	Kamiempfänger der Dünen der Verbannung	Kamiempfängerin der Dünen der Verbannung
+_170E3D0D0CB03AB7	gn_kami_welcomer_f2	Kamiempfänger der Frahar-Türme	Kamiempfängerin der Frahar-Türme
+_55B93E8802601EB2	gn_kami_welcomer_f3	Kamiempfänger der Imperialen Dünen	Kamiempfängerin der Imperialen Dünen
+_0FBCA4C3E3362EC3	gn_kami_welcomer_f4	Kamiempfänger von Oflovaks Oase	Kamiempfängerin von Oflovaks Oase
+_1820C239D5E22AB7	gn_kami_welcomer_f5	Kamiempfänger des Canyons der Gesetzlosen	Kamiempfängerin des Canyons der Gesetzlosen
+_91BF210DC9C16EB2	gn_kami_welcomer_f6	Kamiempfänger der Sägemehl-Minen	Kamiempfängerin der Sägemehl-Minen
+_11C252092BD12EB0	gn_kami_welcomer_f7	Kamiempfänger der Wilden Dünen	Kamiempfängerin der Wilden Dünen
+_542AF20D8BC0713C	gn_kami_welcomer_f8	Kamiempfänger der Sengenden Schlucht	Kamiempfängerin der Sengenden Schlucht
+_0FE1AA47149B85B2	gn_kami_welcomer_m1	Kamiempfänger des Vergänglichen Gartens	Kamiempfängerin des Vergänglichen Gartens
+_7144739C66FA9E23	gn_kami_welcomer_m2	Kamiempfänger des Hains der Verwirrung	Kamiempfängerin des Hains der Verwirrung
+_E7AA56428AB80FCE	gn_kami_welcomer_m3	Kamiempfänger von Ketzers Hütte	Kamiempfängerin von Ketzers Hütte
+_4A0A8D59B45D42B6	gn_kami_welcomer_m4	Kamiempfänger der Versteckten Quelle	Kamiempfängerin der Versteckten Quelle
+_B5F65A2115DC1FD6	gn_kami_welcomer_m5	Kamiempfänger der Hügel der Abtrünnigen	Kamiempfängerin der Hügel der Abtrünnigen
+_54A7BB2D90C53EAD	gn_kami_welcomer_m6	Kamiempfänger des Majestätischen Gartens	Kamiempfängerin des Majestätischen Gartens
+_12C9CE4AF3F22EB6	gn_kami_welcomer_m7	Kamiempfänger des Oberen Sumpfes	Kamiempfängerin des Oberen Sumpfes
+_2F3873728D9B43DE	gn_kami_welcomer_p1	Kamiempfänger der Verbotenen Tiefen	Kamiempfängerin der Verbotenen Tiefen
+_7A773E509B05FA44	gn_kami_welcomer_p10	Kamiempfänger der Pforte des Sturms	Kamiempfängerin der Pforte des Sturms
+_D663378774710228	gn_kami_welcomer_p2	Kamiempfänger des Tors der Dunkelheit	Kamiempfängerin des Tors der Dunkelheit
+_7B4B29D68399CC57	gn_kami_welcomer_p3	Kamiempfänger des Nexus	Kamiempfängerin des Nexus
+_8FBFED338B1652B2	gn_kami_welcomer_p4	Kamiempfänger des Abgrunds von Ichor	Kamiempfängerin des Abgrunds von Ichor
+_23E20B87FA7DCF20	gn_kami_welcomer_p5	Kamiempfänger des Unergründlichen Waldes	Kamiempfängerin des Unergründlichen Waldes
+_9593636CC957EF23	gn_kami_welcomer_p6	Kamiempfänger des Landes der Kontinuität	Kamiempfängerin des Landes der Kontinuität
+_097CD29EE57D72BC	gn_kami_welcomer_p7	Kamiempfänger der Versunkenen Stadt	Kamiempfängerin der Versunkenen Stadt
+_26D4737978D6AEE6	gn_kami_welcomer_p8	Kamiempfänger des Grabens der Heimsuchung	Kamiempfängerin des Grabens der Heimsuchung
+_98379B3C8D3422BB	gn_kami_welcomer_p9	Kamiempfänger der Verbotenen Quellen	Kamiempfängerin der Verbotenen Quellen
+_0ED40E7AB7151ABA	gn_kami_welcomer_t1	Kamiempfänger der Strände des Überflusses	Kamiempfängerin der Strände des Überflusses
+_9692ED7F3AF4E1B9	gn_kami_welcomer_t2	Kamiempfänger der Region der Tautropfen	Kamiempfängerin der Region der Tautropfen
+_D46EE1571E42F3BD	gn_kami_welcomer_t3	Kamiempfänger der Verzauberten Insel	Kamiempfängerin der Verzauberten Insel
+_0AEC6A0CB7654EC2	gn_kami_welcomer_t4	Kamiempfänger der Lagunen von Loria	Kamiempfängerin der Lagunen von Loria
+_80DEA91EBBC2F6AA	gn_kami_welcomer_t5	Kamiempfänger des Sees der Freiheit	Kamiempfängerin des Sees der Freiheit
+_929E8914E0DE19C8	gn_kami_welcomer_t6	Kamiempfänger des Ruhigen Wassers	Kamiempfängerin des Ruhigen Wassers
+_F20629595BBFA153	gn_kami_welcomer_t7	Kamiempfänger des Ursprungs	Kamiempfängerin des Ursprungs
+_949F7D1D70F036C6	gn_kami_welcomer_t8	Kamiempfänger der Winde der Muse	Kamiempfängerin der Winde der Muse
+_DF961A76CDE15284	gn_kami_welcomer_z1	Kamiempfänger der Städte der Einsicht	Kamiempfängerin der Städte der Einsicht
+_95EDA3A023B69E80	gn_kami_welcomer_z2	Kamiempfänger des Wäldchens von Umbra	Kamiempfängerin des Wäldchens von Umbra
+_568282F0DC7D1DAE	gn_kami_welcomer_z3	Kamiempfänger des Hafens der Reinheit	Kamiempfängerin des Hafens der Reinheit
+_8396B76435B5F38C	gn_kami_welcomer_z4	Kamiempfänger des Knotens des Demenz	Kamiempfängerin des Knotens des Demenz
+_16711E208BE0F6C0	gn_kami_welcomer_z5	Kamiempfänger des Jungfräulichen Wäldchens	Kamiempfängerin des Jungfräulichen Wäldchens
+_773A61DE8399CCE4	gn_kami_welcomer_z6	Kamiempfänger des Nichts	Kamiempfängerin des Nichts
 _55264B0272BCEEA4	gn_keepers_kami_ambassador_p1	Kami-Botschafter der Erinnerer	Kami-Botschafterin der Erinnerer
 _972A9AD04625984E	gn_lagoonbrothers_kami_ambassador_t1	Kami-Botschafter der Lagunenbrüder	Kami-Botschafterin der Lagunenbrüder
 _F1977E10720C0AAF	gn_leviers_kami_ambassador_f1	Kami-Botschafter der Zöllner	Kami-Botschafterin der Zöllner
@@ -849,50 +849,50 @@ _5112D4916ACFF996	gn_blackcircle_karavan_ambassador_z1	Karavan-Botschafter des S
 _A6D6B91A0C120542	gn_darkeningsap_karavan_ambassador_m1	Karavan-Botschafter der Matiagoo	Karavan-Botschafterin der Matiagoo
 _8A3101B0120100C0	gn_gooheads_karavan_ambassador_z1	Karavan-Botschafter der Erleuchteten des Goo	Karavan-Botschafterin der Erleuchteten des Goo
 _EA42CEC268D67FA9	gn_greenseed_karavan_ambassador_m1	Karavan-Botschafter des Grünen Samens	Karavan-Botschafterin des Grünen Samens
-_73BFAAEB6B3E167B	gn_karavan_welcomer_f1	Karavan-Empfänger der Dünen der Verbannung	Karavan-Empfängerin der Dünen der Verbannung
-_6F52F3BF6F3E3273	gn_karavan_welcomer_f2	Karavan-Empfänger der Frahar-Türme	Karavan-Empfängerin der Frahar-Türme
-_AD01D7687FF5967E	gn_karavan_welcomer_f3	Karavan-Empfänger der Imperialen Dünen	Karavan-Empfängerin der Imperialen Dünen
-_AE1273A8E4A898DB	gn_karavan_welcomer_f4	Karavan-Empfänger von Oflovaks Oase	Karavan-Empfängerin von Oflovaks Oase
-_6E5103DDC7003C96	gn_karavan_welcomer_f5	Karavan-Empfänger des Canyons der Gesetzlosen	Karavan-Empfängerin des Canyons der Gesetzlosen
-_B2019BC6AD400E84	gn_karavan_welcomer_f6	Karavan-Empfänger der Sägemehl-Minen	Karavan-Empfängerin der Sägemehl-Minen
-_AEE193F5C0FEB985	gn_karavan_welcomer_f7	Karavan-Empfänger der Wilden Dünen	Karavan-Empfängerin der Wilden Dünen
-_DBA9B77AC93E2374	gn_karavan_welcomer_f8	Karavan-Empfänger der Sengenden Schlucht	Karavan-Empfängerin der Sengenden Schlucht
-_1C0173DD83E1A029	gn_karavan_welcomer_m1	Karavan-Empfänger des Vergänglichen Gartens	Karavan-Empfängerin des Vergänglichen Gartens
-_B51898121F36482E	gn_karavan_welcomer_m2	Karavan-Empfänger des Hains der Verwirrung	Karavan-Empfängerin des Hains der Verwirrung
-_CCC3F0774EA20E0A	gn_karavan_welcomer_m3	Karavan-Empfänger von Ketzers Hütte	Karavan-Empfängerin von Ketzers Hütte
-_F041276DB204B554	gn_karavan_welcomer_m4	Karavan-Empfänger der Versteckten Quelle	Karavan-Empfängerin der Versteckten Quelle
-_BD43CC4A968ECE4C	gn_karavan_welcomer_m5	Karavan-Empfänger der Hügel der Abtrünnigen	Karavan-Empfängerin der Hügel der Abtrünnigen
-_AFB1474494408ADB	gn_karavan_welcomer_m6	Karavan-Empfänger des Majestätischen Gartens	Karavan-Empfängerin des Majestätischen Gartens
-_AE41A365C613B59E	gn_karavan_welcomer_m7	Karavan-Empfänger des Oberen Sumpfes	Karavan-Empfängerin des Oberen Sumpfes
-_794C2A82ABCA870C	gn_karavan_welcomer_p1	Karavan-Empfänger des Nexus	Karavan-Empfängerin des Nexus
-_6D81E31C0714D9D7	gn_karavan_welcomer_t1	Karavan-Empfänger der Strände des Überflusses	Karavan-Empfängerin der Strände des Überflusses
-_DA725BF7F56515C5	gn_karavan_welcomer_t2	Karavan-Empfänger der Region der Tautropfen	Karavan-Empfängerin der Region der Tautropfen
-_FBB2BFB435E2C8AA	gn_karavan_welcomer_t3	Karavan-Empfänger der Verzauberten Insel	Karavan-Empfängerin der Verzauberten Insel
-_B001238BBE30E5DC	gn_karavan_welcomer_t4	Karavan-Empfänger der Lagunen von Loria	Karavan-Empfängerin der Lagunen von Loria
-_2B817AB9BA5E19A2	gn_karavan_welcomer_t5	Karavan-Empfänger des Sees der Freiheit	Karavan-Empfängerin des Sees der Freiheit
-_5D629BB4AFAE7084	gn_karavan_welcomer_t6	Karavan-Empfänger der Ruhigen Wasser	Karavan-Empfängerin der Ruhigen Wasser
-_D60BA22AAA022C72	gn_karavan_welcomer_t7	Karavan-Empfänger des Ursprungs	Karavan-Empfängerin des Ursprungs
-_2E42CBC2EF3F0185	gn_karavan_welcomer_t8	Karavan-Empfänger der Winde der Muse	Karavan-Empfängerin der Winde der Muse
-_F82D7F4847D43A9A	gn_karavan_welcomer_z1	Karavan-Empfänger der Städte der Einsicht	Karavan-Empfängerin der Städte der Einsicht
-_A5DECBBDDF7794F7	gn_karavan_welcomer_z2	Karavan-Empfänger des Wäldchens von Umbra	Karavan-Empfängerin des Wäldchens von Umbra
-_9EC1E7F5BE6CA463	gn_karavan_welcomer_z3	Karavan-Empfänger des Hafens der Reinheit	Karavan-Empfängerin des Hafens der Reinheit
-_FB9F2A3520B2BDE7	gn_karavan_welcomer_z4	Karavan-Empfänger des Knotens der Demenz	Karavan-Empfängerin des Knotens der Demenz
-_2BE2E3E2876F17AA	gn_karavan_welcomer_z5	Karavan-Empfänger des Jungfräulichen Wäldchens	Karavan-Empfängerin des Jungfräulichen Wäldchens
-_7915EA6EAC4B9B16	gn_karavan_welcomer_z6	Karavan-Empfänger des Nichts	Karavan-Empfängerin des Nichts
-_4A287CFEEBEFCF4D	gn_kuilde_karavan_ambassador_p1	Karavan-Empfänger der Kuilde	Karavan-Empfängerin der Kuilde
-_92BE343DC9BFB7B5	gn_lawless_karavan_ambassador_f1	Karavan-Empfänger der Gesetzlosen	Karavan-Empfängerin der Gesetzlosen
-_0848EDE97A399896	gn_masters_karavan_ambassador_z1	Karavan-Empfänger des Meister des Goo	Karavan-Empfängerin des Meister des Goo
-_BC445624F8A5F197	gn_matisianborder_karavan_ambassador_m1	Karavan-Empfänger der Matisianischen Grenzwächter	Karavan-Empfängerin der Matisianischen Grenzwächter
-_E997711ACC9A652A	gn_oasisdiggers_karavan_ambassador_m1	Karavan-Empfänger der Brunnengräber	Karavan-Empfängerin der Brunnengräber
-_D48E17AAC910D437	gn_renegades_karavan_ambassador_f1	Karavan-Empfänger der Abtrünnigen	Karavan-Empfängerin der Abtrünnigen
-_4D4DACC2A85766F2	gn_sapslaves_karavan_ambassador_m1	Karavan-Empfänger der Sapsklaven	Karavan-Empfängerin der Sapsklaven
-_938E1B268AA1FA36	gn_scorchers_karavan_ambassador_f1	Karavan-Empfänger der Enthäuteten	Karavan-Empfängerin der Enthäuteten
-_B55C44C3C81FC814	gn_siltsculptors_karavan_ambassador_t1	Karavan-Empfänger der Lehmbildhauer	Karavan-Empfängerin der Lehmbildhauer
-_FF3C778C451EC2BB	gn_slashandburn_karavan_ambassador_m1	Karavan-Empfänger der Scharlachroten Söldner	Karavan-Empfängerin der Scharlachroten Söldner
-_C5D56D77706414A2	gn_slavers_karavan_ambassador_t1	Karavan-Empfänger der Sklaventreiber	Karavan-Empfängerin der Sklaventreiber
-_AF54D3B1A608AFA8	gn_smugglers_karavan_ambassador_t1	Karavan-Empfänger der Schmuggler	Karavan-Empfängerin der Schmuggler
+_73BFAAEB6B3E167B	gn_karavan_welcomer_f1	Karavanempfänger der Dünen der Verbannung	Karavanempfängerin der Dünen der Verbannung
+_6F52F3BF6F3E3273	gn_karavan_welcomer_f2	Karavanempfänger der Frahar-Türme	Karavanempfängerin der Frahar-Türme
+_AD01D7687FF5967E	gn_karavan_welcomer_f3	Karavanempfänger der Imperialen Dünen	Karavanempfängerin der Imperialen Dünen
+_AE1273A8E4A898DB	gn_karavan_welcomer_f4	Karavanempfänger von Oflovaks Oase	Karavanempfängerin von Oflovaks Oase
+_6E5103DDC7003C96	gn_karavan_welcomer_f5	Karavanempfänger des Canyons der Gesetzlosen	Karavanempfängerin des Canyons der Gesetzlosen
+_B2019BC6AD400E84	gn_karavan_welcomer_f6	Karavanempfänger der Sägemehl-Minen	Karavanempfängerin der Sägemehl-Minen
+_AEE193F5C0FEB985	gn_karavan_welcomer_f7	Karavanempfänger der Wilden Dünen	Karavanempfängerin der Wilden Dünen
+_DBA9B77AC93E2374	gn_karavan_welcomer_f8	Karavanempfänger der Sengenden Schlucht	Karavanempfängerin der Sengenden Schlucht
+_1C0173DD83E1A029	gn_karavan_welcomer_m1	Karavanempfänger des Vergänglichen Gartens	Karavanempfängerin des Vergänglichen Gartens
+_B51898121F36482E	gn_karavan_welcomer_m2	Karavanempfänger des Hains der Verwirrung	Karavanempfängerin des Hains der Verwirrung
+_CCC3F0774EA20E0A	gn_karavan_welcomer_m3	Karavanempfänger von Ketzers Hütte	Karavanempfängerin von Ketzers Hütte
+_F041276DB204B554	gn_karavan_welcomer_m4	Karavanempfänger der Versteckten Quelle	Karavanempfängerin der Versteckten Quelle
+_BD43CC4A968ECE4C	gn_karavan_welcomer_m5	Karavanempfänger der Hügel der Abtrünnigen	Karavanempfängerin der Hügel der Abtrünnigen
+_AFB1474494408ADB	gn_karavan_welcomer_m6	Karavanempfänger des Majestätischen Gartens	Karavanempfängerin des Majestätischen Gartens
+_AE41A365C613B59E	gn_karavan_welcomer_m7	Karavanempfänger des Oberen Sumpfes	Karavanempfängerin des Oberen Sumpfes
+_794C2A82ABCA870C	gn_karavan_welcomer_p1	Karavanempfänger des Nexus	Karavanempfängerin des Nexus
+_6D81E31C0714D9D7	gn_karavan_welcomer_t1	Karavanempfänger der Strände des Überflusses	Karavanempfängerin der Strände des Überflusses
+_DA725BF7F56515C5	gn_karavan_welcomer_t2	Karavanempfänger der Region der Tautropfen	Karavanempfängerin der Region der Tautropfen
+_FBB2BFB435E2C8AA	gn_karavan_welcomer_t3	Karavanempfänger der Verzauberten Insel	Karavanempfängerin der Verzauberten Insel
+_B001238BBE30E5DC	gn_karavan_welcomer_t4	Karavanempfänger der Lagunen von Loria	Karavanempfängerin der Lagunen von Loria
+_2B817AB9BA5E19A2	gn_karavan_welcomer_t5	Karavanempfänger des Sees der Freiheit	Karavanempfängerin des Sees der Freiheit
+_5D629BB4AFAE7084	gn_karavan_welcomer_t6	Karavanempfänger der Ruhigen Wasser	Karavanempfängerin der Ruhigen Wasser
+_D60BA22AAA022C72	gn_karavan_welcomer_t7	Karavanempfänger des Ursprungs	Karavanempfängerin des Ursprungs
+_2E42CBC2EF3F0185	gn_karavan_welcomer_t8	Karavanempfänger der Winde der Muse	Karavanempfängerin der Winde der Muse
+_F82D7F4847D43A9A	gn_karavan_welcomer_z1	Karavanempfänger der Städte der Einsicht	Karavanempfängerin der Städte der Einsicht
+_A5DECBBDDF7794F7	gn_karavan_welcomer_z2	Karavanempfänger des Wäldchens von Umbra	Karavanempfängerin des Wäldchens von Umbra
+_9EC1E7F5BE6CA463	gn_karavan_welcomer_z3	Karavanempfänger des Hafens der Reinheit	Karavanempfängerin des Hafens der Reinheit
+_FB9F2A3520B2BDE7	gn_karavan_welcomer_z4	Karavanempfänger des Knotens der Demenz	Karavanempfängerin des Knotens der Demenz
+_2BE2E3E2876F17AA	gn_karavan_welcomer_z5	Karavanempfänger des Jungfräulichen Wäldchens	Karavanempfängerin des Jungfräulichen Wäldchens
+_7915EA6EAC4B9B16	gn_karavan_welcomer_z6	Karavanempfänger des Nichts	Karavanempfängerin des Nichts
+_4A287CFEEBEFCF4D	gn_kuilde_karavan_ambassador_p1	Karavanempfänger der Kuilde	Karavanempfängerin der Kuilde
+_92BE343DC9BFB7B5	gn_lawless_karavan_ambassador_f1	Karavanempfänger der Gesetzlosen	Karavanempfängerin der Gesetzlosen
+_0848EDE97A399896	gn_masters_karavan_ambassador_z1	Karavanempfänger des Meister des Goo	Karavanempfängerin des Meister des Goo
+_BC445624F8A5F197	gn_matisianborder_karavan_ambassador_m1	Karavanempfänger der Matisianischen Grenzwächter	Karavanempfängerin der Matisianischen Grenzwächter
+_E997711ACC9A652A	gn_oasisdiggers_karavan_ambassador_m1	Karavanempfänger der Brunnengräber	Karavanempfängerin der Brunnengräber
+_D48E17AAC910D437	gn_renegades_karavan_ambassador_f1	Karavanempfänger der Abtrünnigen	Karavanempfängerin der Abtrünnigen
+_4D4DACC2A85766F2	gn_sapslaves_karavan_ambassador_m1	Karavanempfänger der Sapsklaven	Karavanempfängerin der Sapsklaven
+_938E1B268AA1FA36	gn_scorchers_karavan_ambassador_f1	Karavanempfänger der Enthäuteten	Karavanempfängerin der Enthäuteten
+_B55C44C3C81FC814	gn_siltsculptors_karavan_ambassador_t1	Karavanempfänger der Lehmbildhauer	Karavanempfängerin der Lehmbildhauer
+_FF3C778C451EC2BB	gn_slashandburn_karavan_ambassador_m1	Karavanempfänger der Scharlachroten Söldner	Karavanempfängerin der Scharlachroten Söldner
+_C5D56D77706414A2	gn_slavers_karavan_ambassador_t1	Karavanempfänger der Sklaventreiber	Karavanempfängerin der Sklaventreiber
+_AF54D3B1A608AFA8	gn_smugglers_karavan_ambassador_t1	Karavanempfänger der Schmuggler	Karavanempfängerin der Schmuggler
 _3EB9FB0AA6DCEB16	gn_fairhaven_karavan_officer	Karavan-Offizier von Fairhaven	Karavan-Offizierin von Fairhaven
-_9837517501107C54	gn_iconworshipers_kami_ambassador_z1	Kami-Empfänger der Ikonenschnitzer	Kami-Empfängerin der Ikonenschnitzer
+_9837517501107C54	gn_iconworshipers_kami_ambassador_z1	Kamiempfänger der Ikonenschnitzer	Kamiempfängerin der Ikonenschnitzer
 _77C501027D4C21B1	gn_yrkanis_kami_master	Kami-Meister von Yrkanis	Kami-Meisterin von Yrkanis
 _736D43BDE135E227	gn_yrkanis_karavan_officer	Karavan-Offizer von Yrkanis	Karavan-Offizerin von Yrkanis
 _AE66FBD662235749	gn_r_10_17_kami_gentil	Freundlicher Kami	Freundlicher Kami
@@ -976,10 +976,10 @@ _7899B52415024CCC	gn_zkod_bandit_guards_healer	Anhänger des Verdorbenen	Anhäng
 _71DA25B8AA93D855	gn_zkod_bandit_guards_melee	Anhänger des Verdorbenen	Anhängerin des Verdorbenen
 _7899ED3D15524CCC	gn_zkod_bandit_guards_mezzer	Anhänger des Verdorbenen	Anhängerin des Verdorbenen
 _71AB25B7AEA3D855	gn_zkod_bandit_guards_nuker	Anhänger des Verdorbenen	Anhängerin des Verdorbenen
-_AB1CA514D0E63C52	fct_h_tattooer	(Herren-Tätowierer)	(Herren-Tätowiererin)
-_C4997CFE124A5C13	fct_h_hairdresser	(Herren-Friseur)	(Herren-Friseurin)
-_C4997CFE12DC4D11	fct_f_hairdresser	(Damen-Friseur)	(Damen-Friseurin)
-_F5E0A514D0E63C50	fct_f_tattooer	(Damen-Tätowierer)	(Damen-Tätowiererin)
+_AB1CA514D0E63C52	fct_h_tattooer	(Herrentätowierer)	(Herrentätowiererin)
+_C4997CFE124A5C13	fct_h_hairdresser	(Herrenfriseur)	(Herrenfriseurin)
+_C4997CFE12DC4D11	fct_f_hairdresser	(Damenfriseur)	(Damenfriseurin)
+_F5E0A514D0E63C50	fct_f_tattooer	(Damentätowierer)	(Damentätowiererin)
 _5877A0830FF9ECAC	gn_kami_adept	Kami-Anhänger	Kami-Anhängerin
 _6B37B89DE8B7304C	gn_kami_guardian	Kami-Wächter	Kami-Wächterin
 _1D94BCB599F834A4	tribe_chief	Stammesführer	Stammesanführerin
@@ -1232,10 +1232,10 @@ _EC60E5154A278C72	gn_tryker_herald_event	Tryker-Bote	Tryker-Botin
 _DDE8087B2521589E	gn_zorai_herald_event	Zoraï-Bote	Zoraï-Botin
 _449A3F1FDDF4CC77	gn_kami_herald_event	Kami-Gesandter	Kami-Gesandte
 _479D4D0C6127CB82	gn_karavan_herald_event	Karavan-Gesandter	Karavan-Gesandte
-_2452537FC3260EA8	gn_fyros_representative_event	Fyros-Vertreter	Fyros-Vertreterin
-_E0C2537FC3C6FE92	gn_matis_representative_event	Matis-Vertreter	Matis-Vertreterin
-_186A1EED9895C29B	gn_tryker_representative_event	Tryker-Vertreter	Tryker-Vertreterin
-_A693537F410DD69E	gn_zorai_representative_event	Zoraï-Vertreter	Zoraï-Vertreterin
+_2452537FC3260EA8	gn_fyros_representative_event	Vertreter der Fyros	Vertreterin der Fyros
+_E0C2537FC3C6FE92	gn_matis_representative_event	Vertreter der Matis	Vertreter der Matisin
+_186A1EED9895C29B	gn_tryker_representative_event	Vertreter der Tryker	Vertreter der Trykerin
+_A693537F410DD69E	gn_zorai_representative_event	Vertreter der Zoraï	Vertreterin der Zoraï
 _64D59335DFE45E22	gn_kami_representative_event	Kami-Vertreter	Kami-Vertreterin
 _A873562DD857924E	gn_karavan_representative_event	Karavan-Emissär	Karavan-Emissärin
 _199A62503F5C4BD1	gn_fyros_recruiting_officer_event	Fyros-Rekrutierungsoffizier	Fyros-Rekrutierungsoffizierin
@@ -1365,8 +1365,8 @@ _51A47A5F4B75462B	gn_karavaneer_captain_event	Karavan-Führungskraft	Karavan-Fü
 _186F666EC7CD6834	gn_karavaneer_guard_sanctuary	Tempelwächter	Tempelwächterin
 _0F95B79392D6C657	gn_karavaneer_captain_sanctuary	Tempel-Oberwächter	Tempel-Oberwächter
 _44CE5BCB49FE89D4	gn_karavan_tower	Karavan-Verteidigungsturm	Karavan-Verteidigungsturm
-_5CF4989B257814A1	gn_kami_altar	Kami-Altar	Kami-Altar
-_E398CC7B68C6B7A7	gn_karavan_altar	Karavan-Altar	Karavan-Altar
+_5CF4989B257814A1	gn_kami_altar	Kamialtar	Kamialtar
+_E398CC7B68C6B7A7	gn_karavan_altar	Karavanaltar	Karavanaltar
 _5127D064E4388AAA	gn_kami_hof	Ruhmessäule	Ruhmessäule
 _18D714975A94709C	gn_kami_frise	Wissenswurzel	Wissenswurzel
 _5996D4112E3394A6	gn_karavan_hof	Ruhmessäule	Ruhmessäule
@@ -1554,7 +1554,7 @@ _DE95A6417003F52E	gn_bomber_boss	Mineuranführer	Mineuranführerin
 _15B2C5B50AF01AA3	gn_bomber_random	Mineur	Mineurin
 _E7B870971D68ECAB	gn_bomb_lixie	Bombe	Bombe
 _AAF8AC9725A628A4	gn_mine_lixie	Landmine	Landmine
-_1929DA4173E24D1B	fct_artisan_restaurateur	Wiederherstellungs-Spezialist	Wiederherstellungs-Spezialistin
+_1929DA4173E24D1B	fct_artisan_restaurateur	Wiederherstellungsspezialist	Wiederherstellungsspezialistin
 _EB25B0ACF3A8A0B5	gn_explosion_lixie	Explosion	Explosion
 _58865C5622EA9E8A	gn_peipbae	Peis Zorn	Peis Zorn
 _5779690BA7E9A8A2	fct_ranger_worker	Ranger-Handwerker	Ranger-Handwerkerin
@@ -1799,10 +1799,10 @@ _9521C99DBE21D797	kez0904observer200	Gu-Qin-Beobachter (3)	Gu-Qin-Beobachterin (
 _884F502EF77CE13B	kez0904observer210	Tal der Hoffnung-Beobachter (4)	Tal der Hoffnung-Beobachterin (4)
 _7493CF045859B8A2	kez0904observer250	Verlorenes Tal-Beobachter (5)	Verlorenes Tal-Beobachterin (5)
 _E8007F8774ADE278	kez0904observer260	Kap der Verzweiflung-Beobachter (6)	Kap der Verzweiflung-Beobachterin (6)
-_0240250D47ED1404	fct_dynastic_merchant	Dynastischer Zoraï-Händler	Dynastische Zoraï-Händlerin
-_FFEFE5912232C840	fct_federal_merchant	Föderaler Tryker-Händler	Föderale Tryker-Händlerin
+_0240250D47ED1404	fct_dynastic_merchant	Dynastischer Händler der Zoraï	Dynastische Händlerin der Zoraï
+_FFEFE5912232C840	fct_federal_merchant	Föderaler Händler der Tryker	Föderale Händlerin der Tryker
 _82B01B0EEC07D001	fct_imperial_merchant	Imperialer Fyros-Händler	Imperiale Fyros-Händlerin
-_1CF36CAE23B9BCC5	fct_royal_merchant	Königlicher Matis-Händler	Königliche Matis-Händlerin
+_1CF36CAE23B9BCC5	fct_royal_merchant	Königlicher Matis-Händler	Königliche Händlerin der Matis
 _A5F9146E2CEAF8AC	gn_autel	Altar	Altar
 _A0D75C1A6ACA1CCB	fct_tryker_governor	Gouverneur der Tryker	Gouverneurin der Tryker
 _72F86E8F01BBC5F9	fct_fyros_emperor	Imperator der Fyros	Imperatorin der Fyros
@@ -1840,7 +1840,7 @@ _A7F8AF665F5577AA	Title00065	Papiermacher	Papiermacherin
 _703912893FD2B1F6	fyros_rpjob_herbihunter_title	Fleischermeister	Fleischermeisterin
 _80C0F50BDBD2352A	matis_rpjob_florist_title	Meister der Floristik	Meisterin der Floristik
 _BAC1D91017F3E138	zorai_rpjob_rescuer_title	Meister der Wundheilung	Meisterin der Wundheilung
-_10416A7ECC100D60	zorai_rpjob_magnecarto_title	Meister-Kartograph	Meister-Kartographin
+_10416A7ECC100D60	zorai_rpjob_magnecarto_title	Kartographenmeister	Kartographenmeisterin
 _DC34E23282FA8260	tryker_rpjob_aquamin_title	Meister-Wasserträger	Meister-Wasserträgerin
 _473FADF1413B8116	fyros_rpjob_tooler_title	Werkzeugmacher-Meister	Werkzeugmacher-Meisterin
 _A5E64EA2C8EBDA21	tryker_rpjob_larvicultor_title	Larvisten-Meister	Larvisten-Meisterin
@@ -1897,10 +1897,10 @@ _242A8DFB2F9FD907	gn_boss_zorai_light_dalton_1	Vao Do-Duang	Vao Do-Duang
 _9E4EE13E43CF39CA	gn_boss_zorai_light_dalton_2	Jeoi Do-Duang	Jeoi Do-Duang
 _6E9CED94003081AC	gn_boss_zorai_light_dalton_3	Chaio Do-Duang	Chaio Do-Duang
 _319C84265F3B1DF4	gn_boss_zorai_light_dalton_4	We Do-Duang	We Do-Duang
-_BB5BE2556F8EA5A3	gn_kami_altar_almati	Kami-Altar des Almati-Waldes	Kami-Altar des Almati-Waldes
-_CCCAF6639D638564	gn_karavan_altar_almati	Karavan-Altar des Almati-Waldes	Karavan-Altar des Almati-Waldes
-_20B0F1D427E793A1	gn_kami_altar_nexus	Kami-Altar des Nexus	Kami-Altar des Nexus
-_605D8587427E9DCE	gn_karavan_altar_nexus	Karavan-Altar des Nexus	Karavan-Altar des Nexus
+_BB5BE2556F8EA5A3	gn_kami_altar_almati	Kamialtar des Almati-Waldes	Kamialtar des Almati-Waldes
+_CCCAF6639D638564	gn_karavan_altar_almati	Karavanaltar des Almati-Waldes	Karavanaltar des Almati-Waldes
+_20B0F1D427E793A1	gn_kami_altar_nexus	Kamialtar des Nexus	Kamialtar des Nexus
+_605D8587427E9DCE	gn_karavan_altar_nexus	Karavanaltar des Nexus	Karavanaltar des Nexus
 _6C340CB6625A1CA8	gn_gravats	Geröll	Geröll
 _294880982226786E	gn_room_access	Zugriffsterminal	Zugriffsterminal
 _B1BFD0FB3C756DEC	gn_karavan_altar_silan_ranger_camp	Ranger Lager Karavan Altar	

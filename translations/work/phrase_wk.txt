@@ -5983,6 +5983,11 @@ EGS_CANT_USE_ROOM_INV_IS_TRIAL_PLAYER()
 	[&CHK&You cannot use your room inventory because you are in free trial. You must upgrade your account to be able to do that.]
 }
 
+EGS_CANT_EQUIP_ITEM_IS_TRIAL_PLAYER()
+{
+	[&CHK&You cannot equip this item because you are in free trial. You must upgrade your account to be able to do that.]
+}
+
 EGS_CHANNEL_INVALID_NAME (literal name)
 {
 	[&SYS&Invalid channel name "$name$".]
