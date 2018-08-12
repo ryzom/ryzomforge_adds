@@ -3990,6 +3990,716 @@ _21B66C9CA8859AAF	chvfe4	Madakam Violento	un	el	Madakams Violentos		los
 _60C674969CC693AA	chvfe7	Madakin					
 _C77F25222087B3BA	shooter_mektoub_packer	Embalador Tirador	un	el	Embalador Tirador		los
 _5E5AD4AD6E26773A	choge6	Frippo Corruptor	un	el	Frippos Corruptores		los
+_9F83A8150D369F63	cbarb1	<GEN>cbarb1	r				
+_9F83A8164D36A363	cbarb2	<GEN>cbarb2	r				
+_9F83A8178D36A763	cbarb3	<GEN>cbarb3	r				
+_9F83A818CE36AB63	cbarb4	<GEN>cbarb4	r				
+_9F83A8154D469F64	cbarc1	<GEN>cbarc1	r				
+_9F83A8168D46A364	cbarc2	<GEN>cbarc2	r				
+_9F83A817CD46A764	cbarc3	<GEN>cbarc3	r				
+_9F83A8180E46AB64	cbarc4	<GEN>cbarc4	r				
+_9F83A8158E569F65	cbard1	<GEN>cbard1	r				
+_9F83A816CE56A365	cbard2	<GEN>cbard2	r				
+_9F83A8170E56A765	cbard3	<GEN>cbard3	r				
+_9F83A8184F56AB65	cbard4	<GEN>cbard4	r				
+_9F83A815CE669F66	cbare1	<GEN>cbare1	r				
+_9F83A8160E66A366	cbare2	<GEN>cbare2	r				
+_9F83A8174E66A766	cbare3	<GEN>cbare3	r				
+_9F83A8188F66AB66	cbare4	<GEN>cbare4	r				
+_9F83A8150E769F67	cbarf1	<GEN>cbarf1	r				
+_9F83A8164E76A367	cbarf2	<GEN>cbarf2	r				
+_9F83A8178E76A767	cbarf3	<GEN>cbarf3	r				
+_9F83A818CF76AB67	cbarf4	<GEN>cbarf4	r				
+_9FA3A8158D36A765	cbcrb1	<GEN>cbcrb1	r				
+_9FA3A816CD36AB65	cbcrb2	<GEN>cbcrb2	r				
+_9FA3A8170D36AF65	cbcrb3	<GEN>cbcrb3	r				
+_9FA3A8184E36B365	cbcrb4	<GEN>cbcrb4	r				
+_9FA3A815CD46A766	cbcrc1	<GEN>cbcrc1	r				
+_9FA3A8160D46AB66	cbcrc2	<GEN>cbcrc2	r				
+_9FA3A8174D46AF66	cbcrc3	<GEN>cbcrc3	r				
+_9FA3A8188E46B366	cbcrc4	<GEN>cbcrc4	r				
+_9FA3A8150E56A767	cbcrd1	<GEN>cbcrd1	r				
+_9FA3A8164E56AB67	cbcrd2	<GEN>cbcrd2	r				
+_9FA3A8178E56AF67	cbcrd3	<GEN>cbcrd3	r				
+_9FA3A818CF56B367	cbcrd4	<GEN>cbcrd4	r				
+_9FA3A8154E66A768	cbcre1	<GEN>cbcre1	r				
+_9FA3A8168E66AB68	cbcre2	<GEN>cbcre2	r				
+_9FA3A817CE66AF68	cbcre3	<GEN>cbcre3	r				
+_9FA3A8180F66B368	cbcre4	<GEN>cbcre4	r				
+_9FA3A8158E76A769	cbcrf1	<GEN>cbcrf1	r				
+_9FA3A816CE76AB69	cbcrf2	<GEN>cbcrf2	r				
+_9FA3A8170E76AF69	cbcrf3	<GEN>cbcrf3	r				
+_9FA3A8184F76B369	cbcrf4	<GEN>cbcrf4	r				
+_9D8388150DB57B64	ccaib1	<GEN>ccaib1	i				
+_9D8388164DB57F64	ccaib2	<GEN>ccaib2	i				
+_9D8388178DB58364	ccaib3	<GEN>ccaib3	i				
+_9D838818CEB58764	ccaib4	<GEN>ccaib4	i				
+_9D8388154DC57B65	ccaic1	<GEN>ccaic1	i				
+_9D8388168DC57F65	ccaic2	<GEN>ccaic2	i				
+_9D838817CDC58365	ccaic3	<GEN>ccaic3	i				
+_9D8388180EC58765	ccaic4	<GEN>ccaic4	i				
+_9D8388158ED57B66	ccaid1	<GEN>ccaid1	i				
+_9D838816CED57F66	ccaid2	<GEN>ccaid2	i				
+_9D8388170ED58366	ccaid3	<GEN>ccaid3	i				
+_9D8388184FD58766	ccaid4	<GEN>ccaid4	i				
+_9D838815CEE57B67	ccaie1	<GEN>ccaie1	i				
+_9D8388160EE57F67	ccaie2	<GEN>ccaie2	i				
+_9D8388174EE58367	ccaie3	<GEN>ccaie3	i				
+_9D8388188FE58767	ccaie4	<GEN>ccaie4	i				
+_9D8388150EF57B68	ccaif1	<GEN>ccaif1	i				
+_9D8388164EF57F68	ccaif2	<GEN>ccaif2	i				
+_9D8388178EF58368	ccaif3	<GEN>ccaif3	i				
+_9D838818CFF58768	ccaif4	<GEN>ccaif4	i				
+_DF83AC150D469F64	ccarb1	<GEN>ccarb1	r				
+_DF83AC164D46A364	ccarb2	<GEN>ccarb2	r				
+_DF83AC178D46A764	ccarb3	<GEN>ccarb3	r				
+_DF83AC18CE46AB64	ccarb4	<GEN>ccarb4	r				
+_DF83AC154D569F65	ccarc1	<GEN>ccarc1	r				
+_DF83AC168D56A365	ccarc2	<GEN>ccarc2	r				
+_DF83AC17CD56A765	ccarc3	<GEN>ccarc3	r				
+_DF83AC180E56AB65	ccarc4	<GEN>ccarc4	r				
+_DF83AC158E669F66	ccard1	<GEN>ccard1	r				
+_DF83AC16CE66A366	ccard2	<GEN>ccard2	r				
+_DF83AC170E66A766	ccard3	<GEN>ccard3	r				
+_DF83AC184F66AB66	ccard4	<GEN>ccard4	r				
+_DF83AC15CE769F67	ccare1	<GEN>ccare1	r				
+_DF83AC160E76A367	ccare2	<GEN>ccare2	r				
+_DF83AC174E76A767	ccare3	<GEN>ccare3	r				
+_DF83AC188F76AB67	ccare4	<GEN>ccare4	r				
+_DF83AC150E869F68	ccarf1	<GEN>ccarf1	r				
+_DF83AC164E86A368	ccarf2	<GEN>ccarf2	r				
+_DF83AC178E86A768	ccarf3	<GEN>ccarf3	r				
+_DF83AC18CF86AB68	ccarf4	<GEN>ccarf4	r				
+_DF93AC154D46A365	ccbrb1	<GEN>ccbrb1	r				
+_DF93AC168D46A765	ccbrb2	<GEN>ccbrb2	r				
+_DF93AC17CD46AB65	ccbrb3	<GEN>ccbrb3	r				
+_DF93AC180E46AF65	ccbrb4	<GEN>ccbrb4	r				
+_DF93AC158D56A366	ccbrc1	<GEN>ccbrc1	r				
+_DF93AC16CD56A766	ccbrc2	<GEN>ccbrc2	r				
+_DF93AC170D56AB66	ccbrc3	<GEN>ccbrc3	r				
+_DF93AC184E56AF66	ccbrc4	<GEN>ccbrc4	r				
+_DF93AC15CE66A367	ccbrd1	<GEN>ccbrd1	r				
+_DF93AC160E66A767	ccbrd2	<GEN>ccbrd2	r				
+_DF93AC174E66AB67	ccbrd3	<GEN>ccbrd3	r				
+_DF93AC188F66AF67	ccbrd4	<GEN>ccbrd4	r				
+_DF93AC150E76A368	ccbre1	<GEN>ccbre1	r				
+_DF93AC164E76A768	ccbre2	<GEN>ccbre2	r				
+_DF93AC178E76AB68	ccbre3	<GEN>ccbre3	r				
+_DF93AC18CF76AF68	ccbre4	<GEN>ccbre4	r				
+_DF93AC154E86A369	ccbrf1	<GEN>ccbrf1	r				
+_DF93AC168E86A769	ccbrf2	<GEN>ccbrf2	r				
+_DF93AC17CE86AB69	ccbrf3	<GEN>ccbrf3	r				
+_DF93AC180F86AF69	ccbrf4	<GEN>ccbrf4	r				
+_DFA3AC158D46A766	cccrb1	<GEN>cccrb1	r				
+_DFA3AC16CD46AB66	cccrb2	<GEN>cccrb2	r				
+_DFA3AC170D46AF66	cccrb3	<GEN>cccrb3	r				
+_DFA3AC184E46B366	cccrb4	<GEN>cccrb4	r				
+_DFA3AC15CD56A767	cccrc1	<GEN>cccrc1	r				
+_DFA3AC160D56AB67	cccrc2	<GEN>cccrc2	r				
+_DFA3AC174D56AF67	cccrc3	<GEN>cccrc3	r				
+_DFA3AC188E56B367	cccrc4	<GEN>cccrc4	r				
+_DFA3AC150E66A768	cccrd1	<GEN>cccrd1	r				
+_DFA3AC164E66AB68	cccrd2	<GEN>cccrd2	r				
+_DFA3AC178E66AF68	cccrd3	<GEN>cccrd3	r				
+_DFA3AC18CF66B368	cccrd4	<GEN>cccrd4	r				
+_DFA3AC154E76A769	cccre1	<GEN>cccre1	r				
+_DFA3AC168E76AB69	cccre2	<GEN>cccre2	r				
+_DFA3AC17CE76AF69	cccre3	<GEN>cccre3	r				
+_DFA3AC180F76B369	cccre4	<GEN>cccre4	r				
+_DFA3AC158E86A76A	cccrf1	<GEN>cccrf1	r				
+_DFA3AC16CE86AB6A	cccrf2	<GEN>cccrf2	r				
+_DFA3AC170E86AF6A	cccrf3	<GEN>cccrf3	r				
+_DFA3AC184F86B36A	cccrf4	<GEN>cccrf4	r				
+_DFB3AC15CE46AB67	ccdrb1	<GEN>ccdrb1	r				
+_DFB3AC160E46AF67	ccdrb2	<GEN>ccdrb2	r				
+_DFB3AC174E46B367	ccdrb3	<GEN>ccdrb3	r				
+_DFB3AC188F46B767	ccdrb4	<GEN>ccdrb4	r				
+_DFB3AC150E56AB68	ccdrc1	<GEN>ccdrc1	r				
+_DFB3AC164E56AF68	ccdrc2	<GEN>ccdrc2	r				
+_DFB3AC178E56B368	ccdrc3	<GEN>ccdrc3	r				
+_DFB3AC18CF56B768	ccdrc4	<GEN>ccdrc4	r				
+_DFB3AC154F66AB69	ccdrd1	<GEN>ccdrd1	r				
+_DFB3AC168F66AF69	ccdrd2	<GEN>ccdrd2	r				
+_DFB3AC17CF66B369	ccdrd3	<GEN>ccdrd3	r				
+_DFB3AC181066B769	ccdrd4	<GEN>ccdrd4	r				
+_DFB3AC158F76AB6A	ccdre1	<GEN>ccdre1	r				
+_DFB3AC16CF76AF6A	ccdre2	<GEN>ccdre2	r				
+_DFB3AC170F76B36A	ccdre3	<GEN>ccdre3	r				
+_DFB3AC185076B76A	ccdre4	<GEN>ccdre4	r				
+_DFB3AC15CF86AB6B	ccdrf1	<GEN>ccdrf1	r				
+_DFB3AC160F86AF6B	ccdrf2	<GEN>ccdrf2	r				
+_DFB3AC174F86B36B	ccdrf3	<GEN>ccdrf3	r				
+_DFB3AC189086B76B	ccdrf4	<GEN>ccdrf4	r				
+_DFC3AC150E46AF68	ccerb1	<GEN>ccerb1	r				
+_DFC3AC164E46B368	ccerb2	<GEN>ccerb2	r				
+_DFC3AC178E46B768	ccerb3	<GEN>ccerb3	r				
+_DFC3AC18CF46BB68	ccerb4	<GEN>ccerb4	r				
+_DFC3AC154E56AF69	ccerc1	<GEN>ccerc1	r				
+_DFC3AC168E56B369	ccerc2	<GEN>ccerc2	r				
+_DFC3AC17CE56B769	ccerc3	<GEN>ccerc3	r				
+_DFC3AC180F56BB69	ccerc4	<GEN>ccerc4	r				
+_DFC3AC158F66AF6A	ccerd1	<GEN>ccerd1	r				
+_DFC3AC16CF66B36A	ccerd2	<GEN>ccerd2	r				
+_DFC3AC170F66B76A	ccerd3	<GEN>ccerd3	r				
+_DFC3AC185066BB6A	ccerd4	<GEN>ccerd4	r				
+_DFC3AC15CF76AF6B	ccere1	<GEN>ccere1	r				
+_DFC3AC160F76B36B	ccere2	<GEN>ccere2	r				
+_DFC3AC174F76B76B	ccere3	<GEN>ccere3	r				
+_DFC3AC189076BB6B	ccere4	<GEN>ccere4	r				
+_DFC3AC150F86AF6C	ccerf1	<GEN>ccerf1	r				
+_DFC3AC164F86B36C	ccerf2	<GEN>ccerf2	r				
+_DFC3AC178F86B76C	ccerf3	<GEN>ccerf3	r				
+_DFC3AC18D086BB6C	ccerf4	<GEN>ccerf4	r				
+_DFD3AC154E46B369	ccfrb1	<GEN>ccfrb1	r				
+_DFD3AC168E46B769	ccfrb2	<GEN>ccfrb2	r				
+_DFD3AC17CE46BB69	ccfrb3	<GEN>ccfrb3	r				
+_DFD3AC180F46BF69	ccfrb4	<GEN>ccfrb4	r				
+_DFD3AC158E56B36A	ccfrc1	<GEN>ccfrc1	r				
+_DFD3AC16CE56B76A	ccfrc2	<GEN>ccfrc2	r				
+_DFD3AC170E56BB6A	ccfrc3	<GEN>ccfrc3	r				
+_DFD3AC184F56BF6A	ccfrc4	<GEN>ccfrc4	r				
+_DFD3AC15CF66B36B	ccfrd1	<GEN>ccfrd1	r				
+_DFD3AC160F66B76B	ccfrd2	<GEN>ccfrd2	r				
+_DFD3AC174F66BB6B	ccfrd3	<GEN>ccfrd3	r				
+_DFD3AC189066BF6B	ccfrd4	<GEN>ccfrd4	r				
+_DFD3AC150F76B36C	ccfre1	<GEN>ccfre1	r				
+_DFD3AC164F76B76C	ccfre2	<GEN>ccfre2	r				
+_DFD3AC178F76BB6C	ccfre3	<GEN>ccfre3	r				
+_DFD3AC18D076BF6C	ccfre4	<GEN>ccfre4	r				
+_DFD3AC154F86B36D	ccfrf1	<GEN>ccfrf1	r				
+_DFD3AC168F86B76D	ccfrf2	<GEN>ccfrf2	r				
+_DFD3AC17CF86BB6D	ccfrf3	<GEN>ccfrf3	r				
+_DFD3AC181086BF6D	ccfrf4	<GEN>ccfrf4	r				
+_DFE3AC158F86B76E	ccgrf1	<GEN>ccgrf1	r				
+_DFE3AC16CF86BB6E	ccgrf2	<GEN>ccgrf2	r				
+_DFE3AC170F86BF6E	ccgrf3	<GEN>ccgrf3	r				
+_DFE3AC185086C36E	ccgrf4	<GEN>ccgrf4	r				
+_DFF3AC15CF46BB6B	cchrb1	<GEN>cchrb1	r				
+_DFF3AC160F46BF6B	cchrb2	<GEN>cchrb2	r				
+_DFF3AC174F46C36B	cchrb3	<GEN>cchrb3	r				
+_DFF3AC189046C76B	cchrb4	<GEN>cchrb4	r				
+_DFF3AC150F56BB6C	cchrc1	<GEN>cchrc1	r				
+_DFF3AC164F56BF6C	cchrc2	<GEN>cchrc2	r				
+_DFF3AC178F56C36C	cchrc3	<GEN>cchrc3	r				
+_DFF3AC18D056C76C	cchrc4	<GEN>cchrc4	r				
+_DFF3AC155066BB6D	cchrd1	<GEN>cchrd1	r				
+_DFF3AC169066BF6D	cchrd2	<GEN>cchrd2	r				
+_DFF3AC17D066C36D	cchrd3	<GEN>cchrd3	r				
+_DFF3AC181166C76D	cchrd4	<GEN>cchrd4	r				
+_DFF3AC159076BB6E	cchre1	<GEN>cchre1	r				
+_DFF3AC16D076BF6E	cchre2	<GEN>cchre2	r				
+_DFF3AC171076C36E	cchre3	<GEN>cchre3	r				
+_DFF3AC185176C76E	cchre4	<GEN>cchre4	r				
+_DFF3AC15D086BB6F	cchrf1	<GEN>cchrf1	r				
+_DFF3AC161086BF6F	cchrf2	<GEN>cchrf2	r				
+_DFF3AC175086C36F	cchrf3	<GEN>cchrf3	r				
+_DFF3AC189186C76F	cchrf4	<GEN>cchrf4	r				
+_DF43AC151046CF70	ccmrb1	<GEN>ccmrb1	r				
+_DF43AC165046D370	ccmrb2	<GEN>ccmrb2	r				
+_DF43AC179046D770	ccmrb3	<GEN>ccmrb3	r				
+_DF43AC18D146DB70	ccmrb4	<GEN>ccmrb4	r				
+_DF43AC155056CF71	ccmrc1	<GEN>ccmrc1	r				
+_DF43AC169056D371	ccmrc2	<GEN>ccmrc2	r				
+_DF43AC17D056D771	ccmrc3	<GEN>ccmrc3	r				
+_DF43AC181156DB71	ccmrc4	<GEN>ccmrc4	r				
+_DF43AC159166CF72	ccmrd1	<GEN>ccmrd1	r				
+_DF43AC16D166D372	ccmrd2	<GEN>ccmrd2	r				
+_DF43AC171166D772	ccmrd3	<GEN>ccmrd3	r				
+_DF43AC185266DB72	ccmrd4	<GEN>ccmrd4	r				
+_DF43AC15D176CF73	ccmre1	<GEN>ccmre1	r				
+_DF43AC161176D373	ccmre2	<GEN>ccmre2	r				
+_DF43AC175176D773	ccmre3	<GEN>ccmre3	r				
+_DF43AC189276DB73	ccmre4	<GEN>ccmre4	r				
+_DF43AC151186CF74	ccmrf1	<GEN>ccmrf1	r				
+_DF43AC165186D374	ccmrf2	<GEN>ccmrf2	r				
+_DF43AC179186D774	ccmrf3	<GEN>ccmrf3	r				
+_DF43AC18D286DB74	ccmrf4	<GEN>ccmrf4	r				
+_9D53881550B5AF71	ccnib1	<GEN>ccnib1	i				
+_9D53881690B5B371	ccnib2	<GEN>ccnib2	i				
+_9D538817D0B5B771	ccnib3	<GEN>ccnib3	i				
+_9D53881811B5BB71	ccnib4	<GEN>ccnib4	i				
+_9D53881590C5AF72	ccnic1	<GEN>ccnic1	i				
+_9D538816D0C5B372	ccnic2	<GEN>ccnic2	i				
+_9D53881710C5B772	ccnic3	<GEN>ccnic3	i				
+_9D53881851C5BB72	ccnic4	<GEN>ccnic4	i				
+_9D538815D1D5AF73	ccnid1	<GEN>ccnid1	i				
+_9D53881611D5B373	ccnid2	<GEN>ccnid2	i				
+_9D53881751D5B773	ccnid3	<GEN>ccnid3	i				
+_9D53881892D5BB73	ccnid4	<GEN>ccnid4	i				
+_9D53881511E5AF74	ccnie1	<GEN>ccnie1	i				
+_9D53881651E5B374	ccnie2	<GEN>ccnie2	i				
+_9D53881791E5B774	ccnie3	<GEN>ccnie3	i				
+_9D538818D2E5BB74	ccnie4	<GEN>ccnie4	i				
+_9D53881551F5AF75	ccnif1	<GEN>ccnif1	i				
+_9D53881691F5B375	ccnif2	<GEN>ccnif2	i				
+_9D538817D1F5B775	ccnif3	<GEN>ccnif3	i				
+_9D53881812F5BB75	ccnif4	<GEN>ccnif4	i				
+_2083B0150D569F65	cdarb1	<GEN>cdarb1	r				
+_2083B0164D56A365	cdarb2	<GEN>cdarb2	r				
+_2083B0178D56A765	cdarb3	<GEN>cdarb3	r				
+_2083B018CE56AB65	cdarb4	<GEN>cdarb4	r				
+_2083B0154D669F66	cdarc1	<GEN>cdarc1	r				
+_2083B0168D66A366	cdarc2	<GEN>cdarc2	r				
+_2083B017CD66A766	cdarc3	<GEN>cdarc3	r				
+_2083B0180E66AB66	cdarc4	<GEN>cdarc4	r				
+_2083B0158E769F67	cdard1	<GEN>cdard1	r				
+_2083B016CE76A367	cdard2	<GEN>cdard2	r				
+_2083B0170E76A767	cdard3	<GEN>cdard3	r				
+_2083B0184F76AB67	cdard4	<GEN>cdard4	r				
+_2083B015CE869F68	cdare1	<GEN>cdare1	r				
+_2083B0160E86A368	cdare2	<GEN>cdare2	r				
+_2083B0174E86A768	cdare3	<GEN>cdare3	r				
+_2083B0188F86AB68	cdare4	<GEN>cdare4	r				
+_2083B0150E969F69	cdarf1	<GEN>cdarf1	r				
+_2083B0164E96A369	cdarf2	<GEN>cdarf2	r				
+_2083B0178E96A769	cdarf3	<GEN>cdarf3	r				
+_2083B018CF96AB69	cdarf4	<GEN>cdarf4	r				
+_2093B0154D56A366	cdbrb1	<GEN>cdbrb1	r				
+_2093B0168D56A766	cdbrb2	<GEN>cdbrb2	r				
+_2093B017CD56AB66	cdbrb3	<GEN>cdbrb3	r				
+_2093B0180E56AF66	cdbrb4	<GEN>cdbrb4	r				
+_2093B0158D66A367	cdbrc1	<GEN>cdbrc1	r				
+_2093B016CD66A767	cdbrc2	<GEN>cdbrc2	r				
+_2093B0170D66AB67	cdbrc3	<GEN>cdbrc3	r				
+_2093B0184E66AF67	cdbrc4	<GEN>cdbrc4	r				
+_2093B015CE76A368	cdbrd1	<GEN>cdbrd1	r				
+_2093B0160E76A768	cdbrd2	<GEN>cdbrd2	r				
+_2093B0174E76AB68	cdbrd3	<GEN>cdbrd3	r				
+_2093B0188F76AF68	cdbrd4	<GEN>cdbrd4	r				
+_2093B0150E86A369	cdbre1	<GEN>cdbre1	r				
+_2093B0164E86A769	cdbre2	<GEN>cdbre2	r				
+_2093B0178E86AB69	cdbre3	<GEN>cdbre3	r				
+_2093B018CF86AF69	cdbre4	<GEN>cdbre4	r				
+_2093B0154E96A36A	cdbrf1	<GEN>cdbrf1	r				
+_2093B0168E96A76A	cdbrf2	<GEN>cdbrf2	r				
+_2093B017CE96AB6A	cdbrf3	<GEN>cdbrf3	r				
+_2093B0180F96AF6A	cdbrf4	<GEN>cdbrf4	r				
+_20A3B0158D56A767	cdcrb1	<GEN>cdcrb1	r				
+_20A3B016CD56AB67	cdcrb2	<GEN>cdcrb2	r				
+_20A3B0170D56AF67	cdcrb3	<GEN>cdcrb3	r				
+_20A3B0184E56B367	cdcrb4	<GEN>cdcrb4	r				
+_20A3B015CD66A768	cdcrc1	<GEN>cdcrc1	r				
+_20A3B0160D66AB68	cdcrc2	<GEN>cdcrc2	r				
+_20A3B0174D66AF68	cdcrc3	<GEN>cdcrc3	r				
+_20A3B0188E66B368	cdcrc4	<GEN>cdcrc4	r				
+_20A3B0150E76A769	cdcrd1	<GEN>cdcrd1	r				
+_20A3B0164E76AB69	cdcrd2	<GEN>cdcrd2	r				
+_20A3B0178E76AF69	cdcrd3	<GEN>cdcrd3	r				
+_20A3B018CF76B369	cdcrd4	<GEN>cdcrd4	r				
+_20A3B0154E86A76A	cdcre1	<GEN>cdcre1	r				
+_20A3B0168E86AB6A	cdcre2	<GEN>cdcre2	r				
+_20A3B017CE86AF6A	cdcre3	<GEN>cdcre3	r				
+_20A3B0180F86B36A	cdcre4	<GEN>cdcre4	r				
+_20A3B0158E96A76B	cdcrf1	<GEN>cdcrf1	r				
+_20A3B016CE96AB6B	cdcrf2	<GEN>cdcrf2	r				
+_20A3B0170E96AF6B	cdcrf3	<GEN>cdcrf3	r				
+_20A3B0184F96B36B	cdcrf4	<GEN>cdcrf4	r				
+_DFB39C15CE05876C	chdib1	<GEN>chdib1	i				
+_DFB39C160E058B6C	chdib2	<GEN>chdib2	i				
+_DFB39C174E058F6C	chdib3	<GEN>chdib3	i				
+_DFB39C188F05936C	chdib4	<GEN>chdib4	i				
+_DFB39C1B4F059F6C	chdib7	<GEN>chdib7	i				
+_21C3C0150E96AF6D	cherb1	<GEN>cherb1	r				
+_21C3C0164E96B36D	cherb2	<GEN>cherb2	r				
+_21C3C0178E96B76D	cherb3	<GEN>cherb3	r				
+_21C3C018CF96BB6D	cherb4	<GEN>cherb4	r				
+_21C3C0154EA6AF6E	cherc1	<GEN>cherc1	r				
+_21C3C0168EA6B36E	cherc2	<GEN>cherc2	r				
+_21C3C017CEA6B76E	cherc3	<GEN>cherc3	r				
+_21C3C0180FA6BB6E	cherc4	<GEN>cherc4	r				
+_21C3C01A8FA6C36E	cherc6	<GEN>cherc6	r				
+_21C3C0158FB6AF6F	cherd1	<GEN>cherd1	r				
+_21C3C016CFB6B36F	cherd2	<GEN>cherd2	r				
+_21C3C0170FB6B76F	cherd3	<GEN>cherd3	r				
+_21C3C01850B6BB6F	cherd4	<GEN>cherd4	r				
+_21C3C015CFC6AF70	chere1	<GEN>chere1	r				
+_21C3C0160FC6B370	chere2	<GEN>chere2	r				
+_21C3C0174FC6B770	chere3	<GEN>chere3	r				
+_21C3C01890C6BB70	chere4	<GEN>chere4	r				
+_21C3C0150FD6AF71	cherf1	<GEN>cherf1	r				
+_21C3C0164FD6B371	cherf2	<GEN>cherf2	r				
+_21C3C0178FD6B771	cherf3	<GEN>cherf3	r				
+_21C3C018D0D6BB71	cherf4	<GEN>cherf4	r				
+_21D3C0154E96B36E	chfrb1	<GEN>chfrb1	r				
+_21D3C0168E96B76E	chfrb2	<GEN>chfrb2	r				
+_21D3C017CE96BB6E	chfrb3	<GEN>chfrb3	r				
+_21D3C0180F96BF6E	chfrb4	<GEN>chfrb4	r				
+_21D3C0158EA6B36F	chfrc1	<GEN>chfrc1	r				
+_21D3C016CEA6B76F	chfrc2	<GEN>chfrc2	r				
+_21D3C0170EA6BB6F	chfrc3	<GEN>chfrc3	r				
+_21D3C0184FA6BF6F	chfrc4	<GEN>chfrc4	r				
+_21D3C015CFB6B370	chfrd1	<GEN>chfrd1	r				
+_21D3C0160FB6B770	chfrd2	<GEN>chfrd2	r				
+_21D3C0174FB6BB70	chfrd3	<GEN>chfrd3	r				
+_21D3C01890B6BF70	chfrd4	<GEN>chfrd4	r				
+_21D3C0150FC6B371	chfre1	<GEN>chfre1	r				
+_21D3C0164FC6B771	chfre2	<GEN>chfre2	r				
+_21D3C0178FC6BB71	chfre3	<GEN>chfre3	r				
+_21D3C018D0C6BF71	chfre4	<GEN>chfre4	r				
+_21D3C0154FD6B372	chfrf1	<GEN>chfrf1	r				
+_21D3C0168FD6B772	chfrf2	<GEN>chfrf2	r				
+_21D3C017CFD6BB72	chfrf3	<GEN>chfrf3	r				
+_21D3C01810D6BF72	chfrf4	<GEN>chfrf4	r				
+_21E3C0158E96B76F	chgrb1	<GEN>chgrb1	r				
+_21E3C016CE96BB6F	chgrb2	<GEN>chgrb2	r				
+_21E3C0170E96BF6F	chgrb3	<GEN>chgrb3	r				
+_21E3C0184F96C36F	chgrb4	<GEN>chgrb4	r				
+_21E3C015CEA6B770	chgrc1	<GEN>chgrc1	r				
+_21E3C0160EA6BB70	chgrc2	<GEN>chgrc2	r				
+_21E3C0174EA6BF70	chgrc3	<GEN>chgrc3	r				
+_21E3C0188FA6C370	chgrc4	<GEN>chgrc4	r				
+_21E3C0150FB6B771	chgrd1	<GEN>chgrd1	r				
+_21E3C0164FB6BB71	chgrd2	<GEN>chgrd2	r				
+_21E3C0178FB6BF71	chgrd3	<GEN>chgrd3	r				
+_21E3C018D0B6C371	chgrd4	<GEN>chgrd4	r				
+_21E3C0154FC6B772	chgre1	<GEN>chgre1	r				
+_21E3C0168FC6BB72	chgre2	<GEN>chgre2	r				
+_21E3C017CFC6BF72	chgre3	<GEN>chgre3	r				
+_21E3C01810C6C372	chgre4	<GEN>chgre4	r				
+_21E3C0158FD6B773	chgrf1	<GEN>chgrf1	r				
+_21E3C016CFD6BB73	chgrf2	<GEN>chgrf2	r				
+_21E3C0170FD6BF73	chgrf3	<GEN>chgrf3	r				
+_21E3C01850D6C373	chgrf4	<GEN>chgrf4	r				
+_2123C0158F96C773	chkrb1	<GEN>chkrb1	r				
+_2123C016CF96CB73	chkrb2	<GEN>chkrb2	r				
+_2123C0170F96CF73	chkrb3	<GEN>chkrb3	r				
+_2123C0185096D373	chkrb4	<GEN>chkrb4	r				
+_2123C015CFA6C774	chkrc1	<GEN>chkrc1	r				
+_2123C0160FA6CB74	chkrc2	<GEN>chkrc2	r				
+_2123C0174FA6CF74	chkrc3	<GEN>chkrc3	r				
+_2123C01890A6D374	chkrc4	<GEN>chkrc4	r				
+_2123C01510B6C775	chkrd1	<GEN>chkrd1	r				
+_2123C01650B6CB75	chkrd2	<GEN>chkrd2	r				
+_2123C01790B6CF75	chkrd3	<GEN>chkrd3	r				
+_2123C018D1B6D375	chkrd4	<GEN>chkrd4	r				
+_2123C01550C6C776	chkre1	<GEN>chkre1	r				
+_2123C01690C6CB76	chkre2	<GEN>chkre2	r				
+_2123C017D0C6CF76	chkre3	<GEN>chkre3	r				
+_2123C01811C6D376	chkre4	<GEN>chkre4	r				
+_2123C01590D6C777	chkrf1	<GEN>chkrf1	r				
+_2123C016D0D6CB77	chkrf2	<GEN>chkrf2	r				
+_2123C01710D6CF77	chkrf3	<GEN>chkrf3	r				
+_2123C01851D6D377	chkrf4	<GEN>chkrf4	r				
+_2133C015D096CB74	chlrb1	<GEN>chlrb1	r				
+_2133C0161096CF74	chlrb2	<GEN>chlrb2	r				
+_2133C0175096D374	chlrb3	<GEN>chlrb3	r				
+_2133C0189196D774	chlrb4	<GEN>chlrb4	r				
+_2133C01510A6CB75	chlrc1	<GEN>chlrc1	r				
+_2133C01650A6CF75	chlrc2	<GEN>chlrc2	r				
+_2133C01790A6D375	chlrc3	<GEN>chlrc3	r				
+_2133C018D1A6D775	chlrc4	<GEN>chlrc4	r				
+_2133C01551B6CB76	chlrd1	<GEN>chlrd1	r				
+_2133C01691B6CF76	chlrd2	<GEN>chlrd2	r				
+_2133C017D1B6D376	chlrd3	<GEN>chlrd3	r				
+_2133C01812B6D776	chlrd4	<GEN>chlrd4	r				
+_2133C01591C6CB77	chlre1	<GEN>chlre1	r				
+_2133C016D1C6CF77	chlre2	<GEN>chlre2	r				
+_2133C01711C6D377	chlre3	<GEN>chlre3	r				
+_2133C01852C6D777	chlre4	<GEN>chlre4	r				
+_2133C015D1D6CB78	chlrf1	<GEN>chlrf1	r				
+_2133C01611D6CF78	chlrf2	<GEN>chlrf2	r				
+_2133C01751D6D378	chlrf3	<GEN>chlrf3	r				
+_2133C01892D6D778	chlrf4	<GEN>chlrf4	r				
+_2163C0159096D777	chorb1	<GEN>chorb1	r				
+_2163C016D096DB77	chorb2	<GEN>chorb2	r				
+_2163C0171096DF77	chorb3	<GEN>chorb3	r				
+_2163C0185196E377	chorb4	<GEN>chorb4	r				
+_2163C015D0A6D778	chorc1	<GEN>chorc1	r				
+_2163C01610A6DB78	chorc2	<GEN>chorc2	r				
+_2163C01750A6DF78	chorc3	<GEN>chorc3	r				
+_2163C01891A6E378	chorc4	<GEN>chorc4	r				
+_2163C01511B6D779	chord1	<GEN>chord1	r				
+_2163C01651B6DB79	chord2	<GEN>chord2	r				
+_2163C01791B6DF79	chord3	<GEN>chord3	r				
+_2163C018D2B6E379	chord4	<GEN>chord4	r				
+_2163C01551C6D77A	chore1	<GEN>chore1	r				
+_2163C01691C6DB7A	chore2	<GEN>chore2	r				
+_2163C017D1C6DF7A	chore3	<GEN>chore3	r				
+_2163C01812C6E37A	chore4	<GEN>chore4	r				
+_2163C01591D6D77B	chorf1	<GEN>chorf1	r				
+_2163C016D1D6DB7B	chorf2	<GEN>chorf2	r				
+_2163C01711D6DF7B	chorf3	<GEN>chorf3	r				
+_2163C01852D6E37B	chorf4	<GEN>chorf4	r				
+_E183CC150DC69F6C	ckarb1	<GEN>ckarb1	r				
+_E183CC164DC6A36C	ckarb2	<GEN>ckarb2	r				
+_E183CC178DC6A76C	ckarb3	<GEN>ckarb3	r				
+_E183CC18CEC6AB6C	ckarb4	<GEN>ckarb4	r				
+_E183CC154DD69F6D	ckarc1	<GEN>ckarc1	r				
+_E183CC168DD6A36D	ckarc2	<GEN>ckarc2	r				
+_E183CC17CDD6A76D	ckarc3	<GEN>ckarc3	r				
+_E183CC180ED6AB6D	ckarc4	<GEN>ckarc4	r				
+_E183CC158EE69F6E	ckard1	<GEN>ckard1	r				
+_E183CC16CEE6A36E	ckard2	<GEN>ckard2	r				
+_E183CC170EE6A76E	ckard3	<GEN>ckard3	r				
+_E183CC184FE6AB6E	ckard4	<GEN>ckard4	r				
+_E183CC15CEF69F6F	ckare1	<GEN>ckare1	r				
+_E183CC160EF6A36F	ckare2	<GEN>ckare2	r				
+_E183CC174EF6A76F	ckare3	<GEN>ckare3	r				
+_E183CC188FF6AB6F	ckare4	<GEN>ckare4	r				
+_E183CC150E069F70	ckarf1	<GEN>ckarf1	r				
+_E183CC164E06A370	ckarf2	<GEN>ckarf2	r				
+_E183CC178E06A770	ckarf3	<GEN>ckarf3	r				
+_E183CC18CF06AB70	ckarf4	<GEN>ckarf4	r				
+_E193CC154DC6A36D	ckbrb1	<GEN>ckbrb1	r				
+_E193CC168DC6A76D	ckbrb2	<GEN>ckbrb2	r				
+_E193CC17CDC6AB6D	ckbrb3	<GEN>ckbrb3	r				
+_E193CC180EC6AF6D	ckbrb4	<GEN>ckbrb4	r				
+_E193CC158DD6A36E	ckbrc1	<GEN>ckbrc1	r				
+_E193CC16CDD6A76E	ckbrc2	<GEN>ckbrc2	r				
+_E193CC170DD6AB6E	ckbrc3	<GEN>ckbrc3	r				
+_E193CC184ED6AF6E	ckbrc4	<GEN>ckbrc4	r				
+_E193CC15CEE6A36F	ckbrd1	<GEN>ckbrd1	r				
+_E193CC160EE6A76F	ckbrd2	<GEN>ckbrd2	r				
+_E193CC174EE6AB6F	ckbrd3	<GEN>ckbrd3	r				
+_E193CC188FE6AF6F	ckbrd4	<GEN>ckbrd4	r				
+_E193CC150EF6A370	ckbre1	<GEN>ckbre1	r				
+_E193CC164EF6A770	ckbre2	<GEN>ckbre2	r				
+_E193CC178EF6AB70	ckbre3	<GEN>ckbre3	r				
+_E193CC18CFF6AF70	ckbre4	<GEN>ckbre4	r				
+_E193CC154E06A371	ckbrf1	<GEN>ckbrf1	r				
+_E193CC168E06A771	ckbrf2	<GEN>ckbrf2	r				
+_E193CC17CE06AB71	ckbrf3	<GEN>ckbrf3	r				
+_E193CC180F06AF71	ckbrf4	<GEN>ckbrf4	r				
+_E1A3CC158DC6A76E	ckcrb1	<GEN>ckcrb1	r				
+_E1A3CC16CDC6AB6E	ckcrb2	<GEN>ckcrb2	r				
+_E1A3CC170DC6AF6E	ckcrb3	<GEN>ckcrb3	r				
+_E1A3CC184EC6B36E	ckcrb4	<GEN>ckcrb4	r				
+_E1A3CC15CDD6A76F	ckcrc1	<GEN>ckcrc1	r				
+_E1A3CC160DD6AB6F	ckcrc2	<GEN>ckcrc2	r				
+_E1A3CC174DD6AF6F	ckcrc3	<GEN>ckcrc3	r				
+_E1A3CC188ED6B36F	ckcrc4	<GEN>ckcrc4	r				
+_E1A3CC150EE6A770	ckcrd1	<GEN>ckcrd1	r				
+_E1A3CC164EE6AB70	ckcrd2	<GEN>ckcrd2	r				
+_E1A3CC178EE6AF70	ckcrd3	<GEN>ckcrd3	r				
+_E1A3CC18CFE6B370	ckcrd4	<GEN>ckcrd4	r				
+_E1A3CC154EF6A771	ckcre1	<GEN>ckcre1	r				
+_E1A3CC168EF6AB71	ckcre2	<GEN>ckcre2	r				
+_E1A3CC17CEF6AF71	ckcre3	<GEN>ckcre3	r				
+_E1A3CC180FF6B371	ckcre4	<GEN>ckcre4	r				
+_E1A3CC158E06A772	ckcrf1	<GEN>ckcrf1	r				
+_E1A3CC16CE06AB72	ckcrf2	<GEN>ckcrf2	r				
+_E1A3CC170E06AF72	ckcrf3	<GEN>ckcrf3	r				
+_E1A3CC184F06B372	ckcrf4	<GEN>ckcrf4	r				
+_E1B3CC15CEC6AB6F	ckdrb1	<GEN>ckdrb1	r				
+_E1B3CC160EC6AF6F	ckdrb2	<GEN>ckdrb2	r				
+_E1B3CC174EC6B36F	ckdrb3	<GEN>ckdrb3	r				
+_E1B3CC188FC6B76F	ckdrb4	<GEN>ckdrb4	r				
+_E1B3CC150ED6AB70	ckdrc1	<GEN>ckdrc1	r				
+_E1B3CC164ED6AF70	ckdrc2	<GEN>ckdrc2	r				
+_E1B3CC178ED6B370	ckdrc3	<GEN>ckdrc3	r				
+_E1B3CC18CFD6B770	ckdrc4	<GEN>ckdrc4	r				
+_E1B3CC154FE6AB71	ckdrd1	<GEN>ckdrd1	r				
+_E1B3CC168FE6AF71	ckdrd2	<GEN>ckdrd2	r				
+_E1B3CC17CFE6B371	ckdrd3	<GEN>ckdrd3	r				
+_E1B3CC1810E6B771	ckdrd4	<GEN>ckdrd4	r				
+_E1B3CC158FF6AB72	ckdre1	<GEN>ckdre1	r				
+_E1B3CC16CFF6AF72	ckdre2	<GEN>ckdre2	r				
+_E1B3CC170FF6B372	ckdre3	<GEN>ckdre3	r				
+_E1B3CC1850F6B772	ckdre4	<GEN>ckdre4	r				
+_E1B3CC15CF06AB73	ckdrf1	<GEN>ckdrf1	r				
+_E1B3CC160F06AF73	ckdrf2	<GEN>ckdrf2	r				
+_E1B3CC174F06B373	ckdrf3	<GEN>ckdrf3	r				
+_E1B3CC189006B773	ckdrf4	<GEN>ckdrf4	r				
+_E1C3CC150EC6AF70	ckerb1	<GEN>ckerb1	r				
+_E1C3CC164EC6B370	ckerb2	<GEN>ckerb2	r				
+_E1C3CC178EC6B770	ckerb3	<GEN>ckerb3	r				
+_E1C3CC18CFC6BB70	ckerb4	<GEN>ckerb4	r				
+_E1C3CC154ED6AF71	ckerc1	<GEN>ckerc1	r				
+_E1C3CC168ED6B371	ckerc2	<GEN>ckerc2	r				
+_E1C3CC17CED6B771	ckerc3	<GEN>ckerc3	r				
+_E1C3CC180FD6BB71	ckerc4	<GEN>ckerc4	r				
+_E1C3CC158FE6AF72	ckerd1	<GEN>ckerd1	r				
+_E1C3CC16CFE6B372	ckerd2	<GEN>ckerd2	r				
+_E1C3CC170FE6B772	ckerd3	<GEN>ckerd3	r				
+_E1C3CC1850E6BB72	ckerd4	<GEN>ckerd4	r				
+_E1C3CC15CFF6AF73	ckere1	<GEN>ckere1	r				
+_E1C3CC160FF6B373	ckere2	<GEN>ckere2	r				
+_E1C3CC174FF6B773	ckere3	<GEN>ckere3	r				
+_E1C3CC1890F6BB73	ckere4	<GEN>ckere4	r				
+_E1C3CC150F06AF74	ckerf1	<GEN>ckerf1	r				
+_E1C3CC164F06B374	ckerf2	<GEN>ckerf2	r				
+_E1C3CC178F06B774	ckerf3	<GEN>ckerf3	r				
+_E1C3CC18D006BB74	ckerf4	<GEN>ckerf4	r				
+_E1E3CC158EC6B772	ckgrb1	<GEN>ckgrb1	r				
+_E1E3CC16CEC6BB72	ckgrb2	<GEN>ckgrb2	r				
+_E1E3CC170EC6BF72	ckgrb3	<GEN>ckgrb3	r				
+_E1E3CC184FC6C372	ckgrb4	<GEN>ckgrb4	r				
+_E1E3CC15CED6B773	ckgrc1	<GEN>ckgrc1	r				
+_E1E3CC160ED6BB73	ckgrc2	<GEN>ckgrc2	r				
+_E1E3CC174ED6BF73	ckgrc3	<GEN>ckgrc3	r				
+_E1E3CC188FD6C373	ckgrc4	<GEN>ckgrc4	r				
+_E1E3CC150FE6B774	ckgrd1	<GEN>ckgrd1	r				
+_E1E3CC164FE6BB74	ckgrd2	<GEN>ckgrd2	r				
+_E1E3CC178FE6BF74	ckgrd3	<GEN>ckgrd3	r				
+_E1E3CC18D0E6C374	ckgrd4	<GEN>ckgrd4	r				
+_E1E3CC154FF6B775	ckgre1	<GEN>ckgre1	r				
+_E1E3CC168FF6BB75	ckgre2	<GEN>ckgre2	r				
+_E1E3CC17CFF6BF75	ckgre3	<GEN>ckgre3	r				
+_E1E3CC1810F6C375	ckgre4	<GEN>ckgre4	r				
+_E1E3CC158F06B776	ckgrf1	<GEN>ckgrf1	r				
+_E1E3CC16CF06BB76	ckgrf2	<GEN>ckgrf2	r				
+_E1E3CC170F06BF76	ckgrf3	<GEN>ckgrf3	r				
+_E1E3CC185006C376	ckgrf4	<GEN>ckgrf4	r				
+_E103CC150FC6BF74	ckirb1	<GEN>ckirb1	r				
+_E103CC164FC6C374	ckirb2	<GEN>ckirb2	r				
+_E103CC178FC6C774	ckirb3	<GEN>ckirb3	r				
+_E103CC18D0C6CB74	ckirb4	<GEN>ckirb4	r				
+_E103CC154FD6BF75	ckirc1	<GEN>ckirc1	r				
+_E103CC168FD6C375	ckirc2	<GEN>ckirc2	r				
+_E103CC17CFD6C775	ckirc3	<GEN>ckirc3	r				
+_E103CC1810D6CB75	ckirc4	<GEN>ckirc4	r				
+_E103CC1590E6BF76	ckird1	<GEN>ckird1	r				
+_E103CC16D0E6C376	ckird2	<GEN>ckird2	r				
+_E103CC1710E6C776	ckird3	<GEN>ckird3	r				
+_E103CC1851E6CB76	ckird4	<GEN>ckird4	r				
+_E103CC15D0F6BF77	ckire1	<GEN>ckire1	r				
+_E103CC1610F6C377	ckire2	<GEN>ckire2	r				
+_E103CC1750F6C777	ckire3	<GEN>ckire3	r				
+_E103CC1891F6CB77	ckire4	<GEN>ckire4	r				
+_E103CC151006BF78	ckirf1	<GEN>ckirf1	r				
+_E103CC165006C378	ckirf2	<GEN>ckirf2	r				
+_E103CC179006C778	ckirf3	<GEN>ckirf3	r				
+_E103CC18D106CB78	ckirf4	<GEN>ckirf4	r				
+_E113CC154FC6C375	ckjrb1	<GEN>ckjrb1	r				
+_E113CC168FC6C775	ckjrb2	<GEN>ckjrb2	r				
+_E113CC17CFC6CB75	ckjrb3	<GEN>ckjrb3	r				
+_E113CC1810C6CF75	ckjrb4	<GEN>ckjrb4	r				
+_E113CC158FD6C376	ckjrc1	<GEN>ckjrc1	r				
+_E113CC16CFD6C776	ckjrc2	<GEN>ckjrc2	r				
+_E113CC170FD6CB76	ckjrc3	<GEN>ckjrc3	r				
+_E113CC1850D6CF76	ckjrc4	<GEN>ckjrc4	r				
+_E113CC15D0E6C377	ckjrd1	<GEN>ckjrd1	r				
+_E113CC1610E6C777	ckjrd2	<GEN>ckjrd2	r				
+_E113CC1750E6CB77	ckjrd3	<GEN>ckjrd3	r				
+_E113CC1891E6CF77	ckjrd4	<GEN>ckjrd4	r				
+_E113CC1510F6C378	ckjre1	<GEN>ckjre1	r				
+_E113CC1650F6C778	ckjre2	<GEN>ckjre2	r				
+_E113CC1790F6CB78	ckjre3	<GEN>ckjre3	r				
+_E113CC18D1F6CF78	ckjre4	<GEN>ckjre4	r				
+_E113CC155006C379	ckjrf1	<GEN>ckjrf1	r				
+_E113CC169006C779	ckjrf2	<GEN>ckjrf2	r				
+_E113CC17D006CB79	ckjrf3	<GEN>ckjrf3	r				
+_E113CC181106CF79	ckjrf4	<GEN>ckjrf4	r				
+_2383E0150D179F71	cparb1	<GEN>cparb1	r				
+_2383E0164D17A371	cparb2	<GEN>cparb2	r				
+_2383E0178D17A771	cparb3	<GEN>cparb3	r				
+_2383E018CE17AB71	cparb4	<GEN>cparb4	r				
+_2383E0154D279F72	cparc1	<GEN>cparc1	r				
+_2383E0168D27A372	cparc2	<GEN>cparc2	r				
+_2383E017CD27A772	cparc3	<GEN>cparc3	r				
+_2383E0180E27AB72	cparc4	<GEN>cparc4	r				
+_2383E0158E379F73	cpard1	<GEN>cpard1	r				
+_2383E016CE37A373	cpard2	<GEN>cpard2	r				
+_2383E0170E37A773	cpard3	<GEN>cpard3	r				
+_2383E0184F37AB73	cpard4	<GEN>cpard4	r				
+_2383E015CE479F74	cpare1	<GEN>cpare1	r				
+_2383E0160E47A374	cpare2	<GEN>cpare2	r				
+_2383E0174E47A774	cpare3	<GEN>cpare3	r				
+_2383E0188F47AB74	cpare4	<GEN>cpare4	r				
+_2383E0150E579F75	cparf1	<GEN>cparf1	r				
+_2383E0164E57A375	cparf2	<GEN>cparf2	r				
+_2383E0178E57A775	cparf3	<GEN>cparf3	r				
+_2383E018CF57AB75	cparf4	<GEN>cparf4	r				
+_2393E0154D17A372	cpbrb1	<GEN>cpbrb1	r				
+_2393E0168D17A772	cpbrb2	<GEN>cpbrb2	r				
+_2393E017CD17AB72	cpbrb3	<GEN>cpbrb3	r				
+_2393E0180E17AF72	cpbrb4	<GEN>cpbrb4	r				
+_2393E0158D27A373	cpbrc1	<GEN>cpbrc1	r				
+_2393E016CD27A773	cpbrc2	<GEN>cpbrc2	r				
+_2393E0170D27AB73	cpbrc3	<GEN>cpbrc3	r				
+_2393E0184E27AF73	cpbrc4	<GEN>cpbrc4	r				
+_2393E015CE37A374	cpbrd1	<GEN>cpbrd1	r				
+_2393E0160E37A774	cpbrd2	<GEN>cpbrd2	r				
+_2393E0174E37AB74	cpbrd3	<GEN>cpbrd3	r				
+_2393E0188F37AF74	cpbrd4	<GEN>cpbrd4	r				
+_2393E0150E47A375	cpbre1	<GEN>cpbre1	r				
+_2393E0164E47A775	cpbre2	<GEN>cpbre2	r				
+_2393E0178E47AB75	cpbre3	<GEN>cpbre3	r				
+_2393E018CF47AF75	cpbre4	<GEN>cpbre4	r				
+_2393E0154E57A376	cpbrf1	<GEN>cpbrf1	r				
+_2393E0168E57A776	cpbrf2	<GEN>cpbrf2	r				
+_2393E017CE57AB76	cpbrf3	<GEN>cpbrf3	r				
+_2393E0180F57AF76	cpbrf4	<GEN>cpbrf4	r				
+_23A3E0158D17A773	cpcrb1	<GEN>cpcrb1	r				
+_23A3E016CD17AB73	cpcrb2	<GEN>cpcrb2	r				
+_23A3E0170D17AF73	cpcrb3	<GEN>cpcrb3	r				
+_23A3E0184E17B373	cpcrb4	<GEN>cpcrb4	r				
+_23A3E015CD27A774	cpcrc1	<GEN>cpcrc1	r				
+_23A3E0160D27AB74	cpcrc2	<GEN>cpcrc2	r				
+_23A3E0174D27AF74	cpcrc3	<GEN>cpcrc3	r				
+_23A3E0188E27B374	cpcrc4	<GEN>cpcrc4	r				
+_23A3E0150E37A775	cpcrd1	<GEN>cpcrd1	r				
+_23A3E0164E37AB75	cpcrd2	<GEN>cpcrd2	r				
+_23A3E0178E37AF75	cpcrd3	<GEN>cpcrd3	r				
+_23A3E018CF37B375	cpcrd4	<GEN>cpcrd4	r				
+_23A3E0154E47A776	cpcre1	<GEN>cpcre1	r				
+_23A3E0168E47AB76	cpcre2	<GEN>cpcre2	r				
+_23A3E017CE47AF76	cpcre3	<GEN>cpcre3	r				
+_23A3E0180F47B376	cpcre4	<GEN>cpcre4	r				
+_23A3E0158E57A777	cpcrf1	<GEN>cpcrf1	r				
+_23A3E016CE57AB77	cpcrf2	<GEN>cpcrf2	r				
+_23A3E0170E57AF77	cpcrf3	<GEN>cpcrf3	r				
+_23A3E0184F57B377	cpcrf4	<GEN>cpcrf4	r				
+_23B3E015CE17AB74	cpdrb1	<GEN>cpdrb1	r				
+_23B3E0160E17AF74	cpdrb2	<GEN>cpdrb2	r				
+_23B3E0174E17B374	cpdrb3	<GEN>cpdrb3	r				
+_23B3E0188F17B774	cpdrb4	<GEN>cpdrb4	r				
+_23B3E0150E27AB75	cpdrc1	<GEN>cpdrc1	r				
+_23B3E0164E27AF75	cpdrc2	<GEN>cpdrc2	r				
+_23B3E0178E27B375	cpdrc3	<GEN>cpdrc3	r				
+_23B3E018CF27B775	cpdrc4	<GEN>cpdrc4	r				
+_23B3E0154F37AB76	cpdrd1	<GEN>cpdrd1	r				
+_23B3E0168F37AF76	cpdrd2	<GEN>cpdrd2	r				
+_23B3E017CF37B376	cpdrd3	<GEN>cpdrd3	r				
+_23B3E0181037B776	cpdrd4	<GEN>cpdrd4	r				
+_23B3E0158F47AB77	cpdre1	<GEN>cpdre1	r				
+_23B3E016CF47AF77	cpdre2	<GEN>cpdre2	r				
+_23B3E0170F47B377	cpdre3	<GEN>cpdre3	r				
+_23B3E0185047B777	cpdre4	<GEN>cpdre4	r				
+_23B3E015CF57AB78	cpdrf1	<GEN>cpdrf1	r				
+_23B3E0160F57AF78	cpdrf2	<GEN>cpdrf2	r				
+_23B3E0174F57B378	cpdrf3	<GEN>cpdrf3	r				
+_23B3E0189057B778	cpdrf4	<GEN>cpdrf4	r				
+_23C3E0150E17AF75	cperb1	<GEN>cperb1	r				
+_23C3E0164E17B375	cperb2	<GEN>cperb2	r				
+_23C3E0178E17B775	cperb3	<GEN>cperb3	r				
+_23C3E018CF17BB75	cperb4	<GEN>cperb4	r				
+_23C3E0154E27AF76	cperc1	<GEN>cperc1	r				
+_23C3E0168E27B376	cperc2	<GEN>cperc2	r				
+_23C3E017CE27B776	cperc3	<GEN>cperc3	r				
+_23C3E0180F27BB76	cperc4	<GEN>cperc4	r				
+_23C3E0158F37AF77	cperd1	<GEN>cperd1	r				
+_23C3E016CF37B377	cperd2	<GEN>cperd2	r				
+_23C3E0170F37B777	cperd3	<GEN>cperd3	r				
+_23C3E0185037BB77	cperd4	<GEN>cperd4	r				
+_23C3E015CF47AF78	cpere1	<GEN>cpere1	r				
+_23C3E0160F47B378	cpere2	<GEN>cpere2	r				
+_23C3E0174F47B778	cpere3	<GEN>cpere3	r				
+_23C3E0189047BB78	cpere4	<GEN>cpere4	r				
+_23C3E0150F57AF79	cperf1	<GEN>cperf1	r				
+_23C3E0164F57B379	cperf2	<GEN>cperf2	r				
+_23C3E0178F57B779	cperf3	<GEN>cperf3	r				
+_23C3E018D057BB79	cperf4	<GEN>cperf4	r				
+_23D3E0154E17B376	cpfrb1	<GEN>cpfrb1	r				
+_23D3E0168E17B776	cpfrb2	<GEN>cpfrb2	r				
+_23D3E017CE17BB76	cpfrb3	<GEN>cpfrb3	r				
+_23D3E0180F17BF76	cpfrb4	<GEN>cpfrb4	r				
+_23D3E0158E27B377	cpfrc1	<GEN>cpfrc1	r				
+_23D3E016CE27B777	cpfrc2	<GEN>cpfrc2	r				
+_23D3E0170E27BB77	cpfrc3	<GEN>cpfrc3	r				
+_23D3E0184F27BF77	cpfrc4	<GEN>cpfrc4	r				
+_23D3E015CF37B378	cpfrd1	<GEN>cpfrd1	r				
+_23D3E0160F37B778	cpfrd2	<GEN>cpfrd2	r				
+_23D3E0174F37BB78	cpfrd3	<GEN>cpfrd3	r				
+_23D3E0189037BF78	cpfrd4	<GEN>cpfrd4	r				
+_23D3E0150F47B379	cpfre1	<GEN>cpfre1	r				
+_23D3E0164F47B779	cpfre2	<GEN>cpfre2	r				
+_23D3E0178F47BB79	cpfre3	<GEN>cpfre3	r				
+_23D3E018D047BF79	cpfre4	<GEN>cpfre4	r				
+_23D3E0154F57B37A	cpfrf1	<GEN>cpfrf1	r				
+_23D3E0168F57B77A	cpfrf2	<GEN>cpfrf2	r				
+_23D3E017CF57BB7A	cpfrf3	<GEN>cpfrf3	r				
+_23D3E0181057BF7A	cpfrf4	<GEN>cpfrf4	r				
 _65579B89A4D5EE88	cbajb7	Igakya					
 _2847E3972333D7A4	ccfjd4	Najab Merodeando	un	e	Najabas Merodenado		los
 _63C528B09876BB8C	ccfjd7	Najakya					
@@ -4172,6 +4882,1098 @@ _B9CF0D05CEE7989D	object_pr_s3_cokamool_c	Cokamool Pequeno
 _A07A2D256EA4A79B	object_pr_s2_toopetz_a	Toopetz de Gret					
 _A07A0D212F74AB9B	object_pr_s2_toopetz_b	Toopetz Doble					
 _A07A5C396E75AF9B	object_pr_s2_toopetz_c	Prueba de Toopetz					
+_985368225182878F	ccecf3	<GEN>ccecf3					
+_9A83682512F2978E	cchdd6	<GEN>cchdd6					
+_D9436820D1726B8D	ccdeb1	<GEN>ccdeb1					
+_D9436821D1826F8D	ccdeb2	<GEN>ccdeb2					
+_D9436822D192738D	ccdeb3	<GEN>ccdeb3					
+_D9436823D1A2778D	ccdeb4	<GEN>ccdeb4					
+_D943682011726F8E	ccdec1	<GEN>ccdec1					
+_D94368211182738E	ccdec2	<GEN>ccdec2					
+_D94368221192778E	ccdec3	<GEN>ccdec3					
+_D943682311A27B8E	ccdec4	<GEN>ccdec4					
+_D94368205272738F	ccded1	<GEN>ccded1					
+_D94368215282778F	ccded2	<GEN>ccded2					
+_D943682252927B8F	ccded3	<GEN>ccded3					
+_D943682352A27F8F	ccded4	<GEN>ccded4					
+_D943682092727790	ccdee1	<GEN>ccdee1					
+_D943682192827B90	ccdee2	<GEN>ccdee2					
+_D943682292927F90	ccdee3	<GEN>ccdee3					
+_D943682392A28390	ccdee4	<GEN>ccdee4					
+_D9436820D2727B91	ccdef1	<GEN>ccdef1					
+_D9436821D2827F91	ccdef2	<GEN>ccdef2					
+_D9436822D2928391	ccdef3	<GEN>ccdef3					
+_D9436823D2A28791	ccdef4	<GEN>ccdef4					
+_DA836820D1B27B8D	ccheb1	<GEN>ccheb1					
+_DA836821D1C27F8D	ccheb2	<GEN>ccheb2					
+_DA836822D1D2838D	ccheb3	<GEN>ccheb3					
+_DA836823D1E2878D	ccheb4	<GEN>ccheb4					
+_DA83682011B27F8E	cchec1	<GEN>cchec1					
+_DA83682111C2838E	cchec2	<GEN>cchec2					
+_DA83682211D2878E	cchec3	<GEN>cchec3					
+_DA83682311E28B8E	cchec4	<GEN>cchec4					
+_DA83682052B2838F	cched1	<GEN>cched1					
+_DA83682152C2878F	cched2	<GEN>cched2					
+_DA83682252D28B8F	cched3	<GEN>cched3					
+_DA83682352E28F8F	cched4	<GEN>cched4					
+_DA83682092B28790	cchee1	<GEN>cchee1					
+_DA83682192C28B90	cchee2	<GEN>cchee2					
+_DA83682292D28F90	cchee3	<GEN>cchee3					
+_DA83682392E29390	cchee4	<GEN>cchee4					
+_DA836820D2B28B91	cchef1	<GEN>cchef1					
+_DA836821D2C28F91	cchef2	<GEN>cchef2					
+_DA836822D2D29391	cchef3	<GEN>cchef3					
+_DA836823D2E29791	cchef4	<GEN>cchef4					
+_18236C20D142638E	cdaeb1	<GEN>cdaeb1					
+_18236C21D152678E	cdaeb2	<GEN>cdaeb2					
+_18236C22D1626B8E	cdaeb3	<GEN>cdaeb3					
+_18236C23D1726F8E	cdaeb4	<GEN>cdaeb4					
+_18236C201142678F	cdaec1	<GEN>cdaec1					
+_18236C2111526B8F	cdaec2	<GEN>cdaec2					
+_18236C2211626F8F	cdaec3	<GEN>cdaec3					
+_18236C231172738F	cdaec4	<GEN>cdaec4					
+_18236C2052426B90	cdaed1	<GEN>cdaed1					
+_18236C2152526F90	cdaed2	<GEN>cdaed2					
+_18236C2252627390	cdaed3	<GEN>cdaed3					
+_18236C2352727790	cdaed4	<GEN>cdaed4					
+_18236C2092426F91	cdaee1	<GEN>cdaee1					
+_18236C2192527391	cdaee2	<GEN>cdaee2					
+_18236C2292627791	cdaee3	<GEN>cdaee3					
+_18236C2392727B91	cdaee4	<GEN>cdaee4					
+_18236C20D2427392	cdaef1	<GEN>cdaef1					
+_18236C21D2527792	cdaef2	<GEN>cdaef2					
+_18236C22D2627B92	cdaef3	<GEN>cdaef3					
+_18236C23D2727F92	cdaef4	<GEN>cdaef4					
+_5A236C2013D26397	cdanb1	<GEN>cdanb1					
+_5A236C2113E26797	cdanb2	<GEN>cdanb2					
+_5A236C2213F26B97	cdanb3	<GEN>cdanb3					
+_5A236C2313026F97	cdanb4	<GEN>cdanb4					
+_5A236C2053D26798	cdanc1	<GEN>cdanc1					
+_5A236C2153E26B98	cdanc2	<GEN>cdanc2					
+_5A236C2253F26F98	cdanc3	<GEN>cdanc3					
+_5A236C2353027398	cdanc4	<GEN>cdanc4					
+_5A236C2094D26B99	cdand1	<GEN>cdand1					
+_5A236C2194E26F99	cdand2	<GEN>cdand2					
+_5A236C2294F27399	cdand3	<GEN>cdand3					
+_5A236C2394027799	cdand4	<GEN>cdand4					
+_5A236C20D4D26F9A	cdane1	<GEN>cdane1					
+_5A236C21D4E2739A	cdane2	<GEN>cdane2					
+_5A236C22D4F2779A	cdane3	<GEN>cdane3					
+_5A236C23D4027B9A	cdane4	<GEN>cdane4					
+_5A236C2014D2739B	cdanf1	<GEN>cdanf1					
+_5A236C2114E2779B	cdanf2	<GEN>cdanf2					
+_5A236C2214F27B9B	cdanf3	<GEN>cdanf3					
+_5A236C2314027F9B	cdanf4	<GEN>cdanf4					
+_9B236C205423639C	cdasb1	<GEN>cdasb1					
+_9B236C215433679C	cdasb2	<GEN>cdasb2					
+_9B236C2254436B9C	cdasb3	<GEN>cdasb3					
+_9B236C2354536F9C	cdasb4	<GEN>cdasb4					
+_9B236C209423679D	cdasc1	<GEN>cdasc1					
+_9B236C2194336B9D	cdasc2	<GEN>cdasc2					
+_9B236C2294436F9D	cdasc3	<GEN>cdasc3					
+_9B236C239453739D	cdasc4	<GEN>cdasc4					
+_9B236C20D5236B9E	cdasd1	<GEN>cdasd1					
+_9B236C21D5336F9E	cdasd2	<GEN>cdasd2					
+_9B236C22D543739E	cdasd3	<GEN>cdasd3					
+_9B236C23D553779E	cdasd4	<GEN>cdasd4					
+_9B236C2015236F9F	cdase1	<GEN>cdase1					
+_9B236C211533739F	cdase2	<GEN>cdase2					
+_9B236C221543779F	cdase3	<GEN>cdase3					
+_9B236C2315537B9F	cdase4	<GEN>cdase4					
+_9B236C20552373A0	cdasf1	<GEN>cdasf1					
+_9B236C21553377A0	cdasf2	<GEN>cdasf2					
+_9B236C2255437BA0	cdasf3	<GEN>cdasf3					
+_9B236C2355537FA0	cdasf4	<GEN>cdasf4					
+_DC236C209533639D	cdatb1	<GEN>cdatb1					
+_DC236C219543679D	cdatb2	<GEN>cdatb2					
+_DC236C2295536B9D	cdatb3	<GEN>cdatb3					
+_DC236C2395636F9D	cdatb4	<GEN>cdatb4					
+_DC236C20D533679E	cdatc1	<GEN>cdatc1					
+_DC236C21D5436B9E	cdatc2	<GEN>cdatc2					
+_DC236C22D5536F9E	cdatc3	<GEN>cdatc3					
+_DC236C23D563739E	cdatc4	<GEN>cdatc4					
+_DC236C2016336B9F	cdatd1	<GEN>cdatd1					
+_DC236C2116436F9F	cdatd2	<GEN>cdatd2					
+_DC236C221653739F	cdatd3	<GEN>cdatd3					
+_DC236C231663779F	cdatd4	<GEN>cdatd4					
+_DC236C2056336FA0	cdate1	<GEN>cdate1					
+_DC236C21564373A0	cdate2	<GEN>cdate2					
+_DC236C22565377A0	cdate3	<GEN>cdate3					
+_DC236C2356637BA0	cdate4	<GEN>cdate4					
+_DC236C20963373A1	cdatf1	<GEN>cdatf1					
+_DC236C21964377A1	cdatf2	<GEN>cdatf2					
+_DC236C2296537BA1	cdatf3	<GEN>cdatf3					
+_DC236C2396637FA1	cdatf4	<GEN>cdatf4					
+_1C236C20D543639E	cdaub1	<GEN>cdaub1					
+_1C236C21D553679E	cdaub2	<GEN>cdaub2					
+_1C236C22D5636B9E	cdaub3	<GEN>cdaub3					
+_1C236C23D5736F9E	cdaub4	<GEN>cdaub4					
+_1C236C201543679F	cdauc1	<GEN>cdauc1					
+_1C236C2115536B9F	cdauc2	<GEN>cdauc2					
+_1C236C2215636F9F	cdauc3	<GEN>cdauc3					
+_1C236C231573739F	cdauc4	<GEN>cdauc4					
+_1C236C2056436BA0	cdaud1	<GEN>cdaud1					
+_1C236C2156536FA0	cdaud2	<GEN>cdaud2					
+_1C236C22566373A0	cdaud3	<GEN>cdaud3					
+_1C236C23567377A0	cdaud4	<GEN>cdaud4					
+_1C236C2096436FA1	cdaue1	<GEN>cdaue1					
+_1C236C21965373A1	cdaue2	<GEN>cdaue2					
+_1C236C22966377A1	cdaue3	<GEN>cdaue3					
+_1C236C2396737BA1	cdaue4	<GEN>cdaue4					
+_1C236C20D64373A2	cdauf1	<GEN>cdauf1					
+_1C236C21D65377A2	cdauf2	<GEN>cdauf2					
+_1C236C22D6637BA2	cdauf3	<GEN>cdauf3					
+_1C236C23D6737FA2	cdauf4	<GEN>cdauf4					
+_5C236C201553639F	cdavb1	<GEN>cdavb1					
+_5C236C211563679F	cdavb2	<GEN>cdavb2					
+_5C236C2215736B9F	cdavb3	<GEN>cdavb3					
+_5C236C2315836F9F	cdavb4	<GEN>cdavb4					
+_5C236C20555367A0	cdavc1	<GEN>cdavc1					
+_5C236C2155636BA0	cdavc2	<GEN>cdavc2					
+_5C236C2255736FA0	cdavc3	<GEN>cdavc3					
+_5C236C23558373A0	cdavc4	<GEN>cdavc4					
+_5C236C2096536BA1	cdavd1	<GEN>cdavd1					
+_5C236C2196636FA1	cdavd2	<GEN>cdavd2					
+_5C236C22967373A1	cdavd3	<GEN>cdavd3					
+_5C236C23968377A1	cdavd4	<GEN>cdavd4					
+_5C236C20D6536FA2	cdave1	<GEN>cdave1					
+_5C236C21D66373A2	cdave2	<GEN>cdave2					
+_5C236C22D67377A2	cdave3	<GEN>cdave3					
+_5C236C23D6837BA2	cdave4	<GEN>cdave4					
+_5C236C20165373A3	cdavf1	<GEN>cdavf1					
+_5C236C21166377A3	cdavf2	<GEN>cdavf2					
+_5C236C2216737BA3	cdavf3	<GEN>cdavf3					
+_5C236C2316837FA3	cdavf4	<GEN>cdavf4					
+_9C236C20556363A0	cdawb1	<GEN>cdawb1					
+_9C236C21557367A0	cdawb2	<GEN>cdawb2					
+_9C236C2255836BA0	cdawb3	<GEN>cdawb3					
+_9C236C2355936FA0	cdawb4	<GEN>cdawb4					
+_9C236C20956367A1	cdawc1	<GEN>cdawc1					
+_9C236C2195736BA1	cdawc2	<GEN>cdawc2					
+_9C236C2295836FA1	cdawc3	<GEN>cdawc3					
+_9C236C23959373A1	cdawc4	<GEN>cdawc4					
+_9C236C20D6636BA2	cdawd1	<GEN>cdawd1					
+_9C236C21D6736FA2	cdawd2	<GEN>cdawd2					
+_9C236C22D68373A2	cdawd3	<GEN>cdawd3					
+_9C236C23D69377A2	cdawd4	<GEN>cdawd4					
+_9C236C2016636FA3	cdawe1	<GEN>cdawe1					
+_9C236C21167373A3	cdawe2	<GEN>cdawe2					
+_9C236C22168377A3	cdawe3	<GEN>cdawe3					
+_9C236C2316937BA3	cdawe4	<GEN>cdawe4					
+_9C236C20566373A4	cdawf1	<GEN>cdawf1					
+_9C236C21567377A4	cdawf2	<GEN>cdawf2					
+_9C236C2256837BA4	cdawf3	<GEN>cdawf3					
+_9C236C2356937FA4	cdawf4	<GEN>cdawf4					
+_DD236C20967363A1	cdaxb1	<GEN>cdaxb1					
+_DD236C21968367A1	cdaxb2	<GEN>cdaxb2					
+_DD236C2296936BA1	cdaxb3	<GEN>cdaxb3					
+_DD236C2396A36FA1	cdaxb4	<GEN>cdaxb4					
+_DD236C20D67367A2	cdaxc1	<GEN>cdaxc1					
+_DD236C21D6836BA2	cdaxc2	<GEN>cdaxc2					
+_DD236C22D6936FA2	cdaxc3	<GEN>cdaxc3					
+_DD236C23D6A373A2	cdaxc4	<GEN>cdaxc4					
+_DD236C2017736BA3	cdaxd1	<GEN>cdaxd1					
+_DD236C2117836FA3	cdaxd2	<GEN>cdaxd2					
+_DD236C22179373A3	cdaxd3	<GEN>cdaxd3					
+_DD236C2317A377A3	cdaxd4	<GEN>cdaxd4					
+_DD236C2057736FA4	cdaxe1	<GEN>cdaxe1					
+_DD236C21578373A4	cdaxe2	<GEN>cdaxe2					
+_DD236C22579377A4	cdaxe3	<GEN>cdaxe3					
+_DD236C2357A37BA4	cdaxe4	<GEN>cdaxe4					
+_DD236C20977373A5	cdaxf1	<GEN>cdaxf1					
+_DD236C21978377A5	cdaxf2	<GEN>cdaxf2					
+_DD236C2297937BA5	cdaxf3	<GEN>cdaxf3					
+_DD236C2397A37FA5	cdaxf4	<GEN>cdaxf4					
+_1D236C20D68363A2	cdayb1	<GEN>cdayb1					
+_1D236C21D69367A2	cdayb2	<GEN>cdayb2					
+_1D236C22D6A36BA2	cdayb3	<GEN>cdayb3					
+_1D236C23D6B36FA2	cdayb4	<GEN>cdayb4					
+_1D236C20168367A3	cdayc1	<GEN>cdayc1					
+_1D236C2116936BA3	cdayc2	<GEN>cdayc2					
+_1D236C2216A36FA3	cdayc3	<GEN>cdayc3					
+_1D236C2316B373A3	cdayc4	<GEN>cdayc4					
+_1D236C2057836BA4	cdayd1	<GEN>cdayd1					
+_1D236C2157936FA4	cdayd2	<GEN>cdayd2					
+_1D236C2257A373A4	cdayd3	<GEN>cdayd3					
+_1D236C2357B377A4	cdayd4	<GEN>cdayd4					
+_1D236C2097836FA5	cdaye1	<GEN>cdaye1					
+_1D236C21979373A5	cdaye2	<GEN>cdaye2					
+_1D236C2297A377A5	cdaye3	<GEN>cdaye3					
+_1D236C2397B37BA5	cdaye4	<GEN>cdaye4					
+_1D236C20D78373A6	cdayf1	<GEN>cdayf1					
+_1D236C21D79377A6	cdayf2	<GEN>cdayf2					
+_1D236C22D7A37BA6	cdayf3	<GEN>cdayf3					
+_1D236C23D7B37FA6	cdayf4	<GEN>cdayf4					
+_58336C20D152678E	cdbeb1	<GEN>cdbeb1					
+_58336C21D1626B8E	cdbeb2	<GEN>cdbeb2					
+_58336C22D1726F8E	cdbeb3	<GEN>cdbeb3					
+_58336C23D182738E	cdbeb4	<GEN>cdbeb4					
+_58336C2011526B8F	cdbec1	<GEN>cdbec1					
+_58336C2111626F8F	cdbec2	<GEN>cdbec2					
+_58336C221172738F	cdbec3	<GEN>cdbec3					
+_58336C231182778F	cdbec4	<GEN>cdbec4					
+_58336C2052526F90	cdbed1	<GEN>cdbed1					
+_58336C2152627390	cdbed2	<GEN>cdbed2					
+_58336C2252727790	cdbed3	<GEN>cdbed3					
+_58336C2352827B90	cdbed4	<GEN>cdbed4					
+_58336C2092527391	cdbee1	<GEN>cdbee1					
+_58336C2192627791	cdbee2	<GEN>cdbee2					
+_58336C2292727B91	cdbee3	<GEN>cdbee3					
+_58336C2392827F91	cdbee4	<GEN>cdbee4					
+_58336C20D2527792	cdbef1	<GEN>cdbef1					
+_58336C21D2627B92	cdbef2	<GEN>cdbef2					
+_58336C22D2727F92	cdbef3	<GEN>cdbef3					
+_58336C23D2828392	cdbef4	<GEN>cdbef4					
+_9A336C2013E26797	cdbnb1	<GEN>cdbnb1					
+_9A336C2113F26B97	cdbnb2	<GEN>cdbnb2					
+_9A336C2213026F97	cdbnb3	<GEN>cdbnb3					
+_9A336C2313127397	cdbnb4	<GEN>cdbnb4					
+_9A336C2053E26B98	cdbnc1	<GEN>cdbnc1					
+_9A336C2153F26F98	cdbnc2	<GEN>cdbnc2					
+_9A336C2253027398	cdbnc3	<GEN>cdbnc3					
+_9A336C2353127798	cdbnc4	<GEN>cdbnc4					
+_9A336C2094E26F99	cdbnd1	<GEN>cdbnd1					
+_9A336C2194F27399	cdbnd2	<GEN>cdbnd2					
+_9A336C2294027799	cdbnd3	<GEN>cdbnd3					
+_9A336C2394127B99	cdbnd4	<GEN>cdbnd4					
+_9A336C20D4E2739A	cdbne1	<GEN>cdbne1					
+_9A336C21D4F2779A	cdbne2	<GEN>cdbne2					
+_9A336C22D4027B9A	cdbne3	<GEN>cdbne3					
+_9A336C23D4127F9A	cdbne4	<GEN>cdbne4					
+_9A336C2014E2779B	cdbnf1	<GEN>cdbnf1					
+_9A336C2114F27B9B	cdbnf2	<GEN>cdbnf2					
+_9A336C2214027F9B	cdbnf3	<GEN>cdbnf3					
+_9A336C231412839B	cdbnf4	<GEN>cdbnf4					
+_DB336C205433679C	cdbsb1	<GEN>cdbsb1					
+_DB336C2154436B9C	cdbsb2	<GEN>cdbsb2					
+_DB336C2254536F9C	cdbsb3	<GEN>cdbsb3					
+_DB336C235463739C	cdbsb4	<GEN>cdbsb4					
+_DB336C2094336B9D	cdbsc1	<GEN>cdbsc1					
+_DB336C2194436F9D	cdbsc2	<GEN>cdbsc2					
+_DB336C229453739D	cdbsc3	<GEN>cdbsc3					
+_DB336C239463779D	cdbsc4	<GEN>cdbsc4					
+_DB336C20D5336F9E	cdbsd1	<GEN>cdbsd1					
+_DB336C21D543739E	cdbsd2	<GEN>cdbsd2					
+_DB336C22D553779E	cdbsd3	<GEN>cdbsd3					
+_DB336C23D5637B9E	cdbsd4	<GEN>cdbsd4					
+_DB336C201533739F	cdbse1	<GEN>cdbse1					
+_DB336C211543779F	cdbse2	<GEN>cdbse2					
+_DB336C2215537B9F	cdbse3	<GEN>cdbse3					
+_DB336C2315637F9F	cdbse4	<GEN>cdbse4					
+_DB336C20553377A0	cdbsf1	<GEN>cdbsf1					
+_DB336C2155437BA0	cdbsf2	<GEN>cdbsf2					
+_DB336C2255537FA0	cdbsf3	<GEN>cdbsf3					
+_DB336C23556383A0	cdbsf4	<GEN>cdbsf4					
+_1C336C209543679D	cdbtb1	<GEN>cdbtb1					
+_1C336C2195536B9D	cdbtb2	<GEN>cdbtb2					
+_1C336C2295636F9D	cdbtb3	<GEN>cdbtb3					
+_1C336C239573739D	cdbtb4	<GEN>cdbtb4					
+_1C336C20D5436B9E	cdbtc1	<GEN>cdbtc1					
+_1C336C21D5536F9E	cdbtc2	<GEN>cdbtc2					
+_1C336C22D563739E	cdbtc3	<GEN>cdbtc3					
+_1C336C23D573779E	cdbtc4	<GEN>cdbtc4					
+_1C336C2016436F9F	cdbtd1	<GEN>cdbtd1					
+_1C336C211653739F	cdbtd2	<GEN>cdbtd2					
+_1C336C221663779F	cdbtd3	<GEN>cdbtd3					
+_1C336C2316737B9F	cdbtd4	<GEN>cdbtd4					
+_1C336C20564373A0	cdbte1	<GEN>cdbte1					
+_1C336C21565377A0	cdbte2	<GEN>cdbte2					
+_1C336C2256637BA0	cdbte3	<GEN>cdbte3					
+_1C336C2356737FA0	cdbte4	<GEN>cdbte4					
+_1C336C20964377A1	cdbtf1	<GEN>cdbtf1					
+_1C336C2196537BA1	cdbtf2	<GEN>cdbtf2					
+_1C336C2296637FA1	cdbtf3	<GEN>cdbtf3					
+_1C336C23967383A1	cdbtf4	<GEN>cdbtf4					
+_5C336C20D553679E	cdbub1	<GEN>cdbub1					
+_5C336C21D5636B9E	cdbub2	<GEN>cdbub2					
+_5C336C22D5736F9E	cdbub3	<GEN>cdbub3					
+_5C336C23D583739E	cdbub4	<GEN>cdbub4					
+_5C336C2015536B9F	cdbuc1	<GEN>cdbuc1					
+_5C336C2115636F9F	cdbuc2	<GEN>cdbuc2					
+_5C336C221573739F	cdbuc3	<GEN>cdbuc3					
+_5C336C231583779F	cdbuc4	<GEN>cdbuc4					
+_5C336C2056536FA0	cdbud1	<GEN>cdbud1					
+_5C336C21566373A0	cdbud2	<GEN>cdbud2					
+_5C336C22567377A0	cdbud3	<GEN>cdbud3					
+_5C336C2356837BA0	cdbud4	<GEN>cdbud4					
+_5C336C20965373A1	cdbue1	<GEN>cdbue1					
+_5C336C21966377A1	cdbue2	<GEN>cdbue2					
+_5C336C2296737BA1	cdbue3	<GEN>cdbue3					
+_5C336C2396837FA1	cdbue4	<GEN>cdbue4					
+_5C336C20D65377A2	cdbuf1	<GEN>cdbuf1					
+_5C336C21D6637BA2	cdbuf2	<GEN>cdbuf2					
+_5C336C22D6737FA2	cdbuf3	<GEN>cdbuf3					
+_5C336C23D68383A2	cdbuf4	<GEN>cdbuf4					
+_9C336C201563679F	cdbvb1	<GEN>cdbvb1					
+_9C336C2115736B9F	cdbvb2	<GEN>cdbvb2					
+_9C336C2215836F9F	cdbvb3	<GEN>cdbvb3					
+_9C336C231593739F	cdbvb4	<GEN>cdbvb4					
+_9C336C2055636BA0	cdbvc1	<GEN>cdbvc1					
+_9C336C2155736FA0	cdbvc2	<GEN>cdbvc2					
+_9C336C22558373A0	cdbvc3	<GEN>cdbvc3					
+_9C336C23559377A0	cdbvc4	<GEN>cdbvc4					
+_9C336C2096636FA1	cdbvd1	<GEN>cdbvd1					
+_9C336C21967373A1	cdbvd2	<GEN>cdbvd2					
+_9C336C22968377A1	cdbvd3	<GEN>cdbvd3					
+_9C336C2396937BA1	cdbvd4	<GEN>cdbvd4					
+_9C336C20D66373A2	cdbve1	<GEN>cdbve1					
+_9C336C21D67377A2	cdbve2	<GEN>cdbve2					
+_9C336C22D6837BA2	cdbve3	<GEN>cdbve3					
+_9C336C23D6937FA2	cdbve4	<GEN>cdbve4					
+_9C336C20166377A3	cdbvf1	<GEN>cdbvf1					
+_9C336C2116737BA3	cdbvf2	<GEN>cdbvf2					
+_9C336C2216837FA3	cdbvf3	<GEN>cdbvf3					
+_9C336C23169383A3	cdbvf4	<GEN>cdbvf4					
+_DC336C20557367A0	cdbwb1	<GEN>cdbwb1					
+_DC336C2155836BA0	cdbwb2	<GEN>cdbwb2					
+_DC336C2255936FA0	cdbwb3	<GEN>cdbwb3					
+_DC336C2355A373A0	cdbwb4	<GEN>cdbwb4					
+_DC336C2095736BA1	cdbwc1	<GEN>cdbwc1					
+_DC336C2195836FA1	cdbwc2	<GEN>cdbwc2					
+_DC336C22959373A1	cdbwc3	<GEN>cdbwc3					
+_DC336C2395A377A1	cdbwc4	<GEN>cdbwc4					
+_DC336C20D6736FA2	cdbwd1	<GEN>cdbwd1					
+_DC336C21D68373A2	cdbwd2	<GEN>cdbwd2					
+_DC336C22D69377A2	cdbwd3	<GEN>cdbwd3					
+_DC336C23D6A37BA2	cdbwd4	<GEN>cdbwd4					
+_DC336C20167373A3	cdbwe1	<GEN>cdbwe1					
+_DC336C21168377A3	cdbwe2	<GEN>cdbwe2					
+_DC336C2216937BA3	cdbwe3	<GEN>cdbwe3					
+_DC336C2316A37FA3	cdbwe4	<GEN>cdbwe4					
+_DC336C20567377A4	cdbwf1	<GEN>cdbwf1					
+_DC336C2156837BA4	cdbwf2	<GEN>cdbwf2					
+_DC336C2256937FA4	cdbwf3	<GEN>cdbwf3					
+_DC336C2356A383A4	cdbwf4	<GEN>cdbwf4					
+_1D336C20968367A1	cdbxb1	<GEN>cdbxb1					
+_1D336C2196936BA1	cdbxb2	<GEN>cdbxb2					
+_1D336C2296A36FA1	cdbxb3	<GEN>cdbxb3					
+_1D336C2396B373A1	cdbxb4	<GEN>cdbxb4					
+_1D336C20D6836BA2	cdbxc1	<GEN>cdbxc1					
+_1D336C21D6936FA2	cdbxc2	<GEN>cdbxc2					
+_1D336C22D6A373A2	cdbxc3	<GEN>cdbxc3					
+_1D336C23D6B377A2	cdbxc4	<GEN>cdbxc4					
+_1D336C2017836FA3	cdbxd1	<GEN>cdbxd1					
+_1D336C21179373A3	cdbxd2	<GEN>cdbxd2					
+_1D336C2217A377A3	cdbxd3	<GEN>cdbxd3					
+_1D336C2317B37BA3	cdbxd4	<GEN>cdbxd4					
+_1D336C20578373A4	cdbxe1	<GEN>cdbxe1					
+_1D336C21579377A4	cdbxe2	<GEN>cdbxe2					
+_1D336C2257A37BA4	cdbxe3	<GEN>cdbxe3					
+_1D336C2357B37FA4	cdbxe4	<GEN>cdbxe4					
+_1D336C20978377A5	cdbxf1	<GEN>cdbxf1					
+_1D336C2197937BA5	cdbxf2	<GEN>cdbxf2					
+_1D336C2297A37FA5	cdbxf3	<GEN>cdbxf3					
+_1D336C2397B383A5	cdbxf4	<GEN>cdbxf4					
+_5D336C20D69367A2	cdbyb1	<GEN>cdbyb1					
+_5D336C21D6A36BA2	cdbyb2	<GEN>cdbyb2					
+_5D336C22D6B36FA2	cdbyb3	<GEN>cdbyb3					
+_5D336C23D6C373A2	cdbyb4	<GEN>cdbyb4					
+_5D336C2016936BA3	cdbyc1	<GEN>cdbyc1					
+_5D336C2116A36FA3	cdbyc2	<GEN>cdbyc2					
+_5D336C2216B373A3	cdbyc3	<GEN>cdbyc3					
+_5D336C2316C377A3	cdbyc4	<GEN>cdbyc4					
+_5D336C2057936FA4	cdbyd1	<GEN>cdbyd1					
+_5D336C2157A373A4	cdbyd2	<GEN>cdbyd2					
+_5D336C2257B377A4	cdbyd3	<GEN>cdbyd3					
+_5D336C2357C37BA4	cdbyd4	<GEN>cdbyd4					
+_5D336C20979373A5	cdbye1	<GEN>cdbye1					
+_5D336C2197A377A5	cdbye2	<GEN>cdbye2					
+_5D336C2297B37BA5	cdbye3	<GEN>cdbye3					
+_5D336C2397C37FA5	cdbye4	<GEN>cdbye4					
+_5D336C20D79377A6	cdbyf1	<GEN>cdbyf1					
+_5D336C21D7A37BA6	cdbyf2	<GEN>cdbyf2					
+_5D336C22D7B37FA6	cdbyf3	<GEN>cdbyf3					
+_5D336C23D7C383A6	cdbyf4	<GEN>cdbyf4					
+_98436C20D1626B8E	cdceb1	<GEN>cdceb1					
+_98436C21D1726F8E	cdceb2	<GEN>cdceb2					
+_98436C22D182738E	cdceb3	<GEN>cdceb3					
+_98436C23D192778E	cdceb4	<GEN>cdceb4					
+_98436C2011626F8F	cdcec1	<GEN>cdcec1					
+_98436C211172738F	cdcec2	<GEN>cdcec2					
+_98436C221182778F	cdcec3	<GEN>cdcec3					
+_98436C2311927B8F	cdcec4	<GEN>cdcec4					
+_98436C2052627390	cdced1	<GEN>cdced1					
+_98436C2152727790	cdced2	<GEN>cdced2					
+_98436C2252827B90	cdced3	<GEN>cdced3					
+_98436C2352927F90	cdced4	<GEN>cdced4					
+_98436C2092627791	cdcee1	<GEN>cdcee1					
+_98436C2192727B91	cdcee2	<GEN>cdcee2					
+_98436C2292827F91	cdcee3	<GEN>cdcee3					
+_98436C2392928391	cdcee4	<GEN>cdcee4					
+_98436C20D2627B92	cdcef1	<GEN>cdcef1					
+_98436C21D2727F92	cdcef2	<GEN>cdcef2					
+_98436C22D2828392	cdcef3	<GEN>cdcef3					
+_98436C23D2928792	cdcef4	<GEN>cdcef4					
+_DA436C2013F26B97	cdcnb1	<GEN>cdcnb1					
+_DA436C2113026F97	cdcnb2	<GEN>cdcnb2					
+_DA436C2213127397	cdcnb3	<GEN>cdcnb3					
+_DA436C2313227797	cdcnb4	<GEN>cdcnb4					
+_DA436C2053F26F98	cdcnc1	<GEN>cdcnc1					
+_DA436C2153027398	cdcnc2	<GEN>cdcnc2					
+_DA436C2253127798	cdcnc3	<GEN>cdcnc3					
+_DA436C2353227B98	cdcnc4	<GEN>cdcnc4					
+_DA436C2094F27399	cdcnd1	<GEN>cdcnd1					
+_DA436C2194027799	cdcnd2	<GEN>cdcnd2					
+_DA436C2294127B99	cdcnd3	<GEN>cdcnd3					
+_DA436C2394227F99	cdcnd4	<GEN>cdcnd4					
+_DA436C20D4F2779A	cdcne1	<GEN>cdcne1					
+_DA436C21D4027B9A	cdcne2	<GEN>cdcne2					
+_DA436C22D4127F9A	cdcne3	<GEN>cdcne3					
+_DA436C23D422839A	cdcne4	<GEN>cdcne4					
+_DA436C2014F27B9B	cdcnf1	<GEN>cdcnf1					
+_DA436C2114027F9B	cdcnf2	<GEN>cdcnf2					
+_DA436C221412839B	cdcnf3	<GEN>cdcnf3					
+_DA436C231422879B	cdcnf4	<GEN>cdcnf4					
+_1B436C2054436B9C	cdcsb1	<GEN>cdcsb1					
+_1B436C2154536F9C	cdcsb2	<GEN>cdcsb2					
+_1B436C225463739C	cdcsb3	<GEN>cdcsb3					
+_1B436C235473779C	cdcsb4	<GEN>cdcsb4					
+_1B436C2094436F9D	cdcsc1	<GEN>cdcsc1					
+_1B436C219453739D	cdcsc2	<GEN>cdcsc2					
+_1B436C229463779D	cdcsc3	<GEN>cdcsc3					
+_1B436C2394737B9D	cdcsc4	<GEN>cdcsc4					
+_1B436C20D543739E	cdcsd1	<GEN>cdcsd1					
+_1B436C21D553779E	cdcsd2	<GEN>cdcsd2					
+_1B436C22D5637B9E	cdcsd3	<GEN>cdcsd3					
+_1B436C23D5737F9E	cdcsd4	<GEN>cdcsd4					
+_1B436C201543779F	cdcse1	<GEN>cdcse1					
+_1B436C2115537B9F	cdcse2	<GEN>cdcse2					
+_1B436C2215637F9F	cdcse3	<GEN>cdcse3					
+_1B436C231573839F	cdcse4	<GEN>cdcse4					
+_1B436C2055437BA0	cdcsf1	<GEN>cdcsf1					
+_1B436C2155537FA0	cdcsf2	<GEN>cdcsf2					
+_1B436C22556383A0	cdcsf3	<GEN>cdcsf3					
+_1B436C23557387A0	cdcsf4	<GEN>cdcsf4					
+_5C436C2095536B9D	cdctb1	<GEN>cdctb1					
+_5C436C2195636F9D	cdctb2	<GEN>cdctb2					
+_5C436C229573739D	cdctb3	<GEN>cdctb3					
+_5C436C239583779D	cdctb4	<GEN>cdctb4					
+_5C436C20D5536F9E	cdctc1	<GEN>cdctc1					
+_5C436C21D563739E	cdctc2	<GEN>cdctc2					
+_5C436C22D573779E	cdctc3	<GEN>cdctc3					
+_5C436C23D5837B9E	cdctc4	<GEN>cdctc4					
+_5C436C201653739F	cdctd1	<GEN>cdctd1					
+_5C436C211663779F	cdctd2	<GEN>cdctd2					
+_5C436C2216737B9F	cdctd3	<GEN>cdctd3					
+_5C436C2316837F9F	cdctd4	<GEN>cdctd4					
+_5C436C20565377A0	cdcte1	<GEN>cdcte1					
+_5C436C2156637BA0	cdcte2	<GEN>cdcte2					
+_5C436C2256737FA0	cdcte3	<GEN>cdcte3					
+_5C436C23568383A0	cdcte4	<GEN>cdcte4					
+_5C436C2096537BA1	cdctf1	<GEN>cdctf1					
+_5C436C2196637FA1	cdctf2	<GEN>cdctf2					
+_5C436C22967383A1	cdctf3	<GEN>cdctf3					
+_5C436C23968387A1	cdctf4	<GEN>cdctf4					
+_9C436C20D5636B9E	cdcub1	<GEN>cdcub1					
+_9C436C21D5736F9E	cdcub2	<GEN>cdcub2					
+_9C436C22D583739E	cdcub3	<GEN>cdcub3					
+_9C436C23D593779E	cdcub4	<GEN>cdcub4					
+_9C436C2015636F9F	cdcuc1	<GEN>cdcuc1					
+_9C436C211573739F	cdcuc2	<GEN>cdcuc2					
+_9C436C221583779F	cdcuc3	<GEN>cdcuc3					
+_9C436C2315937B9F	cdcuc4	<GEN>cdcuc4					
+_9C436C20566373A0	cdcud1	<GEN>cdcud1					
+_9C436C21567377A0	cdcud2	<GEN>cdcud2					
+_9C436C2256837BA0	cdcud3	<GEN>cdcud3					
+_9C436C2356937FA0	cdcud4	<GEN>cdcud4					
+_9C436C20966377A1	cdcue1	<GEN>cdcue1					
+_9C436C2196737BA1	cdcue2	<GEN>cdcue2					
+_9C436C2296837FA1	cdcue3	<GEN>cdcue3					
+_9C436C23969383A1	cdcue4	<GEN>cdcue4					
+_9C436C20D6637BA2	cdcuf1	<GEN>cdcuf1					
+_9C436C21D6737FA2	cdcuf2	<GEN>cdcuf2					
+_9C436C22D68383A2	cdcuf3	<GEN>cdcuf3					
+_9C436C23D69387A2	cdcuf4	<GEN>cdcuf4					
+_DC436C2015736B9F	cdcvb1	<GEN>cdcvb1					
+_DC436C2115836F9F	cdcvb2	<GEN>cdcvb2					
+_DC436C221593739F	cdcvb3	<GEN>cdcvb3					
+_DC436C2315A3779F	cdcvb4	<GEN>cdcvb4					
+_DC436C2055736FA0	cdcvc1	<GEN>cdcvc1					
+_DC436C21558373A0	cdcvc2	<GEN>cdcvc2					
+_DC436C22559377A0	cdcvc3	<GEN>cdcvc3					
+_DC436C2355A37BA0	cdcvc4	<GEN>cdcvc4					
+_DC436C20967373A1	cdcvd1	<GEN>cdcvd1					
+_DC436C21968377A1	cdcvd2	<GEN>cdcvd2					
+_DC436C2296937BA1	cdcvd3	<GEN>cdcvd3					
+_DC436C2396A37FA1	cdcvd4	<GEN>cdcvd4					
+_DC436C20D67377A2	cdcve1	<GEN>cdcve1					
+_DC436C21D6837BA2	cdcve2	<GEN>cdcve2					
+_DC436C22D6937FA2	cdcve3	<GEN>cdcve3					
+_DC436C23D6A383A2	cdcve4	<GEN>cdcve4					
+_DC436C2016737BA3	cdcvf1	<GEN>cdcvf1					
+_DC436C2116837FA3	cdcvf2	<GEN>cdcvf2					
+_DC436C22169383A3	cdcvf3	<GEN>cdcvf3					
+_DC436C2316A387A3	cdcvf4	<GEN>cdcvf4					
+_1C436C2055836BA0	cdcwb1	<GEN>cdcwb1					
+_1C436C2155936FA0	cdcwb2	<GEN>cdcwb2					
+_1C436C2255A373A0	cdcwb3	<GEN>cdcwb3					
+_1C436C2355B377A0	cdcwb4	<GEN>cdcwb4					
+_1C436C2095836FA1	cdcwc1	<GEN>cdcwc1					
+_1C436C21959373A1	cdcwc2	<GEN>cdcwc2					
+_1C436C2295A377A1	cdcwc3	<GEN>cdcwc3					
+_1C436C2395B37BA1	cdcwc4	<GEN>cdcwc4					
+_1C436C20D68373A2	cdcwd1	<GEN>cdcwd1					
+_1C436C21D69377A2	cdcwd2	<GEN>cdcwd2					
+_1C436C22D6A37BA2	cdcwd3	<GEN>cdcwd3					
+_1C436C23D6B37FA2	cdcwd4	<GEN>cdcwd4					
+_1C436C20168377A3	cdcwe1	<GEN>cdcwe1					
+_1C436C2116937BA3	cdcwe2	<GEN>cdcwe2					
+_1C436C2216A37FA3	cdcwe3	<GEN>cdcwe3					
+_1C436C2316B383A3	cdcwe4	<GEN>cdcwe4					
+_1C436C2056837BA4	cdcwf1	<GEN>cdcwf1					
+_1C436C2156937FA4	cdcwf2	<GEN>cdcwf2					
+_1C436C2256A383A4	cdcwf3	<GEN>cdcwf3					
+_1C436C2356B387A4	cdcwf4	<GEN>cdcwf4					
+_5D436C2096936BA1	cdcxb1	<GEN>cdcxb1					
+_5D436C2196A36FA1	cdcxb2	<GEN>cdcxb2					
+_5D436C2296B373A1	cdcxb3	<GEN>cdcxb3					
+_5D436C2396C377A1	cdcxb4	<GEN>cdcxb4					
+_5D436C20D6936FA2	cdcxc1	<GEN>cdcxc1					
+_5D436C21D6A373A2	cdcxc2	<GEN>cdcxc2					
+_5D436C22D6B377A2	cdcxc3	<GEN>cdcxc3					
+_5D436C23D6C37BA2	cdcxc4	<GEN>cdcxc4					
+_5D436C20179373A3	cdcxd1	<GEN>cdcxd1					
+_5D436C2117A377A3	cdcxd2	<GEN>cdcxd2					
+_5D436C2217B37BA3	cdcxd3	<GEN>cdcxd3					
+_5D436C2317C37FA3	cdcxd4	<GEN>cdcxd4					
+_5D436C20579377A4	cdcxe1	<GEN>cdcxe1					
+_5D436C2157A37BA4	cdcxe2	<GEN>cdcxe2					
+_5D436C2257B37FA4	cdcxe3	<GEN>cdcxe3					
+_5D436C2357C383A4	cdcxe4	<GEN>cdcxe4					
+_5D436C2097937BA5	cdcxf1	<GEN>cdcxf1					
+_5D436C2197A37FA5	cdcxf2	<GEN>cdcxf2					
+_5D436C2297B383A5	cdcxf3	<GEN>cdcxf3					
+_5D436C2397C387A5	cdcxf4	<GEN>cdcxf4					
+_9D436C20D6A36BA2	cdcyb1	<GEN>cdcyb1					
+_9D436C21D6B36FA2	cdcyb2	<GEN>cdcyb2					
+_9D436C22D6C373A2	cdcyb3	<GEN>cdcyb3					
+_9D436C23D6D377A2	cdcyb4	<GEN>cdcyb4					
+_9D436C2016A36FA3	cdcyc1	<GEN>cdcyc1					
+_9D436C2116B373A3	cdcyc2	<GEN>cdcyc2					
+_9D436C2216C377A3	cdcyc3	<GEN>cdcyc3					
+_9D436C2316D37BA3	cdcyc4	<GEN>cdcyc4					
+_9D436C2057A373A4	cdcyd1	<GEN>cdcyd1					
+_9D436C2157B377A4	cdcyd2	<GEN>cdcyd2					
+_9D436C2257C37BA4	cdcyd3	<GEN>cdcyd3					
+_9D436C2357D37FA4	cdcyd4	<GEN>cdcyd4					
+_9D436C2097A377A5	cdcye1	<GEN>cdcye1					
+_9D436C2197B37BA5	cdcye2	<GEN>cdcye2					
+_9D436C2297C37FA5	cdcye3	<GEN>cdcye3					
+_9D436C2397D383A5	cdcye4	<GEN>cdcye4					
+_9D436C20D7A37BA6	cdcyf1	<GEN>cdcyf1					
+_9D436C21D7B37FA6	cdcyf2	<GEN>cdcyf2					
+_9D436C22D7C383A6	cdcyf3	<GEN>cdcyf3					
+_9D436C23D7D387A6	cdcyf4	<GEN>cdcyf4					
+_DB137C20D1F29F92	chleb1	<GEN>chleb1					
+_DB137C21D102A392	chleb2	<GEN>chleb2					
+_DB137C22D112A792	chleb3	<GEN>chleb3					
+_DB137C23D122AB92	chleb4	<GEN>chleb4					
+_DB137C2011F2A393	chlec1	<GEN>chlec1					
+_DB137C211102A793	chlec2	<GEN>chlec2					
+_DB137C221112AB93	chlec3	<GEN>chlec3					
+_DB137C231122AF93	chlec4	<GEN>chlec4					
+_DB137C2052F2A794	chled1	<GEN>chled1					
+_DB137C215202AB94	chled2	<GEN>chled2					
+_DB137C225212AF94	chled3	<GEN>chled3					
+_DB137C235222B394	chled4	<GEN>chled4					
+_DB137C2092F2AB95	chlee1	<GEN>chlee1					
+_DB137C219202AF95	chlee2	<GEN>chlee2					
+_DB137C229212B395	chlee3	<GEN>chlee3					
+_DB137C239222B795	chlee4	<GEN>chlee4					
+_DB137C20D2F2AF96	chlef1	<GEN>chlef1					
+_DB137C21D202B396	chlef2	<GEN>chlef2					
+_DB137C22D212B796	chlef3	<GEN>chlef3					
+_DB137C23D222BB96	chlef4	<GEN>chlef4					
+_18938820D1427F95	ckaeb1	<GEN>ckaeb1					
+_18938821D1528395	ckaeb2	<GEN>ckaeb2					
+_18938822D1628795	ckaeb3	<GEN>ckaeb3					
+_18938823D1728B95	ckaeb4	<GEN>ckaeb4					
+_1893882011428396	ckaec1	<GEN>ckaec1					
+_1893882111528796	ckaec2	<GEN>ckaec2					
+_1893882211628B96	ckaec3	<GEN>ckaec3					
+_1893882311728F96	ckaec4	<GEN>ckaec4					
+_1893882052428797	ckaed1	<GEN>ckaed1					
+_1893882152528B97	ckaed2	<GEN>ckaed2					
+_1893882252628F97	ckaed3	<GEN>ckaed3					
+_1893882352729397	ckaed4	<GEN>ckaed4					
+_1893882092428B98	ckaee1	<GEN>ckaee1					
+_1893882192528F98	ckaee2	<GEN>ckaee2					
+_1893882292629398	ckaee3	<GEN>ckaee3					
+_1893882392729798	ckaee4	<GEN>ckaee4					
+_18938820D2428F99	ckaef1	<GEN>ckaef1					
+_18938821D2529399	ckaef2	<GEN>ckaef2					
+_18938822D2629799	ckaef3	<GEN>ckaef3					
+_18938823D2729B99	ckaef4	<GEN>ckaef4					
+_58A38820D1528395	ckbeb1	<GEN>ckbeb1					
+_58A38821D1628795	ckbeb2	<GEN>ckbeb2					
+_58A38822D1728B95	ckbeb3	<GEN>ckbeb3					
+_58A38823D1828F95	ckbeb4	<GEN>ckbeb4					
+_58A3882011528796	ckbec1	<GEN>ckbec1					
+_58A3882111628B96	ckbec2	<GEN>ckbec2					
+_58A3882211728F96	ckbec3	<GEN>ckbec3					
+_58A3882311829396	ckbec4	<GEN>ckbec4					
+_58A3882052528B97	ckbed1	<GEN>ckbed1					
+_58A3882152628F97	ckbed2	<GEN>ckbed2					
+_58A3882252729397	ckbed3	<GEN>ckbed3					
+_58A3882352829797	ckbed4	<GEN>ckbed4					
+_58A3882092528F98	ckbee1	<GEN>ckbee1					
+_58A3882192629398	ckbee2	<GEN>ckbee2					
+_58A3882292729798	ckbee3	<GEN>ckbee3					
+_58A3882392829B98	ckbee4	<GEN>ckbee4					
+_58A38820D2529399	ckbef1	<GEN>ckbef1					
+_58A38821D2629799	ckbef2	<GEN>ckbef2					
+_58A38822D2729B99	ckbef3	<GEN>ckbef3					
+_58A38823D2829F99	ckbef4	<GEN>ckbef4					
+_DBA38820543383A3	ckbsb1	<GEN>ckbsb1					
+_DBA38821544387A3	ckbsb2	<GEN>ckbsb2					
+_DBA3882254538BA3	ckbsb3	<GEN>ckbsb3					
+_DBA3882354638FA3	ckbsb4	<GEN>ckbsb4					
+_DBA38820943387A4	ckbsc1	<GEN>ckbsc1					
+_DBA3882194438BA4	ckbsc2	<GEN>ckbsc2					
+_DBA3882294538FA4	ckbsc3	<GEN>ckbsc3					
+_DBA38823946393A4	ckbsc4	<GEN>ckbsc4					
+_DBA38820D5338BA5	ckbsd1	<GEN>ckbsd1					
+_DBA38821D5438FA5	ckbsd2	<GEN>ckbsd2					
+_DBA38822D55393A5	ckbsd3	<GEN>ckbsd3					
+_DBA38823D56397A5	ckbsd4	<GEN>ckbsd4					
+_DBA3882015338FA6	ckbse1	<GEN>ckbse1					
+_DBA38821154393A6	ckbse2	<GEN>ckbse2					
+_DBA38822155397A6	ckbse3	<GEN>ckbse3					
+_DBA3882315639BA6	ckbse4	<GEN>ckbse4					
+_DBA38820553393A7	ckbsf1	<GEN>ckbsf1					
+_DBA38821554397A7	ckbsf2	<GEN>ckbsf2					
+_DBA3882255539BA7	ckbsf3	<GEN>ckbsf3					
+_DBA3882355639FA7	ckbsf4	<GEN>ckbsf4					
+_1CA38820954383A4	ckbtb1	<GEN>ckbtb1					
+_1CA38821955387A4	ckbtb2	<GEN>ckbtb2					
+_1CA3882295638BA4	ckbtb3	<GEN>ckbtb3					
+_1CA3882395738FA4	ckbtb4	<GEN>ckbtb4					
+_1CA38820D54387A5	ckbtc1	<GEN>ckbtc1					
+_1CA38821D5538BA5	ckbtc2	<GEN>ckbtc2					
+_1CA38822D5638FA5	ckbtc3	<GEN>ckbtc3					
+_1CA38823D57393A5	ckbtc4	<GEN>ckbtc4					
+_1CA3882016438BA6	ckbtd1	<GEN>ckbtd1					
+_1CA3882116538FA6	ckbtd2	<GEN>ckbtd2					
+_1CA38822166393A6	ckbtd3	<GEN>ckbtd3					
+_1CA38823167397A6	ckbtd4	<GEN>ckbtd4					
+_1CA3882056438FA7	ckbte1	<GEN>ckbte1					
+_1CA38821565393A7	ckbte2	<GEN>ckbte2					
+_1CA38822566397A7	ckbte3	<GEN>ckbte3					
+_1CA3882356739BA7	ckbte4	<GEN>ckbte4					
+_1CA38820964393A8	ckbtf1	<GEN>ckbtf1					
+_1CA38821965397A8	ckbtf2	<GEN>ckbtf2					
+_1CA3882296639BA8	ckbtf3	<GEN>ckbtf3					
+_1CA3882396739FA8	ckbtf4	<GEN>ckbtf4					
+_98B38820D1628795	ckceb1	<GEN>ckceb1					
+_98B38821D1728B95	ckceb2	<GEN>ckceb2					
+_98B38822D1828F95	ckceb3	<GEN>ckceb3					
+_98B38823D1929395	ckceb4	<GEN>ckceb4					
+_98B3882011628B96	ckcec1	<GEN>ckcec1					
+_98B3882111728F96	ckcec2	<GEN>ckcec2					
+_98B3882211829396	ckcec3	<GEN>ckcec3					
+_98B3882311929796	ckcec4	<GEN>ckcec4					
+_98B3882052628F97	ckced1	<GEN>ckced1					
+_98B3882152729397	ckced2	<GEN>ckced2					
+_98B3882252829797	ckced3	<GEN>ckced3					
+_98B3882352929B97	ckced4	<GEN>ckced4					
+_98B3882092629398	ckcee1	<GEN>ckcee1					
+_98B3882192729798	ckcee2	<GEN>ckcee2					
+_98B3882292829B98	ckcee3	<GEN>ckcee3					
+_98B3882392929F98	ckcee4	<GEN>ckcee4					
+_98B38820D2629799	ckcef1	<GEN>ckcef1					
+_98B38821D2729B99	ckcef2	<GEN>ckcef2					
+_98B38822D2829F99	ckcef3	<GEN>ckcef3					
+_98B38823D292A399	ckcef4	<GEN>ckcef4					
+_D9C38820D1728B95	ckdeb1	<GEN>ckdeb1					
+_D9C38821D1828F95	ckdeb2	<GEN>ckdeb2					
+_D9C38822D1929395	ckdeb3	<GEN>ckdeb3					
+_D9C38823D1A29795	ckdeb4	<GEN>ckdeb4					
+_D9C3882011728F96	ckdec1	<GEN>ckdec1					
+_D9C3882111829396	ckdec2	<GEN>ckdec2					
+_D9C3882211929796	ckdec3	<GEN>ckdec3					
+_D9C3882311A29B96	ckdec4	<GEN>ckdec4					
+_D9C3882052729397	ckded1	<GEN>ckded1					
+_D9C3882152829797	ckded2	<GEN>ckded2					
+_D9C3882252929B97	ckded3	<GEN>ckded3					
+_D9C3882352A29F97	ckded4	<GEN>ckded4					
+_D9C3882092729798	ckdee1	<GEN>ckdee1					
+_D9C3882192829B98	ckdee2	<GEN>ckdee2					
+_D9C3882292929F98	ckdee3	<GEN>ckdee3					
+_D9C3882392A2A398	ckdee4	<GEN>ckdee4					
+_D9C38820D2729B99	ckdef1	<GEN>ckdef1					
+_D9C38821D2829F99	ckdef2	<GEN>ckdef2					
+_D9C38822D292A399	ckdef3	<GEN>ckdef3					
+_D9C38823D2A2A799	ckdef4	<GEN>ckdef4					
+_5CC3882054538BA3	ckdsb1	<GEN>ckdsb1					
+_5CC3882154638FA3	ckdsb2	<GEN>ckdsb2					
+_5CC38822547393A3	ckdsb3	<GEN>ckdsb3					
+_5CC38823548397A3	ckdsb4	<GEN>ckdsb4					
+_5CC3882094538FA4	ckdsc1	<GEN>ckdsc1					
+_5CC38821946393A4	ckdsc2	<GEN>ckdsc2					
+_5CC38822947397A4	ckdsc3	<GEN>ckdsc3					
+_5CC3882394839BA4	ckdsc4	<GEN>ckdsc4					
+_5CC38820D55393A5	ckdsd1	<GEN>ckdsd1					
+_5CC38821D56397A5	ckdsd2	<GEN>ckdsd2					
+_5CC38822D5739BA5	ckdsd3	<GEN>ckdsd3					
+_5CC38823D5839FA5	ckdsd4	<GEN>ckdsd4					
+_5CC38820155397A6	ckdse1	<GEN>ckdse1					
+_5CC3882115639BA6	ckdse2	<GEN>ckdse2					
+_5CC3882215739FA6	ckdse3	<GEN>ckdse3					
+_5CC388231583A3A6	ckdse4	<GEN>ckdse4					
+_5CC3882055539BA7	ckdsf1	<GEN>ckdsf1					
+_5CC3882155639FA7	ckdsf2	<GEN>ckdsf2					
+_5CC388225573A3A7	ckdsf3	<GEN>ckdsf3					
+_5CC388235583A7A7	ckdsf4	<GEN>ckdsf4					
+_9F38FC986005467E	ckdsf4_rite	<GEN>ckdsf4_rite					
+_19D38820D1828F95	ckeeb1	<GEN>ckeeb1					
+_19D38821D1929395	ckeeb2	<GEN>ckeeb2					
+_19D38822D1A29795	ckeeb3	<GEN>ckeeb3					
+_19D38823D1B29B95	ckeeb4	<GEN>ckeeb4					
+_19D3882011829396	ckeec1	<GEN>ckeec1					
+_19D3882111929796	ckeec2	<GEN>ckeec2					
+_19D3882211A29B96	ckeec3	<GEN>ckeec3					
+_19D3882311B29F96	ckeec4	<GEN>ckeec4					
+_19D3882052829797	ckeed1	<GEN>ckeed1					
+_19D3882152929B97	ckeed2	<GEN>ckeed2					
+_19D3882252A29F97	ckeed3	<GEN>ckeed3					
+_19D3882352B2A397	ckeed4	<GEN>ckeed4					
+_19D3882092829B98	ckeee1	<GEN>ckeee1					
+_19D3882192929F98	ckeee2	<GEN>ckeee2					
+_19D3882292A2A398	ckeee3	<GEN>ckeee3					
+_19D3882392B2A798	ckeee4	<GEN>ckeee4					
+_19D38820D2829F99	ckeef1	<GEN>ckeef1					
+_19D38821D292A399	ckeef2	<GEN>ckeef2					
+_19D38822D2A2A799	ckeef3	<GEN>ckeef3					
+_19D38823D2B2AB99	ckeef4	<GEN>ckeef4					
+_9CD3882054638FA3	ckesb1	<GEN>ckesb1					
+_9CD38821547393A3	ckesb2	<GEN>ckesb2					
+_9CD38822548397A3	ckesb3	<GEN>ckesb3					
+_9CD3882354939BA3	ckesb4	<GEN>ckesb4					
+_9CD38820946393A4	ckesc1	<GEN>ckesc1					
+_9CD38821947397A4	ckesc2	<GEN>ckesc2					
+_9CD3882294839BA4	ckesc3	<GEN>ckesc3					
+_9CD3882394939FA4	ckesc4	<GEN>ckesc4					
+_9CD38820D56397A5	ckesd1	<GEN>ckesd1					
+_9CD38821D5739BA5	ckesd2	<GEN>ckesd2					
+_9CD38822D5839FA5	ckesd3	<GEN>ckesd3					
+_9CD38823D593A3A5	ckesd4	<GEN>ckesd4					
+_9CD3882015639BA6	ckese1	<GEN>ckese1					
+_9CD3882115739FA6	ckese2	<GEN>ckese2					
+_9CD388221583A3A6	ckese3	<GEN>ckese3					
+_9CD388231593A7A6	ckese4	<GEN>ckese4					
+_9CD3882055639FA7	ckesf1	<GEN>ckesf1					
+_9CD388215573A3A7	ckesf2	<GEN>ckesf2					
+_9CD388225583A7A7	ckesf3	<GEN>ckesf3					
+_9CD388235593ABA7	ckesf4	<GEN>ckesf4					
+_59E38820D1929395	ckfeb1	<GEN>ckfeb1					
+_59E38821D1A29795	ckfeb2	<GEN>ckfeb2					
+_59E38822D1B29B95	ckfeb3	<GEN>ckfeb3					
+_59E38823D1C29F95	ckfeb4	<GEN>ckfeb4					
+_59E3882011929796	ckfec1	<GEN>ckfec1					
+_59E3882111A29B96	ckfec2	<GEN>ckfec2					
+_59E3882211B29F96	ckfec3	<GEN>ckfec3					
+_59E3882311C2A396	ckfec4	<GEN>ckfec4					
+_59E3882052929B97	ckfed1	<GEN>ckfed1					
+_59E3882152A29F97	ckfed2	<GEN>ckfed2					
+_59E3882252B2A397	ckfed3	<GEN>ckfed3					
+_59E3882352C2A797	ckfed4	<GEN>ckfed4					
+_59E3882092929F98	ckfee1	<GEN>ckfee1					
+_59E3882192A2A398	ckfee2	<GEN>ckfee2					
+_59E3882292B2A798	ckfee3	<GEN>ckfee3					
+_59E3882392C2AB98	ckfee4	<GEN>ckfee4					
+_59E38820D292A399	ckfef1	<GEN>ckfef1					
+_59E38821D2A2A799	ckfef2	<GEN>ckfef2					
+_59E38822D2B2AB99	ckfef3	<GEN>ckfef3					
+_59E38823D2C2AF99	ckfef4	<GEN>ckfef4					
+_DCE38820547393A3	ckfsb1	<GEN>ckfsb1					
+_DCE38821548397A3	ckfsb2	<GEN>ckfsb2					
+_DCE3882254939BA3	ckfsb3	<GEN>ckfsb3					
+_DCE3882354A39FA3	ckfsb4	<GEN>ckfsb4					
+_DCE38820947397A4	ckfsc1	<GEN>ckfsc1					
+_DCE3882194839BA4	ckfsc2	<GEN>ckfsc2					
+_DCE3882294939FA4	ckfsc3	<GEN>ckfsc3					
+_DCE3882394A3A3A4	ckfsc4	<GEN>ckfsc4					
+_DCE38820D5739BA5	ckfsd1	<GEN>ckfsd1					
+_DCE38821D5839FA5	ckfsd2	<GEN>ckfsd2					
+_DCE38822D593A3A5	ckfsd3	<GEN>ckfsd3					
+_DCE38823D5A3A7A5	ckfsd4	<GEN>ckfsd4					
+_DCE3882015739FA6	ckfse1	<GEN>ckfse1					
+_DCE388211583A3A6	ckfse2	<GEN>ckfse2					
+_DCE388221593A7A6	ckfse3	<GEN>ckfse3					
+_DCE3882315A3ABA6	ckfse4	<GEN>ckfse4					
+_DCE388205573A3A7	ckfsf1	<GEN>ckfsf1					
+_DCE388215583A7A7	ckfsf2	<GEN>ckfsf2					
+_DCE388225593ABA7	ckfsf3	<GEN>ckfsf3					
+_DCE3882355A3AFA7	ckfsf4	<GEN>ckfsf4					
+_99F38820D1A29795	ckgeb1	<GEN>ckgeb1					
+_99F38821D1B29B95	ckgeb2	<GEN>ckgeb2					
+_99F38822D1C29F95	ckgeb3	<GEN>ckgeb3					
+_99F38823D1D2A395	ckgeb4	<GEN>ckgeb4					
+_99F3882011A29B96	ckgec1	<GEN>ckgec1					
+_99F3882111B29F96	ckgec2	<GEN>ckgec2					
+_99F3882211C2A396	ckgec3	<GEN>ckgec3					
+_99F3882311D2A796	ckgec4	<GEN>ckgec4					
+_99F3882052A29F97	ckged1	<GEN>ckged1					
+_99F3882152B2A397	ckged2	<GEN>ckged2					
+_99F3882252C2A797	ckged3	<GEN>ckged3					
+_99F3882352D2AB97	ckged4	<GEN>ckged4					
+_99F3882092A2A398	ckgee1	<GEN>ckgee1					
+_99F3882192B2A798	ckgee2	<GEN>ckgee2					
+_99F3882292C2AB98	ckgee3	<GEN>ckgee3					
+_99F3882392D2AF98	ckgee4	<GEN>ckgee4					
+_99F38820D2A2A799	ckgef1	<GEN>ckgef1					
+_99F38821D2B2AB99	ckgef2	<GEN>ckgef2					
+_99F38822D2C2AF99	ckgef3	<GEN>ckgef3					
+_99F38823D2D2B399	ckgef4	<GEN>ckgef4					
+_1CF38820548397A3	ckgsb1	<GEN>ckgsb1					
+_1CF3882154939BA3	ckgsb2	<GEN>ckgsb2					
+_1CF3882254A39FA3	ckgsb3	<GEN>ckgsb3					
+_1CF3882354B3A3A3	ckgsb4	<GEN>ckgsb4					
+_1CF3882094839BA4	ckgsc1	<GEN>ckgsc1					
+_1CF3882194939FA4	ckgsc2	<GEN>ckgsc2					
+_1CF3882294A3A3A4	ckgsc3	<GEN>ckgsc3					
+_1CF3882394B3A7A4	ckgsc4	<GEN>ckgsc4					
+_1CF38820D5839FA5	ckgsd1	<GEN>ckgsd1					
+_1CF38821D593A3A5	ckgsd2	<GEN>ckgsd2					
+_1CF38822D5A3A7A5	ckgsd3	<GEN>ckgsd3					
+_1CF38823D5B3ABA5	ckgsd4	<GEN>ckgsd4					
+_1CF388201583A3A6	ckgse1	<GEN>ckgse1					
+_1CF388211593A7A6	ckgse2	<GEN>ckgse2					
+_1CF3882215A3ABA6	ckgse3	<GEN>ckgse3					
+_1CF3882315B3AFA6	ckgse4	<GEN>ckgse4					
+_1CF388205583A7A7	ckgsf1	<GEN>ckgsf1					
+_1CF388215593ABA7	ckgsf2	<GEN>ckgsf2					
+_1CF3882255A3AFA7	ckgsf3	<GEN>ckgsf3					
+_1CF3882355B3B3A7	ckgsf4	<GEN>ckgsf4					
+_DA038820D1B29B95	ckheb1	<GEN>ckheb1					
+_DA038821D1C29F95	ckheb2	<GEN>ckheb2					
+_DA038822D1D2A395	ckheb3	<GEN>ckheb3					
+_DA038823D1E2A795	ckheb4	<GEN>ckheb4					
+_DA03882011B29F96	ckhec1	<GEN>ckhec1					
+_DA03882111C2A396	ckhec2	<GEN>ckhec2					
+_DA03882211D2A796	ckhec3	<GEN>ckhec3					
+_DA03882311E2AB96	ckhec4	<GEN>ckhec4					
+_DA03882052B2A397	ckhed1	<GEN>ckhed1					
+_DA03882152C2A797	ckhed2	<GEN>ckhed2					
+_DA03882252D2AB97	ckhed3	<GEN>ckhed3					
+_DA03882352E2AF97	ckhed4	<GEN>ckhed4					
+_DA03882092B2A798	ckhee1	<GEN>ckhee1					
+_DA03882192C2AB98	ckhee2	<GEN>ckhee2					
+_DA03882292D2AF98	ckhee3	<GEN>ckhee3					
+_DA03882392E2B398	ckhee4	<GEN>ckhee4					
+_DA038820D2B2AB99	ckhef1	<GEN>ckhef1					
+_DA038821D2C2AF99	ckhef2	<GEN>ckhef2					
+_DA038822D2D2B399	ckhef3	<GEN>ckhef3					
+_DA038823D2E2B799	ckhef4	<GEN>ckhef4					
+_5D03882054939BA3	ckhsb1	<GEN>ckhsb1					
+_5D03882154A39FA3	ckhsb2	<GEN>ckhsb2					
+_5D03882254B3A3A3	ckhsb3	<GEN>ckhsb3					
+_5D03882354C3A7A3	ckhsb4	<GEN>ckhsb4					
+_5D03882094939FA4	ckhsc1	<GEN>ckhsc1					
+_5D03882194A3A3A4	ckhsc2	<GEN>ckhsc2					
+_5D03882294B3A7A4	ckhsc3	<GEN>ckhsc3					
+_5D03882394C3ABA4	ckhsc4	<GEN>ckhsc4					
+_5D038820D593A3A5	ckhsd1	<GEN>ckhsd1					
+_5D038821D5A3A7A5	ckhsd2	<GEN>ckhsd2					
+_5D038822D5B3ABA5	ckhsd3	<GEN>ckhsd3					
+_5D038823D5C3AFA5	ckhsd4	<GEN>ckhsd4					
+_5D0388201593A7A6	ckhse1	<GEN>ckhse1					
+_5D03882115A3ABA6	ckhse2	<GEN>ckhse2					
+_5D03882215B3AFA6	ckhse3	<GEN>ckhse3					
+_5D03882315C3B3A6	ckhse4	<GEN>ckhse4					
+_5D0388205593ABA7	ckhsf1	<GEN>ckhsf1					
+_5D03882155A3AFA7	ckhsf2	<GEN>ckhsf2					
+_5D03882255B3B3A7	ckhsf3	<GEN>ckhsf3					
+_5D03882355C3B7A7	ckhsf4	<GEN>ckhsf4					
+_1A138820D1C29F95	ckieb1	<GEN>ckieb1					
+_1A138821D1D2A395	ckieb2	<GEN>ckieb2					
+_1A138822D1E2A795	ckieb3	<GEN>ckieb3					
+_1A138823D1F2AB95	ckieb4	<GEN>ckieb4					
+_1A13882011C2A396	ckiec1	<GEN>ckiec1					
+_1A13882111D2A796	ckiec2	<GEN>ckiec2					
+_1A13882211E2AB96	ckiec3	<GEN>ckiec3					
+_1A13882311F2AF96	ckiec4	<GEN>ckiec4					
+_1A13882052C2A797	ckied1	<GEN>ckied1					
+_1A13882152D2AB97	ckied2	<GEN>ckied2					
+_1A13882252E2AF97	ckied3	<GEN>ckied3					
+_1A13882352F2B397	ckied4	<GEN>ckied4					
+_1A13882092C2AB98	ckiee1	<GEN>ckiee1					
+_1A13882192D2AF98	ckiee2	<GEN>ckiee2					
+_1A13882292E2B398	ckiee3	<GEN>ckiee3					
+_1A13882392F2B798	ckiee4	<GEN>ckiee4					
+_1A138820D2C2AF99	ckief1	<GEN>ckief1					
+_1A138821D2D2B399	ckief2	<GEN>ckief2					
+_1A138822D2E2B799	ckief3	<GEN>ckief3					
+_1A138823D2F2BB99	ckief4	<GEN>ckief4					
+_5A238820D1D2A395	ckjeb1	<GEN>ckjeb1					
+_5A238821D1E2A795	ckjeb2	<GEN>ckjeb2					
+_5A238822D1F2AB95	ckjeb3	<GEN>ckjeb3					
+_5A238823D102AF95	ckjeb4	<GEN>ckjeb4					
+_5A23882011D2A796	ckjec1	<GEN>ckjec1					
+_5A23882111E2AB96	ckjec2	<GEN>ckjec2					
+_5A23882211F2AF96	ckjec3	<GEN>ckjec3					
+_5A2388231102B396	ckjec4	<GEN>ckjec4					
+_5A23882052D2AB97	ckjed1	<GEN>ckjed1					
+_5A23882152E2AF97	ckjed2	<GEN>ckjed2					
+_5A23882252F2B397	ckjed3	<GEN>ckjed3					
+_5A2388235202B797	ckjed4	<GEN>ckjed4					
+_5A23882092D2AF98	ckjee1	<GEN>ckjee1					
+_5A23882192E2B398	ckjee2	<GEN>ckjee2					
+_5A23882292F2B798	ckjee3	<GEN>ckjee3					
+_5A2388239202BB98	ckjee4	<GEN>ckjee4					
+_5A238820D2D2B399	ckjef1	<GEN>ckjef1					
+_5A238821D2E2B799	ckjef2	<GEN>ckjef2					
+_5A238822D2F2BB99	ckjef3	<GEN>ckjef3					
+_5A238823D202BF99	ckjef4	<GEN>ckjef4					
+_DD23882054B3A3A3	ckjsb1	<GEN>ckjsb1					
+_DD23882154C3A7A3	ckjsb2	<GEN>ckjsb2					
+_DD23882254D3ABA3	ckjsb3	<GEN>ckjsb3					
+_DD23882354E3AFA3	ckjsb4	<GEN>ckjsb4					
+_DD23882094B3A7A4	ckjsc1	<GEN>ckjsc1					
+_DD23882194C3ABA4	ckjsc2	<GEN>ckjsc2					
+_DD23882294D3AFA4	ckjsc3	<GEN>ckjsc3					
+_DD23882394E3B3A4	ckjsc4	<GEN>ckjsc4					
+_DD238820D5B3ABA5	ckjsd1	<GEN>ckjsd1					
+_DD238821D5C3AFA5	ckjsd2	<GEN>ckjsd2					
+_DD238822D5D3B3A5	ckjsd3	<GEN>ckjsd3					
+_DD238823D5E3B7A5	ckjsd4	<GEN>ckjsd4					
+_DD23882015B3AFA6	ckjse1	<GEN>ckjse1					
+_DD23882115C3B3A6	ckjse2	<GEN>ckjse2					
+_DD23882215D3B7A6	ckjse3	<GEN>ckjse3					
+_DD23882315E3BBA6	ckjse4	<GEN>ckjse4					
+_DD23882055B3B3A7	ckjsf1	<GEN>ckjsf1					
+_DD23882155C3B7A7	ckjsf2	<GEN>ckjsf2					
+_DD23882255D3BBA7	ckjsf3	<GEN>ckjsf3					
+_DD23882355E3BFA7	ckjsf4	<GEN>ckjsf4					
+_58F49C20D152979A	cpbeb1	<GEN>cpbeb1					
+_58F49C21D1629B9A	cpbeb2	<GEN>cpbeb2					
+_58F49C22D1729F9A	cpbeb3	<GEN>cpbeb3					
+_58F49C23D182A39A	cpbeb4	<GEN>cpbeb4					
+_58F49C2011529B9B	cpbec1	<GEN>cpbec1					
+_58F49C2111629F9B	cpbec2	<GEN>cpbec2					
+_58F49C221172A39B	cpbec3	<GEN>cpbec3					
+_58F49C231182A79B	cpbec4	<GEN>cpbec4					
+_58F49C2052529F9C	cpbed1	<GEN>cpbed1					
+_58F49C215262A39C	cpbed2	<GEN>cpbed2					
+_58F49C225272A79C	cpbed3	<GEN>cpbed3					
+_58F49C235282AB9C	cpbed4	<GEN>cpbed4					
+_58F49C209252A39D	cpbee1	<GEN>cpbee1					
+_58F49C219262A79D	cpbee2	<GEN>cpbee2					
+_58F49C229272AB9D	cpbee3	<GEN>cpbee3					
+_58F49C239282AF9D	cpbee4	<GEN>cpbee4					
+_58F49C20D252A79E	cpbef1	<GEN>cpbef1					
+_58F49C21D262AB9E	cpbef2	<GEN>cpbef2					
+_58F49C22D272AF9E	cpbef3	<GEN>cpbef3					
+_58F49C23D282B39E	cpbef4	<GEN>cpbef4					
+_D9149C20D1729F9A	cpdeb1	<GEN>cpdeb1					
+_D9149C21D182A39A	cpdeb2	<GEN>cpdeb2					
+_D9149C22D192A79A	cpdeb3	<GEN>cpdeb3					
+_D9149C23D1A2AB9A	cpdeb4	<GEN>cpdeb4					
+_D9149C201172A39B	cpdec1	<GEN>cpdec1					
+_D9149C211182A79B	cpdec2	<GEN>cpdec2					
+_D9149C221192AB9B	cpdec3	<GEN>cpdec3					
+_D9149C2311A2AF9B	cpdec4	<GEN>cpdec4					
+_D9149C205272A79C	cpded1	<GEN>cpded1					
+_D9149C215282AB9C	cpded2	<GEN>cpded2					
+_D9149C225292AF9C	cpded3	<GEN>cpded3					
+_D9149C2352A2B39C	cpded4	<GEN>cpded4					
+_D9149C209272AB9D	cpdee1	<GEN>cpdee1					
+_D9149C219282AF9D	cpdee2	<GEN>cpdee2					
+_D9149C229292B39D	cpdee3	<GEN>cpdee3					
+_D9149C2392A2B79D	cpdee4	<GEN>cpdee4					
+_D9149C20D272AF9E	cpdef1	<GEN>cpdef1					
+_D9149C21D282B39E	cpdef2	<GEN>cpdef2					
+_D9149C22D292B79E	cpdef3	<GEN>cpdef3					
+_D9149C23D2A2BB9E	cpdef4	<GEN>cpdef4					
+_9AA3682097E2DBA4	ccjfx1	<GEN>ccjfx1					
+_1BC368219712E7A4	cclfx2	<GEN>cclfx2					
+_98737C229782D7A9	chbfx3	<GEN>chbfx3					
+_19937C22D1A28392	chdfa3	<GEN>chdfa3					
+_1C547C22D163B392	chpfa3	<GEN>chpfa3					
+_18C3882391729F94	ckdbd4	<GEN>ckdbd4					
+_19C38822D1A28F95	ckdfa3	<GEN>ckdfa3					
+_98E388239192A794	ckfbd4	<GEN>ckfbd4					
+_99E38822D1C29795	ckffa3	<GEN>ckffa3					
+_99E38823D1D29B95	ckffa4	<GEN>ckffa4					
+_1A03882297E2FBAC	ckhfx3	<GEN>ckhfx3					
+_5A13882297F2FFAC	ckifx3	<GEN>ckifx3					
+_9923882191B2AF94	ckjbd2	<GEN>ckjbd2					
+_9A238822D102A795	ckjfa3	<GEN>ckjfa3					
+_D9449C20D1B2A79A	cpgfa1	<GEN>cpgfa1					
+_5BC3682211328F8E	cclga3	<GEN>cclga3					
+_1AC0DC6DDFD5DE66	cclgf5_a	<GEN>cclgf5_a					
+_1AC0DC6D1FD5DE68	cclgf5_b	<GEN>cclgf5_b					
+_1B437C221162AF93	choga3	<GEN>choga3					
+_1B437C21D75207AA	chogx2	<GEN>chogx2					
+_5C547C221173B393	chpga3	<GEN>chpga3					
+_2B2894801E662875	tcm_blackbox	<GEN>tcm_blackbox					
+_9B90DC7159D5CE66	ccaif1_a	<GEN>ccaif1_a					
+_9BB0DC7159D5D266	ccaif2_a	<GEN>ccaif2_a					
+_9BD0DC7159D5D666	ccaif3_a	<GEN>ccaif3_a					
+_9BF0DC7159D5DA66	ccaif4_a	<GEN>ccaif4_a					
+_9B60DC71DFD5CE66	ccnif1_a	<GEN>ccnif1_a					
+_9B80DC71DFD5D266	ccnif2_a	<GEN>ccnif2_a					
+_9BA0DC71DFD5D666	ccnif3_a	<GEN>ccnif3_a					
+_9BC0DC71DFD5DA66	ccnif4_a	<GEN>ccnif4_a					
+_9B90FC7159D5CE66	ckaif1_a	<GEN>ckaif1_a					
+_9BB0FC7159D5D266	ckaif2_a	<GEN>ckaif2_a					
+_9BD0FC7159D5D666	ckaif3_a	<GEN>ckaif3_a					
+_9BF0FC7159D5DA66	ckaif4_a	<GEN>ckaif4_a					
+_DDF0FC8359D5DA66	ckarf4_a	<GEN>ckarf4_a					
+_9BA0FC71D9D5CE66	ckbif1_a	<GEN>ckbif1_a					
+_9BC0FC71D9D5D266	ckbif2_a	<GEN>ckbif2_a					
+_9BE0FC71D9D5D666	ckbif3_a	<GEN>ckbif3_a					
+_9B00FC71D9D5DA66	ckbif4_a	<GEN>ckbif4_a					
+_DD00FC83D9D5DA66	ckbrf4_a	<GEN>ckbrf4_a					
+_9BB0FC7159D5CE66	ckcif1_a	<GEN>ckcif1_a					
+_9BD0FC7159D5D266	ckcif2_a	<GEN>ckcif2_a					
+_9BF0FC7159D5D666	ckcif3_a	<GEN>ckcif3_a					
+_9B10FC7159D5DA66	ckcif4_a	<GEN>ckcif4_a					
+_DD10FC8359D5DA66	ckcrf4_a	<GEN>ckcrf4_a					
+_9BC0FC71DBD5CE66	ckdif1_a	<GEN>ckdif1_a					
+_9BE0FC71DBD5D266	ckdif2_a	<GEN>ckdif2_a					
+_9B00FC71DBD5D666	ckdif3_a	<GEN>ckdif3_a					
+_9B20FC71DBD5DA66	ckdif4_a	<GEN>ckdif4_a					
+_DD20FC83DBD5DA66	ckdrf4_a	<GEN>ckdrf4_a					
+_9BD0FC715BD5CE66	ckeif1_a	<GEN>ckeif1_a					
+_9BF0FC715BD5D266	ckeif2_a	<GEN>ckeif2_a					
+_9B10FC715BD5D666	ckeif3_a	<GEN>ckeif3_a					
+_9B30FC715BD5DA66	ckeif4_a	<GEN>ckeif4_a					
+_DD30FC835BD5DA66	ckerf4_a	<GEN>ckerf4_a					
+_9BE0FC71DBD5CE66	ckfif1_a	<GEN>ckfif1_a					
+_9B00FC71DBD5D266	ckfif2_a	<GEN>ckfif2_a					
+_9B20FC71DBD5D666	ckfif3_a	<GEN>ckfif3_a					
+_9B40FC71DBD5DA66	ckfif4_a	<GEN>ckfif4_a					
+_DD40FC83DBD5DA66	ckfrf4_a	<GEN>ckfrf4_a					
+_9BF0FC715BD5CE66	ckgif1_a	<GEN>ckgif1_a					
+_9B10FC715BD5D266	ckgif2_a	<GEN>ckgif2_a					
+_9B30FC715BD5D666	ckgif3_a	<GEN>ckgif3_a					
+_9B50FC715BD5DA66	ckgif4_a	<GEN>ckgif4_a					
+_DD50FC835BD5DA66	ckgrf4_a	<GEN>ckgrf4_a					
+_9B00FC71DDD5CE66	ckhif1_a	<GEN>ckhif1_a					
+_9B20FC71DDD5D266	ckhif2_a	<GEN>ckhif2_a					
+_9B40FC71DDD5D666	ckhif3_a	<GEN>ckhif3_a					
+_9B60FC71DDD5DA66	ckhif4_a	<GEN>ckhif4_a					
+_DD60FC83DDD5DA66	ckhrf4_a	<GEN>ckhrf4_a					
+_9B10FC715DD5CE66	ckiif1_a	<GEN>ckiif1_a					
+_9B30FC715DD5D266	ckiif2_a	<GEN>ckiif2_a					
+_9B50FC715DD5D666	ckiif3_a	<GEN>ckiif3_a					
+_9B70FC715DD5DA66	ckiif4_a	<GEN>ckiif4_a					
+_9B20FC71DDD5CE66	ckjif1_a	<GEN>ckjif1_a					
+_9B40FC71DDD5D266	ckjif2_a	<GEN>ckjif2_a					
+_9B60FC71DDD5D666	ckjif3_a	<GEN>ckjif3_a					
+_9B80FC71DDD5DA66	ckjif4_a	<GEN>ckjif4_a					
+_DD80FC83DDD5DA66	ckjrf4_a	<GEN>ckjrf4_a					
+_9913642552F27792	cbbjc6	<GEN>cbbjc6					
+_9BA36822D2428791	ccjja3	<GEN>ccjja3					
+_59637C2613F29B9B	chajf7	<GEN>chajf7					
+_9B238822D242A799	ckjja3	<GEN>ckjja3					
+_DE647C25D303CB9A	chqlc6	<GEN>chqlc6					
+_D8C3882151429793	ckdad2	<GEN>ckdad2					
+_5923882151A2AF93	ckjad2	<GEN>ckjad2					
+_5BB388269573AFA4	ckcpf7	<GEN>ckcpf7					
+_1CE3881FD43393A1	ckfpc0	<GEN>ckfpc0					
+_DF9488269554E7A4	ckqpf7	<GEN>ckqpf7					
 _D86550A834171298	chidb2_xmas	Mektoub de Montar	un	el	Mektoubs de Montar		los
 _D86550A834171298	chifb2_xmas	Mektoub de Montar	un	el	Mektoubs de Montar		los
 _DA6550A834171298	chijb2_xmas	Mektoub de Montar	un	el	Mektoubs de Montar		los
