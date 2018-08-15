@@ -5978,8 +5978,9 @@ chidb2_xmas	Mektoub Mount
 chifb2_xmas	Mektoub Mount							
 chijb2_xmas	Mektoub Mount							
 chilb2_xmas	Mektoub Mount							
-gubani_mount_0	Gubani Mount	a	the			Gubani Mount		the
-gubani_mount_1	Gubani Mount	a	the			Gubani Mount		the
-gubani_mount_2	Gubani Mount	a	the			Gubani Mount		the
-gubani_mount_3	Gubani Mount	a	the			Gubani Mount		the
-gubani_mount_4	Gubani Mount	a	the			Gubani Mount		the
+gubani_mount_00	Gubani Mount	a	the			Gubani Mount		the
+gubani_mount_01	Gubani Mount	a	the			Gubani Mount		the
+gubani_mount_02	Gubani Mount	a	the			Gubani Mount		the
+gubani_mount_03	Gubani Mount	a	the			Gubani Mount		the
+gubani_mount_04	Gubani Mount	a	the			Gubani Mount		the
+chxjf_zig	Gubani Zig	a	the			Gubani Zig		the
