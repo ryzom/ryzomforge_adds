@@ -7831,4 +7831,4 @@ _5FB35676CF1F09E9	gubani_mount_1	Montura de Gubani	una	la	Monturas de Gubanis		l
 _5FB35676CF1F0DE9	gubani_mount_2	Montura de Gubani	una	la	Monturas de Gubanis		las	Monturas de Gubani
 _5FB35676CF1F11E9	gubani_mount_3	Montura de Gubani	una	la	Monturas de Gubanis		las	Monturas de Gubani
 _5FB35676CF1F15E9	gubani_mount_4	Montura de Gubani	una	la	Monturas de Gubanis		las	Monturas de Gubani
-_E52228C4E969886E	iaad	Gubani zigzag	un	el	Gubanis zigzag		los	Gubani del Desierto con una constitucion muy pobre
+_E52228C4E969886E	iaad	Zig Gubani	un	el	Zigs Gubani		los	Zigs Gubani
