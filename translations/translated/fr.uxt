@@ -13953,7 +13953,7 @@ uittGuildMoney	[Argent de votre guilde]
 
 // HASH_VALUE B68EBC2A5690E428
 // INDEX 3321
-uiNotEnoughMoney	[Pas assez d'argent]
+uiNotEnoughMoney	[Ressources insuffisantes]
 
 // HASH_VALUE 002F1B3942E01029
 // INDEX 3322

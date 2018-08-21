@@ -7831,4 +7831,4 @@ _5FB35676CF1F09E9	gubani_mount_1	Reit-Gubani	Reit-Gubani	Reit-Gubani	ein	der	Rei
 _5FB35676CF1F0DE9	gubani_mount_2	Reit-Gubani	Reit-Gubani	Reit-Gubani	ein	der	Reit-Gubanis	Reit-Gubanis	einen	die	Reit-Gubani, schnelles Reittier mit etwas Taschenplatz	
 _5FB35676CF1F11E9	gubani_mount_3	Reit-Gubani	Reit-Gubani	Reit-Gubani	ein	der	Reit-Gubanis	Reit-Gubanis	einen	die	Reit-Gubani, schnelles Reittier mit etwas Taschenplatz	
 _5FB35676CF1F15E9	gubani_mount_4	Reit-Gubani	Reit-Gubani	Reit-Gubani	ein	der	Reit-Gubanis	Reit-Gubanis	einen	die	Reit-Gubani, schnelles Reittier mit etwas Taschenplatz	
-_E52228C4E969886E	iaad	Zickzack-Gubani	Zickzack-Gubani	Zickzack-Gubani	ein	der	Zickzack-Gubanis	Zickzack-Gubanis	einen	die	relativ langsames Tier, das nur tragen und folgen, aber nicht geritten werden kann	
+_E52228C4E969886E	iaad	Zig-Gubani	Zig-Gubani	Zig-Gubani	ein	der	Zigs-Gubani	Zigs-Gubani	einen	die	relativ langsames Tier, das nur tragen und folgen, aber nicht geritten werden kann	
