@@ -7818,6 +7818,8 @@ _79A8C0CE2A3D11EA	tp_karavan_shattered_ruins	Pacte Karavan / Téléporteur vers 
 _5DBA9814E46B947A	rite_ranger_map_book	Carte	une	la	Cartes	des	les			
 _3869B7E1D7D0813A	ranger_rite_leader_tool	Éditeur de Liste	un	l’	Éditeurs de Liste	des	les			
 _16FED261B53DAA77	ranger_rite_flare_gun	Lance-fusée	un	le	Lance-fusées	des	les			
+_1DABFEA149D1383F	m0817googf01	Feuille suprême de  cratcha empourpré	une	la	Feuilles suprêmes de  cratcha empourpré	des	les			
+_1E9C1AA10B11744E	m0818googf01	Tige suprême de  cratcha empourpré	une	la	Tiges suprêmes de  cratcha empourpré	des	les			
 _A8AFB13DADA8E4BB	teddragus	Peluche	une	la	Peluches	des	les			
 _CA8F29F0AAD849F6	teddploderos	Peluche	une	la	Peluches	des	les			
 _F9902D115DEA7C12	teddmadakam	Peluche	une	la	Peluches	des	les			
@@ -7829,4 +7831,4 @@ _5FB35676CF1F09E9	gubani_mount_1	Gubani de monte	un	le	Gubanis de monte	des	les	
 _5FB35676CF1F0DE9	gubani_mount_2	Gubani de monte	un	le	Gubanis de monte	des	les	Gubani		
 _5FB35676CF1F11E9	gubani_mount_3	Gubani de monte	un	le	Gubanis de monte	des	les	Gubani		
 _5FB35676CF1F15E9	gubani_mount_4	Gubani de monte	un	le	Gubanis de monte	des	les	Gubani		
-_E52228C4E969886E	iaad	Gubani de zig	un	le	Gubanis de zig	des	les			
+_E52228C4E969886E	iaad	Zig Gubani	un	le	Zigs Gubani	des	les			
