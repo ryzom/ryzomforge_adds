@@ -9359,6 +9359,7 @@ _6B5A9088EAA4A380	casino_machine_matis01	Jackpot
 _E9DA88962DA4A380	casino_machine_zorai01	Jackpot			
 _292984976233E3BD	casino_machine_tryker01	Jackpot			
 _A6F6B7B1255598CA	token_dispenser	Vendeur de Jeton			
+_814050F6C9279332	token_dispenser_matis02	Ba'Roppy Allan			
 _076E84F5C9174C29	token_dispenser_fyros01	Ba'Arppy Garren			
 _A65E801B5AD452C2	token_dispenser_matis01	Ba'Gan Effxy			
 _FD2BD5BDDBD62D1C	token_dispenser_tryker01	Ba'Duffy Baxan			
@@ -9973,7 +9974,9 @@ _E35F4529470EBCF4	ranger_rite_start_enrty_npc	Be'arlly Emer
 _12880513A9A3CC83	ranger_rite_helper_island	Ku Co-Yon			
 _05813D9240610C5B	karavan_altar_silan_ranger_camp	$gn_karavan_altar_silan_ranger_camp$			
 _176BF2166F78ADAD	karavan_altar_silan_shattered_ruins	$gn_karavan_altar_silan_shattered_ruins$			
+_6F5B988A160E3512	liv_laby2012_start_npc	Ba'peappy Shidgen			
 _0EA1F8323AECDB4B	kami_altar_silan_shining_lake	$gn_kami_altar_silan_shining_lake$			
 _DA6E381CF5EC33A6	kami_altar_silan_ranger_camp	$gn_kami_altar_silan_ranger_camp$			
+_3F5EE511C9E08509	sage_marauder_rite_giver	Erhialor Krinrund			
 _1329441BAAA6F097	marauder_camp_foreman	Shonga DeFao			
 _A67747ACA7496082	marauder_camp_barman	Kelen BaRopi			
