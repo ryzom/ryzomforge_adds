@@ -1596,6 +1596,11 @@ REQUIRED_EQUIP()
 	[&CHK&You haven't requipred characteristic for wear this item.]
 }
 
+REQUIRED_EQUIP_CIV_CULT_ORGA()
+{
+	[&CHK&You haven't requipred Civilisation/Cult/Organization for wear this item.]
+}
+
 INVENTORY_BUY_ITEM(item item, int qty, int cost, int fp)
 {
 	(qty=1 & fp=0)
@@ -5240,6 +5245,10 @@ MIS_FAME_GAIN (faction faction)
 }
 
 
+NO_ACTION_WHILE_PVP()
+{
+	no_action_while_pvp	[&CHK&You cannot use actions if you have recently been involved in PvP actions.]
+}
 NO_ACTION_WHILE_SWIMMING()
 {
 	no_action_while_swimming	[&CHK&You cannot use actions while you are near water.]
@@ -5972,6 +5981,11 @@ EGS_CANT_USE_GUILD_INV_IS_TRIAL_PLAYER()
 EGS_CANT_USE_ROOM_INV_IS_TRIAL_PLAYER()
 {
 	[&CHK&You cannot use your room inventory because you are in free trial. You must upgrade your account to be able to do that.]
+}
+
+EGS_CANT_EQUIP_ITEM_IS_TRIAL_PLAYER()
+{
+	[&CHK&You cannot equip this item because you are in free trial. You must upgrade your account to be able to do that.]
 }
 
 EGS_CHANNEL_INVALID_NAME (literal name)
