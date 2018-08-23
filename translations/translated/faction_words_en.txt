@@ -5,6 +5,7 @@ _2DCA2CC01F48D0B6	tryker	Tryker	the	\d	Tryker	the	a
 _224BC0AE0EA920A2	zorai	Zoraï	the	\d	Zoraï	the	a
 _A7882077E757D4B4	bandit	Bandit	the	\d	Bandit	the	a
 _AC0AD4AB2947CC7C	civil	Civil	the	\d	Civil	the	a
+_6388290BE32850A7	black_kami	Marauder	the	a	Marauder	the	a
 _2BF98095A426C07F	degen	Degenerates	the	\d	Degenerate	the	a
 _2A9A98AAE9E7B874	fauna	Fauna	the	\d	Fauna	the	a
 _A8F93F8ED3E7C6CD	fauna_carnivore	Carnivores	the	\d	Carnivore	the	a
