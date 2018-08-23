@@ -515,13 +515,13 @@ _87A6C55BFF2FF1CE	zo_mincho_foreman_quarter	Min-Cho Aufseherquartier	Min-Cho Auf
 _CD71BE9A7ADBAE42	zo_mincho_messenger_quarter	Min-Cho Botenquartier	Min-Cho Botenquartier	Min-Cho Botenquartier	das	das	im	zum
 _C6F90833283497A4	zo_mincho_sage_quarter	Min-Cho Weisenquartier	Min-Cho Weisenquartier	Min-Cho Weisenquartier	das	das	im	zum
 _8FE1CA8A3A5A7A4C	zo_mincho_intendant_quarter	Min-Cho Intendantenquartier	Min-Cho Intendantenquartier	Min-Cho Intendantenquartier	das	das	im	zum
-_15D00F73DAD6F62A	zo_mincho_guard_chief_quarter	Min-Cho Hauptwächterquartier	Min-Cho Hauptwächterquartier	Min-Cho Hauptwächterquartier	das	das	im	zum
+_15D00F73DAD6F62A	zo_mincho_guard_chief_quarter	Min-Cho Hauptquartier der Wache	Min-Cho Hauptquartier der Wache	Min-Cho Hauptquartier der Wache	das	das	im	zum
 _E64EB21043AFD1D4	zo_hoicho_captain_quarter	Hoï-Cho Captainsquartier	Hoï-Cho Captainsquartier	Hoï-Cho Captainsquartier	das	das	im	zum
 _A606B15BFF2FDDD4	zo_hoicho_foreman_quarter	Hoï-Cho Aufseherquartier	Hoï-Cho Aufseherquartier	Hoï-Cho Aufseherquartier	das	das	im	zum
 _4B71BE9A7ADBA04E	zo_hoicho_messenger_quarter	Hoï-Cho Botenquartier	Hoï-Cho Botenquartier	Hoï-Cho Botenquartier	das	das	im	zum
 _85F908B4A9E483AA	zo_hoicho_sage_quarter	Hoï-Cho Weisenquartier	Hoï-Cho Weisenquartier	Hoï-Cho Weisenquartier	das	das	im	zum
 _0DE1CA8A3A5A6C58	zo_hoicho_intendant_quarter	Hoï-Cho Intendantenquartier	Hoï-Cho Intendantenquartier	Hoï-Cho Intendantenquartier	das	das	im	zum
-_D4D00F733A36CE30	zo_hoicho_guard_chief_quarter	Hoï-Cho Hauptwächterquartier	Hoï-Cho Hauptwächterquartier	Hoï-Cho Hauptwächterquartier	das	das	im	zum
+_D4D00F733A36CE30	zo_hoicho_guard_chief_quarter	Hoï-Cho Hauptquartier der Wache	Hoï-Cho Hauptquartier der Wache	Hoï-Cho Hauptquartier der Wache	das	das	im	zum
 _1A656D1C65D737B0	place_fairhaven_p_1	Fairhaven Trödelmarkt	Fairhaven Trödelmarkt	Fairhaven Trödelmarkt	der	den	auf dem	zum
 _DE1377BC50588CA0	place_fairhaven_p_2	Landende	Landende	Landende	das	das	auf	zum
 _5D251869E5588CA8	place_fairhaven_p_3	Umwehte Höhe	Umwehte Höhe	Umwehten Höhe	die	die	auf der	zur
@@ -817,9 +817,9 @@ _B04B51C19F5A18BD	place_cwzh02_mp1	Zone für die Dungsuche	Zone für die Dungsuc
 _74DB3417A0D81801	place_cwzh03_mp1	Zone für die Perlensuche	Zone für die Perlensuche	Zone für die Perlensuche	die	die	in der	zur
 _42DFA10429F6E8C4	place_cimetiere_avalae	Friedhof von Avalae	Friedhof von Avalae	Friedhof von Avalae	der	der	im	zum
 _5193CA370C64AE7D	mission_ff60_emplacement_message	Ort der Nachricht	Ort der Nachricht	Ort der Nachricht	der	der	beim	zum
-_4C9B80A7A9B7946E	place_marauder_camp	Marodeur-Lager	Marodeur-Lager	Marodeur-Lager	das	das	im	zum
-_3FEFB69CBBDF4DAB	place_lieudit_marauder_arena	Marodeur-Arena	Marodeur-Arena	Marodeur-Arena	die	die	in der	zur
-_A59A81E8140A6CA7	marauder_stable	Marodeur-Stall	Marodeur-Stall	Marodeur-Stall	der	den	beim	zum
+_4C9B80A7A9B7946E	place_marauder_camp	Lager der Marodeure	Lager der Marodeure	Lager der Marodeure	das	das	im	zum
+_3FEFB69CBBDF4DAB	place_lieudit_marauder_arena	Arena der Marodeure	Arena der Marodeure	Arena der Marodeure	die	die	in der	zur
+_A59A81E8140A6CA7	marauder_stable	Stall der Marodeure	Stall der Marodeure	Stall der Marodeure	der	den	beim	zum
 _29AC391EC68F71FC	continent_r2_forest	Leewindsteg	Leewindsteg	Leewindsteg	der	den	am	zum
 _BAA17AACA3D42E1E	region_zorai_islands	Oflovak's Straße - Dschungel	Oflovak's Straße - Dschungel	Oflovak's Straße - Dschungel	die	der	an der	zur
 _77FF328F086049B2	continent_r2_roots	Unerforschte Prims			der	den	beim	zum
