@@ -52,7 +52,7 @@ uittQuitRyzom	[Ryzom verlassen]
 
 // HASH_VALUE 6187AF81E9FAF455
 // INDEX 13
-uittQuitGame	[Charakter-Auswahl]
+uittQuitGame	[Charakterauswahl]
 
 // HASH_VALUE 1538E0EB43F8ACC9
 // INDEX 14
@@ -1295,7 +1295,7 @@ uiPassword	[Passwort]
 
 // HASH_VALUE EA3A842642FA0CC0
 // INDEX 323
-uiConfirmPassword	[Password-Bestätigung]
+uiConfirmPassword	[Passwort bestätigen]
 
 // HASH_VALUE A9797F6868794A8F
 // INDEX 324
@@ -1431,7 +1431,7 @@ uiLoginGetFile	[Lade Datei:]
 
 // HASH_VALUE 373988CC56A4B9DB
 // INDEX 357
-uiDLFailed	[Download vom Notfall-Server gescheitert, Login wurde abgebrochen]
+uiDLFailed	[Download vom Notfallserver gescheitert, Login wurde abgebrochen]
 
 // HASH_VALUE 0DD314AEEB0A6833
 // INDEX 358
@@ -1439,7 +1439,7 @@ uiDLURIFailed	[Download von der URL gescheitert (neuer Versuch):]
 
 // HASH_VALUE 9FEF11F92FE58883
 // INDEX 359
-uiNoMoreURI	[Keine Verbindung mehr zur URL, versuche den Notfall-Server]
+uiNoMoreURI	[Keine Verbindung mehr zur URL, versuche den Notfallserver]
 
 // HASH_VALUE D126843FEAF6BF89
 // INDEX 360
@@ -3217,7 +3217,7 @@ uigcSpanish	[SPANISCH]
 
 // HASH_VALUE D72E51D69923FABB
 // INDEX 802
-uigcRequestReboot	[Ryzom muss neu gestartet werden, um diese Änderungen zu übernehmen. Jetzt neustarten?]
+uigcRequestReboot	[Ryzom muss neu gestartet werden, um diese Änderungen zu übernehmen. Jetzt neu starten?]
 
 // HASH_VALUE 11E314364F722841
 // INDEX 803
@@ -3369,7 +3369,7 @@ uiCharFarClip	[Sichtweite]
 
 // HASH_VALUE 28E8807DD82152A6
 // INDEX 840
-uiEnableRacialAnimation	[alternative Geh-Animation]
+uiEnableRacialAnimation	[alternative Laufanimation]
 
 // HASH_VALUE 5CDA8874D1C96450
 // INDEX 841
@@ -4325,7 +4325,7 @@ uimGcmFree	[Das Tier freilassen]
 
 // HASH_VALUE 28897B5DEC77428A
 // INDEX 1078
-uimGcmEnterStable	[Das Tier den Stall betreten lassen]
+uimGcmEnterStable	[Das Tier in den Stall schicken]
 
 // HASH_VALUE EDC82852A5045446
 // INDEX 1079
@@ -11118,11 +11118,11 @@ fct_stableboy_merchant	[(Stallbursche)]
 
 // HASH_VALUE 24A79E1955F16AB0
 // INDEX 2611
-fct_rm_merchant	[(Rohmaterial-Händler)]
+fct_rm_merchant	[(Händler für Rohmaterialien)]
 
 // HASH_VALUE 5FA36AD6DB1898A7
 // INDEX 2612
-fct_jewel_merchant	[(Schmuck-Händler)]
+fct_jewel_merchant	[(Schmuckhändler)]
 
 // HASH_VALUE EAF6D20A4A92D4A0
 // INDEX 2613
@@ -11566,19 +11566,19 @@ fct_karavan_officer	[(Karavan-Offizier)]
 
 // HASH_VALUE 9BB2924395F7AB84
 // INDEX 2723
-fct_h_hairdresser	[(Herren-Friseur)]
+fct_h_hairdresser	[(Herrenfriseur)]
 
 // HASH_VALUE C9184F485B478339
 // INDEX 2724
-fct_f_hairdresser	[(Damen-Friseurin)]
+fct_f_hairdresser	[(Damenfriseurin)]
 
 // HASH_VALUE 2816633087EF3E65
 // INDEX 2725
-fct_h_tattooer	[(Herren-Tätowierer)]
+fct_h_tattooer	[(Herrentätowierer)]
 
 // HASH_VALUE EA54F6BD9888C4BF
 // INDEX 2726
-fct_f_tattooer	[(Damen-Tätowiererin)]
+fct_f_tattooer	[(Damentätowiererin)]
 
 // HASH_VALUE 93D5536A24E46F62
 // INDEX 2727
@@ -11882,7 +11882,7 @@ fct_village_welcomer	[(Dorfempfänger)]
 
 // HASH_VALUE ECA6935855599CB4
 // INDEX 2802
-fct_foreman_apprentice	[(Lehrlings-Ausbilder)]
+fct_foreman_apprentice	[(Ausbilder der Lehrlinge)]
 
 // HASH_VALUE A769D08C61671482
 // INDEX 2803
@@ -11906,7 +11906,7 @@ fct_kami_ambassador	[Kami-Botschafter]
 
 // HASH_VALUE 64D58B7CA664BC6B
 // INDEX 2808
-fct_kami_welcomer	[Kami-Empfänger]
+fct_kami_welcomer	[Kamiempfänger]
 
 // HASH_VALUE 63158369559A5CBD
 // INDEX 2809
@@ -11918,7 +11918,7 @@ fct_karavan_agent	[Karavan-Agent]
 
 // HASH_VALUE 60DA3444487874CA
 // INDEX 2811
-fct_karavan_welcomer	[Karavan-Empfänger]
+fct_karavan_welcomer	[Karavanempfänger]
 
 // HASH_VALUE E788ACA123151358
 // INDEX 2812
@@ -13981,7 +13981,7 @@ uittGuildMoney	[Dapper deiner Gilde]
 
 // HASH_VALUE B68EBC2A5690E428
 // INDEX 3321
-uiNotEnoughMoney	[NICHT GENUG DAPPER]
+uiNotEnoughMoney	[NICHT GENUG RESSOURCEN]
 
 // HASH_VALUE 002F1B3942E01029
 // INDEX 3322
@@ -15981,7 +15981,7 @@ uiThundery	[stürmisch]
 
 // HASH_VALUE 68585420781C9490
 // INDEX 3818
-uiHumidity	[feucht]
+uiHumidity	[Feuchtigkeit]
 
 // HASH_VALUE 6498945C6498945C
 // INDEX 3819
@@ -20331,7 +20331,7 @@ uiAppear_Infos_Tryker	[DIE TRYKER-ZIVILISATION\n
 uiAppear_Infos_Zorai	[DIE ZORAÏ-ZIVILISATION\n
 	\n
 	Unsere Gesellschaft beruht auf dem Streben nach spirituellen Vollendung, Weisheit und Respekt der Natur. Über die Jahrhunderte haben wir eine enge Beziehung zu den Kami aufgebaut – göttliche Entitäten, die von Ma-Duk gesandt wurden, dem Erschaffer von Atys. Wir sind stolz, die Kami Maske der Verwandtschaft zu tragen, die uns von den Homin-Rassen mit schwächerer spiritueller Substanz unterscheidet.\n
-	Wir haben nach Wissen gestrebt, wo andere nur ihren persönlichen Gewinn im Sinn hatten. Wir waren die Ersten, die das gesprochene Wort niedergeschrieben haben, um das Wissen unserer Ahnen zu bewahren. Unsere Gesellschaft hat sich um atemberaubende Tempelstädte herum aufgebaut, in denen große Zeremonien inszeniert wurden, um die Goo-Seuche abzuwehren, die die Flora befällt, und welche die Kamis nicht in der Lage waren, selbst abzuwehren.\n
+	Wir haben nach Wissen gestrebt, wo andere nur ihren persönlichen Gewinn im Sinn hatten. Wir waren die Ersten, die das gesprochene Wort niedergeschrieben haben, um das Wissen unserer Ahnen zu bewahren. Unsere Gesellschaft hat sich um atemberaubende Tempelstädte herum aufgebaut, in denen große Zeremonien inszeniert wurden, um die Goo-Seuche abzuwehren, die die Flora befällt, und welche die Kamis nicht in der Lage waren selbst abzuwehren.\n
 	Seit dem zerstörerischen Schwärmen der Kitins haben wir unsere neuen Städte wieder bewusst inmitten des zauberhaften Dschungels erneut errichtet, wo der Goo-Befall weit verbreitet ist.\n
 	Wir streben jetzt danach, die Herrlichkeit unserer vergangenen Dynastie wiederherzustellen und sie als Leuchtfeuer der Weisheit erstrahlen zu lassen. Wir sind darauf ausgerichtet, ein spirituelles Bewusstsein über die Welt zu verteilen, sodass die ganze Hominheit ewige Glückseligkeit erreichen möge.\n
 	\n
@@ -21331,7 +21331,7 @@ uiEulaAccept	[ICH AKZEPTIERE]
 // INDEX 5072
 uiEulaDecline	[ABLEHNEN]
 
-// HASH_VALUE 540891315EF2921F
+// HASH_VALUE 4027930BDE0CCDA3
 // INDEX 5073
 uiEulaContent	[RYZOM-LIZENZVEREINBARUNG\n
 	\n
@@ -21351,33 +21351,35 @@ uiEulaContent	[RYZOM-LIZENZVEREINBARUNG\n
 	\n
 	7. SICHERHEIT DER BEZAHLUNG. Für eine sichere Bezahlung per Kredit- oder Debit-Karte sorgt die Nutzung des ausgelagerten Bezahlsystems von Firmen wie WorldPay ( http://www.worldpay.com ) oder PayPal ( www.paypal.com/ ), beides spezielle Provider für sichere Onlineabwicklungen von Bezahltransaktionen, als auch durch das Steam-Portal und -Bezahlsystem ( http://store.steampowered.com/ ). Die Detailinformationen Ihrer Kredit- oder Debit-Karte (Name, Kartentyp, Kartennummer und das Ablaufdatum) werden verschlüsselt mittels SSL-Protokoll direkt an die entsprechenden Server verschickt. Die übersendeten Bank- und Kontoinformationen, die die Abonnenten zur Verfügung stellen, werden ausschließlich für den Ablauf der Bezahlung und die Rechnungsstellung verwendet.\n
 	\n
-	8. LIZENZ FÜR DIE NUTZUNG VON RYZOM. Dieser Vertrag gibt Ihnen, dem Benutzer, ein limitiertes, nicht exklusives und widerrufbares Recht auf Zugang zu einem Spielserver mittels eines gültigen Accounts, um das Spiel in der dafür vorgesehenen Art und Weise entsprechend den Bedingungen dieses Vertrages zu nutzen, unter Ausschluss jeglicher anderer Berechtigungen. Dieser Vertrag autorisiert Sie zur Installation und Nutzung einer kostenlosen Kopie der Software. Insofern die Bedingungen dieses Vertrags anerkannt werden, überreicht Winch Gate Ihnen, dem Benutzer, eine nicht exklusive und widerrufliche Lizenz zur Nutzung des Spiels mit dem alleinigem Zweck, Ryzom und/oder Ryzom Arkitect Werkzeuge unter legitimen Voraussetzungen und mittels eines autorisierten kostenlosen oder voll bezahlten Accounts zu nutzen. Alle anderen Verwendungen des Accounts oder des Spieles sind verboten. Insbesondere dürfen die Programme, aus denen das Spiel besteht, unter keinen Umständen verändert, dekompiliert, rückentwickelt oder zerlegt werden. Sie dürfen weder das ganze Spiel noch Teile der Software einer anderen Person übermitteln. Sie dürfen das Spiel weder vermieten, verleihen oder verkaufen, ebenso wenig wie irgendwelche Elemente, Objekte, Designs oder sonstige Inhalte, die unter Verwendung der Ryzom Arkitect Werkzeuge oder irgendwelchen anderen Werkzeuge für Ryzom erstellt wurden. Alle dem Benutzer durch diesen Vertrag nicht ausdrücklich zugesicherten Rechte sind Winch Gate vorbehalten.\n
+	8. PRIVATSSPHÄRE UND DATENSCHUTZ. Mit der Annahme dieses Vertrages bestätigen Sie, dass Sie die Datenschutzerklärung (http://ryzom.com/?page=privacy_policy) von Winch Gate gelesen und verstanden haben. Mit der Verwendung der Produkte von Winch Gate ("Ryzom" und "www.ryzom.com") akzeptieren Sie diese Datenschutzerklärung. Winch Gate respektiert die Privatsphäre seiner Online-Besucher und erkennt die Bedeutung einer sicheren Umgebung für die gesammelten Informationen an. Winch Gate kann Daten über Ihr Spielverhalten, wie z.B. Ihre Spielzeit, für statistische Analysen sammeln. Diese Statistiken sind völlig anonym und enthalten keine personenbezogenen Daten. Sollte Winch Gate dennoch personenbezogene Daten für statistische Zwecke erheben, wird Winch Gate den Nutzer entsprechend informieren und um dessen Zustimmung bitten.\n
 	\n
-	9. GNU AGPL-LIZENZ. Der Quellcode der Ryzom-Clientsoftware (Teile des Programms auf dem Computer des Benutzers) wurden von Winch Gate unter einer speziellen "GNU Affero General Public License" veröffentlicht, deren Text unter der folgenden Adresse einsehbar ist: https://www.gnu.org/licenses/agpl-3.0.de.html. Dessen Benutzung ist ebenfalls den Bedingungen dieser Lizenz unterworfen. Dieser Client-Quellcode kann von der Webseite https://bitbucket.org/ryzom/ryzomcore/ heruntergeladen werden.\n
+	9. LIZENZ FÜR DIE NUTZUNG VON RYZOM. Dieser Vertrag gibt Ihnen, dem Benutzer, ein limitiertes, nicht exklusives und widerrufbares Recht auf Zugang zu einem Spielserver mittels eines gültigen Accounts, um das Spiel in der dafür vorgesehenen Art und Weise entsprechend den Bedingungen dieses Vertrages zu nutzen, unter Ausschluss jeglicher anderer Berechtigungen. Dieser Vertrag autorisiert Sie zur Installation und Nutzung einer kostenlosen Kopie der Software. Insofern die Bedingungen dieses Vertrags anerkannt werden, überreicht Winch Gate Ihnen, dem Benutzer, eine nicht exklusive und widerrufliche Lizenz zur Nutzung des Spiels mit dem alleinigem Zweck, Ryzom und/oder Ryzom Arkitect Werkzeuge unter legitimen Voraussetzungen und mittels eines autorisierten kostenlosen oder voll bezahlten Accounts zu nutzen. Alle anderen Verwendungen des Accounts oder des Spieles sind verboten. Insbesondere dürfen die Programme, aus denen das Spiel besteht, unter keinen Umständen verändert, dekompiliert, rückentwickelt oder zerlegt werden. Sie dürfen weder das ganze Spiel noch Teile der Software einer anderen Person übermitteln. Sie dürfen das Spiel weder vermieten, verleihen oder verkaufen, ebenso wenig wie irgendwelche Elemente, Objekte, Designs oder sonstige Inhalte, die unter Verwendung der Ryzom Arkitect Werkzeuge oder irgendwelchen anderen Werkzeuge für Ryzom erstellt wurden. Alle dem Benutzer durch diesen Vertrag nicht ausdrücklich zugesicherten Rechte sind Winch Gate vorbehalten.\n
 	\n
-	10. SPÄTERE VERSIONSVERBESSERUNGEN. Weder dieser Vertrag noch Ihr Account verleiht Ihnen ein Recht auf spätere Versionen oder Erweiterungen von Ryzom und/oder Ryzom Arkitect Werkzeuge. Winch Gate kann das Spiel erweitern oder verbessern, ist aber nicht verpflichtet, Ihnen diese Erweiterungen oder Verbesserungen zur Verfügung zu stellen. Die kostenlose Bereitstellung eines Updates, einer Erweiterung, oder einer Verbesserung verleiht Ihnen nicht das Recht auf spätere Updates, Erweiterungen oder Verbesserungen.\n
+	10. GNU AGPL-LIZENZ. Der Quellcode der Ryzom-Clientsoftware (Teile des Programms auf dem Computer des Benutzers) wurden von Winch Gate unter einer speziellen "GNU Affero General Public License" veröffentlicht, deren Text unter der folgenden Adresse einsehbar ist: https://www.gnu.org/licenses/agpl-3.0.de.html. Dessen Benutzung ist ebenfalls den Bedingungen dieser Lizenz unterworfen. Dieser Client-Quellcode kann von der Webseite https://bitbucket.org/ryzom/ryzomcore/ heruntergeladen werden.\n
 	\n
-	11. EIGENTUMSRECHT DES SPIELS UND SEINER BESTANDTEILE. Winch Gate ist der alleinige Eigentümer von Ryzom und der Ryzom Arkitect Werkzeuge, von allen proprietären Bestandteilen, die zur Funktion von Ryzom benötigt werden, und besitzt alle Rechte am geistigen Eigentum dieser Bestandteile. Sie erkennen an, dass Ryzom und dessen Inhalt durch das Urheberrecht und andere Rechte am geistigen Eigentum im Besitz von Winch Gate, oder deren Lieferanten geschützt sind und dass Sie keinen Anspruch über die begrenzten Lizenzrechte hinaus haben, die Ihnen unter den Bedingungen des Artikels 7 dieses Vertrages ausdrücklich gewährt werden. Winch Gate ist auch der alleinige Eigentümer des Benutzerkontos und aller Elemente, jeglichen Objekten, Entwürfen, oder Inhalten, die durch den Benutzer über dieses Konto erstellt oder verwendet werden, einschließlich, aber nicht auf diese Aufzählung beschränkt, der Charaktere, ihres Aussehens, ihrer Eigenschaften, Geschichten, erstellter oder hergestellter Objekte, Gilden, Gruppen und Titel, und aller Elemente, jeglicher Objekte, Entwürfe oder Inhalte, die mit den Ryzom Arkitect Werkzeugen erstellt wurden. Der Nutzer räumt Winch Gate auch das volle Eigentumsrecht an den Informationen ein, die über das Konto an den Server gesendet werden, sowie aller Elemente, jeglicher Objekte, jeglicher Entwürfe oder Inhalte, die mittels der Ryzom Arkitect Werkzeuge erstellt wurde, um sie zu verwenden (mit Ausnahme der persönlichen Daten und Nachrichten adressiert an andere Benutzer), wie Winch Gate es für richtig hält, einschließlich einer kommerziellen Vermarktung.\n
+	11. SPÄTERE VERSIONSVERBESSERUNGEN. Weder dieser Vertrag noch Ihr Account verleiht Ihnen ein Recht auf spätere Versionen oder Erweiterungen von Ryzom und/oder Ryzom Arkitect Werkzeuge. Winch Gate kann das Spiel erweitern oder verbessern, ist aber nicht verpflichtet, Ihnen diese Erweiterungen oder Verbesserungen zur Verfügung zu stellen. Die kostenlose Bereitstellung eines Updates, einer Erweiterung, oder einer Verbesserung verleiht Ihnen nicht das Recht auf spätere Updates, Erweiterungen oder Verbesserungen.\n
 	\n
-	12. DURCH DEN BENUTZER GESENDETE INFORMATIONEN UND DATEN. Die im Zuge der Nutzung von Ryzom durch den Benutzer kommunizierten oder gesandten Daten und Informationen dürfen (a) nicht gegen die Rechte irgendwelcher anderer verstoßen, inklusive deren Urheberrechte, Bildrechte und deren Recht auf Privatsphäre; (b) dürfen nicht gegen geltendes Gesetz, Verordnungen oder ähnliches verstoßen; (c) dürfen keine Inhalte verleumderischer, unsittlicher und/oder obszöner Natur beherbergen oder sonstwie generell schädlicher Natur für Minderjährige sein; (d) dürfen keine Viren, Trojaner, schädlichen Programmcodes, Würmer, logische Bomben oder andere Computerbefehle, Pogramme oder Subprogramme beinhalten, welche darauf ausgelegt sind, Schaden, Datenschaden oder unautorisierte Änderungen an der Ryzom-Software, an den Ryzom Servern und/oder an Ryzom Arkitect Werkzeugen zu verursachen. Wir behalten uns das Recht vor, im Notfall jegliche Mittel gegen Ihren Account (inklusive der Suspendierung und Auflösung) einzusetzen, deren Einsatz wir als nötig erachten, insofern wir den Eindruck bekommen, dass Sie den oben genannten Verboten zuwiderhandeln.\n
+	12. EIGENTUMSRECHT DES SPIELS UND SEINER BESTANDTEILE. Winch Gate ist der alleinige Eigentümer von Ryzom und der Ryzom Arkitect Werkzeuge, von allen proprietären Bestandteilen, die zur Funktion von Ryzom benötigt werden, und besitzt alle Rechte am geistigen Eigentum dieser Bestandteile. Sie erkennen an, dass Ryzom und dessen Inhalt durch das Urheberrecht und andere Rechte am geistigen Eigentum im Besitz von Winch Gate, oder deren Lieferanten geschützt sind und dass Sie keinen Anspruch über die begrenzten Lizenzrechte hinaus haben, die Ihnen unter den Bedingungen des Artikels 7 dieses Vertrages ausdrücklich gewährt werden. Winch Gate ist auch der alleinige Eigentümer des Benutzerkontos und aller Elemente, jeglichen Objekten, Entwürfen, oder Inhalten, die durch den Benutzer über dieses Konto erstellt oder verwendet werden, einschließlich, aber nicht auf diese Aufzählung beschränkt, der Charaktere, ihres Aussehens, ihrer Eigenschaften, Geschichten, erstellter oder hergestellter Objekte, Gilden, Gruppen und Titel, und aller Elemente, jeglicher Objekte, Entwürfe oder Inhalte, die mit den Ryzom Arkitect Werkzeugen erstellt wurden. Der Nutzer räumt Winch Gate auch das volle Eigentumsrecht an den Informationen ein, die über das Konto an den Server gesendet werden, sowie aller Elemente, jeglicher Objekte, jeglicher Entwürfe oder Inhalte, die mittels der Ryzom Arkitect Werkzeuge erstellt wurde, um sie zu verwenden (mit Ausnahme der persönlichen Daten und Nachrichten adressiert an andere Benutzer), wie Winch Gate es für richtig hält, einschließlich einer kommerziellen Vermarktung.\n
 	\n
-	13. VERHALTENSREGELN. Sie erkennen an, dass die richtige Funktion und der Erfolg eines Online-Rollenspiels wie Ryzom und/oder von Ryzom Arkitect von einer empfindlichen Balance abhängt, die Winch Gate aufrechterhalten muss. Dem Benutzer ist es daher strikt verboten: (a) irgendwelche Programme oder Methoden anzuwenden, die den Inhalt oder die Funktionsweisen des Spiels ändern; und /oder (b) den Server zu einer Überlastung führen; (c) irgendwelche Prozeduren anzuwenden, die es einfacher machen, Anweisungen schneller zu erlangen und/oder Befehle schneller auszuführen, als sie durch den normalen Spielgebrauch möglich sind; (d) das Benutzerinterface oder jede andere Komponente der Software zu verändern, um Gegenstände, Erfahrungspunkte, Ingame-Geldmittel, Charakter-Attribute, -Ränge und so weiter zu bekommen, ohne dass der Erhalt dieser Dinge auf die normale Nutzung des Spiels zurückzuführen ist; (e) Spielcharaktere zu kaufen, verkaufen oder zu übertragen, ebenso wie ihre Attribute oder sonstige Elemente, Objekte, Designs oder jegliche Inhalte, die unter Benutzung der Ryzom Arkitect Tools kreiert wurden. Darüber hinaus muss der Benutzer jederzeit die Verhaltens- und Höflichkeitsregeln sowie die Ryzom-Namensregeln einhalten, die im Forum zum Spiel auf http://app.ryzom.com/app_forum/index.php?page=topic/view/21885 einzusehen sind. Die Inhalte dieser Regeln werden hiermit als ein integraler Teil dieses Vertrages erklärt. Wir behalten uns das Recht vor, im Notfall jegliche Mittel gegen Ihren Account (inklusive der Suspendierung und Auflösung) einzusetzen, deren Einsatz wir als nötig erachten, insofern wir den Eindruck bekommen, dass Sie den oben genannten Verboten zuwiderhandeln.\n
+	13. DURCH DEN BENUTZER GESENDETE INFORMATIONEN UND DATEN. Die im Zuge der Nutzung von Ryzom durch den Benutzer kommunizierten oder gesandten Daten und Informationen dürfen (a) nicht gegen die Rechte irgendwelcher anderer verstoßen, inklusive deren Urheberrechte, Bildrechte und deren Recht auf Privatsphäre; (b) dürfen nicht gegen geltendes Gesetz, Verordnungen oder ähnliches verstoßen; (c) dürfen keine Inhalte verleumderischer, unsittlicher und/oder obszöner Natur beherbergen oder sonstwie generell schädlicher Natur für Minderjährige sein; (d) dürfen keine Viren, Trojaner, schädlichen Programmcodes, Würmer, logische Bomben oder andere Computerbefehle, Pogramme oder Subprogramme beinhalten, welche darauf ausgelegt sind, Schaden, Datenschaden oder unautorisierte Änderungen an der Ryzom-Software, an den Ryzom Servern und/oder an Ryzom Arkitect Werkzeugen zu verursachen. Wir behalten uns das Recht vor, im Notfall jegliche Mittel gegen Ihren Account (inklusive der Suspendierung und Auflösung) einzusetzen, deren Einsatz wir als nötig erachten, insofern wir den Eindruck bekommen, dass Sie den oben genannten Verboten zuwiderhandeln.\n
 	\n
-	14. PERSÖNLICHES / BENUTZER-INFORMATIONEN. Winch Gates Unternehmungen betreffend personenbezogener Daten sind in der Personen-Datenschutzerklärung auf der Ryzom Webseite auf  www.ryzom.com zu finden, was hiermit zu einem integralen Bestandteil dieses Vertrages erklärt wird. Winch Gate kann nicht sicherstellen, dass persönliche Informationen, die der Benutzer einem anderen Benutzer im Verlauf des Spiels mitteilt, nicht an weitere Personen preisgegeben werden. Um Patches / Updates (Erneuerungen und Verbesserungen) für das Spiel zu ermöglichen, autorisieren Sie Winch Gate: (a) die Detailinformationen Ihres Computersystems aus Ihrem persönlichem Profil auszulesen und auszuwerten; (b) die Detailinformationen Ihres Computersystems über den Speicherort des Spiels innerhalb Ihres Dateisystems und Ihre Zugangsrechte auszulesen und auszuwerten; und (c) Spielkomponenten und für die Installation relevante Komponenten mittels Ihres Accounts auf Ihren Computer zu laden.\n
+	14. VERHALTENSREGELN. Sie erkennen an, dass die richtige Funktion und der Erfolg eines Online-Rollenspiels wie Ryzom und/oder von Ryzom Arkitect von einer empfindlichen Balance abhängt, die Winch Gate aufrechterhalten muss. Dem Benutzer ist es daher strikt verboten: (a) irgendwelche Programme oder Methoden anzuwenden, die den Inhalt oder die Funktionsweisen des Spiels ändern; und /oder (b) den Server zu einer Überlastung führen; (c) irgendwelche Prozeduren anzuwenden, die es einfacher machen, Anweisungen schneller zu erlangen und/oder Befehle schneller auszuführen, als sie durch den normalen Spielgebrauch möglich sind; (d) das Benutzerinterface oder jede andere Komponente der Software zu verändern, um Gegenstände, Erfahrungspunkte, Ingame-Geldmittel, Charakter-Attribute, -Ränge und so weiter zu bekommen, ohne dass der Erhalt dieser Dinge auf die normale Nutzung des Spiels zurückzuführen ist; (e) Spielcharaktere zu kaufen, verkaufen oder zu übertragen, ebenso wie ihre Attribute oder sonstige Elemente, Objekte, Designs oder jegliche Inhalte, die unter Benutzung der Ryzom Arkitect Tools kreiert wurden. Darüber hinaus muss der Benutzer jederzeit die Verhaltens- und Höflichkeitsregeln sowie die Ryzom-Namensregeln einhalten, die im Forum zum Spiel auf http://app.ryzom.com/app_forum/index.php?page=topic/view/21885 einzusehen sind. Die Inhalte dieser Regeln werden hiermit als ein integraler Teil dieses Vertrages erklärt. Wir behalten uns das Recht vor, im Notfall jegliche Mittel gegen Ihren Account (inklusive der Suspendierung und Auflösung) einzusetzen, deren Einsatz wir als nötig erachten, insofern wir den Eindruck bekommen, dass Sie den oben genannten Verboten zuwiderhandeln.\n
 	\n
-	15. GARANTIE / VERPFLICHTUNGSEINSCHRÄNKUNG. Das Spiel und auch die damit verbundenen Leistungen werden durch Winch Gate "wie sie sind" und mit keiner anderen Garantie als mit dem gesetzlich verpflichteten Minimum an öffentlicher Verpflichtung zur Verfügung gestellt, wie sie auf diesen Vertrag zutrifft. Jede andere Garantieverpflichtung, gesetzlich oder vertraglich, wird ausdrücklich ausgeschlossen. Winch Gate wird alles versuchen, den Benutzeraccount konstant erreichbar zu machen, behält sich aber das Recht vor, Leistungen auf Grund von technischen und Instandhaltungsaktivitäten zu unterbrechen. Winch Gate kann auf gar keinen Fall eine konstante und fehlerfreie Funktion seiner Leistungen oder des Spieles garantieren. Auch kann Winch Gate zu keiner Zeit den unterbrechungsfreien Zugang des Benutzers zu seinen Accounts garantieren. Unter keinen Umständen kann Winch Gate für Schäden an der Computerhardware oder Software durch die Benutzung des Spiels zur Verantwortung gezogen werden. Die Benutzer werden hiermit nochmals an die durch Winch Gate bekanntgegebene Empfehlung für die Mindestkonfiguration des Computers erinnert, und dass sie ihre Software regelmäßig aktualisieren und Sicherungen ihrer wichtigen Daten auf einer regulären Basis durchführen sollten. Winch Gate kann nicht für den Inhalt des Austausches zwischen Spielern oder für das Verhalten von Benutzern verantwortlich gemacht werden. Sollte Winch Gate für Schäden irgendeiner Art und aus welchen Gründen auch immer verantwortlich gemacht werden, kann eine daraus resultierende finanzielle Verpflichtung nicht größer sein als die Gesamtsumme der durch den Benutzer bezahlten Abonnementgebühren.\n
+	15. PERSÖNLICHES / BENUTZER-INFORMATIONEN. Winch Gates Unternehmungen betreffend personenbezogener Daten sind in der Personen-Datenschutzerklärung auf der Ryzom Webseite auf  www.ryzom.com zu finden, was hiermit zu einem integralen Bestandteil dieses Vertrages erklärt wird. Winch Gate kann nicht sicherstellen, dass persönliche Informationen, die der Benutzer einem anderen Benutzer im Verlauf des Spiels mitteilt, nicht an weitere Personen preisgegeben werden. Um Patches / Updates (Erneuerungen und Verbesserungen) für das Spiel zu ermöglichen, autorisieren Sie Winch Gate: (a) die Detailinformationen Ihres Computersystems aus Ihrem persönlichem Profil auszulesen und auszuwerten; (b) die Detailinformationen Ihres Computersystems über den Speicherort des Spiels innerhalb Ihres Dateisystems und Ihre Zugangsrechte auszulesen und auszuwerten; und (c) Spielkomponenten und für die Installation relevante Komponenten mittels Ihres Accounts auf Ihren Computer zu laden.\n
 	\n
-	16. STILLLEGUNG DES SPIELS DURCH WINCH GATE. Winch Gate übernimmt keine Garantie gegenüber den Benutzern für die dauernde Aufrechterhaltung seines Spielbetriebs. Winch Gate behält sich das Recht vor, das Spiel oder die Aufrechterhaltung der Services jederzeit nach eigenem Ermessen zu beenden, sollten die Benutzerzahlen eine erforderliche Menge nicht mehr erreichen oder beibehalten, oder aus anderen Gründen. Winch Gate wird die Benutzer in einem solchen Fall aber durch eine Nachricht beim Einloggen in das Spiel, durch eine Information auf der Webseite www.ryzom.com oder per E-Mail unterrichten. Die Benutzeraccounts würden in einem solchen Fall definitiv geschlossen.\n
+	16. GARANTIE / VERPFLICHTUNGSEINSCHRÄNKUNG. Das Spiel und auch die damit verbundenen Leistungen werden durch Winch Gate "wie sie sind" und mit keiner anderen Garantie als mit dem gesetzlich verpflichteten Minimum an öffentlicher Verpflichtung zur Verfügung gestellt, wie sie auf diesen Vertrag zutrifft. Jede andere Garantieverpflichtung, gesetzlich oder vertraglich, wird ausdrücklich ausgeschlossen. Winch Gate wird alles versuchen, den Benutzeraccount konstant erreichbar zu machen, behält sich aber das Recht vor, Leistungen auf Grund von technischen und Instandhaltungsaktivitäten zu unterbrechen. Winch Gate kann auf gar keinen Fall eine konstante und fehlerfreie Funktion seiner Leistungen oder des Spieles garantieren. Auch kann Winch Gate zu keiner Zeit den unterbrechungsfreien Zugang des Benutzers zu seinen Accounts garantieren. Unter keinen Umständen kann Winch Gate für Schäden an der Computerhardware oder Software durch die Benutzung des Spiels zur Verantwortung gezogen werden. Die Benutzer werden hiermit nochmals an die durch Winch Gate bekanntgegebene Empfehlung für die Mindestkonfiguration des Computers erinnert, und dass sie ihre Software regelmäßig aktualisieren und Sicherungen ihrer wichtigen Daten auf einer regulären Basis durchführen sollten. Winch Gate kann nicht für den Inhalt des Austausches zwischen Spielern oder für das Verhalten von Benutzern verantwortlich gemacht werden. Sollte Winch Gate für Schäden irgendeiner Art und aus welchen Gründen auch immer verantwortlich gemacht werden, kann eine daraus resultierende finanzielle Verpflichtung nicht größer sein als die Gesamtsumme der durch den Benutzer bezahlten Abonnementgebühren.\n
 	\n
-	17. KÜNDIGUNG DURCH WINCH GATE. Winch Gate kann den Vertrag mit einem Benutzer und dessen Account sofort und ohne vorherige Warnung oder zusendung einer entsprechenden Nachricht beenden, wenn der Benutzer irgendeine der in diesem Vertrag festgelegten Pflichten oder Bedingungen, die durch Dokumente auferlegt wurden beziehungsweise die als Teil dieses Vertrages deklariert wurden, missachtet. Sollte Winch Gate einen Benutzeraccount auf Grund eines Vertragsbruches schließen, so behält sich Winch Gate das Recht vor, den Computer, die Kreditkarte (oder andere eingesetzte Zahlungswege) zu bannen und/oder die Software vom künftigem Zugriff auf das Spiel auszuschließen. Wenn der Computer für das Spiel gebannt oder die Software unwirksam gemacht wurde, wird jede andere Person, die den selben Computer oder dieselbe Software verwendet, nicht mehr in der Lage sein, sich mit dem Spiel zu verbinden. Wenn die Kreditkarte (oder ein anderer Zahlungsweg) eines Accounts gebannt ist, können auch alle anderen Accounts gebannt sein, die dieselben Daten benutzen. In einem solchen Fall wird es für den Benutzer keine Zurückzahlung der auf die restlichen Tage bis zur Beendigung des gewählten Abonnementzeitraumes umgerechneten Abonnementgebühren geben.\n
+	17. STILLLEGUNG DES SPIELS DURCH WINCH GATE. Winch Gate übernimmt keine Garantie gegenüber den Benutzern für die dauernde Aufrechterhaltung seines Spielbetriebs. Winch Gate behält sich das Recht vor, das Spiel oder die Aufrechterhaltung der Services jederzeit nach eigenem Ermessen zu beenden, sollten die Benutzerzahlen eine erforderliche Menge nicht mehr erreichen oder beibehalten, oder aus anderen Gründen. Winch Gate wird die Benutzer in einem solchen Fall aber durch eine Nachricht beim Einloggen in das Spiel, durch eine Information auf der Webseite www.ryzom.com oder per E-Mail unterrichten. Die Benutzeraccounts würden in einem solchen Fall definitiv geschlossen.\n
 	\n
-	18. KÜNDIGUNG DURCH DEN BENUTZER. Der Benutzer kann seinen Vertrag und seine Accounts jederzeit kündigen, indem er Winch Gate davon per E-Mail an support@ryzom.com oder auf anderem durch den Zugang zum Account angebotenen Wege informiert. Die Kündigung tritt mit der Beendigung des aktuell gewählten Abonnementzeitraumes in Kraft. Die Gebühren bis zum Ende des Abonnementzeitraumes werden nicht zurückgezahlt, selbst dann nicht, wenn der Benutzer seinen Account bis zur Beendigung des Abonnementzeitraumes nicht mehr nutzt.\n
+	18. KÜNDIGUNG DURCH WINCH GATE. Winch Gate kann den Vertrag mit einem Benutzer und dessen Account sofort und ohne vorherige Warnung oder zusendung einer entsprechenden Nachricht beenden, wenn der Benutzer irgendeine der in diesem Vertrag festgelegten Pflichten oder Bedingungen, die durch Dokumente auferlegt wurden beziehungsweise die als Teil dieses Vertrages deklariert wurden, missachtet. Sollte Winch Gate einen Benutzeraccount auf Grund eines Vertragsbruches schließen, so behält sich Winch Gate das Recht vor, den Computer, die Kreditkarte (oder andere eingesetzte Zahlungswege) zu bannen und/oder die Software vom künftigem Zugriff auf das Spiel auszuschließen. Wenn der Computer für das Spiel gebannt oder die Software unwirksam gemacht wurde, wird jede andere Person, die den selben Computer oder dieselbe Software verwendet, nicht mehr in der Lage sein, sich mit dem Spiel zu verbinden. Wenn die Kreditkarte (oder ein anderer Zahlungsweg) eines Accounts gebannt ist, können auch alle anderen Accounts gebannt sein, die dieselben Daten benutzen. In einem solchen Fall wird es für den Benutzer keine Zurückzahlung der auf die restlichen Tage bis zur Beendigung des gewählten Abonnementzeitraumes umgerechneten Abonnementgebühren geben.\n
 	\n
-	19. VERÄNDERUNGEN DER LIZENZ. Winch Gate behält sich das Recht vor, die Bedingungen des Vertrages jederzeit zu verändern. Der Benutzer wird über alle Änderungen am Vertrag beim nächsten Zugriff auf seinen Account nach der Veränderung informiert. Der Zutritt zum Spiel erfordert die Zustimmung zu diesen veränderten Bedingungen des Vertrages, welche dann sofort in Kraft treten.\n
+	19. KÜNDIGUNG DURCH DEN BENUTZER. Der Benutzer kann seinen Vertrag und seine Accounts jederzeit kündigen, indem er Winch Gate davon per E-Mail an support@ryzom.com oder auf anderem durch den Zugang zum Account angebotenen Wege informiert. Die Kündigung tritt mit der Beendigung des aktuell gewählten Abonnementzeitraumes in Kraft. Die Gebühren bis zum Ende des Abonnementzeitraumes werden nicht zurückgezahlt, selbst dann nicht, wenn der Benutzer seinen Account bis zur Beendigung des Abonnementzeitraumes nicht mehr nutzt.\n
 	\n
-	20. ZU BEACHTENDE VORKEHRUNGEN / EPILEPSIE. Winch Gate erinnert Sie daran, dass Sie das Spiel nicht im müden oder übermüdeten Zustand spielen sollten. Stellen Sie sicher, dass Sie in einem gut beleuchteten Raum mit einem nicht zu hell eingestelltem Bildschirm spielen. Videospiele, die eine Verbindung zu einem Monitor/TV benötigen, sollten in einem vernünftigen Abstand, so weit, wie die Kabelverbindungen erlauben, zu eben diesem Monitor/TV gespielt werden. Nehmen Sie sich zehn- oder fünfzehnminütige Pausen nach jeder Stunde, die Sie gespielt haben. Wir weisen Sie außerdem darauf hin, dass einige Menschen durch Videospiele epileptische Anfälle erleiden können, die den Verlust des visuellen Bewusstseins beinhalten können. Auslöser hiervon können verschiedene oder bestimmte Arten von starken Lichtreizen sein, die rasche Abfolge von Bildern oder die Wiederholung einfacher geometrischer Abbildungen oder die Simulation von Blitzen oder Explosionen. Diese Personen setzen sich dem Risiko solcher Anfälle aus, wenn sie bestimmte Videospiele spielen, die solche Reize enthalten, selbst wenn sie eine Empfindlichkeit für solche Reize in ihrer Vergangenheit nicht erlebten oder nie zuvor einen epileptischen Anfall hatten. Falls Sie selbst oder irgendein anderes Mitglied Ihrer Familie bereits Symptome irgendwelcher Art hatten, die auf die Anfälligkeit für epileptische Anfälle durch Lichtreize hindeutet (Anfälle oder Bewusstseinsverlust), sollten Sie einen Arzt konsultieren, bevor Sie Computerspiele nutzen. Eltern sollten zudem ihren Kindern beim Videospielen besondere Aufmerksamkeit zukommen lassen. Wenn Sie selbst oder Ihr Kind irgend eines der folgenden Symptome aufweisen: Schwindel, visuelle Beeinträchtigung, Augen- oder Muskelkontraktionen, Beeinträchtigung des Orientierungssinnes, unkontrollierte Bewegungen oder Zuckungen, oder zeitweiliger Bewusstseinsverlust; dann müssen Sie sofort das Spielen beenden und einen Arzt konsultieren.\n
+	20. VERÄNDERUNGEN DER LIZENZ. Winch Gate behält sich das Recht vor, die Bedingungen des Vertrages jederzeit zu verändern. Der Benutzer wird über alle Änderungen am Vertrag beim nächsten Zugriff auf seinen Account nach der Veränderung informiert. Der Zutritt zum Spiel erfordert die Zustimmung zu diesen veränderten Bedingungen des Vertrages, welche dann sofort in Kraft treten.\n
 	\n
-	21. ANZUWENDENDES GESETZ / ZUSÄTZLICHE VORSCHRIFTEN. Dieser Vertrag unterliegt dem zyprischen Gesetz. Die UN-Konventionen für internationale Verträge für den Verkauf von Gütern werden hiermit für diesen Vertrag als nicht anwendbar deklariert. Jeder Streitfall, der sich auf diesen Vertrag bezieht, unterwirft sich der absoluten Gerichtsbarkeit des Gerichtshofes auf Zypern. Sollte irgendeine Klausel dieses Vertrages im Hinblick auf einen Benutzer nichtig oder wirkungslos  sein, beeinträchtigt eine solche Nichtigkeit nicht die Gültigkeit oder Wirksamkeit der anderen Vertragsklauseln. Dieser Vertrag kann durch den Benutzer nicht zugewiesen oder übertragen werden.]
+	21. ZU BEACHTENDE VORKEHRUNGEN / EPILEPSIE. Winch Gate erinnert Sie daran, dass Sie das Spiel nicht im müden oder übermüdeten Zustand spielen sollten. Stellen Sie sicher, dass Sie in einem gut beleuchteten Raum mit einem nicht zu hell eingestelltem Bildschirm spielen. Videospiele, die eine Verbindung zu einem Monitor/TV benötigen, sollten in einem vernünftigen Abstand, so weit, wie die Kabelverbindungen erlauben, zu eben diesem Monitor/TV gespielt werden. Nehmen Sie sich zehn- oder fünfzehnminütige Pausen nach jeder Stunde, die Sie gespielt haben. Wir weisen Sie außerdem darauf hin, dass einige Menschen durch Videospiele epileptische Anfälle erleiden können, die den Verlust des visuellen Bewusstseins beinhalten können. Auslöser hiervon können verschiedene oder bestimmte Arten von starken Lichtreizen sein, die rasche Abfolge von Bildern oder die Wiederholung einfacher geometrischer Abbildungen oder die Simulation von Blitzen oder Explosionen. Diese Personen setzen sich dem Risiko solcher Anfälle aus, wenn sie bestimmte Videospiele spielen, die solche Reize enthalten, selbst wenn sie eine Empfindlichkeit für solche Reize in ihrer Vergangenheit nicht erlebten oder nie zuvor einen epileptischen Anfall hatten. Falls Sie selbst oder irgendein anderes Mitglied Ihrer Familie bereits Symptome irgendwelcher Art hatten, die auf die Anfälligkeit für epileptische Anfälle durch Lichtreize hindeutet (Anfälle oder Bewusstseinsverlust), sollten Sie einen Arzt konsultieren, bevor Sie Computerspiele nutzen. Eltern sollten zudem ihren Kindern beim Videospielen besondere Aufmerksamkeit zukommen lassen. Wenn Sie selbst oder Ihr Kind irgend eines der folgenden Symptome aufweisen: Schwindel, visuelle Beeinträchtigung, Augen- oder Muskelkontraktionen, Beeinträchtigung des Orientierungssinnes, unkontrollierte Bewegungen oder Zuckungen, oder zeitweiliger Bewusstseinsverlust; dann müssen Sie sofort das Spielen beenden und einen Arzt konsultieren.\n
+	\n
+	22. ANZUWENDENDES GESETZ / ZUSÄTZLICHE VORSCHRIFTEN. Dieser Vertrag unterliegt dem zyprischen Gesetz. Die UN-Konventionen für internationale Verträge für den Verkauf von Gütern werden hiermit für diesen Vertrag als nicht anwendbar deklariert. Jeder Streitfall, der sich auf diesen Vertrag bezieht, unterwirft sich der absoluten Gerichtsbarkeit des Gerichtshofes auf Zypern. Sollte irgendeine Klausel dieses Vertrages im Hinblick auf einen Benutzer nichtig oder wirkungslos  sein, beeinträchtigt eine solche Nichtigkeit nicht die Gültigkeit oder Wirksamkeit der anderen Vertragsklauseln. Dieser Vertrag kann durch den Benutzer nicht zugewiesen oder übertragen werden.]
 
 // HASH_VALUE AC59689FA8799CBD
 // INDEX 5074
@@ -23305,7 +23307,7 @@ uiLoadingString6	[Wüsten-Holzstaub wird mit dem Rechen in sanfte Wellen gezogen
 
 // HASH_VALUE C3845961575BCF17
 // INDEX 5539
-uiLoadingString7	[Holzstaub aus der Versteckten Quelle wird übers ganze Marodeur-Lager verteilt...]
+uiLoadingString7	[Holzstaub aus der Versteckten Quelle wird übers ganze Lager der Marodeure verteilt...]
 
 // HASH_VALUE 38F016093D5F5AF8
 // INDEX 5540
@@ -24202,7 +24204,7 @@ uittGaugesSta	[@{6F6F}Ausdauerpunkte@{FFFF}:\n
 // HASH_VALUE 21A49D1370B3A93A
 // INDEX 5752
 uittGaugesFoc	[@{6F6F}Fokuspunkte@{FFFF}:\n
-	Wenn du zu wenig Fokus hast, kannst du keinen Rohstoffabbau mehr betreiben und keine Handwerkserzeugnisse mit Boni herstellen. Fokus erholt sich langsam von selbst (schneller im Sitzen), kann aber auch durch andere Spieler, Verbrauchsgüter und Fertigkeiten geheilt werden.]
+	Wenn du zu wenig Fokus hast, kannst du keinen Rohstoffabbau mehr betreiben und keine Handwerkserzeugnisse mit Boni herstellen. Fokus erholt sich langsam von selbst (schneller im Sitzen), kann aber auch durch Verbrauchsgüter und Fertigkeiten geheilt werden.]
 
 // HASH_VALUE 1AC7CE1C76B16FB8
 // INDEX 5753
@@ -26811,7 +26813,7 @@ uiRpJobs	[Berufe]
 
 // HASH_VALUE 21D2AB9C60E8E0A4
 // INDEX 6359
-uiRpJobsElementary	[Basis-Berufe]
+uiRpJobsElementary	[Basisberufe]
 
 // HASH_VALUE 62A74024692697BB
 // INDEX 6360
@@ -26871,7 +26873,7 @@ uiChapterIII	[Kapitel III: Außenposten]
 
 // HASH_VALUE A3244C43859A1438
 // INDEX 6374
-uiChapterIV	[Kapitel IV: Basis-Berufe]
+uiChapterIV	[Kapitel IV: Basisberufe]
 
 // HASH_VALUE 96469B3B70F9145A
 // INDEX 6375
@@ -27182,7 +27184,7 @@ uiOrganizationStatus	[Rang:]
 // HASH_VALUE 67A9E49D2609E451
 // INDEX 6450
 uittOrganization	[Du kannst einer @{6F6F}Organisation@{FFFF} beitreten und durch das Absolvieren einer Rite die Vorteile dafür erlangen, dieser Organisation anzugehören.\n
-	Du musst zuerst die erforderlichen Ruhm-Voraussetzungen erfüllen, bevor du diesen Ritus ablegen kannst. Ein Wissen-Hüter der Organisation kann dir bei Interesse genauere Informationen darüber geben.]
+	Du musst zuerst die erforderlichen Ruhm-Voraussetzungen erfüllen, bevor du diesen Ritus ablegen kannst. Ein Hüter des Wissens der Organisation kann dir bei Interesse genauere Informationen darüber geben.]
 
 // HASH_VALUE 65C71C3EEC5A0FC8
 // INDEX 6451
@@ -27258,11 +27260,11 @@ uittShowClock12h	[Wenn aktiviert, wird die Uhrzeit am Kompass und zu den Chat-Na
 
 // HASH_VALUE 68F99C8C69A81273
 // INDEX 6469
-uiRadarUseCamera	[Kompass folgt der Kamera-Drehung.]
+uiRadarUseCamera	[Kompass folgt der Kameraausrichtung.]
 
 // HASH_VALUE B83EBD58DE9C068F
 // INDEX 6470
-uittRadarUseCamera	[Wenn aktiviert, wird die Rotation für die Kompass-Ansicht eingeschaltet.]
+uittRadarUseCamera	[Wenn aktiviert, wird die Rotation für die Kompassansicht eingeschaltet.]
 
 // HASH_VALUE 82A1901C06A3F72E
 // INDEX 6471
@@ -27382,7 +27384,7 @@ uiBrowse	[Durchsuche]
 
 // HASH_VALUE 4046D798ED76B4BE
 // INDEX 6500
-cmdCreateGroupUsage1	[createGroup Befehls-Verwendung :]
+cmdCreateGroupUsage1	[createGroup Befehlsverwendung :]
 
 // HASH_VALUE 672F2158D608B33D
 // INDEX 6501
@@ -27390,7 +27392,7 @@ cmdCreateGroupUsage2	[/createGroup group_name : erstelle eine Gruppe mit dem Nam
 
 // HASH_VALUE 281F2D43F2731DEC
 // INDEX 6502
-cmdCreateGroupUsage3	[/createGroup group_name true : erstelle eine Gruppe mit dem Namen group_name mit all deinen ausgerüsteten Gegenständen, und erstelle einen Entfernungs-Befehl für jeden leeren Slotplatz]
+cmdCreateGroupUsage3	[/createGroup group_name true : erstelle eine Gruppe mit dem Namen group_name mit all deinen ausgerüsteten Gegenständen, und erstelle einen Entfernungsbefehl für jeden leeren Slotplatz]
 
 // HASH_VALUE 87A04D4E0C663745
 // INDEX 6503
@@ -27406,7 +27408,7 @@ cmdCreateGroupSuccess2	[Gruppe %name wurde erfolgreich erstellt, mitsamt Entfern
 
 // HASH_VALUE EBB1FF685D7AFCC7
 // INDEX 6506
-cmdEquipGroupUsage1	[equipGroup Befehls-Verwendung :]
+cmdEquipGroupUsage1	[equipGroup Befehlsverwendung :]
 
 // HASH_VALUE 0FDFE7D6741FF8C5
 // INDEX 6507
@@ -27422,7 +27424,7 @@ cmdEquipGroupSuccess	[Gruppe %name erfolgreich ausgerüstet.]
 
 // HASH_VALUE 82B6A399EDB6D0B1
 // INDEX 6510
-cmdDeleteGroupUsage1	[deleteGroup Befehls-Verwendung :]
+cmdDeleteGroupUsage1	[deleteGroup Befehlsverwendung :]
 
 // HASH_VALUE 2022F308D2F5591B
 // INDEX 6511
@@ -27438,7 +27440,7 @@ cmdDeleteGroupSuccess	[Gruppe %name erfolgreich gelöscht.]
 
 // HASH_VALUE ADEA727BDB89387A
 // INDEX 6514
-cmdMoveGroupUsage1	[moveGroup Befehls-Verwendung :]
+cmdMoveGroupUsage1	[moveGroup Befehlsverwendung :]
 
 // HASH_VALUE 9AF23A3F90C2A5A1
 // INDEX 6515
@@ -27458,7 +27460,7 @@ cmdMoveGroupSuccess	[Gruppe %name erfolgreich zu %inventory verschoben.]
 
 // HASH_VALUE AE999B8E9D9143A5
 // INDEX 6519
-cmdListGroupHeader	[Verfügbare Gegenstands-Gruppe :]
+cmdListGroupHeader	[Verfügbare Gegenstandsgruppe :]
 
 // HASH_VALUE 5BD4C6549B44ABA5
 // INDEX 6520
@@ -27470,19 +27472,19 @@ uimGroup	[Gruppe]
 
 // HASH_VALUE 0C8BC4F4AE78A6B7
 // INDEX 6522
-uiMacroItemGroupEquip	[Rüste eine Gegenstands-Gruppe aus]
+uiMacroItemGroupEquip	[Rüste eine Gegenstandsgruppe aus]
 
 // HASH_VALUE 5614A7A2A707B055
 // INDEX 6523
-uiMacroItemGroupName	[Gegenstands-Gruppen-Name]
+uiMacroItemGroupName	[Gegenstandsgruppen-Name]
 
 // HASH_VALUE AC27CF9914116C1B
 // INDEX 6524
-uiMacroItemGroupMove	[Verschiebe eine Gegenstands-Gruppe]
+uiMacroItemGroupMove	[Verschiebe eine Gegenstandsgruppe]
 
 // HASH_VALUE A7A1CC916E59E066
 // INDEX 6525
-uiMacroItemGroupDestination	[Ziel der Gegenstands-Gruppe]
+uiMacroItemGroupDestination	[Ziel der Gegenstandsgruppe]
 
 // HASH_VALUE 1627848455283B93
 // INDEX 6526

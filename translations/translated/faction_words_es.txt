@@ -5,6 +5,7 @@ _2DCA2CC01F48D0B6	tryker	Tryker	el	un	Tryker	los	unos
 _224BC0AE0EA920A2	zorai	Zoraï	el	un	Zoraïs	los	unos
 _A7882077E757D4B4	bandit	Bandido	el	un	Bandidos	los	unos
 _AC0AD4AB2947CC7C	civil	Civil	el	un	Civiles	los	unos
+_6388290BE32850A7	black_kami	Merodeador	la	un	Merodeador	la	unos
 _2BF98095A426C07F	degen	Degenerado	el	un	Degenerados	los	unos
 _2A9A98AAE9E7B874	fauna	Fauna	la	una	Fauna	la	una
 _A8F93F8ED3E7C6CD	fauna_carnivore	Carnívoro	el	un	Carnívoros	los	unos
