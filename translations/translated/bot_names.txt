@@ -9986,3 +9986,4 @@ _EA6E25F71F768C33	StockMonture_PNJ_A	Ba'Shekry Brafflie
 _916ECDF82395B380	StockMonture_PNJ_B	Mac'Roffy Shillan			
 _1329441BAAA6F097	marauder_camp_foreman	Shonga DeFao			
 _A67747ACA7496082	marauder_camp_barman	Kelen BaRopi			
+_100BC3D71FC56D33	rite_geo_mat_maj_gar_1_maccia_pittore	Maccia Pittore			
