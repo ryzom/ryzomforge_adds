@@ -9354,12 +9354,15 @@ _2D5748B6E57998AA	micro_boss_messab	Messaboth
 _ACD7ECA867E98CAA	micro_boss_yelk	Yelkoth			
 _AF16B8C7E0E988BB	micro_boss_yubo	Yuboth			
 _66BA7890A9E564BD	casino_machine	Jackpot			
+_6B5A9088EAA4A780	casino_machine_matis02	Jackpot			
+_6B5A9088EAA4AB80	casino_machine_matis03	Jackpot			
 _6BBA88A028A4A380	casino_machine_fyros01	Jackpot			
 _6B5A9088EAA4A380	casino_machine_matis01	Jackpot			
 _E9DA88962DA4A380	casino_machine_zorai01	Jackpot			
 _292984976233E3BD	casino_machine_tryker01	Jackpot			
 _A6F6B7B1255598CA	token_dispenser	Vendeur de Jeton			
 _814050F6C9279332	token_dispenser_matis02	Ba'Roppy Allan			
+_834E24F9C9373028	token_dispenser_matis03	Ba'Lekry Dassie			
 _076E84F5C9174C29	token_dispenser_fyros01	Ba'Arppy Garren			
 _A65E801B5AD452C2	token_dispenser_matis01	Ba'Gan Effxy			
 _FD2BD5BDDBD62D1C	token_dispenser_tryker01	Ba'Duffy Baxan			
