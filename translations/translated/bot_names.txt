@@ -9981,5 +9981,7 @@ _6F5B988A160E3512	liv_laby2012_start_npc	Ba'peappy Shidgen
 _0EA1F8323AECDB4B	kami_altar_silan_shining_lake	$gn_kami_altar_silan_shining_lake$			
 _DA6E381CF5EC33A6	kami_altar_silan_ranger_camp	$gn_kami_altar_silan_ranger_camp$			
 _3F5EE511C9E08509	sage_marauder_rite_giver	Erhialor Krinrund			
+_EA6E25F71F768C33	StockMonture_PNJ_A	Ba'Shekry Brafflie			
+_916ECDF82395B380	StockMonture_PNJ_B	Mac'Roffy Shillan			
 _1329441BAAA6F097	marauder_camp_foreman	Shonga DeFao			
 _A67747ACA7496082	marauder_camp_barman	Kelen BaRopi			
