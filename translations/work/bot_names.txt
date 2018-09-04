@@ -9983,3 +9983,4 @@ marauder_camp_barman	Kelen BaRopi
 sage_marauder_rite_giver	Erhialor Krinrund
 StockMonture_PNJ_A	Ba'Shekry Brafflie
 StockMonture_PNJ_B	Mac'Roffy Shillan
+temp_maro_direct_acces_to_alamti	Qung Wo-Jin
