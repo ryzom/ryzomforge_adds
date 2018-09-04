@@ -9354,12 +9354,15 @@ micro_boss_yubo	Yuboth
 casino_machine	Jackpot	
 casino_machine_fyros01	Jackpot	
 casino_machine_matis01	Jackpot	
+casino_machine_matis02	Jackpot	
+casino_machine_matis03	Jackpot	
 casino_machine_zorai01	Jackpot	
 casino_machine_tryker01	Jackpot	
 token_dispenser	Vendeur de Jeton	
 token_dispenser_fyros01	Ba'Arppy Garren	
 token_dispenser_matis01	Ba'Gan Effxy	
 token_dispenser_matis02	Ba'Roppy Allan	
+token_dispenser_matis03	Ba'Lekry Dassie	
 token_dispenser_tryker01	Ba'Duffy Baxan	
 token_dispenser_zorai01	Ba'Dardan Garnan	
 mf_100_eboulis	$eboulis$	
@@ -9978,3 +9981,5 @@ liv_laby2012_start_npc	Ba'peappy Shidgen
 marauder_camp_foreman	Shonga DeFao
 marauder_camp_barman	Kelen BaRopi
 sage_marauder_rite_giver	Erhialor Krinrund
+StockMonture_PNJ_A	Ba'Shekry Brafflie
+StockMonture_PNJ_B	Mac'Roffy Shillan
