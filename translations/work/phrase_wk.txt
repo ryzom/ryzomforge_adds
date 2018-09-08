@@ -6075,3 +6075,7 @@ MENU_GLOWING_COAL()
 {
 	[Glowing Coal]
 }
+MENU_MATISPOETRY()
+{
+	[Collection of Matis poetry.]
+}
