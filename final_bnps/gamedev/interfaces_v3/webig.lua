@@ -8,6 +8,12 @@ if (webig.sheetLists==nil) then
 	webig.sheetLists = {}
 end
 
+function getUCtf8(text)
+	local uctext = ucstring()
+	uctext:fromUtf8(text)
+	return uctext
+end
+
 
 function webig:addSheet(dst, sheet, quality, quantity, worned, user_color, rm_class_type, rm_faber_stat_type)
 	if quality == nil then quality=0 end
@@ -176,11 +182,11 @@ function webig:doRemoveDbSheetQuantity(sheet_list, ctrl)
 	if new_quantity >= current_quantity then
 		webig:deleteItem(db..":"..ctrl)
 	else
-		addDbProp(db..":"..ctrl..":QUANTITY", current_quantity-new_quantity)
+		addDbProp(db..":"..ctrl..":QUANTITY", new_quantity)
 	end
 end
 
---assert(nil, "RELOADABLE SCRIPT");
+--assert(nil, "RELOADABLE SCRIPT")
 
 
 
