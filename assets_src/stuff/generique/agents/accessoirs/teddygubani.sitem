@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<FORM Revision="$Revision: 1.7 $" State="modified">
+  <PARENT Filename="_c_m1pd.sitem"/>
+  <STRUCT>
+    <STRUCT Name="basics">
+      <ATOM Name="name" Value="staff"/>
+      <ATOM Name="origin" Value="common"/>
+      <ATOM Name="family" Value="handled item"/>
+      <ATOM Name="ItemType" Value="Staff"/>
+      <ATOM Name="Bulk" Value="5"/>
+      <ATOM Name="RequiredCharacQualityFactor" Value="0"/>
+      <ATOM Name="RequiredCharacQualityOffset" Value="0"/>
+    </STRUCT>
+    <STRUCT Name="3d">
+      <ATOM Name="shape" Value="teddy_gubani-01.shape"/>
+      <ATOM Name="shape_female" Value="teddy_gubani-01.shape"/>
+      <ATOM Name="map_variant" Value="Low Quality"/>
+      <ATOM Name="icon" Value="icon_teddygubani.tga"/>
+      <ATOM Name="icon background" Value="BK_generic.tga"/>
+      <ATOM Name="icon overlay" Value="icon_teddygubani.tga"/>
+      <STRUCT Name="fx">
+        <ATOM Name="Trail" Value="GE_Wea_Baton_trail_00.shape"/>
+      </STRUCT>
+    </STRUCT>
+  </STRUCT>
+  <STRUCT/>
+  <STRUCT/>
+  <STRUCT/>
+  <STRUCT/>
+  <LOG></LOG>
+</FORM>
