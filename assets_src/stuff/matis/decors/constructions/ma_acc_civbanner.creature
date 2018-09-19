@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<FORM Revision="$Revision: 1.9 $" State="modified">
+  <STRUCT>
+    <STRUCT Name="Collision">
+      <ATOM Name="Length" Value="1,625"/>
+      <ATOM Name="Width" Value="0,686"/>
+      <ATOM Name="Height" Value="4,621"/>
+    </STRUCT>
+    <STRUCT Name="3d data">
+      <ATOM Name="DisplayOSD" Value="true"/>
+      <ATOM Name="DisplayInRadar" Value="false"/>
+      <ATOM Name="DisplayName" Value="false"/>
+      <ATOM Name="DisplayBars" Value="false"/>
+    </STRUCT>
+    <STRUCT Name="Properties">
+      <ATOM Name="Selectable" Value="true"/>
+      <ATOM Name="Attackable" Value="false"/>
+      <ATOM Name="Curativable" Value="false"/>
+      <ATOM Name="Turn" Value="false"/>
+    </STRUCT>
+  </STRUCT>
+</FORM>
