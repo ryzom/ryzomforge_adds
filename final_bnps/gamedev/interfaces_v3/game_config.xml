@@ -183,7 +183,7 @@
             posref="BL BL"
             scale="true"
             y="4"
-            w="86"
+            w="130"
             h="2"
             texture="W_line_hor2.tga" />
       <view type="text"
@@ -202,7 +202,7 @@
             posref="MM MM"
             x="0"
             y="-1"
-            w="86"
+            w="130"
             h="8"
             vertical="false"
             align="L"
@@ -246,7 +246,7 @@
             posref="BL BL"
             scale="true"
             y="4"
-            w="86"
+            w="130"
             h="2"
             texture="W_line_hor2.tga" />
       <view type="text"
@@ -265,7 +265,7 @@
             posref="MM MM"
             x="0"
             y="-1"
-            w="86"
+            w="130"
             h="8"
             vertical="false"
             align="L"
@@ -378,7 +378,7 @@
             y="-18"
             value="">
     <group id="#id"
-           w="160"
+           w="184"
            h="20"
            posparent="#posparent"
            posref="#posref"
@@ -399,7 +399,7 @@
              posref="MR MR"
              x="0"
              y="0"
-             w="90"
+             w="120"
              h="20"
              value="#value">
         <instance template="combo_box_def1" />
@@ -427,6 +427,12 @@
             type="sint32"
             value="0" />
   <variable entry="UI:TEMP:PRESET_FX"
+            type="sint32"
+            value="0" />
+  <variable entry="UI:TEMP:ANISOTROPIC"
+            type="sint32"
+            value="0" />
+  <variable entry="UI:TEMP:VR_DEVICE"
             type="sint32"
             value="0" />
   <variable entry="UI:TEMP:TEXTURE_MODE"
@@ -523,10 +529,8 @@
            posref="TL TL"
            group_onclick_r="active_menu"
            group_params_r="menu=ui:interface:base_menu_with_color">
-      <!--
                 <view type="text_number" id="fps" posref="MR MR" x="-20" y="-2" color="255 255 255 255" shadow="true" fontsize="10" value="UI:VARIABLES:FPS" global_color="false" positive="true"/>
                 <view type="text" id="fpstext" posref="MR MR" x="-40" y="-2" color="255 255 255 255" shadow="true" fontsize="10" global_color="false" positive="true" hardtext="uiFPS" />
-                -->
     </group>
     <group id="content"
            x="0"
@@ -692,6 +696,12 @@
                   name="uigcSpecialFX"
                   handler="lua"
                   params="game:configShowOne('fx')"
+                  fontsize="10"
+                  y_decal="-1" />
+            <node id="vr"
+                  name="uigcVR"
+                  handler="lua"
+                  params="game:configShowOne('vr')"
                   fontsize="10"
                   y_decal="-1" />
           </node>
@@ -907,7 +917,7 @@
         </group>
         <group type="combo_box"
                id="video_modes"
-               w="90"
+               w="100"
                h="20"
                value="UI:TEMP:VID_MODE"
                posparent="fullscreen"
@@ -1221,8 +1231,46 @@
                   posref="BL TL"
                   x="-20"
                   y="-12" />
+        <instance template="tgcw_checkbox"
+                  id="fxaa"
+                  text="uiFXAA"
+                  posparent="shadow"
+                  posref="BL TL"
+                  x="0"
+                  y="-12" />
+        <group id="anisotropic_gr"
+               posparent="fxaa"
+               sizeparent="parent"
+               sizeref="w"
+               h="20"
+               posref="BL TL"
+               x="0"
+               y="-12">
+          <view type="text"
+                    id="text"
+                    posref="TL TL"
+                    x="0"
+                    y="-4"
+                    color="255 255 255 192"
+                    fontsize="12"
+                    shadow="true"
+                    hardtext="uigcFxAnisotropicFilter" />
+          <group type="combo_box"
+                    id="anisotropic"
+                    w="70"
+                    h="20"
+                    value="UI:TEMP:ANISOTROPIC"
+                    posref="MR ML"
+                    posparent="text"
+                    x="4"
+                    y="0">
+            <instance template="combo_box_def1" />
+          </group>
+          <link expr="@UI:TEMP:ANISOTROPIC"
+                action="game_config_change_anisotropic" />
+        </group>
         <group id="bloom_gr"
-               posparent="shadow"
+               posparent="anisotropic_gr"
                sizeparent="parent"
                sizeref="w"
                h="100"
@@ -1350,11 +1398,27 @@
                   x="0"
                   y="-12" />
         <instance template="tgcw_checkbox"
+                  id="show_clock_12h"
+                  text="uiShowClock12h"
+                  tooltip="uittShowClock12h"
+                  posref="BL TL"
+                  posparent="show_clock"
+                  x="0"
+                  y="-12" />
+        <instance template="tgcw_checkbox"
                   id="show_reticle"
                   text="uiShowReticle"
                   tooltip="uittShowReticle"
                   posref="BL TL"
-                  posparent="show_clock"
+                  posparent="show_clock_12h"
+                  x="0"
+                  y="-12" />
+        <instance template="tgcw_checkbox"
+                  id="radar_use_camera"
+                  text="uiRadarUseCamera"
+                  tooltip="uittRadarUseCamera"
+                  posref="BL TL"
+                  posparent="show_reticle"
                   x="0"
                   y="-12" />
       </group>
@@ -2606,9 +2670,9 @@
         <instance template="tgcw_checkbox"
                   id="hard"
                   text="uiMouseHardware"
-                  posref="TR TR"
-                  x="-55"
-                  y="-20" />
+                  posref="TM TL"
+                  x="0"
+                  y="-35" />
         <instance template="tgcw_checkbox"
                   id="inverted"
                   text="uiMouseInverted"
@@ -2620,6 +2684,13 @@
                   id="dbl"
                   text="uiMouseDblClickMode"
                   posparent="inverted"
+                  posref="BL TL"
+                  x="0"
+                  y="-2" />
+        <instance template="tgcw_checkbox"
+                  id="tablet"
+                  text="uiMouseTablet"
+                  posparent="dbl"
                   posref="BL TL"
                   x="0"
                   y="-2" />
@@ -2728,6 +2799,82 @@
             id="sb_keyb"
             align="T"
             target="keyb"
+            posparent="crop"
+            posref="TL TR"
+            x="-8"
+            y="0" />
+      <!-- *** -->
+      <group id="vr"
+             active="false"
+             posparent="crop"
+             posref="TM TM"
+             x="0"
+             y="-8"
+             sizeref="w"
+             child_resize_h="true"
+             child_resize_hmargin="4"
+             w="-4"
+             max_sizeparent="crop"
+             max_sizeref="h"
+             max_h="-4">
+        <view style="sgc_title"
+              type="text"
+              id="gen"
+              posref="TM TM"
+              x="0"
+              y="0"
+              hardtext="uiVRGeneral" />
+        <group id="enabler"
+               posref="TL TL"
+               x="0"
+               y="-16"
+               child_resize_w="true"
+               h="14">
+          <ctrl type="button"
+                id="c"
+                button_type="toggle_button"
+                posref="TL TL"
+                x="0"
+                y="0"
+                tx_normal="w_slot_on.tga"
+                tx_pushed="w_opacity_on.tga"
+                tx_over="w_slot_on.tga"
+                color="255 255 255 255"
+                col_pushed="255 255 255 255"
+                col_over="255 255 255 0"
+                onclick_l="game_config_change_vr_enable"
+                params_l="" />
+          <view type="text"
+                id="text"
+                posparent="c"
+                posref="MR ML"
+                x="4"
+                y="-2"
+                color="255 255 255 192"
+                fontsize="12"
+                shadow="true"
+                hardtext="uiVREnable" />
+        </group>
+        <group type="combo_box"
+               id="vr_devices"
+               sizeparent="parent"
+               sizeref="w"
+               w="0"
+               h="20"
+               value="UI:TEMP:VR_DEVICE"
+               posparent="enabler"
+               posref="BL TL"
+               x="0"
+               y="-4">
+          <instance template="combo_box_def1" />
+        </group>
+        <link expr="@UI:TEMP:VR_DEVICE"
+              action="game_config_change_vr_device" />
+      </group>
+      <ctrl style="skin_scroll"
+            id="sb_vr"
+            align="T"
+            target="vr"
             posparent="crop"
             posref="TL TR"
             x="-8"
@@ -3048,6 +3195,17 @@
                realtime="true"
                link="Shadows"
                preset="UI:TEMP:PRESET_FX" />
+        <param ui="fx:fxaa:c"
+               type="cfg"
+               widget="boolbut"
+               realtime="true"
+               link="FXAA"
+               preset="UI:TEMP:PRESET_FX" />
+        <param ui="fx:anisotropic_gr:anisotropic:c"
+               type="db"
+               widget="boolbut"
+               realtime="true"
+               link="UI:TEMP:ANISOTROPIC" />
         <param ui="fx:bloom_gr:bloom:c"
                type="cfg"
                widget="boolbut"
@@ -3118,10 +3276,20 @@
                widget="boolbut"
                link="UI:SAVE:SHOW_CLOCK"
                realtime="true" />
+        <param ui="hud:show_clock_12h:c"
+               type="db"
+               widget="boolbut"
+               link="UI:SAVE:SHOW_CLOCK_12H"
+               realtime="true" />
         <param ui="hud:show_reticle:c"
                type="db"
                widget="boolbut"
                link="UI:SAVE:SHOW_RETICLE"
+               realtime="true" />
+        <param ui="hud:radar_use_camera:c"
+               type="db"
+               widget="boolbut"
+               link="UI:SAVE:RADAR:USE_CAMERA"
                realtime="true" />
         <param ui="alpha_colors:col_day:c"
                type="db"
@@ -3278,7 +3446,7 @@
                widget="sbint"
                link="UI:SAVE:CHAT:FONT_SIZE"
                min="9"
-               max="14"
+               max="20"
                realtime="true" />
         <param ui="entity_colors:cc_user:c"
                type="db"
@@ -3669,6 +3837,11 @@
                type="cfg"
                widget="boolbut"
                link="DblClickMode"
+               realtime="true" />
+        <param ui="mouse:tablet:c"
+               type="cfg"
+               widget="boolbut"
+               link="FreeLookTablet"
                realtime="true" />
         <param ui="mouse:dcspeed:c"
                type="db"
