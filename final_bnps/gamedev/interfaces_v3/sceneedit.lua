@@ -56,7 +56,7 @@ function SceneEditor:launch_menu(id)
 		SelectedInstanceId = id
 	end
 	local menu = getUI("ui:interface:ark_scene_editor_edit_menu")
-	menu:setMinW(85)
+	menu:setMinW(185)
 	menu:updateCoords()
 	menu = menu:getRootMenu()
 	menu:reset()
@@ -85,6 +85,7 @@ function SceneEditor:launch_menu(id)
 	subMenu:addIconLine(ucstring("Axe X"), "lua", "ARK_SHAPE_LATEST_X, ARK_SHAPE_LATEST_Y = getMousePos(); setOnDraw(getUI('ui:interface:ark_scene_editor'), 'SceneEditor:scale(SelectedInstanceId, \"x\")')", "shape_scale_x", "ark_scale_x.tga")
 	subMenu:addIconLine(ucstring("Axe Y"), "lua", "ARK_SHAPE_LATEST_X, ARK_SHAPE_LATEST_Y = getMousePos(); setOnDraw(getUI('ui:interface:ark_scene_editor'), 'SceneEditor:scale(SelectedInstanceId, \"y\")')", "shape_scale_y", "ark_scale_y.tga")
 	subMenu:addIconLine(ucstring("Axe Z"), "lua", "ARK_SHAPE_LATEST_X, ARK_SHAPE_LATEST_Y = getMousePos(); setOnDraw(getUI('ui:interface:ark_scene_editor'), 'SceneEditor:scale(SelectedInstanceId, \"z\")')", "shape_scale_z", "ark_scale_z.tga")
+	subMenu:addIconLine(ucstring("Axes X & Y & Z"), "lua", "ARK_SHAPE_LATEST_X, ARK_SHAPE_LATEST_Y = getMousePos(); setOnDraw(getUI('ui:interface:ark_scene_editor'), 'SceneEditor:scale(SelectedInstanceId, \"xyz\")')", "shape_scale_xyz", "ark_scale_xyz.tga")
 	
 	menu:addLine(ucstring("-- COLLISION EDITION --"), "", "", "col_header")
 	menu:addLine(ucstring("Move"), "", "", "col_move")
@@ -171,6 +172,11 @@ function SceneEditor:scale(id, axe)
 	else
 		mx, my = getMousePos()
 		local setup = {}
+		if axe == "xyz" then
+			setup["scale x"]="+"..tostring((mx-ARK_SHAPE_LATEST_X)/100)
+			setup["scale y"]="+"..tostring((mx-ARK_SHAPE_LATEST_X)/100)
+			setup["scale z"]="+"..tostring((mx-ARK_SHAPE_LATEST_X)/100)
+		end
 		if axe == "x" then setup["scale x"]="+"..tostring((mx-ARK_SHAPE_LATEST_X)/100) end
 		if axe == "y" then setup["scale y"]="+"..tostring((mx-ARK_SHAPE_LATEST_X)/100) end
 		if axe == "z" then setup["scale z"]="+"..tostring((my-ARK_SHAPE_LATEST_Y)/100) end
@@ -554,6 +560,7 @@ function SceneEditor:get_html(message, message_bg)
 						shape["rot"] = self:get_vector(getShapeRot(shape_id))
 						colpos_x, colpos_y, colpos_z = getShapeColPos(shape_id)
 						colscale_x, colscale_y, colscale_z = getShapeColScale(shape_id)
+						colorient = getShapeColOrient(shape_id)
 						shape["setup"] = {}
 						shape["setup"]["scale x"] = scale_x
 						shape["setup"]["scale y"] = scale_y
@@ -563,6 +570,7 @@ function SceneEditor:get_html(message, message_bg)
 						shape["setup"]["col size x"] = colscale_x
 						shape["setup"]["col size y"] = colscale_y
 						shape["setup"]["col size z"] = colscale_z
+						shape["setup"]["col orientation"] = colorient
 						local color = "202020"
 						if k % 2 == 0 then
 							color = "101010"
