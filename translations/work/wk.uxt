@@ -13557,6 +13557,7 @@ uittMapSearch [Map search]
 uimMacroCopy [COPY]
 uimMCCopy [COPY]
 
+uiSaveUI [Save]
 
 //zigs
 uitabInvPAZig1	[ZIG 1]

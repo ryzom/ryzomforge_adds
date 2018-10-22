@@ -3958,7 +3958,7 @@ _281A7C86DF26F3A2	ckjld7	Kipeskan	\d	\d
 _2C58605669282B8F	ckjpf8	Terminator Kipesta	a	the	Terminator Kipestas	\d	the
 _69F9D09461E7DB9E	cpcfc7	Psykokin	\d	\d			
 _EBF94BA9A837078D	cpdff4	Devastating Slaveni	a	the	Devastating Slavenis	\d	the
-_A8463F8AEA561B8A	cpefe7	Cratchakin	\d	\d			
+_A8463F8AEA561B8A	cpefe7	Cratchakyo	\d	\d			
 _69E9FC8D12E7ABB1	cpefe8	Destroyer Cratcha	a	the	Destroyer Cratchas	\d	the
 _6D084BA16717FF8D	cpejf4	Devastating Cratcha	a	the	Devastating Cratchas	\d	the
 _26E90C8CAB86BE49	ckjdd8	Slayer Kipesta	a	the	Slayer Kipestas	\d	the
