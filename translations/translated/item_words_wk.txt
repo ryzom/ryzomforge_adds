@@ -7832,3 +7832,8 @@ _5FB35676CF1F0DE9	gubani_mount_2	Gubani Mount	a	the	Gubani Mount	\d	the
 _5FB35676CF1F11E9	gubani_mount_3	Gubani Mount	a	the	Gubani Mount	\d	the	
 _5FB35676CF1F15E9	gubani_mount_4	Gubani Mount	a	the	Gubani Mount	\d	the	
 _E52228C4E969886E	iaad	Gubani Zig	a	the	Gubani Zig	\d	the	
+_31243AEA9BB626E4	ic_halloween_stick	Pumpkin Stick	a	the	Pumpkin Stick	\d	the	
+_2847D41B23D72FFD	ic_anlor_weapon01	Scythe of terror	a	the	Scythe of terror	\d	the	
+_A2FF80E996E9EFC2	ic_anlor_weapon01b	Scythe of terror	a	the	Scythe of terror	\d	the	
+_D724D6100BB56D2F	ic_anlor_weapon02	Evil weapon	a	the	Evil weapon	\d	the	
+_1D034E8A12E3B57D	ic_anlor_weapon02b	Evil weapon	a	the	Evil weapon	\d	the	
