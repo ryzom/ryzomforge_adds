@@ -7832,3 +7832,8 @@ _5FB35676CF1F0DE9	gubani_mount_2	Montura de Gubani	una	la	Monturas de Gubanis		l
 _5FB35676CF1F11E9	gubani_mount_3	Montura de Gubani	una	la	Monturas de Gubanis		las	Monturas de Gubani
 _5FB35676CF1F15E9	gubani_mount_4	Montura de Gubani	una	la	Monturas de Gubanis		las	Monturas de Gubani
 _E52228C4E969886E	iaad	Zig Gubani	un	el	Zigs Gubani		los	Zigs Gubani
+_31243AEA9BB626E4	ic_halloween_stick	Palo de calabaza	un	el	Palos de calabaza	los		
+_2847D41B23D72FFD	ic_anlor_weapon01	Guadaña del terror	un	el	Guadañas del terror	los		
+_A2FF80E996E9EFC2	ic_anlor_weapon01b	Guadaña del terror	un	el	Guadañas del terror		los	
+_D724D6100BB56D2F	ic_anlor_weapon02	Arma malvada	una	la	Armas malvadas		las	
+_1D034E8A12E3B57D	ic_anlor_weapon02b	Arma malvada	una	le	Armas malvadas		las	
