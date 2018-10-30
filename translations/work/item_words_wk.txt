@@ -7837,3 +7837,4 @@ ic_anlor_weapon01	Scythe of terror	a	the	Scythe of terror	\d	the
 ic_anlor_weapon01b	Scythe of terror	a	the	Scythe of terror	\d	the	
 ic_anlor_weapon02	Evil weapon	a	the	Evil weapon	\d	the	
 ic_anlor_weapon02b	Evil weapon	a	the	Evil weapon	\d	the	
+ic_anlor_helmet01	Anlor Winn helmet	a	the	Anlor Winn helmet	\d	the	
