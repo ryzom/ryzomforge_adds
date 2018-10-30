@@ -7837,3 +7837,4 @@ _2847D41B23D72FFD	ic_anlor_weapon01	Scythe of terror	a	the	Scythe of terror	\d	t
 _A2FF80E996E9EFC2	ic_anlor_weapon01b	Scythe of terror	a	the	Scythe of terror	\d	the	
 _D724D6100BB56D2F	ic_anlor_weapon02	Evil weapon	a	the	Evil weapon	\d	the	
 _1D034E8A12E3B57D	ic_anlor_weapon02b	Evil weapon	a	the	Evil weapon	\d	the	
+_2F30ECB7254673DE	ic_anlor_helmet01	Anlor Winn helmet	a	the	Anlor Winn helmet	\d	the	
