@@ -3958,7 +3958,7 @@ _281A7C86DF26F3A2	ckjld7	Kipeskan
 _2C58605669282B8F	ckjpf8	Kipesta Terminadora	una	la	Kipestas Terminadoras		las
 _69F9D09461E7DB9E	cpcfc7	Psykokin					
 _EBF94BA9A837078D	cpdff4	Slaveni Devastador	un	el	Slavenis Devastores		los
-_A8463F8AEA561B8A	cpefe7	Cratchakyo					
+_A8463F8AEA561B8A	cpefe7	Cratchakin					
 _69E9FC8D12E7ABB1	cpefe8	Cratcha Destructora 	una	la	Cratchas Destructoras		las
 _6D084BA16717FF8D	cpejf4	Cratcha Devastadora	una	la	Cratchas Devastadoras		las
 _26E90C8CAB86BE49	ckjdd8	Kipesta Asesina	un	la	Kipestas Asesinas		las
@@ -5984,4 +5984,4 @@ _20C62EAAB3169B7B	gubani_mount_02	Gubani de Montar	un	el	Gubanis de Montar		los
 _20C62EAAB3269B7B	gubani_mount_03	Gubani de Montar	un	el	Gubanis de Montar		los
 _20C62EAAB3369B7B	gubani_mount_04	Gubani de Montar	un	el	Gubanis de Montar		los
 _7EF0BD008D3857A4	chxjf_zig	Gubani de Zigzag	un	el	Gubanis de Zigzag		los
-_D5F8D49B6A662373	cpegf7	Cratchaki					
+_D5F8D49B6A662373	cpegf7	Cratchakyo					

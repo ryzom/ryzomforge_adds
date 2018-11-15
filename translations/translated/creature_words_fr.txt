@@ -3958,7 +3958,7 @@ _281A7C86DF26F3A2	ckjld7	Kipeskan	un	le	du	au	Kipeskans	des	les
 _2C58605669282B8F	ckjpf8	Kipesta exterminateur	un	le	du	au	Kipestas exterminateurs	des	les
 _69F9D09461E7DB9E	cpcfc7	Psykokin	un	le	du	au	Psykokins	des	les
 _EBF94BA9A837078D	cpdff4	Slaveni dévastateur 	un	le	du	au	Slavenis dévastateurs	des	les
-_A8463F8AEA561B8A	cpefe7	Cratchakyo	un	le	du	au	Cratchakyos	des	les
+_A8463F8AEA561B8A	cpefe7	Cratchakin	un	le	du	au	Cratchakins	des	les
 _69E9FC8D12E7ABB1	cpefe8	Cratcha ravageur	un	le	du	au	Cratchas ravageurs	des	les
 _6D084BA16717FF8D	cpejf4	Cratcha dévastateur	un	le	du	au	Cratchas dévastateurs	des	les
 _26E90C8CAB86BE49	ckjdd8	Kipesta égorgeur	un	le	du	au	Kipestas égorgeurs	des	les
@@ -5984,4 +5984,4 @@ _20C62EAAB3169B7B	gubani_mount_02	Monture Gubani	une	la	de la	à la 	Montures Gu
 _20C62EAAB3269B7B	gubani_mount_03	Monture Gubani	une	la	de la	à la 	Montures Gubanis	des	les
 _20C62EAAB3369B7B	gubani_mount_04	Monture Gubani	une	la	de la	à la 	Montures Gubanis	des	les
 _7EF0BD008D3857A4	chxjf_zig	Zig Gubani	une	la	de la	à la 	Zig Gubanis	des	les
-_D5F8D49B6A662373	cpegf7	Cratchaki	un	le	du	au	Cratchaki	des	les
+_D5F8D49B6A662373	cpegf7	Cratchakyo	un	le	du	au	Cratchakyos	des	les
