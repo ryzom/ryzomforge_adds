@@ -37,6 +37,11 @@
     <action handler="guild_tell_member"
             params="" />
   </proc>
+
+    <proc id="select_guild_island">
+      <action handler="set" params="target='ui:interface:guild:w'|value=600" />
+      <action handler="lua" params="game:openGuildIsland('http://app.ryzom.com/app_guild/island.php?')" />
+  </proc>
   <!-- ******************* -->
   <!-- * TEMPLATE MEMBER * -->
   <!-- ******************* -->
@@ -174,6 +179,15 @@
               params_r=""
               onclick_l="set"
               params_l="target='ui:interface:guild:w'|value=450" />
+        <ctrl style="tab_button_new"
+              id="tab2"
+              posparent="tab1"
+              group="content:tab_island"
+              hardtext="uiGuildTabIsland"
+              onclick_r=""
+              params_r=""
+              onclick_l="proc"
+              params_l="select_guild_island" />
       </group>
       <view type="bitmap"
             id="sep"
@@ -456,6 +470,16 @@
              child_resize_hmargin="0">
         <instance template="t_outpost_manager"
                   id="outpost_manager" />
+      </group>
+      <group id="tab_island"
+             posref="TL TL"
+             x="0"
+             y="0"
+             h="350"
+             w="0"
+             sizeref="w"
+             child_resize_hmargin="0">
+        <instance template="webig_html" home="http://app.ryzom.com/app_guild/island.php" browse_redo="" browse_undo="" browse_refresh="" bg_color="0 0 0 0"/>
       </group>
     </group>
   </group>

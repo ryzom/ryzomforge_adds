@@ -556,6 +556,24 @@ function game:openWebIGBrowserHeader()
 	end
 end
 
+
+------------------------------------------------------------------------------------------------------------
+function game:openGuildIsland(url)
+	local nbMember = getNbGuildMembers();
+	local params = "";
+	for i = 0,(nbMember-1) do
+		local memberGrade = getGuildMemberGrade(i);
+		if (memberGrade == "Leader") or (memberGrade == "HighOfficer") then
+			params = params .. string.lower(getGuildMemberName(i)) .. "=" .. memberGrade.."&";
+		end
+	end
+	local x,y,z = getPlayerPos()
+	params = params .. "&posx=" .. tostring(x) .. "&posy=" .. tostring(y) .. "&posz=" .. tostring(z)
+	
+	getUI("ui:interface:guild:content:tab_island:html"):browse(url.."params="..params);
+end
+
+
 ------------------------------------------------------------------------------------------------------------
 local SavedUrl = "";
 function game:chatUrl(url)
