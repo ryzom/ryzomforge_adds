@@ -13497,6 +13497,8 @@ uiKeyOEM_102 [OEM 102]
 uiFilterMenuDynamic	[%channel @{T8}/%shortcut]
 // displayed in System/Windows/Communication
 uimwAppZone [AppZone]
+// displayed in keys
+uiAppZone [AppZone]
 // message displayed when player type /playedTime
 uiPlayedTime [You played with this character for %time.]
 uiPlaylistRefresh [Refresh]
