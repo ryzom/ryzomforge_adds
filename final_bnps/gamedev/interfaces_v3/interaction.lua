@@ -558,7 +558,7 @@ end
 
 
 ------------------------------------------------------------------------------------------------------------
-function game:openGuildIsland(url)
+function game:openGuildIsland(url_island)
 	local nbMember = getNbGuildMembers();
 	local params = "";
 	for i = 0,(nbMember-1) do
@@ -570,7 +570,8 @@ function game:openGuildIsland(url)
 	local x,y,z = getPlayerPos()
 	params = params .. "&posx=" .. tostring(x) .. "&posy=" .. tostring(y) .. "&posz=" .. tostring(z)
 	
-	getUI("ui:interface:guild:content:tab_island:html"):browse(url.."params="..params);
+	getUI("ui:interface:guild:content:tab_island:props:html"):browse(url_island.."params="..params);
+	runAH(nil, "browse_home", "name=ui:interface:guild:content:tab_island:inv:html")
 end
 
 
