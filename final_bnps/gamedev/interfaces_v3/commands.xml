@@ -129,4 +129,5 @@
 	<command name="go" action="browse" params="name=ui:interface:webig:content:html|url=home"/>
 	<command name="webdev" action="browse" params="name=ui:interface:webig:content:html|url=http://localhost/index.html"/>
 
+	<command name="setuiscale" action="set_ui_scale" params="scale=$"/>
 </interface_config>

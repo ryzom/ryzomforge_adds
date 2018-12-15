@@ -7832,3 +7832,9 @@ gubani_mount_2	Gubani Mount	a	the	Gubani Mount	\d	the
 gubani_mount_3	Gubani Mount	a	the	Gubani Mount	\d	the	
 gubani_mount_4	Gubani Mount	a	the	Gubani Mount	\d	the	
 iaad	Gubani Zig	a	the	Gubani Zig	\d	the	
+ic_halloween_stick	Pumpkin Stick	a	the	Pumpkin Stick	\d	the	
+ic_anlor_weapon01	Scythe of terror	a	the	Scythe of terror	\d	the	
+ic_anlor_weapon01b	Scythe of terror	a	the	Scythe of terror	\d	the	
+ic_anlor_weapon02	Evil weapon	a	the	Evil weapon	\d	the	
+ic_anlor_weapon02b	Evil weapon	a	the	Evil weapon	\d	the	
+ic_anlor_helmet01	Anlor Winn helmet	a	the	Anlor Winn helmet	\d	the	
