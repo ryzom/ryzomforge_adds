@@ -7832,3 +7832,9 @@ _5FB35676CF1F0DE9	gubani_mount_2	Gubani de monte	un	le	Gubanis de monte	des	les	
 _5FB35676CF1F11E9	gubani_mount_3	Gubani de monte	un	le	Gubanis de monte	des	les	Gubani		
 _5FB35676CF1F15E9	gubani_mount_4	Gubani de monte	un	le	Gubanis de monte	des	les	Gubani		
 _E52228C4E969886E	iaad	Zig Gubani	un	le	Zigs Gubani	des	les			
+_31243AEA9BB626E4	ic_halloween_stick	Bâton citrouille	un	le	Bâtons Citrouilles	des	les			
+_2847D41B23D72FFD	ic_anlor_weapon01	Fauchard de la terreur	un	le	Fauchards de la terreur	des	les			
+_A2FF80E996E9EFC2	ic_anlor_weapon01b	Fauchard de la Peur	un	le	Fauchards de la Peur	des	les			
+_D724D6100BB56D2F	ic_anlor_weapon02	Arme maudite	une	l’	Armes maudites	des	les			
+_1D034E8A12E3B57D	ic_anlor_weapon02b	Arme maléfique	Une	l’	Armes maléfiques	des	les			
+_2F30ECB7254673DE	ic_anlor_helmet01	Casque d'Anlor Winn	un	le	Casque d'Anlor Winn	des	les			

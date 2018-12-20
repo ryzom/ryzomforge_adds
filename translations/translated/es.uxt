@@ -27346,180 +27346,188 @@ uiFilterMenuDynamic	[%channel @{T8}/%shortcut]
 // INDEX 6494
 uimwAppZone	[AppZone]
 
-// HASH_VALUE 27273D41B0FA7DD2
+// HASH_VALUE 6588A87B1E781483
 // INDEX 6495
+uiAppZone	[Zona App]
+
+// HASH_VALUE 27273D41B0FA7DD2
+// INDEX 6496
 uiPlayedTime	[Has jugado con este personaje %time.]
 
 // HASH_VALUE EB1A8C8F22674C92
-// INDEX 6496
+// INDEX 6497
 uiPlaylistRefresh	[Volver a cargar]
 
 // HASH_VALUE 570A63956CA078B7
-// INDEX 6497
+// INDEX 6498
 uiFreeViewTablet	[Tableta o pantalla táctil]
 
 // HASH_VALUE 781CF40C781CF40C
-// INDEX 6498
+// INDEX 6499
 uiCopy	[Copiar]
 
 // HASH_VALUE AF4704666E75D097
-// INDEX 6499
+// INDEX 6500
 uiBrowse	[Navegar]
 
 // HASH_VALUE 4046D798ED76B4BE
-// INDEX 6500
+// INDEX 6501
 cmdCreateGroupUsage1	[uso del comando createGroup :]
 
 // HASH_VALUE 672F2158D608B33D
-// INDEX 6501
+// INDEX 6502
 cmdCreateGroupUsage2	[/createGroup group_name : crear un grupo llamado group_name con todos sus objetos equipados.]
 
 // HASH_VALUE 281F2D43F2731DEC
-// INDEX 6502
+// INDEX 6503
 cmdCreateGroupUsage3	[/createGroup group_name true : crear un grupo llamado group_name con todos los elementos equipados, y crear un comando de eliminación para cada espacio vacío.]
 
 // HASH_VALUE 87A04D4E0C663745
-// INDEX 6503
+// INDEX 6504
 cmdCreateGroupError	[Ya existe un grupo llamado% name, no puedes crear un segundo grupo con el mismo nombre.]
 
 // HASH_VALUE 57AAD85BEAA4D7B9
-// INDEX 6504
+// INDEX 6505
 cmdCreateGroupSuccess1	[Grupo %nombre ha sido creado con éxito.]
 
 // HASH_VALUE 9C6A88FAC1CEA4DC
-// INDEX 6505
+// INDEX 6506
 cmdCreateGroupSuccess2	[Grupo %name ha sido creado con éxito, incluyendo la eliminación de todos los elementos no equipados.]
 
 // HASH_VALUE EBB1FF685D7AFCC7
-// INDEX 6506
+// INDEX 6507
 cmdEquipGroupUsage1	[equipGroup uso del comando :]
 
 // HASH_VALUE 0FDFE7D6741FF8C5
-// INDEX 6507
+// INDEX 6508
 cmdEquipGroupUsage2	[/equipGroup group_name : extraer los elementos del grupo group_name del inventario disponible y equiparlos.]
 
 // HASH_VALUE 5434105FEEDBCB30
-// INDEX 6508
+// INDEX 6509
 cmdEquipGroupError	[No se puede equipar el grupo %nombre porque no se encontró ningún grupo con este nombre.]
 
 // HASH_VALUE 5B9A98912A55C7C1
-// INDEX 6509
+// INDEX 6510
 cmdEquipGroupSuccess	[Grupo %nombre equipado con éxito.]
 
 // HASH_VALUE 82B6A399EDB6D0B1
-// INDEX 6510
+// INDEX 6511
 cmdDeleteGroupUsage1	[deleteGroup uso del comando :]
 
 // HASH_VALUE 2022F308D2F5591B
-// INDEX 6511
+// INDEX 6512
 cmdDeleteGroupUsage2	[/deleteGroup group_name : eliminar el grupo llamado group_name si existe.]
 
 // HASH_VALUE 06DA351B3C7F2E56
-// INDEX 6512
+// INDEX 6513
 cmdDeleteGroupError	[No se puede eliminar el grupo %nombre : No se ha encontrado ningún grupo con este nombre.]
 
 // HASH_VALUE 19D9DC5BEAA4D7BD
-// INDEX 6513
+// INDEX 6514
 cmdDeleteGroupSuccess	[Grupo %nombre borrado con éxito.]
 
 // HASH_VALUE ADEA727BDB89387A
-// INDEX 6514
+// INDEX 6515
 cmdMoveGroupUsage1	[moveGroup uso del comando :]
 
 // HASH_VALUE 9AF23A3F90C2A5A1
-// INDEX 6515
+// INDEX 6516
 cmdMoveGroupUsage2	[/moveGroup group_name destination : mover los artículos de todos los inventarios disponibles a su destino.]
 
 // HASH_VALUE 5BE3F613CFC022DC
-// INDEX 6516
+// INDEX 6517
 cmdMoveGroupUsage3	[El objetivo puede ser: bag, player_room, guild, pet_animal1, pet_animal2, pet_animal3, pet_animal4]
 
 // HASH_VALUE 063AAC84DBD18975
-// INDEX 6517
+// INDEX 6518
 cmdMoveGroupError	[No se pudo mover el grupo %name a %inventory porque no se encontró ningún grupo con ese nombre y/o no era un inventario válido.]
 
 // HASH_VALUE 53F23D1089A67059
-// INDEX 6518
+// INDEX 6519
 cmdMoveGroupSuccess	[Grupo %nombre movido con éxito a %inventario.]
 
 // HASH_VALUE AE999B8E9D9143A5
-// INDEX 6519
+// INDEX 6520
 cmdListGroupHeader	[Grupo de artículos disponibles :]
 
 // HASH_VALUE 5BD4C6549B44ABA5
-// INDEX 6520
+// INDEX 6521
 cmdListGroupLine	[* %nombre, con %tamaño objetos contenidos.]
 
 // HASH_VALUE 3267346D71E53896
-// INDEX 6521
+// INDEX 6522
 uimGroup	[Grupos]
 
 // HASH_VALUE 0C8BC4F4AE78A6B7
-// INDEX 6522
+// INDEX 6523
 uiMacroItemGroupEquip	[Equipar un grupo de artículos]
 
 // HASH_VALUE 5614A7A2A707B055
-// INDEX 6523
+// INDEX 6524
 uiMacroItemGroupName	[Nombre del grupo de artículos]
 
 // HASH_VALUE AC27CF9914116C1B
-// INDEX 6524
+// INDEX 6525
 uiMacroItemGroupMove	[Desplazar un grupo de artículos]
 
 // HASH_VALUE A7A1CC916E59E066
-// INDEX 6525
+// INDEX 6526
 uiMacroItemGroupDestination	[Objetivo del grupo de objetos]
 
 // HASH_VALUE 1627848455283B93
-// INDEX 6526
+// INDEX 6527
 uiMapSearch	[Búsqueda en el mapa]
 
 // HASH_VALUE 1627848455283B93
-// INDEX 6527
+// INDEX 6528
 uittMapSearch	[Búsqueda en el mapa]
 
 // HASH_VALUE 5814F40C5814F40C
-// INDEX 6528
+// INDEX 6529
 uimMacroCopy	[COPIA]
 
 // HASH_VALUE 5814F40C5814F40C
-// INDEX 6529
+// INDEX 6530
 uimMCCopy	[COPIA]
+
+// HASH_VALUE 649C144C649C144C
+// INDEX 6531
+uiSaveUI	[Guardar]
 
 //zigs
 // HASH_VALUE 77AF6FF4C1C0D2F2
-// INDEX 6530
+// INDEX 6532
 uitabInvPAZig1	[ZIG 1]
 
 // HASH_VALUE B7AF73F5C1D0D6F3
-// INDEX 6531
+// INDEX 6533
 uitabInvPAZig2	[ZIG 2]
 
 // HASH_VALUE F7AF77F6C1E0DAF4
-// INDEX 6532
+// INDEX 6534
 uitabInvPAZig3	[ZIG 3]
 
 // HASH_VALUE 77AF6FF4C1C0D2F2
-// INDEX 6533
+// INDEX 6535
 uiPABagTitleMount4	[ZIG 1]
 
 // HASH_VALUE B7AF73F5C1D0D6F3
-// INDEX 6534
+// INDEX 6536
 uiPABagTitleMount5	[ZIG 2]
 
 // HASH_VALUE F7AF77F6C1E0DAF4
-// INDEX 6535
+// INDEX 6537
 uiPABagTitleMount6	[ZIG 3]
 
 // HASH_VALUE 87B36F14D1C45212
-// INDEX 6536
+// INDEX 6538
 uiPATitleMount5	[Zig 1]
 
 // HASH_VALUE C7B37315D1D45613
-// INDEX 6537
+// INDEX 6539
 uiPATitleMount6	[Zig 2]
 
 // HASH_VALUE 07B37716D1E45A14
-// INDEX 6538
+// INDEX 6540
 uiPATitleMount7	[Zig 3]
 
