@@ -13556,6 +13556,8 @@ uiMacroItemGroupDestination [Item group destination]
 uiMapSearch [Map search]
 uittMapSearch [Map search]
 
+uittInventorySearch [Search]
+
 //macro copy
 uimMacroCopy [COPY]
 uimMCCopy [COPY]

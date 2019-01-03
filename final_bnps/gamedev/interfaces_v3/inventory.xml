@@ -807,6 +807,7 @@
                   x="0"
                   inv_branch="%bag"
                   inv_bulk_max="%bag_bulk_max" />
+        <!-- y="-18" (because of webig buttons) messes filter icon placement (y should be "-16") -->
         <instance template="tinv_item_list"
                   id="iil"
                   inv_branch_nb="%max_bag_invslot"
@@ -880,7 +881,7 @@
         <instance template="tinv_item_list"
                   id="iil"
                   inv_branch_nb="%max_guild_invslot"
-                  y="-16"
+                  y="-18"
                   sizeref="wh"
                   h="-16"
                   inv_branch="%guild_inv_dbentry"
@@ -926,7 +927,7 @@
         <instance template="tinv_item_list"
                   id="iil"
                   inv_branch_nb="%max_room_invslot"
-                  y="-16"
+                  y="-18"
                   sizeref="wh"
                   h="-16"
                   inv_branch="%room_inv_dbentry"
