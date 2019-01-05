@@ -13563,6 +13563,7 @@ uimMacroCopy [COPY]
 uimMCCopy [COPY]
 
 uiSaveUI [Save]
+uiInterfaceScale [Interface scale]
 
 //zigs
 uitabInvPAZig1	[ZIG 1]
