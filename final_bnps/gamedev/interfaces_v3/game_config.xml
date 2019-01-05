@@ -2689,7 +2689,7 @@
                   y="-2" />
         <instance template="tgcw_checkbox"
                   id="tablet"
-                  text="uiMouseTablet"
+                  text="uiFreeViewTablet"
                   posparent="dbl"
                   posref="BL TL"
                   x="0"
