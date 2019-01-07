@@ -13575,3 +13575,6 @@ uiPABagTitleMount6	[ZIG 3]
 uiPATitleMount5	[Zig 1]
 uiPATitleMount6	[Zig 2]
 uiPATitleMount7	[Zig 3]
+
+//random
+msgRollDiceLocal	[&SYS&@{FF1F}You pulled %roll in a draw between %min and %max.]
