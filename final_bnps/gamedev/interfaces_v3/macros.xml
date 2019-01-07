@@ -181,9 +181,11 @@
 		 group_onclick_r="active_menu"
 		 group_params_r="menu=ui:interface:base_menu_with_color" >
 
-					
 		<ctrl style="new_element_header" id="add_button" posref="MR MR" x="-16" y="0" wmargin="8" hardtext="uittNewKeyShortcut"
 				 onclick_l="keys_new" />
+
+		<ctrl style="new_element_header" id="save_button" posparent="add_button" posref="ML MR" x="-4" y="0" wmargin="8" hardtext="uiSaveUI"
+				 onclick_l="save_ui" />
 
 	</group>
 		
@@ -302,7 +304,11 @@
 		 
 		 
 		<ctrl style="new_element_header" id="add_button" posref="MR MR" x="-16" y="0" wmargin="8" hardtext="uittNewMacro"
-				 onclick_l="macros_new_macro" />					
+				 onclick_l="macros_new_macro" />
+
+		<ctrl style="new_element_header" id="save_button" posparent="add_button" posref="ML MR" x="-4" y="0" wmargin="8" hardtext="uiSaveUI"
+				 onclick_l="save_ui" />
+
 	</group>
 
 	<group id="content" x="0" y="0" over="true" child_resize_h="true" child_resize_hmargin="4" posref="TL TL" >
