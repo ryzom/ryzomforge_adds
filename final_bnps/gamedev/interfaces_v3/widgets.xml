@@ -1372,6 +1372,7 @@
         <action handler="set" params="dblink=UI:SAVE:@0:FILTER_TP|value=0" />
         <action handler="set" params="dblink=UI:SAVE:@0:FILTER_MISSMP|value=0" />
         <action handler="set" params="dblink=UI:SAVE:@0:FILTER_MP|value=0" />
+        <action handler="set" params="dblink=UI:SAVE:@0:FILTER_PET|value=0" />
         <action handler="set" params="dblink=UI:SAVE:@0:FILTER_TOOL|value=0" />
         <action handler="set" params="dblink=UI:SAVE:@0:FILTER_WEAPON|value=0" />
         <action handler="set" params="dblink=UI:SAVE:@0:FILTER_ARMOR|value=0" />
@@ -1381,7 +1382,7 @@
     <!-- template for the list of items FILTERS -->
     <template name="tinv_item_list_filter" id="" x="0" y="0" posref="BL BL" posparent="" dblink="" texture="" tooltip="" inv_type="">
         <ctrl type="button" id="but_#id" button_type="toggle_button" posref="#posref" posparent="but_#posparent" x="#x" y="#y" tx_normal="w_button_filter_off.tga" tx_pushed="w_button_filter_on.tga" tx_over="" onclick_l="set" params_l="dblink=#dblink|value=not(@#dblink)" onclick_r="proc" params_r="pinv_item_filter|#inv_type|#dblink" global_color_pushed="true" tooltip="#tooltip" />
-        <view type="bitmap" id="bit_#id" posref="TL TL" posparent="but_#id" texture="#texture" global_color="false" />
+        <view type="bitmap" id="bit_#id" posref="TL TL" posparent="but_#id" texture="#texture" scale="true" w="24" h="16" global_color="false" />
         <link expr="@#dblink" target="but_#id:pushed" />
     </template>
     <!-- template for the mode 'icon' or 'text' (no right click) -->
@@ -1395,13 +1396,13 @@
         <group id="#id" posparent="#posparent" posref="#posref" x="#x" y="#y" sizeparent="#sizeparent" sizeref="#sizeref" w="#w" h="#h">
             <!-- Bag Type -->
             <!-- Bags : icon list -->
-            <group type="list_icon_bag" id="bag_icons" array="false" sizeref="wh" w="0" h="-24" posref="TL TL" x="0" y="0" child_resize_h="false" value="#inv_branch" maxitem="#inv_branch_nb" inv_type="#inv_type" sort_type="UI:SAVE:#inv_type:SORT_TYPE" filter_armor="UI:SAVE:#inv_type:FILTER_ARMOR" filter_weapon="UI:SAVE:#inv_type:FILTER_WEAPON" filter_tool="UI:SAVE:#inv_type:FILTER_TOOL" filter_mp="UI:SAVE:#inv_type:FILTER_MP" filter_missmp="UI:SAVE:#inv_type:FILTER_MISSMP" filter_tp="UI:SAVE:#inv_type:FILTER_TP" wspace="2" hspace="2" startitem="0" selection_group="inventory_selection" auto_grayed="true" dragable="true" oncandrag="inv_can_drag" ondrag="inv_drag" params_drag="from_icon_list" oncandrop="inv_can_drop" ondrop="inv_drop" menu_r="ui:interface:item_menu_in_bag" instant_help="false" lmargin="10" rmargin="0" tmargin="1" bmargin="0" column_center="false" db_animal_status="#animal_status">
+            <group type="list_icon_bag" id="bag_icons" array="false" sizeref="wh" w="0" h="-24" posref="TL TL" x="0" y="0" child_resize_h="false" value="#inv_branch" maxitem="#inv_branch_nb" inv_type="#inv_type" sort_type="UI:SAVE:#inv_type:SORT_TYPE" filter_armor="UI:SAVE:#inv_type:FILTER_ARMOR" filter_weapon="UI:SAVE:#inv_type:FILTER_WEAPON" filter_tool="UI:SAVE:#inv_type:FILTER_TOOL" filter_pet="UI:SAVE:#inv_type:FILTER_PET" filter_mp="UI:SAVE:#inv_type:FILTER_MP" filter_missmp="UI:SAVE:#inv_type:FILTER_MISSMP" filter_tp="UI:SAVE:#inv_type:FILTER_TP" wspace="2" hspace="2" startitem="0" selection_group="inventory_selection" auto_grayed="true" dragable="true" oncandrag="inv_can_drag" ondrag="inv_drag" params_drag="from_icon_list" oncandrop="inv_can_drop" ondrop="inv_drop" menu_r="ui:interface:item_menu_in_bag" instant_help="false" lmargin="10" rmargin="0" tmargin="1" bmargin="0" column_center="false" db_animal_status="#animal_status">
                 <ctrl style="skin_scroll" id="scroll_row" posref="TL TL" target_stepy="44" />
             </group>
             <view type="bitmap" id="sep1" x="0" y="0" posparent="bag_icons" posref="BL TL" scale="true" h="2" sizeref="w" texture="W_line_hor.tga" />
             <link expr="eq(@UI:SAVE:#inv_type:ICON_LIST, 1)" target="bag_icons:active,sep1:active" />
             <!-- Bags : detailed list -->
-            <group type="list_sheet_bag" id="bag_list" array="false" sizeref="wh" w="0" h="-34" posref="TL TL" x="0" y="-10" child_resize_h="false" value="#inv_branch" maxitem="#inv_branch_nb" inv_type="#inv_type" sort_type="UI:SAVE:#inv_type:SORT_TYPE" filter_armor="UI:SAVE:#inv_type:FILTER_ARMOR" filter_weapon="UI:SAVE:#inv_type:FILTER_WEAPON" filter_tool="UI:SAVE:#inv_type:FILTER_TOOL" filter_mp="UI:SAVE:#inv_type:FILTER_MP" filter_missmp="UI:SAVE:#inv_type:FILTER_MISSMP" filter_tp="UI:SAVE:#inv_type:FILTER_TP" hspace="2" xitem="2" yitem="-2" xtext="46" ytext="-2" selection_group="inventory_selection" selection="false" auto_grayed="true" dragable="true" oncandrag="inv_can_drag" ondrag="inv_drag" params_drag="from_text_list" oncandrop="inv_can_drop" ondrop="inv_drop" menu_r="ui:interface:item_menu_in_bag" instant_help="false" over_color="%bot_chat_sheet_selection_normal" over_col_pushed="%bot_chat_sheet_selection_pushed" over_col_over="%bot_chat_sheet_selection_over" color="255 255 255 255" fontsize="8" shadow="true" multi_line="true" multi_line_space="0" db_animal_status="#animal_status">
+            <group type="list_sheet_bag" id="bag_list" array="false" sizeref="wh" w="0" h="-34" posref="TL TL" x="0" y="-10" child_resize_h="false" value="#inv_branch" maxitem="#inv_branch_nb" inv_type="#inv_type" sort_type="UI:SAVE:#inv_type:SORT_TYPE" filter_armor="UI:SAVE:#inv_type:FILTER_ARMOR" filter_weapon="UI:SAVE:#inv_type:FILTER_WEAPON" filter_tool="UI:SAVE:#inv_type:FILTER_TOOL" filter_pet="UI:SAVE:#inv_type:FILTER_PET" filter_mp="UI:SAVE:#inv_type:FILTER_MP" filter_missmp="UI:SAVE:#inv_type:FILTER_MISSMP" filter_tp="UI:SAVE:#inv_type:FILTER_TP" hspace="2" xitem="2" yitem="-2" xtext="46" ytext="-2" selection_group="inventory_selection" selection="false" auto_grayed="true" dragable="true" oncandrag="inv_can_drag" ondrag="inv_drag" params_drag="from_text_list" oncandrop="inv_can_drop" ondrop="inv_drop" menu_r="ui:interface:item_menu_in_bag" instant_help="false" over_color="%bot_chat_sheet_selection_normal" over_col_pushed="%bot_chat_sheet_selection_pushed" over_col_over="%bot_chat_sheet_selection_over" color="255 255 255 255" fontsize="8" shadow="true" multi_line="true" multi_line_space="0" db_animal_status="#animal_status">
                 <!-- the scroll -->
                 <ctrl style="skin_scroll" id="scroll_row" posref="TL TL" target_stepy="44" />
                 <!-- the group to scroll -->
@@ -1416,7 +1417,8 @@
             <instance template="tinv_item_list_filter" id="filter_tp"     x="-8" posref="ML MR" posparent="detail"        inv_type="#inv_type" dblink="UI:SAVE:#inv_type:FILTER_TP" texture="filter_tp.tga" tooltip="uittFilterTP" />
             <instance template="tinv_item_list_filter" id="filter_missmp" x="-2" posref="ML MR" posparent="filter_tp"     inv_type="#inv_type" dblink="UI:SAVE:#inv_type:FILTER_MISSMP" texture="filter_mission.tga" tooltip="uittFilterMissMP" />
             <instance template="tinv_item_list_filter" id="filter_mp"     x="-2" posref="ML MR" posparent="filter_missmp" inv_type="#inv_type" dblink="UI:SAVE:#inv_type:FILTER_MP" texture="filter_mps.tga" tooltip="uittFilterMP" />
-            <instance template="tinv_item_list_filter" id="filter_tool"   x="-2" posref="ML MR" posparent="filter_mp"     inv_type="#inv_type" dblink="UI:SAVE:#inv_type:FILTER_TOOL" texture="filter_tools.tga" tooltip="uittFilterTool" />
+            <instance template="tinv_item_list_filter" id="filter_pet"    x="-2" posref="ML MR" posparent="filter_mp"     inv_type="#inv_type" dblink="UI:SAVE:#inv_type:FILTER_PET" texture="mektoub_map.tga" tooltip="uittFilterPet" />
+            <instance template="tinv_item_list_filter" id="filter_tool"   x="-2" posref="ML MR" posparent="filter_pet"    inv_type="#inv_type" dblink="UI:SAVE:#inv_type:FILTER_TOOL" texture="filter_tools.tga" tooltip="uittFilterTool" />
             <instance template="tinv_item_list_filter" id="filter_weapon" x="-2" posref="ML MR" posparent="filter_tool"   inv_type="#inv_type" dblink="UI:SAVE:#inv_type:FILTER_WEAPON" texture="filter_weapon.tga" tooltip="uittFilterWeapon" />
             <instance template="tinv_item_list_filter" id="filter_armor"  x="-2" posref="ML MR" posparent="filter_weapon" inv_type="#inv_type" dblink="UI:SAVE:#inv_type:FILTER_ARMOR" texture="filter_armor.tga" tooltip="uittFilterArmor" />
             <!-- search -->
