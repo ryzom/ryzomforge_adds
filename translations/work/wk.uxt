@@ -3746,6 +3746,8 @@ uittFilterWeapon	[Filter @{6F6F}Weapon\n@{FFFF}Right click to select only @{6F6F
 
 uittFilterTool	[Filter @{6F6F}Tool\n@{FFFF}Right click to select only @{6F6F}Tool@{FFFF}.]
 
+uittFilterPet	[Filter @{6F6F}Animal\n@{FFFF}Right click to select only @{6F6F}Animal@{FFFF}.]
+
 uittFilterMP	[Filter @{6F6F}Material\n@{FFFF}Right click to select only @{6F6F}Material@{FFFF}.]
 
 uittFilterMissMP	[Filter @{6F6F}Mission Item or Mission Material\n@{FFFF}Right click to select only @{6F6F}Mission Item or Mission Material@{FFFF}.]
