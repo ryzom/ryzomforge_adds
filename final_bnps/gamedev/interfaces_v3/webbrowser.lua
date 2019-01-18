@@ -5,6 +5,36 @@ WebBrowser = {
   apps = {}
 }
 
+function WebBrowser:addWindow(id, title, ui)
+  local found_app = nil
+  for k,app in pairs(self.apps) do
+    if app.id == id then
+      found_app = app
+      app.title = title
+      app.uiWindow = ui
+      app.winw = ui.w
+      app.winh = ui.h
+    end
+  end
+  if found_app == nil then
+    local app = {}
+    app.id = id
+    app.title = ""
+    app.url = ""
+    app.uiWindow = ui
+    app.winid = "ui:interface:" .. id
+    app.winw = ui.w
+    app.winh = ui.h
+    app.minimized = true
+    app.activeUrl = ""
+    app.closedw = 150
+    app.closedh = 0
+    table.insert(self.apps, app)
+  end
+  return ui
+end
+
+
 function WebBrowser:openWindow(id, url)
   -- default value if url is not set
   url = url or "http://app.ryzom.com/"
@@ -22,6 +52,8 @@ function WebBrowser:openWindow(id, url)
     app.winid = "ui:interface:" .. id
     app.winw = 780
     app.winh = 500
+    app.closedw = 150
+    app.closedh = 0
     app.minimized = true
     app.activeUrl = ""
 
@@ -109,8 +141,8 @@ function WebBrowser:saveWindow(app)
   app.winw = app.uiWindow.w
   app.winh = app.uiWindow.h
   -- minimize
-  app.uiWindow.w = 150
-  app.uiWindow.h = 0
+  app.uiWindow.w = app.closedw
+  app.uiWindow.h = app.closedh
 end
 
 function WebBrowser:restoreWindow(app)
