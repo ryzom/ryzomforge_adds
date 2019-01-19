@@ -255,7 +255,7 @@
 -->
 
 <!-- The modal for Brick selection. NB: don't exit on lclick cause of scrollbar -->
-<group type="modal" id="build_phrase_select_brick" x="0" y="0" w="280" posref="BL TL" child_resize_h="true" child_resize_hmargin="4" options="skin_modal" >
+<group type="modal" id="build_phrase_select_brick" x="0" y="0" w="285" posref="BL TL" child_resize_h="true" child_resize_hmargin="4" options="skin_modal" >
 		<!-- This group is here only to ensure that the modal is not too small -->
 		<group id="fake_minh" posref="TL TL" sizeref="w" w="0" h="30" />
 
@@ -266,7 +266,7 @@
 			 y="-4"
 			 xitem="2" yitem="-2"
 			 xtext="32" ytext="-2"
-			 xcost="230" ycost="-8"
+			 xcost="235" ycost="-8"
 			 hspace="4"
 			 array="false"
 			 value="UI:PHRASE:SELECT"
@@ -287,7 +287,7 @@
 			 shadow="true"
 			 multi_line="true"
 			 multi_line_space="0"
-			 line_maxw="180"
+			 line_maxw="210"
 			>
 			<!-- the scroll -->
 			<ctrl style="skin_scroll" id="scroll_row" posref="TL TL" y="-2" />
