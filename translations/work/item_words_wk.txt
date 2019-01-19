@@ -7838,3 +7838,11 @@ ic_anlor_weapon01b	Scythe of terror	a	the	Scythe of terror	\d	the
 ic_anlor_weapon02	Evil weapon	a	the	Evil weapon	\d	the	
 ic_anlor_weapon02b	Evil weapon	a	the	Evil weapon	\d	the	
 ic_anlor_helmet01	Anlor Winn helmet	a	the	Anlor Winn helmet	\d	the	
+icfaup	Fyros Light Panties	a	the	Fyros Light Panties		the									
+icfauv	Fyros Light Bra	a	the	Fyros Light Bra		the									
+icmaup	Matis Light Panties	a	the	Fyros Light Panties		the									
+icmauv	Matis Light Bra	a	the	Fyros Light Bra		the									
+ictaup	Tryker Light Panties	a	the	Fyros Light Panties		the									
+ictauv	Tryker Light Bra	a	the	Fyros Light Bra		the									
+iczaup	Zorai Light Panties	a	the	Fyros Light Panties		the									
+iczauv	Zorai Light Bra	a	the	Fyros Light Bra		the									

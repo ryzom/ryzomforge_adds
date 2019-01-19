@@ -7838,3 +7838,11 @@ _A2FF80E996E9EFC2	ic_anlor_weapon01b	Sense des Schreckens			eine	die	Sense des S
 _D724D6100BB56D2F	ic_anlor_weapon02	Bösartige Waffe			eine	die	Bösartige Waffe		einen	die		
 _1D034E8A12E3B57D	ic_anlor_weapon02b	Bösartige Waffe		eine	die	Bösartige Waffe		einen	die			
 _2F30ECB7254673DE	ic_anlor_helmet01	Anlor Winn Helm		ein	der	Anlor Winn Helm		einen	die			
+_B5342191FD4AC1B1	icfaup	Hoben-Unterhose	Hoben-Unterhose	Hoben-Unterhose		die	Hoben-Unterhose	Hoben-Unterhose	eine	die	leichte Fyros-Rüstung in Basis-Qualität	
+_8057FEC566E3AA71	icfauv	Hoben-Büstenhalter	Hoben-Büstenhalter	Hoben-Büstenhalter		die	Hoben-Büstenhalter	Hoben-Büstenhalter	eine	die	leichte Fyros-Rüstung in Basis-Qualität	
+_B5A40993F7BAC1B1	icmaup	Wiva-Unterhose	Wiva-Unterhose	Wiva-Unterhose		die	Wiva-Unterhose	Wiva-Unterhose	eine	die	leichte Matis-Rüstung in Basis-Qualität	
+_80C7E6C76053AA71	icmauv	Wiva-Büstenhalter	Wiva-Büstenhalter	Wiva-Büstenhalter		die	Wiva-Büstenhalter	Wiva-Büstenhalter	eine	die	leichte Matis-Rüstung in Basis-Qualität	
+_55FF165F364CB4ED	ictaup	Tissan-Unterhose	Tissan-Unterhose	Tissan-Unterhose		die	Tissan-Unterhose	Tissan-Unterhose	eine	die	leichte Tryker-Rüstung in Basis-Qualität	
+_DE77E608A092CE18	ictauv	Tissan-Büstenhalter	Tissan-Büstenhalter	Tissan-Büstenhalter		die	Tissan-Büstenhalter	Tissan-Büstenhalter	eine	die	leichte Tryker-Rüstung in Basis-Qualität	
+_B5D4E9917A8BC1B1	iczaup	Nin-ka-Unterhose	Nin-ka-Unterhose	Nin-ka-Unterhose		die	Nin-ka-Unterhose	Nin-ka-Unterhose	eine	die	leichte Zoraï-Rüstung in Basis-Qualität	
+_80F7C6C5E324AA71	iczauv	Nin-ka-Büstenhalter	Nin-ka-Büstenhalter	Nin-ka-Büstenhalter		die	Nin-ka-Büstenhalter	Nin-ka-Büstenhalter	eine	die	leichte Zoraï-Rüstung in Basis-Qualität	
