@@ -751,9 +751,9 @@
     </template>
     <!-- Message popup center -->
     <template name="message_popup_center" keep="true" posparent="parent" posref="BM BM" id="">
-        <group id="#id" child_resize_h="true" sizeref="w" w="-50" posparent="#posparent" posref="#posref" win_priority="%win_priority_highest" use_cursor="false">
+        <group id="#id" child_resize_h="true" sizeref="w9" w="0" posparent="#posparent" posref="#posref" win_priority="%win_priority_highest" use_cursor="false">
             <!-- do not change id (used for setting right skill name) -->
-            <view type="text" id="name" fontsize="16" posref="TM TM" shadow="true" global_color="false" line_maxw="1000" multi_line="true" justification="clip_word" />
+            <view type="text" id="name" fontsize="16" posref="TM TM" shadow="true" global_color="false" line_maxw="1000" multi_line="true" justification="centered" />
         </group>
     </template>
     <!-- Skill popup -->
