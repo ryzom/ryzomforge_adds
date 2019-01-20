@@ -1476,10 +1476,10 @@
             id="number"
             posparent="slot_number"
             posref="MM MM"
-            x="-1"
-            y="-2"
+            x="0"
+            y="0"
             color="255 255 255 255"
-            fontsize="12"
+            fontsize="10"
             shadow="true"
             hardtext="0"
             global_color="false" />
