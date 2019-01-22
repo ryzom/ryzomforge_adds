@@ -1341,7 +1341,7 @@ uiOnRelease	[NOTES DE VERSION]
 
 // HASH_VALUE 48209C2B05607C06
 // INDEX 335
-uiGameConfiguration	[CONFIGURATION DE RYZOM]
+uiGameConfiguration	[CONFIGURATION]
 
 // HASH_VALUE 0B71B01A04BEB405
 // INDEX 336
@@ -9055,7 +9055,7 @@ uimwMemSpecial	[Mémoire spéciale]
 
 // HASH_VALUE 48209C2B05607C06
 // INDEX 2195
-uimwColors	[Configuration du jeu]
+uimwColors	[Configuration]
 
 // HASH_VALUE 4B51A82B88B1BC25
 // INDEX 2196
