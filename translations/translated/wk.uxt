@@ -27779,3 +27779,10 @@ uiPATitleMount6	[Zig 2]
 // INDEX 6543
 uiPATitleMount7	[Zig 3]
 
+// HASH_VALUE 843E4EA6D3404359
+// INDEX 6545
+msgRollDiceLocal	[&SYS&@{FF1F}You pulled %roll in a draw between %min and %max.]
+
+// HASH_VALUE A506B06C29D47491
+// INDEX 6546
+uiGuildTabIsland	[Island]
