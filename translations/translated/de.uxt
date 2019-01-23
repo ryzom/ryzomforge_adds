@@ -7257,7 +7257,7 @@ uittFilterTool	[Werkzeugfilter @{6F6F}\n
 // HASH_VALUE E923AEF672C969C7
 // INDEX 1745
 uittFilterPet	[Filter @{6F6F}Tier\n
-	@{FFFF}Rechtsklicken, um nur das @{6F6F}Tier@{FFFF} auszuwählen.]
+	@{FFFF}Rechtsklick, um ausschließlich @{6F6F}Tier@{FFFF} anzuzeigen.]
 
 // HASH_VALUE F7EC4C94289E3142
 // INDEX 1746
