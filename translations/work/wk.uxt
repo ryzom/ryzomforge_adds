@@ -13580,3 +13580,6 @@ uiPATitleMount7	[Zig 3]
 
 //random
 msgRollDiceLocal	[&SYS&@{FF1F}You pulled %roll in a draw between %min and %max.]
+
+//Guild Island new tab at Guild Window
+uiGuildTabIsland	[Island]
