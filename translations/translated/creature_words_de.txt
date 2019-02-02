@@ -1346,6 +1346,7 @@ _ED9F4D1C26771B44	chddf2	Aufgeregter Yubo	Aufgeregter Yubo	Aufgeregte Yubo	Aufge
 _865EDD4F344ED4FB	chddf3	Grimmiger Yubo	Grimmiger Yubo	Grimmige Yubo	Grimmigen Yubo	einen	ein	eines	der	des	den	dem	Grimmige Yubos	Grimmigen Yubos	Grimmigen Yubos	die
 _41DE3909E8898C1F	chdfa1	Baby-Yubo	Baby-Yubo	Baby-Yubo	Baby-Yubo	einen	ein	eines	der	des	den	dem	Baby-Yubos	Baby-Yubos	Baby-Yubos	die
 _410E3DF7E5C9901F	chdfa2	Unreifer Yubo	Unreifer Yubo	Unreife Yubo	Unreifen Yubo	einen	ein	eines	der	des	den	dem	Unreife Yubos	Unreifen Yubos	Unreifen Yubos	die
+_63A9649E6AD89FA6	chdfa7	Yubokin	Yubokin	Yubokin	Yubokin	einen	ein	eines	der	des	den	dem	Yubokins	Yubokins	Yubokins	die
 _437F7107265AD82D	chdfb1	Schüchterner Yubo	Schüchterne Yubo	Schüchternen Yubo	Schüchternen Yubo	einen	ein	eines	der	des	den	dem	Schüchterne Yubos	Schüchternen Yubos	Schüchternen Yubos	die
 _09BF85E97074F200	chdfb2	Umherwandernder Yubo	Umherwandernde Yubo	Umherwandernden Yubo	Umherwandernden Yubo	einen	ein	eines	der	des	den	dem	Umherwandernde Yubos	Umherwandernden Yubos	Umherwandernden Yubos	die
 _43D6922542DE8C09	chdfb3	Flitzender Yubo	Flitzende Yubo	Flitzenden ubo	Flitzenden Yubo	einen	ein	eines	der	des	den	dem	Flitzende Yubos	Flitzenden Yubos	Flitzenden Yubos	die

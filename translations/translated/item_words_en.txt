@@ -7838,11 +7838,11 @@ _A2FF80E996E9EFC2	ic_anlor_weapon01b	Scythe of Terror	a	the	Scythe of Terror	\d	
 _D724D6100BB56D2F	ic_anlor_weapon02	Evil weapon	an	the	Evil weapon	\d	the	
 _1D034E8A12E3B57D	ic_anlor_weapon02b	Evil weapon	an	the	Evil weapon	\d	the	
 _2F30ECB7254673DE	ic_anlor_helmet01	Anlor Winn helmet	a	the	Anlor Winn helmet	\d	the	
-_B5342191FD4AC1B1	icfaup	Hoben Panties	\d	the	Hoben Panties	\d	the	Fyros Light Panties
-_8057FEC566E3AA71	icfauv	Hoben Bra	\d	the	Hoben Bra	\d	the	Fyros Light Bra
-_B5A40993F7BAC1B1	icmaup	Wiva Panties	a	the	Wiva Panties	\d	the	Matis Light Panties
-_80C7E6C76053AA71	icmauv	Wiva Bra	a	the	Wiva Bra	\d	the	Matis Light Bra
-_55FF165F364CB4ED	ictaup	Tissan Panties	\d	the	Tissan Panties	\d	the	Tryker Light Panties
-_DE77E608A092CE18	ictauv	Tissan Bra	\d	the	Tissan Bra	\d	the	Tryker Light Bra
-_B5D4E9917A8BC1B1	iczaup	Nin-Ka Panties	\d	the	Nin-Ka Panties	\d	the	Zoraï Light Panties
-_80F7C6C5E324AA71	iczauv	Nin-Ka Bra	\d	the	Nin-Ka Bra	\d	the	Zoraï Light Bra
+_8057FEC566E39271	icfaup	Hoben Panties	\d	the	Hoben Panties	\d	the	Fyros Light Panties
+_B5342191FD4AD9B1	icfauv	Hoben Bra	\d	the	Hoben Bra	\d	the	Fyros Light Bra
+_80C7E6C760539271	icmaup	Wiva Panties	a	the	Wiva Panties	\d	the	Matis Light Panties
+_B5A40993F7BAD9B1	icmauv	Wiva Bra	a	the	Wiva Bra	\d	the	Matis Light Bra
+_DE77E608A092B618	ictaup	Tissan Panties	\d	the	Tissan Panties	\d	the	Tryker Light Panties
+_55FF165F364CCCED	ictauv	Tissan Bra	\d	the	Tissan Bra	\d	the	Tryker Light Bra
+_80F7C6C5E3249271	iczaup	Nin-Ka Panties	\d	the	Nin-Ka Panties	\d	the	Zoraï Light Panties
+_B5D4E9917A8BD9B1	iczauv	Nin-Ka Bra	\d	the	Nin-Ka Bra	\d	the	Zoraï Light Bra

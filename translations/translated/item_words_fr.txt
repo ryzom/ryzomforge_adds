@@ -7838,11 +7838,11 @@ _A2FF80E996E9EFC2	ic_anlor_weapon01b	Fauchard de la Peur	un	le	Fauchards de la P
 _D724D6100BB56D2F	ic_anlor_weapon02	Arme maudite	une	l’	Armes maudites	des	les			
 _1D034E8A12E3B57D	ic_anlor_weapon02b	Arme maléfique	Une	l’	Armes maléfiques	des	les			
 _2F30ECB7254673DE	ic_anlor_helmet01	Casque d'Anlor Winn	un	le	Casque d'Anlor Winn	des	les			
-_B5342191FD4AC1B1	icfaup	Culotte Hobens	des	les	Culotte Hobens	des	les			
-_8057FEC566E3AA71	icfauv	Soutien-gorge Hobens	des	les	Soutien-gorge Hobens	des	les			
-_B5A40993F7BAC1B1	icmaup	Culotte Wivas	des	les	Culotte Wivas	des	les			
-_80C7E6C76053AA71	icmauv	Soutien-gorge Wivas	des	les	Soutien-gorge Wivas	des	les			
-_55FF165F364CB4ED	ictaup	Culotte Tissans	des	les	Culotte Tissans	des	les			
-_DE77E608A092CE18	ictauv	Soutien-gorge Tissans	des	les	Soutien-gorge Tissans	des	les			
-_B5D4E9917A8BC1B1	iczaup	Culotte Nin-kas	des	les	Culotte Nin-kas	des	les			
-_80F7C6C5E324AA71	iczauv	Soutien-gorge Nin-kas	des	les	Soutien-gorge Nin-kas	des	les			
+_8057FEC566E39271	icfaup	Culotte Hobens	des	les	Culotte Hobens	des	les			
+_B5342191FD4AD9B1	icfauv	Soutien-gorge Hobens	des	les	Soutien-gorge Hobens	des	les			
+_80C7E6C760539271	icmaup	Culotte Wivas	des	les	Culotte Wivas	des	les			
+_B5A40993F7BAD9B1	icmauv	Soutien-gorge Wivas	des	les	Soutien-gorge Wivas	des	les			
+_DE77E608A092B618	ictaup	Culotte Tissans	des	les	Culotte Tissans	des	les			
+_55FF165F364CCCED	ictauv	Soutien-gorge Tissans	des	les	Soutien-gorge Tissans	des	les			
+_80F7C6C5E3249271	iczaup	Culotte Nin-kas	des	les	Culotte Nin-kas	des	les			
+_B5D4E9917A8BD9B1	iczauv	Soutien-gorge Nin-kas	des	les	Soutien-gorge Nin-kas	des	les			

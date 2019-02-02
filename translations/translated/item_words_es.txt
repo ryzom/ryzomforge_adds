@@ -7838,11 +7838,11 @@ _A2FF80E996E9EFC2	ic_anlor_weapon01b	Guadaña del terror	un	el	Guadañas del ter
 _D724D6100BB56D2F	ic_anlor_weapon02	Arma malvada	una	la	Armas malvadas		las	
 _1D034E8A12E3B57D	ic_anlor_weapon02b	Arma malvada	una	le	Armas malvadas		las	
 _2F30ECB7254673DE	ic_anlor_helmet01	Casco Anlor Winn	un	el	Casco Anlor Winn	los		
-_B5342191FD4AC1B1	icfaup	Calzones Hoben	unas	la	Calzones Hoben		las	Calzones Ligeras Fyros
-_8057FEC566E3AA71	icfauv	Sujetador Hoben	unas	la	Sujetador Hoben		las	Sujetador Ligeras Fyros
-_B5A40993F7BAC1B1	icmaup	Calzones Wiva	unas	la	Calzones Wiva		las	Calzones Ligeras Matis
-_80C7E6C76053AA71	icmauv	Sujetador Wiva	unas	la	Sujetador Wiva		las	Sujetador Ligeras Matis
-_55FF165F364CB4ED	ictaup	Calzones Tissan	unas	la	Calzones Tissan		las	Calzones Ligeras Tryker
-_DE77E608A092CE18	ictauv	Sujetador Tissan	unas	la	Sujetador Tissan		las	Sujetador Ligeras Tryker
-_B5D4E9917A8BC1B1	iczaup	Calzones Nin-Ka	unas	la	Calzones Nin-Ka		las	Calzones Ligeras Zoraï
-_80F7C6C5E324AA71	iczauv	Sujetador Nin-Ka	unas	la	Sujetador Nin-Ka		las	Sujetador Ligeras Zoraï
+_8057FEC566E39271	icfaup	Calzones Hoben	unas	la	Calzones Hoben		las	Calzones Ligeras Fyros
+_B5342191FD4AD9B1	icfauv	Sujetador Hoben	unas	la	Sujetador Hoben		las	Sujetador Ligeras Fyros
+_80C7E6C760539271	icmaup	Calzones Wiva	unas	la	Calzones Wiva		las	Calzones Ligeras Matis
+_B5A40993F7BAD9B1	icmauv	Sujetador Wiva	unas	la	Sujetador Wiva		las	Sujetador Ligeras Matis
+_DE77E608A092B618	ictaup	Calzones Tissan	unas	la	Calzones Tissan		las	Calzones Ligeras Tryker
+_55FF165F364CCCED	ictauv	Sujetador Tissan	unas	la	Sujetador Tissan		las	Sujetador Ligeras Tryker
+_80F7C6C5E3249271	iczaup	Calzones Nin-Ka	unas	la	Calzones Nin-Ka		las	Calzones Ligeras Zoraï
+_B5D4E9917A8BD9B1	iczauv	Sujetador Nin-Ka	unas	la	Sujetador Nin-Ka		las	Sujetador Ligeras Zoraï

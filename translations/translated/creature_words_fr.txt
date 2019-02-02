@@ -1346,6 +1346,7 @@ _ED9F4D1C26771B44	chddf2	Yubo fier	un	le	du	au	Yubos fiers	des	les
 _865EDD4F344ED4FB	chddf3	Yubo féroce	un	le	du	au	Yubos féroces	des	les
 _41DE3909E8898C1F	chdfa1	Yubo allaitant	un	le	du	au	Yubos allaitants	des	les
 _410E3DF7E5C9901F	chdfa2	Yubo sevré	un	le	du	au	Yubos sevrés	des	les
+_63A9649E6AD89FA6	chdfa7	Yubokin	un	le	du	au	Yubokins	des	les
 _437F7107265AD82D	chdfb1	Yubo craintif	un	le	du	au	Yubos craintifs	des	les
 _09BF85E97074F200	chdfb2	Yubo vagabondant	un	le	du	au	Yubos vagabondants	des	les
 _43D6922542DE8C09	chdfb3	Yubo détalant	un	le	du	au	Yubos détalants	des	les
