@@ -1346,6 +1346,7 @@ _ED9F4D1C26771B44	chddf2	Yubo Violento	un	el	Yubos Violentos		los
 _865EDD4F344ED4FB	chddf3	Yubo Feroz	un	el	Yubos Feroces		los
 _41DE3909E8898C1F	chdfa1	Yubo Lactante	un	el	Yubos Lactantes		los
 _410E3DF7E5C9901F	chdfa2	Yubo Destetado	un	el	Yubos Destetados		los
+_63A9649E6AD89FA6	chdfa7	Yubokin					
 _437F7107265AD82D	chdfb1	Yubo Timorato	un	el	Yubos Timoratos		los
 _09BF85E97074F200	chdfb2	Yubo Vagando	un	el	Yubos Vagando		los
 _43D6922542DE8C09	chdfb3	Yubo Correteando	un	el	Yubos Correteando		los
