@@ -4759,8 +4759,8 @@ _612658A91C069B98	ckjbd1	Kipesta Temida	una	la	Kipestas Temidas		las
 _613660A95C269F9A	ckjbf2	Kipesta Lacerante	una	la	Kipestas Lacerantes		las
 _610660A99B26A396	ckfbf3	Kirosta Asesina	una	la	Kirostas Asesinas		las
 _611660A9DC26A796	ckfbf4	Kirosta Grande	una	la	Kirostas Grandes		las
-_61E660A91B26A394	ckdbf3	Kirosta Asesina	una	la	Kirostas Asesinas		las
-_61F660A95C26A794	ckdbf4	Kirosta Grande	una	la	Kirostas Grandes		las
+_61E660A91B26A394	ckdbf3	Kincher Asesina	una	la	Kinchers Asesinas		las
+_61F660A95C26A794	ckdbf4	Kincher Grande	una	la	Kinchers Grandes		las
 _610680AB9BA6AB94	ckfbd3	Kirosta Veterana	una	la	Kirostas Veteranas		las
 _9D35949859E69BA3	ckdbd3	Kincher Veterano	un	el	Kinchers Veteranos		los
 _64B68FA7E6E58AA7	ckdad4	Kincher Hambriento	un	el	Kinchers Hambrientos		los
