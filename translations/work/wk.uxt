@@ -12038,6 +12038,10 @@ uiFactionPoint_Tryker	[Tryker]
 uiFactionPoint_Zorai	[Zorai]
 uiFactionPointTable	[FACTION POINTS]
 
+// Organizations
+uiOrgPointTable [ORGANIZATION POINTS]
+uittIdentityOrganization [Organization points are gained when you participate in @{6F6F}special events or missions@{FFFF} for the organization: Marauder and Ranger. This points can be traded to get useful and unique items on the capitals.]
+
 uiAFK	[{AFK}]
 
 uiLOGResolution [Game Resolution]
