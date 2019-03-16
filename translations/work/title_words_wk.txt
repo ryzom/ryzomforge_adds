@@ -1910,3 +1910,4 @@ gn_karavan_altar_silan_ranger_camp	Ranger Camp Karavan Altar
 gn_kami_altar_silan_ranger_camp	Ranger Camp Kami Altar	
 gn_karavan_altar_silan_shattered_ruins	Shattered Ruins Karavan Altar	
 gn_kami_altar_silan_shining_lake	Shining Lake Kami Altar	
+fct_to_new_horizons	To New Horizons
