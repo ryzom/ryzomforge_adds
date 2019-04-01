@@ -1827,7 +1827,7 @@ _7F0B4DC68CD49FC6	m0152chdca01	Fragmento de Piel de Yubo Básica	un	el	Fragmento
 _EFBE6F51CDF30DB8	m0152chdcb01	Fragmento de Piel deYubo Fina	un	el	Fragmentos de Piel de Yubo Fina		los	
 _B97673F4BE8F1630	m0152chdce01	Fragmento de Piel de Yubo Suprema	un	el	Fragmentos de Piel de Yubo Suprema		los	
 _C8BE4A431B578B1A	m0152chdfd01	Fragmento de Piel de Yubo Excelente del Bosque	un	el	Fragmentos de Piel de Yubo Excelente del Bosque		los	
-_1585772320CF3E73	m0152chdfe01	Fragmento supremo de piel de Yubo del Bosque	un	el	fragmentos supremos de piel de Yubo del Bosque	unos	los
+_1585772320CF3E73	m0152chdfe01	Fragmento supremo de piel de Yubo del Bosque	un	el	fragmentos supremos de piel de Yubo del Bosque	unos	los	
 _78D82D226513BA79	m0152chdlc01	Fragmento de Piel de Yubo de Selección de los Lagos	un	el	Fragmentos de Piel de Yubo de Selección de los Lagos		los	
 _FDCB60E38D5292E9	m0153ccica01	Hueso de Zerx Básico	un	el	Huesos de Zerx Básico		los	
 _416A990E49B1E131	m0153ccicb01	Hueso de Zerx Fino	un	el	Huesos de Zerx Fino		los	
@@ -4789,25 +4789,25 @@ _FC0ACF874E6294CF	m0688chdca01	Fragmento de Ojo de Yubo Básico	un	el	Fragmentos
 _D407637EA95050CD	m0688chdcb01	Fragmento de Ojo de Yubo Fino	un	el	Fragmentos de Ojo de Yubo Fino		los	
 _71197D5C84253BBD	m0688chdce01	Fragmento de Ojo de Yubo Supremo 	un	el	Fragmentos de Ojo de Yubo Supremo 		los	
 _91CDD568BFEF2F4A	m0688chdfd01	Fragmento de Ojo de  Yubo Excelente del Bosque	un	el	Fragmentos de Ojo de  Yubo Excelente del Bosque		los	
-_DE310F9D8E3A2B6A	m0688chdfe01	Fragmento supremo de ojo de Yubo del Bosque	un	el	Fragmentos supremos de ojo de Yubo del Bosque	unos	los
+_DE310F9D8E3A2B6A	m0688chdfe01	Fragmento supremo de ojo de Yubo del Bosque	un	el	Fragmentos supremos de ojo de Yubo del Bosque	unos	los	
 _9D6E51B1F026F503	m0688chdlc01	Fragmento de Ojo de Yubo de Selección de los Lagos	un	el	Fragmentos de Ojo de Yubo de Selección de los Lagos		los	
 _7F3B4CCC4BA386D1	m0690chdca01	Una de Yubo Básico	una	la	Unas de Yubo Básico		los	
 _C06B79158530A135	m0690chdcb01	Una de Yubo Fino	una	la	Unas de Yubo Fino		los	
 _CDB7A6435BB46691	m0690chdce01	Una de Yubo Supremo	una	la	Unas de Yubo Supremo		los	
 _7A7053EA2C464CCF	m0690chdfd01	Una de Yubo Excelente del Bosque	una	la	Unas de Yubo Excelente del Bosque		los	
-_C00E6843EB24FCFB	m0690chdfe01	Uña suprema de Yubo del Bosque	una	la	uñas supremas de Yubo del Bosque	unas	las
+_C00E6843EB24FCFB	m0690chdfe01	Uña suprema de Yubo del Bosque	una	la	uñas supremas de Yubo del Bosque	unas	las	
 _5FB9DFF36108BB7C	m0690chdlc01	Una de Yubo de Selección de los Lagos	una	la	Unas de Yubo de Selección de los Lagos		los	
 _2AA350F007B3A533	m0691chdca01	Fragmento de Pelvis de Yubo Básico	un	el	Fragmentos de Pelvis de Yubo Básico		los	
 _E7C110B597F7CBA6	m0691chdcb01	Fragmento de Pelvis de Yubo Fino	un	el	Fragmentos de Pelvis de Yubo Fino		los	
 _0C3806DE1EAFB217	m0691chdce01	Fragmento de Pelvis de Yubo Supremo 	un	el	Fragmentos de Pelvis de Yubo Supremo 		los	
 _7383D6E7A1855619	m0691chdfd01	Fragmento de Pelvis de Yubo Excelente del Bosque	un	el	Fragmentos de Pelvis de Yubo Excelente del Bosque		los	
-_465CCECD3BC0AC4E	m0691chdfe01	Fragmento supremo de pelvis de Yubo del Bosque	un	el	fragmentos supremos de pelvis de Yubo del Bosque	unos	los
+_465CCECD3BC0AC4E	m0691chdfe01	Fragmento supremo de pelvis de Yubo del Bosque	un	el	fragmentos supremos de pelvis de Yubo del Bosque	unos	los	
 _1E2DEF0FAE9C738D	m0691chdlc01	Fragmento de Pelvis de Yubo de Selección de los Lagos	un	el	Fragmentos de Pelvis de Yubo de Selección de los Lagos		los	
 _D90195B95821DD09	m0692chdca01	Diente de Yubo Básico	un	el	Dientes de Yubo Básico		los	
 _6D8F1E50D664C928	m0692chdcb01	Diente de Yubo Fino	un	el	Dientes de Yubo Fino		los	
 _51C32D9176A72F97	m0692chdce01	Diente de Yubo Supremo 	un	el	Dientes de Yubo Supremo 		los	
 _19E64F4FE574BBC2	m0692chdfd01	Diente de Yubo Excelente del Bosque	un	el	Dientes de Yubo Excelente del Bosque		los	
-_C12AE35B86B8AC6D	m0692chdfe01	Diente supremo de Yubo del Bosque	un	el	dientes supremos de Yubo del Bosque	unos	los
+_C12AE35B86B8AC6D	m0692chdfe01	Diente supremo de Yubo del Bosque	un	el	dientes supremos de Yubo del Bosque	unos	los	
 _75B63A4CB89A8053	m0692chdlc01	Diente de Yubo de Selección de los Lagos	un	el	Dientes de Yubo de Selección de los Lagos		los	
 _D3A386FF6E47CA93	m0693ccica01	Ligamento de Zerx Básico	un	el	Ligamentos de Zerx Básico		los	
 _0E632A9171F48E8C	m0693ccicb01	Ligamento de Zerx Fino	un	el	Ligamentos de Zerx Fino		los	

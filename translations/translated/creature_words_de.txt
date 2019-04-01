@@ -4759,8 +4759,8 @@ _612658A91C069B98	ckjbd1	Gefürchteter Kipesta	Gefürchtete Kipesta	Gefürchtete
 _613660A95C269F9A	ckjbf2	Niederträchtiger Kipesta	Niederträchtige Kipesta	Niederträchtigen Kipesta	Niederträchtigen Kipesta	einen	ein	eines	der	des	den	dem	Niederträchtige Kipestas	Niederträchtigen Kipestas	Niederträchtigen Kipestas	die
 _610660A99B26A396	ckfbf3	Killer-Kirosta	Killer-Kirosta	Killer-Kirosta	Killer-Kirosta	einen	ein	eines	der	des	den	dem	Killer-Kirostas	Killer-Kirostas	Killer-Kirostas	die
 _611660A9DC26A796	ckfbf4	Gewaltiger Kirosta	Gewaltige Kirosta	Gewaltigen Kirosta	Gewaltigen Kirosta	einen	ein	eines	der	des	den	dem	Gewaltige Kirostas	Gewaltigen Kirostas	Gewaltigen Kirostas	die
-_61E660A91B26A394	ckdbf3	Killer-Kirosta	Killer-Kirosta	Killer-Kirosta	Killer-Kirosta	einen	ein	eines	der	des	den	dem	Killer-Kirostas	Killer-Kirostas	Killer-Kirostas	die
-_61F660A95C26A794	ckdbf4	Gewaltiger Kirosta	Gewaltige Kirosta	Gewaltigen Kirosta	Gewaltigen Kirosta	einen	ein	eines	der	des	den	dem	Gewaltige Kirostas	Gewaltigen Kirostas	Gewaltigen Kirostas	die
+_61E660A91B26A394	ckdbf3	Killer-Kincher	Killer-Kincher	Killer-Kincher	Killer-Kincher	einen	ein	eines	der	des	den	dem	Killer-Kinchers	Killer-Kinchers	Killer-Kinchers	die
+_61F660A95C26A794	ckdbf4	Gewaltiger Kincher	Gewaltige Kincher	Gewaltigen Kincher	Gewaltigen Kincher	einen	ein	eines	der	des	den	dem	Gewaltige Kinchers	Gewaltigen Kinchers	Gewaltigen Kinchers	die
 _610680AB9BA6AB94	ckfbd3	Veteranen Kirosta	Veteranen Kirosta	Veteranen Kirosta	Veteranen Kirosta	einen	ein	eines	der	des	den	dem	Veteranen-Kirostas	Veteranen Kirostas	Veteranen Kirostas	die
 _9D35949859E69BA3	ckdbd3	Alter Kincher	Alte Kincher	Alten Kincher	Alten Kincher	einen	ein	eines	der	des	den	dem	Alte Kincher	Alten Kincher	Alten Kinchers	die
 _64B68FA7E6E58AA7	ckdad4	Hungriger Kincher	Hungrige Kincher	Hungrigen Kincher	Hungrigen Kincher	einen	ein	eines	der	des	den	dem	Hungrige Kincher	Hungrigen Kincher	Hungrigen Kinchers	die
