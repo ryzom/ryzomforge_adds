@@ -1997,6 +1997,9 @@
                 usergroup_l="chat_menu_button"
                 usergroup_params_l="chat_db=DYNAMIC_CHAT7" />
       </action>
+      <action id="save"
+              name="uimChanSave"
+              handler="lua:game:saveChannel(true)" />
     <separator />
   </group>
   <!-- User Chat menu. Code append entries for selecting chat source -->
