@@ -8,7 +8,7 @@ if (game==nil) then
 end
 
 ------------------------------------------------------------------------------------------------------------
--- 
+--
 function string:split(Pattern)
     local Results = {}
     local Start = 1
@@ -623,7 +623,7 @@ function game:openGuildIsland(url_island)
 	end
 	local x,y,z = getPlayerPos()
 	params = params .. "&posx=" .. tostring(x) .. "&posy=" .. tostring(y) .. "&posz=" .. tostring(z)
-	
+
 	getUI("ui:interface:guild:content:tab_island:props:html"):browse(url_island.."params="..params);
 	runAH(nil, "browse_home", "name=ui:interface:guild:content:tab_island:inv:html")
 end
@@ -640,4 +640,116 @@ function game:chatUrlCopy()
 end
 function game:chatUrlBrowse()
 	runAH(nil, "browse", "name=ui:interface:webig:content:html|url=" .. SavedUrl)
+end
+
+------------------------------------------------------------------------------------------------------------
+-- called from onInGameDbInitialized
+function game:openChannels()
+
+	if getDbProp("UI:SAVE:CHAT:AUTO_CHANNEL") > 0 then
+		local channels = readUserChannels()
+
+		if channels then
+			for name, pass in pairs(channels) do
+				local found = false
+				local chan = nil
+
+				for i = 0, getMaxDynChan() - 1 do
+					if getDbProp("UI:SAVE:ISENABLED:DYNAMIC_CHAT"..i) == 1 then
+						local id = getDbProp("SERVER:DYN_CHAT:CHANNEL"..i..":NAME")
+
+						if isDynStringAvailable(id) then
+							chan = getDynString(id):toUtf8()
+							-- already opened ?
+							if name == chan then
+								found = true
+							end
+						end
+					end
+				end
+
+				if not found then
+					game:connectUserChannel(name.." "..pass)
+				end
+			end
+		end
+	end
+
+end
+
+------------------------------------------------------------------------------------------------------------
+-- called to save user created channels
+function game:saveChannel(verbose)
+
+	if verbose == nil then
+		verbose = false
+	end
+
+	local channels = {}
+
+	for i = 0, getMaxDynChan() - 1 do
+		if getDbProp("UI:SAVE:ISENABLED:DYNAMIC_CHAT"..i) == 1 then
+			local id = getDbProp("SERVER:DYN_CHAT:CHANNEL"..i..":NAME")
+
+			if isDynStringAvailable(id) then
+				local chan = getDynString(id):toUtf8()
+				local found = false
+
+				for _, k in pairs(getClientCfgVar("ChannelIgnoreFilter")) do
+					if k == chan then
+						found = true
+					end
+				end
+
+				if not found then
+					local pass = ''
+					-- check for private chans
+					for _, k in pairs(game.dynKey) do
+						if k[chan] then
+							pass = k[chan]
+						end
+					end
+					channels[chan] = pass
+				end
+			end
+		end
+	end
+	saveUserChannels(channels, verbose)
+
+end
+
+------------------------------------------------------------------------------------------------------------
+-- mitm to store password for the current session
+function game:connectUserChannel(args)
+
+	local arg = {}
+
+	for w in string.gmatch(args, "%S+") do
+		table.insert(arg, w)
+	end
+
+	if #arg > 0 then
+		local params = arg[1]
+
+		if #arg == 2 then
+			-- channel with pass
+			for _, ch in pairs(game.dynKey) do
+				if ch[arg[1]] then
+					ch[arg[1]] = nil
+				end
+			end
+
+			if arg[2] ~= '*' and arg[2] ~= "***" then
+				table.insert(game.dynKey, {[arg[1]]=arg[2]})
+			end
+			params = params.." "..arg[2]
+		end
+		runAH(nil, "talk", "mode=0|text=/a connectUserChannel "..params)
+	end
+
+end
+
+------------------------------------------------------------------------------------------------------------
+if game.dynKey == nil then
+	game.dynKey = {}
 end
