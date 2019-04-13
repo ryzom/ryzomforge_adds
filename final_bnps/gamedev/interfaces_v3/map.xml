@@ -290,13 +290,9 @@
 			<view type="text" id="weather" x="8" y="-16" posref="TL TL" color="255 255 255 255" fontsize="12" shadow="true" hardtext="" />
 			<ctrl type="tooltip" id="weather_tt" posparent="weather" sizeref="wh" w="0" h="0" tooltip="" tooltip_parent="ctrl" tooltip_posref="BL TL" />
 
-			<ctrl type="button" id="lm_events_btn" button_type="push_button" posref="TR TR" global_color="false" y="0" x="-4" h="24" w="24" tx_normal="dyn_event.tga" tx_pushed="W_button_16_over.tga" tx_over="W_button_16_over.tga"
-				onclick_l="proc" params_l="map_events_toggle" tooltip="uiR2Events" />
-			<view type="text" id="events" x="-4" y="0" posref="BL BR" posparent="lm_events_btn"  color="244 147 49 255" fontsize="14" shadow="true" hardtext="" global_color="false" />
-
 			<instance template="box_widget" id="back" posref="TL TL" sizeref="wh" w="-2" h="-32" x="1" y="-32" render_layer="0" />
 
-			<group type="map" id="actual_map" sizeref="wh" w="-4" h="-4" posparent="back" posref="TL TL" x="2" y="-2" render_layer="1"
+			<group type="map" id="actual_map" sizeref="wh" w="-4" h="-22" posparent="back" posref="TL TL" x="2" y="-2" render_layer="1"
 			 group_onclick_r="world_map_right_click"
 			 group_params_r="map=ui:interface:map:content:map_content:actual_map"
 
@@ -416,6 +412,10 @@
 			 compass="ui:interface:compass"
 			/>
 			<!-- border around the map -->
+
+			<ctrl type="button" id="lm_events_btn" button_type="push_button" posparent="actual_map" posref="BR TR" global_color="false" scale="true" y="-1" x="-4" h="16" w="16" tx_normal="dyn_event.tga" tx_pushed="W_button_16_over.tga" tx_over="W_button_16_over.tga"
+				onclick_l="proc" params_l="map_events_toggle" tooltip="uiR2Events" />
+			<view type="text" id="events" x="-4" y="0" posref="BL BR" posparent="lm_events_btn"  color="244 147 49 255" fontsize="12" shadow="true" hardtext="" global_color="false" />
 
 			<group id="lm_events"
 				posparent="back"
