@@ -3104,6 +3104,9 @@ This MUST follow the Enum MISSION_DESC::TIconId
   <variable entry="UI:SAVE:INV_BAG:FILTER_TOOL"
             type="sint32"
             value="1" />
+  <variable entry="UI:SAVE:INV_BAG:FILTER_PET"
+            type="sint32"
+            value="1" />
   <variable entry="UI:SAVE:INV_BAG:FILTER_MP"
             type="sint32"
             value="1" />
@@ -3126,6 +3129,9 @@ This MUST follow the Enum MISSION_DESC::TIconId
             type="sint32"
             value="1" />
   <variable entry="UI:SAVE:INV_PA0:FILTER_TOOL"
+            type="sint32"
+            value="1" />
+  <variable entry="UI:SAVE:INV_PA0:FILTER_PET"
             type="sint32"
             value="1" />
   <variable entry="UI:SAVE:INV_PA0:FILTER_MP"
@@ -3152,6 +3158,9 @@ This MUST follow the Enum MISSION_DESC::TIconId
   <variable entry="UI:SAVE:INV_PA1:FILTER_TOOL"
             type="sint32"
             value="1" />
+  <variable entry="UI:SAVE:INV_PA1:FILTER_PET"
+            type="sint32"
+            value="1" />
   <variable entry="UI:SAVE:INV_PA1:FILTER_MP"
             type="sint32"
             value="1" />
@@ -3174,6 +3183,9 @@ This MUST follow the Enum MISSION_DESC::TIconId
             type="sint32"
             value="1" />
   <variable entry="UI:SAVE:INV_PA2:FILTER_TOOL"
+            type="sint32"
+            value="1" />
+  <variable entry="UI:SAVE:INV_PA2:FILTER_PET"
             type="sint32"
             value="1" />
   <variable entry="UI:SAVE:INV_PA2:FILTER_MP"
@@ -3200,6 +3212,9 @@ This MUST follow the Enum MISSION_DESC::TIconId
   <variable entry="UI:SAVE:INV_PA3:FILTER_TOOL"
             type="sint32"
             value="1" />
+  <variable entry="UI:SAVE:INV_PA3:FILTER_PET"
+            type="sint32"
+            value="1" />
   <variable entry="UI:SAVE:INV_PA3:FILTER_MP"
             type="sint32"
             value="1" />
@@ -3222,6 +3237,9 @@ This MUST follow the Enum MISSION_DESC::TIconId
             type="sint32"
             value="1" />
   <variable entry="UI:SAVE:INV_PA4:FILTER_TOOL"
+            type="sint32"
+            value="1" />
+  <variable entry="UI:SAVE:INV_PA4:FILTER_PET"
             type="sint32"
             value="1" />
   <variable entry="UI:SAVE:INV_PA4:FILTER_MP"
@@ -3248,6 +3266,9 @@ This MUST follow the Enum MISSION_DESC::TIconId
   <variable entry="UI:SAVE:INV_PA5:FILTER_TOOL"
             type="sint32"
             value="1" />
+  <variable entry="UI:SAVE:INV_PA5:FILTER_PET"
+            type="sint32"
+            value="1" />
   <variable entry="UI:SAVE:INV_PA5:FILTER_MP"
             type="sint32"
             value="1" />
@@ -3270,6 +3291,9 @@ This MUST follow the Enum MISSION_DESC::TIconId
             type="sint32"
             value="1" />
   <variable entry="UI:SAVE:INV_PA6:FILTER_TOOL"
+            type="sint32"
+            value="1" />
+  <variable entry="UI:SAVE:INV_PA6:FILTER_PET"
             type="sint32"
             value="1" />
   <variable entry="UI:SAVE:INV_PA6:FILTER_MP"
@@ -3297,6 +3321,9 @@ This MUST follow the Enum MISSION_DESC::TIconId
   <variable entry="UI:SAVE:INV_GUILD:FILTER_TOOL"
             type="sint32"
             value="1" />
+  <variable entry="UI:SAVE:INV_GUILD:FILTER_PET"
+            type="sint32"
+            value="1" />
   <variable entry="UI:SAVE:INV_GUILD:FILTER_MP"
             type="sint32"
             value="1" />
@@ -3320,6 +3347,9 @@ This MUST follow the Enum MISSION_DESC::TIconId
             type="sint32"
             value="1" />
   <variable entry="UI:SAVE:INV_ROOM:FILTER_TOOL"
+            type="sint32"
+            value="1" />
+  <variable entry="UI:SAVE:INV_ROOM:FILTER_PET"
             type="sint32"
             value="1" />
   <variable entry="UI:SAVE:INV_ROOM:FILTER_MP"

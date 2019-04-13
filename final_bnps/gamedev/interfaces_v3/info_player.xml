@@ -290,7 +290,7 @@
                 </group>
             </group>
             <group h="0" id="webinfos" posref="TL TL" sizeref="wh" w="0" y="0">
-                <group id="title" posref="TL TL" sizeref="w" active="true" w="-1" h="24" y="-8">
+                <group id="title" posref="TL TL" sizeref="w" active="false" w="-1" h="24" y="-8">
                     <view type="text" id="player_title_txt" posref="TL TL" x="8" y="-4" hardtext="uiPlayerTitle" shadow="true" color="255 255 255 255" global_color="false" fontsize="12" />
                     <group type="combo_box" id="player_title" w="300" h="20" value="UI:TITLE" posparent="player_title_txt" posref="TR TL" x="4" y="4" on_select_start="title_combobox_button">
                         <instance template="combo_box_def1" />
@@ -298,9 +298,9 @@
                     <instance template="text_tt" posparent="player_title" tooltip="uittIdentityTitle" />
                     <link expr="@UI:TITLE" action="title_combobox_changed" />
                 </group>
-                <ctrl style="text_button_16" id="inf" posref="TR TR" active="true" y="-9" wmargin="8" hardtext="uiInfo" tooltip="uittIdentityInfo" onclick_l="open_title_help" params_l="from=user" />
-                <ctrl style="text_button_header" button_type="push_button" id="browse_home" posref="BR TR" posparent="title" x="0" y="-2" hardtext="uiBrowseRefresh" tooltip="uittBrowseRefresh" onclick_l="browse_home" params_l="name=ui:interface:info_player_skills:content:webinfos:html" />
-                <group type="webig_html" id="html" posref="TL TL" posparent="parent" url="http://app.ryzom.com/app_profile/index.php" title_prefix="" sizeref="wh" x="0" y="-42" w="0" h="0" background_color="0 0 0 255" error_color="255 240 48 255" link_color="240 155 100 255" text_color="210 210 210 255" h1_color="255 255 255 255" h2_color="255 255 255 255" h3_color="255 255 255 255" h4_color="255 255 255 255" h5_color="255 255 255 255" h6_color="100 255 100 255" text_font_size="10" h1_font_size="20" h2_font_size="18" h3_font_size="16" h4_font_size="14" h5_font_size="12" h6_font_size="10" paragraph_begin_space="1" multi_line_space_factor="0.25" td_begin_space="16" li_begin_space="4" ul_begin_space="12" li_indent="0" ul_indent="30" checkbox_bitmap_normal="w_slot_on.tga" checkbox_bitmap_pushed="w_opacity_on.tga" checkbox_bitmap_over="" background_bitmap_view="black2" home="http://app.ryzom.com/app_profile/index.php" browse_next_time="true" form_text_area_group="edit_box_widget_multiline">
+                <ctrl style="text_button_16" id="inf" posref="TR TR" active="false" y="-2" x="-70" hardtext="uiInfo" tooltip="uittIdentityInfo" onclick_l="open_title_help" params_l="from=user" />
+                <ctrl style="text_button_header" button_type="push_button" id="browse_home" posref="TR TR" x="-1" y="-2" hardtext="uiBrowseRefresh" tooltip="uittBrowseRefresh" onclick_l="browse_home" params_l="name=ui:interface:info_player_skills:content:webinfos:html" />
+                <group type="webig_html" id="html" posref="TL TL" url="http://app.ryzom.com/app_profile/index.php" title_prefix="" sizeref="wh" x="0" y="-8" w="0" h="0" background_color="0 0 0 255" error_color="255 240 48 255" link_color="240 155 100 255" text_color="210 210 210 255" h1_color="255 255 255 255" h2_color="255 255 255 255" h3_color="255 255 255 255" h4_color="255 255 255 255" h5_color="255 255 255 255" h6_color="100 255 100 255" text_font_size="10" h1_font_size="20" h2_font_size="18" h3_font_size="16" h4_font_size="14" h5_font_size="12" h6_font_size="10" paragraph_begin_space="1" multi_line_space_factor="0.25" td_begin_space="16" li_begin_space="4" ul_begin_space="12" li_indent="0" ul_indent="30" checkbox_bitmap_normal="w_slot_on.tga" checkbox_bitmap_pushed="w_opacity_on.tga" checkbox_bitmap_over="" background_bitmap_view="black2" home="http://app.ryzom.com/app_profile/index.php" browse_next_time="true" form_text_area_group="edit_box_widget_multiline">
                     <group id="black" posref="BR BR" sizeref="hw" w="-12" h="-12" inherit_gc_alpha="true" />
                     <instance template="inner_thin_border" posparent="black" inherit_gc_alpha="true" />
                     <view type="bitmap" id="black2" posparent="black" posref="MM MM" sizeref="wh" w="-2" h="-2" inherit_gc_alpha="true" scale="true" texture="blank.tga" global_color="false" />
@@ -751,9 +751,9 @@
     </template>
     <!-- Message popup center -->
     <template name="message_popup_center" keep="true" posparent="parent" posref="BM BM" id="">
-        <group id="#id" child_resize_h="true" sizeref="w" w="-50" posparent="#posparent" posref="#posref" win_priority="%win_priority_highest" use_cursor="false">
+        <group id="#id" child_resize_h="true" sizeref="w9" w="0" posparent="#posparent" posref="#posref" win_priority="%win_priority_highest" use_cursor="false">
             <!-- do not change id (used for setting right skill name) -->
-            <view type="text" id="name" fontsize="16" posref="TM TM" shadow="true" global_color="false" line_maxw="1000" multi_line="true" justification="clip_word" />
+            <view type="text" id="name" fontsize="16" posref="TM TM" shadow="true" global_color="false" line_maxw="1000" multi_line="true" justification="centered" />
         </group>
     </template>
     <!-- Skill popup -->

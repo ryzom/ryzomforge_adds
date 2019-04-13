@@ -1346,6 +1346,7 @@ _ED9F4D1C26771B44	chddf2	Yubo Violento	un	el	Yubos Violentos		los
 _865EDD4F344ED4FB	chddf3	Yubo Feroz	un	el	Yubos Feroces		los
 _41DE3909E8898C1F	chdfa1	Yubo Lactante	un	el	Yubos Lactantes		los
 _410E3DF7E5C9901F	chdfa2	Yubo Destetado	un	el	Yubos Destetados		los
+_63A9649E6AD89FA6	chdfa7	Yubokin					
 _437F7107265AD82D	chdfb1	Yubo Timorato	un	el	Yubos Timoratos		los
 _09BF85E97074F200	chdfb2	Yubo Vagando	un	el	Yubos Vagando		los
 _43D6922542DE8C09	chdfb3	Yubo Correteando	un	el	Yubos Correteando		los
@@ -3958,7 +3959,7 @@ _281A7C86DF26F3A2	ckjld7	Kipeskan
 _2C58605669282B8F	ckjpf8	Kipesta Terminadora	una	la	Kipestas Terminadoras		las
 _69F9D09461E7DB9E	cpcfc7	Psykokin					
 _EBF94BA9A837078D	cpdff4	Slaveni Devastador	un	el	Slavenis Devastores		los
-_A8463F8AEA561B8A	cpefe7	Cratchakyo					
+_A8463F8AEA561B8A	cpefe7	Cratchakin					
 _69E9FC8D12E7ABB1	cpefe8	Cratcha Destructora 	una	la	Cratchas Destructoras		las
 _6D084BA16717FF8D	cpejf4	Cratcha Devastadora	una	la	Cratchas Devastadoras		las
 _26E90C8CAB86BE49	ckjdd8	Kipesta Asesina	un	la	Kipestas Asesinas		las
@@ -4758,8 +4759,8 @@ _612658A91C069B98	ckjbd1	Kipesta Temida	una	la	Kipestas Temidas		las
 _613660A95C269F9A	ckjbf2	Kipesta Lacerante	una	la	Kipestas Lacerantes		las
 _610660A99B26A396	ckfbf3	Kirosta Asesina	una	la	Kirostas Asesinas		las
 _611660A9DC26A796	ckfbf4	Kirosta Grande	una	la	Kirostas Grandes		las
-_61E660A91B26A394	ckdbf3	Kirosta Asesina	una	la	Kirostas Asesinas		las
-_61F660A95C26A794	ckdbf4	Kirosta Grande	una	la	Kirostas Grandes		las
+_61E660A91B26A394	ckdbf3	Kincher Asesina	una	la	Kinchers Asesinas		las
+_61F660A95C26A794	ckdbf4	Kincher Grande	una	la	Kinchers Grandes		las
 _610680AB9BA6AB94	ckfbd3	Kirosta Veterana	una	la	Kirostas Veteranas		las
 _9D35949859E69BA3	ckdbd3	Kincher Veterano	un	el	Kinchers Veteranos		los
 _64B68FA7E6E58AA7	ckdad4	Kincher Hambriento	un	el	Kinchers Hambrientos		los
@@ -5984,4 +5985,4 @@ _20C62EAAB3169B7B	gubani_mount_02	Gubani de Montar	un	el	Gubanis de Montar		los
 _20C62EAAB3269B7B	gubani_mount_03	Gubani de Montar	un	el	Gubanis de Montar		los
 _20C62EAAB3369B7B	gubani_mount_04	Gubani de Montar	un	el	Gubanis de Montar		los
 _7EF0BD008D3857A4	chxjf_zig	Gubani de Zigzag	un	el	Gubanis de Zigzag		los
-_D5F8D49B6A662373	cpegf7	Cratchaki					
+_D5F8D49B6A662373	cpegf7	Cratchakyo					
