@@ -207,7 +207,11 @@
 	<action handler="land_mark_filter" params="map=ui:interface:map:content:map_content:actual_map|group=@0" />
 </proc>
 
-<define	id="map_min_size"	value="256" />
+<define	id="map_min_size_h"	value="256" />
+<define	id="map_min_size_w"	value="385" />
+
+<define	id="map_respawn_min_size_h"	value="256" />
+<define	id="map_respawn_min_size_w"	value="260" />
 
 <variable entry="UI:VARIABLES:ISACTIVE:MAP_EVENTS" type="sint32" value="0" />
 
@@ -251,8 +255,8 @@
 
 </template>
 
-<group id="map" type="container" posref="BL TL" min_w="%map_min_size" max_w="16384" w="256" h="256" x="352" y="200" min_h="%map_min_size" max_h="16384"
- resizer="true" pop_max_h="16384" pop_min_h="%map_min_size" pop_max_w="16384" pop_min_w="%map_min_size"
+<group id="map" type="container" posref="BL TL" min_w="%map_min_size_w" max_w="16384" w="385" h="256" x="352" y="200" min_h="%map_min_size_h" max_h="16384"
+ resizer="true" pop_max_h="16384" pop_min_h="%map_min_size_h" pop_max_w="16384" pop_min_w="%map_min_size_w"
  openable="false" opened="true"
  movable="true" open_button="false"
  savable="true"
@@ -264,12 +268,12 @@
 	<group id="header_closed" x="0" y="0" h="16" posref="TL TL" >
 	</group>
 
-	<group id="header_opened" x="0" y="0" w="256" h="16" posref="TL TL"
+	<group id="header_opened" x="0" y="0" w="385" h="16" posref="TL TL"
 			group_onclick_r="active_menu" group_params_r="menu=ui:interface:base_menu_with_color" >
 	</group>
 
 	<group id="content" x="0" y="0" h="0" posref="TL TL" >
-		<group id="map_content" posref="TL TL" sizeref="wh" w="0" h="-12" y="-12" >
+		<group id="map_content" posref="TL TL" sizeref="wh" w="0" h="-7" y="-6" >
 
 			<!-- back -->
 			<ctrl type="button" id="map_back" button_type="push_button" posref="TL TL" y="0"  x="4" tx_normal="w_back_map.tga" tx_pushed="W_button_16_over.tga" tx_over="W_button_16_over.tga"
@@ -283,16 +287,21 @@
 			<!-- center on player -->
 			<ctrl type="button" id="center" button_type="push_button" posparent="zoom_out" posref="TR TL" y="0"  x="4" tx_normal="w_center_map.tga" tx_pushed="W_button_16_over.tga" tx_over="W_button_16_over.tga"
 				onclick_l="map_center" params_l="map=ui:interface:map:content:map_content:actual_map" tooltip="uittCenter" />
+			<!-- search -->
 			<ctrl type="button" id="lm_search_btn" button_type="push_button" posparent="center" posref="TR TL" y="0" x="4" tx_normal="w_help_1.tga" tx_pushed="W_button_16_over.tga" tx_over="W_button_16_over.tga"
 				onclick_l="proc" params_l="map_search_toggle" tooltip="uittMapSearch" />
-
-			<view type="text" id="time" x="58" y="0" posparent="lm_search_btn" posref="MR ML" color="255 255 255 255" fontsize="12" shadow="true" hardtext="" />
-			<view type="text" id="weather" x="8" y="-16" posref="TL TL" color="255 255 255 255" fontsize="12" shadow="true" hardtext="" />
+			<!-- open dynamish events overlay-->
+			<ctrl type="button" id="lm_events_btn" button_type="push_button" posparent="lm_search_btn" posref="TR TL" global_color="false" scale="true" y="0" x="4" h="16" w="16" tx_normal="dyn_event.tga" tx_pushed="W_button_16_over.tga" tx_over="W_button_16_over.tga"
+				onclick_l="proc" params_l="map_events_toggle" tooltip="uiR2Events" />
+			<view type="text" id="events" x="-4" y="0" posref="BL BR" posparent="lm_events_btn"  color="244 147 49 255" fontsize="12" shadow="true" hardtext="" global_color="false" />
+				
+			<view type="text" id="time" x="4" y="-18" posref="TL TL" color="255 255 255 255" fontsize="12" shadow="true" hardtext="" />
+			<view type="text" id="weather" x="4" y="-32" posref="TL TL" color="255 255 255 255" fontsize="12" shadow="true" hardtext="" />
 			<ctrl type="tooltip" id="weather_tt" posparent="weather" sizeref="wh" w="0" h="0" tooltip="" tooltip_parent="ctrl" tooltip_posref="BL TL" />
 
-			<instance template="box_widget" id="back" posref="TL TL" sizeref="wh" w="-2" h="-32" x="1" y="-32" render_layer="0" />
+			<instance template="box_widget" id="back" posref="TL TL" sizeref="wh" w="-2" h="-50" x="1" y="-50" render_layer="0" />
 
-			<group type="map" id="actual_map" sizeref="wh" w="-4" h="-22" posparent="back" posref="TL TL" x="2" y="-2" render_layer="1"
+			<group type="map" id="actual_map" sizeref="wh" w="-4" h="-6" posparent="back" posref="TL TL" x="2" y="-2" render_layer="1"
 			 group_onclick_r="world_map_right_click"
 			 group_params_r="map=ui:interface:map:content:map_content:actual_map"
 
@@ -413,10 +422,6 @@
 			/>
 			<!-- border around the map -->
 
-			<ctrl type="button" id="lm_events_btn" button_type="push_button" posparent="actual_map" posref="BR TR" global_color="false" scale="true" y="-1" x="-4" h="16" w="16" tx_normal="dyn_event.tga" tx_pushed="W_button_16_over.tga" tx_over="W_button_16_over.tga"
-				onclick_l="proc" params_l="map_events_toggle" tooltip="uiR2Events" />
-			<view type="text" id="events" x="-4" y="0" posref="BL BR" posparent="lm_events_btn"  color="244 147 49 255" fontsize="12" shadow="true" hardtext="" global_color="false" />
-
 			<group id="lm_events"
 				posparent="back"
 				active="false"
@@ -427,7 +432,7 @@
 				h="-4"
 				w="50"
 				child_resize_w="true">
-				<view type="bitmap" id="bg" posref="ML ML" sizeref="h" w="400"
+				<view type="bitmap" id="bg" posref="ML ML" sizeref="h" w="355"
 					scale="true" color="0 0 0 0" global_color="false" texture="blank.tga" />
 				<instance template="webig_html" />
 			</group>
@@ -507,8 +512,8 @@
 </proc>
 
 <!-- The Respawn Map Group -->
-<group id="respawn_map" type="container" posref="BL TL" min_w="%map_min_size" max_w="16384" w="256" h="256" x="352" y="200" min_h="%map_min_size" max_h="16384"
- resizer="true" pop_max_h="16384" pop_min_h="%map_min_size" pop_max_w="16384" pop_min_w="%map_min_size"
+<group id="respawn_map" type="container" posref="BL TL" min_w="%map_respawn_min_size_w" max_w="16384" w="260" h="256" x="352" y="200" min_h="%map_respawn_min_size_h" max_h="16384"
+ resizer="true" pop_max_h="16384" pop_min_h="%map_respawn_min_size_h" pop_max_w="16384" pop_min_w="%map_respawn_min_size_w"
  openable="false" opened="true" right_button="false"
  movable="true" open_button="false"
  savable="true" active_savable="false"
@@ -521,7 +526,7 @@
 	<group id="header_closed" x="0" y="0" h="16" posref="TL TL" >
 	</group>
 
-	<group id="header_opened" x="0" y="0" h="16" w="256" posref="TL TL"
+	<group id="header_opened" x="0" y="0" h="16" w="260" posref="TL TL"
 			group_onclick_r="active_menu" group_params_r="menu=ui:interface:base_menu_with_color" >
 	</group>
 
