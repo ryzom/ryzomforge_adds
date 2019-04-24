@@ -982,6 +982,14 @@
             name="uimLeaveStable"
             handler="beast_order"
             params="order=leave_stable|beast_index=@UI:BEAST_SELECTED" />
+    <action id="enter_bag"
+            name="uimEnterBag"
+            handler="beast_order"
+            params="order=enter_bag|beast_index=@UI:BEAST_SELECTED" />
+    <action id="leave_bag"
+            name="uimLeaveBag"
+            handler="beast_order"
+            params="order=leave_bag|beast_index=@UI:BEAST_SELECTED" />
     <action id="mount"
             name="uimMount"
             handler="beast_order"
@@ -1175,7 +1183,7 @@
                   tooltip="uittAliveLandscape"
                   posparent="animal_alive_landscape"
                   tooltip_parent="win" />
-        <link expr="and(isAnimalStatusAlive(@#beast_db_entry:STATUS),not(isAnimalStatusInStable(@#beast_db_entry:STATUS)))"
+        <link expr="and(isAnimalStatusAlive(@#beast_db_entry:STATUS),not(isAnimalStatusInStable(@#beast_db_entry:STATUS)),not(isAnimalStatusInBag(@#beast_db_entry:STATUS)))"
               target="animal_alive_landscape:active,tt_animal_alive_landscape:active" />
         <view type="bitmap"
               id="animal_stable"
@@ -1205,6 +1213,20 @@
                   tooltip_parent="win" />
         <link expr="isAnimalStatusDead(@#beast_db_entry:STATUS)"
               target="animal_dead:active,tt_animal_dead:active" />
+        <view type="bitmap"
+              id="animal_in_bag"
+              posref="MR MR"
+              x="-124"
+              w="14"
+              h="14"
+              scale="true"
+              texture="ico_mission_purse.tga" />
+        <instance template="text_tt"
+                  tooltip="uittInBag"
+                  posparent="animal_in_bag"
+                  tooltip_parent="win" />
+        <link expr="isAnimalStatusInBag(@#beast_db_entry:STATUS)"
+              target="animal_in_bag:active,tt_animal_in_bag:active" />
         <view type="bitmap"
               id="weight"
               posref="MR MR"
@@ -1312,17 +1334,17 @@
             index="5"
             bars_entry="UI:VARIABLES:BARS:ANIMAL:4"
             beast_db_entry="%pa_beast4"
-            bag_path="%pa_bag3" />
+            bag_path="%pa_bag4" />
   <instance template="pa_template"
             index="6"
             bars_entry="UI:VARIABLES:BARS:ANIMAL:5"
             beast_db_entry="%pa_beast5"
-            bag_path="%pa_bag3" />
+            bag_path="%pa_bag5" />
   <instance template="pa_template"
             index="7"
             bars_entry="UI:VARIABLES:BARS:ANIMAL:6"
             beast_db_entry="%pa_beast6"
-            bag_path="%pa_bag3" />
+            bag_path="%pa_bag6" />
   <!-- ***************************** -->
   <!-- *   ANIMAL(S) DEAD WINDOW   * -->
   <!-- ***************************** -->
