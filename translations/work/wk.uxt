@@ -13587,3 +13587,16 @@ msgRollDiceLocal	[&SYS&@{FF1F}You pulled %roll in a draw between %min and %max.]
 
 //Guild Island new tab at Guild Window
 uiGuildTabIsland	[Island]
+
+// welcome msg
+uiWelcome_around	[Roleplay is one of major interests of Ryzom, and around channel is an important place to practice it.]
+uiWelcome_region	[Chat here with other players having their avatar in the same region as where yours is.]
+uiWelcome_universe	[Chat here with other players, ask help about the game or use it for ryzom related chatting.]
+uiWelcome_kami		[Chat here with players having their avatar sharing the same cult as yours.]
+uiWelcome_karavan	[Chat here with players having their avatar sharing the same cult as yours.]
+uiWelcome_fyros 	[Chat here with players having their avatar being also a patriot.]
+uiWelcome_tryker	[Chat here with players having their avatar being also a citizen.]
+uiWelcome_zorai 	[Chat here with players having their avatar being also an initiate.]
+uiWelcome_matis 	[Chat here with players having their avatar being also a vassal.]
+uiWelcome_marauder	[Chat here with players having their avatar being also a marauder.]
+uiWelcome_ranger	[Chat here with players having their avatar being also a ranger.]
