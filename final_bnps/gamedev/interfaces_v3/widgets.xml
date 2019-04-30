@@ -360,6 +360,7 @@
         <action id="cris_reload" name="uimCristalReload" handler="item_cristal_reload" />
         <action id="teleport_use" name="uimTeleportUse" handler="teleport_use" />
         <action id="item_consume" name="uimItemConsume" handler="item_consume" />
+        <action id="item_execute" name="uimItemTextDisplay" handler="item_execute" />
         <action id="xp_catalyser_use" name="uimXpCatalyserUse" handler="xp_catalyser_use" />
         <action id="item_text_display" name="uiOpen" handler="item_text_display" params="ui:interface:edit_custom" />
         <separator />
