@@ -13583,3 +13583,13 @@ msgRollDiceLocal	[&SYS&@{FF1F}You pulled %roll in a draw between %min and %max.]
 
 //Guild Island new tab at Guild Window
 uiGuildTabIsland	[Island]
+
+// teleport interface
+uiArtefactRestrict  [@{C02F}Your allegiance or level of fame does not allow to use this item.]
+uiArtefactHelp      [Purchase a pact before running out of stock.]
+uimIhideBanner  [Hide faction banner]
+uimIshowBanner  [Show faction banner]
+uimIcloseOnTp   [Teleport close window]
+uimIopenOnTp    [Teleport keep window]
+uimIrefresh     [Refresh]
+uimIcompact     [Toggle compact mode]
