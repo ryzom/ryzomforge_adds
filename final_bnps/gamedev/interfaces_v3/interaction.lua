@@ -759,7 +759,10 @@ function game:chatWelcomeMsg(input)
 	local msg
 	local name
 	if not input then
-		input = getUICaller().hardtext:lower()
+		input = getUICaller().params_r
+		if input then
+			input = input:match("ED:([^_]+)"):lower()
+	    end
 	end
 	local chat = input
 	local temp = "UI:TEMP:ONCHAT:"
