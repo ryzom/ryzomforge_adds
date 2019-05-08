@@ -11,50 +11,53 @@ local html = [[
             <div name="info_banner">
                 <tr><img src="#faction.tga"></tr>
             </div>
-            <table cellspacing="5" cellpadding="2" width="100%">
+            <table cellspacing="#csp" cellpadding="2" width="100%">
                 <tr>
                     <td>
                         #fyros
                     </td>
                 </tr>
             </table>
-            <table cellspacing="5" cellpadding="1" width="100%">
+            <table cellspacing="#csp" cellpadding="2" width="100%">
+                <tr>
                     <td>
                         #tryker
                     </td>
                 </tr>
             </table>
-            <table cellspacing="5" cellpadding="2" width="100%">
+            <table cellspacing="#csp" cellpadding="2" width="100%">
                 <tr>
                     <td>
                         #matis
                     </td>
                 </tr>
             </table>
-            <table cellspacing="5" cellpadding="2" width="100%">
+            <table cellspacing="#csp" cellpadding="2" width="100%">
                 <tr>
                     <td>
                         #zorai
                     </td>
                 </tr>
             </table>
-            <table cellspacing="5" cellpadding="2" width="100%">
+            <table cellspacing="#csp" cellpadding="2" width="100%">
                 <tr>
                     <td>
                         #primes
                     </td>
-                    <table width="100%">
-                        <tr>
-                            <div name="info_money">
-                                <td><img align="left" src="money_seve.tga"></td>
-                                <td width="100%"><font color="white" size="12">#money</font></td>
-                            </div>
-                            <td><font color="white" size="10">#dopact</font></td>
-                            <td><form><input name="auto" alt="#help" type="checkbox" #check></form></td>
-                        </tr>
-                    </table>
                 </tr>
             </table>
+            <div name="info_footer">
+                <table width="100%">
+                    <tr>
+                        <div name="info_money">
+                            <td><img align="left" src="money_seve.tga"></td>
+                            <td width="100%"><font color="white" size="12">#money</font></td>
+                        </div>
+                        <td><font color="white" size="10">#dopact</font></td>
+                        <td><form><input name="auto" alt="#help" type="checkbox" #check></form></td>
+                    </tr>
+                </table>
+            </div>
         </table>
     </body>
 </html>]]
@@ -67,7 +70,9 @@ if artefact == nil then
         max_w = 603,
         min_h = 200,
         min_w = 234,
+        cellspace = 5,
         isCompact = false,
+        isAttached = false,
         isMinimized = true,
         isLogoMinimized = false,
         isTimerActive = false,
@@ -76,8 +81,9 @@ if artefact == nil then
                     quantity:q0;#Q;img1:tp_#I.tga;\
                     bg:bk_#E.tga;col_over:255 255 255 45", -- slotbg:blank2.tga;
         uiWindow = nil,
-        idWindow = "ui:interface:artefact", -- _"..tostring(math.random(0,999)),
-        template = "artefactv1",
+        uiWindowBag = nil,
+        idWindow = "ui:interface:artefact",
+        idWindowBag = "ui:interface:inventory:content:bag",
         webcode = html,
         zone = ""
     }
@@ -86,6 +92,19 @@ if artefact == nil then
     function artefact:onActive()
         if self.uiWindow then
             self:restoreWindow()
+        end
+    end
+
+    function artefact:onDeactive()
+        if self.uiWindow then
+            self.uiWindow.active = false
+            self.uiWindow.opened = false
+        end
+    end
+
+    function artefact:onClose()
+        if self.uiWindow then
+            runAH(getUICaller(), "proc", "artefact_proc_deactive")
         end
     end
 
@@ -108,7 +127,7 @@ if artefact == nil then
             local size = 42
             -- adjust height size
             if getDbProp(self.banner) == 0 then
-                size = 114
+                size = 112
             end
             self.uiWindow.pop_max_h = self.max_h - size
             -- vertical down only
@@ -186,7 +205,7 @@ if artefact == nil then
         else
             getUI(menu..node).active = true
         end
-        launchContextMenuInGame(menu)
+        runAH(getUICaller(), "active_menu", "menu="..menu)
     end
 
     -- event onclick menu
@@ -244,6 +263,10 @@ if artefact == nil then
                 end
             end
         end
+        -- attach it to inventory bag
+        if event == 5 then
+            runAH(getUICaller(), "proc", "artefact_win_attach")
+        end
         self:doRefresh() -- event 3
         if event == 1 then
             self:onResize()
@@ -280,6 +303,32 @@ if artefact == nil then
         end
     end
 
+    function artefact:attachWindow()
+        if self.uiWindow.opened then
+            self.uiWindow.opened = false
+        end
+        if self.uiWindow.active then
+            self.uiWindow.active = false
+        end
+        self.isAttached = true
+        -- render content in bag
+        self.uiWindowBag = getUI(self.idWindowBag..":artefact_content")
+        if self.uiWindowBag then
+            local html = self.uiWindowBag:find("html")
+            if html then
+                self:dynRender(html)
+            end
+        end
+    end
+
+    function artefact:detachWindow()
+        self.isAttached = false
+        self.uiWindow.opened = true
+        self.uiWindow.active = true
+        self.uiWindowBag = nil
+        self:doRefresh()
+    end
+
     -- hide inventory bag pacts
     function artefact:hidePact()
         if getDbProp(self.filter) == 1 then
@@ -288,31 +337,48 @@ if artefact == nil then
     end
 
     function artefact:doRefresh()
-        if self.uiWindow then
-            local html = self.uiWindow:find("html")
-            if html then
-                self:dynRender(html)
-            end
+        local html = self.uiWindow:find("html")
+        if self.uiWindowBag and self.isAttached then
+            html = self.uiWindowBag:find("html")
+        end
+        if html then
+            self:dynRender(html)
         end
     end
 
     function artefact:doTime()
         if nltime.getLocalTime()/1000 - self.start >= self.loadTpTime then
-            setOnDraw(self.uiWindow, "")
+            local winTimer = self.uiWindow
+            if self.isAttached then
+                if self.uiWindowBag then
+                    winTimer = self.uiWindowBag
+                end
+            end
+            setOnDraw(winTimer, "")
             self.isTimerActive = false
             self:doRefresh()
         end
     end
 
     function artefact:usePact(pactId)
+        -- attach timer to bag
+        local winTimer = self.uiWindow
+        if self.isAttached then
+            if self.uiWindowBag then
+                winTimer = self.uiWindowBag
+            end
+        end
         if self.isTimerActive then
-            setOnDraw(self.uiWindow, "")
+            setOnDraw(winTimer, "")
             -- reset previous timer
             self.isTimerActive = false
         end
         sendMsgToServerUseItem(pactId)
         -- on teleport event
         if getDbProp(self.closeTp) == 1 then
+            if self.isAttached then
+                runAH(getUICaller(), "proc", "select_bag_items")
+            end
             self.uiWindow.opened = false
             self.uiWindow.active = false
             return
@@ -321,7 +387,7 @@ if artefact == nil then
         self.start = nltime.getLocalTime() / 1000
         self.isTimerActive = true
         -- pact cooldown is 15s
-        setOnDraw(self.uiWindow, "artefact:doTime()")
+        setOnDraw(winTimer, "artefact:doTime()")
     end
 
     function artefact:dynRender(html)
@@ -354,10 +420,19 @@ if artefact == nil then
         local dappers = getDbProp(self.dapper)
         local checkbox = getDbProp(self.dopact)
         local autopact = "Auto&nbsp;Pacts"
+        -- reset table cellspace
+        if self.cellspace > 5 then
+            self.cellspace = 5
+        end
+        -- reset cellspace
+        local space = self.cellspace
         -- mode
         if self.isCompact then
             autopact = "Pacts&nbsp;"
+            -- center pacts
+            space = space + 7
         end
+        content = string.gsub(content, "#csp", space)
         -- toggle auto pact checkbox
         if checkbox > 0 then
             checkbox = "checked" else checkbox = ""
@@ -379,6 +454,16 @@ if artefact == nil then
             -- set mode
             if self.isCompact then
                 html:showDiv("info_money", false)
+            end
+            -- attach to bag
+            if self.isAttached then
+                local uiWindowBag = getUI(self.idWindowBag)
+                if uiWindowBag then
+                    uiWindowBag:find("autopact_vt").hardtext = "Auto Pact"
+                end
+                html:showDiv("info_banner", false)
+                html:showDiv("info_footer", false)
+                return
             end
             -- hide logo
             if getDbProp(self.banner) == 0 then
@@ -443,8 +528,8 @@ if artefact == nil then
     end
 
     function artefact:getitem(id, s)
-        return getDbProp(self.bag..':'..id..':'..s:upper())
-    end
+		return getDbProp(self.bag..':'..id..':'..s:upper())
+	end
 
     artefact.__index = artefact
 end
@@ -460,6 +545,8 @@ function artefact:__init__()
         filter = "UI:SAVE:INV_BAG:FILTER_TP",
         dopact = "UI:SAVE:TELEPORT:DO_PACT",
         banner = "UI:SAVE:TELEPORT:BANNER",
+        active = "UI:SAVE:ISACTIVE:ARTEFACT",
+        detach = "UI:SAVE:TELEPORT:ISDETACHED",
         closeTp = "UI:SAVE:TELEPORT:CLOSE_AFTER_TP",
         -- minimum fame required
         threshold = 33,
@@ -537,7 +624,10 @@ function artefact:__init__()
             "Pacte kami %/ Téléporteur vers ",                  -- FR
             "Pacte Kami %/ Téléporteur vers ",
             "Соглашение с Ками о перемещении в ",               -- RU
-            "Kami Teleportationspakt für ",                     -- DE
+            "Kami Teleportationspakt für Den ",                 -- DE
+            "Kami Teleportationspakt für Die ",
+            "Kami Teleportationspakt für Das ",
+            "Kami Teleportationspakt für ",
             "Kami%-Teleportationspakt für ",
             "Kami Teleporter Pact for the ",                    -- EN
             "Kami Teleporter Pact for ",
@@ -551,7 +641,14 @@ function artefact:__init__()
             "Pacte karavan %/ Téléporteur vers ",               -- FR
             "Pacte Karavan %/ Téléporteur vers ",
             "Соглашение с Караваном о перемещении в",           -- RU
-            "Karavan Teleportationspakt für ",                  -- DE
+            "Karavan Teleportationspakt für Den ",              -- DE
+            "Karavan Teleportationspakt für Die ",
+            "Karavan Teleportationspakt für Das ",
+            "Karavan Teleportationspakt für das ",
+            "Karavan Teleportationspakt für ",
+            "Karavan%-Teleportationspakt für den ",
+            "Karavan%-Teleportationspakt für das ",
+            "Karavan%-Teleportationspakt für die ",
             "Karavan%-Teleportationspakt für ",
             "Karavan Teleporter Pact for the ",                 -- EN
             "Karavan Teleporter Pact for ",
@@ -608,45 +705,42 @@ function artefact:startInterface()
                 -- update
                 app.pacts = tmp
             end
-            -- create window
+            -- window is loaded from xml
             if not app.uiWindow then
                 -- reuse the previous frame if exist
                 app.uiWindow = getUI(app.idWindow, false)
-                -- otherwise
                 if not app.uiWindow then
-                    app.uiWindow = createRootGroupInstance(
-                        app.template,
-                        app.idWindow:match("ui:interface:([^:]*):?"),
-                        {
-                            x = 0, y = 0,
-                            w = app.w, h = app.h,
-                            pop_max_w = app.max_w,
-                            pop_max_h = app.max_h,
-                            pop_min_w = app.min_w,
-                            pop_min_h = app.min_h
-                        }
-                    )
-                    if not app.uiWindow then
-                        return
-                    end
-                    app.uiWindow:center()
+                    return
                 end
+                -- dimension
+                app.uiWindow.w = self.w
+                app.uiWindow.h = self.h
+                app.uiWindow.pop_max_w = self.max_w
+                app.uiWindow.pop_max_h = self.max_h
+                app.uiWindow.pop_min_w = self.min_w
+                app.uiWindow.pop_min_h = self.min_h
             end
-            -- trigger on_open event
-            if not app.uiWindow.opened then
-                app.uiWindow.opened = true
+            local html
+            -- is window attached?
+            if getDbProp(self.detach) == 0 then
+                runAH(getUICaller(), "proc", "artefact_win_attach")
+            else
+                -- trigger on_open event
+                if not app.uiWindow.opened then
+                    app.uiWindow.opened = true
+                end
+                -- trigger on_active event
+                if not app.uiWindow.active then
+                    app.uiWindow.active = true
+                end
+                local html = app.uiWindow:find("html")
+                -- render content
+                if html then
+                    app:dynRender(html)
+                end
+                self:hidePact()
+                setTopWindow(app.uiWindow)
             end
-            -- trigger on_active event
-            if not app.uiWindow.active then
-                app.uiWindow.active = true
-            end
-            local html = app.uiWindow:find("html")
-            -- render content
-            if html then
-                app:dynRender(html)
-            end
-            self:hidePact()
-            setTopWindow(app.uiWindow)
             return
         end
     end
