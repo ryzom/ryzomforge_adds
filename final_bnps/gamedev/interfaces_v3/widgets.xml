@@ -1570,6 +1570,14 @@
             <ctrl id="scroll_bar" style="skin_scroll" />
         </group>
     </template>
+    <!-- html browsing context no border -->
+    <template name="webig_html_noborder" id="html" keep="true" home="" browse_redo="" browse_undo="" browse_refresh="" bg_color="0 0 0 255">
+        <group id="#id" type="webig_html" posref="TL TL" home="#home" title_prefix="" sizeref="wh" x="0" y="0" w="0" h="0" background_color="#bg_color" error_color="255 240 48 255" link_color="240 155 100 255" text_color="210 210 210 255" h1_color="255 255 255 255" h2_color="255 255 255 255" h3_color="255 255 255 255" h4_color="255 255 255 255" h5_color="255 255 255 255" h6_color="255 255 255 255" text_font_size="10" h1_font_size="20" h2_font_size="18" h3_font_size="16" h4_font_size="14" h5_font_size="12" h6_font_size="12" paragraph_begin_space="12" multi_line_space_factor="0.25" td_begin_space="0" li_begin_space="4" ul_begin_space="12" li_indent="-10" ul_indent="30" checkbox_bitmap_normal="w_slot_on.tga" checkbox_bitmap_pushed="w_opacity_on.tga" checkbox_bitmap_over="" background_bitmap_view="background_bitmap" browse_next_time="false" form_text_area_group="edit_box_widget_multiline" browse_refresh="#browse_refresh" browse_undo="#browse_undo" browse_redo="#browse_redo">
+            <group id="black" posref="BR BR" sizeref="hw" w="-10" h="-12" inherit_gc_alpha="true" />
+            <group id="text_list" type="list" fontsize="9" posref="TL TL" posparent="black" x="2" y="-2" space="0" sizeref="hw" w="-4" h="-4" maxelements="2000" />
+            <ctrl id="scroll_bar" style="skin_scroll" />
+        </group>
+    </template>
     <!-- html browser window -->
     <template name="webig_browser" keep="true" home="" w="480" h="400" browse_redo="" browse_undo="" browse_refresh="">
         <group id="browser" type="container" w="#w" h="#h" x="0" y="0" pop_max_w="2000" pop_max_h="2000" pop_min_w="64" pop_min_h="32" header_color="UI:SAVE:WIN:COLORS:COM" posref="TL TL" title="" global_color="true" global_color_over="true" right_button="true" movable="true" lockable="true" active="true" openable="true" opened="true" resizer="true" on_active="lua" on_active_params="WebBrowser:onActive()">
