@@ -1453,6 +1453,8 @@ function game:onFarTpStart()
 	if getDbProp("UI:SAVE:CHAT:SAVE_CHANNEL") > 0 then
 		game:saveChannel()
 	end
+
+	artefact:onClose()
 end
 
 --------------------------------------------------------------------------------------------------------------
@@ -1471,6 +1473,8 @@ function game:onMainLoopEnd()
 	if getDbProp("UI:SAVE:CHAT:SAVE_CHANNEL") > 0 then
 		game:saveChannel()
 	end
+
+	artefact:onClose()
 end
 
 --------------------------------------------------------------------------------------------------------------
