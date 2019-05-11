@@ -1520,8 +1520,8 @@
         </group>
     </template>
     <!-- html browser window -->
-    <template name="webig_browser" keep="true" home="" w="480" h="400" browse_redo="" browse_undo="" browse_refresh="">
-        <group id="browser" type="container" w="#w" h="#h" x="0" y="0" pop_max_w="2000" pop_max_h="2000" pop_min_w="64" pop_min_h="32" header_color="UI:SAVE:WIN:COLORS:COM" posref="TL TL" title="" global_color="true" global_color_over="true" right_button="true" movable="true" lockable="true" active="true" openable="true" opened="true" resizer="true" on_active="lua" on_active_params="WebBrowser:onActive()">
+    <template name="webig_browser" keep="true" home="" w="480" h="400" pop_max_w="2000" pop_max_h="2000" pop_min_w="64" pop_min_h="32" browse_redo="" browse_undo="" browse_refresh="" resizer="true">
+        <group id="browser" type="container" w="#w" h="#h" x="0" y="0" pop_max_w="#pop_max_w" pop_max_h="#pop_max_h" pop_min_w="#pop_min_w" pop_min_h="#pop_min_h" header_color="UI:SAVE:WIN:COLORS:COM" posref="TL TL" title="" global_color="true" global_color_over="true" right_button="true" movable="true" lockable="true" active="true" openable="true" opened="true" resizer="#resizer" on_active="lua" on_active_params="WebBrowser:onActive()">
             <group id="header_closed" w="64" h="16" posref="TL TL" on_active="lua" on_active_params="WebBrowser:onClickHeaderClose()" />
             <group id="header_opened" h="16" w="480" posref="TL TL" on_active="lua" on_active_params="WebBrowser:onClickHeaderOpen()">
                 <ctrl style="text_button_header" id="browse_redo" button_type="push_button" posref="MR MR" x="-16" y="0" hardtext="uiBrowseRedoButton" tooltip="uittBrowseRedo" onclick_l="lua" params_l="WebBrowser:onClickRedo()" frozen="true" />
