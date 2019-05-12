@@ -27621,3 +27621,47 @@ uittChanSave	[If checked, dynamic chat channels are stored at disconnection or c
 uittChanAuto	[If checked, your dynamic chat channels will be restored if not already opened.\n
 	Will prevent the loss of channels at reboot or in case of server crash.]
 
+// HASH_VALUE F7F6CC407B89B9D3
+// INDEX 6562
+uiWelcome_around	[Roleplay is one of major interests of Ryzom, and around channel is an important place to practice it.]
+
+// HASH_VALUE B061D9467D44EA31
+// INDEX 6563
+uiWelcome_region	[Chat here with other players having their avatar in the same region as where yours is.]
+
+// HASH_VALUE DB96555152E1C24F
+// INDEX 6564
+uiWelcome_universe	[The Universe Channel is first of all intended for players asking help about the game and for those helping them. It's a friendly channel that also can be used for chatting related to Ryzom.]
+
+// HASH_VALUE 7C727C9DF8FD147A
+// INDEX 6565
+uiWelcome_kami	[Chat here with players having their avatar sharing the same cult as yours.]
+
+// HASH_VALUE 7C727C9DF8FD147A
+// INDEX 6566
+uiWelcome_karavan	[Chat here with players having their avatar sharing the same cult as yours.]
+
+// HASH_VALUE 83F0F7CB75FA4A0B
+// INDEX 6567
+uiWelcome_fyros	[Chat here with players having their avatar being also a patriot.]
+
+// HASH_VALUE 41F017BE7599221C
+// INDEX 6568
+uiWelcome_tryker	[Chat here with players having their avatar being also a citizen.]
+
+// HASH_VALUE 418FCFE09AC93216
+// INDEX 6569
+uiWelcome_zorai	[Chat here with players having their avatar being also an initiate.]
+
+// HASH_VALUE C3E0F7D1EA953E03
+// INDEX 6570
+uiWelcome_matis	[Chat here with players having their avatar being also a vassal.]
+
+// HASH_VALUE 3FD0F7F686091E17
+// INDEX 6571
+uiWelcome_marauder	[Chat here with players having their avatar being also a marauder.]
+
+// HASH_VALUE C08FF7CDEA955607
+// INDEX 6572
+uiWelcome_ranger	[Chat here with players having their avatar being also a ranger.]
+
