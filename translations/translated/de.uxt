@@ -27564,43 +27564,73 @@ uiPATitleMount6	[Zig 2]
 // INDEX 6544
 uiPATitleMount7	[Zig 3]
 
-// HASH_VALUE 843E4EA6D3404359
+// HASH_VALUE 649A14CAE8181224
 // INDEX 6545
+uimEnterBag	[Auf der Tasche einsteigen]
+
+// HASH_VALUE 6ED2B0829544BF4E
+// INDEX 6546
+uimLeaveBag	[Aus der Tasche lassen]
+
+// HASH_VALUE 843E4EA6D3404359
+// INDEX 6547
 msgRollDiceLocal	[&SYS&@{FF1F}Du hast %roll gezogen, in einer Ziehung zwischen %min und %max.]
 
 // HASH_VALUE A506B06C29D47491
-// INDEX 6546
+// INDEX 6548
 uiGuildTabIsland	[Insel]
 
 // HASH_VALUE CEAE0F5379D05435
-// INDEX 6547
+// INDEX 6549
 uiArtefactRestrict	[@{C02F}Deine Nationszugehörigkeit oder Ruhmstufe steht der Benutzung dieses Gegenstandes im Wege.]
 
 // HASH_VALUE 8F2D062BF5B9C40F
-// INDEX 6548
+// INDEX 6550
 uiArtefactHelp	[Kaufe einen Pakt, bevor Du keine mehr hast.]
 
 // HASH_VALUE 2399649083687012
-// INDEX 6549
+// INDEX 6551
 uimIhideBanner	[Fraktionswappen verbergen]
 
 // HASH_VALUE 6949609B83899C11
-// INDEX 6550
+// INDEX 6552
 uimIshowBanner	[Fraktionswappen anzeigen]
 
 // HASH_VALUE ABC89C4230B523CE
-// INDEX 6551
+// INDEX 6553
 uimIcloseOnTp	[Teleportfenster schliessen]
 
 // HASH_VALUE AC39905229BA7F54
-// INDEX 6552
+// INDEX 6554
 uimIopenOnTp	[Teleportfenster behalten]
 
 // HASH_VALUE EB1A8C8F22674C92
-// INDEX 6553
+// INDEX 6555
 uimIrefresh	[Erneut laden]
 
 // HASH_VALUE 210983972690C4AB
-// INDEX 6554
+// INDEX 6556
 uimIcompact	[Kompakten Modus ein/ausschalten]
+
+// HASH_VALUE 649C144C649C144C
+// INDEX 6557
+uimChanSave	[Speichern]
+
+// HASH_VALUE AA977387EA09F021
+// INDEX 6558
+uiChanSaveCB	[Speichern von Dynamischen Kanälen]
+
+// HASH_VALUE 2D6AB02BF4A8CCB9
+// INDEX 6559
+uiChanAutoCB	[Wiederherstellen Dynamischer Kanäle]
+
+// HASH_VALUE 6E62AFABF9C9FF64
+// INDEX 6560
+uittChanSave	[Wenn diese Option aktiviert ist, werden dynamische Chat-Kanäle bei der Trennung oder Charakterauswahl gespeichert.\n
+	Sie können auch den Befehl @{6F6F}/saveChannel@{FFFF} verwenden, um Kanäle manuell zu exportieren.]
+
+// HASH_VALUE 1937B73191F88AC6
+// INDEX 6561
+uittChanAuto	[Wenn dieses Kontrollkästchen aktiviert ist, werden Ihre dynamischen Chat-Kanäle wiederhergestellt, sofern sie nicht bereits geöffnet sind.\n
+	Verhindert den Verlust von Kanälen beim Neustart oder im Falle eines Serverausfalls.]
 
