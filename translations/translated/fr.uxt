@@ -27595,3 +27595,47 @@ uittChanSave	[Si coché, les canaux de discussion dynamiques sont stockés lors 
 uittChanAuto	[Si coché, vos canaux de discussion dynamiques seront restaurés s'ils ne sont pas déjà ouverts.\n
 	Prévient la perte de canaux au redémarrage ou en cas de panne du serveur.]
 
+// HASH_VALUE F7F6CC407B89B9D3
+// INDEX 6562
+uiWelcome_around	[Le jeu de rôle est l'un des intérêts majeurs de Ryzom, et autour du canal est un endroit important pour le pratiquer.]
+
+// HASH_VALUE B061D9467D44EA31
+// INDEX 6563
+uiWelcome_region	[Discutez ici avec d'autres joueurs ayant leur avatar dans la même région que la vôtre.]
+
+// HASH_VALUE DB96555152E1C24F
+// INDEX 6564
+uiWelcome_universe	[La chaîne Univers est tout d'abord destinée aux joueurs qui demandent de l'aide sur le jeu et à ceux qui les aident. C'est un canal convivial qui peut aussi être utilisé pour chatter sur Ryzom.]
+
+// HASH_VALUE 7C727C9DF8FD147A
+// INDEX 6565
+uiWelcome_kami	[Discutez ici avec des joueurs dont l'avatar partage le même culte que le vôtre.]
+
+// HASH_VALUE 7C727C9DF8FD147A
+// INDEX 6566
+uiWelcome_karavan	[Discutez ici avec des joueurs dont l'avatar partage le même culte que le vôtre.]
+
+// HASH_VALUE 83F0F7CB75FA4A0B
+// INDEX 6567
+uiWelcome_fyros	[Discutez ici avec des joueurs dont l'avatar est aussi un patriote.]
+
+// HASH_VALUE 41F017BE7599221C
+// INDEX 6568
+uiWelcome_tryker	[Discutez ici avec des joueurs dont l'avatar est aussi un citoyen.]
+
+// HASH_VALUE 418FCFE09AC93216
+// INDEX 6569
+uiWelcome_zorai	[Discutez ici avec des joueurs dont l'avatar est aussi un initié.]
+
+// HASH_VALUE C3E0F7D1EA953E03
+// INDEX 6570
+uiWelcome_matis	[Discutez ici avec des joueurs dont l'avatar est aussi un vassal.]
+
+// HASH_VALUE 3FD0F7F686091E17
+// INDEX 6571
+uiWelcome_marauder	[Discutez ici avec des joueurs dont l'avatar est aussi un maraudeur.]
+
+// HASH_VALUE C08FF7CDEA955607
+// INDEX 6572
+uiWelcome_ranger	[Discutez ici avec des joueurs dont l'avatar est aussi un ranger.]
+

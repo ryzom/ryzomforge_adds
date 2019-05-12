@@ -27634,3 +27634,47 @@ uittChanSave	[Wenn diese Option aktiviert ist, werden dynamische Chat-Kanäle be
 uittChanAuto	[Wenn dieses Kontrollkästchen aktiviert ist, werden Ihre dynamischen Chat-Kanäle wiederhergestellt, sofern sie nicht bereits geöffnet sind.\n
 	Verhindert den Verlust von Kanälen beim Neustart oder im Falle eines Serverausfalls.]
 
+// HASH_VALUE F7F6CC407B89B9D3
+// INDEX 6562
+uiWelcome_around	[Rollenspiel ist eines der Hauptinteressen von Ryzom, und rund um den Kanal ist ein wichtiger Ort, um es zu üben.]
+
+// HASH_VALUE B061D9467D44EA31
+// INDEX 6563
+uiWelcome_region	[Chatte hier mit anderen Spielern, die ihren Avatar in der gleichen Region haben wie du.]
+
+// HASH_VALUE DB96555152E1C24F
+// INDEX 6564
+uiWelcome_universe	[Der Universumskanal ist in erster Linie für Spieler gedacht, die um Hilfe zum Spiel bitten und für diejenigen, die ihnen helfen. Es ist ein freundlicher Kanal, der auch für Chats im Zusammenhang mit Ryzom verwendet werden kann.]
+
+// HASH_VALUE 7C727C9DF8FD147A
+// INDEX 6565
+uiWelcome_kami	[Chatte hier mit Spielern, deren Avatar den gleichen Kult wie du teilt.]
+
+// HASH_VALUE 7C727C9DF8FD147A
+// INDEX 6566
+uiWelcome_karavan	[Chatte hier mit Spielern, deren Avatar den gleichen Kult wie du teilt.]
+
+// HASH_VALUE 83F0F7CB75FA4A0B
+// INDEX 6567
+uiWelcome_fyros	[Chatten Sie hier mit Spielern, bei denen ihr Avatar auch ein Patriot ist.]
+
+// HASH_VALUE 41F017BE7599221C
+// INDEX 6568
+uiWelcome_tryker	[Chatten Sie hier mit Spielern, deren Avatar auch ein Bürger ist.]
+
+// HASH_VALUE 418FCFE09AC93216
+// INDEX 6569
+uiWelcome_zorai	[Chatten Sie hier mit Spielern, bei denen ihr Avatar auch ein Initiierter ist.]
+
+// HASH_VALUE C3E0F7D1EA953E03
+// INDEX 6570
+uiWelcome_matis	[Chatten Sie hier mit Spielern, bei denen ihr Avatar auch ein Vasall ist.]
+
+// HASH_VALUE 3FD0F7F686091E17
+// INDEX 6571
+uiWelcome_marauder	[Chatte hier mit Spielern, deren Avatar auch ein Marauder ist.]
+
+// HASH_VALUE C08FF7CDEA955607
+// INDEX 6572
+uiWelcome_ranger	[Chatten Sie hier mit Spielern, bei denen ihr Avatar auch ein Ranger ist.]
+
