@@ -27533,3 +27533,35 @@ msgRollDiceLocal	[&SYS&@{FF1F}Vous avez fait %roll sur un lancer entre %min et %
 // INDEX 6546
 uiGuildTabIsland	[Île]
 
+// HASH_VALUE CEAE0F5379D05435
+// INDEX 6547
+uiArtefactRestrict	[@{C02F}Votre allégeance ou le niveau de votre renommée ne vous permet pas d'utiliser cet objet.]
+
+// HASH_VALUE 8F2D062BF5B9C40F
+// INDEX 6548
+uiArtefactHelp	[Achetez un pacte avant d'en manquer.]
+
+// HASH_VALUE 2399649083687012
+// INDEX 6549
+uimIhideBanner	[Masquer la bannière de faction]
+
+// HASH_VALUE 6949609B83899C11
+// INDEX 6550
+uimIshowBanner	[Montrer la bannière de faction]
+
+// HASH_VALUE ABC89C4230B523CE
+// INDEX 6551
+uimIcloseOnTp	[Fermer la fenêtre lors des téléportations]
+
+// HASH_VALUE AC39905229BA7F54
+// INDEX 6552
+uimIopenOnTp	[Conserver la fenêtre ouverte lors des téléportations]
+
+// HASH_VALUE EB1A8C8F22674C92
+// INDEX 6553
+uimIrefresh	[Rafraîchir]
+
+// HASH_VALUE 210983972690C4AB
+// INDEX 6554
+uimIcompact	[Basculer en mode compact]
+
