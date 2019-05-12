@@ -588,3 +588,59 @@ function game:chatUrlBrowse()
 	runAH(nil, "browse", "name=ui:interface:webig:content:html|url=" .. SavedUrl)
 end
 
+------------------------------------------------------------------------------------------------------------
+function game:chatWelcomeMsg(input)
+	local msg
+	local name
+	if not input then
+		input = getUICaller().params_r
+		if input then
+			input = input:match("ED:([^_]+)"):lower()
+	    end
+	end
+	local chat = input
+	local temp = "UI:TEMP:ONCHAT:"
+	if game.InGameDbInitialized then
+		-- is input chat a dynamic channel?
+		if type(input) == "number" then
+			local id = getDbProp("SERVER:DYN_CHAT:CHANNEL"..input..":NAME")
+			if isDynStringAvailable(id) then
+				name = getDynString(id):toUtf8()
+				-- variable for this session
+				if getDbProp(temp..name) == 0 then
+					-- faction, nation and organization
+					for k, v in pairs({
+						uiFameAllegiance2 = "Kami",
+						uiFameAllegiance3 = "Karavan",
+						uiFameAllegiance4 = "Fyros",
+						uiFameAllegiance5 = "Matis",
+						uiFameAllegiance6 = "Tryker",
+						uiFameAllegiance7 = "Zoraï",
+						uiOrganization_5 = "Marauder",
+						uiOrganization_7 = "Ranger"
+					}) do
+						if name == v then
+							local tr = i18n.get(k)
+							msg = i18n.get("uiWelcome_"..tostring(tr):lower())
+							-- chat_group_filter sParam
+							chat = "dyn_chat"..input
+							name = tr:toUtf8()
+						end
+					end
+				end
+			end
+		else
+			-- around, region and universe
+			if getDbProp(temp..input) == 0 then
+				msg = i18n.get("uiWelcome_"..input)
+				name = input
+			end
+		end
+		if msg then
+			displayChatMessage(tostring(msg), input)
+			-- save for this session
+			addDbProp(temp..name, 1)
+		end
+	end
+	runAH(getUICaller(), "chat_group_filter", chat)
+end
