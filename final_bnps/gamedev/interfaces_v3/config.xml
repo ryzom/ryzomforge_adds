@@ -2417,6 +2417,10 @@ This MUST follow the Enum MISSION_DESC::TIconId
           value_from_code="getFactionIndex('matis')" />
   <define id="faction_index_tryker"
           value_from_code="getFactionIndex('tryker')" />
+  <define id="faction_index_marauder"
+          value_from_code="getFactionIndex('black_kami')" />
+  <define id="faction_index_ranger"
+          value_from_code="getFactionIndex('white_karavan')" />
   <define id="faction_points_kami"
           value="LOCAL:USER:FACTION_POINTS_%faction_index_kami:VALUE" />
   <define id="faction_points_fyros"
@@ -2429,6 +2433,10 @@ This MUST follow the Enum MISSION_DESC::TIconId
           value="LOCAL:USER:FACTION_POINTS_%faction_index_matis:VALUE" />
   <define id="faction_points_tryker"
           value="LOCAL:USER:FACTION_POINTS_%faction_index_tryker:VALUE" />
+  <define id="faction_points_marauder"
+          value="LOCAL:USER:FACTION_POINTS_%faction_index_marauder:VALUE" />
+  <define id="faction_points_ranger"
+          value="LOCAL:USER:FACTION_POINTS_%faction_index_ranger:VALUE" />
   <define id="faction_icon_kami"
           value="faction_Kami.tga" />
   <define id="faction_icon_fyros"

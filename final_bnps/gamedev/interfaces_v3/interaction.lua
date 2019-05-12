@@ -8,6 +8,21 @@ if (game==nil) then
 end
 
 ------------------------------------------------------------------------------------------------------------
+-- 
+function string:split(Pattern)
+    local Results = {}
+    local Start = 1
+    local SplitStart, SplitEnd = string.find(self, Pattern, Start)
+    while(SplitStart)do
+        table.insert(Results, string.sub(self, Start, SplitStart-1))
+        Start = SplitEnd+1
+        SplitStart, SplitEnd = string.find(self, Pattern, Start)
+    end
+    table.insert(Results, string.sub(self, Start))
+    return Results
+end
+
+------------------------------------------------------------------------------------------------------------
 -- called when server send an invitaion we receive a text id containing the string to display (invitor name)
 function game:onTeamInvation(textID)
 
@@ -35,6 +50,45 @@ function game:teamInvitationRefuse()
 	local ui = getUI('ui:interface:join_team_proposal');
 	ui.active = false;
 	sendMsgToServer('TEAM:JOIN_PROPOSAL_DECLINE');
+end
+
+------------------------------------------------------------------------------------------------------------
+-- send team invite from friendslist
+function game:teamInvite(uiID)
+	runAH(nil, 'talk', 'mode=0|text=/invite '.. getUI('ui:interface:' .. uiID).title)
+end
+
+------------------------------------------------------------------------------------------------------------
+-- send team invite from guildwindow
+function game:teamInviteFromGuild(uiID)
+	runAH(nil, 'talk', 'mode=0|text=/invite ' .. getGuildMemberName(tonumber(uiID:split(":m")[2])))
+end
+
+------------------------------------------------------------------------------------------------------------
+--Send Guild invite from guildwindow
+function game:invToGuild()
+	player = getUI('ui:interface:add_guild'):find('edit_text').hardtext:split(">")[2]
+	if(player ~= '')then
+		runAH(nil, 'talk', 'mode=0|text=/guildinvite ' .. player)
+	end
+	runAH(nil, 'leave_modal', '')
+end
+
+------------------------------------------------------------------------------------------------------------
+--Check and active invite to guild button
+function game:updateGLinvB()
+	if(getUI('ui:interface:guild').active)then
+		for v = 0, (getNbGuildMembers()-1) do
+			local invB = getUI('ui:interface:guild:content:tab_guild_info:invite')
+			if(getGuildMemberGrade(v) ~= 'Member')then
+				if(invB.active == false)then
+					invB.active = true
+				end
+			else
+				invB.active = false
+			end
+		end
+	end
 end
 
 ------------------------------------------------------------------------------------------------------------
@@ -587,7 +641,6 @@ end
 function game:chatUrlBrowse()
 	runAH(nil, "browse", "name=ui:interface:webig:content:html|url=" .. SavedUrl)
 end
-
 ------------------------------------------------------------------------------------------------------------
 -- called from onInGameDbInitialized
 function game:openChannels()
