@@ -1827,6 +1827,7 @@ m0152chdca01	Fragment of Basic Yubo Skin	a	the	Fragments of Basic Yubo Skin		the
 m0152chdcb01	Fragment of Fine Yubo Skin	a	the	Fragments of Fine Yubo Skin		the									
 m0152chdce01	Fragment of Supreme Yubo Skin	a	the	Fragments of Supreme Yubo Skin		the									
 m0152chdfd01	Fragment of Excellent Forest Yubo Skin	a	the	Fragments of Excellent Forest Yubo Skin		the									
+m0152chdfe01	Fragment of Supreme Forest Yubo Skin	a	the	Fragments of Supreme Forest Yubo Skin		the									
 m0152chdlc01	Fragment of Choice Lake Yubo Skin	a	the	Fragments of Choice Lake Yubo Skin		the									
 m0153ccica01	Basic Zerx Bone	a	the	Basic Zerx Bones		the									
 m0153ccicb01	Fine Zerx Bone	a	the	Fine Zerx Bones		the									
@@ -4788,21 +4789,25 @@ m0688chdca01	Fragment of Basic Yubo Eye	a	the	Fragments of Basic Yubo Eye		the
 m0688chdcb01	Fragment of Fine Yubo Eye	a	the	Fragments of Fine Yubo Eye		the									
 m0688chdce01	Fragment of Supreme Yubo Eye	a	the	Fragments of Supreme Yubo Eye		the									
 m0688chdfd01	Fragment of Excellent Forest Yubo Eye	a	the	Fragments of Excellent Forest Yubo Eye		the									
+m0688chdfe01	Fragment of Supreme Forest Yubo Eye	a	the	Fragments of Supreme Forest Yubo Eye		the									
 m0688chdlc01	Fragment of Choice Lake Yubo Eye	a	the	Fragments of Choice Lake Yubo Eye		the									
 m0690chdca01	Basic Yubo Nail	a	the	Basic Yubo Nails		the									
 m0690chdcb01	Fine Yubo Nail	a	the	Fine Yubo Nails		the									
 m0690chdce01	Supreme Yubo Nail	a	the	Supreme Yubo Nails		the									
 m0690chdfd01	Excellent Forest Yubo Nail	an	the	Excellent Forest Yubo Nails		the									
+m0690chdfe01	Supreme Forest Yubo Nail	an	the	Supreme Forest Yubo Nails		the									
 m0690chdlc01	Choice Lake Yubo Nail	a	the	Choice Lake Yubo Nails		the									
 m0691chdca01	Fragment of Basic Yubo Pelvis	a	the	Fragments of Basic Yubo Pelvis		the									
 m0691chdcb01	Fragment of Fine Yubo Pelvis	a	the	Fragments of Fine Yubo Pelvis		the									
 m0691chdce01	Fragment of Supreme Yubo Pelvis	a	the	Fragments of Supreme Yubo Pelvis		the									
 m0691chdfd01	Fragment of Excellent Forest Yubo Pelvis	a	the	Fragments of Excellent Forest Yubo Pelvis		the									
+m0691chdfe01	Fragment of Supreme Forest Yubo Pelvis	a	the	Fragments of Supreme Forest Yubo Pelvis		the									
 m0691chdlc01	Fragment of Choice Lake Yubo Pelvis	a	the	Fragments of Choice Lake Yubo Pelvis		the									
 m0692chdca01	Basic Yubo Tooth	a	the	Basic Yubo Tooths		the									
 m0692chdcb01	Fine Yubo Tooth	a	the	Fine Yubo Tooths		the									
 m0692chdce01	Supreme Yubo Tooth	a	the	Supreme Yubo Tooths		the									
 m0692chdfd01	Excellent Forest Yubo Tooth	an	the	Excellent Forest Yubo Tooths		the									
+m0692chdfe01	Supreme Forest Yubo Tooth	an	the	Supreme Forest Yubo Tooths		the									
 m0692chdlc01	Choice Lake Yubo Tooth	a	the	Choice Lake Yubo Tooths		the									
 m0693ccica01	Basic Zerx Ligament	a	the	Basic Zerx Ligaments		the									
 m0693ccicb01	Fine Zerx Ligament	a	the	Fine Zerx Ligaments		the									
@@ -7832,3 +7837,17 @@ gubani_mount_2	Gubani Mount	a	the	Gubani Mount	\d	the
 gubani_mount_3	Gubani Mount	a	the	Gubani Mount	\d	the	
 gubani_mount_4	Gubani Mount	a	the	Gubani Mount	\d	the	
 iaad	Gubani Zig	a	the	Gubani Zig	\d	the	
+ic_halloween_stick	Pumpkin Stick	a	the	Pumpkin Stick	\d	the	
+ic_anlor_weapon01	Scythe of terror	a	the	Scythe of terror	\d	the	
+ic_anlor_weapon01b	Scythe of terror	a	the	Scythe of terror	\d	the	
+ic_anlor_weapon02	Evil weapon	a	the	Evil weapon	\d	the	
+ic_anlor_weapon02b	Evil weapon	a	the	Evil weapon	\d	the	
+ic_anlor_helmet01	Anlor Winn helmet	a	the	Anlor Winn helmet	\d	the	
+icfaup	Fyros Light Panties	a	the	Fyros Light Panties		the									
+icfauv	Fyros Light Bra	a	the	Fyros Light Bra		the									
+icmaup	Matis Light Panties	a	the	Fyros Light Panties		the									
+icmauv	Matis Light Bra	a	the	Fyros Light Bra		the									
+ictaup	Tryker Light Panties	a	the	Fyros Light Panties		the									
+ictauv	Tryker Light Bra	a	the	Fyros Light Bra		the									
+iczaup	Zorai Light Panties	a	the	Fyros Light Panties		the									
+iczauv	Zorai Light Bra	a	the	Fyros Light Bra		the									

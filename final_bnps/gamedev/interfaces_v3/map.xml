@@ -2,6 +2,10 @@
 
 <root id="interface" x="0" y="0" w="800" h="600" active="true" />
 
+<lua file="map.lua" />
+
+<!-- flag for game:onLoadMap() handler to override map texture or not -->
+<variable entry="UI:VARIABLES:SHOW_ALT_MAP" type="bool" value="0" />
 
 <!-- base menu of landmark -->
 <group type="menu" id="land_mark_menu" extends="base_menu">	
@@ -35,6 +39,7 @@
  on_active="lua"
  on_active_params="if r2 and r2.Mode == 'Edit' then r2:setCurrentTool('') end"
 >	
+	<action id="teleport" name="uiTeleport" handler="map_teleport" params=""/>
 	<action id="center" name="uiMenuCenter" handler="map_center" params="map=ui:interface:map:content:map_content:actual_map"/>
 </group>
 

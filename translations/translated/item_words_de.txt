@@ -1827,6 +1827,7 @@ _7F0B4DC68CD49FC6	m0152chdca01	Basis Yubo-Hautstück	Basis Yubo-Hautstück	Basis
 _EFBE6F51CDF30DB8	m0152chdcb01	feines Yubo-Hautstück	feine Yubo-Hautstück	feine Yubo-Hautstück	ein	das	feine Yubo-Hautstücke	feinen Yubo-Hautstücke	ein	die		
 _B97673F4BE8F1630	m0152chdce01	erhabenes Yubo-Hautstück	erhabene Yubo-Hautstück	erhabene Yubo-Hautstück	ein	das	erhabene Yubo-Hautstücke	erhabenen Yubo-Hautstücke	ein	die		
 _C8BE4A431B578B1A	m0152chdfd01	exzellentes Yubo-Hautstück, Waldtyp	exzellente Yubo-Hautstück, Waldtyp	exzellente Yubo-Hautstück, Waldtyp	ein	das	exzellente Yubo-Hautstücke, Waldtyp	exzellenten Yubo-Hautstücke, Waldtyp	ein	die		
+_1585772320CF3E73	m0152chdfe01	Fragment einer erhabenen Haut eines Waldyubo			ein die	Fragmente einer erhabenen Haut eines Waldyubo			das			
 _78D82D226513BA79	m0152chdlc01	vorzügliches Yubo-Hautstück, Seenlandtyp	vorzügliche Yubo-Hautstück, Seenlandtyp	vorzügliche Yubo-Hautstück, Seenlandtyp	ein	das	vorzügliche Yubo-Hautstücke, Seenlandtyp	vorzüglichen Yubo-Hautstücke, Seenlandtyp	ein	die		
 _FDCB60E38D5292E9	m0153ccica01	Basis Zerx-Knochen	Basis Zerx-Knochen	Basis Zerx-Knochen	ein	der	Basis Zerx-Knochen	Basis Zerx-Knochen	einen	die		
 _416A990E49B1E131	m0153ccicb01	feiner Zerx-Knochen	feine Zerx-Knochen	feinen Zerx-Knochen	ein	der	feine Zerx-Knochen	feinen Zerx-Knochen	einen	die		
@@ -4788,21 +4789,25 @@ _FC0ACF874E6294CF	m0688chdca01	Basis Yubo-Auge	Basis Yubo-Auge	Basis Yubo-Auge	e
 _D407637EA95050CD	m0688chdcb01	feines Yubo-Auge	feine Yubo-Auge	feine Yubo-Auge	ein	das	feine Yubo-Augen	feinen Yubo-Augen	ein	die		
 _71197D5C84253BBD	m0688chdce01	erhabenes Yubo-Auge	erhabene Yubo-Auge	erhabene Yubo-Auge	ein	das	erhabene Yubo-Augen	erhabenen Yubo-Augen	ein	die		
 _91CDD568BFEF2F4A	m0688chdfd01	exzellentes Yubo-Auge, Waldtyp	exzellente Yubo-Auge, Waldtyp	exzellente Yubo-Auge, Waldtyp	ein	das	exzellente Yubo-Augen, Waldtyp	exzellenten Yubo-Augen, Waldtyp	ein	die		
+_DE310F9D8E3A2B6A	m0688chdfe01	Fragment eines erhabenen Auges eines Waldyubo			ein	die	Fragmente eines erhabenen Auges eines Waldyubo			das		
 _9D6E51B1F026F503	m0688chdlc01	vorzügliches Yubo-Auge, Seenlandtyp	vorzügliche Yubo-Auge, Seenlandtyp	vorzügliche Yubo-Auge, Seenlandtyp	ein	das	vorzügliche Yubo-Augen, Seenlandtyp	vorzüglichen Yubo-Augen, Seenlandtyp	ein	die		
 _7F3B4CCC4BA386D1	m0690chdca01	Basis Yubo-Nagel	Basis Yubo-Nagel	Basis Yubo-Nagel	ein	der	Basis Yubo-Nägel	Basis Yubo-Nägel	einen	die		
 _C06B79158530A135	m0690chdcb01	feiner Yubo-Nagel	feine Yubo-Nagel	feinen Yubo-Nagel	ein	der	feine Yubo-Nägel	feinen Yubo-Nägel	einen	die		
 _CDB7A6435BB46691	m0690chdce01	erhabener Yubo-Nagel	erhabene Yubo-Nagel	erhabenen Yubo-Nagel	ein	der	erhabene Yubo-Nägel	erhabenen Yubo-Nägel	einen	die		
 _7A7053EA2C464CCF	m0690chdfd01	exzellenter Yubo-Nagel, Waldtyp	exzellente Yubo-Nagel, Waldtyp	exzellenten Yubo-Nagel, Waldtyp	ein	der	exzellente Yubo-Nägel, Waldtyp	exzellenten Yubo-Nägel, Waldtyp	einen	die		
+_C00E6843EB24FCFB	m0690chdfe01	Erhabener Nagel eines Waldyubo			ein	die erhabenen Nägel eines Waldyubo			der			
 _5FB9DFF36108BB7C	m0690chdlc01	vorzüglicher Yubo-Nagel, Seenlandtyp	vorzügliche Yubo-Nagel, Seenlandtyp	vorzüglichen Yubo-Nagel, Seenlandtyp	ein	der	vorzügliche Yubo-Nägel, Seenlandtyp	vorzüglichen Yubo-Nägel, Seenlandtyp	einen	die		
 _2AA350F007B3A533	m0691chdca01	Basis Yubo-Beckenstück	Basis Yubo-Beckenstück	Basis Yubo-Beckenstück	ein	das	Basis Yubo-Beckenstücke	Basis Yubo-Beckenstücke	ein	die		
 _E7C110B597F7CBA6	m0691chdcb01	feines Yubo-Beckenstück	feine Yubo-Beckenstück	feine Yubo-Beckenstück	ein	das	feine Yubo-Beckenstücke	feinen Yubo-Beckenstücke	ein	die		
 _0C3806DE1EAFB217	m0691chdce01	erhabenes Yubo-Beckenstück	erhabene Yubo-Beckenstück	erhabene Yubo-Beckenstück	ein	das	erhabene Yubo-Beckenstücke	erhabenen Yubo-Beckenstücke	ein	die		
 _7383D6E7A1855619	m0691chdfd01	exzellentes Yubo-Beckenstück, Waldtyp	exzellente Yubo-Beckenstück, Waldtyp	exzellente Yubo-Beckenstück, Waldtyp	ein	das	exzellente Yubo-Beckenstücke, Waldtyp	exzellenten Yubo-Beckenstücke, Waldtyp	ein	die		
+_465CCECD3BC0AC4E	m0691chdfe01	Fragment eines erhabenen Beckenknochens eines Waldyubo			ein	die	Fragmente eines erhabenen Beckenknochens eines Waldyubo			das		
 _1E2DEF0FAE9C738D	m0691chdlc01	vorzügliches Yubo-Beckenstück, Seenlandtyp	vorzügliche Yubo-Beckenstück, Seenlandtyp	vorzügliche Yubo-Beckenstück, Seenlandtyp	ein	das	vorzügliche Yubo-Beckenstücke, Seenlandtyp	vorzüglichen Yubo-Beckenstücke, Seenlandtyp	ein	die		
 _D90195B95821DD09	m0692chdca01	Basis Yubo-Zahn	Basis Yubo-Zahn	Basis Yubo-Zahn	ein	der	Basis Yubo-Zähne	Basis Yubo-Zähne	einen	die		
 _6D8F1E50D664C928	m0692chdcb01	feiner Yubo-Zahn	feine Yubo-Zahn	feinen Yubo-Zahn	ein	der	feine Yubo-Zähne	feinen Yubo-Zähne	einen	die		
 _51C32D9176A72F97	m0692chdce01	erhabener Yubo-Zahn	erhabene Yubo-Zahn	erhabenen Yubo-Zahn	ein	der	erhabene Yubo-Zähne	erhabenen Yubo-Zähne	einen	die		
 _19E64F4FE574BBC2	m0692chdfd01	exzellenter Yubo-Zahn, Waldtyp	exzellente Yubo-Zahn, Waldtyp	exzellenten Yubo-Zahn, Waldtyp	ein	der	exzellente Yubo-Zähne, Waldtyp	exzellenten Yubo-Zähne, Waldtyp	einen	die		
+_C12AE35B86B8AC6D	m0692chdfe01	Erhabener Zahn eines Waldyubo		ein	die erhabenen Zähne eines Waldyubo			der				
 _75B63A4CB89A8053	m0692chdlc01	vorzüglicher Yubo-Zahn, Seenlandtyp	vorzügliche Yubo-Zahn, Seenlandtyp	vorzüglichen Yubo-Zahn, Seenlandtyp	ein	der	vorzügliche Yubo-Zähne, Seenlandtyp	vorzüglichen Yubo-Zähne, Seenlandtyp	einen	die		
 _D3A386FF6E47CA93	m0693ccica01	Basis Zerx-Sehne	Basis Zerx-Sehne	Basis Zerx-Sehne	eine	die	Basis Zerx-Sehnen	Basis Zerx-Sehnen	eine	die		
 _0E632A9171F48E8C	m0693ccicb01	feine Zerx-Sehne	feine Zerx-Sehne	feine Zerx-Sehne	eine	die	feine Zerx-Sehnen	feinen Zerx-Sehnen	eine	die		
@@ -7832,3 +7837,17 @@ _5FB35676CF1F0DE9	gubani_mount_2	Reit-Gubani	Reit-Gubani	Reit-Gubani	ein	der	Rei
 _5FB35676CF1F11E9	gubani_mount_3	Reit-Gubani	Reit-Gubani	Reit-Gubani	ein	der	Reit-Gubanis	Reit-Gubanis	einen	die	Reit-Gubani, schnelles Reittier mit etwas Taschenplatz	
 _5FB35676CF1F15E9	gubani_mount_4	Reit-Gubani	Reit-Gubani	Reit-Gubani	ein	der	Reit-Gubanis	Reit-Gubanis	einen	die	Reit-Gubani, schnelles Reittier mit etwas Taschenplatz	
 _E52228C4E969886E	iaad	Zig-Gubani	Zig-Gubani	Zig-Gubani	ein	der	Zigs-Gubani	Zigs-Gubani	einen	die	relativ langsames Tier, das nur tragen und folgen, aber nicht geritten werden kann	
+_31243AEA9BB626E4	ic_halloween_stick	Kürbisstange			eine	die	Kürbisstange		einen	die		
+_2847D41B23D72FFD	ic_anlor_weapon01	Sense des Schreckens			eine	die	Sense des Schreckens		einen	die		
+_A2FF80E996E9EFC2	ic_anlor_weapon01b	Sense des Schreckens			eine	die	Sense des Schreckens		einen	die		
+_D724D6100BB56D2F	ic_anlor_weapon02	Bösartige Waffe			eine	die	Bösartige Waffe		einen	die		
+_1D034E8A12E3B57D	ic_anlor_weapon02b	Bösartige Waffe		eine	die	Bösartige Waffe		einen	die			
+_2F30ECB7254673DE	ic_anlor_helmet01	Anlor Winn Helm		ein	der	Anlor Winn Helm		einen	die			
+_8057FEC566E39271	icfaup	Hoben-Unterhose	Hoben-Unterhose	Hoben-Unterhose		die	Hoben-Unterhose	Hoben-Unterhose	eine	die	leichte Fyros-Rüstung in Basis-Qualität	
+_B5342191FD4AD9B1	icfauv	Hoben-Büstenhalter	Hoben-Büstenhalter	Hoben-Büstenhalter		die	Hoben-Büstenhalter	Hoben-Büstenhalter	eine	die	leichte Fyros-Rüstung in Basis-Qualität	
+_80C7E6C760539271	icmaup	Wiva-Unterhose	Wiva-Unterhose	Wiva-Unterhose		die	Wiva-Unterhose	Wiva-Unterhose	eine	die	leichte Matis-Rüstung in Basis-Qualität	
+_B5A40993F7BAD9B1	icmauv	Wiva-Büstenhalter	Wiva-Büstenhalter	Wiva-Büstenhalter		die	Wiva-Büstenhalter	Wiva-Büstenhalter	eine	die	leichte Matis-Rüstung in Basis-Qualität	
+_DE77E608A092B618	ictaup	Tissan-Unterhose	Tissan-Unterhose	Tissan-Unterhose		die	Tissan-Unterhose	Tissan-Unterhose	eine	die	leichte Tryker-Rüstung in Basis-Qualität	
+_55FF165F364CCCED	ictauv	Tissan-Büstenhalter	Tissan-Büstenhalter	Tissan-Büstenhalter		die	Tissan-Büstenhalter	Tissan-Büstenhalter	eine	die	leichte Tryker-Rüstung in Basis-Qualität	
+_80F7C6C5E3249271	iczaup	Nin-ka-Unterhose	Nin-ka-Unterhose	Nin-ka-Unterhose		die	Nin-ka-Unterhose	Nin-ka-Unterhose	eine	die	leichte Zoraï-Rüstung in Basis-Qualität	
+_B5D4E9917A8BD9B1	iczauv	Nin-ka-Büstenhalter	Nin-ka-Büstenhalter	Nin-ka-Büstenhalter		die	Nin-ka-Büstenhalter	Nin-ka-Büstenhalter	eine	die	leichte Zoraï-Rüstung in Basis-Qualität	

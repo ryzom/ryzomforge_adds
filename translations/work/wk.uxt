@@ -3746,6 +3746,8 @@ uittFilterWeapon	[Filter @{6F6F}Weapon\n@{FFFF}Right click to select only @{6F6F
 
 uittFilterTool	[Filter @{6F6F}Tool\n@{FFFF}Right click to select only @{6F6F}Tool@{FFFF}.]
 
+uittFilterPet	[Filter @{6F6F}Animal\n@{FFFF}Right click to select only @{6F6F}Animal@{FFFF}.]
+
 uittFilterMP	[Filter @{6F6F}Material\n@{FFFF}Right click to select only @{6F6F}Material@{FFFF}.]
 
 uittFilterMissMP	[Filter @{6F6F}Mission Item or Mission Material\n@{FFFF}Right click to select only @{6F6F}Mission Item or Mission Material@{FFFF}.]
@@ -11894,6 +11896,7 @@ uiFailure	[Echec !]
 uiMP3Prev         [Previous]
 uiMP3Play         [Play]
 uiMP3Pause        [Pause]
+uiMP3Stop         [Stop]
 uiMP3Next         [Next]
 uiMP3Volume				[Volume]
 uiMP3Open         [Open]
@@ -13497,6 +13500,8 @@ uiKeyOEM_102 [OEM 102]
 uiFilterMenuDynamic	[%channel @{T8}/%shortcut]
 // displayed in System/Windows/Communication
 uimwAppZone [AppZone]
+// displayed in keys
+uiAppZone [AppZone]
 // message displayed when player type /playedTime
 uiPlayedTime [You played with this character for %time.]
 uiPlaylistRefresh [Refresh]
@@ -13553,10 +13558,14 @@ uiMacroItemGroupDestination [Item group destination]
 uiMapSearch [Map search]
 uittMapSearch [Map search]
 
+uittInventorySearch [Search]
+
 //macro copy
 uimMacroCopy [COPY]
 uimMCCopy [COPY]
 
+uiSaveUI [Save]
+uiInterfaceScale [Interface scale]
 
 //zigs
 uitabInvPAZig1	[ZIG 1]
@@ -13568,3 +13577,9 @@ uiPABagTitleMount6	[ZIG 3]
 uiPATitleMount5	[Zig 1]
 uiPATitleMount6	[Zig 2]
 uiPATitleMount7	[Zig 3]
+
+//random
+msgRollDiceLocal	[&SYS&@{FF1F}You pulled %roll in a draw between %min and %max.]
+
+//Guild Island new tab at Guild Window
+uiGuildTabIsland	[Island]

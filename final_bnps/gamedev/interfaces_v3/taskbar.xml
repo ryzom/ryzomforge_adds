@@ -1231,7 +1231,8 @@
 	<param value="communication:mailbox|mailbox" />
 	<param value="communication:fame|fame" />
 	<param value="communication:webig|webig" />
-	
+	<param value="communication:appzone|appzone" />
+
 	<param value="options:game_config|game_config" />
 	<param value="options:keys|keys" />
 	<param value="options:macros|macros" />

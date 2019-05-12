@@ -1346,6 +1346,7 @@ _ED9F4D1C26771B44	chddf2	Fierce Yubo	a	the	Fierce Yubos	\d	the
 _865EDD4F344ED4FB	chddf3	Ferocious Yubo	a	the	Ferocious Yubos	\d	the
 _41DE3909E8898C1F	chdfa1	Suckling Yubo	a	the	Suckling Yubos	\d	the
 _410E3DF7E5C9901F	chdfa2	Weanling Yubo	a	the	Weanling Yubos	\d	the
+_63A9649E6AD89FA6	chdfa7	Yubokin	\d	\d			
 _437F7107265AD82D	chdfb1	Timorous Yubo	a	the	Timorous Yubos	\d	the
 _09BF85E97074F200	chdfb2	Roaming Yubo	a	the	Roaming Yubos	\d	the
 _43D6922542DE8C09	chdfb3	Scampering Yubo	a	the	Scampering Yubos	\d	the
@@ -4758,8 +4759,8 @@ _612658A91C069B98	ckjbd1	Dreaded Kipesta	a	the	Dreaded Kipestas		the
 _613660A95C269F9A	ckjbf2	Lacerating Kipesta	a	the	Lacerating Kipestas		the
 _610660A99B26A396	ckfbf3	Killer Kirosta	a	the	Killer Kirostas		the
 _611660A9DC26A796	ckfbf4	Great Kirosta	a	the	Great Kirostas		the
-_61E660A91B26A394	ckdbf3	Killer Kirosta	a	the	Killer Kirostas		the
-_61F660A95C26A794	ckdbf4	Great Kirosta	a	the	Great Kirostas		the
+_61E660A91B26A394	ckdbf3	Killer Kincher	a	the	Killer Kinchers		the
+_61F660A95C26A794	ckdbf4	Great Kincher	a	the	Great Kinchers		the
 _610680AB9BA6AB94	ckfbd3	Veteran Kirosta	a	the	Veteran Kirostas		the
 _9D35949859E69BA3	ckdbd3	Veteran Kincher	a	the	Veteran Kinchers		the
 _64B68FA7E6E58AA7	ckdad4	Hungry Kincher	a	the	Hungry Kinchers		the
@@ -5984,4 +5985,4 @@ _20C62EAAB3169B7B	gubani_mount_02	Gubani Mount	a	the	Gubani Mount	\d	the
 _20C62EAAB3269B7B	gubani_mount_03	Gubani Mount	a	the	Gubani Mount	\d	the
 _20C62EAAB3369B7B	gubani_mount_04	Gubani Mount	a	the	Gubani Mount	\d	the
 _7EF0BD008D3857A4	chxjf_zig	Gubani Zig	a	the	Gubani Zig		the
-_D5F8D49B6A662373	cpegf7	Cratchaki	a	the	 Cratchaki		the
+_D5F8D49B6A662373	cpegf7	Cratchakyo	a	the	 Cratchakyo		the
