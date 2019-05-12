@@ -2988,6 +2988,13 @@
                   posref="BL TL"
                   x="0"
                   y="-2" />
+        <instance template="tgcw_scrollbarint"
+                  id="mp3_volume"
+                  text="uimwMP3Player"
+                  posparent="music_volume"
+                  posref="BL TL"
+                  x="0"
+                  y="-2" />
       </group>
       <ctrl style="skin_scroll"
             id="sb_sound"
@@ -3958,6 +3965,13 @@
                type="cfg"
                widget="sbfloat"
                link="SoundGameMusicVolume"
+               realtime="true" />
+        <param ui="sound:mp3_volume:c"
+               type="db"
+               widget="sbint"
+               link="UI:SAVE:MP3_VOLUME"
+               min="0"
+               max="255"
                realtime="true" />
         <param ui="landmark_colors:cc_misc:c"
                type="db"
