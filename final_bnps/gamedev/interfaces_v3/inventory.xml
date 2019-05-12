@@ -31,18 +31,24 @@
       <action handler="set" params="target_property=ui:interface:inventory:content:bag:iil:active|value=0" />
       <action handler="set" params="target_property=ui:interface:inventory:content:bag:ryzhome:active|value=0" />
       <action handler="set" params="target_property=ui:interface:inventory:content:bag:webitems:active|value=1" />
+      <action handler="set" params="target_property=ui:interface:inventory:content:bag:artefact_content:active|value=0" />
+      <action handler="set" params="target_property=ui:interface:inventory:content:bag:artefact_bottom:active|value=0" />
       <action handler="browse_home" params="name=ui:interface:inventory:content:bag:webitems:html" />
   </proc>
   <proc id="select_ryzhome_items">
       <action handler="set" params="target_property=ui:interface:inventory:content:bag:iil:active|value=0" />
       <action handler="set" params="target_property=ui:interface:inventory:content:bag:webitems:active|value=0" />
       <action handler="set" params="target_property=ui:interface:inventory:content:bag:ryzhome:active|value=1" />
+      <action handler="set" params="target_property=ui:interface:inventory:content:bag:artefact_content:active|value=0" />
+      <action handler="set" params="target_property=ui:interface:inventory:content:bag:artefact_bottom:active|value=0" />
       <action handler="browse_home" params="name=ui:interface:inventory:content:bag:ryzhome:html" />
   </proc>
   <proc id="select_bag_items">
       <action handler="set" params="target_property=ui:interface:inventory:content:bag:iil:active|value=1" />
       <action handler="set" params="target_property=ui:interface:inventory:content:bag:webitems:active|value=0" />
       <action handler="set" params="target_property=ui:interface:inventory:content:bag:ryzhome:active|value=0" />
+      <action handler="set" params="target_property=ui:interface:inventory:content:bag:artefact_content:active|value=0" />
+      <action handler="set" params="target_property=ui:interface:inventory:content:bag:artefact_bottom:active|value=0" />
   </proc>
   <!-- ************* -->
   <!-- * EQUIPMENT * -->
@@ -800,6 +806,36 @@
 
         <group id="ryzhome" posref="TL TL" sizeref="wh" h="-45" w="0" x="-10" y="-25" active="0">
             <instance id="html" template="webig_html" x="10" home="http://app.ryzom.com/app_arcc/index.php?action=mRyzhome_DisplayUserItems" browse_redo="" browse_undo="" browse_refresh="" />
+        </group>
+
+        <group id="artefact_content" posref="TL TL" sizeref="wh" h="-35" w="0" x="0" y="-15" active="0">
+            <instance id="html" template="webig_html_noborder" x="0" home="" browse_redo="" browse_undo="" browse_refresh="" />
+        </group>
+        <group id="artefact_bottom" posref="BR BR" sizeref="wh" h="0" w="0" x="0" y="0" global_color="false" active="0">
+            <ctrl id="detach"
+                type="button"
+                button_type="push_button"
+                posref="BR MR"
+                y="30"
+                x="-4"
+                tx_normal="W_win_popup.tga"
+                tx_pushed="W_win_popup.tga"
+                tx_over="W_button_16_over.tga"
+                onclick_l="proc"
+                params_l="artefact_win_detach" />
+            <instance template="check_box"
+                id="autopact_cb"
+                posref="BR MR"
+                y="10"
+                x="-1"
+                fontsize="9"
+                dblink="UI:SAVE:TELEPORT:DO_PACT" />
+            <view type="text"
+                id="autopact_vt"
+                posref="BR MR"
+                x="-23"
+                y="10"
+                hardtext="" />
         </group>
 
         <instance template="tinv_nbslots_bulk_weight"
