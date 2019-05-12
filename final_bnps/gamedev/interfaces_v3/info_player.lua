@@ -1483,6 +1483,7 @@ end
 function game:onFarTpStart()
 	debugInfo("game:onFarTpStart()")
 	--game:deinitWebIgApps()
+	artefact:onClose()
 end
 
 --------------------------------------------------------------------------------------------------------------
@@ -1497,7 +1498,7 @@ end
 function game:onMainLoopEnd()
 	game.InGameDbInitialized = false
 	game:updateMissionJournalFixedEntry()
-
+	artefact:onClose()
 end
 
 --------------------------------------------------------------------------------------------------------------

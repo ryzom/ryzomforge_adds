@@ -27784,11 +27784,73 @@ uiPATitleMount6	[Zig 2]
 // INDEX 6544
 uiPATitleMount7	[Zig 3]
 
-// HASH_VALUE 843E4EA6D3404359
+// HASH_VALUE 649A14CAE8181224
 // INDEX 6545
+uimEnterBag	[Enter on the bag]
+
+// HASH_VALUE 6ED2B0829544BF4E
+// INDEX 6546
+uimLeaveBag	[Leave from the bag]
+
+// HASH_VALUE 843E4EA6D3404359
+// INDEX 6547
 msgRollDiceLocal	[&SYS&@{FF1F}You pulled %roll in a draw between %min and %max.]
 
 // HASH_VALUE A506B06C29D47491
-// INDEX 6546
+// INDEX 6548
 uiGuildTabIsland	[Island]
+
+// HASH_VALUE CEAE0F5379D05435
+// INDEX 6549
+uiArtefactRestrict	[@{C02F}Your allegiance or level of fame does not allow to use this item.]
+
+// HASH_VALUE 8F2D062BF5B9C40F
+// INDEX 6550
+uiArtefactHelp	[Purchase a pact before running out of stock.]
+
+// HASH_VALUE 2399649083687012
+// INDEX 6551
+uimIhideBanner	[Hide faction banner]
+
+// HASH_VALUE 6949609B83899C11
+// INDEX 6552
+uimIshowBanner	[Show faction banner]
+
+// HASH_VALUE ABC89C4230B523CE
+// INDEX 6553
+uimIcloseOnTp	[Teleport close window]
+
+// HASH_VALUE AC39905229BA7F54
+// INDEX 6554
+uimIopenOnTp	[Teleport keep window]
+
+// HASH_VALUE EB1A8C8F22674C92
+// INDEX 6555
+uimIrefresh	[Refresh]
+
+// HASH_VALUE 210983972690C4AB
+// INDEX 6556
+uimIcompact	[Toggle compact mode]
+
+// HASH_VALUE 649C144C649C144C
+// INDEX 6557
+uimChanSave	[Save]
+
+// HASH_VALUE AA977387EA09F021
+// INDEX 6558
+uiChanSaveCB	[Save Dynamic Channels]
+
+// HASH_VALUE 2D6AB02BF4A8CCB9
+// INDEX 6559
+uiChanAutoCB	[Restore Dynamic Channels]
+
+// HASH_VALUE 6E62AFABF9C9FF64
+// INDEX 6560
+uittChanSave	[If checked, dynamic chat channels are stored at disconnection or character selection.\n
+	You can also use the command @{6F6F}/saveChannel@{FFFF} to export channels manually.]
+
+// HASH_VALUE 1937B73191F88AC6
+// INDEX 6561
+uittChanAuto	[If checked, your dynamic chat channels will be restored if not already opened.\n
+	Will prevent the loss of channels at reboot or in case of server crash.]
 
