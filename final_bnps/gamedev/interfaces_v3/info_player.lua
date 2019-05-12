@@ -1467,6 +1467,8 @@ function game:onInGameDbInitialized()
 	end
 
 	game:setInfoPlayerCharacterRace()
+	--
+	game:openChannels()
 
 	runAH(nil, "sort_tribefame", "")
 end
@@ -1483,6 +1485,11 @@ end
 function game:onFarTpStart()
 	debugInfo("game:onFarTpStart()")
 	--game:deinitWebIgApps()
+	--
+	if getDbProp("UI:SAVE:CHAT:SAVE_CHANNEL") > 0 then
+		game:saveChannel()
+	end
+
 	artefact:onClose()
 end
 
@@ -1498,6 +1505,11 @@ end
 function game:onMainLoopEnd()
 	game.InGameDbInitialized = false
 	game:updateMissionJournalFixedEntry()
+	--
+	if getDbProp("UI:SAVE:CHAT:SAVE_CHANNEL") > 0 then
+		game:saveChannel()
+	end
+
 	artefact:onClose()
 end
 
