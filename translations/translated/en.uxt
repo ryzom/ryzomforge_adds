@@ -27559,3 +27559,35 @@ msgRollDiceLocal	[&SYS&@{FF1F}You pulled %roll in a draw between %min and %max.]
 // INDEX 6546
 uiGuildTabIsland	[Island]
 
+// HASH_VALUE CEAE0F5379D05435
+// INDEX 6547
+uiArtefactRestrict	[@{C02F}Your allegiance or level of fame does not allow the use of this item.]
+
+// HASH_VALUE 8F2D062BF5B9C40F
+// INDEX 6548
+uiArtefactHelp	[Purchase a pact before running out of stock.]
+
+// HASH_VALUE 2399649083687012
+// INDEX 6549
+uimIhideBanner	[Hide faction banner]
+
+// HASH_VALUE 6949609B83899C11
+// INDEX 6550
+uimIshowBanner	[Show faction banner]
+
+// HASH_VALUE ABC89C4230B523CE
+// INDEX 6551
+uimIcloseOnTp	[Close window after teleport ]
+
+// HASH_VALUE AC39905229BA7F54
+// INDEX 6552
+uimIopenOnTp	[Reopen window after teleport ]
+
+// HASH_VALUE EB1A8C8F22674C92
+// INDEX 6553
+uimIrefresh	[Refresh]
+
+// HASH_VALUE 210983972690C4AB
+// INDEX 6554
+uimIcompact	[Toggle compact mode]
+

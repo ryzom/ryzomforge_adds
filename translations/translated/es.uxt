@@ -27556,3 +27556,35 @@ msgRollDiceLocal	[&SYS&@{FF1F}Tiraste de la %roll en un empate entre un %min y u
 // INDEX 6546
 uiGuildTabIsland	[Isla]
 
+// HASH_VALUE CEAE0F5379D05435
+// INDEX 6547
+uiArtefactRestrict	[@{C02F}Su lealtad o nivel de fama no le permite usar este artículo.]
+
+// HASH_VALUE 8F2D062BF5B9C40F
+// INDEX 6548
+uiArtefactHelp	[Compra un pacto antes de que se agoten las existencias.]
+
+// HASH_VALUE 2399649083687012
+// INDEX 6549
+uimIhideBanner	[Ocultar estandarte de facción]
+
+// HASH_VALUE 6949609B83899C11
+// INDEX 6550
+uimIshowBanner	[Mostrar estandarte de la facción]
+
+// HASH_VALUE ABC89C4230B523CE
+// INDEX 6551
+uimIcloseOnTp	[Ventana de cierre de teletransporte]
+
+// HASH_VALUE AC39905229BA7F54
+// INDEX 6552
+uimIopenOnTp	[Ventana de teletransporte]
+
+// HASH_VALUE EB1A8C8F22674C92
+// INDEX 6553
+uimIrefresh	[Renovar]
+
+// HASH_VALUE 210983972690C4AB
+// INDEX 6554
+uimIcompact	[Conmutar el modo compacto]
+
