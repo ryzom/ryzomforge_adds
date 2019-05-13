@@ -73,9 +73,9 @@ if artefact == nil then
         cellspace = 5,
         isCompact = false,
         isAttached = false,
+        isFiltered = false,
         isMinimized = true,
         isLogoMinimized = false,
-        isTimerActive = false,
         web_item = "params_l:#L;template:webig_inv_item_artefact;\
                     display:inline-block;id:pact#P;tooltip:u:#T;\
                     quantity:q0;#Q;img1:tp_#I.tga;\
@@ -92,6 +92,7 @@ if artefact == nil then
     function artefact:onActive()
         if self.uiWindow then
             self:restoreWindow()
+            self:bagObserver(true)
         end
     end
 
@@ -99,12 +100,16 @@ if artefact == nil then
         if self.uiWindow then
             self.uiWindow.active = false
             self.uiWindow.opened = false
+            if self.observer then
+                self:bagObserver(false)
+            end
         end
     end
 
     function artefact:onClose()
         if self.uiWindow then
             runAH(getUICaller(), "proc", "artefact_proc_deactive")
+            self:restorePact()
         end
     end
 
@@ -314,14 +319,17 @@ if artefact == nil then
         -- render content in bag
         self.uiWindowBag = getUI(self.idWindowBag..":artefact_content")
         if self.uiWindowBag then
-            local html = self.uiWindowBag:find("html")
-            if html then
-                self:dynRender(html)
-            end
+            self:doRefresh()
+        end
+        if not self.observer then
+            self:bagObserver(true)
         end
     end
 
     function artefact:detachWindow()
+        if self.observer then
+            self:bagObserver(false)
+        end
         self.isAttached = false
         self.uiWindow.opened = true
         self.uiWindow.active = true
@@ -332,68 +340,87 @@ if artefact == nil then
     -- hide inventory bag pacts
     function artefact:hidePact()
         if getDbProp(self.filter) == 1 then
+            self.isFiltered = true
             setDbProp(self.filter, 0)
         end
     end
 
+    -- restore inventory bag pacts
+    function artefact:restorePact()
+        if self.isFiltered then
+            if getDbProp(self.active) == 0 then
+                self.isFiltered = false
+                setDbProp(self.filter, 1)
+            end
+        end
+    end
+
     function artefact:doRefresh()
-        local html = self.uiWindow:find("html")
-        if self.uiWindowBag and self.isAttached then
-            html = self.uiWindowBag:find("html")
+        -- faction change
+        if not artefact:checkfame() then
+            if artefact.observer then
+                artefact:bagObserver(false)
+            end
+            artefact:startInterface()
+            return
+        end
+        local html = artefact.uiWindow:find("html")
+        if artefact.uiWindowBag and artefact.isAttached then
+            html = artefact.uiWindowBag:find("html")
         end
         if html then
-            self:dynRender(html)
+            artefact:dynRender(html)
         end
     end
 
-    function artefact:doTime()
-        if nltime.getLocalTime()/1000 - self.start >= self.loadTpTime then
-            local winTimer = self.uiWindow
-            if self.isAttached then
-                if self.uiWindowBag then
-                    winTimer = self.uiWindowBag
-                end
-            end
-            setOnDraw(winTimer, "")
-            self.isTimerActive = false
+    function artefact:usePact(id)
+        if not artefact:checkfame() then
             self:doRefresh()
+            return
         end
-    end
-
-    function artefact:usePact(pactId)
-        -- attach timer to bag
-        local winTimer = self.uiWindow
-        if self.isAttached then
-            if self.uiWindowBag then
-                winTimer = self.uiWindowBag
-            end
-        end
-        if self.isTimerActive then
-            setOnDraw(winTimer, "")
-            -- reset previous timer
-            self.isTimerActive = false
-        end
-        sendMsgToServerUseItem(pactId)
         -- on teleport event
         if getDbProp(self.closeTp) == 1 then
             if self.isAttached then
                 runAH(getUICaller(), "proc", "select_bag_items")
             end
-            self.uiWindow.opened = false
-            self.uiWindow.active = false
+            runAH(getUICaller(), "proc", "artefact_proc_deactive")
             return
         end
-        -- keep opened
-        self.start = nltime.getLocalTime() / 1000
-        self.isTimerActive = true
-        -- pact cooldown is 15s
-        setOnDraw(winTimer, "artefact:doTime()")
+        sendMsgToServerUseItem(id)
+    end
+
+    -- update interface
+    function artefact:bagObserver(listen)
+        if not self.observer then
+            self.observer = misc:initInvObserver(
+                self.bag,
+                self.doRefresh, -- on_add
+                self.doRefresh, -- on_del
+                self.doRefresh, -- on_change
+                "tp_"..self.faction
+            )
+        end
+        -- attach observer
+        local window = self.uiWindow
+        if self.isAttached then
+            if self.uiWindowBag then
+                window = self.uiWindowBag
+            end
+        end
+        if listen then
+            self.observer:add(window, 1)
+        else
+            if self.observer then
+                self.observer:remove(window, 1)
+                self.observer = nil
+            end
+        end
     end
 
     function artefact:dynRender(html)
         local content = self.webcode
         -- list teleportation pacts
-        for eco, tp in pairs(self.pacts) do
+        for eco, tp in pairs(self.currentPacts) do
             for _, item in pairs(tp) do
                 -- list items in bag
                 for i = 0, self.max_slots-1 do
@@ -531,6 +558,35 @@ if artefact == nil then
 		return getDbProp(self.bag..':'..id..':'..s:upper())
 	end
 
+    function artefact:getfaction(id)
+        if not id then id = getDbProp(self.fame) end
+        if id == 3 then return "karavan" end
+        if id == 2 then return "kami" end
+    end
+
+    function artefact:checkRestriction(cult)
+        local fame = getDbProp(self.fame)
+        if fame > 1 and fame < 4 then
+            if cult then
+                if cult ~= self:getfaction() then
+                    return false
+                end
+            end
+            return true
+        end
+        return false
+    end
+
+    function artefact:checkfame()
+        if self:checkRestriction() then
+            local fame = getDbProp(self.fame)
+            if self.faction == self:getfaction(fame) then
+                return true
+            end
+        end
+        return false
+    end
+
     artefact.__index = artefact
 end
 
@@ -619,6 +675,7 @@ function artefact:__init__()
             }
         },
         -- item description to remove
+        -- TODO: translation fixes we need unique format
         blacklist = {
             -- kami
             "Pacte kami %/ Téléporteur vers ",                  -- FR
@@ -627,7 +684,12 @@ function artefact:__init__()
             "Kami Teleportationspakt für Den ",                 -- DE
             "Kami Teleportationspakt für Die ",
             "Kami Teleportationspakt für Das ",
+            "Kami Teleportationspakt für das ",
+            "Kami Teleportationspakt für den ",
             "Kami Teleportationspakt für ",
+            "Kami%-Teleportationspakt für den ",
+            "Kami%-Teleportationspakt für das ",
+            "Kami%-Teleportationspakt für die ",
             "Kami%-Teleportationspakt für ",
             "Kami Teleporter Pact for the ",                    -- EN
             "Kami Teleporter Pact for ",
@@ -664,88 +726,97 @@ function artefact:__init__()
     }
     vars.__index = vars
 
-    return setmetatable(artefact, vars)
+    setmetatable(artefact, vars)
 end
 
-function artefact:startInterface()
-    -- main
-    local app = artefact:__init__()
-    -- 3 karavan
-    -- 2 kami
-    local fame = getDbProp(app.fame)
-
-    if fame > 1 and fame < 4 then
-        local getFaction = function(id)
-            if id == 3 then return "karavan" end
-            if id == 2 then return "kami" end
+function artefact:startInterface(cult)
+    if not self.active then
+        self:__init__()
+    end
+    -- kami kara
+    if not self:checkRestriction(cult) or not cult then
+        displaySystemInfo(i18n.get("uiArtefactRestrict"), "BC")
+        if self.uiWindow then
+            local proc = "artefact_proc_deactive"
+            if self.isAttached then
+                proc = "artefact_win_detach"
+            end
+            runAH(getUICaller(), "proc", proc)
         end
-        app.faction = getFaction(fame)
+        return
+    end
+    if not self:checkfame() then
+        self.uiWindow = nil
+    end
+    self.faction = self:getfaction()
 
-        if getDbProp(app.kara) >= app.threshold or
-            getDbProp(app.kami) >= app.threshold then
-            local tmp = {}
-            -- load the bunch of pacts at first run
-            if not app.uiWindow then
-                for eco, tp in pairs(app.pacts) do
-                    tmp[eco] = {}
-                    for sheet, price in pairs(tp) do
-                        sheet = string.gsub(sheet, "_f_", "_"..app.faction.."_")
-                        -- one faction only
-                        if self:strcmp(sheet, "tp_"..app.faction) then
-                            tmp[eco][#tmp[eco]+1] = {
-                                name = sheet,
-                                desc = getSheetLocalizedName(sheet..".sitem"),
-                                cost = tostring(price)
-                            }
-                        end
+    if getDbProp(self.kara) >= self.threshold or
+        getDbProp(self.kami) >= self.threshold then
+        local tmp = {}
+        -- load the bunch of pacts at first run
+        if not self.uiWindow then
+            for eco, tp in pairs(self.pacts) do
+                tmp[eco] = {}
+                for sheet, price in pairs(tp) do
+                    sheet = string.gsub(sheet, "_f_", "_"..self.faction.."_")
+                    -- faction only
+                    if self:strcmp(sheet, "tp_"..self.faction) then
+                        tmp[eco][#tmp[eco]+1] = {
+                            name = sheet,
+                            desc = getSheetLocalizedName(sheet..".sitem"),
+                            cost = tostring(price)
+                        }
                     end
-                    -- alphabetic order
-                    table.sort(tmp[eco], app.psort)
                 end
-                -- update
-                app.pacts = tmp
+                -- alphabetic order
+                table.sort(tmp[eco], self.psort)
             end
-            -- window is loaded from xml
-            if not app.uiWindow then
-                -- reuse the previous frame if exist
-                app.uiWindow = getUI(app.idWindow, false)
-                if not app.uiWindow then
-                    return
-                end
-                -- dimension
-                app.uiWindow.w = self.w
-                app.uiWindow.h = self.h
-                app.uiWindow.pop_max_w = self.max_w
-                app.uiWindow.pop_max_h = self.max_h
-                app.uiWindow.pop_min_w = self.min_w
-                app.uiWindow.pop_min_h = self.min_h
+            -- update
+            self.currentPacts = tmp
+        end
+        -- window is loaded from xml
+        if not self.uiWindow then
+            -- reuse the previous frame if exist
+            self.uiWindow = getUI(self.idWindow, false)
+            if not self.uiWindow then
+                return
             end
-            local html
-            -- is window attached?
-            if getDbProp(self.detach) == 0 then
-                runAH(getUICaller(), "proc", "artefact_win_attach")
-            else
-                -- trigger on_open event
-                if not app.uiWindow.opened then
-                    app.uiWindow.opened = true
-                end
-                -- trigger on_active event
-                if not app.uiWindow.active then
-                    app.uiWindow.active = true
-                end
-                local html = app.uiWindow:find("html")
-                -- render content
-                if html then
-                    app:dynRender(html)
-                end
-                self:hidePact()
-                setTopWindow(app.uiWindow)
+            -- dimension
+            self.uiWindow.w = self.w
+            self.uiWindow.h = self.h
+            self.uiWindow.pop_max_w = self.max_w
+            self.uiWindow.pop_max_h = self.max_h
+            self.uiWindow.pop_min_w = self.min_w
+            self.uiWindow.pop_min_h = self.min_h
+        end
+        self:hidePact()
+        -- is window attached?
+        if getDbProp(self.detach) == 0 then
+            if self.observer then
+                self:bagObserver(false)
             end
-            return
+            runAH(getUICaller(), "proc", "artefact_win_attach")
+        else
+            -- trigger on_open event
+            if not self.uiWindow.opened then
+                self.uiWindow.opened = true
+            end
+            -- trigger on_active event
+            if not self.uiWindow.active then
+                self.uiWindow.active = true
+            end
+            local html = self.uiWindow:find("html")
+            -- render content
+            if html then
+                self:dynRender(html)
+            end
+            setTopWindow(self.uiWindow)
+            -- auto update
+            if not self.observer then
+                runAH(getUICaller(), "proc", "artefact_proc_active")
+            end
         end
     end
-    -- Your allegiance or level of fame does not allow to use this item.
-    displaySystemInfo(i18n.get("uiArtefactRestrict"), "BC")
 end
 --
 --
