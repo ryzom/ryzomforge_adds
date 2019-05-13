@@ -800,12 +800,12 @@
           onclick_l="proc"
           params_l="select_ryzhome_items" />
 
-        <group id="webitems" posref="TL TL" sizeref="wh" h="-45" w="0" x="-10" y="-25" active="0">
-            <instance id="html" template="webig_html" x="10" home="http://app.ryzom.com/app_arcc/index.php?action=mItem_DisplayUserItems" browse_redo="" browse_undo="" browse_refresh="" />
+        <group id="webitems" posref="TL TL" sizeref="wh" h="-35" w="0" x="-10" y="-15" active="0">
+            <instance id="html" template="webig_html_noborder" x="0" home="http://app.ryzom.com/app_arcc/index.php?action=mItem_DisplayUserItems" browse_redo="" browse_undo="" browse_refresh="" />
         </group>
 
-        <group id="ryzhome" posref="TL TL" sizeref="wh" h="-45" w="0" x="-10" y="-25" active="0">
-            <instance id="html" template="webig_html" x="10" home="http://app.ryzom.com/app_arcc/index.php?action=mRyzhome_DisplayUserItems" browse_redo="" browse_undo="" browse_refresh="" />
+        <group id="ryzhome" posref="TL TL" sizeref="wh" h="-35" w="0" x="-10" y="-15" active="0">
+            <instance id="html" template="webig_html_noborder" x="0" home="http://app.ryzom.com/app_arcc/index.php?action=mRyzhome_DisplayUserItems" browse_redo="" browse_undo="" browse_refresh="" />
         </group>
 
         <group id="artefact_content" posref="TL TL" sizeref="wh" h="-35" w="0" x="0" y="-15" active="0">
