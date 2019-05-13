@@ -8,7 +8,6 @@ if (game==nil) then
 end
 
 ------------------------------------------------------------------------------------------------------------
---
 function string:split(Pattern)
     local Results = {}
     local Start = 1
@@ -641,7 +640,6 @@ end
 function game:chatUrlBrowse()
 	runAH(nil, "browse", "name=ui:interface:webig:content:html|url=" .. SavedUrl)
 end
-
 ------------------------------------------------------------------------------------------------------------
 -- called from onInGameDbInitialized
 function game:openChannels()
