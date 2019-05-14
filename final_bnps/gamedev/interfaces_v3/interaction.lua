@@ -8,6 +8,7 @@ if (game==nil) then
 end
 
 ------------------------------------------------------------------------------------------------------------
+-- 
 function string:split(Pattern)
     local Results = {}
     local Start = 1
@@ -622,7 +623,7 @@ function game:openGuildIsland(url_island)
 	end
 	local x,y,z = getPlayerPos()
 	params = params .. "&posx=" .. tostring(x) .. "&posy=" .. tostring(y) .. "&posz=" .. tostring(z)
-
+	
 	getUI("ui:interface:guild:content:tab_island:props:html"):browse(url_island.."params="..params);
 	runAH(nil, "browse_home", "name=ui:interface:guild:content:tab_island:inv:html")
 end
@@ -774,21 +775,20 @@ function game:chatWelcomeMsg(input)
 				if getDbProp(temp..name) == 0 then
 					-- faction, nation and organization
 					for k, v in pairs({
-						uiFameAllegiance2 = "Kami",
-						uiFameAllegiance3 = "Karavan",
-						uiFameAllegiance4 = "Fyros",
-						uiFameAllegiance5 = "Matis",
-						uiFameAllegiance6 = "Tryker",
-						uiFameAllegiance7 = "Zoraï",
-						uiOrganization_5 = "Marauder",
-						uiOrganization_7 = "Ranger"
+						kami = i18n.get("uiFameAllegiance2"),
+						karavan = i18n.get("uiFameAllegiance3"),
+						fyros = i18n.get("uiFameAllegiance4"),
+						matis = i18n.get("uiFameAllegiance5"),
+						tryker = i18n.get("uiFameAllegiance6"),
+						zorai = i18n.get("uiFameAllegiance7"),
+						marauder = i18n.get("uiFameMarauders"),
+						ranger = i18n.get("uiOrganization_7")
 					}) do
-						if name == v then
-							local tr = i18n.get(k)
-							msg = i18n.get("uiWelcome_"..tostring(tr):lower())
+						if name == v:toUtf8() then
+							msg = i18n.get("uiWelcome_"..k)
 							-- chat_group_filter sParam
 							chat = "dyn_chat"..input
-							name = tr:toUtf8()
+							name = v:toUtf8()
 						end
 					end
 				end
