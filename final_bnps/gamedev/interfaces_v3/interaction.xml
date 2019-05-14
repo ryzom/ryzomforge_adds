@@ -1415,11 +1415,11 @@
   </proc>
   <!-- When the universe chat is activated, we must display a warning the first time 
         Must do it on the variable manipulation, not when the window is shown (because it is always shown/hid at start of game)
--->
+
   <link expr="@UI:SAVE:ISDETACHED:UNIVERSE_CHAT"
         cond="eq(@UI:SAVE:ISDETACHED:UNIVERSE_CHAT,1)"
         action="set"
-        params="dblink=UI:VARIABLES:UNIVERSE_CHANEL_WARNING_WANTED|value=1" />
+        params="dblink=UI:VARIABLES:UNIVERSE_CHANEL_WARNING_WANTED|value=1" /> -->
   <!-- *************** -->
   <!-- * SYSTEM INFO * -->
   <!-- *************** -->
