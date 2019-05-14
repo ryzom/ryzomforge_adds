@@ -27564,11 +27564,117 @@ uiPATitleMount6	[Zig 2]
 // INDEX 6544
 uiPATitleMount7	[Zig 3]
 
-// HASH_VALUE 843E4EA6D3404359
+// HASH_VALUE 649A14CAE8181224
 // INDEX 6545
+uimEnterBag	[Auf der Tasche einsteigen]
+
+// HASH_VALUE 6ED2B0829544BF4E
+// INDEX 6546
+uimLeaveBag	[Aus der Tasche lassen]
+
+// HASH_VALUE 843E4EA6D3404359
+// INDEX 6547
 msgRollDiceLocal	[&SYS&@{FF1F}Du hast %roll gezogen, in einer Ziehung zwischen %min und %max.]
 
 // HASH_VALUE A506B06C29D47491
-// INDEX 6546
+// INDEX 6548
 uiGuildTabIsland	[Insel]
+
+// HASH_VALUE CEAE0F5379D05435
+// INDEX 6549
+uiArtefactRestrict	[@{C02F}Deine Nationszugehörigkeit oder Ruhmstufe steht der Benutzung dieses Gegenstandes im Wege.]
+
+// HASH_VALUE 8F2D062BF5B9C40F
+// INDEX 6550
+uiArtefactHelp	[Kaufe einen Pakt, bevor Du keine mehr hast.]
+
+// HASH_VALUE 2399649083687012
+// INDEX 6551
+uimIhideBanner	[Fraktionswappen verbergen]
+
+// HASH_VALUE 6949609B83899C11
+// INDEX 6552
+uimIshowBanner	[Fraktionswappen anzeigen]
+
+// HASH_VALUE ABC89C4230B523CE
+// INDEX 6553
+uimIcloseOnTp	[Teleportfenster schliessen]
+
+// HASH_VALUE AC39905229BA7F54
+// INDEX 6554
+uimIopenOnTp	[Teleportfenster behalten]
+
+// HASH_VALUE EB1A8C8F22674C92
+// INDEX 6555
+uimIrefresh	[Erneut laden]
+
+// HASH_VALUE 210983972690C4AB
+// INDEX 6556
+uimIcompact	[Kompakten Modus ein/ausschalten]
+
+// HASH_VALUE 649C144C649C144C
+// INDEX 6557
+uimChanSave	[Speichern]
+
+// HASH_VALUE AA977387EA09F021
+// INDEX 6558
+uiChanSaveCB	[Speichern von Dynamischen Kanälen]
+
+// HASH_VALUE 2D6AB02BF4A8CCB9
+// INDEX 6559
+uiChanAutoCB	[Wiederherstellen Dynamischer Kanäle]
+
+// HASH_VALUE 6E62AFABF9C9FF64
+// INDEX 6560
+uittChanSave	[Wenn diese Option aktiviert ist, werden dynamische Chat-Kanäle bei der Trennung oder Charakterauswahl gespeichert.\n
+	Sie können auch den Befehl @{6F6F}/saveChannel@{FFFF} verwenden, um Kanäle manuell zu exportieren.]
+
+// HASH_VALUE 1937B73191F88AC6
+// INDEX 6561
+uittChanAuto	[Wenn dieses Kontrollkästchen aktiviert ist, werden Ihre dynamischen Chat-Kanäle wiederhergestellt, sofern sie nicht bereits geöffnet sind.\n
+	Verhindert den Verlust von Kanälen beim Neustart oder im Falle eines Serverausfalls.]
+
+// HASH_VALUE F7F6CC407B89B9D3
+// INDEX 6562
+uiWelcome_around	[Rollenspiel ist eines der Hauptinteressen von Ryzom, und rund um den Kanal ist ein wichtiger Ort, um es zu üben.]
+
+// HASH_VALUE B061D9467D44EA31
+// INDEX 6563
+uiWelcome_region	[Chatte hier mit anderen Spielern, die ihren Avatar in der gleichen Region haben wie du.]
+
+// HASH_VALUE DB96555152E1C24F
+// INDEX 6564
+uiWelcome_universe	[Der Universumskanal ist in erster Linie für Spieler gedacht, die um Hilfe zum Spiel bitten und für diejenigen, die ihnen helfen. Es ist ein freundlicher Kanal, der auch für Chats im Zusammenhang mit Ryzom verwendet werden kann.]
+
+// HASH_VALUE 7C727C9DF8FD147A
+// INDEX 6565
+uiWelcome_kami	[Chatte hier mit Spielern, deren Avatar den gleichen Kult wie du teilt.]
+
+// HASH_VALUE 7C727C9DF8FD147A
+// INDEX 6566
+uiWelcome_karavan	[Chatte hier mit Spielern, deren Avatar den gleichen Kult wie du teilt.]
+
+// HASH_VALUE 83F0F7CB75FA4A0B
+// INDEX 6567
+uiWelcome_fyros	[Chatten Sie hier mit Spielern, bei denen ihr Avatar auch ein Patriot ist.]
+
+// HASH_VALUE 41F017BE7599221C
+// INDEX 6568
+uiWelcome_tryker	[Chatten Sie hier mit Spielern, deren Avatar auch ein Bürger ist.]
+
+// HASH_VALUE 418FCFE09AC93216
+// INDEX 6569
+uiWelcome_zorai	[Chatten Sie hier mit Spielern, bei denen ihr Avatar auch ein Initiierter ist.]
+
+// HASH_VALUE C3E0F7D1EA953E03
+// INDEX 6570
+uiWelcome_matis	[Chatten Sie hier mit Spielern, bei denen ihr Avatar auch ein Vasall ist.]
+
+// HASH_VALUE 3FD0F7F686091E17
+// INDEX 6571
+uiWelcome_marauder	[Chatte hier mit Spielern, deren Avatar auch ein Marauder ist.]
+
+// HASH_VALUE C08FF7CDEA955607
+// INDEX 6572
+uiWelcome_ranger	[Chatten Sie hier mit Spielern, bei denen ihr Avatar auch ein Ranger ist.]
 

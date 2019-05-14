@@ -27548,11 +27548,117 @@ uiPATitleMount6	[Zig 2]
 // INDEX 6544
 uiPATitleMount7	[Zig 3]
 
-// HASH_VALUE 843E4EA6D3404359
+// HASH_VALUE 649A14CAE8181224
 // INDEX 6545
+uimEnterBag	[Entrar en la bolsa]
+
+// HASH_VALUE 6ED2B0829544BF4E
+// INDEX 6546
+uimLeaveBag	[Salir de la bolsa]
+
+// HASH_VALUE 843E4EA6D3404359
+// INDEX 6547
 msgRollDiceLocal	[&SYS&@{FF1F}Tiraste de la %roll en un empate entre un %min y un %max.]
 
 // HASH_VALUE A506B06C29D47491
-// INDEX 6546
+// INDEX 6548
 uiGuildTabIsland	[Isla]
+
+// HASH_VALUE CEAE0F5379D05435
+// INDEX 6549
+uiArtefactRestrict	[@{C02F}Su lealtad o nivel de fama no le permite usar este artículo.]
+
+// HASH_VALUE 8F2D062BF5B9C40F
+// INDEX 6550
+uiArtefactHelp	[Compra un pacto antes de que se agoten las existencias.]
+
+// HASH_VALUE 2399649083687012
+// INDEX 6551
+uimIhideBanner	[Ocultar estandarte de facción]
+
+// HASH_VALUE 6949609B83899C11
+// INDEX 6552
+uimIshowBanner	[Mostrar estandarte de la facción]
+
+// HASH_VALUE ABC89C4230B523CE
+// INDEX 6553
+uimIcloseOnTp	[Ventana de cierre de teletransporte]
+
+// HASH_VALUE AC39905229BA7F54
+// INDEX 6554
+uimIopenOnTp	[Ventana de teletransporte]
+
+// HASH_VALUE EB1A8C8F22674C92
+// INDEX 6555
+uimIrefresh	[Renovar]
+
+// HASH_VALUE 210983972690C4AB
+// INDEX 6556
+uimIcompact	[Conmutar el modo compacto]
+
+// HASH_VALUE 649C144C649C144C
+// INDEX 6557
+uimChanSave	[Guardar]
+
+// HASH_VALUE AA977387EA09F021
+// INDEX 6558
+uiChanSaveCB	[Guardar canales dinámicos]
+
+// HASH_VALUE 2D6AB02BF4A8CCB9
+// INDEX 6559
+uiChanAutoCB	[Restaurar canales dinámicos]
+
+// HASH_VALUE 6E62AFABF9C9FF64
+// INDEX 6560
+uittChanSave	[Si está marcada, los canales de chat dinámico se almacenan al desconectarse o al seleccionar un carácter.\n
+	También puede utilizar el comando @{6F6F}/saveChannel@{FFFF} para exportar canales manualmente.]
+
+// HASH_VALUE 1937B73191F88AC6
+// INDEX 6561
+uittChanAuto	[Si está marcada, sus canales de chat dinámico se restaurarán si no están abiertos.\n
+	Evitará la pérdida de canales al reiniciar o en caso de caída del servidor.]
+
+// HASH_VALUE F7F6CC407B89B9D3
+// INDEX 6562
+uiWelcome_around	[El juego de roles es uno de los principales intereses de Ryzom, y alrededor del canal es un lugar importante para practicarlo.]
+
+// HASH_VALUE B061D9467D44EA31
+// INDEX 6563
+uiWelcome_region	[Chatea aquí con otros jugadores que tengan su avatar en la misma región que el tuyo.]
+
+// HASH_VALUE DB96555152E1C24F
+// INDEX 6564
+uiWelcome_universe	[El Canal Universo está destinado en primer lugar a los jugadores que piden ayuda sobre el juego y a los que les ayudan. Es un canal amigable que también puede ser utilizado para chatear relacionado con Ryzom.]
+
+// HASH_VALUE 7C727C9DF8FD147A
+// INDEX 6565
+uiWelcome_kami	[Chatea aquí con jugadores que tienen su avatar compartiendo el mismo culto que el tuyo.]
+
+// HASH_VALUE 7C727C9DF8FD147A
+// INDEX 6566
+uiWelcome_karavan	[Chatea aquí con jugadores que tienen su avatar compartiendo el mismo culto que el tuyo.]
+
+// HASH_VALUE 83F0F7CB75FA4A0B
+// INDEX 6567
+uiWelcome_fyros	[Chatea aquí con jugadores cuyo avatar es también un patriota.]
+
+// HASH_VALUE 41F017BE7599221C
+// INDEX 6568
+uiWelcome_tryker	[Chatea aquí con jugadores cuyo avatar es también ciudadano.]
+
+// HASH_VALUE 418FCFE09AC93216
+// INDEX 6569
+uiWelcome_zorai	[Chatea aquí con jugadores cuyo avatar también es un iniciado.]
+
+// HASH_VALUE C3E0F7D1EA953E03
+// INDEX 6570
+uiWelcome_matis	[Chatea aquí con jugadores cuyo avatar también es un vasallo.]
+
+// HASH_VALUE 3FD0F7F686091E17
+// INDEX 6571
+uiWelcome_marauder	[Chatea aquí con jugadores cuyo avatar también es un merodeador.]
+
+// HASH_VALUE C08FF7CDEA955607
+// INDEX 6572
+uiWelcome_ranger	[Chatea aquí con jugadores cuyo avatar también es un guardabosques.]
 
