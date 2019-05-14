@@ -9,6 +9,7 @@
 
     <!-- artefact v1 -->
     <lua file="tp_interface.lua" />
+    <lua file="misc.lua" />
 
     <proc id="artefact_proc_active">
         <action handler="set" params="dblink=UI:SAVE:ISACTIVE:ARTEFACT|value=1" />
@@ -24,6 +25,7 @@
         <action handler="set" params="target_property=ui:interface:inventory:content:bag:webitems:active|value=0" />
         <action handler="set" params="target_property=ui:interface:inventory:content:bag:artefact_content:active|value=1" />
         <action handler="set" params="target_property=ui:interface:inventory:content:bag:artefact_bottom:active|value=1" />
+        <action handler="set" params="target_property=ui:interface:inventory:content:bag:artefact_tab:active|value=1" />
         <action handler="set" params="dblink=UI:SAVE:TELEPORT:ISDETACHED|value=0" />
         <action handler="lua" params="artefact:attachWindow()" />
     </proc>
@@ -33,6 +35,7 @@
         <action handler="set" params="target_property=ui:interface:inventory:content:bag:webitems:active|value=0" />
         <action handler="set" params="target_property=ui:interface:inventory:content:bag:artefact_content:active|value=0" />
         <action handler="set" params="target_property=ui:interface:inventory:content:bag:artefact_bottom:active|value=0" />
+        <action handler="set" params="target_property=ui:interface:inventory:content:bag:artefact_tab:active|value=0" />
         <action handler="set" params="dblink=UI:SAVE:TELEPORT:ISDETACHED|value=1" />
         <action handler="lua" params="artefact:detachWindow()" />
     </proc>
@@ -71,8 +74,8 @@
         on_active_params="artefact_proc_active"
         on_deactive="proc"
         on_deactive_params="artefact_proc_deactive"
-        on_close_button="proc"
-        on_close_button_params="artefact_proc_deactive"
+        on_close_button="lua"
+        on_close_button_params="artefact:onClose()"
         on_resize="lua"
         on_resize_params="artefact:onResize()">
         <group id="header_opened"
