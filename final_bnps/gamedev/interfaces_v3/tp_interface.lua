@@ -378,6 +378,7 @@ if artefact == nil then
             self:doRefresh()
             return
         end
+        sendMsgToServerUseItem(id)
         -- on teleport event
         if getDbProp(self.closeTp) == 1 then
             if self.isAttached then
@@ -386,7 +387,6 @@ if artefact == nil then
             runAH(getUICaller(), "proc", "artefact_proc_deactive")
             return
         end
-        sendMsgToServerUseItem(id)
     end
 
     -- update interface
