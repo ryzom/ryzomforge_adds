@@ -385,7 +385,6 @@ if artefact == nil then
                 runAH(getUICaller(), "proc", "select_bag_items")
             end
             runAH(getUICaller(), "proc", "artefact_proc_deactive")
-            return
         end
     end
 
@@ -743,6 +742,7 @@ function artefact:startInterface(cult)
             end
             runAH(getUICaller(), "proc", proc)
         end
+        self:restorePact()
         return
     end
     if not self:checkfame() then
