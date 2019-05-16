@@ -516,7 +516,7 @@
                 <instance template="inner_thin_border" posparent="parent" inherit_gc_alpha="true" />
             </group>
             <!-- right part : karavan matis tryker -->
-            <group id="right" posref="TR TR" x="0" y="-14" sizeref="w5" w="0" h="84" inherit_gc_alpha="true">
+            <group id="right" posref="TR TR" x="0" y="-14" w="-1" sizeref="w5" h="84" inherit_gc_alpha="true">
                 <!-- icons -->
                 <view type="bitmap" id="ikara" posref="TL TL" x="8" y="-8" inherit_gc_alpha="true" texture="points_karavan_24.tga" global_color="false" />
                 <view type="bitmap" id="imati" posref="TL TL" x="8" y="-32" inherit_gc_alpha="true" texture="points_matis_24.tga" global_color="false" />
@@ -529,6 +529,57 @@
                 <view type="text_number" id="vkara" posref="TR TR" x="-8" y="-12" color="255 255 255 255" shadow="true" fontsize="12" value="%faction_points_karavan" positive="true" />
                 <view type="text_number" id="vmati" posref="TR TR" x="-8" y="-36" color="255 255 255 255" shadow="true" fontsize="12" value="%faction_points_matis" positive="true" />
                 <view type="text_number" id="vtryk" posref="TR TR" x="-8" y="-60" color="255 255 255 255" shadow="true" fontsize="12" value="%faction_points_tryker" positive="true" />
+                <instance template="inner_thin_border" posparent="parent" inherit_gc_alpha="true" />
+            </group>
+        </group>
+    </template>
+    <!-- *********************** -->
+    <!-- * ORGANIZATION POINTS * -->
+    <!-- *********************** -->
+    <template name="org_points_widget" id="" posref="TL TL" posparent="parent" x="0" y="0" sizeref="w" sizeparent="parent" w="0">
+        <group id="#id" posref="#posref" posparent="#posparent" x="#x" y="#y" sizeref="#sizeref" sizeparent="#sizeparent" w="#w" h="50">
+            <view type="text" id="orgpt_t" posref="TL TL" x="0" y="0" hardtext="uiOrgPointTable" shadow="true" color="255 255 255 255" global_color="false" fontsize="12" />
+            <instance template="text_tt" tooltip="uittIdentityOrganization" posparent="orgpt_t" />
+            <!-- left part -->
+            <group id="left" posref="TL TL" x="0" y="-14" sizeref="w5" w="0" h="36" inherit_gc_alpha="true">
+                <!-- icons -->
+                <view type="bitmap" id="imara" posref="TL TL" x="8" y="-8" inherit_gc_alpha="true" texture="points_marauder_24.tga" global_color="false" />
+                <!-- texts -->
+                <view type="text" id="tmara" posref="TL TL" x="34" y="-12" w="-16" color="255 255 255 255" fontsize="12" shadow="true" hardtext="uiFameMarauders" />
+                <!-- numbers -->
+                <view type="text_number" id="vmara" posref="TR TR" x="-8" y="-12" w="-16" color="255 255 255 255" shadow="true" fontsize="12" value="%faction_points_marauder" positive="true" />
+                <instance template="inner_thin_border" posparent="parent" inherit_gc_alpha="true" />
+            </group>
+            <!-- right part -->
+            <group id="right" posref="TR TR" x="0" y="-14" sizeref="w5" w="-1" h="36" inherit_gc_alpha="true">
+                <!-- icons -->
+                <view type="bitmap" id="iranger" posref="TL TL" x="8" y="-8" inherit_gc_alpha="true" texture="points_ranger_24.tga" global_color="false" />
+                <!-- texts -->
+                <view type="text" id="tranger" posref="TL TL" x="34" y="-12" w="-16" color="255 255 255 255" fontsize="12" shadow="true" hardtext="uiOrganization_7" />
+                <!-- numbers -->
+                <view type="text_number" id="vranger" posref="TR TR" x="-8" y="-12" color="255 255 255 255" shadow="true" fontsize="12" value="%faction_points_ranger" positive="true" />
+                <instance template="inner_thin_border" posparent="parent" inherit_gc_alpha="true" />
+            </group>
+        </group>
+    </template>
+    <!-- ********************* -->
+    <!-- * KNOWLEDGE OF ATYS * -->
+    <!-- ********************* -->
+    <template name="ecosystem_points_widget" id="" posref="TL TL" posparent="parent" x="0" y="0" sizeref="w" sizeparent="parent" w="0">
+        <group id="#id" posref="#posref" posparent="#posparent" x="#x" y="#y" sizeref="#sizeref" sizeparent="#sizeparent" w="#w" h="78">
+            <view type="text" id="ecosystem_points_title" posref="TL TL" x="0" y="0" hardtext="uiR2EDEcosystemPointsTitle" shadow="true" color="255 255 255 255" global_color="false" fontsize="12" />
+            <!-- left part -->
+            <group id="left" posref="TL TL" x="0" y="-14" sizeref="w5" w="0" h="64" inherit_gc_alpha="true">
+                <instance template="ecosystem_points" id="basic" posref="TL TL" x="8" y="-8" w="-16" tooltip="uiR2EDBasicsPointsTooltip" text="uiR2EDBasicsPoints" />
+                <instance template="ecosystem_points" id="desert" posparent="basic" posref="BL TL" tooltip="uiR2EDDesertPointsTooltip" text="uiR2EDDesertPoints" />
+                <instance template="ecosystem_points" id="subtropic" posparent="desert" posref="BL TL" tooltip="uiR2EDSubtropicPointsTooltip" text="uiR2EDSubtropicPoints" />
+                <instance template="inner_thin_border" posparent="parent" inherit_gc_alpha="true" />
+            </group>
+            <!-- right part -->
+            <group id="right" posref="TR TR" x="0" y="-14" sizeref="w5" w="-1" h="64" inherit_gc_alpha="true">
+                <instance template="ecosystem_points" id="forest" posref="TL TL" x="8" y="-8" w="-16" tooltip="uiR2EDForestPointsTooltip" text="uiR2EDForestPoints" />
+                <instance template="ecosystem_points" id="jungle" posparent="forest" posref="BL TL" tooltip="uiR2EDJunglePointsTooltip" text="uiR2EDJunglePoints" />
+                <instance template="ecosystem_points" id="primeroot" posparent="jungle" posref="BL TL" tooltip="uiR2EDPrimeRootPointsTooltip" text="uiR2EDPrimeRootPoints" />
                 <instance template="inner_thin_border" posparent="parent" inherit_gc_alpha="true" />
             </group>
         </group>
@@ -1515,6 +1566,14 @@
             <group id="black" posref="BR BR" sizeref="hw" w="-10" h="-12" inherit_gc_alpha="true" />
             <instance template="inner_thin_border" posparent="black" inherit_gc_alpha="true " />
             <view id="background_bitmap" type="bitmap" posparent="black" posref="MM MM" sizeref="wh" w="-2" h="-2" inherit_gc_alpha="true" scale="true" texture="blank.tga" global_color="false" />
+            <group id="text_list" type="list" fontsize="9" posref="TL TL" posparent="black" x="2" y="-2" space="0" sizeref="hw" w="-4" h="-4" maxelements="2000" />
+            <ctrl id="scroll_bar" style="skin_scroll" />
+        </group>
+    </template>
+    <!-- html browsing context no border -->
+    <template name="webig_html_noborder" id="html" keep="true" home="" browse_redo="" browse_undo="" browse_refresh="" bg_color="0 0 0 255">
+        <group id="#id" type="webig_html" posref="TL TL" home="#home" title_prefix="" sizeref="wh" x="0" y="0" w="0" h="0" background_color="#bg_color" error_color="255 240 48 255" link_color="240 155 100 255" text_color="210 210 210 255" h1_color="255 255 255 255" h2_color="255 255 255 255" h3_color="255 255 255 255" h4_color="255 255 255 255" h5_color="255 255 255 255" h6_color="255 255 255 255" text_font_size="10" h1_font_size="20" h2_font_size="18" h3_font_size="16" h4_font_size="14" h5_font_size="12" h6_font_size="12" paragraph_begin_space="12" multi_line_space_factor="0.25" td_begin_space="0" li_begin_space="4" ul_begin_space="12" li_indent="-10" ul_indent="30" checkbox_bitmap_normal="w_slot_on.tga" checkbox_bitmap_pushed="w_opacity_on.tga" checkbox_bitmap_over="" background_bitmap_view="background_bitmap" browse_next_time="false" form_text_area_group="edit_box_widget_multiline" browse_refresh="#browse_refresh" browse_undo="#browse_undo" browse_redo="#browse_redo">
+            <group id="black" posref="BR BR" sizeref="hw" w="-10" h="-12" inherit_gc_alpha="true" />
             <group id="text_list" type="list" fontsize="9" posref="TL TL" posparent="black" x="2" y="-2" space="0" sizeref="hw" w="-4" h="-4" maxelements="2000" />
             <ctrl id="scroll_bar" style="skin_scroll" />
         </group>
