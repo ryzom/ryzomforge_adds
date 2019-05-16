@@ -22818,7 +22818,7 @@ uiOrgPointTable	[ORGANISATIONS-PUNKTE]
 
 // HASH_VALUE 22244508AA9A2E7B
 // INDEX 5419
-uittIdentityOrganization	[Organisations-punkte werden gesammelt, wenn Sie an @{6F6F}Sonderveranstaltungen oder Missionen@{FFFF} für die Organisation teilnehmen: Marauder und Ranger. Diese Punkte können gehandelt werden, um nützliche und einzigartige Gegenstände in den Hauptstädten zu erhalten.]
+uittIdentityOrganization	[Organisationspunkte können gesammelt werden, wenn Du an @{6F6F}speziellen Events oder Missionen@{FFFF} für die Organisationen Marauder und Ranger teilnimmst. Diese Punkte können in den Hauptstädten gegen nützliche und einzigartige Gegenstände eingetauscht werden.]
 
 // HASH_VALUE 12E3008491061489
 // INDEX 5420
