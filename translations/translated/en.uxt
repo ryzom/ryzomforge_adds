@@ -27631,37 +27631,37 @@ uiWelcome_region	[Chat here with other players having their avatar in the same r
 
 // HASH_VALUE DB96555152E1C24F
 // INDEX 6564
-uiWelcome_universe	[The Universe Channel is first of all intended for players asking help about the game and for those helping them. It's a friendly channel that also can be used for chatting related to Ryzom.]
+uiWelcome_universe	[The Universe channel is a multilingual channel primarily intended for players to ask for help with the game and those who provide it to them. In addition it is a user-friendly channel that can be used to discuss Ryzom.]
 
 // HASH_VALUE 7C727C9DF8FD147A
 // INDEX 6565
-uiWelcome_kami	[Chat here with players having their avatar sharing the same cult as yours.]
+uiWelcome_kami	[Chat here with players whose avatar shares the same cult as yours.]
 
 // HASH_VALUE 7C727C9DF8FD147A
 // INDEX 6566
-uiWelcome_karavan	[Chat here with players having their avatar sharing the same cult as yours.]
+uiWelcome_karavan	[Chat here with players whose avatar shares the same cult as yours.]
 
 // HASH_VALUE 83F0F7CB75FA4A0B
 // INDEX 6567
-uiWelcome_fyros	[Chat here with players having their avatar being also a patriot.]
+uiWelcome_fyros	[Chat here with players whose avatar is also a patriot.]
 
 // HASH_VALUE 41F017BE7599221C
 // INDEX 6568
-uiWelcome_tryker	[Chat here with players having their avatar being also a citizen.]
+uiWelcome_tryker	[Chat here with players whose avatar is also a citizen.]
 
 // HASH_VALUE 418FCFE09AC93216
 // INDEX 6569
-uiWelcome_zorai	[Chat here with players having their avatar being also an initiate.]
+uiWelcome_zorai	[Chat here with players whose avatar is also an initiate.]
 
 // HASH_VALUE C3E0F7D1EA953E03
 // INDEX 6570
-uiWelcome_matis	[Chat here with players having their avatar being also a vassal.]
+uiWelcome_matis	[Chat here with players whose avatar is also a vassal.]
 
 // HASH_VALUE 3FD0F7F686091E17
 // INDEX 6571
-uiWelcome_marauder	[Chat here with players having their avatar being also a marauder.]
+uiWelcome_marauder	[Chat here with players whose avatar is also a marauder.]
 
 // HASH_VALUE C08FF7CDEA955607
 // INDEX 6572
-uiWelcome_ranger	[Chat here with players having their avatar being also a ranger.]
+uiWelcome_ranger	[Chat here with players whose avatar is also a ranger.]
 

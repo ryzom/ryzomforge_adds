@@ -27628,7 +27628,7 @@ uiWelcome_region	[Chatea aquí con otros jugadores que tengan su avatar en la mi
 
 // HASH_VALUE DB96555152E1C24F
 // INDEX 6564
-uiWelcome_universe	[El Canal Universo está destinado en primer lugar a los jugadores que piden ayuda sobre el juego y a los que les ayudan. Es un canal amigable que también puede ser utilizado para chatear relacionado con Ryzom.]
+uiWelcome_universe	[El Canal Universo es multilingüe está destinado en primer lugar a los jugadores que piden ayuda sobre el juego y a los que les ayudan. Es un canal amigable que también puede ser utilizado para chatear relacionado con Ryzom.]
 
 // HASH_VALUE 7C727C9DF8FD147A
 // INDEX 6565
@@ -27656,9 +27656,9 @@ uiWelcome_matis	[Chatea aquí con jugadores cuyo avatar también es un vasallo.]
 
 // HASH_VALUE 3FD0F7F686091E17
 // INDEX 6571
-uiWelcome_marauder	[Chatea aquí con jugadores cuyo avatar también es un merodeador.]
+uiWelcome_marauder	[Chatea aquí con jugadores cuyo avatar también es un marauder.]
 
 // HASH_VALUE C08FF7CDEA955607
 // INDEX 6572
-uiWelcome_ranger	[Chatea aquí con jugadores cuyo avatar también es un guardabosques.]
+uiWelcome_ranger	[Chatea aquí con jugadores cuyo avatar también es un ranger.]
 
