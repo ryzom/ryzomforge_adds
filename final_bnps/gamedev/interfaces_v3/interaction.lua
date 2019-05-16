@@ -786,12 +786,12 @@ function game:chatWelcomeMsg(input)
 					}) do
 						if name == v:toUtf8() then
 							msg = i18n.get("uiWelcome_"..k)
-							-- chat_group_filter sParam
-							chat = "dyn_chat"..input
 							name = v:toUtf8()
 						end
 					end
 				end
+				-- chat_group_filter sParam
+				chat = "dyn_chat"..input
 			end
 		else
 			-- around, region and universe
