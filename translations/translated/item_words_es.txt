@@ -7851,3 +7851,5 @@ _DE77E608A092B618	ictaup	Calzones Tissan	unas	la	Calzones Tissan		las	Calzones L
 _55FF165F364CCCED	ictauv	Sujetador Tissan	unas	la	Sujetador Tissan		las	Sujetador Ligeras Tryker
 _80F7C6C5E3249271	iczaup	Calzones Nin-Ka	unas	la	Calzones Nin-Ka		las	Calzones Ligeras Zoraï
 _B5D4E9917A8BD9B1	iczauv	Sujetador Nin-Ka	unas	la	Sujetador Nin-Ka		las	Sujetador Ligeras Zoraï
+_7179D6FE2D87A5B8	tp_interface_kami	Kami Artefacto de teletransportación	un	el	Kami Artefacto de teletransportación		los	
+_84020E9F43014E3E	tp_interface_karavan	Karavan Artefacto de teletransportación	un	el	Karavan Artefacto de teletransportación		los	

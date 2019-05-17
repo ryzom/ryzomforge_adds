@@ -7851,3 +7851,5 @@ _DE77E608A092B618	ictaup	Tissan Panties	\d	the	Tissan Panties	\d	the	Tryker Ligh
 _55FF165F364CCCED	ictauv	Tissan Bra	\d	the	Tissan Bra	\d	the	Tryker Light Bra
 _80F7C6C5E3249271	iczaup	Nin-Ka Panties	\d	the	Nin-Ka Panties	\d	the	Zoraï Light Panties
 _B5D4E9917A8BD9B1	iczauv	Nin-Ka Bra	\d	the	Nin-Ka Bra	\d	the	Zoraï Light Bra
+_7179D6FE2D87A5B8	tp_interface_kami	Kami Teleportation Artefact	a	the	Kami Teleportation Artefact	the		
+_84020E9F43014E3E	tp_interface_karavan	Karavan Teleportation Artefact	a	the	Karavan Teleportation Artefact	the		

@@ -7851,3 +7851,5 @@ _DE77E608A092B618	ictaup	Tissan-Unterhose	Tissan-Unterhose	Tissan-Unterhose		die
 _55FF165F364CCCED	ictauv	Tissan-Büstenhalter	Tissan-Büstenhalter	Tissan-Büstenhalter		die	Tissan-Büstenhalter	Tissan-Büstenhalter	eine	die	leichte Tryker-Rüstung in Basis-Qualität	
 _80F7C6C5E3249271	iczaup	Nin-ka-Unterhose	Nin-ka-Unterhose	Nin-ka-Unterhose		die	Nin-ka-Unterhose	Nin-ka-Unterhose	eine	die	leichte Zoraï-Rüstung in Basis-Qualität	
 _B5D4E9917A8BD9B1	iczauv	Nin-ka-Büstenhalter	Nin-ka-Büstenhalter	Nin-ka-Büstenhalter		die	Nin-ka-Büstenhalter	Nin-ka-Büstenhalter	eine	die	leichte Zoraï-Rüstung in Basis-Qualität	
+_7179D6FE2D87A5B8	tp_interface_kami	Kami Teleportations-Artefakt	Kami Teleportations-Artefakt	Kami Teleportations-Artefakt	ein	das	Kami Teleportations-Artefakt	Kami Teleportations-Artefakt	ein	die		
+_84020E9F43014E3E	tp_interface_karavan	Karavan Teleportations-Artefakt	Karavan Teleportations-Artefakt	Karavan Teleportations-Artefakt	ein	das	Karavan Teleportations-Artefakt	Karavan Teleportations-Artefakt	ein	die		
