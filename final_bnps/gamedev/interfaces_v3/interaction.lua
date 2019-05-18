@@ -753,6 +753,7 @@ if game.dynKey == nil then
 	game.dynKey = {}
 end
 
+------------------------------------------------------------------------------------------------------------
 function game:chatWelcomeMsg(input)
 	local msg
 	local name
@@ -774,24 +775,23 @@ function game:chatWelcomeMsg(input)
 				if getDbProp(temp..name) == 0 then
 					-- faction, nation and organization
 					for k, v in pairs({
-						uiFameAllegiance2 = "Kami",
-						uiFameAllegiance3 = "Karavan",
-						uiFameAllegiance4 = "Fyros",
-						uiFameAllegiance5 = "Matis",
-						uiFameAllegiance6 = "Tryker",
-						uiFameAllegiance7 = "Zoraï",
-						uiOrganization_5 = "Marauder",
-						uiOrganization_7 = "Ranger"
+						kami = i18n.get("uiFameAllegiance2"),
+						karavan = i18n.get("uiFameAllegiance3"),
+						fyros = i18n.get("uiFameAllegiance4"),
+						matis = i18n.get("uiFameAllegiance5"),
+						tryker = i18n.get("uiFameAllegiance6"),
+						zorai = i18n.get("uiFameAllegiance7"),
+						marauder = i18n.get("uiFameMarauders"),
+						ranger = i18n.get("uiOrganization_7")
 					}) do
-						if name == v then
-							local tr = i18n.get(k)
-							msg = i18n.get("uiWelcome_"..tostring(tr):lower())
-							-- chat_group_filter sParam
-							chat = "dyn_chat"..input
-							name = tr:toUtf8()
+						if name == v:toUtf8() then
+							msg = i18n.get("uiWelcome_"..k)
+							name = v:toUtf8()
 						end
 					end
 				end
+				-- chat_group_filter sParam
+				chat = "dyn_chat"..input
 			end
 		else
 			-- around, region and universe
