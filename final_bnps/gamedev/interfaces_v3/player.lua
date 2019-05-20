@@ -940,6 +940,16 @@ function game:updateBuffItemTooltip(buffItem)
 	self:setPhraseTooltipCarac(ttWin, "sta_buff", item.StaBuff)
 	self:setPhraseTooltipCarac(ttWin, "sap_buff", item.SapBuff)
 	self:setPhraseTooltipCarac(ttWin, "focus_buff", item.FocusBuff)
+	self:setPhraseTooltipCarac(ttWin, "durability", item.Hp)
+	-- / max
+	if item.HpMax == 0 then
+		ttWin:find("durability_sep").active = false
+		ttWin:find("durability_max").active = false
+	else
+		ttWin:find("durability_sep").active = true
+		ttWin:find("durability_max").active = true
+		ttWin:find("durability_max").hardtext = item.HpMax
+	end
 
 	updateTooltipCoords()
 
