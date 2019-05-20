@@ -340,8 +340,7 @@
         <group id="#id" posref="#posref" w="#w" h="#h" x="#x" y="#y">
             <instance template="fame_bar" id="fb" x="180" path="#path" />
             <view type="text" id="t" posref="ML ML" x="0" y="0" color="255 255 255 255" fontsize="10" value="xxx tribe name" shadow="true" />
-            <!--   <link expr="or(ne(@#path:VALUE,0),ne(@#path:TREND,0))"
-            target="active" />-->
+            <link expr="ne(@#path:VALUE,-128)" target="active" />
         </group>
     </template>
     <template name="fame_tribe_line_icon" x="0" y="0" w="400" h="28" posref="TL TL" posparent="" keep="true" id="" path="" hardtext="" icon="">
@@ -349,8 +348,7 @@
             <instance template="fame_bar" id="fb" x="180" path="#path" />
             <view type="bitmap" id="icon" posref="ML ML" x="0" y="0" color="255 255 255 255" texture="#icon" inherit_gc_alpha="false" global_color="false" />
             <view type="text" id="t" posref="MR ML" posparent="icon" x="4" y="0" color="255 255 255 255" fontsize="10" hardtext="#hardtext" shadow="true" />
-            <!--   <link expr="or(ne(@#path:VALUE,0),ne(@#path:TREND,0))"
-            target="active" />-->
+            <link expr="ne(@#path:VALUE,-128)" target="active" />
         </group>
     </template>
     <!-- **************** -->
