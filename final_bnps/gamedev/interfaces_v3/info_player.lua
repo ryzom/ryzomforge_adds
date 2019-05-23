@@ -411,29 +411,6 @@ end
 ------------------------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------------------------------
-function game:initFamePos()
-	local	ui = getUICaller();
-
-	-- assign good bar with good text
-
-	local	uiList = { 'fyros', 'matis', 'tryker', 'zorai', 'kami', 'karavan', 'black_kami'};
-
-	for k,v in pairs(uiList) do
-		-- get ui text
-		local uiTextRef = getUI(getUIId(ui) .. ':' .. v);
-		local fameIdx = getFameDBIndex(getFameIndex(v));
-		-- put bar in front of it
-		if (fameIdx >= 0) and (fameIdx <= 6) then
-			local uiBar = getUI(getUIId(ui) .. ':fb' .. fameIdx);
-			uiBar.y = uiTextRef.y - uiTextRef.h / 2 + uiBar.h / 2;
-		else
-			debugInfo('Error init fame bar pos for ' .. v);
-		end
-	end
-
-end
-
-------------------------------------------------------------------------------------------------------------
 function game:initFameTribe()
 	local	ui = getUICaller();
 
