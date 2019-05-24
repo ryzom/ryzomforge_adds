@@ -9999,3 +9999,7 @@ nh_zorai_min_cho	Pong Hui-Shiang
 nh_fyros_pyr	Piphylus Kridon	
 nh_fyros_dyron	Ibiratheus Dyla	
 nh_fyros_thesos	Plegriion Dela	
+kamishopai_fyros	Aexius Abyn	
+kamishopai_zorai	Wiao Ho-Gu	
+karashopai_matis	Sivaldo Zania	
+karashopai_tryker	Be'keeins Hanan	

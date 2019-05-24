@@ -9999,5 +9999,9 @@ _6CF7604A2A69304F	nh_zorai_min_cho	Pong Hui-Shiang
 _ACC9D0AAAE8A1851	nh_fyros_pyr	Piphylus Kridon			
 _6D390C562767D0B1	nh_fyros_dyron	Ibiratheus Dyla			
 _A947185962A9E4B6	nh_fyros_thesos	Plegriion Dela			
+_2738A46F2484ECC2	kamishopai_fyros	Aexius Abyn			
+_2B97A46ADB39306F	kamishopai_zorai	Wiao Ho-Gu			
+_656954799C98B0A1	karashopai_matis	Sivaldo Zania			
+_507400AC6A18D4B1	karashopai_tryker	Be'keeins Hanan			
 _A67747ACA7496082	marauder_camp_barman	Kelen BaRopi			
 _42348E4C7B7E29B7	temp_maro_direct_acces_to_alamti	Qung Wo-Jin			
