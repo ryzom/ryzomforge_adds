@@ -503,9 +503,9 @@
             <!-- left part : kami fyros zorai -->
             <group id="left" posref="TL TL" x="0" y="-14" sizeref="w5" w="0" h="84" inherit_gc_alpha="true">
                 <!-- icons -->
-                <view type="bitmap" id="ikami" posref="TL TL" x="8" y="-8" inherit_gc_alpha="true" texture="points_kami_24.tga" global_color="false" />
-                <view type="bitmap" id="ifyro" posref="TL TL" x="8" y="-32" inherit_gc_alpha="true" texture="points_fyros_24.tga" global_color="false" />
-                <view type="bitmap" id="izora" posref="TL TL" x="8" y="-56" inherit_gc_alpha="true" texture="points_zorai_24.tga" global_color="false" />
+                <view type="bitmap" id="ikami" posref="TL TL" x="8" y="-8" inherit_gc_alpha="false" texture="points_kami_24.tga" global_color="false" />
+                <view type="bitmap" id="ifyro" posref="TL TL" x="8" y="-32" inherit_gc_alpha="false" texture="points_fyros_24.tga" global_color="false" />
+                <view type="bitmap" id="izora" posref="TL TL" x="8" y="-56" inherit_gc_alpha="false" texture="points_zorai_24.tga" global_color="false" />
                 <!-- texts -->
                 <view type="text" id="tkami" posref="TL TL" x="34" y="-12" w="-16" color="255 255 255 255" fontsize="12" shadow="true" hardtext="uiFactionPoint_Kami" />
                 <view type="text" id="tfyro" posref="TL TL" x="34" y="-36" color="255 255 255 255" fontsize="12" shadow="true" hardtext="uiFactionPoint_Fyros" />
@@ -519,9 +519,9 @@
             <!-- right part : karavan matis tryker -->
             <group id="right" posref="TR TR" x="0" y="-14" w="-1" sizeref="w5" h="84" inherit_gc_alpha="true">
                 <!-- icons -->
-                <view type="bitmap" id="ikara" posref="TL TL" x="8" y="-8" inherit_gc_alpha="true" texture="points_karavan_24.tga" global_color="false" />
-                <view type="bitmap" id="imati" posref="TL TL" x="8" y="-32" inherit_gc_alpha="true" texture="points_matis_24.tga" global_color="false" />
-                <view type="bitmap" id="itryk" posref="TL TL" x="8" y="-56" inherit_gc_alpha="true" texture="points_tryker_24.tga" global_color="false" />
+                <view type="bitmap" id="ikara" posref="TL TL" x="8" y="-8" inherit_gc_alpha="false" texture="points_karavan_24.tga" global_color="false" />
+                <view type="bitmap" id="imati" posref="TL TL" x="8" y="-32" inherit_gc_alpha="false" texture="points_matis_24.tga" global_color="false" />
+                <view type="bitmap" id="itryk" posref="TL TL" x="8" y="-56" inherit_gc_alpha="false" texture="points_tryker_24.tga" global_color="false" />
                 <!-- texts -->
                 <view type="text" id="tkara" posref="TL TL" x="34" y="-12" w="-16" color="255 255 255 255" fontsize="12" shadow="true" hardtext="uiFactionPoint_Karavan" />
                 <view type="text" id="tmati" posref="TL TL" x="34" y="-36" color="255 255 255 255" fontsize="12" shadow="true" hardtext="uiFactionPoint_Matis" />
@@ -544,7 +544,7 @@
             <!-- left part -->
             <group id="left" posref="TL TL" x="0" y="-14" sizeref="w5" w="0" h="36" inherit_gc_alpha="true">
                 <!-- icons -->
-                <view type="bitmap" id="imara" posref="TL TL" x="8" y="-8" inherit_gc_alpha="true" texture="points_marauder_24.tga" global_color="false" />
+                <view type="bitmap" id="imara" posref="TL TL" x="8" y="-8" inherit_gc_alpha="false" texture="points_marauder_24.tga" global_color="false" />
                 <!-- texts -->
                 <view type="text" id="tmara" posref="TL TL" x="34" y="-12" w="-16" color="255 255 255 255" fontsize="12" shadow="true" hardtext="uiFameMarauders" />
                 <!-- numbers -->
@@ -554,7 +554,7 @@
             <!-- right part -->
             <group id="right" posref="TR TR" x="0" y="-14" sizeref="w5" w="-1" h="36" inherit_gc_alpha="true">
                 <!-- icons -->
-                <view type="bitmap" id="iranger" posref="TL TL" x="8" y="-8" inherit_gc_alpha="true" texture="points_ranger_24.tga" global_color="false" />
+                <view type="bitmap" id="iranger" posref="TL TL" x="8" y="-8" inherit_gc_alpha="false" texture="points_ranger_24.tga" global_color="false" />
                 <!-- texts -->
                 <view type="text" id="tranger" posref="TL TL" x="34" y="-12" w="-16" color="255 255 255 255" fontsize="12" shadow="true" hardtext="uiOrganization_7" />
                 <!-- numbers -->
@@ -892,10 +892,14 @@
         <view type="bitmap" id="sta_buff" y="0" texture="ico_stamina.tga" global_color="false" posref="BL TL" posparent="hp_buff" />
         <view type="bitmap" id="sap_buff" y="0" texture="ico_sap.tga" global_color="false" posref="BL TL" posparent="sta_buff" />
         <view type="bitmap" id="focus_buff" y="0" texture="ico_focus.tga" global_color="false" posref="BL TL" posparent="sap_buff" />
+        <view type="bitmap" id="durability" y="0" texture="ico_absorb_damage.tga" global_color="false" posref="BL TL" posparent="focus_buff" />
         <view type="text" id="hp_buff_text" posparent="hp_buff" posref="MR ML" hardtext="0" global_color="false" />
         <view type="text" id="sta_buff_text" posparent="sta_buff" posref="MR ML" hardtext="0" global_color="false" />
         <view type="text" id="sap_buff_text" posparent="sap_buff" posref="MR ML" hardtext="0" global_color="false" />
         <view type="text" id="focus_buff_text" posparent="focus_buff" posref="MR ML" hardtext="0" global_color="false" />
+        <view type="text" id="durability_text" posparent="durability" posref="MR ML" hardtext="0" global_color="false" />
+        <view type="text" id="durability_sep" posparent="durability_text" posref="MR ML" hardtext="/" global_color="false" />
+        <view type="text" id="durability_max" posparent="durability_sep" posref="MR ML" hardtext="0" global_color="false" />
     </group>
     <!-- Over Text used for Crystallized Spells: this include additionnal icons -->
     <define id="crystallized_spell_list_brick" value="ui:interface:crystallized_spell_context_help:list_brick" />
