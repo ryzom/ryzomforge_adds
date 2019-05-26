@@ -9981,6 +9981,7 @@ _6F5B988A160E3512	liv_laby2012_start_npc	Ba'peappy Shidgen
 _0EA1F8323AECDB4B	kami_altar_silan_shining_lake	$gn_kami_altar_silan_shining_lake$			
 _DA6E381CF5EC33A6	kami_altar_silan_ranger_camp	$gn_kami_altar_silan_ranger_camp$			
 _3F5EE511C9E08509	sage_marauder_rite_giver	Erhialor Krinrund			
+_42348E4C7B7E29B7	temp_maro_direct_acces_to_alamti	Qung Wo-Jin			
 _EA6E25F71F768C33	StockMonture_PNJ_A	Ba'Shekry Brafflie			
 _916ECDF82395B380	StockMonture_PNJ_B	Mac'Roffy Shillan			
 _1329441BAAA6F097	marauder_camp_foreman	Shonga DeFao			
@@ -9999,5 +10000,10 @@ _6CF7604A2A69304F	nh_zorai_min_cho	Pong Hui-Shiang
 _ACC9D0AAAE8A1851	nh_fyros_pyr	Piphylus Kridon			
 _6D390C562767D0B1	nh_fyros_dyron	Ibiratheus Dyla			
 _A947185962A9E4B6	nh_fyros_thesos	Plegriion Dela			
+_2738A46F2484ECC2	kamishopai_fyros	Aexius Abyn			
+_2B97A46ADB39306F	kamishopai_zorai	Wiao Ho-Gu			
+_656954799C98B0A1	karashopai_matis	Sivaldo Zania			
+_507400AC6A18D4B1	karashopai_tryker	Be'keeins Hanan			
 _A67747ACA7496082	marauder_camp_barman	Kelen BaRopi			
+_100BC3D71FC56D33	rite_geo_mat_maj_gar_1_maccia_pittore	Maccia Pittore			
 _42348E4C7B7E29B7	temp_maro_direct_acces_to_alamti	Qung Wo-Jin			

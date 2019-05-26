@@ -1884,7 +1884,7 @@ gn_boss_tryker_light_stone_back	Teleportation stone
 gn_boss_tryker_light_loot_box	Dante's chest	
 gn_boss_tryker_light_start_boss	Dante the Teaser	
 gn_boss_tryker_light_start_stone	Teleportation stone	
-gn_boss_tryker_light_start_box	Dante's crate
+gn_boss_tryker_light_start_box	Dante's crate	
 fct_consumable_merchant	(Consumable Merchant)	
 title00031	Fyros Ambassador	Fyros Ambassador
 title00032	Matis Ambassador	Matis Ambassador

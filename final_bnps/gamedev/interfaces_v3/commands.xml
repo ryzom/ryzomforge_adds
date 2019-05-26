@@ -100,7 +100,8 @@
 	<command name="invite" action="command" params="a teamInvite $" />
 
 	<command name="channel" action="command" params='a connectUserChannel "$"' />
-	<command name="channel" action="command" params='a connectUserChannel "$" +' />
+	<command name="channel" action="lua" params='game:connectUserChannel([[+]])' />
+	<command name="saveChannel" action="lua" params='game:saveChannel()' />
 
 	<command name="leaguekick" action="command" params="a leagueKick $" />
 	<command name="leaguequit" action="command" params="a setLeague" />

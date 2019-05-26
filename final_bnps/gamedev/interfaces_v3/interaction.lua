@@ -641,6 +641,117 @@ end
 function game:chatUrlBrowse()
 	runAH(nil, "browse", "name=ui:interface:webig:content:html|url=" .. SavedUrl)
 end
+------------------------------------------------------------------------------------------------------------
+-- called from onInGameDbInitialized
+function game:openChannels()
+
+	if getDbProp("UI:SAVE:CHAT:AUTO_CHANNEL") > 0 then
+		local channels = readUserChannels()
+
+		if channels then
+			for name, pass in pairs(channels) do
+				local found = false
+				local chan = nil
+
+				for i = 0, getMaxDynChan() - 1 do
+					if getDbProp("UI:SAVE:ISENABLED:DYNAMIC_CHAT"..i) == 1 then
+						local id = getDbProp("SERVER:DYN_CHAT:CHANNEL"..i..":NAME")
+
+						if isDynStringAvailable(id) then
+							chan = getDynString(id):toUtf8()
+							-- already opened ?
+							if name == chan then
+								found = true
+							end
+						end
+					end
+				end
+
+				if not found then
+					game:connectUserChannel(name.." "..pass)
+				end
+			end
+		end
+	end
+
+end
+
+------------------------------------------------------------------------------------------------------------
+-- called to save user created channels
+function game:saveChannel(verbose)
+
+	if verbose == nil then
+		verbose = false
+	end
+
+	local channels = {}
+
+	for i = 0, getMaxDynChan() - 1 do
+		if getDbProp("UI:SAVE:ISENABLED:DYNAMIC_CHAT"..i) == 1 then
+			local id = getDbProp("SERVER:DYN_CHAT:CHANNEL"..i..":NAME")
+
+			if isDynStringAvailable(id) then
+				local chan = getDynString(id):toUtf8()
+				local found = false
+
+				for _, k in pairs(getClientCfgVar("ChannelIgnoreFilter")) do
+					if k == chan then
+						found = true
+					end
+				end
+
+				if not found then
+					local pass = ''
+					-- check for private chans
+					for _, k in pairs(game.dynKey) do
+						if k[chan] then
+							pass = k[chan]
+						end
+					end
+					channels[chan] = pass
+				end
+			end
+		end
+	end
+	saveUserChannels(channels, verbose)
+
+end
+
+------------------------------------------------------------------------------------------------------------
+-- mitm to store password for the current session
+function game:connectUserChannel(args)
+
+	local arg = {}
+
+	for w in string.gmatch(args, "%S+") do
+		table.insert(arg, w)
+	end
+
+	if #arg > 0 then
+		local params = arg[1]
+
+		if #arg == 2 then
+			-- channel with pass
+			for _, ch in pairs(game.dynKey) do
+				if ch[arg[1]] then
+					ch[arg[1]] = nil
+				end
+			end
+
+			if arg[2] ~= '*' and arg[2] ~= "***" then
+				table.insert(game.dynKey, {[arg[1]]=arg[2]})
+			end
+			params = params.." "..arg[2]
+		end
+		runAH(nil, "talk", "mode=0|text=/a connectUserChannel "..params)
+	end
+
+end
+
+------------------------------------------------------------------------------------------------------------
+if game.dynKey == nil then
+	game.dynKey = {}
+end
 
 ------------------------------------------------------------------------------------------------------------
 function game:chatWelcomeMsg(input)
@@ -664,24 +775,23 @@ function game:chatWelcomeMsg(input)
 				if getDbProp(temp..name) == 0 then
 					-- faction, nation and organization
 					for k, v in pairs({
-						uiFameAllegiance2 = "Kami",
-						uiFameAllegiance3 = "Karavan",
-						uiFameAllegiance4 = "Fyros",
-						uiFameAllegiance5 = "Matis",
-						uiFameAllegiance6 = "Tryker",
-						uiFameAllegiance7 = "Zoraï",
-						uiOrganization_5 = "Marauder",
-						uiOrganization_7 = "Ranger"
+						kami = i18n.get("uiFameAllegiance2"),
+						karavan = i18n.get("uiFameAllegiance3"),
+						fyros = i18n.get("uiFameAllegiance4"),
+						matis = i18n.get("uiFameAllegiance5"),
+						tryker = i18n.get("uiFameAllegiance6"),
+						zorai = i18n.get("uiFameAllegiance7"),
+						marauder = i18n.get("uiFameMarauders"),
+						ranger = i18n.get("uiOrganization_7")
 					}) do
-						if name == v then
-							local tr = i18n.get(k)
-							msg = i18n.get("uiWelcome_"..tostring(tr):lower())
-							-- chat_group_filter sParam
-							chat = "dyn_chat"..input
-							name = tr:toUtf8()
+						if name == v:toUtf8() then
+							msg = i18n.get("uiWelcome_"..k)
+							name = v:toUtf8()
 						end
 					end
 				end
+				-- chat_group_filter sParam
+				chat = "dyn_chat"..input
 			end
 		else
 			-- around, region and universe
