@@ -10004,3 +10004,4 @@ kamishopai_fyros	Aexius Abyn
 kamishopai_zorai	Wiao Ho-Gu	
 karashopai_matis	Sivaldo Zania	
 karashopai_tryker	Be'keeins Hanan	
+marauder_civ_shop	Ving Mia-Wuan	
