@@ -416,8 +416,8 @@
             </group>
             <group id="guild" posref="TL TL" x="0" y="-4" sizeref="wh" w="0" h="0">
                 <!-- Civilisation -->
-                <instance template="fame_tribe_line_icon" x="8" y="-4" posref="TL TL" id="fyros" path="SERVER:GUILD:FAME:0" hardtext="uiFameFyros" icon="points_fyros_24.tga" />
-                <instance template="fame_tribe_line_icon" x="0" y="0" posref="BL TL" id="matis" posparent="fyros" path="SERVER:GUILD:FAME:1" hardtext="uiFameMatis" icon="points_matis_24.tga" />
+                <instance template="fame_tribe_line_icon" x="8" y="-4" posref="TL TL" id="fyros" path="SERVER:GUILD:FAME:1" hardtext="uiFameFyros" icon="points_fyros_24.tga" />
+                <instance template="fame_tribe_line_icon" x="0" y="0" posref="BL TL" id="matis" posparent="fyros" path="SERVER:GUILD:FAME:0" hardtext="uiFameMatis" icon="points_matis_24.tga" />
                 <instance template="fame_tribe_line_icon" x="0" y="0" posref="BL TL" id="tryker" posparent="matis" path="SERVER:GUILD:FAME:2" hardtext="uiFameTryker" icon="points_tryker_24.tga" />
                 <instance template="fame_tribe_line_icon" x="0" y="0" posref="BL TL" id="zorai" posparent="tryker" path="SERVER:GUILD:FAME:3" hardtext="uiFameZorai" icon="points_zorai_24.tga" />
                 <group id="civ_allegiance_group" x="0" y="-8" posref="BL TL" posparent="zorai" child_resize_h="true" child_resize_w="true">
