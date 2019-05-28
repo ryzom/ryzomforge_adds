@@ -454,6 +454,9 @@ function game:updateFameBar(path)
 	local	uiBar3d = ui.bar3d;
 	-- part 4 is there to fill in the hole
 
+	-- make sure fame bar is not hidden for first fame gain
+	ui.active = true
+
 	local barW = ui.w - 4;
 	local barX = 2;
 
