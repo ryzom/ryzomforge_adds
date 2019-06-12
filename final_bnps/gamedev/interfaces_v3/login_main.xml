@@ -260,7 +260,7 @@ on_enter="leave_modal" options="no_bordure" mouse_pos="false" exit_key_pushed="t
 		checkbox_bitmap_pushed=""
 		checkbox_bitmap_over=""
 		background_bitmap_view=""
-		home="release.html"
+		home=""
 		browse_next_time="true"
 		form_text_area_group="edit_box_widget_multiline"
 	>
@@ -476,7 +476,7 @@ on_enter="leave_modal" options="no_bordure" mouse_pos="false" exit_key_pushed="t
 		checkbox_bitmap_pushed=""
 		checkbox_bitmap_over=""
 		background_bitmap_view=""
-		home="release.html"
+		home=""
 		browse_next_time="true"
 		form_text_area_group="edit_box_widget_multiline"
 	>

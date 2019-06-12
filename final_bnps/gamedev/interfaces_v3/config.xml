@@ -3030,6 +3030,12 @@ This MUST follow the Enum MISSION_DESC::TIconId
   <variable entry="UI:SAVE:CHAT:ENTER_DONT_QUIT_CB"
             type="bool"
             value="false" />
+  <variable entry="UI:SAVE:CHAT:SAVE_CHANNEL"
+            type="bool"
+            value="false" />
+  <variable entry="UI:SAVE:CHAT:AUTO_CHANNEL"
+            type="bool"
+            value="false" />
   <variable entry="UI:SAVE:CHAT:SHOW_TIMES_IN_CHAT_CB"
              type="bool"
              value="false" />

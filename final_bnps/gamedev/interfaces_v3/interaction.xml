@@ -965,8 +965,8 @@
           dynamic_string="true"
           onclick_r="set"
           params_r="dblink=UI:SAVE:ISDETACHED:DYNAMIC_CHAT#nb|value=1"
-          onclick_l="chat_group_filter"
-          params_l="dyn_chat#nb" />
+          onclick_l="lua"
+          params_l="game:chatWelcomeMsg(#nb)" />
     <link expr="and(and(ne(@SERVER:DYN_CHAT:CHANNEL#nb:NAME,0), @UI:SAVE:ISENABLED:DYNAMIC_CHAT#nb),
                     not(@UI:SAVE:ISDETACHED:DYNAMIC_CHAT#nb))"
           target="#id:active" />
@@ -1053,8 +1053,8 @@
                 hardtext="uitabChatAround"
                 onclick_r="set"
                 params_r="dblink=UI:SAVE:ISDETACHED:AROUND_ME|value=1"
-                onclick_l="chat_group_filter"
-                params_l="around"
+                onclick_l="lua"
+                params_l="game:chatWelcomeMsg()"
                 tooltip="uittChatAround"
                 tooltip_parent="win" />
           <ctrl style="tab_button_new"
@@ -1064,8 +1064,8 @@
                 hardtext="uitabChatRegion"
                 onclick_r="set"
                 params_r="dblink=UI:SAVE:ISDETACHED:REGION_CHAT|value=1"
-                onclick_l="chat_group_filter"
-                params_l="region"
+                onclick_l="lua"
+                params_l="game:chatWelcomeMsg()"
                 tooltip="uittChatRegion"
                 tooltip_parent="win" />
           <ctrl style="tab_button_new"
@@ -1098,8 +1098,8 @@
                 hardtext="uitabChatUniverse"
                 onclick_r="set"
                 params_r="dblink=UI:SAVE:ISDETACHED:UNIVERSE_CHAT|value=1"
-                onclick_l="chat_group_filter"
-                params_l="universe"
+                onclick_l="lua"
+                params_l="game:chatWelcomeMsg()"
                 tooltip="uittChatUniverse"
                 tooltip_parent="win" />
           <ctrl style="tab_button_new"
@@ -1415,11 +1415,11 @@
   </proc>
   <!-- When the universe chat is activated, we must display a warning the first time 
         Must do it on the variable manipulation, not when the window is shown (because it is always shown/hid at start of game)
--->
+
   <link expr="@UI:SAVE:ISDETACHED:UNIVERSE_CHAT"
         cond="eq(@UI:SAVE:ISDETACHED:UNIVERSE_CHAT,1)"
         action="set"
-        params="dblink=UI:VARIABLES:UNIVERSE_CHANEL_WARNING_WANTED|value=1" />
+        params="dblink=UI:VARIABLES:UNIVERSE_CHANEL_WARNING_WANTED|value=1" /> -->
   <!-- *************** -->
   <!-- * SYSTEM INFO * -->
   <!-- *************** -->
@@ -2012,6 +2012,9 @@
                 usergroup_l="chat_menu_button"
                 usergroup_params_l="chat_db=DYNAMIC_CHAT7" />
       </action>
+      <action id="save"
+              name="uimChanSave"
+              handler="lua:game:saveChannel(true)" />
     <separator />
   </group>
   <!-- User Chat menu. Code append entries for selecting chat source -->
