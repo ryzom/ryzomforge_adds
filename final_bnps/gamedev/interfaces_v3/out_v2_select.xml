@@ -65,6 +65,7 @@
 	<action handler="set" params="target_property=ui:outgame:charsel:char3d:cam:tgtz|value=2.0"/>
 
 	<action handler="lua:game:procCharselClickSlot()" />
+	<action handler="lua:game:procCharselKeySlot()" />
 	
 	<action handler="set" params="target_property=ui:outgame:charsel:3d_select:select_fx:started|value=1" />
 	<action handler="anim_start" params="anim=anim_sel_select_fx" />
@@ -188,6 +189,11 @@
 								value=switch(@0, 0, -153, -306, -459, -612)" />	
 								
 	<action handler="proc" params="proc_charsel_infos2" />
+</proc>
+
+<!-- When we select a slot with keyboard -->
+<proc id="proc_charsel_enterkeyslot">
+	<action handler="lua" params="game:eventCharselKeyEnter()" />
 </proc>
 
 <proc id="proc_charsel_play">
