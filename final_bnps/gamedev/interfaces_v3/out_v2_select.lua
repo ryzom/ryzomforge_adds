@@ -42,3 +42,19 @@ function game:procCharselClickSlot()
 	local value = getDbProp('UI:SELECTED_SLOT')
 	runAH(nil, "proc", "proc_charsel_clickslot|"..value)
 end
+
+function game:procCharselKeySlot()
+	setOnDraw(getUI("ui:outgame:charsel"), "game:eventCharselKeyGet()")
+end
+
+-- handled by c++
+function game:eventCharselKeyGet()
+	runAH(nil, "navigate_charsel", "cs="..getDbProp("UI:TEMP:CHARSELSLOT"))
+end
+
+function game:eventCharselKeyEnter()
+	if getUI("ui:outgame:charsel:create_new_but").active then
+		return runAH(nil, "proc", "proc_charsel_create_new")
+	end
+	outgame:launchGame()
+end
