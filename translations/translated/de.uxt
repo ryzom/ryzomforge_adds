@@ -22810,7 +22810,7 @@ uiFactionPoint_Zorai	[Zoraï]
 
 // HASH_VALUE 4FA1CC2240810F31
 // INDEX 5417
-uiFactionPointTable	[Fraktionspunkte]
+uiFactionPointTable	[Fraktions- & Nationspunkte]
 
 // HASH_VALUE CBB1283A3D91C009
 // INDEX 5418
@@ -25783,23 +25783,23 @@ uiR2EDBasicsPoints	[Allgemein]
 
 // HASH_VALUE 28D9906D28E6CC9B
 // INDEX 6115
-uiR2EDDesertPoints	[Wüstenkenntnis]
+uiR2EDDesertPoints	[Wüste]
 
 // HASH_VALUE E6E8548FED6BE0BD
 // INDEX 6116
-uiR2EDSubtropicPoints	[Seenlandkenntnis]
+uiR2EDSubtropicPoints	[Seenland]
 
 // HASH_VALUE AAE9E0712C26F49E
 // INDEX 6117
-uiR2EDForestPoints	[Waldlandkenntnis]
+uiR2EDForestPoints	[Waldland]
 
 // HASH_VALUE 6836DC6EECF49C90
 // INDEX 6118
-uiR2EDJunglePoints	[Dschungelkenntnis]
+uiR2EDJunglePoints	[Dschungel]
 
 // HASH_VALUE 52199848EDF6AF9D
 // INDEX 6119
-uiR2EDPrimeRootPoints	[Urwurzelkenntnis]
+uiR2EDPrimeRootPoints	[Urwurzel]
 
 // HASH_VALUE DA6F7B598594B31E
 // INDEX 6120
