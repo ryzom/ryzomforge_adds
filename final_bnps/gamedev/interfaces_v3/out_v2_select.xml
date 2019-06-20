@@ -419,6 +419,7 @@
 <link expr="depends(@UI:CURRENT_SCREEN,@UI:SERVER_RECEIVED_CHARS)" action="proc" params="proc_charsel_test" /> 
 
 <proc id="proc_charsel_delchar_confirm_cancel">
+	<action handler="set" params="dblink=UI:TEMP:CHARSELDELCHAR|value=0" />
 	<action handler="play_sound" params="name=charsel_delno_click" /> 
 	<action handler="leave_modal" params="" /> 
 	<action handler="anim_start" params="anim=anim_charsel_delout" />
