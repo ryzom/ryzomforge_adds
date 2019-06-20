@@ -3,8 +3,11 @@
 
 ------------------------------------------------------------------------------------------------------------
 -- create the game namespace without reseting if already created in an other file.
-if (outgame==nil) then
-	outgame= {};
+if outgame == nil then
+	outgame = {}
+	function outgame:pAh(arg)
+		runAH(nil, "proc", arg)
+	end
 end
 
 ------------------------------------------------------------------------------------------------------------
@@ -44,17 +47,71 @@ function game:procCharselClickSlot()
 end
 
 function game:procCharselKeySlot()
-	setOnDraw(getUI("ui:outgame:charsel"), "game:eventCharselKeyGet()")
+	setOnDraw(getUI("ui:outgame:charsel"), "outgame:eventCharselKeyGet()")
 end
 
--- handled by c++
-function game:eventCharselKeyGet()
-	runAH(nil, "navigate_charsel", "cs="..getDbProp("UI:TEMP:CHARSELSLOT"))
-end
-
-function game:eventCharselKeyEnter()
-	if getUI("ui:outgame:charsel:create_new_but").active then
-		return runAH(nil, "proc", "proc_charsel_create_new")
+function outgame:eventCharselKeyGet(event)
+	if not event then
+		return runAH(getUICaller(), "navigate_charsel", "")
 	end
-	outgame:launchGame()
+	local delchar = false
+	if getDbProp("UI:TEMP:CHARSELDELCHAR") > 0 then
+		delchar = true
+	end
+	local slot = getDbProp("UI:TEMP:CHARSELSLOT")
+	-- event:
+	if event > 2 then
+		if event == 4 then
+			-- up
+			if delchar then
+				return self:pAh("proc_charsel_delchar_confirm_over|0|1")
+			end
+			slot = slot - 1
+			if slot < 0 then
+				slot = 0
+			end
+		else
+			-- down
+			if delchar then
+				return self:pAh("proc_charsel_delchar_confirm_over|1|0")
+			end
+			slot = slot + 1
+			if slot > 4 then
+				slot = 4
+			end
+		end
+		return self:pAh("proc_charsel_clickslot|"..slot)
+	end
+	if event > 0 then
+		if event == 1 then
+			-- delete
+			if not delchar then
+				if getUI("ui:outgame:charsel:slot"..slot).active then
+					return self:pAh("proc_charsel_del")
+				end
+			end
+			-- goto create if non-existent
+		end
+		-- enter
+		if delchar then
+			local modal = getUI("ui:outgame:charsel_delchar_confirm")
+			if modal then
+				if modal:find("select_submit").active then
+					return self:pAh("proc_charsel_delchar_confirm_ok")
+				end
+				return self:pAh("proc_charsel_delchar_confirm_cancel")
+			end
+		else
+			if getUI("ui:outgame:charsel:create_new_but").active then
+				return self:pAh("proc_charsel_create_new")
+			end
+			outgame:launchGame()
+			return
+		end
+	end
+	-- escape
+	if delchar then
+		return self:pAh("proc_charsel_delchar_confirm_cancel")
+	end
+	self:pAh("proc_quit")
 end
