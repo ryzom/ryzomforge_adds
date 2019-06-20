@@ -65,7 +65,8 @@
 	<action handler="set" params="target_property=ui:outgame:charsel:char3d:cam:tgtz|value=2.0"/>
 
 	<action handler="lua:game:procCharselClickSlot()" />
-	<action handler="lua:game:procCharselKeySlot()" />
+	<!-- reset previous key events -->
+	<action handler="navigate_charsel" params="reset" />
 	
 	<action handler="set" params="target_property=ui:outgame:charsel:3d_select:select_fx:started|value=1" />
 	<action handler="anim_start" params="anim=anim_sel_select_fx" />
@@ -129,6 +130,8 @@
 <proc id="proc_charsel_initslot">
 	<action handler="proc" cond="not(isCharSelSlotEmpty(@0))" params="proc_charsel_initslot_full|@0" />
 	<action handler="proc" cond="isCharSelSlotEmpty(@0)" params="proc_charsel_initslot_empty|@0" />
+	<!-- capture key events -->
+	<action handler="lua:game:procCharselKeySlot()" />
 </proc>
 
 <proc id="proc_charsel_initslot_full">
@@ -189,11 +192,6 @@
 								value=switch(@0, 0, -153, -306, -459, -612)" />	
 								
 	<action handler="proc" params="proc_charsel_infos2" />
-</proc>
-
-<!-- When we select a slot with keyboard -->
-<proc id="proc_charsel_enterkeyslot">
-	<action handler="lua" params="game:eventCharselKeyEnter()" />
 </proc>
 
 <proc id="proc_charsel_play">
@@ -329,16 +327,25 @@
 	<view type="text" id="text" posref="TM TM" x="0" y="-60" color="255 255 255 255" global_color="false" line_maxw="284"
 		fontsize="17" shadow="true" hardtext="uiCharSel_DelChar" multi_line="true" multi_line_space="0"/>
 
+	<view type="bitmap" id="select_submit" posref="BR BR" x="-90" y="8" active="false" texture="opt_on_r_over.tga" global_color="false" />
+
 	<ctrl style="valid_txt_button" id="submit" posref="BR BR" x="-8" y="8" hardtext="uiCP_Delete_yes"
-					onover="play_sound" params_over="name=specie_but_over"
+					onover="proc" params_over="proc_charsel_delchar_confirm_over|1|0"
 					onclick_l="proc" params_l="proc_charsel_delchar_confirm_ok" />
 
+	<view type="bitmap" id="select_cancel" posref="TR BR" posparent="submit" x="-84" y="4" active="true" texture="opt_on_r_over.tga" global_color="false" />
+
 	<ctrl style="valid_txt_button" id="cancel" posref="TR BR" posparent="submit" x="0" y="4" hardtext="uiCP_Delete_no"
-					onover="play_sound" params_over="name=specie_but_over"
+					onover="proc" params_over="proc_charsel_delchar_confirm_over|0|1"
 					onclick_l="proc" params_l="proc_charsel_delchar_confirm_cancel" />
 
 </group>
 
+<proc id="proc_charsel_delchar_confirm_over">
+	<action handler="play_sound" params="name=specie_but_over" />
+	<action handler="set" params="target_property=ui:outgame:charsel_delchar_confirm:select_submit:active|value=@0" />
+	<action handler="set" params="target_property=ui:outgame:charsel_delchar_confirm:select_cancel:active|value=@1" />
+</proc>
 
 
 <!-- ********* -->
