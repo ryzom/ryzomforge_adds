@@ -10,9 +10,7 @@ if outgame == nil then
 	end
 end
 
-------------------------------------------------------------------------------------------------------------
--- 
-function game:openEditorMenu()
+function outgame:openEditorMenu()
 	if not isFullyPatched() then		
 		messageBoxWithHelp(i18n.get("uiBGD_FullPatchNeeded"), "ui:outgame");		
 		return
@@ -35,19 +33,23 @@ function game:openEditorMenu()
 	end
 end
 
-function game:openEditorMenuWarningNewScenario()
+--[[
+function outgame:openEditorMenuWarningNewScenario()
 	local menuName =  "ui:outgame:r2ed_editor_new_sceneario_warning"
 	local menu = getUI(menuName)
 	menu.active = true
-end
+end--]]
 
-function game:procCharselClickSlot()
+function outgame:procCharselClickSlot()
 	local value = getDbProp('UI:SELECTED_SLOT')
 	runAH(nil, "proc", "proc_charsel_clickslot|"..value)
 end
 
-function game:procCharselKeySlot()
-	setOnDraw(getUI("ui:outgame:charsel"), "outgame:eventCharselKeyGet()")
+function outgame:procCharselKeySlot()
+	local ui = getUI("ui:outgame:charsel")
+	if not getOnDraw(ui) then
+		setOnDraw(ui, "outgame:eventCharselKeyGet()")
+	end
 end
 
 function outgame:eventCharselKeyGet(event)

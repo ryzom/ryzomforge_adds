@@ -45,14 +45,13 @@
 
 <!-- When we reach the charsel page -->
 <proc id="proc_charsel_active">
-	<action handler="proc" params="proc_charsel_initslot|0" />
-	<action handler="proc" params="proc_charsel_initslot|1" />
-	<action handler="proc" params="proc_charsel_initslot|2" />
-	<action handler="proc" params="proc_charsel_initslot|3" />
-	<action handler="proc" params="proc_charsel_initslot|4" />
+	<!-- reset previous key events -->
+	<action handler="navigate_charsel" params="reset" />
 
 	<action handler="set" params="dblink=UI:TEMP:INFOS|value=-1" />
 	<action handler="set" params="dblink=UI:TEMP:INFOS|value=0" />
+
+	<action handler="proc" params="proc_charsel_initslot_all" />
 
 	<action handler="anim_start" params="anim=anim_charsel_intro" />
 
@@ -64,9 +63,7 @@
 	<action handler="set" params="target_property=ui:outgame:charsel:char3d:cam:tgty|value=26.5"/>
 	<action handler="set" params="target_property=ui:outgame:charsel:char3d:cam:tgtz|value=2.0"/>
 
-	<action handler="lua:game:procCharselClickSlot()" />
-	<!-- reset previous key events -->
-	<action handler="navigate_charsel" params="reset" />
+	<action handler="lua:outgame:procCharselClickSlot()" />
 	
 	<action handler="set" params="target_property=ui:outgame:charsel:3d_select:select_fx:started|value=1" />
 	<action handler="anim_start" params="anim=anim_sel_select_fx" />
@@ -93,7 +90,7 @@
 	<action handler="set" params="target_property=ui:outgame:charsel:infos_but:active|value=0"/>
 	-->
 	<action handler="set" params="target_property=ui:outgame:charsel:play_but:active|value=0"/>
-	<action handler="set" params="target_property=ui:outgame:charsel:edit_session_but:active|value=0"/>
+	<!-- <action handler="set" params="target_property=ui:outgame:charsel:edit_session_but:active|value=0"/> -->
 	<action handler="set" params="target_property=ui:outgame:charsel:del_but:active|value=0"/>
 	<action handler="set" params="target_property=ui:outgame:charsel:create_new_but:active|value=0"/>
 	<action handler="set" params="target_property=ui:outgame:charsel:resume_session_but:active|value=0"/>
@@ -112,7 +109,7 @@
 	<action handler="set" params="target_property=ui:outgame:charsel:infos_but:active|value=1"/>
 	-->
 	<action handler="set" params="target_property=ui:outgame:charsel:play_but:active|value=1"/>
-	<action handler="set" params="target_property=ui:outgame:charsel:edit_session_but:active|value=1"/>
+	<!-- <action handler="set" params="target_property=ui:outgame:charsel:edit_session_but:active|value=1"/> -->
 	<action handler="set" params="target_property=ui:outgame:charsel:del_but:active|value=1"/>
 	<action handler="set" params="target_property=ui:outgame:charsel:create_new_but:active|value=1"/>
 	<action handler="set" params="target_property=ui:outgame:charsel:resume_session_but:active|value=1"/>
@@ -130,8 +127,16 @@
 <proc id="proc_charsel_initslot">
 	<action handler="proc" cond="not(isCharSelSlotEmpty(@0))" params="proc_charsel_initslot_full|@0" />
 	<action handler="proc" cond="isCharSelSlotEmpty(@0)" params="proc_charsel_initslot_empty|@0" />
+</proc>
+
+<proc id="proc_charsel_initslot_all">
+	<action handler="proc" params="proc_charsel_initslot|0" />
+	<action handler="proc" params="proc_charsel_initslot|1" />
+	<action handler="proc" params="proc_charsel_initslot|2" />
+	<action handler="proc" params="proc_charsel_initslot|3" />
+	<action handler="proc" params="proc_charsel_initslot|4" />
 	<!-- capture key events -->
-	<action handler="lua:game:procCharselKeySlot()" />
+	<action handler="lua:outgame:procCharselKeySlot()" />
 </proc>
 
 <proc id="proc_charsel_initslot_full">
@@ -201,7 +206,7 @@
 
 <proc id="proc_charsel_edit_menu">	
 	<action handler="set" params="dblink=UI:TEMP:HAS_EDITSESSION|value=isCharSelSlotHasEditSession(@UI:TEMP:CHARSELSLOT)" />
-	<action handler="lua:game:openEditorMenu()" />
+	<action handler="lua:outgame:openEditorMenu()" />
 </proc>
 
 
@@ -217,7 +222,7 @@
 
 <proc id="proc_charsel_new_scenario_warning">
 	<action handler="enter_modal" params="group=ui:outgame:r2ed_editor_new_sceneario_warning" /> 
-	<!--	<action handler="lua:game:openEditorMenuWarningNewScenario()" /> -->
+	<!--	<action handler="lua:outgame:openEditorMenuWarningNewScenario()" /> -->
 </proc>
 
 <proc id="proc_charsel_new_scenario_warning_cancel">
@@ -413,7 +418,7 @@
 
 <proc id="proc_charsel_delchar_confirm_ok2">
 	<action handler="set" params="dblink=UI:TEMP:CHARSELDELCHAR|value=0" /> 
-	<action handler="anim_start" params="anim=anim_char_sel_delete" /> 
+	<!-- <action handler="anim_start" params="anim=anim_char_sel_delete" /> -->
 	<action handler="proc" params="proc_charsel_active" />
 </proc>
 
@@ -434,7 +439,8 @@
 
 
 <proc id="charsel_init_buttons">
-	<action handler="add_link" params="id=play_edit_session_del_init|expr=and(not(isCharSelSlotInRingSession(@UI:TEMP:CHARSELSLOT)), not(isCharSelSlotEmpty(@UI:TEMP:CHARSELSLOT))))|target=ui:outgame:charsel:play_but:active,ui:outgame:charsel:edit_session_but:active,ui:outgame:charsel:del_but:active" />
+	<!-- <action handler="add_link" params="id=play_edit_session_del_init|expr=and(not(isCharSelSlotInRingSession(@UI:TEMP:CHARSELSLOT)), not(isCharSelSlotEmpty(@UI:TEMP:CHARSELSLOT))))|target=ui:outgame:charsel:play_but:active,ui:outgame:charsel:edit_session_but:active,ui:outgame:charsel:del_but:active" /> -->
+	<action handler="add_link" params="id=play_edit_session_del_init|expr=and(not(isCharSelSlotInRingSession(@UI:TEMP:CHARSELSLOT)), not(isCharSelSlotEmpty(@UI:TEMP:CHARSELSLOT))))|target=ui:outgame:charsel:play_but:active,ui:outgame:charsel:del_but:active" />
 	<action handler="add_link" params="id=create_new_but_init|expr=isCharSelSlotEmpty(@UI:TEMP:CHARSELSLOT)|target=ui:outgame:charsel:create_new_but:active" />
 	<action handler="add_link" params="id=resume_session_but_init|expr=isCharSelSlotInRingSession(@UI:TEMP:CHARSELSLOT)|target=ui:outgame:charsel:resume_session_but:active,ui:outgame:charsel:in_ring_session:active" />
 	
@@ -602,7 +608,8 @@
 					onover="play_sound" params_over="name=specie_but_over"
 					onclick_l="proc" params_l="proc_charsel_del"/>
 
-	<link expr="and(not(isCharSelSlotInRingSession(@UI:TEMP:CHARSELSLOT)), not(isCharSelSlotEmpty(@UI:TEMP:CHARSELSLOT)))" target="play_but:active,edit_session_but:active,del_but:active" />
+	<!-- <link expr="and(not(isCharSelSlotInRingSession(@UI:TEMP:CHARSELSLOT)), not(isCharSelSlotEmpty(@UI:TEMP:CHARSELSLOT)))" target="play_but:active,edit_session_but:active,del_but:active" /> -->
+	<link expr="and(not(isCharSelSlotInRingSession(@UI:TEMP:CHARSELSLOT)), not(isCharSelSlotEmpty(@UI:TEMP:CHARSELSLOT)))" target="play_but:active,del_but:active" />
 
 
 	<ctrl style="valid_txt_button" id="create_new_but" posref="BR BM" x="-112" y="56" hardtext="uiCharSel_CreateNew"
