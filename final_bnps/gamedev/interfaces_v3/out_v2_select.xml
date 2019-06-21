@@ -45,14 +45,13 @@
 
 <!-- When we reach the charsel page -->
 <proc id="proc_charsel_active">
-	<action handler="proc" params="proc_charsel_initslot|0" />
-	<action handler="proc" params="proc_charsel_initslot|1" />
-	<action handler="proc" params="proc_charsel_initslot|2" />
-	<action handler="proc" params="proc_charsel_initslot|3" />
-	<action handler="proc" params="proc_charsel_initslot|4" />
+	<!-- reset previous key events -->
+	<action handler="navigate_charsel" params="reset" />
 
 	<action handler="set" params="dblink=UI:TEMP:INFOS|value=-1" />
 	<action handler="set" params="dblink=UI:TEMP:INFOS|value=0" />
+
+	<action handler="proc" params="proc_charsel_initslot_all" />
 
 	<action handler="anim_start" params="anim=anim_charsel_intro" />
 
@@ -65,8 +64,6 @@
 	<action handler="set" params="target_property=ui:outgame:charsel:char3d:cam:tgtz|value=2.0"/>
 
 	<action handler="lua:outgame:procCharselClickSlot()" />
-	<!-- reset previous key events -->
-	<action handler="navigate_charsel" params="reset" />
 	
 	<action handler="set" params="target_property=ui:outgame:charsel:3d_select:select_fx:started|value=1" />
 	<action handler="anim_start" params="anim=anim_sel_select_fx" />
@@ -130,6 +127,14 @@
 <proc id="proc_charsel_initslot">
 	<action handler="proc" cond="not(isCharSelSlotEmpty(@0))" params="proc_charsel_initslot_full|@0" />
 	<action handler="proc" cond="isCharSelSlotEmpty(@0)" params="proc_charsel_initslot_empty|@0" />
+</proc>
+
+<proc id="proc_charsel_initslot_all">
+	<action handler="proc" params="proc_charsel_initslot|0" />
+	<action handler="proc" params="proc_charsel_initslot|1" />
+	<action handler="proc" params="proc_charsel_initslot|2" />
+	<action handler="proc" params="proc_charsel_initslot|3" />
+	<action handler="proc" params="proc_charsel_initslot|4" />
 	<!-- capture key events -->
 	<action handler="lua:outgame:procCharselKeySlot()" />
 </proc>

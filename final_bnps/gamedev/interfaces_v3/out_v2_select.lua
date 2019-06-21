@@ -46,7 +46,10 @@ function outgame:procCharselClickSlot()
 end
 
 function outgame:procCharselKeySlot()
-	setOnDraw(getUI("ui:outgame:charsel"), "outgame:eventCharselKeyGet()")
+	local ui = getUI("ui:outgame:charsel")
+	if not getOnDraw(ui) then
+		setOnDraw(ui, "outgame:eventCharselKeyGet()")
+	end
 end
 
 function outgame:eventCharselKeyGet(event)
