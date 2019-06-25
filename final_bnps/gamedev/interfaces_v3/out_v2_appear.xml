@@ -1300,10 +1300,10 @@
 		onclick_l="open_url" params_l="cfg_ConditionsTermsURL" />
 		<!-- onclick_l="open_url" params_l="cfg_NamingPolicyURL" /> -->
 
+	<!-- onenter="proc" params="proc_appear_name_enter" -->
 	<group type="edit_box" id="eb" posparent="name_policy" posref="BM TM" x="0" y="-8"  w="300" h="52" render_layer="4" child_resize_h="true"
-									onenter="proc" params="proc_appear_name_enter"
 									onchange="proc" onchange_params="proc_appear_name_change"
-									prompt="" enter_loose_focus="true" reset_focus_on_hide="true"
+									prompt="" enter_loose_focus="false" reset_focus_on_hide="true"
 									max_chars_size="252" menu_r="" max_historic="" entry_type="alpha">
 
 		<instance template="job_border" id="bord" posref="MM MM" />

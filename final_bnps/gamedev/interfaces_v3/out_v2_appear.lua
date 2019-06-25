@@ -438,6 +438,11 @@ function outgame:eventCharcreateKeyGet(event)
 		else
 			setCaptureKeyboard(getUI("ui:outgame:appear_keyset:sv"))
 		end
+		if not getUI("ui:outgame:appear_name").active then
+			if getUI("ui:outgame:appear_infos1").active then
+				setCaptureKeyboard(getUI("ui:outgame:appear_infos1:sv"))
+			end
+		end
 		return runAH(getUICaller(), "navigate_outgame", "")
 	end
 	local modals = {
