@@ -430,9 +430,13 @@ function outgame:eventCharcreateKeyGet(event)
 		-- reset
 		if not getUI("ui:outgame:appear_mainland").active then
 			self.charcreate.shards = nil
+		else
+			setCaptureKeyboard(getUI("ui:outgame:appear_mainland:sv"))
 		end
 		if not getUI("ui:outgame:appear_keyset").active then
 			self.charcreate.keyset = nil
+		else
+			setCaptureKeyboard(getUI("ui:outgame:appear_keyset:sv"))
 		end
 		return runAH(getUICaller(), "navigate_charcreate", "")
 	end
@@ -484,7 +488,9 @@ function outgame:eventCharcreateKeyGet(event)
 						if id == "mainland" then
 							table.insert(self.charcreate.shards, element)
 						else
-							table.insert(self.charcreate.keyset, element)
+							if element:find("but") then
+								table.insert(self.charcreate.keyset, element)
+							end
 						end
 					end
 				end
