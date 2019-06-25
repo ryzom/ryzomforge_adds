@@ -46,7 +46,7 @@
 <!-- When we reach the charsel page -->
 <proc id="proc_charsel_active">
 	<!-- reset previous key events -->
-	<action handler="navigate_charsel" params="reset" />
+	<action handler="navigate_outgame" params="reset" />
 
 	<action handler="set" params="dblink=UI:TEMP:INFOS|value=-1" />
 	<action handler="set" params="dblink=UI:TEMP:INFOS|value=0" />

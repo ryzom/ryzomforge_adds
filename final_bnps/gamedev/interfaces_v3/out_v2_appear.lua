@@ -438,7 +438,7 @@ function outgame:eventCharcreateKeyGet(event)
 		else
 			setCaptureKeyboard(getUI("ui:outgame:appear_keyset:sv"))
 		end
-		return runAH(getUICaller(), "navigate_charcreate", "")
+		return runAH(getUICaller(), "navigate_outgame", "")
 	end
 	local modals = {
 		name = false,
@@ -654,7 +654,7 @@ function outgame:eventCharcreateKeyGet(event)
 			return self:pAh("proc_CP_menu|"..slot)
 		end
 	end
-	if event > 0 then
+	if event > 1 then
 		-- enter
 		if modals.infos then
 			return self:pAh("proc_charsel_infos")

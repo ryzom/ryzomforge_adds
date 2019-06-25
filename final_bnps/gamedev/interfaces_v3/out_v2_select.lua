@@ -54,7 +54,7 @@ end
 
 function outgame:eventCharselKeyGet(event)
 	if not event then
-		return runAH(getUICaller(), "navigate_charsel", "")
+		return runAH(getUICaller(), "navigate_outgame", "")
 	end
 	local delchar = false
 	if getDbProp("UI:TEMP:CHARSELDELCHAR") > 0 then

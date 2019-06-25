@@ -191,7 +191,7 @@
 	<action handler="anim_start" params="anim=anim_CP_intro" />
 
 	<!-- reset previous key events -->
-	<action handler="navigate_charcreate" params="reset" />
+	<action handler="navigate_outgame" params="reset" />
 
 	<action handler="proc" params="appear_enable_buttons" />
 
