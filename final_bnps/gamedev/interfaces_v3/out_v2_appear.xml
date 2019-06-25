@@ -53,7 +53,7 @@
 <!-- used for marauder names. -->
 <variable entry="UI:TEMP:NAME_SUB_RACE_FIRST_NAME"	type="sint64" value="1" />
 <variable entry="UI:TEMP:NAME_SUB_RACE_LAST_NAME"	type="sint64" value="1" />
-<!-- you will have to change the max value of the slider too, since it seam not working to set it using that var directly. -->
+<!-- you will have to change the max value of the slider too, since it seem not working to set it using that var directly. -->
 <variable entry="UI:TEMP:NAME_RACE_NB"				type="sint64" value="5" />
 <!-- We start at 1 not 0. -->
 <variable entry="UI:TEMP:NAME_SEX"					type="sint64" value="1" />
@@ -185,12 +185,13 @@
 </proc>
 
 
-
-
 <!-- INITIALISATION -->
 <proc id="proc_init_CP">
 
 	<action handler="anim_start" params="anim=anim_CP_intro" />
+
+	<!-- reset previous key events -->
+	<action handler="navigate_outgame" params="reset" />
 
 	<action handler="proc" params="appear_enable_buttons" />
 
@@ -247,13 +248,9 @@
 	<action handler="set" params="dblink=UI:TEMP:JOB_POINT1|value=0" />
 	<action handler="proc" params="proc_job_point1" />
 
-
-
 	<action handler="set" params="target_property=ui:outgame:appear:job_options:options:result:title2:hardtext|value='uiCP_Refugee'" />
 
 	<action handler="set"  params="target_property=ui:outgame:appear:job_options:selection:info1:hardtext|value='uiCP_JOB1'" />
-
-
 
 	<action handler="set" params="target_property=ui:outgame:appear:M1:pushed|value=1" />
 	<action handler="set" params="target_property=ui:outgame:appear:select_menu:y|value=2" />
@@ -319,6 +316,9 @@
 	<action handler="set" params="target_property=ui:outgame:appear:abort_but:active|value=1"/>
 
 	<action handler="set" params="target_property=ui:outgame:appear:quit_but:active|value=1"/>
+
+	<!-- capture key events -->
+	<action handler="lua:outgame:procCharcreate()" />
 </proc>
 
 
@@ -877,7 +877,8 @@
 
 	<action handler="set" cond="eq(@UI:TEMP:CP_MENU,4)" params="target_property=ui:outgame:appear:job_options:active|value=1" />
 	<action handler="anim_start" cond="eq(@UI:TEMP:CP_MENU,4)" params="anim=anim_job_on" />
-	<action handler="anim_start" cond="ne(@UI:TEMP:CP_MENU,4)" params="anim=anim_job_off" />
+	<!--<action handler="anim_start" cond="ne(@UI:TEMP:CP_MENU,4)" params="anim=anim_job_off" />-->
+	<action handler="set" cond="ne(@UI:TEMP:CP_MENU,4)" params="target_property=ui:outgame:appear:job_options:active|value=0" />
 
 	<action handler="proc" params="proc_appear_infos2" />
 
@@ -1210,8 +1211,7 @@
 
 <group type="modal" id="appear_keyset" posref="MM MM" w="500" h="320"
 					mouse_pos="false" escapable="false" exit_click_out="false"
-					on_active="init_keyset_list"
-					on_deactive="reset_keyset_list"
+					on_active="init_keyset_list" on_deactive="reset_keyset_list"
 					display="false"
 >
 
@@ -1220,27 +1220,40 @@
 	<view type="text" id="text" posref="TM TM" x="0" y="-66" color="255 255 255 255" global_color="false" fontsize="20" multi_line="true" multi_line_space="0"
 		line_maxw="400" shadow="true" hardtext="uiCP_Choose_Keyset" />
 
-	<!-- MAINLAND SELECTION -->
+	<!-- KEYSET SELECTION -->
 	<group id="keyset_list" posparent="text" posref="TM TM" y="-50" w="400" child_resize_h="true" max_sizeparent="parent" max_w="380" max_h="110"/>
 	<ctrl type="scroll" id="sv" posref="TR TR" x="-20" y="-116" w="16" tx_topright="scroll_t.tga"
-				tx_middle="scroll_m.tga" tx_bottomleft="scroll_b.tga" target="keyset_list" target_stepy="22" />
+				tx_middle="scroll_m.tga" tx_bottomleft="scroll_b.tga" target="keyset_list" target_stepy="32" keyboard="true" />
+
+	<view type="bitmap" id="select_submit" posref="BM BM" x="-52" y="8" active="true" texture="opt_on_r_over.tga" global_color="false" />
 
 	<ctrl style="valid_txt_button" id="submit" posref="BM BM" x="0" y="8" hardtext="uiCP_Keyset_Ok"
-					onover="play_sound" params_over="name=specie_but_over"
+					onover="proc" params_over="proc_appear_keyset_over|1|0"
 					onclick_l="proc" params_l="proc_appear_keyset_enter" />
 
+	<view type="bitmap" id="select_cancel" posref="TM BM" posparent="submit" x="-54" y="4" active="false" texture="opt_on_r_over.tga" global_color="false" />
+
 	<ctrl style="valid_txt_button" id="cancel" posref="TM BM" posparent="submit" x="0" y="4" hardtext="uiCP_Keyset_Cancel"
-					onover="play_sound" params_over="name=specie_but_over"
+					onover="proc" params_over="proc_appear_keyset_over|0|1"
 					onclick_l="proc" params_l="proc_appear_keyset_cancel" />
 
 </group>
+
+<proc id="proc_appear_keyset_register">
+	<action handler="keyset_select" params="@0" />
+</proc>
+
+<proc id="proc_appear_keyset_over">
+	<action handler="play_sound" params="name=specie_but_over" />
+	<action handler="set" params="target_property=ui:outgame:appear_keyset:select_submit:active|value=@0" />
+	<action handler="set" params="target_property=ui:outgame:appear_keyset:select_cancel:active|value=@1" />
+</proc>
 
 <proc id="proc_appear_keyset_enter">
 	<action handler="reset_keyboard_focus" />
 	<action handler="play_sound" params="name=summary_enter_name" />
 	<action handler="enter_modal" params="group=ui:outgame:appear_name" />
 </proc>
-
 
 <proc id="proc_appear_keyset_cancel">
 	<action handler="leave_modal" />
@@ -1287,10 +1300,10 @@
 		onclick_l="open_url" params_l="cfg_ConditionsTermsURL" />
 		<!-- onclick_l="open_url" params_l="cfg_NamingPolicyURL" /> -->
 
+	<!-- onenter="proc" params="proc_appear_name_enter" -->
 	<group type="edit_box" id="eb" posparent="name_policy" posref="BM TM" x="0" y="-8"  w="300" h="52" render_layer="4" child_resize_h="true"
-									onenter="proc" params="proc_appear_name_enter"
 									onchange="proc" onchange_params="proc_appear_name_change"
-									prompt="" enter_loose_focus="true" reset_focus_on_hide="true"
+									prompt="" enter_loose_focus="false" reset_focus_on_hide="true"
 									max_chars_size="252" menu_r="" max_historic="" entry_type="alpha">
 
 		<instance template="job_border" id="bord" posref="MM MM" />
@@ -1300,12 +1313,16 @@
 
 	<view type="text" id="invalid" posref="TM TM" posparent="eb" x="0" y="20" color="255 255 96 255" global_color="false" fontsize="15" shadow="true" hardtext="uiCP_Name_Invalid" />
 
+	<view type="bitmap" id="select_submit" posref="BM BM" x="-65" y="15" active="true" texture="opt_on_r_over.tga" global_color="false" />
+
 	<ctrl style="valid_txt_button" id="submit" posref="BM BM" x="0" y="15" hardtext="uiCP_Name_Submit"
-					onover="play_sound" params_over="name=specie_but_over"
+					onover="proc" params_over="proc_appear_name_over|1|0|0"
 					onclick_l="proc" params_l="proc_appear_name_enter" />
 
+	<view type="bitmap" id="select_cancel" posref="TM BM" posparent="submit" x="-65" y="4" active="false" texture="opt_on_r_over.tga" global_color="false" />
+
 	<ctrl style="valid_txt_button" id="cancel" posref="TM BM" posparent="submit" x="0" y="4" hardtext="uiCP_Name_Cancel"
-					onover="play_sound" params_over="name=specie_but_over"
+					onover="proc" params_over="proc_appear_name_over|0|1|0"
 					onclick_l="proc" params_l="proc_appear_name_cancel" />
 
 	<!-- Name Generator -->
@@ -1417,12 +1434,21 @@
 				onscroll="proc" params="proc_appear_name_sex_label_change" />
 		</group>
 
+		<view type="bitmap" id="select_generate" posref="BM BM" posparent="name_race_slider" x="-65" y="-100" active="false" texture="opt_on_r_over.tga" global_color="false" />
+
 		<ctrl style="valid_txt_button" id="generate" posref="BM BM" posparent="name_race_slider" x="0" y="-100" hardtext="uiCP_Name_Generate"
-			onover="play_sound" params_over="name=specie_but_over"
+			onover="proc" params_over="proc_appear_name_over|0|0|1"
 			onclick_l="proc" params_l="proc_appear_name_generate" />
 
 	<!-- End Name Generator -->
 </group>
+
+<proc id="proc_appear_name_over">
+	<action handler="play_sound" params="name=specie_but_over" />
+	<action handler="set" params="target_property=ui:outgame:appear_name:select_submit:active|value=@0" />
+	<action handler="set" params="target_property=ui:outgame:appear_name:select_cancel:active|value=@1" />
+	<action handler="set" params="target_property=ui:outgame:appear_name:select_generate:active|value=@2" />
+</proc>
 
 
 <!-- ******************* -->
@@ -1444,8 +1470,7 @@
 
 <group type="modal" id="appear_mainland" posref="MM MM" w="450" h="260"
 					mouse_pos="false" escapable="false" exit_click_out="false"
-					on_active="init_mainland_list"
-					on_deactive="reset_mainland_list"
+					on_active="init_mainland_list" on_deactive="reset_mainland_list"
  display="false"
 >
 
@@ -1457,17 +1482,31 @@
 	<!-- MAINLAND SELECTION -->
 	<group id="mainland_list" posparent="text" posref="TM TM" y="-30" w="400" child_resize_h="true" max_sizeparent="parent" max_w="380" max_h="88"/>
 	<ctrl type="scroll" id="sv" posref="TR TR" x="-20" y="-96" w="16" tx_topright="scroll_t.tga"
-				tx_middle="scroll_m.tga" tx_bottomleft="scroll_b.tga" target="mainland_list" target_stepy="22" />
+				tx_middle="scroll_m.tga" tx_bottomleft="scroll_b.tga" target="mainland_list" vertical="true" target_stepy="32" keyboard="true" />
+
+	<view type="bitmap" id="select_submit" posref="BM BM" x="-52" y="8" active="true" texture="opt_on_r_over.tga" global_color="false" />
 
 	<ctrl style="valid_txt_button" id="submit" posref="BM BM" x="0" y="8" hardtext="uiCP_Mainland_Ok"
-					onover="play_sound" params_over="name=specie_but_over"
+					onover="proc" params_over="proc_appear_mainland_over|1|0"
 					onclick_l="proc" params_l="proc_appear_mainland_enter" />
 
+	<view type="bitmap" id="select_cancel" posref="TM BM" posparent="submit" x="-54" y="4" active="false" texture="opt_on_r_over.tga" global_color="false" />
+
 	<ctrl style="valid_txt_button" id="cancel" posref="TM BM" posparent="submit" x="0" y="4" hardtext="uiCP_Mainland_Cancel"
-					onover="play_sound" params_over="name=specie_but_over"
+					onover="proc" params_over="proc_appear_mainland_over|0|1"
 					onclick_l="proc" params_l="proc_appear_mainland_cancel" />
 
 </group>
+
+<proc id="proc_appear_mainland_register">
+	<action handler="mainland_select" params="@0" />
+</proc>
+
+<proc id="proc_appear_mainland_over">
+	<action handler="play_sound" params="name=specie_but_over" />
+	<action handler="set" params="target_property=ui:outgame:appear_mainland:select_submit:active|value=@0" />
+	<action handler="set" params="target_property=ui:outgame:appear_mainland:select_cancel:active|value=@1" />
+</proc>
 
 <proc id="proc_appear_mainland_enter">
 	<action handler="reset_keyboard_focus" />
@@ -1504,9 +1543,7 @@
 <!-- ********* -->
 
 <group type="modal" id="appear_abort" posref="MM MM" w="300" h="180"
-					mouse_pos="false" escapable="false" exit_click_out="false"
- display="false"
->
+					mouse_pos="false" escapable="false" exit_click_out="false" display="false">
 
 
 	<instance template="outgame_popup" id="back" posref="TL TL" />
@@ -1515,16 +1552,25 @@
 	<view type="text" id="text" posref="TM TM" x="0" y="-60" color="255 255 255 255" global_color="false" line_maxw="284"
 		fontsize="17" shadow="true" hardtext="uiCP_Abort2" multi_line="true" multi_line_space="0"/>
 
+	<view type="bitmap" id="select_submit" posref="BR BR" x="-110" y="8" active="false" texture="opt_on_r_over.tga" global_color="false" />
+
 	<ctrl style="valid_txt_button" id="submit" posref="BR BR" x="-8" y="8" hardtext="uiCP_Abort_yes"
-					onover="play_sound" params_over="name=specie_but_over"
+					onover="proc" params_over="proc_appear_abort_confirm_over|1|0"
 					onclick_l="proc" params_l="proc_appear_abort_continue" />
 
+	<view type="bitmap" id="select_cancel" posref="TR BR" posparent="submit" x="-84" y="4" active="true" texture="opt_on_r_over.tga" global_color="false" />
+
 	<ctrl style="valid_txt_button" id="cancel" posref="TR BR" posparent="submit" x="0" y="4" hardtext="uiCP_Abort_no"
-					onover="play_sound" params_over="name=specie_but_over"
+					onover="proc" params_over="proc_appear_abort_confirm_over|0|1"
 					onclick_l="proc" params_l="proc_appear_abort_cancel" />
 
 </group>
 
+<proc id="proc_appear_abort_confirm_over">
+	<action handler="play_sound" params="name=specie_but_over" />
+	<action handler="set" params="target_property=ui:outgame:appear_abort:select_submit:active|value=@0" />
+	<action handler="set" params="target_property=ui:outgame:appear_abort:select_cancel:active|value=@1" />
+</proc>
 
 <proc id="proc_appear_name_active">
 	<action handler="set" params="target_property=ui:outgame:appear_name:invalid:active|value=0" />
@@ -1758,7 +1804,7 @@
 	</group>
 
 	<ctrl type="scroll" id="sv" posref="TR TR" x="-40" y="-98" w="16" tx_topright="scroll_t.tga"
-				tx_middle="scroll_m.tga" tx_bottomleft="scroll_b.tga" target="desc" target_stepy="17" />
+				tx_middle="scroll_m.tga" tx_bottomleft="scroll_b.tga" target="desc" target_stepy="42" keyboard="true" />
 
 	<ctrl style="valid_txt_button" id="quit_but" posref="BM BM" y="44" hardtext="uiInfos_Close"
 					onover="play_sound" params_over="name=specie_but_over"

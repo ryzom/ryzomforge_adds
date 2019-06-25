@@ -54,7 +54,7 @@ end
 
 function outgame:eventCharselKeyGet(event)
 	if not event then
-		return runAH(getUICaller(), "navigate_charsel", "")
+		return runAH(getUICaller(), "navigate_outgame", "")
 	end
 	local delchar = false
 	if getDbProp("UI:TEMP:CHARSELDELCHAR") > 0 then
@@ -68,19 +68,13 @@ function outgame:eventCharselKeyGet(event)
 			if delchar then
 				return self:pAh("proc_charsel_delchar_confirm_over|0|1")
 			end
-			slot = slot - 1
-			if slot < 0 then
-				slot = 0
-			end
+			if slot <= 0 then slot = 0 else slot = slot - 1 end
 		else
 			-- down
 			if delchar then
 				return self:pAh("proc_charsel_delchar_confirm_over|1|0")
 			end
-			slot = slot + 1
-			if slot > 4 then
-				slot = 4
-			end
+			if slot >= 4 then slot = 4 else slot = slot + 1 end
 		end
 		return self:pAh("proc_charsel_clickslot|"..slot)
 	end
