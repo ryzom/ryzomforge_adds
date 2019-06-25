@@ -410,7 +410,6 @@
 </proc>
 
 <proc id="proc_charsel_delchar_confirm_ok">
-	<action handler="anim_start" params="anim=anim_charsel_delin2" />
 	<action handler="play_sound" params="name=charsel_delok_click" /> 
 	<action handler="leave_modal" params="" /> 
 	<action handler="ask_delete_char" params="slot=@UI:TEMP:CHARSELSLOT" /> 
@@ -418,8 +417,8 @@
 
 <proc id="proc_charsel_delchar_confirm_ok2">
 	<action handler="set" params="dblink=UI:TEMP:CHARSELDELCHAR|value=0" /> 
-	<!-- <action handler="anim_start" params="anim=anim_char_sel_delete" /> -->
-	<action handler="proc" params="proc_charsel_active" />
+	<action handler="anim_start" params="anim=anim_charsel_delin2" />
+	<!-- <action handler="proc" params="proc_charsel_active" /> -->
 </proc>
 
 <proc id="proc_charsel_test">
@@ -859,7 +858,7 @@
 	</track>
 </anim>
 
-<anim id="anim_charsel_delin2" duration="1.0"  disable_buttons="true" on_finish="" on_finish_params="" >
+<anim id="anim_charsel_delin2" duration="1.0"  disable_buttons="true" on_finish="proc" on_finish_params="proc_charsel_active" >
 	<track type="linear" target="charsel:black_screen:alpha" >
 		<key time="0.0" value="128" />
 		<key time="1.0" value="255" />
