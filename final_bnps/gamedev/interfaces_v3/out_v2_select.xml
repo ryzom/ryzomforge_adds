@@ -36,8 +36,7 @@
 <variable entry="UI:TEMP:CHAR3DZORAI:PEOPLE" 	type="sint64" value="3" />
 
 <variable entry="UI:TEMP:INFOS"					type="sint64" value="-1"/>
-<variable entry="UI:TEMP:HAS_EDITSESSION" type="sint64" value="0" />
-
+<variable entry="UI:TEMP:HAS_EDITSESSION" 		type="sint64" value="0" />
 
 <!-- ***************** -->
 <!-- *   PROCEDURES  * -->
@@ -50,6 +49,8 @@
 
 	<action handler="set" params="dblink=UI:TEMP:INFOS|value=-1" />
 	<action handler="set" params="dblink=UI:TEMP:INFOS|value=0" />
+
+	<action handler="set" params="dblink=UI:TEMP:IMPORT|value=0" />
 
 	<action handler="proc" params="proc_charsel_initslot_all" />
 
@@ -94,7 +95,6 @@
 	<action handler="set" params="target_property=ui:outgame:charsel:del_but:active|value=0"/>
 	<action handler="set" params="target_property=ui:outgame:charsel:create_new_but:active|value=0"/>
 	<action handler="set" params="target_property=ui:outgame:charsel:resume_session_but:active|value=0"/>
-	
 	<action handler="set" params="target_property=ui:outgame:charsel:quit_but:active|value=0"/>
 </proc>
 
@@ -240,6 +240,7 @@
 </proc>
 
 <proc id="proc_charsel_create_new">
+	<action handler="leave_modal" cond="eq(@UI:TEMP:IMPORT,1)" />
 	<action handler="anim_start" params="anim=anim_charsel_outro_new" />
 </proc>
 <proc id="proc_charsel_create_new2">
@@ -683,8 +684,36 @@
 				color="255 255 255 255" col_pushed="255 255 255 255" col_over="0 0 0 0"
 				onover="play_sound" params_over="name=specie_but_over"
 				onclick_l="proc" params_l="proc_quit"/>
-		
-	
+
+	<!-- Import Export buttons -->
+	<ctrl type="button" id="export_but" button_type="push_button" posref="TR TR" x="0" y="-52"  
+				tx_normal="draft_export.tga" tx_pushed="" tx_over="draft_export.tga"
+				color="255 255 255 255" col_pushed="255 255 255 255" col_over="0 0 0 0"
+				onover="play_sound" params_over="name=specie_but_over"
+				onclick_l="proc" params_l="proc_charsel_export"
+				active="false" />
+
+	<link expr="not(isCharSelSlotEmpty(@UI:TEMP:CHARSELSLOT))" target="export_but:active" />
+
+	<ctrl type="button" id="import_but" button_type="push_button" posref="TR TR" x="0" y="-52"  
+				tx_normal="draft_import.tga" tx_pushed="" tx_over="draft_import.tga"
+				color="255 255 255 255" col_pushed="255 255 255 255" col_over="0 0 0 0"
+				onover="play_sound" params_over="name=specie_but_over"
+				onclick_l="proc" params_l="proc_charsel_import"
+				active="false" />
+
+	<link expr="isCharSelSlotEmpty(@UI:TEMP:CHARSELSLOT)" target="import_but:active" />
+
+	<!-- Notification (log) -->
+	<group id="log" child_resize_w="true" child_resize_wmargin="24" h="192" posref="TR TR" x="-10" y="256">
+		<group id="sub" sizeref="wh" posref="TL TL" w="0" h="-152" x="8" y="-90" >
+			<instance template="outgame_black_back" id="back" />
+		</group>
+
+		<view type="text" id="text" posref="TL TL" x="22" y="-100" color="255 255 255 255" global_color="false" line_maxw="284"
+				fontsize="14" shadow="true" hardtext="" multi_line="false" multi_line_space="0"/>
+	</group>
+
 	<!-- BLACK SCREEN FADE -->
 	<view type="bitmap" id="black_screen" posref="TL TL" x="0" y="0" render_layer="4" texture="blank.tga"
 		color="0 0 0 255" sizeref="wh" scale="true" global_color="false" />
@@ -750,6 +779,77 @@
 	</group>
 
 </group>
+
+<!-- Character import template -->
+<template name="t_import" id="" posref="TL TL" posparent="parent" keep="true" >
+	<group id="#id" sizeparent="parent" sizeref="w" w="0" h="22" x="0" y="0" posref="#posref" posparent="#posparent" >
+
+		<view type="text" id="name" x="0" posref="BL BL" fontsize="14" line_maxw="300" over_extend_view_text="true" y="1" color="255 255 255 255" shadow="true" />
+
+		<ctrl type="button" button_type="toggle_button" id="but" sizeref="h" h="0" w="315" scale="true" posref="TL TL"
+			texture="blank.tga" tx_pushed="blank.tga" tx_over="blank.tga" color="0 0 0 0" col_pushed="75 144 29 192" col_over="96 117 24 128"
+			onclick_l="import_char_select" params_l="" />
+	</group>
+</template>
+
+<!-- Character import modal -->
+<group type="modal" id="charsel_import" posref="MM MM" w="450" h="260"
+		mouse_pos="false" escapable="false" exit_click_out="false"
+		on_active="import_char_init" on_deactive="import_char_reset"
+		display="false" x="100">
+
+	<instance template="outgame_popup" id="back" posref="TL TL" />
+
+	<view type="text" id="text" posref="TM TM" x="0" y="-66" color="255 255 255 255" global_color="false" fontsize="20" multi_line="true" multi_line_space="0"
+		line_maxw="312" shadow="true" hardtext="uiCP_Choose_Import" />
+
+	<!-- IMPORT SELECTION -->
+	<group id="import_list" posparent="text" posref="TM TM" y="-40" w="400" child_resize_h="true" max_sizeparent="parent" max_w="380" max_h="72"/>
+	<ctrl type="scroll" id="sv" posref="TR TR" x="-20" y="-96" w="16" tx_topright="scroll_t.tga"
+				tx_middle="scroll_m.tga" tx_bottomleft="scroll_b.tga" target="import_list" vertical="true" target_stepy="32" keyboard="true" />
+
+	<view type="bitmap" id="select_submit" posref="BM BM" x="-52" y="8" active="true" texture="opt_on_r_over.tga" global_color="false" />
+
+	<ctrl style="valid_txt_button" id="submit" posref="BM BM" x="0" y="8" hardtext="uiCP_Import_Ok"
+					onover="proc" params_over="proc_charsel_import_over|1|0"
+					onclick_l="proc" params_l="proc_charsel_import_enter" />
+
+	<view type="bitmap" id="select_cancel" posref="TM BM" posparent="submit" x="-54" y="4" active="false" texture="opt_on_r_over.tga" global_color="false" />
+
+	<ctrl style="valid_txt_button" id="cancel" posref="TM BM" posparent="submit" x="0" y="4" hardtext="uiCP_Import_Cancel"
+					onover="proc" params_over="proc_charsel_import_over|0|1"
+					onclick_l="proc" params_l="proc_charsel_import_cancel" />
+</group>
+
+<proc id="proc_charsel_export">
+	<action handler="play_sound" params="name=generic_next_click" />
+	<action handler="lua" params="outgame:procCharselExport()" />
+</proc>
+
+<proc id="proc_charsel_import">
+	<action handler="play_sound" params="name=generic_next_click" />
+	<action handler="anim_start" params="anim=anim_import" />
+</proc>
+
+<proc id="proc_charsel_import_over">
+	<action handler="play_sound" params="name=specie_but_over" />
+	<action handler="set" params="target_property=ui:outgame:charsel_import:select_submit:active|value=@0" />
+	<action handler="set" params="target_property=ui:outgame:charsel_import:select_cancel:active|value=@1" />
+</proc>
+
+<proc id="proc_charsel_import_enter">
+	<!-- in procedure for keyboard support -->
+	<action handler="import_char" />
+</proc>
+
+<proc id="proc_charsel_import_cancel">
+	<action handler="leave_modal" />
+	<action handler="anim_start" params="anim=anim_import_cancel" />
+</proc>
+
+<proc id="proc_charsel_notification">
+	<action handler="anim_start" params="anim=anim_log_on" />
+</proc>
 
 <!--
 <template name="r2ed_editor_menu_button" id="but" bitmap="brick_default.tga" keep="true" size="24">
@@ -899,6 +999,33 @@
 	
 </anim>
 
+<anim id="anim_import" duration="0.5"  disable_buttons="true" on_finish="enter_modal" on_finish_params="group=ui:outgame:charsel_import" >
+	<track type="linear" target="charsel:black_screen:alpha" >
+		<key time="0.0" value="0" />
+		<key time="0.5" value="128" />
+	</track>
+</anim>
+
+<anim id="anim_import_cancel" duration="1.0"  disable_buttons="true" on_finish="" on_finish_params="" >
+	<track type="linear" target="charsel:black_screen:alpha" >
+		<key time="0.0" value="128" />
+		<key time="1.0" value="0" />
+	</track>
+</anim>
+
+<anim id="anim_log_on" duration="2.5"  disable_buttons="false" on_finish="anim_start" on_finish_params="anim=anim_log_off" >
+	<track type="tcb" target="charsel:log:y" dynamic="true" >
+		<key time="0.0" value="getprop('ui:outgame:charsel:log:y')" 		tension="1.0" easefrom="0" />
+		<key time="1.0" value="10" 											tension="2.5" easeto="1" />
+	</track>
+</anim>
+
+<anim id="anim_log_off" duration="0.7"  disable_buttons="false" on_finish="" on_finish_params="" >
+	<track type="tcb" target="charsel:log:y" dynamic="true" >
+		<key time="0.0" value="getprop('ui:outgame:charsel:log:y')" 		tension="1.0" easefrom="0"/>
+		<key time="1.0" value="256" 											tension="1.0" easeto="1"/>
+	</track>
+</anim>
 
 <proc id="proc_browse_faq" >
 	<!--

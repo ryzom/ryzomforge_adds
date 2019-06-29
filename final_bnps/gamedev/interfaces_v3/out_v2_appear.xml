@@ -26,8 +26,6 @@
 
 <variable entry="UI:TEMP:CHAR3D:DEST" type="sint64" value="-1"/>
 
-
-
 <variable entry="UI:TEMP:PANOPLY"					type="sint64" value="0"/>
 <variable entry="UI:TEMP:PANOPLYCOLOR"				type="sint64" value="0"/>
 
@@ -218,7 +216,9 @@
 	<action handler="proc" cond="eq(@UI:TEMP:CHAR3D:PEOPLE,2)" params="import_tryker" />
 	<action handler="proc" cond="eq(@UI:TEMP:CHAR3D:PEOPLE,3)" params="import_zorai" />
 
-	<action handler="proc" params="CP_init_character" />
+	<action handler="proc" cond="eq(@UI:TEMP:IMPORT,0)" params="CP_init_character" />
+	<action handler="proc" cond="eq(@UI:TEMP:IMPORT,1)" params="CP_init_character_imported" />
+
 	<action handler="proc" params="CP_init_Main_3D_scene" />
 	<action handler="proc" params="CP_duplicate_character" />
 	<action handler="proc" params="CP_init_Menus_3D_scene" />
@@ -443,6 +443,11 @@
 	<action handler="anim_start" cond="eq(@UI:TEMP:ANIM,1)" params="anim=anim_CP_cam_rotate" />
 </proc>
 
+
+<!-- Init Imported Character -->
+<proc id="CP_init_character_imported">
+	<action handler="proc" params="proc_change_haircut_reverted" />
+</proc>
 
 <!-- Init Character -->
 <proc id="CP_init_character">
@@ -1138,6 +1143,14 @@
 	<action handler="proc" params="CP_duplicate_character" />
 </proc>
 
+<proc id="proc_change_haircut_reverted">
+	<action handler="proc" params="proc_change_haircut_fy_reverted" cond="eq(@UI:TEMP:CHAR3D:PEOPLE,0)" />
+	<action handler="proc" params="proc_change_haircut_ma_reverted" cond="eq(@UI:TEMP:CHAR3D:PEOPLE,1)" />
+	<action handler="proc" params="proc_change_haircut_tr_reverted" cond="eq(@UI:TEMP:CHAR3D:PEOPLE,2)" />
+	<action handler="proc" params="proc_change_haircut_zo_reverted" cond="eq(@UI:TEMP:CHAR3D:PEOPLE,3)" />
+	<action handler="proc" params="CP_duplicate_character" />
+</proc>
+
 <proc id="proc_change_haircut_fy">
 	<action handler="set" cond="eq(@UI:TEMP:HAIRCUT,0)" params="dblink=UI:TEMP:CHAR3D:VPA:HATMODEL|value=getVSIndex('fy_cheveux_shave01.sitem','HEAD')" />
 	<action handler="set" cond="eq(@UI:TEMP:HAIRCUT,1)" params="dblink=UI:TEMP:CHAR3D:VPA:HATMODEL|value=getVSIndex('fy_cheveux_short01.sitem','HEAD')" />
@@ -1146,6 +1159,16 @@
 	<action handler="set" cond="eq(@UI:TEMP:HAIRCUT,4)" params="dblink=UI:TEMP:CHAR3D:VPA:HATMODEL|value=getVSIndex('fy_cheveux_medium02.sitem','HEAD')" />
 	<action handler="set" cond="eq(@UI:TEMP:HAIRCUT,5)" params="dblink=UI:TEMP:CHAR3D:VPA:HATMODEL|value=getVSIndex('fy_cheveux_medium03.sitem','HEAD')" />
 	<action handler="set" cond="eq(@UI:TEMP:HAIRCUT,6)" params="dblink=UI:TEMP:CHAR3D:VPA:HATMODEL|value=getVSIndex('fy_cheveux_long01.sitem','HEAD')" />
+</proc>
+
+<proc id="proc_change_haircut_fy_reverted">
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('fy_cheveux_shave01.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=0" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('fy_cheveux_short01.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=1" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('fy_cheveux_short02.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=2" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('fy_cheveux_medium01.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=3" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('fy_cheveux_medium02.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=4" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('fy_cheveux_medium03.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=5" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('fy_cheveux_long01.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=6" />
 </proc>
 
 <proc id="proc_change_haircut_ma">
@@ -1158,6 +1181,16 @@
 	<action handler="set" cond="eq(@UI:TEMP:HAIRCUT,6)" params="dblink=UI:TEMP:CHAR3D:VPA:HATMODEL|value=getVSIndex('ma_cheveux_long02.sitem','HEAD')" />
 </proc>
 
+<proc id="proc_change_haircut_ma_reverted">
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('ma_cheveux_shave01.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=0" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('ma_cheveux_short01.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=1" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('ma_cheveux_short02.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=2" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('ma_cheveux_medium01.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=3" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('ma_cheveux_medium02.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=4" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('ma_cheveux_long01.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=5" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('ma_cheveux_long02.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=6" />
+</proc>
+
 <proc id="proc_change_haircut_tr">
 	<action handler="set" cond="eq(@UI:TEMP:HAIRCUT,0)" params="dblink=UI:TEMP:CHAR3D:VPA:HATMODEL|value=getVSIndex('tr_cheveux_shave01.sitem','HEAD')" />
 	<action handler="set" cond="eq(@UI:TEMP:HAIRCUT,1)" params="dblink=UI:TEMP:CHAR3D:VPA:HATMODEL|value=getVSIndex('tr_cheveux_short01.sitem','HEAD')" />
@@ -1166,6 +1199,16 @@
 	<action handler="set" cond="eq(@UI:TEMP:HAIRCUT,4)" params="dblink=UI:TEMP:CHAR3D:VPA:HATMODEL|value=getVSIndex('tr_cheveux_medium01.sitem','HEAD')" />
 	<action handler="set" cond="eq(@UI:TEMP:HAIRCUT,5)" params="dblink=UI:TEMP:CHAR3D:VPA:HATMODEL|value=getVSIndex('tr_cheveux_medium02.sitem','HEAD')" />
 	<action handler="set" cond="eq(@UI:TEMP:HAIRCUT,6)" params="dblink=UI:TEMP:CHAR3D:VPA:HATMODEL|value=getVSIndex('tr_cheveux_long01.sitem','HEAD')" />
+</proc>
+
+<proc id="proc_change_haircut_tr_reverted">
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('tr_cheveux_shave01.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=0" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('tr_cheveux_short01.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=1" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('tr_cheveux_short02.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=2" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('tr_cheveux_short03.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=3" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('tr_cheveux_medium01.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=4" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('tr_cheveux_medium02.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=5" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('tr_cheveux_long01.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=6" />
 </proc>
 
 <proc id="proc_change_haircut_zo">
@@ -1178,7 +1221,15 @@
 	<action handler="set" cond="eq(@UI:TEMP:HAIRCUT,6)" params="dblink=UI:TEMP:CHAR3D:VPA:HATMODEL|value=getVSIndex('zo_cheveux_long02.sitem','HEAD')" />
 </proc>
 
-
+<proc id="proc_change_haircut_zo_reverted">
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('zo_cheveux_shave01.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=0" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('zo_cheveux_short01.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=1" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('zo_cheveux_medium01.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=2" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('zo_cheveux_medium02.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=3" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('zo_cheveux_medium03.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=4" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('zo_cheveux_long01.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=5" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('zo_cheveux_long02.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=6" />
+</proc>
 
 <!-- ***************** -->
 <!-- * CHOOSE KEYSET * -->
@@ -2332,8 +2383,8 @@
 	<link expr="depends(@UI:TEMP:CHAR3D:VPC:EYESCOLOR)"		action="proc" params="CP_duplicate_character" />
 	<link expr="depends(@UI:TEMP:CHAR3D:VPA:HATCOLOR)"		action="proc" params="CP_duplicate_character" />
 	<link expr="depends(@UI:TEMP:CHAR3D:VPC:TATTOO)"		action="proc" params="CP_duplicate_character" />
-	<link expr="depends(@UI:TEMP:HAIRCUT)" 					action="proc" params="proc_change_haircut" />
 
+	<link expr="depends(@UI:TEMP:HAIRCUT)" action="proc" params="proc_change_haircut" />
 
 
 

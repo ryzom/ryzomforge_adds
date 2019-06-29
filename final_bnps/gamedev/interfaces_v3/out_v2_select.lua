@@ -40,6 +40,36 @@ function outgame:openEditorMenuWarningNewScenario()
 	menu.active = true
 end--]]
 
+function outgame:procCharselNotifaction(text)
+	local ui = getUI("ui:outgame:charsel:log")
+	if ui then
+		if type(text) == "number" then
+			if text < 2 then
+				if text == 0 then
+					ui:find("text").hardtext = i18n.get("uiCP_Export_Success")
+				else
+					ui:find("text").hardtext = i18n.get("uiCP_Export_Failed")
+				end
+			else
+				self:pAh("proc_charsel_import_cancel")
+				if text == 2 then
+					ui:find("text").hardtext = i18n.get("uiCP_Import_Failed")
+				else
+					ui:find("text").hardtext = i18n.get("uiCP_Import_NotFound")
+				end
+			end
+		else
+			ui:find("text").hardtext = text
+		end
+		self:pAh("proc_charsel_notification")
+	end
+end
+
+function outgame:procCharselExport()
+	local slot = getDbProp("UI:TEMP:CHARSELSLOT")
+	runAH(nil, "export_char", "slot="..slot)
+end
+
 function outgame:procCharselClickSlot()
 	local value = getDbProp('UI:SELECTED_SLOT')
 	runAH(nil, "proc", "proc_charsel_clickslot|"..value)
