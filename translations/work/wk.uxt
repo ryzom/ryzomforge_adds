@@ -13594,6 +13594,8 @@ uiPABagTitleMount6	[ZIG 3]
 uiPATitleMount5	[Zig 1]
 uiPATitleMount6	[Zig 2]
 uiPATitleMount7	[Zig 3]
+uittInBag	[The animal is in your bag.\n
+	@{6F6F}Right click @{FFFF}to give an order.]
 
 uimEnterBag	[Enter on the bag]
 uimLeaveBag	[Leave from the bag]
