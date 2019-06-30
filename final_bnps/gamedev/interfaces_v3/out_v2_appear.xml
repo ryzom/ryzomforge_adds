@@ -2593,7 +2593,7 @@
 
 	<!-- QUIT BUTTON -->
 	<ctrl type="button" id="quit_but" button_type="push_button" posref="TR TR" x="0" y="0"
-				tx_normal="quit.tga" tx_pushed="quit.tga" tx_over="quit.tga"
+				tx_normal="quit.tga" tx_pushed="" tx_over="quit.tga"
 				color="255 255 255 255" col_pushed="255 255 255 255" col_over="0 0 0 0"
 				onover="play_sound" params_over="name=specie_but_over"
 				onclick_l="proc" params_l="proc_quit"/>

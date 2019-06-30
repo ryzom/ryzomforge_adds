@@ -680,7 +680,7 @@
 					onclick_l="proc" params_l="proc_quit"/>
 -->
 	<ctrl type="button" id="quit_but" button_type="push_button" posref="TR TR" x="0" y="0"  
-				tx_normal="quit.tga" tx_pushed="quit.tga" tx_over="quit.tga"
+				tx_normal="quit.tga" tx_pushed="" tx_over="quit.tga"
 				color="255 255 255 255" col_pushed="255 255 255 255" col_over="0 0 0 0"
 				onover="play_sound" params_over="name=specie_but_over"
 				onclick_l="proc" params_l="proc_quit"/>
@@ -808,13 +808,13 @@
 	<ctrl type="scroll" id="sv" posref="TR TR" x="-20" y="-96" w="16" tx_topright="scroll_t.tga"
 				tx_middle="scroll_m.tga" tx_bottomleft="scroll_b.tga" target="import_list" vertical="true" target_stepy="32" keyboard="true" />
 
-	<view type="bitmap" id="select_submit" posref="BM BM" x="-52" y="8" active="true" texture="opt_on_r_over.tga" global_color="false" />
+	<view type="bitmap" id="select_submit" posref="BM BM" x="-60" y="8" active="true" texture="opt_on_r_over.tga" global_color="false" />
 
 	<ctrl style="valid_txt_button" id="submit" posref="BM BM" x="0" y="8" hardtext="uiCP_Import_Ok"
 					onover="proc" params_over="proc_charsel_import_over|1|0"
 					onclick_l="proc" params_l="proc_charsel_import_enter" />
 
-	<view type="bitmap" id="select_cancel" posref="TM BM" posparent="submit" x="-54" y="4" active="false" texture="opt_on_r_over.tga" global_color="false" />
+	<view type="bitmap" id="select_cancel" posref="TM BM" posparent="submit" x="-62" y="4" active="false" texture="opt_on_r_over.tga" global_color="false" />
 
 	<ctrl style="valid_txt_button" id="cancel" posref="TM BM" posparent="submit" x="0" y="4" hardtext="uiCP_Import_Cancel"
 					onover="proc" params_over="proc_charsel_import_over|0|1"
@@ -838,7 +838,12 @@
 </proc>
 
 <proc id="proc_charsel_import_enter">
-	<!-- in procedure for keyboard support -->
+	<action handler="play_sound" params="name=generic_next_click" />
+	<action handler="lua" params="outgame:procCharselImport()" />
+</proc>
+
+<proc id="proc_charsel_import_register">
+	<action handler="import_char_select" params="@0" />
 	<action handler="import_char" />
 </proc>
 
