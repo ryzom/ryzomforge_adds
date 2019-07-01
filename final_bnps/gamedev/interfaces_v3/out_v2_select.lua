@@ -249,7 +249,7 @@ function outgame:eventCharselKeyGet(event)
 		if modals.deletion then
 			local delchar_confirm = getUI("ui:outgame:charsel_delchar_confirm")
 			if delchar_confirm then
-				if delchar_confirm:find("selet_submit").active then
+				if delchar_confirm:find("select_submit").active then
 					return self:pAh("proc_charsel_delchar_confirm_ok")
 				end
 				return self:pAh("proc_charsel_delchar_confirm_cancel")

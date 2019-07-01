@@ -656,6 +656,12 @@ function outgame:eventCharcreateKeyGet(event)
 				-- up
 				if slot <= 0 then slot = 0 else slot = slot - 1 end
 			end
+			local appear = getUI("ui:outgame:appear")
+			if appear then
+				if appear:find("M"..slot+1) then
+					appear:find("M"..slot+1).pushed = true
+				end
+			end
 			return self:pAh("proc_CP_menu|"..slot)
 		end
 	end
