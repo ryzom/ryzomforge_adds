@@ -204,7 +204,7 @@
 	<action handler="set" params="dblink=UI:TEMP:JOB_CRAFT|value=1" />
 
 	<action handler="set" params="target_property=ui:outgame:appear:job_options:active|value=0" />
-	<action handler="set" params="target_property=ui:outgame:appear:job_options:selection:r1:texture|value='job_fight_on.tga'" />
+	<!--<action handler="set" params="target_property=ui:outgame:appear:job_options:selection:r1:texture|value='job_fight_on.tga'" />-->
 
 	<action handler="set" cond="not(isPeopleActive(0))" params="target_property=ui:outgame:appear:specie_options:fyros_but:active|value=0" />
 	<action handler="set" cond="not(isPeopleActive(1))" params="target_property=ui:outgame:appear:specie_options:matis_but:active|value=0" />
@@ -245,12 +245,9 @@
 		<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:SEX,1)" params="target_property=ui:outgame:appear:sex_options:female_but:pushed|value=1" />
 
 	<!-- Setup default Job Spec -->
-	<action handler="set" params="dblink=UI:TEMP:JOB_POINT1|value=0" />
-	<action handler="proc" params="proc_job_point1" />
-
-	<action handler="set" params="target_property=ui:outgame:appear:job_options:options:result:title2:hardtext|value='uiCP_Refugee'" />
-
-	<action handler="set"  params="target_property=ui:outgame:appear:job_options:selection:info1:hardtext|value='uiCP_JOB1'" />
+	<action handler="proc" params="proc_select_job|0" />
+	<!--<action handler="set" params="target_property=ui:outgame:appear:job_options:options:result:title2:hardtext|value='uiCP_Refugee'" />
+	<action handler="set"  params="target_property=ui:outgame:appear:job_options:selection:info1:hardtext|value='uiCP_JOB1'" /> -->
 
 	<action handler="set" params="target_property=ui:outgame:appear:M1:pushed|value=1" />
 	<action handler="set" params="target_property=ui:outgame:appear:select_menu:y|value=2" />
@@ -277,11 +274,11 @@
 	<action handler="reset_camera"	 params="target=ui:outgame:appear:char3d:cam" />
 	<action handler="reset_camera"	 params="target=ui:outgame:appear:char3d:camface" />
 
-	<action handler="lua" params="pauseBGDownloader()" />
+	<!--<action handler="lua" params="pauseBGDownloader()" />-->
 </proc>
 
 <proc id="proc_release_CP">
-	<action handler="lua" params="unpauseBGDownloader()" />
+	<!--<action handler="lua" params="unpauseBGDownloader()" />-->
 </proc>
 
 
@@ -882,7 +879,7 @@
 
 	<action handler="set" cond="eq(@UI:TEMP:CP_MENU,4)" params="target_property=ui:outgame:appear:job_options:active|value=1" />
 	<action handler="anim_start" cond="eq(@UI:TEMP:CP_MENU,4)" params="anim=anim_job_on" />
-	<!--<action handler="anim_start" cond="ne(@UI:TEMP:CP_MENU,4)" params="anim=anim_job_off" />-->
+	<action handler="anim_start" cond="ne(@UI:TEMP:CP_MENU,4)" params="anim=anim_job_off" />
 	<action handler="set" cond="ne(@UI:TEMP:CP_MENU,4)" params="target_property=ui:outgame:appear:job_options:active|value=0" />
 
 	<action handler="proc" params="proc_appear_infos2" />
@@ -893,6 +890,10 @@
 <!-- SELECT SPECIE -->
 <proc id="proc_select_specie">
 
+	<action handler="set" cond="eq(@0,0)" params="target_property=ui:outgame:appear:specie_options:fyros_but:pushed|value=1" />
+	<action handler="set" cond="eq(@0,1)" params="target_property=ui:outgame:appear:specie_options:matis_but:pushed|value=1" />
+	<action handler="set" cond="eq(@0,2)" params="target_property=ui:outgame:appear:specie_options:tryker_but:pushed|value=1" />
+	<action handler="set" cond="eq(@0,3)" params="target_property=ui:outgame:appear:specie_options:zorai_but:pushed|value=1" />
 
 	<action handler="set" 				params="dblink=UI:TEMP:CHAR3D:PEOPLE|value=@0" />
 	<!--
@@ -1053,6 +1054,9 @@
 <!-- SELECT SEX -->
 <proc id="proc_select_sex">
 
+	<action handler="set" cond="eq(@0,0)" params="target_property=ui:outgame:appear:sex_options:male_but:pushed|value=1" />
+	<action handler="set" cond="eq(@0,1)" params="target_property=ui:outgame:appear:sex_options:female_but:pushed|value=1" />
+
 	<action handler="set" params="dblink=UI:TEMP:CHAR3D:VPA:SEX|value=@0" />
 	<action handler="copy" params="dbdst=UI:TEMP:M3|dbsrc=UI:TEMP:CHAR3D" />
 
@@ -1089,6 +1093,11 @@
 
 <!-- SELECT BODY -->
 <proc id="proc_select_body">
+	<action handler="set" cond="eq(@0,0)" params="target_property=ui:outgame:appear:body_options:height_but:pushed|value=1" />
+	<action handler="set" cond="eq(@0,1)" params="target_property=ui:outgame:appear:body_options:torso_but:pushed|value=1" />
+	<action handler="set" cond="eq(@0,2)" params="target_property=ui:outgame:appear:body_options:arms_but:pushed|value=1" />
+	<action handler="set" cond="eq(@0,3)" params="target_property=ui:outgame:appear:body_options:legs_but:pushed|value=1" />
+	<action handler="set" cond="eq(@0,4)" params="target_property=ui:outgame:appear:body_options:breasts_but:pushed|value=1" />
 </proc>
 
 <!-- SELECT FACE -->
@@ -1109,7 +1118,7 @@
 	<action handler="set" cond="eq(@UI:TEMP:JOB_POINT1,2)" params="dblink=UI:TEMP:JOB_FORAGE|value=2" />
 	<action handler="set" cond="eq(@UI:TEMP:JOB_POINT1,3)" params="dblink=UI:TEMP:JOB_CRAFT|value=2" />
 
-	<!-- Set Icon and text -->
+	<!-- Set Icon and text 
 	<action handler="set" cond="eq(@UI:TEMP:JOB_POINT1,0)" params="target_property=ui:outgame:appear:job_options:selection:r1:texture|value='job_fight_on.tga'" />
 	<action handler="set" cond="eq(@UI:TEMP:JOB_POINT1,1)" params="target_property=ui:outgame:appear:job_options:selection:r1:texture|value='job_magic_on.tga'" />
 	<action handler="set" cond="eq(@UI:TEMP:JOB_POINT1,2)" params="target_property=ui:outgame:appear:job_options:selection:r1:texture|value='job_forage_on.tga'" />
@@ -1119,7 +1128,7 @@
 	<action handler="set" cond="eq(@UI:TEMP:JOB_POINT1,1)" params="target_property=ui:outgame:appear:job_options:selection:info1:hardtext|value='uiCP_JOB2'" />
 	<action handler="set" cond="eq(@UI:TEMP:JOB_POINT1,2)" params="target_property=ui:outgame:appear:job_options:selection:info1:hardtext|value='uiCP_JOB3'" />
 	<action handler="set" cond="eq(@UI:TEMP:JOB_POINT1,3)" params="target_property=ui:outgame:appear:job_options:selection:info1:hardtext|value='uiCP_JOB4'" />
-
+	-->
 	<!-- Change Player Title -->
 	<action handler="set" params="target_property=ui:outgame:appear:job_options:options:result:title2:hardtext|value='uiCP_Refugee'" />
 	<action handler="set" cond="eq(@UI:TEMP:JOB_FIGHT,2)" params="target_property=ui:outgame:appear:job_options:options:result:title2:hardtext|value='uiCP_Fight1'" />
@@ -1132,6 +1141,13 @@
 
 </proc>
 
+<proc id="proc_select_job">
+	<action handler="set" cond="eq(@0,0)" params="target_property=ui:outgame:appear:job_options:selection:fight_but:pushed|value=1" />
+	<action handler="set" cond="eq(@0,1)" params="target_property=ui:outgame:appear:job_options:selection:magic_but:pushed|value=1" />
+	<action handler="set" cond="eq(@0,2)" params="target_property=ui:outgame:appear:job_options:selection:forage_but:pushed|value=1" />
+	<action handler="set" cond="eq(@0,3)" params="target_property=ui:outgame:appear:job_options:selection:craft_but:pushed|value=1" />
+	<action handler="set" params="dblink=UI:TEMP:JOB_POINT1|value=@0" />
+</proc>
 
 
 <!-- HAIRS -->
@@ -2162,7 +2178,6 @@
 					onover="play_sound" params_over="name=specie_but_over"
 					onclick_l="proc" params_l="proc_select_specie|3"/>
 
-
 		<group id="logos" posref="TL TL" x="28" y="-80" h="380" w="44" >
 			<view type="bitmap" id="fyros" 								posref="TL TL" texture="opt_on_fyros.tga" 	global_color="false" />
 			<view type="bitmap" id="matis" 	posparent="fyros" 	y="" 	posref="BL TL" texture="opt_on_matis.tga" 	global_color="false" />
@@ -2214,48 +2229,48 @@
 
 		<!-- Height -->
 		<instance template="slider" id="bk1" posref="TL TL" x="20" y="-88" w="180" h="48" />
-		<view type="text" id="title1" posparent="bk1" posref="TL TL" x="16" y="4" hardtext="uiHeight" color="255 255 255 255" fontsize="10"/>
+		<ctrl style="key_button" id="height_but" posparent="bk1" posref="TL TL" x="16" y="4" hardtext="uiHeight" fontsize="11"/>
 		<ctrl type="scroll" id="scroll1" posparent="bk1" posref="MM MM" x="0" y="0" w="140" h="32"
 							vertical="false" align="L" min="0" max="14" value="UI:TEMP:CHAR3D:VPC:CHARACTERHEIGHT" tracksize="40"
-							onscrollend="proc" params="CP_Camera_Face"
+							onscrollend="proc" params="CP_Camera_Face" keyboard="true" target_stepx="14"
 							tx_topright="" tx_middle="slider_m.tga" tx_bottomleft=""/>
 
 		<!-- Torso -->
 		<instance template="slider" id="bk2" posparent="bk1" posref="BL TL" w="180" h="48" />
-		<view type="text" id="title2" posparent="bk2" posref="TL TL" x="16" y="4" hardtext="uiTorso" color="255 255 255 255" fontsize="10"/>
+		<ctrl style="key_button" id="torso_but" posparent="bk2" posref="TL TL" x="16" y="4" hardtext="uiTorso" fontsize="11"/>
 		<ctrl type="scroll" id="scroll2" posparent="bk2" posref="MM MM" x="0" y="0" w="140" h="32"
 							vertical="false" align="L" min="0" max="14" value="UI:TEMP:CHAR3D:VPC:TORSOWIDTH" tracksize="40"
-							onscroll="" params=""
+							onscroll="" params="" keyboard="true" target_stepx="14"
 							tx_topright="" tx_middle="slider_m.tga" tx_bottomleft=""/>
 
 		<!-- Arms -->
 		<instance template="slider" id="bk3" posparent="bk2" posref="BL TL" w="180" h="48" />
-		<view type="text" id="title3" posparent="bk3" posref="TL TL" x="16" y="4" hardtext="uiArms" color="255 255 255 255" fontsize="10"/>
+		<ctrl style="key_button" id="arms_but" posparent="bk3" posref="TL TL" x="16" y="4" hardtext="uiArms" fontsize="11"/>
 		<ctrl type="scroll" id="scroll3" posparent="bk3" posref="MM MM" x="0" y="0" w="140" h="32"
 							vertical="false" align="L" min="0" max="14" value="UI:TEMP:CHAR3D:VPC:ARMSWIDTH" tracksize="40"
-							onscroll="" params=""
+							onscroll="" params="" keyboard="true" target_stepx="14"
 							tx_topright="" tx_middle="slider_m.tga" tx_bottomleft=""/>
 
 		<!-- Legs -->
 		<instance template="slider" id="bk4" posparent="bk3" posref="BL TL" w="180" h="48" />
-		<view type="text" id="title4" posparent="bk4" posref="TL TL" x="16" y="4" hardtext="uiLegs" color="255 255 255 255" fontsize="10"/>
+		<ctrl style="key_button" id="legs_but" posparent="bk4" posref="TL TL" x="16" y="4" hardtext="uiLegs" fontsize="11"/>
 		<ctrl type="scroll" id="scroll4" posparent="bk4" posref="MM MM" x="0" y="0" w="140" h="32"
 							vertical="false" align="L" min="0" max="14" value="UI:TEMP:CHAR3D:VPC:LEGSWIDTH" tracksize="40"
-							onscroll="" params=""
+							onscroll="" params="" keyboard="true" target_stepx="14"
 							tx_topright="" tx_middle="slider_m.tga" tx_bottomleft=""/>
 
 
 		<!-- Breast -->
 		<instance template="slider" id="bk5" posparent="bk4" posref="BL TL" w="180" h="48" active="false" />
-		<view type="text" id="title5" posparent="bk5" posref="TL TL" x="16" y="4" hardtext="uiBreasts" color="255 255 255 255" fontsize="10" active="false" />
+		<ctrl style="key_button" id="breasts_but" posparent="bk5" posref="TL TL" x="16" y="4" hardtext="uiBreasts" fontsize="11" active="false" />
 		<ctrl type="scroll" id="scroll5" posparent="bk5" posref="MM MM" x="0" y="0" w="140" h="32"
 							vertical="false" align="L" min="0" max="14" value="UI:TEMP:CHAR3D:VPC:BREASTSIZE" tracksize="40"
-							onscroll="" params=""
+							onscroll="" params="" keyboard="true" target_stepx="14"
 							tx_topright="" tx_middle="slider_m.tga" tx_bottomleft="" active="false" />
 
 		<!-- Pas de seins chez les hommes -->
 		<link expr="eq(@UI:TEMP:CHAR3D:VPA:SEX,1)" target="bk5:active" />
-		<link expr="eq(@UI:TEMP:CHAR3D:VPA:SEX,1)" target="title5:active" />
+		<link expr="eq(@UI:TEMP:CHAR3D:VPA:SEX,1)" target="breasts_but:active" />
 		<link expr="eq(@UI:TEMP:CHAR3D:VPA:SEX,1)" target="scroll5:active" />
 
 
@@ -2395,24 +2410,41 @@
 
 	<group id="job_options" w="1024" h="768" posref="TL TL" x="0" y="0"  >
 
-		<!-- SELECTION SLIDERS -->
-		<group id="selection" child_resize_w="true" child_resize_wmargin="40" h="160" posref="TL TL" x="240" y="280" >
+		<group id="selection" child_resize_w="true" child_resize_wmargin="32" h="288" posref="TL TL" x="200" y="380">
 
-			<group id="sub" posref="TL TL" w="240" h="60" x="8" y="-80" >
+			<group id="sub" sizeref="wh" posref="TL TL" w="-24" h="-96" x="24" y="-40" >
 				<instance template="outgame_black_back" id="back" />
 			</group>
 
-			<!-- Bonus 1 -->
-			<instance template="slider" id="bp1" posref="TL TL" x="15" y="-90" w="180" h="48" />
-			<view type="text" id="title1" posparent="bp1" posref="TL TL" x="0" y="2" hardtext="uiCP_BP1" color="255 255 255 255" fontsize="10"/>
-			<view type="text" id="info1" posparent="title1" posref="MR ML" x="5" y="1" hardtext="uiCP_JOB1" color="255 255 255 255" fontsize="11"/>
-			<ctrl type="scroll" id="scroll1" posparent="bp1" posref="MM MM" x="0" y="0" w="140" h="32"
-								vertical="false" align="L" min="0" max="3" value="UI:TEMP:JOB_POINT1" tracksize="40"
-								tx_topright="" tx_middle="slider_m.tga" tx_bottomleft=""/>
+			<ctrl style="opt_button" id="fight_but" posref="TL TL" x="60" y="-48" text_y="15" hardtext="uiCP_JOB1"
+						onover="play_sound" params_over="name=specie_but_over"
+						onclick_l="proc" params_l="proc_select_job|0"/>
 
-			<view type="bitmap" id="r1" posparent="bp1" posref="TR TL" texture="job_fight_on.tga" 	y="12" global_color="false" />
+			<ctrl style="opt_button" id="magic_but" posparent="fight_but" posref="BL TL" text_y="15" hardtext="uiCP_JOB2"
+						onover="play_sound" params_over="name=specie_but_over"
+						onclick_l="proc" params_l="proc_select_job|1"/>
 
+			<ctrl style="opt_button" id="forage_but" posparent="magic_but" posref="BL TL" text_y="15" hardtext="uiCP_JOB3"
+						onover="play_sound" params_over="name=specie_but_over"
+						onclick_l="proc" params_l="proc_select_job|2"/>
+
+			<ctrl style="opt_button" id="craft_but" posparent="forage_but" posref="BL TL" text_y="15" hardtext="uiCP_JOB4"
+						onover="play_sound" params_over="name=specie_but_over"
+						onclick_l="proc" params_l="proc_select_job|3"/>
+
+			<group id="logos" posref="TL TL" x="28" y="-40" h="380" w="44" >
+				<view type="bitmap" id="fight" posref="TL TL" texture="job_fight_on.tga" 	global_color="false" />
+				<view type="bitmap" id="forage" posparent="fight" 	y="" 	posref="BL TL" texture="job_forage_on.tga" 	global_color="false" />
+				<view type="bitmap" id="magic" posparent="forage" 	y="" 	posref="BL TL" texture="job_magic_on.tga" 	global_color="false" />
+				<view type="bitmap" id="craft" posparent="magic" 	y="" 	posref="BL TL" texture="job_craft_on.tga" 	global_color="false" />
+			</group>
+
+			<!--
+			<view type="bitmap" id="branch" posref="BL BL" texture="branch.tga" color="255 255 255 255" global_color="false" />
+			-->
 		</group>
+
+
 
 		<link expr="depends(@UI:TEMP:JOB_POINT1)"	action="proc" params="proc_job_point1" />
 
@@ -2749,12 +2781,12 @@
 
 </anim>
 
-<anim id="anim_job_off" duration="1.0"  disable_buttons="true" on_finish="set" on_finish_params="target_property=ui:outgame:appear:job_options:active|value=0" >
-
+<anim id="anim_job_off" duration="1.0"  disable_buttons="true" on_finish="" on_finish_params="" >
+<!--
 	<track type="tcb" target="appear:job_options:options:alpha" dynamic="true" >
 		<key time="0.0" value="getprop('ui:outgame:appear:job_options:options:alpha')" 		tension="1.0" easefrom="0"/>
 		<key time="1.0" value="0" 																tension="1.0" easeto="1"/>
-	</track>
+	</track> -->
 	<track type="tcb" target="appear:job_options:selection:y" dynamic="true" >
 		<key time="0.0" value="getprop('ui:outgame:appear:job_options:selection:y')"			tension="1.0" easefrom="0"/>
 		<key time="1.0" value="280" 															tension="1.0" easeto="1"/>
