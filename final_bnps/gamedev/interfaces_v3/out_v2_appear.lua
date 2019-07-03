@@ -426,6 +426,8 @@ function outgame:eventCharcreateKeyGet(event)
 	if not event then
 		if self.charcreate == nil then
 			self.charcreate = {}
+			self.charcreate.index = 0
+			self.charcreate.slot = 0
 		end
 		-- reset
 		if not getUI("ui:outgame:appear_mainland").active then
@@ -517,9 +519,49 @@ function outgame:eventCharcreateKeyGet(event)
 			end
 		end
 	end
+	-- menu options
+	if not self.charcreate.option then
+		self.charcreate.option = {
+			[0] = false, [1] = false,
+			[2] = false, [3] = false,
+			[4] = false
+		}
+	end
 	local slot = getDbProp("UI:TEMP:CP_MENU")
+	if self.charcreate.slot ~= slot then
+		self.charcreate.slot = slot
+		-- off menus by mouse click
+		self.charcreate.inMenu = false
+	end
 	-- event:
 	if event > 2 then
+		if event > 7 then
+			if event > 9 then
+				-- tab
+				return
+			else
+				-- left right
+				local bval = false
+				if event == 9 then
+					bval = true
+				end
+				self.charcreate.inMenu = bval
+				if self.charcreate.option then
+					self.charcreate.option[slot] = bval
+				end
+				if event == 9 and bval then
+					-- default select body
+					if slot == 2 then
+						local menu = getUI("ui:outgame:appear:body_options")
+						if menu then
+							self:pAh("proc_select_body|0")
+							setCaptureKeyboard(menu:find("scroll1"))
+						end
+					end
+				end
+			end
+			return
+		end
 		if event > 4 then
 			if event == 5 then
 				-- infos
@@ -556,6 +598,7 @@ function outgame:eventCharcreateKeyGet(event)
 			end
 			return
 		else
+			-- handle modals
 			if modals.abort then
 				if event < 4 then
 					self:pAh("proc_appear_abort_confirm_over|1|0")
@@ -648,6 +691,67 @@ function outgame:eventCharcreateKeyGet(event)
 					end
 					return
 				end
+			end
+			-- otherwise creation
+			if self.charcreate.inMenu then
+				if self.charcreate.option[slot] then
+					local node = {
+						[0] = "specie",
+						[1] = "sex",
+						[2] = "body",
+						[3] = "face",
+						[4] = "job"
+					}
+					local menu = getUI("ui:outgame:appear:"..node[slot].."_options")
+					if menu then
+						local n = 3
+						-- select specie
+						local id = {"fyros", "matis", "tryker", "zorai"}
+						-- select sex
+						if slot == 1 then
+							id = {"female", "male"}
+							n = 1
+						end
+						-- select body
+						if slot == 2 then
+							-- no breast for male
+							if getDbProp("UI:TEMP:CHAR3D:VPA:SEX") == 1 then
+								n = 4
+							end
+							id = {"height", "torso", "arms", "legs", "breasts"}
+						end
+						-- select job
+						if slot == 4 then
+							id = {"fight", "magic", "forage", "craft"}
+							menu = menu:find("selection")
+						end
+						for i, opt in pairs(id) do
+							if menu:find(opt.."_but") then
+								if menu:find(opt.."_but").pushed then
+									self.charcreate.index = i - 1
+								end
+							end
+						end
+						if event < 4 then -- down
+							if self.charcreate.index >= n then
+								self.charcreate.index = n
+							else
+								self.charcreate.index = self.charcreate.index + 1
+							end
+						else -- up
+							if self.charcreate.index <= 0 then
+								self.charcreate.index = 0
+							else
+								self.charcreate.index = self.charcreate.index - 1
+							end
+						end
+						self:pAh("proc_select_"..node[slot].."|"..self.charcreate.index)
+						if slot == 2 then
+							setCaptureKeyboard(menu:find("scroll"..self.charcreate.index + 1))
+						end
+					end
+				end
+				return
 			end
 			if event == 3 then
 				-- down
