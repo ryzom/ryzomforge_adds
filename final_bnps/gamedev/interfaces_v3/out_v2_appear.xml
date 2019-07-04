@@ -106,10 +106,10 @@
 
 <template name="appearmttslider" nb="" id="" posparent="parent" posref="TL TL" x="0" y="0" >
 	<instance template="slider" id="bk#nb" posparent="#posparent" posref="#posref" x="#x" y="#y" />
-	<ctrl type="scroll" id="scroll#nb" posparent="bk#nb" posref="MM MM" x="0" y="0" w="140" h="32"
+	<ctrl type="scroll" id="scroll_sub#nb" posparent="bk#nb" posref="MM MM" x="0" y="0" w="120" h="32"
 						vertical="false" align="L" min="0" max="6" value="UI:TEMP:CHAR3D:VPC:MORPHTARGET#nb" tracksize="40"
-						onscroll="" params="" tx_topright="" tx_middle="slider_m.tga"
-						tx_bottomleft=""/>
+						onscrollend="proc" params="proc_select_face_sub|add(#nb,-1)" tx_topright="" tx_middle="slider_m.tga"
+						tx_bottomleft="" keyboard="true" target_stepx="14" />
 </template>
 
 
@@ -253,14 +253,14 @@
 	<action handler="set" params="target_property=ui:outgame:appear:select_menu:y|value=2" />
 	<action handler="set" params="target_property=ui:outgame:appear:3d_select:y|value=0" />
 	<action handler="set" params="dblink=UI:TEMP:CP_MENU|value=0" />
-	<action handler="set"  params="target_property=ui:outgame:appear:face_options:face1:hardtext|value='uiFace1Fy'" />
-	<action handler="set"  params="target_property=ui:outgame:appear:face_options:face2:hardtext|value='uiFace2Fy'" />
-	<action handler="set"  params="target_property=ui:outgame:appear:face_options:face3:hardtext|value='uiFace3Fy'" />
-	<action handler="set"  params="target_property=ui:outgame:appear:face_options:face4:hardtext|value='uiFace4Fy'" />
-	<action handler="set"  params="target_property=ui:outgame:appear:face_options:face5:hardtext|value='uiFace5Fy'" />
-	<action handler="set"  params="target_property=ui:outgame:appear:face_options:face6:hardtext|value='uiFace6Fy'" />
-	<action handler="set"  params="target_property=ui:outgame:appear:face_options:face7:hardtext|value='uiFace7Fy'" />
-	<action handler="set"  params="target_property=ui:outgame:appear:face_options:face8:hardtext|value='uiFace8Fy'" />
+	<action handler="set"  params="target_property=ui:outgame:appear:face_options:face1_but:hardtext|value='uiFace1Fy'" />
+	<action handler="set"  params="target_property=ui:outgame:appear:face_options:face2_but:hardtext|value='uiFace2Fy'" />
+	<action handler="set"  params="target_property=ui:outgame:appear:face_options:face3_but:hardtext|value='uiFace3Fy'" />
+	<action handler="set"  params="target_property=ui:outgame:appear:face_options:face4_but:hardtext|value='uiFace4Fy'" />
+	<action handler="set"  params="target_property=ui:outgame:appear:face_options:face5_but:hardtext|value='uiFace5Fy'" />
+	<action handler="set"  params="target_property=ui:outgame:appear:face_options:face6_but:hardtext|value='uiFace6Fy'" />
+	<action handler="set"  params="target_property=ui:outgame:appear:face_options:face7_but:hardtext|value='uiFace7Fy'" />
+	<action handler="set"  params="target_property=ui:outgame:appear:face_options:face8_but:hardtext|value='uiFace8Fy'" />
 
 	<action handler="proc" params="proc_select_specie|@UI:TEMP:CHAR3D:PEOPLE" />
 
@@ -990,40 +990,40 @@
 
 	<!-- Change Hair and eyes color in menu 4 options -->
 
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,0)" params="target_property=ui:outgame:appear:face_options:face1:hardtext|value='uiFace1Fy'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,0)" params="target_property=ui:outgame:appear:face_options:face2:hardtext|value='uiFace2Fy'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,0)" params="target_property=ui:outgame:appear:face_options:face3:hardtext|value='uiFace3Fy'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,0)" params="target_property=ui:outgame:appear:face_options:face4:hardtext|value='uiFace4Fy'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,0)" params="target_property=ui:outgame:appear:face_options:face5:hardtext|value='uiFace5Fy'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,0)" params="target_property=ui:outgame:appear:face_options:face6:hardtext|value='uiFace6Fy'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,0)" params="target_property=ui:outgame:appear:face_options:face7:hardtext|value='uiFace7Fy'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,0)" params="target_property=ui:outgame:appear:face_options:face8:hardtext|value='uiFace8Fy'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,0)" params="target_property=ui:outgame:appear:face_options:face1_but:hardtext|value='uiFace1Fy'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,0)" params="target_property=ui:outgame:appear:face_options:face2_but:hardtext|value='uiFace2Fy'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,0)" params="target_property=ui:outgame:appear:face_options:face3_but:hardtext|value='uiFace3Fy'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,0)" params="target_property=ui:outgame:appear:face_options:face4_but:hardtext|value='uiFace4Fy'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,0)" params="target_property=ui:outgame:appear:face_options:face5_but:hardtext|value='uiFace5Fy'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,0)" params="target_property=ui:outgame:appear:face_options:face6_but:hardtext|value='uiFace6Fy'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,0)" params="target_property=ui:outgame:appear:face_options:face7_but:hardtext|value='uiFace7Fy'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,0)" params="target_property=ui:outgame:appear:face_options:face8_but:hardtext|value='uiFace8Fy'" />
 
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,1)" params="target_property=ui:outgame:appear:face_options:face1:hardtext|value='uiFace1Ma'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,1)" params="target_property=ui:outgame:appear:face_options:face2:hardtext|value='uiFace2Ma'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,1)" params="target_property=ui:outgame:appear:face_options:face3:hardtext|value='uiFace3Ma'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,1)" params="target_property=ui:outgame:appear:face_options:face4:hardtext|value='uiFace4Ma'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,1)" params="target_property=ui:outgame:appear:face_options:face5:hardtext|value='uiFace5Ma'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,1)" params="target_property=ui:outgame:appear:face_options:face6:hardtext|value='uiFace6Ma'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,1)" params="target_property=ui:outgame:appear:face_options:face7:hardtext|value='uiFace7Ma'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,1)" params="target_property=ui:outgame:appear:face_options:face8:hardtext|value='uiFace8Ma'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,1)" params="target_property=ui:outgame:appear:face_options:face1_but:hardtext|value='uiFace1Ma'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,1)" params="target_property=ui:outgame:appear:face_options:face2_but:hardtext|value='uiFace2Ma'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,1)" params="target_property=ui:outgame:appear:face_options:face3_but:hardtext|value='uiFace3Ma'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,1)" params="target_property=ui:outgame:appear:face_options:face4_but:hardtext|value='uiFace4Ma'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,1)" params="target_property=ui:outgame:appear:face_options:face5_but:hardtext|value='uiFace5Ma'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,1)" params="target_property=ui:outgame:appear:face_options:face6_but:hardtext|value='uiFace6Ma'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,1)" params="target_property=ui:outgame:appear:face_options:face7_but:hardtext|value='uiFace7Ma'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,1)" params="target_property=ui:outgame:appear:face_options:face8_but:hardtext|value='uiFace8Ma'" />
 
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,2)" params="target_property=ui:outgame:appear:face_options:face1:hardtext|value='uiFace1Tr'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,2)" params="target_property=ui:outgame:appear:face_options:face2:hardtext|value='uiFace2Tr'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,2)" params="target_property=ui:outgame:appear:face_options:face3:hardtext|value='uiFace3Tr'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,2)" params="target_property=ui:outgame:appear:face_options:face4:hardtext|value='uiFace4Tr'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,2)" params="target_property=ui:outgame:appear:face_options:face5:hardtext|value='uiFace5Tr'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,2)" params="target_property=ui:outgame:appear:face_options:face6:hardtext|value='uiFace6Tr'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,2)" params="target_property=ui:outgame:appear:face_options:face7:hardtext|value='uiFace7Tr'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,2)" params="target_property=ui:outgame:appear:face_options:face8:hardtext|value='uiFace8Tr'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,2)" params="target_property=ui:outgame:appear:face_options:face1_but:hardtext|value='uiFace1Tr'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,2)" params="target_property=ui:outgame:appear:face_options:face2_but:hardtext|value='uiFace2Tr'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,2)" params="target_property=ui:outgame:appear:face_options:face3_but:hardtext|value='uiFace3Tr'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,2)" params="target_property=ui:outgame:appear:face_options:face4_but:hardtext|value='uiFace4Tr'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,2)" params="target_property=ui:outgame:appear:face_options:face5_but:hardtext|value='uiFace5Tr'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,2)" params="target_property=ui:outgame:appear:face_options:face6_but:hardtext|value='uiFace6Tr'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,2)" params="target_property=ui:outgame:appear:face_options:face7_but:hardtext|value='uiFace7Tr'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,2)" params="target_property=ui:outgame:appear:face_options:face8_but:hardtext|value='uiFace8Tr'" />
 
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,3)" params="target_property=ui:outgame:appear:face_options:face1:hardtext|value='uiFace1Zo'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,3)" params="target_property=ui:outgame:appear:face_options:face2:hardtext|value='uiFace2Zo'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,3)" params="target_property=ui:outgame:appear:face_options:face3:hardtext|value='uiFace3Zo'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,3)" params="target_property=ui:outgame:appear:face_options:face4:hardtext|value='uiFace4Zo'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,3)" params="target_property=ui:outgame:appear:face_options:face5:hardtext|value='uiFace5Zo'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,3)" params="target_property=ui:outgame:appear:face_options:face6:hardtext|value='uiFace6Zo'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,3)" params="target_property=ui:outgame:appear:face_options:face7:hardtext|value='uiFace7Zo'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,3)" params="target_property=ui:outgame:appear:face_options:face1_but:hardtext|value='uiFace1Zo'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,3)" params="target_property=ui:outgame:appear:face_options:face2_but:hardtext|value='uiFace2Zo'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,3)" params="target_property=ui:outgame:appear:face_options:face3_but:hardtext|value='uiFace3Zo'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,3)" params="target_property=ui:outgame:appear:face_options:face4_but:hardtext|value='uiFace4Zo'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,3)" params="target_property=ui:outgame:appear:face_options:face5_but:hardtext|value='uiFace5Zo'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,3)" params="target_property=ui:outgame:appear:face_options:face6_but:hardtext|value='uiFace6Zo'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,3)" params="target_property=ui:outgame:appear:face_options:face7_but:hardtext|value='uiFace7Zo'" />
 
 	<action handler="set" cond="eq(@UI:TEMP:ANIM,0)" params="target_property=ui:outgame:appear:char3d:char:anim|value=0" />
 	<action handler="proc" cond="eq(@UI:TEMP:ANIM,1)" params="specie_anim_play" />
@@ -1093,6 +1093,7 @@
 
 <!-- SELECT BODY -->
 <proc id="proc_select_body">
+	<action handler="proc" cond="eq(@0,0)" params="CP_Camera_Face" />
 	<action handler="set" cond="eq(@0,0)" params="target_property=ui:outgame:appear:body_options:height_but:pushed|value=1" />
 	<action handler="set" cond="eq(@0,1)" params="target_property=ui:outgame:appear:body_options:torso_but:pushed|value=1" />
 	<action handler="set" cond="eq(@0,2)" params="target_property=ui:outgame:appear:body_options:arms_but:pushed|value=1" />
@@ -1102,6 +1103,21 @@
 
 <!-- SELECT FACE -->
 <proc id="proc_select_face">
+	<action handler="set" cond="eq(@0,0)" params="target_property=ui:outgame:appear:face_options:haircut_but:pushed|value=1" />
+	<action handler="set" cond="eq(@0,1)" params="target_property=ui:outgame:appear:face_options:haircolor_but:pushed|value=1" />
+	<action handler="set" cond="eq(@0,2)" params="target_property=ui:outgame:appear:face_options:tatoos_but:pushed|value=1" />
+	<action handler="set" cond="eq(@0,3)" params="target_property=ui:outgame:appear:face_options:eyes_but:pushed|value=1" />
+</proc>
+
+<proc id="proc_select_face_sub">
+	<action handler="set" cond="eq(@0,0)" params="target_property=ui:outgame:appear:face_options:face1_but:pushed|value=1" />
+	<action handler="set" cond="eq(@0,1)" params="target_property=ui:outgame:appear:face_options:face2_but:pushed|value=1" />
+	<action handler="set" cond="eq(@0,2)" params="target_property=ui:outgame:appear:face_options:face3_but:pushed|value=1" />
+	<action handler="set" cond="eq(@0,3)" params="target_property=ui:outgame:appear:face_options:face4_but:pushed|value=1" />
+	<action handler="set" cond="eq(@0,4)" params="target_property=ui:outgame:appear:face_options:face5_but:pushed|value=1" />
+	<action handler="set" cond="eq(@0,5)" params="target_property=ui:outgame:appear:face_options:face6_but:pushed|value=1" />
+	<action handler="set" cond="eq(@0,6)" params="target_property=ui:outgame:appear:face_options:face7_but:pushed|value=1" />
+	<action handler="set" cond="eq(@0,7)" params="target_property=ui:outgame:appear:face_options:face8_but:pushed|value=1" />
 </proc>
 
 <!-- SELECT JOB -->
@@ -2232,32 +2248,32 @@
 		<ctrl style="key_button" id="height_but" posparent="bk1" posref="TL TL" x="16" y="4" hardtext="uiHeight" fontsize="11"/>
 		<ctrl type="scroll" id="scroll1" posparent="bk1" posref="MM MM" x="0" y="0" w="140" h="32"
 							vertical="false" align="L" min="0" max="14" value="UI:TEMP:CHAR3D:VPC:CHARACTERHEIGHT" tracksize="40"
-							onscrollend="proc" params="CP_Camera_Face" keyboard="true" target_stepx="14"
-							tx_topright="" tx_middle="slider_m.tga" tx_bottomleft=""/>
+							onscrollend="proc" params="proc_select_body|0" keyboard="true" target_stepx="14"
+							tx_topright="" tx_middle="slider_m.tga" tx_bottomleft="" />
 
 		<!-- Torso -->
 		<instance template="slider" id="bk2" posparent="bk1" posref="BL TL" w="180" h="48" />
 		<ctrl style="key_button" id="torso_but" posparent="bk2" posref="TL TL" x="16" y="4" hardtext="uiTorso" fontsize="11"/>
 		<ctrl type="scroll" id="scroll2" posparent="bk2" posref="MM MM" x="0" y="0" w="140" h="32"
 							vertical="false" align="L" min="0" max="14" value="UI:TEMP:CHAR3D:VPC:TORSOWIDTH" tracksize="40"
-							onscroll="" params="" keyboard="true" target_stepx="14"
-							tx_topright="" tx_middle="slider_m.tga" tx_bottomleft=""/>
+							onscrollend="proc" params="proc_select_body|1" keyboard="true" target_stepx="14"
+							tx_topright="" tx_middle="slider_m.tga" tx_bottomleft="" />
 
 		<!-- Arms -->
 		<instance template="slider" id="bk3" posparent="bk2" posref="BL TL" w="180" h="48" />
 		<ctrl style="key_button" id="arms_but" posparent="bk3" posref="TL TL" x="16" y="4" hardtext="uiArms" fontsize="11"/>
 		<ctrl type="scroll" id="scroll3" posparent="bk3" posref="MM MM" x="0" y="0" w="140" h="32"
 							vertical="false" align="L" min="0" max="14" value="UI:TEMP:CHAR3D:VPC:ARMSWIDTH" tracksize="40"
-							onscroll="" params="" keyboard="true" target_stepx="14"
-							tx_topright="" tx_middle="slider_m.tga" tx_bottomleft=""/>
+							onscrollend="proc" params="proc_select_body|2" keyboard="true" target_stepx="14"
+							tx_topright="" tx_middle="slider_m.tga" tx_bottomleft="" />
 
 		<!-- Legs -->
 		<instance template="slider" id="bk4" posparent="bk3" posref="BL TL" w="180" h="48" />
 		<ctrl style="key_button" id="legs_but" posparent="bk4" posref="TL TL" x="16" y="4" hardtext="uiLegs" fontsize="11"/>
 		<ctrl type="scroll" id="scroll4" posparent="bk4" posref="MM MM" x="0" y="0" w="140" h="32"
 							vertical="false" align="L" min="0" max="14" value="UI:TEMP:CHAR3D:VPC:LEGSWIDTH" tracksize="40"
-							onscroll="" params="" keyboard="true" target_stepx="14"
-							tx_topright="" tx_middle="slider_m.tga" tx_bottomleft=""/>
+							onscrollend="proc" params="proc_select_body|3" keyboard="true" target_stepx="14"
+							tx_topright="" tx_middle="slider_m.tga" tx_bottomleft="" />
 
 
 		<!-- Breast -->
@@ -2265,7 +2281,7 @@
 		<ctrl style="key_button" id="breasts_but" posparent="bk5" posref="TL TL" x="16" y="4" hardtext="uiBreasts" fontsize="11" active="false" />
 		<ctrl type="scroll" id="scroll5" posparent="bk5" posref="MM MM" x="0" y="0" w="140" h="32"
 							vertical="false" align="L" min="0" max="14" value="UI:TEMP:CHAR3D:VPC:BREASTSIZE" tracksize="40"
-							onscroll="" params="" keyboard="true" target_stepx="14"
+							onscrollend="proc" params="proc_select_body|4" keyboard="true" target_stepx="14"
 							tx_topright="" tx_middle="slider_m.tga" tx_bottomleft="" active="false" />
 
 		<!-- Pas de seins chez les hommes -->
@@ -2328,14 +2344,14 @@
 
 
 		<!-- TITLES Des SLIDERS -->
-		<view type="text" id="face1" posparent="pos1" posref="TL TL" x="2" y="4" hardtext="uiFace1Fy" color="255 255 255 255" fontsize="10"/>
-		<view type="text" id="face2" posparent="pos2" posref="TL TL" x="2" y="4" hardtext="uiFace2Fy" color="255 255 255 255" fontsize="10"/>
-		<view type="text" id="face3" posparent="pos3" posref="TL TL" x="2" y="4" hardtext="uiFace3Fy" color="255 255 255 255" fontsize="10"/>
-		<view type="text" id="face4" posparent="pos4" posref="TL TL" x="2" y="4" hardtext="uiFace4Fy" color="255 255 255 255" fontsize="10"/>
-		<view type="text" id="face5" posparent="pos5" posref="TL TL" x="2" y="4" hardtext="uiFace5Fy" color="255 255 255 255" fontsize="10"/>
-		<view type="text" id="face6" posparent="pos6" posref="TL TL" x="2" y="4" hardtext="uiFace6Fy" color="255 255 255 255" fontsize="10"/>
-		<view type="text" id="face7" posparent="pos7" posref="TL TL" x="2" y="4" hardtext="uiFace7Fy" color="255 255 255 255" fontsize="10"/>
-		<view type="text" id="face8" posparent="pos8" posref="TL TL" x="2" y="4" hardtext="uiFace8Fy" color="255 255 255 255" fontsize="10"/>
+		<ctrl style="key_button" id="face1_but" posparent="pos1" posref="TL TL" x="2" y="4" hardtext="uiFace1Fy" fontsize="11"/>
+		<ctrl style="key_button" id="face2_but" posparent="pos2" posref="TL TL" x="2" y="4" hardtext="uiFace2Fy" fontsize="11"/>
+		<ctrl style="key_button" id="face3_but" posparent="pos3" posref="TL TL" x="2" y="4" hardtext="uiFace3Fy" fontsize="11"/>
+		<ctrl style="key_button" id="face4_but" posparent="pos4" posref="TL TL" x="2" y="4" hardtext="uiFace4Fy" fontsize="11"/>
+		<ctrl style="key_button" id="face5_but" posparent="pos5" posref="TL TL" x="2" y="4" hardtext="uiFace5Fy" fontsize="11"/>
+		<ctrl style="key_button" id="face6_but" posparent="pos6" posref="TL TL" x="2" y="4" hardtext="uiFace6Fy" fontsize="11"/>
+		<ctrl style="key_button" id="face7_but" posparent="pos7" posref="TL TL" x="2" y="4" hardtext="uiFace7Fy" fontsize="11"/>
+		<ctrl style="key_button" id="face8_but" posparent="pos8" posref="TL TL" x="2" y="4" hardtext="uiFace8Fy" fontsize="11"/>
 
 		<!--
 		<view type="bitmap" id="branch" posref="BL BL" texture="branch.tga" color="255 255 255 255" global_color="false" />
@@ -2343,37 +2359,41 @@
 
 		<!-- Pas de 8eme Slider pour Zorai -->
 		<link expr="ne(@UI:TEMP:CHAR3D:PEOPLE,3)" target="bk8:active" />
-		<link expr="ne(@UI:TEMP:CHAR3D:PEOPLE,3)" target="scroll8:active" />
-		<link expr="ne(@UI:TEMP:CHAR3D:PEOPLE,3)" target="face8:active" />
+		<link expr="ne(@UI:TEMP:CHAR3D:PEOPLE,3)" target="scroll_sub8:active" />
+		<link expr="ne(@UI:TEMP:CHAR3D:PEOPLE,3)" target="face8_but:active" />
 
 
 		<!-- HAIRCUT -->
 		<instance template="but_slider" id="haircut" posparent="pos1" posref="TL TL" x="-516" y="0" w="180" h="48" value="UI:TEMP:HAIRCUT" max="6" />
-		<view type="text" id="hair1" posparent="haircut" posref="TL TL" x="16" y="4" hardtext="uiHaircut" color="255 255 255 255" fontsize="10"/>
-		<ctrl type="scroll" id="hair2" posparent="haircut" posref="MM MM" x="0" y="0" w="140" h="32"
+		<ctrl style="key_button" id="haircut_but" posparent="haircut" posref="TL TL" x="16" y="4" hardtext="uiHaircut" fontsize="11" />
+		<ctrl type="scroll" id="scroll1" posparent="haircut" posref="MM MM" x="0" y="0" w="120" h="32"
 							vertical="false" align="L" min="0" max="6" value="UI:TEMP:HAIRCUT" tracksize="40"
-							tx_topright="" tx_middle="slider_m.tga" tx_bottomleft=""/>
+							tx_topright="" tx_middle="slider_m.tga" tx_bottomleft=""  keyboard="true" target_stepx="14"
+							onscrollend="proc" params="proc_select_face|0" />
 
 		<!-- HAIR COLOR -->
 		<instance template="but_slider" id="haircolor" posparent="pos2" posref="TL TL" x="-516" y="0" w="180" h="48" value="UI:TEMP:CHAR3D:VPA:HATCOLOR" max="5" />
-		<view type="text" id="haircol1" posparent="haircolor" posref="TL TL" x="16" y="4" hardtext="uiHairColor" color="255 255 255 255" fontsize="10"/>
-		<ctrl type="scroll" id="haircol2" posparent="haircolor" posref="MM MM" x="0" y="0" w="140" h="32"
+		<ctrl style="key_button" id="haircolor_but" posparent="haircolor" posref="TL TL" x="16" y="4" hardtext="uiHairColor" fontsize="11" />
+		<ctrl type="scroll" id="scroll2" posparent="haircolor" posref="MM MM" x="0" y="0" w="120" h="32"
 							vertical="false" align="L" min="0" max="5" value="UI:TEMP:CHAR3D:VPA:HATCOLOR" tracksize="40"
-							tx_topright="" tx_middle="slider_m.tga" tx_bottomleft=""/>
+							tx_topright="" tx_middle="slider_m.tga" tx_bottomleft="" keyboard="true" target_stepx="14"
+							onscrollend="proc" params="proc_select_face|1" />
 
 		<!-- TATOOS -->
 		<instance template="but_slider" id="tatoos" posparent="pos3" posref="TL TL" x="-516" y="0" w="180" h="48" value="UI:TEMP:CHAR3D:VPC:TATTOO" max="31" />
-		<view type="text" id="tatoo1" posparent="tatoos" posref="TL TL" x="16" y="4" hardtext="uiTatoos" color="255 255 255 255" fontsize="10"/>
-		<ctrl type="scroll" id="tatoo2" posparent="tatoos" posref="MM MM" x="0" y="0" w="140" h="32"
+		<ctrl style="key_button" id="tatoos_but" posparent="tatoos" posref="TL TL" x="16" y="4" hardtext="uiTatoos" fontsize="11" />
+		<ctrl type="scroll" id="scroll3" posparent="tatoos" posref="MM MM" x="0" y="0" w="120" h="32"
 							vertical="false" align="L" min="0" max="31" value="UI:TEMP:CHAR3D:VPC:TATTOO" tracksize="40"
-							tx_topright="" tx_middle="slider_m.tga" tx_bottomleft=""/>
+							tx_topright="" tx_middle="slider_m.tga" tx_bottomleft="" keyboard="true" target_stepx="14"
+							onscrollend="proc" params="proc_select_face|2" />
 
 		<!-- EYES -->
 		<instance template="but_slider" id="eyes" posparent="pos4" posref="TL TL" x="-516" y="0" w="180" h="48" value="UI:TEMP:CHAR3D:VPC:EYESCOLOR" max="7" />
-		<view type="text" id="eyes1" posparent="eyes" posref="TL TL" x="16" y="4" hardtext="uiEyes" color="255 255 255 255" fontsize="10"/>
-		<ctrl type="scroll" id="eyes2" posparent="eyes" posref="MM MM" x="0" y="0" w="140" h="32"
+		<ctrl style="key_button" id="eyes_but" posparent="eyes" posref="TL TL" x="16" y="4" hardtext="uiEyes"  fontsize="11" />
+		<ctrl type="scroll" id="scroll4" posparent="eyes" posref="MM MM" x="0" y="0" w="120" h="32"
 							vertical="false" align="L" min="0" max="7" value="UI:TEMP:CHAR3D:VPC:EYESCOLOR" tracksize="40"
-							tx_topright="" tx_middle="slider_m.tga" tx_bottomleft=""/>
+							tx_topright="" tx_middle="slider_m.tga" tx_bottomleft="" keyboard="true" target_stepx="14"
+							onscrollend="proc" params="proc_select_face|3" />
 
 
 		<!--
@@ -2382,8 +2402,8 @@
 
 		<!-- Pas de Eyes Color pour les zorai -->
 		<link expr="ne(@UI:TEMP:CHAR3D:PEOPLE,3)" target="eyes:active" />
-		<link expr="ne(@UI:TEMP:CHAR3D:PEOPLE,3)" target="eyes1:active" />
-		<link expr="ne(@UI:TEMP:CHAR3D:PEOPLE,3)" target="eyes2:active" />
+		<link expr="ne(@UI:TEMP:CHAR3D:PEOPLE,3)" target="eyes_but:active" />
+		<link expr="ne(@UI:TEMP:CHAR3D:PEOPLE,3)" target="scroll4:active" />
 
 
 	</group>

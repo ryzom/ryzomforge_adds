@@ -531,34 +531,49 @@ function outgame:eventCharcreateKeyGet(event)
 	if self.charcreate.slot ~= slot then
 		self.charcreate.slot = slot
 		-- off menus by mouse click
+		self.charcreate.inMenuSub = false
 		self.charcreate.inMenu = false
 	end
 	-- event:
 	if event > 2 then
 		if event > 7 then
-			if event > 9 then
-				-- tab
-				return
-			else
-				-- left right
-				local bval = false
-				if event == 9 then
-					bval = true
-				end
-				self.charcreate.inMenu = bval
-				if self.charcreate.option then
-					self.charcreate.option[slot] = bval
-				end
-				if event == 9 and bval then
+			-- left right
+			local bval = false
+			if event == 9 then
+				bval = true
+				-- already in menu? goto horizontal submenu
+				if self.charcreate.inMenu then
+					if slot == 3 then
+						self.charcreate.inMenuSub = bval
+						self.charcreate.index = 0
+						self:pAh("proc_select_face_sub|0")
+						setCaptureKeyboard(getUI("ui:outgame:appear:face_options"):find("scroll_sub1"))
+					end
+					return
+				else
 					-- default select body
 					if slot == 2 then
-						local menu = getUI("ui:outgame:appear:body_options")
-						if menu then
-							self:pAh("proc_select_body|0")
-							setCaptureKeyboard(menu:find("scroll1"))
-						end
+						self:pAh("proc_select_body|0")
+						setCaptureKeyboard(getUI("ui:outgame:appear:body_options"):find("scroll1"))
 					end
+					self.charcreate.inMenu = bval
 				end
+			else
+				-- do we quit submenu?
+				if self.charcreate.inMenuSub then
+					self.charcreate.inMenuSub = bval
+					self.charcreate.index = 0
+					if slot == 3 then
+						self:pAh("proc_select_face|0")
+						setCaptureKeyboard(getUI("ui:outgame:appear:face_options"):find("scroll1"))
+					end
+					return
+				else
+					self.charcreate.inMenu = bval
+				end
+			end
+			if self.charcreate.option then
+				self.charcreate.option[slot] = bval
 			end
 			return
 		end
@@ -696,58 +711,71 @@ function outgame:eventCharcreateKeyGet(event)
 			if self.charcreate.inMenu then
 				if self.charcreate.option[slot] then
 					local node = {
-						[0] = "specie",
-						[1] = "sex",
-						[2] = "body",
-						[3] = "face",
-						[4] = "job"
+						[0] = { specie = { n = 3, id = {"fyros", "matis", "tryker", "zorai"} } },
+						[1] = { sex    = { n = 1, id = {"female", "male"} } },
+						[2] = { body   = { n = 4, id = {"height", "torso", "arms", "legs", "breasts"} } },
+						[3] = { face   = { n = 3, id = {"haircut", "haircolor", "tatoos", "eyes"} } },
+						[4] = { job    = { n = 3, id = {"fight", "magic", "forage", "craft"} } }
 					}
-					local menu = getUI("ui:outgame:appear:"..node[slot].."_options")
-					if menu then
-						local n = 3
-						-- select specie
-						local id = {"fyros", "matis", "tryker", "zorai"}
-						-- select sex
-						if slot == 1 then
-							id = {"female", "male"}
-							n = 1
-						end
-						-- select body
-						if slot == 2 then
+					for menu, data in pairs(node[slot]) do
+						local ui = getUI("ui:outgame:appear:"..menu.."_options")
+						if ui then
 							-- no breast for male
-							if getDbProp("UI:TEMP:CHAR3D:VPA:SEX") == 1 then
-								n = 4
+							if slot == 2 and getDbProp("UI:TEMP:CHAR3D:VPA:SEX") == 0 then
+								data.n = 3
 							end
-							id = {"height", "torso", "arms", "legs", "breasts"}
-						end
-						-- select job
-						if slot == 4 then
-							id = {"fight", "magic", "forage", "craft"}
-							menu = menu:find("selection")
-						end
-						for i, opt in pairs(id) do
-							if menu:find(opt.."_but") then
-								if menu:find(opt.."_but").pushed then
-									self.charcreate.index = i - 1
+							-- face (sub)menus
+							if slot == 3 then
+								if self.charcreate.inMenuSub then
+									data.n = 7
+									data.id = {}
+									menu = "face_sub"
+									for i = 1, 8 do table.insert(data.id, "face"..i) end
+								end
+								-- no eyes color for zorai
+								if getDbProp("UI:TEMP:CHAR3D:PEOPLE") == 3 then
+									data.n = 2
+									-- also disable submenu slider
+									if self.charcreate.inMenuSub then
+										data.n = 6
+										table.remove(data.id, #data.id)
+									end
 								end
 							end
-						end
-						if event < 4 then -- down
-							if self.charcreate.index >= n then
-								self.charcreate.index = n
-							else
-								self.charcreate.index = self.charcreate.index + 1
+							-- change ui element for jobs
+							if slot == 4 then
+								ui = ui:find("selection")
 							end
-						else -- up
-							if self.charcreate.index <= 0 then
-								self.charcreate.index = 0
-							else
-								self.charcreate.index = self.charcreate.index - 1
+							-- update index's
+							for i, opt in pairs(data.id) do
+								if ui:find(opt.."_but") then
+									if ui:find(opt.."_but").pushed then
+										self.charcreate.index = i - 1
+									end
+								end
 							end
-						end
-						self:pAh("proc_select_"..node[slot].."|"..self.charcreate.index)
-						if slot == 2 then
-							setCaptureKeyboard(menu:find("scroll"..self.charcreate.index + 1))
+							if event < 4 then -- down
+								if self.charcreate.index >= data.n then
+									self.charcreate.index = data.n
+								else
+									self.charcreate.index = self.charcreate.index + 1
+								end
+							else -- up
+								if self.charcreate.index <= 0 then
+									self.charcreate.index = 0
+								else
+									self.charcreate.index = self.charcreate.index - 1
+								end
+							end
+							self:pAh("proc_select_"..menu.."|"..self.charcreate.index)
+							-- capture keyboard
+							if slot == 2 or slot == 3 then
+								local sv = "scroll"
+								if self.charcreate.inMenuSub then
+									sv = sv.."_sub"
+								end
+								setCaptureKeyboard(ui:find(sv..(self.charcreate.index + 1)))
+							end
 						end
 					end
 				end
