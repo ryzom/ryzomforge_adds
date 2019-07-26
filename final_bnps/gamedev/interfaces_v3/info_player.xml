@@ -332,16 +332,15 @@
             <!-- max limit -->
             <view type="bitmap" id="m" texture="blank.tga" posref="BL BL" scale="true" x="0" w="4" h="24" y="0" global_color="false" />
             <ctrl type="tooltip" id="ttm" posparent="m" x="0" y="0" sizeref="wh" w="0" h="0" on_tooltip="lua:game:updateFameBarTT('#path')" />
-            <view type="text_number" id="t" posref="BM BM" x="0" y="4" color="255 255 255 255" global_color="false" fontsize="12" value="#path:VALUE" shadow="true" />
+            <view type="text" id="t" posref="BM BM" x="0" y="4" color="255 255 255 255" global_color="false" fontsize="12" value="#path:VALUE" shadow="true" />
             <link expr="depends(@SERVER:FAME:THRESHOLD_TRADE, @SERVER:FAME:THRESHOLD_KOS, @#path:VALUE, @#path:THRESHOLD)" action="lua:game:updateFameBar('#path')" />
         </group>
     </template>
     <template name="fame_tribe_line" x="0" y="0" w="400" h="28" posref="TL TL" keep="true" id="" path="">
         <group id="#id" posref="#posref" w="#w" h="#h" x="#x" y="#y">
-            <view type="bitmap" id="bg" texture="blank.tga" posref="MM MM" scale="true" sizeref="wh" w="-2" h="-2" global_color="false" color="255 255 255 10" />
+            <view type="bitmap" id="bg" texture="blank.tga" posref="MM MM" scale="true" sizeref="wh" w="0" h="-2" global_color="false" color="255 255 255 10" />
             <instance template="fame_bar" id="fb" x="180" y="2" path="#path" />
-            <view type="text" id="t" posref="ML ML" x="0" y="0" color="255 255 255 255" fontsize="10" value="xxx tribe name" shadow="true" />
-            <link expr="ne(@#path:VALUE,-128)" target="fb:active" />
+            <view type="text" id="t" posref="ML ML" x="2" y="0" color="255 255 255 255" fontsize="10" value="xxx tribe name" shadow="true" />
         </group>
     </template>
     <template name="fame_tribe_line_icon" x="0" y="0" w="400" h="28" posref="TL TL" posparent="" keep="true" id="" path="" hardtext="" icon="">
@@ -349,7 +348,6 @@
             <instance template="fame_bar" id="fb" x="180" y="2" path="#path" />
             <view type="bitmap" id="icon" posref="ML ML" x="0" y="0" color="255 255 255 255" texture="#icon" inherit_gc_alpha="false" global_color="false" />
             <view type="text" id="t" posref="MR ML" posparent="icon" x="4" y="0" color="255 255 255 255" fontsize="10" hardtext="#hardtext" shadow="true" />
-            <link expr="ne(@#path:VALUE,-128)" target="fb:active" />
         </group>
     </template>
     <!-- **************** -->

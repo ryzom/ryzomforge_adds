@@ -738,7 +738,7 @@
         <action handler="cancel_choose_ui_alpha" params="" />
         <action handler="leave_modal" params="" />
     </proc>
-    <group type="modal" id="define_ui_transparency" posref="TM BM" y="-8" h="180" child_resize_w="true" child_resize_wmargin="16" exit_click_out="true" onclick_out="proc" onclick_out_params="cancel_choose_ui_alpha" options="skin_modal" win_priority="%win_priority_highest">
+    <group type="modal" id="define_ui_transparency" posref="TM BM" y="-8" h="190" child_resize_w="true" child_resize_wmargin="16" exit_click_out="true" onclick_out="proc" onclick_out_params="cancel_choose_ui_alpha" options="skin_modal" win_priority="%win_priority_highest">
         <view type="text" id="text_opacity" posref="TM TM" x="0" y="-4" color="255 255 255 255" fontsize="12" shadow="true" global_color="false" hardtext="uimChooseUIAlpha" />
         <!-- button to use global settings -->
         <group id="globals_settings" posparent="text_opacity" posref="BM TM" y="-8" child_resize_h="true" child_resize_w="true">

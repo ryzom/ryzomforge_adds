@@ -19456,7 +19456,6 @@ uittAliveLandscape	[L'animal est en vie, et en dehors de l'étable.\n
 // HASH_VALUE 3CB6917B84CD2195
 // INDEX 4693
 uittStable	[L'animal est à l'étable.\n
-	@{6F6F}Clic-gauche @{FFFF}pour sélectionner.\n
 	@{6F6F}Clic-droit @{FFFF}pour donner un ordre.]
 
 // HASH_VALUE AF075E2295E176F7
@@ -27533,117 +27532,122 @@ uiPATitleMount6	[Zig 2]
 // INDEX 6546
 uiPATitleMount7	[Zig 3]
 
-// HASH_VALUE 649A14CAE8181224
+// HASH_VALUE 44BA1C01D1DDC0A2
 // INDEX 6547
+uittInBag	[L'animal est dans votre sac.\n
+	@{6F6F}Clic-droit @{FFFF}pour donner un ordre.]
+
+// HASH_VALUE 649A14CAE8181224
+// INDEX 6548
 uimEnterBag	[Mettre dans le sac]
 
 // HASH_VALUE 6ED2B0829544BF4E
-// INDEX 6548
+// INDEX 6549
 uimLeaveBag	[Sortir du sac]
 
 // HASH_VALUE 843E4EA6D3404359
-// INDEX 6549
+// INDEX 6550
 msgRollDiceLocal	[&SYS&@{FF1F}Vous avez fait %roll sur un lancer entre %min et %max.]
 
 // HASH_VALUE A506B06C29D47491
-// INDEX 6550
+// INDEX 6551
 uiGuildTabIsland	[Île]
 
 // HASH_VALUE CEAE0F5379D05435
-// INDEX 6551
+// INDEX 6552
 uiArtefactRestrict	[@{C02F}Votre allégeance ou le niveau de votre renommée ne vous permet pas d'utiliser cet objet.]
 
 // HASH_VALUE 8F2D062BF5B9C40F
-// INDEX 6552
+// INDEX 6553
 uiArtefactHelp	[Achetez un pacte avant d'en manquer.]
 
 // HASH_VALUE 2399649083687012
-// INDEX 6553
+// INDEX 6554
 uimIhideBanner	[Masquer la bannière de faction]
 
 // HASH_VALUE 6949609B83899C11
-// INDEX 6554
+// INDEX 6555
 uimIshowBanner	[Montrer la bannière de faction]
 
 // HASH_VALUE ABC89C4230B523CE
-// INDEX 6555
+// INDEX 6556
 uimIcloseOnTp	[Fermer la fenêtre lors des téléportations]
 
 // HASH_VALUE AC39905229BA7F54
-// INDEX 6556
+// INDEX 6557
 uimIopenOnTp	[Conserver la fenêtre ouverte lors des téléportations]
 
 // HASH_VALUE EB1A8C8F22674C92
-// INDEX 6557
+// INDEX 6558
 uimIrefresh	[Rafraîchir]
 
 // HASH_VALUE 210983972690C4AB
-// INDEX 6558
+// INDEX 6559
 uimIcompact	[Basculer en mode compact]
 
 // HASH_VALUE 649C144C649C144C
-// INDEX 6559
+// INDEX 6560
 uimChanSave	[Sauvegarder]
 
 // HASH_VALUE AA977387EA09F021
-// INDEX 6560
+// INDEX 6561
 uiChanSaveCB	[Enregistrer les canaux dynamiques]
 
 // HASH_VALUE 2D6AB02BF4A8CCB9
-// INDEX 6561
+// INDEX 6562
 uiChanAutoCB	[Restauration des canaux dynamiques]
 
 // HASH_VALUE 6E62AFABF9C9FF64
-// INDEX 6562
+// INDEX 6563
 uittChanSave	[Si coché, les canaux de discussion dynamiques sont stockés lors de la déconnexion ou de la sélection des caractères.\n
 	Vous pouvez également utiliser la commande @{6F6F6F}/saveChannel@{FFFFFF} pour exporter les canaux manuellement.]
 
 // HASH_VALUE 1937B73191F88AC6
-// INDEX 6563
+// INDEX 6564
 uittChanAuto	[Si coché, vos canaux de discussion dynamiques seront restaurés s'ils ne sont pas déjà ouverts.\n
 	Prévient la perte de canaux au redémarrage ou en cas de panne du serveur.]
 
 // HASH_VALUE F7F6CC407B89B9D3
-// INDEX 6564
+// INDEX 6565
 uiWelcome_around	[Le jeu de rôle est l'un des intérêts majeurs de Ryzom, et le canal Alentours est un lieu privilégié pour le pratiquer.]
 
 // HASH_VALUE B061D9467D44EA31
-// INDEX 6565
+// INDEX 6566
 uiWelcome_region	[Discutez ici avec les joueurs dont l'avatar se trouve dans la même région que le vôtre.]
 
 // HASH_VALUE DB96555152E1C24F
-// INDEX 6566
+// INDEX 6567
 uiWelcome_universe	[Le canal Univers est un canal multilingue essentiellement destiné aux joueurs qui demandent de l'aide sur le jeu et à ceux qui la leur apportent. Mais c'est aussi un canal convivial qui peut être utilisé pour discuter de Ryzom.]
 
 // HASH_VALUE 7C727C9DF8FD147A
-// INDEX 6567
+// INDEX 6568
 uiWelcome_kami	[Discutez ici avec les joueurs dont l'avatar partage le même culte que le vôtre.]
 
 // HASH_VALUE 7C727C9DF8FD147A
-// INDEX 6568
+// INDEX 6569
 uiWelcome_karavan	[Discutez ici avec les joueurs dont l'avatar partage le même culte que le vôtre.]
 
 // HASH_VALUE 83F0F7CB75FA4A0B
-// INDEX 6569
+// INDEX 6570
 uiWelcome_fyros	[Discutez ici avec les joueurs dont l'avatar est lui aussi un patriote.]
 
 // HASH_VALUE 41F017BE7599221C
-// INDEX 6570
+// INDEX 6571
 uiWelcome_tryker	[Discutez ici avec les joueurs dont l'avatar est lui aussi un citoyen.]
 
 // HASH_VALUE 418FCFE09AC93216
-// INDEX 6571
+// INDEX 6572
 uiWelcome_zorai	[Discutez ici avec les joueurs dont l'avatar est lui aussi un initié.]
 
 // HASH_VALUE C3E0F7D1EA953E03
-// INDEX 6572
+// INDEX 6573
 uiWelcome_matis	[Discutez ici avec les joueurs dont l'avatar est lui aussi un vassal.]
 
 // HASH_VALUE 3FD0F7F686091E17
-// INDEX 6573
+// INDEX 6574
 uiWelcome_marauder	[Discutez ici avec les joueurs dont l'avatar est lui aussi un maraudeur.]
 
 // HASH_VALUE C08FF7CDEA955607
-// INDEX 6574
+// INDEX 6575
 uiWelcome_ranger	[Discutez ici avec les joueurs dont l'avatar est lui aussi un ranger.]
 
