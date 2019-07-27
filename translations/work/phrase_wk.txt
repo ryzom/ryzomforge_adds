@@ -593,6 +593,13 @@ TOXIC_CLOUD_DEFENDER_HIT(int damage, int reduction)
 	toxic_cloud_defender_hit	[&DMG&A toxic cloud hits you for $damage$ damage.]
 }
 
+
+HEAL_CLOUD_HIT(score s, int v)
+{
+	heal_cloud_hit	[&SPLM&You feel the effects of benevolent magic and get a bonus of $s$ of $v$.]
+}
+
+
 SOURCE_EXPLOSION_SPECTATOR_HIT(entity defender, int damage)
 {
 	source_explosion_spectator_hit	[&SYS&An explosion hits $defender$ for $damage$ damage.]
@@ -6027,6 +6034,11 @@ FACTION_RU()
 {
 	[русский Uni]
 }
+OPEN_SILAN_ANNOUNCE_TEXT()
+{
+	[Did you know we can reach Silan over the bark ? It seems that Rangers are maintaining a path whose entrance is at grove of confusion’s very end.]
+}
+
 MENU_HELLO_LEADER()
 {
 	[Hello?]
@@ -6078,4 +6090,51 @@ MENU_GLOWING_COAL()
 MENU_MATISPOETRY()
 {
 	[Collection of Matis poetry.]
+}
+MENU_BUY_PVP()
+{
+	[Buy Special Items]
+}
+MENU_CASINO_INSERT_COIN()
+{
+	[Play a token]
+}
+MENU_TRADE()
+{
+	[EXCHANGE]
+}
+
+MENU_LIGHT_UP()
+{
+	[Light]
+}
+
+MENU_SIT()
+{
+	[Sit down]
+}
+MENU_BUY_NATION_ITEMS()
+{
+	[Buy Nation Items]
+}
+
+MENU_USE_PA()
+{
+	[use your involvement]
+}
+MENU_HAVE_MISSION()
+{
+	[Do you have any mission to assign me?]
+}
+MENU_CAN_I_HELP_YOU()
+{
+	[Can you help me?]
+}
+MENU_HAVE_SOMETHINH_FOR_ME()
+{
+	[Have you something for me?]
+}
+MENU_NEED_SOME_INFORMATIONS()
+{
+	[I need some informations...]
 }

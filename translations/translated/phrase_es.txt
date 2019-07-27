@@ -32118,6 +32118,22 @@ HARVEST_SUCCESS_OTHER (player p, int nb, item item, int quality)
 
 }
 
+/* OLD VALUE : [
+	HEAL_CLOUD_HIT (score s, int v)
+	{
+			heal_hit	[&SPLM&You feel the effects of benevolent magic and get a bonus of $s$ of $v$.]
+	
+	}
+	
+] */
+// Clause 0 : identifier changed.
+// HASH_VALUE 185C26D22AA1B90A
+HEAL_CLOUD_HIT (score s, int v)
+{
+		heal_cloud_hit	[&SPLM&Sientes los efectos de la magia benevolente y obtienes un bono de $s$ de $v$.]
+
+}
+
 // HASH_VALUE D7C86844FFB3AEF1
 HOI_CHO_CITY_WELCOMER_1_P_T2_WELCOMER (bot givervar)
 {
