@@ -210,6 +210,7 @@
 <!-- the id must be keys_### where ### is the name of the category -->
 <!-- dont remember if you add / remove a category to update hierarchy.xml -->
 <instance template="t_all_keys" id="keys_player"	title="uiKeysPlayerTitle" />
+<instance template="t_all_keys" id="keys_animals"	title="uiAnimalsTitle" />
 <instance template="t_all_keys" id="keys_movement"	title="uiKeysMovementTitle" />
 <instance template="t_all_keys" id="keys_actions"	title="uiKeysActionsTitle" />
 <instance template="t_all_keys" id="keys_chat"		title="uiKeysChatTitle" />
@@ -659,6 +660,7 @@
 
 <tree node="keys" >
 	<tree node="keys_player"/>
+	<tree node="keys_animals"/>
 	<tree node="keys_movement"/>
 	<tree node="keys_actions"/>
 	<tree node="keys_chat"/>

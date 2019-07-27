@@ -9981,8 +9981,29 @@ _6F5B988A160E3512	liv_laby2012_start_npc	Ba'peappy Shidgen
 _0EA1F8323AECDB4B	kami_altar_silan_shining_lake	$gn_kami_altar_silan_shining_lake$			
 _DA6E381CF5EC33A6	kami_altar_silan_ranger_camp	$gn_kami_altar_silan_ranger_camp$			
 _3F5EE511C9E08509	sage_marauder_rite_giver	Erhialor Krinrund			
+_42348E4C7B7E29B7	temp_maro_direct_acces_to_alamti	Qung Wo-Jin			
 _EA6E25F71F768C33	StockMonture_PNJ_A	Ba'Shekry Brafflie			
 _916ECDF82395B380	StockMonture_PNJ_B	Mac'Roffy Shillan			
 _1329441BAAA6F097	marauder_camp_foreman	Shonga DeFao			
+_2DEAB08C2D55AB9F	nh_matis_yrkanis	Vizzo Chiari			
+_6ED7D48396D7D894	nh_matis_natae	Rosichini Cuisi			
+_230290A96C57E88C	nh_matis_davae	Vino Cilli			
+_EAA87CABA3F753A4	nh_matis_avalae	Triero Sillo			
+_5E5E09286266CAB5	nh_tryker_fairhaven	Ba'keepsey Gamen			
+_58016C1BE2B84CAC	nh_tryker_avendale	O'lyngan Wirman			
+_24F398A8E65AF8A0	nh_tryker_crystabell	Ripffy Acher			
+_AE3EF1126769174F	nh_tryker_windermeer	O'peanin Aeddan			
+_E373E0AA644847AB	nh_zorai_zora	Ciang Ka-Wio			
+_5B47A889A3F42077	nh_zorai_jen_lai	Mia Jo-Mon			
+_9BC76C725B597887	nh_zorai_hoi_cho	Weo Qia-Nen			
+_6CF7604A2A69304F	nh_zorai_min_cho	Pong Hui-Shiang			
+_ACC9D0AAAE8A1851	nh_fyros_pyr	Piphylus Kridon			
+_6D390C562767D0B1	nh_fyros_dyron	Ibiratheus Dyla			
+_A947185962A9E4B6	nh_fyros_thesos	Plegriion Dela			
+_2738A46F2484ECC2	kamishopai_fyros	Aexius Abyn			
+_2B97A46ADB39306F	kamishopai_zorai	Wiao Ho-Gu			
+_656954799C98B0A1	karashopai_matis	Sivaldo Zania			
+_507400AC6A18D4B1	karashopai_tryker	Be'keeins Hanan			
+_EDC81F9D2986979C	marauder_civ_shop	Ving Mia-Wuan			
 _A67747ACA7496082	marauder_camp_barman	Kelen BaRopi			
-_42348E4C7B7E29B7	temp_maro_direct_acces_to_alamti	Qung Wo-Jin			
+_100BC3D71FC56D33	rite_geo_mat_maj_gar_1_maccia_pittore	Maccia Pittore			

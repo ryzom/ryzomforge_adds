@@ -4300,3 +4300,11 @@ rpjob_205	<GEN>rpjob_205
 rpjob_206	<GEN>rpjob_206									
 rpjob_207	<GEN>rpjob_207									
 titre_gloire_kitinierereine	<GEN>titre_gloire_kitinierereine									
+bcfaea22	Fyros Light Panties Craft Pattern		a	the				Brick Craftman's plan for fyros light panties		
+bcfaea23	Fyros Light Bra Craft Pattern		a	the				Brick Craftman's plan for fyros light bra		
+bcmaea22	Matis Light Panties Craft Pattern		a	the				Brick Craftman's plan for matis light panties		
+bcmaea23	Matis Light Bra Craft Pattern		a	the				Brick Craftman's plan for matis light bra		
+bctaea22	Tryker Light Panties Craft Pattern		a	the				Brick Craftman's plan for tryker light panties		
+bctaea23	Tryker Light Bra Craft Pattern		a	the				Brick Craftman's plan for tryker light bra		
+bczaea22	Zorai Light Panties Craft Pattern		a	the				Brick Craftman's plan for zorai light panties		
+bczaea23	Zorai Light Bra Craft Pattern		a	the				Brick Craftman's plan for zorai light bra		

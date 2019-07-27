@@ -1827,6 +1827,7 @@ _7F0B4DC68CD49FC6	m0152chdca01	Fragment of Basic Yubo Skin	a	the	Fragments of Ba
 _EFBE6F51CDF30DB8	m0152chdcb01	Fragment of Fine Yubo Skin	a	the	Fragments of Fine Yubo Skin	\d	the	
 _B97673F4BE8F1630	m0152chdce01	Fragment of Supreme Yubo Skin	a	the	Fragments of Supreme Yubo Skin	\d	the	
 _C8BE4A431B578B1A	m0152chdfd01	Fragment of Excellent Forest Yubo Skin	a	the	Fragments of Excellent Forest Yubo Skin	\d	the	
+_1585772320CF3E73	m0152chdfe01	Fragment of Supreme Forest Yubo Skin	a	the	Fragments of Supreme Forest Yubo Skin		the	
 _78D82D226513BA79	m0152chdlc01	Fragment of Choice Lakes Yubo Skin	a	the	Fragments of Choice Lakes Yubo Skin	\d	the	
 _FDCB60E38D5292E9	m0153ccica01	Basic Zerx Bone	a	the	Basic Zerx Bones	\d	the	
 _416A990E49B1E131	m0153ccicb01	Fine Zerx Bone	a	the	Fine Zerx Bones	\d	the	
@@ -4788,21 +4789,25 @@ _FC0ACF874E6294CF	m0688chdca01	Fragment of Basic Yubo Eye	a	the	Fragments of Bas
 _D407637EA95050CD	m0688chdcb01	Fragment of Fine Yubo Eye	a	the	Fragments of Fine Yubo Eye	\d	the	
 _71197D5C84253BBD	m0688chdce01	Fragment of Supreme Yubo Eye	a	the	Fragments of Supreme Yubo Eye	\d	the	
 _91CDD568BFEF2F4A	m0688chdfd01	Fragment of Excellent Forest Yubo Eye	a	the	Fragments of Excellent Forest Yubo Eye	\d	the	
+_DE310F9D8E3A2B6A	m0688chdfe01	Fragment of Supreme Forest Yubo Eye	a	the	Fragments of Supreme Forest Yubo Eye		the	
 _9D6E51B1F026F503	m0688chdlc01	Fragment of Choice Lakes Yubo Eye	a	the	Fragments of Choice Lakes Yubo Eye	\d	the	
 _7F3B4CCC4BA386D1	m0690chdca01	Basic Yubo Nail	a	the	Basic Yubo Nails	\d	the	
 _C06B79158530A135	m0690chdcb01	Fine Yubo Nail	a	the	Fine Yubo Nails	\d	the	
 _CDB7A6435BB46691	m0690chdce01	Supreme Yubo Nail	a	the	Supreme Yubo Nails	\d	the	
 _7A7053EA2C464CCF	m0690chdfd01	Excellent Forest Yubo Nail	an	the	Excellent Forest Yubo Nails	\d	the	
+_C00E6843EB24FCFB	m0690chdfe01	Supreme Forest Yubo Nail	a	the	Supreme Forest Yubo Nails		the	
 _5FB9DFF36108BB7C	m0690chdlc01	Choice Lakes Yubo Nail	a	the	Choice Lakes Yubo Nails	\d	the	
 _2AA350F007B3A533	m0691chdca01	Fragment of Basic Yubo Pelvis	a	the	Fragments of Basic Yubo Pelvis	\d	the	
 _E7C110B597F7CBA6	m0691chdcb01	Fragment of Fine Yubo Pelvis	a	the	Fragments of Fine Yubo Pelvis	\d	the	
 _0C3806DE1EAFB217	m0691chdce01	Fragment of Supreme Yubo Pelvis	a	the	Fragments of Supreme Yubo Pelvis	\d	the	
 _7383D6E7A1855619	m0691chdfd01	Fragment of Excellent Forest Yubo Pelvis	a	the	Fragments of Excellent Forest Yubo Pelvis	\d	the	
+_465CCECD3BC0AC4E	m0691chdfe01	Fragment of Supreme Forest Yubo Pelvis	a	the	Fragments of Supreme Forest Yubo Pelvis		the	
 _1E2DEF0FAE9C738D	m0691chdlc01	Fragment of Choice Lakes Yubo Pelvis	a	the	Fragments of Choice Lakes Yubo Pelvis	\d	the	
 _D90195B95821DD09	m0692chdca01	Basic Yubo Tooth	a	the	Basic Yubo Teeth	\d	the	
 _6D8F1E50D664C928	m0692chdcb01	Fine Yubo Tooth	a	the	Fine Yubo Teeth	\d	the	
 _51C32D9176A72F97	m0692chdce01	Supreme Yubo Tooth	a	the	Supreme Yubo Teeth	\d	the	
 _19E64F4FE574BBC2	m0692chdfd01	Excellent Forest Yubo Tooth	an	the	Excellent Forest Yubo Teeth	\d	the	
+_C12AE35B86B8AC6D	m0692chdfe01	Supreme Forest Yubo Tooth	a	the	Supreme Forest Yubo Tooths		the	
 _75B63A4CB89A8053	m0692chdlc01	Choice Lakes Yubo Tooth	a	the	Choice Lakes Yubo Teeth	\d	the	
 _D3A386FF6E47CA93	m0693ccica01	Basic Zerx Ligament	a	the	Basic Zerx Ligaments	\d	the	
 _0E632A9171F48E8C	m0693ccicb01	Fine Zerx Ligament	a	the	Fine Zerx Ligaments	\d	the	
@@ -7838,3 +7843,13 @@ _A2FF80E996E9EFC2	ic_anlor_weapon01b	Scythe of Terror	a	the	Scythe of Terror	\d	
 _D724D6100BB56D2F	ic_anlor_weapon02	Evil weapon	an	the	Evil weapon	\d	the	
 _1D034E8A12E3B57D	ic_anlor_weapon02b	Evil weapon	an	the	Evil weapon	\d	the	
 _2F30ECB7254673DE	ic_anlor_helmet01	Anlor Winn helmet	a	the	Anlor Winn helmet	\d	the	
+_8057FEC566E39271	icfaup	Hoben Panties	\d	the	Hoben Panties	\d	the	Fyros Light Panties
+_B5342191FD4AD9B1	icfauv	Hoben Bra	\d	the	Hoben Bra	\d	the	Fyros Light Bra
+_80C7E6C760539271	icmaup	Wiva Panties	a	the	Wiva Panties	\d	the	Matis Light Panties
+_B5A40993F7BAD9B1	icmauv	Wiva Bra	a	the	Wiva Bra	\d	the	Matis Light Bra
+_DE77E608A092B618	ictaup	Tissan Panties	\d	the	Tissan Panties	\d	the	Tryker Light Panties
+_55FF165F364CCCED	ictauv	Tissan Bra	\d	the	Tissan Bra	\d	the	Tryker Light Bra
+_80F7C6C5E3249271	iczaup	Nin-Ka Panties	\d	the	Nin-Ka Panties	\d	the	Zoraï Light Panties
+_B5D4E9917A8BD9B1	iczauv	Nin-Ka Bra	\d	the	Nin-Ka Bra	\d	the	Zoraï Light Bra
+_7179D6FE2D87A5B8	tp_interface_kami	Kami Teleportation Artefact	a	the	Kami Teleportation Artefact	the		
+_84020E9F43014E3E	tp_interface_karavan	Karavan Teleportation Artefact	a	the	Karavan Teleportation Artefact	the		

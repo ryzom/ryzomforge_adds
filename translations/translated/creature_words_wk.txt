@@ -1346,6 +1346,7 @@ _C3BF350C27998022	chddf2	Fierce Yubo	a	the			Fierce Yubos		the
 _43F04D06A8899424	chddf3	Ferocious Yubo	a	the			Ferocious Yubos		the
 _05CDCD36342DBCF4	chdfa1	Suckling Yubo	a	the			Suckling Yubos		the
 _57F8400AEC28EF73	chdfa2	Weanling Yubo	a	the			Weanling Yubos		the
+_63A9649E6AD89FA6	chdfa7	Yubokin	a	the			Yubokin		the
 _DEC4FC9E1618D7BF	chdfb1	Timorous Yubo	a	the			Timorous Yubos		the
 _1DC4A89C1396D3B3	chdfb2	Roaming Yubo	a	the			Roaming Yubos		the
 _57B73CFAEFF8276D	chdfb3	Scampering Yubo	a	the			Scampering Yubos		the
