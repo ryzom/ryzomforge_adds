@@ -27792,117 +27792,122 @@ uiPATitleMount6	[Zig 2]
 // INDEX 6546
 uiPATitleMount7	[Zig 3]
 
-// HASH_VALUE 649A14CAE8181224
+// HASH_VALUE 44BA1C01D1DDC0A2
 // INDEX 6547
+uittInBag	[The animal is in your bag.\n
+	@{6F6F}Right click @{FFFF}to give an order.]
+
+// HASH_VALUE 649A14CAE8181224
+// INDEX 6548
 uimEnterBag	[Enter on the bag]
 
 // HASH_VALUE 6ED2B0829544BF4E
-// INDEX 6548
+// INDEX 6549
 uimLeaveBag	[Leave from the bag]
 
 // HASH_VALUE 843E4EA6D3404359
-// INDEX 6549
+// INDEX 6550
 msgRollDiceLocal	[&SYS&@{FF1F}You pulled %roll in a draw between %min and %max.]
 
 // HASH_VALUE A506B06C29D47491
-// INDEX 6550
+// INDEX 6551
 uiGuildTabIsland	[Island]
 
 // HASH_VALUE CEAE0F5379D05435
-// INDEX 6551
+// INDEX 6552
 uiArtefactRestrict	[@{C02F}Your allegiance or level of fame does not allow to use this item.]
 
 // HASH_VALUE 8F2D062BF5B9C40F
-// INDEX 6552
+// INDEX 6553
 uiArtefactHelp	[Purchase a pact before running out of stock.]
 
 // HASH_VALUE 2399649083687012
-// INDEX 6553
+// INDEX 6554
 uimIhideBanner	[Hide faction banner]
 
 // HASH_VALUE 6949609B83899C11
-// INDEX 6554
+// INDEX 6555
 uimIshowBanner	[Show faction banner]
 
 // HASH_VALUE ABC89C4230B523CE
-// INDEX 6555
+// INDEX 6556
 uimIcloseOnTp	[Teleport close window]
 
 // HASH_VALUE AC39905229BA7F54
-// INDEX 6556
+// INDEX 6557
 uimIopenOnTp	[Teleport keep window]
 
 // HASH_VALUE EB1A8C8F22674C92
-// INDEX 6557
+// INDEX 6558
 uimIrefresh	[Refresh]
 
 // HASH_VALUE 210983972690C4AB
-// INDEX 6558
+// INDEX 6559
 uimIcompact	[Toggle compact mode]
 
 // HASH_VALUE 649C144C649C144C
-// INDEX 6559
+// INDEX 6560
 uimChanSave	[Save]
 
 // HASH_VALUE AA977387EA09F021
-// INDEX 6560
+// INDEX 6561
 uiChanSaveCB	[Save Dynamic Channels]
 
 // HASH_VALUE 2D6AB02BF4A8CCB9
-// INDEX 6561
+// INDEX 6562
 uiChanAutoCB	[Restore Dynamic Channels]
 
 // HASH_VALUE 6E62AFABF9C9FF64
-// INDEX 6562
+// INDEX 6563
 uittChanSave	[If checked, dynamic chat channels are stored at disconnection or character selection.\n
 	You can also use the command @{6F6F}/saveChannel@{FFFF} to export channels manually.]
 
 // HASH_VALUE 1937B73191F88AC6
-// INDEX 6563
+// INDEX 6564
 uittChanAuto	[If checked, your dynamic chat channels will be restored if not already opened.\n
 	Will prevent the loss of channels at reboot or in case of server crash.]
 
 // HASH_VALUE F7F6CC407B89B9D3
-// INDEX 6564
+// INDEX 6565
 uiWelcome_around	[Roleplay is one of major interests of Ryzom, and around channel is an important place to practice it.]
 
 // HASH_VALUE B061D9467D44EA31
-// INDEX 6565
+// INDEX 6566
 uiWelcome_region	[Chat here with other players having their avatar in the same region as where yours is.]
 
 // HASH_VALUE DB96555152E1C24F
-// INDEX 6566
+// INDEX 6567
 uiWelcome_universe	[The Universe Channel is first of all intended for players asking help about the game and for those helping them. It's a friendly channel that also can be used for chatting related to Ryzom.]
 
 // HASH_VALUE 7C727C9DF8FD147A
-// INDEX 6567
+// INDEX 6568
 uiWelcome_kami	[Chat here with players having their avatar sharing the same cult as yours.]
 
 // HASH_VALUE 7C727C9DF8FD147A
-// INDEX 6568
+// INDEX 6569
 uiWelcome_karavan	[Chat here with players having their avatar sharing the same cult as yours.]
 
 // HASH_VALUE 83F0F7CB75FA4A0B
-// INDEX 6569
+// INDEX 6570
 uiWelcome_fyros	[Chat here with players having their avatar being also a patriot.]
 
 // HASH_VALUE 41F017BE7599221C
-// INDEX 6570
+// INDEX 6571
 uiWelcome_tryker	[Chat here with players having their avatar being also a citizen.]
 
 // HASH_VALUE 418FCFE09AC93216
-// INDEX 6571
+// INDEX 6572
 uiWelcome_zorai	[Chat here with players having their avatar being also an initiate.]
 
 // HASH_VALUE C3E0F7D1EA953E03
-// INDEX 6572
+// INDEX 6573
 uiWelcome_matis	[Chat here with players having their avatar being also a vassal.]
 
 // HASH_VALUE 3FD0F7F686091E17
-// INDEX 6573
+// INDEX 6574
 uiWelcome_marauder	[Chat here with players having their avatar being also a marauder.]
 
 // HASH_VALUE C08FF7CDEA955607
-// INDEX 6574
+// INDEX 6575
 uiWelcome_ranger	[Chat here with players having their avatar being also a ranger.]
 

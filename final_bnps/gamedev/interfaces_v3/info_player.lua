@@ -428,10 +428,28 @@ end
 
 ------------------------------------------------------------------------------------------------------------
 function game:updateFameBar(path)
+	local	ui = getUICaller();
 	local	thresholdKOS = getDbProp('SERVER:FAME:THRESHOLD_KOS');
 	local	thresholdTrade = getDbProp('SERVER:FAME:THRESHOLD_TRADE');
 	local	fameValue = getDbProp(path .. ':VALUE');
 	local	fameMax = getDbProp(path .. ':THRESHOLD');
+
+	-- known/unknown fame
+	local	fameVisible = fameValue ~= -128
+	if fameVisible then
+		-- show unmodified value stored in #path:VALUE
+		ui.t.hardtext = fameValue
+	else
+		ui.t.hardtext = "?"
+	end
+	-- show/hide fame bar components
+	ui.m.active = fameVisible
+	ui.p0.active = fameVisible
+	ui.p1.active = fameVisible
+	ui.p2.active = fameVisible
+	ui.p3.active = fameVisible
+	ui.p4.active = fameVisible
+	ui.bar3d.active = fameVisible
 
 	if (thresholdKOS < -100) then thresholdKOS = -100; end
 	if (thresholdKOS > 100) then thresholdKOS = 100; end
@@ -445,7 +463,6 @@ function game:updateFameBar(path)
 	if (thresholdKOS > thresholdTrade) then thresholdKOS = thresholdTrade; end
 	if (fameValue > fameMax) then fameValue = fameMax; end
 
-	local	ui = getUICaller();
 	local	uiPart0 = ui.p0;
 	local	uiPart1 = ui.p1;
 	local	uiPart2 = ui.p2;
