@@ -13561,6 +13561,8 @@ uiMacroItemGroupDestination [Item group destination]
 //map search
 uiMapSearch [Map search]
 uittMapSearch [Map search]
+uiTargetLandmarkCmd [Target map landmark]
+uiTargetLandmarkCmdEntity [Landmark search keywords]
 
 uittInventorySearch [Search]
 
