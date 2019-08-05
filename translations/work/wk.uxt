@@ -13475,6 +13475,8 @@ uiVRGeneral	[Virtual Reality Options]
 uigcVR	[VIRTUAL REALITY]
 uigcFxAnisotropicFilter	[Anisotropic Filtering:]
 uigcFxAnisotropicFilterNone	[None]
+uiShowIconBuffs [Show item stat and encahnt on item icon]
+uittShowIconBuffs [Show item stat and enchant on item icon]
 uiShowClock12h [Use 12-hour clock]
 uittShowClock12h [If checked, use 12-hour clock in compass and in chat messages.]
 uiRadarUseCamera [Radar follows camera rotation]
@@ -13574,6 +13576,8 @@ uiMacroItemGroupDestination [Item group destination]
 //map search
 uiMapSearch [Map search]
 uittMapSearch [Map search]
+uiTargetLandmarkCmd [Target map landmark]
+uiTargetLandmarkCmdEntity [Landmark search keywords]
 
 uittInventorySearch [Search]
 
