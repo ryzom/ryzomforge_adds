@@ -243,6 +243,7 @@ function game:initNpcWebPageData()
 		self.NpcWebPage= {};
 		self.NpcWebPage.UrlTextId= 0;
 		self.NpcWebPage.BrowseDone= false;
+		self.NpcWebPage.WaitingDynStr = false
 	end
 end
 
@@ -307,6 +308,7 @@ function game:onDrawNpcWebPage()
 end
 
 ------------------------------------------------------------------------------------------------------------
+-- UNUSED???
 function game:initNpcWebPage()
 	local	ui= getUICaller();
 	if(ui~=nil) then
@@ -315,24 +317,58 @@ function game:initNpcWebPage()
 end
 
 ------------------------------------------------------------------------------------------------------------
+function game:onDbChangeAppPage()
+	if getDbProp("UI:VARIABLES:CURRENT_SERVER_TICK") > self.NpcWebPage.Timeout then
+		local npcName = getTargetName()
+		local message  = ucstring()
+		local text = i18n.get("uiTalkMemMsg00")
+		message:fromUtf8("@{FFFF}"..text:toUtf8())
+		displaySystemInfo(message, "BC")
+		removeOnDbChange(getUI("ui:interface:npc_web_browser"),"@UI:VARIABLES:CURRENT_SERVER_TICK")
+	end
+end
+
 function game:startNpcWebPage()
 	self:initNpcWebPageData();
 
 	-- set the new page to explore.
 	-- NB: must backup the Database, because don't want that the page change when clicking an other NPC
-	self.NpcWebPage.UrlTextId= getDbProp('LOCAL:TARGET:CONTEXT_MENU:WEB_PAGE_URL');
-	self.NpcWebPage.BrowseDone= false;
-
-	-- reset the page (empty url) and undo / redo
-	runAH(nil, "browse", "name=ui:interface:npc_web_browser:content:html|url=release_wk.html|localize=1");
-	clearHtmlUndoRedo("ui:interface:npc_web_browser:content:html");
-	local ui= getUI("ui:interface:npc_web_browser");
-	if(ui~=nil) then
-		ui.active= true;
+	if not self.NpcWebPage.WaitingDynStr then
+		self.NpcWebPage.UrlTextId = getDbProp("LOCAL:TARGET:CONTEXT_MENU:WEB_PAGE_URL");
 	end
-	ui:find("browse_redo").active = false
-	ui:find("browse_undo").active = false
-	ui:find("browse_refresh").active = false
+	self.NpcWebPage.BrowseDone = false;
+
+	available = isDynStringAvailable(self.NpcWebPage.UrlTextId)
+	if available then
+		if self.NpcWebPage.WaitingDynStr then
+			self.NpcWebPage.WaitingDynStr = false
+			removeOnDbChange(getUI("ui:interface:npc_web_browser"),"@UI:VARIABLES:CURRENT_SERVER_TICK")
+		end
+		local ucUrl = getDynString(self.NpcWebPage.UrlTextId)
+		local utf8Url = ucUrl:toUtf8()
+
+		if utf8Url:sub(1, 4) == "http" then
+			runAH(nil, "browse", "name=ui:interface:npc_web_browser:content:html|url=release_wk.html|localize=1");
+			clearHtmlUndoRedo("ui:interface:npc_web_browser:content:html");
+			local ui= getUI("ui:interface:npc_web_browser");
+			if(ui~=nil) then
+				ui.active= true;
+			end
+			ui:find("browse_redo").active = false
+			ui:find("browse_undo").active = false
+			ui:find("browse_refresh").active = false
+		else
+			setTargetAsInterlocutor()
+			self.NpcWebPage.Timeout = getDbProp("UI:VARIABLES:CURRENT_SERVER_TICK")+7
+			addOnDbChange(getUI("ui:interface:npc_web_browser"),"@UI:VARIABLES:CURRENT_SERVER_TICK", "game:onDbChangeAppPage()")
+
+			-- App url, need sign it with server
+			runCommand("a", "openTargetApp", utf8Url)
+		end
+	else
+		self.NpcWebPage.WaitingDynStr = true
+		addOnDbChange(getUI("ui:interface:npc_web_browser"),"@UI:VARIABLES:CURRENT_SERVER_TICK", "game:startNpcWebPage()")
+	end
 end
 
 ------------------------------------------------------------------------------------------------------------
@@ -375,29 +411,6 @@ end
 ------------------------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------------------------------
-function game:initFamePos()
-	local	ui = getUICaller();
-
-	-- assign good bar with good text
-
-	local	uiList = { 'fyros', 'matis', 'tryker', 'zorai', 'kami', 'karavan', 'black_kami'};
-
-	for k,v in pairs(uiList) do
-		-- get ui text
-		local uiTextRef = getUI(getUIId(ui) .. ':' .. v);
-		local fameIdx = getFameDBIndex(getFameIndex(v));
-		-- put bar in front of it
-		if (fameIdx >= 0) and (fameIdx <= 6) then
-			local uiBar = getUI(getUIId(ui) .. ':fb' .. fameIdx);
-			uiBar.y = uiTextRef.y - uiTextRef.h / 2 + uiBar.h / 2;
-		else
-			debugInfo('Error init fame bar pos for ' .. v);
-		end
-	end
-
-end
-
-------------------------------------------------------------------------------------------------------------
 function game:initFameTribe()
 	local	ui = getUICaller();
 
@@ -415,10 +428,28 @@ end
 
 ------------------------------------------------------------------------------------------------------------
 function game:updateFameBar(path)
+	local	ui = getUICaller();
 	local	thresholdKOS = getDbProp('SERVER:FAME:THRESHOLD_KOS');
 	local	thresholdTrade = getDbProp('SERVER:FAME:THRESHOLD_TRADE');
 	local	fameValue = getDbProp(path .. ':VALUE');
 	local	fameMax = getDbProp(path .. ':THRESHOLD');
+
+	-- known/unknown fame
+	local	fameVisible = fameValue ~= -128
+	if fameVisible then
+		-- show unmodified value stored in #path:VALUE
+		ui.t.hardtext = fameValue
+	else
+		ui.t.hardtext = "?"
+	end
+	-- show/hide fame bar components
+	ui.m.active = fameVisible
+	ui.p0.active = fameVisible
+	ui.p1.active = fameVisible
+	ui.p2.active = fameVisible
+	ui.p3.active = fameVisible
+	ui.p4.active = fameVisible
+	ui.bar3d.active = fameVisible
 
 	if (thresholdKOS < -100) then thresholdKOS = -100; end
 	if (thresholdKOS > 100) then thresholdKOS = 100; end
@@ -432,7 +463,6 @@ function game:updateFameBar(path)
 	if (thresholdKOS > thresholdTrade) then thresholdKOS = thresholdTrade; end
 	if (fameValue > fameMax) then fameValue = fameMax; end
 
-	local	ui = getUICaller();
 	local	uiPart0 = ui.p0;
 	local	uiPart1 = ui.p1;
 	local	uiPart2 = ui.p2;
@@ -1431,6 +1461,8 @@ function game:onInGameDbInitialized()
 	end
 
 	game:setInfoPlayerCharacterRace()
+	--
+	game:openChannels()
 
 	runAH(nil, "sort_tribefame", "")
 end
@@ -1447,6 +1479,12 @@ end
 function game:onFarTpStart()
 	debugInfo("game:onFarTpStart()")
 	--game:deinitWebIgApps()
+	--
+	if getDbProp("UI:SAVE:CHAT:SAVE_CHANNEL") > 0 then
+		game:saveChannel()
+	end
+
+	artefact:onClose()
 end
 
 --------------------------------------------------------------------------------------------------------------
@@ -1461,7 +1499,12 @@ end
 function game:onMainLoopEnd()
 	game.InGameDbInitialized = false
 	game:updateMissionJournalFixedEntry()
+	--
+	if getDbProp("UI:SAVE:CHAT:SAVE_CHANNEL") > 0 then
+		game:saveChannel()
+	end
 
+	artefact:onClose()
 end
 
 --------------------------------------------------------------------------------------------------------------

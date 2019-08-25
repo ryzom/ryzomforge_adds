@@ -7851,3 +7851,5 @@ ictaup	Tryker Light Panties	a	the	Fyros Light Panties		the
 ictauv	Tryker Light Bra	a	the	Fyros Light Bra		the									
 iczaup	Zorai Light Panties	a	the	Fyros Light Panties		the									
 iczauv	Zorai Light Bra	a	the	Fyros Light Bra		the									
+tp_interface_kami	Kami Teleportation Artefact	a	the	Kami Teleportation Artefact	the	
+tp_interface_karavan	Karavan Teleportation Artefact	a	the	Karavan Teleportation Artefact	the	

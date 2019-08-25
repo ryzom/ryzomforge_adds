@@ -8,6 +8,21 @@ if (game==nil) then
 end
 
 ------------------------------------------------------------------------------------------------------------
+-- 
+function string:split(Pattern)
+    local Results = {}
+    local Start = 1
+    local SplitStart, SplitEnd = string.find(self, Pattern, Start)
+    while(SplitStart)do
+        table.insert(Results, string.sub(self, Start, SplitStart-1))
+        Start = SplitEnd+1
+        SplitStart, SplitEnd = string.find(self, Pattern, Start)
+    end
+    table.insert(Results, string.sub(self, Start))
+    return Results
+end
+
+------------------------------------------------------------------------------------------------------------
 -- called when server send an invitaion we receive a text id containing the string to display (invitor name)
 function game:onTeamInvation(textID)
 
@@ -35,6 +50,45 @@ function game:teamInvitationRefuse()
 	local ui = getUI('ui:interface:join_team_proposal');
 	ui.active = false;
 	sendMsgToServer('TEAM:JOIN_PROPOSAL_DECLINE');
+end
+
+------------------------------------------------------------------------------------------------------------
+-- send team invite from friendslist
+function game:teamInvite(uiID)
+	runAH(nil, 'talk', 'mode=0|text=/invite '.. getUI('ui:interface:' .. uiID).title)
+end
+
+------------------------------------------------------------------------------------------------------------
+-- send team invite from guildwindow
+function game:teamInviteFromGuild(uiID)
+	runAH(nil, 'talk', 'mode=0|text=/invite ' .. getGuildMemberName(tonumber(uiID:split(":m")[2])))
+end
+
+------------------------------------------------------------------------------------------------------------
+--Send Guild invite from guildwindow
+function game:invToGuild()
+	player = getUI('ui:interface:add_guild'):find('edit_text').hardtext:split(">")[2]
+	if(player ~= '')then
+		runAH(nil, 'talk', 'mode=0|text=/guildinvite ' .. player)
+	end
+	runAH(nil, 'leave_modal', '')
+end
+
+------------------------------------------------------------------------------------------------------------
+--Check and active invite to guild button
+function game:updateGLinvB()
+	if(getUI('ui:interface:guild').active)then
+		for v = 0, (getNbGuildMembers()-1) do
+			local invB = getUI('ui:interface:guild:content:tab_guild_info:invite')
+			if(getGuildMemberGrade(v) ~= 'Member')then
+				if(invB.active == false)then
+					invB.active = true
+				end
+			else
+				invB.active = false
+			end
+		end
+	end
 end
 
 ------------------------------------------------------------------------------------------------------------
@@ -587,4 +641,170 @@ end
 function game:chatUrlBrowse()
 	runAH(nil, "browse", "name=ui:interface:webig:content:html|url=" .. SavedUrl)
 end
+------------------------------------------------------------------------------------------------------------
+-- called from onInGameDbInitialized
+function game:openChannels()
 
+	if getDbProp("UI:SAVE:CHAT:AUTO_CHANNEL") > 0 then
+		local channels = readUserChannels()
+
+		if channels then
+			for name, pass in pairs(channels) do
+				local found = false
+				local chan = nil
+
+				for i = 0, getMaxDynChan() - 1 do
+					if getDbProp("UI:SAVE:ISENABLED:DYNAMIC_CHAT"..i) == 1 then
+						local id = getDbProp("SERVER:DYN_CHAT:CHANNEL"..i..":NAME")
+
+						if isDynStringAvailable(id) then
+							chan = getDynString(id):toUtf8()
+							-- already opened ?
+							if name == chan then
+								found = true
+							end
+						end
+					end
+				end
+
+				if not found then
+					game:connectUserChannel(name.." "..pass)
+				end
+			end
+		end
+	end
+
+end
+
+------------------------------------------------------------------------------------------------------------
+-- called to save user created channels
+function game:saveChannel(verbose)
+
+	if verbose == nil then
+		verbose = false
+	end
+
+	local channels = {}
+
+	for i = 0, getMaxDynChan() - 1 do
+		if getDbProp("UI:SAVE:ISENABLED:DYNAMIC_CHAT"..i) == 1 then
+			local id = getDbProp("SERVER:DYN_CHAT:CHANNEL"..i..":NAME")
+
+			if isDynStringAvailable(id) then
+				local chan = getDynString(id):toUtf8()
+				local found = false
+
+				for _, k in pairs(getClientCfgVar("ChannelIgnoreFilter")) do
+					if k == chan then
+						found = true
+					end
+				end
+
+				if not found then
+					local pass = ''
+					-- check for private chans
+					for _, k in pairs(game.dynKey) do
+						if k[chan] then
+							pass = k[chan]
+						end
+					end
+					channels[chan] = pass
+				end
+			end
+		end
+	end
+	saveUserChannels(channels, verbose)
+
+end
+
+------------------------------------------------------------------------------------------------------------
+-- mitm to store password for the current session
+function game:connectUserChannel(args)
+
+	local arg = {}
+
+	for w in string.gmatch(args, "%S+") do
+		table.insert(arg, w)
+	end
+
+	if #arg > 0 then
+		local params = arg[1]
+
+		if #arg == 2 then
+			-- channel with pass
+			for _, ch in pairs(game.dynKey) do
+				if ch[arg[1]] then
+					ch[arg[1]] = nil
+				end
+			end
+
+			if arg[2] ~= '*' and arg[2] ~= "***" then
+				table.insert(game.dynKey, {[arg[1]]=arg[2]})
+			end
+			params = params.." "..arg[2]
+		end
+		runAH(nil, "talk", "mode=0|text=/a connectUserChannel "..params)
+	end
+
+end
+
+------------------------------------------------------------------------------------------------------------
+if game.dynKey == nil then
+	game.dynKey = {}
+end
+
+------------------------------------------------------------------------------------------------------------
+function game:chatWelcomeMsg(input)
+	local msg
+	local name
+	if not input then
+		input = getUICaller().params_r
+		if input then
+			input = input:match("ED:([^_]+)"):lower()
+	    end
+	end
+	local chat = input
+	local temp = "UI:TEMP:ONCHAT:"
+	if game.InGameDbInitialized then
+		-- is input chat a dynamic channel?
+		if type(input) == "number" then
+			local id = getDbProp("SERVER:DYN_CHAT:CHANNEL"..input..":NAME")
+			if isDynStringAvailable(id) then
+				name = getDynString(id):toUtf8()
+				-- variable for this session
+				if getDbProp(temp..name) == 0 then
+					-- faction, nation and organization
+					for k, v in pairs({
+						kami = i18n.get("uiFameAllegiance2"),
+						karavan = i18n.get("uiFameAllegiance3"),
+						fyros = i18n.get("uiFameAllegiance4"),
+						matis = i18n.get("uiFameAllegiance5"),
+						tryker = i18n.get("uiFameAllegiance6"),
+						zorai = i18n.get("uiFameAllegiance7"),
+						marauder = i18n.get("uiFameMarauders"),
+						ranger = i18n.get("uiOrganization_7")
+					}) do
+						if name == v:toUtf8() then
+							msg = i18n.get("uiWelcome_"..k)
+							name = v:toUtf8()
+						end
+					end
+				end
+				-- chat_group_filter sParam
+				chat = "dyn_chat"..input
+			end
+		else
+			-- around, region and universe
+			if getDbProp(temp..input) == 0 then
+				msg = i18n.get("uiWelcome_"..input)
+				name = input
+			end
+		end
+		if msg then
+			displayChatMessage(tostring(msg), input)
+			-- save for this session
+			addDbProp(temp..name, 1)
+		end
+	end
+	runAH(getUICaller(), "chat_group_filter", chat)
+end

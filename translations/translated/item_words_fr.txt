@@ -7851,3 +7851,5 @@ _DE77E608A092B618	ictaup	Culotte Tissans	des	les	Culotte Tissans	des	les
 _55FF165F364CCCED	ictauv	Soutien-gorge Tissans	des	les	Soutien-gorge Tissans	des	les			
 _80F7C6C5E3249271	iczaup	Culotte Nin-kas	des	les	Culotte Nin-kas	des	les			
 _B5D4E9917A8BD9B1	iczauv	Soutien-gorge Nin-kas	des	les	Soutien-gorge Nin-kas	des	les			
+_7179D6FE2D87A5B8	tp_interface_kami	Kami Artefact de téléportation	un	l'\d	Kami Artefact de téléportation	des	les			
+_84020E9F43014E3E	tp_interface_karavan	Karavan Artefact de téléportation	un	l'\d	Karavan Artefact de téléportation	des	les			

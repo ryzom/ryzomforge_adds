@@ -246,29 +246,21 @@
                 </group>
             </group>
             <group id="ring_skills" sizeref="wh" w="0" y="0" h="0" posref="TL TL">
-                <group id="ecosystem_points" posref="TL TL" y="-35" sizeref="w5" w="-4" child_resize_h="true" child_resize_hmargin="16">
-                    <instance template="inner_thin_border_group" />
-                    <instance template="ecosystem_points" id="basic" posref="TL TL" x="8" y="-8" w="-16" tooltip="uiR2EDBasicsPointsTooltip" text="uiR2EDBasicsPoints" />
-                    <instance template="ecosystem_points" id="desert" posparent="basic" posref="BL TL" y="0" tooltip="uiR2EDDesertPointsTooltip" text="uiR2EDDesertPoints" />
-                    <instance template="ecosystem_points" id="subtropic" posparent="desert" posref="BL TL" y="0" tooltip="uiR2EDSubtropicPointsTooltip" text="uiR2EDSubtropicPoints" />
-                    <instance template="ecosystem_points" id="forest" posparent="subtropic" posref="BL TL" y="0" tooltip="uiR2EDForestPointsTooltip" text="uiR2EDForestPoints" />
-                    <instance template="ecosystem_points" id="jungle" posparent="forest" posref="BL TL" y="0" tooltip="uiR2EDJunglePointsTooltip" text="uiR2EDJunglePoints" />
-                    <instance template="ecosystem_points" id="primeroot" posparent="jungle" posref="BL TL" y="0" tooltip="uiR2EDPrimeRootPointsTooltip" text="uiR2EDPrimeRootPoints" />
-                </group>
-                <view type="text" id="ecosystem_points_title" posparent="ecosystem_points" posref="TL BL" x="0" y="0" hardtext="uiR2EDEcosystemPointsTitle" shadow="true" color="255 255 255 255" global_color="false" fontsize="12" />
-                <instance template="faction_points_widget" id="fp" posparent="ecosystem_points" posref="BL TL" x="0" y="-10" />
-                <group id="pvp_points" posparent="fp" posref="BL TL" sizeref="w" w="-1" h="50" y="-10">
+                <instance template="ecosystem_points_widget" id="ep" posref="TL TL" x="0" y="-10" />
+                <instance template="faction_points_widget" id="fp" posparent="ep" posref="BL TL" x="0" y="-10" />
+                <instance template="org_points_widget" id="op" posparent="fp" posref="BL TL" x="0" y="-10" />
+                <group id="pvp_points" posparent="op" posref="BL TL" sizeref="w" w="-1" h="50" y="-10">
                     <view type="text" id="pvppoints_t" posref="TL TL" x="0" y="0" hardtext="uiPvpPoints" shadow="true" color="255 255 255 255" global_color="false" fontsize="12" />
                     <group id="black" posref="TL TL" x="0" sizeref="w" y="-18" w="0" h="30" inherit_gc_alpha="true">
-                        <view type="bitmap" id="icon" posref="ML ML" x="8" y="0" inherit_gc_alpha="true" texture="points_pvp_24.tga" global_color="false" />
+                        <view type="bitmap" id="icon" posref="ML ML" x="8" y="0" inherit_gc_alpha="false" texture="points_pvp_24.tga" global_color="false" />
                         <view type="text" id="total" posref="ML ML" x="34" y="0" hardtext="uiPvpTotal" shadow="true" color="255 255 255 255" global_color="true" fontsize="12" />
                         <view type="text_number" id="val" posref="MR MR" x="-8" y="0" color="255 255 255 255" global_color="true" fontsize="12" value="SERVER:USER:RRPS_LEVELS0:VALUE" shadow="true" />
                     </group>
                     <instance template="inner_thin_border" posparent="black" inherit_gc_alpha="true" />
                 </group>
-                <group id="ark_points" posparent="pvp_points" posref="BL TL" sizeref="wh" h="210" w="0" y="-5">
+                <group id="ark_points" posparent="pvp_points" posref="BL TL" sizeref="wh" h="200" w="0" y="-5">
                     <view type="text" id="arkpoints_t" posref="TL TL" x="0" y="0" hardtext="uiR2EDRrpsLevelTitle" shadow="true" color="255 255 255 255" global_color="false" fontsize="12" />
-                    <group id="black" posref="TL TL" x="0" sizeref="w" y="-16" w="0" h="205" inherit_gc_alpha="true">
+                    <group id="black" posref="TL TL" x="0" sizeref="w" y="-16" w="0" h="210" inherit_gc_alpha="true">
                         <group type="webig_html" id="html" posref="TL TL" url="https://app.ryzom.com/app_arcc/index.php?action=mScript_Run&amp;script_name=DisplayPoints&amp;no_html_header=1" title_prefix="" sizeref="wh" x="-5" y="5" w="0" h="0" background_color="0 0 0 0" error_color="255 240 48 255" link_color="240 155 100 255" text_color="210 210 210 255" h1_color="255 255 255 255" h2_color="255 255 255 255" h3_color="255 255 255 255" h4_color="255 255 255 255" h5_color="255 255 255 255" h6_color="100 255 100 255" text_font_size="10" h1_font_size="20" h2_font_size="18" h3_font_size="16" h4_font_size="14" h5_font_size="12" h6_font_size="10" paragraph_begin_space="1" multi_line_space_factor="0.25" td_begin_space="16" li_begin_space="4" ul_begin_space="12" li_indent="0" ul_indent="30" checkbox_bitmap_normal="w_slot_on.tga" checkbox_bitmap_pushed="w_opacity_on.tga" checkbox_bitmap_over="" background_bitmap_view="black2" home="https://app.ryzom.com/app_arcc/index.php?action=mScript_Run&amp;script_name=DisplayPoints&amp;no_html_header=1" browse_next_time="true" form_text_area_group="edit_box_widget_multiline">
                             <group id="black" posref="BR BR" sizeref="hw" w="-12" h="-12" inherit_gc_alpha="true" />
                             <view type="bitmap" id="black2" posparent="black" posref="MM MM" sizeref="wh" w="-2" h="-2" inherit_gc_alpha="true" scale="true" texture="blank.tga" global_color="false" />
@@ -340,16 +332,22 @@
             <!-- max limit -->
             <view type="bitmap" id="m" texture="blank.tga" posref="BL BL" scale="true" x="0" w="4" h="24" y="0" global_color="false" />
             <ctrl type="tooltip" id="ttm" posparent="m" x="0" y="0" sizeref="wh" w="0" h="0" on_tooltip="lua:game:updateFameBarTT('#path')" />
-            <view type="text_number" id="t" posref="BM BM" x="0" y="4" color="255 255 255 255" global_color="false" fontsize="12" value="#path:VALUE" shadow="true" />
+            <view type="text" id="t" posref="BM BM" x="0" y="4" color="255 255 255 255" global_color="false" fontsize="12" value="#path:VALUE" shadow="true" />
             <link expr="depends(@SERVER:FAME:THRESHOLD_TRADE, @SERVER:FAME:THRESHOLD_KOS, @#path:VALUE, @#path:THRESHOLD)" action="lua:game:updateFameBar('#path')" />
         </group>
     </template>
     <template name="fame_tribe_line" x="0" y="0" w="400" h="28" posref="TL TL" keep="true" id="" path="">
         <group id="#id" posref="#posref" w="#w" h="#h" x="#x" y="#y">
-            <instance template="fame_bar" id="fb" x="180" path="#path" />
-            <view type="text" id="t" posref="ML ML" x="4" y="-2" color="255 255 255 255" fontsize="10" value="xxx tribe name" shadow="true" />
-            <!--   <link expr="or(ne(@#path:VALUE,0),ne(@#path:TREND,0))"
-            target="active" />-->
+            <view type="bitmap" id="bg" texture="blank.tga" posref="MM MM" scale="true" sizeref="wh" w="0" h="-2" global_color="false" color="255 255 255 10" />
+            <instance template="fame_bar" id="fb" x="180" y="2" path="#path" />
+            <view type="text" id="t" posref="ML ML" x="2" y="0" color="255 255 255 255" fontsize="10" value="xxx tribe name" shadow="true" />
+        </group>
+    </template>
+    <template name="fame_tribe_line_icon" x="0" y="0" w="400" h="28" posref="TL TL" posparent="" keep="true" id="" path="" hardtext="" icon="">
+        <group id="#id" posref="#posref" posparent="#posparent" w="#w" h="#h" x="#x" y="#y">
+            <instance template="fame_bar" id="fb" x="180" y="2" path="#path" />
+            <view type="bitmap" id="icon" posref="ML ML" x="0" y="0" color="255 255 255 255" texture="#icon" inherit_gc_alpha="false" global_color="false" />
+            <view type="text" id="t" posref="MR ML" posparent="icon" x="4" y="0" color="255 255 255 255" fontsize="10" hardtext="#hardtext" shadow="true" />
         </group>
     </template>
     <!-- **************** -->
@@ -373,44 +371,35 @@
             <view type="bitmap" id="sep" posparent="fame_select" posref="BR BL" sizeparent="parent" sizeref="w" w="0" h="1" scale="true" texture="blank.tga" color="166 166 166 255" />
         </group>
         <group id="content" x="0" y="0" h="330" posref="TL TL">
-            <group id="you" posref="TL TL" x="0" y="-4" sizeref="wh" w="0" h="0" lua_class="game:initFamePos()">
+            <group id="you" posref="TL TL" x="0" y="-4" sizeref="wh" w="0" h="0">
                 <!-- Civilisation -->
-                <view type="text" id="fyros" posref="TL TL" x="4" y="-10" color="255 255 255 255" fontsize="10" shadow="true" hardtext="uiFameFyros" />
-                <view type="text" id="matis" posref="TL TL" x="4" y="-40" color="255 255 255 255" fontsize="10" shadow="true" hardtext="uiFameMatis" />
-                <view type="text" id="tryker" posref="TL TL" x="4" y="-70" color="255 255 255 255" fontsize="10" shadow="true" hardtext="uiFameTryker" />
-                <view type="text" id="zorai" posref="TL TL" x="4" y="-100" color="255 255 255 255" fontsize="10" shadow="true" hardtext="uiFameZorai" />
-                <group id="civ_allegiance_group" posref="TL TL" x="4" y="-130" child_resize_h="true" child_resize_w="true">
+                <instance template="fame_tribe_line_icon" x="8" y="-4" posref="TL TL" id="fyros" path="SERVER:FAME:PLAYER1" hardtext="uiFameFyros" icon="points_fyros_24.tga" />
+                <instance template="fame_tribe_line_icon" x="0" y="0" posref="BL TL" id="matis" posparent="fyros" path="SERVER:FAME:PLAYER0" hardtext="uiFameMatis" icon="points_matis_24.tga" />
+                <instance template="fame_tribe_line_icon" x="0" y="0" posref="BL TL" id="tryker" posparent="matis" path="SERVER:FAME:PLAYER2" hardtext="uiFameTryker" icon="points_tryker_24.tga" />
+                <instance template="fame_tribe_line_icon" x="0" y="0" posref="BL TL" id="zorai" posparent="tryker" path="SERVER:FAME:PLAYER3" hardtext="uiFameZorai" icon="points_zorai_24.tga" />
+                <group id="civ_allegiance_group" x="0" y="-8" posref="BL TL" posparent="zorai" child_resize_h="true" child_resize_w="true">
                     <view type="text" id="civ_allegiance" posref="TL TL" x="0" y="0" color="255 255 255 255" fontsize="10" global_color="true" shadow="true" hardtext="uiFameAllegianceCiv" />
                     <view type="text" id="civ_allegiance_val" posparent="civ_allegiance" posref="MR ML" x="4" y="0" color="255 255 255 255" fontsize="10" global_color="false" shadow="true" />
                     <link expr="@SERVER:FAME:CIV_ALLEGIANCE" action="lua:game:updateAllegiance('SERVER:FAME:CIV_ALLEGIANCE', 'civ_allegiance_val')" />
                     <instance template="text_tt" posparent="parent" on_tooltip="lua:game:fameAllegianceTooltipCiv()" />
                 </group>
-                <ctrl style="text_button_16" id="neutral_civ" active="false" posparent="civ_allegiance_group" posref="MR ML" x="14" y="2" hardtext="uiFameAllegianceCivSetNeutral" tooltip="uiFameAllegianceCivSetNeutralTT" onclick_l="fame_set_neutral" params_l="type=civ|force=0" global_color="true" />
-                <!-- <link expr="and(eq(@SERVER:FAME:CIV_ALLEGIANCE, 0),not(eq(@UI:VARIABLES:CDB_INIT_IN_PROGRESS, 0)))" target="neutral_civ:active" /> -->
+                <ctrl style="text_button_16" id="neutral_civ" active="false" posparent="civ_allegiance_group" posref="MR ML" x="14" y="0" hardtext="uiFameAllegianceCivSetNeutral" tooltip="uiFameAllegianceCivSetNeutralTT" onclick_l="fame_set_neutral" params_l="type=civ|force=0" global_color="true" />
                 <link expr="and(eq(@SERVER:FAME:CIV_ALLEGIANCE, 0),not(isDBInitInProgress()))" target="neutral_civ:active" />
                 <!-- Cult -->
-                <view type="text" id="kami" posref="TL TL" x="4" y="-160" color="255 255 255 255" fontsize="10" shadow="true" hardtext="uiFameKami" />
-                <view type="text" id="karavan" posref="TL TL" x="4" y="-190" color="255 255 255 255" fontsize="10" shadow="true" hardtext="uiFameKaravan" />
-                <view type="text" id="black_kami" posref="TL TL" x="4" y="-220" color="255 255 255 255" fontsize="10" shadow="true" hardtext="uiFameMarauders" />
-                <group id="cult_allegiance_group" posref="TL TL" x="4" y="-250" child_resize_h="true" child_resize_w="true">
+                <instance template="fame_tribe_line_icon" x="0" y="-14" posref="BL TL" id="kami" posparent="civ_allegiance_group" path="SERVER:FAME:PLAYER4" hardtext="uiFameKami" icon="points_kami_24.tga" />
+                <instance template="fame_tribe_line_icon" x="0" y="0" posref="BL TL" id="karavan" posparent="kami" path="SERVER:FAME:PLAYER5" hardtext="uiFameKaravan" icon="points_karavan_24.tga" />
+                <instance template="fame_tribe_line_icon" x="0" y="0" posref="BL TL" id="black_kami" posparent="karavan" path="SERVER:FAME:PLAYER6" hardtext="uiFameMarauders" icon="points_marauder_24.tga" />
+                <group id="cult_allegiance_group" posref="BL TL" x="0" y="-8" posparent="black_kami" child_resize_h="true" child_resize_w="true">
                     <view type="text" id="cult_allegiance" posref="TL TL" x="0" y="0" color="255 255 255 255" fontsize="10" global_color="true" shadow="true" hardtext="uiFameAllegianceCult" />
                     <view type="text" id="cult_allegiance_val" posparent="cult_allegiance" posref="MR ML" x="4" y="0" color="255 255 255 255" fontsize="10" global_color="false" shadow="true" />
                     <link expr="@SERVER:FAME:CULT_ALLEGIANCE" action="lua:game:updateAllegiance('SERVER:FAME:CULT_ALLEGIANCE', 'cult_allegiance_val')" />
                     <instance template="text_tt" posparent="parent" on_tooltip="lua:game:fameAllegianceTooltipCult()" />
                 </group>
-                <ctrl style="text_button_16" id="neutral_cult" active="false" posparent="cult_allegiance_group" posref="MR ML" x="14" y="2" hardtext="uiFameAllegianceCultSetNeutral" tooltip="uiFameAllegianceCultSetNeutralTT" onclick_l="fame_set_neutral" params_l="type=cult|force=0" global_color="true" />
-                <!-- <link expr="and(eq(@SERVER:FAME:CULT_ALLEGIANCE, 0),not(eq(@UI:VARIABLES:CDB_INIT_IN_PROGRESS, 0)))" target="neutral_cult:active" /> -->
+                <ctrl style="text_button_16" id="neutral_cult" active="false" posparent="cult_allegiance_group" posref="MR ML" x="14" y="0" hardtext="uiFameAllegianceCultSetNeutral" tooltip="uiFameAllegianceCultSetNeutralTT" onclick_l="fame_set_neutral" params_l="type=cult|force=0" global_color="true" />
                 <link expr="and(eq(@SERVER:FAME:CULT_ALLEGIANCE, 0),not(isDBInitInProgress()))" target="neutral_cult:active" />
-                <!-- pool of bars (dynamically y-positionned from lua script) -->
-                <instance template="fame_bar" id="fb0" x="100" path="SERVER:FAME:PLAYER0" />
-                <instance template="fame_bar" id="fb1" x="100" path="SERVER:FAME:PLAYER1" />
-                <instance template="fame_bar" id="fb2" x="100" path="SERVER:FAME:PLAYER2" />
-                <instance template="fame_bar" id="fb3" x="100" path="SERVER:FAME:PLAYER3" />
-                <instance template="fame_bar" id="fb4" x="100" path="SERVER:FAME:PLAYER4" />
-                <instance template="fame_bar" id="fb5" x="100" path="SERVER:FAME:PLAYER5" />
-                <instance template="fame_bar" id="fb6" x="100" path="SERVER:FAME:PLAYER6" />
-                <view type="text" id="organization_text" posref="TL TL" x="0" y="-275" color="255 255 255 255" fontsize="10" global_color="true" shadow="true" hardtext="uiOrganization" />
-                <group id="organization" posref="TL TL" x="2" y="-290" h="34" w="-4" sizeref="w">
+                <!-- Organization -->
+                <view type="text" id="organization_text" posref="TL BL" posparent="organization" x="0" y="0" color="255 255 255 255" fontsize="10" global_color="true" shadow="true" hardtext="uiOrganization" />
+                <group id="organization" posref="BL BL" x="8" y="8" h="34" w="-12" sizeref="w">
                     <view type="text" id="name" posref="TL TL" x="2" y="-5" color="255 255 255 255" fontsize="10" global_color="false" shadow="true" hardtext="" />
                     <view type="text" id="text_points" posref="BL BL" x="4" y="2" color="255 255 255 255" fontsize="10" global_color="true" shadow="true" hardtext="uiPoints" />
                     <view type="text" id="points" posparent="text_points" posref="MR ML" x="4" y="0" color="255 255 255 255" fontsize="10" global_color="false" shadow="true" hardtext="0" />
@@ -423,13 +412,13 @@
                     <instance template="inner_thin_border" inherit_gc_alpha="true" />
                 </group>
             </group>
-            <group id="guild" posref="TL TL" x="0" y="-4" sizeref="wh" w="0" h="0" lua_class="game:initFamePos()">
+            <group id="guild" posref="TL TL" x="0" y="-4" sizeref="wh" w="0" h="0">
                 <!-- Civilisation -->
-                <view type="text" id="fyros" posref="TL TL" x="4" y="-10" color="255 255 255 255" fontsize="10" shadow="true" hardtext="uiFameFyros" />
-                <view type="text" id="matis" posref="TL TL" x="4" y="-40" color="255 255 255 255" fontsize="10" shadow="true" hardtext="uiFameMatis" />
-                <view type="text" id="tryker" posref="TL TL" x="4" y="-70" color="255 255 255 255" fontsize="10" shadow="true" hardtext="uiFameTryker" />
-                <view type="text" id="zorai" posref="TL TL" x="4" y="-100" color="255 255 255 255" fontsize="10" shadow="true" hardtext="uiFameZorai" />
-                <group id="civ_allegiance_group" posref="TL TL" x="4" y="-130" child_resize_h="true" child_resize_w="true">
+                <instance template="fame_tribe_line_icon" x="8" y="-4" posref="TL TL" id="fyros" path="SERVER:GUILD:FAME:1" hardtext="uiFameFyros" icon="points_fyros_24.tga" />
+                <instance template="fame_tribe_line_icon" x="0" y="0" posref="BL TL" id="matis" posparent="fyros" path="SERVER:GUILD:FAME:0" hardtext="uiFameMatis" icon="points_matis_24.tga" />
+                <instance template="fame_tribe_line_icon" x="0" y="0" posref="BL TL" id="tryker" posparent="matis" path="SERVER:GUILD:FAME:2" hardtext="uiFameTryker" icon="points_tryker_24.tga" />
+                <instance template="fame_tribe_line_icon" x="0" y="0" posref="BL TL" id="zorai" posparent="tryker" path="SERVER:GUILD:FAME:3" hardtext="uiFameZorai" icon="points_zorai_24.tga" />
+                <group id="civ_allegiance_group" x="0" y="-8" posref="BL TL" posparent="zorai" child_resize_h="true" child_resize_w="true">
                     <view type="text" id="civ_allegiance" posref="TL TL" x="0" y="0" color="255 255 255 255" fontsize="10" global_color="true" shadow="true" hardtext="uiFameAllegianceCiv" />
                     <view type="text" id="civ_allegiance_val" posparent="civ_allegiance" posref="MR ML" x="4" y="0" color="255 255 255 255" fontsize="10" global_color="false" shadow="true" />
                     <link expr="@SERVER:GUILD:FAME:CIV_ALLEGIANCE" action="lua:game:updateAllegiance('SERVER:GUILD:FAME:CIV_ALLEGIANCE', 'civ_allegiance_val')" />
@@ -439,10 +428,10 @@
                 <link expr="eq(@SERVER:GUILD:FAME:CIV_ALLEGIANCE, 0)" target="neutral_civ:active" />
                 <link expr="ne(@UI:VARIABLES:USER:GUILD_GRADE, 0)" target="neutral_civ:frozen" />
                 <!-- Cult -->
-                <view type="text" id="kami" posref="TL TL" x="4" y="-180" color="255 255 255 255" fontsize="10" shadow="true" hardtext="uiFameKami" />
-                <view type="text" id="karavan" posref="TL TL" x="4" y="-210" color="255 255 255 255" fontsize="10" shadow="true" hardtext="uiFameKaravan" />
-                <view type="text" id="black_kami" posref="TL TL" x="4" y="-240" color="255 255 255 255" fontsize="10" shadow="true" hardtext="uiFameMarauders" />
-                <group id="cult_allegiance_group" posref="TL TL" x="4" y="-270" child_resize_h="true" child_resize_w="true">
+                <instance template="fame_tribe_line_icon" x="0" y="-14" posref="BL TL" id="kami" posparent="civ_allegiance_group" path="SERVER:GUILD:FAME:4" hardtext="uiFameKami" icon="points_kami_24.tga" />
+                <instance template="fame_tribe_line_icon" x="0" y="0" posref="BL TL" id="karavan" posparent="kami" path="SERVER:GUILD:FAME:5" hardtext="uiFameKaravan" icon="points_karavan_24.tga" />
+                <instance template="fame_tribe_line_icon" x="0" y="0" posref="BL TL" id="black_kami" posparent="karavan" path="SERVER:GUILD:FAME:6" hardtext="uiFameMarauders" icon="points_marauder_24.tga" />
+                <group id="cult_allegiance_group" posref="BL TL" x="0" y="-8" posparent="black_kami" child_resize_h="true" child_resize_w="true">
                     <view type="text" id="cult_allegiance" posref="TL TL" x="0" y="0" color="255 255 255 255" fontsize="10" global_color="true" shadow="true" hardtext="uiFameAllegianceCult" />
                     <view type="text" id="cult_allegiance_val" posparent="cult_allegiance" posref="MR ML" x="4" y="0" color="255 255 255 255" fontsize="10" global_color="false" shadow="true" />
                     <link expr="@SERVER:GUILD:FAME:CULT_ALLEGIANCE" action="lua:game:updateAllegiance('SERVER:GUILD:FAME:CULT_ALLEGIANCE', 'cult_allegiance_val')" />
@@ -451,18 +440,11 @@
                 <ctrl style="text_button_16" id="neutral_cult" posparent="cult_allegiance_group" posref="MR ML" x="14" y="2" hardtext="uiFameAllegianceCultSetNeutral" tooltip="uiFameAllegianceCultSetNeutralGuildTT" onclick_l="fame_set_neutral" params_l="type=cult_guild|force=0" global_color="true" />
                 <link expr="eq(@SERVER:GUILD:FAME:CULT_ALLEGIANCE, 0)" target="neutral_cult:active" />
                 <link expr="ne(@UI:VARIABLES:USER:GUILD_GRADE, 0)" target="neutral_cult:frozen" />
-                <instance template="fame_bar" id="fb0" x="100" path="SERVER:GUILD:FAME:0" />
-                <instance template="fame_bar" id="fb1" x="100" path="SERVER:GUILD:FAME:1" />
-                <instance template="fame_bar" id="fb2" x="100" path="SERVER:GUILD:FAME:2" />
-                <instance template="fame_bar" id="fb3" x="100" path="SERVER:GUILD:FAME:3" />
-                <instance template="fame_bar" id="fb4" x="100" path="SERVER:GUILD:FAME:4" />
-                <instance template="fame_bar" id="fb5" x="100" path="SERVER:GUILD:FAME:5" />
-                <instance template="fame_bar" id="fb6" x="100" path="SERVER:GUILD:FAME:6" />
             </group>
             <group id="tribes" posref="TL TL" x="0" y="-4" sizeref="wh" w="0" h="-10" lua_class="game:initFameTribe()">
-                <group id="black" posparent="list" posref="TL TL" x="0" sizeref="wh" w="-3" h="4" inherit_gc_alpha="true" />
+                <group id="black" posparent="list" posref="TL TL" x="-4" sizeref="wh" w="-3" h="4" inherit_gc_alpha="true" />
                 <instance template="inner_thin_border" posparent="black" inherit_gc_alpha="true" />
-                <group id="list" type="list" posref="TL TL" x="14" y="-4" sizeref="wh" w="-20" h="-6">
+                <group id="list" type="list" posref="TL TL" x="16" y="-4" sizeref="wh" w="-12" h="-6">
                     <vector template="fame_tribe_line" _size="%max_fame_tribe" _firstpos="TL TL" _nextpos="BL TL" index="$i" id="line$i" path="SERVER:FAME:TRIBE$i" />
                 </group>
                 <ctrl style="skin_scroll" id="scroll_bar" target="list" align="T" target_stepy="28" />

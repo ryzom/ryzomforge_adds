@@ -194,9 +194,9 @@
 	<template name="webig_inv_item" render_layer1="1" render_layer2="2" render_layer3="3" w="45" keep="true" img1="token_basic.tga" img2="" img3="" tooltip="" quality="" quantity="" overlay="" text="" text2="" color="255 255 255 255" gc1="true" gc2="true" color2="255 255 255 255" bg="w_slot_item.tga" params_l="" params_r="" x="0" y="0">
 		<group id="#id" posref="MM MM" w="#w" h="45" x="#x" y="#y" sizeref="" render_layer="#render_layer1">
 			<view type="bitmap" id="back" posref="ML ML" x="0" y="0" render_layer="#render_layer1" texture="#bg" global_color="false" />
-			<view type="bitmap" id="img1" posref="ML ML" x="2" y="0" render_layer="#render_layer2" texture="#img1" global_color="false" />
-			<view type="bitmap" id="img2" posref="ML ML" render_layer="#render_layer2" x="2" y="0" texture="#img2" global_color="false" />
-			<view type="bitmap" id="img3" posref="ML ML"  render_layer="#render_layer2" x="2" y="0" texture="#img3" global_color="false" />
+			<view type="bitmap" id="img1" posref="ML ML" x="0" y="0" render_layer="#render_layer2" texture="#img1" global_color="false" />
+			<view type="bitmap" id="img2" posref="ML ML" render_layer="#render_layer2" x="0" y="0" texture="#img2" global_color="false" />
+			<view type="bitmap" id="img3" posref="ML ML"  render_layer="#render_layer2" x="0" y="0" texture="#img3" global_color="false" />
 			<view type="text" id="overlay" posref="TL TL" posparent="img1" render_layer="#render_layer2"  x="0" y="0" hardtext="#overlay" fontsize="8" color="255 255 255 255" shadow="true" global_color="false" />
 			<view type="text" id="quantity" posref="BL BL" posparent="img1" render_layer="#render_layer3" x="0" y="0" hardtext="#quantity" fontsize="8" color="255 255 255 255" shadow="true" global_color="false" />
 			<view type="text" id="quality" posref="BR BR" posparent="img1" render_layer="#render_layer3" x="-1" y="0" hardtext="#quality" fontsize="8" color="255 255 255 255" shadow="true" global_color="true" />

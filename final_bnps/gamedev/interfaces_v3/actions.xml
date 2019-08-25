@@ -224,6 +224,9 @@
 	</action>
 	<action name="assist_target"		hardtext="uiAssistTargetCmd" contexts="game, r2ed_anim_test"/>
 	<action name="self_target"			hardtext="uiSelfTarget" contexts="game, r2ed_anim_test"/>
+	<action name="target_landmark"		hardtext="uiTargetLandmarkCmd" >
+		<parameter hardtext="uiTargetLandmarkCmdEntity" type="%action_param_user" name="search"/>
+	</action>
 	<action name="toggle_combat"		hardtext="uiToggleCombat" contexts="game, r2ed_anim_test"/>
 	<action name="front_selection"	hardtext="uiFrontSelection" contexts="game, r2ed_anim_test">
 		<parameter hardtext="uiFrontSelectionType">
