@@ -271,6 +271,7 @@ if artefact == nil then
         -- attach it to inventory bag
         if event == 5 then
             runAH(getUICaller(), "proc", "artefact_win_attach")
+            return
         end
         self:doRefresh() -- event 3
         if event == 1 then
@@ -361,7 +362,11 @@ if artefact == nil then
             if artefact.observer then
                 artefact:bagObserver(false)
             end
-            artefact:startInterface()
+            if self.isAttached then
+                runAH(getUICaller(), "proc", "artefact_win_detach")
+            else
+                artefact:startInterface()
+            end
             return
         end
         local html = artefact.uiWindow:find("html")
@@ -375,18 +380,21 @@ if artefact == nil then
 
     function artefact:usePact(id)
         if not artefact:checkfame() then
-            self:doRefresh()
+            if self.isAttached then
+                runAH(getUICaller(), "proc", "artefact_win_detach")
+            else
+                self:doRefresh()
+            end
             return
         end
+        sendMsgToServerUseItem(id)
         -- on teleport event
         if getDbProp(self.closeTp) == 1 then
             if self.isAttached then
                 runAH(getUICaller(), "proc", "select_bag_items")
             end
-            runAH(getUICaller(), "proc", "artefact_proc_deactive")
-            return
+            self:onClose()
         end
-        sendMsgToServerUseItem(id)
     end
 
     -- update interface
@@ -736,13 +744,7 @@ function artefact:startInterface(cult)
     -- kami kara
     if not self:checkRestriction(cult) or not cult then
         displaySystemInfo(i18n.get("uiArtefactRestrict"), "BC")
-        if self.uiWindow then
-            local proc = "artefact_proc_deactive"
-            if self.isAttached then
-                proc = "artefact_win_detach"
-            end
-            runAH(getUICaller(), "proc", proc)
-        end
+        self:onClose()
         return
     end
     if not self:checkfame() then
