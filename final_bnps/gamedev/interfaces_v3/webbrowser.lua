@@ -153,6 +153,48 @@ function WebBrowser:restoreWindow(app)
   end
 end
 
+
+------------------------------------------------------------------------------------------------------------
+--
+function WebBrowser:saveWindowPop(app)
+	if app == nil then
+		app = self:findAppFromUiCaller()
+	end
+
+	if app then
+		app.minimized = true
+		-- save size
+		app.winw = app.uiWindow.w
+		app.winh = app.uiWindow.h
+		app.pop_min_h = app.uiWindow.pop_min_h
+		app.pop_max_h = app.uiWindow.pop_max_h
+		-- minimize
+		app.uiWindow.w = app.closedw
+		app.uiWindow.h =  app.closedh
+		app.uiWindow.pop_min_h = 32
+		app.uiWindow.pop_min_w = app.closedw
+	end
+end
+
+------------------------------------------------------------------------------------------------------------
+--
+function WebBrowser:restoreWindowPop(app)
+	if app == nil then
+		app = self:findAppFromUiCaller()
+	end
+
+	if app and app.minimized then
+		app.uiWindow.w = app.winw
+		app.uiWindow.h = app.winh
+		app.uiWindow.pop_min_h = app.pop_min_h
+		app.uiWindow.pop_max_h = app.pop_max_h
+		app.minimized = false
+	end
+end
+
+
+
+
 function WebBrowser:onClickRedo()
   -- caller is :header_opened:browse_redo
   local uiWindow = getUICaller().parent.parent
