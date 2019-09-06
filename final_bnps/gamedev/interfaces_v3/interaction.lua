@@ -641,119 +641,125 @@ end
 function game:chatUrlBrowse()
 	runAH(nil, "browse", "name=ui:interface:webig:content:html|url=" .. SavedUrl)
 end
+
 ------------------------------------------------------------------------------------------------------------
+--
+if game.sDynChat == nil then game.sDynChat = {} end
+
 -- called from onInGameDbInitialized
 function game:openChannels()
-
 	if getDbProp("UI:SAVE:CHAT:AUTO_CHANNEL") > 0 then
-		local channels = readUserChannels()
-
-		if channels then
-			for name, pass in pairs(channels) do
+		local uc = readUserChannels()
+		if uc then
+			local index = 0
+			for _ in pairs(uc) do
+				index = index + 1
+			end
+			local channels = {}
+			for i = 0, index-1 do
+				local node = uc[tostring(i)]
+				channels[tonumber(node.id)] = {
+					rgba = node.rgba,
+					name = node.name,
+					passwd = node.passwd
+				}
+			end
+			local t = {}
+			for k in pairs(channels) do table.insert(t, k) end
+			table.sort(t)
+			-- sorted
+			for _, id in ipairs(t) do
 				local found = false
-				local chan = nil
-
-				for i = 0, getMaxDynChan() - 1 do
+				for i = 0, getMaxDynChan()-1 do
 					if getDbProp("UI:SAVE:ISENABLED:DYNAMIC_CHAT"..i) == 1 then
-						local id = getDbProp("SERVER:DYN_CHAT:CHANNEL"..i..":NAME")
-
-						if isDynStringAvailable(id) then
-							chan = getDynString(id):toUtf8()
-							-- already opened ?
-							if name == chan then
-								found = true
-							end
+						local cname = getDbProp("SERVER:DYN_CHAT:CHANNEL"..i..":NAME")
+						if isDynStringAvailable(cname) then
+							local chan = getDynString(cname):toUtf8()
+							-- already opened?
+							if channels[id].name == chan then found = true end
 						end
 					end
 				end
-
 				if not found then
-					game:connectUserChannel(name.." "..pass)
+					self:connectUserChannel(channels[id].name.." "..channels[id].passwd)
+					-- now restore colors
+					if channels[id].rgba ~= '' then
+						local i = 0
+						local c = {}
+						local rgba = {[0]="R", [1]="G", [2]="B", [3]="A"}
+						for color in string.gmatch(channels[id].rgba, "%d+") do
+							c[rgba[i]] = tonumber(color)
+							i = i + 1
+						end
+						setDbRGBA("UI:SAVE:CHAT:COLORS:DYN:"..id, CRGBA(c.R, c.G, c.B, c.A))
+					end
 				end
 			end
 		end
 	end
-
 end
 
-------------------------------------------------------------------------------------------------------------
--- called to save user created channels
-function game:saveChannel(verbose)
+-- store channel detail before it open
+function game:connectUserChannel(args)
+	local argv = {}
+	for w in string.gmatch(args, "%S+") do
+		table.insert(argv, w)
+	end
+	if #argv > 0 then
+		local params = argv[1]
+		if #argv == 2 then
+			for _, ch in pairs(self.sDynChat) do
+				if ch[argv[1]] then ch[argv[1]] = nil end
+			end
+			if argv[2] ~= '*' and argv[2] ~= '***' then
+				table.insert(self.sDynChat, {[argv[1]]=argv[2]})
+			end
+			params = params.." "..argv[2]
+		end
+		runAH(nil, "talk", "mode=0|text=/a connectUserChannel "..params)
+	end
+end
 
+-- save user created channels
+function game:saveChannel(verbose)
 	if verbose == nil then
 		verbose = false
 	end
-
 	local channels = {}
-
-	for i = 0, getMaxDynChan() - 1 do
+	for i = 0, getMaxDynChan()-1 do
 		if getDbProp("UI:SAVE:ISENABLED:DYNAMIC_CHAT"..i) == 1 then
-			local id = getDbProp("SERVER:DYN_CHAT:CHANNEL"..i..":NAME")
-
-			if isDynStringAvailable(id) then
-				local chan = getDynString(id):toUtf8()
+			local cname = getDbProp("SERVER:DYN_CHAT:CHANNEL"..i..":NAME")
+			if isDynStringAvailable(cname) then
+				local chan = getDynString(cname):toUtf8()
 				local found = false
-
-				for _, k in pairs(getClientCfgVar("ChannelIgnoreFilter")) do
-					if k == chan then
-						found = true
+				-- avoid empty cvar case
+				if getClientCfgVar("ChannelIgnoreFilter") then
+					for _, k in pairs(getClientCfgVar("ChannelIgnoreFilter")) do
+						if k == chan then found = true end
 					end
-				end
-
-				if not found then
-					local pass = ''
-					-- check for private chans
-					for _, k in pairs(game.dynKey) do
-						if k[chan] then
-							pass = k[chan]
+					if not found then
+						-- store current colors
+						local cRGBA = getDbRGBA("UI:SAVE:CHAT:COLORS:DYN:"..i)
+						local password = ''
+						-- include private channels
+						for _, k in pairs(game.sDynChat) do
+							if k[chan] then password = k[chan] end
 						end
+						channels[tostring(i)] = {
+						    rgba = cRGBA,
+						    name = chan,
+						    passwd = password
+						}
 					end
-					channels[chan] = pass
 				end
 			end
 		end
 	end
 	saveUserChannels(channels, verbose)
-
 end
 
 ------------------------------------------------------------------------------------------------------------
--- mitm to store password for the current session
-function game:connectUserChannel(args)
-
-	local arg = {}
-
-	for w in string.gmatch(args, "%S+") do
-		table.insert(arg, w)
-	end
-
-	if #arg > 0 then
-		local params = arg[1]
-
-		if #arg == 2 then
-			-- channel with pass
-			for _, ch in pairs(game.dynKey) do
-				if ch[arg[1]] then
-					ch[arg[1]] = nil
-				end
-			end
-
-			if arg[2] ~= '*' and arg[2] ~= "***" then
-				table.insert(game.dynKey, {[arg[1]]=arg[2]})
-			end
-			params = params.." "..arg[2]
-		end
-		runAH(nil, "talk", "mode=0|text=/a connectUserChannel "..params)
-	end
-
-end
-
-------------------------------------------------------------------------------------------------------------
-if game.dynKey == nil then
-	game.dynKey = {}
-end
-
-------------------------------------------------------------------------------------------------------------
+--
 function game:chatWelcomeMsg(input)
 	local msg
 	local name
