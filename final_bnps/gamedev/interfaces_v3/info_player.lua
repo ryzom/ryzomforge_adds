@@ -15,7 +15,7 @@ game.PrevSessionMission = - 1
 -- flag set to true when the in game db has been initialized
 game.InGameDbInitialized = false
 
-game.WebMissionLastDesc = ""
+game.WebMissionLastDesc = {}
 
 ------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------
@@ -1155,7 +1155,7 @@ end
 function game:onMissionSelected(index)
 	disableModalWindow()
 	self:updateCurrMissionComboBox()
-	game.WebMissionLastDesc = ""
+	game.WebMissionLastDesc = {}
 	setOnDraw(getMissionWindow(), "game:ensureWebMissionVisibility()")
 end
 
@@ -1547,6 +1547,7 @@ function game:onNewMissionStepAdded(stepIndex)
 		setOnDraw(missionWnd, "game:ensureLastMissionStepVisibility0()")
 	else
 	end
+	game.WebMissionLastDesc = {}
 end
 
 function game:ensureLastMissionStepVisibility0()
@@ -1606,7 +1607,7 @@ function game:ensureLastMissionStepVisibility1()
 	--descWnd:invalidateCoords()
 	--descWnd:updateCoords()
 
-	game.WebMissionLastDesc = ""
+	game.WebMissionLastDesc = {}
 	setOnDraw(missionWnd, "game:ensureWebMissionVisibility()")
 
 end
@@ -1618,6 +1619,7 @@ function game:ensureWebMissionVisibility()
 	local descWnd = missionWnd:find("desc")
 	local maxNumSteps = getDefine("ipj_nb_goal")
 	local topStep
+	local haveWeb = false
 	for  stepIndex = 0, maxNumSteps -1 do
 		local currStep = descWnd["step" .. tostring(stepIndex)]
 		if missionIndex < 15 then
@@ -1625,8 +1627,8 @@ function game:ensureWebMissionVisibility()
 			local stringID = getDbProp(dbPath)
 			local uctext = getDynString(stringID)
 			local text = uctext:toUtf8()
-			if text ~= "" and game.WebMissionLastDesc ~= text then
-				game.WebMissionLastDesc = text
+			if text ~= "" and game.WebMissionLastDesc[stepIndex] ~= text then
+				game.WebMissionLastDesc[stepIndex] = text
 				if string.sub(text, 1, 4) == "@WEB" then
 					text = string.sub(text, 6)
 					haveWeb = true
@@ -1641,9 +1643,13 @@ function game:ensureWebMissionVisibility()
 				end
 			end
 		end
+
+		if (game.WebMissionLastDesc[stepIndex] ~= nil) and (string.sub(game.WebMissionLastDesc[stepIndex], 1, 4) == "@WEB") then
+			haveWeb = true
+		end
 	end
 
-	if string.sub(game.WebMissionLastDesc, 1, 4) == "@WEB" then
+	if haveWeb then
 		getUI(descWnd.id..":web").h = 56
 	else
 		getUI(descWnd.id..":web").h = 0
@@ -1656,6 +1662,7 @@ end
 function game:onNewMissionAdded(missionIndex)
 	setOnDraw(missionWnd, "game:ensureWebMissionVisibility()")
 	debugInfo("Mission " .. missionIndex .. " has been added")
+	game.WebMissionLastDesc = {}
 end
 
 --------------------------------------------------------------------------------------------------------------
