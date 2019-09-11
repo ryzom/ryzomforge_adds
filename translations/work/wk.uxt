@@ -10497,6 +10497,19 @@ uiCharSel_DelChar	[Do you really want to delete this character ?]
 
 uiCP_Delete_yes	[DELETE]
 
+uiCP_Choose_Import [Import Characters]
+
+uiCP_Import_Ok [CREATE]
+
+uiCP_Import_Cancel [CANCEL]
+
+uiCP_Import_NotFound [No saved characters found.]
+
+uiCP_Import_Failed [Character importation failed!]
+
+uiCP_Export_Success [Character exported with success.]
+
+uiCP_Export_Failed [Character exportation failed!]
 
 uiCP_Delete_no	[CANCEL]
 

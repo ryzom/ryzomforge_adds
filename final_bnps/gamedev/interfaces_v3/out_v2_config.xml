@@ -157,6 +157,9 @@
   <variable entry="UI:TEMP:SKIP_INTRO"
             type="bool"
             value="0" />
+  <variable entry="UI:TEMP:IMPORT"
+            type="bool"
+            value="0" />
   <variable entry="UI:SERVER_RECEIVED_CHARS"
             type="sint64"
             value="0" />

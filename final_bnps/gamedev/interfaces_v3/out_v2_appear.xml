@@ -26,8 +26,6 @@
 
 <variable entry="UI:TEMP:CHAR3D:DEST" type="sint64" value="-1"/>
 
-
-
 <variable entry="UI:TEMP:PANOPLY"					type="sint64" value="0"/>
 <variable entry="UI:TEMP:PANOPLYCOLOR"				type="sint64" value="0"/>
 
@@ -53,7 +51,7 @@
 <!-- used for marauder names. -->
 <variable entry="UI:TEMP:NAME_SUB_RACE_FIRST_NAME"	type="sint64" value="1" />
 <variable entry="UI:TEMP:NAME_SUB_RACE_LAST_NAME"	type="sint64" value="1" />
-<!-- you will have to change the max value of the slider too, since it seam not working to set it using that var directly. -->
+<!-- you will have to change the max value of the slider too, since it seem not working to set it using that var directly. -->
 <variable entry="UI:TEMP:NAME_RACE_NB"				type="sint64" value="5" />
 <!-- We start at 1 not 0. -->
 <variable entry="UI:TEMP:NAME_SEX"					type="sint64" value="1" />
@@ -108,10 +106,10 @@
 
 <template name="appearmttslider" nb="" id="" posparent="parent" posref="TL TL" x="0" y="0" >
 	<instance template="slider" id="bk#nb" posparent="#posparent" posref="#posref" x="#x" y="#y" />
-	<ctrl type="scroll" id="scroll#nb" posparent="bk#nb" posref="MM MM" x="0" y="0" w="140" h="32"
+	<ctrl type="scroll" id="scroll_sub#nb" posparent="bk#nb" posref="MM MM" x="0" y="0" w="120" h="32"
 						vertical="false" align="L" min="0" max="6" value="UI:TEMP:CHAR3D:VPC:MORPHTARGET#nb" tracksize="40"
-						onscroll="" params="" tx_topright="" tx_middle="slider_m.tga"
-						tx_bottomleft=""/>
+						onscrollend="proc" params="proc_select_face_sub|add(#nb,-1)" tx_topright="" tx_middle="slider_m.tga"
+						tx_bottomleft="" keyboard="true" target_stepx="14" />
 </template>
 
 
@@ -185,12 +183,13 @@
 </proc>
 
 
-
-
 <!-- INITIALISATION -->
 <proc id="proc_init_CP">
 
 	<action handler="anim_start" params="anim=anim_CP_intro" />
+
+	<!-- reset previous key events -->
+	<action handler="navigate_outgame" params="reset" />
 
 	<action handler="proc" params="appear_enable_buttons" />
 
@@ -205,7 +204,7 @@
 	<action handler="set" params="dblink=UI:TEMP:JOB_CRAFT|value=1" />
 
 	<action handler="set" params="target_property=ui:outgame:appear:job_options:active|value=0" />
-	<action handler="set" params="target_property=ui:outgame:appear:job_options:selection:r1:texture|value='job_fight_on.tga'" />
+	<!--<action handler="set" params="target_property=ui:outgame:appear:job_options:selection:r1:texture|value='job_fight_on.tga'" />-->
 
 	<action handler="set" cond="not(isPeopleActive(0))" params="target_property=ui:outgame:appear:specie_options:fyros_but:active|value=0" />
 	<action handler="set" cond="not(isPeopleActive(1))" params="target_property=ui:outgame:appear:specie_options:matis_but:active|value=0" />
@@ -217,7 +216,9 @@
 	<action handler="proc" cond="eq(@UI:TEMP:CHAR3D:PEOPLE,2)" params="import_tryker" />
 	<action handler="proc" cond="eq(@UI:TEMP:CHAR3D:PEOPLE,3)" params="import_zorai" />
 
-	<action handler="proc" params="CP_init_character" />
+	<action handler="proc" cond="eq(@UI:TEMP:IMPORT,0)" params="CP_init_character" />
+	<action handler="proc" cond="eq(@UI:TEMP:IMPORT,1)" params="CP_init_character_imported" />
+
 	<action handler="proc" params="CP_init_Main_3D_scene" />
 	<action handler="proc" params="CP_duplicate_character" />
 	<action handler="proc" params="CP_init_Menus_3D_scene" />
@@ -244,29 +245,22 @@
 		<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:SEX,1)" params="target_property=ui:outgame:appear:sex_options:female_but:pushed|value=1" />
 
 	<!-- Setup default Job Spec -->
-	<action handler="set" params="dblink=UI:TEMP:JOB_POINT1|value=0" />
-	<action handler="proc" params="proc_job_point1" />
-
-
-
-	<action handler="set" params="target_property=ui:outgame:appear:job_options:options:result:title2:hardtext|value='uiCP_Refugee'" />
-
-	<action handler="set"  params="target_property=ui:outgame:appear:job_options:selection:info1:hardtext|value='uiCP_JOB1'" />
-
-
+	<action handler="proc" params="proc_select_job|0" />
+	<!--<action handler="set" params="target_property=ui:outgame:appear:job_options:options:result:title2:hardtext|value='uiCP_Refugee'" />
+	<action handler="set"  params="target_property=ui:outgame:appear:job_options:selection:info1:hardtext|value='uiCP_JOB1'" /> -->
 
 	<action handler="set" params="target_property=ui:outgame:appear:M1:pushed|value=1" />
 	<action handler="set" params="target_property=ui:outgame:appear:select_menu:y|value=2" />
 	<action handler="set" params="target_property=ui:outgame:appear:3d_select:y|value=0" />
 	<action handler="set" params="dblink=UI:TEMP:CP_MENU|value=0" />
-	<action handler="set"  params="target_property=ui:outgame:appear:face_options:face1:hardtext|value='uiFace1Fy'" />
-	<action handler="set"  params="target_property=ui:outgame:appear:face_options:face2:hardtext|value='uiFace2Fy'" />
-	<action handler="set"  params="target_property=ui:outgame:appear:face_options:face3:hardtext|value='uiFace3Fy'" />
-	<action handler="set"  params="target_property=ui:outgame:appear:face_options:face4:hardtext|value='uiFace4Fy'" />
-	<action handler="set"  params="target_property=ui:outgame:appear:face_options:face5:hardtext|value='uiFace5Fy'" />
-	<action handler="set"  params="target_property=ui:outgame:appear:face_options:face6:hardtext|value='uiFace6Fy'" />
-	<action handler="set"  params="target_property=ui:outgame:appear:face_options:face7:hardtext|value='uiFace7Fy'" />
-	<action handler="set"  params="target_property=ui:outgame:appear:face_options:face8:hardtext|value='uiFace8Fy'" />
+	<action handler="set"  params="target_property=ui:outgame:appear:face_options:face1_but:hardtext|value='uiFace1Fy'" />
+	<action handler="set"  params="target_property=ui:outgame:appear:face_options:face2_but:hardtext|value='uiFace2Fy'" />
+	<action handler="set"  params="target_property=ui:outgame:appear:face_options:face3_but:hardtext|value='uiFace3Fy'" />
+	<action handler="set"  params="target_property=ui:outgame:appear:face_options:face4_but:hardtext|value='uiFace4Fy'" />
+	<action handler="set"  params="target_property=ui:outgame:appear:face_options:face5_but:hardtext|value='uiFace5Fy'" />
+	<action handler="set"  params="target_property=ui:outgame:appear:face_options:face6_but:hardtext|value='uiFace6Fy'" />
+	<action handler="set"  params="target_property=ui:outgame:appear:face_options:face7_but:hardtext|value='uiFace7Fy'" />
+	<action handler="set"  params="target_property=ui:outgame:appear:face_options:face8_but:hardtext|value='uiFace8Fy'" />
 
 	<action handler="proc" params="proc_select_specie|@UI:TEMP:CHAR3D:PEOPLE" />
 
@@ -280,11 +274,11 @@
 	<action handler="reset_camera"	 params="target=ui:outgame:appear:char3d:cam" />
 	<action handler="reset_camera"	 params="target=ui:outgame:appear:char3d:camface" />
 
-	<action handler="lua" params="pauseBGDownloader()" />
+	<!--<action handler="lua" params="pauseBGDownloader()" />-->
 </proc>
 
 <proc id="proc_release_CP">
-	<action handler="lua" params="unpauseBGDownloader()" />
+	<!--<action handler="lua" params="unpauseBGDownloader()" />-->
 </proc>
 
 
@@ -319,6 +313,9 @@
 	<action handler="set" params="target_property=ui:outgame:appear:abort_but:active|value=1"/>
 
 	<action handler="set" params="target_property=ui:outgame:appear:quit_but:active|value=1"/>
+
+	<!-- capture key events -->
+	<action handler="lua:outgame:procCharcreate()" />
 </proc>
 
 
@@ -443,6 +440,11 @@
 	<action handler="anim_start" cond="eq(@UI:TEMP:ANIM,1)" params="anim=anim_CP_cam_rotate" />
 </proc>
 
+
+<!-- Init Imported Character -->
+<proc id="CP_init_character_imported">
+	<action handler="proc" params="proc_change_haircut_reverted" />
+</proc>
 
 <!-- Init Character -->
 <proc id="CP_init_character">
@@ -878,6 +880,7 @@
 	<action handler="set" cond="eq(@UI:TEMP:CP_MENU,4)" params="target_property=ui:outgame:appear:job_options:active|value=1" />
 	<action handler="anim_start" cond="eq(@UI:TEMP:CP_MENU,4)" params="anim=anim_job_on" />
 	<action handler="anim_start" cond="ne(@UI:TEMP:CP_MENU,4)" params="anim=anim_job_off" />
+	<action handler="set" cond="ne(@UI:TEMP:CP_MENU,4)" params="target_property=ui:outgame:appear:job_options:active|value=0" />
 
 	<action handler="proc" params="proc_appear_infos2" />
 
@@ -887,6 +890,10 @@
 <!-- SELECT SPECIE -->
 <proc id="proc_select_specie">
 
+	<action handler="set" cond="eq(@0,0)" params="target_property=ui:outgame:appear:specie_options:fyros_but:pushed|value=1" />
+	<action handler="set" cond="eq(@0,1)" params="target_property=ui:outgame:appear:specie_options:matis_but:pushed|value=1" />
+	<action handler="set" cond="eq(@0,2)" params="target_property=ui:outgame:appear:specie_options:tryker_but:pushed|value=1" />
+	<action handler="set" cond="eq(@0,3)" params="target_property=ui:outgame:appear:specie_options:zorai_but:pushed|value=1" />
 
 	<action handler="set" 				params="dblink=UI:TEMP:CHAR3D:PEOPLE|value=@0" />
 	<!--
@@ -983,40 +990,40 @@
 
 	<!-- Change Hair and eyes color in menu 4 options -->
 
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,0)" params="target_property=ui:outgame:appear:face_options:face1:hardtext|value='uiFace1Fy'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,0)" params="target_property=ui:outgame:appear:face_options:face2:hardtext|value='uiFace2Fy'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,0)" params="target_property=ui:outgame:appear:face_options:face3:hardtext|value='uiFace3Fy'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,0)" params="target_property=ui:outgame:appear:face_options:face4:hardtext|value='uiFace4Fy'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,0)" params="target_property=ui:outgame:appear:face_options:face5:hardtext|value='uiFace5Fy'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,0)" params="target_property=ui:outgame:appear:face_options:face6:hardtext|value='uiFace6Fy'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,0)" params="target_property=ui:outgame:appear:face_options:face7:hardtext|value='uiFace7Fy'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,0)" params="target_property=ui:outgame:appear:face_options:face8:hardtext|value='uiFace8Fy'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,0)" params="target_property=ui:outgame:appear:face_options:face1_but:hardtext|value='uiFace1Fy'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,0)" params="target_property=ui:outgame:appear:face_options:face2_but:hardtext|value='uiFace2Fy'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,0)" params="target_property=ui:outgame:appear:face_options:face3_but:hardtext|value='uiFace3Fy'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,0)" params="target_property=ui:outgame:appear:face_options:face4_but:hardtext|value='uiFace4Fy'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,0)" params="target_property=ui:outgame:appear:face_options:face5_but:hardtext|value='uiFace5Fy'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,0)" params="target_property=ui:outgame:appear:face_options:face6_but:hardtext|value='uiFace6Fy'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,0)" params="target_property=ui:outgame:appear:face_options:face7_but:hardtext|value='uiFace7Fy'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,0)" params="target_property=ui:outgame:appear:face_options:face8_but:hardtext|value='uiFace8Fy'" />
 
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,1)" params="target_property=ui:outgame:appear:face_options:face1:hardtext|value='uiFace1Ma'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,1)" params="target_property=ui:outgame:appear:face_options:face2:hardtext|value='uiFace2Ma'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,1)" params="target_property=ui:outgame:appear:face_options:face3:hardtext|value='uiFace3Ma'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,1)" params="target_property=ui:outgame:appear:face_options:face4:hardtext|value='uiFace4Ma'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,1)" params="target_property=ui:outgame:appear:face_options:face5:hardtext|value='uiFace5Ma'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,1)" params="target_property=ui:outgame:appear:face_options:face6:hardtext|value='uiFace6Ma'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,1)" params="target_property=ui:outgame:appear:face_options:face7:hardtext|value='uiFace7Ma'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,1)" params="target_property=ui:outgame:appear:face_options:face8:hardtext|value='uiFace8Ma'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,1)" params="target_property=ui:outgame:appear:face_options:face1_but:hardtext|value='uiFace1Ma'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,1)" params="target_property=ui:outgame:appear:face_options:face2_but:hardtext|value='uiFace2Ma'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,1)" params="target_property=ui:outgame:appear:face_options:face3_but:hardtext|value='uiFace3Ma'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,1)" params="target_property=ui:outgame:appear:face_options:face4_but:hardtext|value='uiFace4Ma'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,1)" params="target_property=ui:outgame:appear:face_options:face5_but:hardtext|value='uiFace5Ma'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,1)" params="target_property=ui:outgame:appear:face_options:face6_but:hardtext|value='uiFace6Ma'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,1)" params="target_property=ui:outgame:appear:face_options:face7_but:hardtext|value='uiFace7Ma'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,1)" params="target_property=ui:outgame:appear:face_options:face8_but:hardtext|value='uiFace8Ma'" />
 
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,2)" params="target_property=ui:outgame:appear:face_options:face1:hardtext|value='uiFace1Tr'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,2)" params="target_property=ui:outgame:appear:face_options:face2:hardtext|value='uiFace2Tr'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,2)" params="target_property=ui:outgame:appear:face_options:face3:hardtext|value='uiFace3Tr'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,2)" params="target_property=ui:outgame:appear:face_options:face4:hardtext|value='uiFace4Tr'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,2)" params="target_property=ui:outgame:appear:face_options:face5:hardtext|value='uiFace5Tr'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,2)" params="target_property=ui:outgame:appear:face_options:face6:hardtext|value='uiFace6Tr'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,2)" params="target_property=ui:outgame:appear:face_options:face7:hardtext|value='uiFace7Tr'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,2)" params="target_property=ui:outgame:appear:face_options:face8:hardtext|value='uiFace8Tr'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,2)" params="target_property=ui:outgame:appear:face_options:face1_but:hardtext|value='uiFace1Tr'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,2)" params="target_property=ui:outgame:appear:face_options:face2_but:hardtext|value='uiFace2Tr'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,2)" params="target_property=ui:outgame:appear:face_options:face3_but:hardtext|value='uiFace3Tr'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,2)" params="target_property=ui:outgame:appear:face_options:face4_but:hardtext|value='uiFace4Tr'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,2)" params="target_property=ui:outgame:appear:face_options:face5_but:hardtext|value='uiFace5Tr'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,2)" params="target_property=ui:outgame:appear:face_options:face6_but:hardtext|value='uiFace6Tr'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,2)" params="target_property=ui:outgame:appear:face_options:face7_but:hardtext|value='uiFace7Tr'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,2)" params="target_property=ui:outgame:appear:face_options:face8_but:hardtext|value='uiFace8Tr'" />
 
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,3)" params="target_property=ui:outgame:appear:face_options:face1:hardtext|value='uiFace1Zo'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,3)" params="target_property=ui:outgame:appear:face_options:face2:hardtext|value='uiFace2Zo'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,3)" params="target_property=ui:outgame:appear:face_options:face3:hardtext|value='uiFace3Zo'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,3)" params="target_property=ui:outgame:appear:face_options:face4:hardtext|value='uiFace4Zo'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,3)" params="target_property=ui:outgame:appear:face_options:face5:hardtext|value='uiFace5Zo'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,3)" params="target_property=ui:outgame:appear:face_options:face6:hardtext|value='uiFace6Zo'" />
-	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,3)" params="target_property=ui:outgame:appear:face_options:face7:hardtext|value='uiFace7Zo'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,3)" params="target_property=ui:outgame:appear:face_options:face1_but:hardtext|value='uiFace1Zo'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,3)" params="target_property=ui:outgame:appear:face_options:face2_but:hardtext|value='uiFace2Zo'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,3)" params="target_property=ui:outgame:appear:face_options:face3_but:hardtext|value='uiFace3Zo'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,3)" params="target_property=ui:outgame:appear:face_options:face4_but:hardtext|value='uiFace4Zo'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,3)" params="target_property=ui:outgame:appear:face_options:face5_but:hardtext|value='uiFace5Zo'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,3)" params="target_property=ui:outgame:appear:face_options:face6_but:hardtext|value='uiFace6Zo'" />
+	<action handler="set"  cond="eq(@UI:TEMP:CHAR3D:PEOPLE,3)" params="target_property=ui:outgame:appear:face_options:face7_but:hardtext|value='uiFace7Zo'" />
 
 	<action handler="set" cond="eq(@UI:TEMP:ANIM,0)" params="target_property=ui:outgame:appear:char3d:char:anim|value=0" />
 	<action handler="proc" cond="eq(@UI:TEMP:ANIM,1)" params="specie_anim_play" />
@@ -1046,6 +1053,9 @@
 
 <!-- SELECT SEX -->
 <proc id="proc_select_sex">
+
+	<action handler="set" cond="eq(@0,0)" params="target_property=ui:outgame:appear:sex_options:male_but:pushed|value=1" />
+	<action handler="set" cond="eq(@0,1)" params="target_property=ui:outgame:appear:sex_options:female_but:pushed|value=1" />
 
 	<action handler="set" params="dblink=UI:TEMP:CHAR3D:VPA:SEX|value=@0" />
 	<action handler="copy" params="dbdst=UI:TEMP:M3|dbsrc=UI:TEMP:CHAR3D" />
@@ -1083,10 +1093,31 @@
 
 <!-- SELECT BODY -->
 <proc id="proc_select_body">
+	<action handler="proc" cond="eq(@0,0)" params="CP_Camera_Face" />
+	<action handler="set" cond="eq(@0,0)" params="target_property=ui:outgame:appear:body_options:height_but:pushed|value=1" />
+	<action handler="set" cond="eq(@0,1)" params="target_property=ui:outgame:appear:body_options:torso_but:pushed|value=1" />
+	<action handler="set" cond="eq(@0,2)" params="target_property=ui:outgame:appear:body_options:arms_but:pushed|value=1" />
+	<action handler="set" cond="eq(@0,3)" params="target_property=ui:outgame:appear:body_options:legs_but:pushed|value=1" />
+	<action handler="set" cond="eq(@0,4)" params="target_property=ui:outgame:appear:body_options:breasts_but:pushed|value=1" />
 </proc>
 
 <!-- SELECT FACE -->
 <proc id="proc_select_face">
+	<action handler="set" cond="eq(@0,0)" params="target_property=ui:outgame:appear:face_options:haircut_but:pushed|value=1" />
+	<action handler="set" cond="eq(@0,1)" params="target_property=ui:outgame:appear:face_options:haircolor_but:pushed|value=1" />
+	<action handler="set" cond="eq(@0,2)" params="target_property=ui:outgame:appear:face_options:tatoos_but:pushed|value=1" />
+	<action handler="set" cond="eq(@0,3)" params="target_property=ui:outgame:appear:face_options:eyes_but:pushed|value=1" />
+</proc>
+
+<proc id="proc_select_face_sub">
+	<action handler="set" cond="eq(@0,0)" params="target_property=ui:outgame:appear:face_options:face1_but:pushed|value=1" />
+	<action handler="set" cond="eq(@0,1)" params="target_property=ui:outgame:appear:face_options:face2_but:pushed|value=1" />
+	<action handler="set" cond="eq(@0,2)" params="target_property=ui:outgame:appear:face_options:face3_but:pushed|value=1" />
+	<action handler="set" cond="eq(@0,3)" params="target_property=ui:outgame:appear:face_options:face4_but:pushed|value=1" />
+	<action handler="set" cond="eq(@0,4)" params="target_property=ui:outgame:appear:face_options:face5_but:pushed|value=1" />
+	<action handler="set" cond="eq(@0,5)" params="target_property=ui:outgame:appear:face_options:face6_but:pushed|value=1" />
+	<action handler="set" cond="eq(@0,6)" params="target_property=ui:outgame:appear:face_options:face7_but:pushed|value=1" />
+	<action handler="set" cond="eq(@0,7)" params="target_property=ui:outgame:appear:face_options:face8_but:pushed|value=1" />
 </proc>
 
 <!-- SELECT JOB -->
@@ -1103,7 +1134,7 @@
 	<action handler="set" cond="eq(@UI:TEMP:JOB_POINT1,2)" params="dblink=UI:TEMP:JOB_FORAGE|value=2" />
 	<action handler="set" cond="eq(@UI:TEMP:JOB_POINT1,3)" params="dblink=UI:TEMP:JOB_CRAFT|value=2" />
 
-	<!-- Set Icon and text -->
+	<!-- Set Icon and text 
 	<action handler="set" cond="eq(@UI:TEMP:JOB_POINT1,0)" params="target_property=ui:outgame:appear:job_options:selection:r1:texture|value='job_fight_on.tga'" />
 	<action handler="set" cond="eq(@UI:TEMP:JOB_POINT1,1)" params="target_property=ui:outgame:appear:job_options:selection:r1:texture|value='job_magic_on.tga'" />
 	<action handler="set" cond="eq(@UI:TEMP:JOB_POINT1,2)" params="target_property=ui:outgame:appear:job_options:selection:r1:texture|value='job_forage_on.tga'" />
@@ -1113,7 +1144,7 @@
 	<action handler="set" cond="eq(@UI:TEMP:JOB_POINT1,1)" params="target_property=ui:outgame:appear:job_options:selection:info1:hardtext|value='uiCP_JOB2'" />
 	<action handler="set" cond="eq(@UI:TEMP:JOB_POINT1,2)" params="target_property=ui:outgame:appear:job_options:selection:info1:hardtext|value='uiCP_JOB3'" />
 	<action handler="set" cond="eq(@UI:TEMP:JOB_POINT1,3)" params="target_property=ui:outgame:appear:job_options:selection:info1:hardtext|value='uiCP_JOB4'" />
-
+	-->
 	<!-- Change Player Title -->
 	<action handler="set" params="target_property=ui:outgame:appear:job_options:options:result:title2:hardtext|value='uiCP_Refugee'" />
 	<action handler="set" cond="eq(@UI:TEMP:JOB_FIGHT,2)" params="target_property=ui:outgame:appear:job_options:options:result:title2:hardtext|value='uiCP_Fight1'" />
@@ -1126,6 +1157,13 @@
 
 </proc>
 
+<proc id="proc_select_job">
+	<action handler="set" cond="eq(@0,0)" params="target_property=ui:outgame:appear:job_options:selection:fight_but:pushed|value=1" />
+	<action handler="set" cond="eq(@0,1)" params="target_property=ui:outgame:appear:job_options:selection:magic_but:pushed|value=1" />
+	<action handler="set" cond="eq(@0,2)" params="target_property=ui:outgame:appear:job_options:selection:forage_but:pushed|value=1" />
+	<action handler="set" cond="eq(@0,3)" params="target_property=ui:outgame:appear:job_options:selection:craft_but:pushed|value=1" />
+	<action handler="set" params="dblink=UI:TEMP:JOB_POINT1|value=@0" />
+</proc>
 
 
 <!-- HAIRS -->
@@ -1134,6 +1172,14 @@
 	<action handler="proc" params="proc_change_haircut_ma" cond="eq(@UI:TEMP:CHAR3D:PEOPLE,1)" />
 	<action handler="proc" params="proc_change_haircut_tr" cond="eq(@UI:TEMP:CHAR3D:PEOPLE,2)" />
 	<action handler="proc" params="proc_change_haircut_zo" cond="eq(@UI:TEMP:CHAR3D:PEOPLE,3)" />
+	<action handler="proc" params="CP_duplicate_character" />
+</proc>
+
+<proc id="proc_change_haircut_reverted">
+	<action handler="proc" params="proc_change_haircut_fy_reverted" cond="eq(@UI:TEMP:CHAR3D:PEOPLE,0)" />
+	<action handler="proc" params="proc_change_haircut_ma_reverted" cond="eq(@UI:TEMP:CHAR3D:PEOPLE,1)" />
+	<action handler="proc" params="proc_change_haircut_tr_reverted" cond="eq(@UI:TEMP:CHAR3D:PEOPLE,2)" />
+	<action handler="proc" params="proc_change_haircut_zo_reverted" cond="eq(@UI:TEMP:CHAR3D:PEOPLE,3)" />
 	<action handler="proc" params="CP_duplicate_character" />
 </proc>
 
@@ -1147,6 +1193,16 @@
 	<action handler="set" cond="eq(@UI:TEMP:HAIRCUT,6)" params="dblink=UI:TEMP:CHAR3D:VPA:HATMODEL|value=getVSIndex('fy_cheveux_long01.sitem','HEAD')" />
 </proc>
 
+<proc id="proc_change_haircut_fy_reverted">
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('fy_cheveux_shave01.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=0" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('fy_cheveux_short01.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=1" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('fy_cheveux_short02.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=2" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('fy_cheveux_medium01.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=3" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('fy_cheveux_medium02.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=4" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('fy_cheveux_medium03.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=5" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('fy_cheveux_long01.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=6" />
+</proc>
+
 <proc id="proc_change_haircut_ma">
 	<action handler="set" cond="eq(@UI:TEMP:HAIRCUT,0)" params="dblink=UI:TEMP:CHAR3D:VPA:HATMODEL|value=getVSIndex('ma_cheveux_shave01.sitem','HEAD')" />
 	<action handler="set" cond="eq(@UI:TEMP:HAIRCUT,1)" params="dblink=UI:TEMP:CHAR3D:VPA:HATMODEL|value=getVSIndex('ma_cheveux_short01.sitem','HEAD')" />
@@ -1155,6 +1211,16 @@
 	<action handler="set" cond="eq(@UI:TEMP:HAIRCUT,4)" params="dblink=UI:TEMP:CHAR3D:VPA:HATMODEL|value=getVSIndex('ma_cheveux_medium02.sitem','HEAD')" />
 	<action handler="set" cond="eq(@UI:TEMP:HAIRCUT,5)" params="dblink=UI:TEMP:CHAR3D:VPA:HATMODEL|value=getVSIndex('ma_cheveux_long01.sitem','HEAD')" />
 	<action handler="set" cond="eq(@UI:TEMP:HAIRCUT,6)" params="dblink=UI:TEMP:CHAR3D:VPA:HATMODEL|value=getVSIndex('ma_cheveux_long02.sitem','HEAD')" />
+</proc>
+
+<proc id="proc_change_haircut_ma_reverted">
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('ma_cheveux_shave01.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=0" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('ma_cheveux_short01.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=1" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('ma_cheveux_short02.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=2" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('ma_cheveux_medium01.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=3" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('ma_cheveux_medium02.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=4" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('ma_cheveux_long01.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=5" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('ma_cheveux_long02.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=6" />
 </proc>
 
 <proc id="proc_change_haircut_tr">
@@ -1167,6 +1233,16 @@
 	<action handler="set" cond="eq(@UI:TEMP:HAIRCUT,6)" params="dblink=UI:TEMP:CHAR3D:VPA:HATMODEL|value=getVSIndex('tr_cheveux_long01.sitem','HEAD')" />
 </proc>
 
+<proc id="proc_change_haircut_tr_reverted">
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('tr_cheveux_shave01.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=0" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('tr_cheveux_short01.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=1" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('tr_cheveux_short02.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=2" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('tr_cheveux_short03.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=3" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('tr_cheveux_medium01.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=4" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('tr_cheveux_medium02.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=5" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('tr_cheveux_long01.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=6" />
+</proc>
+
 <proc id="proc_change_haircut_zo">
 	<action handler="set" cond="eq(@UI:TEMP:HAIRCUT,0)" params="dblink=UI:TEMP:CHAR3D:VPA:HATMODEL|value=getVSIndex('zo_cheveux_shave01.sitem','HEAD')" />
 	<action handler="set" cond="eq(@UI:TEMP:HAIRCUT,1)" params="dblink=UI:TEMP:CHAR3D:VPA:HATMODEL|value=getVSIndex('zo_cheveux_short01.sitem','HEAD')" />
@@ -1177,7 +1253,15 @@
 	<action handler="set" cond="eq(@UI:TEMP:HAIRCUT,6)" params="dblink=UI:TEMP:CHAR3D:VPA:HATMODEL|value=getVSIndex('zo_cheveux_long02.sitem','HEAD')" />
 </proc>
 
-
+<proc id="proc_change_haircut_zo_reverted">
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('zo_cheveux_shave01.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=0" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('zo_cheveux_short01.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=1" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('zo_cheveux_medium01.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=2" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('zo_cheveux_medium02.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=3" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('zo_cheveux_medium03.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=4" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('zo_cheveux_long01.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=5" />
+	<action handler="set" cond="eq(@UI:TEMP:CHAR3D:VPA:HATMODEL,getVSIndex('zo_cheveux_long02.sitem','HEAD'))" params="dblink=UI:TEMP:HAIRCUT|value=6" />
+</proc>
 
 <!-- ***************** -->
 <!-- * CHOOSE KEYSET * -->
@@ -1210,8 +1294,7 @@
 
 <group type="modal" id="appear_keyset" posref="MM MM" w="500" h="320"
 					mouse_pos="false" escapable="false" exit_click_out="false"
-					on_active="init_keyset_list"
-					on_deactive="reset_keyset_list"
+					on_active="init_keyset_list" on_deactive="reset_keyset_list"
 					display="false"
 >
 
@@ -1220,27 +1303,40 @@
 	<view type="text" id="text" posref="TM TM" x="0" y="-66" color="255 255 255 255" global_color="false" fontsize="20" multi_line="true" multi_line_space="0"
 		line_maxw="400" shadow="true" hardtext="uiCP_Choose_Keyset" />
 
-	<!-- MAINLAND SELECTION -->
+	<!-- KEYSET SELECTION -->
 	<group id="keyset_list" posparent="text" posref="TM TM" y="-50" w="400" child_resize_h="true" max_sizeparent="parent" max_w="380" max_h="110"/>
 	<ctrl type="scroll" id="sv" posref="TR TR" x="-20" y="-116" w="16" tx_topright="scroll_t.tga"
-				tx_middle="scroll_m.tga" tx_bottomleft="scroll_b.tga" target="keyset_list" target_stepy="22" />
+				tx_middle="scroll_m.tga" tx_bottomleft="scroll_b.tga" target="keyset_list" target_stepy="32" keyboard="true" />
+
+	<view type="bitmap" id="select_submit" posref="BM BM" x="-52" y="8" active="true" texture="opt_on_r_over.tga" global_color="false" />
 
 	<ctrl style="valid_txt_button" id="submit" posref="BM BM" x="0" y="8" hardtext="uiCP_Keyset_Ok"
-					onover="play_sound" params_over="name=specie_but_over"
+					onover="proc" params_over="proc_appear_keyset_over|1|0"
 					onclick_l="proc" params_l="proc_appear_keyset_enter" />
 
+	<view type="bitmap" id="select_cancel" posref="TM BM" posparent="submit" x="-54" y="4" active="false" texture="opt_on_r_over.tga" global_color="false" />
+
 	<ctrl style="valid_txt_button" id="cancel" posref="TM BM" posparent="submit" x="0" y="4" hardtext="uiCP_Keyset_Cancel"
-					onover="play_sound" params_over="name=specie_but_over"
+					onover="proc" params_over="proc_appear_keyset_over|0|1"
 					onclick_l="proc" params_l="proc_appear_keyset_cancel" />
 
 </group>
+
+<proc id="proc_appear_keyset_register">
+	<action handler="keyset_select" params="@0" />
+</proc>
+
+<proc id="proc_appear_keyset_over">
+	<action handler="play_sound" params="name=specie_but_over" />
+	<action handler="set" params="target_property=ui:outgame:appear_keyset:select_submit:active|value=@0" />
+	<action handler="set" params="target_property=ui:outgame:appear_keyset:select_cancel:active|value=@1" />
+</proc>
 
 <proc id="proc_appear_keyset_enter">
 	<action handler="reset_keyboard_focus" />
 	<action handler="play_sound" params="name=summary_enter_name" />
 	<action handler="enter_modal" params="group=ui:outgame:appear_name" />
 </proc>
-
 
 <proc id="proc_appear_keyset_cancel">
 	<action handler="leave_modal" />
@@ -1287,10 +1383,10 @@
 		onclick_l="open_url" params_l="cfg_ConditionsTermsURL" />
 		<!-- onclick_l="open_url" params_l="cfg_NamingPolicyURL" /> -->
 
+	<!-- onenter="proc" params="proc_appear_name_enter" -->
 	<group type="edit_box" id="eb" posparent="name_policy" posref="BM TM" x="0" y="-8"  w="300" h="52" render_layer="4" child_resize_h="true"
-									onenter="proc" params="proc_appear_name_enter"
 									onchange="proc" onchange_params="proc_appear_name_change"
-									prompt="" enter_loose_focus="true" reset_focus_on_hide="true"
+									prompt="" enter_loose_focus="false" reset_focus_on_hide="true"
 									max_chars_size="252" menu_r="" max_historic="" entry_type="alpha">
 
 		<instance template="job_border" id="bord" posref="MM MM" />
@@ -1300,12 +1396,16 @@
 
 	<view type="text" id="invalid" posref="TM TM" posparent="eb" x="0" y="20" color="255 255 96 255" global_color="false" fontsize="15" shadow="true" hardtext="uiCP_Name_Invalid" />
 
+	<view type="bitmap" id="select_submit" posref="BM BM" x="-65" y="15" active="true" texture="opt_on_r_over.tga" global_color="false" />
+
 	<ctrl style="valid_txt_button" id="submit" posref="BM BM" x="0" y="15" hardtext="uiCP_Name_Submit"
-					onover="play_sound" params_over="name=specie_but_over"
+					onover="proc" params_over="proc_appear_name_over|1|0|0"
 					onclick_l="proc" params_l="proc_appear_name_enter" />
 
+	<view type="bitmap" id="select_cancel" posref="TM BM" posparent="submit" x="-65" y="4" active="false" texture="opt_on_r_over.tga" global_color="false" />
+
 	<ctrl style="valid_txt_button" id="cancel" posref="TM BM" posparent="submit" x="0" y="4" hardtext="uiCP_Name_Cancel"
-					onover="play_sound" params_over="name=specie_but_over"
+					onover="proc" params_over="proc_appear_name_over|0|1|0"
 					onclick_l="proc" params_l="proc_appear_name_cancel" />
 
 	<!-- Name Generator -->
@@ -1417,12 +1517,21 @@
 				onscroll="proc" params="proc_appear_name_sex_label_change" />
 		</group>
 
+		<view type="bitmap" id="select_generate" posref="BM BM" posparent="name_race_slider" x="-65" y="-100" active="false" texture="opt_on_r_over.tga" global_color="false" />
+
 		<ctrl style="valid_txt_button" id="generate" posref="BM BM" posparent="name_race_slider" x="0" y="-100" hardtext="uiCP_Name_Generate"
-			onover="play_sound" params_over="name=specie_but_over"
+			onover="proc" params_over="proc_appear_name_over|0|0|1"
 			onclick_l="proc" params_l="proc_appear_name_generate" />
 
 	<!-- End Name Generator -->
 </group>
+
+<proc id="proc_appear_name_over">
+	<action handler="play_sound" params="name=specie_but_over" />
+	<action handler="set" params="target_property=ui:outgame:appear_name:select_submit:active|value=@0" />
+	<action handler="set" params="target_property=ui:outgame:appear_name:select_cancel:active|value=@1" />
+	<action handler="set" params="target_property=ui:outgame:appear_name:select_generate:active|value=@2" />
+</proc>
 
 
 <!-- ******************* -->
@@ -1444,8 +1553,7 @@
 
 <group type="modal" id="appear_mainland" posref="MM MM" w="450" h="260"
 					mouse_pos="false" escapable="false" exit_click_out="false"
-					on_active="init_mainland_list"
-					on_deactive="reset_mainland_list"
+					on_active="init_mainland_list" on_deactive="reset_mainland_list"
  display="false"
 >
 
@@ -1457,17 +1565,31 @@
 	<!-- MAINLAND SELECTION -->
 	<group id="mainland_list" posparent="text" posref="TM TM" y="-30" w="400" child_resize_h="true" max_sizeparent="parent" max_w="380" max_h="88"/>
 	<ctrl type="scroll" id="sv" posref="TR TR" x="-20" y="-96" w="16" tx_topright="scroll_t.tga"
-				tx_middle="scroll_m.tga" tx_bottomleft="scroll_b.tga" target="mainland_list" target_stepy="22" />
+				tx_middle="scroll_m.tga" tx_bottomleft="scroll_b.tga" target="mainland_list" vertical="true" target_stepy="32" keyboard="true" />
+
+	<view type="bitmap" id="select_submit" posref="BM BM" x="-52" y="8" active="true" texture="opt_on_r_over.tga" global_color="false" />
 
 	<ctrl style="valid_txt_button" id="submit" posref="BM BM" x="0" y="8" hardtext="uiCP_Mainland_Ok"
-					onover="play_sound" params_over="name=specie_but_over"
+					onover="proc" params_over="proc_appear_mainland_over|1|0"
 					onclick_l="proc" params_l="proc_appear_mainland_enter" />
 
+	<view type="bitmap" id="select_cancel" posref="TM BM" posparent="submit" x="-54" y="4" active="false" texture="opt_on_r_over.tga" global_color="false" />
+
 	<ctrl style="valid_txt_button" id="cancel" posref="TM BM" posparent="submit" x="0" y="4" hardtext="uiCP_Mainland_Cancel"
-					onover="play_sound" params_over="name=specie_but_over"
+					onover="proc" params_over="proc_appear_mainland_over|0|1"
 					onclick_l="proc" params_l="proc_appear_mainland_cancel" />
 
 </group>
+
+<proc id="proc_appear_mainland_register">
+	<action handler="mainland_select" params="@0" />
+</proc>
+
+<proc id="proc_appear_mainland_over">
+	<action handler="play_sound" params="name=specie_but_over" />
+	<action handler="set" params="target_property=ui:outgame:appear_mainland:select_submit:active|value=@0" />
+	<action handler="set" params="target_property=ui:outgame:appear_mainland:select_cancel:active|value=@1" />
+</proc>
 
 <proc id="proc_appear_mainland_enter">
 	<action handler="reset_keyboard_focus" />
@@ -1504,9 +1626,7 @@
 <!-- ********* -->
 
 <group type="modal" id="appear_abort" posref="MM MM" w="300" h="180"
-					mouse_pos="false" escapable="false" exit_click_out="false"
- display="false"
->
+					mouse_pos="false" escapable="false" exit_click_out="false" display="false">
 
 
 	<instance template="outgame_popup" id="back" posref="TL TL" />
@@ -1515,16 +1635,25 @@
 	<view type="text" id="text" posref="TM TM" x="0" y="-60" color="255 255 255 255" global_color="false" line_maxw="284"
 		fontsize="17" shadow="true" hardtext="uiCP_Abort2" multi_line="true" multi_line_space="0"/>
 
+	<view type="bitmap" id="select_submit" posref="BR BR" x="-110" y="8" active="false" texture="opt_on_r_over.tga" global_color="false" />
+
 	<ctrl style="valid_txt_button" id="submit" posref="BR BR" x="-8" y="8" hardtext="uiCP_Abort_yes"
-					onover="play_sound" params_over="name=specie_but_over"
+					onover="proc" params_over="proc_appear_abort_confirm_over|1|0"
 					onclick_l="proc" params_l="proc_appear_abort_continue" />
 
+	<view type="bitmap" id="select_cancel" posref="TR BR" posparent="submit" x="-84" y="4" active="true" texture="opt_on_r_over.tga" global_color="false" />
+
 	<ctrl style="valid_txt_button" id="cancel" posref="TR BR" posparent="submit" x="0" y="4" hardtext="uiCP_Abort_no"
-					onover="play_sound" params_over="name=specie_but_over"
+					onover="proc" params_over="proc_appear_abort_confirm_over|0|1"
 					onclick_l="proc" params_l="proc_appear_abort_cancel" />
 
 </group>
 
+<proc id="proc_appear_abort_confirm_over">
+	<action handler="play_sound" params="name=specie_but_over" />
+	<action handler="set" params="target_property=ui:outgame:appear_abort:select_submit:active|value=@0" />
+	<action handler="set" params="target_property=ui:outgame:appear_abort:select_cancel:active|value=@1" />
+</proc>
 
 <proc id="proc_appear_name_active">
 	<action handler="set" params="target_property=ui:outgame:appear_name:invalid:active|value=0" />
@@ -1758,7 +1887,7 @@
 	</group>
 
 	<ctrl type="scroll" id="sv" posref="TR TR" x="-40" y="-98" w="16" tx_topright="scroll_t.tga"
-				tx_middle="scroll_m.tga" tx_bottomleft="scroll_b.tga" target="desc" target_stepy="17" />
+				tx_middle="scroll_m.tga" tx_bottomleft="scroll_b.tga" target="desc" target_stepy="42" keyboard="true" />
 
 	<ctrl style="valid_txt_button" id="quit_but" posref="BM BM" y="44" hardtext="uiInfos_Close"
 					onover="play_sound" params_over="name=specie_but_over"
@@ -2065,7 +2194,6 @@
 					onover="play_sound" params_over="name=specie_but_over"
 					onclick_l="proc" params_l="proc_select_specie|3"/>
 
-
 		<group id="logos" posref="TL TL" x="28" y="-80" h="380" w="44" >
 			<view type="bitmap" id="fyros" 								posref="TL TL" texture="opt_on_fyros.tga" 	global_color="false" />
 			<view type="bitmap" id="matis" 	posparent="fyros" 	y="" 	posref="BL TL" texture="opt_on_matis.tga" 	global_color="false" />
@@ -2117,48 +2245,48 @@
 
 		<!-- Height -->
 		<instance template="slider" id="bk1" posref="TL TL" x="20" y="-88" w="180" h="48" />
-		<view type="text" id="title1" posparent="bk1" posref="TL TL" x="16" y="4" hardtext="uiHeight" color="255 255 255 255" fontsize="10"/>
+		<ctrl style="key_button" id="height_but" posparent="bk1" posref="TL TL" x="16" y="4" hardtext="uiHeight" fontsize="11"/>
 		<ctrl type="scroll" id="scroll1" posparent="bk1" posref="MM MM" x="0" y="0" w="140" h="32"
 							vertical="false" align="L" min="0" max="14" value="UI:TEMP:CHAR3D:VPC:CHARACTERHEIGHT" tracksize="40"
-							onscrollend="proc" params="CP_Camera_Face"
-							tx_topright="" tx_middle="slider_m.tga" tx_bottomleft=""/>
+							onscrollend="proc" params="proc_select_body|0" keyboard="true" target_stepx="14"
+							tx_topright="" tx_middle="slider_m.tga" tx_bottomleft="" />
 
 		<!-- Torso -->
 		<instance template="slider" id="bk2" posparent="bk1" posref="BL TL" w="180" h="48" />
-		<view type="text" id="title2" posparent="bk2" posref="TL TL" x="16" y="4" hardtext="uiTorso" color="255 255 255 255" fontsize="10"/>
+		<ctrl style="key_button" id="torso_but" posparent="bk2" posref="TL TL" x="16" y="4" hardtext="uiTorso" fontsize="11"/>
 		<ctrl type="scroll" id="scroll2" posparent="bk2" posref="MM MM" x="0" y="0" w="140" h="32"
 							vertical="false" align="L" min="0" max="14" value="UI:TEMP:CHAR3D:VPC:TORSOWIDTH" tracksize="40"
-							onscroll="" params=""
-							tx_topright="" tx_middle="slider_m.tga" tx_bottomleft=""/>
+							onscrollend="proc" params="proc_select_body|1" keyboard="true" target_stepx="14"
+							tx_topright="" tx_middle="slider_m.tga" tx_bottomleft="" />
 
 		<!-- Arms -->
 		<instance template="slider" id="bk3" posparent="bk2" posref="BL TL" w="180" h="48" />
-		<view type="text" id="title3" posparent="bk3" posref="TL TL" x="16" y="4" hardtext="uiArms" color="255 255 255 255" fontsize="10"/>
+		<ctrl style="key_button" id="arms_but" posparent="bk3" posref="TL TL" x="16" y="4" hardtext="uiArms" fontsize="11"/>
 		<ctrl type="scroll" id="scroll3" posparent="bk3" posref="MM MM" x="0" y="0" w="140" h="32"
 							vertical="false" align="L" min="0" max="14" value="UI:TEMP:CHAR3D:VPC:ARMSWIDTH" tracksize="40"
-							onscroll="" params=""
-							tx_topright="" tx_middle="slider_m.tga" tx_bottomleft=""/>
+							onscrollend="proc" params="proc_select_body|2" keyboard="true" target_stepx="14"
+							tx_topright="" tx_middle="slider_m.tga" tx_bottomleft="" />
 
 		<!-- Legs -->
 		<instance template="slider" id="bk4" posparent="bk3" posref="BL TL" w="180" h="48" />
-		<view type="text" id="title4" posparent="bk4" posref="TL TL" x="16" y="4" hardtext="uiLegs" color="255 255 255 255" fontsize="10"/>
+		<ctrl style="key_button" id="legs_but" posparent="bk4" posref="TL TL" x="16" y="4" hardtext="uiLegs" fontsize="11"/>
 		<ctrl type="scroll" id="scroll4" posparent="bk4" posref="MM MM" x="0" y="0" w="140" h="32"
 							vertical="false" align="L" min="0" max="14" value="UI:TEMP:CHAR3D:VPC:LEGSWIDTH" tracksize="40"
-							onscroll="" params=""
-							tx_topright="" tx_middle="slider_m.tga" tx_bottomleft=""/>
+							onscrollend="proc" params="proc_select_body|3" keyboard="true" target_stepx="14"
+							tx_topright="" tx_middle="slider_m.tga" tx_bottomleft="" />
 
 
 		<!-- Breast -->
 		<instance template="slider" id="bk5" posparent="bk4" posref="BL TL" w="180" h="48" active="false" />
-		<view type="text" id="title5" posparent="bk5" posref="TL TL" x="16" y="4" hardtext="uiBreasts" color="255 255 255 255" fontsize="10" active="false" />
+		<ctrl style="key_button" id="breasts_but" posparent="bk5" posref="TL TL" x="16" y="4" hardtext="uiBreasts" fontsize="11" active="false" />
 		<ctrl type="scroll" id="scroll5" posparent="bk5" posref="MM MM" x="0" y="0" w="140" h="32"
 							vertical="false" align="L" min="0" max="14" value="UI:TEMP:CHAR3D:VPC:BREASTSIZE" tracksize="40"
-							onscroll="" params=""
+							onscrollend="proc" params="proc_select_body|4" keyboard="true" target_stepx="14"
 							tx_topright="" tx_middle="slider_m.tga" tx_bottomleft="" active="false" />
 
 		<!-- Pas de seins chez les hommes -->
 		<link expr="eq(@UI:TEMP:CHAR3D:VPA:SEX,1)" target="bk5:active" />
-		<link expr="eq(@UI:TEMP:CHAR3D:VPA:SEX,1)" target="title5:active" />
+		<link expr="eq(@UI:TEMP:CHAR3D:VPA:SEX,1)" target="breasts_but:active" />
 		<link expr="eq(@UI:TEMP:CHAR3D:VPA:SEX,1)" target="scroll5:active" />
 
 
@@ -2216,14 +2344,14 @@
 
 
 		<!-- TITLES Des SLIDERS -->
-		<view type="text" id="face1" posparent="pos1" posref="TL TL" x="2" y="4" hardtext="uiFace1Fy" color="255 255 255 255" fontsize="10"/>
-		<view type="text" id="face2" posparent="pos2" posref="TL TL" x="2" y="4" hardtext="uiFace2Fy" color="255 255 255 255" fontsize="10"/>
-		<view type="text" id="face3" posparent="pos3" posref="TL TL" x="2" y="4" hardtext="uiFace3Fy" color="255 255 255 255" fontsize="10"/>
-		<view type="text" id="face4" posparent="pos4" posref="TL TL" x="2" y="4" hardtext="uiFace4Fy" color="255 255 255 255" fontsize="10"/>
-		<view type="text" id="face5" posparent="pos5" posref="TL TL" x="2" y="4" hardtext="uiFace5Fy" color="255 255 255 255" fontsize="10"/>
-		<view type="text" id="face6" posparent="pos6" posref="TL TL" x="2" y="4" hardtext="uiFace6Fy" color="255 255 255 255" fontsize="10"/>
-		<view type="text" id="face7" posparent="pos7" posref="TL TL" x="2" y="4" hardtext="uiFace7Fy" color="255 255 255 255" fontsize="10"/>
-		<view type="text" id="face8" posparent="pos8" posref="TL TL" x="2" y="4" hardtext="uiFace8Fy" color="255 255 255 255" fontsize="10"/>
+		<ctrl style="key_button" id="face1_but" posparent="pos1" posref="TL TL" x="2" y="4" hardtext="uiFace1Fy" fontsize="11"/>
+		<ctrl style="key_button" id="face2_but" posparent="pos2" posref="TL TL" x="2" y="4" hardtext="uiFace2Fy" fontsize="11"/>
+		<ctrl style="key_button" id="face3_but" posparent="pos3" posref="TL TL" x="2" y="4" hardtext="uiFace3Fy" fontsize="11"/>
+		<ctrl style="key_button" id="face4_but" posparent="pos4" posref="TL TL" x="2" y="4" hardtext="uiFace4Fy" fontsize="11"/>
+		<ctrl style="key_button" id="face5_but" posparent="pos5" posref="TL TL" x="2" y="4" hardtext="uiFace5Fy" fontsize="11"/>
+		<ctrl style="key_button" id="face6_but" posparent="pos6" posref="TL TL" x="2" y="4" hardtext="uiFace6Fy" fontsize="11"/>
+		<ctrl style="key_button" id="face7_but" posparent="pos7" posref="TL TL" x="2" y="4" hardtext="uiFace7Fy" fontsize="11"/>
+		<ctrl style="key_button" id="face8_but" posparent="pos8" posref="TL TL" x="2" y="4" hardtext="uiFace8Fy" fontsize="11"/>
 
 		<!--
 		<view type="bitmap" id="branch" posref="BL BL" texture="branch.tga" color="255 255 255 255" global_color="false" />
@@ -2231,37 +2359,41 @@
 
 		<!-- Pas de 8eme Slider pour Zorai -->
 		<link expr="ne(@UI:TEMP:CHAR3D:PEOPLE,3)" target="bk8:active" />
-		<link expr="ne(@UI:TEMP:CHAR3D:PEOPLE,3)" target="scroll8:active" />
-		<link expr="ne(@UI:TEMP:CHAR3D:PEOPLE,3)" target="face8:active" />
+		<link expr="ne(@UI:TEMP:CHAR3D:PEOPLE,3)" target="scroll_sub8:active" />
+		<link expr="ne(@UI:TEMP:CHAR3D:PEOPLE,3)" target="face8_but:active" />
 
 
 		<!-- HAIRCUT -->
 		<instance template="but_slider" id="haircut" posparent="pos1" posref="TL TL" x="-516" y="0" w="180" h="48" value="UI:TEMP:HAIRCUT" max="6" />
-		<view type="text" id="hair1" posparent="haircut" posref="TL TL" x="16" y="4" hardtext="uiHaircut" color="255 255 255 255" fontsize="10"/>
-		<ctrl type="scroll" id="hair2" posparent="haircut" posref="MM MM" x="0" y="0" w="140" h="32"
+		<ctrl style="key_button" id="haircut_but" posparent="haircut" posref="TL TL" x="16" y="4" hardtext="uiHaircut" fontsize="11" />
+		<ctrl type="scroll" id="scroll1" posparent="haircut" posref="MM MM" x="0" y="0" w="120" h="32"
 							vertical="false" align="L" min="0" max="6" value="UI:TEMP:HAIRCUT" tracksize="40"
-							tx_topright="" tx_middle="slider_m.tga" tx_bottomleft=""/>
+							tx_topright="" tx_middle="slider_m.tga" tx_bottomleft=""  keyboard="true" target_stepx="14"
+							onscrollend="proc" params="proc_select_face|0" />
 
 		<!-- HAIR COLOR -->
 		<instance template="but_slider" id="haircolor" posparent="pos2" posref="TL TL" x="-516" y="0" w="180" h="48" value="UI:TEMP:CHAR3D:VPA:HATCOLOR" max="5" />
-		<view type="text" id="haircol1" posparent="haircolor" posref="TL TL" x="16" y="4" hardtext="uiHairColor" color="255 255 255 255" fontsize="10"/>
-		<ctrl type="scroll" id="haircol2" posparent="haircolor" posref="MM MM" x="0" y="0" w="140" h="32"
+		<ctrl style="key_button" id="haircolor_but" posparent="haircolor" posref="TL TL" x="16" y="4" hardtext="uiHairColor" fontsize="11" />
+		<ctrl type="scroll" id="scroll2" posparent="haircolor" posref="MM MM" x="0" y="0" w="120" h="32"
 							vertical="false" align="L" min="0" max="5" value="UI:TEMP:CHAR3D:VPA:HATCOLOR" tracksize="40"
-							tx_topright="" tx_middle="slider_m.tga" tx_bottomleft=""/>
+							tx_topright="" tx_middle="slider_m.tga" tx_bottomleft="" keyboard="true" target_stepx="14"
+							onscrollend="proc" params="proc_select_face|1" />
 
 		<!-- TATOOS -->
 		<instance template="but_slider" id="tatoos" posparent="pos3" posref="TL TL" x="-516" y="0" w="180" h="48" value="UI:TEMP:CHAR3D:VPC:TATTOO" max="31" />
-		<view type="text" id="tatoo1" posparent="tatoos" posref="TL TL" x="16" y="4" hardtext="uiTatoos" color="255 255 255 255" fontsize="10"/>
-		<ctrl type="scroll" id="tatoo2" posparent="tatoos" posref="MM MM" x="0" y="0" w="140" h="32"
+		<ctrl style="key_button" id="tatoos_but" posparent="tatoos" posref="TL TL" x="16" y="4" hardtext="uiTatoos" fontsize="11" />
+		<ctrl type="scroll" id="scroll3" posparent="tatoos" posref="MM MM" x="0" y="0" w="120" h="32"
 							vertical="false" align="L" min="0" max="31" value="UI:TEMP:CHAR3D:VPC:TATTOO" tracksize="40"
-							tx_topright="" tx_middle="slider_m.tga" tx_bottomleft=""/>
+							tx_topright="" tx_middle="slider_m.tga" tx_bottomleft="" keyboard="true" target_stepx="14"
+							onscrollend="proc" params="proc_select_face|2" />
 
 		<!-- EYES -->
 		<instance template="but_slider" id="eyes" posparent="pos4" posref="TL TL" x="-516" y="0" w="180" h="48" value="UI:TEMP:CHAR3D:VPC:EYESCOLOR" max="7" />
-		<view type="text" id="eyes1" posparent="eyes" posref="TL TL" x="16" y="4" hardtext="uiEyes" color="255 255 255 255" fontsize="10"/>
-		<ctrl type="scroll" id="eyes2" posparent="eyes" posref="MM MM" x="0" y="0" w="140" h="32"
+		<ctrl style="key_button" id="eyes_but" posparent="eyes" posref="TL TL" x="16" y="4" hardtext="uiEyes"  fontsize="11" />
+		<ctrl type="scroll" id="scroll4" posparent="eyes" posref="MM MM" x="0" y="0" w="120" h="32"
 							vertical="false" align="L" min="0" max="7" value="UI:TEMP:CHAR3D:VPC:EYESCOLOR" tracksize="40"
-							tx_topright="" tx_middle="slider_m.tga" tx_bottomleft=""/>
+							tx_topright="" tx_middle="slider_m.tga" tx_bottomleft="" keyboard="true" target_stepx="14"
+							onscrollend="proc" params="proc_select_face|3" />
 
 
 		<!--
@@ -2270,8 +2402,8 @@
 
 		<!-- Pas de Eyes Color pour les zorai -->
 		<link expr="ne(@UI:TEMP:CHAR3D:PEOPLE,3)" target="eyes:active" />
-		<link expr="ne(@UI:TEMP:CHAR3D:PEOPLE,3)" target="eyes1:active" />
-		<link expr="ne(@UI:TEMP:CHAR3D:PEOPLE,3)" target="eyes2:active" />
+		<link expr="ne(@UI:TEMP:CHAR3D:PEOPLE,3)" target="eyes_but:active" />
+		<link expr="ne(@UI:TEMP:CHAR3D:PEOPLE,3)" target="scroll4:active" />
 
 
 	</group>
@@ -2286,8 +2418,8 @@
 	<link expr="depends(@UI:TEMP:CHAR3D:VPC:EYESCOLOR)"		action="proc" params="CP_duplicate_character" />
 	<link expr="depends(@UI:TEMP:CHAR3D:VPA:HATCOLOR)"		action="proc" params="CP_duplicate_character" />
 	<link expr="depends(@UI:TEMP:CHAR3D:VPC:TATTOO)"		action="proc" params="CP_duplicate_character" />
-	<link expr="depends(@UI:TEMP:HAIRCUT)" 					action="proc" params="proc_change_haircut" />
 
+	<link expr="depends(@UI:TEMP:HAIRCUT)" action="proc" params="proc_change_haircut" />
 
 
 
@@ -2298,24 +2430,41 @@
 
 	<group id="job_options" w="1024" h="768" posref="TL TL" x="0" y="0"  >
 
-		<!-- SELECTION SLIDERS -->
-		<group id="selection" child_resize_w="true" child_resize_wmargin="40" h="160" posref="TL TL" x="240" y="280" >
+		<group id="selection" child_resize_w="true" child_resize_wmargin="32" h="288" posref="TL TL" x="200" y="380">
 
-			<group id="sub" posref="TL TL" w="240" h="60" x="8" y="-80" >
+			<group id="sub" sizeref="wh" posref="TL TL" w="-24" h="-96" x="24" y="-40" >
 				<instance template="outgame_black_back" id="back" />
 			</group>
 
-			<!-- Bonus 1 -->
-			<instance template="slider" id="bp1" posref="TL TL" x="15" y="-90" w="180" h="48" />
-			<view type="text" id="title1" posparent="bp1" posref="TL TL" x="0" y="2" hardtext="uiCP_BP1" color="255 255 255 255" fontsize="10"/>
-			<view type="text" id="info1" posparent="title1" posref="MR ML" x="5" y="1" hardtext="uiCP_JOB1" color="255 255 255 255" fontsize="11"/>
-			<ctrl type="scroll" id="scroll1" posparent="bp1" posref="MM MM" x="0" y="0" w="140" h="32"
-								vertical="false" align="L" min="0" max="3" value="UI:TEMP:JOB_POINT1" tracksize="40"
-								tx_topright="" tx_middle="slider_m.tga" tx_bottomleft=""/>
+			<ctrl style="opt_button" id="fight_but" posref="TL TL" x="60" y="-48" text_y="15" hardtext="uiCP_JOB1"
+						onover="play_sound" params_over="name=specie_but_over"
+						onclick_l="proc" params_l="proc_select_job|0"/>
 
-			<view type="bitmap" id="r1" posparent="bp1" posref="TR TL" texture="job_fight_on.tga" 	y="12" global_color="false" />
+			<ctrl style="opt_button" id="magic_but" posparent="fight_but" posref="BL TL" text_y="15" hardtext="uiCP_JOB2"
+						onover="play_sound" params_over="name=specie_but_over"
+						onclick_l="proc" params_l="proc_select_job|1"/>
 
+			<ctrl style="opt_button" id="forage_but" posparent="magic_but" posref="BL TL" text_y="15" hardtext="uiCP_JOB3"
+						onover="play_sound" params_over="name=specie_but_over"
+						onclick_l="proc" params_l="proc_select_job|2"/>
+
+			<ctrl style="opt_button" id="craft_but" posparent="forage_but" posref="BL TL" text_y="15" hardtext="uiCP_JOB4"
+						onover="play_sound" params_over="name=specie_but_over"
+						onclick_l="proc" params_l="proc_select_job|3"/>
+
+			<group id="logos" posref="TL TL" x="28" y="-40" h="380" w="44" >
+				<view type="bitmap" id="fight" posref="TL TL" texture="job_fight_on.tga" 	global_color="false" />
+				<view type="bitmap" id="forage" posparent="fight" 	y="" 	posref="BL TL" texture="job_forage_on.tga" 	global_color="false" />
+				<view type="bitmap" id="magic" posparent="forage" 	y="" 	posref="BL TL" texture="job_magic_on.tga" 	global_color="false" />
+				<view type="bitmap" id="craft" posparent="magic" 	y="" 	posref="BL TL" texture="job_craft_on.tga" 	global_color="false" />
+			</group>
+
+			<!--
+			<view type="bitmap" id="branch" posref="BL BL" texture="branch.tga" color="255 255 255 255" global_color="false" />
+			-->
 		</group>
+
+
 
 		<link expr="depends(@UI:TEMP:JOB_POINT1)"	action="proc" params="proc_job_point1" />
 
@@ -2496,7 +2645,7 @@
 
 	<!-- QUIT BUTTON -->
 	<ctrl type="button" id="quit_but" button_type="push_button" posref="TR TR" x="0" y="0"
-				tx_normal="quit.tga" tx_pushed="quit.tga" tx_over="quit.tga"
+				tx_normal="quit.tga" tx_pushed="" tx_over="quit.tga"
 				color="255 255 255 255" col_pushed="255 255 255 255" col_over="0 0 0 0"
 				onover="play_sound" params_over="name=specie_but_over"
 				onclick_l="proc" params_l="proc_quit"/>
@@ -2652,12 +2801,12 @@
 
 </anim>
 
-<anim id="anim_job_off" duration="1.0"  disable_buttons="true" on_finish="set" on_finish_params="target_property=ui:outgame:appear:job_options:active|value=0" >
-
+<anim id="anim_job_off" duration="1.0"  disable_buttons="true" on_finish="" on_finish_params="" >
+<!--
 	<track type="tcb" target="appear:job_options:options:alpha" dynamic="true" >
 		<key time="0.0" value="getprop('ui:outgame:appear:job_options:options:alpha')" 		tension="1.0" easefrom="0"/>
 		<key time="1.0" value="0" 																tension="1.0" easeto="1"/>
-	</track>
+	</track> -->
 	<track type="tcb" target="appear:job_options:selection:y" dynamic="true" >
 		<key time="0.0" value="getprop('ui:outgame:appear:job_options:selection:y')"			tension="1.0" easefrom="0"/>
 		<key time="1.0" value="280" 															tension="1.0" easeto="1"/>
