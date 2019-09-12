@@ -7,35 +7,18 @@
 <!-- flag for game:onLoadMap() handler to override map texture or not -->
 <variable entry="UI:VARIABLES:SHOW_ALT_MAP" type="bool" value="0" />
 
-<!-- icon for landmark menu user group -->
-<template name="landmark_row_icon" keep="true"
-	id="" posref="TL TL" sizeref="w" posparent="parent" x="0" y="0" w="24" h="18"
-	icon_id="icon" icon_x="0" icon_y="-4" icon_color="80 80 80 255" icon_texture="lm_user.tga">
-<group id="#id" posref="#posref" posparent="#posparent" sizeref="#sizeref" x="#x" y="#y" w="#w" h="#h">
-	<view type="bitmap" id="#icon_id" posref="MM MM" x="#icon_x" y="#icon_y" color="#icon_color"
-		global_color="false" texture="#icon_texture" />
-</group>
-</template>
-
 <!-- base menu of landmark -->
 <group type="menu" id="land_mark_menu" extends="base_menu">
 	<action id="target" name="uiTargetLM" handler="land_mark_selected" params=""/>
 	<action id="lmteleport" name="uiTeleport" handler="land_mark_teleport" params=""/>
-	<separator/>
 </group>
 
 
 <!-- menu of user landmark -->
-<group type="menu" id="user_land_mark_menu_base" extends="land_mark_menu">
+<group type="menu" id="user_land_mark_menu" extends="land_mark_menu">
 	<action id="remove" name="uiRemove" handler="remove_user_landmark" params=""/>
 	<action id="rename" name="uiRename" handler="rename_user_landmark" params=""/>
-	<separator/>
 </group>
-
-<group type="menu" id="user_land_mark_menu" extends="user_land_mark_menu_base">
-	<!-- closest landmarks added from c++ at the end of the menu -->
-</group>
-
 
 <!-- menu of map -->
 <group type="menu" id="map_menu" extends="base_menu"
@@ -49,7 +32,6 @@
 	<action id="search" name="uiMapSearch" handler="proc" params="map_search_show"/>
 	<separator/>
 	<action id="center" name="uiMenuCenter" handler="map_center" params="map=ui:interface:map:content:map_content:actual_map"/>
-	<separator/>
 </group>
 
 <!-- menu of map (ring version) -->
