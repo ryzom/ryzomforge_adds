@@ -7736,7 +7736,7 @@ artisan_trepans_fairhaven	Senn Mac'Carn
 lodge_master_pyr	Mairenn O'Wiley	
 artisan_arbres_vrilles_pyr	Antoneo Garizzi	
 artisan_trepans_pyr	Xylia Archorus	
-lodge_master_marauder	Zallo Abyn
+lodge_master_marauder	Zallo Abyn	
 driller_bountybeaches_kami_u1_100a	$gn_driller_kami$	
 driller_bountybeaches_kami_u1_150a	$gn_driller_kami$	
 driller_bountybeaches_kami_u1_200a	$gn_driller_kami$	
@@ -9946,29 +9946,29 @@ boss_zorai_light_laughtingsbires1	Ki
 boss_zorai_light_laughtingsbires2	Mazé	
 boss_zorai_light_laughtingsbires3	Daï	
 boss_zorai_light_laughtingsbires4	Shikyo	
-boss_zorai_light_tomb_out	$gn_boss_zorai_light_tomb_out$
-boss_zorai_light_tomb_in	$gn_boss_zorai_light_tomb_in$
-boss_zorai_light_explosion	$gn_explosion_lixie$
-kami_altar_almati	$gn_kami_altar_almati$
-karavan_altar_almati	$gn_karavan_altar_almati$
-kami_altar_nexus	$gn_kami_altar_nexus$
-karavan_altar_nexus	$gn_karavan_altar_nexus$
-gravats	$gn_gravats$
-room_access_yrkanis	$gn_room_access$
-room_access_davae	$gn_room_access$
-room_access_avalae	$gn_room_access$
-room_access_natae	$gn_room_access$
-room_access_fairhaven	$gn_room_access$
-room_access_windermeer	$gn_room_access$
-room_access_crystabell	$gn_room_access$
-room_access_avendale	$gn_room_access$
-room_access_pyr	$gn_room_access$
-room_access_thesos	$gn_room_access$
-room_access_dyron	$gn_room_access$
-room_access_zora	$gn_room_access$
-room_access_jenlai	$gn_room_access$
-room_access_hoicho	$gn_room_access$
-room_access_mincho	$gn_room_access$
+boss_zorai_light_tomb_out	$gn_boss_zorai_light_tomb_out$	
+boss_zorai_light_tomb_in	$gn_boss_zorai_light_tomb_in$	
+boss_zorai_light_explosion	$gn_explosion_lixie$	
+kami_altar_almati	$gn_kami_altar_almati$	
+karavan_altar_almati	$gn_karavan_altar_almati$	
+kami_altar_nexus	$gn_kami_altar_nexus$	
+karavan_altar_nexus	$gn_karavan_altar_nexus$	
+gravats	$gn_gravats$	
+room_access_yrkanis	$gn_room_access$	
+room_access_davae	$gn_room_access$	
+room_access_avalae	$gn_room_access$	
+room_access_natae	$gn_room_access$	
+room_access_fairhaven	$gn_room_access$	
+room_access_windermeer	$gn_room_access$	
+room_access_crystabell	$gn_room_access$	
+room_access_avendale	$gn_room_access$	
+room_access_pyr	$gn_room_access$	
+room_access_thesos	$gn_room_access$	
+room_access_dyron	$gn_room_access$	
+room_access_zora	$gn_room_access$	
+room_access_jenlai	$gn_room_access$	
+room_access_hoicho	$gn_room_access$	
+room_access_mincho	$gn_room_access$	
 ranger_rite_giver_newbieland	Xypholion Ioros
 ranger_rite_giver_dummy_newbieland	Xypholion Ioros
 ranger_rite_start_enrty_npc	Be'arlly Emer
@@ -9981,6 +9981,27 @@ liv_laby2012_start_npc	Ba'peappy Shidgen
 marauder_camp_foreman	Shonga DeFao
 marauder_camp_barman	Kelen BaRopi
 sage_marauder_rite_giver	Erhialor Krinrund
+temp_maro_direct_acces_to_alamti	Qung Wo-Jin
 StockMonture_PNJ_A	Ba'Shekry Brafflie
 StockMonture_PNJ_B	Mac'Roffy Shillan
-temp_maro_direct_acces_to_alamti	Qung Wo-Jin
+rite_geo_mat_maj_gar_1_maccia_pittore	Maccia Pittore
+nh_matis_yrkanis	Vizzo Chiari	
+nh_matis_natae	Rosichini Cuisi	
+nh_matis_davae	Vino Cilli	
+nh_matis_avalae	Triero Sillo	
+nh_tryker_fairhaven	Ba'keepsey Gamen	
+nh_tryker_avendale	O'lyngan Wirman	
+nh_tryker_crystabell	Ripffy Acher	
+nh_tryker_windermeer	O'peanin Aeddan	
+nh_zorai_zora	Ciang Ka-Wio	
+nh_zorai_jen_lai	Mia Jo-Mon	
+nh_zorai_hoi_cho	Weo Qia-Nen	
+nh_zorai_min_cho	Pong Hui-Shiang	
+nh_fyros_pyr	Piphylus Kridon	
+nh_fyros_dyron	Ibiratheus Dyla	
+nh_fyros_thesos	Plegriion Dela	
+kamishopai_fyros	Aexius Abyn	
+kamishopai_zorai	Wiao Ho-Gu	
+karashopai_matis	Sivaldo Zania	
+karashopai_tryker	Be'keeins Hanan	
+marauder_civ_shop	Ving Mia-Wuan	
