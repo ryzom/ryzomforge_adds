@@ -301,6 +301,13 @@ BOSS_MAINLAND_CRAFTPART1A_DIAG2 ()
 
 }
 
+// HASH_VALUE 6B04C4404EC37DC0
+BOSS_MAINLAND_CRAFTPART1A_DIAGLEVEL ()
+{
+		boss_mainland_craftpart1a_diaglevel	[You don't look experienced enough to understand what I'm trying to teach you. Come back when you have more experience in crafting armor!]
+
+}
+
 // HASH_VALUE C42AA51905819410
 BOSS_MAINLAND_CRAFTPART1A_MISSION_INTRO ()
 {
@@ -336,6 +343,13 @@ BOSS_MAINLAND_CRAFTPART1B_DIAG2 ()
 		boss_mainland_craftpart1b_diag2	[Laissez moi voir... J'ai déjà vu un exemplaire semblable il y a peu de temps.\n
 			C'est un plan d'armure du Maraudeur ! Rare... D'une grande valeur...\n
 			 Le voici restauré ! Je peux maintenant vous apprendre à fabriquer cette armure.]
+
+}
+
+// HASH_VALUE 6B04C4414EC37DC0
+BOSS_MAINLAND_CRAFTPART1B_DIAGLEVEL ()
+{
+		boss_mainland_craftpart1b_diaglevel	[You don't look experienced enough to understand what I'm trying to teach you. Come back when you have more experience in crafting armor!]
 
 }
 
@@ -377,6 +391,13 @@ BOSS_MAINLAND_CRAFTPART1C_DIAG2 ()
 
 }
 
+// HASH_VALUE 6B04C4424EC37DC0
+BOSS_MAINLAND_CRAFTPART1C_DIAGLEVEL ()
+{
+		boss_mainland_craftpart1c_diaglevel	[You don't look experienced enough to understand what I'm trying to teach you. Come back when you have more experience in crafting armor!]
+
+}
+
 // HASH_VALUE C42AA51B05819410
 BOSS_MAINLAND_CRAFTPART1C_MISSION_INTRO ()
 {
@@ -398,11 +419,21 @@ BOSS_MAINLAND_CRAFTPART1C_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B57CF4AFA7
+/* OLD VALUE : [
+	BOSS_MAINLAND_CRAFTPART1D_DIAG1 ()
+	{
+			boss_mainland_craftpart1d_diag1	[Très bien.\n
+				Donnez moi les morceaux de l'ouvrage à restaurer ainsi que mon paiement et je me mettrais au travail immédiatement.]
+	
+	}
+	
+] */
+// Clause 0 : text changed.
+// HASH_VALUE 6CEDB3B57C17AFA7
 BOSS_MAINLAND_CRAFTPART1D_DIAG1 ()
 {
 		boss_mainland_craftpart1d_diag1	[Très bien.\n
-			Donnez moi les morceaux de l'ouvrage à restaurer ainsi que mon paiement et je me mettrais au travail immédiatement.]
+			Donnez moi les morceaux de l’ouvrage à restaurer ainsi que mon paiement et je me mettrais au travail immédiatement.]
 
 }
 
@@ -412,6 +443,13 @@ BOSS_MAINLAND_CRAFTPART1D_DIAG2 ()
 		boss_mainland_craftpart1d_diag2	[Laissez moi voir... J'ai déjà vu un exemplaire semblable il y a peu de temps.\n
 			C'est un plan d'armure du Maraudeur ! Rare... D'une grande valeur...\n
 			 Le voici restauré ! Je peux maintenant vous apprendre à fabriquer cette armure.]
+
+}
+
+// HASH_VALUE 6B04C4434EC37DC0
+BOSS_MAINLAND_CRAFTPART1D_DIAGLEVEL ()
+{
+		boss_mainland_craftpart1d_diaglevel	[You don't look experienced enough to understand what I'm trying to teach you. Come back when you have more experience in crafting armor!]
 
 }
 
@@ -436,6 +474,51 @@ BOSS_MAINLAND_CRAFTPART1D_P_MIS_TITLE (bot giver)
 
 }
 
+// HASH_VALUE 6CEDB3B67C17AFA7
+BOSS_MAINLAND_CRAFTPART1E_DIAG1 ()
+{
+		boss_mainland_craftpart1e_diag1	[Très bien.\n
+			Donnez moi les morceaux de l’ouvrage à restaurer ainsi que mon paiement et je me mettrais au travail immédiatement.]
+
+}
+
+// HASH_VALUE 7C494A1BB69A1FDD
+BOSS_MAINLAND_CRAFTPART1E_DIAG2 ()
+{
+		boss_mainland_craftpart1e_diag2	[Laissez moi voir... J'ai déjà vu un exemplaire semblable il y a peu de temps.\n
+			C'est un plan d'armure du Maraudeur ! Rare... D'une grande valeur...\n
+			 Le voici restauré ! Je peux maintenant vous apprendre à fabriquer cette armure.]
+
+}
+
+// HASH_VALUE 6B04C4444EC37DC0
+BOSS_MAINLAND_CRAFTPART1E_DIAGLEVEL ()
+{
+		boss_mainland_craftpart1e_diaglevel	[You don't look experienced enough to understand what I'm trying to teach you. Come back when you have more experience in crafting armor!]
+
+}
+
+// HASH_VALUE C42AA51D05819410
+BOSS_MAINLAND_CRAFTPART1E_MISSION_INTRO ()
+{
+		boss_mainland_craftpart1e_mission_intro	[Restaurer le plan des bottes]
+
+}
+
+// HASH_VALUE 060288778F2D8048
+BOSS_MAINLAND_CRAFTPART1E_P_MIS_DESC (bot giver)
+{
+		boss_mainland_craftpart1e_p_mis_desc	[Effectuez le paiement]
+
+}
+
+// HASH_VALUE EF0A7421355B07F5
+BOSS_MAINLAND_CRAFTPART1E_P_MIS_TITLE (bot giver)
+{
+		boss_mainland_craftpart1e_p_mis_title	[Restauration]
+
+}
+
 // HASH_VALUE 6CEDB3B2BCF4AFA7
 BOSS_MAINLAND_CRAFTPART2A_DIAG1 ()
 {
@@ -450,6 +533,13 @@ BOSS_MAINLAND_CRAFTPART2A_DIAG2 ()
 		boss_mainland_craftpart2a_diag2	[Laissez moi voir... J'ai déjà vu un exemplaire semblable il y a peu de temps.\n
 			C'est un plan d'armure du Maraudeur ! Rare... D'une grande valeur...\n
 			 Le voici restauré ! Je peux maintenant vous apprendre à fabriquer cette armure.]
+
+}
+
+// HASH_VALUE 6B04C4408EC37DC0
+BOSS_MAINLAND_CRAFTPART2A_DIAGLEVEL ()
+{
+		boss_mainland_craftpart2a_diaglevel	[You don't look experienced enough to understand what I'm trying to teach you. Come back when you have more experience in crafting armor!]
 
 }
 
@@ -491,6 +581,13 @@ BOSS_MAINLAND_CRAFTPART2B_DIAG2 ()
 
 }
 
+// HASH_VALUE 6B04C4418EC37DC0
+BOSS_MAINLAND_CRAFTPART2B_DIAGLEVEL ()
+{
+		boss_mainland_craftpart2b_diaglevel	[You don't look experienced enough to understand what I'm trying to teach you. Come back when you have more experience in crafting armor!]
+
+}
+
 // HASH_VALUE C4F3DD1AC3A1A810
 BOSS_MAINLAND_CRAFTPART2B_MISSION_INTRO ()
 {
@@ -526,6 +623,13 @@ BOSS_MAINLAND_CRAFTPART2C_DIAG2 ()
 		boss_mainland_craftpart2c_diag2	[Laissez moi voir... J'ai déjà vu un exemplaire semblable il y a peu de temps.\n
 			C'est un plan d'armure du Maraudeur ! Rare... D'une grande valeur...\n
 			 Le voici restauré ! Je peux maintenant vous apprendre à fabriquer cette armure.]
+
+}
+
+// HASH_VALUE 6B04C4428EC37DC0
+BOSS_MAINLAND_CRAFTPART2C_DIAGLEVEL ()
+{
+		boss_mainland_craftpart2c_diaglevel	[You don't look experienced enough to understand what I'm trying to teach you. Come back when you have more experience in crafting armor!]
 
 }
 
@@ -567,6 +671,13 @@ BOSS_MAINLAND_CRAFTPART2D_DIAG2 ()
 
 }
 
+// HASH_VALUE 6B04C4438EC37DC0
+BOSS_MAINLAND_CRAFTPART2D_DIAGLEVEL ()
+{
+		boss_mainland_craftpart2d_diaglevel	[You don't look experienced enough to understand what I'm trying to teach you. Come back when you have more experience in crafting armor!]
+
+}
+
 // HASH_VALUE C4F3DD1CC3A1A810
 BOSS_MAINLAND_CRAFTPART2D_MISSION_INTRO ()
 {
@@ -588,6 +699,51 @@ BOSS_MAINLAND_CRAFTPART2D_P_MIS_TITLE (bot giver)
 
 }
 
+// HASH_VALUE 6CEDB3B6BC17AFA7
+BOSS_MAINLAND_CRAFTPART2E_DIAG1 ()
+{
+		boss_mainland_craftpart2e_diag1	[Très bien.\n
+			Donnez moi les morceaux de l’ouvrage à restaurer ainsi que mon paiement et je me mettrais au travail immédiatement.]
+
+}
+
+// HASH_VALUE 7C494A1BF69A1FDD
+BOSS_MAINLAND_CRAFTPART2E_DIAG2 ()
+{
+		boss_mainland_craftpart2e_diag2	[Laissez moi voir... J'ai déjà vu un exemplaire semblable il y a peu de temps.\n
+			C'est un plan d'armure du Maraudeur ! Rare... D'une grande valeur...\n
+			 Le voici restauré ! Je peux maintenant vous apprendre à fabriquer cette armure.]
+
+}
+
+// HASH_VALUE 6B04C4448EC37DC0
+BOSS_MAINLAND_CRAFTPART2E_DIAGLEVEL ()
+{
+		boss_mainland_craftpart2e_diaglevel	[You don't look experienced enough to understand what I'm trying to teach you. Come back when you have more experience in crafting armor!]
+
+}
+
+// HASH_VALUE C4F3DD1DC3A1A810
+BOSS_MAINLAND_CRAFTPART2E_MISSION_INTRO ()
+{
+		boss_mainland_craftpart2e_mission_intro	[Restaurer le plan des gants]
+
+}
+
+// HASH_VALUE 060288788F2D8048
+BOSS_MAINLAND_CRAFTPART2E_P_MIS_DESC (bot giver)
+{
+		boss_mainland_craftpart2e_p_mis_desc	[Effectuez le paiement]
+
+}
+
+// HASH_VALUE EF0A7422355B07F5
+BOSS_MAINLAND_CRAFTPART2E_P_MIS_TITLE (bot giver)
+{
+		boss_mainland_craftpart2e_p_mis_title	[Restauration]
+
+}
+
 // HASH_VALUE 6CEDB3B2FCF4AFA7
 BOSS_MAINLAND_CRAFTPART3A_DIAG1 ()
 {
@@ -602,6 +758,13 @@ BOSS_MAINLAND_CRAFTPART3A_DIAG2 ()
 		boss_mainland_craftpart3a_diag2	[Laissez moi voir... J'ai déjà vu un exemplaire semblable il y a peu de temps.\n
 			C'est un plan d'armure du Maraudeur ! Rare... D'une grande valeur...\n
 			 Le voici restauré ! Je peux maintenant vous apprendre à fabriquer cette armure.]
+
+}
+
+// HASH_VALUE 6B04C440CEC37DC0
+BOSS_MAINLAND_CRAFTPART3A_DIAGLEVEL ()
+{
+		boss_mainland_craftpart3a_diaglevel	[You don't look experienced enough to understand what I'm trying to teach you. Come back when you have more experience in crafting armor!]
 
 }
 
@@ -643,6 +806,13 @@ BOSS_MAINLAND_CRAFTPART3B_DIAG2 ()
 
 }
 
+// HASH_VALUE 6B04C441CEC37DC0
+BOSS_MAINLAND_CRAFTPART3B_DIAGLEVEL ()
+{
+		boss_mainland_craftpart3b_diaglevel	[You don't look experienced enough to understand what I'm trying to teach you. Come back when you have more experience in crafting armor!]
+
+}
+
 // HASH_VALUE F0F4A51BC4C29053
 BOSS_MAINLAND_CRAFTPART3B_MISSION_INTRO ()
 {
@@ -678,6 +848,13 @@ BOSS_MAINLAND_CRAFTPART3C_DIAG2 ()
 		boss_mainland_craftpart3c_diag2	[Laissez moi voir... J'ai déjà vu un exemplaire semblable il y a peu de temps.\n
 			C'est un plan d'armure du Maraudeur ! Rare... D'une grande valeur...\n
 			 Le voici restauré ! Je peux maintenant vous apprendre à fabriquer cette armure.]
+
+}
+
+// HASH_VALUE 6B04C442CEC37DC0
+BOSS_MAINLAND_CRAFTPART3C_DIAGLEVEL ()
+{
+		boss_mainland_craftpart3c_diaglevel	[You don't look experienced enough to understand what I'm trying to teach you. Come back when you have more experience in crafting armor!]
 
 }
 
@@ -719,6 +896,13 @@ BOSS_MAINLAND_CRAFTPART3D_DIAG2 ()
 
 }
 
+// HASH_VALUE 6B04C443CEC37DC0
+BOSS_MAINLAND_CRAFTPART3D_DIAGLEVEL ()
+{
+		boss_mainland_craftpart3d_diaglevel	[You don't look experienced enough to understand what I'm trying to teach you. Come back when you have more experience in crafting armor!]
+
+}
+
 // HASH_VALUE F0F4A51DC4C29053
 BOSS_MAINLAND_CRAFTPART3D_MISSION_INTRO ()
 {
@@ -740,6 +924,51 @@ BOSS_MAINLAND_CRAFTPART3D_P_MIS_TITLE (bot giver)
 
 }
 
+// HASH_VALUE 6CEDB3B6FC17AFA7
+BOSS_MAINLAND_CRAFTPART3E_DIAG1 ()
+{
+		boss_mainland_craftpart3e_diag1	[Très bien.\n
+			Donnez moi les morceaux de l’ouvrage à restaurer ainsi que mon paiement et je me mettrais au travail immédiatement.]
+
+}
+
+// HASH_VALUE 7C494A1B369A1FDD
+BOSS_MAINLAND_CRAFTPART3E_DIAG2 ()
+{
+		boss_mainland_craftpart3e_diag2	[Laissez moi voir... J'ai déjà vu un exemplaire semblable il y a peu de temps.\n
+			C'est un plan d'armure du Maraudeur ! Rare... D'une grande valeur...\n
+			 Le voici restauré ! Je peux maintenant vous apprendre à fabriquer cette armure.]
+
+}
+
+// HASH_VALUE 6B04C444CEC37DC0
+BOSS_MAINLAND_CRAFTPART3E_DIAGLEVEL ()
+{
+		boss_mainland_craftpart3e_diaglevel	[You don't look experienced enough to understand what I'm trying to teach you. Come back when you have more experience in crafting armor!]
+
+}
+
+// HASH_VALUE F0F4A51EC4C29053
+BOSS_MAINLAND_CRAFTPART3E_MISSION_INTRO ()
+{
+		boss_mainland_craftpart3e_mission_intro	[Restaurer le plan du casque]
+
+}
+
+// HASH_VALUE 060288798F2D8048
+BOSS_MAINLAND_CRAFTPART3E_P_MIS_DESC (bot giver)
+{
+		boss_mainland_craftpart3e_p_mis_desc	[Effectuez le paiement]
+
+}
+
+// HASH_VALUE EF0A7423355B07F5
+BOSS_MAINLAND_CRAFTPART3E_P_MIS_TITLE (bot giver)
+{
+		boss_mainland_craftpart3e_p_mis_title	[Restauration]
+
+}
+
 // HASH_VALUE 6CEDB3B23DF4AFA7
 BOSS_MAINLAND_CRAFTPART4A_DIAG1 ()
 {
@@ -754,6 +983,13 @@ BOSS_MAINLAND_CRAFTPART4A_DIAG2 ()
 		boss_mainland_craftpart4a_diag2	[Laissez moi voir... J'ai déjà vu un exemplaire semblable il y a peu de temps.\n
 			C'est un plan d'armure du Maraudeur ! Rare... D'une grande valeur...\n
 			 Le voici restauré ! Je peux maintenant vous apprendre à fabriquer cette armure.]
+
+}
+
+// HASH_VALUE 6B04C4400FC37DC0
+BOSS_MAINLAND_CRAFTPART4A_DIAGLEVEL ()
+{
+		boss_mainland_craftpart4a_diaglevel	[You don't look experienced enough to understand what I'm trying to teach you. Come back when you have more experience in crafting armor!]
 
 }
 
@@ -795,6 +1031,13 @@ BOSS_MAINLAND_CRAFTPART4B_DIAG2 ()
 
 }
 
+// HASH_VALUE 6B04C4410FC37DC0
+BOSS_MAINLAND_CRAFTPART4B_DIAGLEVEL ()
+{
+		boss_mainland_craftpart4b_diaglevel	[You don't look experienced enough to understand what I'm trying to teach you. Come back when you have more experience in crafting armor!]
+
+}
+
 // HASH_VALUE 8BEAC107C6719060
 BOSS_MAINLAND_CRAFTPART4B_MISSION_INTRO ()
 {
@@ -830,6 +1073,13 @@ BOSS_MAINLAND_CRAFTPART4C_DIAG2 ()
 		boss_mainland_craftpart4c_diag2	[Laissez moi voir... J'ai déjà vu un exemplaire semblable il y a peu de temps.\n
 			C'est un plan d'armure du Maraudeur ! Rare... D'une grande valeur...\n
 			 Le voici restauré ! Je peux maintenant vous apprendre à fabriquer cette armure.]
+
+}
+
+// HASH_VALUE 6B04C4420FC37DC0
+BOSS_MAINLAND_CRAFTPART4C_DIAGLEVEL ()
+{
+		boss_mainland_craftpart4c_diaglevel	[You don't look experienced enough to understand what I'm trying to teach you. Come back when you have more experience in crafting armor!]
 
 }
 
@@ -871,6 +1121,13 @@ BOSS_MAINLAND_CRAFTPART4D_DIAG2 ()
 
 }
 
+// HASH_VALUE 6B04C4430FC37DC0
+BOSS_MAINLAND_CRAFTPART4D_DIAGLEVEL ()
+{
+		boss_mainland_craftpart4d_diaglevel	[You don't look experienced enough to understand what I'm trying to teach you. Come back when you have more experience in crafting armor!]
+
+}
+
 // HASH_VALUE 8BEAC109C6719060
 BOSS_MAINLAND_CRAFTPART4D_MISSION_INTRO ()
 {
@@ -892,6 +1149,51 @@ BOSS_MAINLAND_CRAFTPART4D_P_MIS_TITLE (bot giver)
 
 }
 
+// HASH_VALUE 6CEDB3B63D17AFA7
+BOSS_MAINLAND_CRAFTPART4E_DIAG1 ()
+{
+		boss_mainland_craftpart4e_diag1	[Très bien.\n
+			Donnez moi les morceaux de l’ouvrage à restaurer ainsi que mon paiement et je me mettrais au travail immédiatement.]
+
+}
+
+// HASH_VALUE 7C494A1B779A1FDD
+BOSS_MAINLAND_CRAFTPART4E_DIAG2 ()
+{
+		boss_mainland_craftpart4e_diag2	[Laissez moi voir... J'ai déjà vu un exemplaire semblable il y a peu de temps.\n
+			C'est un plan d'armure du Maraudeur ! Rare... D'une grande valeur...\n
+			 Le voici restauré ! Je peux maintenant vous apprendre à fabriquer cette armure.]
+
+}
+
+// HASH_VALUE 6B04C4440FC37DC0
+BOSS_MAINLAND_CRAFTPART4E_DIAGLEVEL ()
+{
+		boss_mainland_craftpart4e_diaglevel	[You don't look experienced enough to understand what I'm trying to teach you. Come back when you have more experience in crafting armor!]
+
+}
+
+// HASH_VALUE 8BEAC10AC6719060
+BOSS_MAINLAND_CRAFTPART4E_MISSION_INTRO ()
+{
+		boss_mainland_craftpart4e_mission_intro	[Restaurer le plan du pantalon]
+
+}
+
+// HASH_VALUE 0602887A8F2D8048
+BOSS_MAINLAND_CRAFTPART4E_P_MIS_DESC (bot giver)
+{
+		boss_mainland_craftpart4e_p_mis_desc	[Effectuez le paiement]
+
+}
+
+// HASH_VALUE EF0A7424355B07F5
+BOSS_MAINLAND_CRAFTPART4E_P_MIS_TITLE (bot giver)
+{
+		boss_mainland_craftpart4e_p_mis_title	[Restauration]
+
+}
+
 // HASH_VALUE 6CEDB3B27DF4AFA7
 BOSS_MAINLAND_CRAFTPART5A_DIAG1 ()
 {
@@ -906,6 +1208,13 @@ BOSS_MAINLAND_CRAFTPART5A_DIAG2 ()
 		boss_mainland_craftpart5a_diag2	[Laissez moi voir... J'ai déjà vu un exemplaire semblable il y a peu de temps.\n
 			C'est un plan d'armure du Maraudeur ! Rare... D'une grande valeur...\n
 			 Le voici restauré ! Je peux maintenant vous apprendre à fabriquer cette armure.]
+
+}
+
+// HASH_VALUE 6B04C4404FC37DC0
+BOSS_MAINLAND_CRAFTPART5A_DIAGLEVEL ()
+{
+		boss_mainland_craftpart5a_diaglevel	[You don't look experienced enough to understand what I'm trying to teach you. Come back when you have more experience in crafting armor!]
 
 }
 
@@ -947,6 +1256,13 @@ BOSS_MAINLAND_CRAFTPART5B_DIAG2 ()
 
 }
 
+// HASH_VALUE 6B04C4414FC37DC0
+BOSS_MAINLAND_CRAFTPART5B_DIAGLEVEL ()
+{
+		boss_mainland_craftpart5b_diaglevel	[You don't look experienced enough to understand what I'm trying to teach you. Come back when you have more experience in crafting armor!]
+
+}
+
 // HASH_VALUE A049B10984A1C010
 BOSS_MAINLAND_CRAFTPART5B_MISSION_INTRO ()
 {
@@ -982,6 +1298,13 @@ BOSS_MAINLAND_CRAFTPART5C_DIAG2 ()
 		boss_mainland_craftpart5c_diag2	[Laissez moi voir... J'ai déjà vu un exemplaire semblable il y a peu de temps.\n
 			C'est un plan d'armure du Maraudeur ! Rare... D'une grande valeur...\n
 			 Le voici restauré ! Je peux maintenant vous apprendre à fabriquer cette armure.]
+
+}
+
+// HASH_VALUE 6B04C4424FC37DC0
+BOSS_MAINLAND_CRAFTPART5C_DIAGLEVEL ()
+{
+		boss_mainland_craftpart5c_diaglevel	[You don't look experienced enough to understand what I'm trying to teach you. Come back when you have more experience in crafting armor!]
 
 }
 
@@ -1023,6 +1346,13 @@ BOSS_MAINLAND_CRAFTPART5D_DIAG2 ()
 
 }
 
+// HASH_VALUE 6B04C4434FC37DC0
+BOSS_MAINLAND_CRAFTPART5D_DIAGLEVEL ()
+{
+		boss_mainland_craftpart5d_diaglevel	[You don't look experienced enough to understand what I'm trying to teach you. Come back when you have more experience in crafting armor!]
+
+}
+
 // HASH_VALUE A049B10B84A1C010
 BOSS_MAINLAND_CRAFTPART5D_MISSION_INTRO ()
 {
@@ -1044,6 +1374,51 @@ BOSS_MAINLAND_CRAFTPART5D_P_MIS_TITLE (bot giver)
 
 }
 
+// HASH_VALUE 6CEDB3B67D17AFA7
+BOSS_MAINLAND_CRAFTPART5E_DIAG1 ()
+{
+		boss_mainland_craftpart5e_diag1	[Très bien.\n
+			Donnez moi les morceaux de l’ouvrage à restaurer ainsi que mon paiement et je me mettrais au travail immédiatement.]
+
+}
+
+// HASH_VALUE 7C494A1BB79A1FDD
+BOSS_MAINLAND_CRAFTPART5E_DIAG2 ()
+{
+		boss_mainland_craftpart5e_diag2	[Laissez moi voir... J'ai déjà vu un exemplaire semblable il y a peu de temps.\n
+			C'est un plan d'armure du Maraudeur ! Rare... D'une grande valeur...\n
+			 Le voici restauré ! Je peux maintenant vous apprendre à fabriquer cette armure.]
+
+}
+
+// HASH_VALUE 6B04C4444FC37DC0
+BOSS_MAINLAND_CRAFTPART5E_DIAGLEVEL ()
+{
+		boss_mainland_craftpart5e_diaglevel	[You don't look experienced enough to understand what I'm trying to teach you. Come back when you have more experience in crafting armor!]
+
+}
+
+// HASH_VALUE A049B10C84A1C010
+BOSS_MAINLAND_CRAFTPART5E_MISSION_INTRO ()
+{
+		boss_mainland_craftpart5e_mission_intro	[Restaurer le plan des manches]
+
+}
+
+// HASH_VALUE 0602887B8F2D8048
+BOSS_MAINLAND_CRAFTPART5E_P_MIS_DESC (bot giver)
+{
+		boss_mainland_craftpart5e_p_mis_desc	[Effectuez le paiement]
+
+}
+
+// HASH_VALUE EF0A7425355B07F5
+BOSS_MAINLAND_CRAFTPART5E_P_MIS_TITLE (bot giver)
+{
+		boss_mainland_craftpart5e_p_mis_title	[Restauration]
+
+}
+
 // HASH_VALUE 6CEDB3B2BDF4AFA7
 BOSS_MAINLAND_CRAFTPART6A_DIAG1 ()
 {
@@ -1058,6 +1433,13 @@ BOSS_MAINLAND_CRAFTPART6A_DIAG2 ()
 		boss_mainland_craftpart6a_diag2	[Laissez moi voir... J'ai déjà vu un exemplaire semblable il y a peu de temps.\n
 			C'est un plan d'armure du Maraudeur ! Rare... D'une grande valeur...\n
 			 Le voici restauré ! Je peux maintenant vous apprendre à fabriquer cette armure.]
+
+}
+
+// HASH_VALUE 6B04C4408FC37DC0
+BOSS_MAINLAND_CRAFTPART6A_DIAGLEVEL ()
+{
+		boss_mainland_craftpart6a_diaglevel	[You don't look experienced enough to understand what I'm trying to teach you. Come back when you have more experience in crafting armor!]
 
 }
 
@@ -1099,6 +1481,13 @@ BOSS_MAINLAND_CRAFTPART6B_DIAG2 ()
 
 }
 
+// HASH_VALUE 6B04C4418FC37DC0
+BOSS_MAINLAND_CRAFTPART6B_DIAGLEVEL ()
+{
+		boss_mainland_craftpart6b_diaglevel	[You don't look experienced enough to understand what I'm trying to teach you. Come back when you have more experience in crafting armor!]
+
+}
+
 // HASH_VALUE 493ADD0BC68D905C
 BOSS_MAINLAND_CRAFTPART6B_MISSION_INTRO ()
 {
@@ -1134,6 +1523,13 @@ BOSS_MAINLAND_CRAFTPART6C_DIAG2 ()
 		boss_mainland_craftpart6c_diag2	[Laissez moi voir... J'ai déjà vu un exemplaire semblable il y a peu de temps.\n
 			C'est un plan d'armure du Maraudeur ! Rare... D'une grande valeur...\n
 			 Le voici restauré ! Je peux maintenant vous apprendre à fabriquer cette armure.]
+
+}
+
+// HASH_VALUE 6B04C4428FC37DC0
+BOSS_MAINLAND_CRAFTPART6C_DIAGLEVEL ()
+{
+		boss_mainland_craftpart6c_diaglevel	[You don't look experienced enough to understand what I'm trying to teach you. Come back when you have more experience in crafting armor!]
 
 }
 
@@ -1175,6 +1571,13 @@ BOSS_MAINLAND_CRAFTPART6D_DIAG2 ()
 
 }
 
+// HASH_VALUE 6B04C4438FC37DC0
+BOSS_MAINLAND_CRAFTPART6D_DIAGLEVEL ()
+{
+		boss_mainland_craftpart6d_diaglevel	[You don't look experienced enough to understand what I'm trying to teach you. Come back when you have more experience in crafting armor!]
+
+}
+
 // HASH_VALUE 493ADD0DC68D905C
 BOSS_MAINLAND_CRAFTPART6D_MISSION_INTRO ()
 {
@@ -1193,6 +1596,51 @@ BOSS_MAINLAND_CRAFTPART6D_P_MIS_DESC (bot giver)
 BOSS_MAINLAND_CRAFTPART6D_P_MIS_TITLE (bot giver)
 {
 		boss_mainland_craftpart6d_p_mis_title	[Restauration]
+
+}
+
+// HASH_VALUE 6CEDB3B6BD17AFA7
+BOSS_MAINLAND_CRAFTPART6E_DIAG1 ()
+{
+		boss_mainland_craftpart6e_diag1	[Très bien.\n
+			Donnez moi les morceaux de l’ouvrage à restaurer ainsi que mon paiement et je me mettrais au travail immédiatement.]
+
+}
+
+// HASH_VALUE 7C494A1BF79A1FDD
+BOSS_MAINLAND_CRAFTPART6E_DIAG2 ()
+{
+		boss_mainland_craftpart6e_diag2	[Laissez moi voir... J'ai déjà vu un exemplaire semblable il y a peu de temps.\n
+			C'est un plan d'armure du Maraudeur ! Rare... D'une grande valeur...\n
+			 Le voici restauré ! Je peux maintenant vous apprendre à fabriquer cette armure.]
+
+}
+
+// HASH_VALUE 6B04C4448FC37DC0
+BOSS_MAINLAND_CRAFTPART6E_DIAGLEVEL ()
+{
+		boss_mainland_craftpart6e_diaglevel	[You don't look experienced enough to understand what I'm trying to teach you. Come back when you have more experience in crafting armor!]
+
+}
+
+// HASH_VALUE 493ADD0EC68D905C
+BOSS_MAINLAND_CRAFTPART6E_MISSION_INTRO ()
+{
+		boss_mainland_craftpart6e_mission_intro	[Restaurer le plan de la veste]
+
+}
+
+// HASH_VALUE 0602887C8F2D8048
+BOSS_MAINLAND_CRAFTPART6E_P_MIS_DESC (bot giver)
+{
+		boss_mainland_craftpart6e_p_mis_desc	[Effectuez le paiement]
+
+}
+
+// HASH_VALUE EF0A7426355B07F5
+BOSS_MAINLAND_CRAFTPART6E_P_MIS_TITLE (bot giver)
+{
+		boss_mainland_craftpart6e_p_mis_title	[Restauration]
 
 }
 
@@ -68016,6 +68464,16 @@ WHOAMI_ARTISAN_RESTAURATEUR4 ()
 {
 		whoami_artisan_restaurateur4	[Salutations,\n
 			Je me prénomme Fontaine, Artisan restaurateur, pour vous servir.\n
+			Je touche un peu à tout et m'intéresse particulièrement à la restauration d'ouvrages anciens.\n
+			Si vous avez besoin de reconstituer un document abîmé, venez me voir avec tous les morceaux que vous avez et je ferai de mon mieux. Mes services peuvent sembler onéreux mais je suis le meilleur et surtout le seul... ]
+
+}
+
+// HASH_VALUE 7F70DECABFFE095E
+WHOAMI_ARTISAN_RESTAURATEUR5 ()
+{
+		whoami_artisan_restaurateur5	[Salutations,\n
+			Je me prénomme Abyrius, Artisan restaurateur, pour vous servir.\n
 			Je touche un peu à tout et m'intéresse particulièrement à la restauration d'ouvrages anciens.\n
 			Si vous avez besoin de reconstituer un document abîmé, venez me voir avec tous les morceaux que vous avez et je ferai de mon mieux. Mes services peuvent sembler onéreux mais je suis le meilleur et surtout le seul... ]
 
