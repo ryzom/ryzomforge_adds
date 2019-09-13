@@ -4300,11 +4300,12 @@ _9B36178111A0FD41	rpjob_205	<GEN>rpjob_205
 _9B36178251B0FD41	rpjob_206	<GEN>rpjob_206								
 _9B36178391C0FD41	rpjob_207	<GEN>rpjob_207								
 _ABB4786AB14A93B3	titre_gloire_kitinierereine	<GEN>titre_gloire_kitinierereine								
-_746CBA11062B580E	bcfaea22	Plan de Fabricación de Calzones Livianas Fyros		un	el				Plan de fabricación de calzones livianas Fyros.	
-_DF39FFD1D6AC6519	bcfaea23	Plan de Fabricación de Sujetador Livianas Fyros		un	el				Plan de fabricación de sujetador livianas Fyros.	
-_B5FC5A1806CB60F6	bcmaea22	Plan de Fabricación de Calzones Livianas Matis		un	el				Plan de fabricación de calzones livianas Matis.	
-_5E69A7C098AC6519	bcmaea23	Plan de Fabricación de Sujetador Livianas Matis		un	el				Plan de fabricación de sujetador livianas Matis.	
-_CC5E0B5DCA330EE8	bctaea22	Plan de Fabricación de Calzones Livianas Tryker		un	el				Plan de fabricación de calzones livianas Tryker.	
-_DAF7F4053A24DF28	bctaea23	Plan de Fabricación de Sujetador Livianas tryker		un	el				Plan de fabricación de sujetador livianas Tryker.	
-_F6AD9225844B58FA	bczaea22	Plan de Fabricación de Calzones Livianas Zoraï		un	el				Plan de fabricación de calzones livianas Zoraï.	
-_DA9AD7DBDBAC650F	bczaea23	Plan de Fabricación de Sujetador Livianas Zoraï		un	el				Plan de fabricación de sujetador livianas Zoraï.	
+_DF39FFD1D6AC6519	bcfaea22	Plan de Fabricación de Calzones Livianas Fyros		un	el				Plan de fabricación de calzones livianas Fyros.	
+_B5FC5A1806CB60F6	bcfaea23	Plan de Fabricación de Sujetador Livianas Fyros		un	el				Plan de fabricación de sujetador livianas Fyros.	
+_5E69A7C098AC6519	bcmaea22	Plan de Fabricación de Calzones Livianas Matis		un	el				Plan de fabricación de calzones livianas Matis.	
+_CC5E0B5DCA330EE8	bcmaea23	Plan de Fabricación de Sujetador Livianas Matis		un	el				Plan de fabricación de sujetador livianas Matis.	
+_DAF7F4053A24DF28	bctaea22	Plan de Fabricación de Calzones Livianas Tryker		un	el				Plan de fabricación de calzones livianas Tryker.	
+_F6AD9225844B58FA	bctaea23	Plan de Fabricación de Sujetador Livianas tryker		un	el				Plan de fabricación de sujetador livianas Tryker.	
+_DA9AD7DBDBAC650F	bczaea22	Plan de Fabricación de Calzones Livianas Zoraï		un	el				Plan de fabricación de calzones livianas Zoraï.	
+_F6AD9225C44B58FA	bczaea23	Plan de Fabricación de Sujetador Livianas Zoraï		un	el				Plan de fabricación de sujetador livianas Zoraï.	
+

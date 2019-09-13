@@ -1,4 +1,4 @@
-﻿*HASH_VALUE	sbrick ID	name	named	* noms français	ia	da	p	pd	pia	pda	description	description2	
+*HASH_VALUE	sbrick ID	name	named	* noms français	ia	da	p	pd	pia	pda	description	description2	
 _982C1DC616A579D5	BFPA01	Standardangriff     	Standardangriff     		ein	der	Standardangriffe     	Standardangriffe     		die	Standard Stanza für alle Kampfaktionen.	Standardangriff-Basisstanza	
 _CD9CEEBCAF485D13	BFOA01	Erhöhter Schaden     	Erhöhter Schaden     		eine	die	Erhöhte Schäden     	Erhöhte Schäden     		die	Erhöht den Schaden eines Schlages.	Schadenserhöhungs-Option	
 _4A8C98814E07227B	BFOA02	Feuerrate	Feuerrate		eine	die	Feuerraten	Feuerraten		die	Verbessert die Feuergeschwindigkeit	Erhöht die Feuergeschwindigkeit	
@@ -4300,11 +4300,15 @@ _9B36178111A0FD41	rpjob_205	<GEN>rpjob_205
 _9B36178251B0FD41	rpjob_206	<GEN>rpjob_206											
 _9B36178391C0FD41	rpjob_207	<GEN>rpjob_207											
 _ABB4786AB14A93B3	titre_gloire_kitinierereine	<GEN>titre_gloire_kitinierereine											
-_746CBA11062B580E	bcfaea22	Fyros-Handwerksplan für leichte Unterhosen 	Fyros-Handwerksplan für leichte Unterhosen 		ein	der	Fyros-Handwerkspläne für leichte Unterhosen 	Fyros-Handwerkspläne für leichte Unterhosen 		die	Handwerksplan-Stanza (Teil einer Aktion) für leichte Fyros Unterhosen Hoben		
-_DF39FFD1D6AC6519	bcfaea23	Fyros-Handwerksplan für leichte Büstenhalter 	Fyros-Handwerksplan für leichte Büstenhalter 		ein	der	Fyros-Handwerkspläne für leichte Büstenhalter 	Fyros-Handwerkspläne für leichte Büstenhalter 		die	Handwerksplan-Stanza (Teil einer Aktion) für leichte Fyros Büstenhalter Hoben		
-_B5FC5A1806CB60F6	bcmaea22	Matis-Handwerksplan für leichte Unterhosen 	Matis-Handwerksplan für leichte Unterhosen 		ein	der	Matis-Handwerkspläne für leichte Unterhosen 	Matis-Handwerkspläne für leichte Unterhosen 		die	Handwerksplan-Stanza (Teil einer Aktion) für leichte Matis Unterhosen Wiva		
-_5E69A7C098AC6519	bcmaea23	Matis-Handwerksplan für leichte Büstenhalter 	Matis-Handwerksplan für leichte Büstenhalter 		ein	der	Matis-Handwerkspläne für leichte Büstenhalter 	Matis-Handwerkspläne für leichte Büstenhalter 		die	Handwerksplan-Stanza (Teil einer Aktion) für leichte Matis Büstenhalter Wiva		
-_CC5E0B5DCA330EE8	bctaea22	Tryker-Handwerksplan für leichte Unterhosen 	Tryker-Handwerksplan für leichte Unterhosen 		ein	der	Tryker-Handwerkspläne für leichte Unterhosen 	Tryker-Handwerkspläne für leichte Unterhosen 		die	Handwerksplan-Stanza (Teil einer Aktion) für leichte Tryker Unterhosen Tissan		
-_DAF7F4053A24DF28	bctaea23	Tryker-Handwerksplan für leichte Büstenhalter 	Tryker-Handwerksplan für leichte Büstenhalter 		ein	der	Tryker-Handwerkspläne für leichte Büstenhalter 	Tryker-Handwerkspläne für leichte Büstenhalter 		die	Handwerksplan-Stanza (Teil einer Aktion) für leichte Tryker Büstenhalter Tissan		
-_F6AD9225844B58FA	bczaea22	Zoraï-Handwerksplan für leichte Unterhosen 	Zoraï-Handwerksplan für leichte Unterhosen 		ein	der	Zoraï-Handwerkspläne für leichte Unterhosen 	Zoraï-Handwerkspläne für leichte Unterhosen 		die	Handwerksplan-Stanza (Teil einer Aktion) für leichte Zoraï Unterhosen Nin-ka		
-_DA9AD7DBDBAC650F	bczaea23	Zoraï-Handwerksplan für leichte Büstenhalter 	Zoraï-Handwerksplan für leichte Büstenhalter 		ein	der	Zoraï-Handwerkspläne für leichte Büstenhalter 	Zoraï-Handwerkspläne für leichte Büstenhalter 		die	Handwerksplan-Stanza (Teil einer Aktion) für leichte Zoraï Büstenhalter Nin-ka		
+_DF39FFD1D6AC6519	bcfaea22	Fyros-Handwerksplan für leichte Unterhosen 	Fyros-Handwerksplan für leichte Unterhosen 		ein	der	Fyros-Handwerkspläne für leichte Unterhosen 	Fyros-Handwerkspläne für leichte Unterhosen 		die	Handwerksplan-Stanza (Teil einer Aktion) für leichte Fyros Unterhosen Hoben		
+_B5FC5A1806CB60F6	bcfaea23	Fyros-Handwerksplan für leichte Büstenhalter 	Fyros-Handwerksplan für leichte Büstenhalter 		ein	der	Fyros-Handwerkspläne für leichte Büstenhalter 	Fyros-Handwerkspläne für leichte Büstenhalter 		die	Handwerksplan-Stanza (Teil einer Aktion) für leichte Fyros Büstenhalter Hoben		
+_5E69A7C098AC6519	bcmaea22	Matis-Handwerksplan für leichte Unterhosen 	Matis-Handwerksplan für leichte Unterhosen 		ein	der	Matis-Handwerkspläne für leichte Unterhosen 	Matis-Handwerkspläne für leichte Unterhosen 		die	Handwerksplan-Stanza (Teil einer Aktion) für leichte Matis Unterhosen Wiva		
+_CC5E0B5DCA330EE8	bcmaea23	Matis-Handwerksplan für leichte Büstenhalter 	Matis-Handwerksplan für leichte Büstenhalter 		ein	der	Matis-Handwerkspläne für leichte Büstenhalter 	Matis-Handwerkspläne für leichte Büstenhalter 		die	Handwerksplan-Stanza (Teil einer Aktion) für leichte Matis Büstenhalter Wiva		
+_DAF7F4053A24DF28	bctaea22	Tryker-Handwerksplan für leichte Unterhosen 	Tryker-Handwerksplan für leichte Unterhosen 		ein	der	Tryker-Handwerkspläne für leichte Unterhosen 	Tryker-Handwerkspläne für leichte Unterhosen 		die	Handwerksplan-Stanza (Teil einer Aktion) für leichte Tryker Unterhosen Tissan		
+_F6AD9225844B58FA	bctaea23	Tryker-Handwerksplan für leichte Büstenhalter 	Tryker-Handwerksplan für leichte Büstenhalter 		ein	der	Tryker-Handwerkspläne für leichte Büstenhalter 	Tryker-Handwerkspläne für leichte Büstenhalter 		die	Handwerksplan-Stanza (Teil einer Aktion) für leichte Tryker Büstenhalter Tissan		
+_DA9AD7DBDBAC650F	bczaea22	Zoraï-Handwerksplan für leichte Unterhosen 	Zoraï-Handwerksplan für leichte Unterhosen 		ein	der	Zoraï-Handwerkspläne für leichte Unterhosen 	Zoraï-Handwerkspläne für leichte Unterhosen 		die	Handwerksplan-Stanza (Teil einer Aktion) für leichte Zoraï Unterhosen Nin-ka		
+_F6AD9225C44B58FA	bczaea23	Zoraï-Handwerksplan für leichte Büstenhalter 	Zoraï-Handwerksplan für leichte Büstenhalter 		ein	der	Zoraï-Handwerkspläne für leichte Büstenhalter 	Zoraï-Handwerkspläne für leichte Büstenhalter 		die	Handwerksplan-Stanza (Teil einer Aktion) für leichte Zoraï Büstenhalter Nin-ka		
+
+
+
+
