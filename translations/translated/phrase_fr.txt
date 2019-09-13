@@ -462,7 +462,7 @@ BOSS_MAINLAND_CRAFTPART1C_P_MIS_TITLE (bot giver)
 	
 ] */
 // Clause 0 : text changed.
-// HASH_VALUE 6CEDB3B57C17AFA7
+// HASH_VALUE 6CEDB3B57CF4AFA7
 BOSS_MAINLAND_CRAFTPART1D_DIAG1 ()
 {
 		boss_mainland_craftpart1d_diag1	[Très bien.\n
@@ -507,7 +507,7 @@ BOSS_MAINLAND_CRAFTPART1D_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B67C17AFA7
+// HASH_VALUE 6CEDB3B67CF4AFA7
 BOSS_MAINLAND_CRAFTPART1E_DIAG1 ()
 {
 		boss_mainland_craftpart1e_diag1	[Très bien.\n
@@ -732,7 +732,7 @@ BOSS_MAINLAND_CRAFTPART2D_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B6BC17AFA7
+// HASH_VALUE 6CEDB3B6BCF4AFA7
 BOSS_MAINLAND_CRAFTPART2E_DIAG1 ()
 {
 		boss_mainland_craftpart2e_diag1	[Très bien.\n
@@ -957,7 +957,7 @@ BOSS_MAINLAND_CRAFTPART3D_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B6FC17AFA7
+// HASH_VALUE 6CEDB3B6FCF4AFA7
 BOSS_MAINLAND_CRAFTPART3E_DIAG1 ()
 {
 		boss_mainland_craftpart3e_diag1	[Très bien.\n
@@ -1182,7 +1182,7 @@ BOSS_MAINLAND_CRAFTPART4D_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B63D17AFA7
+// HASH_VALUE 6CEDB3B63DF4AFA7
 BOSS_MAINLAND_CRAFTPART4E_DIAG1 ()
 {
 		boss_mainland_craftpart4e_diag1	[Très bien.\n
@@ -1407,7 +1407,7 @@ BOSS_MAINLAND_CRAFTPART5D_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B67D17AFA7
+// HASH_VALUE 6CEDB3B67DF4AFA7
 BOSS_MAINLAND_CRAFTPART5E_DIAG1 ()
 {
 		boss_mainland_craftpart5e_diag1	[Très bien.\n
@@ -1632,7 +1632,7 @@ BOSS_MAINLAND_CRAFTPART6D_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B6BD17AFA7
+// HASH_VALUE 6CEDB3B6BDF4AFA7
 BOSS_MAINLAND_CRAFTPART6E_DIAG1 ()
 {
 		boss_mainland_craftpart6e_diag1	[Très bien.\n
@@ -55675,7 +55675,7 @@ ONLY_ONE_ROOT_FABER ()
 
 }
 
-// HASH_VALUE 106776B260515361
+// HASH_VALUE 836776B260515361
 OPEN_SILAN_ANNOUNCE_TEXT ()
 {
 			[Savez-vous qu’on peut rejoindre Silan par l’Écorce ? Il parait que les rangers entretiennent un passage dont l’entrée est au fin fond du Bosquet de la confusion.]
@@ -66142,7 +66142,7 @@ R_13_00_FINISH_RITE_R_13_00_FINISH_RITE_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 77B8D94119EC090C
+// HASH_VALUE 77B8D94119C9090C
 R_13_00_HARVESTER_A_ASK_FOR_MATS ()
 {
 		r_13_00_harvester_a_ask_for_mats	[Oh, c'est encore vous. Avez-vous trouvé ce que je vous avais demandé ?]
@@ -66156,7 +66156,7 @@ R_13_00_HARVESTER_A_BRING_MATERIALS_TO (bot givervar)
 
 }
 
-// HASH_VALUE F49EDC7C36BF671B
+// HASH_VALUE F49EDC7CA9BF671B
 R_13_00_HARVESTER_A_DIALOG_2 ()
 {
 		r_13_00_harvester_a_dialog_2	[Il y a deux semaines, une bande d'homins a traversé, nous a tabassés et a volé la moitié de notre nourriture.\n
@@ -66194,14 +66194,14 @@ R_13_00_HARVESTER_A_DIALOG_3_ANSWER_A ()
 
 }
 
-// HASH_VALUE 9868AD57F3E11C68
+// HASH_VALUE 0B68AD57F3E11C68
 R_13_00_HARVESTER_A_DIALOG_3_ANSWER_B ()
 {
 		r_13_00_harvester_a_dialog_3_answer_b	[Si vous voulez vous comporter comme ça, au revoir.]
 
 }
 
-// HASH_VALUE 126E38E1DE22CB29
+// HASH_VALUE 856E38E1512239C5
 R_13_00_HARVESTER_A_DIALOG_4 ()
 {
 		r_13_00_harvester_a_dialog_4	[On nous a dit que la route était dégagée, mais il y avait plein de kitins et d'animaux féroces, pas grand-chose à manger pour les mektoubs et peu d'indications quant à la direction à prendre. Nous avons traversé les fourrés jusqu'ici pour fuir les kitins, et puis ces brigands sont venus nous tabasser. {break} Vous êtes sûrs que vous êtes Rangers ? On n'en a pas vu depuis les Anciennes Terres. \n
@@ -66209,21 +66209,21 @@ R_13_00_HARVESTER_A_DIALOG_4 ()
 
 }
 
-// HASH_VALUE 6588BCA500206ABE
+// HASH_VALUE 6565BCA573206ABE
 R_13_00_HARVESTER_A_DIALOG_4_ANSWER_A ()
 {
 		r_13_00_harvester_a_dialog_4_answer_a	[Bon, nous ne sommes pas encore vraiment Rangers, mais nous nous entraînons. De quoi avez-vous besoin ?]
 
 }
 
-// HASH_VALUE E7CDEC32E2C6EC58
+// HASH_VALUE E7CDEC32E2C6EC26
 R_13_00_HARVESTER_A_DIALOG_4_ANSWER_B ()
 {
 		r_13_00_harvester_a_dialog_4_answer_b	[Oui. Nous sommes là pour vous aider. De quoi avez-vous besoin ?]
 
 }
 
-// HASH_VALUE B7B16426E852CDA8
+// HASH_VALUE B7B19B26E852CDA8
 R_13_00_HARVESTER_A_DIALOG_5 ()
 {
 		r_13_00_harvester_a_dialog_5	[Et bien, on a besoin de nourriture et aussi de peaux et de carapaces pour les habits et les bottes. Je vais faire la liste de ce qu'il nous faut.\n
@@ -66245,7 +66245,7 @@ R_13_00_HARVESTER_A_DIALOG_5_ANSWER_B ()
 
 }
 
-// HASH_VALUE 820C15E4CEC64F14
+// HASH_VALUE 820C4CE4CEC64FE2
 R_13_00_HARVESTER_A_DIALOG_6 ()
 {
 		r_13_00_harvester_a_dialog_6	[Génial, prenez ça et allez parler au Chef du Camp. Je vais continuer à chercher des matières première par d'ici. Peut-être que j'aurai de la chance.]
@@ -66259,7 +66259,7 @@ R_13_00_HARVESTER_A_DIALOG_6_ANSWER_A ()
 
 }
 
-// HASH_VALUE 54056E30C62B2BFC
+// HASH_VALUE 54E2A530392B2BCA
 R_13_00_HARVESTER_A_INTRO_1 ()
 {
 		r_13_00_harvester_a_intro_1	[Qu'est-ce que vous voulez ? Vous voyez bien que je n'ai rien.\n
@@ -66289,7 +66289,7 @@ R_13_00_HARVESTER_A_INTRO_1_ANSWER_C ()
 
 }
 
-// HASH_VALUE 42FADE82B94D6971
+// HASH_VALUE 42FADE822C4D6971
 R_13_00_HARVESTER_A_INTRO_1_ANSWER_D ()
 {
 		r_13_00_harvester_a_intro_1_answer_d	[Nous ne vous voulons aucun mal. Nous ne vous ennuierons pas. Passez une bonne journée.]
@@ -66317,7 +66317,7 @@ R_13_00_HARVESTER_A_R_13_00_HARVESTER_A_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 77C8D94119EC090C
+// HASH_VALUE 77C8D94119C9090C
 R_13_00_HARVESTER_B_ASK_FOR_MATS ()
 {
 		r_13_00_harvester_b_ask_for_mats	[Oh, c'est encore vous. Avez-vous trouvé ce que je vous avais demandé ?]
@@ -66331,7 +66331,7 @@ R_13_00_HARVESTER_B_BRING_MATERIALS_TO (bot givervar)
 
 }
 
-// HASH_VALUE F4AEDC7C36BF671B
+// HASH_VALUE F4AEDC7CA9BF671B
 R_13_00_HARVESTER_B_DIALOG_2 ()
 {
 		r_13_00_harvester_b_dialog_2	[Il y a deux semaines, une bande d'homins a traversé, nous a tabassés et a volé la moitié de notre nourriture.\n
@@ -66369,14 +66369,14 @@ R_13_00_HARVESTER_B_DIALOG_3_ANSWER_A ()
 
 }
 
-// HASH_VALUE 9878AD57F3E11C68
+// HASH_VALUE 0B78AD57F3E11C68
 R_13_00_HARVESTER_B_DIALOG_3_ANSWER_B ()
 {
 		r_13_00_harvester_b_dialog_3_answer_b	[Si vous voulez vous comporter comme ça, au revoir.]
 
 }
 
-// HASH_VALUE 127E38E1DE22CB29
+// HASH_VALUE 857E38E1512239C5
 R_13_00_HARVESTER_B_DIALOG_4 ()
 {
 		r_13_00_harvester_b_dialog_2	[Il y a deux semaines, une bande d'homins a traversé, nous a tabassés et a volé la moitié de notre nourriture.\n
@@ -66384,21 +66384,21 @@ R_13_00_HARVESTER_B_DIALOG_4 ()
 
 }
 
-// HASH_VALUE 6598BCA500206ABE
+// HASH_VALUE 6575BCA573206ABE
 R_13_00_HARVESTER_B_DIALOG_4_ANSWER_A ()
 {
 		r_13_00_harvester_b_dialog_4_answer_a	[Bon, nous ne sommes pas encore vraiment Rangers, mais nous nous entraînons. De quoi avez-vous besoin ?]
 
 }
 
-// HASH_VALUE E7DDEC32E2C6EC58
+// HASH_VALUE E7DDEC32E2C6EC26
 R_13_00_HARVESTER_B_DIALOG_4_ANSWER_B ()
 {
 		r_13_00_harvester_b_dialog_4_answer_b	[Oui. Nous sommes là pour vous aider. De quoi avez-vous besoin ?]
 
 }
 
-// HASH_VALUE B7C16426E852CDA8
+// HASH_VALUE B7C19B26E852CDA8
 R_13_00_HARVESTER_B_DIALOG_5 ()
 {
 		r_13_00_harvester_b_dialog_2	[Il y a deux semaines, une bande d'homins a traversé, nous a tabassés et a volé la moitié de notre nourriture.\n
@@ -66420,7 +66420,7 @@ R_13_00_HARVESTER_B_DIALOG_5_ANSWER_B ()
 
 }
 
-// HASH_VALUE 821C15E4CEC64F14
+// HASH_VALUE 821C4CE4CEC64FE2
 R_13_00_HARVESTER_B_DIALOG_6 ()
 {
 		r_13_00_harvester_b_dialog_6	[Génial, prenez ça et allez parler au Chef du Camp. Je vais continuer à chercher des matières premières par d'ici. Peut-être que j'aurai de la chance.]
@@ -66434,7 +66434,7 @@ R_13_00_HARVESTER_B_DIALOG_6_ANSWER_A ()
 
 }
 
-// HASH_VALUE 54156E30C62B2BFC
+// HASH_VALUE 54F2A530392B2BCA
 R_13_00_HARVESTER_B_INTRO_1 ()
 {
 		r_13_00_harvester_b_intro_1	[Qu'est-ce que vous voulez ? Vous voyez bien que je n'ai rien.\n
@@ -66464,7 +66464,7 @@ R_13_00_HARVESTER_B_INTRO_1_ANSWER_C ()
 
 }
 
-// HASH_VALUE 420ADE82B94D6971
+// HASH_VALUE 420ADE822C4D6971
 R_13_00_HARVESTER_B_INTRO_1_ANSWER_D ()
 {
 		r_13_00_harvester_b_intro_1_answer_d	[Nous ne vous voulons aucun mal. Nous ne vous ennuierons pas. Passez une bonne journée.]
@@ -66492,7 +66492,7 @@ R_13_00_HARVESTER_B_R_13_00_HARVESTER_B_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 77D8D94119EC090C
+// HASH_VALUE 77D8D94119C9090C
 R_13_00_HARVESTER_C_ASK_FOR_MATS ()
 {
 		r_13_00_harvester_c_ask_for_mats	[Oh, c'est encore vous. Avez-vous trouvé ce que je vous avais demandé ?]
@@ -66506,7 +66506,7 @@ R_13_00_HARVESTER_C_BRING_MATERIALS_TO (bot givervar)
 
 }
 
-// HASH_VALUE F4BEDC7C36BF671B
+// HASH_VALUE F4BEDC7CA9BF671B
 R_13_00_HARVESTER_C_DIALOG_2 ()
 {
 		r_13_00_harvester_c_dialog_2	[Il y a deux semaines, une bande d'homins a traversé, nous a tabassés et a volé la moitié de notre nourriture.\n
@@ -66544,14 +66544,14 @@ R_13_00_HARVESTER_C_DIALOG_3_ANSWER_A ()
 
 }
 
-// HASH_VALUE 9888AD57F3E11C68
+// HASH_VALUE 0B88AD57F3E11C68
 R_13_00_HARVESTER_C_DIALOG_3_ANSWER_B ()
 {
 		r_13_00_harvester_c_dialog_3_answer_b	[Si vous voulez vous comporter comme ça, au revoir.]
 
 }
 
-// HASH_VALUE 128E38E1DE22CB29
+// HASH_VALUE 858E38E1512239C5
 R_13_00_HARVESTER_C_DIALOG_4 ()
 {
 		r_13_00_harvester_c_dialog_4	[On nous a dit que la route était dégagée, mais il y avait plein de kitins et d'animaux féroces, pas grand-chose à manger pour les mektoubs et peu d'indications quant à la direction à prendre. Nous avons traversé les fourrés jusqu'ici pour fuir les kitins, et puis ces brigands sont venus nous tabasser. {break} Vous êtes sûrs que vous êtes Rangers ? On n'en a pas vu depuis les Anciennes Terres. \n
@@ -66559,21 +66559,21 @@ R_13_00_HARVESTER_C_DIALOG_4 ()
 
 }
 
-// HASH_VALUE 65A8BCA500206ABE
+// HASH_VALUE 6585BCA573206ABE
 R_13_00_HARVESTER_C_DIALOG_4_ANSWER_A ()
 {
 		r_13_00_harvester_c_dialog_4_answer_a	[Bon, nous ne sommes pas encore vraiment Rangers, mais nous nous entraînons. De quoi avez-vous besoin ?]
 
 }
 
-// HASH_VALUE E7EDEC32E2C6EC58
+// HASH_VALUE E7EDEC32E2C6EC26
 R_13_00_HARVESTER_C_DIALOG_4_ANSWER_B ()
 {
 		r_13_00_harvester_c_dialog_4_answer_b	[Oui. Nous sommes là pour vous aider. De quoi avez-vous besoin ?]
 
 }
 
-// HASH_VALUE B7D16426E852CDA8
+// HASH_VALUE B7D19B26E852CDA8
 R_13_00_HARVESTER_C_DIALOG_5 ()
 {
 		r_13_00_harvester_c_dialog_5	[Et bien, on a besoin de nourriture et aussi de peaux et de carapaces pour les habits et les bottes. Je vais faire la liste de ce qu'il nous faut.\n
@@ -66595,7 +66595,7 @@ R_13_00_HARVESTER_C_DIALOG_5_ANSWER_B ()
 
 }
 
-// HASH_VALUE 822C15E4CEC64F14
+// HASH_VALUE 822C4CE4CEC64FE2
 R_13_00_HARVESTER_C_DIALOG_6 ()
 {
 		r_13_00_harvester_c_dialog_6	[Génial, prenez ça et allez parler au Chef du Camp. Je vais continuer à chercher des matières premières par d'ici. Peut-être que j'aurai de la chance.]
@@ -66609,7 +66609,7 @@ R_13_00_HARVESTER_C_DIALOG_6_ANSWER_A ()
 
 }
 
-// HASH_VALUE 54256E30C62B2BFC
+// HASH_VALUE 5402A530392B2BCA
 R_13_00_HARVESTER_C_INTRO_1 ()
 {
 		r_13_00_harvester_c_intro_1	[Qu'est-ce que vous voulez ? Vous voyez bien que je n'ai rien.\n
@@ -66639,7 +66639,7 @@ R_13_00_HARVESTER_C_INTRO_1_ANSWER_C ()
 
 }
 
-// HASH_VALUE 421ADE82B94D6971
+// HASH_VALUE 421ADE822C4D6971
 R_13_00_HARVESTER_C_INTRO_1_ANSWER_D ()
 {
 		r_13_00_harvester_c_intro_1_answer_d	[Nous ne vous voulons aucun mal. Nous ne vous ennuierons pas. Passez une bonne journée.]
@@ -66667,7 +66667,7 @@ R_13_00_HARVESTER_C_R_13_00_HARVESTER_C_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 77E8D94119EC090C
+// HASH_VALUE 77E8D94119C9090C
 R_13_00_HARVESTER_D_ASK_FOR_MATS ()
 {
 		r_13_00_harvester_d_ask_for_mats	[Oh, c'est encore vous. Avez-vous trouvé ce que je vous avais demandé ?]
@@ -66681,7 +66681,7 @@ R_13_00_HARVESTER_D_BRING_MATERIALS_TO (bot givervar)
 
 }
 
-// HASH_VALUE F4CEDC7C36BF671B
+// HASH_VALUE F4CEDC7CA9BF671B
 R_13_00_HARVESTER_D_DIALOG_2 ()
 {
 		r_13_00_harvester_d_dialog_2	[Il y a deux semaines, une bande d'homins a traversé, nous a tabassés et a volé la moitié de notre nourriture.\n
@@ -66719,14 +66719,14 @@ R_13_00_HARVESTER_D_DIALOG_3_ANSWER_A ()
 
 }
 
-// HASH_VALUE 9898AD57F3E11C68
+// HASH_VALUE 0B98AD57F3E11C68
 R_13_00_HARVESTER_D_DIALOG_3_ANSWER_B ()
 {
 		r_13_00_harvester_d_dialog_3_answer_b	[Si vous voulez vous comporter comme ça, au revoir.]
 
 }
 
-// HASH_VALUE 129E38E1DE22CB29
+// HASH_VALUE 859E38E1512239C5
 R_13_00_HARVESTER_D_DIALOG_4 ()
 {
 		r_13_00_harvester_d_dialog_4	[On nous a dit que la route était dégagée, mais il y avait plein de kitins et d'animaux féroces, pas grand-chose à manger pour les mektoubs et peu d'indications quant à la direction à prendre. Nous avons traversé les fourrés jusqu'ici pour fuir les kitins, et puis ces brigands sont venus nous tabasser. {break} Vous êtes sûrs que vous êtes Rangers ? On n'en a pas vu depuis les Anciennes Terres. \n
@@ -66734,21 +66734,21 @@ R_13_00_HARVESTER_D_DIALOG_4 ()
 
 }
 
-// HASH_VALUE 65B8BCA500206ABE
+// HASH_VALUE 6595BCA573206ABE
 R_13_00_HARVESTER_D_DIALOG_4_ANSWER_A ()
 {
 		r_13_00_harvester_d_dialog_4_answer_a	[Bon, nous ne sommes pas encore vraiment Rangers, mais nous nous entraînons. De quoi avez-vous besoin ?]
 
 }
 
-// HASH_VALUE E7FDEC32E2C6EC58
+// HASH_VALUE E7FDEC32E2C6EC26
 R_13_00_HARVESTER_D_DIALOG_4_ANSWER_B ()
 {
 		r_13_00_harvester_d_dialog_4_answer_b	[Oui. Nous sommes là pour vous aider. De quoi avez-vous besoin ?]
 
 }
 
-// HASH_VALUE B7E16426E852CDA8
+// HASH_VALUE B7E19B26E852CDA8
 R_13_00_HARVESTER_D_DIALOG_5 ()
 {
 		r_13_00_harvester_d_dialog_5	[Et bien, on a besoin de nourriture et aussi de peaux et de carapaces pour les habits et les bottes. Je vais faire la liste de ce qu'il nous faut.\n
@@ -66770,7 +66770,7 @@ R_13_00_HARVESTER_D_DIALOG_5_ANSWER_B ()
 
 }
 
-// HASH_VALUE 823C15E4CEC64F14
+// HASH_VALUE 823C4CE4CEC64FE2
 R_13_00_HARVESTER_D_DIALOG_6 ()
 {
 		r_13_00_harvester_d_dialog_5	[Et bien, on a besoin de nourriture et aussi de peaux et de carapaces pour les habits et les bottes. Je vais faire la liste de ce qu'il nous faut.\n
@@ -66785,7 +66785,7 @@ R_13_00_HARVESTER_D_DIALOG_6_ANSWER_A ()
 
 }
 
-// HASH_VALUE 54356E30C62B2BFC
+// HASH_VALUE 5412A530392B2BCA
 R_13_00_HARVESTER_D_INTRO_1 ()
 {
 		r_13_00_harvester_d_intro_1	[Qu'est-ce que vous voulez ? Vous voyez bien que je n'ai rien.\n
@@ -66815,7 +66815,7 @@ R_13_00_HARVESTER_D_INTRO_1_ANSWER_C ()
 
 }
 
-// HASH_VALUE 422ADE82B94D6971
+// HASH_VALUE 422ADE822C4D6971
 R_13_00_HARVESTER_D_INTRO_1_ANSWER_D ()
 {
 		r_13_00_harvester_d_intro_1_answer_d	[Nous ne vous voulons aucun mal. Nous ne vous ennuierons pas. Passez une bonne journée.]
@@ -92644,4 +92644,5 @@ zm80_reward ()
 			[Bottes Nin-kas]
 
 }
+
 
