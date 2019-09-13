@@ -1,0 +1,5 @@
+*.log
+translations/history/*.txt
+translations/history/*.uxt
+translations/diff/*.txt
+translations/diff/*.uxt

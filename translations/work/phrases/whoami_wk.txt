@@ -857,6 +857,10 @@ WHOAMI_ARTISAN_RESTAURATEUR4	()
 {
 whoami_artisan_restaurateur4	[Salutations,\nJe me prénomme Fontaine, Artisan restaurateur, pour vous servir.\nJe touche un peu à tout et m'intéresse particulièrement à la restauration d'ouvrages anciens.\nSi vous avez besoin de reconstituer un document abîmé, venez me voir avec tous les morceaux que vous avez et je ferai de mon mieux. Mes services peuvent sembler onéreux mais je suis le meilleur et surtout le seul... ]
 }
+WHOAMI_ARTISAN_RESTAURATEUR5	()
+{
+whoami_artisan_restaurateur5	[Salutations,\nJe me prénomme Abyrius, Artisan restaurateur, pour vous servir.\nJe touche un peu à tout et m'intéresse particulièrement à la restauration d'ouvrages anciens.\nSi vous avez besoin de reconstituer un document abîmé, venez me voir avec tous les morceaux que vous avez et je ferai de mon mieux. Mes services peuvent sembler onéreux mais je suis le meilleur et surtout le seul... ]
+}
 WHOAMI_KITINIERE_COORD		()
 {
 whoami_kitiniere_coord		[Ma fonction présente consiste à organiser les recherches sur ce site. \nDes explorateurs nous ont relatés cet affaissement de terrain. Celui-ci se révèle être l'entrée des tunnels d'Almati, le grand alchimiste royal Matis. Ce fou a permi aux Kitins de trouver un chemin vers la surface. De plus, nous autres Rangers n'avons pas les troupes nécessaires pour endiguer cette menace.\n Seule la détermination des Homins les plus courageux nous permettra de faire face. Ce petit poste avancé servira de base de départ de toutes nos opérations au sein de cette kitinière.]
