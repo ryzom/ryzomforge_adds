@@ -5172,7 +5172,7 @@ COMBAT_ACTOR_HIT (entity e, int damage, int maxDamage)
 
 }
 
-// HASH_VALUE 3A3A516FF482F254
+// HASH_VALUE B983A8BFD8FC5D01
 COMBAT_ACTOR_HIT_LOC (entity e, int damage, int maxDamage, bodypart b)
 {
 	(maxDamage = 0 & damage > 1)
@@ -7368,7 +7368,7 @@ CWFF03_DESC (bot giver)
 
 }
 
-// HASH_VALUE 6AB5F31167862E06
+// HASH_VALUE 5A2E2A6783C2BE5D
 CWFF03_DIALOG_CHASSEUR ()
 {
 	( self.gender = male )
@@ -7933,7 +7933,7 @@ CWINTROZORAIFIN_DESC (bot giver, place city, bot givervar)
 
 }
 
-// HASH_VALUE A407A4497494CD57
+// HASH_VALUE C40F6C19590B6C3F
 CWINTROZORAIFIN_DIALOG_CITIZEN (bot player, race race)
 {
 	( self.gender = male )
@@ -8115,7 +8115,7 @@ CWMC01_DESC (bot giver, bot artisan)
 
 }
 
-// HASH_VALUE CE2E819B938A7495
+// HASH_VALUE A61346386DB12C7E
 CWMC01_DIALOG_ARTISAN ()
 {
 	( self.gender = male )
@@ -8343,7 +8343,7 @@ CWMF02_DESC (bot giver, place city)
 
 }
 
-// HASH_VALUE A9D493FAC18BA346
+// HASH_VALUE E064C24CDB20A329
 CWMF02_DIALOG_ARTISAN (bot givervar)
 {
 	( self.gender = male )
@@ -8785,7 +8785,7 @@ CWTF01_DIALOG_REWARD (bot givervar)
 
 }
 
-// HASH_VALUE 220BE507D3F22E49
+// HASH_VALUE 55BAB1F3A024EABB
 CWTF01_FIN_CHEF (bot player)
 {
 	( self.gender = male )
@@ -9427,7 +9427,7 @@ CWZF02_DESC (bot giver)
 
 }
 
-// HASH_VALUE 5802E2B7A165C983
+// HASH_VALUE AE7B30BA205C512F
 CWZF02_DIALOG_CHEF (place cite)
 {
 	( self.gender = male )
@@ -9575,7 +9575,7 @@ CWZH01_DIALOG_REWARD ()
 
 }
 
-// HASH_VALUE 6F5C0140684B4911
+// HASH_VALUE 39449F43296BF076
 CWZH01_DIALOG_VIEUX (place escarpement, bot givervar)
 {
 	( self.gender = male )
@@ -11112,7 +11112,7 @@ EFFECT_DEBUFF_COMBAT_SELF_BEGIN_SPECTATORS_CREATURE (creature c)
 
 }
 
-// HASH_VALUE 058355687CA831BF
+// HASH_VALUE 3341E23899AFACAF
 EFFECT_DEBUFF_COMBAT_SELF_BEGIN_SPECTATORS_NPC (bot b)
 {
 	(b.gender = male)
@@ -11123,7 +11123,7 @@ EFFECT_DEBUFF_COMBAT_SELF_BEGIN_SPECTATORS_NPC (bot b)
 
 }
 
-// HASH_VALUE F662ACDB9CD3DDFD
+// HASH_VALUE 46C34EC23DD97902
 EFFECT_DEBUFF_COMBAT_SELF_BEGIN_SPECTATORS_PLAYER (player p)
 {
 	(p.gender = male)
@@ -11193,7 +11193,7 @@ EFFECT_DEBUFF_DEFENSE_SELF_BEGIN_SPECTATORS_CREATURE (creature c)
 
 }
 
-// HASH_VALUE 019402EEFD8CA481
+// HASH_VALUE E09F99D73DA5CCC5
 EFFECT_DEBUFF_DEFENSE_SELF_BEGIN_SPECTATORS_NPC (bot b)
 {
 	(b.gender = male)
@@ -11204,7 +11204,7 @@ EFFECT_DEBUFF_DEFENSE_SELF_BEGIN_SPECTATORS_NPC (bot b)
 
 }
 
-// HASH_VALUE 25430E1769D0864C
+// HASH_VALUE 7743ED23530D2766
 EFFECT_DEBUFF_DEFENSE_SELF_BEGIN_SPECTATORS_PLAYER (player p)
 {
 	(p.gender = male)
@@ -11274,7 +11274,7 @@ EFFECT_DEBUFF_DODGE_SELF_BEGIN_SPECTATORS_CREATURE (creature c)
 
 }
 
-// HASH_VALUE 21D81C9A8EB134C9
+// HASH_VALUE 2FBE9335FFC110D1
 EFFECT_DEBUFF_DODGE_SELF_BEGIN_SPECTATORS_NPC (bot b)
 {
 	(b.gender = male)
@@ -11285,7 +11285,7 @@ EFFECT_DEBUFF_DODGE_SELF_BEGIN_SPECTATORS_NPC (bot b)
 
 }
 
-// HASH_VALUE E620C718F91B1896
+// HASH_VALUE 06FEBBE085349EC9
 EFFECT_DEBUFF_DODGE_SELF_BEGIN_SPECTATORS_PLAYER (player p)
 {
 	(p.gender = male)
@@ -11309,7 +11309,7 @@ EFFECT_DOT_BEGIN_CREATOR (entity e)
 
 }
 
-// HASH_VALUE 4A05B702E839FE67
+// HASH_VALUE E349CD80717FA867
 EFFECT_DOT_BEGIN_SPECTATORS (entity actor, entity target)
 {
 	(actor.gender = male)
@@ -11375,7 +11375,7 @@ EFFECT_DOT_SELF_BEGIN_SPECTATORS_CREATURE (creature c)
 
 }
 
-// HASH_VALUE 62560445B0A4B7DE
+// HASH_VALUE 20C33CE2A5555C11
 EFFECT_DOT_SELF_BEGIN_SPECTATORS_NPC (bot b)
 {
 	(b.gender = male)
@@ -11385,7 +11385,7 @@ EFFECT_DOT_SELF_BEGIN_SPECTATORS_NPC (bot b)
 
 }
 
-// HASH_VALUE 6F052B91AA6CA7A4
+// HASH_VALUE 114EB11BDABC90D9
 EFFECT_DOT_SELF_BEGIN_SPECTATORS_PLAYER (player p)
 {
 	(p.gender = male)
@@ -11458,7 +11458,7 @@ EFFECT_FEAR_SELF_BEGIN_SPECTATORS_CREATURE (creature c)
 
 }
 
-// HASH_VALUE 80A8218EECBD78D8
+// HASH_VALUE E5A955E5BAB6EF52
 EFFECT_FEAR_SELF_BEGIN_SPECTATORS_NPC (bot b)
 {
 	(b.gender = male)
@@ -11469,7 +11469,7 @@ EFFECT_FEAR_SELF_BEGIN_SPECTATORS_NPC (bot b)
 
 }
 
-// HASH_VALUE 37BAB905F65F09EB
+// HASH_VALUE 19A3B7DBFBA57524
 EFFECT_FEAR_SELF_BEGIN_SPECTATORS_PLAYER (player p)
 {
 	(p.gender = male)
@@ -11539,7 +11539,7 @@ EFFECT_INVULNERABILITY_SELF_BEGIN_SPECTATORS_CREATURE (creature c)
 
 }
 
-// HASH_VALUE 93841EAAA1F9EEF4
+// HASH_VALUE CD7EB5E7C4F0357A
 EFFECT_INVULNERABILITY_SELF_BEGIN_SPECTATORS_NPC (bot b)
 {
 	(b.gender = male)
@@ -11550,7 +11550,7 @@ EFFECT_INVULNERABILITY_SELF_BEGIN_SPECTATORS_NPC (bot b)
 
 }
 
-// HASH_VALUE 7A34E83CBECA2677
+// HASH_VALUE 492C35FE99283276
 EFFECT_INVULNERABILITY_SELF_BEGIN_SPECTATORS_PLAYER (player p)
 {
 	(p.gender = male)
@@ -11624,7 +11624,7 @@ EFFECT_MADNESS_SELF_BEGIN_SPECTATORS_CREATURE (creature c)
 
 }
 
-// HASH_VALUE AE7C2F651B554794
+// HASH_VALUE 9805E316E58425C9
 EFFECT_MADNESS_SELF_BEGIN_SPECTATORS_NPC (bot b)
 {
 	(b.gender = male)
@@ -11635,7 +11635,7 @@ EFFECT_MADNESS_SELF_BEGIN_SPECTATORS_NPC (bot b)
 
 }
 
-// HASH_VALUE 10C87058648CB9CC
+// HASH_VALUE A8D87E054E8C48C8
 EFFECT_MADNESS_SELF_BEGIN_SPECTATORS_PLAYER (player p)
 {
 	(p.gender = male)
@@ -11912,7 +11912,7 @@ EFFECT_SLOW_ATTACKS_SELF_BEGIN_SPECTATORS_CREATURE (creature c)
 
 }
 
-// HASH_VALUE 72FF4723352BC6F2
+// HASH_VALUE A9D5250E0A56CF4A
 EFFECT_SLOW_ATTACKS_SELF_BEGIN_SPECTATORS_NPC (bot b)
 {
 	(b.gender = male)
@@ -11923,7 +11923,7 @@ EFFECT_SLOW_ATTACKS_SELF_BEGIN_SPECTATORS_NPC (bot b)
 
 }
 
-// HASH_VALUE 545DE1025A7DF9C9
+// HASH_VALUE 411ED0D2060E7968
 EFFECT_SLOW_ATTACKS_SELF_BEGIN_SPECTATORS_PLAYER (player p)
 {
 	(p.gender = male)
@@ -11993,7 +11993,7 @@ EFFECT_SLOW_MOVE_SELF_BEGIN_SPECTATORS_CREATURE (creature c)
 
 }
 
-// HASH_VALUE BA2B7F31ADB40EB2
+// HASH_VALUE 8CC77A97C7BCCCCD
 EFFECT_SLOW_MOVE_SELF_BEGIN_SPECTATORS_NPC (bot b)
 {
 	(b.gender = male)
@@ -12004,7 +12004,7 @@ EFFECT_SLOW_MOVE_SELF_BEGIN_SPECTATORS_NPC (bot b)
 
 }
 
-// HASH_VALUE F2D60C2412D2A9B9
+// HASH_VALUE 09E4B586A5071E73
 EFFECT_SLOW_MOVE_SELF_BEGIN_SPECTATORS_PLAYER (player p)
 {
 	(p.gender = male)
@@ -12018,7 +12018,7 @@ EFFECT_SLOW_MOVE_SELF_BEGIN_SPECTATORS_PLAYER (player p)
 /**
  * STINK/STENCH
  */
-// HASH_VALUE FEC05E8DD0BF0AC2
+// HASH_VALUE EC33BEE2E37E508C
 EFFECT_STENCH_BEGIN_CREATOR (entity e)
 {
 	(e.gender = male)
@@ -12029,7 +12029,7 @@ EFFECT_STENCH_BEGIN_CREATOR (entity e)
 
 }
 
-// HASH_VALUE 4202CF5FA8F3FB60
+// HASH_VALUE 87CB561E967928B2
 EFFECT_STENCH_BEGIN_SPECTATORS (entity actor, entity target)
 {
 	(actor.gender = male)
@@ -12096,7 +12096,7 @@ EFFECT_STENCH_SELF_BEGIN_SPECTATORS_CREATURE (creature c)
 
 }
 
-// HASH_VALUE FDC17C899A15035B
+// HASH_VALUE ABE1F7975F1F5611
 EFFECT_STENCH_SELF_BEGIN_SPECTATORS_NPC (bot b)
 {
 	(b.gender = male)
@@ -12107,7 +12107,7 @@ EFFECT_STENCH_SELF_BEGIN_SPECTATORS_NPC (bot b)
 
 }
 
-// HASH_VALUE 8D0FA4784BCCDD2F
+// HASH_VALUE 37CF136C305F6D12
 EFFECT_STENCH_SELF_BEGIN_SPECTATORS_PLAYER (player p)
 {
 	(p.gender = male)
@@ -18498,7 +18498,7 @@ ENCYCLO_TUTORIAL_O_ANY_MESSENGER_1 (bot npc_3)
 
 }
 
-// HASH_VALUE 0E4F27223C30193A
+// HASH_VALUE D56E0C732F45FFBB
 ENCYCLO_TUTORIAL_P_T2_BARMAN_1 (bot player)
 {
 		encyclo_tutorial_p_t2_barman_1	[Welcome, $player$. I do like to get to know my patrons. I make it a point of honor to quench a thirst, and the same goes for a thirst of knowledge too. Let me tell ya...\n
@@ -27057,7 +27057,7 @@ FAME_CULT_NOT_GOOD_FOR_GUILD ()
 
 }
 
-// HASH_VALUE EC4E05CF09EE8C44
+// HASH_VALUE 39CDC4CDB1BD8185
 FAME_GAIN_CHAR (faction faction, int propagation_type, int points)
 {
 	(propagation_type = 0)
@@ -27085,7 +27085,7 @@ FAME_GAIN_GUILD (faction faction, int propagation_type)
 
 }
 
-// HASH_VALUE 732095F5103EA45A
+// HASH_VALUE BB304CFABB1EE18A
 FAME_LOST_CHAR (faction faction, int propagation_type, int points)
 {
 	(propagation_type = 0)
@@ -27467,7 +27467,7 @@ FF50_STEP3_PHRASE (bot NPC1)
 
 }
 
-// HASH_VALUE 988C06339BF56688
+// HASH_VALUE 47C11837330CD896
 FF50_STEP4_BOTCHAT (creature_model clopper, place oasis)
 {
 	( self.gender = male )
@@ -27541,7 +27541,7 @@ FF60_FF60_AUTO_MENU ()
 
 }
 
-// HASH_VALUE B9184DA5FE8F3F24
+// HASH_VALUE A2DC3D3A345FB597
 FF60_FINISH_BOTCHAT (bot givervar, bot player)
 {
 	( self.gender = male )
@@ -28428,7 +28428,7 @@ FORAGE_TOO_FAR_FROM_SOURCE ()
 
 }
 
-// HASH_VALUE E5DB8171715A5C56
+// HASH_VALUE BE39391FBF194815
 FORAGE_XP_PROSPECTION (int i)
 {
 	(i=0)
@@ -28564,7 +28564,7 @@ FYROS_INSTRUCTOR_MIS_01_STEP_2 (bot target, race kitins)
 
 }
 
-// HASH_VALUE 69BB67D64F8B793D
+// HASH_VALUE A793AFD89F8E244B
 FYROS_INSTRUCTOR_MIS_01_STEP_3 (bot target)
 {
 		fyros_instructor_mis_01_step_3	[I must warn you, $self$, you will meet the Kamis who will open up their mysterious paths to you when the time comes...{break} The Kamis are strange creatures whose powerful magic is held in esteem.\n
@@ -28670,7 +28670,7 @@ FYROS_INSTRUCTOR_MIS_03_END ()
 
 }
 
-// HASH_VALUE 237DFCBCCE761DDD
+// HASH_VALUE 7266507F9152141E
 FYROS_INSTRUCTOR_MIS_03_STEP_1 (item rawmat)
 {
 		fyros_instructor_mis_03_step_1	[Now that you know how to extract resources from the ground, I need you to find $rawmat.ia$ $rawmat$. This material is a bit rarer and can only be found around the south coast of our island so you should look around there.]
@@ -28769,7 +28769,7 @@ FYROS_INSTRUCTOR_MIS_06_END (creature_model target)
 
 }
 
-// HASH_VALUE 953C789B34FF0335
+// HASH_VALUE 94625D4FCF1A13C2
 FYROS_INSTRUCTOR_MIS_06_STEP_1 (creature_model target)
 {
 		fyros_instructor_mis_06_step_1	[Surviving on Atys can be very hard, you need to know how to fight if you want to live long. You must start your training by facing an easy opponent : find a small herbivore, $target.ia$ $target$, and kill it.]
@@ -28801,7 +28801,7 @@ FYROS_INSTRUCTOR_MIS_07_END (creature_model target)
 
 }
 
-// HASH_VALUE F562A7D5F1482B39
+// HASH_VALUE FC6EB4078BE5CCD2
 FYROS_INSTRUCTOR_MIS_07_STEP_1 (creature_model target, race yubo)
 {
 		fyros_instructor_mis_07_step_1	[We need to get rid of a few predators. There are too many $target$ on our island, and they prey on the herbivores. I would be grateful if you managed to kill one by yourself, and you shall earn a good deal of experience. But beware, these beasts are more dangerous than $yubo$...]
@@ -28833,7 +28833,7 @@ FYROS_INSTRUCTOR_MIS_08_END (player p)
 
 }
 
-// HASH_VALUE 330B8FE57DD3CA61
+// HASH_VALUE 7E382E825FA2B11C
 FYROS_INSTRUCTOR_MIS_08_STEP_1 (player p, creature_model kipee, race kitin)
 {
 		fyros_instructor_mis_08_step_1	[It seems that some $kipee$, of the $kitin$ family, have managed to locate us. We must take immediate action against them ! They are extremely dangerous killing machines that hunt all homins across Atys to death. {break}\n
@@ -28875,7 +28875,7 @@ FYROS_INSTRUCTOR_MIS_09_OBJ ()
 
 }
 
-// HASH_VALUE D8B3AD3C0D851116
+// HASH_VALUE 3E83A41B25F2774F
 FYROS_INSTRUCTOR_MIS_09_STEP_1 ()
 {
 		fyros_instructor_mis_09_step_1	[Bandits have been spotted nearby. We cannot have them feel at home on our land. They are merciless, and usually travel in groups of three. I recommend that you team up with others like yourself before you take any action against them. Once you've managed to kill them, you should loot them for their equipment.{break}\n
@@ -29673,14 +29673,14 @@ FYROS_NEWB_CRAFT_1_END_1 ()
 
 }
 
-// HASH_VALUE 40A9A8E38252D0C3
+// HASH_VALUE 05F16F69F2C5AD90
 FYROS_NEWB_CRAFT_1_END_2 ()
 {
 		fyros_newb_craft_1_end_2	[...it's only by analysing mistakes made during tests that the quality crafter will develop his or her techniques.]
 
 }
 
-// HASH_VALUE 5DE37486F7B24FC0
+// HASH_VALUE 01CBF91B81289A68
 FYROS_NEWB_CRAFT_1_PREREQ (sphrase fyrosarmor)
 {
 		fyros_newb_craft_1_prereq	[To continue to progress, you need to learn a new technique : $fyrosarmor$. Go and see one of the trainers to learn it.]
@@ -29730,14 +29730,14 @@ FYROS_NEWB_CRAFT_2_DESC (bot giver)
 
 }
 
-// HASH_VALUE 54EF06FB715021F4
+// HASH_VALUE C3F13620DD04211C
 FYROS_NEWB_CRAFT_2_END ()
 {
 		fyros_newb_craft_2_end	[Excellent, here's a little reward for your efforts. And if you're looking for more work, go and see an overseer, they've always got something going.]
 
 }
 
-// HASH_VALUE 5B891B43A7ED6C85
+// HASH_VALUE 3CDC5246EF530A95
 FYROS_NEWB_CRAFT_2_PREREQ (bot target, sbrick fyrosgloves)
 {
 	(target.gender = female)
@@ -29798,7 +29798,7 @@ FYROS_NEWB_FIGHT_1_DESC (bot giver)
 
 }
 
-// HASH_VALUE 404FE6C4B52232DD
+// HASH_VALUE D7A68BA09D02DF1F
 FYROS_NEWB_FIGHT_1_END (creature_model yubo)
 {
 		fyros_newb_fight_1_end	[Good ! But remember that $yubo$ is an easy prey, the next killings won't be so easy as you will be up against tougher beasts.]
@@ -29812,7 +29812,7 @@ FYROS_NEWB_FIGHT_1_STEP_1_1 ()
 
 }
 
-// HASH_VALUE 84518C773781E2D3
+// HASH_VALUE 07D960BCAC2D78F5
 FYROS_NEWB_FIGHT_1_STEP_1_2 (creature_model yubo)
 {
 		fyros_newb_fight_1_step_1_2	[You must start your training by facing an easy opponent : find a small herbivore, $yubo.ia$ $yubo$, and kill it.]
@@ -29855,7 +29855,7 @@ FYROS_NEWB_FIGHT_2_END ()
 
 }
 
-// HASH_VALUE ACC32CF36B68B39C
+// HASH_VALUE A40FFEBFF04CB3E8
 FYROS_NEWB_FIGHT_2_PREREQ (bot target, sphrase increasedamage)
 {
 	(target.gender = female)
@@ -29865,14 +29865,14 @@ FYROS_NEWB_FIGHT_2_PREREQ (bot target, sphrase increasedamage)
 
 }
 
-// HASH_VALUE 9803320C7841E3DC
+// HASH_VALUE 70B08FE2028BC794
 FYROS_NEWB_FIGHT_2_STEP_1_1 (creature_model ragus)
 {
 		fyros_newb_fight_2_step_1_1	[Now we need to get rid of a few predators. There are too many $ragus$ on our island, and they prey on the herbivores.]
 
 }
 
-// HASH_VALUE 01689A57F21C7A43
+// HASH_VALUE 077D8A11E1C41054
 FYROS_NEWB_FIGHT_2_STEP_1_2 ()
 {
 		fyros_newb_fight_2_step_1_2	[It would prove your valor if you killed one by yourself, you shall earn a good deal of experience if you do. But be really careful...]
@@ -29923,7 +29923,7 @@ FYROS_NEWB_HARVEST_1_END ()
 
 }
 
-// HASH_VALUE 5F2824C3F1875DCC
+// HASH_VALUE E99E6F6B956FE261
 FYROS_NEWB_HARVEST_1_PREREQ (sphrase basicextraction)
 {
 		fyros_newb_harvest_1_prereq	[To continue to progress, you need to learn a new technique : $basicextraction$. Go and see one of the trainers to learn it.]
@@ -29937,7 +29937,7 @@ FYROS_NEWB_HARVEST_1_STEP_1_1 ()
 
 }
 
-// HASH_VALUE 779256F23817A334
+// HASH_VALUE 13E687A0CBD5CA7A
 FYROS_NEWB_HARVEST_1_STEP_1_2 (item rm1, item rm2)
 {
 		fyros_newb_harvest_1_step_1_2	[Let's start with something easy, bring me back $rm1.ia$ $rm1$ and $rm2.ia$ $rm2$ which you'll find in the ground within the outpost.]
@@ -29973,14 +29973,14 @@ FYROS_NEWB_HARVEST_2_DESC (bot giver)
 
 }
 
-// HASH_VALUE F877A4305F770392
+// HASH_VALUE D781F791E579D9A1
 FYROS_NEWB_HARVEST_2_END ()
 {
 		fyros_newb_harvest_2_end	[Good, here's a little money for you. And if you're after more work, go and see a corporal, they've always something going.]
 
 }
 
-// HASH_VALUE 9A49BC65BB402A9B
+// HASH_VALUE 65CFA42EEDB5EA72
 FYROS_NEWB_HARVEST_2_PREREQ (sphrase basicprospection, bot target)
 {
 	(target.gender = female)
@@ -30004,7 +30004,7 @@ FYROS_NEWB_HARVEST_2_STEP_1_2 ()
 
 }
 
-// HASH_VALUE 38023D0CDCDD7468
+// HASH_VALUE 73A228C12C6AAB30
 FYROS_NEWB_HARVEST_2_STEP_1_3 (item rm3, int ql)
 {
 		fyros_newb_harvest_2_step_1_3	[Think about it when you go and fetch me $rm3.ia$ $rm3$ of quality $ql$. These can only be found along the cliffs to the south of this region.]
@@ -30069,7 +30069,7 @@ FYROS_NEWB_MAGIC_1_END_2 ()
 
 }
 
-// HASH_VALUE 877B25B631EC7C7D
+// HASH_VALUE 69A9C444CDFDD2A8
 FYROS_NEWB_MAGIC_1_PREREQ (sphrase selfheal)
 {
 		fyros_newb_magic_1_prereq	[To continue to progress, you need to learn a new spell : $selfheal$. Go and see one of the trainers to learn it.]
@@ -30140,7 +30140,7 @@ FYROS_NEWB_MAGIC_2_OBJ_2_1 (creature_model yubo, int qt)
 
 }
 
-// HASH_VALUE 9192B1412A9D1E75
+// HASH_VALUE A8533C6AF1D3FC7B
 FYROS_NEWB_MAGIC_2_PREREQ (bot target, sphrase aciddamage)
 {
 	(target.gender = female)
@@ -30316,7 +30316,7 @@ FYROS_NEWB_WELCOME_END_2 (bot barman, place place_pyr)
 
 }
 
-// HASH_VALUE B0BF7593A36E93A4
+// HASH_VALUE F80569D59E50786D
 FYROS_NEWB_WELCOME_STEP_10_1 (bot previous)
 {
 		fyros_newb_welcome_step_10_1	[$previous$ is a brave homin and a friend of the mighty Kamis... It is told that the Kamis were sent on Atys by the Life Giver to preserve her creation.]
@@ -30330,7 +30330,7 @@ FYROS_NEWB_WELCOME_STEP_10_1_b ()
 
 }
 
-// HASH_VALUE C4E67610F6288380
+// HASH_VALUE 3845DAFA1EBF72DC
 FYROS_NEWB_WELCOME_STEP_10_2 ()
 {
 		fyros_newb_welcome_step_10_2	[You must speak to the Kami for him to show you the way that leads to the mainland. If you don't know where to find him, follow your compass, it will guide you to him.]
@@ -30351,7 +30351,7 @@ FYROS_NEWB_WELCOME_STEP_11_TEMP ()
 
 }
 
-// HASH_VALUE 3DF82EEFA48B65A2
+// HASH_VALUE 5F5407F528CE50EA
 FYROS_NEWB_WELCOME_STEP_12 ()
 {
 		fyros_newb_welcome_step_12	[You must use magic item for leave to desert. Remember, there is no return.]
@@ -30365,21 +30365,21 @@ FYROS_NEWB_WELCOME_STEP_1_1 ()
 
 }
 
-// HASH_VALUE 4E1434E0583430DF
+// HASH_VALUE 0DA99B06CFAB1B9F
 FYROS_NEWB_WELCOME_STEP_1_1b ()
 {
 		fyros_newb_welcome_step_1_1b	[I salute your valor in taking the perilous journey to help rebuild our great Fyros Empire.]
 
 }
 
-// HASH_VALUE D28898B0BBC9E94C
+// HASH_VALUE 658F05A682661F0D
 FYROS_NEWB_WELCOME_STEP_1_1c ()
 {
 		fyros_newb_welcome_step_1_1c	[You are on a small island, not far from the Fyros mainland. We have five small outposts on this island, and this is one of them.]
 
 }
 
-// HASH_VALUE 6468DEA2F402FB1F
+// HASH_VALUE C442BB5C17D93445
 FYROS_NEWB_WELCOME_STEP_1_2 (bot target, place capital)
 {
 	(target.gender = female)
@@ -30401,7 +30401,7 @@ FYROS_NEWB_WELCOME_STEP_1_2b (bot target)
 
 }
 
-// HASH_VALUE A3D2D0C1DF294603
+// HASH_VALUE 4D39DB5FA84E3158
 FYROS_NEWB_WELCOME_STEP_2_1 (race kitins)
 {
 		fyros_newb_welcome_step_2_1	[Ah! At last you come. I wanted to see you to warn you against our greatest enemy, $kitins.da$ $kitins$...]
@@ -30415,14 +30415,14 @@ FYROS_NEWB_WELCOME_STEP_2_1_b ()
 
 }
 
-// HASH_VALUE 125FA0678A10A862
+// HASH_VALUE F54E79902038408B
 FYROS_NEWB_WELCOME_STEP_2_1_c ()
 {
 		fyros_newb_welcome_step_2_1_c	[It is they who wiped out our entire Empire in the lands of old. And never forget, it was the Fyros who first bore the full brunt of their wrath three generations ago!]
 
 }
 
-// HASH_VALUE 41519DB65243F1A6
+// HASH_VALUE D244D46FFF783383
 FYROS_NEWB_WELCOME_STEP_2_2 ()
 {
 		fyros_newb_welcome_step_2_2	[But before you find out more about our past on the mainland, you must first develop your skills and equipment to be able to survive.]
@@ -30436,7 +30436,7 @@ FYROS_NEWB_WELCOME_STEP_2_2_b ()
 
 }
 
-// HASH_VALUE 84265CFB88560C15
+// HASH_VALUE 27DAAF28A6E1ED54
 FYROS_NEWB_WELCOME_STEP_2_2_c (bot target)
 {
 	(target.gender = female)
@@ -30446,7 +30446,7 @@ FYROS_NEWB_WELCOME_STEP_2_2_c (bot target)
 
 }
 
-// HASH_VALUE C2FD6683CEA43058
+// HASH_VALUE A9FE308618C3274E
 FYROS_NEWB_WELCOME_STEP_3_1 ()
 {
 		fyros_newb_welcome_step_3_1	[I must warn you, $self$, you will meet the Kamis who will open up their mysterious paths to you when the time comes...]
@@ -30474,14 +30474,14 @@ FYROS_NEWB_WELCOME_STEP_3_2_b ()
 
 }
 
-// HASH_VALUE 525290E33CB3283A
+// HASH_VALUE E3A469FAD18B4040
 FYROS_NEWB_WELCOME_STEP_3_3 ()
 {
 		fyros_newb_welcome_step_3_3	[One more thing, on the mainland you may come across members of the Karavan. They claim to be disciples of Jena, and indeed, their magic is strong. But take heed, their sole intention is to bind hominkind in servitude to the myth for their own secret ends.]
 
 }
 
-// HASH_VALUE 8EFC86CEE1CF9F61
+// HASH_VALUE B493CAF40D3DAA0A
 FYROS_NEWB_WELCOME_STEP_3_3_b (bot target)
 {
 	(target.gender = female)
@@ -30512,7 +30512,7 @@ FYROS_NEWB_WELCOME_STEP_4_1_c ()
 
 }
 
-// HASH_VALUE 93707F7131C14C9D
+// HASH_VALUE 1ADA838DB76333DD
 FYROS_NEWB_WELCOME_STEP_4_2 ()
 {
 		fyros_newb_welcome_step_4_2	[You too may experience the same freedom if that be your choice.\n
@@ -30565,7 +30565,7 @@ FYROS_NEWB_WELCOME_STEP_5_1_d ()
 
 }
 
-// HASH_VALUE AA0CC113A04EBD7C
+// HASH_VALUE 019E40F273AF152C
 FYROS_NEWB_WELCOME_STEP_5_2 (bot target)
 {
 	(target.gender = female)
@@ -30599,14 +30599,14 @@ FYROS_NEWB_WELCOME_STEP_6_1 (bot previous)
 
 }
 
-// HASH_VALUE 206785E98BF1AD67
+// HASH_VALUE D347C0FFD20E04C4
 FYROS_NEWB_WELCOME_STEP_6_1_b ()
 {
 		fyros_newb_welcome_step_6_1_b	[You will need to replace or upgrade your weaponry and equipment as you make progress. The merchants will sell you what you need at a reasonable price.]
 
 }
 
-// HASH_VALUE 18D4ADC8287DAE86
+// HASH_VALUE FE764EAC99296890
 FYROS_NEWB_WELCOME_STEP_6_2 (bot target)
 {
 	(target.gender = female)
@@ -30616,7 +30616,7 @@ FYROS_NEWB_WELCOME_STEP_6_2 (bot target)
 
 }
 
-// HASH_VALUE 47879C38AC25D717
+// HASH_VALUE 8D6368A5C93DF711
 FYROS_NEWB_WELCOME_STEP_7_1 ()
 {
 		fyros_newb_welcome_step_7_1	[Look's like you're new round here. Well, welcome! When you start looking for work to earn yourself a few dappers, come and see me ! I've always a task or two to propose.]
@@ -30647,21 +30647,21 @@ FYROS_NEWB_WELCOME_STEP_7_2_b (bot giver)
 
 }
 
-// HASH_VALUE B7B12D5090806684
+// HASH_VALUE 043178B885607792
 FYROS_NEWB_WELCOME_STEP_8_1 ()
 {
 		fyros_newb_welcome_step_8_1	[Good ! Now you know our outpost a little better. But before facing the dangers on the mainland, you've got to become stronger and increase your knowledge.]
 
 }
 
-// HASH_VALUE A90763AA79708AFB
+// HASH_VALUE FFAE29E5BC1A0F61
 FYROS_NEWB_WELCOME_STEP_8_1_b ()
 {
 		fyros_newb_welcome_step_8_1_b	[If you want, I can give you a few tasks to do in different fields to help you progress. just tell me what you're interested in.]
 
 }
 
-// HASH_VALUE 3E8C44C870B8669C
+// HASH_VALUE A895119176EC01A0
 FYROS_NEWB_WELCOME_STEP_8_2 ()
 {
 		fyros_newb_welcome_step_8_2	[When you're ready, young $self$, I'll tell you how to join the Fyros capital on the mainland.]
@@ -30675,14 +30675,14 @@ FYROS_NEWB_WELCOME_STEP_8_3 ()
 
 }
 
-// HASH_VALUE C86B227CCA2607F4
+// HASH_VALUE 5C26B95D371C832B
 FYROS_NEWB_WELCOME_STEP_9_1 ()
 {
 		fyros_newb_welcome_step_9_1	[I can see you have progressed well. Congratulations, $self$ ! You are now tough enough to help our Fyros people rebuild our empire!]
 
 }
 
-// HASH_VALUE B6BD1D83194D42E9
+// HASH_VALUE F5FB3F745B6E188E
 FYROS_NEWB_WELCOME_STEP_9_1_b (place place_pyr)
 {
 		fyros_newb_welcome_step_9_1_b	[The time has come for you to tread the ground of $place_pyr$, the capital of the Fyros of the desert! But beware : once you leave here there is no way back. So think carefully before you take your decision.]
@@ -30696,7 +30696,7 @@ FYROS_NEWB_WELCOME_STEP_9_1_c ()
 
 }
 
-// HASH_VALUE F962BA7DD4072082
+// HASH_VALUE 813C552E10F68F37
 FYROS_NEWB_WELCOME_STEP_9_2 (bot kguide)
 {
 	(kguide.gender = female)
@@ -30734,7 +30734,7 @@ FYROS_NEWB_WELCOME_SYSTEM_MSG_3 ()
 
 }
 
-// HASH_VALUE DDE658E0E1269204
+// HASH_VALUE 50AADB34A203E952
 FYROS_NEWB_WELCOME_SYSTEM_MSG_END (place continent_fyros)
 {
 		fyros_newb_welcome_system_msg_end	[&AROUND&You have finished your training with success. Aventure awaits you in $continent_fyros.da$ $continent_fyros$ !]
@@ -32835,7 +32835,7 @@ INSTRUCTOR_MIS_01_END ()
 
 }
 
-// HASH_VALUE 9E4DEAD41C8DA34F
+// HASH_VALUE 8F580B6A8323D1AA
 INSTRUCTOR_MIS_01_STEP_1 (bot current, bot target)
 {
 		instructor_mis_01_step_1	[Now is a good time for you to start understanding more about your own people.  Vast knowledge has been passed down to us, the true Matis heirs, from our ancestors,  and we intend to use it to rebuild our noble Kingdom. With the right Masters, you too shall attain  this ancient knowledge. And soon, your destiny will begin to unfold.{break}\n
@@ -32846,7 +32846,7 @@ INSTRUCTOR_MIS_01_STEP_1 (bot current, bot target)
 
 }
 
-// HASH_VALUE 935A44312151DA79
+// HASH_VALUE 8271AAA9055C2765
 INSTRUCTOR_MIS_01_STEP_2 (bot target, race kitins)
 {
 		figh_master_mis_01_step_2	[Ah ! There you are at last. I was beginning to wonder if you'd already lost yourself... I wanted to see you to warn you against our greatest enemy, $kitins.da$ $kitins$. You must never think twice  if you come up against them: Strike first or flee as fast as you can.{break}\n
@@ -32859,7 +32859,7 @@ INSTRUCTOR_MIS_01_STEP_2 (bot target, race kitins)
 
 }
 
-// HASH_VALUE 72F215876CDFCD53
+// HASH_VALUE FA150991D106915F
 INSTRUCTOR_MIS_01_STEP_3 (bot target)
 {
 		magic_master_mis_01_step_3	[Welcome to our outpost, I'm so pleased to meet you ! These are such critical times.  The Great Matis people is gathering again and the Karavan has reappeared at last.  We are going to be able to teleport again. And our villages shall grow in strength rapidly.{break}\n
@@ -32872,7 +32872,7 @@ INSTRUCTOR_MIS_01_STEP_3 (bot target)
 
 }
 
-// HASH_VALUE B8D1C4824140D641
+// HASH_VALUE AA6835A03B06C558
 INSTRUCTOR_MIS_01_STEP_4 (bot current, bot target)
 {
 	(target.gender = male)
@@ -32894,7 +32894,7 @@ INSTRUCTOR_MIS_01_STEP_4 (bot current, bot target)
 
 }
 
-// HASH_VALUE ADD55A7C5D47B356
+// HASH_VALUE 3E758EB3F8B6443B
 INSTRUCTOR_MIS_01_STEP_5 (bot previous, bot kguide)
 {
 		merchant_weapons_mis_01_step_5	[So, $previous$ sent you, did he ? Well I have little time to spare, I have a business to run!  But now that you're here I guess I might as well tell you a thing or two about my "other side"  as he calls it. Convoys I mean. You know, a lot of people only see merchants as sales people.  But the truth is that most of us also spend a lot of time planning and organizing convoys.{break}\n
@@ -32911,7 +32911,7 @@ INSTRUCTOR_MIS_01_STEP_5 (bot previous, bot kguide)
 
 }
 
-// HASH_VALUE 45BD73ADC7C324F4
+// HASH_VALUE E6255A1C13384613
 INSTRUCTOR_MIS_01_STEP_6 (bot previous)
 {
 	(previous.gender = male)
@@ -32999,7 +32999,7 @@ INSTRUCTOR_MIS_03_END ()
 
 }
 
-// HASH_VALUE B7BF5E02760916A9
+// HASH_VALUE EAAC750516FE88B4
 INSTRUCTOR_MIS_03_STEP_1 (item rawmat)
 {
 		instructor_mis_03_step_1	[Now that you know how to extract resources from the ground, I need you to find $rawmat.ia$ $rawmat$.  This material is a bit rarer and can only be found around the south coast of our island so you should look around there.]
@@ -33091,7 +33091,7 @@ INSTRUCTOR_MIS_06_DESC (bot giver, creature_model target)
 
 }
 
-// HASH_VALUE 9CDF6725E1238FCF
+// HASH_VALUE A9F05F2272808768
 INSTRUCTOR_MIS_06_END (creature_model target)
 {
 		instructor_mis_06_end	[Good ! But remember that $target$ is an easy target, the next killings won't be so easy as you  will face tougher beasts.]
@@ -33130,7 +33130,7 @@ INSTRUCTOR_MIS_07_END (creature_model target)
 
 }
 
-// HASH_VALUE 5543742A4304E545
+// HASH_VALUE 76999BE93DD06DBF
 INSTRUCTOR_MIS_07_STEP_1 (creature_model target, race yubo)
 {
 		instructor_mis_07_step_1	[We need to get rid of a few predators. There are too many $target$ on our island, and they prey on the herbivores. I will be grateful if you can manage to kill one by yourself,  and you shall earn a good deal of experience. But beware, these beasts are more dangerous than $yubo$...]
@@ -33162,7 +33162,7 @@ INSTRUCTOR_MIS_08_END (player p)
 
 }
 
-// HASH_VALUE 927B54768759E13E
+// HASH_VALUE 1D117A9EE4510BA3
 INSTRUCTOR_MIS_08_STEP_1 (player p, creature_model kipee, race kitin)
 {
 		instructor_mis_08_step_1	[It looks that some $kipee$, of the $kitin$ family, have managed to locate us. It's crucial we take immediate action against them ! They are extremely dangerous killing machines that hunt homins to death. {break}\n
@@ -33204,7 +33204,7 @@ INSTRUCTOR_MIS_09_OBJ ()
 
 }
 
-// HASH_VALUE 5E090B3C842551B3
+// HASH_VALUE EF6D2CBF2F888766
 INSTRUCTOR_MIS_09_STEP_1 ()
 {
 		instructor_mis_09_step_1	[Bandits have been spotted nearby. We simply cannot allow them to feel at home on our land. They are without merci and usually travel in groups of three. I recommend that you team up with others before you take any action against them. Once you have managed to kill them, you should loot them for their equipment.{break}\n
@@ -33544,7 +33544,7 @@ ISE_MAGIC_SHOOT_AGAIN ()
 
 }
 
-// HASH_VALUE 11FB2FF3A6A581B4
+// HASH_VALUE 074908572ABE836D
 ITEM_CANT_BE_SOLD ( item item, int qty, int qual )
 {
 	(qty=1)
@@ -33597,7 +33597,7 @@ ITEM_NOT_AVAILABLE ()
 
 }
 
-// HASH_VALUE 187964C01F444DA9
+// HASH_VALUE ACB68C471297B58D
 ITEM_PUT_IN_RESELLER ( item item, int qty, int basePrice, int sellPrice )
 {
 	(qty=1)
@@ -33652,7 +33652,7 @@ ITEM_SOLDED_TO_NPC ( item item, int qty, int price )
 
 }
 
-// HASH_VALUE 088D361121CFF980
+// HASH_VALUE EE63F9841F7AFC50
 ITEM_SOLD_TO_MARKET (item item, int qty )
 {
 	(qty=1)
@@ -34164,7 +34164,7 @@ KE0904_ZORAI_INSTRUCTIONS_PHASE_1_P_END_HOW_CAN_HELP (bot camp_giver)
 
 }
 
-// HASH_VALUE 47D87A1DD198A8CA
+// HASH_VALUE F7BCD395737CDE22
 KE0904_ZORAI_INSTRUCTIONS_PHASE_1_P_END_WHAT_DOING (bot player)
 {
 	( self.gender = male )
@@ -34790,7 +34790,7 @@ MAGIC_END_SELFCAST_SUCCESS_SPECTATORS_CREATURE (creature c)
 
 }
 
-// HASH_VALUE 1CC46E019D482DFD
+// HASH_VALUE 3F20B9E086043401
 MAGIC_END_SELFCAST_SUCCESS_SPECTATORS_NPC (bot caster)
 {
 	(caster.gender = male)
@@ -34801,7 +34801,7 @@ MAGIC_END_SELFCAST_SUCCESS_SPECTATORS_NPC (bot caster)
 
 }
 
-// HASH_VALUE 5B811491A6F514B2
+// HASH_VALUE E8DEAAD9880BF088
 MAGIC_END_SELFCAST_SUCCESS_SPECTATORS_PLAYER (player caster)
 {
 	(caster.gender = male)
@@ -34990,7 +34990,7 @@ MAGIC_SELF_DAMAGE_HP_SPECTATORS_CREATURE (creature c, int n)
 
 }
 
-// HASH_VALUE 2F0FF543062EC547
+// HASH_VALUE 4DCFAF4FA9FDB1A6
 MAGIC_SELF_DAMAGE_HP_SPECTATORS_NPC (bot b, int n)
 {
 	(b.gender = male)
@@ -35001,7 +35001,7 @@ MAGIC_SELF_DAMAGE_HP_SPECTATORS_NPC (bot b, int n)
 
 }
 
-// HASH_VALUE 87169FF6B98059CE
+// HASH_VALUE B0FD3F3CB7E76DFA
 MAGIC_SELF_DAMAGE_HP_SPECTATORS_PLAYER (player p, int n)
 {
 	(p.gender = male)
@@ -35026,7 +35026,7 @@ MAGIC_SELF_DAMAGE_SAP_SPECTATORS_CREATURE (creature c, int n)
 
 }
 
-// HASH_VALUE D0ABEAFA8164BE53
+// HASH_VALUE EC401D2B5FEC0E4E
 MAGIC_SELF_DAMAGE_SAP_SPECTATORS_NPC (bot b, int n)
 {
 	(b.gender = male)
@@ -35037,7 +35037,7 @@ MAGIC_SELF_DAMAGE_SAP_SPECTATORS_NPC (bot b, int n)
 
 }
 
-// HASH_VALUE F15D42429DEA047F
+// HASH_VALUE 1C468B4C72B4C5AD
 MAGIC_SELF_DAMAGE_SAP_SPECTATORS_PLAYER (player p, int n)
 {
 	(p.gender = male)
@@ -35062,7 +35062,7 @@ MAGIC_SELF_DAMAGE_STA_SPECTATORS_CREATURE (creature c, int n)
 
 }
 
-// HASH_VALUE E323D58D2867E1A6
+// HASH_VALUE CA2D420478EB6743
 MAGIC_SELF_DAMAGE_STA_SPECTATORS_NPC (bot b, int n)
 {
 	(b.gender = male)
@@ -35073,7 +35073,7 @@ MAGIC_SELF_DAMAGE_STA_SPECTATORS_NPC (bot b, int n)
 
 }
 
-// HASH_VALUE 3752813B0BA1DFAE
+// HASH_VALUE 71CD965E120B144B
 MAGIC_SELF_DAMAGE_STA_SPECTATORS_PLAYER (player p, int n)
 {
 	(p.gender = male)
@@ -35609,14 +35609,14 @@ MATIS_NEWB_CRAFT_1_END_1 ()
 
 }
 
-// HASH_VALUE BFC948EA8252D0C3
+// HASH_VALUE 84110F70F2C5AD90
 MATIS_NEWB_CRAFT_1_END_2 ()
 {
 		matis_newb_craft_1_end_2	[...it's only by analysing mistakes made during tests that the quality crafter will develop his or her techniques.]
 
 }
 
-// HASH_VALUE D0E3148DF7B21FC4
+// HASH_VALUE 74CB992281286A6C
 MATIS_NEWB_CRAFT_1_PREREQ (sphrase matisarmor)
 {
 		matis_newb_craft_1_prereq	[To continue to progress, you need to learn a new technique of $matisarmor$. Go and get instruction from one of the trainers.]
@@ -35666,14 +35666,14 @@ MATIS_NEWB_CRAFT_2_DESC (bot giver)
 
 }
 
-// HASH_VALUE D30FA602715021F4
+// HASH_VALUE 4211D627DD04211C
 MATIS_NEWB_CRAFT_2_END ()
 {
 		matis_newb_craft_2_end	[Excellent, here's a little reward for your efforts. And if you're looking for more work, go and see an overseer, they've always got something going.]
 
 }
 
-// HASH_VALUE 5E49C332E84D1C5C
+// HASH_VALUE BAEC4230AB030267
 MATIS_NEWB_CRAFT_2_PREREQ (bot target, sbrick matisgloves)
 {
 	(target.gender = female)
@@ -35734,7 +35734,7 @@ MATIS_NEWB_FIGHT_1_DESC (bot giver)
 
 }
 
-// HASH_VALUE 024FE6C4B5C23AC5
+// HASH_VALUE 99A68BA09DA2E707
 MATIS_NEWB_FIGHT_1_END (creature_model yubo)
 {
 		matis_newb_fight_1_end	[Good ! But remember that $yubo$ is an easy prey, the next killings won't be so easy as you will be up against tougher beasts.]
@@ -35748,7 +35748,7 @@ MATIS_NEWB_FIGHT_1_STEP_1_1 ()
 
 }
 
-// HASH_VALUE 46518C773721EABB
+// HASH_VALUE C9D960BCACCD80DD
 MATIS_NEWB_FIGHT_1_STEP_1_2 (creature_model yubo)
 {
 		matis_newb_fight_1_step_1_2	[You must start your training by facing an easy opponent : find a small herbivore, $yubo.ia$ $yubo$, and kill it.]
@@ -35791,7 +35791,7 @@ MATIS_NEWB_FIGHT_2_END ()
 
 }
 
-// HASH_VALUE 6EC32CEDEC87D784
+// HASH_VALUE 9E7FFEBF6F6C3BF1
 MATIS_NEWB_FIGHT_2_PREREQ (bot target, sphrase increasedamage)
 {
 	(target.gender = female)
@@ -35801,14 +35801,14 @@ MATIS_NEWB_FIGHT_2_PREREQ (bot target, sphrase increasedamage)
 
 }
 
-// HASH_VALUE 9803320CF76183E3
+// HASH_VALUE 70B08FE281AB679B
 MATIS_NEWB_FIGHT_2_STEP_1_1 (creature_model ragus)
 {
 		matis_newb_fight_2_step_1_1	[Now we need to get rid of a few predators. There are too many $ragus$ on our island, and they prey on the herbivores.]
 
 }
 
-// HASH_VALUE 80883A5EF21C7A43
+// HASH_VALUE 869D2A18E1C41054
 MATIS_NEWB_FIGHT_2_STEP_1_2 ()
 {
 		matis_newb_fight_2_step_1_2	[I would be grateful if you managed to kill one by yourself, you shall earn a good deal of experience if you do. But be really careful...]
@@ -35859,7 +35859,7 @@ MATIS_NEWB_HARVEST_1_END ()
 
 }
 
-// HASH_VALUE 5FC82CABB3875DCC
+// HASH_VALUE E93E7753576FE261
 MATIS_NEWB_HARVEST_1_PREREQ (sphrase basicextraction)
 {
 		matis_newb_harvest_1_prereq	[To continue to progress, you need to learn a new technique of $basicextraction$. Go and get instruction from one of the trainers.]
@@ -35873,7 +35873,7 @@ MATIS_NEWB_HARVEST_1_STEP_1_1 ()
 
 }
 
-// HASH_VALUE 710256F238178B36
+// HASH_VALUE 0D5687A0CBD5B27C
 MATIS_NEWB_HARVEST_1_STEP_1_2 (item rm1, item rm2)
 {
 		matis_newb_harvest_1_step_1_2	[Let's start with something easy, bring me back $rm1.ia$ $rm1$ and $rm2.ia$ $rm2$ which you'll find in the ground in the outpost.]
@@ -35909,14 +35909,14 @@ MATIS_NEWB_HARVEST_2_DESC (bot giver)
 
 }
 
-// HASH_VALUE 779744375F770392
+// HASH_VALUE 56A19798E579D9A1
 MATIS_NEWB_HARVEST_2_END ()
 {
 		matis_newb_harvest_2_end	[Good, here's a little money for you. And if you're after more work, go and see a corporal, they've always something going.]
 
 }
 
-// HASH_VALUE 94B9BC5F3CBF2E9D
+// HASH_VALUE E64EC02E6CD58A73
 MATIS_NEWB_HARVEST_2_PREREQ (sphrase basicprospection, bot target)
 {
 	(target.gender = female)
@@ -35940,7 +35940,7 @@ MATIS_NEWB_HARVEST_2_STEP_1_2 ()
 
 }
 
-// HASH_VALUE B722DD13DCDD7468
+// HASH_VALUE F2C2C8C82C6AAB30
 MATIS_NEWB_HARVEST_2_STEP_1_3 (item rm3, int ql)
 {
 		matis_newb_harvest_2_step_1_3	[Remember to think about it when you go and fetch me $rm3.ia$ $rm3$ of quality $ql$. These will only be found along the cliffs to the south of this region.]
@@ -36005,7 +36005,7 @@ MATIS_NEWB_MAGIC_1_END_2 ()
 
 }
 
-// HASH_VALUE 069BC5BD31EC7C7D
+// HASH_VALUE E8C9644BCDFDD2A8
 MATIS_NEWB_MAGIC_1_PREREQ (sphrase selfheal)
 {
 		matis_newb_magic_1_prereq	[To continue to progress you need to learn a new spell of $selfheal$. Go and get instruction from one of the trainers.]
@@ -36076,7 +36076,7 @@ MATIS_NEWB_MAGIC_2_OBJ_2_1 (creature_model yubo, int qt)
 
 }
 
-// HASH_VALUE 10525930EC9D1E75
+// HASH_VALUE A8F32C54AD43FC7B
 MATIS_NEWB_MAGIC_2_PREREQ (bot target, sphrase aciddamage)
 {
 	(target.gender = female)
@@ -36135,7 +36135,7 @@ MATIS_NEWB_MAGIC_ANSWER ()
 
 }
 
-// HASH_VALUE E82E2FF3FC64E56D
+// HASH_VALUE 121DB46077BD2704
 MATIS_NEWB_TP_KARAVAN_TEMP_1 ()
 {
 		matis_newb_tp_karavan_temp_1	[You want to join the Matis city? I can send you there but there is no return, and the Matisian Forest can be dangerous. Are you sure?]
@@ -36249,14 +36249,14 @@ MATIS_NEWB_WELCOME_END_2 (bot barman, place place_yrkanis)
 
 }
 
-// HASH_VALUE C800202029ED6487
+// HASH_VALUE F0F04AA4D1B81065
 MATIS_NEWB_WELCOME_STEP_10_1 (bot previous)
 {
 		matis_newb_welcome_step_10_1	[Greetings, young Matis. $previous$ is a good homin. And we are proud to count him among the Children of Jena. We are always glad to help him in return for his support.]
 
 }
 
-// HASH_VALUE 0FDA225442FEFBCB
+// HASH_VALUE 08EC5DF46DB88165
 MATIS_NEWB_WELCOME_STEP_10_1_b ()
 {
 		matis_newb_welcome_step_10_1_b	[Teleportation is among Jena's many talents invested in us which you shall discover in due course.\n
@@ -36264,7 +36264,7 @@ MATIS_NEWB_WELCOME_STEP_10_1_b ()
 
 }
 
-// HASH_VALUE C83971199AFF3B04
+// HASH_VALUE F1F480AD1E26B0CF
 MATIS_NEWB_WELCOME_STEP_10_2 (bot target)
 {
 	(target.gender = female)
@@ -36274,7 +36274,7 @@ MATIS_NEWB_WELCOME_STEP_10_2 (bot target)
 
 }
 
-// HASH_VALUE 64D6C09168850327
+// HASH_VALUE 49CCD246AC0D281C
 MATIS_NEWB_WELCOME_STEP_11 ()
 {
 		matis_newb_welcome_step_11	[If you want to join the Matis city, you must make an offering. In exchange, we will give you the means of traveling thanks to the might of Jena.]
@@ -36302,21 +36302,21 @@ MATIS_NEWB_WELCOME_STEP_1_1 ()
 
 }
 
-// HASH_VALUE 8FE500564EAECC0C
+// HASH_VALUE C365F49D071E9EA4
 MATIS_NEWB_WELCOME_STEP_1_1b ()
 {
 		matis_newb_welcome_step_1_1b	[Vast knowledge has been passed down to us from our ancestors, and we intend to use it to rebuild our noble Kingdom.]
 
 }
 
-// HASH_VALUE D0C8D8BEBBC9E94C
+// HASH_VALUE E661F7A4E3E5B4A3
 MATIS_NEWB_WELCOME_STEP_1_1c ()
 {
 		matis_newb_welcome_step_1_1c	[You are on a small island, not far from the Matis mainland. We have five small outposts on this island, and this is one of them.]
 
 }
 
-// HASH_VALUE 2D7DDC03C10D4B2B
+// HASH_VALUE 5F3205E8EE008913
 MATIS_NEWB_WELCOME_STEP_1_2 (bot target, place capital)
 {
 	(target.gender = female)
@@ -36338,28 +36338,28 @@ MATIS_NEWB_WELCOME_STEP_1_2b (bot target)
 
 }
 
-// HASH_VALUE A85596EB24774AB3
+// HASH_VALUE A9479D387151C80C
 MATIS_NEWB_WELCOME_STEP_2_1 (race kitins)
 {
 		matis_newb_welcome_step_2_1	[Ah ! I was beginning to think you'd already got yourself lost. Now, I must warn you against our greatest enemy, $kitins.da$ $kitins$.]
 
 }
 
-// HASH_VALUE 338CF898F51F83F4
+// HASH_VALUE 7C6A2D8767951204
 MATIS_NEWB_WELCOME_STEP_2_1_b ()
 {
 		matis_newb_welcome_step_2_1_b	[Never think twice if you come up against one: Strike first or flee as fast as you can.]
 
 }
 
-// HASH_VALUE 68285717F05BCD0A
+// HASH_VALUE B9FDF2A83D9BC3B0
 MATIS_NEWB_WELCOME_STEP_2_1_c ()
 {
 		matis_newb_welcome_step_2_1_c	[It is they who wiped out our entire Kingdom in the lands of old. And never forget this, it was the Fyros who first provoked their wrath and stirred them from their underground nests!]
 
 }
 
-// HASH_VALUE C0713DBD5243F1A6
+// HASH_VALUE 0892F76C8124FA7D
 MATIS_NEWB_WELCOME_STEP_2_2 ()
 {
 		matis_newb_welcome_step_2_2	[But before you find out more about our past on the mainland, you must first develop your skills and equipment to be able to survive.]
@@ -36373,7 +36373,7 @@ MATIS_NEWB_WELCOME_STEP_2_2_b ()
 
 }
 
-// HASH_VALUE 46C664E34AF614FD
+// HASH_VALUE 5E7CA8299311C090
 MATIS_NEWB_WELCOME_STEP_2_2_c (bot target)
 {
 	(target.gender = female)
@@ -36390,35 +36390,35 @@ MATIS_NEWB_WELCOME_STEP_3_1 ()
 
 }
 
-// HASH_VALUE A49BF12A7EDA56D0
+// HASH_VALUE BFC3E5E08FBD33D0
 MATIS_NEWB_WELCOME_STEP_3_1_b ()
 {
 		matis_newb_welcome_step_3_1_b	[The Great Matis people is gathering evermore, and the presence of the Karavan bolsters our courage, for we are able to teleport again. Our villages shall grow in strength rapidly.]
 
 }
 
-// HASH_VALUE 5868D82F8A205F84
+// HASH_VALUE B73A5FDBBBA38445
 MATIS_NEWB_WELCOME_STEP_3_2 ()
 {
 		matis_newb_welcome_step_3_2	[When you feel ready to leave this outpost, the Karavan will guide you. They are the venerated disciples of Jena. They are strange individuals and indeed, no homin has yet seen their true face. But they are good to us and are not to be feared.]
 
 }
 
-// HASH_VALUE DA227C46F36DD86B
+// HASH_VALUE 5D0361D22174738A
 MATIS_NEWB_WELCOME_STEP_3_2_b ()
 {
 		matis_newb_welcome_step_3_2_b	[As a magician I must warn you that the paths of the Karavan are mysterious and obscure. But there is another way that you will discover soon.]
 
 }
 
-// HASH_VALUE 9613DEEF06C28547
+// HASH_VALUE 32BD6DDB6CB46C04
 MATIS_NEWB_WELCOME_STEP_3_3 ()
 {
 		matis_newb_welcome_step_3_3	[Indeed, Atys has many faces both good and bad... If you develop your magic skills, you may come upon the Kamis, but do not be taken in by their promises of magic, for they are evil sprites who would gladly bind all creatures on Atys to slavery!]
 
 }
 
-// HASH_VALUE 62CA097B7929B643
+// HASH_VALUE 76C253FA46B5B96E
 MATIS_NEWB_WELCOME_STEP_3_3_b (bot target)
 {
 	(target.gender = female)
@@ -36428,14 +36428,14 @@ MATIS_NEWB_WELCOME_STEP_3_3_b (bot target)
 
 }
 
-// HASH_VALUE 17B0D6DF5844B626
+// HASH_VALUE 9784B9EA9B10B729
 MATIS_NEWB_WELCOME_STEP_4_1 (bot current)
 {
 		matis_newb_welcome_step_4_1	[I am $current$. My father was a great Harvester himself, and I hold all his secrets and many more...]
 
 }
 
-// HASH_VALUE DE37885597A40773
+// HASH_VALUE E42B14592D13C245
 MATIS_NEWB_WELCOME_STEP_4_1_b ()
 {
 		matis_newb_welcome_step_4_1_b	[For unlike him I have traveled all over the world. I have met the proud Fyros, and the mysterious Zoraïs.]
@@ -36449,7 +36449,7 @@ MATIS_NEWB_WELCOME_STEP_4_1_c ()
 
 }
 
-// HASH_VALUE 12901F7831C14C9D
+// HASH_VALUE 99FA2394B76333DD
 MATIS_NEWB_WELCOME_STEP_4_2 ()
 {
 		matis_newb_welcome_step_4_2	[You too may experience the same freedom if that be your choice.\n
@@ -36474,14 +36474,14 @@ MATIS_NEWB_WELCOME_STEP_4_2_c (bot target)
 
 }
 
-// HASH_VALUE FEA352243FB06871
+// HASH_VALUE 5DF69AD32E65DDD6
 MATIS_NEWB_WELCOME_STEP_5_1 ()
 {
 		matis_newb_welcome_step_5_1	[Greetings to you, young $self$. Do you know what makes the glory of Matis crafters ? It's their ability to craft living matter to their own ends.]
 
 }
 
-// HASH_VALUE 0041EA5D55BDED04
+// HASH_VALUE E5A0B3FFB65EB007
 MATIS_NEWB_WELCOME_STEP_5_1_b ()
 {
 		matis_newb_welcome_step_5_1_b	[We know the secrets of plants, and we use them to create living objects of unparalleled beauty.]
@@ -36495,7 +36495,7 @@ MATIS_NEWB_WELCOME_STEP_5_1_c ()
 
 }
 
-// HASH_VALUE 17B5AF7B8560EA04
+// HASH_VALUE 1026BDFF2766A515
 MATIS_NEWB_WELCOME_STEP_5_1_d ()
 {
 		matis_newb_welcome_step_5_1_d	[They sculpt nature into various forms so making it useful in the everyday chores of hominkind.]
@@ -36512,7 +36512,7 @@ MATIS_NEWB_WELCOME_STEP_5_2 (bot target)
 
 }
 
-// HASH_VALUE 920BB67C632169BA
+// HASH_VALUE 8834DA4B0E15665F
 MATIS_NEWB_WELCOME_STEP_5_2_b (bot target)
 {
 	(target.gender = female)
@@ -36536,14 +36536,14 @@ MATIS_NEWB_WELCOME_STEP_6_1 (bot previous)
 
 }
 
-// HASH_VALUE 9F8725F08BF1AD67
+// HASH_VALUE 8AFD503F4431CFC6
 MATIS_NEWB_WELCOME_STEP_6_1_b ()
 {
 		matis_newb_welcome_step_6_1_b	[You will need to replace or upgrade your weaponry and equipment as you make progress. The merchants will sell you what you need at a reasonable price.]
 
 }
 
-// HASH_VALUE DAD495CA228DB66E
+// HASH_VALUE A5073BA5245B80EA
 MATIS_NEWB_WELCOME_STEP_6_2 (bot target)
 {
 	(target.gender = female)
@@ -36553,14 +36553,14 @@ MATIS_NEWB_WELCOME_STEP_6_2 (bot target)
 
 }
 
-// HASH_VALUE C6A73C3FAC25D717
+// HASH_VALUE DEF4FCB4F43DF711
 MATIS_NEWB_WELCOME_STEP_7_1 ()
 {
 		matis_newb_welcome_step_7_1	[Look's like you're new round here. Well, welcome! When you start looking for work to earn yourself a few dappers, come and see me ! I've always a task or two to propose.]
 
 }
 
-// HASH_VALUE 73D86F4853BDA595
+// HASH_VALUE 8AE209C02F75BB3D
 MATIS_NEWB_WELCOME_STEP_7_1_b ()
 {
 		matis_newb_welcome_step_7_1_b	[I mostly deal in trade and escorting goods. If you prefer fighting or foraging, the corporal will give you a mission or two.]
@@ -36584,21 +36584,21 @@ MATIS_NEWB_WELCOME_STEP_7_2_b (bot giver)
 
 }
 
-// HASH_VALUE 36D1CD5790806684
+// HASH_VALUE 456124C144504394
 MATIS_NEWB_WELCOME_STEP_8_1 ()
 {
 		matis_newb_welcome_step_8_1	[Good ! Now you know our outpost a little better. But before facing the dangers on the mainland, you've got to become stronger and increase your knowledge.]
 
 }
 
-// HASH_VALUE 282703B179708AFB
+// HASH_VALUE 7ECEC9ECBC1A0F61
 MATIS_NEWB_WELCOME_STEP_8_1_b ()
 {
 		matis_newb_welcome_step_8_1_b	[If you want, I can give you a few tasks to do in different fields to help you progress. Just tell me what you're interested in.]
 
 }
 
-// HASH_VALUE 7FACE4CF70586E84
+// HASH_VALUE A834CD9876EC019A
 MATIS_NEWB_WELCOME_STEP_8_2 ()
 {
 		matis_newb_welcome_step_8_2	[When you're ready, young $self$,  I'll tell you how to join the Matis capital on the mainland.]
@@ -36612,28 +36612,28 @@ MATIS_NEWB_WELCOME_STEP_8_3 ()
 
 }
 
-// HASH_VALUE C46BA28145A838FE
+// HASH_VALUE 1880C56C4ADCE799
 MATIS_NEWB_WELCOME_STEP_9_1 ()
 {
 		matis_newb_welcome_step_9_1	[I can see you have progressed well. Congratulations, $self$ ! You are now tough enough to help our Matis people rebuild our Kingdom!]
 
 }
 
-// HASH_VALUE 618BC0CBBDC12A98
+// HASH_VALUE 959A13DD190C2E7C
 MATIS_NEWB_WELCOME_STEP_9_1_b (place place_yrkanis)
 {
 		matis_newb_welcome_step_9_1_b	[The time has come for you to walk the ground of $place_yrkanis$, the Matis capital ! But caution : you won't be able to come back. So be careful when you make your choice.]
 
 }
 
-// HASH_VALUE 843CDA79E6561AF8
+// HASH_VALUE CC409C5A5B56F287
 MATIS_NEWB_WELCOME_STEP_9_1_c ()
 {
 		matis_newb_welcome_step_9_1_c	[In the village you will find a guide who can lead you to the Karavan who has the power to teleport you to the mainland. When you reach the capital, you should talk to the city welcomer.]
 
 }
 
-// HASH_VALUE 8EFBF5E560C6584B
+// HASH_VALUE 3060793C2AD9FB44
 MATIS_NEWB_WELCOME_STEP_9_2 (bot kguide)
 {
 	(kguide.gender = female)
@@ -36671,7 +36671,7 @@ MATIS_NEWB_WELCOME_SYSTEM_MSG_3 ()
 
 }
 
-// HASH_VALUE 1E06E0E35CB5B6EC
+// HASH_VALUE 7C408B232027DDE8
 MATIS_NEWB_WELCOME_SYSTEM_MSG_END (place continent_matis)
 {
 		matis_newb_welcome_system_msg_end	[&AROUND&You have finished your training with success. Aventure awaits you in $continent_matis.da$ $continent_matis$ !]
@@ -41297,21 +41297,21 @@ MISSION_TRYKER_EMERGENCY_TP_ANSWER_TP_OK ()
 
 }
 
-// HASH_VALUE 95ED00F971825FE1
+// HASH_VALUE 565EC0E888D838D0
 MISSION_TRYKER_EMERGENCY_TP_MISSION_TRYKER_EMERGENCY_TP_DESC (bot giver, bot givervar)
 {
 		mission_tryker_emergency_tp_mission_tryker_emergency_tp_desc	[Talk with $givervar$ to finde a way back to Tryker]
 
 }
 
-// HASH_VALUE CA1C40F1DEEC1307
+// HASH_VALUE 8B8D00E0F542ECF6
 MISSION_TRYKER_EMERGENCY_TP_MISSION_TRYKER_EMERGENCY_TP_TITLE (bot giver)
 {
 		mission_tryker_emergency_tp_mission_tryker_emergency_tp_title	[Bring me back to Tryker]
 
 }
 
-// HASH_VALUE 1EEFB88619BA4A5C
+// HASH_VALUE 9FE60F23A346EBC0
 MISSION_TRYKER_EMERGENCY_TP_TP_FOR_DAPPER_TO_TRYKER ()
 {
 		mission_tryker_emergency_tp_tp_for_dapper_to_tryker	[If you want i will Teleport you to Tryker, this will cost you 1000 Dapper , ok?]
@@ -46165,7 +46165,7 @@ NEWBIE_SAY_SHOULDGO (race racetxt)
 
 }
 
-// HASH_VALUE A3C74AD1A86BF450
+// HASH_VALUE 3498135F1CDDEFCB
 NEWB_KAMI_ADEPT_1 (place capitale, bot target)
 {
 		newb_kami_adept_1	[You wish to join $capitale$, the capital of your people? The powerful magic of the Kamis can take you there by teleportation. For this, you must find $target$ who isn't far from here. Use your compass to guide you.]
@@ -46201,7 +46201,7 @@ NEWB_KAMI_ADEPT_TITLE ()
 
 }
 
-// HASH_VALUE 504F9A409F9BD8C0
+// HASH_VALUE 8E5160F0FCEEF21E
 NEWB_KARAVAN_GUIDE_1 (place capitale, bot target)
 {
 		newb_karavan_guide_1	[So, homin, you want to join $capitale$, the capital of your people? Thanks to the almighty power of Jena, the Karavan can take you there by teleportation. But first you must find $target$, who isn't far from here. Use your compass to guide you.]
@@ -47028,7 +47028,7 @@ ONLY_ONE_ROOT_FABER ()
 
 }
 
-// HASH_VALUE 106776B260515361
+// HASH_VALUE D4B16BBA994366B1
 OPEN_SILAN_ANNOUNCE_TEXT ()
 {
 			[Did you know we can reach Silan ove the bark ? It seems that Rangers are maintaining a path whose entrance is at grove of confusion's very end.]
@@ -51823,7 +51823,7 @@ RRP_GENERATE_LACK_POINTS (int sessionType,int ptsRequired,int ptsHeld)
 
 }
 
-// HASH_VALUE 14F0D97B4AFAB7A6
+// HASH_VALUE 32E0B28AED1BDCA7
 RRP_GENERATE_REWARD (int nb, item i, int level)
 {
 	(nb > 1)
@@ -54685,7 +54685,7 @@ R_06_08_ASK_REPORT ()
 
 }
 
-// HASH_VALUE A4DB29ABEEB66C55
+// HASH_VALUE AA6028FB796940F9
 R_06_08_DONT_LIE ()
 {
 	( self.gender = male )
@@ -56542,7 +56542,7 @@ R_13_00_FINISH_RITE_R_13_00_FINISH_RITE_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 77B8D94119EC090C
+// HASH_VALUE 77B8D94119C9090C
 R_13_00_HARVESTER_A_ASK_FOR_MATS ()
 {
 		r_13_00_harvester_a_ask_for_mats	[Oh, it's you again. Did you get the stuff I asked for?]
@@ -56556,7 +56556,7 @@ R_13_00_HARVESTER_A_BRING_MATERIALS_TO (bot givervar)
 
 }
 
-// HASH_VALUE F49EDC7C36BF671B
+// HASH_VALUE F49EDC7CA9BF671B
 R_13_00_HARVESTER_A_DIALOG_2 ()
 {
 		r_13_00_harvester_a_dialog_2	[Two weeks ago a bunch of homins came through and beat us all up and stole half our food.  I've been trying to find food and supplies in this area, but it seems to be barren.]
@@ -56593,35 +56593,35 @@ R_13_00_HARVESTER_A_DIALOG_3_ANSWER_A ()
 
 }
 
-// HASH_VALUE 9868AD57F3E11C68
+// HASH_VALUE 0B68AD57F3E11C68
 R_13_00_HARVESTER_A_DIALOG_3_ANSWER_B ()
 {
 		r_13_00_harvester_a_dialog_3_answer_b	[If you're going to be that way, good bye.]
 
 }
 
-// HASH_VALUE 126E38E1DE22CB29
+// HASH_VALUE 856E38E1512239C5
 R_13_00_HARVESTER_A_DIALOG_4 ()
 {
 		r_13_00_harvester_a_dialog_4	[We were told the Road was clear, but it's been nothing but kitins and beasts, and nothing much for the meks to eat, and not much in the way of direction signs.  We pushed through the brush to get here because of the kitins, and then those bandits came and beat us up.  <continue>  Are you sure you're Rangers?   We haven't seen any of those since the Old Lands. If you really want to help, you can find us supplies we need before we can continue on.<continue>   We're hungry and our boots and clothes are all worn out.  I've been looking all over in this refuge and I can't find anything.]
 
 }
 
-// HASH_VALUE 6588BCA500206ABE
+// HASH_VALUE 6565BCA573206ABE
 R_13_00_HARVESTER_A_DIALOG_4_ANSWER_A ()
 {
 		r_13_00_harvester_a_dialog_4_answer_a	[Well, we aren't really Rangers yet, but we're training.  What do you need?]
 
 }
 
-// HASH_VALUE E7CDEC32E2C6EC58
+// HASH_VALUE E7CDEC32E2C6EC26
 R_13_00_HARVESTER_A_DIALOG_4_ANSWER_B ()
 {
 		r_13_00_harvester_a_dialog_4_answer_b	[Yes. We're here to help you. What do you need?]
 
 }
 
-// HASH_VALUE B7B16426E852CDA8
+// HASH_VALUE B7B19B26E852CDA8
 R_13_00_HARVESTER_A_DIALOG_5 ()
 {
 		r_13_00_harvester_a_dialog_5	[Well, we need food and we need some skin and shell for clothes and boots.  Here,   let me write down a list of what we need.  If you get this, then I'm sure that I could make <name of Leader> calm down and talk to you.  Will you do this for me?]
@@ -56642,7 +56642,7 @@ R_13_00_HARVESTER_A_DIALOG_5_ANSWER_B ()
 
 }
 
-// HASH_VALUE 820C15E4CEC64F14
+// HASH_VALUE 820C4CE4CEC64FE2
 R_13_00_HARVESTER_A_DIALOG_6 ()
 {
 		r_13_00_harvester_a_dialog_6	[Harvester:  Fantastic, just take these and go talk to <name of group leader>.  I'll keep on looking for materials near here.  Maybe I'll get lucky]
@@ -56656,7 +56656,7 @@ R_13_00_HARVESTER_A_DIALOG_6_ANSWER_A ()
 
 }
 
-// HASH_VALUE 54056E30C62B2BFC
+// HASH_VALUE 54E2A530392B2BCA
 R_13_00_HARVESTER_A_INTRO_1 ()
 {
 		r_13_00_harvester_a_intro_1	[What do you want?  You can see I haven't got anything.  I've found nothing I can harvest here and this pick is halfway worn through.  If you're going to beat me up like the last ones, go ahead, I can't stop you.]
@@ -56684,7 +56684,7 @@ R_13_00_HARVESTER_A_INTRO_1_ANSWER_C ()
 
 }
 
-// HASH_VALUE 42FADE82B94D6971
+// HASH_VALUE 42FADE822C4D6971
 R_13_00_HARVESTER_A_INTRO_1_ANSWER_D ()
 {
 		r_13_00_harvester_a_intro_1_answer_d	[We mean you no harm. We won't bother you. Have a nice day.]
@@ -56705,14 +56705,14 @@ R_13_00_HARVESTER_A_R_13_00_HARVESTER_A_DESC (bot giver, bot givervar)
 
 }
 
-// HASH_VALUE 5D0B04EC13257F9F
+// HASH_VALUE DE36F6E4D71176D1
 R_13_00_HARVESTER_A_R_13_00_HARVESTER_A_TITLE (bot giver)
 {
 		r_13_00_harvester_a_r_13_00_harvester_a_title	[Supplies for the Refugees.]
 
 }
 
-// HASH_VALUE 77C8D94119EC090C
+// HASH_VALUE 77C8D94119C9090C
 R_13_00_HARVESTER_B_ASK_FOR_MATS ()
 {
 		r_13_00_harvester_b_ask_for_mats	[Oh, it's you again. Did you get the stuff I asked for?]
@@ -56726,7 +56726,7 @@ R_13_00_HARVESTER_B_BRING_MATERIALS_TO (bot givervar)
 
 }
 
-// HASH_VALUE F4AEDC7C36BF671B
+// HASH_VALUE F4AEDC7CA9BF671B
 R_13_00_HARVESTER_B_DIALOG_2 ()
 {
 		r_13_00_harvester_b_dialog_2	[Two weeks ago a bunch of homins came through and beat us all up and stole half our food.  I've been trying to find food and supplies in this area, but it seems to be barren.]
@@ -56763,35 +56763,35 @@ R_13_00_HARVESTER_B_DIALOG_3_ANSWER_A ()
 
 }
 
-// HASH_VALUE 9878AD57F3E11C68
+// HASH_VALUE 0B78AD57F3E11C68
 R_13_00_HARVESTER_B_DIALOG_3_ANSWER_B ()
 {
 		r_13_00_harvester_b_dialog_3_answer_b	[If you're going to be that way, good bye.]
 
 }
 
-// HASH_VALUE 127E38E1DE22CB29
+// HASH_VALUE 857E38E1512239C5
 R_13_00_HARVESTER_B_DIALOG_4 ()
 {
 		r_13_00_harvester_b_dialog_4	[We were told the Road was clear, but it's been nothing but kitins and beasts, and nothing much for the meks to eat, and not much in the way of direction signs.  We pushed through the brush to get here because of the kitins, and then those bandits came and beat us up.  <continue>  Are you sure you're Rangers?   We haven't seen any of those since the Old Lands. If you really want to help, you can find us supplies we need before we can continue on.<continue>   We're hungry and our boots and clothes are all worn out.  I've been looking all over in this refuge and I can't find anything.]
 
 }
 
-// HASH_VALUE 6598BCA500206ABE
+// HASH_VALUE 6575BCA573206ABE
 R_13_00_HARVESTER_B_DIALOG_4_ANSWER_A ()
 {
 		r_13_00_harvester_b_dialog_4_answer_a	[Well, we aren't really Rangers yet, but we're training.  What do you need?]
 
 }
 
-// HASH_VALUE E7DDEC32E2C6EC58
+// HASH_VALUE E7DDEC32E2C6EC26
 R_13_00_HARVESTER_B_DIALOG_4_ANSWER_B ()
 {
 		r_13_00_harvester_b_dialog_4_answer_b	[Yes. We're here to help you. What do you need?]
 
 }
 
-// HASH_VALUE B7C16426E852CDA8
+// HASH_VALUE B7C19B26E852CDA8
 R_13_00_HARVESTER_B_DIALOG_5 ()
 {
 		r_13_00_harvester_b_dialog_5	[Well, we need food and we need some skin and shell for clothes and boots.  Here,   let me write down a list of what we need.  If you get this, then I'm sure that I could make <name of Leader> calm down and talk to you.  Will you do this for me?]
@@ -56812,7 +56812,7 @@ R_13_00_HARVESTER_B_DIALOG_5_ANSWER_B ()
 
 }
 
-// HASH_VALUE 821C15E4CEC64F14
+// HASH_VALUE 821C4CE4CEC64FE2
 R_13_00_HARVESTER_B_DIALOG_6 ()
 {
 		r_13_00_harvester_b_dialog_6	[Harvester:  Fantastic, just take these and go talk to <name of group leader>.  I'll keep on looking for materials near here.  Maybe I'll get lucky]
@@ -56826,7 +56826,7 @@ R_13_00_HARVESTER_B_DIALOG_6_ANSWER_A ()
 
 }
 
-// HASH_VALUE 54156E30C62B2BFC
+// HASH_VALUE 54F2A530392B2BCA
 R_13_00_HARVESTER_B_INTRO_1 ()
 {
 		r_13_00_harvester_b_intro_1	[What do you want?  You can see I haven't got anything.  I've found nothing I can harvest here and this pick is halfway worn through.  If you're going to beat me up like the last ones, go ahead, I can't stop you.]
@@ -56854,7 +56854,7 @@ R_13_00_HARVESTER_B_INTRO_1_ANSWER_C ()
 
 }
 
-// HASH_VALUE 420ADE82B94D6971
+// HASH_VALUE 420ADE822C4D6971
 R_13_00_HARVESTER_B_INTRO_1_ANSWER_D ()
 {
 		r_13_00_harvester_b_intro_1_answer_d	[We mean you no harm. We won't bother you. Have a nice day.]
@@ -56882,7 +56882,7 @@ R_13_00_HARVESTER_B_R_13_00_HARVESTER_B_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 77D8D94119EC090C
+// HASH_VALUE 77D8D94119C9090C
 R_13_00_HARVESTER_C_ASK_FOR_MATS ()
 {
 		r_13_00_harvester_c_ask_for_mats	[Oh, it's you again. Did you get the stuff I asked for?]
@@ -56896,7 +56896,7 @@ R_13_00_HARVESTER_C_BRING_MATERIALS_TO (bot givervar)
 
 }
 
-// HASH_VALUE F4BEDC7C36BF671B
+// HASH_VALUE F4BEDC7CA9BF671B
 R_13_00_HARVESTER_C_DIALOG_2 ()
 {
 		r_13_00_harvester_c_dialog_2	[Two weeks ago a bunch of homins came through and beat us all up and stole half our food.  I've been trying to find food and supplies in this area, but it seems to be barren.]
@@ -56933,35 +56933,35 @@ R_13_00_HARVESTER_C_DIALOG_3_ANSWER_A ()
 
 }
 
-// HASH_VALUE 9888AD57F3E11C68
+// HASH_VALUE 0B88AD57F3E11C68
 R_13_00_HARVESTER_C_DIALOG_3_ANSWER_B ()
 {
 		r_13_00_harvester_c_dialog_3_answer_b	[If you're going to be that way, good bye.]
 
 }
 
-// HASH_VALUE 128E38E1DE22CB29
+// HASH_VALUE 858E38E1512239C5
 R_13_00_HARVESTER_C_DIALOG_4 ()
 {
 		r_13_00_harvester_c_dialog_4	[We were told the Road was clear, but it's been nothing but kitins and beasts, and nothing much for the meks to eat, and not much in the way of direction signs.  We pushed through the brush to get here because of the kitins, and then those bandits came and beat us up.  <continue>  Are you sure you're Rangers?   We haven't seen any of those since the Old Lands. If you really want to help, you can find us supplies we need before we can continue on.<continue>   We're hungry and our boots and clothes are all worn out.  I've been looking all over in this refuge and I can't find anything.]
 
 }
 
-// HASH_VALUE 65A8BCA500206ABE
+// HASH_VALUE 6585BCA573206ABE
 R_13_00_HARVESTER_C_DIALOG_4_ANSWER_A ()
 {
 		r_13_00_harvester_c_dialog_4_answer_a	[Well, we aren't really Rangers yet, but we're training.  What do you need?]
 
 }
 
-// HASH_VALUE E7EDEC32E2C6EC58
+// HASH_VALUE E7EDEC32E2C6EC26
 R_13_00_HARVESTER_C_DIALOG_4_ANSWER_B ()
 {
 		r_13_00_harvester_c_dialog_4_answer_b	[Yes. We're here to help you. What do you need?]
 
 }
 
-// HASH_VALUE B7D16426E852CDA8
+// HASH_VALUE B7D19B26E852CDA8
 R_13_00_HARVESTER_C_DIALOG_5 ()
 {
 		r_13_00_harvester_c_dialog_5	[Well, we need food and we need some skin and shell for clothes and boots.  Here,   let me write down a list of what we need.  If you get this, then I'm sure that I could make <name of Leader> calm down and talk to you.  Will you do this for me?]
@@ -56982,7 +56982,7 @@ R_13_00_HARVESTER_C_DIALOG_5_ANSWER_B ()
 
 }
 
-// HASH_VALUE 822C15E4CEC64F14
+// HASH_VALUE 822C4CE4CEC64FE2
 R_13_00_HARVESTER_C_DIALOG_6 ()
 {
 		r_13_00_harvester_c_dialog_6	[Harvester:  Fantastic, just take these and go talk to <name of group leader>.  I'll keep on looking for materials near here.  Maybe I'll get lucky]
@@ -56996,7 +56996,7 @@ R_13_00_HARVESTER_C_DIALOG_6_ANSWER_A ()
 
 }
 
-// HASH_VALUE 54256E30C62B2BFC
+// HASH_VALUE 5402A530392B2BCA
 R_13_00_HARVESTER_C_INTRO_1 ()
 {
 		r_13_00_harvester_c_intro_1	[What do you want?  You can see I haven't got anything.  I've found nothing I can harvest here and this pick is halfway worn through.  If you're going to beat me up like the last ones, go ahead, I can't stop you.]
@@ -57024,7 +57024,7 @@ R_13_00_HARVESTER_C_INTRO_1_ANSWER_C ()
 
 }
 
-// HASH_VALUE 421ADE82B94D6971
+// HASH_VALUE 421ADE822C4D6971
 R_13_00_HARVESTER_C_INTRO_1_ANSWER_D ()
 {
 		r_13_00_harvester_c_intro_1_answer_d	[We mean you no harm. We won't bother you. Have a nice day.]
@@ -57052,7 +57052,7 @@ R_13_00_HARVESTER_C_R_13_00_HARVESTER_C_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 77E8D94119EC090C
+// HASH_VALUE 77E8D94119C9090C
 R_13_00_HARVESTER_D_ASK_FOR_MATS ()
 {
 		r_13_00_harvester_d_ask_for_mats	[Oh, it's you again. Did you get the stuff I asked for?]
@@ -57066,7 +57066,7 @@ R_13_00_HARVESTER_D_BRING_MATERIALS_TO (bot givervar)
 
 }
 
-// HASH_VALUE F4CEDC7C36BF671B
+// HASH_VALUE F4CEDC7CA9BF671B
 R_13_00_HARVESTER_D_DIALOG_2 ()
 {
 		r_13_00_harvester_d_dialog_2	[Two weeks ago a bunch of homins came through and beat us all up and stole half our food.  I've been trying to find food and supplies in this area, but it seems to be barren.]
@@ -57103,35 +57103,35 @@ R_13_00_HARVESTER_D_DIALOG_3_ANSWER_A ()
 
 }
 
-// HASH_VALUE 9898AD57F3E11C68
+// HASH_VALUE 0B98AD57F3E11C68
 R_13_00_HARVESTER_D_DIALOG_3_ANSWER_B ()
 {
 		r_13_00_harvester_d_dialog_3_answer_b	[If you're going to be that way, good bye.]
 
 }
 
-// HASH_VALUE 129E38E1DE22CB29
+// HASH_VALUE 859E38E1512239C5
 R_13_00_HARVESTER_D_DIALOG_4 ()
 {
 		r_13_00_harvester_d_dialog_4	[We were told the Road was clear, but it's been nothing but kitins and beasts, and nothing much for the meks to eat, and not much in the way of direction signs.  We pushed through the brush to get here because of the kitins, and then those bandits came and beat us up.  <continue>  Are you sure you're Rangers?   We haven't seen any of those since the Old Lands. If you really want to help, you can find us supplies we need before we can continue on.<continue>   We're hungry and our boots and clothes are all worn out.  I've been looking all over in this refuge and I can't find anything.]
 
 }
 
-// HASH_VALUE 65B8BCA500206ABE
+// HASH_VALUE 6595BCA573206ABE
 R_13_00_HARVESTER_D_DIALOG_4_ANSWER_A ()
 {
 		r_13_00_harvester_d_dialog_4_answer_a	[Well, we aren't really Rangers yet, but we're training.  What do you need?]
 
 }
 
-// HASH_VALUE E7FDEC32E2C6EC58
+// HASH_VALUE E7FDEC32E2C6EC26
 R_13_00_HARVESTER_D_DIALOG_4_ANSWER_B ()
 {
 		r_13_00_harvester_d_dialog_4_answer_b	[Yes. We're here to help you. What do you need?]
 
 }
 
-// HASH_VALUE B7E16426E852CDA8
+// HASH_VALUE B7E19B26E852CDA8
 R_13_00_HARVESTER_D_DIALOG_5 ()
 {
 		r_13_00_harvester_d_dialog_5	[Well, we need food and we need some skin and shell for clothes and boots.  Here,   let me write down a list of what we need.  If you get this, then I'm sure that I could make <name of Leader> calm down and talk to you.  Will you do this for me?]
@@ -57152,7 +57152,7 @@ R_13_00_HARVESTER_D_DIALOG_5_ANSWER_B ()
 
 }
 
-// HASH_VALUE 823C15E4CEC64F14
+// HASH_VALUE 823C4CE4CEC64FE2
 R_13_00_HARVESTER_D_DIALOG_6 ()
 {
 		r_13_00_harvester_d_dialog_6	[Harvester:  Fantastic, just take these and go talk to <name of group leader>.  I'll keep on looking for materials near here.  Maybe I'll get lucky]
@@ -57166,7 +57166,7 @@ R_13_00_HARVESTER_D_DIALOG_6_ANSWER_A ()
 
 }
 
-// HASH_VALUE 54356E30C62B2BFC
+// HASH_VALUE 5412A530392B2BCA
 R_13_00_HARVESTER_D_INTRO_1 ()
 {
 		r_13_00_harvester_d_intro_1	[What do you want?  You can see I haven't got anything.  I've found nothing I can harvest here and this pick is halfway worn through.  If you're going to beat me up like the last ones, go ahead, I can't stop you.]
@@ -57194,7 +57194,7 @@ R_13_00_HARVESTER_D_INTRO_1_ANSWER_C ()
 
 }
 
-// HASH_VALUE 422ADE82B94D6971
+// HASH_VALUE 422ADE822C4D6971
 R_13_00_HARVESTER_D_INTRO_1_ANSWER_D ()
 {
 		r_13_00_harvester_d_intro_1_answer_d	[We mean you no harm. We won't bother you. Have a nice day.]
@@ -58916,7 +58916,7 @@ SOURCE_EXPLOSION ()
 
 }
 
-// HASH_VALUE 87AE70FDAAD35CBD
+// HASH_VALUE 748D6E0F19204162
 SOURCE_EXPLOSION_DEFENDER_HIT (int damage, int maxDamage, int reduction)
 {
 	(reduction=0)
@@ -66775,14 +66775,14 @@ TRYKER_INSTRUCTOR_MIS_01_DESC (bot giver)
 
 }
 
-// HASH_VALUE 17211EBC857C0CFA
+// HASH_VALUE C0CA656193BAC420
 TRYKER_INSTRUCTOR_MIS_01_END ()
 {
 		tryker_instructor_mis_01_end	[The Church prepares for the coming of Jena the Almighty upon Atys. Bear faith and you shall receive her benediction. But remember, young homin, this land is very safe compared to the mainland, so before you decide to teleport make sure you've done all you can to progress your skills. Remember, there is no return.]
 
 }
 
-// HASH_VALUE AF7D1B663261F581
+// HASH_VALUE 47E667FE09D4B26D
 TRYKER_INSTRUCTOR_MIS_01_STEP_1 (bot current, bot target)
 {
 		tryker_instructor_mis_01_step_1	[Now is a good time for you to start understanding more about your own people. Vast knowledge has been passed down to us from our ancestors, and we intend to use it to rebuild our noble Kingdom. With the right Masters, you too shall acquire this ancient knowledge and before long your destiny will begin to unfold.{break}\n
@@ -66793,7 +66793,7 @@ TRYKER_INSTRUCTOR_MIS_01_STEP_1 (bot current, bot target)
 
 }
 
-// HASH_VALUE 4B59037C0556F536
+// HASH_VALUE B47C1F5607102A59
 TRYKER_INSTRUCTOR_MIS_01_STEP_2 (bot target, race kitins)
 {
 		tryker_instructor_mis_01_step_2	[Ah ! There you are at last. I was beginning to to think you'd already lost yourself... I wanted to see you to warn you against our greatest enemy, $kitins.da$ $kitins$. You must never think twice if you come up against them: Strike first or flee as fast as you can.{break}\n
@@ -66806,7 +66806,7 @@ TRYKER_INSTRUCTOR_MIS_01_STEP_2 (bot target, race kitins)
 
 }
 
-// HASH_VALUE EAB5125B51F1D601
+// HASH_VALUE F9EFEBE04F4C4299
 TRYKER_INSTRUCTOR_MIS_01_STEP_3 (bot target)
 {
 		tryker_instructor_mis_01_step_3	[Welcome to our outpost, I'm so pleased to meet you ! These are such critical times. The Great Matis people is gathering evermore, and the presence of the Karavan bolsters our courage for we are going to be able to teleport again. Our villages shall grow in strength rapidly.{break}\n
@@ -66819,7 +66819,7 @@ TRYKER_INSTRUCTOR_MIS_01_STEP_3 (bot target)
 
 }
 
-// HASH_VALUE 9A882B22CCE73447
+// HASH_VALUE 5FB615A94C8B0C62
 TRYKER_INSTRUCTOR_MIS_01_STEP_4 (bot current, bot target)
 {
 		tryker_instructor_mis_01_step_4	[Well, well, well! Look who's here. I am $current$, Duke of Doveni, son of Antochini. My father was a great Craftsman himself, and I hold all his secrets and many more. For unlike him I have traveled. I have met the proud Fyros, and the mysterious Zoraïs. And of course, I have spoken with Trykers around the Lake Lands. I have learned some of their secrets. I can craft the great Fyros Axes of Fire, and the best Zoraï Armor.{break}\n
@@ -66832,7 +66832,7 @@ TRYKER_INSTRUCTOR_MIS_01_STEP_4 (bot current, bot target)
 
 }
 
-// HASH_VALUE A11FF4761B514C17
+// HASH_VALUE 2C21C5AED3E45858
 TRYKER_INSTRUCTOR_MIS_01_STEP_5 (bot previous, bot kguide)
 {
 		tryker_instructor_mis_01_step_5	[So, $previous$ sent you, did he ? Well I have little time to spare, I have a business to run! But now that you're here I guess I might as well tell you a thing or two about my "other side" as he puts it. Convoys I mean. You know, a lot of people only see merchants as sales people. But the truth is that most of us also spend a lot of time planning and organizing convoys.{break}\n
@@ -66849,7 +66849,7 @@ TRYKER_INSTRUCTOR_MIS_01_STEP_5 (bot previous, bot kguide)
 
 }
 
-// HASH_VALUE 64C963C12AB2EE4F
+// HASH_VALUE 944EB8EC485D1FEA
 TRYKER_INSTRUCTOR_MIS_01_STEP_6 (bot previous)
 {
 		tryker_instructor_mis_01_step_6	[Greetings, young Matis. $previous$ is a good homin. And we are proud to count her among the children of Jena. We are glad to help her in return for her support.{break}\n
@@ -66927,7 +66927,7 @@ TRYKER_INSTRUCTOR_MIS_03_END ()
 
 }
 
-// HASH_VALUE 157805CAFA41D67C
+// HASH_VALUE C6C714D16817DAB1
 TRYKER_INSTRUCTOR_MIS_03_STEP_1 (item rawmat)
 {
 		tryker_instructor_mis_03_step_1	[Now that you know how to extract resources from the ground, I need you to find $rawmat.ia$ $rawmat$. This material is a bit rarer and can only be found around the south coast of our island so you should look around there.]
@@ -67026,7 +67026,7 @@ TRYKER_INSTRUCTOR_MIS_06_END (creature_model target)
 
 }
 
-// HASH_VALUE D5B81531F0200FA2
+// HASH_VALUE 7149E8A35F5F3E9E
 TRYKER_INSTRUCTOR_MIS_06_STEP_1 (creature_model target)
 {
 		tryker_instructor_mis_06_step_1	[Surviving on Atys can be very hard, you need to know how to fight if you want to live long. You must start your training by facing an easy opponent : find a small herbivore, $target.ia$ $target$, and kill it.]
@@ -67058,7 +67058,7 @@ TRYKER_INSTRUCTOR_MIS_07_END (creature_model target)
 
 }
 
-// HASH_VALUE 5EBD652FF729F074
+// HASH_VALUE 8DEF2D9968A75797
 TRYKER_INSTRUCTOR_MIS_07_STEP_1 (creature_model target, race yubo)
 {
 		tryker_instructor_mis_07_step_1	[We need to get rid of a few predators. There are too many $target$ on our island, and they prey on the herbivores. I would be grateful if you managed to kill one by yourself, and you shall earn a good deal of experience. But beware, these beasts are more dangerous than $yubo$...]
@@ -67090,7 +67090,7 @@ TRYKER_INSTRUCTOR_MIS_08_END (player p)
 
 }
 
-// HASH_VALUE 105652502686C3A6
+// HASH_VALUE BEC9CADA5A20B1D0
 TRYKER_INSTRUCTOR_MIS_08_STEP_1 (player p, creature_model kipee, race kitin)
 {
 		tryker_instructor_mis_08_step_1	[It seems that some $kipee$, of the $kitin$ family, have managed to locate us. We must take immediate action against them ! They're extremely dangerous killing machines that hunt all homins across Atys to death. {break}\n
@@ -67132,7 +67132,7 @@ TRYKER_INSTRUCTOR_MIS_09_OBJ ()
 
 }
 
-// HASH_VALUE 584A59E95ED98D9E
+// HASH_VALUE 9926D15E316D6F37
 TRYKER_INSTRUCTOR_MIS_09_STEP_1 ()
 {
 		tryker_instructor_mis_09_step_1	[Bandits have been spotted nearby. We can't let them feel at home on our land. They are merciless, and usually travel in groups of three. I recommend you team up with others like yourself before you take any action against them. Once you've managed to kill them, you should loot them for their equipment.{break}\n
@@ -67210,14 +67210,14 @@ TRYKER_NEWB_CRAFT_1_END_1 ()
 
 }
 
-// HASH_VALUE FBC8CC905A671708
+// HASH_VALUE 1CE3E3522BDA4A1F
 TRYKER_NEWB_CRAFT_1_END_2 ()
 {
 		tryker_newb_craft_1_end_2	[...it's only by analysing mistakes made during tests that the quality crafter will develop his or her techniques.]
 
 }
 
-// HASH_VALUE 98DE1A2C5D9E85C8
+// HASH_VALUE FE8238FF47863FE9
 TRYKER_NEWB_CRAFT_1_PREREQ (sphrase trykerarmor)
 {
 		tryker_newb_craft_1_prereq	[To continue to progress, you need to learn a new technique of $trykerarmor$. Go and get instruction from one of the trainers.]
@@ -67267,14 +67267,14 @@ TRYKER_NEWB_CRAFT_2_DESC (bot giver)
 
 }
 
-// HASH_VALUE 1A482B4F59B2DE64
+// HASH_VALUE 2104BFFD24B47E21
 TRYKER_NEWB_CRAFT_2_END ()
 {
 		tryker_newb_craft_2_end	[Excellent, here's a little reward for your efforts. And if you're looking for more work, go and see an overseer, they've always got something on.]
 
 }
 
-// HASH_VALUE E2C3E24ABA07EB9B
+// HASH_VALUE 28DE02E187C7BC6A
 TRYKER_NEWB_CRAFT_2_PREREQ (bot target, sbrick trykergloves)
 {
 	(target.gender = female)
@@ -67335,7 +67335,7 @@ TRYKER_NEWB_FIGHT_1_DESC (bot giver)
 
 }
 
-// HASH_VALUE D2E44A403693A536
+// HASH_VALUE 327ABAE3B242AE9C
 TRYKER_NEWB_FIGHT_1_END (creature_model yubo)
 {
 		tryker_newb_fight_1_end	[Good ! But remember that $yubo$ is an easy prey, the next killings won't be so easy as you will be up against tougher beasts.]
@@ -67349,7 +67349,7 @@ TRYKER_NEWB_FIGHT_1_STEP_1_1 ()
 
 }
 
-// HASH_VALUE E07A154AB24E7A4E
+// HASH_VALUE 05CA2A1C5EA4FF58
 TRYKER_NEWB_FIGHT_1_STEP_1_2 (creature_model yubo)
 {
 		tryker_newb_fight_1_step_1_2	[You must start your training by facing an easy opponent : find a small herbivore, $yubo.ia$ $yubo$, and kill it.]
@@ -67392,7 +67392,7 @@ TRYKER_NEWB_FIGHT_2_END ()
 
 }
 
-// HASH_VALUE DC2B876A91E96A3C
+// HASH_VALUE C8DC58D70C965297
 TRYKER_NEWB_FIGHT_2_PREREQ (bot target, sphrase increasedamage)
 {
 	(target.gender = female)
@@ -67402,14 +67402,14 @@ TRYKER_NEWB_FIGHT_2_PREREQ (bot target, sphrase increasedamage)
 
 }
 
-// HASH_VALUE E026CA3DAEC7CF8C
+// HASH_VALUE 979B2263D757B1E8
 TRYKER_NEWB_FIGHT_2_STEP_1_1 (creature_model ragus)
 {
 		tryker_newb_fight_2_step_1_1	[Now we need to get rid of a few predators. There are too many $ragus$ on our island, and they prey on the herbivores.]
 
 }
 
-// HASH_VALUE F6979C508E13181A
+// HASH_VALUE 4A588310306A5C32
 TRYKER_NEWB_FIGHT_2_STEP_1_2 ()
 {
 		tryker_newb_fight_2_step_1_2	[It would be really cool if you managed to kill one by yourself, you'll earn bags of experience if you do. But be really careful, though...]
@@ -67460,7 +67460,7 @@ TRYKER_NEWB_HARVEST_1_END ()
 
 }
 
-// HASH_VALUE 7616CEA66DEFAB7D
+// HASH_VALUE 58446D34090001A8
 TRYKER_NEWB_HARVEST_1_PREREQ (sphrase basicextraction)
 {
 		tryker_newb_harvest_1_prereq	[To continue to progress, you need to learn a new technique of $basicextraction$. Go and get instruction from one of the trainers.]
@@ -67474,7 +67474,7 @@ TRYKER_NEWB_HARVEST_1_STEP_1_1 ()
 
 }
 
-// HASH_VALUE 2A51E859C3F92CA1
+// HASH_VALUE 7A169FA3B995450C
 TRYKER_NEWB_HARVEST_1_STEP_1_2 (item rm1, item rm2)
 {
 		tryker_newb_harvest_1_step_1_2	[Let's start with something easy, bring me back $rm1.ia$ $rm1$ and $rm2.ia$ $rm2$ which you'll find in the ground in the outpost.]
@@ -67510,14 +67510,14 @@ TRYKER_NEWB_HARVEST_2_DESC (bot giver)
 
 }
 
-// HASH_VALUE 33B90007F33053EC
+// HASH_VALUE 5B048221FE8A8F67
 TRYKER_NEWB_HARVEST_2_END ()
 {
 		tryker_newb_harvest_2_end	[Good, here's a little money for you. And if you're after more work, go and see a corporal, they've always something going.]
 
 }
 
-// HASH_VALUE F38001EEE1CBE62D
+// HASH_VALUE C8E9737F0F008C61
 TRYKER_NEWB_HARVEST_2_PREREQ (sphrase basicprospection, bot target)
 {
 	(target.gender = female)
@@ -67541,7 +67541,7 @@ TRYKER_NEWB_HARVEST_2_STEP_1_2 ()
 
 }
 
-// HASH_VALUE A4CE6CF5CFCAA5AF
+// HASH_VALUE 227A4333FEA7C898
 TRYKER_NEWB_HARVEST_2_STEP_1_3 (item rm3, int ql)
 {
 		tryker_newb_harvest_2_step_1_3	[Remember to think about it when you go and fetch me $rm3.ia$ $rm3$ of quality $ql$. These will only be found along the cliffs to the south of this region.]
@@ -67606,7 +67606,7 @@ TRYKER_NEWB_MAGIC_1_END_2 ()
 
 }
 
-// HASH_VALUE 4AB5D8AB35FE3F21
+// HASH_VALUE FE31121A7D57E8A8
 TRYKER_NEWB_MAGIC_1_PREREQ (sphrase selfheal)
 {
 		tryker_newb_magic_1_prereq	[To continue to progress you need to learn a new spell of $selfheal$. Go and get instruction from one of the trainers.]
@@ -67677,7 +67677,7 @@ TRYKER_NEWB_MAGIC_2_OBJ_2_1 (creature_model yubo, int qt)
 
 }
 
-// HASH_VALUE 2A42A937D1250273
+// HASH_VALUE 27BAA8A8AE415E74
 TRYKER_NEWB_MAGIC_2_PREREQ (bot target, sphrase aciddamage)
 {
 	(target.gender = female)
@@ -67736,7 +67736,7 @@ TRYKER_NEWB_MAGIC_ANSWER ()
 
 }
 
-// HASH_VALUE C9141AF641EDC977
+// HASH_VALUE 0E846DB0F059619C
 TRYKER_NEWB_TP_KARAVAN_TEMP_1 ()
 {
 		tryker_newb_tp_karavan_temp_1	[You want to join the Tryker city? I can send you there but there is no return, and the Lake Lands can be dangerous. Are you sure?]
@@ -67850,14 +67850,14 @@ TRYKER_NEWB_WELCOME_END_2 (bot barman, place place_fairhaven)
 
 }
 
-// HASH_VALUE 6D2BF0FD888EB9D5
+// HASH_VALUE 10738B7B437B4CF5
 TRYKER_NEWB_WELCOME_STEP_10_1 (bot previous)
 {
 		tryker_newb_welcome_step_10_1	[Greetings, young Tryker. $previous$ is a good homin. And we are proud to count him among the Children of Jena. We are always glad to help him in return for his support.]
 
 }
 
-// HASH_VALUE 4D4E7DA31D314065
+// HASH_VALUE 923AFC570045AA49
 TRYKER_NEWB_WELCOME_STEP_10_1_b ()
 {
 		tryker_newb_welcome_step_10_1_b	[Teleportation is among Jena's many talents invested in us which you shall discover in due course.\n
@@ -67865,7 +67865,7 @@ TRYKER_NEWB_WELCOME_STEP_10_1_b ()
 
 }
 
-// HASH_VALUE 7E991AACC57711B5
+// HASH_VALUE A78962B77A003CA7
 TRYKER_NEWB_WELCOME_STEP_10_2 (bot target)
 {
 	(target.gender = female)
@@ -67875,7 +67875,7 @@ TRYKER_NEWB_WELCOME_STEP_10_2 (bot target)
 
 }
 
-// HASH_VALUE DA8CBF1185DBEED0
+// HASH_VALUE ECD9039AD72D6C40
 TRYKER_NEWB_WELCOME_STEP_11 ()
 {
 		tryker_newb_welcome_step_11	[If you want to join the Tryker city, you must make an offering to us. In exchange, we will give you the means to voyage by almighty Jena.]
@@ -67903,28 +67903,28 @@ TRYKER_NEWB_WELCOME_STEP_1_1 ()
 
 }
 
-// HASH_VALUE CBD57AD5E2BED1B7
+// HASH_VALUE B699CE1023C9F3FF
 TRYKER_NEWB_WELCOME_STEP_1_1b ()
 {
 		tryker_newb_welcome_step_1_1b	[Vast knowledge has been passed down to us from our forefathers, and we intend to use it to restore our Culture. With the right Masters, you too shall acquire this ancient knowledge and before long your destiny will begin to unfold.]
 
 }
 
-// HASH_VALUE E46C7EE11F779701
+// HASH_VALUE D6CB1093CDECF97B
 TRYKER_NEWB_WELCOME_STEP_1_1c ()
 {
 		tryker_newb_welcome_step_1_1c	[You are on a small island, not far from the Tryker mainland. We have five small outposts on this island, and this is one of them.]
 
 }
 
-// HASH_VALUE E46C7EE11F779702
+// HASH_VALUE D6CB1093CDECF97C
 TRYKER_NEWB_WELCOME_STEP_1_1d ()
 {
 		tryker_newb_welcome_step_1_1d	[You are on a small island, not far from the Tryker mainland. We have five small outposts on this island, and this is one of them.]
 
 }
 
-// HASH_VALUE 4E00570245DB7845
+// HASH_VALUE 8FB20F777439B6FA
 TRYKER_NEWB_WELCOME_STEP_1_2 (bot target, place capital)
 {
 	(target.gender = female)
@@ -67934,7 +67934,7 @@ TRYKER_NEWB_WELCOME_STEP_1_2 (bot target, place capital)
 
 }
 
-// HASH_VALUE 9086F6773AE418DE
+// HASH_VALUE 8EA5F357E2F5E73F
 TRYKER_NEWB_WELCOME_STEP_1_2b (bot target)
 {
 	(target.gender = female)
@@ -67946,28 +67946,28 @@ TRYKER_NEWB_WELCOME_STEP_1_2b (bot target)
 
 }
 
-// HASH_VALUE FB4F3980771102FD
+// HASH_VALUE 5587D42B3B6DA79B
 TRYKER_NEWB_WELCOME_STEP_2_1 (race kitins)
 {
 		tryker_newb_welcome_step_2_1	[Ah ! I was beginning to think you'd already got yourself lost... I wanted to warn you against our greatest enemy, $kitins.da$ $kitins$.]
 
 }
 
-// HASH_VALUE B23D16034E7BBB3E
+// HASH_VALUE C14373881DD5B252
 TRYKER_NEWB_WELCOME_STEP_2_1_b ()
 {
 		tryker_newb_welcome_step_2_1_b	[Never think twice if you come up against one: strike first or make tracks as fast as you can!]
 
 }
 
-// HASH_VALUE CFB1D152603C7BE8
+// HASH_VALUE 9CB0F73EF57F2D54
 TRYKER_NEWB_WELCOME_STEP_2_1_c ()
 {
 		tryker_newb_welcome_step_2_1_c	[It's they who wiped out our entire civilization in the old lands. And let me tell you, it was the Fyros who first provoked their wrath and stirred them from their underground nests!]
 
 }
 
-// HASH_VALUE 9EA319D623F1A810
+// HASH_VALUE 2387D793A713003C
 TRYKER_NEWB_WELCOME_STEP_2_2 ()
 {
 		tryker_newb_welcome_step_2_2	[But before you find out more about our past on the mainland, you must first develop your skills and equipment so you can survive.]
@@ -67981,7 +67981,7 @@ TRYKER_NEWB_WELCOME_STEP_2_2_b ()
 
 }
 
-// HASH_VALUE 69057614FED7485F
+// HASH_VALUE 80AF798C342B907C
 TRYKER_NEWB_WELCOME_STEP_2_2_c (bot target)
 {
 	(target.gender = female)
@@ -67998,35 +67998,35 @@ TRYKER_NEWB_WELCOME_STEP_3_1 ()
 
 }
 
-// HASH_VALUE 00EA5B3A7299909C
+// HASH_VALUE 1F8832AF48D98321
 TRYKER_NEWB_WELCOME_STEP_3_1_b ()
 {
 		tryker_newb_welcome_step_3_1_b	[The Great Tryker people is gathering more and more, and the presence of the Karavan lifts our hearts, as they say, cause it means we can teleport again! Our villages shall be growin' in strength quicker than a beabo shoot!]
 
 }
 
-// HASH_VALUE 159C19B41841BD83
+// HASH_VALUE 617FDD25EF100215
 TRYKER_NEWB_WELCOME_STEP_3_2 ()
 {
 		tryker_newb_welcome_step_3_2	[When you feel ready to leave our outpost, the Karavan will guide you. The Karavan disciples are strange, dark beings, no homin has ever seen their true face. But they're not to be feared, at least that's my feelin'.]
 
 }
 
-// HASH_VALUE 5D9F3E60C58BB880
+// HASH_VALUE E02F6C19E4F9358E
 TRYKER_NEWB_WELCOME_STEP_3_2_b ()
 {
 		tryker_newb_welcome_step_3_2_b	[As a magician I must warn you that the paths of the Karavan are mysterious and obscure. But there is another way that you'll discover soon enough.]
 
 }
 
-// HASH_VALUE 2429E1A828452A6E
+// HASH_VALUE CF639142EFE21DE4
 TRYKER_NEWB_WELCOME_STEP_3_3 ()
 {
 		tryker_newb_welcome_step_3_3	[Atys has many faces both good and bad... If you develop your magic skills, you'll end up coming across the Kamis. But don't get taken in by their shows of magic, the truth is, they'll bind your soul to slavery if you give 'em half a chance !]
 
 }
 
-// HASH_VALUE 8AA9313203870E28
+// HASH_VALUE D1A682A73BA1440C
 TRYKER_NEWB_WELCOME_STEP_3_3_b (bot target)
 {
 	(target.gender = female)
@@ -68036,14 +68036,14 @@ TRYKER_NEWB_WELCOME_STEP_3_3_b (bot target)
 
 }
 
-// HASH_VALUE B832E4C7243D4FAF
+// HASH_VALUE 0BBB10D453405BB1
 TRYKER_NEWB_WELCOME_STEP_4_1 (bot current)
 {
 		tryker_newb_welcome_step_4_1	[I am $current$. My father was a great Harvester himself, and I hold all his secrets and many more...]
 
 }
 
-// HASH_VALUE B4C976E1A53CD789
+// HASH_VALUE 87F7863B63251EA1
 TRYKER_NEWB_WELCOME_STEP_4_1_b ()
 {
 		tryker_newb_welcome_step_4_1_b	[For unlike him I have traveled all over the world. I have met the proud Fyros, and the mysterious Zoraïs.]
@@ -68057,7 +68057,7 @@ TRYKER_NEWB_WELCOME_STEP_4_1_c ()
 
 }
 
-// HASH_VALUE 173209541F678667
+// HASH_VALUE BD4379719F028781
 TRYKER_NEWB_WELCOME_STEP_4_2 ()
 {
 		tryker_newb_welcome_step_4_2	[You too may experience the same freedom if that's your choice.\n
@@ -68089,7 +68089,7 @@ TRYKER_NEWB_WELCOME_STEP_5_1 ()
 
 }
 
-// HASH_VALUE 70E51368F61EEE7B
+// HASH_VALUE 53155A116586E708
 TRYKER_NEWB_WELCOME_STEP_5_1_b ()
 {
 		tryker_newb_welcome_step_5_1_b	[The other homins wouldn't raise an eyebrow at it, but we Trykers know full well how to use it in the items we make.]
@@ -68110,7 +68110,7 @@ TRYKER_NEWB_WELCOME_STEP_5_1_d ()
 
 }
 
-// HASH_VALUE 0EF1FB77EADE5C55
+// HASH_VALUE 3A33B8008E4138D4
 TRYKER_NEWB_WELCOME_STEP_5_2 (bot target)
 {
 	(target.gender = female)
@@ -68120,7 +68120,7 @@ TRYKER_NEWB_WELCOME_STEP_5_2 (bot target)
 
 }
 
-// HASH_VALUE 2C06AB6FC66306FF
+// HASH_VALUE A98C82E9A651FAEE
 TRYKER_NEWB_WELCOME_STEP_5_2_b (bot target)
 {
 	(target.gender = female)
@@ -68144,14 +68144,14 @@ TRYKER_NEWB_WELCOME_STEP_6_1 (bot previous)
 
 }
 
-// HASH_VALUE F649E5BEDDE4AB92
+// HASH_VALUE D1F3219DDE6C2845
 TRYKER_NEWB_WELCOME_STEP_6_1_b ()
 {
 		tryker_newb_welcome_step_6_1_b	[You'll be needing to replace or upgrade your weaponry and equipment as you make progress. The merchants will sell you what you need at a reasonable price.]
 
 }
 
-// HASH_VALUE 7F99A16E9AB0616C
+// HASH_VALUE 0C1EC4E87919AD8D
 TRYKER_NEWB_WELCOME_STEP_6_2 (bot target)
 {
 	(target.gender = female)
@@ -68161,14 +68161,14 @@ TRYKER_NEWB_WELCOME_STEP_6_2 (bot target)
 
 }
 
-// HASH_VALUE 76A42447B28D692C
+// HASH_VALUE A5A4FA6412095490
 TRYKER_NEWB_WELCOME_STEP_7_1 ()
 {
 		tryker_newb_welcome_step_7_1	[Look's like you're new round here. Well, welcome! When you start looking for work to earn yourself a dapper or two, come and see me ! I'm never short of a task or two.]
 
 }
 
-// HASH_VALUE 376544DF04BD61E3
+// HASH_VALUE 59CD234AE614033F
 TRYKER_NEWB_WELCOME_STEP_7_1_b ()
 {
 		tryker_newb_welcome_step_7_1_b	[I mostly deal in trade and escorting goods. If you prefer fighting or foraging, go and check out the corporal.]
@@ -68192,21 +68192,21 @@ TRYKER_NEWB_WELCOME_STEP_7_2_b (bot giver)
 
 }
 
-// HASH_VALUE 1EE682D61BC71F00
+// HASH_VALUE 6B4228A1593B5F39
 TRYKER_NEWB_WELCOME_STEP_8_1 ()
 {
 		tryker_newb_welcome_step_8_1	[Good ! Now you know our little outpost a bit better. But before facing the dangers on the mainland, you've got to become stronger and increase your knowledge.]
 
 }
 
-// HASH_VALUE 6DB9E968D952F7B5
+// HASH_VALUE 09D1D6748168910F
 TRYKER_NEWB_WELCOME_STEP_8_1_b ()
 {
 		tryker_newb_welcome_step_8_1_b	[If you want, I can give you a few tasks to do in different fields to help you progress. Just tell me what interests you most.]
 
 }
 
-// HASH_VALUE 40A97A7A33E72F4E
+// HASH_VALUE 19E56C09AC8999C2
 TRYKER_NEWB_WELCOME_STEP_8_2 ()
 {
 		tryker_newb_welcome_step_8_2	[When you're ready, young $self$, I'll tell you how to join the Tryker capital on the mainland.]
@@ -68220,28 +68220,28 @@ TRYKER_NEWB_WELCOME_STEP_8_3 ()
 
 }
 
-// HASH_VALUE FF89F6D41CDE564F
+// HASH_VALUE DF5EA6261021A251
 TRYKER_NEWB_WELCOME_STEP_9_1 ()
 {
 		tryker_newb_welcome_step_9_1	[I can see you've progressed well. Congratulations, $self$ ! You are now tough enough to help our Tryker people rebuild our civilization!]
 
 }
 
-// HASH_VALUE 569D97C6598CA433
+// HASH_VALUE 95DBB9B79BAD7AD8
 TRYKER_NEWB_WELCOME_STEP_9_1_b (place place_fairhaven)
 {
 		tryker_newb_welcome_step_9_1_b	[The time has come for you to tread the ground of $place_fairhaven$, the Tryker capital ! But careful now, there's no return ticket back here. So be sure of your choice.]
 
 }
 
-// HASH_VALUE C81F1026759BF225
+// HASH_VALUE E52890FC7C022A4A
 TRYKER_NEWB_WELCOME_STEP_9_1_c ()
 {
 		tryker_newb_welcome_step_9_1_c	[In the village you will find a guide who can lead you to the Karavan who has the power to teleport you to the mainland. When you reach the capital, you should talk to the city welcomer.]
 
 }
 
-// HASH_VALUE 98AD4019FC1D1950
+// HASH_VALUE AF64230FB5401274
 TRYKER_NEWB_WELCOME_STEP_9_2 (bot kguide)
 {
 	(kguide.gender = female)
@@ -68279,7 +68279,7 @@ TRYKER_NEWB_WELCOME_SYSTEM_MSG_3 ()
 
 }
 
-// HASH_VALUE 25898FB68697E9E8
+// HASH_VALUE 8DE95874CA9841F5
 TRYKER_NEWB_WELCOME_SYSTEM_MSG_END (place continent_tryker)
 {
 		tryker_newb_welcome_system_msg_end	[&AROUND&You have finished your training with success. Aventure awaits you in $continent_tryker.da$ $continent_tryker$ !]
@@ -68384,7 +68384,7 @@ UNLOCK_RITE_M_AUTO ()
 
 }
 
-// HASH_VALUE CC4BD1812FDBD6D0
+// HASH_VALUE CFE74BB0BE2F2314
 UNLOCK_RITE_P_INTRO ()
 {
 		unlock_rite_p_intro	[Tu me sembles assez sage pour accomplir ce rite, mais avant il va te falloir prouver ta valeur etta persévérance en accomplissant quelques tâches]
@@ -68624,7 +68624,7 @@ WHOAMI_KAMI_SENTINEL ()
 /**************************************************************************************************************************
 WHOAMI PHRASES KARAVAN NPCs
 **************************************************************************************************************************/
-// HASH_VALUE FEEF8B828F6A1159
+// HASH_VALUE 186BAD229C9D7CF1
 WHOAMI_KARAVANGUARD (player p, bot b)
 {
 	(b.race = karavan)
@@ -69040,7 +69040,7 @@ WHOAMI_NEWB_ZORAI_INSTRUCTOR_MAGIE ()
 }
 
 //////////////////////////////////////////// OUTPOST OFFICERS ///////////////////////////////////////////////////////////////////
-// HASH_VALUE 9B25A4B020F86E22
+// HASH_VALUE 2E3AAF7850466DB9
 WHOAMI_OUTPOST_OFFICER ()
 {
 		whoami_outpost_officer	[The authorities are looking to establish outposts in the wild regions, at present dominated by tribes.{break} For this they deal with guilds which can reap great advantages by accomplishing an outpost charge. My role is to allocate these charges to deserving guilds.]
@@ -69058,7 +69058,7 @@ WHOAMI_RING ()
 }
 
 //////////////////////////////////////////// RITEGIVERS ///////////////////////////////////////////////////////////////////
-// HASH_VALUE FC976DC6AD81AD9A
+// HASH_VALUE FC9C9D0EC2271128
 WHOAMI_SAGE ()
 {
 		whoami_sage	[I am the senior fellow of the keepers of knowledge around here. The knowledge contained in the amber cubes of the Chest of Wisdom is truly invaluable, for this reason they are to be given out with great care!{break} Homins wishing to improve their knowledge must undertake rites to prove they are worthy of such a reward. Being a sage, I am an initiator of some of these rites.]
@@ -69080,7 +69080,7 @@ WHOAMI_TASK_AMBASSADOR ()
 
 }
 
-// HASH_VALUE 163E364344BAEFA7
+// HASH_VALUE F6D7186A55520DE9
 WHOAMI_TASK_CAPTAIN ()
 {
 		whoami_task_captain	[I am indeed the captain here, my prime duty is the maintenance of law and order and making sure the wild creatures are kept in check. I can only propose tasks to high ranking homins. You must also bear in mind that as I oversee the hostile regions any tasks I can offer will take you far from here.]
@@ -69094,7 +69094,7 @@ WHOAMI_TASK_CITY_WELCOMER ()
 
 }
 
-// HASH_VALUE 03B3899DCB6B001D
+// HASH_VALUE E4A022DC7B4EE31D
 WHOAMI_TASK_CORPORAL ()
 {
 		whoami_task_corporal	[In my fuctions as corporal, I assist in maintaining law and order around here and making sure that the wild animals are kept in check. I am authorized to assign missions to lower grade homins, anyone above this grade will please refer to my sergent.]
@@ -69225,7 +69225,7 @@ WHOAMI_TASK_HUNTER_TRIBE ()
 
 }
 
-// HASH_VALUE 4B114CE1D6B219B1
+// HASH_VALUE E4AC1660BC97EBA2
 WHOAMI_TASK_JOURNEYMAN ()
 {
 		whoami_task_journeyman	[Crafting's my line, homin, with the added difference that I travel from place to place to do it. You'll find me near outposts, tribe camps, outside towns and villages, anywhere that business calls. I'm often on the lookout for any willing homin to gather materials for me, or to give me a hand to make objects to meet a pressing order. Some of these objects call for knowledge of crafting techniques of other civilizations.]
@@ -69246,7 +69246,7 @@ WHOAMI_TASK_KAMI_WELCOMER ()
 
 }
 
-// HASH_VALUE 08CC7D94C6ACAD4E
+// HASH_VALUE 9E530CD295880574
 WHOAMI_TASK_KARAVAN_AGENT ()
 {
 		whoami_task_karavan_agent	[As a member of the Kuild and a Karavan agent of the Prime Roots, it is my honor to propose tasks to meet the everyday needs of the tribe or to make offerings to the Karavan disciples. These tasks of devotion involve reaping the riches of nature that Jena generously provides.]
@@ -69382,7 +69382,7 @@ WHOAMI_TASK_SCOUT ()
 
 }
 
-// HASH_VALUE B90BA6979CCFF5A6
+// HASH_VALUE F1A18845E5589937
 WHOAMI_TASK_SERGENT ()
 {
 		whoami_task_sergent	[As the appointed sergent round here, I'm in charge of maintaining law and order and ensuring that the wild animals are kept in check. I handle the dangerous regions and consequently the tasks I can propose will take you far from here. Any high grade homins should address my superior, the captain.]
@@ -69431,7 +69431,7 @@ WHOAMI_TRIBE_CHIEF_GIBBAI ()
 
 }
 
-// HASH_VALUE 10D465C66C1E13F2
+// HASH_VALUE 371A72484FA5FC9A
 WHOAMI_TRIBE_OUTPOST_OFFICER ()
 {
 		whoami_tribe_outpost_officer	[I've been assigned by my tribe to watch over the outposts in our territory. Sometimes, we assign the task of maintaining an outpost to a friendly guild.{break} But if an enemy tries to take from us what is rightfully ours, our warriors will fight without mercy!]
@@ -71361,7 +71361,7 @@ ZORAI_INSTRUCTOR_MIS_01_STEP_2 (bot target, race kitins)
 
 }
 
-// HASH_VALUE 9FDAAAC3330EDB9E
+// HASH_VALUE 01F6B20146BD0F88
 ZORAI_INSTRUCTOR_MIS_01_STEP_3 (bot target)
 {
 		zorai_instructor_mis_01_step_3	[I am pleased to meet you. You must know, $self$, that even in these parts the land is rife with the goo...{break} This is the strange infection that steadily nibbles away at the vegetaion. The Kamis, sent by the life energy,  Ma-Duk, are precious allies in our fight against this plague.\n
@@ -71467,7 +71467,7 @@ ZORAI_INSTRUCTOR_MIS_03_END ()
 
 }
 
-// HASH_VALUE 287DFCBC4C961DD3
+// HASH_VALUE 7766507F0F721414
 ZORAI_INSTRUCTOR_MIS_03_STEP_1 (item rawmat)
 {
 		zorai_instructor_mis_03_step_1	[Now that you know how to extract resources from the ground, I need you to find $rawmat.ia$ $rawmat$. This material is a bit rarer and can only be found around the south coast of our island so you should look around there.]
@@ -71566,7 +71566,7 @@ ZORAI_INSTRUCTOR_MIS_06_END (creature_model target)
 
 }
 
-// HASH_VALUE 953C508D345E5335
+// HASH_VALUE 94623541CF7963C2
 ZORAI_INSTRUCTOR_MIS_06_STEP_1 (creature_model target)
 {
 		zorai_instructor_mis_06_step_1	[Surviving on Atys can be very hard, you need to know how to fight if you want to live long. You must start your training by facing an easy opponent : find a small herbivore, $target.ia$ $target$, and kill it.]
@@ -71598,7 +71598,7 @@ ZORAI_INSTRUCTOR_MIS_07_END (creature_model target)
 
 }
 
-// HASH_VALUE 72627FE9F1482B2F
+// HASH_VALUE 796E8C1B8BE5CCC8
 ZORAI_INSTRUCTOR_MIS_07_STEP_1 (creature_model target, race yubo)
 {
 		zorai_instructor_mis_07_step_1	[We need to get rid of a few predators. There are too many $target$ on our island, and they prey on the herbivores. I would be grateful if you managed to kill one by yourself, and you shall earn a good deal of experience. But beware, these beasts are more dangerous than $yubo$...]
@@ -71630,7 +71630,7 @@ ZORAI_INSTRUCTOR_MIS_08_END (player p)
 
 }
 
-// HASH_VALUE B04C8FE57D329261
+// HASH_VALUE FB792E825F01791C
 ZORAI_INSTRUCTOR_MIS_08_STEP_1 (player p, creature_model kipee, race kitin)
 {
 		zorai_instructor_mis_08_step_1	[It seems that some $kipee$, of the $kitin$ family, have managed to locate us. We must take immediate action against them ! They are extremely dangerous killing machines that hunt all homins across Atys to death. {break}\n
@@ -71672,7 +71672,7 @@ ZORAI_INSTRUCTOR_MIS_09_OBJ ()
 
 }
 
-// HASH_VALUE 55B385500D85110C
+// HASH_VALUE BB837C2F25F27745
 ZORAI_INSTRUCTOR_MIS_09_STEP_1 ()
 {
 		zorai_instructor_mis_09_step_1	[Bandits have been spotted nearby. We cannot have them  feel at home on our land. They are merciless, and usually travel in groups of three. I recommend that you team up with others like yourself before you take any action against them. Once you've managed to kill them, you should loot them for their equipment.{break}\n
@@ -71750,14 +71750,14 @@ ZORAI_NEWB_CRAFT_1_END_1 ()
 
 }
 
-// HASH_VALUE BDA980F78252D0B9
+// HASH_VALUE 82F1477DF2C5AD86
 ZORAI_NEWB_CRAFT_1_END_2 ()
 {
 		zorai_newb_craft_1_end_2	[...it's only by analysing mistakes made during tests that the quality crafter will develop his or her techniques.]
 
 }
 
-// HASH_VALUE D4654C9AF770DFB6
+// HASH_VALUE 784DD12F81E62A5E
 ZORAI_NEWB_CRAFT_1_PREREQ (sphrase zoraiarmor)
 {
 		zorai_newb_craft_1_prereq	[To continue to progress, you need to learn a new technique of $zoraiarmor$. Go and get instruction from one of the trainers.]
@@ -71807,14 +71807,14 @@ ZORAI_NEWB_CRAFT_2_DESC (bot giver)
 
 }
 
-// HASH_VALUE D1EFDE0F715021EA
+// HASH_VALUE 40F10E34DD042112
 ZORAI_NEWB_CRAFT_2_END ()
 {
 		zorai_newb_craft_2_end	[Excellent, here's a little reward for your efforts. And if you're looking for more work, go and see an overseer, they've always got something going.]
 
 }
 
-// HASH_VALUE 60A9F343252D447B
+// HASH_VALUE 419C1A3C6D33D281
 ZORAI_NEWB_CRAFT_2_PREREQ (bot target, sbrick zoraigloves)
 {
 	(target.gender = female)
@@ -71875,7 +71875,7 @@ ZORAI_NEWB_FIGHT_1_DESC (bot giver)
 
 }
 
-// HASH_VALUE 454FE6C4334232D3
+// HASH_VALUE DCA68BA01B22DF15
 ZORAI_NEWB_FIGHT_1_END (creature_model yubo)
 {
 		zorai_newb_fight_1_end	[Good ! But remember that $yubo$ is an easy prey, the next killings won't be so easy as you will be up against tougher beasts.]
@@ -71889,7 +71889,7 @@ ZORAI_NEWB_FIGHT_1_STEP_1_1 ()
 
 }
 
-// HASH_VALUE 89518C77B5A1E2C9
+// HASH_VALUE 0CD960BC2A4D78EB
 ZORAI_NEWB_FIGHT_1_STEP_1_2 (creature_model yubo)
 {
 		zorai_newb_fight_1_step_1_2	[You must start your training by facing an easy opponent : find a small herbivore, $yubo.ia$ $yubo$, and kill it.]
@@ -71932,7 +71932,7 @@ ZORAI_NEWB_FIGHT_2_END ()
 
 }
 
-// HASH_VALUE B1C304E5E9E70392
+// HASH_VALUE 2150FEB56DAB53FC
 ZORAI_NEWB_FIGHT_2_PREREQ (bot target, sphrase increasedamage)
 {
 	(target.gender = female)
@@ -71942,14 +71942,14 @@ ZORAI_NEWB_FIGHT_2_PREREQ (bot target, sphrase increasedamage)
 
 }
 
-// HASH_VALUE 98033202F541BBF0
+// HASH_VALUE 70B08FD87F8B9FA8
 ZORAI_NEWB_FIGHT_2_STEP_1_1 (creature_model ragus)
 {
 		zorai_newb_fight_2_step_1_1	[Now we need to get rid of a few predators. There are too many $ragus$ on our island, and they prey on the herbivores.]
 
 }
 
-// HASH_VALUE 7E68726BF21C7A39
+// HASH_VALUE 847D6225E1C4104A
 ZORAI_NEWB_FIGHT_2_STEP_1_2 ()
 {
 		zorai_newb_fight_2_step_1_2	[It would enthuse me if you managed to kill one by yourself, you shall earn much experience if you do. But be very careful...]
@@ -72000,7 +72000,7 @@ ZORAI_NEWB_HARVEST_1_END ()
 
 }
 
-// HASH_VALUE DD4824B9F6875DCC
+// HASH_VALUE 67BE6F619A6FE261
 ZORAI_NEWB_HARVEST_1_PREREQ (sphrase basicextraction)
 {
 		zorai_newb_harvest_1_prereq	[To continue to progress, you need to learn a new technique of $basicextraction$. Go and get instruction from one of the trainers.]
@@ -72014,7 +72014,7 @@ ZORAI_NEWB_HARVEST_1_STEP_1_1 ()
 
 }
 
-// HASH_VALUE F4D356F238766B34
+// HASH_VALUE 902787A0CB34927A
 ZORAI_NEWB_HARVEST_1_STEP_1_2 (item rm1, item rm2)
 {
 		zorai_newb_harvest_1_step_1_2	[Let's start with something easy, bring me back $rm1.ia$ $rm1$ and $rm2.ia$ $rm2$ which you'll find in the ground within the outpost.]
@@ -72050,14 +72050,14 @@ ZORAI_NEWB_HARVEST_2_DESC (bot giver)
 
 }
 
-// HASH_VALUE 75777C445F770388
+// HASH_VALUE 5481CFA5E579D997
 ZORAI_NEWB_HARVEST_2_END ()
 {
 		zorai_newb_harvest_2_end	[Good, here's a little money for you. And if you're after more work, go and see a corporal, they've always something going.]
 
 }
 
-// HASH_VALUE 178A9457BBFE429B
+// HASH_VALUE 652EF4246AB59A78
 ZORAI_NEWB_HARVEST_2_PREREQ (sphrase basicprospection, bot target)
 {
 	(target.gender = female)
@@ -72081,7 +72081,7 @@ ZORAI_NEWB_HARVEST_2_STEP_1_2 ()
 
 }
 
-// HASH_VALUE B5021520DCDD745E
+// HASH_VALUE F0A200D52C6AAB26
 ZORAI_NEWB_HARVEST_2_STEP_1_3 (item rm3, int ql)
 {
 		zorai_newb_harvest_2_step_1_3	[Remember to think about it when you go and fetch me $rm3.ia$ $rm3$ of quality $ql$. These can only be found along the cliffs to the south of this region.]
@@ -72146,7 +72146,7 @@ ZORAI_NEWB_MAGIC_1_END_2 ()
 
 }
 
-// HASH_VALUE 047BFDCA31EC7C73
+// HASH_VALUE E6A99C58CDFDD29E
 ZORAI_NEWB_MAGIC_1_PREREQ (sphrase selfheal)
 {
 		zorai_newb_magic_1_prereq	[To continue to progress you need to learn a new spell of $selfheal$. Go and get instruction from one of the trainers.]
@@ -72217,7 +72217,7 @@ ZORAI_NEWB_MAGIC_2_OBJ_2_1 (creature_model yubo, int qt)
 
 }
 
-// HASH_VALUE 8CB2894B2F9D1E6B
+// HASH_VALUE 26D204607314FC7B
 ZORAI_NEWB_MAGIC_2_PREREQ (bot target, sphrase aciddamage)
 {
 	(target.gender = female)
@@ -72390,21 +72390,21 @@ ZORAI_NEWB_WELCOME_END_2 (bot barman, place place_zora)
 
 }
 
-// HASH_VALUE 90E3C453479D5551
+// HASH_VALUE 7B5CAEA4FCEF4921
 ZORAI_NEWB_WELCOME_STEP_10_1 (bot previous)
 {
 		zorai_newb_welcome_step_10_1	[$previous$ is a devout homin, he is much appreciated by the Kamis. The Kamis are disciples of the Life Giver...]
 
 }
 
-// HASH_VALUE 7CE80A76D3F81ADC
+// HASH_VALUE 2C4C05E16FEC7940
 ZORAI_NEWB_WELCOME_STEP_10_1_b ()
 {
 		zorai_newb_welcome_step_10_1_b	[It is our duty to serve the Kamis who preserve Atys from harm. By retaining the pure energy on Atys we shall attain enlightenment.]
 
 }
 
-// HASH_VALUE 41E64E24F6288376
+// HASH_VALUE B545B20E1EBF72D2
 ZORAI_NEWB_WELCOME_STEP_10_2 ()
 {
 		zorai_newb_welcome_step_10_2	[You must speak to the Kami for him to show you the way that leads to the mainland. If you don't know where to find him, follow your compass, it will guide you to him.]
@@ -72425,7 +72425,7 @@ ZORAI_NEWB_WELCOME_STEP_11_TEMP ()
 
 }
 
-// HASH_VALUE 3918F213258B6589
+// HASH_VALUE 5B74CB19A9CE50D1
 ZORAI_NEWB_WELCOME_STEP_12 ()
 {
 		zorai_newb_welcome_step_12	[You must use magic item for leave to great jungle. Remember, there is no return.]
@@ -72439,21 +72439,21 @@ ZORAI_NEWB_WELCOME_STEP_1_1 ()
 
 }
 
-// HASH_VALUE A4E895DA9C8F465F
+// HASH_VALUE E9987CD2B0B75AAC
 ZORAI_NEWB_WELCOME_STEP_1_1b ()
 {
 		zorai_newb_welcome_step_1_1b	[I salute your courage in taking the perilous journey to help rebuild our great Zoraï dynasty...]
 
 }
 
-// HASH_VALUE CC8848D8BBC9E9BE
+// HASH_VALUE E22167BEE3E5B415
 ZORAI_NEWB_WELCOME_STEP_1_1c ()
 {
 		zorai_newb_welcome_step_1_1c	[You are on a small island, not far from the Zoraï mainland. We have five small outposts on this island, and this is one of them.]
 
 }
 
-// HASH_VALUE E170A6146BA27347
+// HASH_VALUE CE005B5C5519E415
 ZORAI_NEWB_WELCOME_STEP_1_2 (bot target, place capital)
 {
 	(target.gender = female)
@@ -72475,28 +72475,28 @@ ZORAI_NEWB_WELCOME_STEP_1_2b (bot target)
 
 }
 
-// HASH_VALUE A8D2D0C15D4946F9
+// HASH_VALUE 5239DB5F266E314E
 ZORAI_NEWB_WELCOME_STEP_2_1 (race kitins)
 {
 		zorai_newb_welcome_step_2_1	[Ah! At last you come. I wanted to see you to warn you against our greatest enemy, $kitins.da$ $kitins$...]
 
 }
 
-// HASH_VALUE 316C30A5F51F83EA
+// HASH_VALUE 7A4A6594679512FA
 ZORAI_NEWB_WELCOME_STEP_2_1_b ()
 {
 		zorai_newb_welcome_step_2_1_b	[Never think twice if you come up against one: Strike first or flee as fast as you can.]
 
 }
 
-// HASH_VALUE 8B1B1505ABEED881
+// HASH_VALUE F212EE951E1EA86F
 ZORAI_NEWB_WELCOME_STEP_2_1_c ()
 {
 		zorai_newb_welcome_step_2_1_c	[It is they who wiped out our entire civilization in the lands of old. And never forget, it was the Fyros who first provoked their wrath and stirred them from their underground nests three generations ago!]
 
 }
 
-// HASH_VALUE BE5175CA5243F19C
+// HASH_VALUE 06722F798124FA73
 ZORAI_NEWB_WELCOME_STEP_2_2 ()
 {
 		zorai_newb_welcome_step_2_2	[But before you find out more about our past on the mainland, you must first develop your skills and equipment to be able to survive.]
@@ -72510,7 +72510,7 @@ ZORAI_NEWB_WELCOME_STEP_2_2_b ()
 
 }
 
-// HASH_VALUE 07465CF10B760C0B
+// HASH_VALUE E14D80211250D48E
 ZORAI_NEWB_WELCOME_STEP_2_2_c (bot target)
 {
 	(target.gender = female)
@@ -72520,21 +72520,21 @@ ZORAI_NEWB_WELCOME_STEP_2_2_c (bot target)
 
 }
 
-// HASH_VALUE F772ACA772CB40C6
+// HASH_VALUE 3257363963FFAD0C
 ZORAI_NEWB_WELCOME_STEP_3_1 ()
 {
 		zorai_newb_welcome_step_3_1	[I am pleased to meet you. You must know, $self$, that even in these parts the land is rife with the goo...]
 
 }
 
-// HASH_VALUE C21FE930682B150A
+// HASH_VALUE 6B8438612A0C0C51
 ZORAI_NEWB_WELCOME_STEP_3_1_b ()
 {
 		zorai_newb_welcome_step_3_1_b	[This is the strange infection that steadily nibbles away at the vegetaion. The Kamis, sent by the life energy, Ma-Duk, are precious allies in our fight against this plague.]
 
 }
 
-// HASH_VALUE DDEDBB9300EE7891
+// HASH_VALUE B75FA6E25533682F
 ZORAI_NEWB_WELCOME_STEP_3_2 ()
 {
 		zorai_newb_welcome_step_3_2	[The Kamis are venerated entities whose powerful magic is held in esteem. When you are ready, Kami magic will transport you to the Zoraï newfound lands of the Witherings.]
@@ -72548,14 +72548,14 @@ ZORAI_NEWB_WELCOME_STEP_3_2_b ()
 
 }
 
-// HASH_VALUE CA7032EC1ABF119A
+// HASH_VALUE 63FCC6CE623B45C2
 ZORAI_NEWB_WELCOME_STEP_3_3 ()
 {
 		zorai_newb_welcome_step_3_3	[One more thing, on the mainland you may encounter members of the Karavan, their magic is strong. They claim to be disciples of Jena but offer no path to enlightenment. For personal gain they would bind hominkind in physical servitude.]
 
 }
 
-// HASH_VALUE 111C86C464EF9F57
+// HASH_VALUE 31D4A2E60DFBC20A
 ZORAI_NEWB_WELCOME_STEP_3_3_b (bot target)
 {
 	(target.gender = female)
@@ -72565,14 +72565,14 @@ ZORAI_NEWB_WELCOME_STEP_3_3_b (bot target)
 
 }
 
-// HASH_VALUE 5AB0D6DFD6C4AE34
+// HASH_VALUE DA84B9EA1990AF37
 ZORAI_NEWB_WELCOME_STEP_4_1 (bot current)
 {
 		zorai_newb_welcome_step_4_1	[I am $current$. My father was a great Harvester himself, and I hold all his secrets and many more...]
 
 }
 
-// HASH_VALUE 5E3FAEF38AC8FFF6
+// HASH_VALUE 062D57A252CFCBF9
 ZORAI_NEWB_WELCOME_STEP_4_1_b ()
 {
 		zorai_newb_welcome_step_4_1_b	[For unlike him I have traveled all over the world. I have met the proud Fyros, and the noble Matis.]
@@ -72586,7 +72586,7 @@ ZORAI_NEWB_WELCOME_STEP_4_1_c ()
 
 }
 
-// HASH_VALUE 1070578531C14C93
+// HASH_VALUE 97DA5BA1B76333D3
 ZORAI_NEWB_WELCOME_STEP_4_2 ()
 {
 		zorai_newb_welcome_step_4_2	[You too may experience the same freedom if that be your choice.\n
@@ -72611,14 +72611,14 @@ ZORAI_NEWB_WELCOME_STEP_4_2_c (bot target)
 
 }
 
-// HASH_VALUE C0A0BA155666FD34
+// HASH_VALUE BE3A450A6B074080
 ZORAI_NEWB_WELCOME_STEP_5_1 ()
 {
 		zorai_newb_welcome_step_5_1	[Warm greetings, young $self$. Do you know that the world in which we live is full of energy which homins cannot see ? Except, that is, for the Zoraïs...]
 
 }
 
-// HASH_VALUE A03E45EC7437D41B
+// HASH_VALUE 5D72A41E5D21523C
 ZORAI_NEWB_WELCOME_STEP_5_1_b ()
 {
 		zorai_newb_welcome_step_5_1_b	[By controlling this energy, we can make miracles... or inflict great damage whenever need be. We just have to canalize it using objects.]
@@ -72649,7 +72649,7 @@ ZORAI_NEWB_WELCOME_STEP_5_2 (bot target)
 
 }
 
-// HASH_VALUE 54EBEA7CE1A139C0
+// HASH_VALUE 8985D2595174465D
 ZORAI_NEWB_WELCOME_STEP_5_2_b (bot target)
 {
 	(target.gender = female)
@@ -72673,14 +72673,14 @@ ZORAI_NEWB_WELCOME_STEP_6_1 (bot previous)
 
 }
 
-// HASH_VALUE 9D675DFD8BF1AD5D
+// HASH_VALUE 88DD884C4431CFBC
 ZORAI_NEWB_WELCOME_STEP_6_1_b ()
 {
 		zorai_newb_welcome_step_6_1_b	[You will need to replace or upgrade your weaponry and equipment as you make progress. The merchants will sell you what you need at a reasonable price.]
 
 }
 
-// HASH_VALUE 1D3375C823DEAE7C
+// HASH_VALUE 6BD83BA5A23A58F6
 ZORAI_NEWB_WELCOME_STEP_6_2 (bot target)
 {
 	(target.gender = female)
@@ -72690,14 +72690,14 @@ ZORAI_NEWB_WELCOME_STEP_6_2 (bot target)
 
 }
 
-// HASH_VALUE C487744CAC25D70D
+// HASH_VALUE DCD434C1F43DF707
 ZORAI_NEWB_WELCOME_STEP_7_1 ()
 {
 		zorai_newb_welcome_step_7_1	[Your attire tells me you are new here. I bid you welcome! When you start looking for work to earn a few dappers, come and see me ! I've always a task or two to propose.]
 
 }
 
-// HASH_VALUE 71B8A75553BDA58B
+// HASH_VALUE 88C241CD2F75BB33
 ZORAI_NEWB_WELCOME_STEP_7_1_b ()
 {
 		zorai_newb_welcome_step_7_1_b	[I mostly deal in trade and escorting goods. If you prefer fighting or foraging, the corporal will give you a mission or two.]
@@ -72721,21 +72721,21 @@ ZORAI_NEWB_WELCOME_STEP_7_2_b (bot giver)
 
 }
 
-// HASH_VALUE 34B105649080667A
+// HASH_VALUE 43415CCE4450438A
 ZORAI_NEWB_WELCOME_STEP_8_1 ()
 {
 		zorai_newb_welcome_step_8_1	[Good ! Now you know our outpost a little better. But before facing the dangers on the mainland, you've got to become stronger and increase your knowledge.]
 
 }
 
-// HASH_VALUE 26073BBE79708AF1
+// HASH_VALUE 7CAE01F9BC1A0F57
 ZORAI_NEWB_WELCOME_STEP_8_1_b ()
 {
 		zorai_newb_welcome_step_8_1_b	[If you want, I can give you a few tasks to do in different fields to help you progress. Just tell me what you're interested in.]
 
 }
 
-// HASH_VALUE C08C1CDC8FD86688
+// HASH_VALUE 25F439A576ECF388
 ZORAI_NEWB_WELCOME_STEP_8_2 ()
 {
 		zorai_newb_welcome_step_8_2	[When you're ready, young $self$,  I'll tell you how to join the Zoraï capital on the mainland.]
@@ -72749,28 +72749,28 @@ ZORAI_NEWB_WELCOME_STEP_8_3 ()
 
 }
 
-// HASH_VALUE 85B2BA9C077968F9
+// HASH_VALUE 5851D771CD4C1B9B
 ZORAI_NEWB_WELCOME_STEP_9_1 ()
 {
 		zorai_newb_welcome_step_9_1	[I can see you have progressed well. Congratulations, $self$ ! You are now tough enough to help our Zoraï people rebuild our dynasty!]
 
 }
 
-// HASH_VALUE 83C7A176673395CB
+// HASH_VALUE 0B20347760C15BE0
 ZORAI_NEWB_WELCOME_STEP_9_1_b (place place_zora)
 {
 		zorai_newb_welcome_step_9_1_b	[The time has come for you to walk the ground of $place_zora$, the capital of the Zoraïs! But take heed : it will not be possible for you to return here. So be sure of your choice.]
 
 }
 
-// HASH_VALUE CCF194E56D7A6018
+// HASH_VALUE AAAE99F1E80C785D
 ZORAI_NEWB_WELCOME_STEP_9_1_c ()
 {
 		zorai_newb_welcome_step_9_1_c	[In the village you will find a guide who can lead you to a Kami who has the power to teleport you to the mainland. When you reach the capital, you should talk to the city welcomer.]
 
 }
 
-// HASH_VALUE 82B75246E7CBB697
+// HASH_VALUE 7BF067A149CD6F14
 ZORAI_NEWB_WELCOME_STEP_9_2 (bot kguide)
 {
 	(kguide.gender = female)
@@ -72808,7 +72808,7 @@ ZORAI_NEWB_WELCOME_SYSTEM_MSG_3 ()
 
 }
 
-// HASH_VALUE 5F45D0E6DCE6E2F0
+// HASH_VALUE FDF173201E4625DC
 ZORAI_NEWB_WELCOME_SYSTEM_MSG_END (place continent_zorai)
 {
 		zorai_newb_welcome_system_msg_end	[&AROUND&You have finished your training with success. Aventure awaits you in $continent_zorai.da$ $continent_zorai$ !]
@@ -76505,5 +76505,7 @@ zm80_reward ()
 			[Zoraï Light Boots]
 
 }
+
+
 
 
