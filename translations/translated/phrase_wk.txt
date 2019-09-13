@@ -12265,6 +12265,13 @@ EGS_CANT_CONSTRUCT_ANYTHING ()
 
 }
 
+// HASH_VALUE 93B34BCF07C4FF13
+EGS_CANT_EQUIP_ITEM_IS_TRIAL_PLAYER ()
+{
+			[&CHK&You cannot equip this item because you are in free trial. You must upgrade your account to be able to do that.]
+
+}
+
 // HASH_VALUE 9FF3ACF2F41A84A8
 EGS_CANT_SELL_ANYTHING ()
 {
@@ -76505,7 +76512,4 @@ zm80_reward ()
 			[Zoraï Light Boots]
 
 }
-
-
-
 

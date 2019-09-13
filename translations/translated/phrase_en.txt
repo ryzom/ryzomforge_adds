@@ -26997,6 +26997,13 @@ FACTION_RANGER ()
 
 }
 
+// HASH_VALUE A9F73481E1D70884
+FACTION_RF ()
+{
+			[Forge]
+
+}
+
 // HASH_VALUE C94F0F2605804A3C
 FACTION_RU ()
 {
@@ -36846,6 +36853,13 @@ MENU_BUY_PVP ()
 
 }
 
+// HASH_VALUE 48583456AE5AE432
+MENU_CAN_I_HELP_YOU ()
+{
+			[Can you help me?]
+
+}
+
 // HASH_VALUE 7484942F337068FF
 MENU_CASINO_INSERT_COIN ()
 {
@@ -36878,6 +36892,13 @@ MENU_GLOWING_COAL ()
 MENU_HAVE_MISSION ()
 {
 			[Do you have any mission to assign me?]
+
+}
+
+// HASH_VALUE A5E3EB3B7080146A
+MENU_HAVE_SOMETHINH_FOR_ME ()
+{
+			[Have you something for me?]
 
 }
 
@@ -36920,6 +36941,13 @@ MENU_LIGHT_UP ()
 MENU_MATISPOETRY ()
 {
 			[Collection of Matis poetry.]
+
+}
+
+// HASH_VALUE D034A258ECA4C057
+MENU_NEED_SOME_INFORMATIONS ()
+{
+			[I need some informations...]
 
 }
 
@@ -76764,5 +76792,4 @@ zm80_reward ()
 			[Nin-Ka Boots]
 
 }
-
 

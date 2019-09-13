@@ -14772,6 +14772,13 @@ EGS_CANT_CONSTRUCT_ANYTHING ()
 
 }
 
+// HASH_VALUE 93B34BCF07C4FF13
+EGS_CANT_EQUIP_ITEM_IS_TRIAL_PLAYER ()
+{
+			[&CHK&Vous ne pouvez pas équiper cet objet avec un compte gratuit. Abonnez-vous afin de pouvoir le faire.]
+
+}
+
 // HASH_VALUE 9FF3ACF2F41A84A8
 EGS_CANT_SELL_ANYTHING ()
 {
@@ -92644,5 +92651,4 @@ zm80_reward ()
 			[Bottes Nin-kas]
 
 }
-
 

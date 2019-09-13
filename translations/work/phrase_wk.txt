@@ -6138,3 +6138,9 @@ MENU_NEED_SOME_INFORMATIONS()
 {
 	[I need some informations...]
 }
+
+FACTION_RF()
+{
+	[Forge]
+}
+

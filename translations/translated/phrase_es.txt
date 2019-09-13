@@ -26968,6 +26968,13 @@ FACTION_RANGER ()
 
 }
 
+// HASH_VALUE A9F73481E1D70884
+FACTION_RF ()
+{
+			[Forge]
+
+}
+
 // HASH_VALUE C94F0F2605804A3C
 FACTION_RU ()
 {
@@ -74518,6 +74525,258 @@ frosttouch3 ()
 
 }
 
+// HASH_VALUE 83C2D83D97820738
+genesis_free_basic_ampli ()
+{
+			[Be'Gen-am]
+
+}
+
+// HASH_VALUE DCEF784C1DBE1046
+genesis_free_basic_axe ()
+{
+			[Be'Gen-axi]
+
+}
+
+// HASH_VALUE 83332C521A820738
+genesis_free_basic_boots ()
+{
+			[Be'Gen-ot]
+
+}
+
+// HASH_VALUE 99F5FB4DE6D1DF5C
+genesis_free_basic_gloves ()
+{
+			[Be'Gen-oves]
+
+}
+
+// HASH_VALUE 83D2DC3E97820738
+genesis_free_basic_pants ()
+{
+			[Be'Gen-an]
+
+}
+
+// HASH_VALUE 83530C4A98820738
+genesis_free_basic_sleeves ()
+{
+			[Be'Gen-ev]
+
+}
+
+// HASH_VALUE A09FB4471EBE3C41
+genesis_free_basic_vest ()
+{
+			[Be'Gen-est]
+
+}
+
+// HASH_VALUE 8803283D9782074C
+genesis_pay_basic_ampli ()
+{
+			[By'Gen-am]
+
+}
+
+// HASH_VALUE E1EFC84C22BE6046
+genesis_pay_basic_axe ()
+{
+			[By'Gen-axi]
+
+}
+
+// HASH_VALUE 88747C521A82074C
+genesis_pay_basic_boots ()
+{
+			[By'Gen-ot]
+
+}
+
+// HASH_VALUE 99F54B4DEBD1DF70
+genesis_pay_basic_gloves ()
+{
+			[By'Gen-oves]
+
+}
+
+// HASH_VALUE 88132C3E9782074C
+genesis_pay_basic_pants ()
+{
+			[By'Gen-an]
+
+}
+
+// HASH_VALUE 88945C4A9882074C
+genesis_pay_basic_sleeves ()
+{
+			[By'Gen-ev]
+
+}
+
+// HASH_VALUE A59F044723BE8C41
+genesis_pay_basic_vest ()
+{
+			[By'Gen-est]
+
+}
+
+// HASH_VALUE 06D354581A82073C
+genesis_premium_hi_boots ()
+{
+			[Hi'Gen-ot]
+
+}
+
+// HASH_VALUE 1BF50B53E731DF60
+genesis_premium_hi_gloves ()
+{
+			[Hi'Gen-oves]
+
+}
+
+// HASH_VALUE 06520C469882073C
+genesis_premium_hi_helmet ()
+{
+			[Hi'Gen-el]
+
+}
+
+// HASH_VALUE 067204449782073C
+genesis_premium_hi_pants ()
+{
+			[Hi'Gen-an]
+
+}
+
+// HASH_VALUE 06F334509882073C
+genesis_premium_hi_sleeves ()
+{
+			[Hi'Gen-ev]
+
+}
+
+// HASH_VALUE A1FFC44D1F1E4C47
+genesis_premium_hi_vest ()
+{
+			[Hi'Gen-est]
+
+}
+
+// HASH_VALUE 88737C5C1A820742
+genesis_premium_lo_boots ()
+{
+			[Lo'Gen-ot]
+
+}
+
+// HASH_VALUE 1CF523576871DF66
+genesis_premium_lo_gloves ()
+{
+			[Lo'Gen-oves]
+
+}
+
+// HASH_VALUE 88122C4897820742
+genesis_premium_lo_pants ()
+{
+			[Lo'Gen-an]
+
+}
+
+// HASH_VALUE 88935C5498820742
+genesis_premium_lo_sleeves ()
+{
+			[Lo'Gen-ev]
+
+}
+
+// HASH_VALUE 223FDC51A05E644B
+genesis_premium_lo_vest ()
+{
+			[Lo'Gen-est]
+
+}
+
+// HASH_VALUE C883805D1A820742
+genesis_premium_mo_boots ()
+{
+			[Mo'Gen-ot]
+
+}
+
+// HASH_VALUE 5CF523586881DF66
+genesis_premium_mo_gloves ()
+{
+			[Mo'Gen-oves]
+
+}
+
+// HASH_VALUE C822304997820742
+genesis_premium_mo_pants ()
+{
+			[Mo'Gen-an]
+
+}
+
+// HASH_VALUE C8A3605598820742
+genesis_premium_mo_sleeves ()
+{
+			[Mo'Gen-ev]
+
+}
+
+// HASH_VALUE 224FDC52A06E644C
+genesis_premium_mo_vest ()
+{
+			[Mo'Gen-est]
+
+}
+
+// HASH_VALUE 06D354581A82073C
+genesis_winner_hi_boots ()
+{
+			[Hi'Gen-ot]
+
+}
+
+// HASH_VALUE 1BF50B53E731DF60
+genesis_winner_hi_gloves ()
+{
+			[Hi'Gen-oves]
+
+}
+
+// HASH_VALUE 06520C469882073C
+genesis_winner_hi_helmet ()
+{
+			[Hi'Gen-el]
+
+}
+
+// HASH_VALUE 067204449782073C
+genesis_winner_hi_pants ()
+{
+			[Hi'Gen-an]
+
+}
+
+// HASH_VALUE 06F334509882073C
+genesis_winner_hi_sleeves ()
+{
+			[Hi'Gen-ev]
+
+}
+
+// HASH_VALUE A1FFC44D1F1E4C47
+genesis_winner_hi_vest ()
+{
+			[Hi'Gen-est]
+
+}
+
 // HASH_VALUE EF196461D0F7FB21
 gibbai_dbfe8_anklet ()
 {
@@ -76120,5 +76379,4 @@ zm80_reward ()
 			[Botas Nin-Ka]
 
 }
-
 
