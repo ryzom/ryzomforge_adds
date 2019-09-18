@@ -27918,6 +27918,13 @@ FACTION_RANGER ()
 
 }
 
+// HASH_VALUE A9F73481E1D70884
+FACTION_RF ()
+{
+			[Forge]
+
+}
+
 // HASH_VALUE C94F0F2605804A3C
 FACTION_RU ()
 {
@@ -33752,9 +33759,7 @@ HARVEST_SUCCESS_OTHER (player p, int nb, item item, int quality)
 	HEAL_CLOUD_HIT (score s, int v)
 	{
 			heal_hit	[&SPLM&You feel the effects of benevolent magic and get a bonus of $s$ of $v$.]
-
 	}
-
 ] */
 // Clause 0 : identifier changed.
 // HASH_VALUE 185C26D22AA1B90A
@@ -78689,5 +78694,4 @@ zm80_reward ()
 			[Bottes Nin-kas]
 
 }
-
 
