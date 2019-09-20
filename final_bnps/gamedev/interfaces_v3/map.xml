@@ -208,7 +208,7 @@
 </proc>
 
 <define	id="map_min_size_h"	value="256" />
-<define	id="map_min_size_w"	value="385" />
+<define	id="map_min_size_w"	value="256" />
 
 <define	id="map_respawn_min_size_h"	value="256" />
 <define	id="map_respawn_min_size_w"	value="260" />
@@ -294,7 +294,7 @@
 			<ctrl type="button" id="lm_events_btn" button_type="push_button" posparent="lm_search_btn" posref="TR TL" global_color="false" scale="true" y="0" x="4" h="16" w="16" tx_normal="dyn_event.tga" tx_pushed="W_button_16_over.tga" tx_over="W_button_16_over.tga"
 				onclick_l="proc" params_l="map_events_toggle" tooltip="uiR2Events" />
 			<view type="text" id="events" x="4" y="0" posref="BR BL" posparent="lm_events_btn"  color="244 147 49 255" fontsize="12" shadow="true" hardtext="" global_color="false" />
-				
+
 			<view type="text" id="time" x="4" y="-18" posref="TL TL" color="255 255 255 255" fontsize="12" shadow="true" hardtext="" />
 			<view type="text" id="weather" x="4" y="-32" posref="TL TL" color="255 255 255 255" fontsize="12" shadow="true" hardtext="" />
 			<ctrl type="tooltip" id="weather_tt" posparent="weather" sizeref="wh" w="0" h="0" tooltip="" tooltip_parent="ctrl" tooltip_posref="BL TL" />
