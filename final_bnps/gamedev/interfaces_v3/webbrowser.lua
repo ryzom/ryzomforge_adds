@@ -168,6 +168,7 @@ function WebBrowser:saveWindowPop(app)
 		app.winh = app.uiWindow.h
 		app.pop_min_h = app.uiWindow.pop_min_h
 		app.pop_max_h = app.uiWindow.pop_max_h
+		app.pop_min_w = app.uiWindow.pop_min_w
 		-- minimize
 		app.uiWindow.w = app.closedw
 		app.uiWindow.h =  app.closedh
@@ -188,6 +189,7 @@ function WebBrowser:restoreWindowPop(app)
 		app.uiWindow.h = app.winh
 		app.uiWindow.pop_min_h = app.pop_min_h
 		app.uiWindow.pop_max_h = app.pop_max_h
+		app.uiWindow.pop_min_w = app.pop_min_w
 		app.minimized = false
 	end
 end
