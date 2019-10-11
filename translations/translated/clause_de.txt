@@ -104,7 +104,7 @@ boss_mainland_craftpart1a_diag1	[Wenn du mich bezahlst und mir alle Teile überg
 
 // HASH_VALUE BC50B90E685601B7
 // INDEX 26
-boss_mainland_craftpart1a_diag2	[Lass mich das anschauen... Ich habe so etwas schon einmal zuvor gesehen...\n
+boss_mainland_craftpart1a_diag2	[Lass mal sehen... Ich habe so etwas schon einmal gesehen...\n
 	Hmmja... Es ist ein Handwerksplan der Marodeure... selten... und sehr wertvoll!\n
 	Ich kann ihn soweit zusammenfügen, dass er zu entziffern ist! Soll ich dir seine Geheimnisse lehren?]
 
