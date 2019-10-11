@@ -10513,9 +10513,9 @@ uihelpItemChargeSpell	[@{FFF9}Sapladung: @{T12}@{FFFF}%quality\n
 // HASH_VALUE 88359CF16D5CFDBD
 // INDEX 2497
 uihelpItemAnimal	[Dieser Gegenstand symbolisiert\n
-	ein Tier #%petnumber.\n
+	das Tier Nummer %petnumber.\n
 	\n
-	Du kannst ein Tier mit Hilfe dieses Gegenstands verschenken oder verkaufen; aber nur, wenn sein Inventar leer ist.\n
+	Du kannst das Tier mit Hilfe dieses Gegenstands verschenken oder verkaufen; aber nur, wenn dessen Inventar leer ist.\n
 	%cansell%desc%custom_text]
 
 // HASH_VALUE CB10EC5C14C1477D
@@ -19474,7 +19474,7 @@ uiAnimalsTitle	[TIERE]
 
 // HASH_VALUE BAC7944ECF89AE06
 // INDEX 4691
-uittSatiety	[Rot: Lebenskraft / Orange: Taschenplatz / Weiß: Sättigung. Wenn der Sättigungs-Balken auf Null fällt, hat das Tier Hunger und wird langsam.]
+uittSatiety	[Rot: Lebenskraft / Orange: Taschenplatz / Weiß: Sättigung. Wenn der Sättigungs-Balken auf Null fällt, hat das Tier Hunger und kann nicht mehr laufen.]
 
 // HASH_VALUE 2EE6A09C38655ED5
 // INDEX 4692
@@ -19495,11 +19495,11 @@ uittDead	[Das Tier ist tot.\n
 
 // HASH_VALUE 309E23DB19F9A563
 // INDEX 4695
-uittDeathTimer	[Restzeit, ehe der Körper dieses toten Tieres verschwindet.]
+uittDeathTimer	[Restzeit bis der Körper dieses toten Tieres verschwunden ist.]
 
 // HASH_VALUE A9604559224F1442
 // INDEX 4696
-uittAnimalDeadPopupToolTip	[Restliche Stunden, ehe das erste deiner toten Tiere verschwindet.]
+uittAnimalDeadPopupToolTip	[Restliche Stunden bis das Erste deiner toten Tiere verschwunden ist.]
 
 // HASH_VALUE C52B629385E0C076
 // INDEX 4697
@@ -23351,7 +23351,7 @@ uiLoadingString13	[Armas und Ploderosse werden mit Kraftfutter aufgemästet...]
 
 // HASH_VALUE 2C7660055814BCAD
 // INDEX 5550
-uiLoadingString14	[Tiere werden in ihre jeweiligen landesspezifischen Farben eingetunkt...]
+uiLoadingString14	[Tiere werden in ihren jeweiligen landesspezifischen Farben eingetunkt...]
 
 // HASH_VALUE DA2580B0E74AB8DE
 // INDEX 5551
@@ -24246,7 +24246,7 @@ uittAnimalWeight	[@{6F6F}Gesamtgewicht, @{FFFF}das dein Tier transportiert. Tier
 
 // HASH_VALUE D92907CA57A0A70A
 // INDEX 5762
-uittAnimalInv	[Das @{6F6F}Inventar @{FFFF}bietet Zugang zu den Gegenständen, die dieses Tier transportiert, solange das Tier nahe genug ist. Steht das Tier in einem Stall, genügt es, nahe beim Stall zu sein, um Zugriff auf das Tier-Inventar zu haben.]
+uittAnimalInv	[Das @{6F6F}Inventar @{FFFF}bietet Zugang zu den Gegenständen, die dieses Tier transportiert, solange es in der Nähe ist. Steht das Tier in einem Stall, genügt es, in der Nähe vom Stall zu sein, um Zugriff auf das Tier-Inventar zu erhalten.]
 
 // HASH_VALUE EC6515C0797E672F
 // INDEX 5763
@@ -24372,7 +24372,7 @@ uittTargetNamed	[starke 'Named'-Kreatur der Stufe: @{6F6F}%n]
 // HASH_VALUE 7F814BE1CB74F37A
 // INDEX 5789
 uittInfoBulk	[@{6F6F}Volumen @{FFFF}:\n
-	Platz, den der Gegenstand im Inventar (deiner Tasche oder der Satteltasche von Tieren) einnimmt. Jedes Inventar hat nur begrenzten Platz, deshalb kann man nicht zu viele große Gegenstände gemeinsam transportieren.]
+	Platz, den der Gegenstand im Inventar (deiner Tasche oder der Satteltasche von Tieren) einnimmt. Jedes Inventar hat nur begrenzt platz. Deshalb können nicht viele große Gegenstände transportiert werden.]
 
 // HASH_VALUE 8268E616D14643F5
 // INDEX 5790
