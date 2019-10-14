@@ -41800,7 +41800,7 @@ MISSION_TRYKER_08_P_LDCC_INTRO (item mp_dead_leaf)
 // HASH_VALUE 692D5DDBF6F95295
 MISSION_TRYKER_08_P_OVL_VISIT_ILOT (place lieu_ilot)
 {
-		mission_tryker_08_p_ovl_visit_ilot	[Treffen auf der kleinen Insel nordöstlich des Lagers]
+		mission_tryker_08_p_ovl_visit_ilot	[Treffen auf der kleinen Insel nordwestlich des Lagers]
 
 }
 
