@@ -8085,7 +8085,7 @@ CWINTROZORAI_OUTOFROOM_PHRASE (bot givervar)
 // HASH_VALUE 516EDC4C5A923D2D
 CWINTROZORAI_SHOPS_LOW_SYSMES (place shops_low)
 {
-		cwintrozorai_shops_low_sysmes	[&AMB&Dieses Viertel heißt $shops_low$. Hier findest Du die Händler, wenn Du etwas benötigst.]
+		cwintrozorai_shops_low_sysmes	[&AMB&Dieser Distrikt heißt $shops_low$. Hier findest Du die Händler, wenn Du etwas benötigst.]
 
 }
 

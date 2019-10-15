@@ -4194,7 +4194,7 @@ cwintrozorai_outofroom_phrase	[Ich habe nicht genug Platz, um diesen Gegenstand 
 
 // HASH_VALUE 6FFF7E76745D3448
 // INDEX 1033
-cwintrozorai_shops_low_sysmes	[&AMB&Dieses Viertel heißt $shops_low$. Hier findest Du die Händler, wenn Du etwas benötigst.]
+cwintrozorai_shops_low_sysmes	[&AMB&Dieser Distrikt heißt $shops_low$. Hier findest Du die Händler, wenn Du etwas benötigst.]
 
 // HASH_VALUE ABB2B73D47936FAC
 // INDEX 1034
