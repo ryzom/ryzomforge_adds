@@ -27250,427 +27250,447 @@ uigcFxAnisotropicFilter	[Filtrado Anisotropico:]
 // INDEX 6470
 uigcFxAnisotropicFilterNone	[Ninguno]
 
-// HASH_VALUE 050BB49718B1CAD4
+// HASH_VALUE 88333801E8DB40C0
 // INDEX 6471
+uiShowIconBuffs	[Mostrar las estadísticas y el hechizo del artículo]
+
+// HASH_VALUE 88333801264B40C0
+// INDEX 6472
+uittShowIconBuffs	[Mostrar las estadísticas y el hechizo del artículo]
+
+// HASH_VALUE 050BB49718B1CAD4
+// INDEX 6473
 uiShowClock12h	[Usar reloj de 12 horas]
 
 // HASH_VALUE BCF4DB5845BC4EDA
-// INDEX 6472
+// INDEX 6474
 uittShowClock12h	[Si marcado, usa el sistema horario de 12 horas en el reloj de la brújula y en los mensajes de chat.]
 
 // HASH_VALUE 68F99C8C69A81273
-// INDEX 6473
+// INDEX 6475
 uiRadarUseCamera	[El radar sigue la rotación de la cámara]
 
 // HASH_VALUE B83EBD58DE9C068F
-// INDEX 6474
+// INDEX 6476
 uittRadarUseCamera	[Si marcado, usa la rotación de cámara para la vista de radar.]
 
 // HASH_VALUE 82A1901C06A3F72E
-// INDEX 6475
+// INDEX 6477
 uiTotalPatch	[PARCHE TOTAL]
 
 // HASH_VALUE D091B40C4890BC25
-// INDEX 6476
+// INDEX 6478
 uiRequiredFiles	[ARCHIVOS NECESARIOS]
 
 // HASH_VALUE 8C42E02F0C01D422
-// INDEX 6477
+// INDEX 6479
 uiLodValue	[NORMAL]
 
 // HASH_VALUE 6878DC2CC23A6CB6
-// INDEX 6478
+// INDEX 6480
 uiDebugProfileFillRate	[Tasa de Perfil]
 
 // HASH_VALUE 0F54678C93B4CBF6
-// INDEX 6479
+// INDEX 6481
 uiFixedMissionEntry_Mainland_Unknwown	[Continente/ Desconocido]
 
 // HASH_VALUE CAB123089C80B66B
-// INDEX 6480
+// INDEX 6482
 uiNoFiles	[No hay Archivos...]
 
 // HASH_VALUE 4090240840902408
-// INDEX 6481
+// INDEX 6483
 uiByte	[B]
 
 // HASH_VALUE AA699882DFD7A376
-// INDEX 6482
+// INDEX 6484
 uiCP_Name_Generator	[Generador de Nombres]
 
 // HASH_VALUE 6498541C641C14C8
-// INDEX 6483
+// INDEX 6485
 uiCP_Name_Generate	[Generar]
 
 // HASH_VALUE 609C1434705844D4
-// INDEX 6484
+// INDEX 6486
 uiCP_Maraudeur	[Merodeador]
 
 // HASH_VALUE 92C6D489AAC438C4
-// INDEX 6485
+// INDEX 6487
 uiCP_Name_Policy	[Política de nombramiento]
 
 // HASH_VALUE E7473F9596B88799
-// INDEX 6486
+// INDEX 6488
 uiCP_FirstName	[Primer nombre]
 
 // HASH_VALUE 6467007F5645D768
-// INDEX 6487
+// INDEX 6489
 uiCP_LastName	[Segundo nombre]
 
 // HASH_VALUE 6DA7FC912D38D095
-// INDEX 6488
+// INDEX 6490
 uiHorizontal	[Horizontal]
 
 // HASH_VALUE 749C54586C5834A4
-// INDEX 6489
+// INDEX 6491
 uiVertical	[Vertical]
 
 // HASH_VALUE 641C5434641C5434
-// INDEX 6490
+// INDEX 6492
 uiKeyMUTE	[Sin Sonido]
 
 // HASH_VALUE 3165F321EF51FEF1
-// INDEX 6491
+// INDEX 6493
 uiKeyPLAYPAUSE	[Reproducir / pausa]
 
 // HASH_VALUE 26C8EF962CB49073
-// INDEX 6492
+// INDEX 6494
 uiKeyVOLUMEDOWN	[Bajar Volumen]
 
 // HASH_VALUE E828AC5B1985D0BD
-// INDEX 6493
+// INDEX 6495
 uiKeyVOLUMEUP	[Subir Volumen]
 
 // HASH_VALUE E906D08868678C93
-// INDEX 6494
+// INDEX 6496
 uiKeyCALC	[Calculador]
 
 // HASH_VALUE 60C82889E9C9B49B
-// INDEX 6495
+// INDEX 6497
 uiKeyPARAGRAPH	[Parágrafo]
 
 // HASH_VALUE ECEC8E017F3FDAE2
-// INDEX 6496
+// INDEX 6498
 uiKeyOEM_102	[OEM 102]
 
 // HASH_VALUE 61B9BCDD9CF5F488
-// INDEX 6497
+// INDEX 6499
 uiFilterMenuDynamic	[%channel @{T8}/%shortcut]
 
 // HASH_VALUE 6588A87B1E781483
-// INDEX 6498
+// INDEX 6500
 uimwAppZone	[AppZone]
 
 // HASH_VALUE 6588A87B1E781483
-// INDEX 6499
+// INDEX 6501
 uiAppZone	[Zona App]
 
 // HASH_VALUE 27273D41B0FA7DD2
-// INDEX 6500
+// INDEX 6502
 uiPlayedTime	[Has jugado con este personaje %time.]
 
 // HASH_VALUE EB1A8C8F22674C92
-// INDEX 6501
+// INDEX 6503
 uiPlaylistRefresh	[Volver a cargar]
 
 // HASH_VALUE 570A63956CA078B7
-// INDEX 6502
+// INDEX 6504
 uiFreeViewTablet	[Tableta o pantalla táctil]
 
 // HASH_VALUE 781CF40C781CF40C
-// INDEX 6503
+// INDEX 6505
 uiCopy	[Copiar]
 
 // HASH_VALUE AF4704666E75D097
-// INDEX 6504
+// INDEX 6506
 uiBrowse	[Navegar]
 
 // HASH_VALUE 4046D798ED76B4BE
-// INDEX 6505
+// INDEX 6507
 cmdCreateGroupUsage1	[uso del comando createGroup :]
 
 // HASH_VALUE 672F2158D608B33D
-// INDEX 6506
+// INDEX 6508
 cmdCreateGroupUsage2	[/createGroup group_name : crear un grupo llamado group_name con todos sus objetos equipados.]
 
 // HASH_VALUE 281F2D43F2731DEC
-// INDEX 6507
+// INDEX 6509
 cmdCreateGroupUsage3	[/createGroup group_name true : crear un grupo llamado group_name con todos los elementos equipados, y crear un comando de eliminación para cada espacio vacío.]
 
 // HASH_VALUE 87A04D4E0C663745
-// INDEX 6508
+// INDEX 6510
 cmdCreateGroupError	[Ya existe un grupo llamado% name, no puedes crear un segundo grupo con el mismo nombre.]
 
 // HASH_VALUE 57AAD85BEAA4D7B9
-// INDEX 6509
+// INDEX 6511
 cmdCreateGroupSuccess1	[Grupo %nombre ha sido creado con éxito.]
 
 // HASH_VALUE 9C6A88FAC1CEA4DC
-// INDEX 6510
+// INDEX 6512
 cmdCreateGroupSuccess2	[Grupo %name ha sido creado con éxito, incluyendo la eliminación de todos los elementos no equipados.]
 
 // HASH_VALUE EBB1FF685D7AFCC7
-// INDEX 6511
+// INDEX 6513
 cmdEquipGroupUsage1	[equipGroup uso del comando :]
 
 // HASH_VALUE 0FDFE7D6741FF8C5
-// INDEX 6512
+// INDEX 6514
 cmdEquipGroupUsage2	[/equipGroup group_name : extraer los elementos del grupo group_name del inventario disponible y equiparlos.]
 
 // HASH_VALUE 5434105FEEDBCB30
-// INDEX 6513
+// INDEX 6515
 cmdEquipGroupError	[No se puede equipar el grupo %nombre porque no se encontró ningún grupo con este nombre.]
 
 // HASH_VALUE 5B9A98912A55C7C1
-// INDEX 6514
+// INDEX 6516
 cmdEquipGroupSuccess	[Grupo %nombre equipado con éxito.]
 
 // HASH_VALUE 82B6A399EDB6D0B1
-// INDEX 6515
+// INDEX 6517
 cmdDeleteGroupUsage1	[deleteGroup uso del comando :]
 
 // HASH_VALUE 2022F308D2F5591B
-// INDEX 6516
+// INDEX 6518
 cmdDeleteGroupUsage2	[/deleteGroup group_name : eliminar el grupo llamado group_name si existe.]
 
 // HASH_VALUE 06DA351B3C7F2E56
-// INDEX 6517
+// INDEX 6519
 cmdDeleteGroupError	[No se puede eliminar el grupo %nombre : No se ha encontrado ningún grupo con este nombre.]
 
 // HASH_VALUE 19D9DC5BEAA4D7BD
-// INDEX 6518
+// INDEX 6520
 cmdDeleteGroupSuccess	[Grupo %nombre borrado con éxito.]
 
 // HASH_VALUE ADEA727BDB89387A
-// INDEX 6519
+// INDEX 6521
 cmdMoveGroupUsage1	[moveGroup uso del comando :]
 
 // HASH_VALUE 9AF23A3F90C2A5A1
-// INDEX 6520
+// INDEX 6522
 cmdMoveGroupUsage2	[/moveGroup group_name destination : mover los artículos de todos los inventarios disponibles a su destino.]
 
 // HASH_VALUE 5BE3F613CFC022DC
-// INDEX 6521
+// INDEX 6523
 cmdMoveGroupUsage3	[El objetivo puede ser: bag, player_room, guild, pet_animal1, pet_animal2, pet_animal3, pet_animal4]
 
 // HASH_VALUE 063AAC84DBD18975
-// INDEX 6522
+// INDEX 6524
 cmdMoveGroupError	[No se pudo mover el grupo %name a %inventory porque no se encontró ningún grupo con ese nombre y/o no era un inventario válido.]
 
 // HASH_VALUE 53F23D1089A67059
-// INDEX 6523
+// INDEX 6525
 cmdMoveGroupSuccess	[Grupo %nombre movido con éxito a %inventario.]
 
 // HASH_VALUE AE999B8E9D9143A5
-// INDEX 6524
+// INDEX 6526
 cmdListGroupHeader	[Grupo de artículos disponibles :]
 
 // HASH_VALUE 5BD4C6549B44ABA5
-// INDEX 6525
+// INDEX 6527
 cmdListGroupLine	[* %nombre, con %tamaño objetos contenidos.]
 
 // HASH_VALUE 3267346D71E53896
-// INDEX 6526
+// INDEX 6528
 uimGroup	[Grupos]
 
 // HASH_VALUE 0C8BC4F4AE78A6B7
-// INDEX 6527
+// INDEX 6529
 uiMacroItemGroupEquip	[Equipar un grupo de artículos]
 
 // HASH_VALUE 5614A7A2A707B055
-// INDEX 6528
+// INDEX 6530
 uiMacroItemGroupName	[Nombre del grupo de artículos]
 
 // HASH_VALUE AC27CF9914116C1B
-// INDEX 6529
+// INDEX 6531
 uiMacroItemGroupMove	[Desplazar un grupo de artículos]
 
 // HASH_VALUE A7A1CC916E59E066
-// INDEX 6530
+// INDEX 6532
 uiMacroItemGroupDestination	[Objetivo del grupo de objetos]
 
 // HASH_VALUE 1627848455283B93
-// INDEX 6531
+// INDEX 6533
 uiMapSearch	[Búsqueda en el mapa]
 
 // HASH_VALUE 1627848455283B93
-// INDEX 6532
+// INDEX 6534
 uittMapSearch	[Búsqueda en el mapa]
 
+// HASH_VALUE 61B58F8A6784D397
+// INDEX 6535
+uiTargetLandmarkCmd	[Punto de referencia del Mapa]
+
+// HASH_VALUE 67B96C23981A60BB
+// INDEX 6536
+uiTargetLandmarkCmdEntity	[Palabras clave de la búsqueda de referencia]
+
 // HASH_VALUE AB97946A68B6A07A
-// INDEX 6533
+// INDEX 6537
 uittInventorySearch	[Buscar]
 
 // HASH_VALUE 5814F40C5814F40C
-// INDEX 6534
+// INDEX 6538
 uimMacroCopy	[COPIA]
 
 // HASH_VALUE 5814F40C5814F40C
-// INDEX 6535
+// INDEX 6539
 uimMCCopy	[COPIA]
 
 // HASH_VALUE 649C144C649C144C
-// INDEX 6536
+// INDEX 6540
 uiSaveUI	[Guardar]
 
 // HASH_VALUE 250AD73C1E3664A5
-// INDEX 6537
+// INDEX 6541
 uiInterfaceScale	[Escala de interfaz]
 
 //zigs
 // HASH_VALUE 77AF6FF4C1C0D2F2
-// INDEX 6538
+// INDEX 6542
 uitabInvPAZig1	[ZIG 1]
 
 // HASH_VALUE B7AF73F5C1D0D6F3
-// INDEX 6539
+// INDEX 6543
 uitabInvPAZig2	[ZIG 2]
 
 // HASH_VALUE F7AF77F6C1E0DAF4
-// INDEX 6540
+// INDEX 6544
 uitabInvPAZig3	[ZIG 3]
 
 // HASH_VALUE 77AF6FF4C1C0D2F2
-// INDEX 6541
+// INDEX 6545
 uiPABagTitleMount4	[ZIG 1]
 
 // HASH_VALUE B7AF73F5C1D0D6F3
-// INDEX 6542
+// INDEX 6546
 uiPABagTitleMount5	[ZIG 2]
 
 // HASH_VALUE F7AF77F6C1E0DAF4
-// INDEX 6543
+// INDEX 6547
 uiPABagTitleMount6	[ZIG 3]
 
 // HASH_VALUE 87B36F14D1C45212
-// INDEX 6544
+// INDEX 6548
 uiPATitleMount5	[Zig 1]
 
 // HASH_VALUE C7B37315D1D45613
-// INDEX 6545
+// INDEX 6549
 uiPATitleMount6	[Zig 2]
 
 // HASH_VALUE 07B37716D1E45A14
-// INDEX 6546
+// INDEX 6550
 uiPATitleMount7	[Zig 3]
 
 // HASH_VALUE 44BA1C01D1DDC0A2
-// INDEX 6547
+// INDEX 6551
 uittInBag	[El animal está en tu saco.\n
 	@{6F6F}Hacer clic derecho @{FFFF}para dar una orden.]
 
 // HASH_VALUE 649A14CAE8181224
-// INDEX 6548
+// INDEX 6552
 uimEnterBag	[Entrar en la bolsa]
 
 // HASH_VALUE 6ED2B0829544BF4E
-// INDEX 6549
+// INDEX 6553
 uimLeaveBag	[Salir de la bolsa]
 
 // HASH_VALUE 843E4EA6D3404359
-// INDEX 6550
+// INDEX 6554
 msgRollDiceLocal	[&SYS&@{FF1F}Tiraste de la %roll en un empate entre un %min y un %max.]
 
 // HASH_VALUE A506B06C29D47491
-// INDEX 6551
+// INDEX 6555
 uiGuildTabIsland	[Isla]
 
+// HASH_VALUE F7F6CC407B89B9D3
+// INDEX 6556
+uiWelcome_around	[El juego de roles es uno de los principales intereses de Ryzom, y alrededor del canal es un lugar importante para practicarlo.]
+
+// HASH_VALUE B061D9467D44EA31
+// INDEX 6557
+uiWelcome_region	[Chatea aquí con otros jugadores que tengan su avatar en la misma región que el tuyo.]
+
+// HASH_VALUE DB96555152E1C24F
+// INDEX 6558
+uiWelcome_universe	[El Canal Universo es multilingüe está destinado en primer lugar a los jugadores que piden ayuda sobre el juego y a los que les ayudan. Es un canal amigable que también puede ser utilizado para chatear relacionado con Ryzom.]
+
+// HASH_VALUE 7C727C9DF8FD147A
+// INDEX 6559
+uiWelcome_kami	[Chatea aquí con jugadores que tienen su avatar compartiendo el mismo culto que el tuyo.]
+
+// HASH_VALUE 7C727C9DF8FD147A
+// INDEX 6560
+uiWelcome_karavan	[Chatea aquí con jugadores que tienen su avatar compartiendo el mismo culto que el tuyo.]
+
+// HASH_VALUE 83F0F7CB75FA4A0B
+// INDEX 6561
+uiWelcome_fyros	[Chatea aquí con jugadores cuyo avatar es también un patriota.]
+
+// HASH_VALUE 41F017BE7599221C
+// INDEX 6562
+uiWelcome_tryker	[Chatea aquí con jugadores cuyo avatar es también ciudadano.]
+
+// HASH_VALUE 418FCFE09AC93216
+// INDEX 6563
+uiWelcome_zorai	[Chatea aquí con jugadores cuyo avatar también es un iniciado.]
+
+// HASH_VALUE C3E0F7D1EA953E03
+// INDEX 6564
+uiWelcome_matis	[Chatea aquí con jugadores cuyo avatar también es un vasallo.]
+
+// HASH_VALUE 3FD0F7F686091E17
+// INDEX 6565
+uiWelcome_marauder	[Chatea aquí con jugadores cuyo avatar también es un marauder.]
+
+// HASH_VALUE C08FF7CDEA955607
+// INDEX 6566
+uiWelcome_ranger	[Chatea aquí con jugadores cuyo avatar también es un ranger.]
+
 // HASH_VALUE CEAE0F5379D05435
-// INDEX 6552
+// INDEX 6567
 uiArtefactRestrict	[@{C02F}Su lealtad o nivel de fama no le permite usar este artículo.]
 
 // HASH_VALUE 8F2D062BF5B9C40F
-// INDEX 6553
+// INDEX 6568
 uiArtefactHelp	[Compra un pacto antes de que se agoten las existencias.]
 
 // HASH_VALUE 2399649083687012
-// INDEX 6554
+// INDEX 6569
 uimIhideBanner	[Ocultar estandarte de facción]
 
 // HASH_VALUE 6949609B83899C11
-// INDEX 6555
+// INDEX 6570
 uimIshowBanner	[Mostrar estandarte de la facción]
 
 // HASH_VALUE ABC89C4230B523CE
-// INDEX 6556
+// INDEX 6571
 uimIcloseOnTp	[Ventana de cierre de teletransporte]
 
 // HASH_VALUE AC39905229BA7F54
-// INDEX 6557
+// INDEX 6572
 uimIopenOnTp	[Ventana de teletransporte]
 
 // HASH_VALUE EB1A8C8F22674C92
-// INDEX 6558
+// INDEX 6573
 uimIrefresh	[Renovar]
 
 // HASH_VALUE 210983972690C4AB
-// INDEX 6559
+// INDEX 6574
 uimIcompact	[Conmutar el modo compacto]
 
 // HASH_VALUE 649C144C649C144C
-// INDEX 6560
+// INDEX 6575
 uimChanSave	[Guardar]
 
 // HASH_VALUE AA977387EA09F021
-// INDEX 6561
+// INDEX 6576
 uiChanSaveCB	[Guardar canales dinámicos]
 
 // HASH_VALUE 2D6AB02BF4A8CCB9
-// INDEX 6562
+// INDEX 6577
 uiChanAutoCB	[Restaurar canales dinámicos]
 
 // HASH_VALUE 6E62AFABF9C9FF64
-// INDEX 6563
+// INDEX 6578
 uittChanSave	[Si está marcada, los canales de chat dinámico se almacenan al desconectarse o al seleccionar un carácter.\n
 	También puede utilizar el comando @{6F6F}/saveChannel@{FFFF} para exportar canales manualmente.]
 
 // HASH_VALUE 1937B73191F88AC6
-// INDEX 6564
+// INDEX 6579
 uittChanAuto	[Si está marcada, sus canales de chat dinámico se restaurarán si no están abiertos.\n
 	Evitará la pérdida de canales al reiniciar o en caso de caída del servidor.]
 
-// HASH_VALUE F7F6CC407B89B9D3
-// INDEX 6565
-uiWelcome_around	[El juego de roles es uno de los principales intereses de Ryzom, y alrededor del canal es un lugar importante para practicarlo.]
-
-// HASH_VALUE B061D9467D44EA31
-// INDEX 6566
-uiWelcome_region	[Chatea aquí con otros jugadores que tengan su avatar en la misma región que el tuyo.]
-
-// HASH_VALUE DB96555152E1C24F
-// INDEX 6567
-uiWelcome_universe	[El Canal Universo es multilingüe está destinado en primer lugar a los jugadores que piden ayuda sobre el juego y a los que les ayudan. Es un canal amigable que también puede ser utilizado para chatear relacionado con Ryzom.]
-
-// HASH_VALUE 7C727C9DF8FD147A
-// INDEX 6568
-uiWelcome_kami	[Chatea aquí con jugadores que tienen su avatar compartiendo el mismo culto que el tuyo.]
-
-// HASH_VALUE 7C727C9DF8FD147A
-// INDEX 6569
-uiWelcome_karavan	[Chatea aquí con jugadores que tienen su avatar compartiendo el mismo culto que el tuyo.]
-
-// HASH_VALUE 83F0F7CB75FA4A0B
-// INDEX 6570
-uiWelcome_fyros	[Chatea aquí con jugadores cuyo avatar es también un patriota.]
-
-// HASH_VALUE 41F017BE7599221C
-// INDEX 6571
-uiWelcome_tryker	[Chatea aquí con jugadores cuyo avatar es también ciudadano.]
-
-// HASH_VALUE 418FCFE09AC93216
-// INDEX 6572
-uiWelcome_zorai	[Chatea aquí con jugadores cuyo avatar también es un iniciado.]
-
-// HASH_VALUE C3E0F7D1EA953E03
-// INDEX 6573
-uiWelcome_matis	[Chatea aquí con jugadores cuyo avatar también es un vasallo.]
-
-// HASH_VALUE 3FD0F7F686091E17
-// INDEX 6574
-uiWelcome_marauder	[Chatea aquí con jugadores cuyo avatar también es un marauder.]
-
-// HASH_VALUE C08FF7CDEA955607
-// INDEX 6575
-uiWelcome_ranger	[Chatea aquí con jugadores cuyo avatar también es un ranger.]
+// HASH_VALUE A9CBC85A8532D0B3
+// INDEX 6580
+uiMissionCatalog	[Diario de Misiones]
 
