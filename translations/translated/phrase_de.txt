@@ -69950,7 +69950,7 @@ WHOAMI_TASK_FRONTIERS_SUPPLIER ()
 // HASH_VALUE FDBD6B64E32CD67A
 WHOAMI_TASK_HAWKER ()
 {
-		whoami_task_hawker	[Ich bin immer unterwegs, sammele Objekte auf diesem Kontinent und verkaufe sie an andere , das ist es was Hawker tun, weißt Du. Übrigents, wenn Du das eine oder andere Objekt oder Material für mich hast, hab ich auch die eine oder andere Kleinigkeit für Dich.]
+		whoami_task_hawker	[Ich bin immer unterwegs, sammele Gegenstände auf diesem Kontinent und verkaufe diese an Andere , das ist es was Hausierer tun, weißt Du. Übrigens, wenn Du irgendeinen Gegenstand oder auch Material für mich hast, könnte ich auch Dir ein wenig dafür geben.]
 
 }
 
