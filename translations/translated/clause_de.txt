@@ -35446,7 +35446,7 @@ whoami_task_frontiers_supplier	[Ich betreibe ein Versorgungsnetz für Händler u
 
 // HASH_VALUE 281F24955C1541B1
 // INDEX 8417
-whoami_task_hawker	[Ich bin immer unterwegs, sammele Gegenstände auf diesem Kontinent und verkaufe diese an Andere , das ist es was Hausierer tun, weißt Du. Übrigens, wenn Du irgendeinen Gegenstand oder auch Material für mich hast, könnte ich auch Dir ein wenig dafür geben.]
+whoami_task_hawker	[Ich bin immer unterwegs, sammele Gegenstände auf diesem Kontinent und verkaufe diese an Andere , das ist es was Hausierer tun, weißt Du. Übrigens, wenn Du irgendeinen Gegenstand oder auch Material für mich hast, könnte ich Dir auch ein wenig dafür geben.]
 
 // HASH_VALUE 405CE43FC3AE08FE
 // INDEX 8418
