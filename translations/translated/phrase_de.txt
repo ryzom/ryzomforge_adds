@@ -41018,7 +41018,7 @@ MISSION_MAX_SOLO_REACHED ()
 // HASH_VALUE 923525270019F64B
 MISSION_PREREQ_ACTION (sbrick s)
 {
-			[Für diese Mission müssen Sie die Stanza "$s$" beherrschen.]
+			[Für diese Mission musst Du die Stanza "$s$" beherrschen.]
 
 }
 
@@ -41046,28 +41046,28 @@ MISSION_PREREQ_ENCYCLO_ALL_DONE (dyn_string_id thema, dyn_string_id album)
 // HASH_VALUE AA972AC236D15732
 MISSION_PREREQ_EVENT_FACTION (event_faction ef)
 {
-			[Sie müssen in der Eventfraktion '$ef$'sein.]
+			[Du musst in der Eventfraktion '$ef$'sein.]
 
 }
 
 // HASH_VALUE 0DFCF30ED9F115FD
 MISSION_PREREQ_FAME_FACTION (faction f, int level)
 {
-			[Sie müssen mindestens eine Ruhmstufe von $level$ bei der Fraktion $f$ haben.]
+			[Du musst mindestens eine Ruhmstufe von $level$ bei der Fraktion $f$ haben.]
 
 }
 
 // HASH_VALUE 94DD0E9B083FF5F4
 MISSION_PREREQ_KAMI ()
 {
-			[Ihr Ruhm bei den Kamis müss höher sein als der bei der Karavan.]
+			[Dein Ruhm bei den Kamis muss höher sein als bei den Karavan.]
 
 }
 
 // HASH_VALUE 9D95C86D2895AE00
 MISSION_PREREQ_KARAVAN ()
 {
-			[Ihr Ruhm bei der Karavan muss höher sein als der bei den Kamis.]
+			[Dein Ruhm bei den Karavan muss höher sein als bei den Kamis.]
 
 }
 
@@ -41102,7 +41102,7 @@ MISSION_PREREQ_MISSION_RUNNING (dyn_string_id str)
 // HASH_VALUE 231F493A834B9768
 MISSION_PREREQ_MONO ()
 {
-			[Diese Mission kann zurzeit nicht genommen werden, komme später wieder.]
+			[Diese Mission kann zurzeit nicht genommen werden, komm später wieder.]
 
 }
 
@@ -41178,7 +41178,7 @@ MISSION_PREREQ_TEAM_LEADER ()
 // HASH_VALUE 345611AFA150C5BE
 MISSION_PREREQ_TEAM_SIZE (int n)
 {
-			[Ihr Team muss mindestens aus $n$ Mitgliedern bestehen.]
+			[Dein Team muss mindestens aus $n$ Mitgliedern bestehen.]
 
 }
 
@@ -41198,7 +41198,7 @@ MISSION_PREREQ_TIMER (int days, int h, int m)
 // HASH_VALUE D7C8585B2742189B
 MISSION_PREREQ_TITLE (title title)
 {
-			[Sie müssen den Titel "$title$" anzeigen.]
+			[Du musst den Titel "$title$" anzeigen.]
 
 }
 
