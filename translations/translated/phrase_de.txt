@@ -34147,10 +34147,10 @@ ITEM_SOLDED_TO_NPC ( item item, int qty, int price )
 ITEM_SOLD_TO_MARKET (item item, int qty )
 {
 	(qty=1)
-		item_sold_market_1	[&ITM&Dein $item$ wurde verkauft und der Händler hat Dir schon die entsprechenden Dapper gegeben.]
+		item_sold_market_1	[&ITM&Dein $item$ wurde nicht verkauft, aber Dir wurden bereits Dapper dafür gegeben.]
 
 	(qty>1)
-		item_sold_market_2	[&ITM&Deine $qty$ $item.p$ wurden verkauft und der Händler hat Dir schon die entsprechenden Dapper gegeben.]
+		item_sold_market_2	[&ITM&Deine $qty$ $item.p$ wurden nicht verkauft, aber Dir wurden bereits Dapper dafür gegeben.]
 
 }
 

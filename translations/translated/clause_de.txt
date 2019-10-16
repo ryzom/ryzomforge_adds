@@ -14007,11 +14007,11 @@ item_sold_2	[&ITM&Du verkaufst $qty$ $item.p$ für $moneyNow$ Dapper.]
 
 // HASH_VALUE 0EF55C02449AABA9
 // INDEX 3453
-item_sold_market_1	[&ITM&Dein $item$ wurde verkauft und der Händler hat Dir schon die entsprechenden Dapper gegeben.]
+item_sold_market_1	[&ITM&Dein $item$ wurde nicht verkauft, aber Dir wurden bereits Dapper dafür gegeben.]
 
 // HASH_VALUE C06602DB6E0C9F1C
 // INDEX 3454
-item_sold_market_2	[&ITM&Deine $qty$ $item.p$ wurden verkauft und der Händler hat Dir schon die entsprechenden Dapper gegeben.]
+item_sold_market_2	[&ITM&Deine $qty$ $item.p$ wurden nicht verkauft, aber Dir wurden bereits Dapper dafür gegeben.]
 
 // HASH_VALUE 0C7FE46272EFB1A9
 // INDEX 3455
