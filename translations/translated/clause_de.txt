@@ -13915,7 +13915,7 @@ inventory_buy_item_1	[&ITM&Du hast gerade $item.ia$ $item$ für $cost$ Dapper ge
 
 // HASH_VALUE 41099EB7C866EE4C
 // INDEX 3430
-inventory_buy_item_p	[&ITM&Du hast gerade $qty$ $item.p$ für $cost$ Dapper gekauft.]
+inventory_buy_item_p	[&ITM&Du hasdt gerade $qty$ $item.p$ für $cost$ Dapper gekauft.]
 
 // HASH_VALUE A6A04DC28E1ED640
 // INDEX 3431
