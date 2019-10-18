@@ -64745,242 +64745,55 @@ TEMPLATE_TASK_LOOT_GIVE_9_TITLE (bot giver, int random, faction f)
 // HASH_VALUE 144974F732A22296
 TEMPLATE_TASK_LOOT_GIVE_INTRO_1 (bot giver, item i1, int qt1, int ql1, int reward, int timelimit, int random, faction f)
 {
-// 1=singular p=plural
-// 1 ; p
-	(reward > 0 & timelimit = 0 & i1 = 1 )
-		template_task_loot_give_intro_1_money_1	[Ich benötige $qt1$ $i1$ der Qualiät $ql1$. Wenn Du mir welche bringst, zahle ich Dir $reward$ Dapper.]
+	(reward > 0 & timelimit = 0)
+		template_task_loot_give_intro_1_money	[Ich benötige $qt1$ $i1$ der Qualiät $ql1$. Wenn Du mir welche bringst, zahle ich Dir $reward$ Dapper.]
 
-	(reward > 0 & timelimit = 0 & i1 > 1 )
-		template_task_loot_give_intro_1_money_p	[Ich benötige $qt1$ $i1.p$ der Qualiät $ql1$. Wenn Du mir welche bringst, zahle ich Dir $reward$ Dapper.]
-
-
-
-	(reward > 0 & timelimit > 0 & i1 = 1)
-		template_task_loot_give_intro_1_money_timed_1	[Ich benötige $qt1$ $i1$ der Qualiät $ql1$. Wenn Du mir welche bringst, zahle ich Dir $reward$ Dapper.\n
+	(reward > 0 & timelimit > 0)
+		template_task_loot_give_intro_1_money_timed	[Ich benötige $qt1$ $i1$ der Qualiät $ql1$. Wenn Du mir welche bringst, zahle ich Dir $reward$ Dapper.\n
 			Doch schnell, es ist sehr dringend!]
 
-	(reward > 0 & timelimit > 0 & i1 > 1)
-		template_task_loot_give_intro_1_money_timed_p	[Ich benötige $qt1$ $i1.p$ der Qualiät $ql1$. Wenn Du mir welche bringst, zahle ich Dir $reward$ Dapper.\n
+	(timelimit > 0)
+		template_task_loot_give_intro_1_fame_timed	[Ich benötige $qt1$ $i1$ der Qualiät $ql1$. Wenn Du mir welche bringst, werden $f.mda$ $f.member$ DIr sehr dankbar sein.\n
 			Doch schnell, es ist sehr dringend!]
 
-
-
-	(timelimit > 0 & i1 =  1)
-		template_task_loot_give_intro_1_fame_timed_1	[Ich benötige $qt1$ $i1$ der Qualiät $ql1$. Wenn Du mir welche bringst, werden $f.mda$ $f.member$ Dir sehr dankbar sein.\n
-			Doch schnell, es ist sehr dringend!]
-
-	(timelimit > 0 & i1 > 1)
-		template_task_loot_give_intro_1_fame_timed_p	[Ich benötige $qt1$ $i1.p$ der Qualiät $ql1$. Wenn Du mir welche bringst, werden $f.mda$ $f.member$ Dir sehr dankbar sein.\n
-			Doch schnell, es ist sehr dringend!]
-
-
-
-	( i1 = 1 )
-		template_task_loot_give_intro_1_fame_1	[Ich benötige $qt1$ $i1$ der Qualiät $ql1$. Wenn Du mir welche bringst, werden $f.mda$ $f.member$ Dir sehr dankbar sein.]
-
-	( i1 > 1 )
-		template_task_loot_give_intro_1_fame_p	[Ich benötige $qt1$ $i1.p$ der Qualiät $ql1$. Wenn Du mir welche bringst, werden $f.mda$ $f.member$ Dir sehr dankbar sein.]
+		template_task_loot_give_intro_1_fame	[Ich benötige $qt1$ $i1$ der Qualiät $ql1$. Wenn Du mir welche bringst, werden $f.mda$ $f.member$ Dir sehr dankbar sein.]
 
 }
 
 // HASH_VALUE 5E13C2ABA74066C3
 TEMPLATE_TASK_LOOT_GIVE_INTRO_2 (bot giver, item i1, int qt1, int ql1, item i2, int qt2, int ql2, int reward, int timelimit, int random, faction f)
 {
-// 1 ; p; 1p; p1
-	(reward > 0 & timelimit = 0 & i1 = 1 )
-		template_task_loot_give_intro_2_money_1	[Ich benötige $qt1$ $i1$ der Qualität $ql1$ und $qt2$ $i2$ der Qualität $ql2$. Wenn Du mir welche bringst, zahle ich Dir $reward$ Dapper.]
+	(reward > 0 & timelimit = 0)
+		template_task_loot_give_intro_2_money	[Ich benötige $qt1$ $i1$ der Qualität $ql1$ und $qt2$ $i2$ der Qualität $ql2$. Wenn Du mir welche bringst, zahle ich Dir $reward$ Dapper.]
 
-(reward > 0 & timelimit = 0 & i1 > 1 )
-		template_task_loot_give_intro_2_money_p	[Ich benötige $qt1$ $i1.p$ der Qualität $ql1$ und $qt2$ $i2.p$ der Qualität $ql2$. Wenn Du mir welche bringst, zahle ich Dir $reward$ Dapper.]
-
-(reward > 0 & timelimit = 0 & i1 > 1 )
-		template_task_loot_give_intro_2_money_1p	[Ich benötige $qt1$ $i1$ der Qualität $ql1$ und $qt2$ $i2.p$ der Qualität $ql2$. Wenn Du mir welche bringst, zahle ich Dir $reward$ Dapper.]
-
-(reward > 0 & timelimit = 0 & i1 > 1 )
-		template_task_loot_give_intro_2_money_p1	[Ich benötige $qt1$ $i1.p$ der Qualität $ql1$ und $qt2$ $i2$ der Qualität $ql2$. Wenn Du mir welche bringst, zahle ich Dir $reward$ Dapper.]
-
-
-// 1 ; p; 1p; p1
-	(reward > 0 & timelimit > 0 & i1 = 1 )
-		template_task_loot_give_intro_2_money_timed_1	[Ich benötige $qt1$ $i1$ der Qualität $ql1$ und $qt2$ $i2$ der Qualität $ql2$. Wenn Du mir welche bringst, zahle ich Dir $reward$ Dapper.\n
+	(reward > 0 & timelimit > 0)
+		template_task_loot_give_intro_2_money_timed	[Ich benötige $qt1$ $i1$ der Qualität $ql1$ und $qt2$ $i2$ der Qualität $ql2$. Wenn Du mir welche bringst, zahle ich Dir $reward$ Dapper.\n
 			Doch schnell, es ist sehr dringend!]
 
-(reward > 0 & timelimit > 0 & i1 > 1 )
-		template_task_loot_give_intro_2_money_timed_p	[Ich benötige $qt1$ $i1.p$ der Qualität $ql1$ und $qt2$ $i2.p$ der Qualität $ql2$. Wenn Du mir welche bringst, zahle ich Dir $reward$ Dapper.\n
+	(timelimit > 0)
+		template_task_loot_give_intro_2_fame_timed	[Ich benötige $qt1$ $i1$ der Qualität $ql1$ und $qt2$ $i2$ der Qualität $ql2$. Wenn Du mir welche bringst, werden $f.mda$ $f.member$ Dir sehr dankbar sein.\n
 			Doch schnell, es ist sehr dringend!]
 
-(reward > 0 & timelimit > 0 & i1 > 1 )
-		template_task_loot_give_intro_2_money_timed_1p	[Ich benötige $qt1$ $i1$ der Qualität $ql1$ und $qt2$ $i2.p$ der Qualität $ql2$. Wenn Du mir welche bringst, zahle ich Dir $reward$ Dapper.\n
-			Doch schnell, es ist sehr dringend!]
-
-(reward > 0 & timelimit > 0 & i1 > 1 )
-		template_task_loot_give_intro_2_money_timed_p1	[Ich benötige $qt1$ $i1.p$ der Qualität $ql1$ und $qt2$ $i2$ der Qualität $ql2$. Wenn Du mir welche bringst, zahle ich Dir $reward$ Dapper.\n
-			Doch schnell, es ist sehr dringend!]
-
-
-// 1 ; p; 1p; p1
-	(timelimit > 0 & i1 = 1 )
-		template_task_loot_give_intro_2_fame_timed_1	[Ich benötige $qt1$ $i1$ der Qualität $ql1$ und $qt2$ $i2$ der Qualität $ql2$. Wenn Du mir welche bringst, werden $f.mda$ $f.member$ Dir sehr dankbar sein.\n
-			Doch schnell, es ist sehr dringend!]
-
-	(timelimit > 0 & i1 > 1 & i1 > 1 )
-		template_task_loot_give_intro_2_fame_timed_p	[Ich benötige $qt1$ $i1.p$ der Qualität $ql1$ und $qt2$ $i2$ der Qualität $ql2$. Wenn Du mir welche bringst, werden $f.mda$ $f.member$ Dir sehr dankbar sein.\n
-			Doch schnell, es ist sehr dringend!]
-
-	(timelimit > 0 & i1 > 1 & i1 > 1 )
-		template_task_loot_give_intro_2_fame_timed_1p	[Ich benötige $qt1$ $i1$ der Qualität $ql1$ und $qt2$ $i2.p$ der Qualität $ql2$. Wenn Du mir welche bringst, werden $f.mda$ $f.member$ Dir sehr dankbar sein.\n
-			Doch schnell, es ist sehr dringend!]
-
-	(timelimit > 0 & i1 > 1 & i1 > 1 )
-		template_task_loot_give_intro_2_fame_timed_p1	[Ich benötige $qt1$ $i1.p$ der Qualität $ql1$ und $qt2$ $i2$ der Qualität $ql2$. Wenn Du mir welche bringst, werden $f.mda$ $f.member$ Dir sehr dankbar sein.\n
-			Doch schnell, es ist sehr dringend!]
-
-
-// 1 ; p; 1p; p1
-	( i1 = 1 )
-		template_task_loot_give_intro_2_fame_1	[Ich benötige $qt1$ $i1$ der Qualität $ql1$ und $qt2$ $i2$ der Qualität $ql2$. Wenn Du mir welche bringst, werden $f.mda$ $f.member$ Dir sehr dankbar sein.]
-
-	( i1 > 1 )
-		template_task_loot_give_intro_2_fame_p	[Ich benötige $qt1$ $i1.p$ der Qualität $ql1$ und $qt2$ $i2$ der Qualität $ql2$. Wenn Du mir welche bringst, werden $f.mda$ $f.member$ Dir sehr dankbar sein.]
-
-	( i1 > 1 )
-		template_task_loot_give_intro_2_fame_1p	[Ich benötige $qt1$ $i1$ der Qualität $ql1$ und $qt2$ $i2.p$ der Qualität $ql2$. Wenn Du mir welche bringst, werden $f.mda$ $f.member$ Dir sehr dankbar sein.]
-
-	( i1 > 1 )
-		template_task_loot_give_intro_2_fame_p1	[Ich benötige $qt1$ $i1.p$ der Qualität $ql1$ und $qt2$ $i2$ der Qualität $ql2$. Wenn Du mir welche bringst, werden $f.mda$ $f.member$ Dir sehr dankbar sein.]
+		template_task_loot_give_intro_2_fame	[Ich benötige $qt1$ $i1$ der Qualität $ql1$ und $qt2$ $i2$ der Qualität $ql2$. Wenn Du mir welche bringst, werden $f.mda$ $f.member$ Dir sehr dankbar sein.]
 
 }
 
 // HASH_VALUE 42C284CE44D35182
 TEMPLATE_TASK_LOOT_GIVE_INTRO_3 (bot giver, item i1, int qt1, int ql1, item i2, int qt2, int ql2, item i3, int qt3, int ql3, int reward, int timelimit, int random, faction f)
 {
-// 1 ; p ; 1pp ; pp1 ; 11p ; p11 ; 1p1 ; p1p
-	(reward > 0 & timelimit = 0 & i1 = 1 )
-		template_task_loot_give_intro_3_money_1	[Ich benötige $qt1$ $i1$ der Qualität $ql1$, $qt2$ $i2$ der Qualität $ql2$ und $qt3$ $i3$ der Qualität $ql3$. Wenn Du mir welche bringst, zahle ich Dir $reward$ Dapper.]
+	(reward > 0 & timelimit = 0)
+		template_task_loot_give_intro_3_money	[Ich benötige $qt1$ $i1$ der Qualität $ql1$, $qt2$ $i2$ der Qualität $ql2$ und $qt3$ $i3$ der Qualität $ql3$. Wenn Du mir welche bringst, zahle ich Dir $reward$ Dapper.]
 
-	(reward > 0 & timelimit = 0 & i1 > 1 )
-		template_task_loot_give_intro_3_money_p	[Ich benötige $qt1$ $i1.p$ der Qualität $ql1$, $qt2$ $i2.p$ der Qualität $ql2$ und $qt3$ $i3.p$ der Qualität $ql3$. Wenn Du mir welche bringst, zahle ich Dir $reward$ Dapper.]
-
-	(reward > 0 & timelimit = 0 & i1 > 1 )
-		template_task_loot_give_intro_3_money_1pp	[Ich benötige $qt1$ $i1$ der Qualität $ql1$, $qt2$ $i2.p$ der Qualität $ql2$ und $qt3$ $i3.p$ der Qualität $ql3$. Wenn Du mir welche bringst, zahle ich Dir $reward$ Dapper.]
-
-	(reward > 0 & timelimit = 0 & i1 > 1 )
-		template_task_loot_give_intro_3_money_pp1	[Ich benötige $qt1$ $i1.p$ der Qualität $ql1$, $qt2$ $i2.p$ der Qualität $ql2$ und $qt3$ $i3$ der Qualität $ql3$. Wenn Du mir welche bringst, zahle ich Dir $reward$ Dapper.]
-
-	(reward > 0 & timelimit = 0 & i1 > 1 )
-		template_task_loot_give_intro_3_money_11p	[Ich benötige $qt1$ $i1$ der Qualität $ql1$, $qt2$ $i2$ der Qualität $ql2$ und $qt3$ $i3.p$ der Qualität $ql3$. Wenn Du mir welche bringst, zahle ich Dir $reward$ Dapper.]
-
-	(reward > 0 & timelimit = 0 & i1 > 1 )
-		template_task_loot_give_intro_3_money_p11	[Ich benötige $qt1$ $i1.p$ der Qualität $ql1$, $qt2$ $i2$ der Qualität $ql2$ und $qt3$ $i3$ der Qualität $ql3$. Wenn Du mir welche bringst, zahle ich Dir $reward$ Dapper.]
-
-	(reward > 0 & timelimit = 0 & i1 > 1 )
-		template_task_loot_give_intro_3_money_1p1	[Ich benötige $qt1$ $i1$ der Qualität $ql1$, $qt2$ $i2.p$ der Qualität $ql2$ und $qt3$ $i3$ der Qualität $ql3$. Wenn Du mir welche bringst, zahle ich Dir $reward$ Dapper.]
-
-	(reward > 0 & timelimit = 0 & i1 > 1 )
-		template_task_loot_give_intro_3_money_p1p	[Ich benötige $qt1$ $i1.p$ der Qualität $ql1$, $qt2$ $i2$ der Qualität $ql2$ und $qt3$ $i3.p$ der Qualität $ql3$. Wenn Du mir welche bringst, zahle ich Dir $reward$ Dapper.]
-
-
-
-// 1 ; p ; 1pp ; pp1 ; 11p ; p11 ; 1p1 ; p1p; 
-	(reward > 0 & timelimit > 0 & i1 = 1 )
-		template_task_loot_give_intro_3_money_timed_1	[Ich benötige $qt1$ $i1$ der Qualität $ql1$, $qt2$ $i2$ der Qualität $ql2$ und $qt3$ $i3$ der Qualität $ql3$. Wenn Du mir welche bringst, zahle ich Dir $reward$ Dapper.\n
+	(reward > 0 & timelimit > 0)
+		template_task_loot_give_intro_3_money_timed	[Ich benötige $qt1$ $i1$ der Qualität $ql1$, $qt2$ $i2$ der Qualität $ql2$ und $qt3$ $i3$ der Qualität $ql3$. Wenn Du mir welche bringst, zahle ich Dir $reward$ Dapper.\n
 			Doch schnell, es ist sehr dringend!]
 
-	(reward > 0 & timelimit > 0 & i1 > 1)
-		template_task_loot_give_intro_3_money_timed_p	[Ich benötige $qt1$ $i1.p$ der Qualität $ql1$, $qt2$ $i2.p$ der Qualität $ql2$ und $qt3$ $i3.p$ der Qualität $ql3$. Wenn Du mir welche bringst, zahle ich Dir $reward$ Dapper.\n
+	(timelimit > 0)
+		template_task_loot_give_intro_3_fame_timed	[Ich benötige $qt1$ $i1$ der Qualität $ql1$, $qt2$ $i2$ der Qualität $ql2$ und $qt3$ $i3$ der Qualität $ql3$. Wenn Du mir welche bringst, werden $f.mda$ $f.member$ Dir sehr dankbar sein.\n
 			Doch schnell, es ist sehr dringend!]
 
-	(reward > 0 & timelimit > 0 & i1 > 1)
-		template_task_loot_give_intro_3_money_timed_1pp	[Ich benötige $qt1$ $i1$ der Qualität $ql1$, $qt2$ $i2.p$ der Qualität $ql2$ und $qt3$ $i3.p$ der Qualität $ql3$. Wenn Du mir welche bringst, zahle ich Dir $reward$ Dapper.\n
-			Doch schnell, es ist sehr dringend!]
+		template_task_loot_give_intro_3_fame	[Ich benötige $qt1$ $i1$ der Qualität $ql1$, $qt2$ $i2$ der Qualität $ql2$ und $qt3$ $i3$ der Qualität $ql3$. Wenn Du mir welche bringst, werden $f.mda$ $f.member$ Dir sehr dankbar sein.]
 
-	(reward > 0 & timelimit > 0 & i1 > 1)
-		template_task_loot_give_intro_3_money_timed_pp1	[Ich benötige $qt1$ $i1.p$ der Qualität $ql1$, $qt2$ $i2.p$ der Qualität $ql2$ und $qt3$ $i3$ der Qualität $ql3$. Wenn Du mir welche bringst, zahle ich Dir $reward$ Dapper.\n
-			Doch schnell, es ist sehr dringend!]
-
-	(reward > 0 & timelimit > 0 & i1 > 1)
-		template_task_loot_give_intro_3_money_timed_11p	[Ich benötige $qt1$ $i1$ der Qualität $ql1$, $qt2$ $i2$ der Qualität $ql2$ und $qt3$ $i3.p$ der Qualität $ql3$. Wenn Du mir welche bringst, zahle ich Dir $reward$ Dapper.\n
-			Doch schnell, es ist sehr dringend!]
-
-	(reward > 0 & timelimit > 0 & i1 > 1)
-		template_task_loot_give_intro_3_money_timed_p11	[Ich benötige $qt1$ $i1.p$ der Qualität $ql1$, $qt2$ $i2$ der Qualität $ql2$ und $qt3$ $i3$ der Qualität $ql3$. Wenn Du mir welche bringst, zahle ich Dir $reward$ Dapper.\n
-			Doch schnell, es ist sehr dringend!]
-
-	(reward > 0 & timelimit > 0 & i1 > 1)
-		template_task_loot_give_intro_3_money_timed_pp1	[Ich benötige $qt1$ $i1.p$ der Qualität $ql1$, $qt2$ $i2.p$ der Qualität $ql2$ und $qt3$ $i3$ der Qualität $ql3$. Wenn Du mir welche bringst, zahle ich Dir $reward$ Dapper.\n
-			Doch schnell, es ist sehr dringend!]
-
-	(reward > 0 & timelimit > 0 & i1 > 1)
-		template_task_loot_give_intro_3_money_timed_1pp	[Ich benötige $qt1$ $i1$ der Qualität $ql1$, $qt2$ $i2.p$ der Qualität $ql2$ und $qt3$ $i3.p$ der Qualität $ql3$. Wenn Du mir welche bringst, zahle ich Dir $reward$ Dapper.\n
-			Doch schnell, es ist sehr dringend!]
-
-	(reward > 0 & timelimit > 0 & i1 > 1)
-		template_task_loot_give_intro_3_money_timed_1p1	[Ich benötige $qt1$ $i1$ der Qualität $ql1$, $qt2$ $i2.p$ der Qualität $ql2$ und $qt3$ $i3$ der Qualität $ql3$. Wenn Du mir welche bringst, zahle ich Dir $reward$ Dapper.\n
-			Doch schnell, es ist sehr dringend!]
-
-	(reward > 0 & timelimit > 0 & i1 > 1)
-		template_task_loot_give_intro_3_money_timed_p1p	[Ich benötige $qt1$ $i1.p$ der Qualität $ql1$, $qt2$ $i2$ der Qualität $ql2$ und $qt3$ $i3.p$ der Qualität $ql3$. Wenn Du mir welche bringst, zahle ich Dir $reward$ Dapper.\n
-			Doch schnell, es ist sehr dringend!]
-
-
-// 1 ; p ; 1pp ; pp1 ; 11p ; p11 ; 1p1 ; p1p; 
-	(timelimit > 0 & i1 = 1 )
-		template_task_loot_give_intro_3_fame_timed_1	[Ich benötige $qt1$ $i1$ der Qualität $ql1$, $qt2$ $i2$ der Qualität $ql2$ und $qt3$ $i3$ der Qualität $ql3$. Wenn Du mir welche bringst, werden $f.mda$ $f.member$ Dir sehr dankbar sein.\n
-			Doch schnell, es ist sehr dringend!]
-
-	(timelimit > 0 & i1 > 1 )
-		template_task_loot_give_intro_3_fame_timed_p	[Ich benötige $qt1$ $i1.p$ der Qualität $ql1$, $qt2$ $i2.p$ der Qualität $ql2$ und $qt3$ $i3.p$ der Qualität $ql3$. Wenn Du mir welche bringst, werden $f.mda$ $f.member$ Dir sehr dankbar sein.\n
-			Doch schnell, es ist sehr dringend!]
-
-	(timelimit > 0 & i1 > 1 )
-		template_task_loot_give_intro_3_fame_timed_1pp	[Ich benötige $qt1$ $i1$ der Qualität $ql1$, $qt2$ $i2.p$ der Qualität $ql2$ und $qt3$ $i3.p$ der Qualität $ql3$. Wenn Du mir welche bringst, werden $f.mda$ $f.member$ Dir sehr dankbar sein.\n
-			Doch schnell, es ist sehr dringend!]
-
-	(timelimit > 0 & i1 > 1 )
-		template_task_loot_give_intro_3_fame_timed_pp1	[Ich benötige $qt1$ $i1.p$ der Qualität $ql1$, $qt2$ $i2.p$ der Qualität $ql2$ und $qt3$ $i3$ der Qualität $ql3$. Wenn Du mir welche bringst, werden $f.mda$ $f.member$ Dir sehr dankbar sein.\n
-			Doch schnell, es ist sehr dringend!]
-
-	(timelimit > 0 & i1 > 1 )
-		template_task_loot_give_intro_3_fame_timed_11p	[Ich benötige $qt1$ $i1$ der Qualität $ql1$, $qt2$ $i2$ der Qualität $ql2$ und $qt3$ $i3.p$ der Qualität $ql3$. Wenn Du mir welche bringst, werden $f.mda$ $f.member$ Dir sehr dankbar sein.\n
-			Doch schnell, es ist sehr dringend!]
-
-	(timelimit > 0 & i1 > 1 )
-		template_task_loot_give_intro_3_fame_timed_p11	[Ich benötige $qt1$ $i1.p$ der Qualität $ql1$, $qt2$ $i2$ der Qualität $ql2$ und $qt3$ $i3$ der Qualität $ql3$. Wenn Du mir welche bringst, werden $f.mda$ $f.member$ Dir sehr dankbar sein.\n
-			Doch schnell, es ist sehr dringend!]
-
-	(timelimit > 0 & i1 > 1 )
-		template_task_loot_give_intro_3_fame_timed_1p1	[Ich benötige $qt1$ $i1$ der Qualität $ql1$, $qt2$ $i2.p$ der Qualität $ql2$ und $qt3$ $i3$ der Qualität $ql3$. Wenn Du mir welche bringst, werden $f.mda$ $f.member$ Dir sehr dankbar sein.\n
-			Doch schnell, es ist sehr dringend!]
-
-	(timelimit > 0 & i1 > 1 )
-		template_task_loot_give_intro_3_fame_timed_p1p	[Ich benötige $qt1$ $i1.p$ der Qualität $ql1$, $qt2$ $i2$ der Qualität $ql2$ und $qt3$ $i3.p$ der Qualität $ql3$. Wenn Du mir welche bringst, werden $f.mda$ $f.member$ Dir sehr dankbar sein.\n
-			Doch schnell, es ist sehr dringend!]
-
-
-// 1 ; p ; 1pp ; pp1 ; 11p ; p11 ; 1p1 ; p1p; 
-	( i1 = 1 )
-		template_task_loot_give_intro_3_fame_1	[Ich benötige $qt1$ $i1$ der Qualität $ql1$, $qt2$ $i2$ der Qualität $ql2$ und $qt3$ $i3$ der Qualität $ql3$. Wenn Du mir welche bringst, werden $f.mda$ $f.member$ Dir sehr dankbar sein.]
-
-	( i1 > 1 )
-		template_task_loot_give_intro_3_fame_p	[Ich benötige $qt1$ $i1.p$ der Qualität $ql1$, $qt2$ $i2.p$ der Qualität $ql2$ und $qt3$ $i3.p$ der Qualität $ql3$. Wenn Du mir welche bringst, werden $f.mda$ $f.member$ Dir sehr dankbar sein.]
-
-	( i1 > 1 )
-		template_task_loot_give_intro_3_fame_1pp	[Ich benötige $qt1$ $i1$ der Qualität $ql1$, $qt2$ $i2.p$ der Qualität $ql2$ und $qt3$ $i3.p$ der Qualität $ql3$. Wenn Du mir welche bringst, werden $f.mda$ $f.member$ Dir sehr dankbar sein.]
-
-	( i1 > 1 )
-		template_task_loot_give_intro_3_fame_pp1	[Ich benötige $qt1$ $i1.p$ der Qualität $ql1$, $qt2$ $i2.p$ der Qualität $ql2$ und $qt3$ $i3$ der Qualität $ql3$. Wenn Du mir welche bringst, werden $f.mda$ $f.member$ Dir sehr dankbar sein.]
-
-	( i1 > 1 )
-		template_task_loot_give_intro_3_fame_11p	[Ich benötige $qt1$ $i1$ der Qualität $ql1$, $qt2$ $i2$ der Qualität $ql2$ und $qt3$ $i3.p$ der Qualität $ql3$. Wenn Du mir welche bringst, werden $f.mda$ $f.member$ Dir sehr dankbar sein.]
-
-	( i1 > 1 )
-		template_task_loot_give_intro_3_fame_p11	[Ich benötige $qt1$ $i1.p$ der Qualität $ql1$, $qt2$ $i2$ der Qualität $ql2$ und $qt3$ $i3$ der Qualität $ql3$. Wenn Du mir welche bringst, werden $f.mda$ $f.member$ Dir sehr dankbar sein.]
-
-	( i1 > 1 )
-		template_task_loot_give_intro_3_fame_1p1	[Ich benötige $qt1$ $i1$ der Qualität $ql1$, $qt2$ $i2.p$ der Qualität $ql2$ und $qt3$ $i3$ der Qualität $ql3$. Wenn Du mir welche bringst, werden $f.mda$ $f.member$ Dir sehr dankbar sein.]
-
-	( i1 > 1 )
-		template_task_loot_give_intro_3_fame_p1p	[Ich benötige $qt1$ $i1.p$ der Qualität $ql1$, $qt2$ $i2$ der Qualität $ql2$ und $qt3$ $i3.p$ der Qualität $ql3$. Wenn Du mir welche bringst, werden $f.mda$ $f.member$ Dir sehr dankbar sein.]
 }
 
 // Clause 0 : text changed.
