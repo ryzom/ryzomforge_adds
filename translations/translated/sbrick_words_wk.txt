@@ -4300,11 +4300,11 @@ _9B36178111A0FD41	rpjob_205	<GEN>rpjob_205
 _9B36178251B0FD41	rpjob_206	<GEN>rpjob_206									
 _9B36178391C0FD41	rpjob_207	<GEN>rpjob_207									
 _ABB4786AB14A93B3	titre_gloire_kitinierereine	<GEN>titre_gloire_kitinierereine									
-_746CBA11062B580E	bcfaea22	Fyros Light Panties Craft Pattern		a	the				Brick Craftman's plan for fyros light panties		
-_DF39FFD1D6AC6519	bcfaea23	Fyros Light Bra Craft Pattern		a	the				Brick Craftman's plan for fyros light bra		
-_B5FC5A1806CB60F6	bcmaea22	Matis Light Panties Craft Pattern		a	the				Brick Craftman's plan for matis light panties		
-_5E69A7C098AC6519	bcmaea23	Matis Light Bra Craft Pattern		a	the				Brick Craftman's plan for matis light bra		
-_CC5E0B5DCA330EE8	bctaea22	Tryker Light Panties Craft Pattern		a	the				Brick Craftman's plan for tryker light panties		
-_DAF7F4053A24DF28	bctaea23	Tryker Light Bra Craft Pattern		a	the				Brick Craftman's plan for tryker light bra		
-_F6AD9225844B58FA	bczaea22	Zorai Light Panties Craft Pattern		a	the				Brick Craftman's plan for zorai light panties		
-_DA9AD7DBDBAC650F	bczaea23	Zorai Light Bra Craft Pattern		a	the				Brick Craftman's plan for zorai light bra		
+_DF39FFD196AC6519	bcfaea22	Fyros Light Panties Craft Pattern		a	the				Brick Craftman's plan for fyros light panties		
+_746CBA11462B580E	bcfaea23	Fyros Light Bra Craft Pattern		a	the				Brick Craftman's plan for fyros light bra		
+_5E69A7C058AC6519	bcmaea22	Matis Light Panties Craft Pattern		a	the				Brick Craftman's plan for matis light panties		
+_B5FC5A1846CB60F6	bcmaea23	Matis Light Bra Craft Pattern		a	the				Brick Craftman's plan for matis light bra		
+_DAF7F405FA24DF28	bctaea22	Tryker Light Panties Craft Pattern		a	the				Brick Craftman's plan for tryker light panties		
+_CC5E0B5D0A330EE8	bctaea23	Tryker Light Bra Craft Pattern		a	the				Brick Craftman's plan for tryker light bra		
+_DA9AD7DB9BAC650F	bczaea22	Zorai Light Panties Craft Pattern		a	the				Brick Craftman's plan for zorai light panties		
+_F6AD9225C44B58FA	bczaea23	Zorai Light Bra Craft Pattern		a	the				Brick Craftman's plan for zorai light bra		
