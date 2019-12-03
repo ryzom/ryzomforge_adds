@@ -36725,7 +36725,7 @@ MENU_TRADE ()
 // HASH_VALUE 5E79C47B9AFAE07D
 MENU_USE_PA ()
 {
-			[Utilice su implicación]
+			[Utilice su Elyps]
 
 }
 
