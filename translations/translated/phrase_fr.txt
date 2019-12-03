@@ -38026,7 +38026,7 @@ MENU_TRADE ()
 // HASH_VALUE 5E79C47B9AFAE07D
 MENU_USE_PA ()
 {
-			[Utilisez votre implication]
+			[Utilisez vos Elyps]
 
 }
 
@@ -44235,8 +44235,11 @@ MIS_GIVE_ITEM_9 (item i1, int q1, item i2, int q2, item i3, int q3, item i4, int
 // HASH_VALUE E47B327FA683E6AE
 MIS_GIVE_ITEM_MENU (int item_count)
 {
-		mis_give_item_menu	[Donnez l'objet $item_count$]
+	(item_count = 1)
+		mis_give_item_menu	[Donnez l'objet]
 
+	(item_count > 1)
+		mis_give_item_menu	[Donnez les $item_count$ objets]
 }
 
 // HASH_VALUE 189D95F60A4DF8A6
