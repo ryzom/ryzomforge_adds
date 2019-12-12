@@ -1346,6 +1346,7 @@ chddf2	Volatile Yubo	a	the			Volatile Yubos		the
 chddf3	Starving Yubo	a	the			Starving Yubos		the
 chdfa1	Fledgling Yubo	a	the			Fledgling Yubos		the
 chdfa2	Weeny Yubo	a	the			Weeny Yubos		the
+chdfa7	Yubokin	a	the			Yubokin		the
 chdfb1	Puny Yubo	a	the			Puny Yubos		the
 chdfb2	Mild Yubo	a	the			Mild Yubos		the
 chdfb3	Prime Yubo	a	the			Prime Yubos		the
@@ -5985,3 +5986,4 @@ gubani_mount_03	Gubani Mount	a	the			Gubani Mount		the
 gubani_mount_04	Gubani Mount	a	the			Gubani Mount		the
 chxjf_zig	Gubani Zig	a	the			Gubani Zig		the
 cpegf7	Cratchaki	a	the			 Cratchaki		the
+chxjf2_zig	Frippo Zig	a	the			Frippo Zig		the

@@ -108,6 +108,7 @@
     <!-- RESOLUTION ET LEVEL OF DETAILS -->
     <instance template="server_box" id="res_win" posparent="window" posref="TL TL" w="276" h="24" y="-733" x="10"/>
     <instance template="server_box" id="lod_win" posparent="res_win" posref="TR TL" w="276" h="24" x="16" />
+    <instance template="server_box" id="ver_win" posparent="lod_win" posref="TR TL" w="276" h="24" x="26" />
 	<!-- Game Configuration -->
 <!--    <ctrl style="log_std_but" id="but_game_configuration" posparent="lod_win" posref="TR TL" x="26"    onclick_l="on_game_configuration" hardtext="uiGameConfiguration" /> -->
 	<!-- EXIT BUTTON -->
@@ -115,9 +116,11 @@
 	<!-- Textes -->
     <view type="text" id="title_res" posparent="res_win" posref="TL BL" y="2" color="255 255 255 255" fontsize="10" shadow="true" hardtext="uiLOGResolution" />
     <view type="text" id="title_lod" posparent="lod_win" posref="TL BL" y="2" color="255 255 255 255" fontsize="10" shadow="true" hardtext="uiLOGLod" />
+    <view type="text" id="title_ver" posparent="ver_win" posref="TL BL" y="2" color="255 255 255 255" fontsize="10" shadow="true" hardtext="uiClientVersion" />
 
     <view type="text" id="res_value" posparent="res_win" posref="MM MM" y="0" color="135 243 28 255" fontsize="10" shadow="true" hardtext="uiResValue" />
     <view type="text" id="lod_value" posparent="lod_win" posref="MM MM" y="0" color="135 243 28 255" fontsize="10" shadow="true" hardtext="uiLodValue" />
+    <view type="text" id="ver_value" posparent="ver_win" posref="MM MM" y="0" color="135 243 28 255" fontsize="10" shadow="true" hardtext="" />
 
 
     <!-- Boutons Res -->
@@ -260,7 +263,7 @@ on_enter="leave_modal" options="no_bordure" mouse_pos="false" exit_key_pushed="t
 		checkbox_bitmap_pushed=""
 		checkbox_bitmap_over=""
 		background_bitmap_view=""
-		home="release.html"
+		home=""
 		browse_next_time="true"
 		form_text_area_group="edit_box_widget_multiline"
 	>
@@ -476,7 +479,7 @@ on_enter="leave_modal" options="no_bordure" mouse_pos="false" exit_key_pushed="t
 		checkbox_bitmap_pushed=""
 		checkbox_bitmap_over=""
 		background_bitmap_view=""
-		home="release.html"
+		home=""
 		browse_next_time="true"
 		form_text_area_group="edit_box_widget_multiline"
 	>

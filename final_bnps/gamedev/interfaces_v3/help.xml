@@ -323,10 +323,11 @@
     </group>
   </group>
   <!-- If necessary, not already displayed this session, and not avoided by user, show the warning -->
+ <!--
   <link expr="and(@UI:VARIABLES:UNIVERSE_CHANEL_WARNING_WANTED,
                                 not(@UI:VARIABLES:UNIVERSE_CHANEL_WARNING_DONE),
                                 not(@UI:SAVE:UNIVERSE_CHANEL_WARNING_AVOID))"
-        target="ui:interface:universe_chanel_warning:active" />
+        target="ui:interface:universe_chanel_warning:active" /> -->
   <tree node="universe_chanel_warning"></tree>
   <tree node="welcome_info"></tree>
   <!--********************-->

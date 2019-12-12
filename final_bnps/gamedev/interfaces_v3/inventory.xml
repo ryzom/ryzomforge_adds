@@ -31,18 +31,30 @@
       <action handler="set" params="target_property=ui:interface:inventory:content:bag:iil:active|value=0" />
       <action handler="set" params="target_property=ui:interface:inventory:content:bag:ryzhome:active|value=0" />
       <action handler="set" params="target_property=ui:interface:inventory:content:bag:webitems:active|value=1" />
+      <action handler="set" params="target_property=ui:interface:inventory:content:bag:artefact_content:active|value=0" />
+      <action handler="set" params="target_property=ui:interface:inventory:content:bag:artefact_bottom:active|value=0" />
+      <action handler="set" params="target_property=ui:interface:inventory:content:bag:artefact_tab:active|value=0" />
+      <action handler="lua" params="artefact:restorePact()" />
       <action handler="browse_home" params="name=ui:interface:inventory:content:bag:webitems:html" />
   </proc>
   <proc id="select_ryzhome_items">
       <action handler="set" params="target_property=ui:interface:inventory:content:bag:iil:active|value=0" />
       <action handler="set" params="target_property=ui:interface:inventory:content:bag:webitems:active|value=0" />
       <action handler="set" params="target_property=ui:interface:inventory:content:bag:ryzhome:active|value=1" />
+      <action handler="set" params="target_property=ui:interface:inventory:content:bag:artefact_content:active|value=0" />
+      <action handler="set" params="target_property=ui:interface:inventory:content:bag:artefact_bottom:active|value=0" />
+      <action handler="set" params="target_property=ui:interface:inventory:content:bag:artefact_tab:active|value=0" />
+      <action handler="lua" params="artefact:restorePact()" />
       <action handler="browse_home" params="name=ui:interface:inventory:content:bag:ryzhome:html" />
   </proc>
   <proc id="select_bag_items">
       <action handler="set" params="target_property=ui:interface:inventory:content:bag:iil:active|value=1" />
       <action handler="set" params="target_property=ui:interface:inventory:content:bag:webitems:active|value=0" />
       <action handler="set" params="target_property=ui:interface:inventory:content:bag:ryzhome:active|value=0" />
+      <action handler="set" params="target_property=ui:interface:inventory:content:bag:artefact_content:active|value=0" />
+      <action handler="set" params="target_property=ui:interface:inventory:content:bag:artefact_bottom:active|value=0" />
+      <action handler="set" params="target_property=ui:interface:inventory:content:bag:artefact_tab:active|value=0" />
+      <action handler="lua" params="artefact:restorePact()" />
   </proc>
   <!-- ************* -->
   <!-- * EQUIPMENT * -->
@@ -553,12 +565,12 @@
          id="inventory"
          header_active="false"
          resizer="true"
-         pop_min_w="425"
-         pop_min_h="240"
+         pop_min_w="380"
+         pop_min_h="265"
          pop_max_w="920"
          pop_max_h="1600"
-         w="425"
-         h="400"
+         w="380"
+         h="265"
          movable="true"
          active="false"
          opened="true"
@@ -794,12 +806,56 @@
           onclick_l="proc"
           params_l="select_ryzhome_items" />
 
-        <group id="webitems" posref="TL TL" sizeref="wh" h="-45" w="0" x="-10" y="-25" active="0">
-            <instance id="html" template="webig_html" x="10" home="http://app.ryzom.com/app_arcc/index.php?action=mItem_DisplayUserItems" browse_redo="" browse_undo="" browse_refresh="" />
+        <ctrl id="artefact_tab"
+          type="button"
+          posref="TR TL"
+          posparent="ryzhome_items"
+          y="0" x="2"
+          active="0"
+          tooltip="Artefact"
+          instant_help="false"
+          tx_normal="r2_palette_act.tga"
+          tx_pushed="r2_palette_act.tga"
+          tx_over="r2_palette_act.tga" />
+
+        <group id="webitems" posref="TL TL" sizeref="wh" h="-35" w="0" x="-10" y="-15" active="0">
+            <instance id="html" template="webig_html_noborder" x="0" home="http://app.ryzom.com/app_arcc/index.php?action=mItem_DisplayUserItems" browse_redo="" browse_undo="" browse_refresh="" />
         </group>
 
-        <group id="ryzhome" posref="TL TL" sizeref="wh" h="-45" w="0" x="-10" y="-25" active="0">
-            <instance id="html" template="webig_html" x="10" home="http://app.ryzom.com/app_arcc/index.php?action=mRyzhome_DisplayUserItems" browse_redo="" browse_undo="" browse_refresh="" />
+        <group id="ryzhome" posref="TL TL" sizeref="wh" h="-35" w="0" x="-10" y="-15" active="0">
+            <instance id="html" template="webig_html_noborder" x="0" home="http://app.ryzom.com/app_arcc/index.php?action=mRyzhome_DisplayUserItems" browse_redo="" browse_undo="" browse_refresh="" />
+        </group>
+
+        <group id="artefact_content" posref="TL TL" sizeref="wh" h="-35" w="0" x="-8" y="-15" active="0">
+            <instance id="html" template="webig_html_noborder" x="0" home="" browse_redo="" browse_undo="" browse_refresh="" />
+        </group>
+        <group id="artefact_bottom" posref="BR BR" sizeref="wh" h="0" w="0" x="0" y="0" global_color="false" active="0">
+            <ctrl id="detach"
+                type="button"
+                button_type="push_button"
+                posref="BR MR"
+                y="30"
+                x="-4"
+                tx_normal="W_win_popup.tga"
+                tx_pushed="W_win_popup.tga"
+                tx_over="W_button_16_over.tga"
+                onclick_l="proc"
+                params_l="artefact_win_detach" />
+            <instance template="check_box"
+                id="autopact_cb"
+                posref="BR MR"
+                y="10"
+                x="-1"
+                fontsize="9"
+                tooltip="uiArtefactHelp"
+                instant_help="false"
+                dblink="UI:SAVE:TELEPORT:DO_PACT" />
+            <view type="text"
+                id="autopact_vt"
+                posref="BR MR"
+                x="-23"
+                y="10"
+                hardtext="" />
         </group>
 
         <instance template="tinv_nbslots_bulk_weight"
@@ -807,6 +863,7 @@
                   x="0"
                   inv_branch="%bag"
                   inv_bulk_max="%bag_bulk_max" />
+        <!-- y="-18" (because of webig buttons) messes filter icon placement (y should be "-16") -->
         <instance template="tinv_item_list"
                   id="iil"
                   inv_branch_nb="%max_bag_invslot"
@@ -880,7 +937,7 @@
         <instance template="tinv_item_list"
                   id="iil"
                   inv_branch_nb="%max_guild_invslot"
-                  y="-16"
+                  y="-18"
                   sizeref="wh"
                   h="-16"
                   inv_branch="%guild_inv_dbentry"
@@ -926,7 +983,7 @@
         <instance template="tinv_item_list"
                   id="iil"
                   inv_branch_nb="%max_room_invslot"
-                  y="-16"
+                  y="-18"
                   sizeref="wh"
                   h="-16"
                   inv_branch="%room_inv_dbentry"
@@ -1475,10 +1532,10 @@
             id="number"
             posparent="slot_number"
             posref="MM MM"
-            x="-1"
-            y="-2"
+            x="0"
+            y="0"
             color="255 255 255 255"
-            fontsize="12"
+            fontsize="10"
             shadow="true"
             hardtext="0"
             global_color="false" />

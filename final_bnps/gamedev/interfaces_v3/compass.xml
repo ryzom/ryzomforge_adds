@@ -11,6 +11,15 @@
   <variable entry="UI:SAVE:MP3_VOLUME"
             type="sint64"
             value="255" />
+  <variable entry="UI:SAVE:MP3_REPEAT"
+            type="sint32"
+            value="1" />
+  <variable entry="UI:SAVE:MP3_SHUFFLE"
+            type="sint32"
+            value="0" />
+  <variable entry="UI:TEMP:MP3_PLAYING"
+            type="sint32"
+            value="0" />
   <!--******************-->
   <!--*   MP3 PLAYER   *-->
   <!--******************-->
@@ -31,12 +40,29 @@
         <ctrl type="button" id="btn" button_type="toggle_button" sizeref="wh" tx_normal="blank.tga" tx_pushed="blank.tga" tx_over="blank.tga" scale="true"
           color="255 255 255 0" col_pushed="255 255 255 0" col_over="255 255 255 90"
           global_color_normal="true" global_color_pushed="true" global_color_over="true"
-		  ondblclick_l="music_player" params_dblclick_l="song=#index" />
+          ondblclick_l="music_player" params_dblclick_l="song=#index" />
 
+        <view type="bitmap" id="bg" posref="MM MM" sizeref="wh" color="200 200 200 50" texture="blank.tga" scale="true" active="false" />
         <view type="text" id="title" posref="ML ML" x="0" line_maxw="#line_maxw" fontsize="8" shadow="true" multi_line="true" multi_line_space="0" />
-		<view type="text" id="duration" posref="MR MR" x="0" fontsize="8" shadow="true" color="255 255 255 128" />
+        <view type="text" id="duration" posref="MR MR" x="0" fontsize="8" shadow="true" color="255 255 255 150" />
     </group>
   </template>
+
+  <proc id="proc_mp3_toggle_shuffle">
+      <action handler="set" params="dblink=UI:SAVE:MP3_SHUFFLE|value=not(@UI:SAVE:MP3_SHUFFLE)" />
+      <action handler="music_player" params="update_playlist" />
+  </proc>
+
+  <proc id="proc_mp3_update_tooltip">
+      <action handler="lua" params="getUI('ui:interface:mp3_player:controls:but_play').tooltip = i18n.get('uiMP3Play')"  cond="eq(@UI:TEMP:MP3_PLAYING,0)" />
+      <action handler="lua" params="getUI('ui:interface:mp3_player:controls:but_play').tooltip = i18n.get('uiMP3Pause')" cond="eq(@UI:TEMP:MP3_PLAYING,1)" />
+  </proc>
+
+  <proc id="proc_mp3_but_play">
+      <action handler="set" params="dblink=UI:TEMP:MP3_PLAYING|value=not(@UI:TEMP:MP3_PLAYING)" />
+      <action handler="music_player" params="play"  cond="eq(@UI:TEMP:MP3_PLAYING,1)" />
+      <action handler="music_player" params="pause" cond="eq(@UI:TEMP:MP3_PLAYING,0)" />
+  </proc>
 
   <group type="modal"
          id="playlist"
@@ -82,6 +108,30 @@
           hardtext="uiPlaylistRefresh"
           onclick_l="music_player"
           params_l="play_songs" />
+    <ctrl style="text_button_header"
+          button_type="toggle_button"
+          id="shuffle"
+          posparent="refresh"
+          posref="ML MR"
+          x="-4"
+          y="0"
+          hardtext="S"
+          onclick_l="proc"
+          params_l="proc_mp3_toggle_shuffle" />
+    <ctrl style="text_button_header"
+          button_type="toggle_button"
+          id="repeat"
+          posparent="shuffle"
+          posref="ML MR"
+          x="-4"
+          y="0"
+          hardtext="R"
+          onclick_l="set"
+          params_l="dblink=UI:SAVE:MP3_REPEAT|value=not(@UI:SAVE:MP3_REPEAT)" />
+
+    <!-- change button state when variable chaanged -->
+    <link expr="@UI:SAVE:MP3_REPEAT" target="repeat:pushed" />
+    <link expr="@UI:SAVE:MP3_SHUFFLE" target="shuffle:pushed" />
 
     <group id="content" x="8" y="-24" over="true" sizeref="w" posref="TL TL" child_resize_h="true" child_resize_hmargin="4">
       <group id="songs" x="10" y="0" sizeref="w" posref="TL TL" child_resize_h="true" max_h="215">
@@ -167,26 +217,30 @@
             tooltip="uiMP3Prev" />
       <ctrl type="button"
             id="but_play"
-            button_type="push_button"
+            button_type="toggle_button"
             posref="MM MM"
             posparent="slot2"
             tx_normal="mp3_button_play.tga"
-            tx_pushed="mp3_button_play.tga"
+            tx_pushed="mp3_button_pause.tga"
             tx_over="mp3_button_over.tga"
-            onclick_l="music_player"
-            params_l="play"
+            onclick_l="proc"
+            params_l="proc_mp3_but_play"
             tooltip="uiMP3Play" />
+      <!-- TODO: but_stop is using placeholder texture -->
       <ctrl type="button"
-            id="but_pause"
+            id="but_stop"
             button_type="push_button"
             posref="MM MM"
             posparent="slot3"
-            tx_normal="mp3_button_pause.tga"
-            tx_pushed="mp3_button_pause.tga"
+            tx_normal="w_button_10_choice.tga"
+            tx_pushed="w_button_10_choice.tga"
             tx_over="mp3_button_over.tga"
+            scale="true"
+            w="20"
+            h="16"
             onclick_l="music_player"
-            params_l="pause"
-            tooltip="uiMP3Pause" />
+            params_l="stop"
+            tooltip="uiMP3Stop" />
       <ctrl type="button"
             id="but_next"
             button_type="push_button"
@@ -276,6 +330,8 @@
             posref="TL TL"
             w="48"
             h="20" />
+
+      <link expr="@UI:TEMP:MP3_PLAYING" target="but_play:pushed" action="proc" params="proc_mp3_update_tooltip" />
     </group>
     <!-- SCREEN -->
     <group id="screen"
@@ -349,6 +405,8 @@
             params="target_property=ui:interface:compass:visuel:radar:world_size|
                                                                 value=switch(@0, 50.0, 100.0, 250.0, 500.0)" />
   </proc>
+
+  <define id="landmark_menu_max_visible" value="25" />
   <group id="compass_menu"
          type="menu_compas"
          extends="base_menu_with_color"
@@ -368,41 +426,49 @@
     <action id="land_mark"
             name="uimCompassLandMarks">
       <action id="land_mark_misc"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMMiscColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_tribe"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMTribeColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_bandit"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMBanditColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_citizen"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMCitizenColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_fauna"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMFaunaColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_faunaexcel"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMFaunaExcelColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_faunasup"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMFaunaSupColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_forage"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMForageColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
@@ -413,106 +479,127 @@
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_foragesup"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMForageSupColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_sap"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMSapColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_amber"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMAmberColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_node"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMNodeColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_fiber"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMFiberColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_bark"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMBarkColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_seed"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMSeedColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_shell"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMShellColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_resin"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMResinColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_wood"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMWoodColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_oil"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMOilColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_mission"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMMissionColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_food"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMFoodColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_construction"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMConstructionColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_goo"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMGooColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_insect"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMInsectColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_kitin"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMKitinColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_nocive"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMNociveColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_preservative"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMPreservativeColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_passage"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMPassageColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_teleporter"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMTeleporterColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />

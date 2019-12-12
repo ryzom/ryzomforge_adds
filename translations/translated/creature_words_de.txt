@@ -1346,6 +1346,7 @@ _ED9F4D1C26771B44	chddf2	Aufgeregter Yubo	Aufgeregter Yubo	Aufgeregte Yubo	Aufge
 _865EDD4F344ED4FB	chddf3	Grimmiger Yubo	Grimmiger Yubo	Grimmige Yubo	Grimmigen Yubo	einen	ein	eines	der	des	den	dem	Grimmige Yubos	Grimmigen Yubos	Grimmigen Yubos	die
 _41DE3909E8898C1F	chdfa1	Baby-Yubo	Baby-Yubo	Baby-Yubo	Baby-Yubo	einen	ein	eines	der	des	den	dem	Baby-Yubos	Baby-Yubos	Baby-Yubos	die
 _410E3DF7E5C9901F	chdfa2	Unreifer Yubo	Unreifer Yubo	Unreife Yubo	Unreifen Yubo	einen	ein	eines	der	des	den	dem	Unreife Yubos	Unreifen Yubos	Unreifen Yubos	die
+_63A9649E6AD89FA6	chdfa7	Yubokin	Yubokin	Yubokin	Yubokin	einen	ein	eines	der	des	den	dem	Yubokins	Yubokins	Yubokins	die
 _437F7107265AD82D	chdfb1	Schüchterner Yubo	Schüchterne Yubo	Schüchternen Yubo	Schüchternen Yubo	einen	ein	eines	der	des	den	dem	Schüchterne Yubos	Schüchternen Yubos	Schüchternen Yubos	die
 _09BF85E97074F200	chdfb2	Umherwandernder Yubo	Umherwandernde Yubo	Umherwandernden Yubo	Umherwandernden Yubo	einen	ein	eines	der	des	den	dem	Umherwandernde Yubos	Umherwandernden Yubos	Umherwandernden Yubos	die
 _43D6922542DE8C09	chdfb3	Flitzender Yubo	Flitzende Yubo	Flitzenden ubo	Flitzenden Yubo	einen	ein	eines	der	des	den	dem	Flitzende Yubos	Flitzenden Yubos	Flitzenden Yubos	die
@@ -4758,8 +4759,8 @@ _612658A91C069B98	ckjbd1	Gefürchteter Kipesta	Gefürchtete Kipesta	Gefürchtete
 _613660A95C269F9A	ckjbf2	Niederträchtiger Kipesta	Niederträchtige Kipesta	Niederträchtigen Kipesta	Niederträchtigen Kipesta	einen	ein	eines	der	des	den	dem	Niederträchtige Kipestas	Niederträchtigen Kipestas	Niederträchtigen Kipestas	die
 _610660A99B26A396	ckfbf3	Killer-Kirosta	Killer-Kirosta	Killer-Kirosta	Killer-Kirosta	einen	ein	eines	der	des	den	dem	Killer-Kirostas	Killer-Kirostas	Killer-Kirostas	die
 _611660A9DC26A796	ckfbf4	Gewaltiger Kirosta	Gewaltige Kirosta	Gewaltigen Kirosta	Gewaltigen Kirosta	einen	ein	eines	der	des	den	dem	Gewaltige Kirostas	Gewaltigen Kirostas	Gewaltigen Kirostas	die
-_61E660A91B26A394	ckdbf3	Killer-Kirosta	Killer-Kirosta	Killer-Kirosta	Killer-Kirosta	einen	ein	eines	der	des	den	dem	Killer-Kirostas	Killer-Kirostas	Killer-Kirostas	die
-_61F660A95C26A794	ckdbf4	Gewaltiger Kirosta	Gewaltige Kirosta	Gewaltigen Kirosta	Gewaltigen Kirosta	einen	ein	eines	der	des	den	dem	Gewaltige Kirostas	Gewaltigen Kirostas	Gewaltigen Kirostas	die
+_61E660A91B26A394	ckdbf3	Killer-Kincher	Killer-Kincher	Killer-Kincher	Killer-Kincher	einen	ein	eines	der	des	den	dem	Killer-Kinchers	Killer-Kinchers	Killer-Kinchers	die
+_61F660A95C26A794	ckdbf4	Gewaltiger Kincher	Gewaltige Kincher	Gewaltigen Kincher	Gewaltigen Kincher	einen	ein	eines	der	des	den	dem	Gewaltige Kinchers	Gewaltigen Kinchers	Gewaltigen Kinchers	die
 _610680AB9BA6AB94	ckfbd3	Veteranen Kirosta	Veteranen Kirosta	Veteranen Kirosta	Veteranen Kirosta	einen	ein	eines	der	des	den	dem	Veteranen-Kirostas	Veteranen Kirostas	Veteranen Kirostas	die
 _9D35949859E69BA3	ckdbd3	Alter Kincher	Alte Kincher	Alten Kincher	Alten Kincher	einen	ein	eines	der	des	den	dem	Alte Kincher	Alten Kincher	Alten Kinchers	die
 _64B68FA7E6E58AA7	ckdad4	Hungriger Kincher	Hungrige Kincher	Hungrigen Kincher	Hungrigen Kincher	einen	ein	eines	der	des	den	dem	Hungrige Kincher	Hungrigen Kincher	Hungrigen Kinchers	die
@@ -5984,4 +5985,5 @@ _20C62EAAB3169B7B	gubani_mount_02	Reit-Gubani	Reit-Gubani	Reit-Gubani	Reit-Guban
 _20C62EAAB3269B7B	gubani_mount_03	Reit-Gubani	Reit-Gubani	Reit-Gubani	Reit-Gubani	einen	ein	eines	der	des	den	dem	Reit-Gubanis	Reit-Gubanis	Reit-Gubanis	die
 _20C62EAAB3369B7B	gubani_mount_04	Reit-Gubani	Reit-Gubani	Reit-Gubani	Reit-Gubani	einen	ein	eines	der	des	den	dem	Reit-Gubanis	Reit-Gubanis	Reit-Gubanis	die
 _7EF0BD008D3857A4	chxjf_zig	Zickzack-Gubani	Zickzack-Gubani	Zickzack-Gubani	Zickzack-Gubani	einen	ein	eines	der	des	den	dem	Zickzack-Gubanis	Zickzack-Gubanis	Zickzack-Gubanis	die
-_D5F8D49B6A662373	cpegf7	Cratchaki	Cratchaki	Cratchaki	Cratchaki	einen	ein	eines	der	des	den	dem	Cratchaki	Cratchaki	Cratchaki	die
+_D5F8D49B6A662373	cpegf7	Cratchakyo	Cratchakyo	Cratchakyo	Cratchakyo	einen	ein	eines	der	des	den	dem	Cratchakyos	Cratchakyos	Cratchakyos	die
+_455E0D9B68841705	chxjf2_zig	Zickzack-Frippo	Zickzack-Frippo	Zickzack-Frippo	Zickzack-Frippo	einen	ein	eines	der	des	den	dem	Zickzack-Frippos	Zickzack-Frippos	Zickzack-Frippos	die

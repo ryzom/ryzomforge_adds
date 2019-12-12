@@ -1,0 +1,7 @@
+#output new_bot_names.txt
+#text
+bot_name	sheet	gender	race
+#header bot_name
+$bot_name$	$sheet$	$gender$	$race$
+#tabtbl bot
+#include temp\temp_new_bot_names.txt

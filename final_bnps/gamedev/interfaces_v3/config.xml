@@ -2417,6 +2417,10 @@ This MUST follow the Enum MISSION_DESC::TIconId
           value_from_code="getFactionIndex('matis')" />
   <define id="faction_index_tryker"
           value_from_code="getFactionIndex('tryker')" />
+  <define id="faction_index_marauder"
+          value_from_code="getFactionIndex('black_kami')" />
+  <define id="faction_index_ranger"
+          value_from_code="getFactionIndex('white_karavan')" />
   <define id="faction_points_kami"
           value="LOCAL:USER:FACTION_POINTS_%faction_index_kami:VALUE" />
   <define id="faction_points_fyros"
@@ -2429,6 +2433,10 @@ This MUST follow the Enum MISSION_DESC::TIconId
           value="LOCAL:USER:FACTION_POINTS_%faction_index_matis:VALUE" />
   <define id="faction_points_tryker"
           value="LOCAL:USER:FACTION_POINTS_%faction_index_tryker:VALUE" />
+  <define id="faction_points_marauder"
+          value="LOCAL:USER:FACTION_POINTS_%faction_index_marauder:VALUE" />
+  <define id="faction_points_ranger"
+          value="LOCAL:USER:FACTION_POINTS_%faction_index_ranger:VALUE" />
   <define id="faction_icon_kami"
           value="faction_Kami.tga" />
   <define id="faction_icon_fyros"
@@ -2785,6 +2793,11 @@ This MUST follow the Enum MISSION_DESC::TIconId
   <variable entry="UI:SAVE:SHOW_RETICLE"
             type="bool"
             value="true" />
+  <variable entry="UI:SAVE:SHOW_ICON_BUFFS"
+            type="bool"
+            value="true" />
+  <link expr="@UI:SAVE:SHOW_ICON_BUFFS"
+            action="trigger_show_icon_buffs" />
   <variable entry="UI:VARIABLES:MISSION_SELECTED_PREV_SESSION"
             type="sint32"
             value="-1" />
@@ -3022,6 +3035,12 @@ This MUST follow the Enum MISSION_DESC::TIconId
   <variable entry="UI:SAVE:CHAT:ENTER_DONT_QUIT_CB"
             type="bool"
             value="false" />
+  <variable entry="UI:SAVE:CHAT:SAVE_CHANNEL"
+            type="bool"
+            value="false" />
+  <variable entry="UI:SAVE:CHAT:AUTO_CHANNEL"
+            type="bool"
+            value="false" />
   <variable entry="UI:SAVE:CHAT:SHOW_TIMES_IN_CHAT_CB"
              type="bool"
              value="false" />
@@ -3104,6 +3123,9 @@ This MUST follow the Enum MISSION_DESC::TIconId
   <variable entry="UI:SAVE:INV_BAG:FILTER_TOOL"
             type="sint32"
             value="1" />
+  <variable entry="UI:SAVE:INV_BAG:FILTER_PET"
+            type="sint32"
+            value="1" />
   <variable entry="UI:SAVE:INV_BAG:FILTER_MP"
             type="sint32"
             value="1" />
@@ -3126,6 +3148,9 @@ This MUST follow the Enum MISSION_DESC::TIconId
             type="sint32"
             value="1" />
   <variable entry="UI:SAVE:INV_PA0:FILTER_TOOL"
+            type="sint32"
+            value="1" />
+  <variable entry="UI:SAVE:INV_PA0:FILTER_PET"
             type="sint32"
             value="1" />
   <variable entry="UI:SAVE:INV_PA0:FILTER_MP"
@@ -3152,6 +3177,9 @@ This MUST follow the Enum MISSION_DESC::TIconId
   <variable entry="UI:SAVE:INV_PA1:FILTER_TOOL"
             type="sint32"
             value="1" />
+  <variable entry="UI:SAVE:INV_PA1:FILTER_PET"
+            type="sint32"
+            value="1" />
   <variable entry="UI:SAVE:INV_PA1:FILTER_MP"
             type="sint32"
             value="1" />
@@ -3174,6 +3202,9 @@ This MUST follow the Enum MISSION_DESC::TIconId
             type="sint32"
             value="1" />
   <variable entry="UI:SAVE:INV_PA2:FILTER_TOOL"
+            type="sint32"
+            value="1" />
+  <variable entry="UI:SAVE:INV_PA2:FILTER_PET"
             type="sint32"
             value="1" />
   <variable entry="UI:SAVE:INV_PA2:FILTER_MP"
@@ -3200,6 +3231,9 @@ This MUST follow the Enum MISSION_DESC::TIconId
   <variable entry="UI:SAVE:INV_PA3:FILTER_TOOL"
             type="sint32"
             value="1" />
+  <variable entry="UI:SAVE:INV_PA3:FILTER_PET"
+            type="sint32"
+            value="1" />
   <variable entry="UI:SAVE:INV_PA3:FILTER_MP"
             type="sint32"
             value="1" />
@@ -3222,6 +3256,9 @@ This MUST follow the Enum MISSION_DESC::TIconId
             type="sint32"
             value="1" />
   <variable entry="UI:SAVE:INV_PA4:FILTER_TOOL"
+            type="sint32"
+            value="1" />
+  <variable entry="UI:SAVE:INV_PA4:FILTER_PET"
             type="sint32"
             value="1" />
   <variable entry="UI:SAVE:INV_PA4:FILTER_MP"
@@ -3248,6 +3285,9 @@ This MUST follow the Enum MISSION_DESC::TIconId
   <variable entry="UI:SAVE:INV_PA5:FILTER_TOOL"
             type="sint32"
             value="1" />
+  <variable entry="UI:SAVE:INV_PA5:FILTER_PET"
+            type="sint32"
+            value="1" />
   <variable entry="UI:SAVE:INV_PA5:FILTER_MP"
             type="sint32"
             value="1" />
@@ -3270,6 +3310,9 @@ This MUST follow the Enum MISSION_DESC::TIconId
             type="sint32"
             value="1" />
   <variable entry="UI:SAVE:INV_PA6:FILTER_TOOL"
+            type="sint32"
+            value="1" />
+  <variable entry="UI:SAVE:INV_PA6:FILTER_PET"
             type="sint32"
             value="1" />
   <variable entry="UI:SAVE:INV_PA6:FILTER_MP"
@@ -3297,6 +3340,9 @@ This MUST follow the Enum MISSION_DESC::TIconId
   <variable entry="UI:SAVE:INV_GUILD:FILTER_TOOL"
             type="sint32"
             value="1" />
+  <variable entry="UI:SAVE:INV_GUILD:FILTER_PET"
+            type="sint32"
+            value="1" />
   <variable entry="UI:SAVE:INV_GUILD:FILTER_MP"
             type="sint32"
             value="1" />
@@ -3320,6 +3366,9 @@ This MUST follow the Enum MISSION_DESC::TIconId
             type="sint32"
             value="1" />
   <variable entry="UI:SAVE:INV_ROOM:FILTER_TOOL"
+            type="sint32"
+            value="1" />
+  <variable entry="UI:SAVE:INV_ROOM:FILTER_PET"
             type="sint32"
             value="1" />
   <variable entry="UI:SAVE:INV_ROOM:FILTER_MP"
