@@ -7853,3 +7853,10 @@ _80F7C6C5E3249271	iczaup	Zorai Light Panties	a	the	Fyros Light Panties		the
 _B5D4E9917A8BD9B1	iczauv	Zorai Light Bra	a	the	Fyros Light Bra		the	
 _7179D6FE2D87A5B8	tp_interface_kami	Kami Teleportation Artefact	a	the	Kami Teleportation Artefact	the		
 _84020E9F43014E3E	tp_interface_karavan	Karavan Teleportation Artefact	a	the	Karavan Teleportation Artefact	the		
+_E1069680FFDA0183	wheel_token_anlor	Rusty Token	a	the	Rusty Token	the		
+_54445E2B93587688	wheel_token_atysmas	Rusty Token	a	the	Rusty Token	the		
+_E10696717E4BCD84	wheel_token_basic	Rusty Token	a	the	Rusty Token	the		
+_5DC47E6D6C73FA98	wheel_token_choice	Rusty Token	a	the	Rusty Token	the		
+_1DE726797DBE9444	wheel_token_fine	Rusty Token	a	the	Rusty Token	the		
+_5DC49E6FAE842EA8	wheel_token_suprem	Rusty Token	a	the	Rusty Token	the		
+_677212AB08CFE10C	wheel_token_xl	Rusty Token	a	the	Rusty Token	the		
