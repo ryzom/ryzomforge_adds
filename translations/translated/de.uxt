@@ -88,11 +88,11 @@ uiRange	[Reichweite]
 
 // HASH_VALUE AF06A35FABD45A88
 // INDEX 22
-uittLead	[Leiter/in des Teams]
+uittLead	[Anführer/in des Teams]
 
 // HASH_VALUE 31DAA87FA2275372
 // INDEX 23
-uittSuccessor	[Vize-Leiter/in des Teams]
+uittSuccessor	[Stellv. Anführer/in des Teams]
 
 // HASH_VALUE 2C99B47EDE971C91
 // INDEX 24
@@ -8926,7 +8926,7 @@ uimwJewelry	[SCHMUCK]
 
 // HASH_VALUE 8A40982588C1BC21
 // INDEX 2157
-uimwPA	[TIERE]
+//uimwPA	[TIERE]
 
 // HASH_VALUE 8EE3BC39CBA3F82E
 // INDEX 2158
@@ -12324,7 +12324,7 @@ uiMainChatTitle	[HAUPTCHAT]
 
 // HASH_VALUE 5490F40C50143404
 // INDEX 2910
-uiContactListTitle	[FREUNDE]
+uiContactListTitle	[FREUNDESLISTE]
 
 // HASH_VALUE 0B62D02D40411433
 // INDEX 2911
@@ -12444,7 +12444,7 @@ place_yrkanis	[Yrkanis]
 
 // HASH_VALUE A6D7046B5E17B080
 // INDEX 2940
-place_davae	[Davae]
+//place_davae	[Davae]
 
 // HASH_VALUE 265724756097D888
 // INDEX 2941
@@ -12900,7 +12900,7 @@ uiTeamList	[Team]
 
 // HASH_VALUE 7498F40C701C3484
 // INDEX 3054
-uiContactList	[Kontakte]
+uiContactList	[FREUNDESLISTE]
 
 // HASH_VALUE 705C542C705C542C
 // INDEX 3055
