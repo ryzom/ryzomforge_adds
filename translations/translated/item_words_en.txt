@@ -7853,3 +7853,10 @@ _80F7C6C5E3249271	iczaup	Nin-Ka Panties	\d	the	Nin-Ka Panties	\d	the	Zoraï Ligh
 _B5D4E9917A8BD9B1	iczauv	Nin-Ka Bra	\d	the	Nin-Ka Bra	\d	the	Zoraï Light Bra
 _7179D6FE2D87A5B8	tp_interface_kami	Kami Teleportation Artefact	a	the	Kami Teleportation Artefact	the		
 _84020E9F43014E3E	tp_interface_karavan	Karavan Teleportation Artefact	a	the	Karavan Teleportation Artefact	the		
+_E1069680FFDA0183	wheel_token_anlor	withered token	a	the	withered tokens	the		
+_54445E2B93587688	wheel_token_atysmas	withered token	a	the	withered tokens	the		
+_E10696717E4BCD84	wheel_token_basic	withered token	a	the	withered tokens	the		
+_5DC47E6D6C73FA98	wheel_token_choice	withered token	a	the	withered tokens	the		
+_1DE726797DBE9444	wheel_token_fine	withered token	a	the	withered tokens	the		
+_5DC49E6FAE842EA8	wheel_token_suprem	withered token	a	the	withered tokens	the		
+_677212AB08CFE10C	wheel_token_xl	withered token	a	the	withered tokens	the		
