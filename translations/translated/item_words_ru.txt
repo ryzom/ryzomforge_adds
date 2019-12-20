@@ -6889,3 +6889,10 @@ _2E488BD22789DCAB	rpjobloot_event	Загадочный кошель	Загадо
 _02C0AA7F32FA1A42	marauder_teleport_crystal	Marauder Teleport Crystal	a	the	Marauder Teleport Crystals		the	
 _30284704CC2117ED	xmas_gingeryubo	Gingerbread Yubo	a	the	Gingerbread Yubo		the	
 _992D57D25430CAB2	xmas_gingerbread	Gingerbread Man	a	the	Gingerbread Man		the	
+_E1069680FFDA0183	wheel_token_anlor	Ржавый Жетон	Ржавые Жетоны	Ржавых Жетонов	Ржавых Жетона	Ржавый Жетон		
+_54445E2B93587688	wheel_token_atysmas	Ржавый Жетон	Ржавые Жетоны	Ржавых Жетонов	Ржавых Жетона	Ржавый Жетон		
+_E10696717E4BCD84	wheel_token_basic	Ржавый Жетон	Ржавые Жетоны	Ржавых Жетонов	Ржавых Жетона	Ржавый Жетон		
+_5DC47E6D6C73FA98	wheel_token_choice	Ржавый Жетон	Ржавые Жетоны	Ржавых Жетонов	Ржавых Жетона	Ржавый Жетон		
+_1DE726797DBE9444	wheel_token_fine	Ржавый Жетон	Ржавые Жетоны	Ржавых Жетонов	Ржавых Жетона	Ржавый Жетон		
+_5DC49E6FAE842EA8	wheel_token_suprem	Ржавый Жетон	Ржавые Жетоны	Ржавых Жетонов	Ржавых Жетона	Ржавый Жетон		
+_677212AB08CFE10C	wheel_token_xl	Ржавый Жетон	Ржавые Жетоны	Ржавых Жетонов	Ржавых Жетона	Ржавый Жетон		
