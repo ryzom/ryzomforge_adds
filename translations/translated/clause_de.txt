@@ -21857,7 +21857,7 @@ rangestate5	[Neue Bogenpistolen und -gewehre!]
 
 // HASH_VALUE A66EFCE78B999F9A
 // INDEX 5140
-rangestate6	[Der allerbeste Raketenwerfer auf dem Markt, hol ihn Dir jetzt!]
+rangestate6	[Der allerbeste Granatenwerfer auf dem Markt, hol ihn Dir jetzt!]
 
 // HASH_VALUE A8A891D4BA8E69AD
 // INDEX 5141

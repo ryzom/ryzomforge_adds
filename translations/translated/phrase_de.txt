@@ -19362,7 +19362,7 @@ ENCY_THM_02_15 ()
 // HASH_VALUE 96688B9119E8939D
 ENCY_THM_02_16 ()
 {
-			[Raketenwerfer und Munition]
+			[Granatenwerfer und Munition]
 
 }
 
@@ -21787,13 +21787,13 @@ ENCY_THM_TXT_02_01 ()
 // HASH_VALUE 020184C80804F20C
 ENCY_THM_TXT_02_02 ()
 {
-			[Die Sektion der Fernwaffen beinhaltet Automatikraketenwerfer, Raketenwerfer und Gewehre mit der passenden Munition. Diese Waffen können verschiedene Schäden zufügen; Aufschlitzen, Durchbohren oder Zertrümmern, je nachdem wieviel Munition benutzt wird. Sie bieten die Möglichkeit, einen oder mehrere Gegner aus der Entfernung anzugreifen. Manche Waffen, sowie der Raketenwerfer, können ein paar Ziele gleichzeitig in die Luft jagen. \n
+			[Die Sektion der Fernwaffen beinhaltet Automatikraketenwerfer, Granatenwerfer und Gewehre mit der passenden Munition. Diese Waffen können verschiedene Schäden zufügen; Aufschlitzen, Durchbohren oder Zertrümmern, je nachdem wieviel Munition benutzt wird. Sie bieten die Möglichkeit, einen oder mehrere Gegner aus der Entfernung anzugreifen. Manche Waffen, sowie der Granatenwerfer, können ein paar Ziele gleichzeitig in die Luft jagen. \n
 			\n
 			Verschiedene Bauteile werden zur Herstellung von Fernwaffen und Munition eingesetzt. Dazu gehören Gewehrläufe, Abzüge, Feuerzünder und Waffenschafte, sowie Explosivmaterial, Kugeln und Munitionshülsen. Der Homin Experte für Fernwaffen ist der Fernwaffenschmied. \n
 			\n
 			Seit dem Gemeinsamen Exil aller Homin Völker in den Urwurzeln von 2481 bis 2483 hatten Handwerker und Krieger jedes Volkes Zugang zu anderen Waffen und dazu passenden Fähigkeiten. Vor dieser Phase benutzte jedes Homin-Volk spezifische Waffen, die zu seiner Art und Weise der Kriegsführung passten. Noch heutzutage bevorzugen Puristen die Fertigkeiten und Waffen, die in alten Zeiten eingesetzt wurden, als die Homin-Zivilsationen noch glorreich waren.\n
 			\n
-			In Einklang mit dem Ehrenkodex und der Genauigkeit trug jeder ehrenwerte Matis in den alten Ländern von Matia eine Handpistole in seinem Gürtel. Leicht und präzise, konnte die Pistole auch einfach von einem Mektoub aus eingesetzt werden. Die Zoraï hingegen bevorzugten die Bogenpistole, die sie auch strategisch hinter der Großen Mauer aufstellten und die es den Wachen ermöglichte, einen Feind auf eine große Distanz zu treffen. Die Fyros-Strategie war es, ihre großen Raketenwerfer einzusetzen und den Gegner auszubomben, ehe sie Truppen in den Fernkampf schickten, um den Rest zu erledigen. Die Tryker, die die Kunst beherrschten, sich dem Feind anzunähern, entwickelten die Bogenpistole. Leicht und präzise, ließ sie ihnen eine Hand, um sich per Zeichen Orden hinter feindlichen Linien zu geben.]
+			In Einklang mit dem Ehrenkodex und der Genauigkeit trug jeder ehrenwerte Matis in den alten Ländern von Matia eine Handpistole in seinem Gürtel. Leicht und präzise, konnte die Pistole auch einfach von einem Mektoub aus eingesetzt werden. Die Zoraï hingegen bevorzugten die Bogenpistole, die sie auch strategisch hinter der Großen Mauer aufstellten und die es den Wachen ermöglichte, einen Feind auf eine große Distanz zu treffen. Die Fyros-Strategie war es, ihre großen Granatenwerfer einzusetzen und den Gegner auszubomben, ehe sie Truppen in den Fernkampf schickten, um den Rest zu erledigen. Die Tryker, die die Kunst beherrschten, sich dem Feind anzunähern, entwickelten die Bogenpistole. Leicht und präzise, ließ sie ihnen eine Hand, um sich per Zeichen Orden hinter feindlichen Linien zu geben.]
 
 }
 
@@ -49545,7 +49545,7 @@ RANGESTATE5 ()
 // HASH_VALUE C9DAF6B9A853EEF6
 RANGESTATE6 ()
 {
-		rangestate6	[Der allerbeste Raketenwerfer auf dem Markt, hol ihn Dir jetzt!]
+		rangestate6	[Der allerbeste Granatenwerfer auf dem Markt, hol ihn Dir jetzt!]
 
 }
 
@@ -74710,7 +74710,7 @@ fc100_reward ()
 // HASH_VALUE E98870A95B70007B
 fc100_reward2 ()
 {
-			[Brazerus-Raketenwerfer]
+			[Brazerus-Granatenwerfer]
 
 }
 
@@ -77209,7 +77209,7 @@ zf100_reward_melee ()
 // HASH_VALUE 16B19CA426E78BFA
 zf100_reward_range ()
 {
-			[Ba-zoon-Raketenwerfer]
+			[Ba-zoon-Granatenwerfer]
 
 }
 

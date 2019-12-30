@@ -21273,19 +21273,19 @@ uiawrSFR2ABM	[Bogengewehr]
 
 // HASH_VALUE 6C5C14307058848C
 // INDEX 5058
-uiawrSFR2AL	[Raketenwerfer]
+uiawrSFR2AL	[Granatenwerfer]
 
 // HASH_VALUE 6CFCB41C4898B498
 // INDEX 5059
-uiawrSFR2ALB	[brennendem Raketenwerfer]
+uiawrSFR2ALB	[brennendem Granatenwerfer]
 
 // HASH_VALUE E6F6773AA579E0BA
 // INDEX 5060
-uiawrSFR2ALE	[elektrischem Raketenwerfer]
+uiawrSFR2ALE	[elektrischem Granatenwerfer]
 
 // HASH_VALUE 6C5C14307058848C
 // INDEX 5061
-uiawrSFR2ALM	[Raketenwerfer]
+uiawrSFR2ALM	[Granatenwerfer]
 
 // HASH_VALUE 67E71C8CA2773489
 // INDEX 5062

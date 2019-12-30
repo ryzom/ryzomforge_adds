@@ -136,8 +136,8 @@ _34A8590FAE27CB85	MakeKamicClothes	Kami Kleidungsherstellung	Kami Kleidungsherst
 _95699B664F72967A	MakeKamicJewels	Kami Schmuckherstellung	Kami Schmuckherstellung	eine	die	Kami Schmuckherstellungen	Kami Schmuckherstellungen	\d	die	
 _9ACACF60BF7A2F6B	MakeKamicWeapon	Kami Waffenherstellung	Kami Waffenherstellung	eine	die	Kami Waffenherstellungen	Kami Waffenherstellungen	\d	die	
 _ADBFC1E65BE62BD6	MakeLance	Lanzenherstellung	Lanzenherstellung	eine	die	Lanzenherstellungen	Lanzenherstellungen	\d	die	
-_E164250C41DF1A49	MakeLauncher	Raketenwerfer-Herstellung	Raketenwerfer-Herstellung	eine	die	Raketenwerfer-Herstellungen	Raketenwerfer-Herstellungen	\d	die	
-_DFDDC01F39E70A29	MakeLauncherAmmo	Munitionsherstellung für Raketenwerfer	Munitionsherstellung für Raketenwerfer	eine	die	Munitionsherstellungen für Raketenwerfer	Munitionsherstellungen für Raketenwerfer	\d	die	
+_E164250C41DF1A49	MakeLauncher	Granatenwerfer-Herstellung	Granatenwerfer-Herstellung	eine	die	Granatenwerfer-Herstellungen	Granatenwerfer-Herstellungen	\d	die	
+_DFDDC01F39E70A29	MakeLauncherAmmo	Munitionsherstellung für Granatenwerfer	Munitionsherstellung für Granatenwerfer	eine	die	Munitionsherstellungen für Granatenwerfer	Munitionsherstellungen für Granatenwerfer	\d	die	
 _B1452B919ADE7A8D	MakeLightBoots	Herstellung leichter Stiefel	Herstellung leichter Stiefel	eine	die	Herstellungen leichter Stiefel	Herstellungen leichter Stiefel	\d	die	
 _E2C98E83E6B7DFA5	MakeLightGloves	Herstellung leichter Handschuhe	Herstellung leichter Handschuhe	eine	die	Herstellungen leichter Handschuhe	Herstellungen leichter Handschuhe	\d	die	
 _60D886E12988B79A	MakeLightHelmet	Herstellung leichter Helme	Herstellung leichter Helme	eine	die	Herstellungen leichter Helme	Herstellungen leichter Helme	\d	die	
@@ -217,7 +217,7 @@ _4FD3CA66BDF4AA0F	RidePackers	Hauptpacktier	Hauptpacktier	ein	das	Hauptpacktiere
 _E7978470A9C8B0A1	Riding	Reiten	Reiten	\d	das	Reiten	Reiten	\d	das	
 _6D98848DA2772493	Rifle	Gewehr	Gewehr	ein	das	Gewehre	Gewehre	\d	die	
 _01AE6100A8B9388D	RifleHunting	Schießen	Schießen	\d	das	Schießen	Schießen	\d	das	
-_ACE7BC6F6E38208E	Rocket	Rakete	Rakete	eine	die	Raketen	Raketen	\d	die	
+_ACE7BC6F6E38208E	Rocket	Rakete	Rakete	eine	die	Granaten	Granaten	\d	die	
 _2C1F1D07A2E72BEC	RockTabou	Stoß-Tabu	Stoß-Tabu	ein	das	Stoß-Tabus	Stoß-Tabus	\d	die	
 _E4D8D8662478A887	Rondache	Rundschild	Rundschild	ein	das	Rundschilde	Rundschilde	\d	die	
 _20B83C93ACDB2CA4	Rot	Verrotten	Verrotten	\d	das	Verrotten	Verrotten	\d	das	
@@ -309,7 +309,7 @@ _1DE8C3273B0B137B	MakeRitualJewels	Herstellung rituellen Schmucks	Herstellung ri
 _D8145C8EEA5A3CA6	SC	Handwerk	Handwerk	ein	das	Handwerke	Handwerke	\d	die	Handwerk
 _5654AC8E60988490	SM	Magie	Magie	eine	die	Magie	Magie	\d	die	Magie
 _4A528987D8F5BA5B	SMT	Wirkungsmagie	Wirkungsmagie	eine	die	Wirkungsmagie	Wirkungsmagie	\d	die	Gezielte Magie
-_29D259A451019CA9	SMTM	Raketenmagie	Raketenmagie	eine	die	Raketenmagie	Raketenmagie	\d	die	Magie gezielter Raketen
+_29D259A451019CA9	SMTM	Granatenmagie	Granatenmagie	eine	die	Granatenmagie	Granatenmagie	\d	die	Magie gezielter Granaten
 _5C0F8F5DAF790C9D	SMTMR	Grundmagie	Grundmagie	eine	die	Grundmagie	Grundmagie	\d	die	Gezieltes Magie-Geschoss – Ur
 _0AD18AB0336B9683	SMTMG	Atysianische Magie	Atysianische Magie	eine	die	Atysianische Magie	Atysianische Magie	\d	die	Gezieltes Magie Geschoss - Atysianische
 _D597B4747E2BAA66	SMTMB	himmlische Magie	himmlische Magie	eine	die	himmlische Magie	himmlische Magie	\d	die	Gezieltes Magie Geschoss - Himmlische
@@ -581,10 +581,10 @@ _6DFBBBE198CF6583	SFR2AAM	Meister in Automatikgewehrbeherrschung	Meister in Auto
 _1D160C9E2205FC8C	SFR2AB	Bogengewehrbeherrschung	Bogengewehrbeherrschung	eine	die	Bogengewehrbeherrschungen	Bogengewehrbeherrschungen	\d	die	
 _52D653A403717150	SFR2ABE	Beherrschung des elektrischen Bogengewehrs	Beherrschung des elektrischen Bogengewehrs	eine	die	Beherrschungen des elektrischen Bogengewehrs	Beherrschungen des elektrischen Bogengewehrs	\d	die	
 _CD131A1802CA9469	SFR2ABM	Meister in Bogengewehrbeherrschung	Meister in Bogengewehrbeherrschung	ein	der	Meister in Bogengewehrbeherrschung	Meister in Bogengewehrbeherrschung	\d	die	
-_1B56309520454883	SFR2AL	Raketenwerferbeherrschung	Raketenwerferbeherrschung	eine	die	Raketenwerferbeherrschungen	Raketenwerferbeherrschungen	\d	die	
-_3D708A732D6FA261	SFR2ALB	Beherrschung des brennenden Raketenwerfers	Beherrschung des brennenden Raketenwerfers	eine	die	Beherrschungen des brennenden Raketenwerfers	Beherrschungen des brennenden Raketenwerfers	\d	die	
-_D2560BACC3A1D543	SFR2ALE	Beherrschung des elektrischen Raketenwerfers	Beherrschung des elektrischen Raketenwerfers	eine	die	Beherrschungen des elektrischen Raketenwerfers	Beherrschungen des elektrischen Raketenwerfers	\d	die	
-_CED33223BD8AD85E	SFR2ALM	Meister in Raketenwerferbeherrschung	Meister in Raketenwerferbeherrschung	ein	der	Meister in Raketenwerferbeherrschung	Meister in Raketenwerferbeherrschung	\d	die	
+_1B56309520454883	SFR2AL	Granatenwerferbeherrschung	Granatenwerferbeherrschung	eine	die	Granatenwerferbeherrschungen	Granatenwerferbeherrschungen	\d	die	
+_3D708A732D6FA261	SFR2ALB	Beherrschung des brennenden Granatenwerfers	Beherrschung des brennenden Granatenwerfers	eine	die	Beherrschungen des brennenden Granatenwerfers	Beherrschungen des brennenden Granatenwerfers	\d	die	
+_D2560BACC3A1D543	SFR2ALE	Beherrschung des elektrischen Granatenwerfers	Beherrschung des elektrischen Granatenwerfers	eine	die	Beherrschungen des elektrischen Granatenwerfers	Beherrschungen des elektrischen Granatenwerfers	\d	die	
+_CED33223BD8AD85E	SFR2ALM	Meister in Granatenwerferbeherrschung	Meister in Granatenwerferbeherrschung	ein	der	Meister in Granatenwerferbeherrschung	Meister in Granatenwerferbeherrschung	\d	die	
 _C9667C75A1260469	SFR2AR	Gewehrbeherrschung	Gewehrbeherrschung	eine	die	Gewehrbeherrschungen	Gewehrbeherrschungen	\d	die	
 _F6FD2DF1DABA8BF7	SFR2ARL	Beherrschung des lebenden Gewehrs	Beherrschung des lebenden Gewehrs	eine	die	Beherrschungen des lebenden Gewehrs	Beherrschungen des lebenden Gewehrs	\d	die	
 _725F15E15ACA8B0D	SFR2ARM	Meister in Gewehrbeherrschung	Meister in Gewehrbeherrschung	ein	der	Meister in Gewehrbeherrschung	Meister in Gewehrbeherrschung	\d	die	
@@ -644,7 +644,7 @@ _844F549E45B094DA	SCR1B	Bogenpistolenherstellung	Bogenpistolenherstellung	eine	d
 _199A3BEC7136E7A5	SCR1P	Pistolenherstellung	Pistolenherstellung	eine	die	Pistolenherstellungen	Pistolenherstellungen	\d	die	Pistolen-Herstellung
 _188BF14452C8A940	SCR2A	Automatikgewehr-Herstellung	Automatikgewehr-Herstellung	eine	die	Automatikgewehr-Herstellungen	Automatikgewehr-Herstellungen	\d	die	Automatikgewehr-Herstellung
 _7F6A7C4CF7D8573B	SCR2B	Bogengewehr-Herstellung	Bogengewehr-Herstellung	eine	die	Bogengewehr-Herstellungen	Bogengewehr-Herstellungen	\d	die	Bogengewehr-Herstellung
-_BBCA883F7538A349	SCR2L	Raketenwerfer-Herstellung	Raketenwerfer-Herstellung	eine	die	Raketenwerfer-Herstellungen	Raketenwerfer-Herstellungen	\d	die	Raketenwerfer-Herstellung
+_BBCA883F7538A349	SCR2L	Granatenwerfer-Herstellung	Granatenwerfer-Herstellung	eine	die	Granatenwerfer-Herstellungen	Granatenwerfer-Herstellungen	\d	die	Granatenwerfer-Herstellung
 _1DA603AA97336A92	SCR2R	Gewehrherstellung	Gewehrherstellung	eine	die	Gewehrherstellungen	Gewehrherstelluneng	\d	die	Gewehr-Herstellung
 _9C7ED03161F4F41B	SCAHBE	Experte in der Herstellung schwerer Stiefel	Experte in der Herstellung schwerer Stiefel	ein	der	Experten in der Herstellung schwerer Stiefel	Experten in der Herstellung schwerer Stiefel	\d	die	Fachmännische Schwere Stiefel-Herstellung
 _52495B88B6E6EF2A	SCAHGE	Experte in der Herstellung schwerer Handschuhe	Experte in der Herstellung schwerer Handschuhe	ein	der	Experten in der Herstellung schwerer Handschuhe	Experten in der Herstellung schwerer Handschuhe	\d	die	Fachmännische Schwere Handschuh-Herstellung
@@ -684,7 +684,7 @@ _4D32DB99CD0B97C0	SCR1BE	Experte in der Bogenpistolenherstellung	Experte in der 
 _331CE29DA0D902A9	SCR1PE	Experte in der Pistolenherstellung	Experte in der Pistolenherstellung	ein	der	Experten in der Pistolenherstellung	Experten in der Pistolenherstellung	\d	die	Fachmännische Pistole Herstellung
 _34B1D38BC1F65F56	SCR2AE	Experte in der Automatikgewehr-Herstellung	Experte in der Automatikgewehr-Herstellung	ein	der	Experten in der Automatikgewehr-Herstellung	Experten in der Automatikgewehr-Herstellung	\d	die	Fachmännische Automatikgewehr-Herstellung
 _C9BF22961B6405F1	SCR2BE	Experte in der Bogengewehr-Herstellung	Experte in der Bogengewehr-Herstellung	ein	der	Experten in der Bogengewehr-Herstellung	Experten in der Bogengewehr-Herstellung	\d	die	Fachmännische Bogengewehr Herstellung
-_C29F26879C444513	SCR2LE	Experte in der Raketenwerfer-Herstellung	Experte in der Raketenwerfer-Herstellung	ein	der	Experten in der Raketenwerfer-Herstellung	Experten in der Raketenwerfer-Herstellung	\d	die	Fachmännische Raketenwerfer-Herstellung
+_C29F26879C444513	SCR2LE	Experte in der Granatenwerfer-Herstellung	Experte in der Granatenwerfer-Herstellung	ein	der	Experten in der Granatenwerfer-Herstellung	Experten in der Granatenwerfer-Herstellung	\d	die	Fachmännische Granatenwerfer-Herstellung
 _6B8A86C05EAE4144	SCR2RE	Experte in der Gewehrherstellung	Experte in der Gewehrherstellung	ein	der	Experten in der Gewehrherstellung	Experten in der Gewehrherstellung	\d	die	Fachmännische Gewehr Herstellung
 _139FBB5D95B2BF43	SCAHBEM	Meister in der Herstellung schwerer Stiefel	Meister in der Herstellung schwerer Stiefel	ein	der	Meister in der Herstellung schwerer Stiefel	Meister in der Herstellung schwerer Stiefel	\d	die	Meisterliche Schwere Stiefel-Herstellung
 _F24C383D2FC22E66	SCAHGEM	Meister in der Herstellung schwerer Handschuhe	Meister in der Herstellung schwerer Handschuhe	ein	der	Meister in der Herstellung schwerer Handschuhe	Meister in der Herstellung schwerer Handschuhe	\d	die	Meisterliche Schwere Handschuh-Herstellung
@@ -724,7 +724,7 @@ _88910F507D1DA21D	SCR1BEM	Meister in der Bogenpistolenherstellung	Meister in der
 _3E2B7A7F91E859F0	SCR1PEM	Meister in der Pistolenherstellung	Meister in der Pistolenherstellung	ein	der	Meister in der Pistolenherstellung	Meister in der Pistolenherstellung	\d	die	Meisterliche Pistolen-Herstellung
 _98CFC45BF682F2BE	SCR2AEM	Meister in der Automatikgewehr-Herstellung	Meister in der Automatikgewehr-Herstellung	ein	der	Meister in der Automatikgewehr-Herstellung	Meister in der Automatikgewehr-Herstellung	\d	die	Meisterliche Automatikgewehr-Herstellung
 _C75DA69E36B1B92E	SCR2BEM	Meister in der Bogengewehr-Herstellung	Meister in der Bogengewehr-Herstellung	ein	der	Meister in der Bogengewehr-Herstellung	Meister in der Bogengewehr-Herstellung	\d	die	Meisterliche Bogengewehr-Herstellung
-_03BDB291B411053C	SCR2LEM	Meister in der Raketenwerfer-Herstellung	Meister in der Raketenwerfer-Herstellung	ein	der	Meister in der Raketenwerfer-Herstellung	Meister in der Raketenwerfer-Herstellung	\d	die	Meisterliche Raketenwerfer-Herstellung
+_03BDB291B411053C	SCR2LEM	Meister in der Granatenwerfer-Herstellung	Meister in der Granatenwerfer-Herstellung	ein	der	Meister in der Granatenwerfer-Herstellung	Meister in der Granatenwerfer-Herstellung	\d	die	Meisterliche Granatenwerfer-Herstellung
 _E8CE0EC6D06DAC40	SCR2REM	Meister in der Gewehrherstellung	Meister in der Gewehrherstellung	ein	der	Meister in der Gewehrherstellung	Meister in der Gewehrherstellung	\d	die	Meisterliche Gewehr-Herstellung
 _2562F2A1E5A6ECCE	SCMC	Magieverstärker-Herstellung	Magieverstärker-Herstellung	eine	die	Magieverstärker-Herstellungen	Magieverstärker-Herstellungen	\d	die	Magieverstärker-Herstellung
 _80C9965548175036	SCMCA	Fortgeschrittener in Magieverstärker-Herstellung	Fortgeschrittener in Magieverstärker-Herstellung	ein	der	Fortgeschrittene in Magieverstärker-Herstellung	Fortgeschrittenen in Magieverstärker-Herstellung	\d	die	fortgeschrittene Zauberverstärker-Herstellung
