@@ -814,3 +814,11 @@ function game:chatWelcomeMsg(input)
 	end
 	runAH(getUICaller(), "chat_group_filter", chat)
 end
+
+
+function game:TalkWithNpc()
+	setTargetAsInterlocutor()
+	url = "app_arcc action=mScript_Run&script_name=TalkNpc&command=reset_all"
+	runCommand("a", "openTargetUrl", url)
+	debug(url)
+end
