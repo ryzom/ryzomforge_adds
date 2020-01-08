@@ -1427,6 +1427,13 @@ ABHFPMB17	Major Shell Group Prospecting		a	the				Search for specific materials,
 ABHFPMB18	Major Resin Group Prospecting		a	the				Search for specific materials, with greater chances to find raw material sources
 ABHFPMB19	Major Wood Group Prospecting		a	the				Search for specific materials, with greater chances to find raw material sources
 ABHFPMB20	Major Oil Group Prospecting		a	the				Search for specific materials, with greater chances to find raw material sources
+ABHFPMB21	Construction Group Prospecting		a	the				Search for specific materials
+ABHFPMB22	Food Group Prospecting		a	the				Search for specific materials
+ABHFPMB23	Goo Group Prospecting		a	the				Search for specific materials
+ABHFPMB24	Insect Group Prospecting		a	the				Search for specific materials
+ABHFPMB25	Kitin Group Prospecting		a	the				Search for specific materials
+ABHFPMB26	Harmful Group Prospecting		a	the				Search for specific materials
+ABHFPMB27	Preservative Group Prospecting		a	the				Search for specific materials
 ABHFPRMFMA02	Redhot Sap Prospection		a	the				 
 ABHFPRMFMA03	Silverweed Sap Prospection		a	the				 
 ABHFPRMFMA04	Visc Sap Prospection		a	the				 
@@ -1470,6 +1477,99 @@ ABHFPRMFMJ03	Eyota Wood Prospecting		a	the
 ABHFPRMFMJ04	Kachine Wood Prospecting		a	the				 
 ABHFPRMFMJ05	Motega Wood Prospecting		a	the				 
 ABHFPRMFMJ06	Tama Wood Prospecting		a	the				
+ABHFPRMFMK02	Dead Leaf Prospection		a	the				Search for specific material sources.
+ABHFPRMFMK03	Fresh Resin Prospection		a	the				Search for specific material sources.
+ABHFPRMFMK04	Fresh Wood Prospection		a	the				Search for specific material sources.
+ABHFPRMFMK05	Dry Wood Prospection		a	the				Search for specific material sources.
+ABHFPRMFMK06	Damp Wood Sawdust Prospection		a	the				Search for specific material sources.
+ABHFPRMFMK07	Small Reed Leaf Prospection		a	the				Search for specific material sources.
+ABHFPRMFMK08	Large Reed Leaf Prospection		a	the				Search for specific material sources.
+ABHFPRMFMK09	Giant Reed Leaf Prospection		a	the				Search for specific material sources.
+ABHFPRMFMK10	Fresh Bark Prospection		a	the				Search for specific material sources.
+ABHFPRMFMK11	Dry Bark Prospection		a	the				Search for specific material sources.
+ABHFPRMFMK12	Dry Fiber Prospection		a	the				Search for specific material sources.
+ABHFPRMFMK13	Damp Fiber Prospection		a	the				Search for specific material sources.
+ABHFPRMFMK14	Small Pearly Shell Prospection		a	the				Search for specific material sources.
+ABHFPRMFMK15	Large Pearly Shell Prospection		a	the				Search for specific material sources.
+ABHFPRMFMK16	Giant Pearly Shell Prospection		a	the				Search for specific material sources.
+ABHFPRMFMK17	Small Pearl Prospection		a	the				Search for specific material sources.
+ABHFPRMFMK18	Large Pearl Prospection		a	the				Search for specific material sources.
+ABHFPRMFMK19	Giant Pearl Prospection		a	the				Search for specific material sources.
+ABHFPRMFMK20	Silvery Fish Scale Prospection		a	the				Search for specific material sources.
+ABHFPRMFMK21	Golden Fish Scale Prospection		a	the				Search for specific material sources.
+ABHFPRMFMK22	Worm Silk Prospection		a	the				Search for specific material sources.
+ABHFPRMFMK23	Spider Silk Prospection		a	the				Search for specific material sources.
+ABHFPRMFMK24	Small Reed Stem Prospection		a	the				Search for specific material sources.
+ABHFPRMFMK25	Large Reed Stem Prospection		a	the				Search for specific material sources.
+ABHFPRMFMK26	Fresh Loose Soil Prospection		a	the				Search for specific material sources.
+ABHFPRMFMK27	Dried Loose Soil Prospection		a	the				Search for specific material sources.
+ABHFPRMFMK28	Small Plant Fossil Prospection		a	the				Search for specific material sources.
+ABHFPRMFMK29	Large Plant Fossil Prospection		a	the				Search for specific material sources.
+ABHFPRMFMK30	Red Pigment Prospection		a	the				Search for specific material sources.
+ABHFPRMFMK31	Green Pigment Prospection		a	the				Search for specific material sources.
+ABHFPRMFMK32	Blue Pigment Prospection		a	the				Search for specific material sources.
+ABHFPRMFMK33	Yellow Pigment Prospection		a	the				Search for specific material sources.
+ABHFPRMFMK34	Black Pigment Prospection		a	the				Search for specific material sources.
+ABHFPRMFML02	Green Leaf Prospection		a	the				Search for specific material sources.
+ABHFPRMFML03	Fresh Flower Petal Prospection		a	the				Search for specific material sources.
+ABHFPRMFML04	Dried Flower Petal Prospection		a	the				Search for specific material sources.
+ABHFPRMFML05	Small Bud Prospection		a	the				Search for specific material sources.
+ABHFPRMFML06	Large Bud Prospection		a	the				Search for specific material sources.
+ABHFPRMFML07	Fresh Dandelion Prospection		a	the				Search for specific material sources.
+ABHFPRMFML08	Dried Dandelion Prospection		a	the				Search for specific material sources.
+ABHFPRMFML09	Blooming Dandelion Prospection		a	the				Search for specific material sources.
+ABHFPRMFML10	Small Mushroom Prospection		a	the				Search for specific material sources.
+ABHFPRMFML11	Large Mushroom Prospection		a	the				Search for specific material sources.
+ABHFPRMFML12	Living Insect Larva Prospection		a	the				Search for specific material sources.
+ABHFPRMFML13	Fresh Cereal Prospection		a	the				Search for specific material sources.
+ABHFPRMFML14	Dried Cereal Prospection		a	the				Search for specific material sources.
+ABHFPRMFML15	Dead Insect Larva Prospection		a	the				Search for specific material sources.
+ABHFPRMFML16	Small Egg Prospection		a	the				Search for specific material sources.
+ABHFPRMFML17	Large Egg Prospection		a	the				Search for specific material sources.
+ABHFPRMFML18	Fresh Honey Prospection		a	the				Search for specific material sources.
+ABHFPRMFML19	Dried Honey Prospection		a	the				Search for specific material sources.
+ABHFPRMFML20	Peppery Aromatic Plant Prospection		a	the				Search for specific material sources.
+ABHFPRMFML21	Spicy Aromatic Plant Prospection		a	the				Search for specific material sources.
+ABHFPRMFML22	Bitter Aromatic Plant Prospection		a	the				Search for specific material sources.
+ABHFPRMFML23	Fresh Wild Berry Prospection		a	the				Search for specific material sources.
+ABHFPRMFML24	Dried Wild Berry Prospection		a	the				Search for specific material sources.
+ABHFPRMFML25	Small Fruit Prospection		a	the				Search for specific material sources.
+ABHFPRMFML26	Large Fruit Prospection		a	the				Search for specific material sources.
+ABHFPRMFMM02	Fresh Modified Sap Prospection		a	the				Search for specific material sources.
+ABHFPRMFMM03	Dried Modified Sap Prospection		a	the				Search for specific material sources.
+ABHFPRMFMM04	Fresh Goo Residue Prospection		a	the				Search for specific material sources.
+ABHFPRMFMM05	Dried Goo Residue Prospection		a	the				Search for specific material sources.
+ABHFPRMFMN02	Living Parasite Prospection		a	the				Search for specific material sources.
+ABHFPRMFMN03	Dead Parasite Prospection		a	the				Search for specific material sources.
+ABHFPRMFMN04	Small Firefly Abdomen Prospection		a	the				Search for specific material sources.
+ABHFPRMFMN05	Large Firefly Abdomen Prospection		a	the				Search for specific material sources.
+ABHFPRMFMN06	Red Butterfly Wing Prospection		a	the				Search for specific material sources.
+ABHFPRMFMN07	Green Butterfly Wing Prospection		a	the				Search for specific material sources.
+ABHFPRMFMN08	Blue Butterfly Wing Prospection		a	the				Search for specific material sources.
+ABHFPRMFMN09	Yellow Butterfly Wing Prospection		a	the				Search for specific material sources.
+ABHFPRMFMN10	Small Insect Fossil Prospection		a	the				Search for specific material sources.
+ABHFPRMFMN11	Large Insect Fossil Prospection		a	the				Search for specific material sources.
+ABHFPRMFMO02	Fresh Kitin Cocoon Prospection		a	the				Search for specific material sources.
+ABHFPRMFMO03	Old Kitin Cocoon Prospection		a	the				Search for specific material sources.
+ABHFPRMFMO04	Kitin Saliva Prospection		a	the				Search for specific material sources.
+ABHFPRMFMO05	Kitin Larva Prospection		a	the				Search for specific material sources.
+ABHFPRMFMP02	Rotting Leaf Prospection		a	the				Search for specific material sources.
+ABHFPRMFMP03	Rotting Wood Prospection		a	the				Search for specific material sources.
+ABHFPRMFMP04	Small Thorn Prospection		a	the				Search for specific material sources.
+ABHFPRMFMP05	Large Thorn Prospection		a	the				Search for specific material sources.
+ABHFPRMFMP06	Giant Thorn Prospection		a	the				Search for specific material sources.
+ABHFPRMFMP07	Dust Prospection		a	the				Search for specific material sources.
+ABHFPRMFMP08	Rotting Fiber Prospection		a	the				Search for specific material sources.
+ABHFPRMFMP09	Small Spider Web Prospection		a	the				Search for specific material sources.
+ABHFPRMFMP10	Large Spider Web Prospection		a	the				Search for specific material sources.
+ABHFPRMFMQ02	Dry Resin Prospection		a	the				Search for specific material sources.
+ABHFPRMFMQ03	Dry Wood Sawdust Prospection		a	the				Search for specific material sources.
+ABHFPRMFMQ04	Dry Straw Prospection		a	the				Search for specific material sources.
+ABHFPRMFMQ05	Damp Straw Prospection		a	the				Search for specific material sources.
+ABHFPRMFMQ06	Fresh Wax Prospection		a	the				Search for specific material sources.
+ABHFPRMFMQ07	Dry Wax Prospection		a	the				Search for specific material sources.
+ABHFPRMFMQ08	Fresh Moss Prospection		a	the				Search for specific material sources.
+ABHFPRMFMQ09	Dry Moss Prospection		a	the				Search for specific material sources.
 ABHFPRMFMW02	Gulatch Oil Prospection		a	the				 
 ABHFPRMFMW03	Pilan Oil Prospection		a	the				 
 ABHFPRMFMW04	Irin Oil Prospection		a	the				 
@@ -1655,6 +1755,13 @@ ABHFEMB06	Seed Group Specialized Extraction		a	the				Increase quality and reduc
 ABHFEMB07	Shell group specialized extraction		a	the				Increase quality and reduce the aggressiveness of speed
 ABHFEMB09	Resin Group Specialized Extraction		a	the				Increase quality and reduce the aggressiveness of speed
 ABHFEMB10	Wood group specialized extraction		a	the				Increase quality and reduce the aggressiveness of speed
+ABHFEMB11	Construction Extraction Specialization		an	the				Increase quality and reduce the aggressiveness of speed.
+ABHFEMB12	Food Extraction Specialization		an	the				Increase quality and reduce the aggressiveness of speed.
+ABHFEMB13	Goo Extraction Specialization		an	the				Increase quality and reduce the aggressiveness of speed.
+ABHFEMB14	Insect Extraction Specialization		an	the				Increase quality and reduce the aggressiveness of speed.
+ABHFEMB15	Kitin Extraction Specialization		an	the				Increase quality and reduce the aggressiveness of speed.
+ABHFEMB16	Harmful Extraction Specialization		an	the				Increase quality and reduce the aggressiveness of speed.
+ABHFEMB17	Preservative Extraction Specialization		an	the				Increase quality and reduce the aggressiveness of speed.
 ABHFEMB23	Oil Group Specialized Extraction		a	the				Increase quality and reduce the aggressiveness of speed
 ABHFEMC01	Resources preservation 1		a	the				Help raising the life of a forage source, to avoid its untimely disappearance and possible exhaustion of the area
 ABHFEMC02	Resources preservation 2		a	the				Help raising the life of a forage source, to avoid its untimely disappearance and possible exhaustion of the area
