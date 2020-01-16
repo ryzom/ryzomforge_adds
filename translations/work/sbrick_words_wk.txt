@@ -1242,6 +1242,13 @@ BHFPMB17	Major Shell Group Prospecting		a	the				Search for specific materials, 
 BHFPMB18	Major Resin Group Prospecting		a	the				Search for specific materials, with greater chances to find raw material sources		
 BHFPMB19	Major Wood Group Prospecting		a	the				Search for specific materials, with greater chances to find raw material sources		
 BHFPMB20	Major Oil Group Prospecting		a	the				Search for specific materials, with greater chances to find raw material sources		
+BHFPMB21	Construction Group Prospecting		a	the				Search for specific materials.	
+BHFPMB22	Food Group Prospecting		a	the				Search for specific materials.	
+BHFPMB23	Goo Group Prospecting		a	the				Search for specific materials.	
+BHFPMB24	Insect Group Prospecting		a	the				Search for specific materials.	
+BHFPMB25	Kitin Group Prospecting		a	the				Search for specific materials.	
+BHFPMB26	Harmful Group Prospecting		a	the				Search for specific materials.	
+BHFPMB27	Preservative Group Prospecting		a	the				Search for specific materials.	
 BHFPRMFMA01	Any material from group		a	the						
 BHFPRMFMA02	Redhot Sap Prospection		a	the						
 BHFPRMFMA03	Silverweed Sap Prospection		a	the						
@@ -1294,6 +1301,106 @@ BHFPRMFMJ03	Eyota Wood Prospecting		a	the
 BHFPRMFMJ04	Kachine Wood Prospecting		a	the						
 BHFPRMFMJ05	Motega Wood Prospecting		a	the						
 BHFPRMFMJ06	Tama Wood Prospecting		a	the						
+BHFPRMFMK01	Any material from group		a	the						
+BHFPRMFMK02	Dead Leaf Prospecting		a	the					 
+BHFPRMFMK03	Fresh Resin Prospecting		a	the					 
+BHFPRMFMK04	Fresh Wood Prospecting		a	the					 
+BHFPRMFMK05	Dry Wood Prospecting		a	the					 
+BHFPRMFMK06	Damp Wood Sawdust Prospecting		a	the					 
+BHFPRMFMK07	Small Reed Leaf Prospecting		a	the					 
+BHFPRMFMK08	Large Reed Leaf Prospecting		a	the					 
+BHFPRMFMK09	Giant Reed Leaf Prospecting		a	the					 
+BHFPRMFMK10	Fresh Bark Prospecting		a	the					 
+BHFPRMFMK11	Dry Bark Prospecting		a	the					 
+BHFPRMFMK12	Dry Fiber Prospecting		a	the					 
+BHFPRMFMK13	Damp Fiber Prospecting		a	the					 
+BHFPRMFMK14	Small Pearly Shell Prospecting		a	the					 
+BHFPRMFMK15	Large Pearly Shell Prospecting		a	the					 
+BHFPRMFMK16	Giant Pearly Shell Prospecting		a	the					 
+BHFPRMFMK17	Small Pearl Prospecting		a	the					 
+BHFPRMFMK18	Large Pearl Prospecting		a	the					 
+BHFPRMFMK19	Giant Pearl Prospecting		a	the					 
+BHFPRMFMK20	Silvery Fish Scale Prospecting		a	the					 
+BHFPRMFMK21	Golden Fish Scale Prospecting		a	the					 
+BHFPRMFMK22	Worm Silk Prospecting		a	the					 
+BHFPRMFMK23	Spider Silk Prospecting		a	the					 
+BHFPRMFMK24	Small Reed Stem Prospecting		a	the					 
+BHFPRMFMK25	Large Reed Stem Prospecting		a	the					 
+BHFPRMFMK26	Fresh Loose Soil Prospecting		a	the					 
+BHFPRMFMK27	Dried Loose Soil Prospecting		a	the					 
+BHFPRMFMK28	Small Plant Fossil Prospecting		a	the					 
+BHFPRMFMK29	Large Plant Fossil Prospecting		a	the					 
+BHFPRMFMK30	Red Pigment Prospecting		a	the					 
+BHFPRMFMK31	Green Pigment Prospecting		a	the					 
+BHFPRMFMK32	Blue Pigment Prospecting		a	the					 
+BHFPRMFMK33	Yellow Pigment Prospecting		a	the					 
+BHFPRMFMK34	Black Pigment Prospecting		a	the					 
+BHFPRMFML01	Any material from group		a	the						
+BHFPRMFML02	Green Leaf Prospecting		a	the					 
+BHFPRMFML03	Fresh Flower Petal Prospecting		a	the					 
+BHFPRMFML04	Dried Flower Petal Prospecting		a	the					 
+BHFPRMFML05	Small Bud Prospecting		a	the					 
+BHFPRMFML06	Large Bud Prospecting		a	the					 
+BHFPRMFML07	Fresh Dandelion Prospecting		a	the					 
+BHFPRMFML08	Dried Dandelion Prospecting		a	the					 
+BHFPRMFML09	Blooming Dandelion Prospecting		a	the					 
+BHFPRMFML10	Small Mushroom Prospecting		a	the					 
+BHFPRMFML11	Large Mushroom Prospecting		a	the					 
+BHFPRMFML12	Living Insect Larva Prospecting		a	the					 
+BHFPRMFML13	Fresh Cereal Prospecting		a	the					 
+BHFPRMFML14	Dried Cereal Prospecting		a	the					 
+BHFPRMFML15	Dead Insect Larva Prospecting		a	the					 
+BHFPRMFML16	Small Egg Prospecting		a	the					 
+BHFPRMFML17	Large Egg Prospecting		a	the					 
+BHFPRMFML18	Fresh Honey Prospecting		a	the					 
+BHFPRMFML19	Dried Honey Prospecting		a	the					 
+BHFPRMFML20	Peppery Aromatic Plant Prospecting		a	the					 
+BHFPRMFML21	Spicy Aromatic Plant Prospecting		a	the					 
+BHFPRMFML22	Bitter Aromatic Plant Prospecting		a	the					 
+BHFPRMFML23	Fresh Wild Berry Prospecting		a	the					 
+BHFPRMFML24	Dried Wild Berry Prospecting		a	the					 
+BHFPRMFML25	Small Fruit Prospecting		a	the					 
+BHFPRMFML26	Large Fruit Prospecting		a	the					 
+BHFPRMFMM01	Any material from group		a	the						
+BHFPRMFMM02	Fresh Modified Sap Prospecting		a	the					 
+BHFPRMFMM03	Dried Modified Sap Prospecting		a	the					 
+BHFPRMFMM04	Fresh Goo Residue Prospecting		a	the					 
+BHFPRMFMM05	Dried Goo Residue Prospecting		a	the					 
+BHFPRMFMN01	Any material from group		a	the						
+BHFPRMFMN02	Living Parasite Prospecting		a	the					 
+BHFPRMFMN03	Dead Parasite Prospecting		a	the					 
+BHFPRMFMN04	Small Firefly Abdomen Prospecting		a	the					 
+BHFPRMFMN05	Large Firefly Abdomen Prospecting		a	the					 
+BHFPRMFMN06	Red Butterfly Wing Prospecting		a	the					 
+BHFPRMFMN07	Green Butterfly Wing Prospecting		a	the					 
+BHFPRMFMN08	Blue Butterfly Wing Prospecting		a	the					 
+BHFPRMFMN09	Yellow Butterfly Wing Prospecting		a	the					 
+BHFPRMFMN10	Small Insect Fossil Prospecting		a	the					 
+BHFPRMFMN11	Large Insect Fossil Prospecting		a	the					 
+BHFPRMFMO01	Any material from group		a	the						
+BHFPRMFMO02	Fresh Kitin Cocoon Prospecting		a	the					 
+BHFPRMFMO03	Old Kitin Cocoon Prospecting		a	the					 
+BHFPRMFMO04	Kitin Saliva Prospecting		a	the					 
+BHFPRMFMO05	Kitin Larva Prospecting		a	the					 
+BHFPRMFMP01	Any material from group		a	the						
+BHFPRMFMP02	Rotting Leaf Prospecting		a	the					 
+BHFPRMFMP03	Rotting Wood Prospecting		a	the					 
+BHFPRMFMP04	Small Thorn Prospecting		a	the					 
+BHFPRMFMP05	Large Thorn Prospecting		a	the					 
+BHFPRMFMP06	Giant Thorn Prospecting		a	the					 
+BHFPRMFMP07	Dust Prospecting		a	the					 
+BHFPRMFMP08	Rotting Fiber Prospecting		a	the					 
+BHFPRMFMP09	Small Spider Web Prospecting		a	the					 
+BHFPRMFMP10	Large Spider Web Prospecting		a	the					 
+BHFPRMFMQ01	Any material from group		a	the						
+BHFPRMFMQ02	Dry Resin Prospecting		a	the					 
+BHFPRMFMQ03	Dry Wood Sawdust Prospecting		a	the					 
+BHFPRMFMQ04	Dry Straw Prospecting		a	the					 
+BHFPRMFMQ05	Damp Straw Prospecting		a	the					 
+BHFPRMFMQ06	Fresh Wax Prospecting		a	the					 
+BHFPRMFMQ07	Dry Wax Prospecting		a	the					 
+BHFPRMFMQ08	Fresh Moss Prospecting		a	the					 
+BHFPRMFMQ09	Dry Moss Prospecting		a	the					 
 BHFPRMFMW01	Any material from group		a	the						
 BHFPRMFMW02	Gulatch Oil Prospection		a	the						
 BHFPRMFMW03	Pilan Oil Prospection		a	the						
@@ -1503,6 +1610,13 @@ BHFEMB06	Seed Group Specializing		a	the				Increase quality and reduce the aggre
 BHFEMB07	Shell group specializing		a	the				Increase quality and reduce the aggressiveness of speed		
 BHFEMB09	Resin Group Specializing		a	the				Increase quality and reduce the aggressiveness of speed		
 BHFEMB10	Wood group specializing		a	the				Increase quality and reduce the aggressiveness of speed		
+BHFEMB11	Construction Group Specialization		an	the				Increases quality and reduces the aggressiveness of speed stanzas.	
+BHFEMB12	Food Group Specialization		an	the				Increases quality and reduces the aggressiveness of speed stanzas.	
+BHFEMB13	Goo Group Specialization		an	the				Increases quality and reduces the aggressiveness of speed stanzas.	
+BHFEMB14	Insect Group Specialization		an	the				Increases quality and reduces the aggressiveness of speed stanzas.	
+BHFEMB15	Kitin Group Specialization		an	the				Increases quality and reduces the aggressiveness of speed stanzas.	
+BHFEMB16	Harmful Group Specialization		an	the				Increases quality and reduces the aggressiveness of speed stanzas.	
+BHFEMB17	Preservative Group Specialization		an	the				Increases quality and reduces the aggressiveness of speed stanzas.	
 BHFEMB23	Oil Group Specializing		a	the				Increase quality and reduce the aggressiveness of speed		
 BHFEMC01	Preservation 1		a	the				Help raising the life of a forage source, to avoid its untimely disappearance and possible exhaustion of the area		
 BHFEMC02	Preservation 2		a	the				Help raising the life of a forage source, to avoid its untimely disappearance and possible exhaustion of the area		
