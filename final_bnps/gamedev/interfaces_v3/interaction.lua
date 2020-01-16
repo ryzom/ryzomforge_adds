@@ -818,7 +818,11 @@ end
 
 function game:TalkWithNpc()
 	setTargetAsInterlocutor()
-	url = "app_arcc action=mScript_Run&script_name=TalkNpc&command=reset_all"
+	
+	local name = encodeToHexa(getTargetName())
+	local title_raw = encodeToHexa(getTargetTitleRaw())
+	local title = encodeToHexa(getTargetTitle())
+	
+	url = "app_arcc action=mScript_Run&script_name=TalkNpc&target_name="..name.."&target_titleraw="..title_raw.."&target_title="..title.."&command=reset_all"
 	runCommand("a", "openTargetUrl", url)
-	debug(url)
 end
