@@ -814,3 +814,15 @@ function game:chatWelcomeMsg(input)
 	end
 	runAH(getUICaller(), "chat_group_filter", chat)
 end
+
+
+function game:TalkWithNpc()
+	setTargetAsInterlocutor()
+	
+	local name = encodeToHexa(getTargetName())
+	local title_raw = encodeToHexa(getTargetTitleRaw())
+	local title = encodeToHexa(getTargetTitle())
+	
+	url = "app_arcc action=mScript_Run&script_name=TalkNpc&target_name="..name.."&target_titleraw="..title_raw.."&target_title="..title.."&command=reset_all"
+	runCommand("a", "openTargetUrl", url)
+end
