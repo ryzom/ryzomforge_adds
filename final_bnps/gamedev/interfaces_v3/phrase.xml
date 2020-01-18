@@ -666,15 +666,11 @@
 			multi_line="true" line_maxw="250" multi_line_space="0" hardtext="uiTextHelpSelectFaberPlanSlot" />
 		<link expr="eq(@UI:PHRASE:FABER:FABER_PLAN:SHEET, 0)" target="faber_plan_info:active" />
 
-		<view type="text" id="name" posparent="faber_plan" posref="TR TL" x="4" y="0" color="255 255 255 255" shadow="true" fontsize="10" multi_line="true" line_maxw="350" multi_line_space="0" hardtext="" />
-		<view type="text" id="desc" posparent="name" posref="BL TL" x="0" y="0" color="255 255 255 255" shadow="true" fontsize="10" multi_line="true" line_maxw="350" multi_line_space="0" hardtext="" />
-		<link expr="ne(@UI:PHRASE:FABER:FABER_PLAN:SHEET, 0)" target="name:active,desc:active" />
-		<link expr="@UI:PHRASE:FABER:FABER_PLAN:SHEET" action="lua:game:updatePhraseFaberPreview('UI:PHRASE:FABER:FABER_PLAN:SHEET')" />
-
 		<!-- The Success Rate info. Must be multiline for Formating -->
 		<view type="text" id="success_text" posparent="back" posref="TL TL" x="8" y="-36" color="255 255 255 255" shadow="true" fontsize="12"
 			multi_line="true" line_maxw="350" multi_line_space="0" hardtext="" />
 		<link expr="ne(@UI:PHRASE:FABER:FABER_PLAN:SHEET, 0)" target="success_text:active" />
+
 
 		<!-- The 10 item_req (itemParts and specific Formula items) -->
 		<group id="back_slots" x="16" y="-56" posparent="back" posref="TL TL" w="368" h="312" >
@@ -694,9 +690,6 @@
 
 			<!-- item result -->
 			<ctrl type="sheet" id="item_result" nature="item" value="UI:PHRASE:FABER:RESULT_ITEM" posparent="header" posref="BL TL" y="-4" tooltip="uittFaberItemResult" />
-			<view type="text" id="name" posparent="item_result" posref="TR TL" x="4" y="0" multi_line="true" line_maxw="340" hardtext="uittFaberItemResult" />
-			<view type="text" id="desc" posparent="name" posref="BL TL" x="0" y="0" multi_line="true" line_maxw="340" hardtext="..." />
-			<link expr="@UI:PHRASE:FABER:RESULT_ITEM:SHEET" action="lua:game:updatePhraseFaberPreview('UI:PHRASE:FABER:RESULT_ITEM:SHEET')" />
 
 			<!-- Stat Preview -->
 			<vector template="template_mp_faber_stat" id="stat$i" _size="%MAX_STAT_MP_CRAFT" _firstpos="BL TL" _xfirst="0" _yfirst="-6" _nextpos="BL TL" />
