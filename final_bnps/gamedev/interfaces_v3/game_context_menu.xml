@@ -93,20 +93,20 @@
 	<action id="assist"					name="uimAssist"				handler="assist_target"					params=""	icon="ico_aim.tga" />
 	<action id="follow"					name="uimFollow"				handler="command"						params="follow"	icon="r2_mini_activity_follow_road.tga" />
 	<action id="exchange"				name="uimGcmExchange"			handler="context_exchange"				params=""	icon="ico_exchange.tga" />
-	<action id="invit"					name="uimGcmInvit"				handler="context_invit"					params="" />
-	<action id="guild_invit"			name="uimGcmGuildInvit"			handler="context_guild_invit"			params="" />
-	<action id="add_to_friend_list"		name="uimGcmAddToFriendList"	handler="context_add_to_friend_list"	params="" />
+	<action id="invit"					name="uimGcmInvit"				handler="context_invit"					params="" icon="tb_team.tga" />
+	<action id="guild_invit"			name="uimGcmGuildInvit"			handler="context_guild_invit"			params="" icon="tb_guild.tga" />
+	<action id="add_to_friend_list"		name="uimGcmAddToFriendList"	handler="context_add_to_friend_list"	params="" icon="ico_preservation.tga" />
 	<!-- misc -->
 	<action id="mount"					name="uimGcmMount"				handler="beast_order"	params="order=mount|beast_index=@UI:GCM_BEAST_SELECTED" />
 	<action id="pa_follow"				name="uimFollowMe"				handler="beast_order"	params="order=follow|beast_index=@UI:GCM_BEAST_SELECTED"/>
 	<action id="pa_stop"				name="uimGcmStop"				handler="beast_order"	params="order=stop|beast_index=@UI:GCM_BEAST_SELECTED"/>
 	<action id="pa_enter_stable"		name="uimGcmEnterStable"		handler="beast_order"	params="order=enter_stable|beast_index=@UI:GCM_BEAST_SELECTED"/>
 	<action id="pa_enter_bag"			name="uimEnterBag"			handler="beast_order"	params="order=enter_bag|beast_index=@UI:GCM_BEAST_SELECTED"/>
-	<action id="extract_rm"				name="uimGcmExtractRM"			handler="context_extract_rm"			params="" />
+	<action id="extract_rm"				name="uimGcmExtractRM"			handler="context_extract_rm"			params="" icon="ico_forage_buff.tga" />
 	<action id="build_totem"			name="uimGcmChooseBuilding"		handler="build_totem"					params="" />
 
-	<action id="stop"					name="uimGcmStopMove"			handler="context_stop"					params="" />
-	<action id="unseat"					name="uimUnmount"				handler="beast_order"	params="order=unmount|beast_index=0" />
+	<action id="stop"					name="uimGcmStopMove"			handler="context_stop"					params="" icon="r2_hand_pan.tga"/>
+	<action id="unseat"					name="uimUnmount"				handler="beast_order"	params="order=unmount|beast_index=0" icon="mektoub_unmount.tga"/>
 
 
 	<separator/>
@@ -120,8 +120,8 @@
 	<action id="move"					name="uimGcmMove"				handler="context_move"					params="" icon="ico_move.tga" />
 	<separator/>
 
-	<action id="pa_free"				name="uimGcmFree"				handler="beast_order"	params="order=free|beast_index=@UI:GCM_BEAST_SELECTED"/>
-	<action id="quit_team"				name="uimGcmQuitTeam"			handler="context_quit_team"				params="" ico="w_answer_16_cancel.tga"/>
+	<action id="pa_free"				name="uimGcmFree"				handler="beast_order"	params="order=free|beast_index=@UI:GCM_BEAST_SELECTED" icon="r2_toolbar_kill.tga"/>
+	<action id="quit_team"				name="uimGcmQuitTeam"			handler="context_quit_team"				params="" icon="w_answer_16_cancel.tga"/>
 </group>
 
 	<!-- TEMPORARY FOR TESTS -->
