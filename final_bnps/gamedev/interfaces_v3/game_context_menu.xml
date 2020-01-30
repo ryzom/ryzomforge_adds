@@ -74,7 +74,8 @@
 
 	<!-- interaction -->
 	<action id="talk"					name="uimGcmTalk"				handler="context_talk"						params=""	icon="r2_mini_activity_empty_chat.tga" />
-	<action id="news"					name="uimGcmTalk"				handler="lua"					params="game:TalkWithNpc()"	icon="radar_mission3_16.tga" />
+	<action id="news"					name="uimGcmChat"				handler="lua"					params="game:TalkWithNpc(0)"	icon="radar_mission3_16.tga" />
+	<action id="news_aggressive"		name="uimGcmBullying"			handler="lua"					params="game:TalkWithNpc(1)"	icon="bullying.tga" />
 	<action id="attack"					name="uimGcmAttack"				handler="context_attack"				params=""	icon="ico_blade.tga" />
 	<action id="info"					name="uimGcmInfo"				handler="open_title_help"				params="from=target" icon="spe_status.tga" />
 
