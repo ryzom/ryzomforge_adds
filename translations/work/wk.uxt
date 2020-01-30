@@ -13629,6 +13629,5 @@ uittChanAuto    [If checked, your dynamic chat channels will be restored if not 
 uiMissionCatalog	 [Mission Catalog]
 uiS2            [La saison en noir contre blanc]
 uiS2E0          [Episode Prologue: Celui où l'on s'informe]
-
-
-
+uimGcmChat		[Bavarder]
+uimGcmBullying	[Interroger (en tentant d'intimider)]
