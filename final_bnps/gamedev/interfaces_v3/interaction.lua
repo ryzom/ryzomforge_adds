@@ -816,8 +816,12 @@ function game:chatWelcomeMsg(input)
 end
 
 
-function game:TalkWithNpc()
+function game:TalkWithNpc(bullying)
 	setTargetAsInterlocutor()
-	
-	runCommand("a", "openTargetUrl")
+
+	if bullying == 1 then
+		runCommand("a", "openTargetUrl", "1")
+	else
+		runCommand("a", "openTargetUrl")
+	end
 end
