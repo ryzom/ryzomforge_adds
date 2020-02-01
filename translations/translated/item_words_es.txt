@@ -6753,7 +6753,7 @@ _049573BB0B260983	rpjobitem_203_c1	Mapa de magnetismo primario		el	Mapa de magne
 _3EF55681E5E5EC90	rpjobitem_203_c2	Mapa de magnetismo secundario		el	Mapa de magnetismo secundario		el	
 _3E4215A07CF6F956	rpjobitem_203_c3	Mapa de magnetismo terciario		el	Mapa de magnetismo terciario		el	
 _CEE2AD5AB38D2E18	rpjobitem_203_c4	Mapa de magnetismo medio		el	Mapa de magnetismo medio		el	
-_3AB021B1F9640567	rpjobitem_203_c5	Mapa de magnetismo absoluto		el	Mapas de magnetismo absoluto		el	
+_3AB021B1F9640567	rpjobitem_203_c5	Mapa de magnetismo mayor		el	Mapas de magnetismo mayor		el	
 _A518DB81926887CF	rpjob_204	aprendiz de fabricante de herramientas	un	el	Aprendiz de fabricante de herramientas	un	de	
 _E1873693C8613D0D	tools_ticket	Herramienta mejorada	una	la	Herramientas mejoradas		las	
 _18F46B65C6E278F1	rpjobitem_204_a0	Materiales para la empuñadura o mango		los	Materiales para la empuñadura o mango		los	

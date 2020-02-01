@@ -6753,7 +6753,7 @@ _049573BB0B260983	rpjobitem_203_c1	Map of Primary Magnetism	a	the	Maps of Primar
 _3EF55681E5E5EC90	rpjobitem_203_c2	Map of Secondary Magnetism	a	the	Maps of Secondary Magnetism	\d	the	
 _3E4215A07CF6F956	rpjobitem_203_c3	Map of Tertiary Magnetism	a	the	Maps of Tertiary Magnetism	\d	the	
 _CEE2AD5AB38D2E18	rpjobitem_203_c4	Map of Medium Magnetism	a	the	Maps of Medium Magnetism	\d	the	
-_3AB021B1F9640567	rpjobitem_203_c5	Map of Absolute Magnetism	a	the	Maps of Absolute Magnetism	\d	the	
+_3AB021B1F9640567	rpjobitem_203_c5	Map of Major Magnetism	a	the	Maps of Major Magnetism	\d	the	
 _A518DB81926887CF	rpjob_204	Apprentice Toolmaker	an	of	Apprentice Toolmaker	\d	of	
 _E1873693C8613D0D	tools_ticket	Improved Tool	an	the	Improved Tools	\d	the	
 _18F46B65C6E278F1	rpjobitem_204_a0	Materials for the Handle	some	the	Materials for the Handle	\d	the	
