@@ -1,4 +1,4 @@
-﻿// HASH_VALUE 6B09AC86E0363C89
+// HASH_VALUE 6B09AC86E0363C89
 // INDEX 0
 LanguageName	[Français]
 
@@ -27669,5 +27669,21 @@ uittChanAuto	[Si coché, vos canaux de discussion dynamiques seront restaurés s
 
 // HASH_VALUE A9CBC85A8532D0B3
 // INDEX 6580
-uiMissionCatalog	[Carnet de Missions]
+uiMissionCatalog	[Ouvrir le Carnet de Missions]
+
+// HASH_VALUE AA540E4CE618BC5D
+// INDEX 6581
+uiS2	[La saison en noir contre blanc]
+
+// HASH_VALUE 06588D16CC507DD7
+// INDEX 6582
+uiS2E0	[Episode "Prologue" : Celui où l'on s'informe]
+
+// HASH_VALUE 609C1408705844C8
+// INDEX 6583
+uimGcmChat	[Bavarder]
+
+// HASH_VALUE D808A99F289008AE
+// INDEX 6584
+uimGcmBullying	[Interroger d'un air mauvais]
 

@@ -27692,5 +27692,13 @@ uittChanAuto	[Si está marcada, sus canales de chat dinámico se restaurarán si
 
 // HASH_VALUE A9CBC85A8532D0B3
 // INDEX 6580
-uiMissionCatalog	[Diario de Misiones]
+uiMissionCatalog	[Abrir Diario de Misiones]
+
+// HASH_VALUE AA540E4CE618BC5D
+// INDEX 6581
+uiS2	[La temporada en negro contra blanco]
+
+// HASH_VALUE 06588D16CC507DD7
+// INDEX 6582
+uiS2E0	[Episodio "Prólogo": En el que te informas]
 

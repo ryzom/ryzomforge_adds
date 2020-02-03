@@ -27708,5 +27708,13 @@ uittChanAuto	[Wenn dieses Kontrollkästchen aktiviert ist, werden Ihre dynamisch
 
 // HASH_VALUE A9CBC85A8532D0B3
 // INDEX 6580
-uiMissionCatalog	[Missions-Tagebuch]
+uiMissionCatalog	[Öffnen: Missions-Tagebuch]
+
+// HASH_VALUE AA540E4CE618BC5D
+// INDEX 6581
+uiS2	[Die Saison in Schwarz gegen Weiß]
+
+// HASH_VALUE 06588D16CC507DD7
+// INDEX 6582
+uiS2E0	[Episode "Prolog": Diejenige, in der Sie informiert werden]
 
