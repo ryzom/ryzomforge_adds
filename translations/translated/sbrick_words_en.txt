@@ -1242,6 +1242,13 @@ _613AF10B03C5CAA7	BHFPMB17	Major Shell Group Prospecting		a	the				Search for sp
 _615AE51983B5CAA7	BHFPMB18	Major Resin Group Prospecting		a	the				Search for specific materials, with greater chances of finding sources.	
 _E5E4CB622A8D214C	BHFPMB19	Major Wood Group Prospecting		a	the				Search for specific materials, with greater chances of finding sources.	
 _8CC515DD7BD483E2	BHFPMB20	Major Oil Group Prospecting		a	the				Search for specific materials, with greater chances of finding sources.	
+_A24139328E381006	BHFPMB21	Construction Group Prospecting		a	the				Search for specific materials.	
+_445B94C1F6E14792	BHFPMB22	Food Group Prospecting		a	the				Search for specific materials.	
+_E39E9BF5993BF4DB	BHFPMB23	Goo Group Prospecting		a	the				Search for specific materials.	
+_064D9C842D9668DE	BHFPMB24	Insect Group Prospecting		a	the				Search for specific materials.	
+_7790AF3C4829221D	BHFPMB25	Kitin Group Prospecting		a	the				Search for specific materials.	
+_3CA391185C2D9B1F	BHFPMB26	Harmful Group Prospecting		a	the				Search for specific materials.	
+_6022453F8F4810F7	BHFPMB27	Preservative Group Prospecting		a	the				Search for specific materials.	
 _BEA536C08664A307	BHFPRMFMA01	Any Material From Group		an	the					
 _730AB3CD658597EF	BHFPRMFMA02	Redhot Sap Prospecting		a	the					 
 _78888F2D774EB8F5	BHFPRMFMA03	Silverweed Sap Prospecting		a	the					 
@@ -1294,6 +1301,106 @@ _B3DB9089224643F7	BHFPRMFMJ03	Eyota Wood Prospecting		an	the
 _EF85FCB3D2BCB506	BHFPRMFMJ04	Kachine Wood Prospecting		a	the					
 _7B79D7CE9A03B9FD	BHFPRMFMJ05	Motega Wood Prospecting		a	the					
 _739930B7D197D047	BHFPRMFMJ06	Tama Wood Prospecting		a	the					
+_78D93CC99153D1B1	BHFPRMFMK01	Any material from group		a	the					
+_EF7908AD0FB7A06B	BHFPRMFMK02	Dead Leaf Prospecting		a	the					 
+_BA3A848DDBE6A5FA	BHFPRMFMK03	Fresh Resin Prospecting		a	the					 
+_F3EB9083A4369BF0	BHFPRMFMK04	Fresh Wood Prospecting		a	the					 
+_5289D4E05CD29C7D	BHFPRMFMK05	Dry Wood Prospecting		a	the					 
+_8CD0051CEC8E1D87	BHFPRMFMK06	Damp Wood Sawdust Prospecting		a	the					 
+_AF78E5DB003B9403	BHFPRMFMK07	Small Reed Leaf Prospecting		a	the					 
+_EE88E5DB3EEBD8F7	BHFPRMFMK08	Large Reed Leaf Prospecting		a	the					 
+_AC98E5DB025B94FF	BHFPRMFMK09	Giant Reed Leaf Prospecting		a	the					 
+_B4CB4083A4369BF7	BHFPRMFMK10	Fresh Bark Prospecting		a	the					 
+_52B9E4D217D29C7D	BHFPRMFMK11	Dry Bark Prospecting		a	the					 
+_F2B900CA98730078	BHFPRMFMK12	Dry Fiber Prospecting		a	the					 
+_F10BDCA99206BBED	BHFPRMFMK13	Damp Fiber Prospecting		a	the					 
+_CEA119D6AD5C3C65	BHFPRMFMK14	Small Pearly Shell Prospecting		a	the					 
+_0DB119D6EB0C8059	BHFPRMFMK15	Large Pearly Shell Prospecting		a	the					 
+_CBC119D6AF7C3C61	BHFPRMFMK16	Giant Pearly Shell Prospecting		a	the					 
+_797A808DDC758DFE	BHFPRMFMK17	Small Pearl Prospecting		a	the					 
+_B88A808D1A25D1F2	BHFPRMFMK18	Large Pearl Prospecting		a	the					 
+_769A808DDE958DFA	BHFPRMFMK19	Giant Pearl Prospecting		a	the					 
+_07CDAD28EBEC8451	BHFPRMFMK20	Silvery Fish Scale Prospecting		a	the					 
+_C97D803234B96DE8	BHFPRMFMK21	Golden Fish Scale Prospecting		a	the					 
+_F42920B40F47E475	BHFPRMFMK22	Worm Silk Prospecting		a	the					 
+_7B19C3DF1AF5A9FB	BHFPRMFMK23	Spider Silk Prospecting		a	the					 
+_AF4809DFC4AC9403	BHFPRMFMK24	Small Reed Stem Prospecting		a	the					 
+_EE5809DF025CD8F7	BHFPRMFMK25	Large Reed Stem Prospecting		a	the					 
+_AD0FF5007509E1F0	BHFPRMFMK26	Fresh Loose Soil Prospecting		a	the					 
+_2D1FF5007428F1F0	BHFPRMFMK27	Dried Loose Soil Prospecting		a	the					 
+_0D3249F236C75C61	BHFPRMFMK28	Small Plant Fossil Prospecting		a	the					 
+_4C4249F27477A055	BHFPRMFMK29	Large Plant Fossil Prospecting		a	the					 
+_3A8AE4D6D5B1B9F2	BHFPRMFMK30	Red Pigment Prospecting		a	the					 
+_721A14613C7CF105	BHFPRMFMK31	Green Pigment Prospecting		a	the					 
+_33691496888DF907	BHFPRMFMK32	Blue Pigment Prospecting		a	the					 
+_FB373E403CCEEDF4	BHFPRMFMK33	Yellow Pigment Prospecting		a	the					 
+_314A14617B5CE1FF	BHFPRMFMK34	Black Pigment Prospecting		a	the					 
+_78D93CCA9153D1B1	BHFPRMFML01	Any material from group		a	the					
+_B02B648425559BF2	BHFPRMFML02	Green Leaf Prospecting		a	the					 
+_4BF2E1D4AC5D306F	BHFPRMFML03	Fresh Flower Petal Prospecting		a	the					 
+_CB02E1D4AB7C406F	BHFPRMFML04	Dried Flower Petal Prospecting		a	the					 
+_32EA7C822237A073	BHFPRMFML05	Small Bud Prospecting		a	the					 
+_71FA7C8260E7E467	BHFPRMFML06	Large Bud Prospecting		a	the					 
+_AE38CDEA00AEB908	BHFPRMFML07	Fresh Dandelion Prospecting		a	the					 
+_2E48CDEAFFCDC908	BHFPRMFML08	Dried Dandelion Prospecting		a	the					 
+_FA519D32FEDB4838	BHFPRMFML09	Blooming Dandelion Prospecting		a	the					 
+_FB59EBE3BC6ED5FD	BHFPRMFML10	Small Mushroom Prospecting		a	the					 
+_3A69EBE3FA1E19F1	BHFPRMFML11	Large Mushroom Prospecting		a	the					 
+_977EF0F5797B4A71	BHFPRMFML12	Living Insect Larva Prospecting		a	the					 
+_755974679AED850D	BHFPRMFML13	Fresh Cereal Prospecting		a	the					 
+_F5697467990C950D	BHFPRMFML14	Dried Cereal Prospecting		a	the					 
+_0731F90C22B971CE	BHFPRMFML15	Dead Insect Larva Prospecting		a	the					 
+_F2198C822237A073	BHFPRMFML16	Small Egg Prospecting		a	the					 
+_31298C8260E7E467	BHFPRMFML17	Large Egg Prospecting		a	the					 
+_792A608EDBE6D1F6	BHFPRMFML18	Fresh Honey Prospecting		a	the					 
+_F93A608EDA05E1F6	BHFPRMFML19	Dried Honey Prospecting		a	the					 
+_B73A44B012A5B64F	BHFPRMFML20	Peppery Aromatic Plant Prospecting		a	the					 
+_120FF0CA38B44E74	BHFPRMFML21	Spicy Aromatic Plant Prospecting		a	the					 
+_08AADC1D1783D26A	BHFPRMFML22	Bitter Aromatic Plant Prospecting		a	the					 
+_ED504504FA2BCCE1	BHFPRMFML23	Fresh Wild Berry Prospecting		a	the					 
+_6D604504F94ADCE1	BHFPRMFML24	Dried Wild Berry Prospecting		a	the					 
+_7E2B5C8EDC75ADF5	BHFPRMFML25	Small Fruit Prospecting		a	the					 
+_BD3B5C8E1A25F1E9	BHFPRMFML26	Large Fruit Prospecting		a	the					 
+_78D93CCB9153D1B1	BHFPRMFMM01	Any material from group		a	the					
+_8900E8E9FDCC3465	BHFPRMFMM02	Fresh Modified Sap Prospecting		a	the					 
+_0910E8E9FCEB4465	BHFPRMFMM03	Dried Modified Sap Prospecting		a	the					 
+_0AD021ECFDFEF998	BHFPRMFMM04	Fresh Goo Residue Prospecting		a	the					 
+_8AE021ECFC1D0998	BHFPRMFMM05	Dried Goo Residue Prospecting		a	the					 
+_78D93CCC9153D1B1	BHFPRMFMN01	Any material from group		a	the					
+_EDD71838817EED0D	BHFPRMFMN02	Living Parasite Prospecting		a	the					 
+_31CB4C94E5CDF1FE	BHFPRMFMN03	Dead Parasite Prospecting		a	the					 
+_5170E58498229A67	BHFPRMFMN04	Small Firefly Abdomen Prospecting		a	the					 
+_9080E584D6D2DE5B	BHFPRMFMN05	Large Firefly Abdomen Prospecting		a	the					 
+_0FF261FB78C73058	BHFPRMFMN06	Red Butterfly Wing Prospecting		a	the					 
+_0B9C51D5B4E34E85	BHFPRMFMN07	Green Butterfly Wing Prospecting		a	the					 
+_54F0902BE46B925E	BHFPRMFMN08	Blue Butterfly Wing Prospecting		a	the					 
+_83BFF821D442EE56	BHFPRMFMN09	Yellow Butterfly Wing Prospecting		a	the					 
+_D9D121D6E4BC1A5A	BHFPRMFMN10	Small Insect Fossil Prospecting		a	the					 
+_18E121D6226C5E4E	BHFPRMFMN11	Large Insect Fossil Prospecting		a	the					 
+_78D93CCD9153D1B1	BHFPRMFMO01	Any material from group		a	the					
+_1061EDF674385463	BHFPRMFMO02	Fresh Kitin Cocoon Prospecting		a	the					 
+_AF9FA54D31C85597	BHFPRMFMO03	Old Kitin Cocoon Prospecting		a	the					 
+_3529B06A1B9C1508	BHFPRMFMO04	Kitin Saliva Prospecting		a	the					 
+_BB1A6C915C45ADFE	BHFPRMFMO05	Kitin Larva Prospecting		a	the					 
+_78D93CCE9153D1B1	BHFPRMFMP01	Any material from group		a	the					
+_EFF500B9DA9DC10A	BHFPRMFMP02	Rotting Leaf Prospecting		a	the					 
+_B10500B9DA7DF914	BHFPRMFMP03	Rotting Wood Prospecting		a	the					 
+_FC7A8C92DC7595FE	BHFPRMFMP04	Small Thorn Prospecting		a	the					 
+_3B8A8C921A25D9F2	BHFPRMFMP05	Large Thorn Prospecting		a	the					 
+_F99A8C92DE9595FA	BHFPRMFMP06	Giant Thorn Prospecting		a	the					 
+_5943634B803738AB	BHFPRMFMP07	Dust Prospecting		a	the					 
+_EDF664B47ADD21FE	BHFPRMFMP08	Rotting Fiber Prospecting		a	the					 
+_6FB0F9EDAABDD1DC	BHFPRMFMP09	Small Spider Web Prospecting		a	the					 
+_AE20FDEDE86D15D0	BHFPRMFMP10	Large Spider Web Prospecting		a	the					 
+_78D93CCF9153D1B1	BHFPRMFMQ01	Any material from group		a	the					
+_F1F940CC9B730078	BHFPRMFMQ02	Dry Resin Prospecting		a	the					 
+_5AB0A15B754921D0	BHFPRMFMQ03	Dry Wood Sawdust Prospecting		a	the					 
+_33993CDBDB730078	BHFPRMFMQ04	Dry Straw Prospecting		a	the					 
+_F02C04BC9206BBF2	BHFPRMFMQ05	Damp Straw Prospecting		a	the					 
+_F4B9D08721A8B078	BHFPRMFMQ06	Fresh Wax Prospecting		a	the					 
+_9322E4C161B374A4	BHFPRMFMQ07	Dry Wax Prospecting		a	the					 
+_F42B6889A4369BFF	BHFPRMFMQ08	Fresh Moss Prospecting		a	the					 
+_52BAE4E6DAD29C7D	BHFPRMFMQ09	Dry Moss Prospecting		a	the					 
 _78D93CB5895551B1	BHFPRMFMW01	Any Material From Group		an	the					 
 _F1D6DCDCDEC5B9FD	BHFPRMFMW02	Gulatch Oil Prospecting		a	the					 
 _7409B08DA287CC6F	BHFPRMFMW03	Pilan Oil Prospecting		a	the					 
@@ -1503,6 +1610,13 @@ _29696FCE41DF47D5	BHFEMB06	Seed Group Specialization		a	the				Increases quality
 _34B6B070400F31C1	BHFEMB07	Shell Group Specialization		a	the				Increases quality and reduces the aggressiveness of speed stanzas.	
 _7397A46FC10F31C3	BHFEMB09	Resin Group Specialization		a	the				Increases quality and reduces the aggressiveness of speed stanzas.	
 _290997D2C0EF47D5	BHFEMB10	Wood Group Specialization		a	the				Increases quality and reduces the aggressiveness of speed stanzas.	
+_8650E9850C113A93	BHFEMB11	Construction Group Specialization		an	the				Increases quality and reduces the aggressiveness of speed stanzas.	
+_286A441474BA711F	BHFEMB12	Food Group Specialization		an	the				Increases quality and reduces the aggressiveness of speed stanzas.	
+_02C7DCE0EA48AC24	BHFEMB13	Goo Group Specialization		an	the				Increases quality and reduces the aggressiveness of speed stanzas.	
+_7DA1A131FF7DEFED	BHFEMB14	Insect Group Specialization		an	the				Increases quality and reduces the aggressiveness of speed stanzas.	
+_F65D013DF2CD5CBE	BHFEMB15	Kitin Group Specialization		an	the				Increases quality and reduces the aggressiveness of speed stanzas.	
+_CAC049613E46DC0A	BHFEMB16	Harmful Group Specialization		an	the				Increases quality and reduces the aggressiveness of speed stanzas.	
+_4431F5920D213A84	BHFEMB17	Preservative Group Specialization		an	the				Increases quality and reduces the aggressiveness of speed stanzas.	
 _30D86D7D170D7A5A	BHFEMB23	Oil Group Specialization		an	the				Increases quality and reduces the aggressiveness of speed stanzas.	
 _898B751C1F369F50	BHFEMC01	Preservation 1		a	the				Increase the life of a raw material source, to avoid its untimely disappearance and possible exhaustion of the area.	
 _898B751C5F36A350	BHFEMC02	Preservation 2		a	the				Increase the life of a raw material source, to avoid its untimely disappearance and possible exhaustion of the area.	

@@ -1242,6 +1242,13 @@ _613AF10B03C5CAA7	BHFPMB17	Prospection Forte/Carapaces 		une	la	Prospection Fort
 _615AE51983B5CAA7	BHFPMB18	Prospection Forte/Résines 		une	la	Prospection Forte/Résines 	une	la	Recherche des matières spécifiques, offre plus de chances de trouver des sources de matières premières.	
 _E5E4CB622A8D214C	BHFPMB19	Prospection Forte/Bois		une	la	Prospection Forte/Bois	une	la	Recherche des matières spécifiques, offre plus de chances de trouver des sources de matières premières.	
 _8CC515DD7BD483E2	BHFPMB20	Prospection Forte/Huiles 		une	la	Prospection Forte/Huiles 	une	la	Recherche des matières spécifiques, offre plus de chances de trouver des sources de matières premières.	
+_A24139328E381006	BHFPMB21	Prospection Construction		une	la	Prospection Construction	une	la	Recherche des matières spécifiques	
+_445B94C1F6E14792	BHFPMB22	Prospection Aliment		une	la	Prospection Aliment	une	la	Recherche des matières spécifiques	
+_E39E9BF5993BF4DB	BHFPMB23	Prospection Goo		une	la	Prospection Goo	une	la	Recherche des matières spécifiques	
+_064D9C842D9668DE	BHFPMB24	Prospection Insecte		une	la	Prospection Insecte	une	la	Recherche des matières spécifiques	
+_7790AF3C4829221D	BHFPMB25	Prospection Kitin		une	la	Prospection Kitin	une	la	Recherche des matières spécifiques	
+_3CA391185C2D9B1F	BHFPMB26	Prospection Nocif		une	la	Prospection Nocif	une	la	Recherche des matières spécifiques	
+_6022453F8F4810F7	BHFPMB27	Prospection Conservateur		une	la	Prospection Conservateur	une	la	Recherche des matières spécifiques	
 _BEA536C08664A307	BHFPRMFMA01	Toute Matière d'un Groupe				Toute Matière d'un Groupe				
 _730AB3CD658597EF	BHFPRMFMA02	Prospection de Sève Ardente		une	la	Prospection de Sève Ardente	une	la		
 _78888F2D774EB8F5	BHFPRMFMA03	Prospection de Sève de Silverweed		une	la	Prospection de Sève de Silverweed	une	la		
@@ -1294,6 +1301,106 @@ _B3DB9089224643F7	BHFPRMFMJ03	Prospection de Bois d'Eyota		une	la	Prospection de
 _EF85FCB3D2BCB506	BHFPRMFMJ04	Prospection de Bois de Kachine		une	la	Prospection de Bois de Kachine	une	la		
 _7B79D7CE9A03B9FD	BHFPRMFMJ05	Prospection de Bois de Motega		une	la	Prospection de Bois de Motega	une	la		
 _739930B7D197D047	BHFPRMFMJ06	Prospection de Bois de Tama		une	la	Prospection de Bois de Tama	une	la		
+_78D93CC99153D1B1	BHFPRMFMK01	Toute Matière d'un Groupe				Toute Matière d'un Groupe				
+_EF7908AD0FB7A06B	BHFPRMFMK02	Prospection de Sève Feuille morte		une	la	Prospection de Sève Feuille morte	une	la		
+_BA3A848DDBE6A5FA	BHFPRMFMK03	Prospection de Sève Résine fraîche		une	la	Prospection de Sève Résine fraîche	une	la		
+_F3EB9083A4369BF0	BHFPRMFMK04	Prospection de Sève Bois frais		une	la	Prospection de Sève Bois frais	une	la		
+_5289D4E05CD29C7D	BHFPRMFMK05	Prospection de Sève Bois sec		une	la	Prospection de Sève Bois sec	une	la		
+_8CD0051CEC8E1D87	BHFPRMFMK06	Prospection de Sève Sciure de bois humide		une	la	Prospection de Sève Sciure de bois humide	une	la		
+_AF78E5DB003B9403	BHFPRMFMK07	Prospection de Sève Petite feuille de Roseau		une	la	Prospection de Sève Petite feuille de Roseau	une	la		
+_EE88E5DB3EEBD8F7	BHFPRMFMK08	Prospection de Sève Grande feuille de Roseau		une	la	Prospection de Sève Grande feuille de Roseau	une	la		
+_AC98E5DB025B94FF	BHFPRMFMK09	Prospection de Sève Feuille de Roseau géante		une	la	Prospection de Sève Feuille de Roseau géante	une	la		
+_B4CB4083A4369BF7	BHFPRMFMK10	Prospection de Sève Écorce fraîche		une	la	Prospection de Sève Écorce fraîche	une	la		
+_52B9E4D217D29C7D	BHFPRMFMK11	Prospection de Sève Écorce sèche		une	la	Prospection de Sève Écorce sèche	une	la		
+_F2B900CA98730078	BHFPRMFMK12	Prospection de Sève Fibre sèche		une	la	Prospection de Sève Fibre sèche	une	la		
+_F10BDCA99206BBED	BHFPRMFMK13	Prospection de Sève Fibre humide		une	la	Prospection de Sève Fibre humide	une	la		
+_CEA119D6AD5C3C65	BHFPRMFMK14	Prospection de Sève Petite carapace nacrée		une	la	Prospection de Sève Petite carapace nacrée	une	la		
+_0DB119D6EB0C8059	BHFPRMFMK15	Prospection de Sève Grande carapace nacrée		une	la	Prospection de Sève Grande carapace nacrée	une	la		
+_CBC119D6AF7C3C61	BHFPRMFMK16	Prospection de Sève Carapace nacrée géante		une	la	Prospection de Sève Carapace nacrée géante	une	la		
+_797A808DDC758DFE	BHFPRMFMK17	Prospection de Sève Petite perle		une	la	Prospection de Sève Petite perle	une	la		
+_B88A808D1A25D1F2	BHFPRMFMK18	Prospection de Sève Grande perle		une	la	Prospection de Sève Grande perle	une	la		
+_769A808DDE958DFA	BHFPRMFMK19	Prospection de Sève Perle géante		une	la	Prospection de Sève Perle géante	une	la		
+_07CDAD28EBEC8451	BHFPRMFMK20	Prospection de Sève Écaille de poisson argentée		une	la	Prospection de Sève Écaille de poisson argentée	une	la		
+_C97D803234B96DE8	BHFPRMFMK21	Prospection de Sève Écaille de poisson dorée		une	la	Prospection de Sève Écaille de poisson dorée	une	la		
+_F42920B40F47E475	BHFPRMFMK22	Prospection de Sève Soie de ver		une	la	Prospection de Sève Soie de ver	une	la		
+_7B19C3DF1AF5A9FB	BHFPRMFMK23	Prospection de Sève Soie d'araignée		une	la	Prospection de Sève Soie d'araignée	une	la		
+_AF4809DFC4AC9403	BHFPRMFMK24	Prospection de Sève Petite tige de Roseau		une	la	Prospection de Sève Petite tige de Roseau	une	la		
+_EE5809DF025CD8F7	BHFPRMFMK25	Prospection de Sève Grande tige de Roseau		une	la	Prospection de Sève Grande tige de Roseau	une	la		
+_AD0FF5007509E1F0	BHFPRMFMK26	Prospection de Sève Terre meuble fraîche		une	la	Prospection de Sève Terre meuble fraîche	une	la		
+_2D1FF5007428F1F0	BHFPRMFMK27	Prospection de Sève Terre meuble sèche		une	la	Prospection de Sève Terre meuble sèche	une	la		
+_0D3249F236C75C61	BHFPRMFMK28	Prospection de Sève Petit fossile de plante		une	la	Prospection de Sève Petit fossile de plante	une	la		
+_4C4249F27477A055	BHFPRMFMK29	Prospection de Sève Grand fossile de plante		une	la	Prospection de Sève Grand fossile de plante	une	la		
+_3A8AE4D6D5B1B9F2	BHFPRMFMK30	Prospection de Sève Pigment rouge		une	la	Prospection de Sève Pigment rouge	une	la		
+_721A14613C7CF105	BHFPRMFMK31	Prospection de Sève Pigment vert		une	la	Prospection de Sève Pigment vert	une	la		
+_33691496888DF907	BHFPRMFMK32	Prospection de Sève Pigment bleu		une	la	Prospection de Sève Pigment bleu	une	la		
+_FB373E403CCEEDF4	BHFPRMFMK33	Prospection de Sève Pigment jaune		une	la	Prospection de Sève Pigment jaune	une	la		
+_314A14617B5CE1FF	BHFPRMFMK34	Prospection de Sève Pigment noir		une	la	Prospection de Sève Pigment noir	une	la		
+_78D93CCA9153D1B1	BHFPRMFML01	Toute Matière d'un Groupe				Toute Matière d'un Groupe				
+_B02B648425559BF2	BHFPRMFML02	Prospection de Sève Feuille verte		une	la	Prospection de Sève Feuille verte	une	la		
+_4BF2E1D4AC5D306F	BHFPRMFML03	Prospection de Sève Pétale de fleur frais		une	la	Prospection de Sève Pétale de fleur frais	une	la		
+_CB02E1D4AB7C406F	BHFPRMFML04	Prospection de Sève Pétale de fleur sec		une	la	Prospection de Sève Pétale de fleur sec	une	la		
+_32EA7C822237A073	BHFPRMFML05	Prospection de Sève Petit bourgeon		une	la	Prospection de Sève Petit bourgeon	une	la		
+_71FA7C8260E7E467	BHFPRMFML06	Prospection de Sève Grand bourgeon		une	la	Prospection de Sève Grand bourgeon	une	la		
+_AE38CDEA00AEB908	BHFPRMFML07	Prospection de Sève Pissenlit frais		une	la	Prospection de Sève Pissenlit frais	une	la		
+_2E48CDEAFFCDC908	BHFPRMFML08	Prospection de Sève Pissenlit séché		une	la	Prospection de Sève Pissenlit séché	une	la		
+_FA519D32FEDB4838	BHFPRMFML09	Prospection de Sève Pissenlit en fleur		une	la	Prospection de Sève Pissenlit en fleur	une	la		
+_FB59EBE3BC6ED5FD	BHFPRMFML10	Prospection de Sève Petit champignon		une	la	Prospection de Sève Petit champignon	une	la		
+_3A69EBE3FA1E19F1	BHFPRMFML11	Prospection de Sève Grand champignon		une	la	Prospection de Sève Grand champignon	une	la		
+_977EF0F5797B4A71	BHFPRMFML12	Prospection de Sève Larve d'insecte vivante		une	la	Prospection de Sève Larve d'insecte vivante	une	la		
+_755974679AED850D	BHFPRMFML13	Prospection de Sève Céréale fraîche		une	la	Prospection de Sève Céréale fraîche	une	la		
+_F5697467990C950D	BHFPRMFML14	Prospection de Sève Céréale séchée		une	la	Prospection de Sève Céréale séchée	une	la		
+_0731F90C22B971CE	BHFPRMFML15	Prospection de Sève Larve d'insecte morte		une	la	Prospection de Sève Larve d'insecte morte	une	la		
+_F2198C822237A073	BHFPRMFML16	Prospection de Sève Petit œuf		une	la	Prospection de Sève Petit œuf	une	la		
+_31298C8260E7E467	BHFPRMFML17	Prospection de Sève Gros œuf		une	la	Prospection de Sève Gros œuf	une	la		
+_792A608EDBE6D1F6	BHFPRMFML18	Prospection de Sève Miel frais		une	la	Prospection de Sève Miel frais	une	la		
+_F93A608EDA05E1F6	BHFPRMFML19	Prospection de Sève Miel séché		une	la	Prospection de Sève Miel séché	une	la		
+_B73A44B012A5B64F	BHFPRMFML20	Prospection de Sève Plante aromatique poivrée		une	la	Prospection de Sève Plante aromatique poivrée	une	la		
+_120FF0CA38B44E74	BHFPRMFML21	Prospection de Sève Plante aromatique épicée		une	la	Prospection de Sève Plante aromatique épicée	une	la		
+_08AADC1D1783D26A	BHFPRMFML22	Prospection de Sève Plante aromatique amère		une	la	Prospection de Sève Plante aromatique amère	une	la		
+_ED504504FA2BCCE1	BHFPRMFML23	Prospection de Sève Baie sauvage fraîche		une	la	Prospection de Sève Baie sauvage fraîche	une	la		
+_6D604504F94ADCE1	BHFPRMFML24	Prospection de Sève Baie sauvage séchée		une	la	Prospection de Sève Baie sauvage séchée	une	la		
+_7E2B5C8EDC75ADF5	BHFPRMFML25	Prospection de Sève Petit fruit		une	la	Prospection de Sève Petit fruit	une	la		
+_BD3B5C8E1A25F1E9	BHFPRMFML26	Prospection de Sève Gros fruit		une	la	Prospection de Sève Gros fruit	une	la		
+_78D93CCB9153D1B1	BHFPRMFMM01	Toute Matière d'un Groupe				Toute Matière d'un Groupe				
+_8900E8E9FDCC3465	BHFPRMFMM02	Prospection de Sève Sève modifiée fraîche		une	la	Prospection de Sève Sève modifiée fraîche	une	la		
+_0910E8E9FCEB4465	BHFPRMFMM03	Prospection de Sève Sève modifiée sèche		une	la	Prospection de Sève Sève modifiée sèche	une	la		
+_0AD021ECFDFEF998	BHFPRMFMM04	Prospection de Sève Reste de Goo fraîche		une	la	Prospection de Sève Reste de Goo fraîche	une	la		
+_8AE021ECFC1D0998	BHFPRMFMM05	Prospection de Sève Reste de goo sèche		une	la	Prospection de Sève Reste de goo sèche	une	la		
+_78D93CCC9153D1B1	BHFPRMFMN01	Toute Matière d'un Groupe				Toute Matière d'un Groupe				
+_EDD71838817EED0D	BHFPRMFMN02	Prospection de Sève Parasite vivant		une	la	Prospection de Sève Parasite vivant	une	la		
+_31CB4C94E5CDF1FE	BHFPRMFMN03	Prospection de Sève Parasite mort		une	la	Prospection de Sève Parasite mort	une	la		
+_5170E58498229A67	BHFPRMFMN04	Prospection de Sève Petit abdomen de luciole		une	la	Prospection de Sève Petit abdomen de luciole	une	la		
+_9080E584D6D2DE5B	BHFPRMFMN05	Prospection de Sève Grand abdomen de luciole		une	la	Prospection de Sève Grand abdomen de luciole	une	la		
+_0FF261FB78C73058	BHFPRMFMN06	Prospection de Sève Aile de papillon rouge		une	la	Prospection de Sève Aile de papillon rouge	une	la		
+_0B9C51D5B4E34E85	BHFPRMFMN07	Prospection de Sève Aile de papillon vert		une	la	Prospection de Sève Aile de papillon vert	une	la		
+_54F0902BE46B925E	BHFPRMFMN08	Prospection de Sève Aile de papillon bleu		une	la	Prospection de Sève Aile de papillon bleu	une	la		
+_83BFF821D442EE56	BHFPRMFMN09	Prospection de Sève Aile de papillon jaune		une	la	Prospection de Sève Aile de papillon jaune	une	la		
+_D9D121D6E4BC1A5A	BHFPRMFMN10	Prospection de Sève Petit fossile d'insecte		une	la	Prospection de Sève Petit fossile d'insecte	une	la		
+_18E121D6226C5E4E	BHFPRMFMN11	Prospection de Sève Grand fossile d'insecte		une	la	Prospection de Sève Grand fossile d'insecte	une	la		
+_78D93CCD9153D1B1	BHFPRMFMO01	Toute Matière d'un Groupe				Toute Matière d'un Groupe				
+_1061EDF674385463	BHFPRMFMO02	Prospection de Sève Cocon frais de Kitin		une	la	Prospection de Sève Cocon frais de Kitin	une	la		
+_AF9FA54D31C85597	BHFPRMFMO03	Prospection de Sève Vieux cocon de Kitin		une	la	Prospection de Sève Vieux cocon de Kitin	une	la		
+_3529B06A1B9C1508	BHFPRMFMO04	Prospection de Sève Salive de Kitin		une	la	Prospection de Sève Salive de Kitin	une	la		
+_BB1A6C915C45ADFE	BHFPRMFMO05	Prospection de Sève Larve de Kitin		une	la	Prospection de Sève Larve de Kitin	une	la		
+_78D93CCE9153D1B1	BHFPRMFMP01	Toute Matière d'un Groupe				Toute Matière d'un Groupe				
+_EFF500B9DA9DC10A	BHFPRMFMP02	Prospection de Sève Feuille pourrissante		une	la	Prospection de Sève Feuille pourrissante	une	la		
+_B10500B9DA7DF914	BHFPRMFMP03	Prospection de Sève Bois pourrissant		une	la	Prospection de Sève Bois pourrissant	une	la		
+_FC7A8C92DC7595FE	BHFPRMFMP04	Prospection de Sève Petite épine		une	la	Prospection de Sève Petite épine	une	la		
+_3B8A8C921A25D9F2	BHFPRMFMP05	Prospection de Sève Grande épine		une	la	Prospection de Sève Grande épine	une	la		
+_F99A8C92DE9595FA	BHFPRMFMP06	Prospection de Sève Épine géante		une	la	Prospection de Sève Épine géante	une	la		
+_5943634B803738AB	BHFPRMFMP07	Prospection de Sève Poussière		une	la	Prospection de Sève Poussière	une	la		
+_EDF664B47ADD21FE	BHFPRMFMP08	Prospection de Sève Fibre pourrissante		une	la	Prospection de Sève Fibre pourrissante	une	la		
+_6FB0F9EDAABDD1DC	BHFPRMFMP09	Prospection de Sève Petite toile d'araignée		une	la	Prospection de Sève Petite toile d'araignée	une	la		
+_AE20FDEDE86D15D0	BHFPRMFMP10	Prospection de Sève Grande toile d'araignée		une	la	Prospection de Sève Grande toile d'araignée	une	la		
+_78D93CCF9153D1B1	BHFPRMFMQ01	Toute Matière d'un Groupe				Toute Matière d'un Groupe				
+_F1F940CC9B730078	BHFPRMFMQ02	Prospection de Sève Résine sèche		une	la	Prospection de Sève Résine sèche	une	la		
+_5AB0A15B754921D0	BHFPRMFMQ03	Prospection de Sève Sciure de bois sec		une	la	Prospection de Sève Sciure de bois sec	une	la		
+_33993CDBDB730078	BHFPRMFMQ04	Prospection de Sève Paille sèche		une	la	Prospection de Sève Paille sèche	une	la		
+_F02C04BC9206BBF2	BHFPRMFMQ05	Prospection de Sève Paille humide		une	la	Prospection de Sève Paille humide	une	la		
+_F4B9D08721A8B078	BHFPRMFMQ06	Prospection de Sève Cire fraîche		une	la	Prospection de Sève Cire fraîche	une	la		
+_9322E4C161B374A4	BHFPRMFMQ07	Prospection de Sève Cire sèche		une	la	Prospection de Sève Cire sèche	une	la		
+_F42B6889A4369BFF	BHFPRMFMQ08	Prospection de Sève Mousse fraîche		une	la	Prospection de Sève Mousse fraîche	une	la		
+_52BAE4E6DAD29C7D	BHFPRMFMQ09	Prospection de Sève Mousse sèche		une	la	Prospection de Sève Mousse sèche	une	la		
 _78D93CB5895551B1	BHFPRMFMW01	Toute Matière d'un Groupe				Toute Matière d'un Groupe				
 _F1D6DCDCDEC5B9FD	BHFPRMFMW02	Prospection d'Huile de Gulatch		une	la	Prospection d'Huile de Gulatch	une	la		
 _7409B08DA287CC6F	BHFPRMFMW03	Prospection d'Huile de Pilan		une	la	Prospection d'Huile de Pilan	une	la		
@@ -1503,6 +1610,13 @@ _29696FCE41DF47D5	BHFEMB06	Spécialisation dans les Graines		une	la	Spécialisat
 _34B6B070400F31C1	BHFEMB07	Spécialisation dans les Carapaces		une	la	Spécialisations dans les Carapaces	des	les	Augmente la qualité et réduit la vitesse agressivité	
 _7397A46FC10F31C3	BHFEMB09	Spécialisation dans les Résines		une	la	Spécialisations dans les Résines	des	les	Augmente la qualité et réduit la vitesse agressivité	
 _290997D2C0EF47D5	BHFEMB10	Spécialisation dans les Bois		une	la	Spécialisations dans les Bois	des	les	Augmente la qualité et réduit la vitesse agressivité	
+_8650E9850C113A93	BHFEMB11	Spécialisation dans les Construction		une	la	Spécialisations dans les Construction	des	les	Augmente la qualité et réduit la vitesse agressivité	
+_286A441474BA711F	BHFEMB12	Spécialisation dans les Aliment		une	la	Spécialisations dans les Aliment	des	les	Augmente la qualité et réduit la vitesse agressivité	
+_02C7DCE0EA48AC24	BHFEMB13	Spécialisation dans les Goo		une	la	Spécialisations dans les Goo	des	les	Augmente la qualité et réduit la vitesse agressivité	
+_7DA1A131FF7DEFED	BHFEMB14	Spécialisation dans les Insecte		une	la	Spécialisations dans les Insecte	des	les	Augmente la qualité et réduit la vitesse agressivité	
+_F65D013DF2CD5CBE	BHFEMB15	Spécialisation dans les Kitin		une	la	Spécialisations dans les Kitin	des	les	Augmente la qualité et réduit la vitesse agressivité	
+_CAC049613E46DC0A	BHFEMB16	Spécialisation dans les Nocif		une	la	Spécialisations dans les Nocif	des	les	Augmente la qualité et réduit la vitesse agressivité	
+_4431F5920D213A84	BHFEMB17	Spécialisation dans les Conservateur		une	la	Spécialisations dans les Conservateur	des	les	Augmente la qualité et réduit la vitesse agressivité	
 _30D86D7D170D7A5A	BHFEMB23	Spécialisation dans les Huiles		une	la	Spécialisations dans les Huiles	des	les	Augmente la qualité et réduit la vitesse agressivité	
 _898B751C1F369F50	BHFEMC01	Préservation 1		une	la	Préservations 1	des	les	Augmente la vie d'une source de M.P., afin d'éviter la disparition intempestive et l'épuisement éventuel de la zone	
 _898B751C5F36A350	BHFEMC02	Préservation 2		une	la	Préservations 2	des	les	Augmente la vie d'une source de M.P., afin d'éviter la disparition intempestive et l'épuisement éventuel de la zone	

@@ -814,3 +814,14 @@ function game:chatWelcomeMsg(input)
 	end
 	runAH(getUICaller(), "chat_group_filter", chat)
 end
+
+
+function game:TalkWithNpc(bullying)
+	setTargetAsInterlocutor()
+
+	if bullying == 1 then
+		runCommand("a", "openTargetUrl", "1")
+	else
+		runCommand("a", "openTargetUrl")
+	end
+end
