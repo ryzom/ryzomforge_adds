@@ -48001,16 +48001,16 @@ OUTPOST_BCP_UNKNOWN_TITLE (outpost o, int side)
 OUTPOST_BCP_WAR_DECLARED (outpost o, int side)
 {
 	(side = 0)
-			[Auf Ihrem außenposten $o.name$ wurde Krieg erklärt.]
+			[Eurem Außenposten $o.name$ wurde der Krieg erklärt.]
 
-			[Ihre Gilde hat dem außenposten $o.name$ Krieg erklärt.]
+			[Eure Gilde hat dem Außenposten $o.name$ den Krieg erklärt.]
 
 }
 
 // HASH_VALUE BA647031D81D38CA
 OUTPOST_BCP_WAR_DECLARED_TITLE (outpost o, int side)
 {
-			[Der Krieg ist erklärt]
+			[Kriegserklärung]
 
 }
 
