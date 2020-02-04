@@ -19,16 +19,16 @@
 
 <!-- base menu of landmark -->
 <group type="menu" id="land_mark_menu" extends="base_menu">
-	<action id="target" name="uiTargetLM" handler="land_mark_selected" params=""/>
-	<action id="lmteleport" name="uiTeleport" handler="land_mark_teleport" params=""/>
+	<action id="target" name="uiTargetLM" handler="land_mark_selected" params="" icon="ico_aim.tga" />
+	<action id="lmteleport" name="uiTeleport" handler="land_mark_teleport" params="" icon="mp_batiment_noyau_maduk.tga" />
 	<separator/>
 </group>
 
 
 <!-- menu of user landmark -->
 <group type="menu" id="user_land_mark_menu_base" extends="land_mark_menu">
-	<action id="remove" name="uiRemove" handler="remove_user_landmark" params=""/>
-	<action id="rename" name="uiRename" handler="rename_user_landmark" params=""/>
+	<action id="remove" name="uiRemove" handler="remove_user_landmark" params="" icon="ico_aim.tga"/>
+	<action id="rename" name="uiRename" handler="rename_user_landmark" params="" icon="r2ed_edit_dialog.tga"/>
 	<separator/>
 </group>
 
@@ -42,13 +42,13 @@
  on_active="lua"
  on_active_params="if r2 and r2.Mode == 'Edit' then r2:setCurrentTool('') end"
 >
-	<action id="create" name="uiCreateUserLM" handler="create_user_landmark" params=""/>
-	<action id="teleport" name="uiTeleport" handler="map_teleport" params=""/>
-	<action id="create_at_user_pos" name="uiCreateUserLMAtUserPos" handler="create_user_landmark_at_user_pos" params=""/>
+	<action id="create" name="uiCreateUserLM" handler="create_user_landmark" params="" icon="lm_mission.tga"/>
+	<action id="teleport" name="uiTeleport" handler="map_teleport" params="" icon="mp_batiment_noyau_maduk.tga"/>
+	<action id="create_at_user_pos" name="uiCreateUserLMAtUserPos" handler="create_user_landmark_at_user_pos" params="" icon="r2ed_entry_point_over.tga"/>
 	<separator/>
-	<action id="search" name="uiMapSearch" handler="proc" params="map_search_show"/>
+	<action id="search" name="uiMapSearch" handler="proc" params="map_search_show" icon="ico_location.tga"/>
 	<separator/>
-	<action id="center" name="uiMenuCenter" handler="map_center" params="map=ui:interface:map:content:map_content:actual_map"/>
+	<action id="center" name="uiMenuCenter" handler="map_center" params="map=ui:interface:map:content:map_content:actual_map" icon="curs_pick.tga"/>
 	<separator/>
 </group>
 
@@ -57,8 +57,8 @@
  on_active="lua"
  on_active_params="if r2 and r2.Mode == 'Edit' then r2:setCurrentTool('') end"
 >
-	<action id="teleport" name="uiTeleport" handler="map_teleport" params=""/>
-	<action id="center" name="uiMenuCenter" handler="map_center" params="map=ui:interface:map:content:map_content:actual_map"/>
+	<action id="teleport" name="uiTeleport" handler="map_teleport" params="" icon="mp_batiment_noyau_maduk.tga"/>
+	<action id="center" name="uiMenuCenter" handler="map_center" params="map=ui:interface:map:content:map_content:actual_map" icon="curs_pick.tga"/>
 </group>
 
 
