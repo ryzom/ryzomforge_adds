@@ -390,12 +390,14 @@
   <proc id="radar_proc_zoom_in">
     <action handler="set"
             cond="ne(@UI:SAVE:RADARZOOM,0)"
-            params="dblink=UI:SAVE:RADARZOOM|value=sub(@UI:SAVE:RADARZOOM,1)" />
+            params="dblink=UI:SAVE:RADARZOOM|value=sub(@UI:SAVE:RADARZOOM,1)" 
+            icon="w_button_radar_plus.tga" />
   </proc>
   <proc id="radar_proc_zoom_out">
     <action handler="set"
             cond="ne(@UI:SAVE:RADARZOOM,3)"
-            params="dblink=UI:SAVE:RADARZOOM|value=add(@UI:SAVE:RADARZOOM,1)" />
+            params="dblink=UI:SAVE:RADARZOOM|value=add(@UI:SAVE:RADARZOOM,1)" 
+            icon="w_button_radar_moins.tga" />
   </proc>
   <proc id="radar_proc_zoom">
     <action handler="set"
@@ -419,12 +421,14 @@
          compass="ui:interface:compass">
     <!-- SubMenus. Add dummy entries first -->
     <action id="mission"
-            name="uimCompassMissions">
+            name="uimCompassMissions" 
+            icon="mission_available.tga">
       <action id="dummy1"
               name="DUMMY-ERROR" />
     </action>
     <action id="land_mark"
-            name="uimCompassLandMarks">
+            name="uimCompassLandMarks" 
+            icon="lm_user.tga">
       <action id="land_mark_misc"
               max_visible_line="%landmark_menu_max_visible"
               name="uiLMMiscColor">
@@ -606,17 +610,20 @@
       </action>
     </action>
     <action id="team"
-            name="uimCompassTeam">
+            name="uimCompassTeam" 
+            icon="teammate_map.tga">
       <action id="dummy1"
               name="DUMMY-ERROR" />
     </action>
     <action id="animal"
-            name="uimCompassAnimal">
+            name="uimCompassAnimal" 
+            icon="mektoub_map.tga">
       <action id="dummy1"
               name="DUMMY-ERROR" />
     </action>
     <action id="dialogs"
-            name="uimCompassDialogs">
+            name="uimCompassDialogs" 
+            icon="r2ed_create_dialog.tga">
       <action id="dummy1"
               name="DUMMY-ERROR" />
     </action>
@@ -625,11 +632,13 @@
     <action id="zi"
             name="uimZoomIn"
             handler="proc"
-            params="radar_proc_zoom_in" />
+            params="radar_proc_zoom_in" 
+            icon="arbo_close_just_one.tga" />
     <action id="zo"
             name="uimZoomOut"
             handler="proc"
-            params="radar_proc_zoom_out" />
+            params="radar_proc_zoom_out" 
+            icon="arbo_open_first.tga" />
     <separator />
     <!--
         <action id="lock_unlock" name="uimLockUnlock" handler="lock_unlock" cond="eq(@UI:VARIABLES:GC_POPUP, 1)"/>      
