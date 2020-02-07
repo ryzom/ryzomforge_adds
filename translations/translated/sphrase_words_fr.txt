@@ -1407,6 +1407,7 @@ _CF6C7FE306E28B16	ABHFPMA02	Spécialisation/Prospection du Désert		une	la	Spéc
 _8E6D97E406F17318	ABHFPMA03	Spécialisation/Prospection de la Jungle		une	la	Spécialisations/Prospection de la Jungle	des	les	Réduit la concentration consommée par les actions de recherche de gisements, ajoute un bonus au taux d'extraction des sources prospectées.
 _FC1AE4071B754897	ABHFPMA04	Spécialisation/Prospection des Lacs		une	la	Spécialisations/Prospection des Lacs	des	les	Réduit la concentration consommée par les actions de recherche de gisements, ajoute un bonus au taux d'extraction des sources prospectées.
 _57213D28799CCD13	ABHFPMA05	Spécialisation/Prospection des Primes Racines		une	la	Spécialisations/Prospection des Primes Racines	des	les	Réduit la concentration consommée par les actions de recherche de gisements, ajoute un bonus au taux d'extraction des sources prospectées.
+_F31B752C68E6ABBB	ABHFPMA06	Spécialisation/Prospection des Atys		une	la	Spécialisations/Prospection des Atys	des	les	Réduit la concentration consommée par les actions de recherche de gisements, ajoute un bonus au taux d'extraction des sources prospectées.
 _36D7DE7E168D6513	ABHFPMB01	Prospection Faible/Sèves		une	la	Prospection Faible/Sèves	une	la	Recherche les sources de matières spécifiques
 _A2C1E11449FD195F	ABHFPMB02	Prospection Faible/Ambres		une	la	Prospection Faible/Ambres	une	la	Recherche les sources de matières spécifiques
 _D1A5A0682A5F3084	ABHFPMB03	Prospection Faible/Boucles		une	la	Prospection Faible/Boucles	une	la	Recherche les sources de matières spécifiques
@@ -1746,6 +1747,7 @@ _46DB9F8AAB1B8F76	ABHFEMA02	Spécialisation/Extraction du Désert		une	la	Spéci
 _05DCB78BAB2A7778	ABHFEMA03	Spécialisation/Extraction de la Jungle		une	la	Spécialisations/Extraction de la Jungle	des	les	Réduit le taux d'agressivité et la qualité
 _D09502B2C1C159D3	ABHFEMA04	Spécialisation/Extraction des Lacs		une	la	Spécialisations/Extraction des Lacs	des	les	Réduit le taux d'agressivité et la qualité
 _2B9C5BD31FE8DE4F	ABHFEMA05	Spécialisation/Extraction des Primes Racines 		une	la	Spécialisations/Extraction des Primes Racines 	des	les	Réduit le taux d'agressivité et la qualité
+_54C656B4C1C359E1	ABHFEMA06	Spécialisation/Extraction des Atys		une	la	Spécialisations/Extraction des Atys	des	les	Réduit le taux d'agressivité et la qualité
 _2ECA504A12589008	ABHFEMB01	Spécialisation/Extraction de la Sève		une	la	Spécialisations/Extraction de la Sève	des	les	Augmente la qualité et rend la vitesse moins agressive.
 _5B8C98C851A44321	ABHFEMB02	Spécialisation/Extraction de l'Ambre		une	la	Spécialisations/Extraction de l'Ambre	des	les	Augmente la qualité et rend la vitesse moins agressive.
 _45C488D45F738F79	ABHFEMB03	Spécialisation/Extraction des Boucles		une	la	Spécialisations/Extraction des Boucles	des	les	Augmente la qualité et rend la vitesse moins agressive.

@@ -1407,6 +1407,7 @@ ABHFPMA02	Desert prospection specialization		a	the				"Reduce the focus consumpt
 ABHFPMA03	Jungle prospection specialization		a	the				"Reduce the focus consumption of deposit tracking actions; add a bonus to the extraction rate of the prospected sources"
 ABHFPMA04	Lake prospection specialization		a	the				"Reduce the focus consumption of deposit tracking actions; add a bonus to the extraction rate of the prospected sources"
 ABHFPMA05	Primary Root prospection specialization		a	the				"Reduce the focus consumption of deposit tracking actions; add a bonus to the extraction rate of the prospected sources"
+ABHFPMA06	Atys prospection specialization		a	the				"Reduce the focus consumption of deposit tracking actions; add a bonus to the extraction rate of the prospected sources"
 ABHFPMB01	Minor sap group prospection		a	the				Search for specific materials
 ABHFPMB02	Minor amber group prospection		a	the				Search for specific materials
 ABHFPMB03	Minor Node Group Prospecting		a	the				Search for specific materials
@@ -1746,6 +1747,7 @@ ABHFEMA02	Desert extraction specialization		a	the				Reduce the aggressiveness o
 ABHFEMA03	Jungle extraction specialization		a	the				Reduce the aggressiveness of rate and quality
 ABHFEMA04	Lake extraction specialization		a	the				Reduce the aggressiveness of rate and quality
 ABHFEMA05	Primary Root extraction specialization		a	the				Reduce the aggressiveness of rate and quality
+ABHFEMA06	Atys extraction specialization		a	the				Reduce the aggressiveness of rate and quality
 ABHFEMB01	Sap group specialized extraction		a	the				Increase quality and reduce the aggressiveness of speed
 ABHFEMB02	Amber group specialized extraction		a	the				Increase quality and reduce the aggressiveness of speed
 ABHFEMB03	Node Group Specialized Extraction		a	the				Increase quality and reduce the aggressiveness of speed

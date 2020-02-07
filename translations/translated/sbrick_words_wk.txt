@@ -1222,6 +1222,7 @@ _5D80669930E319FA	BHFPMA02	Desert Specializing		a	the				"Reduces the focus cons
 _DD2FA69F70E3DDF4	BHFPMA03	Jungle Specializing		a	the				"Reduces the focus consumption of deposit tracking actions; adds a bonus to the extraction rate of the prospected sources."		
 _4A290A36B290B4C5	BHFPMA04	Lake Specializing		a	the				"Reduces the focus consumption of deposit tracking actions; adds a bonus to the extraction rate of the prospected sources."		
 _06218DE1CB0FFB68	BHFPMA05	Underground Specializing		a	the				"Reduces the focus consumption of deposit tracking actions; adds a bonus to the extraction rate of the prospected sources."		
+_CD0A562B3290B4C5	BHFPMA06	Atys specializing		a	the				"Reduce the focus consumption of deposit tracking actions; add a bonus to the extraction rate of the prospected sources"		
 _EAC2E381AD1F7240	BHFPMB01	Minor Sap Group Prospection		a	the				Search for specific materials		
 _FEB7185DB44F7474	BHFPMB02	Minor Amber Group Prospection		a	the				Search for specific materials		
 _0FBDE921409993B8	BHFPMB03	Minor Node Group Prospecting		a	the				Search for specific materials		
@@ -1601,6 +1602,7 @@ _E5AEA1481D635060	BHFEMA02	Desert Specializing		a	the				Reduce the aggressivene
 _655DE14E5D63145A	BHFEMA03	Jungle Specializing		a	the				Reduce the aggressiveness of rate and quality		
 _905285EC094D5970	BHFEMA04	Lake Specializing		a	the				Reduce the aggressiveness of rate and quality		
 _31E81D027CE6B012	BHFEMA05	Underground Specializing		a	the				Reduce the aggressiveness of rate and quality		
+_1333D1E1894D5970	BHFEMA06	Atys specializing		a	the				Reduce the aggressiveness of rate and quality		
 _301B4D8197ED7A7A	BHFEMB01	Sap Group Specializing		a	the				Increase quality and reduce the aggressiveness of speed		
 _7286C45EFF1131E7	BHFEMB02	Amber Group Specializing		a	the				Increase quality and reduce the aggressiveness of speed		
 _695997C980DF47D5	BHFEMB03	Node Group Specializing		a	the				Increase quality and reduce the aggressiveness of speed		

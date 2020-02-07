@@ -1222,6 +1222,7 @@ _56FE8900E28825CA	BHFPMA02	Spécialisation dans le Désert		une	la	Spécialisati
 _D6ADC9062288E9C4	BHFPMA03	Spécialisation dans la Jungle		une	la	Spécialisations dans la Jungle	des	les	Réduit la concentration consommée par les actions de recherche de gisements, ajoute un bonus au taux d'extraction des sources prospectées.	
 _0C349AFEF505DFFF	BHFPMA04	Spécialisation dans les Lacs		une	la	Spécialisations dans les Lacs	des	les	Réduit la concentration consommée par les actions de recherche de gisements, ajoute un bonus au taux d'extraction des sources prospectées.	
 _9353D0C5BEA09832	BHFPMA05	Spécialisation dans les Souterrains		une	la	Spécialisations dans les Souterrains	des	les	Réduit la concentration consommée par les actions de recherche de gisements, ajoute un bonus au taux d'extraction des sources prospectées.	
+_CD0A562B3290B4C5	BHFPMA06	Spécialisation dans les Atys		une	la	Spécialisations dans les Atys	des	les	Réduit la concentration consommée par les actions de recherche de gisements, ajoute un bonus au taux d'extraction des sources prospectées.	
 _EAC0E361AD1D7240	BHFPMB01	Prospection Faible/Sèves		une	la	Prospection Faible/Sèves	une	la	Recherche des matières spécifiques	
 _FEB5185DB44D7454	BHFPMB02	Prospection Faible/Ambres		une	la	Prospection Faible/Ambres	une	la	Recherche des matières spécifiques	
 _0FBDE921409993B8	BHFPMB03	Prospection Faible/Boucles		une	la	Prospection Faible/Boucles	une	la	Recherche des matières spécifiques	
@@ -1601,6 +1602,7 @@ _E5AEA14815635060	BHFEMA02	Spécialisation dans le Désert		une	la	Spécialisati
 _655DE14E5563145A	BHFEMA03	Spécialisation dans la Jungle		une	la	Spécialisations dans la Jungle	des	les	Réduit la taux d'agressivité et la qualité	
 _905285EC094DD970	BHFEMA04	Spécialisation dans les Lacs		une	la	Spécialisations dans les Lacs	des	les	Réduit la taux d'agressivité et la qualité	
 _31E81D027CE6B0F2	BHFEMA05	Spécialisation dans les Souterrains		une	la	Spécialisations dans les Souterrains	des	les	Réduit la taux d'agressivité et la qualité	
+_1333D1E1894D5970	BHFEMA06	Spécialisation dans les Atys		une	la	Spécialisations dans les Atys	des	les	Réduit la taux d'agressivité et la qualité	
 _30194D8197ED7A5A	BHFEMB01	Spécialisation dans la Sève		une	la	Spécialisations dans la Sève	des	les	Augmente la qualité et réduit la vitesse agressivité	
 _7286C45EFF0F31C7	BHFEMB02	Spécialisation dans les Ambres		une	la	Spécialisations dans les Ambres	des	les	Augmente la qualité et réduit la vitesse agressivité 	
 _695997C980DF47D5	BHFEMB03	Spécialisation dans les Boucles		une	la	Spécialisations dans les Boucles	des	les	Augmente la qualité et réduit la vitesse agressivité 	
