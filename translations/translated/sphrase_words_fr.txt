@@ -1758,9 +1758,9 @@ _1C3CE0CD51A42B28	ABHFEMB07	Spécialisation/Extraction des Carapaces		une	la	Sp�
 _9F0CDCCF51A43325	ABHFEMB09	Spécialisation/Extraction de la Résine		une	la	Spécialisations/Extraction de la Résine	des	les	Augmente la qualité et rend la vitesse moins agressive.
 _07C4ACD19F738F78	ABHFEMB10	Spécialisation/Extraction du Bois		une	la	Spécialisations/Extraction du Bois	des	les	Augmente la qualité et rend la vitesse moins agressive.
 _46727AE2FBEDCFA1	ABHFEMB11	Spécialisation/Extraction de Construction		une	la	Spécialisations/Extraction de Construction	des	les	Augmente la qualité et rend la vitesse moins agressive.
-_ABDCB5809EC6FE24	ABHFEMB12	Spécialisation/Extraction de Aliment		une	la	Spécialisations/Extraction de Aliment	des	les	Augmente la qualité et rend la vitesse moins agressive.
+_ABDCB5809EC6FE24	ABHFEMB12	Spécialisation/Extraction d'Aliment		une	la	Spécialisations/Extraction d'Aliment	des	les	Augmente la qualité et rend la vitesse moins agressive.
 _084638168D761835	ABHFEMB13	Spécialisation/Extraction de Goo		une	la	Spécialisations/Extraction de Goo	des	les	Augmente la qualité et rend la vitesse moins agressive.
-_11777CEB4450EFEC	ABHFEMB14	Spécialisation/Extraction de Insecte		une	la	Spécialisations/Extraction de Insecte	des	les	Augmente la qualité et rend la vitesse moins agressive.
+_11777CEB4450EFEC	ABHFEMB14	Spécialisation/Extraction d'Insecte		une	la	Spécialisations/Extraction d'Insecte	des	les	Augmente la qualité et rend la vitesse moins agressive.
 _3C8173C7E45FE2B7	ABHFEMB15	Spécialisation/Extraction de Kitin		une	la	Spécialisations/Extraction de Kitin	des	les	Augmente la qualité et rend la vitesse moins agressive.
 _6EEC0D670347E054	ABHFEMB16	Spécialisation/Extraction de Nocif		une	la	Spécialisations/Extraction de Nocif	des	les	Augmente la qualité et rend la vitesse moins agressive.
 _C6A3AEE63BED9398	ABHFEMB17	Spécialisation/Extraction de Conservateur		une	la	Spécialisations/Extraction de Conservateur	des	les	Augmente la qualité et rend la vitesse moins agressive.

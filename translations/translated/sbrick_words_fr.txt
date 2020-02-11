@@ -1275,11 +1275,11 @@ _71C9FCC39873D87B	BHFPRMFMD03	Prospection de Fibre de Buo		une	la	Prospection de
 _F11BD8A292F58B06	BHFPRMFMD04	Prospection de Fibre de Dzao		une	la	Prospection de Fibre de Dzao	une	la		
 _B5E9FCC39873F06E	BHFPRMFMD05	Prospection de Fibre de Shu		une	la	Prospection de Fibre de Shu	une	la		
 _78D93CA3895351B1	BHFPRMFME01	Toute Matière d'un Groupe				Toute Matière d'un Groupe				
-_686534B2D15CC1FC	BHFPRMFME02	Prospection d'Ecorces de Beckers		une	la	Prospection d'Ecorces de Beckers	une	la		
-_A62A808479CD15CD	BHFPRMFME03	Prospection d'Ecorces de Perfling		une	la	Prospection d'Ecorces de Perfling	une	la		
-_F518D7D41A43CDF5	BHFPRMFME04	Prospection d'Ecorces d'Adriel		une	la	Prospection d'Ecorces d'Adriel	une	la		
-_F828D7D1DF03D5FA	BHFPRMFME05	Prospection d'Ecorces de Mitexi		une	la	Prospection d'Ecorces de Mitexi	une	la		
-_F2CAF89DD107EC47	BHFPRMFME06	Prospection d'Ecorces d'Oath		une	la	Prospection d'Ecorces d'Oath	une	la		
+_686534B2D15CC1FC	BHFPRMFME02	Prospection d'Écorces de Beckers		une	la	Prospection d'Ecorces de Beckers	une	la		
+_A62A808479CD15CD	BHFPRMFME03	Prospection d'Écorces de Perfling		une	la	Prospection d'Ecorces de Perfling	une	la		
+_F518D7D41A43CDF5	BHFPRMFME04	Prospection d'Écorces d'Adriel		une	la	Prospection d'Ecorces d'Adriel	une	la		
+_F828D7D1DF03D5FA	BHFPRMFME05	Prospection d'Écorces de Mitexi		une	la	Prospection d'Ecorces de Mitexi	une	la		
+_F2CAF89DD107EC47	BHFPRMFME06	Prospection d'Écorces d'Oath		une	la	Prospection d'Ecorces d'Oath	une	la		
 _78D93CA4895351B1	BHFPRMFMF01	Toute Matière d'un Groupe				Toute Matière d'un Groupe				
 _ECF5F8A4DA5DC1FC	BHFPRMFMF02	Prospection de Graines de Caprice		une	la	Prospection de Graines de Caprice	une	la		
 _7A19BBC95C45B1E5	BHFPRMFMF03	Prospection de Graines de Sarina		une	la	Prospection de Graines de Sarina	une	la		
@@ -1311,8 +1311,8 @@ _8CD0051CEC8E1D87	BHFPRMFMK06	Prospection de Sciure de bois humide		une	la	Prosp
 _AF78E5DB003B9403	BHFPRMFMK07	Prospection de Petite feuille de Roseau		une	la	Prospection de Petite feuille de Roseau	une	la		
 _EE88E5DB3EEBD8F7	BHFPRMFMK08	Prospection de Grande feuille de Roseau		une	la	Prospection de Grande feuille de Roseau	une	la		
 _AC98E5DB025B94FF	BHFPRMFMK09	Prospection de Feuille de Roseau géante		une	la	Prospection de Feuille de Roseau géante	une	la		
-_B4CB4083A4369BF7	BHFPRMFMK10	Prospection de Écorce fraîche		une	la	Prospection de Écorce fraîche	une	la		
-_52B9E4D217D29C7D	BHFPRMFMK11	Prospection de Écorce sèche		une	la	Prospection de Écorce sèche	une	la		
+_B4CB4083A4369BF7	BHFPRMFMK10	Prospection d'Écorce fraîche		une	la	Prospection d'Écorce fraîche	une	la		
+_52B9E4D217D29C7D	BHFPRMFMK11	Prospection d'Écorce sèche		une	la	Prospection d'Écorce sèche	une	la		
 _F2B900CA98730078	BHFPRMFMK12	Prospection de Fibre sèche		une	la	Prospection de Fibre sèche	une	la		
 _F10BDCA99206BBED	BHFPRMFMK13	Prospection de Fibre humide		une	la	Prospection de Fibre humide	une	la		
 _CEA119D6AD5C3C65	BHFPRMFMK14	Prospection de Petite carapace nacrée		une	la	Prospection de Petite carapace nacrée	une	la		
@@ -1321,8 +1321,8 @@ _CBC119D6AF7C3C61	BHFPRMFMK16	Prospection de Carapace nacrée géante		une	la	Pr
 _797A808DDC758DFE	BHFPRMFMK17	Prospection de Petite perle		une	la	Prospection de Petite perle	une	la		
 _B88A808D1A25D1F2	BHFPRMFMK18	Prospection de Grande perle		une	la	Prospection de Grande perle	une	la		
 _769A808DDE958DFA	BHFPRMFMK19	Prospection de Perle géante		une	la	Prospection de Perle géante	une	la		
-_07CDAD28EBEC8451	BHFPRMFMK20	Prospection de Écaille de poisson argentée		une	la	Prospection de Écaille de poisson argentée	une	la		
-_C97D803234B96DE8	BHFPRMFMK21	Prospection de Écaille de poisson dorée		une	la	Prospection de Écaille de poisson dorée	une	la		
+_07CDAD28EBEC8451	BHFPRMFMK20	Prospection d'Écaille de poisson argentée		une	la	Prospection d'Écaille de poisson argentée	une	la		
+_C97D803234B96DE8	BHFPRMFMK21	Prospection d'Écaille de poisson dorée		une	la	Prospection d'Écaille de poisson dorée	une	la		
 _F42920B40F47E475	BHFPRMFMK22	Prospection de Soie de ver		une	la	Prospection de Soie de ver	une	la		
 _7B19C3DF1AF5A9FB	BHFPRMFMK23	Prospection de Soie d'araignée		une	la	Prospection de Soie d'araignée	une	la		
 _AF4809DFC4AC9403	BHFPRMFMK24	Prospection de Petite tige de Roseau		une	la	Prospection de Petite tige de Roseau	une	la		
@@ -1372,10 +1372,10 @@ _EDD71838817EED0D	BHFPRMFMN02	Prospection de Parasite vivant		une	la	Prospection
 _31CB4C94E5CDF1FE	BHFPRMFMN03	Prospection de Parasite mort		une	la	Prospection de Parasite mort	une	la		
 _5170E58498229A67	BHFPRMFMN04	Prospection de Petit abdomen de luciole		une	la	Prospection de Petit abdomen de luciole	une	la		
 _9080E584D6D2DE5B	BHFPRMFMN05	Prospection de Grand abdomen de luciole		une	la	Prospection de Grand abdomen de luciole	une	la		
-_0FF261FB78C73058	BHFPRMFMN06	Prospection de Aile de papillon rouge		une	la	Prospection de Aile de papillon rouge	une	la		
-_0B9C51D5B4E34E85	BHFPRMFMN07	Prospection de Aile de papillon vert		une	la	Prospection de Aile de papillon vert	une	la		
-_54F0902BE46B925E	BHFPRMFMN08	Prospection de Aile de papillon bleu		une	la	Prospection de Aile de papillon bleu	une	la		
-_83BFF821D442EE56	BHFPRMFMN09	Prospection de Aile de papillon jaune		une	la	Prospection de Aile de papillon jaune	une	la		
+_0FF261FB78C73058	BHFPRMFMN06	Prospection d'Aile de papillon rouge		une	la	Prospection d'Aile de papillon rouge	une	la		
+_0B9C51D5B4E34E85	BHFPRMFMN07	Prospection d'Aile de papillon vert		une	la	Prospection d'Aile de papillon vert	une	la		
+_54F0902BE46B925E	BHFPRMFMN08	Prospection d'Aile de papillon bleu		une	la	Prospection d'Aile de papillon bleu	une	la		
+_83BFF821D442EE56	BHFPRMFMN09	Prospection d'Aile de papillon jaune		une	la	Prospection d'Aile de papillon jaune	une	la		
 _D9D121D6E4BC1A5A	BHFPRMFMN10	Prospection de Petit fossile d'insecte		une	la	Prospection de Petit fossile d'insecte	une	la		
 _18E121D6226C5E4E	BHFPRMFMN11	Prospection de Grand fossile d'insecte		une	la	Prospection de Grand fossile d'insecte	une	la		
 _78D93CCD9153D1B1	BHFPRMFMO01	Toute Matière d'un Groupe				Toute Matière d'un Groupe				
@@ -1388,7 +1388,7 @@ _EFF500B9DA9DC10A	BHFPRMFMP02	Prospection de Feuille pourrissante		une	la	Prospe
 _B10500B9DA7DF914	BHFPRMFMP03	Prospection de Bois pourrissant		une	la	Prospection de Bois pourrissant	une	la		
 _FC7A8C92DC7595FE	BHFPRMFMP04	Prospection de Petite épine		une	la	Prospection de Petite épine	une	la		
 _3B8A8C921A25D9F2	BHFPRMFMP05	Prospection de Grande épine		une	la	Prospection de Grande épine	une	la		
-_F99A8C92DE9595FA	BHFPRMFMP06	Prospection de Épine géante		une	la	Prospection de Épine géante	une	la		
+_F99A8C92DE9595FA	BHFPRMFMP06	Prospection d'Épine géante		une	la	Prospection d'Épine géante	une	la		
 _5943634B803738AB	BHFPRMFMP07	Prospection de Poussière		une	la	Prospection de Poussière	une	la		
 _EDF664B47ADD21FE	BHFPRMFMP08	Prospection de Fibre pourrissante		une	la	Prospection de Fibre pourrissante	une	la		
 _6FB0F9EDAABDD1DC	BHFPRMFMP09	Prospection de Petite toile d'araignée		une	la	Prospection de Petite toile d'araignée	une	la		
