@@ -1222,6 +1222,7 @@ BHFPMA02	Desert specializing		a	the				"Reduce the focus consumption of deposit 
 BHFPMA03	Jungle specializing		a	the				"Reduce the focus consumption of deposit tracking actions; add a bonus to the extraction rate of the prospected sources"		
 BHFPMA04	Lake specializing		a	the				"Reduce the focus consumption of deposit tracking actions; add a bonus to the extraction rate of the prospected sources"		
 BHFPMA05	Underground specializing		a	the				"Reduce the focus consumption of deposit tracking actions; add a bonus to the extraction rate of the prospected sources"		
+BHFPMA06	Atys specializing		a	the				"Reduce the focus consumption of deposit tracking actions; add a bonus to the extraction rate of the prospected sources"		
 BHFPMB01	Minor sap group prospection		a	the				Search for specific materials		
 BHFPMB02	Minor amber group prospection		a	the				Search for specific materials		
 BHFPMB03	Minor Node Group Prospecting		a	the				Search for specific materials		
@@ -1601,6 +1602,7 @@ BHFEMA02	Desert specializing		a	the				Reduce the aggressiveness of rate and qua
 BHFEMA03	Jungle specializing		a	the				Reduce the aggressiveness of rate and quality		
 BHFEMA04	Lake specializing		a	the				Reduce the aggressiveness of rate and quality		
 BHFEMA05	Underground specializing		a	the				Reduce the aggressiveness of rate and quality		
+BHFEMA06	Atys specializing		a	the				Reduce the aggressiveness of rate and quality		
 BHFEMB01	Sap group specializing		a	the				Increase quality and reduce the aggressiveness of speed		
 BHFEMB02	Amber group specializing		a	the				Increase quality and reduce the aggressiveness of speed		
 BHFEMB03	Node Group Specializing		a	the				Increase quality and reduce the aggressiveness of speed		
