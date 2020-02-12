@@ -631,7 +631,7 @@
     <vector template="t_mission_title_changed_observer" _size="%ipj_nb_mission" index="$i" db_path="SERVER:MISSIONS" attr="FINISHED" handler="onMissionFinished" />
     <vector template="t_mission_title_changed_observer" _size="%ipj_nb_mission" index="$i" db_path="SERVER:GROUP:MISSIONS" attr="FINISHED" handler="onGroupMissionFinished" />
     <group type="menu" id="mission_journal_menu" extends="base_menu_with_color">
-        <action id="caption_toggle" name="uiCaptionToggle" handler="lua:game:toggleMissionJournalCaption()" />
+        <action id="caption_toggle" name="uiCaptionToggle" handler="lua:game:toggleMissionJournalCaption()" icon="r2_icon_properties.tga" />
     </group>
     <!-- Main container : info_player_journal -->
     <group type="container" id="info_player_journal" w="280" h="182" title="uiJournalTitle" global_color="false" opened="true" openable="false" header_color="UI:SAVE:WIN:COLORS:PLA" resizer="true" pop_min_w="292" pop_min_h="152" pop_max_w="800" pop_max_h="800" movable="true" active="false" on_active="proc" on_active_params="mission_proc_active" on_deactive="set" on_deactive_params="dblink=UI:VARIABLES:ISACTIVE:MISSIONS|value=0">
