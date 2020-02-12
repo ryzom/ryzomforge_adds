@@ -1222,6 +1222,7 @@ _56FE8900E28825CA	BHFPMA02	Desert Specialization		a	the				Reduces the focus con
 _D6ADC9062288E9C4	BHFPMA03	Jungle Specialization		a	the				Reduces the focus consumption of deposit tracking actions; adds a bonus to the extraction rate of the prospected sources.	
 _0C349AFEF505DFFF	BHFPMA04	Lakes Specialization		a	the				Reduces the focus consumption of deposit tracking actions; adds a bonus to the extraction rate of the prospected sources.	
 _9353D0C5BEA09832	BHFPMA05	Prime Roots Specialization		an	the				Reduces the focus consumption of deposit tracking actions and adds a bonus to the extraction rate of the prospected sources.	
+_CD0A562B3290B4C5	BHFPMA06	Atys specializing		a	the				"Reduce the focus consumption of deposit tracking actions; add a bonus to the extraction rate of the prospected sources"	
 _EAC0E361AD1D7240	BHFPMB01	Minor Sap Group Prospecting		a	the				Search for specific materials.	
 _FEB5185DB44D7454	BHFPMB02	Minor Amber Group Prospecting		a	the				Search for specific materials.	
 _0FBDE921409993B8	BHFPMB03	Minor Node Group Prospecting		a	the				Search for specific materials.	
@@ -1601,6 +1602,7 @@ _E5AEA14815635060	BHFEMA02	Desert Specialization		a	the				Reduce the aggressive
 _655DE14E5563145A	BHFEMA03	Jungle Specialization		a	the				Reduce the aggressiveness of rate and quality stanzas when harvesting in jungle regions.	
 _905285EC094DD970	BHFEMA04	Lakes Specialization		a	the				Reduce the aggressiveness of rate and quality stanzas when harvesting in lakes regions.	
 _31E81D027CE6B0F2	BHFEMA05	Prime Roots Specialization		an	the				Reduce the aggressiveness of rate and quality stanzas when harvesting in prime root regions.	
+_1333D1E1894D5970	BHFEMA06	Atys specializing		a	the				Reduce the aggressiveness of rate and quality	
 _30194D8197ED7A5A	BHFEMB01	Sap Group Specialization		a	the				Increases quality and reduces the aggressiveness of speed stanzas.	
 _7286C45EFF0F31C7	BHFEMB02	Amber Group Specialization		an	the				Increases quality and reduces the aggressiveness of speed stanzas.	
 _695997C980DF47D5	BHFEMB03	Node Group Specialization		a	the				Increases quality and reduces the aggressiveness of speed stanzas.	

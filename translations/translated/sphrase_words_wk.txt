@@ -1407,6 +1407,7 @@ _9C9D64F92E37A233	ABHFPMA02	Desert Prospecting Specialization		a	the				"Reduces
 _5B9E7CFA2E468A35	ABHFPMA03	Jungle Prospecting Specialization		a	the				"Reduces the focus consumption of deposit tracking actions; adds a bonus to the extraction rate of the prospected sources."
 _6FEAA12A68E6ABAD	ABHFPMA04	Lake Prospecting Specialization		a	the				"Reduces the focus consumption of deposit tracking actions; adds a bonus to the extraction rate of the prospected sources."
 _CAF1FA4BC60D3029	ABHFPMA05	Primary Root Prospecting Specialization		a	the				"Reduces the focus consumption of deposit tracking actions; adds a bonus to the extraction rate of the prospected sources."
+_F31B752C68E6ABBB	ABHFPMA06	Atys prospection specialization		a	the				"Reduce the focus consumption of deposit tracking actions; add a bonus to the extraction rate of the prospected sources"
 _169D0D0181D808B8	ABHFPMB01	Minor Plant Sap Prospection		a	the				Search for specific material sources
 _E7717D1943E4D805	ABHFPMB02	Minor Amber Prospection		a	the				Search for specific material sources
 _FBB48C4F6C5CE94D	ABHFPMB03	Minor Node Prospection		a	the				Search for specific material sources
@@ -1746,6 +1747,7 @@ _4EDB9FAAAB1B8F76	ABHFEMA02	Desert Extraction Specialization		a	the				Reduce th
 _0DDCB7ABAB2A7778	ABHFEMA03	Jungle Extraction Specialization		a	the				Reduce the aggressiveness of rate and quality
 _D09582B2C1C359D3	ABHFEMA04	Lake Extraction Specialization		a	the				Reduce the aggressiveness of rate and quality
 _2B9CDBD31FEADE4F	ABHFEMA05	Primary Root Extraction Specialization		a	the				Reduce the aggressiveness of rate and quality
+_54C656B4C1C359E1	ABHFEMA06	Atys extraction specialization		a	the				Reduce the aggressiveness of rate and quality
 _41BDACCCEE30BA3C	ABHFEMB01	Plant Sap Extraction Specialization		a	the				Increase quality and reduce the aggressiveness of speed
 _FC3D9560C1D08008	ABHFEMB02	Amber Extraction Specialization		a	the				Increase quality and reduce the aggressiveness of speed
 _3EECB4F3434D1AE8	ABHFEMB03	Node Extraction Specialization		a	the				Increase quality and reduce the aggressiveness of speed

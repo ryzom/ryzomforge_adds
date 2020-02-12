@@ -1407,6 +1407,7 @@ _CF6C7FE306E28B16	ABHFPMA02	Spécialisation/Prospection du Désert		une	la	Spéc
 _8E6D97E406F17318	ABHFPMA03	Spécialisation/Prospection de la Jungle		une	la	Spécialisations/Prospection de la Jungle	des	les	Réduit la concentration consommée par les actions de recherche de gisements, ajoute un bonus au taux d'extraction des sources prospectées.
 _FC1AE4071B754897	ABHFPMA04	Spécialisation/Prospection des Lacs		une	la	Spécialisations/Prospection des Lacs	des	les	Réduit la concentration consommée par les actions de recherche de gisements, ajoute un bonus au taux d'extraction des sources prospectées.
 _57213D28799CCD13	ABHFPMA05	Spécialisation/Prospection des Primes Racines		une	la	Spécialisations/Prospection des Primes Racines	des	les	Réduit la concentration consommée par les actions de recherche de gisements, ajoute un bonus au taux d'extraction des sources prospectées.
+_F31B752C68E6ABBB	ABHFPMA06	Spécialisation/Prospection d'Atys		une	la	Spécialisations/Prospection d'Atys	des	les	Réduit la concentration consommée par les actions de recherche de gisements, ajoute un bonus au taux d'extraction des sources prospectées.
 _36D7DE7E168D6513	ABHFPMB01	Prospection Faible/Sèves		une	la	Prospection Faible/Sèves	une	la	Recherche les sources de matières spécifiques
 _A2C1E11449FD195F	ABHFPMB02	Prospection Faible/Ambres		une	la	Prospection Faible/Ambres	une	la	Recherche les sources de matières spécifiques
 _D1A5A0682A5F3084	ABHFPMB03	Prospection Faible/Boucles		une	la	Prospection Faible/Boucles	une	la	Recherche les sources de matières spécifiques
@@ -1454,11 +1455,11 @@ _ABC720ACDBDDCDD7	ABHFPRMFMD02	Prospection de Fibre d'Anete		une	la	Prospection 
 _29FB11B11065EFCC	ABHFPRMFMD03	Prospection de Fibre de Buo		une	la	Prospection de Fibre de Buo	une	la	 
 _6F6AA98FDA351DC6	ABHFPRMFMD04	Prospection de Fibre de Dzao		une	la	Prospection de Fibre de Dzao	une	la	 
 _AAFB11B110C6BBDD	ABHFPRMFMD05	Prospection de Fibre de Shu		une	la	Prospection de Fibre de Shu	une	la	 
-_9BDBCD87760DF5A8	ABHFPRMFME02	Prospection d'Ecorces de Beckers		une	la	Prospection d'Ecorces de Beckers	une	la	
-_AD08142D395F399D	ABHFPRMFME03	Prospection d'Ecorces de Perfling		une	la	Prospection d'Ecorces de Perfling	une	la	
-_626555AC103DD9D6	ABHFPRMFME04	Prospection d'Ecorces d'Adriel		une	la	Prospection d'Ecorces d'Adriel	une	la	
-_A26549BF0F5DEDE2	ABHFPRMFME05	Prospection d'Ecorces de Mitexi		une	la	Prospection d'Ecorces de Mitexi	une	la	
-_2DEB798B22B61FD2	ABHFPRMFME06	Prospection d'Ecorces d'Oath		une	la	Prospection d'Ecorces d'Oath	une	la	
+_9BDBCD87760DF5A8	ABHFPRMFME02	Prospection d'Écorces de Beckers		une	la	Prospection d'Écorces de Beckers	une	la	
+_AD08142D395F399D	ABHFPRMFME03	Prospection d'Écorces de Perfling		une	la	Prospection d'Écorces de Perfling	une	la	
+_626555AC103DD9D6	ABHFPRMFME04	Prospection d'Écorces d'Adriel		une	la	Prospection d'Écorces d'Adriel	une	la	
+_A26549BF0F5DEDE2	ABHFPRMFME05	Prospection d'Écorces de Mitexi		une	la	Prospection d'Écorces de Mitexi	une	la	
+_2DEB798B22B61FD2	ABHFPRMFME06	Prospection d'Écorces d'Oath		une	la	Prospection d'Écorces d'Oath	une	la	
 _9BFA95AB770DF5BA	ABHFPRMFMF02	Prospection de Graines de Caprice		une	la	Prospection de Graines de Caprice	une	la	 
 _65652DB518CD99EC	ABHFPRMFMF03	Prospection de Graines de Sarina		une	la	Prospection de Graines de Sarina	une	la	 
 _1CBAC1B1775DF5CA	ABHFPRMFMF04	Prospection de Graines de Saurona		une	la	Prospection de Graines de Saurona	une	la	 
@@ -1485,8 +1486,8 @@ _204BB1E66559D4DD	ABHFPRMFMK06	Prospection de Sciure de bois humide		une	la	Pros
 _5C470CE4D525C1CD	ABHFPRMFMK07	Prospection de Petite feuille de Roseau		une	la	Prospection de Petite feuille de Roseau	une	la	 
 _9D470CDD933691C6	ABHFPRMFMK08	Prospection de Grande feuille de Roseau		une	la	Prospection de Grande feuille de Roseau	une	la	 
 _DD470CEC5525B1C1	ABHFPRMFMK09	Prospection de Feuille de Roseau géante		une	la	Prospection de Feuille de Roseau géante	une	la	 
-_D5FFC0815C52893B	ABHFPRMFMK10	Prospection de Écorce fraîche		une	la	Prospection de Écorce fraîche	une	la	 
-_910FD53286422D34	ABHFPRMFMK11	Prospection de Écorce sèche		une	la	Prospection de Écorce sèche	une	la	 
+_D5FFC0815C52893B	ABHFPRMFMK10	Prospection d'Écorce fraîche		une	la	Prospection d'Écorce fraîche	une	la	 
+_910FD53286422D34	ABHFPRMFMK11	Prospection d'Écorce sèche		une	la	Prospection d'Écorce sèche	une	la	 
 _C1346895F9E59877	ABHFPRMFMK12	Prospection de Fibre sèche		une	la	Prospection de Fibre sèche	une	la	 
 _D57159399CD2612C	ABHFPRMFMK13	Prospection de Fibre humide		une	la	Prospection de Fibre humide	une	la	 
 _30660DA5F9D842A3	ABHFPRMFMK14	Prospection de Petite carapace nacrée		une	la	Prospection de Petite carapace nacrée	une	la	 
@@ -1495,8 +1496,8 @@ _B0660DAD79D83297	ABHFPRMFMK16	Prospection de Carapace nacrée géante		une	la	P
 _CDD5E8BF51E59889	ABHFPRMFMK17	Prospection de Petite perle		une	la	Prospection de Petite perle	une	la	 
 _0ED5E8B80FF66882	ABHFPRMFMK18	Prospection de Grande perle		une	la	Prospection de Grande perle	une	la	 
 _4ED5E8C7D1E5887D	ABHFPRMFMK19	Prospection de Perle géante		une	la	Prospection de Perle géante	une	la	 
-_DDB8569E37F9F288	ABHFPRMFMK20	Prospection de Écaille de poisson argentée		une	la	Prospection de Écaille de poisson argentée	une	la	 
-_D4360907129A59D6	ABHFPRMFMK21	Prospection de Écaille de poisson dorée		une	la	Prospection de Écaille de poisson dorée	une	la	 
+_DDB8569E37F9F288	ABHFPRMFMK20	Prospection d'Écaille de poisson argentée		une	la	Prospection d'Écaille de poisson argentée	une	la	 
+_D4360907129A59D6	ABHFPRMFMK21	Prospection d'Écaille de poisson dorée		une	la	Prospection d'Écaille de poisson dorée	une	la	 
 _83B4106F4C758C83	ABHFPRMFMK22	Prospection de Soie de ver		une	la	Prospection de Soie de ver	une	la	 
 _47E231B84F558C91	ABHFPRMFMK23	Prospection de Soie d'araignée		une	la	Prospection de Soie d'araignée	une	la	 
 _9CD71CF39625C1CD	ABHFPRMFMK24	Prospection de Petite tige de Roseau		une	la	Prospection de Petite tige de Roseau	une	la	 
@@ -1543,10 +1544,10 @@ _D61481EADD8AE9C2	ABHFPRMFMN02	Prospection de Parasite vivant		une	la	Prospectio
 _5917098412F738B6	ABHFPRMFMN03	Prospection de Parasite mort		une	la	Prospection de Parasite mort	une	la	 
 _F079C8526B9DDD3A	ABHFPRMFMN04	Prospection de Petit abdomen de luciole		une	la	Prospection de Petit abdomen de luciole	une	la	 
 _3079C84B29AEAD33	ABHFPRMFMN05	Prospection de Grand abdomen de luciole		une	la	Prospection de Grand abdomen de luciole	une	la	 
-_7587A1D4A3A80EA8	ABHFPRMFMN06	Prospection de Aile de papillon rouge		une	la	Prospection de Aile de papillon rouge	une	la	 
-_B0198E0239B7A2C4	ABHFPRMFMN07	Prospection de Aile de papillon vert		une	la	Prospection de Aile de papillon vert	une	la	 
-_A71962DF28FD19F4	ABHFPRMFMN08	Prospection de Aile de papillon bleu		une	la	Prospection de Aile de papillon bleu	une	la	 
-_2DC93E47EBEE99FF	ABHFPRMFMN09	Prospection de Aile de papillon jaune		une	la	Prospection de Aile de papillon jaune	une	la	 
+_7587A1D4A3A80EA8	ABHFPRMFMN06	Prospection d'Aile de papillon rouge		une	la	Prospection d'Aile de papillon rouge	une	la	 
+_B0198E0239B7A2C4	ABHFPRMFMN07	Prospection d'Aile de papillon vert		une	la	Prospection d'Aile de papillon vert	une	la	 
+_A71962DF28FD19F4	ABHFPRMFMN08	Prospection d'Aile de papillon bleu		une	la	Prospection d'Aile de papillon bleu	une	la	 
+_2DC93E47EBEE99FF	ABHFPRMFMN09	Prospection d'Aile de papillon jaune		une	la	Prospection d'Aile de papillon jaune	une	la	 
 _2A5A0DDF6E1B090E	ABHFPRMFMN10	Prospection de Petit fossile d'insecte		une	la	Prospection de Petit fossile d'insecte	une	la	 
 _6A5A0DD82C2CD907	ABHFPRMFMN11	Prospection de Grand fossile d'insecte		une	la	Prospection de Grand fossile d'insecte	une	la	 
 _32B58DC464383AAC	ABHFPRMFMO02	Prospection de Cocon frais de Kitin		une	la	Prospection de Cocon frais de Kitin	une	la	 
@@ -1557,7 +1558,7 @@ _12D41E972182B550	ABHFPRMFMP02	Prospection de Feuille pourrissante		une	la	Prosp
 _52D41E97A162DD5B	ABHFPRMFMP03	Prospection de Bois pourrissant		une	la	Prospection de Bois pourrissant	une	la	 
 _CE05FCBF51059897	ABHFPRMFMP04	Prospection de Petite épine		une	la	Prospection de Petite épine	une	la	 
 _0E05FCB80F166890	ABHFPRMFMP05	Prospection de Grande épine		une	la	Prospection de Grande épine	une	la	 
-_4E05FCC7D105888B	ABHFPRMFMP06	Prospection de Épine géante		une	la	Prospection de Épine géante	une	la	 
+_4E05FCC7D105888B	ABHFPRMFMP06	Prospection d'Épine géante		une	la	Prospection d'Épine géante	une	la	 
 _4B5E652E885C38F6	ABHFPRMFMP07	Prospection de Poussière		une	la	Prospection de Poussière	une	la	 
 _077789DA52B838A9	ABHFPRMFMP08	Prospection de Fibre pourrissante		une	la	Prospection de Fibre pourrissante	une	la	 
 _6D63417C3517AAAC	ABHFPRMFMP09	Prospection de Petite toile d'araignée		une	la	Prospection de Petite toile d'araignée	une	la	 
@@ -1746,6 +1747,7 @@ _46DB9F8AAB1B8F76	ABHFEMA02	Spécialisation/Extraction du Désert		une	la	Spéci
 _05DCB78BAB2A7778	ABHFEMA03	Spécialisation/Extraction de la Jungle		une	la	Spécialisations/Extraction de la Jungle	des	les	Réduit le taux d'agressivité et la qualité
 _D09502B2C1C159D3	ABHFEMA04	Spécialisation/Extraction des Lacs		une	la	Spécialisations/Extraction des Lacs	des	les	Réduit le taux d'agressivité et la qualité
 _2B9C5BD31FE8DE4F	ABHFEMA05	Spécialisation/Extraction des Primes Racines 		une	la	Spécialisations/Extraction des Primes Racines 	des	les	Réduit le taux d'agressivité et la qualité
+_54C656B4C1C359E1	ABHFEMA06	Spécialisation/Extraction d'Atys		une	la	Spécialisations/Extraction d'Atys	des	les	Réduit le taux d'agressivité et la qualité
 _2ECA504A12589008	ABHFEMB01	Spécialisation/Extraction de la Sève		une	la	Spécialisations/Extraction de la Sève	des	les	Augmente la qualité et rend la vitesse moins agressive.
 _5B8C98C851A44321	ABHFEMB02	Spécialisation/Extraction de l'Ambre		une	la	Spécialisations/Extraction de l'Ambre	des	les	Augmente la qualité et rend la vitesse moins agressive.
 _45C488D45F738F79	ABHFEMB03	Spécialisation/Extraction des Boucles		une	la	Spécialisations/Extraction des Boucles	des	les	Augmente la qualité et rend la vitesse moins agressive.
@@ -1756,9 +1758,9 @@ _1C3CE0CD51A42B28	ABHFEMB07	Spécialisation/Extraction des Carapaces		une	la	Sp�
 _9F0CDCCF51A43325	ABHFEMB09	Spécialisation/Extraction de la Résine		une	la	Spécialisations/Extraction de la Résine	des	les	Augmente la qualité et rend la vitesse moins agressive.
 _07C4ACD19F738F78	ABHFEMB10	Spécialisation/Extraction du Bois		une	la	Spécialisations/Extraction du Bois	des	les	Augmente la qualité et rend la vitesse moins agressive.
 _46727AE2FBEDCFA1	ABHFEMB11	Spécialisation/Extraction de Construction		une	la	Spécialisations/Extraction de Construction	des	les	Augmente la qualité et rend la vitesse moins agressive.
-_ABDCB5809EC6FE24	ABHFEMB12	Spécialisation/Extraction de Aliment		une	la	Spécialisations/Extraction de Aliment	des	les	Augmente la qualité et rend la vitesse moins agressive.
+_ABDCB5809EC6FE24	ABHFEMB12	Spécialisation/Extraction d'Aliment		une	la	Spécialisations/Extraction d'Aliment	des	les	Augmente la qualité et rend la vitesse moins agressive.
 _084638168D761835	ABHFEMB13	Spécialisation/Extraction de Goo		une	la	Spécialisations/Extraction de Goo	des	les	Augmente la qualité et rend la vitesse moins agressive.
-_11777CEB4450EFEC	ABHFEMB14	Spécialisation/Extraction de Insecte		une	la	Spécialisations/Extraction de Insecte	des	les	Augmente la qualité et rend la vitesse moins agressive.
+_11777CEB4450EFEC	ABHFEMB14	Spécialisation/Extraction d'Insecte		une	la	Spécialisations/Extraction d'Insecte	des	les	Augmente la qualité et rend la vitesse moins agressive.
 _3C8173C7E45FE2B7	ABHFEMB15	Spécialisation/Extraction de Kitin		une	la	Spécialisations/Extraction de Kitin	des	les	Augmente la qualité et rend la vitesse moins agressive.
 _6EEC0D670347E054	ABHFEMB16	Spécialisation/Extraction de Nocif		une	la	Spécialisations/Extraction de Nocif	des	les	Augmente la qualité et rend la vitesse moins agressive.
 _C6A3AEE63BED9398	ABHFEMB17	Spécialisation/Extraction de Conservateur		une	la	Spécialisations/Extraction de Conservateur	des	les	Augmente la qualité et rend la vitesse moins agressive.
