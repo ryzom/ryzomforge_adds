@@ -309,7 +309,7 @@ _1DE8C3273B0B137B	MakeRitualJewels	Herstellung rituellen Schmucks	Herstellung ri
 _D8145C8EEA5A3CA6	SC	Handwerk	Handwerk	ein	das	Handwerke	Handwerke	\d	die	Handwerk
 _5654AC8E60988490	SM	Magie	Magie	eine	die	Magie	Magie	\d	die	Magie
 _4A528987D8F5BA5B	SMT	Wirkungsmagie	Wirkungsmagie	eine	die	Wirkungsmagie	Wirkungsmagie	\d	die	Gezielte Magie
-_29D259A451019CA9	SMTM	Granatenmagie	Granatenmagie	eine	die	Granatenmagie	Granatenmagie	\d	die	Magie gezielter Granaten
+_29D259A451019CA9	SMTM	Raketenmagie	Raketenmagie	eine	die	Raketenmagie	Raketenmagie	\d	die	Magie gezielter Granaten
 _5C0F8F5DAF790C9D	SMTMR	Grundmagie	Grundmagie	eine	die	Grundmagie	Grundmagie	\d	die	Gezieltes Magie-Geschoss – Ur
 _0AD18AB0336B9683	SMTMG	Atysianische Magie	Atysianische Magie	eine	die	Atysianische Magie	Atysianische Magie	\d	die	Gezieltes Magie Geschoss - Atysianische
 _D597B4747E2BAA66	SMTMB	himmlische Magie	himmlische Magie	eine	die	himmlische Magie	himmlische Magie	\d	die	Gezieltes Magie Geschoss - Himmlische
