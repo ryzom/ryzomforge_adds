@@ -8506,7 +8506,7 @@ CWMH02_DESC (bot giver, place city)
 // HASH_VALUE 7D9C48D073DE06A8
 CWMH02_DIALOG_BARMAN ()
 {
-		cwmh02_dialog_barman	[Hallo, Du kommst zur rechten Zeit. Du kennst Dich mit dem Rohstoffabbau ein wenig aus? Ich brauche bestimmte Wurzeln um meinen Getränken eine ganz spezielle Note zu verleihen. Sie wachsen im Westen der Stadt, dort, wo sich zwei große Wurzeln aus dem Boden erheben. Doch achte darauf, dass die Wurzeln auch von feiner Qualität sind.]
+		cwmh02_dialog_barman	[Hallo, Du kommst zur rechten Zeit. Du kennst Dich mit dem Rohstoffabbau ein wenig aus? Ich brauche bestimmte Wurzeln um meinen Getränken eine ganz spezielle Note zu verleihen. Sie wachsen im Westen der Stadt, dort, wo sich zwei große Wurzeln aus dem Boden erheben.]
 
 }
 
