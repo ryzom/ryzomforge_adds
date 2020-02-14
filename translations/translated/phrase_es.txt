@@ -8476,7 +8476,7 @@ CWMH02_DESC (bot giver, place city)
 // HASH_VALUE 7D9C48D073DE06A8
 CWMH02_DIALOG_BARMAN ()
 {
-		cwmh02_dialog_barman	[Hola, qué bien tenerte aquí. Eres un buscador competente? Tengo necesidad de unas raíces especiales para sazonar mis bebidas. Podrías encontrar algunas si inspeccionas al este de la ciudad, donde hay dos raíces gigantes que salen del suelo. Recuerda, estas raíces deben ser de buena calidad.]
+		cwmh02_dialog_barman	[Hola, qué bien tenerte aquí. Eres un buscador competente? Tengo necesidad de unas raíces especiales para sazonar mis bebidas. Podrías encontrar algunas si inspeccionas al este de la ciudad, donde hay dos raíces gigantes que salen del suelo.]
 
 }
 
