@@ -1,4 +1,4 @@
-﻿// HASH_VALUE 6B09AC86E0363C89
+// HASH_VALUE 6B09AC86E0363C89
 // INDEX 0
 LanguageName	[Français]
 
@@ -10455,7 +10455,7 @@ uihelpItemJewelFormat	[@{FFF9}@{HuittInfoOrigin}Origine :@{H}@{T14}@{FFFF}%origi
 	@{FFF9}@{HuittInfoHP}Points de vie :@{H}@{T14}@{FFFF}%hp / %hpmax\n
 	%cansell@{FFF9}@{HuittInfoRequirement}Prérequis :@{H}@{T14}@{FFFF}%caracreq@{FFFF}%skillreq@{FFFF}%skillreq2\n
 	\n
-	%magic_protection%magic_resistance%buffs%desc%custom_text]
+	%magic_protection%magic_resistance%buffs%desc%custom_text%enchantment]
 
 // HASH_VALUE 6E6E2DA956AF0E3A
 // INDEX 2495
