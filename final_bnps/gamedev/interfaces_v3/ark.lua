@@ -43,7 +43,7 @@ end
 
 function ArkMissionCatalog:OpenCat(url)
 	local htmlb = getUI(ArkMissionCatalog.window_id..":content:htmlB")
-	htmlb.home = url
+	htmlb.home = url+"&continent="+getContinentSheet()
 	htmlb:browse("home")
 end
 

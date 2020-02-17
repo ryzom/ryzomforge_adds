@@ -49,23 +49,28 @@
          id="menu_member"
          extends="base_menu"
          on_active="guild_member_menu_open">
-    <action id="sort" name="uimSort" handler="sort_guild_list" params="" />
+    <action id="sort" name="uimSort" handler="sort_guild_list" params="" icon="ico_automove.tga" />
 	<separator />
     <action id="lead"
             name="uimGuildLeader"
-            handler="guild_member_chg_to_leader" />
+            handler="guild_member_chg_to_leader" 
+            icon="token_xl.tga" />
     <action id="hiof"
             name="uimGuildHighOfficer"
-            handler="guild_member_chg_to_high_officer" />
+            handler="guild_member_chg_to_high_officer" 
+            icon="token_choice.tga" />
     <action id="offi"
             name="uimGuildOfficer"
-            handler="guild_member_chg_to_officer" />
+            handler="guild_member_chg_to_officer" 
+            icon="token_fine.tga" />
     <action id="memb"
             name="uimGuildMember"
-            handler="guild_member_chg_to_member" />
+            handler="guild_member_chg_to_member" 
+            icon="token_basic.tga" />
     <action id="kick"
             name="uimGuildKick"
-            handler="guild_member_kick" />
+            handler="guild_member_kick" 
+            icon="r2ed_kicked_char.tga" />
   </group>
   <!--
         <action id="recr" name="uimGuildRecruiter"              handler="guild_member_chg_to_recruiter" />
@@ -1087,7 +1092,8 @@
     <action id="home"
             name="uiHOME"
             handler="browse"
-            params="name=ui:interface:webig:content:html|url=home" />
+            params="name=ui:interface:webig:content:html|url=home"
+            icon="building_state2.tga" />
   </group>
   <group type="container"
          id="webig"
