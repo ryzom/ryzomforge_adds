@@ -1,4 +1,4 @@
-// HASH_VALUE 6B09AC86E0363C89
+﻿// HASH_VALUE 6B09AC86E0363C89
 // INDEX 0
 LanguageName	[Français]
 
@@ -27681,9 +27681,9 @@ uiS2E0	[Episode "Prologue" : Celui où l'on s'informe]
 
 // HASH_VALUE 609C1408705844C8
 // INDEX 6583
-uimGcmChat	[Bavarder]
+uimGcmChat	[Demander poliment]
 
 // HASH_VALUE D808A99F289008AE
 // INDEX 6584
-uimGcmBullying	[Interroger d'un air mauvais]
+uimGcmBullying	[Interroger sans ménagement]
 

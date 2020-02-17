@@ -27718,3 +27718,11 @@ uiS2	[Die Saison in Schwarz gegen Weiß]
 // INDEX 6582
 uiS2E0	[Episode "Prolog": Diejenige, in der Sie informiert werden]
 
+// HASH_VALUE 609C1408705844C8
+// INDEX 6583
+uimGcmChat	[Höflich fragen]
+
+// HASH_VALUE D808A99F289008AE
+// INDEX 6584
+uimGcmBullying	[Grob fragen]
+
