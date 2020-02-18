@@ -10581,7 +10581,7 @@ uittAuraDisabled	[ - Аура деактивирована]
 
 // HASH_VALUE 41CC871412930664
 // INDEX 2507
-uihelpPhraseHeaderBricks	[@{FFFF}--- Станзы ---]
+uihelpPhraseHeaderBricks	[ ]
 
 // HASH_VALUE 820FADA1D202D652
 // INDEX 2508
