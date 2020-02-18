@@ -10476,7 +10476,7 @@ uihelpItemJewelFormat	[@{FFF9}@{HuittInfoOrigin}Происхождение:@{H}@
 	%cansell\n
 	@{FFF9}@{HuittInfoRequirement}Необходимо:@{H}@{T12}@{FFFF}%caracreq@{FFFF}%skillreq@{FFFF}%skillreq2\n
 	\n
-	%magic_protection%magic_resistance%buffs%desc%custom_text]
+	%magic_protection%magic_resistance%buffs%desc%enchantment%custom_text]
 
 // HASH_VALUE 6E6E2DA956AF0E3A
 // INDEX 2494
