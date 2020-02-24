@@ -88,11 +88,11 @@ uiRange	[Reichweite]
 
 // HASH_VALUE AF06A35FABD45A88
 // INDEX 22
-uittLead	[Leiter/in des Teams]
+uittLead	[Anführer/in des Teams]
 
 // HASH_VALUE 31DAA87FA2275372
 // INDEX 23
-uittSuccessor	[Vize-Leiter/in des Teams]
+uittSuccessor	[Stellv. Anführer/in des Teams]
 
 // HASH_VALUE 2C99B47EDE971C91
 // INDEX 24
@@ -204,7 +204,7 @@ Fouler	[Verderber]
 
 // HASH_VALUE 6438147DEAEB3CC5
 // INDEX 51
-Disturber	[Störer]
+Disturber	[Störenfried]
 
 // HASH_VALUE DF3760AB6287009A
 // INDEX 52
@@ -6840,7 +6840,7 @@ uiJoinDuelProposal	[WARNUNG : DUELLAUFFORDERUNG]
 
 // HASH_VALUE 201464406C58C40C
 // INDEX 1642
-uiJoinClanProposalTitle	[PVP-Clan]
+uiJoinClanProposalTitle	[PVP-Klan]
 
 // HASH_VALUE 2CDB049C6657048D
 // INDEX 1643
@@ -7237,7 +7237,7 @@ uiDetail	[DETAILS]
 
 // HASH_VALUE 4A9B60EE5DF6980C
 // INDEX 1741
-uittDetail	[Liste vom erweiterten in den einfachen Modus umschalten]
+uittDetail	[Liste zwischen erweiterten und einfachen Modus umschalten]
 
 // HASH_VALUE FD72B7455EC7285F
 // INDEX 1742
@@ -7252,12 +7252,12 @@ uittFilterWeapon	[Waffenfilter @{6F6F}\n
 // HASH_VALUE 55691FEE9A045C17
 // INDEX 1744
 uittFilterTool	[Werkzeugfilter @{6F6F}\n
-	@{FFFF}Rechtsklick, um ausschließlich @{6F6F}Werkzeug@{FFFF} anzuzeigen.]
+	@{FFFF}Rechtsklick, um ausschließlich @{6F6F}Werkzeuge@{FFFF} anzuzeigen.]
 
 // HASH_VALUE E923AEF672C969C7
 // INDEX 1745
-uittFilterPet	[Filter @{6F6F}Tier\n
-	@{FFFF}Rechtsklick, um ausschließlich @{6F6F}Tier@{FFFF} anzuzeigen.]
+uittFilterPet	[Tierfilter @{6F6F}\n
+	@{FFFF}Rechtsklick, um ausschließlich @{6F6F}Tiere@{FFFF} anzuzeigen.]
 
 // HASH_VALUE F7EC4C94289E3142
 // INDEX 1746
@@ -7266,8 +7266,8 @@ uittFilterMP	[Rohstofffilter @{6F6F}\n
 
 // HASH_VALUE 9BDEB6C211CDE882
 // INDEX 1747
-uittFilterMissMP	[Filter von @{6F6F}Missionsgegenständen und -rohstoffen\n
-	@{FFFF}Rechtsklick, um ausschließlich @{6F6F}Missionselemente@{FFFF} anzuzeigen.]
+uittFilterMissMP	[Missionsfiltern @{6F6F}\n
+	@{FFFF}Rechtsklick, um ausschließlich @{6F6F}Missionselemente @{FFFF}anzuzeigen.]
 
 // HASH_VALUE A54058101559C818
 // INDEX 1748
@@ -7395,7 +7395,7 @@ uiKeysDebugTitle	[TASTEN TESTEN]
 
 // HASH_VALUE 5054542C5054542C
 // INDEX 1779
-uiKeysTitle	[TASTEN]
+uiKeysTitle	[TASTATURBELEGEUNG]
 
 // HASH_VALUE 300C00C0300C00C0
 // INDEX 1780
@@ -9014,7 +9014,7 @@ uimwTeamList	[TEAM]
 
 // HASH_VALUE 4742AC133AA37C11
 // INDEX 2179
-uimwContactList	[KONTAKTLISTE]
+uimwContactList	[FREUNDESLISTE]
 
 // HASH_VALUE 4450141844501418
 // INDEX 2180
@@ -9042,7 +9042,7 @@ uimwGuild	[GILDENINFO]
 
 // HASH_VALUE CA42F0330BC3D045
 // INDEX 2186
-uimwMissions	[AUFGABEN]
+uimwMissions	[MISSIONEN]
 
 // HASH_VALUE 79C3BBDD892CB734
 // INDEX 2187
@@ -9944,7 +9944,7 @@ uiTeamChatTitle	[TEAMCHAT]
 
 // HASH_VALUE 45812B1C0E4EB813
 // INDEX 2405
-uiFriendList	[FREUNDESLISTE]
+uiFriendList	[FREUNDE]
 
 // HASH_VALUE C81227254C1ED00C
 // INDEX 2406
@@ -10513,9 +10513,9 @@ uihelpItemChargeSpell	[@{FFF9}Sapladung: @{T12}@{FFFF}%quality\n
 // HASH_VALUE 88359CF16D5CFDBD
 // INDEX 2497
 uihelpItemAnimal	[Dieser Gegenstand symbolisiert\n
-	ein Tier #%petnumber.\n
+	das Tier Nummer %petnumber.\n
 	\n
-	Du kannst ein Tier mit Hilfe dieses Gegenstands verschenken oder verkaufen; aber nur, wenn sein Inventar leer ist.\n
+	Du kannst das Tier mit Hilfe dieses Gegenstands verschenken oder verkaufen; aber nur, wenn dessen Inventar leer ist.\n
 	%cansell%desc%custom_text]
 
 // HASH_VALUE CB10EC5C14C1477D
@@ -12324,7 +12324,7 @@ uiMainChatTitle	[HAUPTCHAT]
 
 // HASH_VALUE 5490F40C50143404
 // INDEX 2910
-uiContactListTitle	[KONTAKTE]
+uiContactListTitle	[FREUNDESLISTE]
 
 // HASH_VALUE 0B62D02D40411433
 // INDEX 2911
@@ -12900,7 +12900,7 @@ uiTeamList	[Team]
 
 // HASH_VALUE 7498F40C701C3484
 // INDEX 3054
-uiContactList	[Kontakte]
+uiContactList	[FREUNDESLISTE]
 
 // HASH_VALUE 705C542C705C542C
 // INDEX 3055
@@ -14502,23 +14502,23 @@ uiShowing	[Zeigen: ]
 
 // HASH_VALUE CD72133B8DE36634
 // INDEX 3449
-uiSkillPoints	[Fertigkeitspunkte für Aktionskauf]
+uiSkillPoints	[Fertigkeitspunkte]
 
 // HASH_VALUE 96976B67D6854695
 // INDEX 3450
-uiSkillPoints0	[Kampf-Fertigkeitspunkte ]
+uiSkillPoints0	[Kampf]
 
 // HASH_VALUE 14F62F6412542A7A
 // INDEX 3451
-uiSkillPoints1	[Magie-Fertigkeitspunkte ]
+uiSkillPoints1	[Magie]
 
 // HASH_VALUE D6A7AB5BD9C5628C
 // INDEX 3452
-uiSkillPoints2	[Handwerks-Fertigkeitspunkte ]
+uiSkillPoints2	[Handwerks]
 
 // HASH_VALUE 749C1420201C3494
 // INDEX 3453
-uiSkillPoints3	[Rohstoffernte-Fertigkeitspunkte ]
+uiSkillPoints3	[Rohstoffernte ]
 
 // HASH_VALUE 7A6F23377F011333
 // INDEX 3454
@@ -14542,7 +14542,7 @@ uimGcmTradePhase	[Neue Aktionen lernen]
 
 // HASH_VALUE 7F3DF004CC42EC2C
 // INDEX 3459
-uiNotEnoughSkillPoints	[ZU WENIGE FERTIGKEITSPUNKTE. TRAINIERE WEITER!]
+uiNotEnoughSkillPoints	[ZU WENIGE PUNKTE. TRAINIERE WEITER!]
 
 // Heal
 // HASH_VALUE 5010042050100420
@@ -19474,7 +19474,7 @@ uiAnimalsTitle	[TIERE]
 
 // HASH_VALUE BAC7944ECF89AE06
 // INDEX 4691
-uittSatiety	[Rot: Lebenskraft / Orange: Taschenplatz / Weiß: Sättigung. Wenn der Sättigungs-Balken auf Null fällt, hat das Tier Hunger und wird langsam.]
+uittSatiety	[Rot: Lebenskraft / Orange: Taschenplatz / Weiß: Sättigung. Wenn der Sättigungs-Balken auf Null fällt, hat das Tier Hunger und kann nicht mehr laufen.]
 
 // HASH_VALUE 2EE6A09C38655ED5
 // INDEX 4692
@@ -19495,11 +19495,11 @@ uittDead	[Das Tier ist tot.\n
 
 // HASH_VALUE 309E23DB19F9A563
 // INDEX 4695
-uittDeathTimer	[Restzeit, ehe der Körper dieses toten Tieres verschwindet.]
+uittDeathTimer	[Restzeit bis der Körper dieses toten Tieres verschwunden ist.]
 
 // HASH_VALUE A9604559224F1442
 // INDEX 4696
-uittAnimalDeadPopupToolTip	[Restliche Stunden, ehe das erste deiner toten Tiere verschwindet.]
+uittAnimalDeadPopupToolTip	[Restliche Stunden bis das Erste deiner toten Tiere verschwunden ist.]
 
 // HASH_VALUE C52B629385E0C076
 // INDEX 4697
@@ -21273,19 +21273,19 @@ uiawrSFR2ABM	[Bogengewehr]
 
 // HASH_VALUE 6C5C14307058848C
 // INDEX 5058
-uiawrSFR2AL	[Raketenwerfer]
+uiawrSFR2AL	[Granatenwerfer]
 
 // HASH_VALUE 6CFCB41C4898B498
 // INDEX 5059
-uiawrSFR2ALB	[brennendem Raketenwerfer]
+uiawrSFR2ALB	[brennendem Granatenwerfer]
 
 // HASH_VALUE E6F6773AA579E0BA
 // INDEX 5060
-uiawrSFR2ALE	[elektrischem Raketenwerfer]
+uiawrSFR2ALE	[elektrischem Granatenwerfer]
 
 // HASH_VALUE 6C5C14307058848C
 // INDEX 5061
-uiawrSFR2ALM	[Raketenwerfer]
+uiawrSFR2ALM	[Granatenwerfer]
 
 // HASH_VALUE 67E71C8CA2773489
 // INDEX 5062
@@ -22604,7 +22604,7 @@ uiMouseHardware	[Hardware]
 
 // HASH_VALUE 45C5C008EB1984B7
 // INDEX 5378
-uiCannotWriteDynChat	[Du kannst nicht in diesen Chatkanal schreiben.]
+uiCannotWriteDynChat	[Du kannst in diesen Chatkanal nicht schreiben.]
 
 // HASH_VALUE CC112431CA83BC39
 // INDEX 5379
@@ -22612,7 +22612,8 @@ uiMagicProtectTable	[Schutz]
 
 // HASH_VALUE 276E3F52A73FB865
 // INDEX 5380
-uittMagicProtectTable	[Der @{6F6F}magische Schutz@{FFFF} absorbiert einen Prozentsatz an magischen Schäden, abhängig von:\n
+uittMagicProtectTable	[Der @{6F6F}magische Schutz@{FFFF} absorbiert einen Prozentsatz an magischen Schäden.\n
+	Das ist abhängig von:\n
 	@{T4}- dem @{6F6F}Typ@{FFFF} des erlittenen magischen Schadens,\n
 	@{T4}- dem Schutz, den der @{6F6F}Schmuck@{FFFF} bietet,\n
 	@{T4}- der Summe der @{6F6F}Qualität @{FFFF}des getragenen Schmucks und\n
@@ -22648,35 +22649,35 @@ uiProtect_Shockwave	[Schockwelle]
 
 // HASH_VALUE 049B1C4DD74B2041
 // INDEX 5388
-uiProtect_MaxAbsorb	[Max. absorbiert]
+uiProtect_MaxAbsorb	[Maximale Absorption]
 
 // HASH_VALUE 7259CAAC235FEE16
 // INDEX 5389
-uittProtect_Rot	[Verrottungsschäden-Absorption: @{6F6F}%v%@{FFFF} %max]
+uittProtect_Rot	[Absorption von Verrottungsschäden: @{6F6F}%v%@{FFFF} %max]
 
 // HASH_VALUE CB53C08014A3833C
 // INDEX 5390
-uittProtect_Acid	[Säureschäden-Absorption : @{6F6F}%v%@{FFFF} %max]
+uittProtect_Acid	[Absorption von Säureschäden: @{6F6F}%v%@{FFFF} %max]
 
 // HASH_VALUE 0C53B980D4F39B4B
 // INDEX 5391
-uittProtect_Cold	[Kälteschäden-Absorption : @{6F6F}%v%@{FFFF} %max]
+uittProtect_Cold	[Absorption von Kälteschäden: @{6F6F}%v%@{FFFF} %max]
 
 // HASH_VALUE A7CA8DB65D5E0B80
 // INDEX 5392
-uittProtect_Fire	[Feuerschäden-Absorption : @{6F6F}%v%@{FFFF} %max]
+uittProtect_Fire	[Absorption von Feuerschäden: @{6F6F}%v%@{FFFF} %max]
 
 // HASH_VALUE 6CC982F5CCA8356D
 // INDEX 5393
-uittProtect_Poison	[Giftschäden-Absorption : @{6F6F}%v%@{FFFF} %max]
+uittProtect_Poison	[Absorption von Giftschäden: @{6F6F}%v%@{FFFF} %max]
 
 // HASH_VALUE C10039287A9472FB
 // INDEX 5394
-uittProtect_Electricity	[Elektroschäden-Absorption : @{6F6F}%v%@{FFFF} %max]
+uittProtect_Electricity	[Absorption von Elektroschäden: @{6F6F}%v%@{FFFF} %max]
 
 // HASH_VALUE 56A951A06FA9108A
 // INDEX 5395
-uittProtect_Shockwave	[Schockwellenschäden-Absorption : @{6F6F}%v%@{FFFF} %max]
+uittProtect_Shockwave	[Absorption von Schockwellenschäden: @{6F6F}%v%@{FFFF} %max]
 
 // HASH_VALUE DB00AE336D4AC0AF
 // INDEX 5396
@@ -22685,7 +22686,7 @@ uittProtect_MaxReached	[(maximal)]
 // HASH_VALUE BE3C7E33592B3BA4
 // INDEX 5397
 uittProtect_MaxAbsorb	[Maximum der absorbierten Schäden:\n
-	Summe aus @{6F6F}Qualität des Schmucks@{FFFF} + @{6F6F}max. Stufe@{FFFF} des Spielers]
+	Summe aus @{6F6F}Qualität des Schmucks @{FFFF}+ @{6F6F}maximales Level @{FFFF}des Spielers]
 
 // HASH_VALUE 0F43D4330BE3FC4C
 // INDEX 5398
@@ -22706,30 +22707,30 @@ uittMagicResistTable	[Den Zaubersprüchen der Kreaturen und Spieler kann vollst�
 
 // HASH_VALUE CC25343C56C9D2F7
 // INDEX 5400
-uiResist_Desert	[Wüstenmagie-Widerstand]
+uiResist_Desert	[Wüsten-Magie]
 
 // HASH_VALUE 9D21928895966E9E
 // INDEX 5401
-uiResist_Forest	[Wadmagie-Widerstand]
+uiResist_Forest	[Wald-Magie]
 
 // HASH_VALUE C01AA450C8187C6A
 // INDEX 5402
-uiResist_Lacustre	[Seenlandmagie-Widerstand]
+uiResist_Lacustre	[Seenland-Magie]
 
 // HASH_VALUE D4F4A87FD8D28B72
 // INDEX 5403
-uiResist_Jungle	[Dschungelmagie-Widerstand]
+uiResist_Jungle	[Dschungel-Magie]
 
 // HASH_VALUE 1328E38015B8CC7D
 // INDEX 5404
-uiResist_PrimRoot	[Urwurzelmagie-Widerstand]
+uiResist_PrimRoot	[Urwurzel-Magie]
 
 // HASH_VALUE 0B3B8D626ED819EA
 // INDEX 5405
-uittResist_Desert	[Widerstand gegen Magiesprüche aus dem Wüstenbereich: @{6F6F}%v@{FFFF} %max\n
-	@{T4}- Chance, einem Spruch von @{6F6F}Elementarmagie@{FFFF} der Stufe @{6F6F}%eml@{FFFF}: @{6F6F}%emr%@{FFFF} zu widerstehen\n
-	@{T4}- Chance, einem Spruch von @{6F6F}Schmerzmagie@{FFFF} der Stufe @{6F6F}%aml@{FFFF}: @{6F6F}%amr%@{FFFF} zu widerstehen\n
-	@{T0}Dieser Bereich inkludiert folgende Magie-Effekte:\n
+uittResist_Desert	[Widerstand gegen Magie-Sprüche der Wüsten-Magie: @{6F6F}%v@{FFFF} %max\n
+	@{T4}- Chance, einem Spruch der @{6F6F}Elementarmagie@{FFFF} des Levels @{6F6F}%eml@{FFFF} um @{6F6F}%emr%@{FFFF} zu widerstehen\n
+	@{T4}- Chance, einem Spruch der @{6F6F}Beherrschungsmagie@{FFFF} das Levels @{6F6F}%aml@{FFFF} um @{6F6F}%amr%@{FFFF} zu widerstehen\n
+	@{T0}Diese Magie umfasst folgende Effekte:\n
 	@{T4}- @{6F6F}Feuer@{FFFF}\n
 	@{T4}- @{6F6F}Blindheit@{FFFF}\n
 	@{T4}- @{6F6F}Wahnsinn@{FFFF}\n
@@ -22737,10 +22738,10 @@ uittResist_Desert	[Widerstand gegen Magiesprüche aus dem Wüstenbereich: @{6F6F
 
 // HASH_VALUE 59EA33B883AB2026
 // INDEX 5406
-uittResist_Forest	[Widerstand gegen Magiesprüche aus dem Waldlandbereich: @{6F6F}%v@{FFFF} %max\n
-	@{T4}- Chance, einem @{6F6F}Elementarzauber@{FFFF} der Stufe @{6F6F}%eml@{FFFF} zu widerstehen: @{6F6F}%emr%@{FFFF}\n
-	@{T4}- Chancen einem @{6F6F}Beherrschungszauber@{FFFF} der Stufe @{6F6F}%aml@{FFFF} zu widerstehen: @{6F6F}%amr%@{FFFF}\n
-	@{T0}Dieser Bereich inkludiert folgende Magie-Effekte:\n
+uittResist_Forest	[Widerstand gegen Sprüche der Wald-Magie: @{6F6F}%v@{FFFF} %max\n
+	@{T4}- Chance, einem @{6F6F}Elementarzauber@{FFFF} des Levels um @{6F6F}%eml@{FFFF} um @{6F6F}%emr%@{FFFF} zu widerstehen. \n
+	@{T4}- Chance, einem @{6F6F}Beherrschungszauber@{FFFF} des Levels @{6F6F}%aml@{FFFF} um @{6F6F}%amr%@{FFFF} zu widerstehen. \n
+	@{T0}Diese Magie umfasst folgende Effekte:\n
 	@{T4}- @{6F6F}Gift@{FFFF}\n
 	@{T4}- @{6F6F}Schlaf@{FFFF}\n
 	@{T4}- @{6F6F}Bewegungsverlangsamung@{FFFF}\n
@@ -22748,10 +22749,10 @@ uittResist_Forest	[Widerstand gegen Magiesprüche aus dem Waldlandbereich: @{6F6
 
 // HASH_VALUE C9600D6865D27D73
 // INDEX 5407
-uittResist_Lacustre	[Widerstand gegen Magieprüche aus dem Seenlandbereich: @{6F6F}%v@{FFFF} %max\n
-	@{T4}- Chance, einem @{6F6F}Elementarzauber@{FFFF} der Stufe @{6F6F}%eml@{FFFF} zu widerstehen: @{6F6F}%emr%@{FFFF}\n
-	@{T4}- Chance, einem @{6F6F}Beherrschungszauber@{FFFF} der Stufe @{6F6F}%aml@{FFFF} zu widerstehen: @{6F6F}%amr%@{FFFF}\n
-	@{T0}Dieser Bereich inkludiert folgende Magie-Effekte:\n
+uittResist_Lacustre	[Widerstand gegen Sprüche der Seenland-Magie: @{6F6F}%v@{FFFF} %max\n
+	@{T4}- Chance, einem @{6F6F}Elementarzauber@{FFFF} des Levels @{6F6F}%eml@{FFFF} um @{6F6F}%emr%@{FFFF} zu widerstehen.\n
+	@{T4}- Chance, einem @{6F6F}Beherrschungszauber@{FFFF} des Levels @{6F6F}%aml@{FFFF} um @{6F6F}%amr%@{FFFF} zu widerstehen.\n
+	@{T0}Diese Magie umfasst folgende Effekte:\n
 	@{T4}- @{6F6F}Kälte@{FFFF}\n
 	@{T4}- @{6F6F}Schockwelle@{FFFF}\n
 	@{T4}- @{6F6F}Betäuben@{FFFF}\n
@@ -22759,10 +22760,10 @@ uittResist_Lacustre	[Widerstand gegen Magieprüche aus dem Seenlandbereich: @{6F
 
 // HASH_VALUE 6D27C3213D0933D9
 // INDEX 5408
-uittResist_Jungle	[Widerstand gegen Magiesprüche aus dem Dschungelbereich: @{6F6F}%v@{FFFF} %max\n
-	@{T4}- Chance, einem @{6F6F}Elementarzauber@{FFFF} der Stufe @{6F6F}%eml@{FFFF} zu widerstehen: @{6F6F}%emr%@{FFFF}\n
-	@{T4}- Chance, einem @{6F6F}Beherrschungszauber@{FFFF} der Stufe @{6F6F}%aml@{FFFF} zu widerstehen: @{6F6F}%amr%@{FFFF}\n
-	@{T0}Dieser Bereich inkludiert folgende Magie-Effekte:\n
+uittResist_Jungle	[Widerstand gegen Sprüche aus der Dschungel-Magie: @{6F6F}%v@{FFFF} %max\n
+	@{T4}- Chance, einem @{6F6F}Elementarzauber@{FFFF} des Levels @{6F6F}%eml@{FFFF} um @{6F6F}%emr%@{FFFF} zu widerstehen.\n
+	@{T4}- Chance, einem @{6F6F}Beherrschungszauber@{FFFF} des Levels @{6F6F}%aml@{FFFF} um @{6F6F}%amr%@{FFFF} zu widerstehen.\n
+	@{T0}Diese Magie umfasst folgende Effekte:\n
 	@{T4}- @{6F6F}Elektrizität@{FFFF}\n
 	@{T4}- @{6F6F}Verwurzelung@{FFFF}\n
 	@{T4}- @{6F6F}Angriffsverlangsamung@{FFFF}\n
@@ -22770,10 +22771,10 @@ uittResist_Jungle	[Widerstand gegen Magiesprüche aus dem Dschungelbereich: @{6F
 
 // HASH_VALUE C84D03E6ED023088
 // INDEX 5409
-uittResist_PrimRoot	[Widerstand gegen Magiesprüche aus dem Urwurzelbereich: @{6F6F}%v@{FFFF} %max\n
-	@{T4}- Chance, einem @{6F6F}Elementarzauber@{FFFF} der Stufe @{6F6F}%eml@{FFFF} zu widerstehen: @{6F6F}%emr%@{FFFF}\n
-	@{T4}- Chance, einem @{6F6F}Beherrschungszauber@{FFFF} der Stufe @{6F6F}%aml@{FFFF} zu widerstehen: @{6F6F}%amr%@{FFFF}\n
-	@{T0}Dieser Bereich inkludiert folgende Magie-Effekte:\n
+uittResist_PrimRoot	[Widerstand gegen Sprüche aus der Urwurzel-Magie: @{6F6F}%v@{FFFF} %max\n
+	@{T4}- Chance, einem @{6F6F}Elementarzauber@{FFFF} des Levels @{6F6F}%eml@{FFFF} um @{6F6F}%emr%@{FFFF} zu widerstehen.\n
+	@{T4}- Chance, einem @{6F6F}Beherrschungszauber@{FFFF} des Levels @{6F6F}%aml@{FFFF} um @{6F6F}%amr%@{FFFF} zu widerstehen.\n
+	@{T0}Diese Magie umfasst folgende Effekte:\n
 	@{T4}- @{6F6F}Säure@{FFFF}\n
 	@{T4}- @{6F6F}Verrotten@{FFFF}\n
 	@{T4}- @{6F6F}Angst@{FFFF}\n
@@ -23351,7 +23352,7 @@ uiLoadingString13	[Armas und Ploderosse werden mit Kraftfutter aufgemästet...]
 
 // HASH_VALUE 2C7660055814BCAD
 // INDEX 5550
-uiLoadingString14	[Tiere werden in ihre jeweiligen landesspezifischen Farben eingetunkt...]
+uiLoadingString14	[Tiere werden in ihren jeweiligen landesspezifischen Farben eingetunkt...]
 
 // HASH_VALUE DA2580B0E74AB8DE
 // INDEX 5551
@@ -24246,7 +24247,7 @@ uittAnimalWeight	[@{6F6F}Gesamtgewicht, @{FFFF}das dein Tier transportiert. Tier
 
 // HASH_VALUE D92907CA57A0A70A
 // INDEX 5762
-uittAnimalInv	[Das @{6F6F}Inventar @{FFFF}bietet Zugang zu den Gegenständen, die dieses Tier transportiert, solange das Tier nahe genug ist. Steht das Tier in einem Stall, genügt es, nahe beim Stall zu sein, um Zugriff auf das Tier-Inventar zu haben.]
+uittAnimalInv	[Das @{6F6F}Inventar @{FFFF}bietet Zugang zu den Gegenständen, die dieses Tier transportiert, solange es in der Nähe ist. Steht das Tier in einem Stall, genügt es, in der Nähe vom Stall zu sein, um Zugriff auf das Tier-Inventar zu erhalten.]
 
 // HASH_VALUE EC6515C0797E672F
 // INDEX 5763
@@ -24372,7 +24373,7 @@ uittTargetNamed	[starke 'Named'-Kreatur der Stufe: @{6F6F}%n]
 // HASH_VALUE 7F814BE1CB74F37A
 // INDEX 5789
 uittInfoBulk	[@{6F6F}Volumen @{FFFF}:\n
-	Platz, den der Gegenstand im Inventar (deiner Tasche oder der Satteltasche von Tieren) einnimmt. Jedes Inventar hat nur begrenzten Platz, deshalb kann man nicht zu viele große Gegenstände gemeinsam transportieren.]
+	Platz, den der Gegenstand im Inventar (deiner Tasche oder der Satteltasche von Tieren) einnimmt. Jedes Inventar hat nur begrenzt platz. Deshalb können nicht viele große Gegenstände transportiert werden.]
 
 // HASH_VALUE 8268E616D14643F5
 // INDEX 5790
@@ -26987,8 +26988,8 @@ uiRaceBold	[RASSE: ]
 
 // HASH_VALUE 64636618A3BDC326
 // INDEX 6402
-uittFilterTP	[Filtere @{6F6F}Teleportationspakte\n
-	@{FFFF}Rechtsklick zeigt nur @{6F6F}Teleportationspakte@{FFFF}.]
+uittFilterTP	[Teleportationspaktfilter @{6F6F}\n
+	@{FFFF}Rechtsklick, um ausschließlich @{6F6F}Teleportationspakte @{FFFF}anzuzeigen.]
 
 /* OLD VALUE : [Show Online/Offline Notifications] */
 // HASH_VALUE 08D8B8FE2B893831
@@ -27175,7 +27176,7 @@ uiPvpTotal	[GESAMT]
 
 // HASH_VALUE CD01881EC690942C
 // INDEX 6448
-uiOrganization	[FRAKTION]
+uiOrganization	[ORGANISATION]
 
 // HASH_VALUE 9F4850976B09B4A9
 // INDEX 6449
@@ -27272,7 +27273,8 @@ uiShowIconBuffs	[Zeige Gegenstandswerte und Verzauberung im Icon an]
 
 // HASH_VALUE 88333801264B40C0
 // INDEX 6472
-uittShowIconBuffs	[Zeige Gegenstandswerte und Verzauberung im Icon an]
+uittShowIconBuffs	[Zeigt Gegenstandswerte, wie die Haltbarkeit zum Beispiel, \n
+			und die Art der Verzauberung des Gegestandes im Icon an]
 
 // HASH_VALUE 050BB49718B1CAD4
 // INDEX 6473
@@ -27288,7 +27290,7 @@ uiRadarUseCamera	[Kompass folgt der Kameraausrichtung.]
 
 // HASH_VALUE B83EBD58DE9C068F
 // INDEX 6476
-uittRadarUseCamera	[Wenn aktiviert, wird die Rotation für die Kompassansicht eingeschaltet.]
+uittRadarUseCamera	[Wenn aktiviert, wird die Rotation für die Kompass-Ansicht eingeschaltet.]
 
 // HASH_VALUE 82A1901C06A3F72E
 // INDEX 6477
@@ -27590,7 +27592,7 @@ uiPATitleMount7	[Zig 3]
 // HASH_VALUE 44BA1C01D1DDC0A2
 // INDEX 6551
 uittInBag	[Das Tier ist in deiner Tasche.\n
-	@{6F6F}Rechtsklick, @{FFFF}um ihm eine Anweisung zu geben.]
+	@{6F6F}Rechtsklicken, @{FFFF}um ihm eine Anweisung zu geben.]
 
 // HASH_VALUE 649A14CAE8181224
 // INDEX 6552
@@ -27682,7 +27684,7 @@ uimIrefresh	[Erneut laden]
 
 // HASH_VALUE 210983972690C4AB
 // INDEX 6574
-uimIcompact	[Kompakten Modus ein/ausschalten]
+uimIcompact	[Kompakten-Modus ein/ausschalten]
 
 // HASH_VALUE 649C144C649C144C
 // INDEX 6575
@@ -27703,7 +27705,7 @@ uittChanSave	[Wenn diese Option aktiviert ist, werden dynamische Chat-Kanäle be
 
 // HASH_VALUE 1937B73191F88AC6
 // INDEX 6579
-uittChanAuto	[Wenn dieses Kontrollkästchen aktiviert ist, werden Ihre dynamischen Chat-Kanäle wiederhergestellt, sofern sie nicht bereits geöffnet sind.\n
+uittChanAuto	[Wenn dieses Kontrollkästchen aktiviert ist, werden deine dynamischen Chat-Kanäle wiederhergestellt, sofern sie nicht bereits geöffnet sind.\n
 	Verhindert den Verlust von Kanälen beim Neustart oder im Falle eines Serverausfalls.]
 
 // HASH_VALUE A9CBC85A8532D0B3
