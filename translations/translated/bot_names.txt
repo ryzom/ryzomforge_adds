@@ -10005,5 +10005,9 @@ _2B97A46ADB39306F	kamishopai_zorai	Wiao Ho-Gu
 _656954799C98B0A1	karashopai_matis	Sivaldo Zania			
 _507400AC6A18D4B1	karashopai_tryker	Be'keeins Hanan			
 _EDC81F9D2986979C	marauder_civ_shop	Ving Mia-Wuan			
+_14BA6066B049189D	zora_ranger_guide	Ba'duty Aepsie			
+_27F8A7C2AD787464	zora_ranger_instructor	Yio Go-Jin			
+_03F2BD312B87900E	pero_ranger_quartermaster	Pero Antorini			
+_ED67A092D70A90A0	trino_ranger_guide	Trino Lichioi			
 _A67747ACA7496082	marauder_camp_barman	Kelen BaRopi			
 _100BC3D71FC56D33	rite_geo_mat_maj_gar_1_maccia_pittore	Maccia Pittore			

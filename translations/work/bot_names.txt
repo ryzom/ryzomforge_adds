@@ -10005,3 +10005,7 @@ kamishopai_zorai	Wiao Ho-Gu
 karashopai_matis	Sivaldo Zania	
 karashopai_tryker	Be'keeins Hanan	
 marauder_civ_shop	Ving Mia-Wuan	
+zora_ranger_guide	Ba'duty Aepsie	
+zora_ranger_instructor	Yio Go-Jin	
+pero_ranger_quartermaster	Pero Antorini	
+trino_ranger_guide	Trino Lichioi	
