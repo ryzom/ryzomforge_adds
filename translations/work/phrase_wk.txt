@@ -6144,3 +6144,11 @@ FACTION_RF()
 	[Forge]
 }
 
+MENU_ZIGA()
+{
+	[Caress Ari.]
+}
+MENU_ZIGB()
+{
+	[Caress Tynee.]
+}

@@ -10009,3 +10009,5 @@ zora_ranger_guide	Ba'duty Aepsie
 zora_ranger_instructor	Yio Go-Jin	
 pero_ranger_quartermaster	Pero Antorini	
 trino_ranger_guide	Trino Lichioi	
+zig_arionasis	Ari	
+zig_tyneetryk	Tynee	

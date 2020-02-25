@@ -37618,6 +37618,20 @@ MENU_WHOISKARAVAN (player p, bot b)
 
 }
 
+// HASH_VALUE A1543F9ADEB3535D
+MENU_ZIGA ()
+{
+			[Streichle Ari.]
+
+}
+
+// HASH_VALUE 12E8C386E6355467
+MENU_ZIGB ()
+{
+			[Streichle Tynee.]
+
+}
+
 // HASH_VALUE D1938D3F45C415E6
 MF100_FINISH_BOTCHAT ()
 {

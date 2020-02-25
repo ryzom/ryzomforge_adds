@@ -1914,3 +1914,5 @@ fct_to_new_horizons	To New Horizons
 fct_marauder_merchant	Marchand Fédéral	
 fct_ranger_guide	Ranger Guide	
 fct_ranger_quartermaster	Ranger Quartermaster	
+fct_arionasiszig	Arionasis' Zig	
+fct_tyneetrykzig	Tyneetryk' Zig	
