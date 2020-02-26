@@ -1,4 +1,4 @@
-﻿// HASH_VALUE 6B09AC86E0363C89
+// HASH_VALUE 6B09AC86E0363C89
 // INDEX 0
 LanguageName	[Deutsch]
 
@@ -6735,7 +6735,7 @@ uiSkillsTitle	[Identität]
 
 // HASH_VALUE 50D494345090F424
 // INDEX 1616
-uiJournalTitle	[MISSIONEN]
+uiJournalTitle	[MISSIONSLOGBUCH]
 
 // HASH_VALUE D0B4F420B852EC1C
 // INDEX 1617
@@ -9042,7 +9042,7 @@ uimwGuild	[GILDENINFO]
 
 // HASH_VALUE CA42F0330BC3D045
 // INDEX 2186
-uimwMissions	[MISSIONEN]
+uimwMissions	[MISSIONSLOGBUCH]
 
 // HASH_VALUE 79C3BBDD892CB734
 // INDEX 2187
@@ -10129,19 +10129,19 @@ uiItemRMClass0	[Basis]
 
 // HASH_VALUE 6498941864989418
 // INDEX 2443
-uiItemRMClass1	[feine/s/r]
+uiItemRMClass1	[Feine]
 
 // HASH_VALUE 27567C58E7947078
 // INDEX 2444
-uiItemRMClass2	[vorzügliche/s/r]
+uiItemRMClass2	[Vorzügliche]
 
 // HASH_VALUE A058808C2A3884AC
 // INDEX 2445
-uiItemRMClass3	[exzellente/s/r]
+uiItemRMClass3	[Exzellente]
 
 // HASH_VALUE A95AF4AAE9E96C8A
 // INDEX 2446
-uiItemRMClass4	[erhabene/s/r]
+uiItemRMClass4	[Erhabene]
 
 // HASH_VALUE 5D26625CB2217642
 // INDEX 2447
@@ -10520,8 +10520,8 @@ uihelpItemAnimal	[Dieser Gegenstand symbolisiert\n
 
 // HASH_VALUE CB10EC5C14C1477D
 // INDEX 2498
-uihelpItemTeleport	[Zum Verwenden rechtsklicken und 'Teleportieren' auswählen\n
-	Ein Teleportpakt wird dafür bei Ankunft verbraucht.\n
+uihelpItemTeleport	[Rechtsklicken und Teleportieren.\n
+	Bei der Ankunft wird ein Teleportationspakt verbraucht.\n
 	%cansell%desc%custom_text]
 
 // HASH_VALUE 9B6A37002639A74D
@@ -13876,7 +13876,7 @@ uiTextHelpSelectFaberPlan	[Wähle zuerst den Gegenstand, den du herstellen wills
 
 // HASH_VALUE B706DD1057ECA8AB
 // INDEX 3295
-uittSelectPlan	[Wähle mit Linksklick einen verfügbaren Bauplan des Gegenstandes, den du herstellen willst.]
+uittSelectPlan	[Wähle einen verfügbaren Handwerksplan aus, um einen Gegenstand herzustellen.]
 
 // HASH_VALUE 404B14A424E099BC
 // INDEX 3296
@@ -13888,7 +13888,7 @@ uittSelectMp	[Linksklick, um Rohstoffe hinzuzufügen. Durch nochmaligen Linkskli
 
 // HASH_VALUE 7BB65DCA8D1ED22C
 // INDEX 3298
-uiTextHelpSelectFaberPlanSlot	[Wähle einen gelernten Bauplan für dieses Handwerk.]
+uiTextHelpSelectFaberPlanSlot	[Wähle einen gelernten Handwerksplan]
 
 // HASH_VALUE B32B683C21D844A2
 // INDEX 3299
@@ -24060,7 +24060,7 @@ uiWelcomeWhatTitle	[Was tun?]
 
 // HASH_VALUE D44A5D740D58483D
 // INDEX 5720
-uiWelcomeWhat	[Beachte die Anweisungen deines Missionsjournals, das sich links auf dem Bildschirm befindet.]
+uiWelcomeWhat	[Beachte die Anweisungen deines Missionslogbuchs, das sich links auf dem Bildschirm befindet.]
 
 // HASH_VALUE 1C18B394DC469279
 // INDEX 5721
@@ -25525,7 +25525,7 @@ uiR2EDNewScenarioWarning	[Drücke OK, um den Editor zurückzusetzen und ein ganz
 
 // HASH_VALUE B6A20AC0306A751A
 // INDEX 6059
-uiNoAvailableMissions	[Das Missionsjournal ist im Ring nicht verfügbar.]
+uiNoAvailableMissions	[Das Missionslogbuch ist im Ring nicht verfügbar.]
 
 // HASH_VALUE D82A99D541A5B0A0
 // INDEX 6060
@@ -25951,7 +25951,7 @@ uiClickToSelectAMission	[Klicke hier, um eine Mission auszuwählen.]
 
 // HASH_VALUE 6F6AD0A31C58BBD9
 // INDEX 6151
-uiNoAvailableMission	[Dein Missionsjournal ist leer.]
+uiNoAvailableMission	[Dein Missionslogbuch ist leer.]
 
 // HASH_VALUE D5EF87890D23D659
 // INDEX 6152
@@ -25959,11 +25959,11 @@ uittExpandMissionList	[Klicke hier, um zwischen der erweiterten Liste und dem Dr
 
 // HASH_VALUE D191FA72CB9FB222
 // INDEX 6153
-uittMissionCombo	[Dies ist dein Missionsjournal mit den aktuellen Missionen. Klicke zum Auswählen oder verwende das @{6F6F}Mausrad@{FFFF}, um durch alle verfügbaren Missionen zu scrollen.]
+uittMissionCombo	[Dies ist dein Missionslogbuch mit den aktuellen Missionen. Klicke zum Auswählen oder verwende das @{6F6F}Mausrad@{FFFF}, um durch alle verfügbaren Missionen zu scrollen.]
 
 // HASH_VALUE 2EF9BCB21D59A4B4
 // INDEX 6154
-uittMissionJournal	[Dies ist dein Missionsjournal.]
+uittMissionJournal	[Dies ist dein Missionslogbuch.]
 
 // HASH_VALUE 59798C4465B3A795
 // INDEX 6155
@@ -27710,5 +27710,5 @@ uittChanAuto	[Wenn dieses Kontrollkästchen aktiviert ist, werden deine dynamisc
 
 // HASH_VALUE A9CBC85A8532D0B3
 // INDEX 6580
-uiMissionCatalog	[Missions-Tagebuch]
+uiMissionCatalog	[Tägliche Missionen]
 
