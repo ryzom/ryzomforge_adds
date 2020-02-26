@@ -10320,7 +10320,7 @@ uihelpItemRangeWeaponFormat	[@{FFF9}@{HuittInfoOrigin}Design: @{H}@{T12}@{FFFF}%
 // INDEX 2473
 uihelpItemAmmoFormat	[@{FFF9}@{HuittInfoOrigin}Design: @{H}@{T12}@{FFFF}%origin\n
 	@{FFF9}@{HuittInfoWeaponQuality}Qualität: @{H}@{T12}@{FFFF}%quality\n
-	@{FFF9}@{HuittInfoWeight}Gewicht: @{H}@{T12}@{FFFF}%weight kg\n
+	@{FFF9}@{HuittInfoWeight}Gewicht: @{H}@{T12}@{FFFF}%weight kg\n\n
 	@{FFF9}@{HuittInfoBulk}Volumen: @{H}@{T12}@{FFFF}%bulk\n
 	@{FFF9}@{HuittInfoHP}Haltbarkeit: @{H}@{T12}@{FFFF}%hp / %hpmax\n
 	@{FFF9}@{HuittInfoItemSkill}Fertigkeit: @{H}@{T12}@{FFFF}%skill\n
