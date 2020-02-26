@@ -1,4 +1,4 @@
-﻿*HASH_VALUE	skill ID	name	named	ia	da	p	pd	pia	pda	description
+*HASH_VALUE	skill ID	name	named	ia	da	p	pd	pia	pda	description
 _5179F57B8293F93C	AcurateBleedingShot	Akkurater blutiger Schuss 	Akkurater blutiger Schuss 	ein	der	Akkurate blutige Schüsse 	Akkurate blutige Schüsse 	\d	die	
 _0779B6D36895A032	AcurateBreathlessShot	Akkurater erstickender Schuss	Akkurater erstickender Schuss	ein	der	Akkurate erstickende Schüsse	Akkurate erstickende Schüsse	\d	die	
 _B436B3C3EBDAAAC5	AnimalSlideslip	Absteigen	Absteigen	ein	das	Absteigen	Absteigen	\d	die	
@@ -450,283 +450,283 @@ _2ABBBA0B2EA265E1	SDDATM	Experte im Ausweichen	Experte im Ausweichen	ein	der	Exp
 _56D22F619ED6AB31	SDDATME	Meister im Ausweichen	Meister im Ausweichen	ein	der	Meister im Ausweichen	Meister im Ausweichen	\d	die	Meisterliche Verbesserte Verteidigung Ausweichbeherrschung
 _97F03668731C6899	uknown	Unbekannte Fertigkeit	Unbekannte Fertigkeit	eine	die	Unbekannte Fertigkeiten	Unbekannte Fertigkeiten	\d	die	Unbekannte Fertigkeit
 _CDE48A297AAB6A68	Unknown	Unbekannte Fertigkeit	Unbekannte Fertigkeit	eine	die	Unbekannte Fertigkeiten	Unbekannte Fertigkeiten	\d	die	Unbekannte Fertigkeit
-_E869049E9CF76CBE	SH	Rohstoffgewinnung	Rohstoffgewinnung	eine	die	Rohstoffgewinnungen	Rohstoffgewinnungen	\d	die	Ernte
-_60170C8820B7888C	SHF	Erweiterte Rohstoffgewinnung	Erweiterte Rohstoffgewinnung	eine	die	Erweiterte Rohstoffgewinnungen	Erweiterte Rohstoffgewinnungen	\d	die	
-_442BD9F7265A5C60	SHFF	Wald-Rohstoffgewinnung	Wald-Rohstoffgewinnung	eine	die	Wald-Rohstoffgewinnungen	Wald-Rohstoffgewinnungen	\d	die	
-_ABAB732E8EFA5E6D	SHFFA	Fortgeschrittener in Wald-Rohstoffgewinnung	Fortgeschrittener in Wald-Rohstoffgewinnung	ein	der	Fortgeschrittene in Wald-Rohstoffgewinnung	Fortgeschrittenen in Wald-Rohstoffgewinnung	\d	die	
-_E6CB0BDADA2125AF	SHFFAE	Experte in Wald-Rohstoffgewinnung	Experte in Wald-Rohstoffgewinnung	ein	der	Experten in Wald-Rohstoffgewinnung	Experten in Wald-Rohstoffgewinnung	\d	die	
-_B10C1FBB94DEE8D9	SHFFAEM	Meister in Wald-Rohstoffgewinnung	Meister in Wald-Rohstoffgewinnung	ein	der	Meister in Wald-Rohstoffgewinnung	Meister in Wald-Rohstoffgewinnung	\d	die	
-_C42BD5F666CA2C5E	SHFD	Wüsten-Rohstoffgewinnung	Wüsten-Rohstoffgewinnung	eine	die	Wüsten-Rohstoffgewinnungen	Wüsten-Rohstoffgewinnungen	\d	die	
-_6BFB6B2F0CDA5A6D	SHFDA	Fortgeschrittener in Wüsten-Rohstoffgewinnung	Fortgeschrittener in Wüsten-Rohstoffgewinnung	ein	der	Fortgeschrittene in Wüsten-Rohstoffgewinnung	Fortgeschrittenen in Wüsten-Rohstoffgewinnung	\d	die	
-_66BB07DB98611DAF	SHFDAE	Experte in Wüsten-Rohstoffgewinnung	Experte in Wüsten-Rohstoffgewinnung	ein	der	Experten in Wüsten-Rohstoffgewinnung	Experten in Wüsten-Rohstoffgewinnung	\d	die	
-_31EC1FBD909EE8D9	SHFDAEM	Meister in Wüsten-Rohstoffgewinnung	Meister in Wüsten-Rohstoffgewinnung	ein	der	Meister in Wüsten-Rohstoffgewinnung	Meister in Wüsten-Rohstoffgewinnung	\d	die	
-_453A81F2A57A8464	SHFJ	Dschungel-Rohstoffgewinnung	Dschungel-Rohstoffgewinnung	eine	die	Dschungel-Rohstoffgewinnungen	Dschungel-Rohstoffgewinnungen	\d	die	
-_E79B8B2A1049426F	SHFJA	Fortgeschrittener in Dschungel-Rohstoffgewinnung	Fortgeschrittener in Dschungel-Rohstoffgewinnung	ein	der	Fortgeschrittene in Dschungel-Rohstoffgewinnung	Fortgeschrittenen in Dschungel-Rohstoffgewinnung	\d	die	
-_2369F7D85BC235AF	SHFJAE	Experte in Dschungel-Rohstoffgewinnung	Experte in Dschungel-Rohstoffgewinnung	ein	der	Experten in Dschungel-Rohstoffgewinnung	Experten in Dschungel-Rohstoffgewinnung	\d	die	
-_2A2A2FB3985EE8D9	SHFJAEM	Meister in Dschungel-Rohstoffgewinnung	Meister in Dschungel-Rohstoffgewinnung	ein	der	Meister in Dschungel-Rohstoffgewinnung	Meister in Dschungel-Rohstoffgewinnung	\d	die	
-_1AD7982D8D996475	SHFL	Seenland-Rohstoffgewinnung	Seenland-Rohstoffgewinnung	eine	die	Seenland-Rohstoffgewinnungen	Seenland-Rohstoffgewinnungen	\d	die	
-_FAF5BBC2525D3127	SHFLA	Fortgeschrittener in Seenland-Rohstoffgewinnung	Fortgeschrittener in Seenland-Rohstoffgewinnung	ein	der	Fortgeschrittene in Seenland-Rohstoffgewinnung	Fortgeschrittenen in Seenland-Rohstoffgewinnung	\d	die	
-_C973D10EA27302E5	SHFLAE	Experte in Seenland-Rohstoffgewinnung	Experte in Seenland-Rohstoffgewinnung	ein	der	Experten in Seenland-Rohstoffgewinnung	Experten in Seenland-Rohstoffgewinnung	\d	die	
-_BB11B61895D0B534	SHFLAEM	Meister in Seenland-Rohstoffgewinnung	Meister in Seenland-Rohstoffgewinnung	ein	der	Meister in Seenland-Rohstoffgewinnung	Meister in Seenland-Rohstoffgewinnung	\d	die	
-_2A44FD62F20871D7	SHFP	Urwurzeln-Rohstoffgewinnung	Urwurzeln-Rohstoffgewinnung	eine	die	Urwurzeln-Rohstoffgewinnungen	Urwurzeln-Rohstoffgewinnungen	\d	die	
-_6FEB58CC68A3038F	SHFPA	Fortgeschrittener in Urwurzeln-Rohstoffgewinnung	Fortgeschrittener in Urwurzeln-Rohstoffgewinnung	ein	der	Fortgeschrittene in Urwurzeln-Rohstoffgewinnung	Fortgeschrittenen in Urwurzeln-Rohstoffgewinnung	\d	die	
-_035B83115B7A3738	SHFPAE	Experte in Urwurzeln-Rohstoffgewinnung	Experte in Urwurzeln-Rohstoffgewinnung	ein	der	Experten in Urwurzeln-Rohstoffgewinnung	Experten in Urwurzeln-Rohstoffgewinnung	\d	die	
-_F79E37D8A4C77E67	SHFPAEM	Meister in Urwurzeln-Rohstoffgewinnung	Meister in Urwurzeln-Rohstoffgewinnung	ein	der	Meister in Urwurzeln-Rohstoffgewinnung	Meister in Urwurzeln-Rohstoffgewinnung	\d	die	
-_BA3DD7D26A7885B0	SMTOECA	Fortgeschrittener in Kältemagie	Fortgeschrittener in Kältemagie	ein	der	Fortgeschrittene in Kältemagie	Fortgeschrittenen in Kältemagie	\d	die	Verbesserte Magie Targeted Offensive Spezial Schaden - Kälte
-_AFEDA7D06A484DAB	SMTOEAA	Fortgeschrittener in Säuremagie	Fortgeschrittener in Säuremagie	ein	der	Fortgeschrittene in Säuremagie	Fortgeschrittenen in Säuremagie	\d	die	Verbesserte Magie Targeted Offensive Special Schaden - Säure
-_01CD9DBDADC47BC9	SMTOERA	Fortgeschrittener in Verrottungsmagie	Fortgeschrittener in Verrottungsmagie	ein	der	Fortgeschrittene in Verrottungsmagie	Fortgeschrittenen in Verrottungsmagie	\d	die	Verbesserte Magie Targeted Offensive Special Schaden - Verrottungs
-_71CEBFD5AAD97DB9	SMTOEFA	Fortgeschrittener in Feuermagie	Fortgeschrittener in Feuermagie	ein	der	Fortgeschrittene in Feuermagie	Fortgeschrittenen in Feuermagie	\d	die	Verbesserte Magie Targeted Offensive Special Schaden - Feuer
-_318D06154CC1104A	SMTOESA	Fortgeschrittener in Schockwellenmagie	Fortgeschrittener in Schockwellenmagie	ein	der	Fortgeschrittene in Schockwellenmagie	Fortgeschrittenen in Schockwellenmagie	\d	die	Verbesserte Magie Targeted Offensive Special Schaden - Schockwellen
-_73261D03FCFBFD13	SMTOEPA	Fortgeschrittener in Giftmagie	Fortgeschrittener in Giftmagie	ein	der	Fortgeschrittene in Giftmagie	Fortgeschrittenen in Giftmagie	\d	die	Verbesserte Magie Targeted Offensive Special Schaden - Gift
-_E6D785444091E28C	SMTOEEA	Fortgeschrittener in Elektromagie	Fortgeschrittener in Elektromagie	ein	der	Fortgeschrittene in Elektromagie	Fortgeschrittenen in Elektromagie	\d	die	Verbesserte Magie Targeted Offensive Special Schaden - Elektrischer
-_D7E6E2B1D5A97148	SMTCHPA	Fortgeschrittener in Lebens-Heilungsmagie	Fortgeschrittener in Lebens-Heilungsmagie	ein	der	Fortgeschrittene in Lebens-Heilungsmagie	Fortgeschrittenen in Lebens-Heilungsmagie	\d	die	Verbesserte Magie Targeted Heilend Heilt - HP
-_0918DB0BE0F94381	SMTCHTA	Fortgeschrittener in Ausdauer-Heilungsmagie	Fortgeschrittener in Ausdauer-Heilungsmagie	ein	der	Fortgeschrittene in Ausdauer-Heilungsmagie	Fortgeschrittenen in Ausdauer-Heilungsmagie	\d	die	Verbesserte Magie Targeted Heilend Heilt - STA
-_F3EB3786D6F24AAC	SMTCHAA	Fortgeschrittener in Sap-Heilungsmagie	Fortgeschrittener in Sap-Heilungsmagie	ein	der	Fortgeschrittene in Sap-Heilungsmagie	Fortgeschrittenen in Sap-Heilungsmagie	\d	die	Verbesserte Magie Targeted Heilend Heilt - SAP
-_E9A9A59BE96CEC2F	SMTCHCA	Fortgeschrittener in Fokus-Heilungsmagie	Fortgeschrittener in Fokus-Heilungsmagie	ein	der	Fortgeschrittene in Fokus-Heilungsmagie	Fortgeschrittenen in Fokus-Heilungsmagie	\d	der	Verbesserte Magie Targeted Heilend Heilt - Fokus
-_5E798E3F74FE345E	SMLOSMA	Fortgeschrittener in der Bindung des Wahnsinns	Fortgeschrittener in der Bindung des Wahnsinns	ein	der	Fortgeschrittene in der Bindung des Wahnsinns	Fortgeschrittenen in der Bindung des Wahnsinns	\d	die	Verbesserte Magie Bindung Offensive Krankheit - Wahnsinn
-_26EEA5D39E743F06	SMLOSSA	Fortgeschrittener in der Bindung der Verlangsamung	Fortgeschrittener in der Bindung der Verlangsamung	ein	der	Fortgeschrittene in der Bindung der Verlangsamung	Fortgeschrittenen in der Bindung der Verlangsamung	\d	die	Verbesserte Magie Bindung Offensive Krankheit - Geschwindigkeit Debuff
-_5172DB6301F6E8D5	SMLOCIA	Fortgeschrittener in der Bindung der Unfähigkeit	Fortgeschrittener in der Bindung der Unfähigkeit	ein	der	Fortgeschrittene in der Bindung der Unfähigkeit	Fortgeschrittenen in der Bindung der Unfähigkeit	\d	der	Verbesserte Magie Bindung Offensive Fluch - Unfähigkeits
-_9163A3774C6560F0	SMLOCSA	Fortgeschrittener in der Bindung des Missgeschicks	Fortgeschrittener in der Bindung des Missgeschicks	ein	der	Fortgeschrittene in der Bindung des Missgeschicks	Fortgeschrittenen in der Bindung des Missgeschicks	\d	die	Verbesserte Magie Bindung Offensive Fluch - Missgeschicks
-_6AD31D5BA8BF214B	SMLOECA	Fortgeschrittener in Kältebindung	Fortgeschrittener in Kältebindung	ein	der	Fortgeschrittene in Kältebindung	Fortgeschrittenen in Kältebindung	\d	die	Verbesserte Magie Bindung Offensive Special Schaden - Kälte
-_EAA3ED59E7FF053F	SMLOEAA	Fortgeschrittener in Säurebindung	Fortgeschrittener in Säurebindung	ein	der	Fortgeschrittene in Säurebindung	Fortgeschrittenen in Säurebindung	\d	die	Verbesserte Magie Bindung Offensive Special Schaden - Säure
-_A7C460984F98020C	SMLOERA	Fortgeschrittener in der Bindung der Verrottung	Fortgeschrittener in der Bindung der Verrottung	ein	der	Fortgeschrittene in der Bindung der Verrottung	Fortgeschrittenen in der Bindung der Verrottung	\d	die	Verbesserte Magie Bindung Offensive Special Schaden - Verrottungs
-_6B34055F296F5145	SMLOEFA	Fortgeschrittener in Feuerbindung	Fortgeschrittener in Feuerbindung	ein	der	Fortgeschrittene in Feuerbindung	Fortgeschrittenen in Feuerbindung	\d	die	Verbesserte Magie Bindung Offensive Special Schaden - Feuer
-_D4F777BB9FE1FFC6	SMLOESA	Fortgeschrittener in Schockwellenbindung	Fortgeschrittener in Schockwellenbindung	ein	der	Fortgeschrittener in Schockwellenbindung	Fortgeschrittenen in Schockwellenbindung	\d	die	Verbesserte Magie Bindung Offensive Special Schaden - Schockwellen
-_663E8A6237DAFF8F	SMLOEPA	Fortgeschrittener in Giftbindung	Fortgeschrittener in Giftbindung	ein	der	Fortgeschrittene in Giftbindung	Fortgeschrittenen in Giftbindung	\d	die	Verbesserte Magie Bindung Offensive Special Schaden - Gift
-_F03F1412EF9651DB	SMLOEEA	Fortgeschrittener in Elektrobindung	Fortgeschrittener in Elektrobindung	ein	der	Fortgeschrittene in Elektrobindung	Fortgeschrittenen in Elektrobindung	\d	die	Verbesserte Magie Bindung Offensive Special Schaden - Elektrischer
+_E869049E9CF76CBE	SH	Ernte	Ernte	eine	die	Ernten	Ernten	\d	die	Ernte
+_60170C8820B7888C	SHF	Erweiterte Ernte	Erweiterte Ernte	eine	die	Erweiterte Ernten	Erweiterte Ernten	\d	die	
+_442BD9F7265A5C60	SHFF	Wald-Ernte	Wald-Ernte	eine	die	Wald-Ernten	Wald-Ernten	\d	die	
+_ABAB732E8EFA5E6D	SHFFA	Erfahrene Wald-Ernte	Erfahrene Wald-Ernte	ein	der	Fortgeschrittene in Wald-Ernte	Fortgeschrittenen in Wald-Ernte	\d	die	
+_E6CB0BDADA2125AF	SHFFAE	Wald-Ernteexperte	Wald-Ernteexperte	ein	der	Experten in Wald-Ernte	Experten in Wald-Ernte	\d	die	
+_B10C1FBB94DEE8D9	SHFFAEM	Wald-Erntemeister	Wald-Erntemeister	ein	der	Wald-Erntemeister	Wald-Erntemeister	\d	die	
+_C42BD5F666CA2C5E	SHFD	Wüsten-Ernte	Wüsten-Ernte	eine	die	Wüsten-Ernten	Wüsten-Ernten	\d	die	
+_6BFB6B2F0CDA5A6D	SHFDA	Erfahrene Wüsten-Ernte	Erfahrene Wüsten-Ernte	ein	der	Fortgeschrittene in Wüsten-Ernte	Fortgeschrittenen in Wüsten-Ernte	\d	die	
+_66BB07DB98611DAF	SHFDAE	Wüsten-Ernteexperte	Wüsten-Ernteexperte	ein	der	Experten in Wüsten-Ernte	Experten in Wüsten-Ernte	\d	die	
+_31EC1FBD909EE8D9	SHFDAEM	Wüsten-Erntemeister	Wüsten-Erntemeister	ein	der	Wüsten-Erntemeister	Wüsten-Erntemeister	\d	die	
+_453A81F2A57A8464	SHFJ	Dschungel-Ernte	Dschungel-Ernte	eine	die	Dschungel-Ernten	Dschungel-Ernten	\d	die	
+_E79B8B2A1049426F	SHFJA	Erfahrene Dschungel-Ernte	Erfahrene Dschungel-Ernte	ein	der	Fortgeschrittene in Dschungel-Ernte	Fortgeschrittenen in Dschungel-Ernte	\d	die	
+_2369F7D85BC235AF	SHFJAE	Dschungel-Ernteexperte	Dschungel-Ernteexperte	ein	der	Experten in Dschungel-Ernte	Experten in Dschungel-Ernte	\d	die	
+_2A2A2FB3985EE8D9	SHFJAEM	Dschungel-Erntemeister	Dschungel-Erntemeister	ein	der	Dschungel-Erntemeister	Dschungel-Erntemeister	\d	die	
+_1AD7982D8D996475	SHFL	Seenland-Ernte	Seenland-Ernte	eine	die	Seenland-Ernten	Seenland-Ernten	\d	die	
+_FAF5BBC2525D3127	SHFLA	Erfahrene Seenland-Ernte	Erfahrene Seenland-Ernte	ein	der	Fortgeschrittene in Seenland-Ernte	Fortgeschrittenen in Seenland-Ernte	\d	die	
+_C973D10EA27302E5	SHFLAE	Seenland-Ernteexperte	Seenland-Ernteexperte	ein	der	Experten in Seenland-Ernte	Experten in Seenland-Ernte	\d	die	
+_BB11B61895D0B534	SHFLAEM	Seenland-Erntemeister	Seenland-Erntemeister	ein	der	Seenland-Erntemeister	Seenland-Erntemeister	\d	die	
+_2A44FD62F20871D7	SHFP	Urwurzeln-Ernte	Urwurzeln-Ernte	eine	die	Urwurzeln-Ernten	Urwurzeln-Ernten	\d	die	
+_6FEB58CC68A3038F	SHFPA	Erfahrene Urwurzeln-Ernte	Erfahrene Urwurzeln-Ernte	ein	der	Fortgeschrittene in Urwurzeln-Ernte	Fortgeschrittenen in Urwurzeln-Ernte	\d	die	
+_035B83115B7A3738	SHFPAE	Urwurzeln-Ernteexperte	Urwurzeln-Ernteexperte	ein	der	Experten in Urwurzeln-Ernte	Experten in Urwurzeln-Ernte	\d	die	
+_F79E37D8A4C77E67	SHFPAEM	Urwurzeln-Erntemeister	Urwurzeln-Erntemeister	ein	der	Urwurzeln-Erntemeister	Urwurzeln-Erntemeister	\d	die	
+_BA3DD7D26A7885B0	SMTOECA	Fortgeschrittene Kältemagie	Fortgeschrittene Kältemagie	ein	der	Fortgeschrittene in Kältemagie	Fortgeschrittenen in Kältemagie	\d	die	Verbesserte Magie Targeted Offensive Spezial Schaden - Kälte
+_AFEDA7D06A484DAB	SMTOEAA	Fortgeschrittene Säuremagie	Fortgeschrittene Säuremagie	ein	der	Fortgeschrittene in Säuremagie	Fortgeschrittenen in Säuremagie	\d	die	Verbesserte Magie Targeted Offensive Special Schaden - Säure
+_01CD9DBDADC47BC9	SMTOERA	Fortgeschrittene Verrottungsmagie	Fortgeschrittene Verrottungsmagie	ein	der	Fortgeschrittene in Verrottungsmagie	Fortgeschrittenen in Verrottungsmagie	\d	die	Verbesserte Magie Targeted Offensive Special Schaden - Verrottungs
+_71CEBFD5AAD97DB9	SMTOEFA	Fortgeschrittene Feuermagie	Fortgeschrittene Feuermagie	ein	der	Fortgeschrittene in Feuermagie	Fortgeschrittenen in Feuermagie	\d	die	Verbesserte Magie Targeted Offensive Special Schaden - Feuer
+_318D06154CC1104A	SMTOESA	Fortgeschrittene Schockwellenmagie	Fortgeschrittene Schockwellenmagie	ein	der	Fortgeschrittene in Schockwellenmagie	Fortgeschrittenen in Schockwellenmagie	\d	die	Verbesserte Magie Targeted Offensive Special Schaden - Schockwellen
+_73261D03FCFBFD13	SMTOEPA	Fortgeschrittene Giftmagie	Fortgeschrittene Giftmagie	ein	der	Fortgeschrittene in Giftmagie	Fortgeschrittenen in Giftmagie	\d	die	Verbesserte Magie Targeted Offensive Special Schaden - Gift
+_E6D785444091E28C	SMTOEEA	Fortgeschrittene Elektromagie	Fortgeschrittene Elektromagie	ein	der	Fortgeschrittene in Elektromagie	Fortgeschrittenen in Elektromagie	\d	die	Verbesserte Magie Targeted Offensive Special Schaden - Elektrischer
+_D7E6E2B1D5A97148	SMTCHPA	Fortgeschrittene Lebens-Heilungsmagie	Fortgeschrittene Lebens-Heilungsmagie	ein	der	Fortgeschrittene in Lebens-Heilungsmagie	Fortgeschrittenen in Lebens-Heilungsmagie	\d	die	Verbesserte Magie Targeted Heilend Heilt - HP
+_0918DB0BE0F94381	SMTCHTA	Fortgeschrittene Ausdauer-Heilungsmagie	Fortgeschrittene Ausdauer-Heilungsmagie	ein	der	Fortgeschrittene in Ausdauer-Heilungsmagie	Fortgeschrittenen in Ausdauer-Heilungsmagie	\d	die	Verbesserte Magie Targeted Heilend Heilt - STA
+_F3EB3786D6F24AAC	SMTCHAA	Fortgeschrittene Sap-Heilungsmagie	Fortgeschrittene Sap-Heilungsmagie	ein	der	Fortgeschrittene in Sap-Heilungsmagie	Fortgeschrittenen in Sap-Heilungsmagie	\d	die	Verbesserte Magie Targeted Heilend Heilt - SAP
+_E9A9A59BE96CEC2F	SMTCHCA	Fortgeschrittene Fokus-Heilungsmagie	Fortgeschrittene Fokus-Heilungsmagie	ein	der	Fortgeschrittene in Fokus-Heilungsmagie	Fortgeschrittenen in Fokus-Heilungsmagie	\d	der	Verbesserte Magie Targeted Heilend Heilt - Fokus
+_5E798E3F74FE345E	SMLOSMA	Fortgeschrittene der Bindung des Wahnsinns	Fortgeschrittene der Bindung des Wahnsinns	ein	der	Fortgeschrittene in der Bindung des Wahnsinns	Fortgeschrittenen in der Bindung des Wahnsinns	\d	die	Verbesserte Magie Bindung Offensive Krankheit - Wahnsinn
+_26EEA5D39E743F06	SMLOSSA	Fortgeschrittene der Bindung der Verlangsamung	Fortgeschrittene der Bindung der Verlangsamung	ein	der	Fortgeschrittene in der Bindung der Verlangsamung	Fortgeschrittenen in der Bindung der Verlangsamung	\d	die	Verbesserte Magie Bindung Offensive Krankheit - Geschwindigkeit Debuff
+_5172DB6301F6E8D5	SMLOCIA	Fortgeschrittene der Bindung der Unfähigkeit	Fortgeschrittene der Bindung der Unfähigkeit	ein	der	Fortgeschrittene in der Bindung der Unfähigkeit	Fortgeschrittenen in der Bindung der Unfähigkeit	\d	der	Verbesserte Magie Bindung Offensive Fluch - Unfähigkeits
+_9163A3774C6560F0	SMLOCSA	Fortgeschrittene der Bindung des Missgeschicks	Fortgeschrittene der Bindung des Missgeschicks	ein	der	Fortgeschrittene in der Bindung des Missgeschicks	Fortgeschrittenen in der Bindung des Missgeschicks	\d	die	Verbesserte Magie Bindung Offensive Fluch - Missgeschicks
+_6AD31D5BA8BF214B	SMLOECA	Fortgeschrittene Kältebindung	Fortgeschrittene Kältebindung	ein	der	Fortgeschrittene in Kältebindung	Fortgeschrittenen in Kältebindung	\d	die	Verbesserte Magie Bindung Offensive Special Schaden - Kälte
+_EAA3ED59E7FF053F	SMLOEAA	Fortgeschrittene Säurebindung	Fortgeschrittene Säurebindung	ein	der	Fortgeschrittene in Säurebindung	Fortgeschrittenen in Säurebindung	\d	die	Verbesserte Magie Bindung Offensive Special Schaden - Säure
+_A7C460984F98020C	SMLOERA	Fortgeschrittene der Bindung der Verrottung	Fortgeschrittene der Bindung der Verrottung	ein	der	Fortgeschrittene in der Bindung der Verrottung	Fortgeschrittenen in der Bindung der Verrottung	\d	die	Verbesserte Magie Bindung Offensive Special Schaden - Verrottungs
+_6B34055F296F5145	SMLOEFA	Fortgeschrittene Feuerbindung	Fortgeschrittene Feuerbindung	ein	der	Fortgeschrittene in Feuerbindung	Fortgeschrittenen in Feuerbindung	\d	die	Verbesserte Magie Bindung Offensive Special Schaden - Feuer
+_D4F777BB9FE1FFC6	SMLOESA	Fortgeschrittene Schockwellenbindung	Fortgeschrittene Schockwellenbindung	ein	der	Fortgeschrittene Schockwellenbindung	Fortgeschrittenen in Schockwellenbindung	\d	die	Verbesserte Magie Bindung Offensive Special Schaden - Schockwellen
+_663E8A6237DAFF8F	SMLOEPA	Fortgeschrittene Giftbindung	Fortgeschrittene Giftbindung	ein	der	Fortgeschrittene in Giftbindung	Fortgeschrittenen in Giftbindung	\d	die	Verbesserte Magie Bindung Offensive Special Schaden - Gift
+_F03F1412EF9651DB	SMLOEEA	Fortgeschrittene Elektrobindung	Fortgeschrittene Elektrobindung	ein	der	Fortgeschrittene in Elektrobindung	Fortgeschrittenen in Elektrobindung	\d	die	Verbesserte Magie Bindung Offensive Special Schaden - Elektrischer
 _6E57968BCB587F8E	SMD	Defensive Magie	Defensive Magie	eine	die	Defensive Magie	Defensive Magie	\d	die	Defensive Magie
 _E4EAEA05C036B3CB	SMDA	Defensive Beherrschungsmagie	Defensive Beherrschungsmagie	eine	die	Defensive Beherrschungsmagie	Defensive Beherrschungsmagie	\d	die	Standard Defensive Schmerzzufügung
-_8BE8FBCCF2B753CD	SMDAA	Fortgeschrittener in defensiver Beherrschungsmagie	Fortgeschrittener in defensiver Beherrschungsmagie	ein	der	Fortgeschrittene in defensiver Beherrschungsmagie	Fortgeschrittenen in defensiver Beherrschungsmagie	\d	die	Verbesserte Defensive Schmerzzufügung
+_8BE8FBCCF2B753CD	SMDAA	Fortgeschrittene defensiver Beherrschungsmagie	Fortgeschrittene defensiver Beherrschungsmagie	ein	der	Fortgeschrittene in defensiver Beherrschungsmagie	Fortgeschrittenen in defensiver Beherrschungsmagie	\d	die	Verbesserte Defensive Schmerzzufügung
 _EF9774F6512DD4CE	SMDAAE	Experte in defensiver Beherrschungsmagie	Experte in defensiver Beherrschungsmagie	ein	der	Experten in defensiver Beherrschungsmagie	Experten in defensiver Beherrschungsmagie	\d	der	Meisterliche Defensive Schmerzzufügung
 _ED65F0BA7B50E721	SMDAAEM	Meister in defensiver Beherrschungsmagie	Meister in defensiver Beherrschungsmagie	ein	der	Meister in defensiver Beherrschungsmagie	Meister in defensiver Beherrschungsmagie	\d	der	Perfekte Defensive Schmerzzufügung
 _397B66BC32CD0D7C	SMDH	Heilungsmagie	Heilungsmagie	eine	die	Heilungsmagie	Heilungsmagie	\d	die	Standard Heilungs Magie
-_35B7302DA7A9A4E6	SMDHA	Fortgeschrittener in Heilungsmagie	Fortgeschrittener in Heilungsmagie	ein	der	Fortgeschrittene in Heilungsmagie	Fortgeschrittene in Heilungsmagie	\d	die	Verbesserte Heilungs Magie
+_35B7302DA7A9A4E6	SMDHA	Fortgeschrittene Heilungsmagie	Fortgeschrittene Heilungsmagie	ein	der	Fortgeschrittene in Heilungsmagie	Fortgeschrittene in Heilungsmagie	\d	die	Verbesserte Heilungs Magie
 _ED96DA1DA02EF778	SMDHAE	Experte in Heilungsmagie	Experte in Heilungsmagie	eine	die	Experten in Heilungsmagie	Experten in Heilungsmagie	\d	die	Meisterliche Heilungs Magie
 _E4A67EED911AA10F	SMDHAEM	Meister in Heilungsmagie	Meister in Heilungsmagie	eine	die	Meister in Heilungsmagie	Meister in Heilungsmagie	\d	die	Perfekte Heilungs Magie
 _27450790EC3DF79C	SMO	Offensive Magie	Offensive Magie	eine	die	Offensive Magie	Offensive Magie	\d	die	Offensive Magie
 _E49AEA05C036BFEC	SMOA	Offensive Beherrschungsmagie	Offensive Beherrschungsmagie	eine	die	Offensive Beherrschungsmagie	Offensive Beherrschungsmagie	\d	die	Standard Offensive Schmerzzufügung
-_8B9803E2326753CD	SMOAA	Fortgeschrittener in offensiver Beherrschungsmagie	Fortgeschrittener in offensiver Beherrschungsmagie	ein	der	Fortgeschrittene in offensiver Beherrschungsmagie	Fortgeschrittenen in offensiver Beherrschungsmagie	\d	die	Verbesserte Offensive Schmerzzufügung
+_8B9803E2326753CD	SMOAA	Fortgeschrittene offensiver Beherrschungsmagie	Fortgeschrittene offensiver Beherrschungsmagie	ein	der	Fortgeschrittene in offensiver Beherrschungsmagie	Fortgeschrittenen in offensiver Beherrschungsmagie	\d	die	Verbesserte Offensive Schmerzzufügung
 _B14774F6514D2CCF	SMOAAE	Experte in offensiver Beherrschungsmagie	Experte in offensiver Beherrschungsmagie	ein	der	Experten in offensiver Beherrschungsmagie	Experten in offensiver Beherrschungsmagie	\d	die	Meisterliche Offensive Schmerzzufügung
 _AF15F0BABB101322	SMOAAEM	Meister in offensiver Beherrschungsmagie	Meister in offensiver Beherrschungsmagie	ein	der	Meister in offensiver Beherrschungsmagie	Meister in offensiver Beherrschungsmagie	\d	die	Perfekte Offensive Schmerzzufügung
 _AEBEAF4BCABFFB1C	SMOE	Elementarmagie	Elementarmagie	eine	die	Elementarmagie	Elementarmagie	\d	die	Standard Elementare Magie
-_8C6B9F1DA778E81E	SMOEA	Fortgeschrittener in Elementarmagie	Fortgeschrittener in Elementarmagie	ein	der	Fortgeschrittene in Elementarmagie	Fortgeschrittenen in Elementarmagie	\d	die	Verbesserte Elementare Magie
+_8C6B9F1DA778E81E	SMOEA	Fortgeschrittene Elementarmagie	Fortgeschrittene Elementarmagie	ein	der	Fortgeschrittene in Elementarmagie	Fortgeschrittenen in Elementarmagie	\d	die	Verbesserte Elementare Magie
 _FC649D9073CA8292	SMOEAE	Experte in Elementarmagie	Experte in Elementarmagie	ein	der	Experten in Elementarmagien	Experten in Elementarmagie	\d	die	Meisterliche Elementare Magie
 _32E3FD659EAB950B	SMOEAEM	Meister in Elementarmagie	Meister in Elementarmagie	ein	der	Meister in Elementarmagie	Meister in Elementarmagie	\d	die	Perfekte Elementare Magie
 _B93945D8AB4CE8F7	SMS	Selbstgerichtete Magie	Selbstgerichtete Magie	eine	die	Selbstgerichtete Magie	Selbstgerichtete Magie	\d	die	Selbstgerichtete Magie
 _83F4433CC9AD94E4	SMSS	Instinktive selbstgerichtete Magie	Instinktive selbstgerichtete Magie	eine	die	Instinktive selbstgerichtete Magie	Instinktive selbstgerichtete Magie	\d	die	Standard Selbstgerichtete Magie
-_779EFD45D0FE3F50	SMSSA	Fortgeschrittener in selbstgerichteter Magie	Fortgeschrittener in selbstgerichteter Magie	ein	der	Fortgeschrittene in selbstgerichteter Magie	Fortgeschrittenen in selbstgerichteter Magie	\d	die	Verbesserte Selbstgerichtete Magie
+_779EFD45D0FE3F50	SMSSA	Fortgeschrittene selbstgerichteter Magie	Fortgeschrittene selbstgerichteter Magie	ein	der	Fortgeschrittene in selbstgerichteter Magie	Fortgeschrittenen in selbstgerichteter Magie	\d	die	Verbesserte Selbstgerichtete Magie
 _319B0363794BC094	SMSSAE	Experte in selbstgerichteter Magie	Experte in selbstgerichteter Magie	ein	der	Experten in selbstgerichteter Magie	Experten in selbstgerichteter Magie	\d	die	Meisterliche Selbstgerichtete Magie
 _2C19F048303A87DB	SMSSAEM	Meister in selbstgerichteter Magie	Meister in selbstgerichteter Magie	ein	der	Meister in selbstgerichteter Magie	Meister in selbstgerichteter Magie	\d	die	Perfekte Selbstgerichtete Magie
 _DC262CA3A8C7EC7E	SF	Kampf	Kampf	ein	der	Kampf	Kampf	\d	der	
 _9FB46C869809E4AD	SFM	Nahkampf	Nahkampf	ein	der	Nahkampf	Nahkampf	\d	der	
-_529007CD20C0A474	SFM1	Einhand Nahkampf	Einhand Nahkampf	ein	der	Einhand Nahkampf	Einhand Nahkampf	\d	der	
-_13BDE7BA6940A996	SFM1B	Einhand Nahkampf mit stumpfen Hiebwaffen	Einhand Nahkampf mit stumpfen Hiebwaffen	ein	der	Einhand Nahkampf mit stumpfen Hiebwaffen	Einhand Nahkampf mit stumpfen Hiebwaffen	\d	der	
-_D94507669A13E45F	SFM1BM	Streitkolbenbeherrschung	Streitkolbenbeherrschung	eine	die	Streitkolbenbeherrschungen	Streitkolbenbeherrschungen	\d	die	
+_529007CD20C0A474	SFM1	Einhand-Nahkampf	Einhand-Nahkampf	Einhand-Nahkampf	Einhand-Nahkampf	Einhand-Nahkampf	Einhand-Nahkampf	\d	der	
+_13BDE7BA6940A996	SFM1B	Stumpfe Hiebwaffen	Stumpfe Hiebwaffen	ein	der	Stumpfe Hiebwaffen	Stumpfe Hiebwaffen	\d	der	
+_D94507669A13E45F	SFM1BM	Streitkolben	Streitkolben	eine	die	Streitkolben	Streitkolben	\d	die	
 _73DA5D3CEA2FF9DB	SFM1BME	Beherrschung des elektrischen Streitkolbens	Beherrschung des elektrischen Streitkolbens	eine	die	Beherrschungen des elektrischen Streitkolbens	Beherrschungen des elektrischen Streitkolbens	\d	die	
-_78CE19EFDB927FA1	SFM1BMM	Meister in Streitkolbenbeherrschung	Meister in Streitkolbenbeherrschung	ein	der	Meister in Streitkolbenbeherrschung	Meister in Streitkolbenbeherrschungen	\d	die	
-_8974507B67460C6B	SFM1BS	Stabbeherrschung	Stabbeherrschung	eine	die	Stabbeherrschungen	Stabbeherrschung	\d	die	
-_322EE5D7E0EA8F0E	SFM1BSM	Meister in Stabbeherrschung	Meister in Stabbeherrschung	ein	der	Meister in Stabbeherrschung	Meister in Stabbeherrschung	\d	der	
-_D1ADF7B1698099A1	SFM1P	Einhand Nahkampf mit Stichwaffen	Einhand Nahkampf mit Stichwaffen	ein	der	Einhand Nahkampf mit Stichwaffen	Einhand Nahkampf mit Stichwaffen	\d	der	
-_8CE54C7B65460C87	SFM1PS	Lanzenbeherrschung	Lanzenbeherrschung	eine	die	Lanzenbeherrschungen	Lanzenbeherrschungen	\d	die	
+_78CE19EFDB927FA1	SFM1BMM	Streitkolben-Meister	Streitkolben-Meister	ein	der	Streitkolben-Meister	Streitkolben-Meister	\d	die	
+_8974507B67460C6B	SFM1BS	Stab	Stab	eine	die	Staben	Stab	\d	die	
+_322EE5D7E0EA8F0E	SFM1BSM	Stab-Meister	Stab-Meister	ein	der	Stab-Meister	Stab-Meister	\d	der	
+_D1ADF7B1698099A1	SFM1P	Stichwaffen	Stichwaffen	ein	der	Stichwaffen	Stichwaffen	\d	der	
+_8CE54C7B65460C87	SFM1PS	Lanze	Lanzen	eine	die	Lanzenen	Lanzenen	\d	die	
 _093C6256AECD9909	SFM1PSE	Beherrschung der elektrischen Lanze	Beherrschung der elektrischen Lanze	eine	die	Beherrschungen der elektrischen Lanze	Beherrschungen der elektrischen Lanze	\d	die	
 _B64ED5EF5EDA8F06	SFM1PSL	Beherrschung der lebenden Lanze	Beherrschung der lebenden Lanze	eine	die	Beherrschungen der lebenden Lanze	Beherrschungen der lebenden Lanze	\d	die	
-_32B0BDDFDEEA8F1C	SFM1PSM	Meister in Lanzenbeherrschung	Meister in Lanzenbeherrschung	ein	der	Meister in Lanzenbeherrschung	Meister in Lanzenbeherrschung	\d	die	
-_13BDE7B96940A5A7	SFM1S	Einhand Nahkampf mit scharfen Hiebwaffen	Einhand Nahkampf mit scharfen Hiebwaffen	ein	der	Einhand Nahkampf mit scharfen Hiebwaffen	Einhand Nahkampf mit scharfen Hiebwaffen	\d	der	
-_D315B84E2AA27C98	SFM1SA	Axtbeherrschung	Axtbeherrschung	eine	die	Axtbeherrschung	Axtbeherrschung	\d	die	
+_32B0BDDFDEEA8F1C	SFM1PSM	Lanzen-Meister	Lanzen-Meister	ein	der	Lanzen-Meister	Lanzen-Meister	\d	die	
+_13BDE7B96940A5A7	SFM1S	Scharfe Hiebwaffen	Scharfe Hiebwaffen	ein	der	Scharfe Hiebwaffen	Scharfe Hiebwaffen	\d	der	
+_D315B84E2AA27C98	SFM1SA	Axt	Axt	eine	die	Axt	Axt	\d	die	
 _78ADFD175B5EB7F5	SFM1SAB	Beherrschung der brennenden Axt	Beherrschung der brennenden Axt	eine	die	Beherrschung der brennenden Axt	Beherrschung der brennenden Axt	\d	die	
-_C7DFA10129549B6B	SFM1SAM	Meister in Axtbeherrschung	Meister in Axtbeherrschung	ein	der	Meister in Axtbeherrschung	Meister in Axtbeherrschung	\d	die	
-_0915B88CE7460C8D	SFM1SS	Schwertbeherrschung	Schwertbeherrschung	eine	die	Schwertbeherrschung	Schwertbeherrschung	\d	die	
-_32EE45F360EA8F1F	SFM1SSM	Meister in Schwertbeherrschung	Meister in Schwertbeherrschung	ein	der	Meister in Schwertbeherrschung	Meister in Schwertbeherrschung	\d	die	
+_C7DFA10129549B6B	SFM1SAM	Axt-Meister	Axt-Meister	ein	der	Axt-Meister	Axt-Meister	\d	die	
+_0915B88CE7460C8D	SFM1SS	Schwert	Schwert	eine	die	Schwert	Schwert	\d	die	
+_32EE45F360EA8F1F	SFM1SSM	Schwert-Meister	Schwert-Meister	ein	der	Schwert-Meister	Schwert-Meister	\d	die	
 _B68C5DF3648B8F09	SFM1SSW	Beherrschung des wehenden Schwertes	Beherrschung des wehenden Schwertes	eine	die	Beherrschungen des wehenden Schwertes	Beherrschungen des wehenden Schwertes	\d	die	
 _929007CD20C0A476	SFM2	Zweihand-Nahkampf	Zweihand-Nahkampf	ein	der	Zweihand-Nahkampf	Zweihand-Nahkampf	\d	der	
-_53BDE7BB6940AD96	SFM2B	Zweihand-Nahkampf mit stumpfen Hiebwaffen	Zweihand-Nahkampf mit stumpfen Hiebwaffen	ein	der	Zweihand-Nahkampf mit stumpfen Hiebwaffen	Zweihand Nahkampf mit stumpfen Hiebwaffen	\d	der	
-_F15CD1694847CDF2	SFM2BM	Riesenstreitkolbenbeherrschung	Riesenstreitkolbenbeherrschung	eine	die	Riesenstreitkolbenbeherrschungen	Riesenstreitkolbenbeherrschungen	\d	die	
+_53BDE7BB6940AD96	SFM2B	Stumpfe Hiebwaffen	Stumpfe Hiebwaffen	ein	der	Stumpfe Hiebwaffen	Stumpfe Hiebwaffen	\d	der	
+_F15CD1694847CDF2	SFM2BM	Riesenstreitkolben	Riesenstreitkolben	eine	die	Riesenstreitkolbenen	Riesenstreitkolbenen	\d	die	
 _5704967E575AEBA6	SFM2BME	Beherrschung des elektrischen Riesenstreitkolbens	Beherrschung des elektrischen Riesenstreitkolbens	eine	die	Beherrschungen des elektrischen Riesenstreitkolbens	Beherrschungen des elektrischen Riesenstreitkolbens	\d	die	
-_301A7FEFCE1033BC	SFM2BMM	Meister in Riesenstreitkolbenbeherrschung	Meister in Riesenstreitkolbenbeherrschung	ein	der	Meister in Riesenstreitkolbenbeherrschung	Meister in Riesenstreitkolbenbeherrschung	\d	die	
-_11ADF7B269809DA1	SFM2P	Zweihand Nahkampf mit Stichwaffen	Zweihand Nahkampf mit Stichwaffen	ein	der	Zweihand-Nahkampf mit Stichwaffen	Zweihand-Nahkampf mit Stichwaffen	\d	der	
-_DA260B769EF51070	SFM2PP	Pikenbeherrschung	Pikenbeherrschung	eine	die	Pikenbeherrschungen	Pikenbeherrschungen	\d	die	
+_301A7FEFCE1033BC	SFM2BMM	Riesenstreitkolben-Meister	Riesenstreitkolben-Meister	eine	die	Zweihand-Streitkolben-Meister	Zweihand-Streitkolben-Meister	\d	die	
+_11ADF7B269809DA1	SFM2P	Stichwaffen	Stichwaffen	ein	der	Zweihand-Nahkampf mit Stichwaffen	Zweihand-Nahkampf mit Stichwaffen	\d	der	
+_DA260B769EF51070	SFM2PP	Pike	Piken	eine	die	Pikenen	Pikenen	\d	die	
 _37ADF902A12397A4	SFM2PPL	Beherrschung der lebenden Pike	Beherrschung der lebenden Pike	eine	die	Beherrschungen der lebenden Pike	Beherrschungen der lebenden Pike	\d	die	
-_B8CE19F7DF4397AF	SFM2PPM	Meister in Pikenbeherrschung	Meister in Pikenbeherrschung	ein	der	Meister in Pikenbeherrschung	Meister in Pikenbeherrschung	\d	die	
-_53BDE7BA6940A9A7	SFM2S	Zweihand-Nahkampf mit scharfen Hiebwaffen	Zweihand-Nahkampf mit scharfen Hiebwaffen	ein	der	Zweihand-Nahkampf mit scharfen Hiebwaffen	Zweihand-Nahkampf mit scharfen Hiebwaffen	\d	der	
-_F8ED4DD3B04A51ED	SFM2SA	Langaxtbeherrschung	Langaxtbeherrschung	eine	die	Langaxtbeherrschung	Langaxtbeherrschungen	\d	die	
+_B8CE19F7DF4397AF	SFM2PPM	Piken-Meister	Piken-Meister	ein	der	Piken-Meister	Piken-Meister	\d	die	
+_53BDE7BA6940A9A7	SFM2S	Scharfe Hiebwaffen	Zweihand-Nahkampf mit scharfen Hiebwaffen	ein	der	Zweihand-Nahkampf mit scharfen Hiebwaffen	Zweihand-Nahkampf mit scharfen Hiebwaffen	\d	der	
+_F8ED4DD3B04A51ED	SFM2SA	Riesenaxt	Riesenaxt	eine	die	Langaxt	Langaxten	\d	die	
 _2CFAC7993848E3D5	SFM2SAB	Beherrschung der brennenden Langaxt	Beherrschung der brennenden Langaxt	eine	die	Beherrschungen der brennenden Langaxt	Beherrschungen der brennenden Langaxt	\d	die	
-_EDAB73465D5509C0	SFM2SAM	Meister in Langaxtbeherrschung	Meister in Langaxtbeherrschung	ein	der	Meister in Langaxtbeherrschung	Meister in Langaxtbeherrschung	\d	die	
-_F1DCBDCC6B38D1F9	SFM2SS	Langschwertbeherrschung	Langschwertbeherrschung	eine	die	Langschwertbeherrschungen	Langschwertbeherrschungen	\d	die	
+_EDAB73465D5509C0	SFM2SAM	Riesenaxt-Meister	Riesenaxt-Meister	ein	der	Langaxt-Meister	Langaxt-Meister	\d	die	
+_F1DCBDCC6B38D1F9	SFM2SS	Riesenschwert	Riesenschwert	eine	die	Langschwerten	Langschwerten	\d	die	
 _AAB855AC86495BC6	SFM2SSB	Beherrschung des brennenden Langschwertes	Beherrschung des brennenden Langschwertes	eine	die	Beherrschungen des brennenden Langschwertes	Beherrschungen des brennenden Langschwertes	\d	die	
 _2B882A40FCA567C1	SFM2SSL	Beherrschung des lebenden Langschwertes	Beherrschung des lebenden Langschwertes	eine	die	Beherrschungen des lebenden Langschwertes	Beherrschungen des lebenden Langschwertes	\d	die	
-_2DD80E41FC666FC3	SFM2SSM	Meister in Langschwertbeherrschung	Meister in Langschwertbeherrschung	ein	der	Meister in Langschwertbeherrschung	Meister in Langschwertbeherrschung	\d	die	
+_2DD80E41FC666FC3	SFM2SSM	Riesenschwert-Meister	Riesenschwert-Meister	ein	der	Langschwert-Meister	Langschwert-Meister	\d	die	
 _2B08364BFC5667C1	SFM2SSW	Beherrschung des wehenden Langschwertes	Beherrschung des wehenden Langschwertes	eine	die	Beherrschungen des wehenden Langschwertes	Beherrschungen des wehenden Langschwertes	\d	die	
-_3848BBF1F2187460	SFMC	Nahkampf ohne schwere Waffen	Nahkampf ohne schwere Waffen	ein	der	Nahkampf ohne schwere Waffen	Nahkampf ohne schwere Waffen	\d	der	
-_60988398DCA6C997	SFMCA	Fortgeschrittener im Nahkampf ohne schwere Waffen	Fortgeschrittener im Nahkampf ohne schwere Waffen	ein	der	Fortgeschrittene im Nahkampf ohne schwere Waffen	Fortgeschrittenen im Nahkampf ohne schwere Waffen	\d	die	
-_D6D5D066DF15B854	SFMCAD	Dolchbeherrschung	Dolchbeherrschung	eine	die	Dolchbeherrschungen	Dolchbeherrschungen	\d	die	
+_3848BBF1F2187460	SFMC	Ohne schwere Waffen	Nahkampf ohne schwere Waffen	ein	der	Nahkampf ohne schwere Waffen	Nahkampf ohne schwere Waffen	\d	der	
+_60988398DCA6C997	SFMCA	Erfahren ohne Waffen	Erfahren ohne Waffen	ein	der	Fortgeschrittene im Nahkampf ohne schwere Waffen	Fortgeschrittenen im Nahkampf ohne schwere Waffen	\d	die	
+_D6D5D066DF15B854	SFMCAD	Dolch	Dolch	eine	die	Dolchen	Dolchen	\d	die	
 _BA9DD135EFD7CCE9	SFMCADL	Beherrschung des lebenden Dolches	Beherrschung des lebenden Dolches	eine	die	Beherrschungen des lebenden Dolches	Beherrschungen des lebenden Dolches	\d	die	
-_3B1EA52E2FE7F8EB	SFMCADM	Meister in Dolchbeherrschung	Meister in Dolchbeherrschung	ein	der	Meister in Dolchbeherrschung	Meister in Dolchbeherrschung	\d	die	
+_3B1EA52E2FE7F8EB	SFMCADM	Dolch-Meister	Dolch-Meister	ein	der	Dolch-Meister	Dolch-Meister	\d	die	
 _BA9DB138B188CCE9	SFMCADW	Beherrschung des wehenden Dolches	Beherrschung des wehenden Dolches	eine	die	Beherrschungen des wehenden Dolches	Beherrschungen des wehenden Dolches	\d	die	
-_34255D0B60104BEF	SFMCAH	Experte in waffenloser Kampfkunst	Experte in waffenloser Kampfkunst	ein	der	Experten in waffenloser Kampfkunst	Experten in waffenloser Kampfkunst	\d	die	
-_EC1526CB91DCF82F	SFMCAHM	Meister in waffenloser Kampfkunst	Meister in waffenloser Kampfkunst	ein	der	Meister in waffenloser Kampfkunst	Meister in waffenloser Kampfkunst	\d	die	
+_34255D0B60104BEF	SFMCAH	Waffenloser Experte	Waffenloser Experte	ein	der	Experten in waffenloser Kampfkunst	Experten in waffenloser Kampfkunst	\d	die	
+_EC1526CB91DCF82F	SFMCAHM	Kungfu-Meister	Kungfu-Meister	ein	der	waffenloser-Meister Kampfkunst	waffenloser-Meister Kampfkunst	\d	die	
 _DF566C869829F4AB	SFR	Fernkampf	Fernkampf	ein	der	Fernkampf	Fernkampf	\d	der	
 _52E107D12040CC74	SFR1	Einhand-Fernkampf	Einhand-Fernkampf	ein	der	Einhand-Fernkampf	Einhand-Fernkampf	\d	der	
-_5D0320E36D6B5C49	SFR1A	Fortgeschrittener im Einhand-Fernkampf	Fortgeschrittener im Einhand-Fernkampf	ein	der	Fortgeschrittene im Einhand-Fernkampf	Fortgeschrittenen im Einhand-Fernkampf	\d	die	
-_5C8878F919A85063	SFR1AB	Bogenpistolenbeherrschung	Bogenpistolenbeherrschung	eine	die	Bogenpistolenbeherrschungen	Bogenpistolenbeherrschungen	\d	die	
-_8B428585BBF17573	SFR1ABM	Meister in Bogenpistolenbeherrschung	Meister in Bogenpistolenbeherrschung	ein	der	Meister in Bogenpistolenbeherrschung	Meister in Bogenpistolenbeherrschung	\d	die	
+_5D0320E36D6B5C49	SFR1A	Erfahren  im Fernkampf	Fortgeschrittener im Einhand-Fernkampf	ein	der	Fortgeschrittene im Einhand-Fernkampf	Fortgeschrittenen im Einhand-Fernkampf	\d	die	
+_5C8878F919A85063	SFR1AB	Bogenpistole	Bogenpistolen	eine	die	Bogenpistolenen	Bogenpistolenen	\d	die	
+_8B428585BBF17573	SFR1ABM	Bogenpistolen-Meister	Bogenpistolen-Meister	ein	der	Bogenpistolen-Meister	Bogenpistolen-Meister	\d	die	
 _4F91917A7FE18168	SFR1ABW	Beherrschung der wehenden Bogenpistole	Beherrschung der wehenden Bogenpistole	eine	die	Beherrschungen der wehenden Bogenpistole	Beherrschungen der wehenden Bogenpistole	\d	die	
-_1587247EE4D68763	SFR1AP	Pistolenbeherrschung	Pistolenbeherrschung	eine	die	Pistolenbeherrschungen	Pistolenbeherrschungen	\d	die	
+_1587247EE4D68763	SFR1AP	Pistole	Pistolen	eine	die	Pistolenen	Pistolenen	\d	die	
 _375F3549F498FCE3	SFR1APL	Beherrschung der lebenden Pistole	Beherrschung der lebenden Pistole	eine	die	Beherrschungen der lebenden Pistole	Beherrschungen der lebenden Pistole	\d	die	
-_B8E0094234A828E5	SFR1APM	Meister in Pistolenbeherrschung	Meister in Pistolenbeherrschung	ein	der	Meister in Pistolenbeherrschung	Meister in Pistolenbeherrschung	\d	die	
+_B8E0094234A828E5	SFR1APM	Pistolen-Meister	Pistolen-Meister	ein	der	Pistolen-Meister	Pistolen-Meister	\d	die	
 _92E107D12040CC76	SFR2	Zweihand-Fernkampf	Zweihand-Fernkampf	ein	der	Zweihand-Fernkampf	Zweihand Fernkampf	\d	der	
-_9D0320E46D7B5C49	SFR2A	Fortgeschrittener im Zweihand-Fernkampf	Fortgeschrittener im Zweihand-Fernkampf	ein	der	Fortgeschrittene im Zweihand-Fernkampf	Fortgeschrittenen im Zweihand-Fernkampf	\d	die	
-_761E05099FDCD5FF	SFR2AA	Automatikgewehrbeherrschung	Automatikgewehrbeherrschung	eine	die	Automatikgewehrbeherrschungen	Automatikgewehrbeherrschungen	\d	die	
+_9D0320E46D7B5C49	SFR2A	Erfahren im Fernkampf	Fortgeschrittener im Zweihand-Fernkampf	ein	der	Fortgeschrittene im Zweihand-Fernkampf	Fortgeschrittenen im Zweihand-Fernkampf	\d	die	
+_761E05099FDCD5FF	SFR2AA	Automatikgewehr	Automatikgewehr	eine	die	Automatikgewehren	Automatikgewehren	\d	die	
 _AA2B77F770A02BC7	SFR2AAB	Beherrschung des brennenden Automatikgewehrs	Beherrschung des brennenden Automatikgewehrs	eine	die	Beherrschungen des brennenden Automatikgewehrs	Beherrschungen des brennenden Automatikgewehrs	\d	die	
-_6DFBBBE198CF6583	SFR2AAM	Meister in Automatikgewehrbeherrschung	Meister in Automatikgewehrbeherrschung	ein	der	Meister in Automatikgewehrbeherrschung	Meister in Automatikgewehrbeherrschung	\d	die	
-_1D160C9E2205FC8C	SFR2AB	Bogengewehrbeherrschung	Bogengewehrbeherrschung	eine	die	Bogengewehrbeherrschungen	Bogengewehrbeherrschungen	\d	die	
+_6DFBBBE198CF6583	SFR2AAM	Automatikgewehr-Meister	Automatikgewehr-Meister	ein	der	Automatikgewehr-Meister	Automatikgewehr-Meister	\d	die	
+_1D160C9E2205FC8C	SFR2AB	Bogengewehr	Bogengewehr	eine	die	Bogengewehren	Bogengewehren	\d	die	
 _52D653A403717150	SFR2ABE	Beherrschung des elektrischen Bogengewehrs	Beherrschung des elektrischen Bogengewehrs	eine	die	Beherrschungen des elektrischen Bogengewehrs	Beherrschungen des elektrischen Bogengewehrs	\d	die	
-_CD131A1802CA9469	SFR2ABM	Meister in Bogengewehrbeherrschung	Meister in Bogengewehrbeherrschung	ein	der	Meister in Bogengewehrbeherrschung	Meister in Bogengewehrbeherrschung	\d	die	
-_1B56309520454883	SFR2AL	Granatenwerferbeherrschung	Granatenwerferbeherrschung	eine	die	Granatenwerferbeherrschungen	Granatenwerferbeherrschungen	\d	die	
+_CD131A1802CA9469	SFR2ABM	Bogengewehr-Meister	Bogengewehr-Meister	ein	der	Bogengewehr-Meister	Bogengewehr-Meister	\d	die	
+_1B56309520454883	SFR2AL	Granatenwerfer	Granatenwerfer	eine	die	Granatenwerferen	Granatenwerferen	\d	die	
 _3D708A732D6FA261	SFR2ALB	Beherrschung des brennenden Granatenwerfers	Beherrschung des brennenden Granatenwerfers	eine	die	Beherrschungen des brennenden Granatenwerfers	Beherrschungen des brennenden Granatenwerfers	\d	die	
 _D2560BACC3A1D543	SFR2ALE	Beherrschung des elektrischen Granatenwerfers	Beherrschung des elektrischen Granatenwerfers	eine	die	Beherrschungen des elektrischen Granatenwerfers	Beherrschungen des elektrischen Granatenwerfers	\d	die	
-_CED33223BD8AD85E	SFR2ALM	Meister in Granatenwerferbeherrschung	Meister in Granatenwerferbeherrschung	ein	der	Meister in Granatenwerferbeherrschung	Meister in Granatenwerferbeherrschung	\d	die	
-_C9667C75A1260469	SFR2AR	Gewehrbeherrschung	Gewehrbeherrschung	eine	die	Gewehrbeherrschungen	Gewehrbeherrschungen	\d	die	
+_CED33223BD8AD85E	SFR2ALM	Granatenwerfer-Meister	Granatenwerfer-Meister	ein	der	Granatenwerfer-Meister	Granatenwerfer-Meister	\d	die	
+_C9667C75A1260469	SFR2AR	Gewehr	Gewehr	eine	die	Gewehren	Gewehren	\d	die	
 _F6FD2DF1DABA8BF7	SFR2ARL	Beherrschung des lebenden Gewehrs	Beherrschung des lebenden Gewehrs	eine	die	Beherrschungen des lebenden Gewehrs	Beherrschungen des lebenden Gewehrs	\d	die	
-_725F15E15ACA8B0D	SFR2ARM	Meister in Gewehrbeherrschung	Meister in Gewehrbeherrschung	ein	der	Meister in Gewehrbeherrschung	Meister in Gewehrbeherrschung	\d	die	
+_725F15E15ACA8B0D	SFR2ARM	Gewehr-Meister	Gewehr-Meister	ein	der	Gewehr-Meister	Gewehr-Meister	\d	die	
 _DDBA87931433927E	SCA	Rüstungsherstellung	Rüstungsherstellung	eine	die	Rüstungsherstellungen	Rüstungsherstellungen	\d	die	Rüstungs-Herstellung
 _D2364393A262BA4D	SCJ	Schmuckherstellung	Schmuckherstellung	eine	die	Schmuckherstellungen	Schmuckherstellungen	\d	die	Schmuck-Herstellung
-_5884EFEF58C66171	SCM	Nahkampfwaffenherstellung	Nahkampfwaffenherstellung	eine	die	Nahkampfwaffenherstellungen	Nahkampfwaffenherstellungen	\d	die	Nahkampfwaffen-Herstellung
-_99D5EFEF58264977	SCR	Fernkampfwaffenherstellung	Fernkampfwaffenherstellung	eine	die	Fernkampfwaffenherstellungen	Fernkampfwaffenherstellungen	\d	die	Fernkampfwaffen-Herstellung
-_5FD19B322A25F58F	SCAH	Herstellung schwerer Rüstungen	Herstellung schwerer Rüstungen	eine	die	Herstellungen schwerer Rüstungen	Herstellungen schwerer Rüstungen	\d	die	Schwere Rüstungs-Herstellung
-_61D19B28E3042D9B	SCAL	Herstellung leichter Rüstungen	Herstellung leichter Rüstungen	eine	die	Herstellungen leichter Rüstungen	Herstellungen leichter Rüstungen	\d	die	Leichte Rüstungs-Herstellung
-_77DF38E12DB84933	SCAM	Herstellung mittelschwerer Rüstungen	Herstellung mittelschwerer Rüstungen	eine	die	Herstellungen mittelschwerer Rüstungen	Herstellungen mittelschwerer Rüstungen	\d	die	Mittelschwere Rüstungs-Herstellung
-_64C5AB99E1F93AE4	SCAS	Schildherstellung	Schildherstellung	eine	die	Schildherstellungen	Schildherstellungenen	\d	die	Schild-Herstellung
-_A37377C336061BC0	SCJA	Fußringherstellung	Fußringherstellung	eine	die	Fußringherstellungen	Fußringherstellungen	\d	die	Fußring-Herstellung
-_093FE329F1ECAFD4	SCJB	Armbandherstellung	Armbandherstellung	eine	die	Armbandherstellungen	Armbandherstellungen	\d	die	Armband-Herstellung
-_DD557393DE0922DD	SCJD	Diademherstellung	Diademherstellung	eine	die	Diademherstellungen	Diademherstellungen	\d	die	Diadem-Herstellung
-_601FBCF9F83DCB49	SCJE	Ohrringherstellung	Ohrringherstellung	eine	die	Ohrringherstellungen	Ohrringherstellungen	\d	die	Ohrring-Herstellung
-_8B9BF406615BCBA0	SCJP	Anhängerherstellung	Anhängerherstellung	eine	die	Anhängerherstellungen	Anhängerherstellungen	\d	die	Anhänger-Herstellung
-_58C1D9845E363A44	SCJR	Ringherstellung	Ringherstellung	eine	die	Ringherstellungen	Ringherstellungen	\d	die	Ring-Herstellung
-_DA2E7E3FCA164940	SCM1	Herstellung einhändiger Nahkampfwaffen	Herstellung einhändiger Nahkampfwaffen	eine	die	Herstellungen einhändiger Nahkampfwaffen	Herstellungen einhändiger Nahkampfwaffen	\d	die	Einhand-Nahkampfwaffen Herstellung
-_1ACEA244CA56914A	SCM2	Herstellung zweihändiger Nahkampfwaffen	Herstellung zweihändiger Nahkampfwaffen	eine	die	Herstellungen zweihändiger Nahkampfwaffen	Herstellungen zweihändiger Nahkampfwaffen	\d	die	Zweihand-Nahkampfwaffen Herstellung
-_1BBF8E374C36513C	SCR1	Herstellung einhändiger Fernkampfwaffen	Herstellung einhändiger Fernkampfwaffen	eine	die	Herstellungen einhändiger Fernkampfwaffen	Herstellungen einhändiger Fernkampfwaffen	\d	die	Einhand-Fernkampfwaffen Herstellung
-_5B5FB23C4C769946	SCR2	Herstellung zweihändiger Fernkampfwaffen	Herstellung zweihändiger Fernkampfwaffen	eine	die	Herstellungen zweihändiger Fernkampfwaffen	Herstellungen zweihändiger Fernkampfwaffen	\d	die	Zweihand-Fernkampfwaffen-Herstellung
-_C96D90091C99697C	SCAHB	Herstellung schwerer Stiefel	Herstellung schwerer Stiefel	eine	die	Herstellungen schwerer Stiefel	Herstellungen schwerer Stiefel	\d	die	Schwere Stiefel-Herstellung
-_697ECD0831C40D56	SCAHG	Herstellung schwerer Handschuhe	Herstellung schwerer Handschuhe	eine	die	Herstellungen schwerer Handschuhe	Herstellungen schwerer Handschuhe	\d	die	Schwere Handschuhe-Herstellung
-_AA7ED509ADD3C952	SCAHH	Herstellung schwerer Helme	Herstellung schwerer Helme	eine	die	Herstellungen schwerer Helme	Herstellungen schwerer Helme	\d	die	Schwere Helm-Herstellung
-_4E4E90091C99616D	SCAHP	Herstellung schwerer Hosen	Herstellung schwerer Hosen	eine	die	Herstellungen schwerer Hosen	Herstellungen schwerer Hosen	\d	die	Schwere Hosen-Herstellung
-_33A56AD5E544A4A6	SCAHS	Herstellung schwerer Armschützer	Herstellung schwerer Armschützer	eine	die	Herstellungen schwerer Armschützer	Herstellungen schwerer Armschützer	\d	die	Schwere Armschützer-Herstellung
-_20CE8C7C23CF983B	SCAHV	Herstellung schwerer Westen	Herstellung schwerer Westen	eine	die	Herstellungen schwerer Westen	Herstellungen schwerer Westen	\d	die	Schwere Westen-Herstellung
-_CA6D68E89B799980	SCALB	Herstellung leichter Stiefel	Herstellung leichter Stiefel	eine	die	Herstellungen leichter Stiefel	Herstellungen leichter Stiefel	\d	die	Leichte Stiefel-Herstellung
-_6ADE4906B4841D56	SCALG	Herstellung leichter Handschuhe	Herstellung leichter Handschuhe	eine	die	Herstellungen leichter Handschuhe	Herstellungen leichter Handschuhe	\d	die	Leichte Handschuhe-Herstellung
-_4F4E68E89B799171	SCALP	Herstellung leichter Hosen	Herstellung leichter Hosen	eine	die	Herstellungen leichter Hosen	Herstellungen leichter Hosen	\d	die	Leichte Hosen-Herstellung
-_70247ECF6784B4A1	SCALS	Herstellung leichter Armschützer	Herstellung leichter Armschützer	eine	die	Herstellungen leichter Armschützer	Herstellungen leichter Armschützer	\d	die	Leichte Armschützer-Herstellung
-_220E7869211F8045	SCALV	Herstellung leichter Westen	Herstellung leichter Westen	eine	die	Herstellungen leichter Westen	Herstellungen leichter Westen	\d	die	Leichte Westen-Herstellung
-_87D2551F32F3D1D9	SCAMB	Herstellung mittelschwerer Stiefel	Herstellung mittelschwerer Stiefel	eine	die	Herstellungen mittelschwerer Stiefel	Herstellungen mittelschwerer Stiefel	\d	die	Mittelschwere Stiefel-Herstellung
-_64D88EDE5F5F3CBE	SCAMG	Herstellung mittelschwerer Handschuhe	Herstellung mittelschwerer Handschuhe	eine	die	Herstellungen mittelschwerer Handschuhe	Herstellungen mittelschwerer Handschuhe	\d	die	Mittelschwere Handschuhe-Herstellung
-_87D2551FB22309F5	SCAMP	Herstellung mittelschwerer Hosen	Herstellung mittelschwerer Hosen	eine	die	Herstellungen mittelschwerer Hosen	Herstellungen mittelschwerer Hosen	\d	die	Mittelschwere Hosen-Herstellung
-_5ACABAE0F7050ABC	SCAMS	Herstellung mittelschwerer Armschützer	Herstellung mittelschwerer Armschützer	eine	die	Herstellungen mittelschwerer Armschützer	Herstellungen mittelschwerer Armschützer	\d	die	Mittelschwere Armschützer-Herstellung
-_B4F3A5EBDDB93D59	SCAMV	Herstellung mittelschwerer Westen	Herstellung mittelschwerer Westen	eine	die	Herstellungen mittelschwerer Westen	Herstellungen mittelschwerer Westen	\d	die	Mittelschwere Westen-Herstellung
-_4FD0C50DE565E120	SCASS	Herstellung großer Schilde	Herstellung großer Schilde	eine	die	Herstellungen großer Schilde	Herstellungen großer Schilde	\d	die	Große Schilde-Herstellung
-_7511B0F0F4FDBB1F	SCASB	Beschützerherstellung	Beschützerherstellung	eine	die	Beschützerherstellungen	Beschützerherstellungen	\d	die	Beschützer-Herstellung
-_9179C666C8DB74C1	SCJAA	Fortgeschrittener in Fußringherstellung	Fortgeschrittener in Fußringherstellung	eine	die	Fortgeschrittene in Fußringherstellung	Fortgeschrittenen in Fußringherstellung	\d	die	Verbesserte Fußring-Herstellung
-_4F6173BE58DD91EA	SCJBA	Fortgeschrittener in Armbandherstellung	Fortgeschrittener in Armbandherstellung	eine	die	Fortgeschrittene in Armbandherstellung	Fortgeschrittenen in Armbandherstellung	\d	die	Verbesserte Armband-Herstellung
-_8F79864B46BB4CBC	SCJDA	Fortgeschrittener in Diademherstellung	Fortgeschrittener in Diademherstellung	eine	die	Fortgeschrittene in Diademherstellung	Fortgeschrittenen in Diademherstellung	\d	die	Verbesserte Diadem-Herstellung
-_A802E327352F5D1A	SCJEA	Fortgeschrittener in Ohrringsherstellung	Fortgeschrittener in Ohrringsherstellung	eine	die	Fortgeschrittene in Ohrringsherstellung	Fortgeschrittenen in Ohrringsherstellung	\d	die	Verbesserte Ohrring-Herstellung
-_E812BB26B3706D2A	SCJPA	Fortgeschrittener in Anhängerherstellung	Fortgeschrittener in Anhängerherstellung	eine	die	Fortgeschrittene in Anhängerherstellung	Fortgeschrittenen in Anhängerherstellung	\d	die	Verbesserte Anhänger-Herstellung
-_7667998865D69400	SCJRA	Fortgeschrittener in Ringherstellung	Fortgeschrittener in Ringherstellung	eine	die	Fortgeschrittene in Ringherstellung	Fortgeschrittenen in Ringherstellung	\d	die	Verbesserte Ring-Herstellung
-_C20EC6BE1CD10262	SCM1M	Streitkolben-Herstellung	Streitkolben-Herstellung	eine	die	Streitkolben-Herstellungen	Streitkolben-Herstellungen	\d	die	Streitkolben-Herstellung
-_9BA51FB096E46E95	SCM1T	Stabherstellung	Stabherstellung	eine	die	Stabherstellungen	Stabherstellungen	\d	die	Stab-Herstellung
-_5D954FA797A46E9D	SCM1P	Lanzenherstellung	Lanzenherstellung	eine	die	Lanzenherstellungen	Lanzenherstellungen	\d	die	Lanzen-/Speer-Herstellung
-_CF83C9346095DA3B	SCM1A	Axtherstellung	Axtherstellung	eine	die	Axtherstellungen	Axtherstellungen	\d	die	Axt-Herstellung
-_1E465BBF19146E92	SCM1S	Schwertherstellung	Schwertherstellung	eine	die	Schwertherstellungen	Schwertherstellungen	\d	die	Schwert-Herstellung
-_D328F3D3EF169B83	SCM1D	Dolchherstellung	Dolchherstellung	eine	die	Dolchherstellungen	Dolchherstellungen	\d	die	Dolch-Herstellung
-_A9427FC01B1BA614	SCM2M	Zweihand-Streitkolben-Herstellung	Zweihand-Streitkolben-Herstellung	eine	die	Zweihand-Streitkolben-Herstellung	Zweihand-Streitkolben-Herstellungen	\d	die	Zweihand Streitkolben-Herstellung
-_020EC6CE22B30E65	SCM2P	Pikenherstellung	Pikenherstellung	eine	die	Pikenherstellungen	Pikenherstellungen	\d	die	Piken-Herstellung
-_0E465ABD275ADD87	SCM2A	Zweihand-Axt-Herstellung	Zweihand-Axt-Herstellung	eine	die	Zweihand-Axt-Herstellungen	Zweihand-Axt-Herstellungen	\d	die	Zweihand-Axt-Herstellung
-_509D1AE6B27DF93B	SCM2S	Zweihand-Schwert-Herstellung	Zweihand-Schwert-Herstellung	eine	die	Zweihand-Schwert-Herstellungen	Zweihand-Schwert-Herstellungen	\d	die	Zweihand-Schwert-Herstellung
-_844F549E45B094DA	SCR1B	Bogenpistolenherstellung	Bogenpistolenherstellung	eine	die	Bogenpistolenherstellungen	Bogenpistolenherstellungen	\d	die	Bogenpistolen-Herstellung
-_199A3BEC7136E7A5	SCR1P	Pistolenherstellung	Pistolenherstellung	eine	die	Pistolenherstellungen	Pistolenherstellungen	\d	die	Pistolen-Herstellung
-_188BF14452C8A940	SCR2A	Automatikgewehr-Herstellung	Automatikgewehr-Herstellung	eine	die	Automatikgewehr-Herstellungen	Automatikgewehr-Herstellungen	\d	die	Automatikgewehr-Herstellung
-_7F6A7C4CF7D8573B	SCR2B	Bogengewehr-Herstellung	Bogengewehr-Herstellung	eine	die	Bogengewehr-Herstellungen	Bogengewehr-Herstellungen	\d	die	Bogengewehr-Herstellung
-_BBCA883F7538A349	SCR2L	Granatenwerfer-Herstellung	Granatenwerfer-Herstellung	eine	die	Granatenwerfer-Herstellungen	Granatenwerfer-Herstellungen	\d	die	Granatenwerfer-Herstellung
-_1DA603AA97336A92	SCR2R	Gewehrherstellung	Gewehrherstellung	eine	die	Gewehrherstellungen	Gewehrherstelluneng	\d	die	Gewehr-Herstellung
-_9C7ED03161F4F41B	SCAHBE	Experte in der Herstellung schwerer Stiefel	Experte in der Herstellung schwerer Stiefel	ein	der	Experten in der Herstellung schwerer Stiefel	Experten in der Herstellung schwerer Stiefel	\d	die	Fachmännische Schwere Stiefel-Herstellung
-_52495B88B6E6EF2A	SCAHGE	Experte in der Herstellung schwerer Handschuhe	Experte in der Herstellung schwerer Handschuhe	ein	der	Experten in der Herstellung schwerer Handschuhe	Experten in der Herstellung schwerer Handschuhe	\d	die	Fachmännische Schwere Handschuh-Herstellung
-_D4495F8A7494BB1E	SCAHHE	Experte in der Herstellung schwerer Helme	Experte in der Herstellung schwerer Helme	ein	der	Experten in der Herstellung schwerer Helme	Experten in der Herstellung schwerer Helme	\d	die	Fachmännische Schwere Helm-Herstellung
-_649E083161F4EC0D	SCAHPE	Experte in der Herstellung schwerer Hosen	Experte in der Herstellung schwerer Hosen	ein	der	Experten in der Herstellung schwerer Hosen	Experten in der Herstellung schwerer Hosen	\d	die	Fachmännische Schwere Hosen-Herstellung
-_87692DF1685048F1	SCAHSE	Experte in der Herstellung schwerer Armschützer	Experte in der Herstellung schwerer Armschützer	ein	der	Experten in der Herstellung schwerer Armschützer	Experten in der Herstellung schwerer Armschützer	\d	die	Fachmännische Schwere Armschützer-Herstellung
-_4C83FF8E482B1F01	SCAHVE	Experte in der Herstellung schwerer Westen	Experte in der Herstellung schwerer Westen	ein	der	Experten in der Herstellung schwerer Westen	Experten in der Herstellung schwerer Westen	\d	die	Fachmännische Schwere Westen-Herstellung
-_9E7EA81522932C1F	SCALBE	Experte in der Herstellung leichter Stiefel	Experte in der Herstellung leichter Stiefel	ein	der	Experten in der Herstellung leichter Stiefel	Experten in der Herstellung leichter Stiefel	\d	die	Fachmännische Leichte Stiefel-Herstellung
-_53F9FB72B9A60F2A	SCALGE	Experte in der Herstellung leichter Handschuhe	Experte in der Herstellung leichter Handschuhe	ein	der	Experten in der Herstellung leichter Handschuhe	Experten in der Herstellung leichter Handschuhe	\d	die	Fachmännische Leichte Handschuh-Herstellung
-_669EE01522932411	SCALPE	Experte in der Herstellung leichter Hosen	Experte in der Herstellung leichter Hosen	ein	der	Experten in der Herstellung leichter Hosen	Experten in der Herstellung leichter Hosen	\d	die	Fachmännische Leichte Hosen-Herstellung
-_06A749EBEB9058F1	SCALSE	Experte in der Herstellung leichter Armschützer	Experte in der Herstellung leichter Armschützer	ein	der	Experten in der Herstellung leichter Armschützer	Experten in der Herstellung leichter Armschützer	\d	die	Fachmännische Leichte Armschützer-Herstellung
-_CEC3FB7B46CB2BF7	SCALVE	Experte in der Herstellung leichter Westen	Experte in der Herstellung leichter Westen	ein	der	Experten in der Herstellung leichter Westen	Experten in der Herstellung leichter Westen	\d	die	Fachmännische Leichte Westen-Herstellung
-_54B10780FE546FAA	SCAMBE	Experte in der Herstellung mittelschwerer Stiefel	Experte in der Herstellung mittelschwerer Stiefel	ein	der	Experten in der Herstellung mittelschwerer Stiefel	Experten in der Herstellung mittelschwerer Stiefel	\d	die	Fachmännische Mittelschwere Stiefel-Herstellung
-_FA9B35F82F4CDE5A	SCAMGE	Experte in der Herstellung mittelschwerer Handschuhe	Experte in der Herstellung mittelschwerer Handschuhe	ein	der	Experten in der Herstellung mittelschwerer Handschuhe	Experten in der Herstellung mittelschwerer Handschuhe	\d	die	Fachmännische Mittelschwere Handschuh-Herstellung
-_54B10780BE5437D4	SCAMPE	Experte in der Herstellung mittelschwerer Hosen	Experte in der Herstellung mittelschwerer Hosen	ein	der	Experten in der Herstellung mittelschwerer Hosen	Experten in der Herstellung mittelschwerer Hosen	\d	die	Fachmännische Mittelschwere Hosen-Herstellung
-_B2CDB9C4123825D5	SCAMSE	Experte in der Herstellung mittelschwerer Armschützer	Experte in der Herstellung mittelschwerer Armschützer	ein	der	Experten in der Herstellung mittelschwerer Armschützer	Experten in der Herstellung mittelschwerer Armschützer	\d	die	Fachmännische Mittelschwere Armschützer-Herstellung
-_8C9527646403DCFC	SCAMVE	Experte in der Herstellung mittelschwerer Westen	Experte in der Herstellung mittelschwerer Westen	ein	der	Experten in der Herstellung mittelschwerer Westen	Experten in der Herstellung mittelschwerer Westen	\d	die	Fachmännische Mittelschwere Westen-Herstellung
-_75DADE911E49E29A	SCASSE	Experte in der Schildherstellung	Experte in der Schildherstellung	ein	der	Experten in der Schildherstellung	Experten in der Schildherstellung	\d	die	Fachmännische Schild-Herstellung
-_2FF9F3E350EEBA56	SCASBE	Experte in der Beschützerherstellung	Experte in der Beschützerherstellung	ein	der	Experten in der Beschützerherstellung	Experten in der Beschützerherstellung	\d	die	Fachmännische Beschützer-Herstellung
-_33EB92869EAABE88	SCJAAE	Experte in der Fußringherstellung	Experte in der Fußringherstellung	ein	der	Experten in der Fußringherstellung	Experten in der Fußringherstellung	\d	die	Fachmännische Fußring-Herstellung
-_0AFE3E719386C9F8	SCJBAE	Experte in der Armbandherstellung	Experte in der Armbandherstellung	ein	der	Experten in der Armbandherstellung	Experten in der Armbandherstellung	\d	die	Fachmännische Armband-Herstellung
-_708A8A811CE9AE80	SCJDAE	Experte in der Diademherstellung	Experte in der Diademherstellung	ein	der	Experten in der Diademherstellung	Experten in der Diademherstellung	\d	die	Fachmännische Diadem-Herstellung
-_6ED8C7F390AEF648	SCJEAE	Experte in der Ohrringsherstellung	Experte in der Ohrringsherstellung	ein	der	Experten in der Ohrringsherstellung	Experten in der Ohrringsherstellung	\d	die	Fachmännische Ohrring-Herstellung
-_371807E5D10DF23E	SCJPAE	Experte in der Anhängerherstellung	Experte in der Anhängerherstellung	ein	der	Experten in der Anhängerherstellung	Experten in der Anhängerherstellung	\d	die	Fachmännische Anhänger-Herstellung
-_2A3E882CEE431405	SCJRAE	Experte in der Ringherstellung	Experte in der Ringherstellung	ein	der	Experten in der Ringherstellung	Experten in der Ringherstellung	\d	die	Fachmännische Ring-Herstellung
-_E26E801D66F2EC11	SCM1ME	Experte in der Streitkolben-Herstellung	Experte in der Streitkolben-Herstellung	ein	der	Experten in der Streitkolben-Herstellung	Experten in der Streitkolben-Herstellung	\d	die	Fachmännische Streitkolben-Herstellung
-_AB7962D09D5F4546	SCM1TE	Experte in der Stabherstellung	Experte in der Stabherstellung	ein	der	Experten in der Stabherstellung	Experten in der Stabherstellung	\d	die	Fachmännische Stab Herstellung
-_B1D9B2C39E1F4542	SCM1PE	Experte in der Lanzenherstellung	Experte in der Lanzenherstellung	ein	der	Experten in der Lanzenherstellung	Experten in der Lanzenherstellung	\d	die	Fachmännische Lanzen-/Speer-Herstellung
-_1944FD254D6185DB	SCM1AE	Experte in der Axtherstellung	Experte in der Axtherstellung	ein	der	Experten in der Axtherstellung	Experten in der Axtherstellung	\d	die	Fachmännische Axt Herstellung
-_ABFBCAE2208F4545	SCM1SE	Experte in der Schwertherstellung	Experte in der Schwertherstellung	ein	der	Experten in der Schwertherstellung	Experten in der Schwertherstellung	\d	die	Fachmännische Schwert-Herstellung
-_ECEB6A849DBAC286	SCM1DE	Experte in der Dolchherstellung	Experte in der Dolchherstellung	ein	der	Experten in der Dolchherstellung	Experten in der Dolchherstellung	\d	die	Fachmännische Dolch Herstellung
-_285BCAB50A3ABC3A	SCM2ME	Experte in der Zweihand-Streitkolben-Herstellung	Experte in der Zweihand-Streitkolben-Herstellung	ein	der	Experten in der Zweihand-Streitkolben-Herstellung	Experten in der Zweihand-Streitkolben-Herstellung	\d	die	Fachmännische Zweihand-Streitkolben-Herstellung
-_226E80256C230414	SCM2PE	Experte in der Pikenherstellung	Experte in der Pikenherstellung	ein	der	Experten in der Pikenherstellung	Experten in der Pikenherstellung	\d	die	Fachmännische Pike Herstellung
-_935915645B8CD569	SCM2AE	Experte in der Zweihand-Axt-Herstellung	Experte in der Zweihand-Axt-Herstellung	ein	der	Experten in der Zweihand-Axt-Herstellung	Experte in der Zweihand-Axt-Herstellung	\d	die	Fachmännische Zweihand-Axt-Herstellung
-_1C316126C159F7E0	SCM2SE	Experte in der Zweihand-Schwert-Herstellung	Experte in der Zweihand-Schwert-Herstellung	ein	der	Experten in der Zweihand-Schwert-Herstellung	Experten in der Zweihand-Schwert-Herstellung	\d	die	Fachmännische Zweihand-Schwert-Herstellung
-_4D32DB99CD0B97C0	SCR1BE	Experte in der Bogenpistolenherstellung	Experte in der Bogenpistolenherstellung	ein	der	Experten in der Bogenpistolenherstellung	Experten in der Bogenpistolenherstellung	\d	die	Fachmännische Bogenpistole Herstellung
-_331CE29DA0D902A9	SCR1PE	Experte in der Pistolenherstellung	Experte in der Pistolenherstellung	ein	der	Experten in der Pistolenherstellung	Experten in der Pistolenherstellung	\d	die	Fachmännische Pistole Herstellung
-_34B1D38BC1F65F56	SCR2AE	Experte in der Automatikgewehr-Herstellung	Experte in der Automatikgewehr-Herstellung	ein	der	Experten in der Automatikgewehr-Herstellung	Experten in der Automatikgewehr-Herstellung	\d	die	Fachmännische Automatikgewehr-Herstellung
-_C9BF22961B6405F1	SCR2BE	Experte in der Bogengewehr-Herstellung	Experte in der Bogengewehr-Herstellung	ein	der	Experten in der Bogengewehr-Herstellung	Experten in der Bogengewehr-Herstellung	\d	die	Fachmännische Bogengewehr Herstellung
-_C29F26879C444513	SCR2LE	Experte in der Granatenwerfer-Herstellung	Experte in der Granatenwerfer-Herstellung	ein	der	Experten in der Granatenwerfer-Herstellung	Experten in der Granatenwerfer-Herstellung	\d	die	Fachmännische Granatenwerfer-Herstellung
-_6B8A86C05EAE4144	SCR2RE	Experte in der Gewehrherstellung	Experte in der Gewehrherstellung	ein	der	Experten in der Gewehrherstellung	Experten in der Gewehrherstellung	\d	die	Fachmännische Gewehr Herstellung
-_139FBB5D95B2BF43	SCAHBEM	Meister in der Herstellung schwerer Stiefel	Meister in der Herstellung schwerer Stiefel	ein	der	Meister in der Herstellung schwerer Stiefel	Meister in der Herstellung schwerer Stiefel	\d	die	Meisterliche Schwere Stiefel-Herstellung
-_F24C383D2FC22E66	SCAHGEM	Meister in der Herstellung schwerer Handschuhe	Meister in der Herstellung schwerer Handschuhe	ein	der	Meister in der Herstellung schwerer Handschuhe	Meister in der Herstellung schwerer Handschuhe	\d	die	Meisterliche Schwere Handschuh-Herstellung
-_334C403EABD1EA62	SCAHHEM	Meister in der Herstellung schwerer Helme	Meister in der Herstellung schwerer Helme	ein	der	Meister in der Herstellung schwerer Helme	Meister in der Herstellung schwerer Helme	\d	die	Meisterliche Schwere Helm-Herstellung
-_57BFF35D95A28351	SCAHPEM	Meister in der Herstellung schwerer Hosen	Meister in der Herstellung schwerer Hosen	ein	der	Meister in der Herstellung schwerer Hosen	Meister in der Herstellung schwerer Hosen	\d	die	Meisterliche Schwere Hosen-Herstellung
-_382355F9D6AEF7D4	SCAHSEM	Meister in der Herstellung schwerer Armschützer	Meister in der Herstellung schwerer Armschützer	ein	der	Meister in der Herstellung schwerer Armschützer	Meister in der Herstellung schwerer Armschützer	\d	die	Meisterliche Schwere Armschützer-Herstellung
-_F4A9075C9437CE39	SCAHVEM	Meister in der Herstellung schwerer Westen	Meister in der Herstellung schwerer Westen	ein	der	Meister in der Herstellung schwerer Westen	Meister in der Herstellung schwerer Westen	\d	die	Meisterliche Schwere Westen-Herstellung
-_154F6F55D651E747	SCALBEM	Meister in der Herstellung leichter Stiefel	Meister in der Herstellung leichter Stiefel	ein	der	Meister in der Herstellung leichter Stiefel	Meister in der Herstellung leichter Stiefel	\d	die	Meisterliche Leichte Stiefel-Herstellung
-_F3ACB43BB2823E66	SCALGEM	Meister in der Herstellung leichter Handschuhe	Meister in der Herstellung leichter Handschuhe	ein	der	Meister in der Herstellung leichter Handschuhe	Meister in der Herstellung leichter Handschuhe	\d	die	Meisterliche Leichte Handschuh-Herstellung
-_596FA755D641AB55	SCALPEM	Meister in der Herstellung leichter Hosen	Meister in der Herstellung leichter Hosen	ein	der	Meister in der Herstellung leichter Hosen	Meister in der Herstellung leichter Hosen	\d	die	Meisterliche Leichte Hosen-Herstellung
-_B7114D07D9EEF7D4	SCALSEM	Meister in der Herstellung leichter Armschützer	Meister in der Herstellung leichter Armschützer	ein	der	Meister in der Herstellung leichter Armschützer	Meister in der Herstellung leichter Armschützer	\d	die	Meisterliche Leichte Armschützer-Herstellung
-_7699DF5D12D7CA2F	SCALVEM	Meister in der Herstellung leichter Westen	Meister in der Herstellung leichter Westen	ein	der	Meister in der Herstellung leichter Westen	Meister in der Herstellung leichter Westen	\d	die	Meisterliche Leichte Westen-Herstellung
-_10A0C05430F1F2E9	SCAMBEM	Meister in der Herstellung mittelschwerer Stiefel	Meister in der Herstellung mittelschwerer Stiefel	ein	der	Meister in der Herstellung mittelschwerer Stiefel	Meister in der Herstellung mittelschwerer Stiefel	\d	die	Meisterliche Mittelschwere Stiefel-Herstellung
-_CA4139105ECAC92F	SCAMGEM	Meister in der Herstellung mittelschwerer Handschuhe	Meister in der Herstellung mittelschwerer Handschuhe	ein	der	Meister in der Herstellung mittelschwerer Handschuhe	Meister in der Herstellung mittelschwerer Handschuhe	\d	die	Meisterliche Mittelschwere Handschuh-Herstellung
-_10A0C054B0212A05	SCAMPEM	Meister in der Herstellung mittelschwerer Hosen	Meister in der Herstellung mittelschwerer Hosen	ein	der	Meister in der Herstellung mittelschwerer Hosen	Meister in der Herstellung mittelschwerer Hosen	\d	die	Meisterliche Mittelschwere Hosen-Herstellung
-_D14C5191C5C624E9	SCAMSEM	Meister in der Herstellung mittelschwerer Armschützer	Meister in der Herstellung mittelschwerer Armschützer	ein	der	Meister in der Herstellung mittelschwerer Armschützer	Meister in der Herstellung mittelschwerer Armschützer	\d	die	Meisterliche Mittelschwere Armschützer-Herstellung
-_DEA2EEA15581571B	SCAMVEM	Meister in der Herstellung mittelschwerer Westen	Meister in der Herstellung mittelschwerer Westen	ein	der	Meister in der Herstellung mittelschwerer Westen	Meister in der Herstellung mittelschwerer Westen	\d	die	Meisterliche Mittelschwere Westen-Herstellung
-_7E39467851982DE1	SCASSEM	Meister in der Schildherstellung	Meister in der Schildherstellung	ein	der	Meister in der Schildherstellung	Meister in der Schildherstellung	\d	die	Meisterliche Schild-Herstellung
-_21BAE7BA91D79C0C	SCASBEM	Meister in der Beschützerherstellung	Meister in der Beschützerherstellung	ein	der	Meister in der Beschützerherstellung	Meister in der Beschützerherstellung	\d	die	Meisterliche Beschützer-Herstellung
-_40D93268D27851CF	SCJAAEM	Meister in der Fußringherstellung	Meister in der Fußringherstellung	ein	der	Meister in der Fußringherstellung	Meister in der Fußringherstellung	\d	die	Meisterliche Fußring-Herstellung
-_4CFC9672F4A2B91F	SCJBAEM	Meister in der Armbandherstellung	Meister in der Armbandherstellung	ein	der	Meister in der Armbandherstellung	Meister in der Armbandherstellung	\d	die	Meisterliche Armband-Herstellung
-_BBE90A61913735C7	SCJDAEM	Meister in der Diademherstellung	Meister in der Diademherstellung	ein	der	Meister in der Diademherstellung	Meister in der Diademherstellung	\d	die	Meisterliche Diadem-Herstellung
-_65D9E3D20808CCF3	SCJEAEM	Meister in der Ohrringsherstellung	Meister in der Ohrringsherstellung	ein	der	Meister in der Ohrringsherstellung	Meister in der Ohrringsherstellung	\d	die	Meisterliche Ohrring-Herstellung
-_EA990BCE4BD89CF6	SCJPAEM	Meister in der Anhängerherstellung	Meister in der Anhängerherstellung	ein	der	Meister in der Anhängerherstellung	Meister in der Anhängerherstellung	\d	die	Meisterliche Anhänger-Herstellung
-_93AC410BE1F13766	SCJRAEM	Meister in der Ringherstellung	Meister in der Ringherstellung	ein	der	Meister in der Ringherstellung	Meister in der Ringherstellung	\d	die	Meisterliche Ring-Herstellung
-_4BDC31F31ACF2372	SCM1MEM	Meister in der Streitkolben-Herstellung	Meister in der Streitkolben-Herstellung	ein	der	Meister in der Streitkolben-Herstellung	Meister in der Streitkolben-Herstellung	\d	die	Meisterliche Streitkolben-Herstellung
-_28CDCED7137DAC42	SCM1TEM	Meister in der Stabherstellung	Meister in der Stabherstellung	ein	der	Meister in der Stabherstellung	Meister in der Stabherstellung	\d	die	Meisterliche Stab-Herstellung
-_2EEEDAD3127DAC3E	SCM1PEM	Meister in der Lanzenherstellung	Meister in der Lanzenherstellung	ein	der	Meister in der Lanzenherstellung	Meister in der Lanzenherstellung	\d	die	Meisterliche Lanzen-/Speer-Herstellung
-_18D0F45804CF6C30	SCM1AEM	Meister in der Axtherstellung	Meister in der Axtherstellung	ein	der	Meister in der Axtherstellung	Meister in der Axtherstellung	\d	die	Meisterliche Axt-Herstellung
-_282F6EEBD37DAC41	SCM1SEM	Meister in der Schwertherstellung	Meister in der Schwertherstellung	ein	der	Meister in der Schwertherstellung	Meister in der Schwertherstellung	\d	die	Meisterliche Schwert-Herstellung
-_78F9F6678F8849CD	SCM1DEM	Meister in der Dolchherstellung	Meister in der Dolchherstellung	ein	der	Meister in der Dolchherstellung	Meister in der Dolchherstellung	\d	die	Meisterliche Dolch-Herstellung
-_99FC85A9D93452ED	SCM2MEM	Meister in der Zweihand-Streitkolben-Herstellung	Meister in der Zweihand-Streitkolben-Herstellung	ein	der	Meister in der Zweihand-Streitkolben-Herstellung	Meister in der Zweihand-Streitkolben-Herstellung	\d	die	Meisterliche Zweihand-Streitkolben-Herstellung
-_8BDC310320B12F75	SCM2PEM	Meister in der Pikenherstellung	Meister in der Pikenherstellung	ein	der	Meister in der Pikenherstellung	Meister in der Pikenherstellung	\d	die	Meisterliche Piken-Herstellung
-_99D9D068E10A18BA	SCM2AEM	Meister in der Zweihand-Axt-Herstellung	Meister in der Zweihand-Axt-Herstellung	ein	der	Meister in der Zweihand-Axt-Herstellung	Meister in der Zweihand-Axt-Herstellung	\d	die	Meisterliche Zweihand-Axt-Herstellung
-_98904438F1565B2E	SCM2SEM	Meister in der Zweihand-Schwert-Herstellung	Meister in der Zweihand-Schwert-Herstellung	ein	der	Meister in der Zweihand-Schwert-Herstellung	Meister in der Zweihand-Schwert-Herstellung	\d	die	Meisterliche Zweihand-Schwert-Herstellung
-_88910F507D1DA21D	SCR1BEM	Meister in der Bogenpistolenherstellung	Meister in der Bogenpistolenherstellung	ein	der	Meister in der Bogenpistolenherstellung	Meister in der Bogenpistolenherstellung	\d	die	Meisterliche Bogenpistolen-Herstellung
-_3E2B7A7F91E859F0	SCR1PEM	Meister in der Pistolenherstellung	Meister in der Pistolenherstellung	ein	der	Meister in der Pistolenherstellung	Meister in der Pistolenherstellung	\d	die	Meisterliche Pistolen-Herstellung
-_98CFC45BF682F2BE	SCR2AEM	Meister in der Automatikgewehr-Herstellung	Meister in der Automatikgewehr-Herstellung	ein	der	Meister in der Automatikgewehr-Herstellung	Meister in der Automatikgewehr-Herstellung	\d	die	Meisterliche Automatikgewehr-Herstellung
-_C75DA69E36B1B92E	SCR2BEM	Meister in der Bogengewehr-Herstellung	Meister in der Bogengewehr-Herstellung	ein	der	Meister in der Bogengewehr-Herstellung	Meister in der Bogengewehr-Herstellung	\d	die	Meisterliche Bogengewehr-Herstellung
-_03BDB291B411053C	SCR2LEM	Meister in der Granatenwerfer-Herstellung	Meister in der Granatenwerfer-Herstellung	ein	der	Meister in der Granatenwerfer-Herstellung	Meister in der Granatenwerfer-Herstellung	\d	die	Meisterliche Granatenwerfer-Herstellung
-_E8CE0EC6D06DAC40	SCR2REM	Meister in der Gewehrherstellung	Meister in der Gewehrherstellung	ein	der	Meister in der Gewehrherstellung	Meister in der Gewehrherstellung	\d	die	Meisterliche Gewehr-Herstellung
+_5884EFEF58C66171	SCM	Nahkampfwaffen	Nahkampfwaffen	eine	die	Nahkampfwaffenherstellungen	Nahkampfwaffenherstellungen	\d	die	Nahkampfwaffen-Herstellung
+_99D5EFEF58264977	SCR	Fernkampfwaffen	Fernkampfwaffen	eine	die	Fernkampfwaffenherstellungen	Fernkampfwaffenherstellungen	\d	die	Fernkampfwaffen-Herstellung
+_5FD19B322A25F58F	SCAH	Schwere Rüstungen	Schwere Rüstungen	eine	die	Herstellungen schwerer Rüstungen	Herstellungen schwerer Rüstungen	\d	die	Schwere Rüstungs-Herstellung
+_61D19B28E3042D9B	SCAL	Leichte Rüstungen	Leichte Rüstungen	eine	die	Herstellungen leichter Rüstungen	Herstellungen leichter Rüstungen	\d	die	Leichte Rüstungs-Herstellung
+_77DF38E12DB84933	SCAM	Mittelschwere Rüstungen	Mittelschwere Rüstungen	eine	die	Herstellungen mittelschwerer Rüstungen	Herstellungen mittelschwerer Rüstungen	\d	die	Mittelschwere Rüstungs-Herstellung
+_64C5AB99E1F93AE4	SCAS	Schild	Schild	eine	die	Schildherstellungen	Schildherstellungenen	\d	die	Schild-Herstellung
+_A37377C336061BC0	SCJA	Fußring	Fußring	eine	die	Fußringherstellungen	Fußringherstellungen	\d	die	Fußring-Herstellung
+_093FE329F1ECAFD4	SCJB	Armband	Armband	eine	die	Armbandherstellungen	Armbandherstellungen	\d	die	Armband-Herstellung
+_DD557393DE0922DD	SCJD	Diadem	Diadem	eine	die	Diademherstellungen	Diademherstellungen	\d	die	Diadem-Herstellung
+_601FBCF9F83DCB49	SCJE	Ohrring	Ohrring	eine	die	Ohrringherstellungen	Ohrringherstellungen	\d	die	Ohrring-Herstellung
+_8B9BF406615BCBA0	SCJP	Anhänger	Anhänger	eine	die	Anhängerherstellungen	Anhängerherstellungen	\d	die	Anhänger-Herstellung
+_58C1D9845E363A44	SCJR	Ring	Ring	eine	die	Ringherstellungen	Ringherstellungen	\d	die	Ring-Herstellung
+_DA2E7E3FCA164940	SCM1	Einhändige Nahkampfwaffen	einhändiger Nahkampfwaffen	eine	die	Herstellungen einhändiger Nahkampfwaffen	Herstellungen einhändiger Nahkampfwaffen	\d	die	Einhand-Nahkampfwaffen Herstellung
+_1ACEA244CA56914A	SCM2	Zweihändige Nahkampfwaffen	zweihändiger Nahkampfwaffen	eine	die	Herstellungen zweihändiger Nahkampfwaffen	Herstellungen zweihändiger Nahkampfwaffen	\d	die	Zweihand-Nahkampfwaffen Herstellung
+_1BBF8E374C36513C	SCR1	Einhändige Fernkampfwaffen	einhändiger Fernkampfwaffen	eine	die	Herstellungen einhändiger Fernkampfwaffen	Herstellungen einhändiger Fernkampfwaffen	\d	die	Einhand-Fernkampfwaffen Herstellung
+_5B5FB23C4C769946	SCR2	Zweihändige Fernkampfwaffen	zweihändiger Fernkampfwaffen	eine	die	Herstellungen zweihändiger Fernkampfwaffen	Herstellungen zweihändiger Fernkampfwaffen	\d	die	Zweihand-Fernkampfwaffen-Herstellung
+_C96D90091C99697C	SCAHB	Schwere Stiefel	schwerer Stiefel	eine	die	Herstellungen schwerer Stiefel	Herstellungen schwerer Stiefel	\d	die	Schwere Stiefel-Herstellung
+_697ECD0831C40D56	SCAHG	Schwere Handschuhe	schwerer Handschuhe	eine	die	Herstellungen schwerer Handschuhe	Herstellungen schwerer Handschuhe	\d	die	Schwere Handschuhe-Herstellung
+_AA7ED509ADD3C952	SCAHH	Schwere Helme	schwerer Helme	eine	die	Herstellungen schwerer Helme	Herstellungen schwerer Helme	\d	die	Schwere Helm-Herstellung
+_4E4E90091C99616D	SCAHP	Schwere Hosen	schwerer Hosen	eine	die	Herstellungen schwerer Hosen	Herstellungen schwerer Hosen	\d	die	Schwere Hosen-Herstellung
+_33A56AD5E544A4A6	SCAHS	Schwere Armschützer	schwerer Armschützer	eine	die	Herstellungen schwerer Armschützer	Herstellungen schwerer Armschützer	\d	die	Schwere Armschützer-Herstellung
+_20CE8C7C23CF983B	SCAHV	Schwere Westen	schwerer Westen	eine	die	Herstellungen schwerer Westen	Herstellungen schwerer Westen	\d	die	Schwere Westen-Herstellung
+_CA6D68E89B799980	SCALB	Leichte Stiefel	leichter Stiefel	eine	die	Herstellungen leichter Stiefel	Herstellungen leichter Stiefel	\d	die	Leichte Stiefel-Herstellung
+_6ADE4906B4841D56	SCALG	Leichte Handschuhe	leichter Handschuhe	eine	die	Herstellungen leichter Handschuhe	Herstellungen leichter Handschuhe	\d	die	Leichte Handschuhe-Herstellung
+_4F4E68E89B799171	SCALP	Leichte Hosen	leichter Hosen	eine	die	Herstellungen leichter Hosen	Herstellungen leichter Hosen	\d	die	Leichte Hosen-Herstellung
+_70247ECF6784B4A1	SCALS	Leichte Armschützer	leichter Armschützer	eine	die	Herstellungen leichter Armschützer	Herstellungen leichter Armschützer	\d	die	Leichte Armschützer-Herstellung
+_220E7869211F8045	SCALV	Leichte Westen	leichter Westen	eine	die	Herstellungen leichter Westen	Herstellungen leichter Westen	\d	die	Leichte Westen-Herstellung
+_87D2551F32F3D1D9	SCAMB	Mittelschwere Stiefel	mittelschwerer Stiefel	eine	die	Herstellungen mittelschwerer Stiefel	Herstellungen mittelschwerer Stiefel	\d	die	Mittelschwere Stiefel-Herstellung
+_64D88EDE5F5F3CBE	SCAMG	Mittelschwere Handschuhe	mittelschwerer Handschuhe	eine	die	Herstellungen mittelschwerer Handschuhe	Herstellungen mittelschwerer Handschuhe	\d	die	Mittelschwere Handschuhe-Herstellung
+_87D2551FB22309F5	SCAMP	Mittelschwere Hosen	mittelschwerer Hosen	eine	die	Herstellungen mittelschwerer Hosen	Herstellungen mittelschwerer Hosen	\d	die	Mittelschwere Hosen-Herstellung
+_5ACABAE0F7050ABC	SCAMS	Mittelschwere Armschützer	mittelschwerer Armschützer	eine	die	Herstellungen mittelschwerer Armschützer	Herstellungen mittelschwerer Armschützer	\d	die	Mittelschwere Armschützer-Herstellung
+_B4F3A5EBDDB93D59	SCAMV	Mittelschwere Westen	mittelschwerer Westen	eine	die	Herstellungen mittelschwerer Westen	Herstellungen mittelschwerer Westen	\d	die	Mittelschwere Westen-Herstellung
+_4FD0C50DE565E120	SCASS	Große Schilde	großer Schilde	eine	die	Herstellungen großer Schilde	Herstellungen großer Schilde	\d	die	Große Schilde-Herstellung
+_7511B0F0F4FDBB1F	SCASB	Beschützer	Beschützerherstellung	eine	die	Beschützerherstellungen	Beschützerherstellungen	\d	die	Beschützer-Herstellung
+_9179C666C8DB74C1	SCJAA	Erfahren im Fußring	Fortgeschrittene Fußringherstellung	eine	die	Fortgeschrittene in Fußringherstellung	Fortgeschrittenen in Fußringherstellung	\d	die	Verbesserte Fußring-Herstellung
+_4F6173BE58DD91EA	SCJBA	Erfahren im Armband	Fortgeschrittene Armbandherstellung	eine	die	Fortgeschrittene in Armbandherstellung	Fortgeschrittenen in Armbandherstellung	\d	die	Verbesserte Armband-Herstellung
+_8F79864B46BB4CBC	SCJDA	Erfahren im Diadem	Fortgeschrittene Diademherstellung	eine	die	Fortgeschrittene in Diademherstellung	Fortgeschrittenen in Diademherstellung	\d	die	Verbesserte Diadem-Herstellung
+_A802E327352F5D1A	SCJEA	Erfahren im Ohrrings	Fortgeschrittene Ohrringsherstellung	eine	die	Fortgeschrittene in Ohrringsherstellung	Fortgeschrittenen in Ohrringsherstellung	\d	die	Verbesserte Ohrring-Herstellung
+_E812BB26B3706D2A	SCJPA	Erfahren im Anhänger	Fortgeschrittene Anhängerherstellung	eine	die	Fortgeschrittene in Anhängerherstellung	Fortgeschrittenen in Anhängerherstellung	\d	die	Verbesserte Anhänger-Herstellung
+_7667998865D69400	SCJRA	Erfahren im Ring	Fortgeschrittene Ringherstellung	eine	die	Fortgeschrittene in Ringherstellung	Fortgeschrittenen in Ringherstellung	\d	die	Verbesserte Ring-Herstellung
+_C20EC6BE1CD10262	SCM1M	Streitkolben	Streitkolben-Herstellung	eine	die	Streitkolben-Herstellungen	Streitkolben-Herstellungen	\d	die	Streitkolben-Herstellung
+_9BA51FB096E46E95	SCM1T	Stab	Stabherstellung	eine	die	Stabherstellungen	Stabherstellungen	\d	die	Stab-Herstellung
+_5D954FA797A46E9D	SCM1P	Lanzen	Lanzenherstellung	eine	die	Lanzenherstellungen	Lanzenherstellungen	\d	die	Lanzen-/Speer-Herstellung
+_CF83C9346095DA3B	SCM1A	Axt	Axtherstellung	eine	die	Axtherstellungen	Axtherstellungen	\d	die	Axt-Herstellung
+_1E465BBF19146E92	SCM1S	Schwert	Schwertherstellung	eine	die	Schwertherstellungen	Schwertherstellungen	\d	die	Schwert-Herstellung
+_D328F3D3EF169B83	SCM1D	Dolch	Dolchherstellung	eine	die	Dolchherstellungen	Dolchherstellungen	\d	die	Dolch-Herstellung
+_A9427FC01B1BA614	SCM2M	Zweihand-Streitkolben	Zweihand-Streitkolben-Herstellung	eine	die	Zweihand-Streitkolben-Herstellung	Zweihand-Streitkolben-Herstellungen	\d	die	Zweihand Streitkolben-Herstellung
+_020EC6CE22B30E65	SCM2P	Pike	Pikenherstellung	eine	die	Pikenherstellungen	Pikenherstellungen	\d	die	Piken-Herstellung
+_0E465ABD275ADD87	SCM2A	Zweihand-Axt	Zweihand-Axt-Herstellung	eine	die	Zweihand-Axt-Herstellungen	Zweihand-Axt-Herstellungen	\d	die	Zweihand-Axt-Herstellung
+_509D1AE6B27DF93B	SCM2S	Zweihand-Schwert	Zweihand-Schwert-Herstellung	eine	die	Zweihand-Schwert-Herstellungen	Zweihand-Schwert-Herstellungen	\d	die	Zweihand-Schwert-Herstellung
+_844F549E45B094DA	SCR1B	Bogenpistole	Bogenpistolenherstellung	eine	die	Bogenpistolenherstellungen	Bogenpistolenherstellungen	\d	die	Bogenpistolen-Herstellung
+_199A3BEC7136E7A5	SCR1P	Pistole	Pistolenherstellung	eine	die	Pistolenherstellungen	Pistolenherstellungen	\d	die	Pistolen-Herstellung
+_188BF14452C8A940	SCR2A	Automatikgewehr	Automatikgewehr-Herstellung	eine	die	Automatikgewehr-Herstellungen	Automatikgewehr-Herstellungen	\d	die	Automatikgewehr-Herstellung
+_7F6A7C4CF7D8573B	SCR2B	Bogengewehr	Bogengewehr-Herstellung	eine	die	Bogengewehr-Herstellungen	Bogengewehr-Herstellungen	\d	die	Bogengewehr-Herstellung
+_BBCA883F7538A349	SCR2L	Granatenwerfer	Granatenwerfer-Herstellung	eine	die	Granatenwerfer-Herstellungen	Granatenwerfer-Herstellungen	\d	die	Granatenwerfer-Herstellung
+_1DA603AA97336A92	SCR2R	Gewehr	Gewehrherstellung	eine	die	Gewehrherstellungen	Gewehrherstelluneng	\d	die	Gewehr-Herstellung
+_9C7ED03161F4F41B	SCAHBE	Experte schwerer Stiefel	Experte in der Herstellung schwerer Stiefel	ein	der	Experten in der Herstellung schwerer Stiefel	Experten in der Herstellung schwerer Stiefel	\d	die	Fachmännische Schwere Stiefel-Herstellung
+_52495B88B6E6EF2A	SCAHGE	Experte schwerer Handschuhe	Experte in der Herstellung schwerer Handschuhe	ein	der	Experten in der Herstellung schwerer Handschuhe	Experten in der Herstellung schwerer Handschuhe	\d	die	Fachmännische Schwere Handschuh-Herstellung
+_D4495F8A7494BB1E	SCAHHE	Experte schwerer Helme	Experte in der Herstellung schwerer Helme	ein	der	Experten in der Herstellung schwerer Helme	Experten in der Herstellung schwerer Helme	\d	die	Fachmännische Schwere Helm-Herstellung
+_649E083161F4EC0D	SCAHPE	Experte schwerer Hosen	Experte in der Herstellung schwerer Hosen	ein	der	Experten in der Herstellung schwerer Hosen	Experten in der Herstellung schwerer Hosen	\d	die	Fachmännische Schwere Hosen-Herstellung
+_87692DF1685048F1	SCAHSE	Experte schwerer Armschützer	Experte in der Herstellung schwerer Armschützer	ein	der	Experten in der Herstellung schwerer Armschützer	Experten in der Herstellung schwerer Armschützer	\d	die	Fachmännische Schwere Armschützer-Herstellung
+_4C83FF8E482B1F01	SCAHVE	Experte schwerer Westen	Experte in der Herstellung schwerer Westen	ein	der	Experten in der Herstellung schwerer Westen	Experten in der Herstellung schwerer Westen	\d	die	Fachmännische Schwere Westen-Herstellung
+_9E7EA81522932C1F	SCALBE	Experte leichter Stiefel	Experte in der Herstellung leichter Stiefel	ein	der	Experten in der Herstellung leichter Stiefel	Experten in der Herstellung leichter Stiefel	\d	die	Fachmännische Leichte Stiefel-Herstellung
+_53F9FB72B9A60F2A	SCALGE	Experte leichter Handschuhe	Experte in der Herstellung leichter Handschuhe	ein	der	Experten in der Herstellung leichter Handschuhe	Experten in der Herstellung leichter Handschuhe	\d	die	Fachmännische Leichte Handschuh-Herstellung
+_669EE01522932411	SCALPE	Experte leichter Hosen	Experte in der Herstellung leichter Hosen	ein	der	Experten in der Herstellung leichter Hosen	Experten in der Herstellung leichter Hosen	\d	die	Fachmännische Leichte Hosen-Herstellung
+_06A749EBEB9058F1	SCALSE	Experte leichter Armschützer	Experte in der Herstellung leichter Armschützer	ein	der	Experten in der Herstellung leichter Armschützer	Experten in der Herstellung leichter Armschützer	\d	die	Fachmännische Leichte Armschützer-Herstellung
+_CEC3FB7B46CB2BF7	SCALVE	Experte leichter Westen	Experte in der Herstellung leichter Westen	ein	der	Experten in der Herstellung leichter Westen	Experten in der Herstellung leichter Westen	\d	die	Fachmännische Leichte Westen-Herstellung
+_54B10780FE546FAA	SCAMBE	Experte mittlerer Stiefel	Experte in der Herstellung mittelschwerer Stiefel	ein	der	Experten in der Herstellung mittelschwerer Stiefel	Experten in der Herstellung mittelschwerer Stiefel	\d	die	Fachmännische Mittelschwere Stiefel-Herstellung
+_FA9B35F82F4CDE5A	SCAMGE	Experte mittlerer Handschuhe	Experte in der Herstellung mittelschwerer Handschuhe	ein	der	Experten in der Herstellung mittelschwerer Handschuhe	Experten in der Herstellung mittelschwerer Handschuhe	\d	die	Fachmännische Mittelschwere Handschuh-Herstellung
+_54B10780BE5437D4	SCAMPE	Experte mittlerer Hosen	Experte in der Herstellung mittelschwerer Hosen	ein	der	Experten in der Herstellung mittelschwerer Hosen	Experten in der Herstellung mittelschwerer Hosen	\d	die	Fachmännische Mittelschwere Hosen-Herstellung
+_B2CDB9C4123825D5	SCAMSE	Experte mittlerer Armschützer	Experte in der Herstellung mittelschwerer Armschützer	ein	der	Experten in der Herstellung mittelschwerer Armschützer	Experten in der Herstellung mittelschwerer Armschützer	\d	die	Fachmännische Mittelschwere Armschützer-Herstellung
+_8C9527646403DCFC	SCAMVE	Experte mittlerer Westen	Experte in der Herstellung mittelschwerer Westen	ein	der	Experten in der Herstellung mittelschwerer Westen	Experten in der Herstellung mittelschwerer Westen	\d	die	Fachmännische Mittelschwere Westen-Herstellung
+_75DADE911E49E29A	SCASSE	Experte im Schild	Experte in der Schildherstellung	ein	der	Experten in der Schildherstellung	Experten in der Schildherstellung	\d	die	Fachmännische Schild-Herstellung
+_2FF9F3E350EEBA56	SCASBE	Experte im Beschützer	Experte in der Beschützerherstellung	ein	der	Experten in der Beschützerherstellung	Experten in der Beschützerherstellung	\d	die	Fachmännische Beschützer-Herstellung
+_33EB92869EAABE88	SCJAAE	Experte im Fußring	Experte in der Fußringherstellung	ein	der	Experten in der Fußringherstellung	Experten in der Fußringherstellung	\d	die	Fachmännische Fußring-Herstellung
+_0AFE3E719386C9F8	SCJBAE	Experte im Armband	Experte in der Armbandherstellung	ein	der	Experten in der Armbandherstellung	Experten in der Armbandherstellung	\d	die	Fachmännische Armband-Herstellung
+_708A8A811CE9AE80	SCJDAE	Experte im Diadem	Experte in der Diademherstellung	ein	der	Experten in der Diademherstellung	Experten in der Diademherstellung	\d	die	Fachmännische Diadem-Herstellung
+_6ED8C7F390AEF648	SCJEAE	Experte im Ohrring	Experte in der Ohrringsherstellung	ein	der	Experten in der Ohrringsherstellung	Experten in der Ohrringsherstellung	\d	die	Fachmännische Ohrring-Herstellung
+_371807E5D10DF23E	SCJPAE	Experte im Anhänger	Experte in der Anhängerherstellung	ein	der	Experten in der Anhängerherstellung	Experten in der Anhängerherstellung	\d	die	Fachmännische Anhänger-Herstellung
+_2A3E882CEE431405	SCJRAE	Experte im Ring	Experte in der Ringherstellung	ein	der	Experten in der Ringherstellung	Experten in der Ringherstellung	\d	die	Fachmännische Ring-Herstellung
+_E26E801D66F2EC11	SCM1ME	Experte im Streitkolben	Experte in der Streitkolben-Herstellung	ein	der	Experten in der Streitkolben-Herstellung	Experten in der Streitkolben-Herstellung	\d	die	Fachmännische Streitkolben-Herstellung
+_AB7962D09D5F4546	SCM1TE	Experte im Stab	Experte in der Stabherstellung	ein	der	Experten in der Stabherstellung	Experten in der Stabherstellung	\d	die	Fachmännische Stab Herstellung
+_B1D9B2C39E1F4542	SCM1PE	Experte in Lanze	Experte in der Lanzenherstellung	ein	der	Experten in der Lanzenherstellung	Experten in der Lanzenherstellung	\d	die	Fachmännische Lanzen-/Speer-Herstellung
+_1944FD254D6185DB	SCM1AE	Experte im Axt	Experte in der Axtherstellung	ein	der	Experten in der Axtherstellung	Experten in der Axtherstellung	\d	die	Fachmännische Axt Herstellung
+_ABFBCAE2208F4545	SCM1SE	Experte im Schwert	Experte in der Schwertherstellung	ein	der	Experten in der Schwertherstellung	Experten in der Schwertherstellung	\d	die	Fachmännische Schwert-Herstellung
+_ECEB6A849DBAC286	SCM1DE	Experte im Dolch	Experte in der Dolchherstellung	ein	der	Experten in der Dolchherstellung	Experten in der Dolchherstellung	\d	die	Fachmännische Dolch Herstellung
+_285BCAB50A3ABC3A	SCM2ME	Experte im Zweihand-Streitkolben	Experte in der Zweihand-Streitkolben-Herstellung	ein	der	Experten in der Zweihand-Streitkolben-Herstellung	Experten in der Zweihand-Streitkolben-Herstellung	\d	die	Fachmännische Zweihand-Streitkolben-Herstellung
+_226E80256C230414	SCM2PE	Experte im Piken	Experte in der Pikenherstellung	ein	der	Experten in der Pikenherstellung	Experten in der Pikenherstellung	\d	die	Fachmännische Pike Herstellung
+_935915645B8CD569	SCM2AE	Experte in Riesenaxt	Experte in der Zweihand-Axt-Herstellung	ein	der	Experten in der Zweihand-Axt-Herstellung	Experte in der Zweihand-Axt-Herstellung	\d	die	Fachmännische Zweihand-Axt-Herstellung
+_1C316126C159F7E0	SCM2SE	Experte i Riesenschwert	Experte in der Zweihand-Schwert-Herstellung	ein	der	Experten in der Zweihand-Schwert-Herstellung	Experten in der Zweihand-Schwert-Herstellung	\d	die	Fachmännische Zweihand-Schwert-Herstellung
+_4D32DB99CD0B97C0	SCR1BE	Experte in Bogenpistole	Experte in der Bogenpistolenherstellung	ein	der	Experten in der Bogenpistolenherstellung	Experten in der Bogenpistolenherstellung	\d	die	Fachmännische Bogenpistole Herstellung
+_331CE29DA0D902A9	SCR1PE	Experte im Pistolen	Experte in der Pistolenherstellung	ein	der	Experten in der Pistolenherstellung	Experten in der Pistolenherstellung	\d	die	Fachmännische Pistole Herstellung
+_34B1D38BC1F65F56	SCR2AE	Experte im Automatikgewehr	Experte in der Automatikgewehr-Herstellung	ein	der	Experten in der Automatikgewehr-Herstellung	Experten in der Automatikgewehr-Herstellung	\d	die	Fachmännische Automatikgewehr-Herstellung
+_C9BF22961B6405F1	SCR2BE	Experte im Bogengewehr	Experte in der Bogengewehr-Herstellung	ein	der	Experten in der Bogengewehr-Herstellung	Experten in der Bogengewehr-Herstellung	\d	die	Fachmännische Bogengewehr Herstellung
+_C29F26879C444513	SCR2LE	Experte im Granatenwerfer	Experte in der Granatenwerfer-Herstellung	ein	der	Experten in der Granatenwerfer-Herstellung	Experten in der Granatenwerfer-Herstellung	\d	die	Fachmännische Granatenwerfer-Herstellung
+_6B8A86C05EAE4144	SCR2RE	Experte im Gewehr	Experte in der Gewehrherstellung	ein	der	Experten in der Gewehrherstellung	Experten in der Gewehrherstellung	\d	die	Fachmännische Gewehr Herstellung
+_139FBB5D95B2BF43	SCAHBEM	Meister schwerer Stiefel	Meister in der Herstellung schwerer Stiefel	ein	der	Meister in der Herstellung schwerer Stiefel	Meister in der Herstellung schwerer Stiefel	\d	die	Meisterliche Schwere Stiefel-Herstellung
+_F24C383D2FC22E66	SCAHGEM	Meister schwerer Handschuhe	Meister in der Herstellung schwerer Handschuhe	ein	der	Meister in der Herstellung schwerer Handschuhe	Meister in der Herstellung schwerer Handschuhe	\d	die	Meisterliche Schwere Handschuh-Herstellung
+_334C403EABD1EA62	SCAHHEM	Meister schwerer Helme	Meister in der Herstellung schwerer Helme	ein	der	Meister in der Herstellung schwerer Helme	Meister in der Herstellung schwerer Helme	\d	die	Meisterliche Schwere Helm-Herstellung
+_57BFF35D95A28351	SCAHPEM	Meister schwerer Hosen	Meister in der Herstellung schwerer Hosen	ein	der	Meister in der Herstellung schwerer Hosen	Meister in der Herstellung schwerer Hosen	\d	die	Meisterliche Schwere Hosen-Herstellung
+_382355F9D6AEF7D4	SCAHSEM	Meister schwerer Armschützer	Meister in der Herstellung schwerer Armschützer	ein	der	Meister in der Herstellung schwerer Armschützer	Meister in der Herstellung schwerer Armschützer	\d	die	Meisterliche Schwere Armschützer-Herstellung
+_F4A9075C9437CE39	SCAHVEM	Meister schwerer Westen	Meister in der Herstellung schwerer Westen	ein	der	Meister in der Herstellung schwerer Westen	Meister in der Herstellung schwerer Westen	\d	die	Meisterliche Schwere Westen-Herstellung
+_154F6F55D651E747	SCALBEM	Meister leichter Stiefel	Meister in der Herstellung leichter Stiefel	ein	der	Meister in der Herstellung leichter Stiefel	Meister in der Herstellung leichter Stiefel	\d	die	Meisterliche Leichte Stiefel-Herstellung
+_F3ACB43BB2823E66	SCALGEM	Meister leichter Handschuhe	Meister in der Herstellung leichter Handschuhe	ein	der	Meister in der Herstellung leichter Handschuhe	Meister in der Herstellung leichter Handschuhe	\d	die	Meisterliche Leichte Handschuh-Herstellung
+_596FA755D641AB55	SCALPEM	Meister leichter Hosen	Meister in der Herstellung leichter Hosen	ein	der	Meister in der Herstellung leichter Hosen	Meister in der Herstellung leichter Hosen	\d	die	Meisterliche Leichte Hosen-Herstellung
+_B7114D07D9EEF7D4	SCALSEM	Meister leichter Armschützer	Meister in der Herstellung leichter Armschützer	ein	der	Meister in der Herstellung leichter Armschützer	Meister in der Herstellung leichter Armschützer	\d	die	Meisterliche Leichte Armschützer-Herstellung
+_7699DF5D12D7CA2F	SCALVEM	Meister leichter Westen	Meister in der Herstellung leichter Westen	ein	der	Meister in der Herstellung leichter Westen	Meister in der Herstellung leichter Westen	\d	die	Meisterliche Leichte Westen-Herstellung
+_10A0C05430F1F2E9	SCAMBEM	Meister mittlerer Stiefel	Meister in der Herstellung mittelschwerer Stiefel	ein	der	Meister in der Herstellung mittelschwerer Stiefel	Meister in der Herstellung mittelschwerer Stiefel	\d	die	Meisterliche Mittelschwere Stiefel-Herstellung
+_CA4139105ECAC92F	SCAMGEM	Meister mittlerer Handschuhe	Meister in der Herstellung mittelschwerer Handschuhe	ein	der	Meister in der Herstellung mittelschwerer Handschuhe	Meister in der Herstellung mittelschwerer Handschuhe	\d	die	Meisterliche Mittelschwere Handschuh-Herstellung
+_10A0C054B0212A05	SCAMPEM	Meister mittlerer Hosen	Meister in der Herstellung mittelschwerer Hosen	ein	der	Meister in der Herstellung mittelschwerer Hosen	Meister in der Herstellung mittelschwerer Hosen	\d	die	Meisterliche Mittelschwere Hosen-Herstellung
+_D14C5191C5C624E9	SCAMSEM	Meister mittlerer Armschützer	Meister in der Herstellung mittelschwerer Armschützer	ein	der	Meister in der Herstellung mittelschwerer Armschützer	Meister in der Herstellung mittelschwerer Armschützer	\d	die	Meisterliche Mittelschwere Armschützer-Herstellung
+_DEA2EEA15581571B	SCAMVEM	Meister mittlerer Westen	Meister in der Herstellung mittelschwerer Westen	ein	der	Meister in der Herstellung mittelschwerer Westen	Meister in der Herstellung mittelschwerer Westen	\d	die	Meisterliche Mittelschwere Westen-Herstellung
+_7E39467851982DE1	SCASSEM	Meister im Schild	Meister in der Schildherstellung	ein	der	Meister in der Schildherstellung	Meister in der Schildherstellung	\d	die	Meisterliche Schild-Herstellung
+_21BAE7BA91D79C0C	SCASBEM	Meister im Beschützer	Meister in der Beschützerherstellung	ein	der	Meister in der Beschützerherstellung	Meister in der Beschützerherstellung	\d	die	Meisterliche Beschützer-Herstellung
+_40D93268D27851CF	SCJAAEM	Meister im Fußring	Meister in der Fußringherstellung	ein	der	Meister in der Fußringherstellung	Meister in der Fußringherstellung	\d	die	Meisterliche Fußring-Herstellung
+_4CFC9672F4A2B91F	SCJBAEM	Meister im Armband	Meister in der Armbandherstellung	ein	der	Meister in der Armbandherstellung	Meister in der Armbandherstellung	\d	die	Meisterliche Armband-Herstellung
+_BBE90A61913735C7	SCJDAEM	Meister im Diadem	Meister in der Diademherstellung	ein	der	Meister in der Diademherstellung	Meister in der Diademherstellung	\d	die	Meisterliche Diadem-Herstellung
+_65D9E3D20808CCF3	SCJEAEM	Meister im Ohrrings	Meister in der Ohrringsherstellung	ein	der	Meister in der Ohrringsherstellung	Meister in der Ohrringsherstellung	\d	die	Meisterliche Ohrring-Herstellung
+_EA990BCE4BD89CF6	SCJPAEM	Meister im Anhänger	Meister in der Anhängerherstellung	ein	der	Meister in der Anhängerherstellung	Meister in der Anhängerherstellung	\d	die	Meisterliche Anhänger-Herstellung
+_93AC410BE1F13766	SCJRAEM	Meister im Ring	Meister in der Ringherstellung	ein	der	Meister in der Ringherstellung	Meister in der Ringherstellung	\d	die	Meisterliche Ring-Herstellung
+_4BDC31F31ACF2372	SCM1MEM	Meister im Streitkolben-	Meister in der Streitkolben-Herstellung	ein	der	Meister in der Streitkolben-Herstellung	Meister in der Streitkolben-Herstellung	\d	die	Meisterliche Streitkolben-Herstellung
+_28CDCED7137DAC42	SCM1TEM	Meister im Stab	Meister in der Stabherstellung	ein	der	Meister in der Stabherstellung	Meister in der Stabherstellung	\d	die	Meisterliche Stab-Herstellung
+_2EEEDAD3127DAC3E	SCM1PEM	Meister im Lanzen	Meister in der Lanzenherstellung	ein	der	Meister in der Lanzenherstellung	Meister in der Lanzenherstellung	\d	die	Meisterliche Lanzen-/Speer-Herstellung
+_18D0F45804CF6C30	SCM1AEM	Meister im Axt	Meister in der Axtherstellung	ein	der	Meister in der Axtherstellung	Meister in der Axtherstellung	\d	die	Meisterliche Axt-Herstellung
+_282F6EEBD37DAC41	SCM1SEM	Meister im Schwert	Meister in der Schwertherstellung	ein	der	Meister in der Schwertherstellung	Meister in der Schwertherstellung	\d	die	Meisterliche Schwert-Herstellung
+_78F9F6678F8849CD	SCM1DEM	Meister im Dolch	Meister in der Dolchherstellung	ein	der	Meister in der Dolchherstellung	Meister in der Dolchherstellung	\d	die	Meisterliche Dolch-Herstellung
+_99FC85A9D93452ED	SCM2MEM	Meister im Zweihand-Streitkolben	Meister in der Zweihand-Streitkolben-Herstellung	ein	der	Meister in der Zweihand-Streitkolben-Herstellung	Meister in der Zweihand-Streitkolben-Herstellung	\d	die	Meisterliche Zweihand-Streitkolben-Herstellung
+_8BDC310320B12F75	SCM2PEM	Meister im Piken	Meister in der Pikenherstellung	ein	der	Meister in der Pikenherstellung	Meister in der Pikenherstellung	\d	die	Meisterliche Piken-Herstellung
+_99D9D068E10A18BA	SCM2AEM	Meister im Zweihand-Axt	Meister in der Zweihand-Axt-Herstellung	ein	der	Meister in der Zweihand-Axt-Herstellung	Meister in der Zweihand-Axt-Herstellung	\d	die	Meisterliche Zweihand-Axt-Herstellung
+_98904438F1565B2E	SCM2SEM	Meister im Zweihand-Schwert	Meister in der Zweihand-Schwert-Herstellung	ein	der	Meister in der Zweihand-Schwert-Herstellung	Meister in der Zweihand-Schwert-Herstellung	\d	die	Meisterliche Zweihand-Schwert-Herstellung
+_88910F507D1DA21D	SCR1BEM	Meister im Bogenpistolen	Meister in der Bogenpistolenherstellung	ein	der	Meister in der Bogenpistolenherstellung	Meister in der Bogenpistolenherstellung	\d	die	Meisterliche Bogenpistolen-Herstellung
+_3E2B7A7F91E859F0	SCR1PEM	Meister im Pistolen	Meister in der Pistolenherstellung	ein	der	Meister in der Pistolenherstellung	Meister in der Pistolenherstellung	\d	die	Meisterliche Pistolen-Herstellung
+_98CFC45BF682F2BE	SCR2AEM	Meister im Automatikgewehr	Meister in der Automatikgewehr-Herstellung	ein	der	Meister in der Automatikgewehr-Herstellung	Meister in der Automatikgewehr-Herstellung	\d	die	Meisterliche Automatikgewehr-Herstellung
+_C75DA69E36B1B92E	SCR2BEM	Meister im Bogengewehr	Meister in der Bogengewehr-Herstellung	ein	der	Meister in der Bogengewehr-Herstellung	Meister in der Bogengewehr-Herstellung	\d	die	Meisterliche Bogengewehr-Herstellung
+_03BDB291B411053C	SCR2LEM	Meister im Granatenwerfer	Meister in der Granatenwerfer-Herstellung	ein	der	Meister in der Granatenwerfer-Herstellung	Meister in der Granatenwerfer-Herstellung	\d	die	Meisterliche Granatenwerfer-Herstellung
+_E8CE0EC6D06DAC40	SCR2REM	Meister im Gewehr	Meister in der Gewehrherstellung	ein	der	Meister in der Gewehrherstellung	Meister in der Gewehrherstellung	\d	die	Meisterliche Gewehr-Herstellung
 _2562F2A1E5A6ECCE	SCMC	Magieverstärker-Herstellung	Magieverstärker-Herstellung	eine	die	Magieverstärker-Herstellungen	Magieverstärker-Herstellungen	\d	die	Magieverstärker-Herstellung
-_80C9965548175036	SCMCA	Fortgeschrittener in Magieverstärker-Herstellung	Fortgeschrittener in Magieverstärker-Herstellung	ein	der	Fortgeschrittene in Magieverstärker-Herstellung	Fortgeschrittenen in Magieverstärker-Herstellung	\d	die	fortgeschrittene Zauberverstärker-Herstellung
+_80C9965548175036	SCMCA	Erfahren im Magieverstärker-Herstellung	Fortgeschrittene Magieverstärker-Herstellung	ein	der	Fortgeschrittene in Magieverstärker-Herstellung	Fortgeschrittenen in Magieverstärker-Herstellung	\d	die	fortgeschrittene Zauberverstärker-Herstellung
 _7CF7AC665E6FB8A3	SCMCAE	Experte in Magieverstärker-Herstellung	Experte in Magieverstärker-Herstellung	ein	der	Experten in Magieverstärker-Herstellung	Experten in Magieverstärker-Herstellung	\d	die	Fachmännische Zauberverstärker-Herstellung
 _5FDB6AB40ED68708	SCMCAEM	Meister Magieverstärker-Herstellung	Meister Magieverstärker-Herstellung	ein	der	Meister Magieverstärker-Herstellung	Meister in Magieverstärker-Herstellung	\d	die	Meisterliche Zauberverstärker-Herstellung
