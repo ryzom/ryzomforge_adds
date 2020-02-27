@@ -26017,9 +26017,9 @@ ENCY_THM_TXT_11_16 ()
 // HASH_VALUE 6868A86F62E2F6B2
 ENCY_THM_TXT_11_17 ()
 {
-			[La Legenda del Rydon de Oflovak  narrada por un comerciante Fyros\n
+[La Leyenda de Oflovak Rydon, narrada por un comerciante Fyros\n
 			\n
-			El Rydon de Oflovak había sido un gran viajero en las tierras antiguas y durante el enjambre Kitin, pastoreó miles de Fyros de la ciudad capital lejos del peligro en el desierto. En la manaña del séptimo día fue hacia la cresta de una duna para encontrar su ruta o dirección cuando un halo de luz vino desde los cielos una gran voz le habló a él.\n
+			Oflovak Rydon había sido un gran viajero en las tierras antiguas y durante el enjambre Kitin, pastoreó miles de Fyros de la ciudad capital lejos del peligro en el desierto. En la manaña del séptimo día fue hacia la cresta de una duna para encontrar su ruta o dirección cuando un halo de luz vino desde los cielos una gran voz le habló a él.\n
 			\n
 			"Yo so y Elias, el padre de tu condición y te voy a ayudar en este momento de necesidad. Lleva a tu pueblo al este de los Bordes de Baldos donde encontrarás un arcoiris en la llanura. Sé rápido, Oflovak ."En sus rodillas dobladas, Oflovak contestó: "Tienes mi palabra,  Elias, mientras el aire llene mis pulmones resonarán la verdad."\n
 			\n
