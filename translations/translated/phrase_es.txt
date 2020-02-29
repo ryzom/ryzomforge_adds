@@ -26017,7 +26017,7 @@ ENCY_THM_TXT_11_16 ()
 // HASH_VALUE 6868A86F62E2F6B2
 ENCY_THM_TXT_11_17 ()
 {
-[La Leyenda de Oflovak Rydon, narrada por un comerciante Fyros\n
+			[La Leyenda de Oflovak Rydon, narrada por un comerciante Fyros\n
 			\n
 			Oflovak Rydon había sido un gran viajero en las tierras antiguas y durante el enjambre Kitin, pastoreó miles de Fyros de la ciudad capital lejos del peligro en el desierto. En la manaña del séptimo día fue hacia la cresta de una duna para encontrar su ruta o dirección cuando un halo de luz vino desde los cielos una gran voz le habló a él.\n
 			\n
@@ -36628,6 +36628,13 @@ MENU_MATISPOETRY ()
 MENU_OPEN_CHEST ()
 {
 			[Hay que abrir el baúl]
+
+}
+
+// HASH_VALUE 6C58043C201C9480
+MENU_OPEN_IT ()
+{
+			[¡Ábrelo!]
 
 }
 

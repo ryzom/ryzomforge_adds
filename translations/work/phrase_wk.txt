@@ -6152,3 +6152,8 @@ MENU_ZIGB()
 {
 	[Caress Tynee.]
 }
+MENU_OPEN_IT()
+{
+	[Open it!]
+}
+

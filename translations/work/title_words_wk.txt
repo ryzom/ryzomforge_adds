@@ -1916,3 +1916,4 @@ fct_ranger_guide	Ranger Guide
 fct_ranger_quartermaster	Ranger Quartermaster	
 fct_arionasiszig	Arionasis' Zig	
 fct_tyneetrykzig	Tyneetryk' Zig	
+gn_fresh_water_barrel	Fresh water barrel	

@@ -10011,3 +10011,4 @@ pero_ranger_quartermaster	Pero Antorini
 trino_ranger_guide	Trino Lichioi	
 zig_arionasis	Ari	
 zig_tyneetryk	Tynee	
+water_bomb_barrel	$gn_fresh_water_barrel$	

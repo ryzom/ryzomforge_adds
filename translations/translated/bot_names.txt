@@ -10011,5 +10011,6 @@ _03F2BD312B87900E	pero_ranger_quartermaster	Pero Antorini
 _ED67A092D70A90A0	trino_ranger_guide	Trino Lichioi			
 _625A54D06A7A9CA8	zig_arionasis	Ari			
 _AC9AA0B2677A98B8	zig_tyneetryk	Tynee			
+_05BDC82232904505	water_bomb_barrel	$gn_fresh_water_barrel$			
 _A67747ACA7496082	marauder_camp_barman	Kelen BaRopi			
 _100BC3D71FC56D33	rite_geo_mat_maj_gar_1_maccia_pittore	Maccia Pittore			
