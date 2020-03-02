@@ -3217,7 +3217,7 @@ uigcSpanish	[SPANISCH]
 
 // HASH_VALUE D72E51D69923FABB
 // INDEX 802
-uigcRequestReboot	[Ryzom muss neu gestartet werden, um diese Änderungen zu übernehmen. Jetzt neu starten?]
+uigcRequestReboot	[Ryzom muss neu gestartet werden, um diese Änderungen zu übernehmen.]
 
 // HASH_VALUE 11E314364F722841
 // INDEX 803
@@ -10480,7 +10480,7 @@ uihelpItemJewelFormat	[@{FFF9}@{HuittInfoOrigin}Design: @{H}@{T12}@{FFFF}%origin
 	@{FFF9}@{HuittInfoBulk}Volumen: @{H}@{T12}@{FFFF}%bulk\n
 	@{FFF9}@{HuittInfoHP}Haltbarkeit: @{H}@{T12}@{FFFF}%hp / %hpmax\n
 	%cansell@{FFF9}@{HuittInfoRequirement}Voraussetzung: @{H}@{T12}@{FFFF}%caracreq@{FFFF}%skillreq@{FFFF}%skillreq2\n
-	%magic_protection%magic_resistance%buffs%desc%custom_text]
+	%magic_protection%magic_resistance%buffs%desc%enchantment%custom_text]
 
 // HASH_VALUE 6E6E2DA956AF0E3A
 // INDEX 2495
@@ -10585,7 +10585,7 @@ uittAuraDisabled	[ - Aura deaktiviert]
 // Bricks Header displayed in top of list of bricks if available
 // HASH_VALUE 41CC871412930664
 // INDEX 2508
-uihelpPhraseHeaderBricks	[@{FFFF}--- Stanzas ---]
+uihelpPhraseHeaderBricks	[ ]
 
 // HASH_VALUE 820FADA1D202D652
 // INDEX 2509
@@ -27710,5 +27710,25 @@ uittChanAuto	[Wenn dieses Kontrollkästchen aktiviert ist, werden deine dynamisc
 
 // HASH_VALUE A9CBC85A8532D0B3
 // INDEX 6580
+<<<<<<< HEAD
 uiMissionCatalog	[Tägliche Missionen]
+=======
+uiMissionCatalog	[Öffnen: Missions-Tagebuch]
+
+// HASH_VALUE AA540E4CE618BC5D
+// INDEX 6581
+uiS2	[Die Saison in Schwarz gegen Weiß]
+
+// HASH_VALUE 06588D16CC507DD7
+// INDEX 6582
+uiS2E0	[Episode "Prolog": Diejenige, in der Sie informiert werden]
+
+// HASH_VALUE 609C1408705844C8
+// INDEX 6583
+uimGcmChat	[Höflich fragen]
+
+// HASH_VALUE D808A99F289008AE
+// INDEX 6584
+uimGcmBullying	[Grob fragen]
+>>>>>>> master
 

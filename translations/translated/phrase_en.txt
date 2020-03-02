@@ -8483,7 +8483,7 @@ CWMH02_DESC (bot giver, place city)
 // HASH_VALUE 7D9C48D073DE06A8
 CWMH02_DIALOG_BARMAN ()
 {
-		cwmh02_dialog_barman	[Hello, good to have you here. Are you a competent forager? I am in need of some special roots to favor my drinks. You should find some if you prospect west of the city, where there are two giant roots coming out of the ground. Remember, the roots have to be of fine quality.]
+		cwmh02_dialog_barman	[Hello, good to have you here. Are you a competent forager? I am in need of some special roots to favor my drinks. You should find some if you prospect west of the city, where there are two giant roots coming out of the ground.]
 
 }
 
@@ -37052,7 +37052,7 @@ MENU_TRADE ()
 // HASH_VALUE 5E79C47B9AFAE07D
 MENU_USE_PA ()
 {
-			[use your involvement]
+			[Use your Elyps]
 
 }
 
