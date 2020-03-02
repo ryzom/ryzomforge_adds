@@ -1,4 +1,4 @@
-*HASH_VALUE	item ID	name	named	nameda	p	pd	pia	pda	ia	da	description	
+﻿*HASH_VALUE	item ID	name	named	nameda	p	pd	pia	pda	ia	da	description	
 _108DDB88207D7D6F	barman_bottle	Barmannsflasche	Barmannsflasche	Barmannsflasche	Barmannsflaschen	Barmannsflaschen	eine	die	eine	die		
 _719D75E0E9F8F0D4	big_barrel	großes Fass	große Fass	große Fass	große Fässer	großen Fässer	ein	die	ein	das		
 _AAF8AD76E06BA817	big_living_sculpture	große lebende Skulptur	große lebende Skulptur	große lebende Skulptur	große lebende Skulpturen	großen lebenden Skulpturen	eine	die	eine	die		
