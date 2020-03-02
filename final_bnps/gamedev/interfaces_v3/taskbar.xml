@@ -335,11 +335,11 @@
 </proc>
 
 <group type="menu" id="milko_menu" extends="base_menu_with_color">
-	<action id="quick_help" name="uiQuickhelpTitle" handler="proc" params="quick_help_taskbar"/>
+	<action id="quick_help" name="uiQuickhelpTitle" handler="proc" params="quick_help_taskbar" icon="brick_default.tga" />
 	<!--
 	<action id="reset_ui" name="uiTaskbarResetUI" handler="proc" params="proc_reset_interface"/>
 	-->
-	<action id="reset_ui" name="uiTaskbarResetUI" handler="milko_menu_reset_interface" params=""/>
+	<action id="reset_ui" name="uiTaskbarResetUI" handler="milko_menu_reset_interface" params="" icon="r2ed_edit_events_over_small.tga"/>
 </group>
 
 <template name="t_mode_button" id="" x="0" y="0" >

@@ -41,12 +41,12 @@
     </proc>
 
     <group type="menu" id="base_menu_artefact" extends="base_menu_with_color">
-        <action id="toggle_banner_hide" name="uimIhideBanner" handler="lua" params="artefact:onSelect(1)"/>
-        <action id="toggle_banner_show" name="uimIshowBanner" handler="lua" params="artefact:onSelect(1)"/>
-        <action id="window_on_tp_close" name="uimIcloseOnTp" handler="lua" params="artefact:onSelect(2)"/>
-        <action id="window_on_tp_open" name="uimIopenOnTp" handler="lua" params="artefact:onSelect(2)"/>
-        <action id="window_refresh" name="uimIrefresh" handler="lua" params="artefact:onSelect(3)"/>
-        <action id="window_compact" name="uimIcompact" handler="lua" params="artefact:onSelect(4)"/>
+        <action id="toggle_banner_hide" name="uimIhideBanner" handler="lua" params="artefact:onSelect(1)" icon="r2_icon_stop_possess.tga"/>
+        <action id="toggle_banner_show" name="uimIshowBanner" handler="lua" params="artefact:onSelect(1)" icon="r2_icon_possess.tga"/>
+        <action id="window_on_tp_close" name="uimIcloseOnTp" handler="lua" params="artefact:onSelect(2)" icon="r2_icon_acts_pushed.tga"/>
+        <action id="window_on_tp_open" name="uimIopenOnTp" handler="lua" params="artefact:onSelect(2)" icon="r2_icon_acts.tga"/>
+        <action id="window_refresh" name="uimIrefresh" handler="lua" params="artefact:onSelect(3)" icon="r2ed_tool_rotate.tga"/>
+        <action id="window_compact" name="uimIcompact" handler="lua" params="artefact:onSelect(4)" icon="r2_icon_light_off_small.tga"/>
         <separator />
     </group>
 
