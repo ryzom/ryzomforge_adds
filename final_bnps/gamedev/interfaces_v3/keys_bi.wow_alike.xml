@@ -89,7 +89,7 @@
   <key name="KeyD" shift="1" action="toggle_dodge_parry"/>
   <key name="KeyD" ctrl="1" menu="1" action="toggle_weather_function"/>
   <key name="KeyE" action="strafe_right"/>
-  <key name="KeyE" shift="1" action="show_hide" params="encyclopedia"/>
+  <key name="KeyE" shift="1" action="show_hide" params="newency"/>
   <key name="KeyG" action="show_hide" params="guild"/>
   <key name="KeyG" shift="1" action="show_hide" params="guild_forum"/>
   <key name="KeyG" ctrl="1" menu="1" action="toggle_freeze_graph"/>
