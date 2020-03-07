@@ -23,7 +23,7 @@
 	<value value="bonus_malus"			hardtext="uiBonusMalus" contexts="game"/>
 	<value value="info_player_skills"	hardtext="uiStatus" contexts="game"/>
 	<value value="info_player_journal"	hardtext="uiJournal" contexts="game"/>
-	<value value="encyclopedia"			hardtext="uiEncyclopedia" contexts="game"/>
+	<value value="newency"			hardtext="uiEncyclopedia" contexts="game"/>
 	<value value="fame"					hardtext="uiFameTitle" contexts="game"/>
 
 	<value value="gestionsets"			hardtext="uiHands" contexts="game, r2ed_anim_test"/>

@@ -270,7 +270,7 @@
   <key name="KeyJ" action="show_hide" params="info_player_journal" /> 
   <key name="KeyG" action="show_hide" params="guild" /> 
   <key name="KeyF" shift="1" action="show_hide" params="fame" />
-  <key name="KeyE" shift="1" action="show_hide" params="encyclopedia" />
+  <key name="KeyE" shift="1" action="show_hide" params="newency" />
   
  <!--  Inventory 
   --> 
