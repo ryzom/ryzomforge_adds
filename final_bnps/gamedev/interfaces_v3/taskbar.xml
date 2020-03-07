@@ -1000,7 +1000,7 @@
 			pushflag="UI:VARIABLES:ISACTIVE:BONUS_MALUS"	win_name="bonus_malus" />
 
 		<instance template="win_button" id="ency"		color="UI:SAVE:WIN:COLORS:PLA" text="uimwEncyclopedia" posparent="bonus_malus" posref="BL TL" x="0" y="-4"
-			pushflag="UI:VARIABLES:ISACTIVE:ENCYCLOPEDIA"	win_name="encyclopedia" />
+			pushflag="UI:VARIABLES:ISACTIVE:ENCYCLOPEDIA"	win_name="newency" />
 
 	</group>
 	<view type="bitmap" id="pla_ico_back" posparent="status" posref="TL TL" x="-22" y="22" texture="W_slot_categorie.tga" global_color="false" />

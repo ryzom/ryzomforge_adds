@@ -7,6 +7,10 @@ if (game==nil) then
 	game= {};
 end
 
+if (game.ui_props==nil) then
+	game.ui_props= {};
+end
+
 ------------------------------------------------------------------------------------------------------------
 -- 
 function string:split(Pattern)
@@ -607,6 +611,47 @@ function game:openWebIGBrowserHeader()
 
 	 if (ui_webig_browser_w ~= nil) then
 		ui.w = ui_webig_browser_w;
+	end
+end
+
+------------------------------------------------------------------------------------------------------------
+--
+function game:closeWindowHeader()
+	local ui = getUICaller().parent;
+	local id = ui.id;
+
+	if game.ui_props[id] == nil then
+		game.ui_props[id] = {}
+	end
+
+	-- save size
+	game.ui_props[id].w = ui.w
+	game.ui_props[id].h = ui.h
+	game.ui_props[id].pop_min_h = ui.pop_min_h
+
+	-- reduce window size
+	ui.pop_min_h = 32
+	ui.h = 0;
+	ui.w = 150
+end
+
+------------------------------------------------------------------------------------------------------------
+--
+function game:openWindowHeader()
+	local ui = getUICaller().parent;
+	local id = ui.id;
+
+	-- set size from saved values
+	if game.ui_props[id].pop_min_h ~= nil then
+		ui.pop_min_h = game.ui_props[id].pop_min_h
+	end
+
+	if game.ui_props[id].h ~= nil then
+		ui.h = game.ui_props[id].h
+	end
+
+	 if ui_webig_browser_w ~= nil then
+		ui.w = game.ui_props[id].w;
 	end
 end
 
