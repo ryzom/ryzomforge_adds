@@ -24,10 +24,16 @@
 	<separator/>
 </group>
 
+<!-- modal box to confirm removal of landmark -->
+<group type="modal" id="remove_user_landmark_confirm" exit_click_out="true" posref="TL TL" x="-8" y="8" w="100" h="60" options="skin_modal">
+	<view type="bitmap" id="b" posref="TL TL" x="4" y="-4" global_color="false" texture="w_warning_2.tga" />
+	<view type="text" id="t" posref="TL TL" x="20" y="-5" color="233 197 42 255" fontsize="12" shadow="true" global_color="false" hardtext="uiRemove" />
+	<instance template="button_ok_cancel" posref="BR BR" x="-4" y="4" onclick_ok="remove_user_landmark" onclick_ok_param="" onclick_cancel="leave_modal" onclick_cancel_param="" />
+</group>
 
 <!-- menu of user landmark -->
 <group type="menu" id="user_land_mark_menu_base" extends="land_mark_menu">
-	<action id="remove" name="uiRemove" handler="remove_user_landmark" params="" icon="ico_aim.tga"/>
+	<action id="remove" name="uiRemove" handler="enter_modal" params="group=ui:interface:remove_user_landmark_confirm" icon="ico_aim.tga"/>
 	<action id="rename" name="uiRename" handler="rename_user_landmark" params="" icon="r2ed_edit_dialog.tga"/>
 	<separator/>
 </group>
