@@ -1440,7 +1440,7 @@ function game:onWebIgReady()
 	-- Call init webig
 	getUI("ui:interface:web_transactions:content:html"):browse("home")
 	getUI("ui:interface:webig:content:html"):browse("home")
-
+	setOnDraw(getUI("ui:interface:encyclopedia"), "ArkMissionCatalog:autoResize()")
 end
 
 --------------------------------------------------------------------------------------------------------------
@@ -1592,7 +1592,7 @@ function game:ensureLastMissionStepVisibility1()
 			topStep = currStep
 		end
 	end
-	
+
 	if topStep == nil then
 		return
 	end
