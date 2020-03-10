@@ -1795,3 +1795,8 @@ MIS_RECV_CHARGE_POINT (int nb_point)
 {
 	mis_recv_charge_point [Vous avez gagné $nb_point$ point(s) de charge pour votre guilde.]
 }
+
+ANSWER_NO_DISCOUNT ()
+{
+	answer_no_discount [No discount? Never mind, I will come back later.]
+}
