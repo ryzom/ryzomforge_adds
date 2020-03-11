@@ -84,10 +84,10 @@
                 <view type="bitmap" id="target" posref="TR TL" posparent="info0" x="4" texture="target.tga" global_color="false" />
                 <view type="bitmap" id="invisible_logo" posref="TR TL" posparent="target" x="2" y="3" scale="true" w="20" h="20" texture="ico_fear.tga" active="false" global_color="false" />
                 <view type="bitmap" id="mission_target" posref="TR TL" posparent="invisible_logo" x="2" y="4" texture="target_mission.tga" global_color="false" />
-                <view type="bitmap" id="rp_logo_1" posref="TR TL" x="2" y="0" slot="false" posparent="mission_target" color="255 255 255 255" render_layer="1" texture="" global_color="false" />
-                <view type="bitmap" id="rp_logo_2" posref="TR TL" x="2" y="0" slot="false" posparent="rp_logo_1" color="255 255 255 255" render_layer="1" texture="" global_color="false" />
-                <view type="bitmap" id="rp_logo_3" posref="TR TL" x="2" y="0" slot="false" posparent="rp_logo_2" color="255 255 255 255" render_layer="1" texture="" global_color="false" />
-                <view type="bitmap" id="rp_logo_4" posref="TR TL" x="2" y="0" slot="false" posparent="rp_logo_3" color="255 255 255 255" render_layer="1" texture="" global_color="false" />
+                <view type="bitmap" id="rp_logo_1" posref="TR TL" x="2" y="0" w="24" h="24" scale="true" slot="false" posparent="mission_target" color="255 255 255 255" render_layer="1" texture="" global_color="false" />
+                <view type="bitmap" id="rp_logo_2" posref="TR TL" x="2" y="0" w="24" h="24" scale="true" slot="false" posparent="rp_logo_1" color="255 255 255 255" render_layer="1" texture="" global_color="false" />
+                <view type="bitmap" id="rp_logo_3" posref="TR TL" x="2" y="0" w="24" h="24" scale="true" slot="false" posparent="rp_logo_2" color="255 255 255 255" render_layer="1" texture="" global_color="false" />
+                <view type="bitmap" id="rp_logo_4" posref="TR TL" x="2" y="0" w="24" h="24" scale="true" slot="false" posparent="rp_logo_3" color="255 255 255 255" render_layer="1" texture="" global_color="false" />
                 <view type="bitmap" id="win_top" posparent="info2" posref="BL TL" y="-8" texture="Infos_top.tga" global_color="true" />
                 <view type="bitmap" id="win_mid" posparent="win_top" posref="BL TL" scale="true" w="70" h="1" texture="Infos_mid.tga" global_color="true" />
                 <view type="bitmap" id="win_bot" posparent="win_mid" posref="BL TL" texture="Infos_bot.tga" global_color="true" />
