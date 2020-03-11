@@ -1912,3 +1912,6 @@ _10893D87C3BA7E54	gn_karavan_altar_silan_shattered_ruins	Autel Karavan des Ruine
 _EFF84EA588CCC3AF	gn_kami_altar_silan_shining_lake	Autel Kami du Lac étincelant			
 _E1F7701F6D16ABC4	fct_to_new_horizons	To New Horizons			
 _01F007050AF7EF10	fct_marauder_merchant	Marchand Marauder			
+_A2167788E6C9D4AB	fct_arionasiszig	Zig d'Arionasis			
+_2456DF8A68093CAD	fct_tyneetrykzig	Zig de Tyneetryk			
+_884A89BAA76FDD16	gn_fresh_water_barrel	Fût d'eau fraîche			

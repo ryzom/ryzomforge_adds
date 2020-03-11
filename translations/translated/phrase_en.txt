@@ -36839,6 +36839,13 @@ MENU_AN_OPENING ()
 
 }
 
+// HASH_VALUE E0171C64E0552494
+MENU_BANARC ()
+{
+			[Banarc]
+
+}
+
 // HASH_VALUE B4321C626C3A3484
 MENU_BUY_NATION_ITEMS ()
 {
@@ -36864,6 +36871,13 @@ MENU_CAN_I_HELP_YOU ()
 MENU_CASINO_INSERT_COIN ()
 {
 			[Play a token]
+
+}
+
+// HASH_VALUE 8D69FC3CE7958B8C
+MENU_DELES_SILAM ()
+{
+			[Deles Silam]
 
 }
 
@@ -36937,6 +36951,13 @@ MENU_LIGHT_UP ()
 
 }
 
+// HASH_VALUE 6B08F0792DA5189C
+MENU_LORDOY ()
+{
+			[Lordoy]
+
+}
+
 // HASH_VALUE CEE1009828377BAA
 MENU_MATISPOETRY ()
 {
@@ -36955,6 +36976,13 @@ MENU_NEED_SOME_INFORMATIONS ()
 MENU_OPEN_CHEST ()
 {
 			[Open the Chest]
+
+}
+
+// HASH_VALUE 6C58043C201C9480
+MENU_OPEN_IT ()
+{
+			[Open it!]
 
 }
 
@@ -37071,6 +37099,34 @@ MENU_WHOISKARAVAN (player p, bot b)
 {
 	(b.race = karavan)
 		menu_who_is_karavan	[What is the Karavan?]
+
+}
+
+// HASH_VALUE 6018F45C6018F45C
+MENU_WOHA ()
+{
+			[Woha]
+
+}
+
+// HASH_VALUE 513A5C55ABC6D39F
+MENU_WOREN_SILOY ()
+{
+			[Woren Siloy]
+
+}
+
+// HASH_VALUE A1543F9ADEB3535D
+MENU_ZIGA ()
+{
+			[Caress Ari.]
+
+}
+
+// HASH_VALUE 12E8C386E6355467
+MENU_ZIGB ()
+{
+			[Caress Tynee.]
 
 }
 
