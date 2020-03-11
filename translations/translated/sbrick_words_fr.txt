@@ -1612,7 +1612,7 @@ _29696FCE41DF47D5	BHFEMB06	Spécialisation dans les Graines		une	la	Spécialisat
 _34B6B070400F31C1	BHFEMB07	Spécialisation dans les Carapaces		une	la	Spécialisations dans les Carapaces	des	les	Augmente la qualité et réduit la vitesse agressivité
 _7397A46FC10F31C3	BHFEMB09	Spécialisation dans les Résines		une	la	Spécialisations dans les Résines	des	les	Augmente la qualité et réduit la vitesse agressivité
 _290997D2C0EF47D5	BHFEMB10	Spécialisation dans les Bois		une	la	Spécialisations dans les Bois	des	les	Augmente la qualité et réduit la vitesse agressivité
-_8650E9850C113A93	BHFEMB11	Spécialisation dans les Construction		une	la	Spécialisations dans les Construction	des	les	Augmente la qualité et réduit la vitesse agressivité
+_8650E9850C113A93	BHFEMB11	Spécialisation dans les Constructions		une	la	Spécialisations dans les Constructions	des	les	Augmente la qualité et réduit la vitesse agressivité
 _286A441474BA711F	BHFEMB12	Spécialisation dans les Aliments		une	la	Spécialisations dans les Aliments	des	les	Augmente la qualité et réduit la vitesse agressivité
 _02C7DCE0EA48AC24	BHFEMB13	Spécialisation dans les Restes de Goo		une	la	Spécialisations dans les Restes de Goo	des	les	Augmente la qualité et réduit la vitesse agressivité
 _7DA1A131FF7DEFED	BHFEMB14	Spécialisation dans les Insectes		une	la	Spécialisations dans les Insectes	des	les	Augmente la qualité et réduit la vitesse agressivité
