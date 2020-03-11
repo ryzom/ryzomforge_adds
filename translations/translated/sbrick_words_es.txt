@@ -1222,6 +1222,7 @@ _56FE8900E28825CA	BHFPMA02	Especializado en el Desierto		una	la				Reduce el con
 _D6ADC9062288E9C4	BHFPMA03	Especializado en la Selva		una	la				Reduce el consumo del enfoque de las acciones de seguimiento del deposito; añade una bonificación a la tasa de extracción de las fuentes en prospección.	
 _0C349AFEF505DFFF	BHFPMA04	Especializado en Lagos 		una	la				Reduce el consumo del enfoque de las acciones de seguimiento del deposito; añade una bonificación a la tasa de extracción de las fuentes en prospección.	
 _9353D0C5BEA09832	BHFPMA05	Especializado en Suelo Subterráneo		una	la				Reduce el consumo del enfoque de las acciones de seguimiento del deposito; añade una bonificación a la tasa de extracción de las fuentes en prospección.	
+_CD0A562B3290B4C5	BHFPMA06	Especializado en Atys		una	la				Reduce el consumo del enfoque de las acciones de seguimiento del deposito; añade una bonificación a la tasa de extracción de las fuentes en prospección.	
 _EAC0E361AD1D7240	BHFPMB01	Prospección Menor del Grupo de Savia 		una	la				Búsqueda de materiales específicos.	
 _FEB5185DB44D7454	BHFPMB02	Prospección Menor del Grupo de Ámbar		una	la				Búsqueda de materiales específicos.	
 _0FBDE921409993B8	BHFPMB03	Prospección Menor del Grupo del Nodo 		una	la				Búsqueda de materiales específicos.	
@@ -1601,6 +1602,7 @@ _E5AEA14815635060	BHFEMA02	Especializado en el Desierto		un	el				Reduce la agre
 _655DE14E5563145A	BHFEMA03	Especializado en la Selva		un	el				Reduce la agresividad del ritmo y las estancias de velocidad.	
 _905285EC094DD970	BHFEMA04	Especializado en Lagos		un	el				Reduce la agresividad del ritmo y las estancias de velocidad.	
 _31E81D027CE6B0F2	BHFEMA05	Especializado en Suelo Subterráneo		un	el				Reduce la agresividad del ritmo y las estancias de velocidad.	
+_1333D1E1894D5970	BHFEMA06	Especializado en Atys		un	el				Reduce la agresividad del ritmo y las estancias de velocidad.	
 _30194D8197ED7A5A	BHFEMB01	Especializado en Grupo de Savia		un	el				Aumenta la calidad y reduce la agresividad de las estancias de velocidad.	
 _7286C45EFF0F31C7	BHFEMB02	Especializado en Grupo de Ámbar		un	el				Aumenta la calidad y reduce la agresividad de las estancias de velocidad.	
 _695997C980DF47D5	BHFEMB03	Especializado en Grupo de Nodo		un	el				Aumenta la calidad y reduce la agresividad de las estancias de velocidad.	

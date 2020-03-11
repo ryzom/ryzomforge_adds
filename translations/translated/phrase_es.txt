@@ -8476,7 +8476,7 @@ CWMH02_DESC (bot giver, place city)
 // HASH_VALUE 7D9C48D073DE06A8
 CWMH02_DIALOG_BARMAN ()
 {
-		cwmh02_dialog_barman	[Hola, qué bien tenerte aquí. Eres un buscador competente? Tengo necesidad de unas raíces especiales para sazonar mis bebidas. Podrías encontrar algunas si inspeccionas al este de la ciudad, donde hay dos raíces gigantes que salen del suelo. Recuerda, estas raíces deben ser de buena calidad.]
+		cwmh02_dialog_barman	[Hola, qué bien tenerte aquí. Eres un buscador competente? Tengo necesidad de unas raíces especiales para sazonar mis bebidas. Podrías encontrar algunas si inspeccionas al este de la ciudad, donde hay dos raíces gigantes que salen del suelo.]
 
 }
 
@@ -26017,9 +26017,9 @@ ENCY_THM_TXT_11_16 ()
 // HASH_VALUE 6868A86F62E2F6B2
 ENCY_THM_TXT_11_17 ()
 {
-			[La Legenda del Rydon de Oflovak  narrada por un comerciante Fyros\n
+			[La Leyenda de Oflovak Rydon, narrada por un comerciante Fyros\n
 			\n
-			El Rydon de Oflovak había sido un gran viajero en las tierras antiguas y durante el enjambre Kitin, pastoreó miles de Fyros de la ciudad capital lejos del peligro en el desierto. En la manaña del séptimo día fue hacia la cresta de una duna para encontrar su ruta o dirección cuando un halo de luz vino desde los cielos una gran voz le habló a él.\n
+			Oflovak Rydon había sido un gran viajero en las tierras antiguas y durante el enjambre Kitin, pastoreó miles de Fyros de la ciudad capital lejos del peligro en el desierto. En la manaña del séptimo día fue hacia la cresta de una duna para encontrar su ruta o dirección cuando un halo de luz vino desde los cielos una gran voz le habló a él.\n
 			\n
 			"Yo so y Elias, el padre de tu condición y te voy a ayudar en este momento de necesidad. Lleva a tu pueblo al este de los Bordes de Baldos donde encontrarás un arcoiris en la llanura. Sé rápido, Oflovak ."En sus rodillas dobladas, Oflovak contestó: "Tienes mi palabra,  Elias, mientras el aire llene mis pulmones resonarán la verdad."\n
 			\n
@@ -36539,6 +36539,13 @@ MENU_AN_OPENING ()
 
 }
 
+// HASH_VALUE E0171C64E0552494
+MENU_BANARC ()
+{
+			[Banarc]
+
+}
+
 // HASH_VALUE B4321C626C3A3484
 MENU_BUY_NATION_ITEMS ()
 {
@@ -36557,6 +36564,13 @@ MENU_BUY_PVP ()
 MENU_CASINO_INSERT_COIN ()
 {
 			[Toca una tecla]
+
+}
+
+// HASH_VALUE 8D69FC3CE7958B8C
+MENU_DELES_SILAM ()
+{
+			[Deles Silam]
 
 }
 
@@ -36617,6 +36631,13 @@ MENU_LIGHT_UP ()
 
 }
 
+// HASH_VALUE 6B08F0792DA5189C
+MENU_LORDOY ()
+{
+			[Lordoy]
+
+}
+
 // HASH_VALUE CEE1009828377BAA
 MENU_MATISPOETRY ()
 {
@@ -36628,6 +36649,13 @@ MENU_MATISPOETRY ()
 MENU_OPEN_CHEST ()
 {
 			[Hay que abrir el baúl]
+
+}
+
+// HASH_VALUE 6C58043C201C9480
+MENU_OPEN_IT ()
+{
+			[¡Ábrelo!]
 
 }
 
@@ -36744,6 +36772,34 @@ MENU_WHOISKARAVAN (player p, bot b)
 {
 	(b.race = karavan)
 		menu_who_is_karavan	[Que es el Karavan?]
+
+}
+
+// HASH_VALUE 6018F45C6018F45C
+MENU_WOHA ()
+{
+			[Woha]
+
+}
+
+// HASH_VALUE 513A5C55ABC6D39F
+MENU_WOREN_SILOY ()
+{
+			[Woren Siloy]
+
+}
+
+// HASH_VALUE A1543F9ADEB3535D
+MENU_ZIGA ()
+{
+			[Acaricia a Ari.]
+
+}
+
+// HASH_VALUE 12E8C386E6355467
+MENU_ZIGB ()
+{
+			[Acaricia a Tynee.]
 
 }
 
