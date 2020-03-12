@@ -2256,18 +2256,18 @@ _2C167AE6E48C63A4	m0230dxacc01	Grande tige / Roseau parfait	une	la	Grandes tiges
 _AD221BDE7D0F9BA8	m0230dxacd01	Grande tige / Roseau de premier ordre 	une	la	Grandes Tiges / Roseau de premier ordre 	des	les			
 _2813D7F18150DBA8	m0230dxace01	Grande tige / Roseau exceptionnel	une	la	Grandes tiges / Roseau exceptionnel	des	les			
 _C216B980A6EF9110	m0230dxacf01	Grande tige / Roseau magnifique 	une	la	Grandes tiges / Roseau magnifique 	des	les			
-_E544BD05B26AA3B4	m0231dxaca01	Poignée ordinaire / Sol meuble frais	une	la	Poignées ordinaires / Sol meuble frais	des	les			
-_C639833DF733D7A4	m0231dxacb01	Poignée moyenne / Sol meuble frais	une	la	Poignées moyennes / Sol meuble frais	des	les			
-_A384C10FB4CBA3B4	m0231dxacc01	Poignée parfaite / Sol meuble frais	une	la	Poignées parfaites / Sol meuble frais	des	les			
-_98B109389B5E55E0	m0231dxacd01	Poignée de premier ordre / Sol meuble frais	une	la	Poignées de premier ordre / Sol meuble frais	des	les			
-_D7A21D4C9F5E55CE	m0231dxace01	Poignée exceptionnelle / Sol meuble frais	une	la	Poignées exceptionnelles / Sol meuble frais	des	les			
-_7C3943835CF19813	m0231dxacf01	Poignée magnifique / Sol meuble frais	une	la	Poignées magnifiques / Sol meuble frais	des	les			
-_6544ADF7B289ABB5	m0232dxaca01	Poignée ordinaire / Sol meuble séché	une	la	Poignées ordinaires / Sol meuble séché	des	les			
-_C477A33DF733D7A5	m0232dxacb01	Poignée moyenne / Sol meuble séché	une	la	Poignées moyennes / Sol meuble séché	des	les			
-_2384B101B4EAABB5	m0232dxacc01	Poignée parfaite / Sol meuble séché	une	la	Poignées parfaites / Sol meuble séché	des	les			
-_9871C12E9C3E4DE1	m0232dxacd01	Poignée de premier ordre / Sol meuble séché	une	la	Poignées de premier ordre / Sol meuble séché	des	les			
-_D762D542A03E4DCF	m0232dxace01	Poignée exceptionnelle / Sol meuble séché	une	la	Poignées exceptionnelles / Sol meuble séché	des	les			
-_7D393B7FD9318804	m0232dxacf01	Poignée magnifique / Sol meuble séché	une	la	Poignées magnifiques / Sol meuble séché	des	les			
+_E544BD05B26AA3B4	m0231dxaca01	Poignée ordinaire / Terre meuble fraîche	une	la	Poignées ordinaires / Terre meuble fraîches	des	les			
+_C639833DF733D7A4	m0231dxacb01	Poignée moyenne / Terre meuble fraîche	une	la	Poignées moyennes / Terre meuble fraîches	des	les			
+_A384C10FB4CBA3B4	m0231dxacc01	Poignée parfaite / Terre meuble fraîche	une	la	Poignées parfaites / Terre meuble fraîches	des	les			
+_98B109389B5E55E0	m0231dxacd01	Poignée de premier ordre / Terre meuble fraîche	une	la	Poignées de premier ordre / Terre meuble fraîches	des	les			
+_D7A21D4C9F5E55CE	m0231dxace01	Poignée exceptionnelle / Terre meuble fraîche	une	la	Poignées exceptionnelles / Terre meuble fraîches	des	les			
+_7C3943835CF19813	m0231dxacf01	Poignée magnifique / Terre meuble fraîche	une	la	Poignées magnifiques / Terre meuble fraîches	des	les			
+_6544ADF7B289ABB5	m0232dxaca01	Poignée ordinaire / Terre meuble sèche	une	la	Poignées ordinaires / Terre meuble sèche	des	les			
+_C477A33DF733D7A5	m0232dxacb01	Poignée moyenne / Terre meuble sèche	une	la	Poignées moyennes / Terre meuble sèche	les			
+_2384B101B4EAABB5	m0232dxacc01	Poignée parfaite / Terre meuble sèche	une	la	Poignées parfaites / Terre meuble sèche	des	les			
+_9871C12E9C3E4DE1	m0232dxacd01	Poignée de premier ordre / Terre meuble sèche	une	la	Poignées de premier ordre / Terre meuble sèche	des	les			
+_D762D542A03E4DCF	m0232dxace01	Poignée exceptionnelle / Terre meuble sèche	une	la	Poignées exceptionnelles / Terre meuble sèche	des	les			
+_7D393B7FD9318804	m0232dxacf01	Poignée magnifique / Terre meuble sèche	une	la	Poignées magnifiques / Terre meuble sèche	des	les			
 _30953CDF930C27FF	m0233dxaca01	Mesure de sève fraîche modifiée ordinaire	une	la	Mesures de sève fraîche modifiée ordinaire	des	les			
 _C6E4F527D6893FEF	m0233dxacb01	Mesure de sève fraîche modifiée moyenne	une	la	Mesures de sève fraîche modifiée moyenne	des	les			
 _309520E353AD4705	m0233dxacc01	Mesure de sève fraîche modifiée parfaite	une	la	Mesures de sève fraîche modifiée parfaite	des	les			
@@ -6697,7 +6697,7 @@ _FA0E017088640A01	rpjobitem_200_a0	Élément du nécessaire à boucherie	un	l'\d
 _99DB2BEBE9ECCE42	rpjobitem_200_a1	Élément du kit du parfait boucher	un	l'\d	Élément du kit du parfait boucher	des	les			
 _06BEF7FF65B8D31A	rpjobitem_200_b0	Pièce d'herbivore	une	la	Pièces d'herbivores	des	les			
 _8BA219614946FD14	rpjobitem_200_b1	Meilleure pièce d'herbivore	une	la	Meilleures pièces d'herbivores	des	les			
-_CD7CDED57FF3D638	rpjobitem_200_c0	Fabuleuse cuisse de Yubo	une	la	Fabuleuses cuisses de Yubo	des	les			
+_CD7CDED57FF3D638	rpjobitem_200_c0	Cuisse de Yubo	une	la	Cuisses de Yubo	des	les			
 _9BAFD3E438E40AA6	rpjobitem_200_c1	Steak de Bodoc	un	le	Steaks de Bodoc	des	les			
 _4DE37ABDC975C42C	rpjobitem_200_c2	Abat d'Arma	un	d'	Abats d'Arma	des	les			
 _DBFFA3DD7A743EA0	rpjobitem_200_c3	Filet d'Arana	un	le	Filets d'Arana	des	les			
@@ -6708,18 +6708,18 @@ _CA02022225F6448B	rpjobitem_201_a0	Certificat d'approvisionnement en fleurs	un	l
 _1D5F7FB6237E14C7	rpjobitem_201_a1	Certificat d'approvisionnement abondant en fleurs	un	le	Certificats d'approvisionnement abondant en fleurs	des	les			
 _9279471FFE4CC296	rpjobitem_201_b0	Certificat d'entretien des fleurs	un	le	Certificats d'entretien des fleurs	des	les			
 _84A75C031EE9E86D	rpjobitem_201_b1	Certificat du parfait entretien des fleurs	un	le	Certificats du parfait entretien des fleurs	des	les			
-_4DE5D24DCDD1C441	rpjobitem_201_c0	Bouquet merveilleux	un	le	Bouquets merveilleux	des	les			
+_4DE5D24DCDD1C441	rpjobitem_201_c0	Bouquet de base	un	le	Bouquets de base	des	les			
 _99057FAA7423B24A	rpjobitem_201_c1	Bouquet Mystia	un	le	Bouquets Mystia	des	les			
 _1549BF9C53E6B374	rpjobitem_201_c2	Bouquet Fallenor	un	le	Bouquets Fallenor	des	les			
 _54B9EB9A5486AB7E	rpjobitem_201_c3	Bouquet Folially	un	le	Bouquets Folially	des	les			
 _17F32FA33544FA48	rpjobitem_201_c4	Bouquet Floris	un	le	Bouquets Floris	des	les			
-_5385F2650ED1C461	rpjobitem_201_c5	Bouquet Atysien	un	le	Bouquets Atysiens	des	les			
+_5385F2650ED1C461	rpjobitem_201_c5	Bouquet Nexus	un	le	Bouquets Nexus	des	les			
 _CE3CB77612E0BA6C	rpjob_205	Apprenti Secouriste	un	d'	Apprentie Secouriste	une	d'			
 _B53CF91C99F90DC1	rpjobitem_205_a0	Bandage	dun	le	Bandages	des	les			
 _2B07B78E8CF29642	rpjobitem_205_a1	Bandage solide	un	le	Bandages solides	des	les			
 _743929FCDDBAA464	rpjobitem_205_b0	Baume	un	le	Baumes	des	les			
 _94A9AF8A14B637B5	rpjobitem_205_b1	Baume puissant	un	le	Baumes puissants	des	les			
-_7EB29CFA8C1797C5	rpjobitem_205_c0	Kit du guérisseur suprême	un	le	Kits du guérisseur suprême	des	les			
+_7EB29CFA8C1797C5	rpjobitem_205_c0	Petit kit de soin	un	le	Petits kits de soin	des	les			
 _538388330BB5C467	rpjobitem_205_c1	Kit de premier soin	un	le	Kits de premier soin	des	les			
 _BF2E53D49338E646	rpjobitem_205_c2	Kit de prévention	un	le	Kits de prévention	des	les			
 _B38B603148339710	rpjobitem_205_c3	Kit de soins avancés	un	le	Kits de soins avancés	des	les			
@@ -6734,7 +6734,7 @@ _9CBDFA15261AEF9B	rpjobitem_202_a0	Certificat de qualité de l'eau	un	le	Certifi
 _14F6CF81BDAD4A14	rpjobitem_202_a1	Certificat de qualité remarquable de l'eau	un	le	Certificats de qualité remarquable de l'eau	des	les			
 _8FA7518A0D4B353F	rpjobitem_202_b0	Rapport du commissaire expéditeur	un	le	Rapports du commissaire expéditeur	des	les			
 _776BC2D1B1D15237	rpjobitem_202_b1	Rapport d'excellence du commissaire expéditeur	un	le	Rapports d'excellence du commissaire expéditeur	des	les			
-_AE2DCA0C821C28BB	rpjobitem_202_c0	Grande outre d'eau sacrée	une	la	Grande outre d'eau sacrée	des	les			
+_AE2DCA0C821C28BB	rpjobitem_202_c0	Petite outre d'eau morne	une	la	Petite outre d'eau morne	des	les			
 _87539C3D99596890	rpjobitem_202_c1	Petite outre d'eau	une	la	Petites outres d'eau	des	les			
 _D92A8AA6505C5EE4	rpjobitem_202_c2	Petite outre d'eau rafraîchissante	une	la	Petites outres d'eau rafraichissante	des	les			
 _C0D3AEEC0612B36C	rpjobitem_202_c3	Petite outre d'eau exaltante	une	la	Petites outres d'eau exaltante	des	les			
@@ -6748,11 +6748,11 @@ _0A2BCBBC6C52B8AB	rpjobitem_203_a0	Fragment de carte des contours magnétiques	u
 _12002DE0E31C5EFB	rpjobitem_203_a1	Fragment de carte précise des contours magnétiques	un	le	Fragments de carte précise des contours magnétiques	des	les			
 _53F7BE95D19BA24B	rpjobitem_203_b0	Relevé des amplitudes magnétiques	un	le	Relevés des amplitudes magnétiques	des	les			
 _33A3546EF1473824	rpjobitem_203_b1	Relevé précis des amplitudes magnétiques	un	le	Relevés précis des amplitudes magnétiques	des	les			
-_F95F39A430EE2F92	rpjobitem_203_c0	Carte du magnétisme absolu	une	la	Cartes du magnétisme absolu	des	les			
-_049573BB0B260983	rpjobitem_203_c1	Carte du magnétisme mineur	une	la	Cartes du magnétisme mineur	des	les			
-_3EF55681E5E5EC90	rpjobitem_203_c2	Carte du magnétisme primaire	une	la	Cartes du magnétisme primaire	des	les			
-_3E4215A07CF6F956	rpjobitem_203_c3	Carte du magnétisme secondaire	une	la	Cartes du magnétisme secondaire	des	les			
-_CEE2AD5AB38D2E18	rpjobitem_203_c4	Carte du magnétisme tertiaire	une	la	Cartes du magnétisme tertiaire	des	les			
+_F95F39A430EE2F92	rpjobitem_203_c0	Carte du magnétisme mineur	une	la	Cartes du magnétisme mineur	des	les			
+_049573BB0B260983	rpjobitem_203_c1	Carte du magnétisme primaire	une	la	Cartes du magnétisme primaire	des	les			
+_3EF55681E5E5EC90	rpjobitem_203_c2	Carte du magnétisme secondaire	une	la	Cartes du magnétisme secondaire	des	les			
+_3E4215A07CF6F956	rpjobitem_203_c3	Carte du magnétisme tertiaire	une	la	Cartes du magnétisme tertiaire	des	les			
+_CEE2AD5AB38D2E18	rpjobitem_203_c4	Carte du magnétisme moyen	une	la	Cartes du magnétisme moyen	des	les			
 _3AB021B1F9640567	rpjobitem_203_c5	Carte du magnétisme majeur	une	la	Cartes du magnétisme majeur	des	les			
 _A518DB81926887CF	rpjob_204	Apprenti Outilleur	un	d'	Apprentie Outilleuse	une	d'			
 _E1873693C8613D0D	tools_ticket	Outil amélioré	un	l'\d	Outils améliorés	des	les			
@@ -6760,7 +6760,7 @@ _18F46B65C6E278F1	rpjobitem_204_a0	Matériau pour le manche	un	le	Matériaux pou
 _DB279794BBC5CE98	rpjobitem_204_a1	Matériau solide pour le manche	un	le	Matériaux solides pour le manche	des	les			
 _38923576A7D8C1EB	rpjobitem_204_b0	Matériau pour l'élément principal	un	le	Matériaux pour l'élément principal	des	les			
 _F7878891ADC1AA48	rpjobitem_204_b1	Matériau solide pour l'élément principal	un	le	Matériaux solides pour l'élément principal	des	les			
-_D231428A5E6C0645	rpjobitem_204_c0	Outil fantastique	un	le	Outils fantastiques	des	les			
+_D231428A5E6C0645	rpjobitem_204_c0	Outil basique	un	l'\d	Outils basiques	des	les			
 _0F4F0EC90C56064B	rpjobitem_204_c1	Outil pratique	un	l'\d	Outils pratiques	des	les			
 _96C15662F8A95183	rpjobitem_204_c2	Outil astucieux	un	l'\d	Outils astucieux	des	les			
 _6BB3A7ED4FD7CE09	rpjobitem_204_c3	Outil productif	un	l'\d	Outils productifs	des	les			
@@ -6775,7 +6775,7 @@ _D5C3138802B88A3D	rpjobitem_206_a0	Larve primaire	une	la	Larves primaires	des	le
 _7D8FC42BC571F818	rpjobitem_206_a1	Larve sublime primaire	une	la	Larves sublimes primaires	des	les			
 _6998FEF991A55F65	rpjobitem_206_b0	Larve secondaire	une	la	Larves secondaires	des	les			
 _E20E6916072F140D	rpjobitem_206_b1	Larve sublime secondaire	une	la	Larves sublimes secondaires	des	les			
-_CF224A7D6AAF89F8	rpjobitem_206_c0	Larve extraordinaire	une	la	Larves extraordinaires	des	les			
+_CF224A7D6AAF89F8	rpjobitem_206_c0	Larve désséchée	une	la	Larves désséchées	des	les			
 _D1251A398D8DEE3A	rpjobitem_206_c1	Petite larve	une	la	Petites larves	des	les			
 _BF814A74B5AFBCCF	rpjobitem_206_c2	Larve tonique	une	la	Larves toniques	des	les			
 _58F878F12F3DCFC8	rpjobitem_206_c3	Larve stimulante	une	la	Larves stimulantes	des	les			
@@ -6789,7 +6789,7 @@ _09772876C79B9A18	rpjobitem_207_a0	Matière pour la fabrication de parchemins	un
 _F93F20C9A7B3E499	rpjobitem_207_a1	Matière de haute qualité pour parchemins	une	la	Matières de haute qualité pour parchemins	des	les			
 _EB49342F63EBB8ED	rpjobitem_207_b0	Matière pour la fabrication d'encres	une	la	Matières pour la fabrication d'encres	des	les			
 _563A6F383DC3C617	rpjobitem_207_b1	Matière de haute qualité pour encres	une	la	Matières de haute qualité pour encres	des	les			
-_DB1D91120AE6AF8C	rpjobitem_207_c0	Nécessaire pour l'écriture parfaite	un	le	Nécessaires pour l'écriture parfaite	des	les			
+_DB1D91120AE6AF8C	rpjobitem_207_c0	Nécessaire basiques pour l'écriture	un	le	Nécessaires basiques pour l'écriture	des	les			
 _6E6B62C6C9369DC7	rpjobitem_207_c1	Modeste nécessaire pour l'écriture	un	le	Modeste nécessaire pour l'écriture	des	les			
 _70AC6EC68A3661B1	rpjobitem_207_c2	Simple nécessaire pour l'écriture	un	le	Simples nécessaires pour l'écriture	des	les			
 _9F94D3C9DD48B783	rpjobitem_207_c3	Nécessaire pour l'écriture appliquée	un	le	Nécessaires pour l'écriture appliquée	des	les			
@@ -6803,7 +6803,7 @@ _B9B60DC7CC06D51F	rpjobitem_203_c6	Carte du magnétisme absolu	une	la	Cartes du 
 _8F0C7EBE9408E249	rpjobitem_204_c6	Outil fanstastique	un	l'\d	Outils fanstastiques	des	les			
 _5B31142984912033	rpjobitem_205_c6	Kit du soin suprême	un	le	Kit des soins suprêmes	des	les			
 _4BE08C5B9E1C0FDD	rpjobitem_206_c6	Larve extraordinaire	une	la	Larves extraordinaires	les	des			
-_E324C2CFE2D8A689	rpjobitem_207_c6	Nécessaire pour l'écriture d'art	un	le	Nécessaires pour l'écriture d'art	les	des			
+_E324C2CFE2D8A689	rpjobitem_207_c6	Nécessaire pour l'écriture parfaite	un	le	Nécessaires pour l'écriture parfaite	les	des			
 _7F7B0EEE77E932E5	unstable_goo_vial	Potion Instable de Goo	une	la	Potions Instables	des	les			
 _FDEBE33068537FC4	shopan_staff_crate	Baton Shopan des Maitres de la Goo	un	le	Batons Shopan des Maitres de la Goo					
 _720F99C85F2AF504	fyler_dagger_crate	Dague Fyler des Chefs de la Goo	une	la	Dagues Fyler des Chefs de la Goo					
@@ -7853,3 +7853,10 @@ _80F7C6C5E3249271	iczaup	Culotte Nin-kas	des	les	Culotte Nin-kas	des	les
 _B5D4E9917A8BD9B1	iczauv	Soutien-gorge Nin-kas	des	les	Soutien-gorge Nin-kas	des	les			
 _7179D6FE2D87A5B8	tp_interface_kami	Kami Artefact de téléportation	un	l'\d	Kami Artefact de téléportation	des	les			
 _84020E9F43014E3E	tp_interface_karavan	Karavan Artefact de téléportation	un	l'\d	Karavan Artefact de téléportation	des	les			
+_E1069680FFDA0183	wheel_token_anlor	jeton flétri	un	le	jetons flétris	des	les			
+_54445E2B93587688	wheel_token_atysmas	jeton flétri	un	le	jetons flétris	des	les			
+_E10696717E4BCD84	wheel_token_basic	jeton flétri	un	le	jetons flétris	des	les			
+_5DC47E6D6C73FA98	wheel_token_choice	jeton flétri	un	le	jetons flétris	des	les			
+_1DE726797DBE9444	wheel_token_fine	jeton flétri	un	le	jetons flétris	des	les			
+_5DC49E6FAE842EA8	wheel_token_suprem	jeton flétri	un	le	jetons flétris	des	les			
+_677212AB08CFE10C	wheel_token_xl	jeton flétri	un	le	jetons flétris	des	les			

@@ -400,6 +400,11 @@ function SceneEditor:addFromDb(group, db_id, json_shape, edit)
 	end
 end
 
+function SceneEditor:spawnShape(shape, x, y, z, rotx, roty, rotz, setup)
+	local id = addShape(shape, x, y, z, "user", 1, true, "", "", false, false, "", "", true)
+	rotateShape(id, tostring(rotx), tostring(roty), tostring(rotz))
+	setupShape(id, Json.decode(setup))
+end
 
 function SceneEditor:removeGroup(group, no_get_html)
 	if self.Groups[group] == nil then

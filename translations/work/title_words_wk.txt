@@ -1884,7 +1884,7 @@ gn_boss_tryker_light_stone_back	Teleportation stone
 gn_boss_tryker_light_loot_box	Dante's chest	
 gn_boss_tryker_light_start_boss	Dante the Teaser	
 gn_boss_tryker_light_start_stone	Teleportation stone	
-gn_boss_tryker_light_start_box	Dante's crate
+gn_boss_tryker_light_start_box	Dante's crate	
 fct_consumable_merchant	(Consumable Merchant)	
 title00031	Fyros Ambassador	Fyros Ambassador
 title00032	Matis Ambassador	Matis Ambassador
@@ -1911,3 +1911,9 @@ gn_kami_altar_silan_ranger_camp	Ranger Camp Kami Altar
 gn_karavan_altar_silan_shattered_ruins	Shattered Ruins Karavan Altar	
 gn_kami_altar_silan_shining_lake	Shining Lake Kami Altar	
 fct_to_new_horizons	To New Horizons
+fct_marauder_merchant	Marchand Fédéral	
+fct_ranger_guide	Ranger Guide	
+fct_ranger_quartermaster	Ranger Quartermaster	
+fct_arionasiszig	Arionasis' Zig	
+fct_tyneetrykzig	Tyneetryk' Zig	
+gn_fresh_water_barrel	Fresh water barrel	

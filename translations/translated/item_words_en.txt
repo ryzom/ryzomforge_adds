@@ -6753,7 +6753,7 @@ _049573BB0B260983	rpjobitem_203_c1	Map of Primary Magnetism	a	the	Maps of Primar
 _3EF55681E5E5EC90	rpjobitem_203_c2	Map of Secondary Magnetism	a	the	Maps of Secondary Magnetism	\d	the	
 _3E4215A07CF6F956	rpjobitem_203_c3	Map of Tertiary Magnetism	a	the	Maps of Tertiary Magnetism	\d	the	
 _CEE2AD5AB38D2E18	rpjobitem_203_c4	Map of Medium Magnetism	a	the	Maps of Medium Magnetism	\d	the	
-_3AB021B1F9640567	rpjobitem_203_c5	Map of Absolute Magnetism	a	the	Maps of Absolute Magnetism	\d	the	
+_3AB021B1F9640567	rpjobitem_203_c5	Map of Major Magnetism	a	the	Maps of Major Magnetism	\d	the	
 _A518DB81926887CF	rpjob_204	Apprentice Toolmaker	an	of	Apprentice Toolmaker	\d	of	
 _E1873693C8613D0D	tools_ticket	Improved Tool	an	the	Improved Tools	\d	the	
 _18F46B65C6E278F1	rpjobitem_204_a0	Materials for the Handle	some	the	Materials for the Handle	\d	the	
@@ -7853,3 +7853,10 @@ _80F7C6C5E3249271	iczaup	Nin-Ka Panties	\d	the	Nin-Ka Panties	\d	the	Zoraï Ligh
 _B5D4E9917A8BD9B1	iczauv	Nin-Ka Bra	\d	the	Nin-Ka Bra	\d	the	Zoraï Light Bra
 _7179D6FE2D87A5B8	tp_interface_kami	Kami Teleportation Artefact	a	the	Kami Teleportation Artefact	the		
 _84020E9F43014E3E	tp_interface_karavan	Karavan Teleportation Artefact	a	the	Karavan Teleportation Artefact	the		
+_E1069680FFDA0183	wheel_token_anlor	withered token	a	the	withered tokens	the		
+_54445E2B93587688	wheel_token_atysmas	withered token	a	the	withered tokens	the		
+_E10696717E4BCD84	wheel_token_basic	withered token	a	the	withered tokens	the		
+_5DC47E6D6C73FA98	wheel_token_choice	withered token	a	the	withered tokens	the		
+_1DE726797DBE9444	wheel_token_fine	withered token	a	the	withered tokens	the		
+_5DC49E6FAE842EA8	wheel_token_suprem	withered token	a	the	withered tokens	the		
+_677212AB08CFE10C	wheel_token_xl	withered token	a	the	withered tokens	the		
