@@ -69,13 +69,19 @@ function ArkMissionCatalog:autoResize()
 	if ArkMissionCatalog.cat == "storyline" then
 		if ui.w < 784 then
 			if ArkMissionCatalog.cat == "storyline" then
-				htmlB:find("TD30").x = math.max(0, 200-784+ui.w)
-				ArkMissionCatalog.need_restore_td30 = true
+				local td30 = htmlB:find("storyline_content")
+				if td30 ~= nil then
+					td30.x = math.max(0, 200-784+ui.w)
+					ArkMissionCatalog.need_restore_td30 = true
+				end
 			end
 		else
 			if ArkMissionCatalog.need_restore_td30 then
-				htmlB:find("TD30").x = 200
-				ArkMissionCatalog.need_restore_td30 = false
+				local td30 = htmlB:find("storyline_content")
+				if td30 ~= nil then
+					td30.x = 200
+					ArkMissionCatalog.need_restore_td30 = false
+				end
 			end
 		end
 	end
