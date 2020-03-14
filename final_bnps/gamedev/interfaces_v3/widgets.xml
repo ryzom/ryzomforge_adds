@@ -76,7 +76,7 @@
     </template>
     <template name="in_scene_user_info" id="" keep="true">
         <group id="#id" type="in_scene_user_info" header_active="false" options="no_bordure" openable="false" savable="false" resizer="true" movable="false" right_button="false" opened="true" child_resize_w="true" child_resize_h="true" w="0" h="0" win_priority="%win_priority_world_space" posref="BL BM" use_cursor="false">
-            <group id="right" child_resize_w="true" child_resize_h="true" w="0" x="38" h="158" posref="TL TL">
+            <group id="right" child_resize_w="true" child_resize_h="true" w="0" x="38" h="158" posref="TL TL" child_resize_hmargin="7">
                 <view type="text" id="info0" posref="TL TL" x="0" y="-7" fontsize="14" shadow="true" hardtext="" color="255 255 255 255" global_color="true" />
                 <view type="text" id="info1" posref="BL TL" posparent="info0" x="0" fontsize="12" shadow="true" hardtext="" color="255 255 255 255" global_color="true" />
                 <view type="text" id="info2" posref="BL TL" posparent="info1" x="0" fontsize="10" shadow="true" hardtext="" color="255 255 255 255" global_color="true" />
@@ -84,10 +84,10 @@
                 <view type="bitmap" id="target" posref="TR TL" posparent="info0" x="4" texture="target.tga" global_color="false" />
                 <view type="bitmap" id="invisible_logo" posref="TR TL" posparent="target" x="2" y="3" scale="true" w="20" h="20" texture="ico_fear.tga" active="false" global_color="false" />
                 <view type="bitmap" id="mission_target" posref="TR TL" posparent="invisible_logo" x="2" y="4" texture="target_mission.tga" global_color="false" />
-                <view type="bitmap" id="rp_logo_1" posref="TR TL" x="2" y="0" w="24" h="24" scale="true" slot="false" posparent="mission_target" color="255 255 255 255" render_layer="1" texture="" global_color="false" />
-                <view type="bitmap" id="rp_logo_2" posref="TR TL" x="2" y="0" w="24" h="24" scale="true" slot="false" posparent="rp_logo_1" color="255 255 255 255" render_layer="1" texture="" global_color="false" />
-                <view type="bitmap" id="rp_logo_3" posref="TR TL" x="2" y="0" w="24" h="24" scale="true" slot="false" posparent="rp_logo_2" color="255 255 255 255" render_layer="1" texture="" global_color="false" />
-                <view type="bitmap" id="rp_logo_4" posref="TR TL" x="2" y="0" w="24" h="24" scale="true" slot="false" posparent="rp_logo_3" color="255 255 255 255" render_layer="1" texture="" global_color="false" />
+                <view type="bitmap" id="rp_logo_1" posref="TR TL" x="2" y="0" w="24" h="24" scale="true" slot="false" posparent="mission_target" color="255 255 255 255" render_layer="1" texture="" active="false" global_color="false" />
+                <view type="bitmap" id="rp_logo_2" posref="TR TL" x="2" y="0" w="24" h="24" scale="true" slot="false" posparent="rp_logo_1" color="255 255 255 255" render_layer="1" texture="" active="false" global_color="false" />
+                <view type="bitmap" id="rp_logo_3" posref="TR TL" x="2" y="0" w="24" h="24" scale="true" slot="false" posparent="rp_logo_2" color="255 255 255 255" render_layer="1" texture="" active="false" global_color="false" />
+                <view type="bitmap" id="rp_logo_4" posref="TR TL" x="2" y="0" w="24" h="24" scale="true" slot="false" posparent="rp_logo_3" color="255 255 255 255" render_layer="1" texture="" active="false" global_color="false" />
                 <view type="bitmap" id="win_top" posparent="info2" posref="BL TL" y="-8" texture="Infos_top.tga" global_color="true" />
                 <view type="bitmap" id="win_mid" posparent="win_top" posref="BL TL" scale="true" w="70" h="1" texture="Infos_mid.tga" global_color="true" />
                 <view type="bitmap" id="win_bot" posparent="win_mid" posref="BL TL" texture="Infos_bot.tga" global_color="true" />
@@ -100,7 +100,7 @@
                 <view type="bitmap" id="bar3" posparent="bar2" posref="BL TL" x="0" y="-2" scale="true" w="30" h="4" texture="Jauge_fill.tga" color="128 128 128 255" global_color="false" />
                 <view type="bitmap" id="bar4" posparent="bar3" posref="BL TL" x="0" y="-2" scale="true" w="0" h="4" texture="Jauge_fill.tga" color="128 128 128 255" global_color="false" />
             </group>
-            <ctrl type="sheet" id="guild_logo" posref="TL TR" posparent="right" x="-4" slot="false" nature="guild_flag" value="UI:TEMP:GUILD_SHEET" dragable="false" color="255 255 255 255" />
+            <ctrl type="sheet" id="guild_logo" posref="TL TR" posparent="right" x="-4" y="-7" slot="false" nature="guild_flag" value="UI:TEMP:GUILD_SHEET" dragable="false" color="255 255 255 255" />
             <view type="bitmap" id="npc_mission_logo" posref="TL TL" slot="false" x="0" color="255 255 255 255" render_layer="1" texture="" global_color="false" />
             <view type="bitmap" id="npc_mission_logo_over" posref="TL TL" slot="false" x="0" color="255 255 255 255" render_layer="2" texture="" global_color="false" />
             <group id="right_pvp" posref="TR TL" posparent="right" child_resize_w="true" child_resize_h="true">
