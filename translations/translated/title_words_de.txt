@@ -239,8 +239,8 @@ _32214E28C1BED0C7	fct_shield_merchant	 (Händler für Schilde)	(Händlerin für 
 _EBFB3438BF0A71F2	fct_ammo_merchant	 (Händler für Munition)	(Händlerin für Munition)
 _919CA19DDAA4D948	fct_rangeweapon_merchant	 (Händler für Fernwaffen)	(Händlerin für Fernwaffen)
 _DBF2A497BA13E943	fct_meleeweapon_merchant	 (Händler für Nahkampfwaffen)	(Händlerin für Nahkampfwaffen)
-_ADE0C9FD9644E8C0	fct_stableboy_merchant	 (Stallbursche)	(Stallbedienstete)
-_7996632501A4593B	fct_rm_merchant	 (Händler für Rohmaterialien)	(Händler für Rohmaterialienin)
+_ADE0C9FD9644E8C0	fct_stableboy_merchant	 (Stallbursche)	(Stallbursche)
+_7996632501A4593B	fct_rm_merchant	 (Händler für Rohmaterialien)	(Händlerin für Rohmaterialien)
 _2EAB05EA910C19BE	fct_jewel_merchant	 (Schmuckhändler)	(Schmuckhändlerin)
 _AA2B200E2D36C3C5	fct_tool_merchant	 (Werkzeughändler)	(Werkzeughändlerin)
 _70F01D08DCBDE22A	fct_plarmor_merchant	 (Händler für Bestandteile leichter Rüstungen)	(Händlerin für Bestandteile leichter Rüstungen)
@@ -338,7 +338,7 @@ _3970C1AC0A125D4D	fct_tc_guardchief	 (Oberwächter von Crystabell)	(Oberwächter
 _500A5CB2670F5A64	fct_tb_guard	 (Wächter von Avendale)	(Wächterin von Avendale)
 _FC3F8578AC7FED12	fct_tb_guardchief	 (Oberwächter von Avendale)	(Oberwächterin von Avendale)
 _934C39F8D52E7372	fct_zf_guard	 (Grenzwächter)	(Grenzwächterin)
-_0297D1CD54797810	fct_stablegirl_merchant	 (Stallbedienstete)	 (Stallbedienstete)
+_0297D1CD54797810	fct_stablegirl_merchant	 (Stallmädchen)	 (Stallmädchen)
 _943940932D09AC20	fct_barmaid	 (Bardame)	 (Bardame)
 _65A97CB129288099	fct_civil	 (Einwohner)	(Einwohnerin)
 _E4874B11D2C45BA0	fct_sage	 (Weiser)	(Weise)
@@ -1910,7 +1910,7 @@ _B1BFD0FB3C756DEC	gn_karavan_altar_silan_ranger_camp	Ranger Lager Karavan Altar
 _64D6E3A8FE84A1EB	gn_kami_altar_silan_ranger_camp	Ranger Lager Kami Altar	
 _10893D87C3BA7E54	gn_karavan_altar_silan_shattered_ruins	Zerstörte Ruinen Karavan Altar	
 _EFF84EA588CCC3AF	gn_kami_altar_silan_shining_lake	Funkelnder See Kami Altar	
-_E1F7701F6D16ABC4	fct_to_new_horizons	To New Horizons	
+_E1F7701F6D16ABC4	fct_to_new_horizons	Zu Neuen Horizonten	
 _01F007050AF7EF10	fct_marauder_merchant	Marodeure Händler	Marodeure Händlerin
 _A2167788E6C9D4AB	fct_arionasiszig	Arionasis' Zig	
 _2456DF8A68093CAD	fct_tyneetrykzig	Tyneetryk' Zig	
