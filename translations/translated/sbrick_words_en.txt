@@ -559,7 +559,7 @@ _B32BDAE4EA369620	bczsea03	Electric Buckler		an	the				Crafting plan for electri
 _B2C0381BA7FA4C6F	bhq01	Quartering		a	the				Stanza quartering.	
 _BE9E6EE7C51FB4EA	bcraeb07	Refugee Boots		a	the				Crafting plan for refugee boots.	
 _C79EB2C132F765E8	bcraeb08	Refugee Gloves		a	the				Crafting plan for refugee gloves.	
-_1639747BC4C740A4	bcraeb10	Refugee Sleeves		a	the				Crafting plan for refugee sleeves	
+_A639747BC5B67CA5	bcraeb10	Refugee Sleeves		a	the				Crafting plan for refugee sleeves	
 _2A16B2FD7C976135	bcfaca01	Fyros Armor 1		a	the				Lets you make Fyros armor of quality $cr_recommended.	Fyros Armor 1 - Quality: $cr_recommended
 _6A16B2FDBC976136	bcfaca02	Fyros Armor 2		a	the				Lets you make Fyros armor of quality $cr_recommended.	Fyros Armor 2 - Quality: $cr_recommended
 _AA16B2FDFC976137	bcfaca03	Fyros Armor 3		a	the				Lets you make Fyros armor of quality $cr_recommended.	Fyros Armor 3 - Quality: $cr_recommended
@@ -1303,105 +1303,105 @@ _EF85FCB3D2BCB506	BHFPRMFMJ04	Kachine Wood Prospecting		a	the
 _7B79D7CE9A03B9FD	BHFPRMFMJ05	Motega Wood Prospecting		a	the					
 _739930B7D197D047	BHFPRMFMJ06	Tama Wood Prospecting		a	the					
 _78D93CC99153D1B1	BHFPRMFMK01	Any material from group		a	the					
-_EF7908AD0FB7A06B	BHFPRMFMK02	Dead Leaf Prospecting		a	the					 
-_BA3A848DDBE6A5FA	BHFPRMFMK03	Fresh Resin Prospecting		a	the					 
-_F3EB9083A4369BF0	BHFPRMFMK04	Fresh Wood Prospecting		a	the					 
-_5289D4E05CD29C7D	BHFPRMFMK05	Dry Wood Prospecting		a	the					 
-_8CD0051CEC8E1D87	BHFPRMFMK06	Damp Wood Sawdust Prospecting		a	the					 
-_AF78E5DB003B9403	BHFPRMFMK07	Small Reed Leaf Prospecting		a	the					 
-_EE88E5DB3EEBD8F7	BHFPRMFMK08	Large Reed Leaf Prospecting		a	the					 
-_AC98E5DB025B94FF	BHFPRMFMK09	Giant Reed Leaf Prospecting		a	the					 
-_B4CB4083A4369BF7	BHFPRMFMK10	Fresh Bark Prospecting		a	the					 
-_52B9E4D217D29C7D	BHFPRMFMK11	Dry Bark Prospecting		a	the					 
-_F2B900CA98730078	BHFPRMFMK12	Dry Fiber Prospecting		a	the					 
-_F10BDCA99206BBED	BHFPRMFMK13	Damp Fiber Prospecting		a	the					 
-_CEA119D6AD5C3C65	BHFPRMFMK14	Small Pearly Shell Prospecting		a	the					 
-_0DB119D6EB0C8059	BHFPRMFMK15	Large Pearly Shell Prospecting		a	the					 
-_CBC119D6AF7C3C61	BHFPRMFMK16	Giant Pearly Shell Prospecting		a	the					 
-_797A808DDC758DFE	BHFPRMFMK17	Small Pearl Prospecting		a	the					 
-_B88A808D1A25D1F2	BHFPRMFMK18	Large Pearl Prospecting		a	the					 
-_769A808DDE958DFA	BHFPRMFMK19	Giant Pearl Prospecting		a	the					 
-_07CDAD28EBEC8451	BHFPRMFMK20	Silvery Fish Scale Prospecting		a	the					 
-_C97D803234B96DE8	BHFPRMFMK21	Golden Fish Scale Prospecting		a	the					 
-_F42920B40F47E475	BHFPRMFMK22	Worm Silk Prospecting		a	the					 
-_7B19C3DF1AF5A9FB	BHFPRMFMK23	Spider Silk Prospecting		a	the					 
-_AF4809DFC4AC9403	BHFPRMFMK24	Small Reed Stem Prospecting		a	the					 
-_EE5809DF025CD8F7	BHFPRMFMK25	Large Reed Stem Prospecting		a	the					 
-_AD0FF5007509E1F0	BHFPRMFMK26	Fresh Loose Soil Prospecting		a	the					 
-_2D1FF5007428F1F0	BHFPRMFMK27	Dried Loose Soil Prospecting		a	the					 
-_0D3249F236C75C61	BHFPRMFMK28	Small Plant Fossil Prospecting		a	the					 
-_4C4249F27477A055	BHFPRMFMK29	Large Plant Fossil Prospecting		a	the					 
-_3A8AE4D6D5B1B9F2	BHFPRMFMK30	Red Pigment Prospecting		a	the					 
-_721A14613C7CF105	BHFPRMFMK31	Green Pigment Prospecting		a	the					 
-_33691496888DF907	BHFPRMFMK32	Blue Pigment Prospecting		a	the					 
-_FB373E403CCEEDF4	BHFPRMFMK33	Yellow Pigment Prospecting		a	the					 
-_314A14617B5CE1FF	BHFPRMFMK34	Black Pigment Prospecting		a	the					 
+_EF7908AD0FB7A04B	BHFPRMFMK02	Dead Leaf Prospecting		a	the					
+_BA3A848DDBE4A5FA	BHFPRMFMK03	Fresh Resin Prospecting		a	the					
+_F3EB9083A4361BF0	BHFPRMFMK04	Fresh Wood Prospecting		a	the					
+_4A89D4E05CD29C7D	BHFPRMFMK05	Dry Wood Prospecting		a	the					
+_8CD0051CEC8E1D67	BHFPRMFMK06	Damp Wood Sawdust Prospecting		a	the					
+_AF76E5DB003B9403	BHFPRMFMK07	Small Reed Leaf Prospecting		a	the					
+_EE86E5DB3EEBD8F7	BHFPRMFMK08	Large Reed Leaf Prospecting		a	the					
+_AC96E5DB025B94FF	BHFPRMFMK09	Giant Reed Leaf Prospecting		a	the					
+_B4CB4083A4361BF7	BHFPRMFMK10	Fresh Bark Prospecting		a	the					
+_4AB9E4D217D29C7D	BHFPRMFMK11	Dry Bark Prospecting		a	the					
+_F2B900CA98730058	BHFPRMFMK12	Dry Fiber Prospecting		a	the					
+_F10BDCA992063BED	BHFPRMFMK13	Damp Fiber Prospecting		a	the					
+_CEA119D6AD5CBC65	BHFPRMFMK14	Small Pearly Shell Prospecting		a	the					
+_0DB119D6EB0C0059	BHFPRMFMK15	Large Pearly Shell Prospecting		a	the					
+_CBC119D6AF7CBC61	BHFPRMFMK16	Giant Pearly Shell Prospecting		a	the					
+_797A808DDC738DFE	BHFPRMFMK17	Small Pearl Prospecting		a	the					
+_B88A808D1A23D1F2	BHFPRMFMK18	Large Pearl Prospecting		a	the					
+_769A808DDE938DFA	BHFPRMFMK19	Giant Pearl Prospecting		a	the					
+_07CDAD28EBEC0451	BHFPRMFMK20	Silvery Fish Scale Prospecting		a	the					
+_C97D803234B96DC8	BHFPRMFMK21	Golden Fish Scale Prospecting		a	the					
+_F42920B40F47E455	BHFPRMFMK22	Worm Silk Prospecting		a	the					
+_7B19C3DF1AF3A9FB	BHFPRMFMK23	Spider Silk Prospecting		a	the					
+_AF4609DFC4AC9403	BHFPRMFMK24	Small Reed Stem Prospecting		a	the					
+_EE5609DF025CD8F7	BHFPRMFMK25	Large Reed Stem Prospecting		a	the					
+_A50FF5007509E1F0	BHFPRMFMK26	Fresh Loose Soil Prospecting		a	the					
+_251FF5007428F1F0	BHFPRMFMK27	Dried Loose Soil Prospecting		a	the					
+_0D3249F236C7DC61	BHFPRMFMK28	Small Plant Fossil Prospecting		a	the					
+_4C4249F274772055	BHFPRMFMK29	Large Plant Fossil Prospecting		a	the					
+_3A8AE4D6D5AFB9F2	BHFPRMFMK30	Red Pigment Prospecting		a	the					
+_721A14413C7CF105	BHFPRMFMK31	Green Pigment Prospecting		a	the					
+_33691496808DF907	BHFPRMFMK32	Blue Pigment Prospecting		a	the					
+_FB37BE403CCEEDF4	BHFPRMFMK33	Yellow Pigment Prospecting		a	the					
+_314A14417B5CE1FF	BHFPRMFMK34	Black Pigment Prospecting		a	the					
 _78D93CCA9153D1B1	BHFPRMFML01	Any material from group		a	the					
-_B02B648425559BF2	BHFPRMFML02	Green Leaf Prospecting		a	the					 
-_4BF2E1D4AC5D306F	BHFPRMFML03	Fresh Flower Petal Prospecting		a	the					 
-_CB02E1D4AB7C406F	BHFPRMFML04	Dried Flower Petal Prospecting		a	the					 
-_32EA7C822237A073	BHFPRMFML05	Small Bud Prospecting		a	the					 
-_71FA7C8260E7E467	BHFPRMFML06	Large Bud Prospecting		a	the					 
-_AE38CDEA00AEB908	BHFPRMFML07	Fresh Dandelion Prospecting		a	the					 
-_2E48CDEAFFCDC908	BHFPRMFML08	Dried Dandelion Prospecting		a	the					 
-_FA519D32FEDB4838	BHFPRMFML09	Blooming Dandelion Prospecting		a	the					 
-_FB59EBE3BC6ED5FD	BHFPRMFML10	Small Mushroom Prospecting		a	the					 
-_3A69EBE3FA1E19F1	BHFPRMFML11	Large Mushroom Prospecting		a	the					 
-_977EF0F5797B4A71	BHFPRMFML12	Living Insect Larva Prospecting		a	the					 
-_755974679AED850D	BHFPRMFML13	Fresh Cereal Prospecting		a	the					 
-_F5697467990C950D	BHFPRMFML14	Dried Cereal Prospecting		a	the					 
-_0731F90C22B971CE	BHFPRMFML15	Dead Insect Larva Prospecting		a	the					 
-_F2198C822237A073	BHFPRMFML16	Small Egg Prospecting		a	the					 
-_31298C8260E7E467	BHFPRMFML17	Large Egg Prospecting		a	the					 
-_792A608EDBE6D1F6	BHFPRMFML18	Fresh Honey Prospecting		a	the					 
-_F93A608EDA05E1F6	BHFPRMFML19	Dried Honey Prospecting		a	the					 
-_B73A44B012A5B64F	BHFPRMFML20	Peppery Aromatic Plant Prospecting		a	the					 
-_120FF0CA38B44E74	BHFPRMFML21	Spicy Aromatic Plant Prospecting		a	the					 
-_08AADC1D1783D26A	BHFPRMFML22	Bitter Aromatic Plant Prospecting		a	the					 
-_ED504504FA2BCCE1	BHFPRMFML23	Fresh Wild Berry Prospecting		a	the					 
-_6D604504F94ADCE1	BHFPRMFML24	Dried Wild Berry Prospecting		a	the					 
-_7E2B5C8EDC75ADF5	BHFPRMFML25	Small Fruit Prospecting		a	the					 
-_BD3B5C8E1A25F1E9	BHFPRMFML26	Large Fruit Prospecting		a	the					 
+_B02B648425551BF2	BHFPRMFML02	Green Leaf Prospecting		a	the					
+_4BF2E1D4AC5DB06F	BHFPRMFML03	Fresh Flower Petal Prospecting		a	the					
+_CB02E1D4AB7CC06F	BHFPRMFML04	Dried Flower Petal Prospecting		a	the					
+_32EA7C822237A053	BHFPRMFML05	Small Bud Prospecting		a	the					
+_71FA7C8260E7E447	BHFPRMFML06	Large Bud Prospecting		a	the					
+_AE36CDEA00AEB908	BHFPRMFML07	Fresh Dandelion Prospecting		a	the					
+_2E46CDEAFFCDC908	BHFPRMFML08	Dried Dandelion Prospecting		a	the					
+_FA519D32FEDBC838	BHFPRMFML09	Blooming Dandelion Prospecting		a	the					
+_FB596BE3BC6ED5FD	BHFPRMFML10	Small Mushroom Prospecting		a	the					
+_3A696BE3FA1E19F1	BHFPRMFML11	Large Mushroom Prospecting		a	the					
+_977EF0F579794A71	BHFPRMFML12	Living Insect Larva Prospecting		a	the					
+_7559746792ED850D	BHFPRMFML13	Fresh Cereal Prospecting		a	the					
+_F5697467910C950D	BHFPRMFML14	Dried Cereal Prospecting		a	the					
+_0731F90C22B971AE	BHFPRMFML15	Dead Insect Larva Prospecting		a	the					
+_F2198C822237A053	BHFPRMFML16	Small Egg Prospecting		a	the					
+_31298C8260E7E447	BHFPRMFML17	Large Egg Prospecting		a	the					
+_792A608EDBE4D1F6	BHFPRMFML18	Fresh Honey Prospecting		a	the					
+_F93A608EDA03E1F6	BHFPRMFML19	Dried Honey Prospecting		a	the					
+_B73AC4B012A5B64F	BHFPRMFML20	Peppery Aromatic Plant Prospecting		a	the					
+_120FF0CA30B44E74	BHFPRMFML21	Spicy Aromatic Plant Prospecting		a	the					
+_08AADCFD1783D26A	BHFPRMFML22	Bitter Aromatic Plant Prospecting		a	the					
+_E5504504FA2BCCE1	BHFPRMFML23	Fresh Wild Berry Prospecting		a	the					
+_65604504F94ADCE1	BHFPRMFML24	Dried Wild Berry Prospecting		a	the					
+_7E2B5C8EDC73ADF5	BHFPRMFML25	Small Fruit Prospecting		a	the					
+_BD3B5C8E1A23F1E9	BHFPRMFML26	Large Fruit Prospecting		a	the					
 _78D93CCB9153D1B1	BHFPRMFMM01	Any material from group		a	the					
-_8900E8E9FDCC3465	BHFPRMFMM02	Fresh Modified Sap Prospecting		a	the					 
-_0910E8E9FCEB4465	BHFPRMFMM03	Dried Modified Sap Prospecting		a	the					 
-_0AD021ECFDFEF998	BHFPRMFMM04	Fresh Goo Residue Prospecting		a	the					 
-_8AE021ECFC1D0998	BHFPRMFMM05	Dried Goo Residue Prospecting		a	the					 
+_8900E8E9FDCCB465	BHFPRMFMM02	Fresh Modified Sap Prospecting		a	the					
+_0910E8E9FCEBC465	BHFPRMFMM03	Dried Modified Sap Prospecting		a	the					
+_0AD021ECFDFEF978	BHFPRMFMM04	Fresh Goo Residue Prospecting		a	the					
+_8AE021ECFC1D0978	BHFPRMFMM05	Dried Goo Residue Prospecting		a	the					
 _78D93CCC9153D1B1	BHFPRMFMN01	Any material from group		a	the					
-_EDD71838817EED0D	BHFPRMFMN02	Living Parasite Prospecting		a	the					 
-_31CB4C94E5CDF1FE	BHFPRMFMN03	Dead Parasite Prospecting		a	the					 
-_5170E58498229A67	BHFPRMFMN04	Small Firefly Abdomen Prospecting		a	the					 
-_9080E584D6D2DE5B	BHFPRMFMN05	Large Firefly Abdomen Prospecting		a	the					 
-_0FF261FB78C73058	BHFPRMFMN06	Red Butterfly Wing Prospecting		a	the					 
-_0B9C51D5B4E34E85	BHFPRMFMN07	Green Butterfly Wing Prospecting		a	the					 
-_54F0902BE46B925E	BHFPRMFMN08	Blue Butterfly Wing Prospecting		a	the					 
-_83BFF821D442EE56	BHFPRMFMN09	Yellow Butterfly Wing Prospecting		a	the					 
-_D9D121D6E4BC1A5A	BHFPRMFMN10	Small Insect Fossil Prospecting		a	the					 
-_18E121D6226C5E4E	BHFPRMFMN11	Large Insect Fossil Prospecting		a	the					 
+_EDD51838817EED0D	BHFPRMFMN02	Living Parasite Prospecting		a	the					
+_31CB4C74E5CDF1FE	BHFPRMFMN03	Dead Parasite Prospecting		a	the					
+_5170E56498229A67	BHFPRMFMN04	Small Firefly Abdomen Prospecting		a	the					
+_9080E564D6D2DE5B	BHFPRMFMN05	Large Firefly Abdomen Prospecting		a	the					
+_0FF261FB78C7B058	BHFPRMFMN06	Red Butterfly Wing Prospecting		a	the					
+_0B9C51D5ACE34E85	BHFPRMFMN07	Green Butterfly Wing Prospecting		a	the					
+_54F0902BE469925E	BHFPRMFMN08	Blue Butterfly Wing Prospecting		a	the					
+_83BFF801D442EE56	BHFPRMFMN09	Yellow Butterfly Wing Prospecting		a	the					
+_D9D121D6E4BA1A5A	BHFPRMFMN10	Small Insect Fossil Prospecting		a	the					
+_18E121D6226A5E4E	BHFPRMFMN11	Large Insect Fossil Prospecting		a	the					
 _78D93CCD9153D1B1	BHFPRMFMO01	Any material from group		a	the					
-_1061EDF674385463	BHFPRMFMO02	Fresh Kitin Cocoon Prospecting		a	the					 
-_AF9FA54D31C85597	BHFPRMFMO03	Old Kitin Cocoon Prospecting		a	the					 
-_3529B06A1B9C1508	BHFPRMFMO04	Kitin Saliva Prospecting		a	the					 
-_BB1A6C915C45ADFE	BHFPRMFMO05	Kitin Larva Prospecting		a	the					 
+_1061EDF67438D463	BHFPRMFMO02	Fresh Kitin Cocoon Prospecting		a	the					
+_A79FA54D31C85597	BHFPRMFMO03	Old Kitin Cocoon Prospecting		a	the					
+_3529B06A139C1508	BHFPRMFMO04	Kitin Saliva Prospecting		a	the					
+_BB1A6C915C43ADFE	BHFPRMFMO05	Kitin Larva Prospecting		a	the					
 _78D93CCE9153D1B1	BHFPRMFMP01	Any material from group		a	the					
-_EFF500B9DA9DC10A	BHFPRMFMP02	Rotting Leaf Prospecting		a	the					 
-_B10500B9DA7DF914	BHFPRMFMP03	Rotting Wood Prospecting		a	the					 
-_FC7A8C92DC7595FE	BHFPRMFMP04	Small Thorn Prospecting		a	the					 
-_3B8A8C921A25D9F2	BHFPRMFMP05	Large Thorn Prospecting		a	the					 
-_F99A8C92DE9595FA	BHFPRMFMP06	Giant Thorn Prospecting		a	the					 
-_5943634B803738AB	BHFPRMFMP07	Dust Prospecting		a	the					 
-_EDF664B47ADD21FE	BHFPRMFMP08	Rotting Fiber Prospecting		a	the					 
-_6FB0F9EDAABDD1DC	BHFPRMFMP09	Small Spider Web Prospecting		a	the					 
-_AE20FDEDE86D15D0	BHFPRMFMP10	Large Spider Web Prospecting		a	the					 
+_EFF500B9D29DC10A	BHFPRMFMP02	Rotting Leaf Prospecting		a	the					
+_B10500B9D27DF914	BHFPRMFMP03	Rotting Wood Prospecting		a	the					
+_FC7A8C92DC7395FE	BHFPRMFMP04	Small Thorn Prospecting		a	the					
+_3B8A8C921A23D9F2	BHFPRMFMP05	Large Thorn Prospecting		a	the					
+_F99A8C92DE9395FA	BHFPRMFMP06	Giant Thorn Prospecting		a	the					
+_5943634B083738AB	BHFPRMFMP07	Dust Prospecting		a	the					
+_EDF664947ADD21FE	BHFPRMFMP08	Rotting Fiber Prospecting		a	the					
+_67B0F9EDAABDD1DC	BHFPRMFMP09	Small Spider Web Prospecting		a	the					
+_A620FDEDE86D15D0	BHFPRMFMP10	Large Spider Web Prospecting		a	the					
 _78D93CCF9153D1B1	BHFPRMFMQ01	Any material from group		a	the					
-_F1F940CC9B730078	BHFPRMFMQ02	Dry Resin Prospecting		a	the					 
-_5AB0A15B754921D0	BHFPRMFMQ03	Dry Wood Sawdust Prospecting		a	the					 
-_33993CDBDB730078	BHFPRMFMQ04	Dry Straw Prospecting		a	the					 
-_F02C04BC9206BBF2	BHFPRMFMQ05	Damp Straw Prospecting		a	the					 
-_F4B9D08721A8B078	BHFPRMFMQ06	Fresh Wax Prospecting		a	the					 
-_9322E4C161B374A4	BHFPRMFMQ07	Dry Wax Prospecting		a	the					 
-_F42B6889A4369BFF	BHFPRMFMQ08	Fresh Moss Prospecting		a	the					 
-_52BAE4E6DAD29C7D	BHFPRMFMQ09	Dry Moss Prospecting		a	the					 
+_F1F940CC9B730058	BHFPRMFMQ02	Dry Resin Prospecting		a	the					
+_52B0A15B754921D0	BHFPRMFMQ03	Dry Wood Sawdust Prospecting		a	the					
+_33993CDBDB730058	BHFPRMFMQ04	Dry Straw Prospecting		a	the					
+_F02C04BC92063BF2	BHFPRMFMQ05	Damp Straw Prospecting		a	the					
+_F4B9D08721A8B058	BHFPRMFMQ06	Fresh Wax Prospecting		a	the					
+_9320E4C161B374A4	BHFPRMFMQ07	Dry Wax Prospecting		a	the					
+_F42B6889A4361BFF	BHFPRMFMQ08	Fresh Moss Prospecting		a	the					
+_4ABAE4E6DAD29C7D	BHFPRMFMQ09	Dry Moss Prospecting		a	the					
 _78D93CB5895551B1	BHFPRMFMW01	Any Material From Group		an	the					 
 _F1D6DCDCDEC5B9FD	BHFPRMFMW02	Gulatch Oil Prospecting		a	the					 
 _7409B08DA287CC6F	BHFPRMFMW03	Pilan Oil Prospecting		a	the					 
@@ -3763,7 +3763,7 @@ _48314EAC0405DC4D	bcbmea10_3	Crafting Plan / Sword of the Lagoon Brothers		un	le
 _7C3E55C696FAEA8E	bcbrea01	Crafting Plan / Autolauncher of the Night Turners		un	le				Crafting Plan / Autolauncher of the Night Turners.	
 _277A02C90524B335	bcbrea01_2	Crafting Plan / Autolauncher of the Dune Riders		un	le				Crafting Plan / Autolauncher of the Dune Riders.	
 _270A0EE6C2F4772E	bcbrea01_3	Crafting Plan / Autolauncher of the Firebrands		un	le				Crafting Plan / Autolauncher of the Firebrands.	
-_9CE87F3E98912C19	bcbrea02	Crafting Plan / Bowrifle of the Siblings of the Weeds		un	le				Crafting Plan / Bowrifle of the Siblings of the Weeds.	
+_9CE8FF3E98912C19	bcbrea02	Crafting Plan / Bowrifle of the Siblings of the Weeds		un	le				Crafting Plan / Bowrifle of the Siblings of the Weeds.	
 _6B1EC524144C6EB1	bcbrea02_2	Crafting Plan / Bowrifle of the Antikamis		un	le				Crafting Plan / Bowrifle of the Antikamis.	
 _4682E4D371DC9755	bcbrea02_3	Crafting Plan / Bowrifle of the Keepers		un	le				Crafting Plan / Bowrifle of the Keepers.	
 _64294F7B3B408E09	bcbrea03	Crafting Plan / Spear of the Frahar Hunters		un	le				Crafting Plan / Spear of the Frahar Hunters.	
@@ -4424,3 +4424,35 @@ _DAF7F405FA24DF28	bctaea22	Tryker Light Panties Craft Pattern		a	the				Brick Cr
 _CC5E0B5D0A330EE8	bctaea23	Tryker Light Bra Craft Pattern		a	the				Brick Craftman's plan for tryker light bra	
 _DA9AD7DB9BAC650F	bczaea22	Zorai Light Panties Craft Pattern		a	the				Brick Craftman's plan for zorai light panties	
 _F6AD9225C44B58FA	bczaea23	Zorai Light Bra Craft Pattern		a	the				Brick Craftman's plan for zorai light bra	
+_9707E479B11A4477	tag_fyros_1	Fyros I								
+_6123F080AE76139F	tag_fyros_2	Fyros II								
+_95640C6D1FC6B0C6	tag_fyros_3	Fyros III								
+_6114F080AE761B9F	tag_fyros_4	Fyros IV								
+_5907CC7BABC90866	tag_matis_1	Matis I								
+_23C3F868E9A6BB8E	tag_matis_2	Matis II								
+_D684AC74608658B5	tag_matis_3	Matis III								
+_23B4F868E9A6C38E	tag_matis_4	Matis IV								
+_4F04E0B2D799E0A1	tag_tryker_1	Tryker I								
+_1394E89D646BF87C	tag_tryker_2	Tryker II								
+_91B494A5A8CB648A	tag_tryker_3	Tryker III								
+_9494E89D646BF889	tag_tryker_4	Tryker IV								
+_9C66AC6F29DA6C81	tag_zorai_1	Zorai I								
+_E443F06C2BD7EBA9	tag_zorai_2	Zorai II								
+_1764E4771FE688C6	tag_zorai_3	Zorai III								
+_E434F06C2BD7F3A9	tag_zorai_4	Zorai IV								
+_5E5492A658B054B0	tag_kami_1	Kami I								
+_DA639B850F848C98	tag_kami_2	Kami II								
+_53661B895E642C8A	tag_kami_3	Kami III								
+_DA83A3920F848C98	tag_kami_4	Kami IV								
+_A12860B2A4EB5C2E	tag_karavan_1	Karavan I								
+_236780ACAEE7A01E	tag_karavan_2	Karavan II								
+_20E868BF9EF85C29	tag_karavan_3	Karavan III								
+_236780ACAEB8A020	tag_karavan_4	Karavan IV								
+_639920CF5A24979E	tag_marauder_1	Marauder I								
+_65396CA49E13CB90	tag_marauder_2	Marauder II								
+_E46AC0A45AD39798	tag_marauder_3	Marauder III								
+_65396CB19E13D390	tag_marauder_4	Marauder IV								
+_4E539CB0D537589D	tag_ranger_1	Ranger I								
+_5083E09D62097074	tag_ranger_2	Ranger II								
+_4D9494A5A669CC7B	tag_ranger_3	Ranger III								
+_D183E09D62097081	tag_ranger_4	Ranger IV								

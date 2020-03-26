@@ -559,7 +559,7 @@ _B32BDAE4EA369620	bczsea03	Plan de Fabricación de Defensa Eléctrica		un	el				
 _B2C0381BA7FA4C6F	bhq01	Estancia de Descuartizamiento		un	el				Estancia de descuartizamiento.	
 _BE9E6EE7C51FB4EA	bcraeb07	Plan de Fabricacion de Botas de Refugiado		un	el				Plan de fabricacion de botas de refugiado.	
 _C79EB2C132F765E8	bcraeb08	Plan de Fabricacion de Guantes de Refugiado		un	el				Plan de fabricacion de guantes de refugiado.	
-_1639747BC4C740A4	bcraeb10	Mangas de Refugiado		unas	las					
+_A639747BC5B67CA5	bcraeb10	Mangas de Refugiado		unas	las					
 _2A16B2FD7C976135	bcfaca01	Armadura Fyros 1		una	la				Te permite fabricar armadura Fyros de calidad $cr_recommended.	Armadura Fyros 1 - Calidad: $cr_recommended
 _6A16B2FDBC976136	bcfaca02	Armadura Fyros 2		una	la				Te permite fabricar armadura Fyros de calidad $cr_recommended.	Armadura Fyros 2 - Calidad: $cr_recommended
 _AA16B2FDFC976137	bcfaca03	Armadura Fyros 3		una	la				Te permite fabricar armadura Fyros de calidad $cr_recommended.	Armadura Fyros 3 - Calidad: $cr_recommended
@@ -1303,105 +1303,105 @@ _EF85FCB3D2BCB506	BHFPRMFMJ04	Prospección de Mdera de Kachine		una	la
 _7B79D7CE9A03B9FD	BHFPRMFMJ05	Prospección de Madera de Motega		una	la					
 _739930B7D197D047	BHFPRMFMJ06	Prospección de Madera de Tama		una	la					
 _78D93CC99153D1B1	BHFPRMFMK01	Cualquier Material del Grupo		un	el					
-_EF7908AD0FB7A06B	BHFPRMFMK02	Prospección de Hoja Muerta		una	la					 
-_BA3A848DDBE6A5FA	BHFPRMFMK03	Prospección de Resina Fresca		una	la					 
-_F3EB9083A4369BF0	BHFPRMFMK04	Prospección de Madera Fresca		una	la					 
-_5289D4E05CD29C7D	BHFPRMFMK05	Prospección de Madera Seca		una	la					 
-_8CD0051CEC8E1D87	BHFPRMFMK06	Prospección de Aserrín de Madera Húmeda		una	la					 
-_AF78E5DB003B9403	BHFPRMFMK07	Prospección de Hoja de Caña Pequeña		una	la					 
-_EE88E5DB3EEBD8F7	BHFPRMFMK08	Prospección de Hoja de Caña Grande		una	la					 
-_AC98E5DB025B94FF	BHFPRMFMK09	Prospección de Hoja de Caña Gigante		una	la					 
-_B4CB4083A4369BF7	BHFPRMFMK10	Prospección de Corteza Fresca		una	la					 
-_52B9E4D217D29C7D	BHFPRMFMK11	Prospección de Corteza Seca		una	la					 
-_F2B900CA98730078	BHFPRMFMK12	Prospección de Fibra Seca		una	la					 
-_F10BDCA99206BBED	BHFPRMFMK13	Prospección de Fibra Húmeda		una	la					 
-_CEA119D6AD5C3C65	BHFPRMFMK14	Prospección de Concha Nacarada Pequeña		una	la					 
-_0DB119D6EB0C8059	BHFPRMFMK15	Prospección de Concha Nacarada Grande		una	la					 
-_CBC119D6AF7C3C61	BHFPRMFMK16	Prospección de Concha Nacarada Gigante		una	la					 
-_797A808DDC758DFE	BHFPRMFMK17	Prospección de Perla Pequeña		una	la					 
-_B88A808D1A25D1F2	BHFPRMFMK18	Prospección de Perla Grande		una	la					 
-_769A808DDE958DFA	BHFPRMFMK19	Prospección de Perla Gigante		una	la					 
-_07CDAD28EBEC8451	BHFPRMFMK20	Prospección de Escama de Pez Plateado		una	la					 
-_C97D803234B96DE8	BHFPRMFMK21	Prospección de Escama de Pez Dorado		una	la					 
-_F42920B40F47E475	BHFPRMFMK22	Prospección de Gusano de Seda		una	la					 
-_7B19C3DF1AF5A9FB	BHFPRMFMK23	Prospección de Araña de Seda		una	la					 
-_AF4809DFC4AC9403	BHFPRMFMK24	Prospección de Tallo de Junco Pequeño		una	la					 
-_EE5809DF025CD8F7	BHFPRMFMK25	Prospección de Tallo de Junco Grande		una	la					 
-_AD0FF5007509E1F0	BHFPRMFMK26	Prospección de Tierra Suelta Fresca		una	la					 
-_2D1FF5007428F1F0	BHFPRMFMK27	Prospección de Tierra Suelta Seca		una	la					 
-_0D3249F236C75C61	BHFPRMFMK28	Prospección de Fósil de Planta Pequeña		una	la					 
-_4C4249F27477A055	BHFPRMFMK29	Prospección de Fósil de Planta Grande		una	la					 
-_3A8AE4D6D5B1B9F2	BHFPRMFMK30	Prospección de Pigmento Rojo		una	la					 
-_721A14613C7CF105	BHFPRMFMK31	Prospección de Pigmento Verde		una	la					 
-_33691496888DF907	BHFPRMFMK32	Prospección de Pigmento Azul		una	la					 
-_FB373E403CCEEDF4	BHFPRMFMK33	Prospección de Pigmento Amarillo		una	la					 
-_314A14617B5CE1FF	BHFPRMFMK34	Prospección de Pigmento Negro		una	la					 
+_EF7908AD0FB7A04B	BHFPRMFMK02	Prospección de Hoja Muerta		una	la					
+_BA3A848DDBE4A5FA	BHFPRMFMK03	Prospección de Resina Fresca		una	la					
+_F3EB9083A4361BF0	BHFPRMFMK04	Prospección de Madera Fresca		una	la					
+_4A89D4E05CD29C7D	BHFPRMFMK05	Prospección de Madera Seca		una	la					
+_8CD0051CEC8E1D67	BHFPRMFMK06	Prospección de Aserrín de Madera Húmeda		una	la					
+_AF76E5DB003B9403	BHFPRMFMK07	Prospección de Hoja de Caña Pequeña		una	la					
+_EE86E5DB3EEBD8F7	BHFPRMFMK08	Prospección de Hoja de Caña Grande		una	la					
+_AC96E5DB025B94FF	BHFPRMFMK09	Prospección de Hoja de Caña Gigante		una	la					
+_B4CB4083A4361BF7	BHFPRMFMK10	Prospección de Corteza Fresca		una	la					
+_4AB9E4D217D29C7D	BHFPRMFMK11	Prospección de Corteza Seca		una	la					
+_F2B900CA98730058	BHFPRMFMK12	Prospección de Fibra Seca		una	la					
+_F10BDCA992063BED	BHFPRMFMK13	Prospección de Fibra Húmeda		una	la					
+_CEA119D6AD5CBC65	BHFPRMFMK14	Prospección de Concha Nacarada Pequeña		una	la					
+_0DB119D6EB0C0059	BHFPRMFMK15	Prospección de Concha Nacarada Grande		una	la					
+_CBC119D6AF7CBC61	BHFPRMFMK16	Prospección de Concha Nacarada Gigante		una	la					
+_797A808DDC738DFE	BHFPRMFMK17	Prospección de Perla Pequeña		una	la					
+_B88A808D1A23D1F2	BHFPRMFMK18	Prospección de Perla Grande		una	la					
+_769A808DDE938DFA	BHFPRMFMK19	Prospección de Perla Gigante		una	la					
+_07CDAD28EBEC0451	BHFPRMFMK20	Prospección de Escama de Pez Plateado		una	la					
+_C97D803234B96DC8	BHFPRMFMK21	Prospección de Escama de Pez Dorado		una	la					
+_F42920B40F47E455	BHFPRMFMK22	Prospección de Gusano de Seda		una	la					
+_7B19C3DF1AF3A9FB	BHFPRMFMK23	Prospección de Araña de Seda		una	la					
+_AF4609DFC4AC9403	BHFPRMFMK24	Prospección de Tallo de Junco Pequeño		una	la					
+_EE5609DF025CD8F7	BHFPRMFMK25	Prospección de Tallo de Junco Grande		una	la					
+_A50FF5007509E1F0	BHFPRMFMK26	Prospección de Tierra Suelta Fresca		una	la					
+_251FF5007428F1F0	BHFPRMFMK27	Prospección de Tierra Suelta Seca		una	la					
+_0D3249F236C7DC61	BHFPRMFMK28	Prospección de Fósil de Planta Pequeña		una	la					
+_4C4249F274772055	BHFPRMFMK29	Prospección de Fósil de Planta Grande		una	la					
+_3A8AE4D6D5AFB9F2	BHFPRMFMK30	Prospección de Pigmento Rojo		una	la					
+_721A14413C7CF105	BHFPRMFMK31	Prospección de Pigmento Verde		una	la					
+_33691496808DF907	BHFPRMFMK32	Prospección de Pigmento Azul		una	la					
+_FB37BE403CCEEDF4	BHFPRMFMK33	Prospección de Pigmento Amarillo		una	la					
+_314A14417B5CE1FF	BHFPRMFMK34	Prospección de Pigmento Negro		una	la					
 _78D93CCA9153D1B1	BHFPRMFML01	Cualquier Material del Grupo		un	el					
-_B02B648425559BF2	BHFPRMFML02	Prospección de Hoja Verde		una	la					 
-_4BF2E1D4AC5D306F	BHFPRMFML03	Prospección de Pétalo de Flores Frescas		una	la					 
-_CB02E1D4AB7C406F	BHFPRMFML04	Prospección de Pétalo de Flor Seca		una	la					 
-_32EA7C822237A073	BHFPRMFML05	Prospección de Brote Pequeño		una	la					 
-_71FA7C8260E7E467	BHFPRMFML06	Prospección de Brote Grande		una	la					 
-_AE38CDEA00AEB908	BHFPRMFML07	Prospección de Diente de León Fresco		una	la					 
-_2E48CDEAFFCDC908	BHFPRMFML08	Prospección de Diente de León Seco		una	la					 
-_FA519D32FEDB4838	BHFPRMFML09	Prospección de Diente de León Floreciente		una	la					 
-_FB59EBE3BC6ED5FD	BHFPRMFML10	Prospección de Hongo Pequeño		una	la					 
-_3A69EBE3FA1E19F1	BHFPRMFML11	Prospección de Hongo Grande		una	la					 
-_977EF0F5797B4A71	BHFPRMFML12	Prospección de Larva de Insecto Viviente		una	la					 
-_755974679AED850D	BHFPRMFML13	Prospección de Cereal Fresco		una	la					 
-_F5697467990C950D	BHFPRMFML14	Prospección de Cereal Seco		una	la					 
-_0731F90C22B971CE	BHFPRMFML15	Prospección de Larva de Insecto Muerto		una	la					 
-_F2198C822237A073	BHFPRMFML16	Prospección de Huevo Pequeño		una	la					 
-_31298C8260E7E467	BHFPRMFML17	Prospección de Huevo Grande		una	la					 
-_792A608EDBE6D1F6	BHFPRMFML18	Prospección de Miel Fresca		una	la					 
-_F93A608EDA05E1F6	BHFPRMFML19	Prospección de Miel Seca		una	la					 
-_B73A44B012A5B64F	BHFPRMFML20	Prospección de Planta Aromática con Pimienta		una	la					 
-_120FF0CA38B44E74	BHFPRMFML21	Prospección de Planta Aromática Picante		una	la					 
-_08AADC1D1783D26A	BHFPRMFML22	Prospección de Planta Aromática Amarga		una	la					 
-_ED504504FA2BCCE1	BHFPRMFML23	Prospección de Baya Salvaje Fresca		una	la					 
-_6D604504F94ADCE1	BHFPRMFML24	Prospección de Baya Salvaje Seca		una	la					 
-_7E2B5C8EDC75ADF5	BHFPRMFML25	Prospección de Fruta Pequeña		una	la					 
-_BD3B5C8E1A25F1E9	BHFPRMFML26	Prospección de Fruta Grande		una	la					 
+_B02B648425551BF2	BHFPRMFML02	Prospección de Hoja Verde		una	la					
+_4BF2E1D4AC5DB06F	BHFPRMFML03	Prospección de Pétalo de Flores Frescas		una	la					
+_CB02E1D4AB7CC06F	BHFPRMFML04	Prospección de Pétalo de Flor Seca		una	la					
+_32EA7C822237A053	BHFPRMFML05	Prospección de Brote Pequeño		una	la					
+_71FA7C8260E7E447	BHFPRMFML06	Prospección de Brote Grande		una	la					
+_AE36CDEA00AEB908	BHFPRMFML07	Prospección de Diente de León Fresco		una	la					
+_2E46CDEAFFCDC908	BHFPRMFML08	Prospección de Diente de León Seco		una	la					
+_FA519D32FEDBC838	BHFPRMFML09	Prospección de Diente de León Floreciente		una	la					
+_FB596BE3BC6ED5FD	BHFPRMFML10	Prospección de Hongo Pequeño		una	la					
+_3A696BE3FA1E19F1	BHFPRMFML11	Prospección de Hongo Grande		una	la					
+_977EF0F579794A71	BHFPRMFML12	Prospección de Larva de Insecto Viviente		una	la					
+_7559746792ED850D	BHFPRMFML13	Prospección de Cereal Fresco		una	la					
+_F5697467910C950D	BHFPRMFML14	Prospección de Cereal Seco		una	la					
+_0731F90C22B971AE	BHFPRMFML15	Prospección de Larva de Insecto Muerto		una	la					
+_F2198C822237A053	BHFPRMFML16	Prospección de Huevo Pequeño		una	la					
+_31298C8260E7E447	BHFPRMFML17	Prospección de Huevo Grande		una	la					
+_792A608EDBE4D1F6	BHFPRMFML18	Prospección de Miel Fresca		una	la					
+_F93A608EDA03E1F6	BHFPRMFML19	Prospección de Miel Seca		una	la					
+_B73AC4B012A5B64F	BHFPRMFML20	Prospección de Planta Aromática con Pimienta		una	la					
+_120FF0CA30B44E74	BHFPRMFML21	Prospección de Planta Aromática Picante		una	la					
+_08AADCFD1783D26A	BHFPRMFML22	Prospección de Planta Aromática Amarga		una	la					
+_E5504504FA2BCCE1	BHFPRMFML23	Prospección de Baya Salvaje Fresca		una	la					
+_65604504F94ADCE1	BHFPRMFML24	Prospección de Baya Salvaje Seca		una	la					
+_7E2B5C8EDC73ADF5	BHFPRMFML25	Prospección de Fruta Pequeña		una	la					
+_BD3B5C8E1A23F1E9	BHFPRMFML26	Prospección de Fruta Grande		una	la					
 _78D93CCB9153D1B1	BHFPRMFMM01	Cualquier Material del Grupo		un	el					
-_8900E8E9FDCC3465	BHFPRMFMM02	Prospección de Savia Fresca Modificada		una	la					 
-_0910E8E9FCEB4465	BHFPRMFMM03	Prospección de Savia Seca Modificada		una	la					 
-_0AD021ECFDFEF998	BHFPRMFMM04	Prospección de Residuo de Goo Fresco		una	la					 
-_8AE021ECFC1D0998	BHFPRMFMM05	Prospección de Residuo de Goo Seco		una	la					 
+_8900E8E9FDCCB465	BHFPRMFMM02	Prospección de Savia Fresca Modificada		una	la					
+_0910E8E9FCEBC465	BHFPRMFMM03	Prospección de Savia Seca Modificada		una	la					
+_0AD021ECFDFEF978	BHFPRMFMM04	Prospección de Residuo de Goo Fresco		una	la					
+_8AE021ECFC1D0978	BHFPRMFMM05	Prospección de Residuo de Goo Seco		una	la					
 _78D93CCC9153D1B1	BHFPRMFMN01	Cualquier Material del Grupo		un	el					
-_EDD71838817EED0D	BHFPRMFMN02	Prospección de Parásito Viviente		una	la					 
-_31CB4C94E5CDF1FE	BHFPRMFMN03	Prospección de Parásito Muerto		una	la					 
-_5170E58498229A67	BHFPRMFMN04	Prospección de Abdomen de Luciernaga Pequeño		una	la					 
-_9080E584D6D2DE5B	BHFPRMFMN05	Prospección de Abdomen de Luciérnaga Pequeño		una	la					 
-_0FF261FB78C73058	BHFPRMFMN06	Prospección de Ala de Mariposa Roja		una	la					 
-_0B9C51D5B4E34E85	BHFPRMFMN07	Prospección de Ala de Mariposa Verde		una	la					 
-_54F0902BE46B925E	BHFPRMFMN08	Prospección de Ala de Mariposa Azul		una	la					 
-_83BFF821D442EE56	BHFPRMFMN09	Prospección de Ala de Mariposa Amarilla		una	la					 
-_D9D121D6E4BC1A5A	BHFPRMFMN10	Prospección de Fósil de Insecto Pequeño		una	la					 
-_18E121D6226C5E4E	BHFPRMFMN11	Prospección de Fósil de Insecto Grande		una	la					 
+_EDD51838817EED0D	BHFPRMFMN02	Prospección de Parásito Viviente		una	la					
+_31CB4C74E5CDF1FE	BHFPRMFMN03	Prospección de Parásito Muerto		una	la					
+_5170E56498229A67	BHFPRMFMN04	Prospección de Abdomen de Luciernaga Pequeño		una	la					
+_9080E564D6D2DE5B	BHFPRMFMN05	Prospección de Abdomen de Luciérnaga Pequeño		una	la					
+_0FF261FB78C7B058	BHFPRMFMN06	Prospección de Ala de Mariposa Roja		una	la					
+_0B9C51D5ACE34E85	BHFPRMFMN07	Prospección de Ala de Mariposa Verde		una	la					
+_54F0902BE469925E	BHFPRMFMN08	Prospección de Ala de Mariposa Azul		una	la					
+_83BFF801D442EE56	BHFPRMFMN09	Prospección de Ala de Mariposa Amarilla		una	la					
+_D9D121D6E4BA1A5A	BHFPRMFMN10	Prospección de Fósil de Insecto Pequeño		una	la					
+_18E121D6226A5E4E	BHFPRMFMN11	Prospección de Fósil de Insecto Grande		una	la					
 _78D93CCD9153D1B1	BHFPRMFMO01	Cualquier Material del Grupo		un	el					
-_1061EDF674385463	BHFPRMFMO02	Prospección de Capullo de Kitin Fresco		una	la					 
-_AF9FA54D31C85597	BHFPRMFMO03	Prospección de Capullo de Kitin Viejo		una	la					 
-_3529B06A1B9C1508	BHFPRMFMO04	Prospección de Saliva de Kitin		una	la					 
-_BB1A6C915C45ADFE	BHFPRMFMO05	Prospección de Larva de Kitin		una	la					 
+_1061EDF67438D463	BHFPRMFMO02	Prospección de Capullo de Kitin Fresco		una	la					
+_A79FA54D31C85597	BHFPRMFMO03	Prospección de Capullo de Kitin Viejo		una	la					
+_3529B06A139C1508	BHFPRMFMO04	Prospección de Saliva de Kitin		una	la					
+_BB1A6C915C43ADFE	BHFPRMFMO05	Prospección de Larva de Kitin		una	la					
 _78D93CCE9153D1B1	BHFPRMFMP01	Cualquier Material del Grupo		un	el					
-_EFF500B9DA9DC10A	BHFPRMFMP02	Prospección de Hoja Podrida		una	la					 
-_B10500B9DA7DF914	BHFPRMFMP03	Prospección de Madera Podrida		una	la					 
-_FC7A8C92DC7595FE	BHFPRMFMP04	Prospección de Espina Pequeña		una	la					 
-_3B8A8C921A25D9F2	BHFPRMFMP05	Prospección de Espina Grande		una	la					 
-_F99A8C92DE9595FA	BHFPRMFMP06	Prospección de Espina Gigante		una	la					 
-_5943634B803738AB	BHFPRMFMP07	Prospección de Polvo		una	la					 
-_EDF664B47ADD21FE	BHFPRMFMP08	Prospección de Fibra Podrida		una	la					 
-_6FB0F9EDAABDD1DC	BHFPRMFMP09	Prospección de Tela de Araña Pequeña		una	la					 
-_AE20FDEDE86D15D0	BHFPRMFMP10	Prospección de Tela de Araña Grande		una	la					 
+_EFF500B9D29DC10A	BHFPRMFMP02	Prospección de Hoja Podrida		una	la					
+_B10500B9D27DF914	BHFPRMFMP03	Prospección de Madera Podrida		una	la					
+_FC7A8C92DC7395FE	BHFPRMFMP04	Prospección de Espina Pequeña		una	la					
+_3B8A8C921A23D9F2	BHFPRMFMP05	Prospección de Espina Grande		una	la					
+_F99A8C92DE9395FA	BHFPRMFMP06	Prospección de Espina Gigante		una	la					
+_5943634B083738AB	BHFPRMFMP07	Prospección de Polvo		una	la					
+_EDF664947ADD21FE	BHFPRMFMP08	Prospección de Fibra Podrida		una	la					
+_67B0F9EDAABDD1DC	BHFPRMFMP09	Prospección de Tela de Araña Pequeña		una	la					
+_A620FDEDE86D15D0	BHFPRMFMP10	Prospección de Tela de Araña Grande		una	la					
 _78D93CCF9153D1B1	BHFPRMFMQ01	Cualquier Material del Grupo		un	el					
-_F1F940CC9B730078	BHFPRMFMQ02	Prospección de Resina Seca		una	la					 
-_5AB0A15B754921D0	BHFPRMFMQ03	Prospección de Serrín de Madera Seca		una	la					 
-_33993CDBDB730078	BHFPRMFMQ04	Prospección de Paja Seca		una	la					 
-_F02C04BC9206BBF2	BHFPRMFMQ05	Prospección de Paja Húmeda		una	la					 
-_F4B9D08721A8B078	BHFPRMFMQ06	Prospección de Cera Fresca		una	la					 
-_9322E4C161B374A4	BHFPRMFMQ07	Prospección de Cera Seca		una	la					 
-_F42B6889A4369BFF	BHFPRMFMQ08	Prospección de Musgo Fresco		una	la					 
-_52BAE4E6DAD29C7D	BHFPRMFMQ09	Prospección de Musgo Seco		una	la					 
+_F1F940CC9B730058	BHFPRMFMQ02	Prospección de Resina Seca		una	la					
+_52B0A15B754921D0	BHFPRMFMQ03	Prospección de Serrín de Madera Seca		una	la					
+_33993CDBDB730058	BHFPRMFMQ04	Prospección de Paja Seca		una	la					
+_F02C04BC92063BF2	BHFPRMFMQ05	Prospección de Paja Húmeda		una	la					
+_F4B9D08721A8B058	BHFPRMFMQ06	Prospección de Cera Fresca		una	la					
+_9320E4C161B374A4	BHFPRMFMQ07	Prospección de Cera Seca		una	la					
+_F42B6889A4361BFF	BHFPRMFMQ08	Prospección de Musgo Fresco		una	la					
+_4ABAE4E6DAD29C7D	BHFPRMFMQ09	Prospección de Musgo Seco		una	la					
 _78D93CB5895551B1	BHFPRMFMW01	Cualquier Material del Grupo		un	el					 
 _F1D6DCDCDEC5B9FD	BHFPRMFMW02	Prospección de Petróleo de Gulatch		una	la					 
 _7409B08DA287CC6F	BHFPRMFMW03	Prospección de Petróleo de Pilan		una	la					 
@@ -3763,7 +3763,7 @@ _48314EAC0405DC4D	bcbmea10_3	Plan de Fabricación / Espada de los Hermanos de la
 _7C3E55C696FAEA8E	bcbrea01	Plan de Fabricación / Autolanzador de los Torneros Nocturnos		un	el				Plan de Fabricación / Autolanzador de los Torneros Nocturnos.	
 _277A02C90524B335	bcbrea01_2	Plan de Fabricación /Autolanzador de los Asaltantes de las Dunas		un	el				Plan de Fabricación /Autolanzador de los Asaltantes de las Dunas.	
 _270A0EE6C2F4772E	bcbrea01_3	Plan de Fabricación / Autolanzador de los Firebrands		un	el				Plan de Fabricación / Autolanzador de los Firebrands.	
-_9CE87F3E98912C19	bcbrea02	Plan de Fabricación / Rifle de Arco de los Hermanos de la Maleza		un	el				Plan de Fabricación / Rifle de Arco de los Hermanos de la Maleza.	
+_9CE8FF3E98912C19	bcbrea02	Plan de Fabricación / Rifle de Arco de los Hermanos de la Maleza		un	el				Plan de Fabricación / Rifle de Arco de los Hermanos de la Maleza.	
 _6B1EC524144C6EB1	bcbrea02_2	Plan de Fabricación / Rifle de Arco de los Antikamis		un	el				Plan de Fabricación / Rifle de Arco de los Antikamis.	
 _4682E4D371DC9755	bcbrea02_3	Plan de Fabricación / Rifle de Arco de los Guardianes		un	el				Plan de Fabricación / Rifle de Arco de los Guardianes.	
 _64294F7B3B408E09	bcbrea03	Plan de Fabricación / Lanza de los Cazadores Frahar		un	el				Plan de Fabricación / Lanza de los Cazadores Frahar.	
@@ -4424,3 +4424,35 @@ _DAF7F405FA24DF28	bctaea22	Plan de Fabricación de Calzones Livianas Tryker		un	
 _CC5E0B5D0A330EE8	bctaea23	Plan de Fabricación de Sujetador Livianas tryker		un	el				Plan de fabricación de sujetador livianas Tryker.	
 _DA9AD7DB9BAC650F	bczaea22	Plan de Fabricación de Calzones Livianas Zoraï		un	el				Plan de fabricación de calzones livianas Zoraï.	
 _F6AD9225C44B58FA	bczaea23	Plan de Fabricación de Sujetador Livianas Zoraï		un	el				Plan de fabricación de sujetador livianas Zoraï.	
+_9707E479B11A4477	tag_fyros_1	Fyros I								
+_6123F080AE76139F	tag_fyros_2	Fyros II								
+_95640C6D1FC6B0C6	tag_fyros_3	Fyros III								
+_6114F080AE761B9F	tag_fyros_4	Fyros IV								
+_5907CC7BABC90866	tag_matis_1	Matis I								
+_23C3F868E9A6BB8E	tag_matis_2	Matis II								
+_D684AC74608658B5	tag_matis_3	Matis III								
+_23B4F868E9A6C38E	tag_matis_4	Matis IV								
+_4F04E0B2D799E0A1	tag_tryker_1	Tryker I								
+_1394E89D646BF87C	tag_tryker_2	Tryker II								
+_91B494A5A8CB648A	tag_tryker_3	Tryker III								
+_9494E89D646BF889	tag_tryker_4	Tryker IV								
+_9C66AC6F29DA6C81	tag_zorai_1	Zorai I								
+_E443F06C2BD7EBA9	tag_zorai_2	Zorai II								
+_1764E4771FE688C6	tag_zorai_3	Zorai III								
+_E434F06C2BD7F3A9	tag_zorai_4	Zorai IV								
+_5E5492A658B054B0	tag_kami_1	Kami I								
+_DA639B850F848C98	tag_kami_2	Kami II								
+_53661B895E642C8A	tag_kami_3	Kami III								
+_DA83A3920F848C98	tag_kami_4	Kami IV								
+_A12860B2A4EB5C2E	tag_karavan_1	Karavan I								
+_236780ACAEE7A01E	tag_karavan_2	Karavan II								
+_20E868BF9EF85C29	tag_karavan_3	Karavan III								
+_236780ACAEB8A020	tag_karavan_4	Karavan IV								
+_639920CF5A24979E	tag_marauder_1	Marauder I								
+_65396CA49E13CB90	tag_marauder_2	Marauder II								
+_E46AC0A45AD39798	tag_marauder_3	Marauder III								
+_65396CB19E13D390	tag_marauder_4	Marauder IV								
+_4E539CB0D537589D	tag_ranger_1	Ranger I								
+_5083E09D62097074	tag_ranger_2	Ranger II								
+_4D9494A5A669CC7B	tag_ranger_3	Ranger III								
+_D183E09D62097081	tag_ranger_4	Ranger IV								
