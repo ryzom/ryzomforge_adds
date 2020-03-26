@@ -1,4 +1,4 @@
-﻿// HASH_VALUE 8857DE7C383C5498
+// HASH_VALUE 8857DE7C383C5498
 ABANDON_GROUP_MISSION ()
 {
 			[&SYS&Le chef de votre équipe a abandonné une mission d'équipe.]
@@ -8539,7 +8539,7 @@ CWMH02_DESC (bot giver, place city)
 // HASH_VALUE 7D9C48D073DE06A8
 CWMH02_DIALOG_BARMAN ()
 {
-		cwmh02_dialog_barman	[Bonjour. Vous tombez bien. Vous avez des compétences en forage ? J'aurais besoin de racines spéciales pour donner du goût à mes boissons. Vous pourrez en trouver en creusant à l'ouest de la ville, là ou deux racines géantes sortent du sol. Attention, j'ai besoin de racines de qualité fine.]
+		cwmh02_dialog_barman	[Bonjour. Vous tombez bien. Vous avez des compétences en forage ? J'aurais besoin de racines spéciales pour donner du goût à mes boissons. Vous pourrez en trouver en creusant à l'ouest de la ville, là ou deux racines géantes sortent du sol.]
 
 }
 
@@ -37834,6 +37834,13 @@ MENU_AN_OPENING ()
 
 }
 
+// HASH_VALUE E0171C64E0552494
+MENU_BANARC ()
+{
+			[Banarc]
+
+}
+
 // HASH_VALUE B4321C626C3A3484
 MENU_BUY_NATION_ITEMS ()
 {
@@ -37852,6 +37859,13 @@ MENU_BUY_PVP ()
 MENU_CASINO_INSERT_COIN ()
 {
 			[Play a token]
+
+}
+
+// HASH_VALUE 8D69FC3CE7958B8C
+MENU_DELES_SILAM ()
+{
+			[Deles Silam]
 
 }
 
@@ -37918,6 +37932,13 @@ MENU_LIGHT_UP ()
 
 }
 
+// HASH_VALUE 6B08F0792DA5189C
+MENU_LORDOY ()
+{
+			[Lordoy]
+
+}
+
 // HASH_VALUE CEE1009828377BAA
 MENU_MATISPOETRY ()
 {
@@ -37929,6 +37950,13 @@ MENU_MATISPOETRY ()
 MENU_OPEN_CHEST ()
 {
 			[Ouvrir le coffre]
+
+}
+
+// HASH_VALUE 6C58043C201C9480
+MENU_OPEN_IT ()
+{
+			[Ouvrir !]
 
 }
 
@@ -38045,6 +38073,34 @@ MENU_WHOISKARAVAN (player p, bot b)
 {
 	(b.race = karavan)
 		menu_who_is_karavan	[Qu'est-ce que la Karavan ?]
+
+}
+
+// HASH_VALUE 6018F45C6018F45C
+MENU_WOHA ()
+{
+			[Woha]
+
+}
+
+// HASH_VALUE 513A5C55ABC6D39F
+MENU_WOREN_SILOY ()
+{
+			[Woren Siloy]
+
+}
+
+// HASH_VALUE A1543F9ADEB3535D
+MENU_ZIGA ()
+{
+			[Caresser Ari.]
+
+}
+
+// HASH_VALUE 12E8C386E6355467
+MENU_ZIGB ()
+{
+			[Caresser Tynee.]
 
 }
 
@@ -44240,6 +44296,7 @@ MIS_GIVE_ITEM_MENU (int item_count)
 
 	(item_count > 1)
 		mis_give_item_menu	[Donnez les $item_count$ objets]
+
 }
 
 // HASH_VALUE 189D95F60A4DF8A6
