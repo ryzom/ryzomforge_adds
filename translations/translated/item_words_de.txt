@@ -6890,7 +6890,7 @@ _6396266C1993062B	system_mp_excellent_red	Exzellenter roter Rohstoff	Exzellente 
 _D9F3E41C3DB85F0A	system_mp_excellent_turquoise	Exzellenter türkisfarbener Rohstoff	Exzellente türkisfarbene Rohstoff	Exzellenten türkisfarbenen Rohstoff	Exzellente türkisfarbene Rohstoffe	Exzellenten türkisfarbenen Rohstoffe	einen	die	ein	der		
 _FC0993A06274F698	system_mp_excellent_white	Exzellenter weißer Rohstoff	Exzellente weiße Rohstoff	Exzellente weiße Rohstoff	Exzellente weiße Rohstoffe	Exzellenten weißen Rohstoffe	einen	die	ein	der		
 _29B958CBA68A90A0	web_transaction	Transaktion	Transaktion	Transaktion	Transaktionen	Transaktionen	eine	die	eine	die		
-_2015701C2C98F49B	rpjobloot_casket	geheimnisvolle Kiste	geheimnisvolle Kiste	geheimnisvolle Kiste	geheimnisvolle Kisten	geheimnisvollen Kisten	eine	die	eine	die		
+_2015F01C2C98F49B	rpjobloot_casket	geheimnisvolle Kiste	geheimnisvolle Kiste	geheimnisvolle Kiste	geheimnisvolle Kisten	geheimnisvollen Kisten	eine	die	eine	die		
 _2E488BD22789DCAB	rpjobloot_event	Geheimnisvoller Beutel	geheimnisvolle Beutel	geheimnisvollen Beutel	geheimnisvolle Beutel	geheimnisvollen Beutel	einen	die	ein	der		
 _02C0AA7F32FA1A42	marauder_teleport_crystal	Teleportationskristall der Marodeure	Teleportationskristall der Marodeure	Teleportationskristall der Marodeure	Teleportationskristall der Marodeure	Teleportationskristall der Marodeure	einen	die	ein	der		
 _14F44666805E953D	npc_caravan_pistol_p	<GEN>npc_caravan_pistol_p										
@@ -7909,3 +7909,7 @@ _5DC47E6D6C73FA98	wheel_token_choice	rostige Jeton	rostiger Jeton	rostige Jeton	
 _1DE726797DBE9444	wheel_token_fine	rostige Jeton	rostiger Jeton	rostige Jeton	rostige Jetons	rostigen Jetons	ein	der	ein	die	rostige Jetons	
 _5DC49E6FAE842EA8	wheel_token_suprem	rostige Jeton	rostiger Jeton	rostige Jeton	rostige Jetons	rostigen Jetons	ein	der	ein	die	rostige Jetons	
 _677212AB08CFE10C	wheel_token_xl	rostige Jeton	rostiger Jeton	rostige Jeton	rostige Jetons	rostigen Jetons	ein	der	ein	die	rostige Jetons	
+_B2B03527C20E549C	steak_rendor_1	Rendor Meat			Rendor Meat				a	the		
+_B2B03527C20E589C	steak_rendor_2	Rendor Meat			Rendor Meat				a	the		
+_B2B03527C20E5C9C	steak_rendor_3	Rendor Meat			Rendor Meat				a	the		
+_B2B03527C20E609C	steak_rendor_4	Rendor Meat			Rendor Meat				a	the		
