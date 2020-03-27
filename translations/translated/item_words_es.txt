@@ -7853,14 +7853,14 @@ _80F7C6C5E3249271	iczaup	Calzones Nin-Ka	unas	la	Calzones Nin-Ka		las	Calzones L
 _B5D4E9917A8BD9B1	iczauv	Sujetador Nin-Ka	unas	la	Sujetador Nin-Ka		las	Sujetador Ligeras Zoraï
 _7179D6FE2D87A5B8	tp_interface_kami	Kami Artefacto de teletransportación	un	el	Kami Artefacto de teletransportación		los
 _84020E9F43014E3E	tp_interface_karavan	Karavan Artefacto de teletransportación	un	el	Karavan Artefacto de teletransportación		los
-_E1069680FFDA0183	wheel_token_anlor	Ficha mohosa	una	la	Fichas mohosas	las
-_54445E2B93587688	wheel_token_atysmas	Ficha mohosa	una	la	Fichas mohosas	las
-_E10696717E4BCD84	wheel_token_basic	Ficha mohosa	una	la	Fichas mohosas	las
-_5DC47E6D6C73FA98	wheel_token_choice	Ficha mohosa	una	la	Fichas mohosas	las
-_1DE726797DBE9444	wheel_token_fine	Ficha mohosa	una	la	Fichas mohosas	las
-_5DC49E6FAE842EA8	wheel_token_suprem	Ficha mohosa	una	la	Fichas mohosas	las
+_E1069680FFDA0183	wheel_token_anlor	Ficha mohosa	una	la	Fichas mohosas		las
+_54445E2B93587688	wheel_token_atysmas	Ficha mohosa	una	la	Fichas mohosas		las
+_E10696717E4BCD84	wheel_token_basic	Ficha mohosa	una	la	Fichas mohosas		las
+_5DC47E6D6C73FA98	wheel_token_choice	Ficha mohosa	una	la	Fichas mohosas		las
+_1DE726797DBE9444	wheel_token_fine	Ficha mohosa	una	la	Fichas mohosas		las
+_5DC49E6FAE842EA8	wheel_token_suprem	Ficha mohosa	una	la	Fichas mohosas		las
 _677212AB08CFE10C	wheel_token_xl	Ficha mohosa	una	la	Fichas mohosas	las
-_B2B03527C20E549C	steak_rendor_1	Rendor Meat	a	the	Rendor Meat
-_B2B03527C20E589C	steak_rendor_2	Rendor Meat	a	the	Rendor Meat
-_B2B03527C20E5C9C	steak_rendor_3	Rendor Meat	a	the	Rendor Meat
-_B2B03527C20E609C	steak_rendor_4	Rendor Meat	a	the	Rendor Meat
+_B2B03527C20E549C	steak_rendor_1	Carne de Rendor	una	la	Carnes de Rendor		las
+_B2B03527C20E589C	steak_rendor_2	Carne de Rendor	una	la	Carnes de Rendor		las
+_B2B03527C20E5C9C	steak_rendor_3	Carne de Rendor	una	la	Carnes de Rendor		las
+_B2B03527C20E609C	steak_rendor_4	Carne de Rendor	una	la	Carnes de Rendor		las
