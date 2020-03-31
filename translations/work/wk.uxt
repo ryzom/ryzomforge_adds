@@ -13697,4 +13697,5 @@ uiitYrkanis	[yrkanis]
 uiMP3SoundDisabled	[Media player requires sound to be enabled]
 uiWindowSnapDistance	[Window snap distance]
 uiWindowSnapInvert	[Snap only when SHIFT is held down]
+uiWindowSnap	[Window snap]
 

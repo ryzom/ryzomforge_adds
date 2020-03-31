@@ -27942,3 +27942,7 @@ uiWindowSnapDistance	[Window snap distance]
 // INDEX 6641
 uiWindowSnapInvert	[Snap only when SHIFT is held down]
 
+// HASH_VALUE 661A3BAA69A32459
+// INDEX 6642
+uiWindowSnap	[Window snap]
+
