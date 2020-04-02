@@ -845,27 +845,32 @@
             name="uiFilterMenuAround"
             handler="chat_target_selected"
             params="say"
-            formatted="true" />
+            formatted="true" 
+            icon="r2_toolbar_set_as_leader.tga" />
     <action id="region"
             name="uiFilterMenuRegion"
             handler="chat_target_selected"
             params="region"
-            formatted="true" />
+            formatted="true" 
+            icon="rpjobitem_203_c.tga" />
     <action id="universe"
             name="uiFilterMenuUniverse"
             handler="chat_target_selected"
             params="universe"
-            formatted="true" />
+            formatted="true" 
+            icon="ico_atys.tga" />
     <action id="team"
             name="uiFilterMenuTeam"
             handler="chat_target_selected"
             params="team"
-            formatted="true" />
+            formatted="true" 
+            icon="teammate_map.tga" />
     <action id="guild"
             name="uiFilterMenuGuild"
             handler="chat_target_selected"
             params="guild"
-            formatted="true" />
+            formatted="true" 
+            icon="spe_memory.tga" />
   </group>
   <!-- actual action handlers are created in code, this just lists the emotes we want to appear in the quick access menu -->
   <group type="menu"
@@ -965,8 +970,8 @@
           dynamic_string="true"
           onclick_r="set"
           params_r="dblink=UI:SAVE:ISDETACHED:DYNAMIC_CHAT#nb|value=1"
-          onclick_l="chat_group_filter"
-          params_l="dyn_chat#nb" />
+          onclick_l="lua"
+          params_l="game:chatWelcomeMsg(#nb)" />
     <link expr="and(and(ne(@SERVER:DYN_CHAT:CHANNEL#nb:NAME,0), @UI:SAVE:ISENABLED:DYNAMIC_CHAT#nb),
                     not(@UI:SAVE:ISDETACHED:DYNAMIC_CHAT#nb))"
           target="#id:active" />
@@ -1042,7 +1047,9 @@
                h="24"
                posref="TL TL"
                x="0"
-               y="-4">
+               y="-4"
+               max_w="0"
+               max_sizeref="w">
           <ctrl style="tab_button_new"
                 id="tab0"
                 x="0"
@@ -1051,8 +1058,8 @@
                 hardtext="uitabChatAround"
                 onclick_r="set"
                 params_r="dblink=UI:SAVE:ISDETACHED:AROUND_ME|value=1"
-                onclick_l="chat_group_filter"
-                params_l="around"
+                onclick_l="lua"
+                params_l="game:chatWelcomeMsg()"
                 tooltip="uittChatAround"
                 tooltip_parent="win" />
           <ctrl style="tab_button_new"
@@ -1062,8 +1069,8 @@
                 hardtext="uitabChatRegion"
                 onclick_r="set"
                 params_r="dblink=UI:SAVE:ISDETACHED:REGION_CHAT|value=1"
-                onclick_l="chat_group_filter"
-                params_l="region"
+                onclick_l="lua"
+                params_l="game:chatWelcomeMsg()"
                 tooltip="uittChatRegion"
                 tooltip_parent="win" />
           <ctrl style="tab_button_new"
@@ -1096,8 +1103,8 @@
                 hardtext="uitabChatUniverse"
                 onclick_r="set"
                 params_r="dblink=UI:SAVE:ISDETACHED:UNIVERSE_CHAT|value=1"
-                onclick_l="chat_group_filter"
-                params_l="universe"
+                onclick_l="lua"
+                params_l="game:chatWelcomeMsg()"
                 tooltip="uittChatUniverse"
                 tooltip_parent="win" />
           <ctrl style="tab_button_new"
@@ -1183,6 +1190,22 @@
               texture="blank.tga"
               color="166 166 166 255" />
       </group>
+
+      <!-- scroll target element will be set from c++ code: it does not exist on template build time -->
+      <ctrl type="scroll"
+            id="channel_scroll"
+            vertical="false"
+            align="L"
+            y="-1"
+            h="4"
+            scale="true"
+            posref="BL TL"
+            posparent="header_opened"
+            tx_bottomleft="skin_scroll_l.tga"
+            tx_middle="skin_scroll_h.tga"
+            tx_topright="skin_scroll_r.tga"
+            target="" />
+
       <group id="content"
              x="0"
              y="0"
@@ -1397,11 +1420,11 @@
   </proc>
   <!-- When the universe chat is activated, we must display a warning the first time 
         Must do it on the variable manipulation, not when the window is shown (because it is always shown/hid at start of game)
--->
+
   <link expr="@UI:SAVE:ISDETACHED:UNIVERSE_CHAT"
         cond="eq(@UI:SAVE:ISDETACHED:UNIVERSE_CHAT,1)"
         action="set"
-        params="dblink=UI:VARIABLES:UNIVERSE_CHANEL_WARNING_WANTED|value=1" />
+        params="dblink=UI:VARIABLES:UNIVERSE_CHANEL_WARNING_WANTED|value=1" /> -->
   <!-- *************** -->
   <!-- * SYSTEM INFO * -->
   <!-- *************** -->
@@ -1698,24 +1721,10 @@
              h="12"
              posref="TL TL"
              group_onclick_l="tell_contact">
-        <ctrl type="button"
-              id="chat_button"
-              button_type="push_button"
-              posref="MR MR"
-              x="-4"
-              tx_normal="contact_chat.tga"
-              tx_pushed="contact_chat.tga"
-              tx_over="W_button_14_over.tga"
-              global_color_normal="false"
-              global_color_over="true"
-              global_color_pushed="false"
-              onclick_l="contact_direct_chat"
-              tooltip="uittTell"
-              tooltip_parent="win" />
         <view type="bitmap"
               id="online"
               posref="MR MR"
-              x="-20"
+              x="-4"
               texture="w_online.tga"
               global_color="false" />
         <ctrl type="tooltip"
@@ -1733,7 +1742,7 @@
               id="profile_button"
               button_type="push_button"
               posref="MR MR"
-              x="-36"
+              x="-20"
               tx_normal="profile.tga"
               tx_pushed="profile.tga"
               tx_over="profile.tga"
@@ -1744,11 +1753,40 @@
               params_l="from=contact"
               tooltip="uittContactInfo"
               tooltip_parent="win" />
+         <!-- add team invite button -->
+        <ctrl type="button"
+              id="invite_button"
+              button_type="push_button"
+              posref="MR MR"
+              x="-36"
+              tx_normal="team_invite.tga"
+              tx_pushed="team_invite.tga"
+              tx_over="W_button_14_over.tga"
+              global_color_normal="false"
+              global_color_over="false"
+              global_color_pushed="false"
+              onclick_l="lua"
+              params_l="game:teamInvite('#id')"
+              tooltip="uimGcmInvit"
+              tooltip_parent="win" />
+        <ctrl type="button"
+              id="chat_button"
+              button_type="push_button"
+              posref="MR MR"
+              x="-52"
+              tx_normal="contact_chat.tga"
+              tx_pushed="contact_chat.tga"
+              tx_over="W_button_14_over.tga"
+              global_color_normal="false"
+              global_color_over="true"
+              global_color_pushed="false"
+              onclick_l="contact_direct_chat"
+              tooltip="uittTell"
+              tooltip_parent="win" />
         <view type="bitmap"
               id="blocked"
               posref="MR MR"
-              x="-50"
-              y="0"
+              x="-64"
               texture="w_answer_16_cancel.tga"
               global_color="false"
               active="false" />
@@ -1883,7 +1921,8 @@
     <action id="toggle_chat_eb_vis"
             name="uimToggleChatEBVis"
             handler="toggle_chat_eb_vis"
-            params="" />
+            params="" 
+            icon="r2_icon_chat_small.tga" />
     <separator />
   </group>
   <!-- MainChat Group menu. Code appends entries for selecting chat source (if tab is user chat) -->
@@ -1924,27 +1963,33 @@
         <action id="around"
                 name="uiAroundMe"
                 usergroup_l="chat_menu_button"
-                usergroup_params_l="chat_db=AROUND_ME" />
+                usergroup_params_l="chat_db=AROUND_ME" 
+                icon="r2_toolbar_set_as_leader.tga" />
         <action id="region"
                 name="uiREGION"
                 usergroup_l="chat_menu_button"
-                usergroup_params_l="chat_db=REGION_CHAT" />
+                usergroup_params_l="chat_db=REGION_CHAT" 
+                icon="rpjobitem_203_c.tga" />
         <action id="team"
                 name="uiTeam"
                 usergroup_l="chat_menu_button"
-                usergroup_params_l="chat_db=TEAM_CHAT" />
+                usergroup_params_l="chat_db=TEAM_CHAT" 
+                icon="teammate_map.tga" />
         <action id="guild"
                 name="uimGuild"
                 usergroup_l="chat_menu_button"
-                usergroup_params_l="chat_db=GUILD_CHAT" />
+                usergroup_params_l="chat_db=GUILD_CHAT" 
+                icon="spe_memory.tga" />
         <action id="universe"
                 name="uiUNIVERSE"
                 usergroup_l="chat_menu_button"
-                usergroup_params_l="chat_db=UNIVERSE_CHAT" />
+                usergroup_params_l="chat_db=UNIVERSE_CHAT" 
+                icon="ico_atys.tga" />
         <action id="system"
                 name="uiSystemInfo"
                 usergroup_l="chat_menu_button"
-                usergroup_params_l="chat_db=SYSTEM_INFO" />
+                usergroup_params_l="chat_db=SYSTEM_INFO" 
+                icon="spe_options.tga" />
         <!-- Bit of a hack as vector is not supported inside a submenu -->
         <action id="dyn0"
                 name="0"
@@ -1979,6 +2024,10 @@
                 usergroup_l="chat_menu_button"
                 usergroup_params_l="chat_db=DYNAMIC_CHAT7" />
       </action>
+      <action id="save"
+              name="uimChanSave"
+              handler="lua:game:saveChannel(true)" 
+              icon="r2_icon_save_small.tga" />
     <separator />
   </group>
   <!-- User Chat menu. Code append entries for selecting chat source -->
@@ -2003,11 +2052,13 @@
     <action id="team_target"
             name="uiSAY"
             handler="chat_target_selected"
-            params="say" />
+            params="say" 
+            icon="r2_icon_dialog_mini.tga" />
     <action id="team_target"
             name="uiSHOUT"
             handler="chat_target_selected"
-            params="shout" />
+            params="shout" 
+            icon="r2_icon_dialog_mini_over.tga" />
   </group>
   <template name="around_me_id"
             keep="true"
@@ -2098,15 +2149,18 @@
     <action id="dismiss"
             name="uimDismiss"
             handler="dismiss_member"
-            params="" />
+            params="" 
+            icon="r2ed_kicked_char.tga" />
     <action id="leader"
             name="uimSetTeamLeader"
             handler="set_team_leader"
-            params=""/>
+            params="" 
+            icon="r2_toolbar_group_small.tga"/>
     <action id="successor"
             name="uimSetSuccesor"
             handler="set_successor"
-            params=""/>
+            params="" 
+            icon="r2_player_admin.tga"/>
     <!--            <action id="emote" name="uimEmotes" hanlder="" params="">
                         <action id="emote1"  name="uimEmote1" handler="emote" params="emote_id=0"/>     
                         <action id="emote2"  name="uimEmote2" handler="emote" params="emote_id=1"/>     
@@ -2127,11 +2181,13 @@
     <action id="target"
             name="uimTarget"
             handler="team_target"
-            params="" />
+            params=""
+            icon="ico_aim.tga" />
     <action id="compass"
             name="uimTeamCompass"
             handler="set_team_compas"
-            params="compass=ui:interface:compass" />
+            params="compass=ui:interface:compass"
+            icon="lm_user_pushed.tga" />
     <separator />
   </group>
   <!-- links to enable leader options -->
@@ -2912,7 +2968,7 @@
          opened="true"
          resizer="false"
          pop_min_h="89"
-         openable="false"
+         openable="true"
          on_active="set"
          on_active_params="dblink=UI:VARIABLES:ISACTIVE:CONTACT_LIST|value=1"
          on_deactive="set"
@@ -3153,6 +3209,15 @@
             name="uiBrowse"
             handler="lua"
             params="game:chatUrlBrowse()" />
+  </group>
+
+  <group type="menu"
+         id="chat_copy_action_menu"
+          extends="base_menu">
+    <action id="copy"
+        name="uiCopy"
+        handler="copy_chat"
+        params="from_modal" />
   </group>
 
 </interface_config>

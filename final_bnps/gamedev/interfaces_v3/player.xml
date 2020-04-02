@@ -142,7 +142,7 @@
             id="t"
             posref="TL TL"
             x="16"
-            y="-3"
+            y="-1"
             color="255 255 255 255"
             global_color="false"
             fontsize="10"
@@ -152,7 +152,7 @@
             id="max"
             posref="MR MR"
             x="-12"
-            y="-2"
+            y="0"
             color="255 255 255 255"
             shadow="true"
             global_color="false"
@@ -199,15 +199,18 @@
     <action id="sap_bardisplay"
             name="uiSapBarDisplay"
             handler="set"
-            params="dblink=UI:SAVE:PLAYER:DISP_SAP|value=not(@UI:SAVE:PLAYER:DISP_SAP)" />
+            params="dblink=UI:SAVE:PLAYER:DISP_SAP|value=not(@UI:SAVE:PLAYER:DISP_SAP)" 
+            icon="ico_wisdom.tga" />
     <action id="sta_bardisplay"
             name="uiStaBarDisplay"
             handler="set"
-            params="dblink=UI:SAVE:PLAYER:DISP_STA|value=not(@UI:SAVE:PLAYER:DISP_STA)" />
+            params="dblink=UI:SAVE:PLAYER:DISP_STA|value=not(@UI:SAVE:PLAYER:DISP_STA)" 
+            icon="ico_wellbalanced.tga" />
     <action id="foc_bardisplay"
             name="uiFocBarDisplay"
             handler="set"
-            params="dblink=UI:SAVE:PLAYER:DISP_FOC|value=not(@UI:SAVE:PLAYER:DISP_FOC)" />
+            params="dblink=UI:SAVE:PLAYER:DISP_FOC|value=not(@UI:SAVE:PLAYER:DISP_FOC)" 
+            icon="ico_will.tga" />
   </group>
   <link expr="depends(@UI:SAVE:PLAYER:DISP_SAP, @UI:SAVE:PLAYER:DISP_STA, @UI:SAVE:PLAYER:DISP_FOC)"
         action="lua"
@@ -938,23 +941,28 @@
     <action id="follow"
             name="uimFollowMe"
             handler="beast_order"
-            params="order=follow|beast_index=@UI:BEAST_SELECTED" />
+            params="order=follow|beast_index=@UI:BEAST_SELECTED" 
+            icon="lm_target.tga" />
     <action id="stop"
             name="uimStop"
             handler="beast_order"
-            params="order=stop|beast_index=@UI:BEAST_SELECTED" />
+            params="order=stop|beast_index=@UI:BEAST_SELECTED" 
+            icon="r2ed_icon_stop.tga" />
     <action id="free"
             name="uimFree"
             handler="beast_order"
-            params="order=free|beast_index=@UI:BEAST_SELECTED" />
+            params="order=free|beast_index=@UI:BEAST_SELECTED"
+            icon="r2_icon_despawn.tga" />
     <action id="enter_stable"
             name="uimEnterStable"
             handler="beast_order"
-            params="order=enter_stable|beast_index=@UI:BEAST_SELECTED" />
+            params="order=enter_stable|beast_index=@UI:BEAST_SELECTED" 
+            icon="stable_enter.tga" />
     <action id="leave_stable"
             name="uimLeaveStable"
             handler="beast_order"
-            params="order=leave_stable|beast_index=@UI:BEAST_SELECTED" />
+            params="order=leave_stable|beast_index=@UI:BEAST_SELECTED"
+            icon="stable_leave.tga" />
     <separator />
   </group>
   <!-- Each Option is enabled/disabled at open according to the animal selected -->
@@ -965,31 +973,48 @@
     <action id="follow"
             name="uimFollowMe"
             handler="beast_order"
-            params="order=follow|beast_index=@UI:BEAST_SELECTED" />
+            params="order=follow|beast_index=@UI:BEAST_SELECTED" 
+            icon="lm_target.tga" />
     <action id="stop"
             name="uimStop"
             handler="beast_order"
-            params="order=stop|beast_index=@UI:BEAST_SELECTED" />
+            params="order=stop|beast_index=@UI:BEAST_SELECTED" 
+            icon="r2ed_icon_stop.tga" />
     <action id="free"
             name="uimFree"
             handler="beast_order"
-            params="order=free|beast_index=@UI:BEAST_SELECTED" />
+            params="order=free|beast_index=@UI:BEAST_SELECTED"
+            icon="r2_icon_despawn.tga" />
     <action id="enter_stable"
             name="uimEnterStable"
             handler="beast_order"
-            params="order=enter_stable|beast_index=@UI:BEAST_SELECTED" />
+            params="order=enter_stable|beast_index=@UI:BEAST_SELECTED" 
+            icon="stable_enter.tga" />
     <action id="leave_stable"
             name="uimLeaveStable"
             handler="beast_order"
-            params="order=leave_stable|beast_index=@UI:BEAST_SELECTED" />
+            params="order=leave_stable|beast_index=@UI:BEAST_SELECTED"
+            icon="stable_leave.tga" />
+    <action id="enter_bag"
+            name="uimEnterBag"
+            handler="beast_order"
+            params="order=enter_bag|beast_index=@UI:BEAST_SELECTED" 
+            icon="bag_enter.tga" />
+    <action id="leave_bag"
+            name="uimLeaveBag"
+            handler="beast_order"
+            params="order=leave_bag|beast_index=@UI:BEAST_SELECTED" 
+            icon="bag_leave.tga" />
     <action id="mount"
             name="uimMount"
             handler="beast_order"
-            params="order=mount|beast_index=@UI:BEAST_SELECTED" />
+            params="order=mount|beast_index=@UI:BEAST_SELECTED" 
+            icon="mektoub_mount.tga" />
     <action id="unseat"
             name="uimUnmount"
             handler="beast_order"
-            params="order=unmount|beast_index=@UI:BEAST_SELECTED" />
+            params="order=unmount|beast_index=@UI:BEAST_SELECTED" 
+            icon="mektoub_unmount.tga" />
   </group>
   <!-- temp variable to store the animal selected 
         0: All animals
@@ -1175,7 +1200,7 @@
                   tooltip="uittAliveLandscape"
                   posparent="animal_alive_landscape"
                   tooltip_parent="win" />
-        <link expr="and(isAnimalStatusAlive(@#beast_db_entry:STATUS),not(isAnimalStatusInStable(@#beast_db_entry:STATUS)))"
+        <link expr="and(isAnimalStatusAlive(@#beast_db_entry:STATUS),not(isAnimalStatusInStable(@#beast_db_entry:STATUS)),not(isAnimalStatusInBag(@#beast_db_entry:STATUS)))"
               target="animal_alive_landscape:active,tt_animal_alive_landscape:active" />
         <view type="bitmap"
               id="animal_stable"
@@ -1205,6 +1230,20 @@
                   tooltip_parent="win" />
         <link expr="isAnimalStatusDead(@#beast_db_entry:STATUS)"
               target="animal_dead:active,tt_animal_dead:active" />
+        <view type="bitmap"
+              id="animal_in_bag"
+              posref="MR MR"
+              x="-124"
+              w="14"
+              h="14"
+              scale="true"
+              texture="ico_mission_purse.tga" />
+        <instance template="text_tt"
+                  tooltip="uittInBag"
+                  posparent="animal_in_bag"
+                  tooltip_parent="win" />
+        <link expr="isAnimalStatusInBag(@#beast_db_entry:STATUS)"
+              target="animal_in_bag:active,tt_animal_in_bag:active" />
         <view type="bitmap"
               id="weight"
               posref="MR MR"
@@ -1312,17 +1351,17 @@
             index="5"
             bars_entry="UI:VARIABLES:BARS:ANIMAL:4"
             beast_db_entry="%pa_beast4"
-            bag_path="%pa_bag3" />
+            bag_path="%pa_bag4" />
   <instance template="pa_template"
             index="6"
             bars_entry="UI:VARIABLES:BARS:ANIMAL:5"
             beast_db_entry="%pa_beast5"
-            bag_path="%pa_bag3" />
+            bag_path="%pa_bag5" />
   <instance template="pa_template"
             index="7"
             bars_entry="UI:VARIABLES:BARS:ANIMAL:6"
             beast_db_entry="%pa_beast6"
-            bag_path="%pa_bag3" />
+            bag_path="%pa_bag6" />
   <!-- ***************************** -->
   <!-- *   ANIMAL(S) DEAD WINDOW   * -->
   <!-- ***************************** -->

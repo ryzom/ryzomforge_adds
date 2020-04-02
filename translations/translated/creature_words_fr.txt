@@ -1346,6 +1346,7 @@ _ED9F4D1C26771B44	chddf2	Yubo fier	un	le	du	au	Yubos fiers	des	les
 _865EDD4F344ED4FB	chddf3	Yubo féroce	un	le	du	au	Yubos féroces	des	les
 _41DE3909E8898C1F	chdfa1	Yubo allaitant	un	le	du	au	Yubos allaitants	des	les
 _410E3DF7E5C9901F	chdfa2	Yubo sevré	un	le	du	au	Yubos sevrés	des	les
+_63A9649E6AD89FA6	chdfa7	Yubokin	un	le	du	au	Yubokins	des	les
 _437F7107265AD82D	chdfb1	Yubo craintif	un	le	du	au	Yubos craintifs	des	les
 _09BF85E97074F200	chdfb2	Yubo vagabondant	un	le	du	au	Yubos vagabondants	des	les
 _43D6922542DE8C09	chdfb3	Yubo détalant	un	le	du	au	Yubos détalants	des	les
@@ -4758,8 +4759,8 @@ _612658A91C069B98	ckjbd1	Kipesta effroyable	un	le	du	au	Kipestas effroyables	des
 _613660A95C269F9A	ckjbf2	Kipesta lacérant	un	le	du	au	Kipestas lacérants	des	les
 _610660A99B26A396	ckfbf3	Kirosta tueur	un	le	du	au	Kirostas tueurs	des	les
 _611660A9DC26A796	ckfbf4	Grand Kirosta	un	le	du	au	Grands Kirostas	des	les
-_61E660A91B26A394	ckdbf3	Kirosta tueur	un	le	du	au	Kirostas tueurs	des	les
-_61F660A95C26A794	ckdbf4	Grand Kirosta	un	le	du	au	Grands Kirostas	des	les
+_61E660A91B26A394	ckdbf3	Kincher tueur	un	le	du	au	Kinchers tueurs	des	les
+_61F660A95C26A794	ckdbf4	Grand Kincher	un	le	du	au	Grands Kinchers	des	les
 _610680AB9BA6AB94	ckfbd3	Kirosta chevronné	un	le	du	au	Kirostas chevronnés	des	les
 _9D35949859E69BA3	ckdbd3	Kincher chevronné	un	le	du	au	Kinchers chevronnés	des	les
 _64B68FA7E6E58AA7	ckdad4	Kincher vorace	un	le	du	au	Kinchers voraces	des	les
@@ -5984,4 +5985,5 @@ _20C62EAAB3169B7B	gubani_mount_02	Monture Gubani	une	la	de la	à la 	Montures Gu
 _20C62EAAB3269B7B	gubani_mount_03	Monture Gubani	une	la	de la	à la 	Montures Gubanis	des	les
 _20C62EAAB3369B7B	gubani_mount_04	Monture Gubani	une	la	de la	à la 	Montures Gubanis	des	les
 _7EF0BD008D3857A4	chxjf_zig	Zig Gubani	une	la	de la	à la 	Zig Gubanis	des	les
-_D5F8D49B6A662373	cpegf7	Cratchaki	un	le	du	au	Cratchaki	des	les
+_D5F8D49B6A662373	cpegf7	Cratchakyo	un	le	du	au	Cratchakyos	des	les
+_455E0D9B68841705	chxjf2_zig	Zig Frippo	une	la	de la	à la 	Zig Frippos	des	les

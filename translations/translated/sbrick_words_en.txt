@@ -1222,6 +1222,7 @@ _56FE8900E28825CA	BHFPMA02	Desert Specialization		a	the				Reduces the focus con
 _D6ADC9062288E9C4	BHFPMA03	Jungle Specialization		a	the				Reduces the focus consumption of deposit tracking actions; adds a bonus to the extraction rate of the prospected sources.	
 _0C349AFEF505DFFF	BHFPMA04	Lakes Specialization		a	the				Reduces the focus consumption of deposit tracking actions; adds a bonus to the extraction rate of the prospected sources.	
 _9353D0C5BEA09832	BHFPMA05	Prime Roots Specialization		an	the				Reduces the focus consumption of deposit tracking actions and adds a bonus to the extraction rate of the prospected sources.	
+_CD0A562B3290B4C5	BHFPMA06	Atys specializing		a	the				"Reduce the focus consumption of deposit tracking actions; add a bonus to the extraction rate of the prospected sources"	
 _EAC0E361AD1D7240	BHFPMB01	Minor Sap Group Prospecting		a	the				Search for specific materials.	
 _FEB5185DB44D7454	BHFPMB02	Minor Amber Group Prospecting		a	the				Search for specific materials.	
 _0FBDE921409993B8	BHFPMB03	Minor Node Group Prospecting		a	the				Search for specific materials.	
@@ -1242,6 +1243,13 @@ _613AF10B03C5CAA7	BHFPMB17	Major Shell Group Prospecting		a	the				Search for sp
 _615AE51983B5CAA7	BHFPMB18	Major Resin Group Prospecting		a	the				Search for specific materials, with greater chances of finding sources.	
 _E5E4CB622A8D214C	BHFPMB19	Major Wood Group Prospecting		a	the				Search for specific materials, with greater chances of finding sources.	
 _8CC515DD7BD483E2	BHFPMB20	Major Oil Group Prospecting		a	the				Search for specific materials, with greater chances of finding sources.	
+_A24139328E381006	BHFPMB21	Construction Group Prospecting		a	the				Search for specific materials.	
+_445B94C1F6E14792	BHFPMB22	Food Group Prospecting		a	the				Search for specific materials.	
+_E39E9BF5993BF4DB	BHFPMB23	Goo Group Prospecting		a	the				Search for specific materials.	
+_064D9C842D9668DE	BHFPMB24	Insect Group Prospecting		a	the				Search for specific materials.	
+_7790AF3C4829221D	BHFPMB25	Kitin Group Prospecting		a	the				Search for specific materials.	
+_3CA391185C2D9B1F	BHFPMB26	Harmful Group Prospecting		a	the				Search for specific materials.	
+_6022453F8F4810F7	BHFPMB27	Preservative Group Prospecting		a	the				Search for specific materials.	
 _BEA536C08664A307	BHFPRMFMA01	Any Material From Group		an	the					
 _730AB3CD658597EF	BHFPRMFMA02	Redhot Sap Prospecting		a	the					 
 _78888F2D774EB8F5	BHFPRMFMA03	Silverweed Sap Prospecting		a	the					 
@@ -1294,6 +1302,106 @@ _B3DB9089224643F7	BHFPRMFMJ03	Eyota Wood Prospecting		an	the
 _EF85FCB3D2BCB506	BHFPRMFMJ04	Kachine Wood Prospecting		a	the					
 _7B79D7CE9A03B9FD	BHFPRMFMJ05	Motega Wood Prospecting		a	the					
 _739930B7D197D047	BHFPRMFMJ06	Tama Wood Prospecting		a	the					
+_78D93CC99153D1B1	BHFPRMFMK01	Any material from group		a	the					
+_EF7908AD0FB7A06B	BHFPRMFMK02	Dead Leaf Prospecting		a	the					 
+_BA3A848DDBE6A5FA	BHFPRMFMK03	Fresh Resin Prospecting		a	the					 
+_F3EB9083A4369BF0	BHFPRMFMK04	Fresh Wood Prospecting		a	the					 
+_5289D4E05CD29C7D	BHFPRMFMK05	Dry Wood Prospecting		a	the					 
+_8CD0051CEC8E1D87	BHFPRMFMK06	Damp Wood Sawdust Prospecting		a	the					 
+_AF78E5DB003B9403	BHFPRMFMK07	Small Reed Leaf Prospecting		a	the					 
+_EE88E5DB3EEBD8F7	BHFPRMFMK08	Large Reed Leaf Prospecting		a	the					 
+_AC98E5DB025B94FF	BHFPRMFMK09	Giant Reed Leaf Prospecting		a	the					 
+_B4CB4083A4369BF7	BHFPRMFMK10	Fresh Bark Prospecting		a	the					 
+_52B9E4D217D29C7D	BHFPRMFMK11	Dry Bark Prospecting		a	the					 
+_F2B900CA98730078	BHFPRMFMK12	Dry Fiber Prospecting		a	the					 
+_F10BDCA99206BBED	BHFPRMFMK13	Damp Fiber Prospecting		a	the					 
+_CEA119D6AD5C3C65	BHFPRMFMK14	Small Pearly Shell Prospecting		a	the					 
+_0DB119D6EB0C8059	BHFPRMFMK15	Large Pearly Shell Prospecting		a	the					 
+_CBC119D6AF7C3C61	BHFPRMFMK16	Giant Pearly Shell Prospecting		a	the					 
+_797A808DDC758DFE	BHFPRMFMK17	Small Pearl Prospecting		a	the					 
+_B88A808D1A25D1F2	BHFPRMFMK18	Large Pearl Prospecting		a	the					 
+_769A808DDE958DFA	BHFPRMFMK19	Giant Pearl Prospecting		a	the					 
+_07CDAD28EBEC8451	BHFPRMFMK20	Silvery Fish Scale Prospecting		a	the					 
+_C97D803234B96DE8	BHFPRMFMK21	Golden Fish Scale Prospecting		a	the					 
+_F42920B40F47E475	BHFPRMFMK22	Worm Silk Prospecting		a	the					 
+_7B19C3DF1AF5A9FB	BHFPRMFMK23	Spider Silk Prospecting		a	the					 
+_AF4809DFC4AC9403	BHFPRMFMK24	Small Reed Stem Prospecting		a	the					 
+_EE5809DF025CD8F7	BHFPRMFMK25	Large Reed Stem Prospecting		a	the					 
+_AD0FF5007509E1F0	BHFPRMFMK26	Fresh Loose Soil Prospecting		a	the					 
+_2D1FF5007428F1F0	BHFPRMFMK27	Dried Loose Soil Prospecting		a	the					 
+_0D3249F236C75C61	BHFPRMFMK28	Small Plant Fossil Prospecting		a	the					 
+_4C4249F27477A055	BHFPRMFMK29	Large Plant Fossil Prospecting		a	the					 
+_3A8AE4D6D5B1B9F2	BHFPRMFMK30	Red Pigment Prospecting		a	the					 
+_721A14613C7CF105	BHFPRMFMK31	Green Pigment Prospecting		a	the					 
+_33691496888DF907	BHFPRMFMK32	Blue Pigment Prospecting		a	the					 
+_FB373E403CCEEDF4	BHFPRMFMK33	Yellow Pigment Prospecting		a	the					 
+_314A14617B5CE1FF	BHFPRMFMK34	Black Pigment Prospecting		a	the					 
+_78D93CCA9153D1B1	BHFPRMFML01	Any material from group		a	the					
+_B02B648425559BF2	BHFPRMFML02	Green Leaf Prospecting		a	the					 
+_4BF2E1D4AC5D306F	BHFPRMFML03	Fresh Flower Petal Prospecting		a	the					 
+_CB02E1D4AB7C406F	BHFPRMFML04	Dried Flower Petal Prospecting		a	the					 
+_32EA7C822237A073	BHFPRMFML05	Small Bud Prospecting		a	the					 
+_71FA7C8260E7E467	BHFPRMFML06	Large Bud Prospecting		a	the					 
+_AE38CDEA00AEB908	BHFPRMFML07	Fresh Dandelion Prospecting		a	the					 
+_2E48CDEAFFCDC908	BHFPRMFML08	Dried Dandelion Prospecting		a	the					 
+_FA519D32FEDB4838	BHFPRMFML09	Blooming Dandelion Prospecting		a	the					 
+_FB59EBE3BC6ED5FD	BHFPRMFML10	Small Mushroom Prospecting		a	the					 
+_3A69EBE3FA1E19F1	BHFPRMFML11	Large Mushroom Prospecting		a	the					 
+_977EF0F5797B4A71	BHFPRMFML12	Living Insect Larva Prospecting		a	the					 
+_755974679AED850D	BHFPRMFML13	Fresh Cereal Prospecting		a	the					 
+_F5697467990C950D	BHFPRMFML14	Dried Cereal Prospecting		a	the					 
+_0731F90C22B971CE	BHFPRMFML15	Dead Insect Larva Prospecting		a	the					 
+_F2198C822237A073	BHFPRMFML16	Small Egg Prospecting		a	the					 
+_31298C8260E7E467	BHFPRMFML17	Large Egg Prospecting		a	the					 
+_792A608EDBE6D1F6	BHFPRMFML18	Fresh Honey Prospecting		a	the					 
+_F93A608EDA05E1F6	BHFPRMFML19	Dried Honey Prospecting		a	the					 
+_B73A44B012A5B64F	BHFPRMFML20	Peppery Aromatic Plant Prospecting		a	the					 
+_120FF0CA38B44E74	BHFPRMFML21	Spicy Aromatic Plant Prospecting		a	the					 
+_08AADC1D1783D26A	BHFPRMFML22	Bitter Aromatic Plant Prospecting		a	the					 
+_ED504504FA2BCCE1	BHFPRMFML23	Fresh Wild Berry Prospecting		a	the					 
+_6D604504F94ADCE1	BHFPRMFML24	Dried Wild Berry Prospecting		a	the					 
+_7E2B5C8EDC75ADF5	BHFPRMFML25	Small Fruit Prospecting		a	the					 
+_BD3B5C8E1A25F1E9	BHFPRMFML26	Large Fruit Prospecting		a	the					 
+_78D93CCB9153D1B1	BHFPRMFMM01	Any material from group		a	the					
+_8900E8E9FDCC3465	BHFPRMFMM02	Fresh Modified Sap Prospecting		a	the					 
+_0910E8E9FCEB4465	BHFPRMFMM03	Dried Modified Sap Prospecting		a	the					 
+_0AD021ECFDFEF998	BHFPRMFMM04	Fresh Goo Residue Prospecting		a	the					 
+_8AE021ECFC1D0998	BHFPRMFMM05	Dried Goo Residue Prospecting		a	the					 
+_78D93CCC9153D1B1	BHFPRMFMN01	Any material from group		a	the					
+_EDD71838817EED0D	BHFPRMFMN02	Living Parasite Prospecting		a	the					 
+_31CB4C94E5CDF1FE	BHFPRMFMN03	Dead Parasite Prospecting		a	the					 
+_5170E58498229A67	BHFPRMFMN04	Small Firefly Abdomen Prospecting		a	the					 
+_9080E584D6D2DE5B	BHFPRMFMN05	Large Firefly Abdomen Prospecting		a	the					 
+_0FF261FB78C73058	BHFPRMFMN06	Red Butterfly Wing Prospecting		a	the					 
+_0B9C51D5B4E34E85	BHFPRMFMN07	Green Butterfly Wing Prospecting		a	the					 
+_54F0902BE46B925E	BHFPRMFMN08	Blue Butterfly Wing Prospecting		a	the					 
+_83BFF821D442EE56	BHFPRMFMN09	Yellow Butterfly Wing Prospecting		a	the					 
+_D9D121D6E4BC1A5A	BHFPRMFMN10	Small Insect Fossil Prospecting		a	the					 
+_18E121D6226C5E4E	BHFPRMFMN11	Large Insect Fossil Prospecting		a	the					 
+_78D93CCD9153D1B1	BHFPRMFMO01	Any material from group		a	the					
+_1061EDF674385463	BHFPRMFMO02	Fresh Kitin Cocoon Prospecting		a	the					 
+_AF9FA54D31C85597	BHFPRMFMO03	Old Kitin Cocoon Prospecting		a	the					 
+_3529B06A1B9C1508	BHFPRMFMO04	Kitin Saliva Prospecting		a	the					 
+_BB1A6C915C45ADFE	BHFPRMFMO05	Kitin Larva Prospecting		a	the					 
+_78D93CCE9153D1B1	BHFPRMFMP01	Any material from group		a	the					
+_EFF500B9DA9DC10A	BHFPRMFMP02	Rotting Leaf Prospecting		a	the					 
+_B10500B9DA7DF914	BHFPRMFMP03	Rotting Wood Prospecting		a	the					 
+_FC7A8C92DC7595FE	BHFPRMFMP04	Small Thorn Prospecting		a	the					 
+_3B8A8C921A25D9F2	BHFPRMFMP05	Large Thorn Prospecting		a	the					 
+_F99A8C92DE9595FA	BHFPRMFMP06	Giant Thorn Prospecting		a	the					 
+_5943634B803738AB	BHFPRMFMP07	Dust Prospecting		a	the					 
+_EDF664B47ADD21FE	BHFPRMFMP08	Rotting Fiber Prospecting		a	the					 
+_6FB0F9EDAABDD1DC	BHFPRMFMP09	Small Spider Web Prospecting		a	the					 
+_AE20FDEDE86D15D0	BHFPRMFMP10	Large Spider Web Prospecting		a	the					 
+_78D93CCF9153D1B1	BHFPRMFMQ01	Any material from group		a	the					
+_F1F940CC9B730078	BHFPRMFMQ02	Dry Resin Prospecting		a	the					 
+_5AB0A15B754921D0	BHFPRMFMQ03	Dry Wood Sawdust Prospecting		a	the					 
+_33993CDBDB730078	BHFPRMFMQ04	Dry Straw Prospecting		a	the					 
+_F02C04BC9206BBF2	BHFPRMFMQ05	Damp Straw Prospecting		a	the					 
+_F4B9D08721A8B078	BHFPRMFMQ06	Fresh Wax Prospecting		a	the					 
+_9322E4C161B374A4	BHFPRMFMQ07	Dry Wax Prospecting		a	the					 
+_F42B6889A4369BFF	BHFPRMFMQ08	Fresh Moss Prospecting		a	the					 
+_52BAE4E6DAD29C7D	BHFPRMFMQ09	Dry Moss Prospecting		a	the					 
 _78D93CB5895551B1	BHFPRMFMW01	Any Material From Group		an	the					 
 _F1D6DCDCDEC5B9FD	BHFPRMFMW02	Gulatch Oil Prospecting		a	the					 
 _7409B08DA287CC6F	BHFPRMFMW03	Pilan Oil Prospecting		a	the					 
@@ -1494,6 +1602,7 @@ _E5AEA14815635060	BHFEMA02	Desert Specialization		a	the				Reduce the aggressive
 _655DE14E5563145A	BHFEMA03	Jungle Specialization		a	the				Reduce the aggressiveness of rate and quality stanzas when harvesting in jungle regions.	
 _905285EC094DD970	BHFEMA04	Lakes Specialization		a	the				Reduce the aggressiveness of rate and quality stanzas when harvesting in lakes regions.	
 _31E81D027CE6B0F2	BHFEMA05	Prime Roots Specialization		an	the				Reduce the aggressiveness of rate and quality stanzas when harvesting in prime root regions.	
+_1333D1E1894D5970	BHFEMA06	Atys specializing		a	the				Reduce the aggressiveness of rate and quality	
 _30194D8197ED7A5A	BHFEMB01	Sap Group Specialization		a	the				Increases quality and reduces the aggressiveness of speed stanzas.	
 _7286C45EFF0F31C7	BHFEMB02	Amber Group Specialization		an	the				Increases quality and reduces the aggressiveness of speed stanzas.	
 _695997C980DF47D5	BHFEMB03	Node Group Specialization		a	the				Increases quality and reduces the aggressiveness of speed stanzas.	
@@ -1503,6 +1612,13 @@ _29696FCE41DF47D5	BHFEMB06	Seed Group Specialization		a	the				Increases quality
 _34B6B070400F31C1	BHFEMB07	Shell Group Specialization		a	the				Increases quality and reduces the aggressiveness of speed stanzas.	
 _7397A46FC10F31C3	BHFEMB09	Resin Group Specialization		a	the				Increases quality and reduces the aggressiveness of speed stanzas.	
 _290997D2C0EF47D5	BHFEMB10	Wood Group Specialization		a	the				Increases quality and reduces the aggressiveness of speed stanzas.	
+_8650E9850C113A93	BHFEMB11	Construction Group Specialization		an	the				Increases quality and reduces the aggressiveness of speed stanzas.	
+_286A441474BA711F	BHFEMB12	Food Group Specialization		an	the				Increases quality and reduces the aggressiveness of speed stanzas.	
+_02C7DCE0EA48AC24	BHFEMB13	Goo Group Specialization		an	the				Increases quality and reduces the aggressiveness of speed stanzas.	
+_7DA1A131FF7DEFED	BHFEMB14	Insect Group Specialization		an	the				Increases quality and reduces the aggressiveness of speed stanzas.	
+_F65D013DF2CD5CBE	BHFEMB15	Kitin Group Specialization		an	the				Increases quality and reduces the aggressiveness of speed stanzas.	
+_CAC049613E46DC0A	BHFEMB16	Harmful Group Specialization		an	the				Increases quality and reduces the aggressiveness of speed stanzas.	
+_4431F5920D213A84	BHFEMB17	Preservative Group Specialization		an	the				Increases quality and reduces the aggressiveness of speed stanzas.	
 _30D86D7D170D7A5A	BHFEMB23	Oil Group Specialization		an	the				Increases quality and reduces the aggressiveness of speed stanzas.	
 _898B751C1F369F50	BHFEMC01	Preservation 1		a	the				Increase the life of a raw material source, to avoid its untimely disappearance and possible exhaustion of the area.	
 _898B751C5F36A350	BHFEMC02	Preservation 2		a	the				Increase the life of a raw material source, to avoid its untimely disappearance and possible exhaustion of the area.	
@@ -3959,3 +4075,352 @@ _CEE3FF6629BE528A	bcftca10	Fyros Tools 2		a	the				Lets you make Fyros tools of 
 _CEE3FF676ABE528B	bcftca15	Fyros Tools 3		a	the				Lets you make Fyros tools of quality $cr_recommended.	Fyros Tools 3 - Quality: $cr_recommended
 _CEE3FF6829CE528C	bcftca20	Fyros Tools 4		a	the				Lets you make Fyros tools of quality $cr_recommended.	Fyros Tools 4 - Quality: $cr_recommended
 _CEE3FF696ACE528D	bcftca25	Fyros Tools 5		a	the				Lets you make Fyros tools of quality $cr_recommended.	Fyros Tools 5 - Quality: $cr_recommended
+_C8E6C4860FE38705	bcftca02	<GEN>bcftca02								
+_C8E6C4864FE38707	bcftca03	<GEN>bcftca03								
+_C8E6C48690E38709	bcftca04	<GEN>bcftca04								
+_C8E6C486D0E3870B	bcftca05	<GEN>bcftca05								
+_C8E6C48610E3870D	bcftca06	<GEN>bcftca06								
+_C8E6C48650E3870F	bcftca07	<GEN>bcftca07								
+_C8E6C48691E38711	bcftca08	<GEN>bcftca08								
+_C8E6C486D1E38713	bcftca09	<GEN>bcftca09								
+_48E6C486CFF38703	bcftca11	<GEN>bcftca11								
+_48E6C4860FF38705	bcftca12	<GEN>bcftca12								
+_48E6C4864FF38707	bcftca13	<GEN>bcftca13								
+_48E6C48690F38709	bcftca14	<GEN>bcftca14								
+_48E6C48610F3870D	bcftca16	<GEN>bcftca16								
+_48E6C48650F3870F	bcftca17	<GEN>bcftca17								
+_48E6C48691F38711	bcftca18	<GEN>bcftca18								
+_48E6C486D1F38713	bcftca19	<GEN>bcftca19								
+_C8E6C486CF038703	bcftca21	<GEN>bcftca21								
+_C8E6C4860F038705	bcftca22	<GEN>bcftca22								
+_C8E6C4864F038707	bcftca23	<GEN>bcftca23								
+_C8E6C48690038709	bcftca24	<GEN>bcftca24								
+_C856C48693E38705	bcmtca02	<GEN>bcmtca02								
+_C856C486D3E38707	bcmtca03	<GEN>bcmtca03								
+_C856C48614E38709	bcmtca04	<GEN>bcmtca04								
+_C856C48654E3870B	bcmtca05	<GEN>bcmtca05								
+_C856C48694E3870D	bcmtca06	<GEN>bcmtca06								
+_C856C486D4E3870F	bcmtca07	<GEN>bcmtca07								
+_C856C48615E38711	bcmtca08	<GEN>bcmtca08								
+_C856C48655E38713	bcmtca09	<GEN>bcmtca09								
+_4856C48653F38703	bcmtca11	<GEN>bcmtca11								
+_4856C48693F38705	bcmtca12	<GEN>bcmtca12								
+_4856C486D3F38707	bcmtca13	<GEN>bcmtca13								
+_4856C48614F38709	bcmtca14	<GEN>bcmtca14								
+_4856C48694F3870D	bcmtca16	<GEN>bcmtca16								
+_4856C486D4F3870F	bcmtca17	<GEN>bcmtca17								
+_4856C48615F38711	bcmtca18	<GEN>bcmtca18								
+_4856C48655F38713	bcmtca19	<GEN>bcmtca19								
+_C856C48653038703	bcmtca21	<GEN>bcmtca21								
+_C856C48693038705	bcmtca22	<GEN>bcmtca22								
+_C856C486D3038707	bcmtca23	<GEN>bcmtca23								
+_C856C48614038709	bcmtca24	<GEN>bcmtca24								
+_C8C7C48617E38705	bcttca02	<GEN>bcttca02								
+_C8C7C48657E38707	bcttca03	<GEN>bcttca03								
+_C8C7C48698E38709	bcttca04	<GEN>bcttca04								
+_C8C7C486D8E3870B	bcttca05	<GEN>bcttca05								
+_C8C7C48618E3870D	bcttca06	<GEN>bcttca06								
+_C8C7C48658E3870F	bcttca07	<GEN>bcttca07								
+_C8C7C48699E38711	bcttca08	<GEN>bcttca08								
+_C8C7C486D9E38713	bcttca09	<GEN>bcttca09								
+_48C7C486D7F38703	bcttca11	<GEN>bcttca11								
+_48C7C48617F38705	bcttca12	<GEN>bcttca12								
+_48C7C48657F38707	bcttca13	<GEN>bcttca13								
+_48C7C48698F38709	bcttca14	<GEN>bcttca14								
+_48C7C48618F3870D	bcttca16	<GEN>bcttca16								
+_48C7C48658F3870F	bcttca17	<GEN>bcttca17								
+_48C7C48699F38711	bcttca18	<GEN>bcttca18								
+_48C7C486D9F38713	bcttca19	<GEN>bcttca19								
+_C8C7C486D7038703	bcttca21	<GEN>bcttca21								
+_C8C7C48617038705	bcttca22	<GEN>bcttca22								
+_C8C7C48657038707	bcttca23	<GEN>bcttca23								
+_C8C7C48698038709	bcttca24	<GEN>bcttca24								
+_C827C48619E38705	bcztca02	<GEN>bcztca02								
+_C827C48659E38707	bcztca03	<GEN>bcztca03								
+_C827C4869AE38709	bcztca04	<GEN>bcztca04								
+_C827C486DAE3870B	bcztca05	<GEN>bcztca05								
+_C827C4861AE3870D	bcztca06	<GEN>bcztca06								
+_C827C4865AE3870F	bcztca07	<GEN>bcztca07								
+_C827C4869BE38711	bcztca08	<GEN>bcztca08								
+_C827C486DBE38713	bcztca09	<GEN>bcztca09								
+_4827C486D9F38703	bcztca11	<GEN>bcztca11								
+_4827C48619F38705	bcztca12	<GEN>bcztca12								
+_4827C48659F38707	bcztca13	<GEN>bcztca13								
+_4827C4869AF38709	bcztca14	<GEN>bcztca14								
+_4827C4861AF3870D	bcztca16	<GEN>bcztca16								
+_4827C4865AF3870F	bcztca17	<GEN>bcztca17								
+_4827C4869BF38711	bcztca18	<GEN>bcztca18								
+_4827C486DBF38713	bcztca19	<GEN>bcztca19								
+_C827C486D9038703	bcztca21	<GEN>bcztca21								
+_C827C48619038705	bcztca22	<GEN>bcztca22								
+_C827C48659038707	bcztca23	<GEN>bcztca23								
+_C827C4869A038709	bcztca24	<GEN>bcztca24								
+_C7C7D47E17038707	bctpea22	<GEN>bctpea22								
+_C7C7D47E57038709	bctpea23	<GEN>bctpea23								
+_C7C7D47E9803870B	bctpea24	<GEN>bctpea24								
+_83B6D4604FF38715	bccaea19	<GEN>bccaea19								
+_03B6D4604DE38705	bccaea01	<GEN>bccaea01								
+_03B6D4608DE38707	bccaea02	<GEN>bccaea02								
+_03B6D460CDE38709	bccaea03	<GEN>bccaea03								
+_03B6D4600EE3870B	bccaea04	<GEN>bccaea04								
+_03B6D4604EE3870D	bccaea05	<GEN>bccaea05								
+_03B6D4608EE3870F	bccaea06	<GEN>bccaea06								
+_03B6D460CEE38711	bccaea07	<GEN>bccaea07								
+_03B6D4600FE38713	bccaea08	<GEN>bccaea08								
+_03B6D4604FE38715	bccaea09	<GEN>bccaea09								
+_83B6D4600DF38703	bccaea10	<GEN>bccaea10								
+_83B6D4604DF38705	bccaea11	<GEN>bccaea11								
+_83B6D4608DF38707	bccaea12	<GEN>bccaea12								
+_83B6D460CDF38709	bccaea13	<GEN>bccaea13								
+_83B6D4600EF3870B	bccaea14	<GEN>bccaea14								
+_83B6D4604EF3870D	bccaea15	<GEN>bccaea15								
+_83B6D4608EF3870F	bccaea16	<GEN>bccaea16								
+_86B6D4784EF3870D	bccmea15	<GEN>bccmea15								
+_86B6D4788EF3870F	bccmea16	<GEN>bccmea16								
+_86B6D478CEF38711	bccmea17	<GEN>bccmea17								
+_1DF56B57472F1378	bcbmea03_3	<GEN>bcbmea03_3								
+_1DF56B57883F1378	bcbmea04_3	<GEN>bcbmea04_3								
+_5E466B57472F137D	bcbrea03_3	<GEN>bcbrea03_3								
+_47B6D4824DE38705	bccrea01	<GEN>bccrea01								
+_47B6D482CDE38709	bccrea03	<GEN>bccrea03								
+_47B6D4820EE3870B	bccrea04	<GEN>bccrea04								
+_47B6D4824EE3870D	bccrea05	<GEN>bccrea05								
+_47B6D4828EE3870F	bccrea06	<GEN>bccrea06								
+_87B6D484CDE38709	bccsea03	<GEN>bccsea03								
+_5EC5872655865086	bckamsea01	<GEN>bckamsea01								
+_5EC58B2755865086	bckamsea02	<GEN>bckamsea02								
+_5EC58F2855865086	bckamsea03	<GEN>bckamsea03								
+_9FC587265586648B	bckarsea01	<GEN>bckarsea01								
+_9FC58B275586648B	bckarsea02	<GEN>bckarsea02								
+_9FC58F285586648B	bckarsea03	<GEN>bckarsea03								
+_04862868CF839B0D	bhfemf01	<GEN>bhfemf01								
+_048628680F839B0F	bhfemf02	<GEN>bhfemf02								
+_048628684F839B11	bhfemf03	<GEN>bhfemf03								
+_84E6406CCF838710	bhfgpa01	<GEN>bhfgpa01								
+_64E8EB610AE21E97	bhfppoj01	<GEN>bhfppoj01								
+_F92E5CDC296DE411	big_outpost_pvp_0	<GEN>big_outpost_pvp_0								
+_F92E5CDD297DE411	big_outpost_pvp_1	<GEN>big_outpost_pvp_1								
+_766AA00EB22D790F	big_outpost_pvp_10	<GEN>big_outpost_pvp_10								
+_766AA40FB22D790F	big_outpost_pvp_11	<GEN>big_outpost_pvp_11								
+_766AA810B22D790F	big_outpost_pvp_12	<GEN>big_outpost_pvp_12								
+_766AAC11B22D790F	big_outpost_pvp_13	<GEN>big_outpost_pvp_13								
+_766AB012B22D790F	big_outpost_pvp_14	<GEN>big_outpost_pvp_14								
+_766AB413B22D790F	big_outpost_pvp_15	<GEN>big_outpost_pvp_15								
+_766AB814B22D790F	big_outpost_pvp_16	<GEN>big_outpost_pvp_16								
+_766ABC15B22D790F	big_outpost_pvp_17	<GEN>big_outpost_pvp_17								
+_766AC016B22D790F	big_outpost_pvp_18	<GEN>big_outpost_pvp_18								
+_766AC417B22D790F	big_outpost_pvp_19	<GEN>big_outpost_pvp_19								
+_F92E5CDE298DE411	big_outpost_pvp_2	<GEN>big_outpost_pvp_2								
+_766AA00FF22D790F	big_outpost_pvp_20	<GEN>big_outpost_pvp_20								
+_766AA410F22D790F	big_outpost_pvp_21	<GEN>big_outpost_pvp_21								
+_766AA811F22D790F	big_outpost_pvp_22	<GEN>big_outpost_pvp_22								
+_766AAC12F22D790F	big_outpost_pvp_23	<GEN>big_outpost_pvp_23								
+_766AB013F22D790F	big_outpost_pvp_24	<GEN>big_outpost_pvp_24								
+_766AB414F22D790F	big_outpost_pvp_25	<GEN>big_outpost_pvp_25								
+_766AB815F22D790F	big_outpost_pvp_26	<GEN>big_outpost_pvp_26								
+_766ABC16F22D790F	big_outpost_pvp_27	<GEN>big_outpost_pvp_27								
+_766AC017F22D790F	big_outpost_pvp_28	<GEN>big_outpost_pvp_28								
+_766AC418F22D790F	big_outpost_pvp_29	<GEN>big_outpost_pvp_29								
+_F92E5CDF299DE411	big_outpost_pvp_3	<GEN>big_outpost_pvp_3								
+_766AA010322D790F	big_outpost_pvp_30	<GEN>big_outpost_pvp_30								
+_766AA411322D790F	big_outpost_pvp_31	<GEN>big_outpost_pvp_31								
+_F92E5CE029ADE411	big_outpost_pvp_4	<GEN>big_outpost_pvp_4								
+_F92E5CE129BDE411	big_outpost_pvp_5	<GEN>big_outpost_pvp_5								
+_F92E5CE229CDE411	big_outpost_pvp_6	<GEN>big_outpost_pvp_6								
+_F92E5CE329DDE411	big_outpost_pvp_7	<GEN>big_outpost_pvp_7								
+_F92E5CE429EDE411	big_outpost_pvp_8	<GEN>big_outpost_pvp_8								
+_F92E5CE529FDE411	big_outpost_pvp_9	<GEN>big_outpost_pvp_9								
+_746BA402A047E5F5	big_ring_xpcat_100	<GEN>big_ring_xpcat_100								
+_746BA407E147E5F5	big_ring_xpcat_150	<GEN>big_ring_xpcat_150								
+_746BA402E057E5F5	big_ring_xpcat_200	<GEN>big_ring_xpcat_200								
+_746BA4072157E5F5	big_ring_xpcat_250	<GEN>big_ring_xpcat_250								
+_772E80C89EF9DFEE	big_ring_xpcat_50	<GEN>big_ring_xpcat_50								
+_14F69F875D34EE40	big_xpcat_100	<GEN>big_xpcat_100								
+_55F69F875D340240	big_xpcat_150	<GEN>big_xpcat_150								
+_14069F875D34EE41	big_xpcat_200	<GEN>big_xpcat_200								
+_55069F875D340241	big_xpcat_250	<GEN>big_xpcat_250								
+_09547C759C274843	big_xpcat_50	<GEN>big_xpcat_50								
+_6C2458FDDB9784A3	enchant_weapon	<GEN>enchant_weapon								
+_7B24E67EED5CF9E7	enchant_weapon_acid	<GEN>enchant_weapon_acid								
+_7B24FE96ED5CF9E7	enchant_weapon_cold	<GEN>enchant_weapon_cold								
+_F319676DF8362BCC	enchant_weapon_electricity	<GEN>enchant_weapon_electricity								
+_7B442E8A6F5CF9E7	enchant_weapon_fire	<GEN>enchant_weapon_fire								
+_5F46296C7AA28175	enchant_weapon_poison	<GEN>enchant_weapon_poison								
+_3A9C3192843BF9F1	enchant_weapon_rot	<GEN>enchant_weapon_rot								
+_34B847C314D50ABC	enchant_weapon_shockwave	<GEN>enchant_weapon_shockwave								
+_E9A90B6BDB066376	sleep	<GEN>sleep								
+_51F0663A5882537B	bscea01	<GEN>bscea01								
+_51006A3A5892537B	bscea02	<GEN>bscea02								
+_51106E3A58A2537B	bscea03	<GEN>bscea03								
+_5120723A58B2537B	bscea04	<GEN>bscea04								
+_51416A3B58D3AB7B	bsxea11	<GEN>bsxea11								
+_53F0663A5A02537B	bscma01	<GEN>bscma01								
+_53F0663B9A02537C	bscmb01	<GEN>bscmb01								
+_53F0663CDA02537D	bscmc01	<GEN>bscmc01								
+_53F0663D1B02537E	bscmd01	<GEN>bscmd01								
+_5330663B9A42637C	bsgmb01	<GEN>bsgmb01								
+_53406A3B9A52637C	bsgmb02	<GEN>bsgmb02								
+_53506E3B9A62637C	bsgmb03	<GEN>bsgmb03								
+_5360723B9A72637C	bsgmb04	<GEN>bsgmb04								
+_5370763B9A82637C	bsgmb05	<GEN>bsgmb05								
+_53807A3B9A92637C	bsgmb06	<GEN>bsgmb06								
+_53907E3B9AA2637C	bsgmb07	<GEN>bsgmb07								
+_06F6FC784FE58702	bsgmba01	<GEN>bsgmba01								
+_06F6FC788FE58704	bsgmba02	<GEN>bsgmba02								
+_06F6FC78CFE58706	bsgmba03	<GEN>bsgmba03								
+_0636FC784FE58F02	bsgmbc01	<GEN>bsgmbc01								
+_0636FC788FE58F04	bsgmbc02	<GEN>bsgmbc02								
+_0636FC78CFE58F06	bsgmbc03	<GEN>bsgmbc03								
+_0676FC784FE59702	bsgmbe01	<GEN>bsgmbe01								
+_0676FC788FE59704	bsgmbe02	<GEN>bsgmbe02								
+_0676FC78CFE59706	bsgmbe03	<GEN>bsgmbe03								
+_0696FC784FE59B02	bsgmbf01	<GEN>bsgmbf01								
+_0696FC788FE59B04	bsgmbf02	<GEN>bsgmbf02								
+_0696FC78CFE59B06	bsgmbf03	<GEN>bsgmbf03								
+_06D8FC784FE5C302	bsgmbp01	<GEN>bsgmbp01								
+_06D8FC788FE5C304	bsgmbp02	<GEN>bsgmbp02								
+_06D8FC78CFE5C306	bsgmbp03	<GEN>bsgmbp03								
+_0618FC784FE5CB02	bsgmbr01	<GEN>bsgmbr01								
+_0618FC788FE5CB04	bsgmbr02	<GEN>bsgmbr02								
+_0618FC78CFE5CB06	bsgmbr03	<GEN>bsgmbr03								
+_0638FC784FE5CF02	bsgmbs01	<GEN>bsgmbs01								
+_0638FC788FE5CF04	bsgmbs02	<GEN>bsgmbs02								
+_0638FC78CFE5CF06	bsgmbs03	<GEN>bsgmbs03								
+_C4875466D5E5870D	bspdma01	<GEN>bspdma01								
+_C487546615E5870F	bspdma02	<GEN>bspdma02								
+_C487546655E58711	bspdma03	<GEN>bspdma03								
+_C487546696E58713	bspdma04	<GEN>bspdma04								
+_C4875466D6E58715	bspdma05	<GEN>bspdma05								
+_4467546AD5E5A30D	bspfmh01	<GEN>bspfmh01								
+_4467546A15E5A30F	bspfmh02	<GEN>bspfmh02								
+_4467546A55E5A311	bspfmh03	<GEN>bspfmh03								
+_4467546A96E5A313	bspfmh04	<GEN>bspfmh04								
+_4467546AD6E5A315	bspfmh05	<GEN>bspfmh05								
+_4467546A16E5A317	bspfmh06	<GEN>bspfmh06								
+_4467546A56E5A319	bspfmh07	<GEN>bspfmh07								
+_4467546A97E5A31B	bspfmh08	<GEN>bspfmh08								
+_4467546AD7E5A31D	bspfmh09	<GEN>bspfmh09								
+_C467546A95F5A30B	bspfmh10	<GEN>bspfmh10								
+_C467546AD5F5A30D	bspfmh11	<GEN>bspfmh11								
+_C467546A15F5A30F	bspfmh12	<GEN>bspfmh12								
+_C467546A55F5A311	bspfmh13	<GEN>bspfmh13								
+_C467546A96F5A313	bspfmh14	<GEN>bspfmh14								
+_C467546AD6F5A315	bspfmh15	<GEN>bspfmh15								
+_C467546A16F5A317	bspfmh16	<GEN>bspfmh16								
+_C467546A56F5A319	bspfmh17	<GEN>bspfmh17								
+_C467546A97F5A31B	bspfmh18	<GEN>bspfmh18								
+_C467546AD7F5A31D	bspfmh19	<GEN>bspfmh19								
+_4467546A9505A30B	bspfmh20	<GEN>bspfmh20								
+_4467546AD505A30D	bspfmh21	<GEN>bspfmh21								
+_4467546A1505A30F	bspfmh22	<GEN>bspfmh22								
+_4467546A5505A311	bspfmh23	<GEN>bspfmh23								
+_4467546A9605A313	bspfmh24	<GEN>bspfmh24								
+_4467546AD605A315	bspfmh25	<GEN>bspfmh25								
+_8487546CD5E5870D	bspgma01	<GEN>bspgma01								
+_8487546C15E5870F	bspgma02	<GEN>bspgma02								
+_8487546C55E58711	bspgma03	<GEN>bspgma03								
+_8487546C96E58713	bspgma04	<GEN>bspgma04								
+_8487546CD6E58715	bspgma05	<GEN>bspgma05								
+_8487546C16E58717	bspgma06	<GEN>bspgma06								
+_8487546C56E58719	bspgma07	<GEN>bspgma07								
+_8487546C97E5871B	bspgma08	<GEN>bspgma08								
+_8487546CD7E5871D	bspgma09	<GEN>bspgma09								
+_0487546C95F5870B	bspgma10	<GEN>bspgma10								
+_0487546CD5F5870D	bspgma11	<GEN>bspgma11								
+_0487546C15F5870F	bspgma12	<GEN>bspgma12								
+_0487546C55F58711	bspgma13	<GEN>bspgma13								
+_0487546C96F58713	bspgma14	<GEN>bspgma14								
+_0487546CD6F58715	bspgma15	<GEN>bspgma15								
+_0487546C16F58717	bspgma16	<GEN>bspgma16								
+_0487546C56F58719	bspgma17	<GEN>bspgma17								
+_0487546C97F5871B	bspgma18	<GEN>bspgma18								
+_0487546CD7F5871D	bspgma19	<GEN>bspgma19								
+_8487546C9505870B	bspgma20	<GEN>bspgma20								
+_8487546CD505870D	bspgma21	<GEN>bspgma21								
+_8487546C1505870F	bspgma22	<GEN>bspgma22								
+_8487546C55058711	bspgma23	<GEN>bspgma23								
+_8487546C96058713	bspgma24	<GEN>bspgma24								
+_8487546CD6058715	bspgma25	<GEN>bspgma25								
+_06E75478D5E5930D	bspmmd01	<GEN>bspmmd01								
+_06E7547815E5930F	bspmmd02	<GEN>bspmmd02								
+_06E7547855E59311	bspmmd03	<GEN>bspmmd03								
+_06E7547896E59313	bspmmd04	<GEN>bspmmd04								
+_06E75478D6E59315	bspmmd05	<GEN>bspmmd05								
+_06E7547816E59317	bspmmd06	<GEN>bspmmd06								
+_06E7547856E59319	bspmmd07	<GEN>bspmmd07								
+_06E7547897E5931B	bspmmd08	<GEN>bspmmd08								
+_06E75478D7E5931D	bspmmd09	<GEN>bspmmd09								
+_86E7547895F5930B	bspmmd10	<GEN>bspmmd10								
+_86E75478D5F5930D	bspmmd11	<GEN>bspmmd11								
+_86E7547815F5930F	bspmmd12	<GEN>bspmmd12								
+_86E7547855F59311	bspmmd13	<GEN>bspmmd13								
+_86E7547896F59313	bspmmd14	<GEN>bspmmd14								
+_86E75478D6F59315	bspmmd15	<GEN>bspmmd15								
+_86E7547816F59317	bspmmd16	<GEN>bspmmd16								
+_86E7547856F59319	bspmmd17	<GEN>bspmmd17								
+_86E7547897F5931B	bspmmd18	<GEN>bspmmd18								
+_86E75478D7F5931D	bspmmd19	<GEN>bspmmd19								
+_06E754789505930B	bspmmd20	<GEN>bspmmd20								
+_06E75478D505930D	bspmmd21	<GEN>bspmmd21								
+_06E754781505930F	bspmmd22	<GEN>bspmmd22								
+_06E7547855059311	bspmmd23	<GEN>bspmmd23								
+_06E7547896059313	bspmmd24	<GEN>bspmmd24								
+_06E75478D6059315	bspmmd25	<GEN>bspmmd25								
+_C9A7548ED5E58B0D	bspxmb01	<GEN>bspxmb01								
+_C9A7548E15E58B0F	bspxmb02	<GEN>bspxmb02								
+_C9A7548E55E58B11	bspxmb03	<GEN>bspxmb03								
+_C9A7548E96E58B13	bspxmb04	<GEN>bspxmb04								
+_C9A7548ED6E58B15	bspxmb05	<GEN>bspxmb05								
+_C9C7548ED5E58F0D	bspxmc01	<GEN>bspxmc01								
+_C9C7548E15E58F0F	bspxmc02	<GEN>bspxmc02								
+_C9C7548E55E58F11	bspxmc03	<GEN>bspxmc03								
+_C9C7548E96E58F13	bspxmc04	<GEN>bspxmc04								
+_C9C7548ED6E58F15	bspxmc05	<GEN>bspxmc05								
+_C9C7548E16E58F17	bspxmc06	<GEN>bspxmc06								
+_C9C7548E56E58F19	bspxmc07	<GEN>bspxmc07								
+_C9C7548E97E58F1B	bspxmc08	<GEN>bspxmc08								
+_C9C7548ED7E58F1D	bspxmc09	<GEN>bspxmc09								
+_49C7548E95F58F0B	bspxmc10	<GEN>bspxmc10								
+_49C7548ED5F58F0D	bspxmc11	<GEN>bspxmc11								
+_49C7548E15F58F0F	bspxmc12	<GEN>bspxmc12								
+_49C7548E55F58F11	bspxmc13	<GEN>bspxmc13								
+_49C7548E96F58F13	bspxmc14	<GEN>bspxmc14								
+_49C7548ED6F58F15	bspxmc15	<GEN>bspxmc15								
+_49C7548E16F58F17	bspxmc16	<GEN>bspxmc16								
+_49C7548E56F58F19	bspxmc17	<GEN>bspxmc17								
+_49C7548E97F58F1B	bspxmc18	<GEN>bspxmc18								
+_49C7548ED7F58F1D	bspxmc19	<GEN>bspxmc19								
+_C9C7548E95058F0B	bspxmc20	<GEN>bspxmc20								
+_C9C7548ED5058F0D	bspxmc21	<GEN>bspxmc21								
+_C9C7548E15058F0F	bspxmc22	<GEN>bspxmc22								
+_C9C7548E55058F11	bspxmc23	<GEN>bspxmc23								
+_C9C7548E96058F13	bspxmc24	<GEN>bspxmc24								
+_C9C7548ED6058F15	bspxmc25	<GEN>bspxmc25								
+_14616E3A1BA4A77B	bsxpa03	<GEN>bsxpa03								
+_9BE45C234433DA54	bapa05	<GEN>bapa05								
+_F71A46B34FF539D0	government_title_fyros_01	<GEN>government_title_fyros_01								
+_F71A46B44F0539D0	government_title_fyros_02	<GEN>government_title_fyros_02								
+_367D5C132DBA6FF4	government_title_marauder_01	<GEN>government_title_marauder_01								
+_78396A9B11F539CA	government_title_matis_01	<GEN>government_title_matis_01								
+_78396A9C110539CA	government_title_matis_02	<GEN>government_title_matis_02								
+_757A42ECE04787D2	government_title_tryker_01	<GEN>government_title_tryker_01								
+_757A46EDE04787D2	government_title_tryker_02	<GEN>government_title_tryker_02								
+_759996A954F511C2	government_title_zorai_01	<GEN>government_title_zorai_01								
+_759996AA540511C2	government_title_zorai_02	<GEN>government_title_zorai_02								
+_9B36177CD050FD41	rpjob_200	<GEN>rpjob_200								
+_9B36177D1060FD41	rpjob_201	<GEN>rpjob_201								
+_9B36177E5070FD41	rpjob_202	<GEN>rpjob_202								
+_9B36177F9080FD41	rpjob_203	<GEN>rpjob_203								
+_9B361780D190FD41	rpjob_204	<GEN>rpjob_204								
+_9B36178111A0FD41	rpjob_205	<GEN>rpjob_205								
+_9B36178251B0FD41	rpjob_206	<GEN>rpjob_206								
+_9B36178391C0FD41	rpjob_207	<GEN>rpjob_207								
+_ABB4786AB14A93B3	titre_gloire_kitinierereine	<GEN>titre_gloire_kitinierereine								
+_DF39FFD196AC6519	bcfaea22	Fyros Light Panties Craft Pattern		a	the				Brick Craftman's plan for fyros light panties	
+_746CBA11462B580E	bcfaea23	Fyros Light Bra Craft Pattern		a	the				Brick Craftman's plan for fyros light bra	
+_5E69A7C058AC6519	bcmaea22	Matis Light Panties Craft Pattern		a	the				Brick Craftman's plan for matis light panties	
+_B5FC5A1846CB60F6	bcmaea23	Matis Light Bra Craft Pattern		a	the				Brick Craftman's plan for matis light bra	
+_DAF7F405FA24DF28	bctaea22	Tryker Light Panties Craft Pattern		a	the				Brick Craftman's plan for tryker light panties	
+_CC5E0B5D0A330EE8	bctaea23	Tryker Light Bra Craft Pattern		a	the				Brick Craftman's plan for tryker light bra	
+_DA9AD7DB9BAC650F	bczaea22	Zorai Light Panties Craft Pattern		a	the				Brick Craftman's plan for zorai light panties	
+_F6AD9225C44B58FA	bczaea23	Zorai Light Bra Craft Pattern		a	the				Brick Craftman's plan for zorai light bra	

@@ -73,7 +73,7 @@ _69B978A6A878E0B4	place_galemus	Galemus	Galemus	Galemus			in	nach
 _A8543324AA29C8B0	region_libertylake	See der Freiheit	See der Freiheit	See der Freiheit	der	den	im	zum
 _A314F0B0E1C9D4B5	region_dewdrops	Tautropfen	Tautropfen	Tautropfen			in	nach
 _1D3C352DEA09F4A3	region_restingwater	Ruhiges Wasser	Ruhiges Wasser	Ruhiges Wasser	das		in	nach
-_E33311255F58B0C1	region_windsofmuse	Winde der Musen	Winde der Musen	Winden der Musen	die	die	in den	zu den
+_E33311255F58B0C1	region_windsofmuse	Winde der Musen (WoM)	Winde der Musen (WoM)	Winden der Musen (WoM)	die	die	in den	zu den
 _2D589CAE64D990C6	region_thefount	Ursprung	Ursprung	Ursprung	der	den	im	zum
 _FDFBBD1DA5D884F4	region_bountybeaches	Strände des Überflusses	Strände des Überflusses	Stränden des Überflusses	die	die	in den	zu den
 _7E503D166815C3EB	region_enchantedisle	Verzauberte Insel	Verzauberte Insel	Verzauberten Insel	die	die	in der	zu der
@@ -472,8 +472,8 @@ _422F691DA0BA1111	place_zora_p_cimetiere	Friedhof von Zora	Friedhof von Zora	Fri
 _362EEE95C6B05DF7	place_zora_p_marche_commun	Vorderer Markt	Vorderen Markt	Vorderen Markt	der	den	auf dem	zum
 _A715481EA9293757	place_zora_p_2	Tempelhallen-Distrikt	Tempelhallen-Distrikt	Tempelhallen-Distrikt	der	den	im	zum
 _6051582F6909CBA6	place_zora_p_3	West-Hollow-Distrikt	West-Hollow-Distrikt	West-Hollow-Distrikt	der	den	im	zum
-_68E7D432A958E750	place_zora_p_4	Daïsha-Viertel	Daïsha-Viertel	Daïsha-Viertel	das	das	im	zum
-_67866FC4E98682A3	place_zora_p_5	Win-Cho-Viertel	Win-Cho-Viertel	Win-Cho-Viertel	das	das	im	zum
+_68E7D432A958E750	place_zora_p_4	Daïsha-Distrikt	Daïsha-Distrikt	Daïsha-Distrikt	das	das	im	zum
+_67866FC4E98682A3	place_zora_p_5	Win-Cho-Distrikt	Win-Cho-Distrikt	Win-Cho-Distrikt	das	das	im	zum
 _28F478B3AA59D4B1	continent_indoors	Gebäude	Gebäude	Gebäude	das	das	im	zum
 _A645B49270E8B0A0	faihaven_stable	Stall von Fairhaven	Stall von Fairhaven	Stall von Fairhaven	der	den	am	zum
 _61C994A76EB8D819	place_yrk_p_1	Zachini-Bezirk	Zachini-Bezirk	Zachini-Bezirk	der	den	im	zum
