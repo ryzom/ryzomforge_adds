@@ -1222,6 +1222,7 @@ _56FE8900E28825CA	BHFPMA02	Especializado en el Desierto		una	la				Reduce el con
 _D6ADC9062288E9C4	BHFPMA03	Especializado en la Selva		una	la				Reduce el consumo del enfoque de las acciones de seguimiento del deposito; añade una bonificación a la tasa de extracción de las fuentes en prospección.	
 _0C349AFEF505DFFF	BHFPMA04	Especializado en Lagos 		una	la				Reduce el consumo del enfoque de las acciones de seguimiento del deposito; añade una bonificación a la tasa de extracción de las fuentes en prospección.	
 _9353D0C5BEA09832	BHFPMA05	Especializado en Suelo Subterráneo		una	la				Reduce el consumo del enfoque de las acciones de seguimiento del deposito; añade una bonificación a la tasa de extracción de las fuentes en prospección.	
+_CD0A562B3290B4C5	BHFPMA06	Especializado en Atys		una	la				Reduce el consumo del enfoque de las acciones de seguimiento del deposito; añade una bonificación a la tasa de extracción de las fuentes en prospección.	
 _EAC0E361AD1D7240	BHFPMB01	Prospección Menor del Grupo de Savia 		una	la				Búsqueda de materiales específicos.	
 _FEB5185DB44D7454	BHFPMB02	Prospección Menor del Grupo de Ámbar		una	la				Búsqueda de materiales específicos.	
 _0FBDE921409993B8	BHFPMB03	Prospección Menor del Grupo del Nodo 		una	la				Búsqueda de materiales específicos.	
@@ -1242,6 +1243,13 @@ _613AF10B03C5CAA7	BHFPMB17	Prospección Mayor del Grupo de la Concha		una	la				
 _615AE51983B5CAA7	BHFPMB18	Prospección Mayor del Grupo de la Resina		una	la				"Búsqueda de materiales específicos, con mayores oportunidades de encontrar fuentes."	
 _E5E4CB622A8D214C	BHFPMB19	Prospección Mayor del Grupo de la Madera		una	la				"Búsqueda de materiales específicos, con mayores oportunidades de encontrar fuentes."	
 _8CC515DD7BD483E2	BHFPMB20	Prospección Mayor del Grupo del Petróleo		una	la				"Búsqueda de materiales específicos, con mayores oportunidades de encontrar fuentes."	
+_A24139328E381006	BHFPMB21	Prospección del Grupo de Construcción		una	la				Búsqueda de materiales específicos.	
+_445B94C1F6E14792	BHFPMB22	Prospección del Grupo de Comida		una	la				Búsqueda de materiales específicos.	
+_E39E9BF5993BF4DB	BHFPMB23	Prospección del Grupo de Goo		una	la				Búsqueda de materiales específicos.	
+_064D9C842D9668DE	BHFPMB24	Prospección del Grupo de Insecto		una	la				Búsqueda de materiales específicos.	
+_7790AF3C4829221D	BHFPMB25	Prospección del Grupo de Kitin		una	la				Búsqueda de materiales específicos.	
+_3CA391185C2D9B1F	BHFPMB26	Prospección del Grupo de Dañino		una	la				Búsqueda de materiales específicos.	
+_6022453F8F4810F7	BHFPMB27	Prospección del Grupo de Conservante		una	la				Búsqueda de materiales específicos.	
 _BEA536C08664A307	BHFPRMFMA01	Cualquier Material del Grupo		un	el	Cualquier Material del Grupo				
 _730AB3CD658597EF	BHFPRMFMA02	Prospección de Savia Roja viva		una	la					 
 _78888F2D774EB8F5	BHFPRMFMA03	Prospección de Anserina Argentina o mala hierba plateada		una	la					 
@@ -1294,6 +1302,106 @@ _B3DB9089224643F7	BHFPRMFMJ03	Prospección de Madera de Eyota		una	la
 _EF85FCB3D2BCB506	BHFPRMFMJ04	Prospección de Mdera de Kachine		una	la					
 _7B79D7CE9A03B9FD	BHFPRMFMJ05	Prospección de Madera de Motega		una	la					
 _739930B7D197D047	BHFPRMFMJ06	Prospección de Madera de Tama		una	la					
+_78D93CC99153D1B1	BHFPRMFMK01	Cualquier Material del Grupo		un	el					
+_EF7908AD0FB7A06B	BHFPRMFMK02	Prospección de Hoja Muerta		una	la					 
+_BA3A848DDBE6A5FA	BHFPRMFMK03	Prospección de Resina Fresca		una	la					 
+_F3EB9083A4369BF0	BHFPRMFMK04	Prospección de Madera Fresca		una	la					 
+_5289D4E05CD29C7D	BHFPRMFMK05	Prospección de Madera Seca		una	la					 
+_8CD0051CEC8E1D87	BHFPRMFMK06	Prospección de Aserrín de Madera Húmeda		una	la					 
+_AF78E5DB003B9403	BHFPRMFMK07	Prospección de Hoja de Caña Pequeña		una	la					 
+_EE88E5DB3EEBD8F7	BHFPRMFMK08	Prospección de Hoja de Caña Grande		una	la					 
+_AC98E5DB025B94FF	BHFPRMFMK09	Prospección de Hoja de Caña Gigante		una	la					 
+_B4CB4083A4369BF7	BHFPRMFMK10	Prospección de Corteza Fresca		una	la					 
+_52B9E4D217D29C7D	BHFPRMFMK11	Prospección de Corteza Seca		una	la					 
+_F2B900CA98730078	BHFPRMFMK12	Prospección de Fibra Seca		una	la					 
+_F10BDCA99206BBED	BHFPRMFMK13	Prospección de Fibra Húmeda		una	la					 
+_CEA119D6AD5C3C65	BHFPRMFMK14	Prospección de Concha Nacarada Pequeña		una	la					 
+_0DB119D6EB0C8059	BHFPRMFMK15	Prospección de Concha Nacarada Grande		una	la					 
+_CBC119D6AF7C3C61	BHFPRMFMK16	Prospección de Concha Nacarada Gigante		una	la					 
+_797A808DDC758DFE	BHFPRMFMK17	Prospección de Perla Pequeña		una	la					 
+_B88A808D1A25D1F2	BHFPRMFMK18	Prospección de Perla Grande		una	la					 
+_769A808DDE958DFA	BHFPRMFMK19	Prospección de Perla Gigante		una	la					 
+_07CDAD28EBEC8451	BHFPRMFMK20	Prospección de Escama de Pez Plateado		una	la					 
+_C97D803234B96DE8	BHFPRMFMK21	Prospección de Escama de Pez Dorado		una	la					 
+_F42920B40F47E475	BHFPRMFMK22	Prospección de Gusano de Seda		una	la					 
+_7B19C3DF1AF5A9FB	BHFPRMFMK23	Prospección de Araña de Seda		una	la					 
+_AF4809DFC4AC9403	BHFPRMFMK24	Prospección de Tallo de Junco Pequeño		una	la					 
+_EE5809DF025CD8F7	BHFPRMFMK25	Prospección de Tallo de Junco Grande		una	la					 
+_AD0FF5007509E1F0	BHFPRMFMK26	Prospección de Tierra Suelta Fresca		una	la					 
+_2D1FF5007428F1F0	BHFPRMFMK27	Prospección de Tierra Suelta Seca		una	la					 
+_0D3249F236C75C61	BHFPRMFMK28	Prospección de Fósil de Planta Pequeña		una	la					 
+_4C4249F27477A055	BHFPRMFMK29	Prospección de Fósil de Planta Grande		una	la					 
+_3A8AE4D6D5B1B9F2	BHFPRMFMK30	Prospección de Pigmento Rojo		una	la					 
+_721A14613C7CF105	BHFPRMFMK31	Prospección de Pigmento Verde		una	la					 
+_33691496888DF907	BHFPRMFMK32	Prospección de Pigmento Azul		una	la					 
+_FB373E403CCEEDF4	BHFPRMFMK33	Prospección de Pigmento Amarillo		una	la					 
+_314A14617B5CE1FF	BHFPRMFMK34	Prospección de Pigmento Negro		una	la					 
+_78D93CCA9153D1B1	BHFPRMFML01	Cualquier Material del Grupo		un	el					
+_B02B648425559BF2	BHFPRMFML02	Prospección de Hoja Verde		una	la					 
+_4BF2E1D4AC5D306F	BHFPRMFML03	Prospección de Pétalo de Flores Frescas		una	la					 
+_CB02E1D4AB7C406F	BHFPRMFML04	Prospección de Pétalo de Flor Seca		una	la					 
+_32EA7C822237A073	BHFPRMFML05	Prospección de Brote Pequeño		una	la					 
+_71FA7C8260E7E467	BHFPRMFML06	Prospección de Brote Grande		una	la					 
+_AE38CDEA00AEB908	BHFPRMFML07	Prospección de Diente de León Fresco		una	la					 
+_2E48CDEAFFCDC908	BHFPRMFML08	Prospección de Diente de León Seco		una	la					 
+_FA519D32FEDB4838	BHFPRMFML09	Prospección de Diente de León Floreciente		una	la					 
+_FB59EBE3BC6ED5FD	BHFPRMFML10	Prospección de Hongo Pequeño		una	la					 
+_3A69EBE3FA1E19F1	BHFPRMFML11	Prospección de Hongo Grande		una	la					 
+_977EF0F5797B4A71	BHFPRMFML12	Prospección de Larva de Insecto Viviente		una	la					 
+_755974679AED850D	BHFPRMFML13	Prospección de Cereal Fresco		una	la					 
+_F5697467990C950D	BHFPRMFML14	Prospección de Cereal Seco		una	la					 
+_0731F90C22B971CE	BHFPRMFML15	Prospección de Larva de Insecto Muerto		una	la					 
+_F2198C822237A073	BHFPRMFML16	Prospección de Huevo Pequeño		una	la					 
+_31298C8260E7E467	BHFPRMFML17	Prospección de Huevo Grande		una	la					 
+_792A608EDBE6D1F6	BHFPRMFML18	Prospección de Miel Fresca		una	la					 
+_F93A608EDA05E1F6	BHFPRMFML19	Prospección de Miel Seca		una	la					 
+_B73A44B012A5B64F	BHFPRMFML20	Prospección de Planta Aromática con Pimienta		una	la					 
+_120FF0CA38B44E74	BHFPRMFML21	Prospección de Planta Aromática Picante		una	la					 
+_08AADC1D1783D26A	BHFPRMFML22	Prospección de Planta Aromática Amarga		una	la					 
+_ED504504FA2BCCE1	BHFPRMFML23	Prospección de Baya Salvaje Fresca		una	la					 
+_6D604504F94ADCE1	BHFPRMFML24	Prospección de Baya Salvaje Seca		una	la					 
+_7E2B5C8EDC75ADF5	BHFPRMFML25	Prospección de Fruta Pequeña		una	la					 
+_BD3B5C8E1A25F1E9	BHFPRMFML26	Prospección de Fruta Grande		una	la					 
+_78D93CCB9153D1B1	BHFPRMFMM01	Cualquier Material del Grupo		un	el					
+_8900E8E9FDCC3465	BHFPRMFMM02	Prospección de Savia Fresca Modificada		una	la					 
+_0910E8E9FCEB4465	BHFPRMFMM03	Prospección de Savia Seca Modificada		una	la					 
+_0AD021ECFDFEF998	BHFPRMFMM04	Prospección de Residuo de Goo Fresco		una	la					 
+_8AE021ECFC1D0998	BHFPRMFMM05	Prospección de Residuo de Goo Seco		una	la					 
+_78D93CCC9153D1B1	BHFPRMFMN01	Cualquier Material del Grupo		un	el					
+_EDD71838817EED0D	BHFPRMFMN02	Prospección de Parásito Viviente		una	la					 
+_31CB4C94E5CDF1FE	BHFPRMFMN03	Prospección de Parásito Muerto		una	la					 
+_5170E58498229A67	BHFPRMFMN04	Prospección de Abdomen de Luciernaga Pequeño		una	la					 
+_9080E584D6D2DE5B	BHFPRMFMN05	Prospección de Abdomen de Luciérnaga Pequeño		una	la					 
+_0FF261FB78C73058	BHFPRMFMN06	Prospección de Ala de Mariposa Roja		una	la					 
+_0B9C51D5B4E34E85	BHFPRMFMN07	Prospección de Ala de Mariposa Verde		una	la					 
+_54F0902BE46B925E	BHFPRMFMN08	Prospección de Ala de Mariposa Azul		una	la					 
+_83BFF821D442EE56	BHFPRMFMN09	Prospección de Ala de Mariposa Amarilla		una	la					 
+_D9D121D6E4BC1A5A	BHFPRMFMN10	Prospección de Fósil de Insecto Pequeño		una	la					 
+_18E121D6226C5E4E	BHFPRMFMN11	Prospección de Fósil de Insecto Grande		una	la					 
+_78D93CCD9153D1B1	BHFPRMFMO01	Cualquier Material del Grupo		un	el					
+_1061EDF674385463	BHFPRMFMO02	Prospección de Capullo de Kitin Fresco		una	la					 
+_AF9FA54D31C85597	BHFPRMFMO03	Prospección de Capullo de Kitin Viejo		una	la					 
+_3529B06A1B9C1508	BHFPRMFMO04	Prospección de Saliva de Kitin		una	la					 
+_BB1A6C915C45ADFE	BHFPRMFMO05	Prospección de Larva de Kitin		una	la					 
+_78D93CCE9153D1B1	BHFPRMFMP01	Cualquier Material del Grupo		un	el					
+_EFF500B9DA9DC10A	BHFPRMFMP02	Prospección de Hoja Podrida		una	la					 
+_B10500B9DA7DF914	BHFPRMFMP03	Prospección de Madera Podrida		una	la					 
+_FC7A8C92DC7595FE	BHFPRMFMP04	Prospección de Espina Pequeña		una	la					 
+_3B8A8C921A25D9F2	BHFPRMFMP05	Prospección de Espina Grande		una	la					 
+_F99A8C92DE9595FA	BHFPRMFMP06	Prospección de Espina Gigante		una	la					 
+_5943634B803738AB	BHFPRMFMP07	Prospección de Polvo		una	la					 
+_EDF664B47ADD21FE	BHFPRMFMP08	Prospección de Fibra Podrida		una	la					 
+_6FB0F9EDAABDD1DC	BHFPRMFMP09	Prospección de Tela de Araña Pequeña		una	la					 
+_AE20FDEDE86D15D0	BHFPRMFMP10	Prospección de Tela de Araña Grande		una	la					 
+_78D93CCF9153D1B1	BHFPRMFMQ01	Cualquier Material del Grupo		un	el					
+_F1F940CC9B730078	BHFPRMFMQ02	Prospección de Resina Seca		una	la					 
+_5AB0A15B754921D0	BHFPRMFMQ03	Prospección de Serrín de Madera Seca		una	la					 
+_33993CDBDB730078	BHFPRMFMQ04	Prospección de Paja Seca		una	la					 
+_F02C04BC9206BBF2	BHFPRMFMQ05	Prospección de Paja Húmeda		una	la					 
+_F4B9D08721A8B078	BHFPRMFMQ06	Prospección de Cera Fresca		una	la					 
+_9322E4C161B374A4	BHFPRMFMQ07	Prospección de Cera Seca		una	la					 
+_F42B6889A4369BFF	BHFPRMFMQ08	Prospección de Musgo Fresco		una	la					 
+_52BAE4E6DAD29C7D	BHFPRMFMQ09	Prospección de Musgo Seco		una	la					 
 _78D93CB5895551B1	BHFPRMFMW01	Cualquier Material del Grupo		un	el					 
 _F1D6DCDCDEC5B9FD	BHFPRMFMW02	Prospección de Petróleo de Gulatch		una	la					 
 _7409B08DA287CC6F	BHFPRMFMW03	Prospección de Petróleo de Pilan		una	la					 
@@ -1494,6 +1602,7 @@ _E5AEA14815635060	BHFEMA02	Especializado en el Desierto		un	el				Reduce la agre
 _655DE14E5563145A	BHFEMA03	Especializado en la Selva		un	el				Reduce la agresividad del ritmo y las estancias de velocidad.	
 _905285EC094DD970	BHFEMA04	Especializado en Lagos		un	el				Reduce la agresividad del ritmo y las estancias de velocidad.	
 _31E81D027CE6B0F2	BHFEMA05	Especializado en Suelo Subterráneo		un	el				Reduce la agresividad del ritmo y las estancias de velocidad.	
+_1333D1E1894D5970	BHFEMA06	Especializado en Atys		un	el				Reduce la agresividad del ritmo y las estancias de velocidad.	
 _30194D8197ED7A5A	BHFEMB01	Especializado en Grupo de Savia		un	el				Aumenta la calidad y reduce la agresividad de las estancias de velocidad.	
 _7286C45EFF0F31C7	BHFEMB02	Especializado en Grupo de Ámbar		un	el				Aumenta la calidad y reduce la agresividad de las estancias de velocidad.	
 _695997C980DF47D5	BHFEMB03	Especializado en Grupo de Nodo		un	el				Aumenta la calidad y reduce la agresividad de las estancias de velocidad.	
@@ -1503,6 +1612,13 @@ _29696FCE41DF47D5	BHFEMB06	Especializado en Grupo de la Semilla		un	el				Aument
 _34B6B070400F31C1	BHFEMB07	Especializado en Grupo de la Concha		un	el				Aumenta la calidad y reduce la agresividad de las estancias de velocidad.	
 _7397A46FC10F31C3	BHFEMB09	Especializado en Grupo de la Resina		un	el				Aumenta la calidad y reduce la agresividad de las estancias de velocidad.	
 _290997D2C0EF47D5	BHFEMB10	Especializado en Grupo de la Madera		un	el				Aumenta la calidad y reduce la agresividad de las estancias de velocidad.	
+_8650E9850C113A93	BHFEMB11	Especializado en Grupo de Construcción		un	el				Aumenta la calidad y reduce la agresividad de las estancias de velocidad.	
+_286A441474BA711F	BHFEMB12	Especializado en Grupo de Comida		un	el				Aumenta la calidad y reduce la agresividad de las estancias de velocidad.	
+_02C7DCE0EA48AC24	BHFEMB13	Especializado en Grupo de Goo		un	el				Aumenta la calidad y reduce la agresividad de las estancias de velocidad.	
+_7DA1A131FF7DEFED	BHFEMB14	Especializado en Grupo de Insecto		un	el				Aumenta la calidad y reduce la agresividad de las estancias de velocidad.	
+_F65D013DF2CD5CBE	BHFEMB15	Especializado en Grupo de Kitin		un	el				Aumenta la calidad y reduce la agresividad de las estancias de velocidad.	
+_CAC049613E46DC0A	BHFEMB16	Especializado en Grupo de Dañino		un	el				Aumenta la calidad y reduce la agresividad de las estancias de velocidad.	
+_4431F5920D213A84	BHFEMB17	Especializado en Grupo de Conservante		un	el				Aumenta la calidad y reduce la agresividad de las estancias de velocidad.	
 _30D86D7D170D7A5A	BHFEMB23	Especializado en Grupo del Petróleo		un	el				Aumenta la calidad y reduce la agresividad de las estancias de velocidad.	
 _898B751C1F369F50	BHFEMC01	Preservación 1		una	la				"Aumenta la vida de una fuente de forraje, para evitar su desaparición prematura y posible agotamiento del área."	
 _898B751C5F36A350	BHFEMC02	Preservación 2		una	la				"Aumenta la vida de una fuente de forraje, para evitar su desaparición prematura y posible agotamiento del área."	
@@ -4300,11 +4416,11 @@ _9B36178111A0FD41	rpjob_205	<GEN>rpjob_205
 _9B36178251B0FD41	rpjob_206	<GEN>rpjob_206								
 _9B36178391C0FD41	rpjob_207	<GEN>rpjob_207								
 _ABB4786AB14A93B3	titre_gloire_kitinierereine	<GEN>titre_gloire_kitinierereine								
-_746CBA11062B580E	bcfaea22	Plan de Fabricación de Calzones Livianas Fyros		un	el				Plan de fabricación de calzones livianas Fyros.	
-_DF39FFD1D6AC6519	bcfaea23	Plan de Fabricación de Sujetador Livianas Fyros		un	el				Plan de fabricación de sujetador livianas Fyros.	
-_B5FC5A1806CB60F6	bcmaea22	Plan de Fabricación de Calzones Livianas Matis		un	el				Plan de fabricación de calzones livianas Matis.	
-_5E69A7C098AC6519	bcmaea23	Plan de Fabricación de Sujetador Livianas Matis		un	el				Plan de fabricación de sujetador livianas Matis.	
-_CC5E0B5DCA330EE8	bctaea22	Plan de Fabricación de Calzones Livianas Tryker		un	el				Plan de fabricación de calzones livianas Tryker.	
-_DAF7F4053A24DF28	bctaea23	Plan de Fabricación de Sujetador Livianas tryker		un	el				Plan de fabricación de sujetador livianas Tryker.	
-_F6AD9225844B58FA	bczaea22	Plan de Fabricación de Calzones Livianas Zoraï		un	el				Plan de fabricación de calzones livianas Zoraï.	
-_DA9AD7DBDBAC650F	bczaea23	Plan de Fabricación de Sujetador Livianas Zoraï		un	el				Plan de fabricación de sujetador livianas Zoraï.	
+_DF39FFD196AC6519	bcfaea22	Plan de Fabricación de Calzones Livianas Fyros		un	el				Plan de fabricación de calzones livianas Fyros.	
+_746CBA11462B580E	bcfaea23	Plan de Fabricación de Sujetador Livianas Fyros		un	el				Plan de fabricación de sujetador livianas Fyros.	
+_5E69A7C058AC6519	bcmaea22	Plan de Fabricación de Calzones Livianas Matis		un	el				Plan de fabricación de calzones livianas Matis.	
+_B5FC5A1846CB60F6	bcmaea23	Plan de Fabricación de Sujetador Livianas Matis		un	el				Plan de fabricación de sujetador livianas Matis.	
+_DAF7F405FA24DF28	bctaea22	Plan de Fabricación de Calzones Livianas Tryker		un	el				Plan de fabricación de calzones livianas Tryker.	
+_CC5E0B5D0A330EE8	bctaea23	Plan de Fabricación de Sujetador Livianas tryker		un	el				Plan de fabricación de sujetador livianas Tryker.	
+_DA9AD7DB9BAC650F	bczaea22	Plan de Fabricación de Calzones Livianas Zoraï		un	el				Plan de fabricación de calzones livianas Zoraï.	
+_F6AD9225C44B58FA	bczaea23	Plan de Fabricación de Sujetador Livianas Zoraï		un	el				Plan de fabricación de sujetador livianas Zoraï.	

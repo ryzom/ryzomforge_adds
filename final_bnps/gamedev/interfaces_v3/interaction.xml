@@ -845,27 +845,32 @@
             name="uiFilterMenuAround"
             handler="chat_target_selected"
             params="say"
-            formatted="true" />
+            formatted="true" 
+            icon="r2_toolbar_set_as_leader.tga" />
     <action id="region"
             name="uiFilterMenuRegion"
             handler="chat_target_selected"
             params="region"
-            formatted="true" />
+            formatted="true" 
+            icon="rpjobitem_203_c.tga" />
     <action id="universe"
             name="uiFilterMenuUniverse"
             handler="chat_target_selected"
             params="universe"
-            formatted="true" />
+            formatted="true" 
+            icon="ico_atys.tga" />
     <action id="team"
             name="uiFilterMenuTeam"
             handler="chat_target_selected"
             params="team"
-            formatted="true" />
+            formatted="true" 
+            icon="teammate_map.tga" />
     <action id="guild"
             name="uiFilterMenuGuild"
             handler="chat_target_selected"
             params="guild"
-            formatted="true" />
+            formatted="true" 
+            icon="spe_memory.tga" />
   </group>
   <!-- actual action handlers are created in code, this just lists the emotes we want to appear in the quick access menu -->
   <group type="menu"
@@ -1916,7 +1921,8 @@
     <action id="toggle_chat_eb_vis"
             name="uimToggleChatEBVis"
             handler="toggle_chat_eb_vis"
-            params="" />
+            params="" 
+            icon="r2_icon_chat_small.tga" />
     <separator />
   </group>
   <!-- MainChat Group menu. Code appends entries for selecting chat source (if tab is user chat) -->
@@ -1957,27 +1963,33 @@
         <action id="around"
                 name="uiAroundMe"
                 usergroup_l="chat_menu_button"
-                usergroup_params_l="chat_db=AROUND_ME" />
+                usergroup_params_l="chat_db=AROUND_ME" 
+                icon="r2_toolbar_set_as_leader.tga" />
         <action id="region"
                 name="uiREGION"
                 usergroup_l="chat_menu_button"
-                usergroup_params_l="chat_db=REGION_CHAT" />
+                usergroup_params_l="chat_db=REGION_CHAT" 
+                icon="rpjobitem_203_c.tga" />
         <action id="team"
                 name="uiTeam"
                 usergroup_l="chat_menu_button"
-                usergroup_params_l="chat_db=TEAM_CHAT" />
+                usergroup_params_l="chat_db=TEAM_CHAT" 
+                icon="teammate_map.tga" />
         <action id="guild"
                 name="uimGuild"
                 usergroup_l="chat_menu_button"
-                usergroup_params_l="chat_db=GUILD_CHAT" />
+                usergroup_params_l="chat_db=GUILD_CHAT" 
+                icon="spe_memory.tga" />
         <action id="universe"
                 name="uiUNIVERSE"
                 usergroup_l="chat_menu_button"
-                usergroup_params_l="chat_db=UNIVERSE_CHAT" />
+                usergroup_params_l="chat_db=UNIVERSE_CHAT" 
+                icon="ico_atys.tga" />
         <action id="system"
                 name="uiSystemInfo"
                 usergroup_l="chat_menu_button"
-                usergroup_params_l="chat_db=SYSTEM_INFO" />
+                usergroup_params_l="chat_db=SYSTEM_INFO" 
+                icon="spe_options.tga" />
         <!-- Bit of a hack as vector is not supported inside a submenu -->
         <action id="dyn0"
                 name="0"
@@ -2014,7 +2026,8 @@
       </action>
       <action id="save"
               name="uimChanSave"
-              handler="lua:game:saveChannel(true)" />
+              handler="lua:game:saveChannel(true)" 
+              icon="r2_icon_save_small.tga" />
     <separator />
   </group>
   <!-- User Chat menu. Code append entries for selecting chat source -->
@@ -2039,11 +2052,13 @@
     <action id="team_target"
             name="uiSAY"
             handler="chat_target_selected"
-            params="say" />
+            params="say" 
+            icon="r2_icon_dialog_mini.tga" />
     <action id="team_target"
             name="uiSHOUT"
             handler="chat_target_selected"
-            params="shout" />
+            params="shout" 
+            icon="r2_icon_dialog_mini_over.tga" />
   </group>
   <template name="around_me_id"
             keep="true"
@@ -2134,15 +2149,18 @@
     <action id="dismiss"
             name="uimDismiss"
             handler="dismiss_member"
-            params="" />
+            params="" 
+            icon="r2ed_kicked_char.tga" />
     <action id="leader"
             name="uimSetTeamLeader"
             handler="set_team_leader"
-            params=""/>
+            params="" 
+            icon="r2_toolbar_group_small.tga"/>
     <action id="successor"
             name="uimSetSuccesor"
             handler="set_successor"
-            params=""/>
+            params="" 
+            icon="r2_player_admin.tga"/>
     <!--            <action id="emote" name="uimEmotes" hanlder="" params="">
                         <action id="emote1"  name="uimEmote1" handler="emote" params="emote_id=0"/>     
                         <action id="emote2"  name="uimEmote2" handler="emote" params="emote_id=1"/>     
@@ -2163,11 +2181,13 @@
     <action id="target"
             name="uimTarget"
             handler="team_target"
-            params="" />
+            params=""
+            icon="ico_aim.tga" />
     <action id="compass"
             name="uimTeamCompass"
             handler="set_team_compas"
-            params="compass=ui:interface:compass" />
+            params="compass=ui:interface:compass"
+            icon="lm_user_pushed.tga" />
     <separator />
   </group>
   <!-- links to enable leader options -->

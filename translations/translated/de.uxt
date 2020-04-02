@@ -88,11 +88,11 @@ uiRange	[Reichweite]
 
 // HASH_VALUE AF06A35FABD45A88
 // INDEX 22
-uittLead	[Leiter/in des Teams]
+uittLead	[Anführer/in des Teams]
 
 // HASH_VALUE 31DAA87FA2275372
 // INDEX 23
-uittSuccessor	[Vize-Leiter/in des Teams]
+uittSuccessor	[Stellv. Anführer/in des Teams]
 
 // HASH_VALUE 2C99B47EDE971C91
 // INDEX 24
@@ -204,7 +204,7 @@ Fouler	[Verderber]
 
 // HASH_VALUE 6438147DEAEB3CC5
 // INDEX 51
-Disturber	[Störer]
+Disturber	[Störenfried]
 
 // HASH_VALUE DF3760AB6287009A
 // INDEX 52
@@ -3217,7 +3217,7 @@ uigcSpanish	[SPANISCH]
 
 // HASH_VALUE D72E51D69923FABB
 // INDEX 802
-uigcRequestReboot	[Ryzom muss neu gestartet werden, um diese Änderungen zu übernehmen. Jetzt neu starten?]
+uigcRequestReboot	[Ryzom muss neu gestartet werden, um diese Änderungen zu übernehmen.]
 
 // HASH_VALUE 11E314364F722841
 // INDEX 803
@@ -6735,7 +6735,7 @@ uiSkillsTitle	[Identität]
 
 // HASH_VALUE 50D494345090F424
 // INDEX 1616
-uiJournalTitle	[MISSIONEN]
+uiJournalTitle	[MISSIONSLOGBUCH]
 
 // HASH_VALUE D0B4F420B852EC1C
 // INDEX 1617
@@ -6840,7 +6840,7 @@ uiJoinDuelProposal	[WARNUNG : DUELLAUFFORDERUNG]
 
 // HASH_VALUE 201464406C58C40C
 // INDEX 1642
-uiJoinClanProposalTitle	[PVP-Clan]
+uiJoinClanProposalTitle	[PVP-Klan]
 
 // HASH_VALUE 2CDB049C6657048D
 // INDEX 1643
@@ -7237,7 +7237,7 @@ uiDetail	[DETAILS]
 
 // HASH_VALUE 4A9B60EE5DF6980C
 // INDEX 1741
-uittDetail	[Liste vom erweiterten in den einfachen Modus umschalten]
+uittDetail	[Liste zwischen erweiterten und einfachen Modus umschalten]
 
 // HASH_VALUE FD72B7455EC7285F
 // INDEX 1742
@@ -7252,12 +7252,12 @@ uittFilterWeapon	[Waffenfilter @{6F6F}\n
 // HASH_VALUE 55691FEE9A045C17
 // INDEX 1744
 uittFilterTool	[Werkzeugfilter @{6F6F}\n
-	@{FFFF}Rechtsklick, um ausschließlich @{6F6F}Werkzeug@{FFFF} anzuzeigen.]
+	@{FFFF}Rechtsklick, um ausschließlich @{6F6F}Werkzeuge@{FFFF} anzuzeigen.]
 
 // HASH_VALUE E923AEF672C969C7
 // INDEX 1745
-uittFilterPet	[Filter @{6F6F}Tier\n
-	@{FFFF}Rechtsklick, um ausschließlich @{6F6F}Tier@{FFFF} anzuzeigen.]
+uittFilterPet	[Tierfilter @{6F6F}\n
+	@{FFFF}Rechtsklick, um ausschließlich @{6F6F}Tiere@{FFFF} anzuzeigen.]
 
 // HASH_VALUE F7EC4C94289E3142
 // INDEX 1746
@@ -7266,8 +7266,8 @@ uittFilterMP	[Rohstofffilter @{6F6F}\n
 
 // HASH_VALUE 9BDEB6C211CDE882
 // INDEX 1747
-uittFilterMissMP	[Filter von @{6F6F}Missionsgegenständen und -rohstoffen\n
-	@{FFFF}Rechtsklick, um ausschließlich @{6F6F}Missionselemente@{FFFF} anzuzeigen.]
+uittFilterMissMP	[Missionsfiltern @{6F6F}\n
+	@{FFFF}Rechtsklick, um ausschließlich @{6F6F}Missionselemente @{FFFF}anzuzeigen.]
 
 // HASH_VALUE A54058101559C818
 // INDEX 1748
@@ -7395,7 +7395,7 @@ uiKeysDebugTitle	[TASTEN TESTEN]
 
 // HASH_VALUE 5054542C5054542C
 // INDEX 1779
-uiKeysTitle	[TASTEN]
+uiKeysTitle	[TASTATURBELEGEUNG]
 
 // HASH_VALUE 300C00C0300C00C0
 // INDEX 1780
@@ -9014,7 +9014,7 @@ uimwTeamList	[TEAM]
 
 // HASH_VALUE 4742AC133AA37C11
 // INDEX 2179
-uimwContactList	[KONTAKTLISTE]
+uimwContactList	[FREUNDESLISTE]
 
 // HASH_VALUE 4450141844501418
 // INDEX 2180
@@ -9042,7 +9042,7 @@ uimwGuild	[GILDENINFO]
 
 // HASH_VALUE CA42F0330BC3D045
 // INDEX 2186
-uimwMissions	[AUFGABEN]
+uimwMissions	[MISSIONSLOGBUCH]
 
 // HASH_VALUE 79C3BBDD892CB734
 // INDEX 2187
@@ -9944,7 +9944,7 @@ uiTeamChatTitle	[TEAMCHAT]
 
 // HASH_VALUE 45812B1C0E4EB813
 // INDEX 2405
-uiFriendList	[FREUNDESLISTE]
+uiFriendList	[FREUNDE]
 
 // HASH_VALUE C81227254C1ED00C
 // INDEX 2406
@@ -10129,19 +10129,19 @@ uiItemRMClass0	[Basis]
 
 // HASH_VALUE 6498941864989418
 // INDEX 2443
-uiItemRMClass1	[feine/s/r]
+uiItemRMClass1	[Feine]
 
 // HASH_VALUE 27567C58E7947078
 // INDEX 2444
-uiItemRMClass2	[vorzügliche/s/r]
+uiItemRMClass2	[Vorzügliche]
 
 // HASH_VALUE A058808C2A3884AC
 // INDEX 2445
-uiItemRMClass3	[exzellente/s/r]
+uiItemRMClass3	[Exzellente]
 
 // HASH_VALUE A95AF4AAE9E96C8A
 // INDEX 2446
-uiItemRMClass4	[erhabene/s/r]
+uiItemRMClass4	[Erhabene]
 
 // HASH_VALUE 5D26625CB2217642
 // INDEX 2447
@@ -10320,7 +10320,7 @@ uihelpItemRangeWeaponFormat	[@{FFF9}@{HuittInfoOrigin}Design: @{H}@{T12}@{FFFF}%
 // INDEX 2473
 uihelpItemAmmoFormat	[@{FFF9}@{HuittInfoOrigin}Design: @{H}@{T12}@{FFFF}%origin\n
 	@{FFF9}@{HuittInfoWeaponQuality}Qualität: @{H}@{T12}@{FFFF}%quality\n
-	@{FFF9}@{HuittInfoWeight}Gewicht: @{H}@{T12}@{FFFF}%weight kg\n
+	@{FFF9}@{HuittInfoWeight}Gewicht: @{H}@{T12}@{FFFF}%weight kg\n\n
 	@{FFF9}@{HuittInfoBulk}Volumen: @{H}@{T12}@{FFFF}%bulk\n
 	@{FFF9}@{HuittInfoHP}Haltbarkeit: @{H}@{T12}@{FFFF}%hp / %hpmax\n
 	@{FFF9}@{HuittInfoItemSkill}Fertigkeit: @{H}@{T12}@{FFFF}%skill\n
@@ -10480,7 +10480,7 @@ uihelpItemJewelFormat	[@{FFF9}@{HuittInfoOrigin}Design: @{H}@{T12}@{FFFF}%origin
 	@{FFF9}@{HuittInfoBulk}Volumen: @{H}@{T12}@{FFFF}%bulk\n
 	@{FFF9}@{HuittInfoHP}Haltbarkeit: @{H}@{T12}@{FFFF}%hp / %hpmax\n
 	%cansell@{FFF9}@{HuittInfoRequirement}Voraussetzung: @{H}@{T12}@{FFFF}%caracreq@{FFFF}%skillreq@{FFFF}%skillreq2\n
-	%magic_protection%magic_resistance%buffs%desc%custom_text]
+	%magic_protection%magic_resistance%buffs%desc%enchantment%custom_text]
 
 // HASH_VALUE 6E6E2DA956AF0E3A
 // INDEX 2495
@@ -10513,15 +10513,15 @@ uihelpItemChargeSpell	[@{FFF9}Sapladung: @{T12}@{FFFF}%quality\n
 // HASH_VALUE 88359CF16D5CFDBD
 // INDEX 2497
 uihelpItemAnimal	[Dieser Gegenstand symbolisiert\n
-	ein Tier #%petnumber.\n
+	das Tier Nummer %petnumber.\n
 	\n
-	Du kannst ein Tier mit Hilfe dieses Gegenstands verschenken oder verkaufen; aber nur, wenn sein Inventar leer ist.\n
+	Du kannst das Tier mit Hilfe dieses Gegenstands verschenken oder verkaufen; aber nur, wenn dessen Inventar leer ist.\n
 	%cansell%desc%custom_text]
 
 // HASH_VALUE CB10EC5C14C1477D
 // INDEX 2498
-uihelpItemTeleport	[Zum Verwenden rechtsklicken und 'Teleportieren' auswählen\n
-	Ein Teleportpakt wird dafür bei Ankunft verbraucht.\n
+uihelpItemTeleport	[Rechtsklicken und Teleportieren.\n
+	Bei der Ankunft wird ein Teleportationspakt verbraucht.\n
 	%cansell%desc%custom_text]
 
 // HASH_VALUE 9B6A37002639A74D
@@ -10585,7 +10585,7 @@ uittAuraDisabled	[ - Aura deaktiviert]
 // Bricks Header displayed in top of list of bricks if available
 // HASH_VALUE 41CC871412930664
 // INDEX 2508
-uihelpPhraseHeaderBricks	[@{FFFF}--- Stanzas ---]
+uihelpPhraseHeaderBricks	[ ]
 
 // HASH_VALUE 820FADA1D202D652
 // INDEX 2509
@@ -12324,7 +12324,7 @@ uiMainChatTitle	[HAUPTCHAT]
 
 // HASH_VALUE 5490F40C50143404
 // INDEX 2910
-uiContactListTitle	[KONTAKTE]
+uiContactListTitle	[FREUNDESLISTE]
 
 // HASH_VALUE 0B62D02D40411433
 // INDEX 2911
@@ -12900,7 +12900,7 @@ uiTeamList	[Team]
 
 // HASH_VALUE 7498F40C701C3484
 // INDEX 3054
-uiContactList	[Kontakte]
+uiContactList	[FREUNDESLISTE]
 
 // HASH_VALUE 705C542C705C542C
 // INDEX 3055
@@ -13876,7 +13876,7 @@ uiTextHelpSelectFaberPlan	[Wähle zuerst den Gegenstand, den du herstellen wills
 
 // HASH_VALUE B706DD1057ECA8AB
 // INDEX 3295
-uittSelectPlan	[Wähle mit Linksklick einen verfügbaren Bauplan des Gegenstandes, den du herstellen willst.]
+uittSelectPlan	[Wähle einen verfügbaren Handwerksplan aus, um einen Gegenstand herzustellen.]
 
 // HASH_VALUE 404B14A424E099BC
 // INDEX 3296
@@ -13888,7 +13888,7 @@ uittSelectMp	[Linksklick, um Rohstoffe hinzuzufügen. Durch nochmaligen Linkskli
 
 // HASH_VALUE 7BB65DCA8D1ED22C
 // INDEX 3298
-uiTextHelpSelectFaberPlanSlot	[Wähle einen gelernten Bauplan für dieses Handwerk.]
+uiTextHelpSelectFaberPlanSlot	[Wähle einen gelernten Handwerksplan]
 
 // HASH_VALUE B32B683C21D844A2
 // INDEX 3299
@@ -14502,23 +14502,23 @@ uiShowing	[Zeigen: ]
 
 // HASH_VALUE CD72133B8DE36634
 // INDEX 3449
-uiSkillPoints	[Fertigkeitspunkte für Aktionskauf]
+uiSkillPoints	[Fertigkeitspunkte]
 
 // HASH_VALUE 96976B67D6854695
 // INDEX 3450
-uiSkillPoints0	[Kampf-Fertigkeitspunkte ]
+uiSkillPoints0	[Kampf]
 
 // HASH_VALUE 14F62F6412542A7A
 // INDEX 3451
-uiSkillPoints1	[Magie-Fertigkeitspunkte ]
+uiSkillPoints1	[Magie]
 
 // HASH_VALUE D6A7AB5BD9C5628C
 // INDEX 3452
-uiSkillPoints2	[Handwerks-Fertigkeitspunkte ]
+uiSkillPoints2	[Handwerks]
 
 // HASH_VALUE 749C1420201C3494
 // INDEX 3453
-uiSkillPoints3	[Rohstoffernte-Fertigkeitspunkte ]
+uiSkillPoints3	[Rohstoffernte ]
 
 // HASH_VALUE 7A6F23377F011333
 // INDEX 3454
@@ -14542,7 +14542,7 @@ uimGcmTradePhase	[Neue Aktionen lernen]
 
 // HASH_VALUE 7F3DF004CC42EC2C
 // INDEX 3459
-uiNotEnoughSkillPoints	[ZU WENIGE FERTIGKEITSPUNKTE. TRAINIERE WEITER!]
+uiNotEnoughSkillPoints	[ZU WENIGE PUNKTE. TRAINIERE WEITER!]
 
 // Heal
 // HASH_VALUE 5010042050100420
@@ -19474,7 +19474,7 @@ uiAnimalsTitle	[TIERE]
 
 // HASH_VALUE BAC7944ECF89AE06
 // INDEX 4691
-uittSatiety	[Rot: Lebenskraft / Orange: Taschenplatz / Weiß: Sättigung. Wenn der Sättigungs-Balken auf Null fällt, hat das Tier Hunger und wird langsam.]
+uittSatiety	[Rot: Lebenskraft / Orange: Taschenplatz / Weiß: Sättigung. Wenn der Sättigungs-Balken auf Null fällt, hat das Tier Hunger und kann nicht mehr laufen.]
 
 // HASH_VALUE 2EE6A09C38655ED5
 // INDEX 4692
@@ -19485,7 +19485,6 @@ uittAliveLandscape	[Das Tier ist am Leben und außerhalb des Stalls.\n
 // HASH_VALUE 3CB6917B84CD2195
 // INDEX 4693
 uittStable	[Das Tier ist im Stall.\n
-	@{6F6F}Linksklick, @{FFFF}um es auszuwählen.\n
 	@{6F6F}Rechtsklick, @{FFFF}um ihm eine Anweisung zu geben.]
 
 // HASH_VALUE AF075E2295E176F7
@@ -19496,11 +19495,11 @@ uittDead	[Das Tier ist tot.\n
 
 // HASH_VALUE 309E23DB19F9A563
 // INDEX 4695
-uittDeathTimer	[Restzeit, ehe der Körper dieses toten Tieres verschwindet.]
+uittDeathTimer	[Restzeit bis der Körper dieses toten Tieres verschwunden ist.]
 
 // HASH_VALUE A9604559224F1442
 // INDEX 4696
-uittAnimalDeadPopupToolTip	[Restliche Stunden, ehe das erste deiner toten Tiere verschwindet.]
+uittAnimalDeadPopupToolTip	[Restliche Stunden bis das Erste deiner toten Tiere verschwunden ist.]
 
 // HASH_VALUE C52B629385E0C076
 // INDEX 4697
@@ -21274,19 +21273,19 @@ uiawrSFR2ABM	[Bogengewehr]
 
 // HASH_VALUE 6C5C14307058848C
 // INDEX 5058
-uiawrSFR2AL	[Raketenwerfer]
+uiawrSFR2AL	[Granatenwerfer]
 
 // HASH_VALUE 6CFCB41C4898B498
 // INDEX 5059
-uiawrSFR2ALB	[brennendem Raketenwerfer]
+uiawrSFR2ALB	[brennendem Granatenwerfer]
 
 // HASH_VALUE E6F6773AA579E0BA
 // INDEX 5060
-uiawrSFR2ALE	[elektrischem Raketenwerfer]
+uiawrSFR2ALE	[elektrischem Granatenwerfer]
 
 // HASH_VALUE 6C5C14307058848C
 // INDEX 5061
-uiawrSFR2ALM	[Raketenwerfer]
+uiawrSFR2ALM	[Granatenwerfer]
 
 // HASH_VALUE 67E71C8CA2773489
 // INDEX 5062
@@ -22605,7 +22604,7 @@ uiMouseHardware	[Hardware]
 
 // HASH_VALUE 45C5C008EB1984B7
 // INDEX 5378
-uiCannotWriteDynChat	[Du kannst nicht in diesen Chatkanal schreiben.]
+uiCannotWriteDynChat	[Du kannst in diesen Chatkanal nicht schreiben.]
 
 // HASH_VALUE CC112431CA83BC39
 // INDEX 5379
@@ -22613,7 +22612,8 @@ uiMagicProtectTable	[Schutz]
 
 // HASH_VALUE 276E3F52A73FB865
 // INDEX 5380
-uittMagicProtectTable	[Der @{6F6F}magische Schutz@{FFFF} absorbiert einen Prozentsatz an magischen Schäden, abhängig von:\n
+uittMagicProtectTable	[Der @{6F6F}magische Schutz@{FFFF} absorbiert einen Prozentsatz an magischen Schäden.\n
+	Das ist abhängig von:\n
 	@{T4}- dem @{6F6F}Typ@{FFFF} des erlittenen magischen Schadens,\n
 	@{T4}- dem Schutz, den der @{6F6F}Schmuck@{FFFF} bietet,\n
 	@{T4}- der Summe der @{6F6F}Qualität @{FFFF}des getragenen Schmucks und\n
@@ -22649,35 +22649,35 @@ uiProtect_Shockwave	[Schockwelle]
 
 // HASH_VALUE 049B1C4DD74B2041
 // INDEX 5388
-uiProtect_MaxAbsorb	[Max. absorbiert]
+uiProtect_MaxAbsorb	[Maximale Absorption]
 
 // HASH_VALUE 7259CAAC235FEE16
 // INDEX 5389
-uittProtect_Rot	[Verrottungsschäden-Absorption: @{6F6F}%v%@{FFFF} %max]
+uittProtect_Rot	[Absorption von Verrottungsschäden: @{6F6F}%v%@{FFFF} %max]
 
 // HASH_VALUE CB53C08014A3833C
 // INDEX 5390
-uittProtect_Acid	[Säureschäden-Absorption : @{6F6F}%v%@{FFFF} %max]
+uittProtect_Acid	[Absorption von Säureschäden: @{6F6F}%v%@{FFFF} %max]
 
 // HASH_VALUE 0C53B980D4F39B4B
 // INDEX 5391
-uittProtect_Cold	[Kälteschäden-Absorption : @{6F6F}%v%@{FFFF} %max]
+uittProtect_Cold	[Absorption von Kälteschäden: @{6F6F}%v%@{FFFF} %max]
 
 // HASH_VALUE A7CA8DB65D5E0B80
 // INDEX 5392
-uittProtect_Fire	[Feuerschäden-Absorption : @{6F6F}%v%@{FFFF} %max]
+uittProtect_Fire	[Absorption von Feuerschäden: @{6F6F}%v%@{FFFF} %max]
 
 // HASH_VALUE 6CC982F5CCA8356D
 // INDEX 5393
-uittProtect_Poison	[Giftschäden-Absorption : @{6F6F}%v%@{FFFF} %max]
+uittProtect_Poison	[Absorption von Giftschäden: @{6F6F}%v%@{FFFF} %max]
 
 // HASH_VALUE C10039287A9472FB
 // INDEX 5394
-uittProtect_Electricity	[Elektroschäden-Absorption : @{6F6F}%v%@{FFFF} %max]
+uittProtect_Electricity	[Absorption von Elektroschäden: @{6F6F}%v%@{FFFF} %max]
 
 // HASH_VALUE 56A951A06FA9108A
 // INDEX 5395
-uittProtect_Shockwave	[Schockwellenschäden-Absorption : @{6F6F}%v%@{FFFF} %max]
+uittProtect_Shockwave	[Absorption von Schockwellenschäden: @{6F6F}%v%@{FFFF} %max]
 
 // HASH_VALUE DB00AE336D4AC0AF
 // INDEX 5396
@@ -22686,7 +22686,7 @@ uittProtect_MaxReached	[(maximal)]
 // HASH_VALUE BE3C7E33592B3BA4
 // INDEX 5397
 uittProtect_MaxAbsorb	[Maximum der absorbierten Schäden:\n
-	Summe aus @{6F6F}Qualität des Schmucks@{FFFF} + @{6F6F}max. Stufe@{FFFF} des Spielers]
+	Summe aus @{6F6F}Qualität des Schmucks @{FFFF}+ @{6F6F}maximales Level @{FFFF}des Spielers]
 
 // HASH_VALUE 0F43D4330BE3FC4C
 // INDEX 5398
@@ -22707,30 +22707,30 @@ uittMagicResistTable	[Den Zaubersprüchen der Kreaturen und Spieler kann vollst�
 
 // HASH_VALUE CC25343C56C9D2F7
 // INDEX 5400
-uiResist_Desert	[Wüstenmagie-Widerstand]
+uiResist_Desert	[Wüsten-Magie]
 
 // HASH_VALUE 9D21928895966E9E
 // INDEX 5401
-uiResist_Forest	[Wadmagie-Widerstand]
+uiResist_Forest	[Wald-Magie]
 
 // HASH_VALUE C01AA450C8187C6A
 // INDEX 5402
-uiResist_Lacustre	[Seenlandmagie-Widerstand]
+uiResist_Lacustre	[Seenland-Magie]
 
 // HASH_VALUE D4F4A87FD8D28B72
 // INDEX 5403
-uiResist_Jungle	[Dschungelmagie-Widerstand]
+uiResist_Jungle	[Dschungel-Magie]
 
 // HASH_VALUE 1328E38015B8CC7D
 // INDEX 5404
-uiResist_PrimRoot	[Urwurzelmagie-Widerstand]
+uiResist_PrimRoot	[Urwurzel-Magie]
 
 // HASH_VALUE 0B3B8D626ED819EA
 // INDEX 5405
-uittResist_Desert	[Widerstand gegen Magiesprüche aus dem Wüstenbereich: @{6F6F}%v@{FFFF} %max\n
-	@{T4}- Chance, einem Spruch von @{6F6F}Elementarmagie@{FFFF} der Stufe @{6F6F}%eml@{FFFF}: @{6F6F}%emr%@{FFFF} zu widerstehen\n
-	@{T4}- Chance, einem Spruch von @{6F6F}Schmerzmagie@{FFFF} der Stufe @{6F6F}%aml@{FFFF}: @{6F6F}%amr%@{FFFF} zu widerstehen\n
-	@{T0}Dieser Bereich inkludiert folgende Magie-Effekte:\n
+uittResist_Desert	[Widerstand gegen Magie-Sprüche der Wüsten-Magie: @{6F6F}%v@{FFFF} %max\n
+	@{T4}- Chance, einem Spruch der @{6F6F}Elementarmagie@{FFFF} des Levels @{6F6F}%eml@{FFFF} um @{6F6F}%emr%@{FFFF} zu widerstehen\n
+	@{T4}- Chance, einem Spruch der @{6F6F}Beherrschungsmagie@{FFFF} das Levels @{6F6F}%aml@{FFFF} um @{6F6F}%amr%@{FFFF} zu widerstehen\n
+	@{T0}Diese Magie umfasst folgende Effekte:\n
 	@{T4}- @{6F6F}Feuer@{FFFF}\n
 	@{T4}- @{6F6F}Blindheit@{FFFF}\n
 	@{T4}- @{6F6F}Wahnsinn@{FFFF}\n
@@ -22738,10 +22738,10 @@ uittResist_Desert	[Widerstand gegen Magiesprüche aus dem Wüstenbereich: @{6F6F
 
 // HASH_VALUE 59EA33B883AB2026
 // INDEX 5406
-uittResist_Forest	[Widerstand gegen Magiesprüche aus dem Waldlandbereich: @{6F6F}%v@{FFFF} %max\n
-	@{T4}- Chance, einem @{6F6F}Elementarzauber@{FFFF} der Stufe @{6F6F}%eml@{FFFF} zu widerstehen: @{6F6F}%emr%@{FFFF}\n
-	@{T4}- Chancen einem @{6F6F}Beherrschungszauber@{FFFF} der Stufe @{6F6F}%aml@{FFFF} zu widerstehen: @{6F6F}%amr%@{FFFF}\n
-	@{T0}Dieser Bereich inkludiert folgende Magie-Effekte:\n
+uittResist_Forest	[Widerstand gegen Sprüche der Wald-Magie: @{6F6F}%v@{FFFF} %max\n
+	@{T4}- Chance, einem @{6F6F}Elementarzauber@{FFFF} des Levels um @{6F6F}%eml@{FFFF} um @{6F6F}%emr%@{FFFF} zu widerstehen. \n
+	@{T4}- Chance, einem @{6F6F}Beherrschungszauber@{FFFF} des Levels @{6F6F}%aml@{FFFF} um @{6F6F}%amr%@{FFFF} zu widerstehen. \n
+	@{T0}Diese Magie umfasst folgende Effekte:\n
 	@{T4}- @{6F6F}Gift@{FFFF}\n
 	@{T4}- @{6F6F}Schlaf@{FFFF}\n
 	@{T4}- @{6F6F}Bewegungsverlangsamung@{FFFF}\n
@@ -22749,10 +22749,10 @@ uittResist_Forest	[Widerstand gegen Magiesprüche aus dem Waldlandbereich: @{6F6
 
 // HASH_VALUE C9600D6865D27D73
 // INDEX 5407
-uittResist_Lacustre	[Widerstand gegen Magieprüche aus dem Seenlandbereich: @{6F6F}%v@{FFFF} %max\n
-	@{T4}- Chance, einem @{6F6F}Elementarzauber@{FFFF} der Stufe @{6F6F}%eml@{FFFF} zu widerstehen: @{6F6F}%emr%@{FFFF}\n
-	@{T4}- Chance, einem @{6F6F}Beherrschungszauber@{FFFF} der Stufe @{6F6F}%aml@{FFFF} zu widerstehen: @{6F6F}%amr%@{FFFF}\n
-	@{T0}Dieser Bereich inkludiert folgende Magie-Effekte:\n
+uittResist_Lacustre	[Widerstand gegen Sprüche der Seenland-Magie: @{6F6F}%v@{FFFF} %max\n
+	@{T4}- Chance, einem @{6F6F}Elementarzauber@{FFFF} des Levels @{6F6F}%eml@{FFFF} um @{6F6F}%emr%@{FFFF} zu widerstehen.\n
+	@{T4}- Chance, einem @{6F6F}Beherrschungszauber@{FFFF} des Levels @{6F6F}%aml@{FFFF} um @{6F6F}%amr%@{FFFF} zu widerstehen.\n
+	@{T0}Diese Magie umfasst folgende Effekte:\n
 	@{T4}- @{6F6F}Kälte@{FFFF}\n
 	@{T4}- @{6F6F}Schockwelle@{FFFF}\n
 	@{T4}- @{6F6F}Betäuben@{FFFF}\n
@@ -22760,10 +22760,10 @@ uittResist_Lacustre	[Widerstand gegen Magieprüche aus dem Seenlandbereich: @{6F
 
 // HASH_VALUE 6D27C3213D0933D9
 // INDEX 5408
-uittResist_Jungle	[Widerstand gegen Magiesprüche aus dem Dschungelbereich: @{6F6F}%v@{FFFF} %max\n
-	@{T4}- Chance, einem @{6F6F}Elementarzauber@{FFFF} der Stufe @{6F6F}%eml@{FFFF} zu widerstehen: @{6F6F}%emr%@{FFFF}\n
-	@{T4}- Chance, einem @{6F6F}Beherrschungszauber@{FFFF} der Stufe @{6F6F}%aml@{FFFF} zu widerstehen: @{6F6F}%amr%@{FFFF}\n
-	@{T0}Dieser Bereich inkludiert folgende Magie-Effekte:\n
+uittResist_Jungle	[Widerstand gegen Sprüche aus der Dschungel-Magie: @{6F6F}%v@{FFFF} %max\n
+	@{T4}- Chance, einem @{6F6F}Elementarzauber@{FFFF} des Levels @{6F6F}%eml@{FFFF} um @{6F6F}%emr%@{FFFF} zu widerstehen.\n
+	@{T4}- Chance, einem @{6F6F}Beherrschungszauber@{FFFF} des Levels @{6F6F}%aml@{FFFF} um @{6F6F}%amr%@{FFFF} zu widerstehen.\n
+	@{T0}Diese Magie umfasst folgende Effekte:\n
 	@{T4}- @{6F6F}Elektrizität@{FFFF}\n
 	@{T4}- @{6F6F}Verwurzelung@{FFFF}\n
 	@{T4}- @{6F6F}Angriffsverlangsamung@{FFFF}\n
@@ -22771,10 +22771,10 @@ uittResist_Jungle	[Widerstand gegen Magiesprüche aus dem Dschungelbereich: @{6F
 
 // HASH_VALUE C84D03E6ED023088
 // INDEX 5409
-uittResist_PrimRoot	[Widerstand gegen Magiesprüche aus dem Urwurzelbereich: @{6F6F}%v@{FFFF} %max\n
-	@{T4}- Chance, einem @{6F6F}Elementarzauber@{FFFF} der Stufe @{6F6F}%eml@{FFFF} zu widerstehen: @{6F6F}%emr%@{FFFF}\n
-	@{T4}- Chance, einem @{6F6F}Beherrschungszauber@{FFFF} der Stufe @{6F6F}%aml@{FFFF} zu widerstehen: @{6F6F}%amr%@{FFFF}\n
-	@{T0}Dieser Bereich inkludiert folgende Magie-Effekte:\n
+uittResist_PrimRoot	[Widerstand gegen Sprüche aus der Urwurzel-Magie: @{6F6F}%v@{FFFF} %max\n
+	@{T4}- Chance, einem @{6F6F}Elementarzauber@{FFFF} des Levels @{6F6F}%eml@{FFFF} um @{6F6F}%emr%@{FFFF} zu widerstehen.\n
+	@{T4}- Chance, einem @{6F6F}Beherrschungszauber@{FFFF} des Levels @{6F6F}%aml@{FFFF} um @{6F6F}%amr%@{FFFF} zu widerstehen.\n
+	@{T0}Diese Magie umfasst folgende Effekte:\n
 	@{T4}- @{6F6F}Säure@{FFFF}\n
 	@{T4}- @{6F6F}Verrotten@{FFFF}\n
 	@{T4}- @{6F6F}Angst@{FFFF}\n
@@ -22810,7 +22810,7 @@ uiFactionPoint_Zorai	[Zoraï]
 
 // HASH_VALUE 4FA1CC2240810F31
 // INDEX 5417
-uiFactionPointTable	[Fraktionspunkte]
+uiFactionPointTable	[Fraktions- & Nationspunkte]
 
 // HASH_VALUE CBB1283A3D91C009
 // INDEX 5418
@@ -23352,7 +23352,7 @@ uiLoadingString13	[Armas und Ploderosse werden mit Kraftfutter aufgemästet...]
 
 // HASH_VALUE 2C7660055814BCAD
 // INDEX 5550
-uiLoadingString14	[Tiere werden in ihre jeweiligen landesspezifischen Farben eingetunkt...]
+uiLoadingString14	[Tiere werden in ihren jeweiligen landesspezifischen Farben eingetunkt...]
 
 // HASH_VALUE DA2580B0E74AB8DE
 // INDEX 5551
@@ -24060,7 +24060,7 @@ uiWelcomeWhatTitle	[Was tun?]
 
 // HASH_VALUE D44A5D740D58483D
 // INDEX 5720
-uiWelcomeWhat	[Beachte die Anweisungen deines Missionsjournals, das sich links auf dem Bildschirm befindet.]
+uiWelcomeWhat	[Beachte die Anweisungen deines Missionslogbuchs, das sich links auf dem Bildschirm befindet.]
 
 // HASH_VALUE 1C18B394DC469279
 // INDEX 5721
@@ -24247,7 +24247,7 @@ uittAnimalWeight	[@{6F6F}Gesamtgewicht, @{FFFF}das dein Tier transportiert. Tier
 
 // HASH_VALUE D92907CA57A0A70A
 // INDEX 5762
-uittAnimalInv	[Das @{6F6F}Inventar @{FFFF}bietet Zugang zu den Gegenständen, die dieses Tier transportiert, solange das Tier nahe genug ist. Steht das Tier in einem Stall, genügt es, nahe beim Stall zu sein, um Zugriff auf das Tier-Inventar zu haben.]
+uittAnimalInv	[Das @{6F6F}Inventar @{FFFF}bietet Zugang zu den Gegenständen, die dieses Tier transportiert, solange es in der Nähe ist. Steht das Tier in einem Stall, genügt es, in der Nähe vom Stall zu sein, um Zugriff auf das Tier-Inventar zu erhalten.]
 
 // HASH_VALUE EC6515C0797E672F
 // INDEX 5763
@@ -24373,7 +24373,7 @@ uittTargetNamed	[starke 'Named'-Kreatur der Stufe: @{6F6F}%n]
 // HASH_VALUE 7F814BE1CB74F37A
 // INDEX 5789
 uittInfoBulk	[@{6F6F}Volumen @{FFFF}:\n
-	Platz, den der Gegenstand im Inventar (deiner Tasche oder der Satteltasche von Tieren) einnimmt. Jedes Inventar hat nur begrenzten Platz, deshalb kann man nicht zu viele große Gegenstände gemeinsam transportieren.]
+	Platz, den der Gegenstand im Inventar (deiner Tasche oder der Satteltasche von Tieren) einnimmt. Jedes Inventar hat nur begrenzt platz. Deshalb können nicht viele große Gegenstände transportiert werden.]
 
 // HASH_VALUE 8268E616D14643F5
 // INDEX 5790
@@ -25525,7 +25525,7 @@ uiR2EDNewScenarioWarning	[Drücke OK, um den Editor zurückzusetzen und ein ganz
 
 // HASH_VALUE B6A20AC0306A751A
 // INDEX 6059
-uiNoAvailableMissions	[Das Missionsjournal ist im Ring nicht verfügbar.]
+uiNoAvailableMissions	[Das Missionslogbuch ist im Ring nicht verfügbar.]
 
 // HASH_VALUE D82A99D541A5B0A0
 // INDEX 6060
@@ -25783,23 +25783,23 @@ uiR2EDBasicsPoints	[Allgemein]
 
 // HASH_VALUE 28D9906D28E6CC9B
 // INDEX 6115
-uiR2EDDesertPoints	[Wüstenkenntnis]
+uiR2EDDesertPoints	[Wüste]
 
 // HASH_VALUE E6E8548FED6BE0BD
 // INDEX 6116
-uiR2EDSubtropicPoints	[Seenlandkenntnis]
+uiR2EDSubtropicPoints	[Seenland]
 
 // HASH_VALUE AAE9E0712C26F49E
 // INDEX 6117
-uiR2EDForestPoints	[Waldlandkenntnis]
+uiR2EDForestPoints	[Waldland]
 
 // HASH_VALUE 6836DC6EECF49C90
 // INDEX 6118
-uiR2EDJunglePoints	[Dschungelkenntnis]
+uiR2EDJunglePoints	[Dschungel]
 
 // HASH_VALUE 52199848EDF6AF9D
 // INDEX 6119
-uiR2EDPrimeRootPoints	[Urwurzelkenntnis]
+uiR2EDPrimeRootPoints	[Urwurzel]
 
 // HASH_VALUE DA6F7B598594B31E
 // INDEX 6120
@@ -25951,7 +25951,7 @@ uiClickToSelectAMission	[Klicke hier, um eine Mission auszuwählen.]
 
 // HASH_VALUE 6F6AD0A31C58BBD9
 // INDEX 6151
-uiNoAvailableMission	[Dein Missionsjournal ist leer.]
+uiNoAvailableMission	[Dein Missionslogbuch ist leer.]
 
 // HASH_VALUE D5EF87890D23D659
 // INDEX 6152
@@ -25959,11 +25959,11 @@ uittExpandMissionList	[Klicke hier, um zwischen der erweiterten Liste und dem Dr
 
 // HASH_VALUE D191FA72CB9FB222
 // INDEX 6153
-uittMissionCombo	[Dies ist dein Missionsjournal mit den aktuellen Missionen. Klicke zum Auswählen oder verwende das @{6F6F}Mausrad@{FFFF}, um durch alle verfügbaren Missionen zu scrollen.]
+uittMissionCombo	[Dies ist dein Missionslogbuch mit den aktuellen Missionen. Klicke zum Auswählen oder verwende das @{6F6F}Mausrad@{FFFF}, um durch alle verfügbaren Missionen zu scrollen.]
 
 // HASH_VALUE 2EF9BCB21D59A4B4
 // INDEX 6154
-uittMissionJournal	[Dies ist dein Missionsjournal.]
+uittMissionJournal	[Dies ist dein Missionslogbuch.]
 
 // HASH_VALUE 59798C4465B3A795
 // INDEX 6155
@@ -26988,8 +26988,8 @@ uiRaceBold	[RASSE: ]
 
 // HASH_VALUE 64636618A3BDC326
 // INDEX 6402
-uittFilterTP	[Filtere @{6F6F}Teleportationspakte\n
-	@{FFFF}Rechtsklick zeigt nur @{6F6F}Teleportationspakte@{FFFF}.]
+uittFilterTP	[Teleportationspaktfilter @{6F6F}\n
+	@{FFFF}Rechtsklick, um ausschließlich @{6F6F}Teleportationspakte @{FFFF}anzuzeigen.]
 
 /* OLD VALUE : [Show Online/Offline Notifications] */
 // HASH_VALUE 08D8B8FE2B893831
@@ -27176,7 +27176,7 @@ uiPvpTotal	[GESAMT]
 
 // HASH_VALUE CD01881EC690942C
 // INDEX 6448
-uiOrganization	[FRAKTION]
+uiOrganization	[ORGANISATION]
 
 // HASH_VALUE 9F4850976B09B4A9
 // INDEX 6449
@@ -27267,422 +27267,698 @@ uigcFxAnisotropicFilter	[Anisotropischer Filter:]
 // INDEX 6470
 uigcFxAnisotropicFilterNone	[Keiner]
 
-// HASH_VALUE 050BB49718B1CAD4
+// HASH_VALUE 88333801E8DB40C0
 // INDEX 6471
+uiShowIconBuffs	[Zeige Gegenstandswerte und Verzauberung im Icon an]
+
+// HASH_VALUE 88333801264B40C0
+// INDEX 6472
+uittShowIconBuffs	[Zeigt Gegenstandswerte, wie die Haltbarkeit zum Beispiel, \n
+			und die Art der Verzauberung des Gegestandes im Icon an]
+
+// HASH_VALUE 050BB49718B1CAD4
+// INDEX 6473
 uiShowClock12h	[Verwende 12-Stunden-Uhrzeit-Anzeige.]
 
 // HASH_VALUE BCF4DB5845BC4EDA
-// INDEX 6472
+// INDEX 6474
 uittShowClock12h	[Wenn aktiviert, wird die Uhrzeit am Kompass und zu den Chat-Nachrichten in 12-Stunden-Version angezeigt.]
 
 // HASH_VALUE 68F99C8C69A81273
-// INDEX 6473
+// INDEX 6475
 uiRadarUseCamera	[Kompass folgt der Kameraausrichtung.]
 
 // HASH_VALUE B83EBD58DE9C068F
-// INDEX 6474
-uittRadarUseCamera	[Wenn aktiviert, wird die Rotation für die Kompassansicht eingeschaltet.]
+// INDEX 6476
+uittRadarUseCamera	[Wenn aktiviert, wird die Rotation für die Kompass-Ansicht eingeschaltet.]
 
 // HASH_VALUE 82A1901C06A3F72E
-// INDEX 6475
+// INDEX 6477
 uiTotalPatch	[GESAMTER PATCH]
 
 // HASH_VALUE D091B40C4890BC25
-// INDEX 6476
+// INDEX 6478
 uiRequiredFiles	[BENÖTIGTE DATEIEN]
 
 // HASH_VALUE 8C42E02F0C01D422
-// INDEX 6477
+// INDEX 6479
 uiLodValue	[STANDARD]
 
 // HASH_VALUE 6878DC2CC23A6CB6
-// INDEX 6478
+// INDEX 6480
 uiDebugProfileFillRate	[Profil-Füllrate]
 
 // HASH_VALUE 0F54678C93B4CBF6
-// INDEX 6479
+// INDEX 6481
 uiFixedMissionEntry_Mainland_Unknwown	[Hauptland / unbekannt]
 
 // HASH_VALUE CAB123089C80B66B
-// INDEX 6480
+// INDEX 6482
 uiNoFiles	[Keine Dateien]
 
 // HASH_VALUE 4090240840902408
-// INDEX 6481
+// INDEX 6483
 uiByte	[B]
 
 // HASH_VALUE AA699882DFD7A376
-// INDEX 6482
+// INDEX 6484
 uiCP_Name_Generator	[Namensgenerator]
 
 // HASH_VALUE 6498541C641C14C8
-// INDEX 6483
+// INDEX 6485
 uiCP_Name_Generate	[Generiere]
 
 // HASH_VALUE 609C1434705844D4
-// INDEX 6484
+// INDEX 6486
 uiCP_Maraudeur	[Marodeure]
 
 // HASH_VALUE 92C6D489AAC438C4
-// INDEX 6485
+// INDEX 6487
 uiCP_Name_Policy	[Namensregeln]
 
 // HASH_VALUE E7473F9596B88799
-// INDEX 6486
+// INDEX 6488
 uiCP_FirstName	[Vorname]
 
 // HASH_VALUE 6467007F5645D768
-// INDEX 6487
+// INDEX 6489
 uiCP_LastName	[Nachname]
 
 // HASH_VALUE 6DA7FC912D38D095
-// INDEX 6488
+// INDEX 6490
 uiHorizontal	[Horizontal]
 
 // HASH_VALUE 749C54586C5834A4
-// INDEX 6489
+// INDEX 6491
 uiVertical	[Vertikal]
 
 // HASH_VALUE 641C5434641C5434
-// INDEX 6490
+// INDEX 6492
 uiKeyMUTE	[Stumm]
 
 // HASH_VALUE 3165F321EF51FEF1
-// INDEX 6491
+// INDEX 6493
 uiKeyPLAYPAUSE	[Abspielen / Pause]
 
 // HASH_VALUE 26C8EF962CB49073
-// INDEX 6492
+// INDEX 6494
 uiKeyVOLUMEDOWN	[Lautstärke leiser]
 
 // HASH_VALUE E828AC5B1985D0BD
-// INDEX 6493
+// INDEX 6495
 uiKeyVOLUMEUP	[Lautstärke höher]
 
 // HASH_VALUE E906D08868678C93
-// INDEX 6494
+// INDEX 6496
 uiKeyCALC	[Rechner]
 
 // HASH_VALUE 60C82889E9C9B49B
-// INDEX 6495
+// INDEX 6497
 uiKeyPARAGRAPH	[Paragraph]
 
 // HASH_VALUE ECEC8E017F3FDAE2
-// INDEX 6496
+// INDEX 6498
 uiKeyOEM_102	[Vergleichszeichen < >]
 
 // HASH_VALUE 61B9BCDD9CF5F488
-// INDEX 6497
+// INDEX 6499
 uiFilterMenuDynamic	[%channel @{T8}/%shortcut]
 
 // HASH_VALUE 6588A87B1E781483
-// INDEX 6498
+// INDEX 6500
 uimwAppZone	[APP-ZONE]
 
 // HASH_VALUE 6588A87B1E781483
-// INDEX 6499
+// INDEX 6501
 uiAppZone	[App Zone]
 
 // HASH_VALUE 27273D41B0FA7DD2
-// INDEX 6500
+// INDEX 6502
 uiPlayedTime	[Du hast diesen Charakter %time lang gespielt.]
 
 // HASH_VALUE EB1A8C8F22674C92
-// INDEX 6501
+// INDEX 6503
 uiPlaylistRefresh	[Aktualisieren]
 
 // HASH_VALUE 570A63956CA078B7
-// INDEX 6502
+// INDEX 6504
 uiFreeViewTablet	[Tablet oder Touchscreen]
 
 // HASH_VALUE 781CF40C781CF40C
-// INDEX 6503
+// INDEX 6505
 uiCopy	[Kopiere]
 
 // HASH_VALUE AF4704666E75D097
-// INDEX 6504
+// INDEX 6506
 uiBrowse	[Durchsuche]
 
 // HASH_VALUE 4046D798ED76B4BE
-// INDEX 6505
+// INDEX 6507
 cmdCreateGroupUsage1	[createGroup Befehlsverwendung :]
 
 // HASH_VALUE 672F2158D608B33D
-// INDEX 6506
+// INDEX 6508
 cmdCreateGroupUsage2	[/createGroup group_name : erstelle eine Gruppe mit dem Namen group_name mit all deinen ausgerüsteten Gegenständen.]
 
 // HASH_VALUE 281F2D43F2731DEC
-// INDEX 6507
+// INDEX 6509
 cmdCreateGroupUsage3	[/createGroup group_name true : erstelle eine Gruppe mit dem Namen group_name mit all deinen ausgerüsteten Gegenständen, und erstelle einen Entfernungsbefehl für jeden leeren Slotplatz]
 
 // HASH_VALUE 87A04D4E0C663745
-// INDEX 6508
+// INDEX 6510
 cmdCreateGroupError	[Eine Gruppe mit dem Namen %name existiert bereits, es kann keine mit demselben Namen erstellt werden.]
 
 // HASH_VALUE 57AAD85BEAA4D7B9
-// INDEX 6509
+// INDEX 6511
 cmdCreateGroupSuccess1	[Gruppe %name wurde erfolgreich erstellt.]
 
 // HASH_VALUE 9C6A88FAC1CEA4DC
-// INDEX 6510
+// INDEX 6512
 cmdCreateGroupSuccess2	[Gruppe %name wurde erfolgreich erstellt, mitsamt Entfernung aller nicht-ausgerüsteten Gegenstände.]
 
 // HASH_VALUE EBB1FF685D7AFCC7
-// INDEX 6511
+// INDEX 6513
 cmdEquipGroupUsage1	[equipGroup Befehlsverwendung :]
 
 // HASH_VALUE 0FDFE7D6741FF8C5
-// INDEX 6512
+// INDEX 6514
 cmdEquipGroupUsage2	[/equipGroup group_name : ziehe die Gegenstände aus der Gruppe group_name aus dem verfügbaren Inventar und rüste sie aus.]
 
 // HASH_VALUE 5434105FEEDBCB30
-// INDEX 6513
+// INDEX 6515
 cmdEquipGroupError	[Kann Gruppe %name nicht ausrüsten, weil keine Gruppe dieses Namens gefunden wurde.]
 
 // HASH_VALUE 5B9A98912A55C7C1
-// INDEX 6514
+// INDEX 6516
 cmdEquipGroupSuccess	[Gruppe %name erfolgreich ausgerüstet.]
 
 // HASH_VALUE 82B6A399EDB6D0B1
-// INDEX 6515
+// INDEX 6517
 cmdDeleteGroupUsage1	[deleteGroup Befehlsverwendung :]
 
 // HASH_VALUE 2022F308D2F5591B
-// INDEX 6516
+// INDEX 6518
 cmdDeleteGroupUsage2	[/deleteGroup group_name : entferne die Gruppe namens group_name , wenn sie existiert.]
 
 // HASH_VALUE 06DA351B3C7F2E56
-// INDEX 6517
+// INDEX 6519
 cmdDeleteGroupError	[Kann Gruppe %name nicht löschen : keine Gruppe mit diesem Namen gefunden.]
 
 // HASH_VALUE 19D9DC5BEAA4D7BD
-// INDEX 6518
+// INDEX 6520
 cmdDeleteGroupSuccess	[Gruppe %name erfolgreich gelöscht.]
 
 // HASH_VALUE ADEA727BDB89387A
-// INDEX 6519
+// INDEX 6521
 cmdMoveGroupUsage1	[moveGroup Befehlsverwendung :]
 
 // HASH_VALUE 9AF23A3F90C2A5A1
-// INDEX 6520
+// INDEX 6522
 cmdMoveGroupUsage2	[/moveGroup group_name destination : verschiebe Gegenstände von allen verfügbaren Inventaren zum Ziel.]
 
 // HASH_VALUE 5BE3F613CFC022DC
-// INDEX 6521
+// INDEX 6523
 cmdMoveGroupUsage3	[Das Ziel kann sein : bag, player_room, guild, pet_animal1, pet_animal2, pet_animal3, pet_animal4]
 
 // HASH_VALUE 063AAC84DBD18975
-// INDEX 6522
+// INDEX 6524
 cmdMoveGroupError	[Konnte die Gruppe  %name nicht in %inventory verschieben, weil keine Gruppe dieses Namens gefunden wurde, und/oder es kein gültiges Inventar war.]
 
 // HASH_VALUE 53F23D1089A67059
-// INDEX 6523
+// INDEX 6525
 cmdMoveGroupSuccess	[Gruppe %name erfolgreich zu %inventory verschoben.]
 
 // HASH_VALUE AE999B8E9D9143A5
-// INDEX 6524
+// INDEX 6526
 cmdListGroupHeader	[Verfügbare Gegenstandsgruppe :]
 
 // HASH_VALUE 5BD4C6549B44ABA5
-// INDEX 6525
+// INDEX 6527
 cmdListGroupLine	[* %name, mit %size enthaltenen Gegenständen.]
 
 // HASH_VALUE 3267346D71E53896
-// INDEX 6526
+// INDEX 6528
 uimGroup	[Gruppe]
 
 // HASH_VALUE 0C8BC4F4AE78A6B7
-// INDEX 6527
+// INDEX 6529
 uiMacroItemGroupEquip	[Rüste eine Gegenstandsgruppe aus]
 
 // HASH_VALUE 5614A7A2A707B055
-// INDEX 6528
+// INDEX 6530
 uiMacroItemGroupName	[Gegenstandsgruppen-Name]
 
 // HASH_VALUE AC27CF9914116C1B
-// INDEX 6529
+// INDEX 6531
 uiMacroItemGroupMove	[Verschiebe eine Gegenstandsgruppe]
 
 // HASH_VALUE A7A1CC916E59E066
-// INDEX 6530
+// INDEX 6532
 uiMacroItemGroupDestination	[Ziel der Gegenstandsgruppe]
 
 // HASH_VALUE 1627848455283B93
-// INDEX 6531
+// INDEX 6533
 uiMapSearch	[Karten suche]
 
 // HASH_VALUE 1627848455283B93
-// INDEX 6532
+// INDEX 6534
 uittMapSearch	[Karten suche]
 
+// HASH_VALUE 61B58F8A6784D397
+// INDEX 6535
+uiTargetLandmarkCmd	[Visiere Kartenmarkierung an]
+
+// HASH_VALUE 67B96C23981A60BB
+// INDEX 6536
+uiTargetLandmarkCmdEntity	[Schlüsselwörter für die Suche]
+
 // HASH_VALUE AB97946A68B6A07A
-// INDEX 6533
+// INDEX 6537
 uittInventorySearch	[suchen]
 
 // HASH_VALUE 5814F40C5814F40C
-// INDEX 6534
+// INDEX 6538
 uimMacroCopy	[KOPIEREN]
 
 // HASH_VALUE 5814F40C5814F40C
-// INDEX 6535
+// INDEX 6539
 uimMCCopy	[KOPIEREN]
 
 // HASH_VALUE 649C144C649C144C
-// INDEX 6536
+// INDEX 6540
 uiSaveUI	[Speichern]
 
 // HASH_VALUE 250AD73C1E3664A5
-// INDEX 6537
+// INDEX 6541
 uiInterfaceScale	[Skalierung UI]
 
 //zigs
 // HASH_VALUE 77AF6FF4C1C0D2F2
-// INDEX 6538
+// INDEX 6542
 uitabInvPAZig1	[ZIG 1]
 
 // HASH_VALUE B7AF73F5C1D0D6F3
-// INDEX 6539
+// INDEX 6543
 uitabInvPAZig2	[ZIG 2]
 
 // HASH_VALUE F7AF77F6C1E0DAF4
-// INDEX 6540
+// INDEX 6544
 uitabInvPAZig3	[ZIG 3]
 
 // HASH_VALUE 77AF6FF4C1C0D2F2
-// INDEX 6541
+// INDEX 6545
 uiPABagTitleMount4	[ZIG 1]
 
 // HASH_VALUE B7AF73F5C1D0D6F3
-// INDEX 6542
+// INDEX 6546
 uiPABagTitleMount5	[ZIG 2]
 
 // HASH_VALUE F7AF77F6C1E0DAF4
-// INDEX 6543
+// INDEX 6547
 uiPABagTitleMount6	[ZIG 3]
 
 // HASH_VALUE 87B36F14D1C45212
-// INDEX 6544
+// INDEX 6548
 uiPATitleMount5	[Zig 1]
 
 // HASH_VALUE C7B37315D1D45613
-// INDEX 6545
+// INDEX 6549
 uiPATitleMount6	[Zig 2]
 
 // HASH_VALUE 07B37716D1E45A14
-// INDEX 6546
+// INDEX 6550
 uiPATitleMount7	[Zig 3]
 
+// HASH_VALUE 44BA1C01D1DDC0A2
+// INDEX 6551
+uittInBag	[Das Tier ist in deiner Tasche.\n
+	@{6F6F}Rechtsklicken, @{FFFF}um ihm eine Anweisung zu geben.]
+
 // HASH_VALUE 649A14CAE8181224
-// INDEX 6547
+// INDEX 6552
 uimEnterBag	[Auf der Tasche einsteigen]
 
 // HASH_VALUE 6ED2B0829544BF4E
-// INDEX 6548
+// INDEX 6553
 uimLeaveBag	[Aus der Tasche lassen]
 
 // HASH_VALUE 843E4EA6D3404359
-// INDEX 6549
+// INDEX 6554
 msgRollDiceLocal	[&SYS&@{FF1F}Du hast %roll gezogen, in einer Ziehung zwischen %min und %max.]
 
 // HASH_VALUE A506B06C29D47491
-// INDEX 6550
+// INDEX 6555
 uiGuildTabIsland	[Insel]
 
+// HASH_VALUE F7F6CC407B89B9D3
+// INDEX 6556
+uiWelcome_around	[Rollenspiel ist eines der maßgeblichsten Merkmale von Ryzom, und der Umgebungs-Kanal ist ein wichtiger Ort, um es zu auszuüben.]
+
+// HASH_VALUE B061D9467D44EA31
+// INDEX 6557
+uiWelcome_region	[Chatte hier mit anderen Spielern, die sich in der gleichen Region befinden wie Du.]
+
+// HASH_VALUE DB96555152E1C24F
+// INDEX 6558
+uiWelcome_universe	[Der Universumskanal ist in erster Linie für Spieler gedacht, die um Hilfe zum Spiel bitten und für diejenigen, die ihnen helfen. Es ist ein freundlicher Kanal, der auch für Chats im Zusammenhang mit Ryzom verwendet werden kann.]
+
+// HASH_VALUE 7C727C9DF8FD147A
+// INDEX 6559
+uiWelcome_kami	[Chatte hier mit Spielern, die dem gleichen Kult wie Du angehören.]
+
+// HASH_VALUE 7C727C9DF8FD147A
+// INDEX 6560
+uiWelcome_karavan	[Chatte hier mit Spielern, die dem gleichen Kult wie Du angehören.]
+
+// HASH_VALUE 83F0F7CB75FA4A0B
+// INDEX 6561
+uiWelcome_fyros	[Chatte hier mit Spielern, die ebenfalls Patrioten sind.]
+
+// HASH_VALUE 41F017BE7599221C
+// INDEX 6562
+uiWelcome_tryker	[Chatte hier mit Spielern, die ebenfalls Bürger sind.]
+
+// HASH_VALUE 418FCFE09AC93216
+// INDEX 6563
+uiWelcome_zorai	[Chatte hier mit Spielern, die ebenfalls Initiierte sind.]
+
+// HASH_VALUE C3E0F7D1EA953E03
+// INDEX 6564
+uiWelcome_matis	[Chatte hier mit Spielern, die ebenfalls Vasallen sind.]
+
+// HASH_VALUE 3FD0F7F686091E17
+// INDEX 6565
+uiWelcome_marauder	[Chatte hier mit Spielern, die ebenfalls Marodeure sind.]
+
+// HASH_VALUE C08FF7CDEA955607
+// INDEX 6566
+uiWelcome_ranger	[Chatte hier mit Spielern, die ebenfalls Ranger sind.]
+
 // HASH_VALUE CEAE0F5379D05435
-// INDEX 6551
+// INDEX 6567
 uiArtefactRestrict	[@{C02F}Deine Nationszugehörigkeit oder Ruhmstufe steht der Benutzung dieses Gegenstandes im Wege.]
 
 // HASH_VALUE 8F2D062BF5B9C40F
-// INDEX 6552
+// INDEX 6568
 uiArtefactHelp	[Kaufe einen Pakt, bevor Du keine mehr hast.]
 
 // HASH_VALUE 2399649083687012
-// INDEX 6553
+// INDEX 6569
 uimIhideBanner	[Fraktionswappen verbergen]
 
 // HASH_VALUE 6949609B83899C11
-// INDEX 6554
+// INDEX 6570
 uimIshowBanner	[Fraktionswappen anzeigen]
 
 // HASH_VALUE ABC89C4230B523CE
-// INDEX 6555
+// INDEX 6571
 uimIcloseOnTp	[Teleportfenster schliessen]
 
 // HASH_VALUE AC39905229BA7F54
-// INDEX 6556
+// INDEX 6572
 uimIopenOnTp	[Teleportfenster behalten]
 
 // HASH_VALUE EB1A8C8F22674C92
-// INDEX 6557
+// INDEX 6573
 uimIrefresh	[Erneut laden]
 
 // HASH_VALUE 210983972690C4AB
-// INDEX 6558
-uimIcompact	[Kompakten Modus ein/ausschalten]
+// INDEX 6574
+uimIcompact	[Kompakten-Modus ein/ausschalten]
 
 // HASH_VALUE 649C144C649C144C
-// INDEX 6559
+// INDEX 6575
 uimChanSave	[Speichern]
 
 // HASH_VALUE AA977387EA09F021
-// INDEX 6560
+// INDEX 6576
 uiChanSaveCB	[Speichern von Dynamischen Kanälen]
 
 // HASH_VALUE 2D6AB02BF4A8CCB9
-// INDEX 6561
+// INDEX 6577
 uiChanAutoCB	[Wiederherstellen Dynamischer Kanäle]
 
 // HASH_VALUE 6E62AFABF9C9FF64
-// INDEX 6562
+// INDEX 6578
 uittChanSave	[Wenn diese Option aktiviert ist, werden dynamische Chat-Kanäle bei der Trennung oder Charakterauswahl gespeichert.\n
 	Sie können auch den Befehl @{6F6F}/saveChannel@{FFFF} verwenden, um Kanäle manuell zu exportieren.]
 
 // HASH_VALUE 1937B73191F88AC6
-// INDEX 6563
-uittChanAuto	[Wenn dieses Kontrollkästchen aktiviert ist, werden Ihre dynamischen Chat-Kanäle wiederhergestellt, sofern sie nicht bereits geöffnet sind.\n
+// INDEX 6579
+uittChanAuto	[Wenn dieses Kontrollkästchen aktiviert ist, werden deine dynamischen Chat-Kanäle wiederhergestellt, sofern sie nicht bereits geöffnet sind.\n
 	Verhindert den Verlust von Kanälen beim Neustart oder im Falle eines Serverausfalls.]
 
-// HASH_VALUE F7F6CC407B89B9D3
-// INDEX 6564
-uiWelcome_around	[Rollenspiel ist eines der maßgeblichsten Merkmale von Ryzom, und der Umgebungs-Kanal ist ein wichtiger Ort, um es zu auszuüben.]
+// HASH_VALUE A9CBC85A8532D0B3
+// INDEX 6580
+uiMissionCatalog	[Öffnen: Missions-Tagebuch]
 
-// HASH_VALUE B061D9467D44EA31
-// INDEX 6565
-uiWelcome_region	[Chatte hier mit anderen Spielern, die sich in der gleichen Region befinden wie Du.]
+// HASH_VALUE AA540E4CE618BC5D
+// INDEX 6581
+uiS2	[Die Saison in Schwarz gegen Weiß]
 
-// HASH_VALUE DB96555152E1C24F
-// INDEX 6566
-uiWelcome_universe	[Der Universumskanal ist in erster Linie für Spieler gedacht, die um Hilfe zum Spiel bitten und für diejenigen, die ihnen helfen. Es ist ein freundlicher Kanal, der auch für Chats im Zusammenhang mit Ryzom verwendet werden kann.]
+// HASH_VALUE 06588D16CC507DD7
+// INDEX 6582
+uiS2E0	[Episode "Prolog": Diejenige, in der Sie informiert werden]
 
-// HASH_VALUE 7C727C9DF8FD147A
-// INDEX 6567
-uiWelcome_kami	[Chatte hier mit Spielern, die dem gleichen Kult wie Du angehören.]
+// HASH_VALUE 609C1408705844C8
+// INDEX 6583
+uimGcmChat	[Höflich fragen]
 
-// HASH_VALUE 7C727C9DF8FD147A
-// INDEX 6568
-uiWelcome_karavan	[Chatte hier mit Spielern, die dem gleichen Kult wie Du angehören.]
+// HASH_VALUE D808A99F289008AE
+// INDEX 6584
+uimGcmBullying	[Grob fragen]
+>>>>>>> master
 
-// HASH_VALUE 83F0F7CB75FA4A0B
-// INDEX 6569
-uiWelcome_fyros	[Chatte hier mit Spielern, die ebenfalls Patrioten sind.]
+// teleport icon labels
+// HASH_VALUE 25098CA3E84980B6
+// INDEX 6585
+uiitAlmati	[almati]
 
-// HASH_VALUE 41F017BE7599221C
-// INDEX 6570
-uiWelcome_tryker	[Chatte hier mit Spielern, die ebenfalls Bürger sind.]
+// HASH_VALUE A64970B7258AB4AA
+// INDEX 6586
+uiitRangerCamp	[ranger]
 
-// HASH_VALUE 418FCFE09AC93216
-// INDEX 6571
-uiWelcome_zorai	[Chatte hier mit Spielern, die ebenfalls Initiierte sind.]
+// HASH_VALUE 6B1994AE6B0BBCB1
+// INDEX 6587
+uiitShatteredRuins	[shattered]
 
-// HASH_VALUE C3E0F7D1EA953E03
-// INDEX 6572
-uiWelcome_matis	[Chatte hier mit Spielern, die ebenfalls Vasallen sind.]
+// HASH_VALUE 69F8A4B2EBC9C4B1
+// INDEX 6588
+uiitShiningLake	[shining]
 
-// HASH_VALUE 3FD0F7F686091E17
-// INDEX 6573
-uiWelcome_marauder	[Chatte hier mit Spielern, die ebenfalls Marodeure sind.]
+// HASH_VALUE 2DD9ECB16ABAC8AA
+// INDEX 6589
+uiitDunesOfExil	[dunes]
 
-// HASH_VALUE C08FF7CDEA955607
-// INDEX 6574
-uiWelcome_ranger	[Chatte hier mit Spielern, die ebenfalls Ranger sind.]
+// HASH_VALUE 70FAF8BAEEEAECB3
+// INDEX 6590
+uiitDyron	[dyron]
+
+// HASH_VALUE 6CA8FC8EEEF8FC89
+// INDEX 6591
+uiitFraharTowers	[frahar]
+
+// HASH_VALUE AA39E0B06AD888B1
+// INDEX 6592
+uiitOflovaksOasis	[oflovak]
+
+// HASH_VALUE 709A38B3B24940A5
+// INDEX 6593
+uiitOutlawCanyon	[outlaw]
+
+// HASH_VALUE 32EC54CB74CC38D4
+// INDEX 6594
+uiitPyr	[pyr]
+
+// HASH_VALUE 617B24C3614B34B7
+// INDEX 6595
+uiitSavageDunes	[savage]
+
+// HASH_VALUE 6F4BC8AF2A0BF0CF
+// INDEX 6596
+uiitSawdustMines	[sawdust]
+
+// HASH_VALUE 70D834CC6458848C
+// INDEX 6597
+uiitScorchedCorridor	[scorched]
+
+// HASH_VALUE AEE9DCBCECDA08B7
+// INDEX 6598
+uiitThesos	[thesos]
+
+// HASH_VALUE 6DFAB8B4EDE9D4B1
+// INDEX 6599
+uiitGroveOfUmbra	[grove]
+
+// HASH_VALUE E959B89C68E974B1
+// INDEX 6600
+uiitHavenOfPurity	[haven]
+
+// HASH_VALUE 6638C4A16928C4A1
+// INDEX 6601
+uiitHoiCho	[hoicho]
+
+// HASH_VALUE E98880A32748909A
+// INDEX 6602
+uiitJenLai	[jenlai]
+
+// HASH_VALUE 74D8E4AC74D8E4AC
+// INDEX 6603
+uiitKnotOfDementia	[knot]
+
+// HASH_VALUE 255854A8649888A0
+// INDEX 6604
+uiitMaidenGrove	[maiden]
+
+// HASH_VALUE E52894B06718ACAB
+// INDEX 6605
+uiitMinCho	[mincho]
+
+// HASH_VALUE 6458F4D86458F4D8
+// INDEX 6606
+uiitVoid	[void]
+
+// HASH_VALUE 609CF4E8609CF4E8
+// INDEX 6607
+uiitZora	[zora]
+
+// HASH_VALUE AE0AC0A92A0AA8C0
+// INDEX 6608
+uiitAbyssOfIchor	[abyss]
+
+// HASH_VALUE 2C8BF8B9ADC9B4A9
+// INDEX 6609
+uiitElusiveForest	[elusive]
+
+// HASH_VALUE A869A49DE54888AC
+// INDEX 6610
+uiitForbiddenDepths	[forbidden]
+
+// HASH_VALUE 641C149C641C149C
+// INDEX 6611
+uiitGateOfObscurity	[gate]
+
+// HASH_VALUE 649814B0649814B0
+// INDEX 6612
+uiitLandOfContinuity	[land]
+
+// HASH_VALUE B01AFCBB6FFAF0CE
+// INDEX 6613
+uiitNexus	[nexus]
+
+// HASH_VALUE AC5910B92FAAF4AB
+// INDEX 6614
+uiitSunkenCity	[sunken]
+
+// HASH_VALUE EC29ECB0ED1AC49F
+// INDEX 6615
+uiitTrenchOfTrials	[trench]
+
+// HASH_VALUE A9D9E8BA6AAAECB0
+// INDEX 6616
+uiitUnderSpring	[under]
+
+// HASH_VALUE 6C3920BDEB8AF8C2
+// INDEX 6617
+uiitWindyGate	[windy]
+
+// HASH_VALUE 6C58648464181490
+// INDEX 6618
+uiitAvendale	[avendale]
+
+// HASH_VALUE 6F1B18ADAFEA40BF
+// INDEX 6619
+uiitBountyBeaches	[bounty]
+
+// HASH_VALUE ECB994A5293ACCBC
+// INDEX 6620
+uiitCrystabell	[crystabell]
+
+// HASH_VALUE ACDACCA4681AA4B5
+// INDEX 6621
+uiitDewDrops	[dewdrop]
+
+// HASH_VALUE E6B874A269C96C9A
+// INDEX 6622
+uiitEnchantedIsle	[enchanted]
+
+// HASH_VALUE E7F86CAF682A94A4
+// INDEX 6623
+uiitFairhaven	[fairhaven]
+
+// HASH_VALUE F099FCB76CFAE0BD
+// INDEX 6624
+uiitFount	[fount]
+
+// HASH_VALUE A9A880AE26F8B4B1
+// INDEX 6625
+uiitLagoonsOfLoria	[lagoon]
+
+// HASH_VALUE EBFAD8BEEE2AB4B0
+// INDEX 6626
+uiitRestingWater	[resting]
+
+// HASH_VALUE 6889CCAE6889C8AF
+// INDEX 6627
+uiitWindermeer	[windermeer]
+
+// HASH_VALUE EA3908B7EB2AE0BC
+// INDEX 6628
+uiitWindsOfMuse	[winds]
+
+// HASH_VALUE 2C58F884AE58B484
+// INDEX 6629
+uiitAvalae	[avalae]
+
+// HASH_VALUE A6D9848B661930A0
+// INDEX 6630
+uiitDavae	[davae]
+
+// HASH_VALUE 6458C498649894D0
+// INDEX 6631
+uiitFleetingGarden	[fleeting]
+
+// HASH_VALUE 6DFAB8B4EDE9D4B1
+// INDEX 6632
+uiitGroveOfConfusion	[grove]
+
+// HASH_VALUE A85AC4A4683968A8
+// INDEX 6633
+uiitHereticsHovel	[heretic]
+
+// HASH_VALUE 2768949968A8A896
+// INDEX 6634
+uiitHiddenSource	[hidden]
+
+// HASH_VALUE AC58D4B16B58C8B2
+// INDEX 6635
+uiitKnollOfDissent	[knoll]
+
+// HASH_VALUE 2659A495689958A8
+// INDEX 6636
+uiitNatae	[natae]
+
+// HASH_VALUE 2DBB20BCEE8CF4BC
+// INDEX 6637
+uiitUpperBog	[upper]
+
+// HASH_VALUE 2948B4B72CAB20C3
+// INDEX 6638
+uiitYrkanis	[yrkanis]
+
+// HASH_VALUE F25F5861435C0FC9
+// INDEX 6639
+uiMP3SoundDisabled	[Media player requires sound to be enabled]
+
+// HASH_VALUE 5625C0951A26AC98
+// INDEX 6640
+uiWindowSnapDistance	[Window snap distance]
+
+// HASH_VALUE 64B7F3EAD415ACC5
+// INDEX 6641
+uiWindowSnapInvert	[Snap only when SHIFT is held down]
+
+// HASH_VALUE 661A3BAA69A32459
+// INDEX 6642
+uiWindowSnap	[Window snap]
 

@@ -76,7 +76,7 @@
     </template>
     <template name="in_scene_user_info" id="" keep="true">
         <group id="#id" type="in_scene_user_info" header_active="false" options="no_bordure" openable="false" savable="false" resizer="true" movable="false" right_button="false" opened="true" child_resize_w="true" child_resize_h="true" w="0" h="0" win_priority="%win_priority_world_space" posref="BL BM" use_cursor="false">
-            <group id="right" child_resize_w="true" child_resize_h="true" w="0" x="38" h="158" posref="TL TL">
+            <group id="right" child_resize_w="true" child_resize_h="true" w="0" x="38" h="158" posref="TL TL" child_resize_hmargin="7">
                 <view type="text" id="info0" posref="TL TL" x="0" y="-7" fontsize="14" shadow="true" hardtext="" color="255 255 255 255" global_color="true" />
                 <view type="text" id="info1" posref="BL TL" posparent="info0" x="0" fontsize="12" shadow="true" hardtext="" color="255 255 255 255" global_color="true" />
                 <view type="text" id="info2" posref="BL TL" posparent="info1" x="0" fontsize="10" shadow="true" hardtext="" color="255 255 255 255" global_color="true" />
@@ -84,10 +84,10 @@
                 <view type="bitmap" id="target" posref="TR TL" posparent="info0" x="4" texture="target.tga" global_color="false" />
                 <view type="bitmap" id="invisible_logo" posref="TR TL" posparent="target" x="2" y="3" scale="true" w="20" h="20" texture="ico_fear.tga" active="false" global_color="false" />
                 <view type="bitmap" id="mission_target" posref="TR TL" posparent="invisible_logo" x="2" y="4" texture="target_mission.tga" global_color="false" />
-                <view type="bitmap" id="rp_logo_1" posref="TR TL" x="2" y="0" slot="false" posparent="mission_target" color="255 255 255 255" render_layer="1" texture="" global_color="false" />
-                <view type="bitmap" id="rp_logo_2" posref="TR TL" x="2" y="0" slot="false" posparent="rp_logo_1" color="255 255 255 255" render_layer="1" texture="" global_color="false" />
-                <view type="bitmap" id="rp_logo_3" posref="TR TL" x="2" y="0" slot="false" posparent="rp_logo_2" color="255 255 255 255" render_layer="1" texture="" global_color="false" />
-                <view type="bitmap" id="rp_logo_4" posref="TR TL" x="2" y="0" slot="false" posparent="rp_logo_3" color="255 255 255 255" render_layer="1" texture="" global_color="false" />
+                <view type="bitmap" id="rp_logo_1" posref="TR TL" x="2" y="0" w="24" h="24" scale="true" slot="false" posparent="mission_target" color="255 255 255 255" render_layer="1" texture="" active="false" global_color="false" />
+                <view type="bitmap" id="rp_logo_2" posref="TR TL" x="2" y="0" w="24" h="24" scale="true" slot="false" posparent="rp_logo_1" color="255 255 255 255" render_layer="1" texture="" active="false" global_color="false" />
+                <view type="bitmap" id="rp_logo_3" posref="TR TL" x="2" y="0" w="24" h="24" scale="true" slot="false" posparent="rp_logo_2" color="255 255 255 255" render_layer="1" texture="" active="false" global_color="false" />
+                <view type="bitmap" id="rp_logo_4" posref="TR TL" x="2" y="0" w="24" h="24" scale="true" slot="false" posparent="rp_logo_3" color="255 255 255 255" render_layer="1" texture="" active="false" global_color="false" />
                 <view type="bitmap" id="win_top" posparent="info2" posref="BL TL" y="-8" texture="Infos_top.tga" global_color="true" />
                 <view type="bitmap" id="win_mid" posparent="win_top" posref="BL TL" scale="true" w="70" h="1" texture="Infos_mid.tga" global_color="true" />
                 <view type="bitmap" id="win_bot" posparent="win_mid" posref="BL TL" texture="Infos_bot.tga" global_color="true" />
@@ -100,7 +100,7 @@
                 <view type="bitmap" id="bar3" posparent="bar2" posref="BL TL" x="0" y="-2" scale="true" w="30" h="4" texture="Jauge_fill.tga" color="128 128 128 255" global_color="false" />
                 <view type="bitmap" id="bar4" posparent="bar3" posref="BL TL" x="0" y="-2" scale="true" w="0" h="4" texture="Jauge_fill.tga" color="128 128 128 255" global_color="false" />
             </group>
-            <ctrl type="sheet" id="guild_logo" posref="TL TR" posparent="right" x="-4" slot="false" nature="guild_flag" value="UI:TEMP:GUILD_SHEET" dragable="false" color="255 255 255 255" />
+            <ctrl type="sheet" id="guild_logo" posref="TL TR" posparent="right" x="-4" y="-7" slot="false" nature="guild_flag" value="UI:TEMP:GUILD_SHEET" dragable="false" color="255 255 255 255" />
             <view type="bitmap" id="npc_mission_logo" posref="TL TL" slot="false" x="0" color="255 255 255 255" render_layer="1" texture="" global_color="false" />
             <view type="bitmap" id="npc_mission_logo_over" posref="TL TL" slot="false" x="0" color="255 255 255 255" render_layer="2" texture="" global_color="false" />
             <group id="right_pvp" posref="TR TL" posparent="right" child_resize_w="true" child_resize_h="true">
@@ -335,55 +335,57 @@
     <!-- **************************************** -->
     <group type="menu" id="base_menu" mouse_pos="true" exit_click_b="true" win_priority="%win_priority_highest" space="1" fontsize="12" shadow="true" color="255 255 255 200" shadow_color="0 0 0 255" color_over="0 0 0 255" shadow_color_over="0 0 0 0" color_grayed="255 255 255 64" shadow_color_grayed="0 0 0 255" highlight_over="255 255 255 150" case_mode="%case_normal"></group>
     <group type="menu" id="base_menu_with_color" extends="base_menu">
-        <action id="choose_ui_alpha" name="uimChooseUIAlpha" handler="choose_ui_alpha" cond="eq(@UI:VARIABLES:GC_POPUP, 1)" />
-        <action id="lock_unlock" name="uimLockUnlock" handler="lock_unlock" cond="eq(@UI:VARIABLES:GC_POPUP, 1)" />
-        <action id="help" name="uimHelp" handler="ic_help" cond="eq(@UI:VARIABLES:GC_HAS_HELP, 1)" />
+        <action id="choose_ui_alpha" name="uimChooseUIAlpha" handler="choose_ui_alpha" cond="eq(@UI:VARIABLES:GC_POPUP, 1)" icon="r2_toolbar_properties_pushed.tga" />
+        <action id="lock_unlock" name="uimLockUnlock" handler="lock_unlock" cond="eq(@UI:VARIABLES:GC_POPUP, 1)" icon="r2ed_toolbar_lock_small.tga" />
+        <action id="help" name="uimHelp" handler="ic_help" cond="eq(@UI:VARIABLES:GC_HAS_HELP, 1)" icon="tb_help.tga" />
     </group>
     <!-- ************** -->
     <!-- *  ITEM MENU * -->
     <!-- ************** -->
     <proc id="move_to_bag">
-        <action handler="move_item" params="to=lists|nblist=1|                                                                                 listsheet0=ui:interface:inventory:content:bag:iil:bag_icons" />
+        <action handler="move_item" params="to=lists|nblist=1|listsheet0=ui:interface:inventory:content:bag:iil:bag_icons" />
     </proc>
     <proc id="move_to_pa">
-        <action handler="move_item" params="to=lists|nblist=1|                                                                                 listsheet0=ui:interface:inventory:content:pa@0:iil:bag_icons" />
+        <action handler="move_item" params="to=lists|nblist=1|listsheet0=ui:interface:inventory:content:pa@0:iil:bag_icons" />
     </proc>
     <proc id="move_to_room">
-        <action handler="move_item" params="to=lists|nblist=1|                                                                                 listsheet0=ui:interface:inventory:content:room:iil:bag_icons" />
+        <action handler="move_item" params="to=lists|nblist=1|listsheet0=ui:interface:inventory:content:room:iil:bag_icons" />
     </proc>
     <proc id="move_to_guild">
-        <action handler="move_item" params="to=lists|nblist=1|                                                                                 listsheet0=ui:interface:inventory:content:guild:iil:bag_icons" />
+        <action handler="move_item" params="to=lists|nblist=1|listsheet0=ui:interface:inventory:content:guild:iil:bag_icons" />
     </proc>
     <!-- item menu when we are in bags (do not modify hierarchy or ids if you do not modify the code) -->
     <group type="menu" id="item_menu_in_bag" extends="base_menu" on_deactive="item_menu_deactivate" on_active="item_menu_check">
-        <action id="cris_enchant" name="uimCristalEnchant" handler="item_cristal_enchant" />
-        <action id="cris_reload" name="uimCristalReload" handler="item_cristal_reload" />
-        <action id="teleport_use" name="uimTeleportUse" handler="teleport_use" />
-        <action id="item_consume" name="uimItemConsume" handler="item_consume" />
-        <action id="item_execute" name="uimItemTextDisplay" handler="item_execute" />
-        <action id="xp_catalyser_use" name="uimXpCatalyserUse" handler="xp_catalyser_use" />
-        <action id="item_text_display" name="uiOpen" handler="item_text_display" params="ui:interface:edit_custom" />
+        <action id="cris_enchant" name="uimCristalEnchant" handler="item_cristal_enchant" icon="cristal_spell.tga"/>
+        <action id="cris_reload" name="uimCristalReload" handler="item_cristal_reload" icon="cristal_ammo.tga"/>
+        <action id="teleport_use" name="uimTeleportUse" handler="teleport_use" icon="mp_batiment_noyau_maduk.tga"/>
+        <action id="item_consume" name="uimItemConsume" handler="item_consume" icon="conso_nectar.tga"/>
+        <action id="item_execute" name="uimItemTextDisplay" handler="item_execute" icon="r2_hand_can_pan.tga"/>
+        <action id="xp_catalyser_use" name="uimXpCatalyserUse" handler="xp_catalyser_use" icon="ico_cataliseur_xp.tga"/>
+        <action id="item_text_display" name="uiOpen" handler="item_text_display" params="ui:interface:edit_custom" icon="r2ed_tool_scenario_window.tga"/>
         <separator />
         <!-- Move to an Animal -->
-        <action id="move" name="uimMoveTo">
-            <action id="bag" name="uimMtBag" handler="proc" params="move_to_bag" />
+        <action id="move" name="uimMoveTo" icon="curs_can_pan.tga">
+            <action id="bag" name="uimMtBag" handler="proc" params="move_to_bag"  icon="ico_mission_purse.tga"/>
             <!-- MAX_INVENTORY_ANIMAL -->
-            <action id="pa0" name="uimMtPaMount0" handler="proc" params="move_to_pa|0" />
-            <action id="pa1" name="uimMtPaMount1" handler="proc" params="move_to_pa|1" />
-            <action id="pa2" name="uimMtPaMount2" handler="proc" params="move_to_pa|2" />
-            <action id="pa3" name="uimMtPaMount3" handler="proc" params="move_to_pa|3" />
-            <action id="pa4" name="uiPABagTitleMount4" handler="proc" params="move_to_pa|4" />
-            <action id="pa5" name="uiPABagTitleMount5" handler="proc" params="move_to_pa|5" />
-            <action id="pa6" name="uiPABagTitleMount6" handler="proc" params="move_to_pa|6" />
-            <action id="guild" name="uimMtGuild" handler="proc" params="move_to_guild" />
-            <action id="room" name="uimMtRoom" handler="proc" params="move_to_room" />
+            <action id="pa0" name="uimMtPaMount0" handler="proc" params="move_to_pa|0" icon="mektoub_map.tga"/>
+            <action id="pa1" name="uimMtPaMount1" handler="proc" params="move_to_pa|1" icon="mektoub_map.tga"/>
+            <action id="pa2" name="uimMtPaMount2" handler="proc" params="move_to_pa|2" icon="mektoub_map.tga"/>
+            <action id="pa3" name="uimMtPaMount3" handler="proc" params="move_to_pa|3" icon="mektoub_map.tga"/>
+            <action id="pa4" name="uiPABagTitleMount4" handler="proc" params="move_to_pa|4" icon="spe_beast.tga"/>
+            <action id="pa5" name="uiPABagTitleMount5" handler="proc" params="move_to_pa|5" icon="spe_beast.tga"/>
+            <action id="pa6" name="uiPABagTitleMount6" handler="proc" params="move_to_pa|6" icon="spe_beast.tga"/>
+            <action id="guild" name="uimMtGuild" handler="proc" params="move_to_guild" icon="spe_memory.tga"/>
+            <action id="room" name="uimMtRoom" handler="proc" params="move_to_room" icon="building_state2.tga"/>
         </action>
         <!--<action id="drop"           name="uimDrop"          handler="proc"  params="drop_item_proc" />-->
-        <action id="destroy" name="uimDestroy" handler="proc" params="destroy_item_proc" />
-        <action id="equip" name="uimEquip" handler="inv_auto_equip" />
-        <action id="infos" name="uimBoldInfo" handler="open_item_help" />
-        <action id="lockunlock" name="uimLockItem" handler="lock_inv_item" />
-        <action id="item_text_edition" name="uimItemTextEdit" handler="item_text_edition" params="ui:interface:edit_custom" />
+        <action id="equip" name="uimEquip" handler="inv_auto_equip" icon="filter_armor.tga"/>
+        <action id="infos" name="uimBoldInfo" handler="open_item_help" icon="brick_default.tga"/>
+        <action id="lockunlock" name="uimLockItem" handler="lock_inv_item" icon="r2ed_toolbar_lock_small.tga"/>
+        <action id="item_text_edition" name="uimItemTextEdit" handler="item_text_edition" params="ui:interface:edit_custom" icon="r2ed_tool_scenario_window.tga" />
+        <separator />
+        <action id="destroy" name="uimDestroy" handler="proc" params="destroy_item_proc" icon="r2_toolbar_kill_small.tga" />
+        <separator />
         <action id="item_group" name="uimGroup" />
         <!-- Will be activated and populated in code -->
         <group type="menu" id="item_group_menu" extends="base_menu"></group>
@@ -396,19 +398,21 @@
     <!-- item menu when we are in self -->
     <group type="menu" id="item_menu_in_self" extends="base_menu" on_active="item_menu_base_check">
         <!--<action id="drop"    name="uimDrop"     handler="proc" params="drop_item_proc"/>-->
-        <action id="destroy" name="uimDestroy" handler="proc" params="destroy_item_proc" />
-        <action id="infos" name="uimBoldInfo" handler="open_item_help" params="" />
-        <action id="lockunlock" name="uimLockItem" handler="lock_inv_item" />
+        <action id="infos" name="uimBoldInfo" handler="open_item_help" params="" icon="brick_default.tga"/>
+        <action id="lockunlock" name="uimLockItem" handler="lock_inv_item" icon="r2ed_toolbar_lock_small.tga"/>
+        <separator />
+        <action id="destroy" name="uimDestroy" handler="proc" params="destroy_item_proc" icon="r2_toolbar_kill_small.tga" />
     </group>
     <!-- item menu default -->
     <group type="menu" id="item_menu" extends="base_menu" on_active="item_menu_base_check">
         <!--<action id="drop"    name="uimDrop"     handler="proc" params="drop_item_proc"/>-->
-        <action id="destroy" name="uimDestroy" handler="proc" params="destroy_item_proc" />
-        <action id="move" name="uimMoveTo">
+        <action id="move" name="uimMoveTo" icon="curs_can_pan.tga">
             <!--<action id="bag"    name="uimMtBag"         handler="proc" params="move_to_bag" /> -->
         </action>
-        <action id="infos" name="uimBoldInfo" handler="open_item_help" params="" />
-        <action id="lockunlock" name="uimLockItem" handler="lock_inv_item" />
+        <action id="infos" name="uimBoldInfo" handler="open_item_help" params="" icon="brick_default.tga"/>
+        <action id="lockunlock" name="uimLockItem" handler="lock_inv_item" icon="r2ed_toolbar_lock_small.tga"/>
+        <separator />
+        <action id="destroy" name="uimDestroy" handler="proc" params="destroy_item_proc" icon="r2_toolbar_kill_small.tga"/>
     </group>
     <define id="item_modal_menu" value="ui:interface:item_menu" />
     <define id="self_item_modal_menu" value="ui:interface:item_menu_in_self" />
@@ -738,7 +742,7 @@
         <action handler="cancel_choose_ui_alpha" params="" />
         <action handler="leave_modal" params="" />
     </proc>
-    <group type="modal" id="define_ui_transparency" posref="TM BM" y="-8" h="180" child_resize_w="true" child_resize_wmargin="16" exit_click_out="true" onclick_out="proc" onclick_out_params="cancel_choose_ui_alpha" options="skin_modal" win_priority="%win_priority_highest">
+    <group type="modal" id="define_ui_transparency" posref="TM BM" y="-8" h="190" child_resize_w="true" child_resize_wmargin="16" exit_click_out="true" onclick_out="proc" onclick_out_params="cancel_choose_ui_alpha" options="skin_modal" win_priority="%win_priority_highest">
         <view type="text" id="text_opacity" posref="TM TM" x="0" y="-4" color="255 255 255 255" fontsize="12" shadow="true" global_color="false" hardtext="uimChooseUIAlpha" />
         <!-- button to use global settings -->
         <group id="globals_settings" posparent="text_opacity" posref="BM TM" y="-8" child_resize_h="true" child_resize_w="true">
@@ -1576,8 +1580,8 @@
         </group>
     </template>
     <!-- html browsing context no border -->
-    <template name="webig_html_noborder" id="html" keep="true" home="" browse_redo="" browse_undo="" browse_refresh="" bg_color="0 0 0 255">
-        <group id="#id" type="webig_html" posref="TL TL" home="#home" title_prefix="" sizeref="wh" x="0" y="0" w="0" h="0" background_color="#bg_color" error_color="255 240 48 255" link_color="240 155 100 255" text_color="210 210 210 255" h1_color="255 255 255 255" h2_color="255 255 255 255" h3_color="255 255 255 255" h4_color="255 255 255 255" h5_color="255 255 255 255" h6_color="255 255 255 255" text_font_size="10" h1_font_size="20" h2_font_size="18" h3_font_size="16" h4_font_size="14" h5_font_size="12" h6_font_size="12" paragraph_begin_space="12" multi_line_space_factor="0.25" td_begin_space="0" li_begin_space="4" ul_begin_space="12" li_indent="-10" ul_indent="30" checkbox_bitmap_normal="w_slot_on.tga" checkbox_bitmap_pushed="w_opacity_on.tga" checkbox_bitmap_over="" background_bitmap_view="background_bitmap" browse_next_time="false" form_text_area_group="edit_box_widget_multiline" browse_refresh="#browse_refresh" browse_undo="#browse_undo" browse_redo="#browse_redo">
+    <template name="webig_html_noborder" id="html" keep="true" home="" browse_redo="" browse_undo="" browse_refresh="" bg_color="0 0 0 255" x="0" y="0" h="0" w="0">
+        <group id="#id" type="webig_html" posref="TL TL" home="#home" title_prefix="" sizeref="wh" x="#x" y="#y" w="#w" h="#h" background_color="#bg_color" error_color="255 240 48 255" link_color="240 155 100 255" text_color="210 210 210 255" h1_color="255 255 255 255" h2_color="255 255 255 255" h3_color="255 255 255 255" h4_color="255 255 255 255" h5_color="255 255 255 255" h6_color="255 255 255 255" text_font_size="10" h1_font_size="20" h2_font_size="18" h3_font_size="16" h4_font_size="14" h5_font_size="12" h6_font_size="12" paragraph_begin_space="12" multi_line_space_factor="0.25" td_begin_space="0" li_begin_space="4" ul_begin_space="12" li_indent="-10" ul_indent="30" checkbox_bitmap_normal="w_slot_on.tga" checkbox_bitmap_pushed="w_opacity_on.tga" checkbox_bitmap_over="" background_bitmap_view="background_bitmap" browse_next_time="false" form_text_area_group="edit_box_widget_multiline" browse_refresh="#browse_refresh" browse_undo="#browse_undo" browse_redo="#browse_redo">
             <group id="black" posref="BR BR" sizeref="hw" w="-10" h="-12" inherit_gc_alpha="true" />
             <group id="text_list" type="list" fontsize="9" posref="TL TL" posparent="black" x="2" y="-2" space="0" sizeref="hw" w="-4" h="-4" maxelements="2000" />
             <ctrl id="scroll_bar" style="skin_scroll" />
@@ -1625,4 +1629,15 @@
 			</group>
 		</group>
 	</template>
+	
+	<!-- icon for menu user group -->
+	<template name="menu_row_icon" keep="true"
+		id="" posref="TL TL" sizeref="w" posparent="parent" x="0" y="0" w="24" h="18"
+		icon_id="icon" icon_x="0" icon_y="-1" icon_color="255 255 255 255" icon_texture="blank.tga">
+		<group id="#id" posref="#posref" posparent="#posparent" sizeref="#sizeref" x="#x" y="#y" w="#w" h="#h">
+			<view type="bitmap" id="#icon_id" posref="MM MM" x="#icon_x" y="#icon_y" color="#icon_color" w="16" h="16" scale="true"
+				global_color="false" texture="#icon_texture" />
+		</group>
+	</template>
+
 </interface_config>

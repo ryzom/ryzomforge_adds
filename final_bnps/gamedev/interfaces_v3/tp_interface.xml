@@ -41,12 +41,12 @@
     </proc>
 
     <group type="menu" id="base_menu_artefact" extends="base_menu_with_color">
-        <action id="toggle_banner_hide" name="uimIhideBanner" handler="lua" params="artefact:onSelect(1)"/>
-        <action id="toggle_banner_show" name="uimIshowBanner" handler="lua" params="artefact:onSelect(1)"/>
-        <action id="window_on_tp_close" name="uimIcloseOnTp" handler="lua" params="artefact:onSelect(2)"/>
-        <action id="window_on_tp_open" name="uimIopenOnTp" handler="lua" params="artefact:onSelect(2)"/>
-        <action id="window_refresh" name="uimIrefresh" handler="lua" params="artefact:onSelect(3)"/>
-        <action id="window_compact" name="uimIcompact" handler="lua" params="artefact:onSelect(4)"/>
+        <action id="toggle_banner_hide" name="uimIhideBanner" handler="lua" params="artefact:onSelect(1)" icon="r2_icon_stop_possess.tga"/>
+        <action id="toggle_banner_show" name="uimIshowBanner" handler="lua" params="artefact:onSelect(1)" icon="r2_icon_possess.tga"/>
+        <action id="window_on_tp_close" name="uimIcloseOnTp" handler="lua" params="artefact:onSelect(2)" icon="r2_icon_acts_pushed.tga"/>
+        <action id="window_on_tp_open" name="uimIopenOnTp" handler="lua" params="artefact:onSelect(2)" icon="r2_icon_acts.tga"/>
+        <action id="window_refresh" name="uimIrefresh" handler="lua" params="artefact:onSelect(3)" icon="r2ed_tool_rotate.tga"/>
+        <action id="window_compact" name="uimIcompact" handler="lua" params="artefact:onSelect(4)" icon="r2_icon_light_off_small.tga"/>
         <separator />
     </group>
 
@@ -143,9 +143,9 @@
             <view type="bitmap" id="img2" posparent="back" posref="MM MM" render_layer="#render_layer3" x="0" y="0" texture="#img2" global_color="false" />
             <view type="bitmap" id="img3" posparent="back" posref="MM MM"  render_layer="#render_layer4" x="0" y="0" texture="#img3" global_color="false" />
 
-            <instance id="over" template="typo_ryzom_artefact" posref="TL TL" render_layer="6" x="4" y="-2" t0="#o0" t1="#o1" t2="#o2" t3="#o3" t4="#o4" t5="#o5" t6="#o6" t7="#o7" /> 
-            <instance id="quantity" template="typo_ryzom_artefact" posref="BL BL" typo="numbers" render_layer="4" posparent="" x="5" y="1" t0="#q0" t1="#q1" t2="#q2" t3="#q3" t4="#q4" t5="#q5" t6="#q6" t7="#q7" />
-            <instance id="quality" template="typo_ryzom_artefact" posref="BL BL" typo="numbers" render_layer="4" posparent="back" x="24" y="1" t0="#ql0" t1="#ql1" t2="#ql2" gc="true"/> 
+            <instance id="over" template="typo_ryzom_artefact" posref="TL TL" render_layer="6" x="1" y="-2" t0="#o0" t1="#o1" t2="#o2" t3="#o3" t4="#o4" t5="#o5" t6="#o6" t7="#o7" />
+            <instance id="quantity" template="typo_ryzom_artefact" posref="BL BL" typo="numbers" render_layer="4" posparent="" x="2" y="2" t0="#q0" t1="#q1" t2="#q2" t3="#q3" t4="#q4" t5="#q5" t6="#q6" t7="#q7" />
+            <instance id="quality" template="typo_ryzom_artefact" posref="BL BL" typo="numbers" render_layer="4" posparent="back" x="24" y="1" t0="#ql0" t1="#ql1" t2="#ql2" gc="true"/>
 
             <view type="text" id="text1" multi_line="true" posref="TR TL" posparent="back" x="3" y="1" fontsize="8" hardtext_format="#text" color="#color1" shadow="true" global_color="#gc1" />
             <view type="text" id="text2" multi_line="true" posref="BL TL" posparent="text1" x="0" y="-2" fontsize="8" hardtext_format="#text2" color="#color2" shadow="true" global_color="#gc2" />
@@ -156,14 +156,14 @@
 
     <template name="typo_ryzom_artefact" keep="true" typo="typo" posref="TL TL" posparent="" x="0" y="0" render_layer="3" t0="" t1="" t2="" t3="" t4="" t5="" t6="" t7="" gc="false" >
         <group id="#id"  posref="#posref" posparent="#posparent" x="#x" y="#y" render_layer="#render_layer">
-            <view type="bitmap" id="t0" posref="#posref" h="8" w="5" render_layer="#render_layer" texture="#typo_#t0.tga" global_color="#gc"/>
-            <view type="bitmap" id="t1" posref="#posref" x="6" h="8" w="5" render_layer="#render_layer" texture="#typo_#t1.tga" global_color="#gc"/>
-            <view type="bitmap" id="t2" posref="#posref" x="12" h="8" w="5" render_layer="#render_layer" texture="#typo_#t2.tga" global_color="#gc"/>
-            <view type="bitmap" id="t3" posref="#posref" x="18" h="8" w="5" render_layer="#render_layer" texture="#typo_#t3.tga" global_color="#gc"/>
-            <view type="bitmap" id="t4" posref="#posref" x="24" h="8" w="5" render_layer="#render_layer" texture="#typo_#t4.tga" global_color="#gc"/>
-            <view type="bitmap" id="t5" posref="#posref" x="30" h="8" w="5" render_layer="#render_layer" texture="#typo_#t5.tga" global_color="#gc"/>
-            <view type="bitmap" id="t6" posref="#posref" x="36" h="8" w="5" render_layer="#render_layer" texture="#typo_#t6.tga" global_color="#gc"/>
-            <view type="bitmap" id="t7" posref="#posref" x="42" h="8" w="5" render_layer="#render_layer" texture="#typo_#t7.tga" global_color="#gc"/>
+            <view type="bitmap" id="t0" posref="#posref" render_layer="#render_layer" texture="#typo_#t0.tga" global_color="#gc"/>
+            <view type="bitmap" id="t1" posref="BR BL" posparent="t0" x="0" render_layer="#render_layer" texture="#typo_#t1.tga" global_color="#gc"/>
+            <view type="bitmap" id="t2" posref="MR ML" posparent="t1" x="0" render_layer="#render_layer" texture="#typo_#t2.tga" global_color="#gc"/>
+            <view type="bitmap" id="t3" posref="MR ML" posparent="t2" x="0" render_layer="#render_layer" texture="#typo_#t3.tga" global_color="#gc"/>
+            <view type="bitmap" id="t4" posref="MR ML" posparent="t3" x="0" render_layer="#render_layer" texture="#typo_#t4.tga" global_color="#gc"/>
+            <view type="bitmap" id="t5" posref="MR ML" posparent="t4" x="0" render_layer="#render_layer" texture="#typo_#t5.tga" global_color="#gc"/>
+            <view type="bitmap" id="t6" posref="MR ML" posparent="t5" x="0" render_layer="#render_layer" texture="#typo_#t6.tga" global_color="#gc"/>
+            <view type="bitmap" id="t7" posref="MR ML" posparent="t6" x="0" render_layer="#render_layer" texture="#typo_#t7.tga" global_color="#gc"/>
         </group>
     </template>
 

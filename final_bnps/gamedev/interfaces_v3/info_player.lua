@@ -15,6 +15,8 @@ game.PrevSessionMission = - 1
 -- flag set to true when the in game db has been initialized
 game.InGameDbInitialized = false
 
+game.WebMissionLastDesc = {}
+
 ------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------
@@ -321,9 +323,9 @@ function game:onDbChangeAppPage()
 	if getDbProp("UI:VARIABLES:CURRENT_SERVER_TICK") > self.NpcWebPage.Timeout then
 		local npcName = getTargetName()
 		local message  = ucstring()
-		local text = i18n.get("uiTalkMemMsg00")
-		message:fromUtf8("@{FFFF}"..text:toUtf8())
-		displaySystemInfo(message, "BC")
+		-- local text = i18n.get("uiTalkMemMsg00")
+		-- message:fromUtf8("@{FFFF}"..text:toUtf8())
+		-- displaySystemInfo(message, "BC")
 		removeOnDbChange(getUI("ui:interface:npc_web_browser"),"@UI:VARIABLES:CURRENT_SERVER_TICK")
 	end
 end
@@ -1153,6 +1155,8 @@ end
 function game:onMissionSelected(index)
 	disableModalWindow()
 	self:updateCurrMissionComboBox()
+	game.WebMissionLastDesc = {}
+	setOnDraw(getMissionWindow(), "game:ensureWebMissionVisibility()")
 end
 
 --------------------------------------------------------------------------------------------------------------
@@ -1278,14 +1282,12 @@ function game:updateMissionWindowLayout()
 		local missionCB = getUI("ui:interface:info_player_journal:content:mission_combo")
 		local missionList = getUI("ui:interface:info_player_journal:content:mission_list")
 		local fake = getUI("ui:interface:info_player_journal:content:fake")
-		local sepBis = getUI("ui:interface:info_player_journal:content:separator_bis")
 		local desc = getUI("ui:interface:info_player_journal:content:desc")
 		local expanded
 		local popMinH
 		local win = getUI("ui:interface:info_player_journal")
 
 		if missionCB.active then
-			sepBis.active = false
 			missionList.active = false
 			fake.sizeref=""
 			fake.y = -32
@@ -1295,7 +1297,6 @@ function game:updateMissionWindowLayout()
 			desc.max_h= -42
 			win.pop_min_h = 152 - win.content_y_offset
 		else
-			sepBis.active =	true
 			missionList.active = true
 			fake.sizeref="wh5"
 			fake.y = -8
@@ -1305,10 +1306,6 @@ function game:updateMissionWindowLayout()
 			desc.max_h=16
 			win.pop_min_h = 152 - win.content_y_offset
 		end
-
-		local fixedEntry = getUI("ui:interface:info_player_journal:content:mission_fixed_entry")
-		fixedEntry:updateCoords()
-		desc.max_h = desc.max_h - fixedEntry.h
 
 		setDbProp("UI:SAVE:EXPAND_MISSION_LIST", expanded)
 		getUI("ui:interface:info_player_journal"):invalidateCoords()
@@ -1359,34 +1356,6 @@ end
 --------------------------------------------------------------------------------------------------------------
 function game:updateMissionJournalFixedEntry()
 	-- update fixed entry text
-
-	local fixedEntryRing = getUI("ui:interface:info_player_journal:no_available_missions:main:mission_fixed_entry")
-	local fixedEntryMain = getUI("ui:interface:info_player_journal:content:mission_fixed_entry")
-
-	fixedEntryRing.active = game.InGameDbInitialized and isInRingMode()
-	fixedEntryMain.active = game.InGameDbInitialized and not isInRingMode()
-
-
-
-	local id = "uiFixedMissionEntry"
-	if isPlayerNewbie() then
-		id = id .."_Newbie"
-		if isInRingMode() then
-			id = id .. "_R2"
-		end
-		if isPlayerFreeTrial() then
-			id = id .. "_Trial"
-		end
-	else
-		if isInRingMode() then
-			id = id .. "_R2"
-		else
-			id = id .. "_Mainland_" .. getUserRace()
-		end
-	end
-	fixedEntryMain.uc_hardtext = i18n.get(id)
-	fixedEntryRing.uc_hardtext = i18n.get(id)
-
 	self:updateMissionWindowLayout()
 end
 
@@ -1471,7 +1440,7 @@ function game:onWebIgReady()
 	-- Call init webig
 	getUI("ui:interface:web_transactions:content:html"):browse("home")
 	getUI("ui:interface:webig:content:html"):browse("home")
-
+	setOnDraw(getUI("ui:interface:encyclopedia"), "ArkMissionCatalog:autoResize()")
 end
 
 --------------------------------------------------------------------------------------------------------------
@@ -1578,6 +1547,7 @@ function game:onNewMissionStepAdded(stepIndex)
 		setOnDraw(missionWnd, "game:ensureLastMissionStepVisibility0()")
 	else
 	end
+	game.WebMissionLastDesc = {}
 end
 
 function game:ensureLastMissionStepVisibility0()
@@ -1608,6 +1578,7 @@ end
 
 function game:ensureLastMissionStepVisibility1()
 	local missionWnd = getMissionWindow()
+	local missionIndex = getDbProp("UI:SAVE:MISSION_SELECTED")
 	local scrollBar = missionWnd:find("sv_desc")
 	--scrollBar.trackPos = 20000 -- move upward
 	--scrollBar:updateCoords()
@@ -1621,7 +1592,7 @@ function game:ensureLastMissionStepVisibility1()
 			topStep = currStep
 		end
 	end
-	-- debugInfo("Found step : " .. topStep.hardtext)
+
 	if topStep == nil then
 		return
 	end
@@ -1636,14 +1607,62 @@ function game:ensureLastMissionStepVisibility1()
 	--descWnd:invalidateCoords()
 	--descWnd:updateCoords()
 
-	setOnDraw(missionWnd, "")
+	game.WebMissionLastDesc = {}
+	setOnDraw(missionWnd, "game:ensureWebMissionVisibility()")
+
+end
+
+function game:ensureWebMissionVisibility()
+	local missionWnd = getMissionWindow()
+	local missionIndex = getDbProp("UI:SAVE:MISSION_SELECTED")
+	local scrollBar = missionWnd:find("sv_desc")
+	local descWnd = missionWnd:find("desc")
+	local maxNumSteps = getDefine("ipj_nb_goal")
+	local topStep
+	local haveWeb = false
+	for  stepIndex = 0, maxNumSteps -1 do
+		local currStep = descWnd["step" .. tostring(stepIndex)]
+		if missionIndex < 15 then
+			dbPath = "SERVER:MISSIONS:" .. tostring(missionIndex) .. ":GOALS:" .. tostring(stepIndex) .. ":TEXT"
+			local stringID = getDbProp(dbPath)
+			local uctext = getDynString(stringID)
+			local text = uctext:toUtf8()
+			if text ~= "" and game.WebMissionLastDesc[stepIndex] ~= text then
+				game.WebMissionLastDesc[stepIndex] = text
+				if string.sub(text, 1, 4) == "@WEB" then
+					text = string.sub(text, 6)
+					haveWeb = true
+					local win = getUI(descWnd.id..":web:html")
+					for web, final_text in string.gmatch(text, "(.*)\n@@@\n(.*)") do
+						win:renderHtml(web)
+						currStep.hardtext = final_text
+						break
+					end
+				else
+					currStep.uc_hardtext = uctext
+				end
+			end
+		end
+
+		if (game.WebMissionLastDesc[stepIndex] ~= nil) and (string.sub(game.WebMissionLastDesc[stepIndex], 1, 4) == "@WEB") then
+			haveWeb = true
+		end
+	end
+
+	if haveWeb then
+		getUI(descWnd.id..":web").h = 56
+	else
+		getUI(descWnd.id..":web").h = 0
+	end
 
 end
 
 --------------------------------------------------------------------------------------------------------------
 -- This handler is triggered when a new mission has been added. In this case, we select the mission automatically
 function game:onNewMissionAdded(missionIndex)
+	setOnDraw(missionWnd, "game:ensureWebMissionVisibility()")
 	debugInfo("Mission " .. missionIndex .. " has been added")
+	game.WebMissionLastDesc = {}
 end
 
 --------------------------------------------------------------------------------------------------------------

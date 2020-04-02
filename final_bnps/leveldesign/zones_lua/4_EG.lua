@@ -1,0 +1,13 @@
+-- Event 15 years
+SceneEditor:spawnShape("zo_mairie_ext_zo_mairie_village_a.shape", 17728.00, -773.00, 9.50, 0, 0, -0.10, '{"scale x":1,"scale y":1,"scale z":1,"col size x":1,"col size y":1,"col size z":1,"col pos x":17728.00,"col pos y":-773.00,"col orientation":-0.10}')
+SceneEditor:spawnShape("zo_agora_ambre_zo_agora_village_a.shape", 17728.00, -773.00, 21.00, 0, 0, -0.99, '{"scale x":1,"scale y":1,"scale z":1,"col size x":1,"col size y":1,"col size z":1,"col pos x":17728.00,"col pos y":-773.00,"col orientation":-0.99}')
+SceneEditor:spawnShape("zo_agora_bras_zo_agora_village_a.shape", 17728.00, -773.00, 33.00, 0, 0, -0.99, '{"scale x":1,"scale y":1,"scale z":1,"col size x":1,"col size y":1,"col size z":1,"col pos x":17728.00,"col pos y":-773.00,"col orientation":-0.99}')
+SceneEditor:spawnShape("zo_agora_bras_zo_agora_village_a.shape", 17728.00, -773.00, 33.00, 0, 0, -0.53, '{"scale x":1,"scale y":1,"scale z":1,"col size x":1,"col size y":1,"col size z":1,"col pos x":17728.00,"col pos y":-773.00,"col orientation":-0.53}')
+SceneEditor:spawnShape("gen_autel_kami_ambre.shape", 17714.00, -772.00, 31.00, 0, 0, 1.90, '{"scale x":1,"scale y":1,"scale z":1,"col size x":1,"col size y":1,"col size z":1,"col pos x":17714.00,"col pos y":-772.00,"col orientation":1.90}')
+SceneEditor:spawnShape("gen_autel_kami_ambre.shape", 17721.00, -759.00, 32.00, 0, 0, 2.80, '{"scale x":1,"scale y":1,"scale z":1,"col size x":1,"col size y":1,"col size z":1,"col pos x":17721.00,"col pos y":-759.00,"col orientation":2.80}')
+SceneEditor:spawnShape("gen_autel_kami_ambre.shape", 17742.00, -766.00, 34.00, 0, 0, 0.80, '{"scale x":1,"scale y":1,"scale z":1,"col size x":1,"col size y":1,"col size z":1,"col pos x":17742.00,"col pos y":-766.00,"col orientation":0.80}')
+SceneEditor:spawnShape("gen_autel_kami_ambre.shape", 17740.00, -783.00, 31.00, 0, 0, 2.40, '{"scale x":1,"scale y":1,"scale z":1,"col size x":1,"col size y":1,"col size z":1,"col pos x":17740.00,"col pos y":-783.00,"col orientation":2.40}')
+SceneEditor:spawnShape("gen_autel_kami_ambre.shape", 17731.00, -786.00, 34.00, 0, 0, 1.00, '{"scale x":1,"scale y":1,"scale z":1,"col size x":1,"col size y":1,"col size z":1,"col pos x":17731.00,"col pos y":-786.00,"col orientation":1.00}')
+SceneEditor:spawnShape("gen_autel_kami_ambre.shape", 17718.00, -785.00, 30.00, 0, 0, 1.20, '{"scale x":1,"scale y":1,"scale z":1,"col size x":1,"col size y":1,"col size z":1,"col pos x":17718.00,"col pos y":-785.00,"col orientation":1.20}')
+SceneEditor:spawnShape("gen_autel_kami_ambre.shape", 17733.00, -758.00, 31.00, 0, 0, 0.20, '{"scale x":1,"scale y":1,"scale z":1,"col size x":1,"col size y":1,"col size z":1,"col pos x":17733.00,"col pos y":-758.00,"col orientation":0.20}')
+

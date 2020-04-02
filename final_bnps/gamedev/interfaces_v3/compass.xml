@@ -390,12 +390,14 @@
   <proc id="radar_proc_zoom_in">
     <action handler="set"
             cond="ne(@UI:SAVE:RADARZOOM,0)"
-            params="dblink=UI:SAVE:RADARZOOM|value=sub(@UI:SAVE:RADARZOOM,1)" />
+            params="dblink=UI:SAVE:RADARZOOM|value=sub(@UI:SAVE:RADARZOOM,1)" 
+            icon="w_button_radar_plus.tga" />
   </proc>
   <proc id="radar_proc_zoom_out">
     <action handler="set"
             cond="ne(@UI:SAVE:RADARZOOM,3)"
-            params="dblink=UI:SAVE:RADARZOOM|value=add(@UI:SAVE:RADARZOOM,1)" />
+            params="dblink=UI:SAVE:RADARZOOM|value=add(@UI:SAVE:RADARZOOM,1)" 
+            icon="w_button_radar_moins.tga" />
   </proc>
   <proc id="radar_proc_zoom">
     <action handler="set"
@@ -405,6 +407,8 @@
             params="target_property=ui:interface:compass:visuel:radar:world_size|
                                                                 value=switch(@0, 50.0, 100.0, 250.0, 500.0)" />
   </proc>
+
+  <define id="landmark_menu_max_visible" value="25" />
   <group id="compass_menu"
          type="menu_compas"
          extends="base_menu_with_color"
@@ -417,48 +421,58 @@
          compass="ui:interface:compass">
     <!-- SubMenus. Add dummy entries first -->
     <action id="mission"
-            name="uimCompassMissions">
+            name="uimCompassMissions" 
+            icon="mission_available.tga">
       <action id="dummy1"
               name="DUMMY-ERROR" />
     </action>
     <action id="land_mark"
-            name="uimCompassLandMarks">
+            name="uimCompassLandMarks" 
+            icon="lm_user.tga">
       <action id="land_mark_misc"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMMiscColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_tribe"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMTribeColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_bandit"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMBanditColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_citizen"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMCitizenColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_fauna"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMFaunaColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_faunaexcel"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMFaunaExcelColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_faunasup"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMFaunaSupColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_forage"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMForageColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
@@ -469,123 +483,147 @@
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_foragesup"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMForageSupColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_sap"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMSapColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_amber"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMAmberColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_node"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMNodeColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_fiber"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMFiberColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_bark"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMBarkColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_seed"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMSeedColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_shell"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMShellColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_resin"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMResinColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_wood"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMWoodColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_oil"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMOilColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_mission"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMMissionColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_food"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMFoodColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_construction"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMConstructionColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_goo"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMGooColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_insect"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMInsectColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_kitin"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMKitinColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_nocive"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMNociveColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_preservative"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMPreservativeColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_passage"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMPassageColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
       <action id="land_mark_teleporter"
+              max_visible_line="%landmark_menu_max_visible"
               name="uiLMTeleporterColor">
         <action id="dummy1"
                 name="DUMMY-ERROR" />
       </action>
     </action>
     <action id="team"
-            name="uimCompassTeam">
+            name="uimCompassTeam" 
+            icon="teammate_map.tga">
       <action id="dummy1"
               name="DUMMY-ERROR" />
     </action>
     <action id="animal"
-            name="uimCompassAnimal">
+            name="uimCompassAnimal" 
+            icon="mektoub_map.tga">
       <action id="dummy1"
               name="DUMMY-ERROR" />
     </action>
     <action id="dialogs"
-            name="uimCompassDialogs">
+            name="uimCompassDialogs" 
+            icon="r2ed_create_dialog.tga">
       <action id="dummy1"
               name="DUMMY-ERROR" />
     </action>
@@ -594,11 +632,13 @@
     <action id="zi"
             name="uimZoomIn"
             handler="proc"
-            params="radar_proc_zoom_in" />
+            params="radar_proc_zoom_in" 
+            icon="arbo_close_just_one.tga" />
     <action id="zo"
             name="uimZoomOut"
             handler="proc"
-            params="radar_proc_zoom_out" />
+            params="radar_proc_zoom_out" 
+            icon="arbo_open_first.tga" />
     <separator />
     <!--
         <action id="lock_unlock" name="uimLockUnlock" handler="lock_unlock" cond="eq(@UI:VARIABLES:GC_POPUP, 1)"/>      
