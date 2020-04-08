@@ -175,6 +175,13 @@ ANSWER_NO ()
 
 }
 
+// HASH_VALUE 7EFC12A90EF88F85
+ANSWER_NO_DISCOUNT ()
+{
+		answer_no_discount	[¿No hay descuento? No importa, volveré más tarde.]
+
+}
+
 // HASH_VALUE AB3950B1A2380081
 ANSWER_OK ()
 {
@@ -277,10 +284,10 @@ BAG_FULL (int qty)
 
 }
 
-// HASH_VALUE 6CEDB3B27CF4AFA7
+// HASH_VALUE EDC0CB6DC5EA60A9
 BOSS_MAINLAND_CRAFTPART1A_DIAG1 ()
 {
-		boss_mainland_craftpart1a_diag1	[Si me pagas y me entregas todas las piezas me pondré a trabajar de inmediato]
+		boss_mainland_craftpart1a_diag1	[Si me pagas y me das todas las piezas me pondré a trabajar enseguida. La tarea es compleja y vale 15 millones de dappers. No hay reembolso una vez que he empezado.]
 
 }
 
@@ -321,10 +328,10 @@ BOSS_MAINLAND_CRAFTPART1A_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B37CF4AFA7
+// HASH_VALUE EDC0CB6EC5EA60A9
 BOSS_MAINLAND_CRAFTPART1B_DIAG1 ()
 {
-		boss_mainland_craftpart1b_diag1	[Si me pagas y me entregas todas las piezas, me pondré a trabajar de inmediato]
+		boss_mainland_craftpart1b_diag1	[Si me pagas y me das todas las piezas me pondré a trabajar enseguida.La tarea es compleja y vale 15 millones de dappers.No hay reembolso una vez que he empezado.]
 
 }
 
@@ -365,10 +372,10 @@ BOSS_MAINLAND_CRAFTPART1B_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B47CF4AFA7
+// HASH_VALUE EDC0CB6FC5EA60A9
 BOSS_MAINLAND_CRAFTPART1C_DIAG1 ()
 {
-		boss_mainland_craftpart1c_diag1	[Si me pagas y me entregas todas las piezas, me pondré a trabajar de inmediato]
+		boss_mainland_craftpart1c_diag1	[Si me pagas y me das todas las piezas me pondré a trabajar enseguida.La tarea es compleja y vale 15 millones de dappers.No hay reembolso una vez que he empezado.]
 
 }
 
@@ -409,10 +416,10 @@ BOSS_MAINLAND_CRAFTPART1C_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B57CF4AFA7
+// HASH_VALUE EDC0CB70C5EA60A9
 BOSS_MAINLAND_CRAFTPART1D_DIAG1 ()
 {
-		boss_mainland_craftpart1d_diag1	[Si me pagas y en entregas todas las piezas, me pondré a trabajar de inmediato]
+		boss_mainland_craftpart1d_diag1	[Si me pagas y me das todas las piezas me pondré a trabajar enseguida.La tarea es compleja y vale 15 millones de dappers.No hay reembolso una vez que he empezado.]
 
 }
 
@@ -453,10 +460,10 @@ BOSS_MAINLAND_CRAFTPART1D_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B67CF4AFA7
+// HASH_VALUE EDC0CB71C5EA60A9
 BOSS_MAINLAND_CRAFTPART1E_DIAG1 ()
 {
-		boss_mainland_craftpart1e_diag1	[Si me pagas y en entregas todas las piezas, me pondré a trabajar de inmediato]
+		boss_mainland_craftpart1e_diag1	[Si me pagas y me das todas las piezas me pondré a trabajar enseguida.La tarea es compleja y vale 15 millones de dappers.No hay reembolso una vez que he empezado.]
 
 }
 
@@ -497,10 +504,10 @@ BOSS_MAINLAND_CRAFTPART1E_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B2BCF4AFA7
+// HASH_VALUE EDC0CB6D05EA60A9
 BOSS_MAINLAND_CRAFTPART2A_DIAG1 ()
 {
-		boss_mainland_craftpart2a_diag1	[Si me pagas y me entregas todas las piezas, me pondré a trabajar de inmediato]
+		boss_mainland_craftpart2a_diag1	[Si me pagas y me das todas las piezas me pondré a trabajar enseguida.La tarea es compleja y vale 15 millones de dappers.No hay reembolso una vez que he empezado.]
 
 }
 
@@ -541,10 +548,10 @@ BOSS_MAINLAND_CRAFTPART2A_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B3BCF4AFA7
+// HASH_VALUE EDC0CB6E05EA60A9
 BOSS_MAINLAND_CRAFTPART2B_DIAG1 ()
 {
-		boss_mainland_craftpart2b_diag1	[Si me pagas y me entregas todas las piezas, me pondré a trabajar de inmediato]
+		boss_mainland_craftpart2b_diag1	[Si me pagas y me das todas las piezas me pondré a trabajar enseguida.La tarea es compleja y vale 15 millones de dappers.No hay reembolso una vez que he empezado.]
 
 }
 
@@ -585,10 +592,10 @@ BOSS_MAINLAND_CRAFTPART2B_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B4BCF4AFA7
+// HASH_VALUE EDC0CB6F05EA60A9
 BOSS_MAINLAND_CRAFTPART2C_DIAG1 ()
 {
-		boss_mainland_craftpart2c_diag1	[Si me pagas y me entregas todas las piezas, me pondré a trabajar de inmediato]
+		boss_mainland_craftpart2c_diag1	[Si me pagas y me das todas las piezas me pondré a trabajar enseguida.La tarea es compleja y vale 15 millones de dappers.No hay reembolso una vez que he empezado.]
 
 }
 
@@ -629,10 +636,10 @@ BOSS_MAINLAND_CRAFTPART2C_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B5BCF4AFA7
+// HASH_VALUE EDC0CB7005EA60A9
 BOSS_MAINLAND_CRAFTPART2D_DIAG1 ()
 {
-		boss_mainland_craftpart2d_diag1	[Si me pagas y me entregas todas las piezas, me pondré a trabajar de inmediato]
+		boss_mainland_craftpart2d_diag1	[Si me pagas y me das todas las piezas me pondré a trabajar enseguida.La tarea es compleja y vale 15 millones de dappers.No hay reembolso una vez que he empezado.]
 
 }
 
@@ -673,10 +680,10 @@ BOSS_MAINLAND_CRAFTPART2D_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B6BCF4AFA7
+// HASH_VALUE EDC0CB7105EA60A9
 BOSS_MAINLAND_CRAFTPART2E_DIAG1 ()
 {
-		boss_mainland_craftpart2e_diag1	[Si me pagas y me entregas todas las piezas, me pondré a trabajar de inmediato]
+		boss_mainland_craftpart2e_diag1	[Si me pagas y me das todas las piezas me pondré a trabajar enseguida.La tarea es compleja y vale 15 millones de dappers.No hay reembolso una vez que he empezado.]
 
 }
 
@@ -717,10 +724,10 @@ BOSS_MAINLAND_CRAFTPART2E_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B2FCF4AFA7
+// HASH_VALUE EDC0CB6D45EA60A9
 BOSS_MAINLAND_CRAFTPART3A_DIAG1 ()
 {
-		boss_mainland_craftpart3a_diag1	[Si me pagas y me entregas todas las piezas, me pondré a trabajar de inmediato]
+		boss_mainland_craftpart3a_diag1	[Si me pagas y me das todas las piezas me pondré a trabajar enseguida.La tarea es compleja y vale 15 millones de dappers.No hay reembolso una vez que he empezado.]
 
 }
 
@@ -761,10 +768,10 @@ BOSS_MAINLAND_CRAFTPART3A_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B3FCF4AFA7
+// HASH_VALUE EDC0CB6E45EA60A9
 BOSS_MAINLAND_CRAFTPART3B_DIAG1 ()
 {
-		boss_mainland_craftpart3b_diag1	[Si me pagas y me entregas todas las piezas, me pondré a trabajar de inmediato]
+		boss_mainland_craftpart3b_diag1	[Si me pagas y me das todas las piezas me pondré a trabajar enseguida.La tarea es compleja y vale 15 millones de dappers.No hay reembolso una vez que he empezado.]
 
 }
 
@@ -805,10 +812,10 @@ BOSS_MAINLAND_CRAFTPART3B_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B4FCF4AFA7
+// HASH_VALUE EDC0CB6F45EA60A9
 BOSS_MAINLAND_CRAFTPART3C_DIAG1 ()
 {
-		boss_mainland_craftpart3c_diag1	[Si me pagas y me entregas todas las piezas, me pondré a trabajar de inmediato]
+		boss_mainland_craftpart3c_diag1	[Si me pagas y me das todas las piezas me pondré a trabajar enseguida.La tarea es compleja y vale 15 millones de dappers.No hay reembolso una vez que he empezado.]
 
 }
 
@@ -849,10 +856,10 @@ BOSS_MAINLAND_CRAFTPART3C_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B5FCF4AFA7
+// HASH_VALUE EDC0CB7045EA60A9
 BOSS_MAINLAND_CRAFTPART3D_DIAG1 ()
 {
-		boss_mainland_craftpart3d_diag1	[Si me pagas y me entregas todas las piezas, me pondré a trabajar de inmediato]
+		boss_mainland_craftpart3d_diag1	[Si me pagas y me das todas las piezas me pondré a trabajar enseguida.La tarea es compleja y vale 15 millones de dappers.No hay reembolso una vez que he empezado.]
 
 }
 
@@ -893,10 +900,10 @@ BOSS_MAINLAND_CRAFTPART3D_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B6FCF4AFA7
+// HASH_VALUE EDC0CB7145EA60A9
 BOSS_MAINLAND_CRAFTPART3E_DIAG1 ()
 {
-		boss_mainland_craftpart3e_diag1	[Si me pagas y me entregas todas las piezas, me pondré a trabajar de inmediato]
+		boss_mainland_craftpart3e_diag1	[Si me pagas y me das todas las piezas me pondré a trabajar enseguida.La tarea es compleja y vale 15 millones de dappers.No hay reembolso una vez que he empezado.]
 
 }
 
@@ -937,10 +944,10 @@ BOSS_MAINLAND_CRAFTPART3E_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B23DF4AFA7
+// HASH_VALUE EDC0CB6D86EA60A9
 BOSS_MAINLAND_CRAFTPART4A_DIAG1 ()
 {
-		boss_mainland_craftpart4a_diag1	[Si me pagas y me entregas todas las piezas, me pondré a trabajar de inmediato]
+		boss_mainland_craftpart4a_diag1	[Si me pagas y me das todas las piezas me pondré a trabajar enseguida.La tarea es compleja y vale 15 millones de dappers.No hay reembolso una vez que he empezado.]
 
 }
 
@@ -981,10 +988,10 @@ BOSS_MAINLAND_CRAFTPART4A_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B33DF4AFA7
+// HASH_VALUE EDC0CB6E86EA60A9
 BOSS_MAINLAND_CRAFTPART4B_DIAG1 ()
 {
-		boss_mainland_craftpart4b_diag1	[Si me pagas y me entregas todas las piezas, me pondré a trabajar de inmediato]
+		boss_mainland_craftpart4b_diag1	[Si me pagas y me das todas las piezas me pondré a trabajar enseguida.La tarea es compleja y vale 15 millones de dappers.No hay reembolso una vez que he empezado.]
 
 }
 
@@ -1025,10 +1032,10 @@ BOSS_MAINLAND_CRAFTPART4B_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B43DF4AFA7
+// HASH_VALUE EDC0CB6F86EA60A9
 BOSS_MAINLAND_CRAFTPART4C_DIAG1 ()
 {
-		boss_mainland_craftpart4c_diag1	[Si me pagas y me entregas todas las piezas, me pondré a trabajar de inmediato]
+		boss_mainland_craftpart4c_diag1	[Si me pagas y me das todas las piezas me pondré a trabajar enseguida.La tarea es compleja y vale 15 millones de dappers.No hay reembolso una vez que he empezado.]
 
 }
 
@@ -1069,10 +1076,10 @@ BOSS_MAINLAND_CRAFTPART4C_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B53DF4AFA7
+// HASH_VALUE EDC0CB7086EA60A9
 BOSS_MAINLAND_CRAFTPART4D_DIAG1 ()
 {
-		boss_mainland_craftpart4d_diag1	[Si me pagas y me entregas todas las piezas, me pondré a trabajar de inmediato.]
+		boss_mainland_craftpart4d_diag1	[Si me pagas y me das todas las piezas me pondré a trabajar enseguida.La tarea es compleja y vale 15 millones de dappers.No hay reembolso una vez que he empezado.]
 
 }
 
@@ -1113,10 +1120,10 @@ BOSS_MAINLAND_CRAFTPART4D_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B63DF4AFA7
+// HASH_VALUE EDC0CB7186EA60A9
 BOSS_MAINLAND_CRAFTPART4E_DIAG1 ()
 {
-		boss_mainland_craftpart4e_diag1	[Si me pagas y me entregas todas las piezas, me pondré a trabajar de inmediato.]
+		boss_mainland_craftpart4e_diag1	[Si me pagas y me das todas las piezas me pondré a trabajar enseguida.La tarea es compleja y vale 15 millones de dappers.No hay reembolso una vez que he empezado.]
 
 }
 
@@ -1157,10 +1164,10 @@ BOSS_MAINLAND_CRAFTPART4E_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B27DF4AFA7
+// HASH_VALUE EDC0CB6DC6EA60A9
 BOSS_MAINLAND_CRAFTPART5A_DIAG1 ()
 {
-		boss_mainland_craftpart5a_diag1	[Si me pagas y me entregas todas las piezas, me pondré a trabajar de inmediato]
+		boss_mainland_craftpart5a_diag1	[Si me pagas y me das todas las piezas me pondré a trabajar enseguida.La tarea es compleja y vale 15 millones de dappers.No hay reembolso una vez que he empezado.]
 
 }
 
@@ -1201,10 +1208,10 @@ BOSS_MAINLAND_CRAFTPART5A_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B37DF4AFA7
+// HASH_VALUE EDC0CB6EC6EA60A9
 BOSS_MAINLAND_CRAFTPART5B_DIAG1 ()
 {
-		boss_mainland_craftpart5b_diag1	[Si me pagas y me entregas todas las piezas, me pondré a trabajar de inmediato]
+		boss_mainland_craftpart5b_diag1	[Si me pagas y me das todas las piezas me pondré a trabajar enseguida.La tarea es compleja y vale 15 millones de dappers.No hay reembolso una vez que he empezado.]
 
 }
 
@@ -1245,10 +1252,10 @@ BOSS_MAINLAND_CRAFTPART5B_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B47DF4AFA7
+// HASH_VALUE EDC0CB6FC6EA60A9
 BOSS_MAINLAND_CRAFTPART5C_DIAG1 ()
 {
-		boss_mainland_craftpart5c_diag1	[Si me pagas y me entregas todas las piezas, me pondré a trabajar de inmediato]
+		boss_mainland_craftpart5c_diag1	[Si me pagas y me das todas las piezas me pondré a trabajar enseguida.La tarea es compleja y vale 15 millones de dappers.No hay reembolso una vez que he empezado.]
 
 }
 
@@ -1289,10 +1296,10 @@ BOSS_MAINLAND_CRAFTPART5C_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B57DF4AFA7
+// HASH_VALUE EDC0CB70C6EA60A9
 BOSS_MAINLAND_CRAFTPART5D_DIAG1 ()
 {
-		boss_mainland_craftpart5d_diag1	[Si me pagas y me entregas todas las piezas, me pondré a trabajar de inmediato]
+		boss_mainland_craftpart5d_diag1	[Si me pagas y me das todas las piezas me pondré a trabajar enseguida.La tarea es compleja y vale 15 millones de dappers.No hay reembolso una vez que he empezado.]
 
 }
 
@@ -1333,10 +1340,10 @@ BOSS_MAINLAND_CRAFTPART5D_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B67DF4AFA7
+// HASH_VALUE EDC0CB71C6EA60A9
 BOSS_MAINLAND_CRAFTPART5E_DIAG1 ()
 {
-		boss_mainland_craftpart5e_diag1	[Si me pagas y me entregas todas las piezas, me pondré a trabajar de inmediato]
+		boss_mainland_craftpart5e_diag1	[Si me pagas y me das todas las piezas me pondré a trabajar enseguida.La tarea es compleja y vale 15 millones de dappers.No hay reembolso una vez que he empezado.]
 
 }
 
@@ -1377,10 +1384,10 @@ BOSS_MAINLAND_CRAFTPART5E_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B2BDF4AFA7
+// HASH_VALUE EDC0CB6D06EA60A9
 BOSS_MAINLAND_CRAFTPART6A_DIAG1 ()
 {
-		boss_mainland_craftpart6a_diag1	[Si me pagas y me entregas todas las piezas, me pondré a trabajar de inmediato]
+		boss_mainland_craftpart6a_diag1	[Si me pagas y me das todas las piezas me pondré a trabajar enseguida.La tarea es compleja y vale 15 millones de dappers.No hay reembolso una vez que he empezado.]
 
 }
 
@@ -1421,10 +1428,10 @@ BOSS_MAINLAND_CRAFTPART6A_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B3BDF4AFA7
+// HASH_VALUE EDC0CB6E06EA60A9
 BOSS_MAINLAND_CRAFTPART6B_DIAG1 ()
 {
-		boss_mainland_craftpart6b_diag1	[Si me pagas y me entregas todas las piezas, me pondré a trabajar de inmediato]
+		boss_mainland_craftpart6b_diag1	[Si me pagas y me das todas las piezas me pondré a trabajar enseguida.La tarea es compleja y vale 15 millones de dappers.No hay reembolso una vez que he empezado.]
 
 }
 
@@ -1465,10 +1472,10 @@ BOSS_MAINLAND_CRAFTPART6B_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B4BDF4AFA7
+// HASH_VALUE EDC0CB6F06EA60A9
 BOSS_MAINLAND_CRAFTPART6C_DIAG1 ()
 {
-		boss_mainland_craftpart6c_diag1	[Si me pagas y me entregas todas las piezas, me pondré a trabajar a lo inmediato]
+		boss_mainland_craftpart6c_diag1	[Si me pagas y me das todas las piezas me pondré a trabajar enseguida.La tarea es compleja y vale 15 millones de dappers.No hay reembolso una vez que he empezado.]
 
 }
 
@@ -1509,10 +1516,10 @@ BOSS_MAINLAND_CRAFTPART6C_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B5BDF4AFA7
+// HASH_VALUE EDC0CB7006EA60A9
 BOSS_MAINLAND_CRAFTPART6D_DIAG1 ()
 {
-		boss_mainland_craftpart6d_diag1	[Si me pagas y me entregas todas las piezas, me pondré a trabajar de inmediato]
+		boss_mainland_craftpart6d_diag1	[Si me pagas y me das todas las piezas me pondré a trabajar enseguida.La tarea es compleja y vale 15 millones de dappers.No hay reembolso una vez que he empezado.]
 
 }
 
@@ -1553,10 +1560,10 @@ BOSS_MAINLAND_CRAFTPART6D_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B6BDF4AFA7
+// HASH_VALUE EDC0CB7106EA60A9
 BOSS_MAINLAND_CRAFTPART6E_DIAG1 ()
 {
-		boss_mainland_craftpart6e_diag1	[Si me pagas y me entregas todas las piezas, me pondré a trabajar de inmediato]
+		boss_mainland_craftpart6e_diag1	[Si me pagas y me das todas las piezas me pondré a trabajar enseguida.La tarea es compleja y vale 15 millones de dappers.No hay reembolso una vez que he empezado.]
 
 }
 
