@@ -6144,3 +6144,37 @@ FACTION_RF()
 	[Forge]
 }
 
+MENU_ZIGA()
+{
+	[Caress Ari.]
+}
+MENU_ZIGB()
+{
+	[Caress Tynee.]
+}
+MENU_OPEN_IT()
+{
+	[Open it!]
+}
+MENU_WOHA()
+{
+	[Woha]
+}
+MENU_LORDOY()
+{
+	[Lordoy]
+}
+MENU_DELES_SILAM()
+{
+	[Deles Silam]
+}
+MENU_BANARC()
+{
+	[Banarc]
+}
+MENU_WOREN_SILOY()
+{
+	[Woren Siloy]
+}
+
+

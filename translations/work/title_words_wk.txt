@@ -1912,3 +1912,8 @@ gn_karavan_altar_silan_shattered_ruins	Shattered Ruins Karavan Altar
 gn_kami_altar_silan_shining_lake	Shining Lake Kami Altar	
 fct_to_new_horizons	To New Horizons
 fct_marauder_merchant	Marchand Fédéral	
+fct_ranger_guide	Ranger Guide	
+fct_ranger_quartermaster	Ranger Quartermaster	
+fct_arionasiszig	Arionasis' Zig	
+fct_tyneetrykzig	Tyneetryk' Zig	
+gn_fresh_water_barrel	Fresh water barrel	

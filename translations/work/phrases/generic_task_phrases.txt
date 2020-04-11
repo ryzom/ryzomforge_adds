@@ -4715,6 +4715,43 @@ TEMPLATE_TASK_LOOT_GIVE_INTRO_3 (bot giver, item i1, int qt1, int ql1, item i2, 
 	template_task_loot_give_intro_3_fame	[Il me faut $qt1$ $i1$ de qualité $ql1$, $qt2$ $i2$ de qualité $ql2$ et $qt3$ $i3$ de qualité $ql3$. Si vous m'en rapportez, $f.mda$ $f.member$ vous en seront reconnaissants.]
 }
 
+TEMPLATE_TASK_LOOT_GIVE_INTRO_3_P (bot giver, item i1, int qt1, int ql1, item i2, int qt2, int ql2, item i3, int qt3, int ql3, int reward, int timelimit, int random, faction f)
+{
+// 111,ppp,1pp,p1p,pp1,p11,1p1,11p
+	(reward > 0 & timelimit = 0)
+		template_task_loot_give_intro_3_money_111	[Il me faut $qt1$ $i1$ de qualité $ql1$, $qt2$ $i2$ de qualité $ql2$ et $qt3$ $i3$ de qualité $ql3$. Si vous m'en rapportez, je vous paierai $reward$ dappers.]
+
+	(reward > 0 & timelimit = 0)
+		template_task_loot_give_intro_3_money_ppp	[Il me faut $qt1$ $i1.p$ de qualité $ql1$, $qt2$ $i2.p$ de qualité $ql2$ et $qt3$ $i3.p$ de qualité $ql3$. Si vous m'en rapportez, je vous paierai $reward$ dappers.]
+
+	(reward > 0 & timelimit = 0)
+		template_task_loot_give_intro_3_money_1pp	[Il me faut $qt1$ $i1$ de qualité $ql1$, $qt2$ $i2.p$ de qualité $ql2$ et $qt3$ $i3.p$ de qualité $ql3$. Si vous m'en rapportez, je vous paierai $reward$ dappers.]
+
+	(reward > 0 & timelimit = 0)
+		template_task_loot_give_intro_3_money_p1p	[Il me faut $qt1$ $i1.p$ de qualité $ql1$, $qt2$ $i2$ de qualité $ql2$ et $qt3$ $i3.p$ de qualité $ql3$. Si vous m'en rapportez, je vous paierai $reward$ dappers.]
+
+	(reward > 0 & timelimit = 0)
+		template_task_loot_give_intro_3_money_pp1	[Il me faut $qt1$ $i1.p$ de qualité $ql1$, $qt2$ $i2.p$ de qualité $ql2$ et $qt3$ $i3$ de qualité $ql3$. Si vous m'en rapportez, je vous paierai $reward$ dappers.]
+
+	(reward > 0 & timelimit = 0)
+		template_task_loot_give_intro_3_money_p11	[Il me faut $qt1$ $i1.p$ de qualité $ql1$, $qt2$ $i2$ de qualité $ql2$ et $qt3$ $i3$ de qualité $ql3$. Si vous m'en rapportez, je vous paierai $reward$ dappers.]
+
+	(reward > 0 & timelimit = 0)
+		template_task_loot_give_intro_3_money_1p1	[Il me faut $qt1$ $i1$ de qualité $ql1$, $qt2$ $i2.p$ de qualité $ql2$ et $qt3$ $i3$ de qualité $ql3$. Si vous m'en rapportez, je vous paierai $reward$ dappers.]
+
+	(reward > 0 & timelimit = 0)
+		template_task_loot_give_intro_3_money_pp1	[Il me faut $qt1$ $i1.p$ de qualité $ql1$, $qt2$ $i2.p$ de qualité $ql2$ et $qt3$ $i3$ de qualité $ql3$. Si vous m'en rapportez, je vous paierai $reward$ dappers.]
+
+
+	(reward > 0 & timelimit > 0)
+		template_task_loot_give_intro_3_money_timed	[Il me faut $qt1$ $i1$ de qualité $ql1$, $qt2$ $i2$ de qualité $ql2$ et $qt3$ $i3$ de qualité $ql3$. Si vous m'en rapportez, je vous paierai $reward$ dappers.\nMais faites vite, c'est très urgent !]
+
+	(timelimit > 0)
+		template_task_loot_give_intro_3_fame_timed	[Il me faut $qt1$ $i1$ de qualité $ql1$, $qt2$ $i2$ de qualité $ql2$ et $qt3$ $i3$ de qualité $ql3$. Si vous m'en rapportez, $f.mda$ $f.member$ vous en seront reconnaissants.\nMais faites vite, c'est très urgent !]
+
+	template_task_loot_give_intro_3_fame	[Il me faut $qt1$ $i1$ de qualité $ql1$, $qt2$ $i2$ de qualité $ql2$ et $qt3$ $i3$ de qualité $ql3$. Si vous m'en rapportez, $f.mda$ $f.member$ vous en seront reconnaissants.]
+}
+
 /**************************************************************************************************************************
 TEMPLATE_TASK_KILL_NPC
 **************************************************************************************************************************/
