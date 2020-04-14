@@ -5801,9 +5801,9 @@ _A89416C902E63B12	zo_hom_hair_style03	Coupe stylée  - Tresses Longues	une	la	Co
 _863B8907E2F56AA5	zo_hom_hair_style04	Coupe stylée  - Façon Dreadlocks	une	la	Coupes stylées  - Façon Dreadlocks	des	les
 _7C20A0EE31BFBF31	zo_hom_hair_style05	Coupe stylée - Automnale
 _81A22678035CE9F0	ic_candy_stick	Sucre d'Orge	un	le	Sucres d'Orge	des	les
-_6DF6933D6FDB589D	if1	Botte de fourrage basique	une	la	Bottes de fourrage basiques	des	les	Cet objet doit être placé dans l'inventaire de votre animal pour qu'il puisse l'utiliser. Lorsqu'il aura faim	 il le consommera automatiquement	 régénérant ainsi 500 Points de Satiété.
-_AC545FA407698E0E	if2	Botte de fourrage concentrée	une	la	Bottes de fourrage concentrées	des	les	Cet objet doit être placé dans l'inventaire de votre animal pour qu'il puisse l'utiliser. Lorsqu'il aura faim	 il le consommera automatiquement	 régénérant ainsi 500 Points de Satiété.
-_D70F815824F8AC0A	if3	Petite botte de fourrage 	une	la	Petites bottes de fourrage	des	les	Cet objet doit être placé dans l'inventaire de votre animal pour qu'il puisse l'utiliser. Lorsqu'il aura faim	 il le consommera automatiquement	 régénérant ainsi 300 Points de Satiété.
+_6DF6933D6FDB589D	if1	Botte de fourrage basique	une	la	Bottes de fourrage basiques	des	les	Cet objet doit être placé dans l'inventaire de votre animal pour qu'il puisse l'utiliser. Lorsqu'il aura faim il le consommera automatiquement régénérant ainsi 500 Points de Satiété.
+_AC545FA407698E0E	if2	Botte de fourrage concentrée	une	la	Bottes de fourrage concentrées	des	les	Cet objet doit être placé dans l'inventaire de votre animal pour qu'il puisse l'utiliser. Lorsqu'il aura faim il le consommera automatiquement régénérant ainsi 500 Points de Satiété.
+_D70F815824F8AC0A	if3	Petite botte de fourrage 	une	la	Petites bottes de fourrage	des	les	Cet objet doit être placé dans l'inventaire de votre animal pour qu'il puisse l'utiliser. Lorsqu'il aura faim il le consommera automatiquement régénérant ainsi 300 Points de Satiété.
 _A84322F366A92232	issf1	Service 'Nourrir Animal #1'	un	le	Services 'Nourrir Animal #1'	des	les	Le garçon d'étable vous propose de nourrir votre animal #1. Votre animal sera rassasié.
 _A84322F3A6C92233	issf2	Service 'Nourrir Animal #2'	un	le	Services 'Nourrir Animal #2'	des	les	Le garçon d'étable vous propose de nourrir votre animal #2. Votre animal sera rassasié.
 _A84322F3E6E92234	issf3	Service 'Nourrir Animal #3'	un	le	Services 'Nourrir Animal #3'	des	les	Le garçon d'étable vous propose de nourrir votre animal #3. Votre animal sera rassasié.
