@@ -37832,6 +37832,13 @@ MENU_BUY_PVP ()
 
 }
 
+// HASH_VALUE 48583456AE5AE432
+MENU_CAN_I_HELP_YOU ()
+{
+			[Pouvez-vous m'aider ?]
+
+}
+
 // HASH_VALUE 7484942F337068FF
 MENU_CASINO_INSERT_COIN ()
 {
@@ -37874,6 +37881,13 @@ MENU_HAVE_MISSION ()
 
 }
 
+// HASH_VALUE A5E3EB3B7080146A
+MENU_HAVE_SOMETHINH_FOR_ME ()
+{
+			[Vous avez quelque chose pour moi ?]
+
+}
+
 // HASH_VALUE D7065F6B15C44E92
 MENU_HELLO ()
 {
@@ -37902,6 +37916,13 @@ MENU_HOF ()
 
 }
 
+// HASH_VALUE DFB6088196347B98
+MENU_KAMIA_ATA ()
+{
+			[Kamia'ata]
+
+}
+
 // HASH_VALUE 6A5644916017488F
 MENU_LIGHT_UP ()
 {
@@ -37920,6 +37941,20 @@ MENU_LORDOY ()
 MENU_MATISPOETRY ()
 {
 			[Recueil de poésie Matis.]
+
+}
+
+// HASH_VALUE A666705B25C4B47C
+MENU_MENU_DANGER ()
+{
+			[Danger]
+
+}
+
+// HASH_VALUE D034A258ECA4C057
+MENU_NEED_SOME_INFORMATIONS ()
+{
+			[J'ai besoin de quelques informations...]
 
 }
 
