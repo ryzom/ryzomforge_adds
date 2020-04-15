@@ -6177,4 +6177,15 @@ MENU_WOREN_SILOY()
 	[Woren Siloy]
 }
 
+MENU_MENU_DANGER()
+{
+	[Danger]
+}
+
+MENU_KAMIA_ATA()
+{
+	[Kamia'ata]
+}
+
+
 
