@@ -6177,7 +6177,7 @@ MENU_WOREN_SILOY()
 	[Woren Siloy]
 }
 
-MENU_MENU_DANGER()
+MENU_DANGER()
 {
 	[Danger]
 }
