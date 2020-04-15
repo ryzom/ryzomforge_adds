@@ -27927,3 +27927,19 @@ uiitUpperBog	[upper]
 // INDEX 6638
 uiitYrkanis	[yrkanis]
 
+// HASH_VALUE F25F5861435C0FC9
+// INDEX 6639
+uiMP3SoundDisabled	[Media player requires sound to be enabled]
+
+// HASH_VALUE 5625C0951A26AC98
+// INDEX 6640
+uiWindowSnapDistance	[Window snap distance]
+
+// HASH_VALUE 64B7F3EAD415ACC5
+// INDEX 6641
+uiWindowSnapInvert	[Snap only when SHIFT is held down]
+
+// HASH_VALUE 661A3BAA69A32459
+// INDEX 6642
+uiWindowSnap	[Window snap]
+
