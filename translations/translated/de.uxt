@@ -10233,7 +10233,7 @@ uihelpItemCantSell	[@{F80B}Dieser Gegenstand kann an keinen Händler verkauft we
 
 // HASH_VALUE A203D9DB12EA02AC
 // INDEX 2466
-uihelpItemCosmeticDontFit	[Diese kosmetische Veränderung kann nur bei einer bestimmten @{F80B}Rasse{FFFF} und einem bestimmten @{F80B}Geschlecht@{FFFF} angewandt werden.\n
+uihelpItemCosmeticDontFit	[Diese kosmetische Veränderung kann nur bei einer bestimmten @{F80B}Rasse@{FFFF} und einem bestimmten @{F80B}Geschlecht@{FFFF} angewandt werden.\n
 	]
 
 // HASH_VALUE 03E5545F85F4B4DE
