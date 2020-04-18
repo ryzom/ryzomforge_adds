@@ -63294,17 +63294,17 @@ TEMPLATE_TASK_GIVE_ITEM_9_TITLE (bot giver, place region, int random, faction f)
 TEMPLATE_TASK_GIVE_ITEM_INTRO_1 (bot giver, item i1, int qt1, bot dest1, int reward, place region, int timelimit, int random, faction f)
 {
 	(reward > 0 & timelimit = 0)
-		template_task_give_item_intro_1_money	[Trag für mich $qt1$ $i1$ nach $dest1$, das ist in $region$, ich zahle dir dafür $reward$ Dapper.]
+		template_task_give_item_intro_1_money	[Gehe nach $region$ und übergib dort $qt1$ $i1$ an $dest1$. Ich zahle dir dafür $reward$ Dapper.]
 
 	(reward > 0 & timelimit > 0)
-		template_task_give_item_intro_1_money_timed	[Trag für mich $qt1$ $i1$ nach $dest1$, das ist in $region$, ich zahle dir dafür $reward$ Dapper\n
+		template_task_give_item_intro_1_money_timed	[Gehe nach $region$ und übergib dort $qt1$ $i1$ an $dest1$. Ich zahle dir dafür $reward$ Dapper\n
 			Doch beeil dich, es ist sehr dringend!]
 
 	(timelimit > 0)
-		template_task_give_item_intro_1_fame_timed	[Trag für mich $qt1$ $i1$ nach $dest1$, das ist in $region$, $f.mda$ $f.member$ werden dir dafür dankbar sein.\n
+		template_task_give_item_intro_1_fame_timed	[Gehe nach $region$ und übergib dort $qt1$ $i1$ an $dest1$. $f.mda$ $f.member$ werden dir dafür dankbar sein.\n
 			Doch beeil dich, es ist sehr dringend!]
 
-		template_task_give_item_intro_1_fame	[Trag für mich $qt1$ $i1$ nach $dest1$, das ist in $region$, $f.mda$ $f.member$ werden dir dafür dankbar sein.]
+		template_task_give_item_intro_1_fame	[Gehe nach $region$ und übergib dort $qt1$ $i1$ an $dest1$. $f.mda$ $f.member$ werden dir dafür dankbar sein.]
 
 }
 
