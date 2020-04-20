@@ -7949,7 +7949,7 @@ CWINTROZORAIFIN_DIALOG_GUILD (bot player)
 // HASH_VALUE D253A22CF5F4CFD4
 CWINTROZORAIFIN_DIALOG_SAGE (place city, bot givervar)
 {
-		cwintrozoraifin_dialog_sage	[Du möchtest also mehr über die Welt erfahren? Dann werde ich Dir von der Truhe der Weisheit erzählen. {break}Diese Truhe repräsentiert die Summe unserer Erkenntnisse, sie ist ein großes Behältnis für die Sammlung der Bernsteinwürfel. {break}Die Magie dieser Würfel wurde vor langer Zeit von Homins entdeckt und studiert, angetrieben von dem Bemühen, ihr Wissen gegen die Spuren der Zeit und des Feuers zu schützen. Sie lernten, die Kräfte der Bernsteinwürfel zu nutzen und das Wissen darin aufzubewahren, gleich einem Insekt, das in Harz eingeschlossen ist. {break}Jeder Homin, der seine Kenntnisse mehren möchte, sollte Bernsteinwürfel sammeln und nach ihnen suchen. Wenn $givervar$ Dich zu mir schickt, zeigt mir das, dass Du einer jener Homins bist, die von Wissensdurst getrieben sind. {break}Durch meine Arbeit und den dadurch gewachsenen Verbindungen zu eingeweihten Homins bin ich in der Lage, zahlreiche Würfel zu erlangen. Ich teile sie mit jenen, denen es gelingt, die Prüfungen der Eingeweihten erfolgreich zu bestehen. Das Wissen ist wahrhaftig ein kostbares Gut und wir müssen voller Umsicht dafür sorgen, dass sie nicht in falsche Hände geraten. {break}Du hast bereits Deinen Willen unter Beweis gestellt, den Pfad des Wissens zu erkunden und ich beglückwünsche Dich dafür. {break}Als Hüter des Wissenss von $city$ ist es mir eine Ehre, Dir diesen Würfel als Erinnerung daran zu übergeben, was Du heute gelernt hast.]
+		cwintrozoraifin_dialog_sage	[Du möchtest also mehr über die Welt erfahren? Dann werde ich Dir von der Truhe der Weisheit erzählen. {break}Diese Truhe repräsentiert die Summe unserer Erkenntnisse, sie ist ein großes Behältnis für die Sammlung der Bernsteinwürfel. {break}Die Magie dieser Würfel wurde vor langer Zeit von Homins entdeckt und studiert, angetrieben von dem Bemühen, ihr Wissen gegen die Spuren der Zeit und des Feuers zu schützen. Sie lernten, die Kräfte der Bernsteinwürfel zu nutzen und das Wissen darin aufzubewahren, gleich einem Insekt, das in Harz eingeschlossen ist. {break}Jeder Homin, der seine Kenntnisse mehren möchte, sollte Bernsteinwürfel sammeln und nach ihnen suchen. Wenn $givervar$ Dich zu mir schickt, zeigt mir das, dass Du einer jener Homins bist, die von Wissensdurst getrieben sind. {break}Durch meine Arbeit und den dadurch gewachsenen Verbindungen zu eingeweihten Homins bin ich in der Lage, zahlreiche Würfel zu erlangen. Ich teile sie mit jenen, denen es gelingt, die Prüfungen der Eingeweihten erfolgreich zu bestehen. Das Wissen ist wahrhaftig ein kostbares Gut und wir müssen voller Umsicht dafür sorgen, dass sie nicht in falsche Hände geraten. {break}Du hast bereits Deinen Willen unter Beweis gestellt, den Pfad des Wissens zu erkunden und ich beglückwünsche Dich dafür. {break}Als Hüter des Wissens von $city$ ist es mir eine Ehre, Dir diesen Würfel als Erinnerung daran zu übergeben, was Du heute gelernt hast.]
 
 }
 
@@ -54274,7 +54274,7 @@ R_04_20_M_T2_PROSPECTOR_1 (bot prospector_1, bot giver)
 // HASH_VALUE 5845FF5738F26808
 R_04_20_P_BC_DEBRIEF_1 ()
 {
-		r_04_20_p_bc_debrief_1	[Es stimmt mich traurig, dass einige Quellen für nichts und wieder nichts austrocknen. Ich hoffe, dass Dich das, was Du dort gesehen hast, dazu veranlaßt verantwortlicher mit den Ressourcen von Atys umzugehen. Es nun Zeit für Dich etwas zu lernen.{break}Nimm diesen Bernsteinwürfel, er ist ein Hüter des Wissenss über unser Land und den Dschungel, der es bedeckt.]
+		r_04_20_p_bc_debrief_1	[Es stimmt mich traurig, dass einige Quellen für nichts und wieder nichts austrocknen. Ich hoffe, dass Dich das, was Du dort gesehen hast, dazu veranlaßt verantwortlicher mit den Ressourcen von Atys umzugehen. Es nun Zeit für Dich etwas zu lernen.{break}Nimm diesen Bernsteinwürfel, er ist ein Hüter des Wissens über unser Land und den Dschungel, der es bedeckt.]
 
 }
 
@@ -70232,7 +70232,7 @@ WHOAMI_TASK_VILLAGE_WELCOMER ()
 // HASH_VALUE F4511C8CBD09C24C
 WHOAMI_TRIBE_CHIEF ()
 {
-		whoami_tribe_chief	[Ich repräsentiere die Waffen, das Herz und die Seele meines Stamms. Ich wache über meine Bekannten und Verwandten und stelle sicher, dass es ihnen an nichts fehlt. Im Falle eines Konflikts kümmere ich mich darum, dass die Gesetze nach unseren Sitten und Riten ausgeführt werden.{break}Homins die unsere Freundschaft suchen, müssen die heiligen Rituale durchlaufen. Auch bin ich der Hüter des Wissenss meiner Leute und werde ein wenig dieses Wissens mit allen Homins teilen, die die Rituale erfolgreich bestehen.]
+		whoami_tribe_chief	[Ich repräsentiere die Waffen, das Herz und die Seele meines Stamms. Ich wache über meine Bekannten und Verwandten und stelle sicher, dass es ihnen an nichts fehlt. Im Falle eines Konflikts kümmere ich mich darum, dass die Gesetze nach unseren Sitten und Riten ausgeführt werden.{break}Homins die unsere Freundschaft suchen, müssen die heiligen Rituale durchlaufen. Auch bin ich der Hüter des Wissens meiner Leute und werde ein wenig dieses Wissens mit allen Homins teilen, die die Rituale erfolgreich bestehen.]
 
 }
 
