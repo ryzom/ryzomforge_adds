@@ -60296,10 +60296,10 @@ TEMPLATE_TASK_CRAFT_10_TITLE (bot giver, int random, faction f)
 		template_task_craft_10_title_2	[Schmuck für $f.mda$ $f.member$ herstellen.]
 
 	(random = 3)
-		template_task_craft_10_title_3	[$f.mda$ $f.member$ brauchen Schmuck.]
+		template_task_craft_10_title_3	[$f.mdab$ $f.member$ brauchen Schmuck.]
 
 	(random = 4)
-		template_task_craft_10_title_4	[$f.mda$ $f.member$ fragen nach einem Juwelier.]
+		template_task_craft_10_title_4	[$f.mdab$ $f.member$ fragen nach einem Juwelier.]
 
 	(random = 5)
 		template_task_craft_10_title_5	[Spezialbestellung von Schmuck für $f.mda$ $f.member$]
@@ -60308,15 +60308,15 @@ TEMPLATE_TASK_CRAFT_10_TITLE (bot giver, int random, faction f)
 		template_task_craft_10_title_6	[Schmuck für $f.mda$ $f.member$]
 
 	(random = 7)
-		template_task_craft_10_title_7	[$f.mda$ $f.member$ möchten neuen Schmuck]
+		template_task_craft_10_title_7	[$f.mdab$ $f.member$ möchten neuen Schmuck]
 
 	(random = 8)
-		template_task_craft_10_title_8	[$f.mda$ $f.member$ brauchen einen Juwelier]
+		template_task_craft_10_title_8	[$f.mdab$ $f.member$ brauchen einen Juwelier]
 
 	(random = 9)
 		template_task_craft_10_title_9	[Eine Schmuckbestellung für $f.mda$ $f.member$]
 
-		template_task_craft_10_title_10	[$f.mda$ $f.member$ möchten Schmuck nach Maß]
+		template_task_craft_10_title_10	[$f.mdab$ $f.member$ möchten Schmuck nach Maß]
 
 }
 
@@ -60821,10 +60821,10 @@ TEMPLATE_TASK_CRAFT_8_TITLE (bot giver, int random, faction f)
 		template_task_craft_8_title_2	[Waffen für $f.mda$ $f.member$ herstellen]
 
 	(random = 3)
-		template_task_craft_8_title_3	[$f.mda$ $f.member$ benötigen Waffen]
+		template_task_craft_8_title_3	[$f.mdab$ $f.member$ benötigen Waffen]
 
 	(random = 4)
-		template_task_craft_8_title_4	[$f.mda$ $f.member$ fragen nach einem Waffenhersteller]
+		template_task_craft_8_title_4	[$f.mdab$ $f.member$ fragen nach einem Waffenhersteller]
 
 	(random = 5)
 		template_task_craft_8_title_5	[Spezialbestellung von Waffen für $f.mda$ $f.member$]
@@ -60833,15 +60833,15 @@ TEMPLATE_TASK_CRAFT_8_TITLE (bot giver, int random, faction f)
 		template_task_craft_8_title_6	[Waffen für $f.mda$ $f.member$]
 
 	(random = 7)
-		template_task_craft_8_title_7	[$f.mda$ $f.member$ wollen neue Waffen]
+		template_task_craft_8_title_7	[$f.mdab$ $f.member$ wollen neue Waffen]
 
 	(random = 8)
-		template_task_craft_8_title_8	[$f.mda$ $f.member$ benötigen einen Handwerker, um Waffen herzustellen]
+		template_task_craft_8_title_8	[$f.mdab$ $f.member$ benötigen einen Handwerker, um Waffen herzustellen]
 
 	(random = 9)
 		template_task_craft_8_title_9	[Eine Waffenbestellung für $f.mda$ $f.member$]
 
-		template_task_craft_8_title_10	[$f.mda$ $f.member$ wollen Waffen nach Maß]
+		template_task_craft_8_title_10	[$f.mdab$ $f.member$ wollen Waffen nach Maß]
 
 }
 
@@ -60856,10 +60856,10 @@ TEMPLATE_TASK_CRAFT_9_TITLE (bot giver, int random, faction f)
 		template_task_craft_9_title_2	[Rüstungen für $f.mda$ $f.member$ herstellen]
 
 	(random = 3)
-		template_task_craft_9_title_3	[$f.mda$ $f.member$ benötigen Rüstungen]
+		template_task_craft_9_title_3	[$f.mdab$ $f.member$ benötigen Rüstungen]
 
 	(random = 4)
-		template_task_craft_9_title_4	[$f.mda$ $f.member$ fragen nach einem Rüstungshersteller]
+		template_task_craft_9_title_4	[$f.mdab$ $f.member$ fragen nach einem Rüstungshersteller]
 
 	(random = 5)
 		template_task_craft_9_title_5	[Spezialbestellung von Rüstungen für $f.mda$ $f.member$]
@@ -60868,15 +60868,15 @@ TEMPLATE_TASK_CRAFT_9_TITLE (bot giver, int random, faction f)
 		template_task_craft_9_title_6	[Rüstungen für $f.mda$ $f.member$]
 
 	(random = 7)
-		template_task_craft_9_title_7	[$f.mda$ $f.member$ wollen neue Rüstungen]
+		template_task_craft_9_title_7	[$f.mdab$ $f.member$ wollen neue Rüstungen]
 
 	(random = 8)
-		template_task_craft_9_title_8	[$f.mda$ $f.member$ benötigen einen Handwerker, um Rüstungen herzustellen]
+		template_task_craft_9_title_8	[$f.mdab$ $f.member$ benötigen einen Handwerker, um Rüstungen herzustellen]
 
 	(random = 9)
 		template_task_craft_9_title_9	[Eine Bestellung von Rüstungen für $f.mda$ $f.member$]
 
-		template_task_craft_9_title_10	[$f.mda$ $f.member$ wollen Rüstungen nach Maß]
+		template_task_craft_9_title_10	[$f.mdab$ $f.member$ wollen Rüstungen nach Maß]
 
 }
 
@@ -61508,10 +61508,10 @@ TEMPLATE_TASK_FORAGE_7_TITLE (bot giver, int random, faction f)
 		template_task_forage_7_title_3	[Das Land der $f.member$ säubern]
 
 	(random = 4)
-		template_task_forage_7_title_4	[$f.mda$ $f.member$ benötigen jemanden, der ihre Erntegebiete reinigt]
+		template_task_forage_7_title_4	[$f.mdab$ $f.member$ benötigen jemanden, der ihre Erntegebiete reinigt]
 
 	(random = 5)
-		template_task_forage_7_title_5	[$f.mda$ $f.member$ benötigen jemanden, der ihre Erntegebiete säubert]
+		template_task_forage_7_title_5	[$f.mdab$ $f.member$ benötigen jemanden, der ihre Erntegebiete säubert]
 
 	(random = 6)
 		template_task_forage_7_title_6	[Das Land für die $f.mda$ $f.member$ bestellen]
@@ -61520,12 +61520,12 @@ TEMPLATE_TASK_FORAGE_7_TITLE (bot giver, int random, faction f)
 		template_task_forage_7_title_7	[Die Erntegebiete der $f.member$ vorbereiten]
 
 	(random = 8)
-		template_task_forage_7_title_8	[$f.mda$ $f.member$ benötigen jemanden, der ihre Erntegebiete vorbereitet]
+		template_task_forage_7_title_8	[$f.mdab$ $f.member$ benötigen jemanden, der ihre Erntegebiete vorbereitet]
 
 	(random = 9)
 		template_task_forage_7_title_9	[Die Felder der $f.member$ bestellen helfen]
 
-		template_task_forage_7_title_10	[$f.mda$ $f.member$ benötigen jemanden, um ihre Erntegebiete zu bestellen.]
+		template_task_forage_7_title_10	[$f.mdab$ $f.member$ benötigen jemanden, um ihre Erntegebiete zu bestellen.]
 
 }
 
@@ -61543,7 +61543,7 @@ TEMPLATE_TASK_FORAGE_8_TITLE (bot giver, int random, faction f)
 		template_task_forage_8_title_3	[Die Erntegebiete der $f.member$ von den Spuren der Kitins befreien]
 
 	(random = 4)
-		template_task_forage_8_title_4	[$f.mda$ $f.member$ benötigen jemanden, der die Spuren der Kitins von ihren Erntegebieten beseitigt]
+		template_task_forage_8_title_4	[$f.mdab$ $f.member$ benötigen jemanden, der die Spuren der Kitins von ihren Erntegebieten beseitigt]
 
 	(random = 5)
 		template_task_forage_8_title_5	[Spuren von Kitins für die $f.mda$ $f.member$ entfernen]
@@ -61552,15 +61552,15 @@ TEMPLATE_TASK_FORAGE_8_TITLE (bot giver, int random, faction f)
 		template_task_forage_8_title_6	[Die Erntegebiete der $f.member$ von den Spuren der Kitins befreien]
 
 	(random = 7)
-		template_task_forage_8_title_7	[$f.mda$ $f.member$ benötigen jemanden, der die Spuren von Kitins von ihren Erntegebieten beseitigt.]
+		template_task_forage_8_title_7	[$f.mdab$ $f.member$ benötigen jemanden, der die Spuren von Kitins von ihren Erntegebieten beseitigt.]
 
 	(random = 8)
-		template_task_forage_8_title_8	[$f.mda$ $f.member$ benötigen jemanden, der ihre Erntegebiete von den Spuren der Kitins befreit]
+		template_task_forage_8_title_8	[$f.mdab$ $f.member$ benötigen jemanden, der ihre Erntegebiete von den Spuren der Kitins befreit]
 
 	(random = 9)
-		template_task_forage_8_title_9	[$f.mda$ $f.member$ möchten, dass jemand die Spuren von Kitins aus ihren Erntegebieten entfernt]
+		template_task_forage_8_title_9	[$f.mdab$ $f.member$ möchten, dass jemand die Spuren von Kitins aus ihren Erntegebieten entfernt]
 
-		template_task_forage_8_title_10	[$f.mda$ $f.member$ möchten, dass jemand die Spuren der Kitins von ihren Erntegebieten beseitigt]
+		template_task_forage_8_title_10	[$f.mdab$ $f.member$ möchten, dass jemand die Spuren der Kitins von ihren Erntegebieten beseitigt]
 
 }
 
@@ -61578,7 +61578,7 @@ TEMPLATE_TASK_FORAGE_9_TITLE (bot giver, int random, faction f)
 		template_task_forage_9_title_3	[Das Goo-befallene Land von $f.member$ reinigen]
 
 	(random = 4)
-		template_task_forage_9_title_4	[$f.mda$ $f.member$ brauchen jemanden, der Goo-Überreste aus ihren Erntegebieten entfernt]
+		template_task_forage_9_title_4	[$f.mdab$ $f.member$ brauchen jemanden, der Goo-Überreste aus ihren Erntegebieten entfernt]
 
 	(random = 5)
 		template_task_forage_9_title_5	[Goo-Überreste für $f.mda$ $f.member$ entfernen]
@@ -61587,15 +61587,15 @@ TEMPLATE_TASK_FORAGE_9_TITLE (bot giver, int random, faction f)
 		template_task_forage_9_title_6	[Die Goo-verseuchten Erntegebiete von $f.member$ säubern]
 
 	(random = 7)
-		template_task_forage_9_title_7	[$f.mda$ $f.member$ benötigen jemanden, der Goo-Überreste aus ihren Erntegebieten befreit]
+		template_task_forage_9_title_7	[$f.mdab$ $f.member$ benötigen jemanden, der Goo-Überreste aus ihren Erntegebieten befreit]
 
 	(random = 8)
-		template_task_forage_9_title_8	[$f.mda$ $f.member$ benötigen jemanden, der ihre Erntegebiete von Goo befreit]
+		template_task_forage_9_title_8	[$f.mdab$ $f.member$ benötigen jemanden, der ihre Erntegebiete von Goo befreit]
 
 	(random = 9)
-		template_task_forage_9_title_9	[$f.mda$ $f.member$ möchten, dass jemand Goo-Überreste von ihren Erntegebieten besseitigt]
+		template_task_forage_9_title_9	[$f.mdab$ $f.member$ möchten, dass jemand Goo-Überreste von ihren Erntegebieten besseitigt]
 
-		template_task_forage_9_title_10	[$f.mda$ $f.member$ möchten, dass jemand Goo-Überreste aus ihren Erntegebieten entfernt]
+		template_task_forage_9_title_10	[$f.mdab$ $f.member$ möchten, dass jemand Goo-Überreste aus ihren Erntegebieten entfernt]
 
 }
 
@@ -61645,7 +61645,7 @@ TEMPLATE_TASK_FORAGE_GIVE_10_TITLE (bot giver, int random, faction f)
 		template_task_forage_give_10_title_2	[Kitinreste zu Studienzwecken für die $f.mda$ $f.member$ zusammentragen]
 
 	(random = 3)
-		template_task_forage_give_10_title_3	[$f.mda$ $f.member$ brauchen Kitinreste zu Studienzwecken]
+		template_task_forage_give_10_title_3	[$f.mdab$ $f.member$ brauchen Kitinreste zu Studienzwecken]
 
 	(random = 4)
 		template_task_forage_give_10_title_4	[Den $f.member$ Kitinreste zu Studienzwecken bringen]
@@ -61660,12 +61660,12 @@ TEMPLATE_TASK_FORAGE_GIVE_10_TITLE (bot giver, int random, faction f)
 		template_task_forage_give_10_title_7	[Kitinreste zu Studienzwecken für die $f.mda$ $f.member$ sammeln]
 
 	(random = 8)
-		template_task_forage_give_10_title_8	[$f.mda$ $f.member$ brauchen jemanden, um Kitinreste zu Studienzwecken zu sammeln]
+		template_task_forage_give_10_title_8	[$f.mdab$ $f.member$ brauchen jemanden, um Kitinreste zu Studienzwecken zu sammeln]
 
 	(random = 9)
-		template_task_forage_give_10_title_9	[$f.mda$ $f.member$ mit Kitinresten zu Studienzwecken versorgen]
+		template_task_forage_give_10_title_9	[$f.mdab$ $f.member$ mit Kitinresten zu Studienzwecken versorgen]
 
-		template_task_forage_give_10_title_10	[$f.mda$ $f.member$ benötigen jemanden, um Kitinreste zu Studienzwecken zu sammeln]
+		template_task_forage_give_10_title_10	[$f.mdab$ $f.member$ benötigen jemanden, um Kitinreste zu Studienzwecken zu sammeln]
 
 }
 
@@ -61680,7 +61680,7 @@ TEMPLATE_TASK_FORAGE_GIVE_11_TITLE (bot giver, int random, faction f)
 		template_task_forage_give_11_title_2	[Goo-Reste zu Studienzwecken für $f.mda$ $f.member$ zusammentragen]
 
 	(random = 3)
-		template_task_forage_give_11_title_3	[$f.mda$ $f.member$ benötigen Goo-Reste zu Studienzwecken]
+		template_task_forage_give_11_title_3	[$f.mdab$ $f.member$ benötigen Goo-Reste zu Studienzwecken]
 
 	(random = 4)
 		template_task_forage_give_11_title_4	[$f.member$ mit Goo-Resten zu Studienzwecken versorgen]
@@ -61695,12 +61695,12 @@ TEMPLATE_TASK_FORAGE_GIVE_11_TITLE (bot giver, int random, faction f)
 		template_task_forage_give_11_title_7	[Goo-Reste zu Studienzwecken für die $f.mda$ $f.member$ sammeln]
 
 	(random = 8)
-		template_task_forage_give_11_title_8	[$f.mda$ $f.member$ brauchen jemanden, um Goo-Reste zu Studienzwecken zu sammeln]
+		template_task_forage_give_11_title_8	[$f.mdab$ $f.member$ brauchen jemanden, um Goo-Reste zu Studienzwecken zu sammeln]
 
 	(random = 9)
-		template_task_forage_give_11_title_9	[$f.mda$ $f.member$ mit Goo-Resten zu Studienzwecken versorgen]
+		template_task_forage_give_11_title_9	[$f.mdab$ $f.member$ mit Goo-Resten zu Studienzwecken versorgen]
 
-		template_task_forage_give_11_title_10	[$f.mda$ $f.member$ benötigen jemanden, um Goo-Reste zu Studienzwecken zu sammeln]
+		template_task_forage_give_11_title_10	[$f.mdab$ $f.member$ benötigen jemanden, um Goo-Reste zu Studienzwecken zu sammeln]
 
 }
 
@@ -61715,7 +61715,7 @@ TEMPLATE_TASK_FORAGE_GIVE_12_TITLE (bot giver, int random, faction f)
 		template_task_forage_give_12_title_2	[Konservierungsstoffe für $f.mda$ $f.member$ zusammentragen]
 
 	(random = 3)
-		template_task_forage_give_12_title_3	[$f.mda$ $f.member$ fehlt es an Konservierungsstoffen]
+		template_task_forage_give_12_title_3	[$f.mdab$ $f.member$ fehlt es an Konservierungsstoffen]
 
 	(random = 4)
 		template_task_forage_give_12_title_4	[Die $f.member$ mit Konservierungsstoffen versorgen]
@@ -61730,12 +61730,12 @@ TEMPLATE_TASK_FORAGE_GIVE_12_TITLE (bot giver, int random, faction f)
 		template_task_forage_give_12_title_7	[Konservierungsstoffe für $f.mda$ $f.member$ sammeln]
 
 	(random = 8)
-		template_task_forage_give_12_title_8	[$f.mda$ $f.member$ benötigen jemanden, um Konservierungsstoffe zu sammeln]
+		template_task_forage_give_12_title_8	[$f.mdab$ $f.member$ benötigen jemanden, um Konservierungsstoffe zu sammeln]
 
 	(random = 9)
-		template_task_forage_give_12_title_9	[$f.mda$ $f.member$ mit Konservierungsstoffen versorgen]
+		template_task_forage_give_12_title_9	[$f.mdab$ $f.member$ mit Konservierungsstoffen versorgen]
 
-		template_task_forage_give_12_title_10	[$f.mda$ $f.member$ benötigen jemanden, um Konservierungsstoffe zu sammeln]
+		template_task_forage_give_12_title_10	[$f.mdab$ $f.member$ benötigen jemanden, um Konservierungsstoffe zu sammeln]
 
 }
 
@@ -62590,7 +62590,7 @@ TEMPLATE_TASK_FORAGE_GIVE_7_TITLE (bot giver, int random, faction f)
 		template_task_forage_give_7_title_2	[Baumaterialien für $f.mda$ $f.member$ suchen]
 
 	(random = 3)
-		template_task_forage_give_7_title_3	[$f.mda$ $f.member$ benötigen Baumaterial]
+		template_task_forage_give_7_title_3	[$f.mdab$ $f.member$ benötigen Baumaterial]
 
 	(random = 4)
 		template_task_forage_give_7_title_4	[$f.member$ mit Baumaterialien beliefern]
@@ -62608,7 +62608,7 @@ TEMPLATE_TASK_FORAGE_GIVE_7_TITLE (bot giver, int random, faction f)
 		template_task_forage_give_7_title_8	[Baumaterialien für $f.mda$ $f.member$ zusammentragen]
 
 	(random = 9)
-		template_task_forage_give_7_title_9	[$f.mda$ $f.member$ brauchen Baumaterialien]
+		template_task_forage_give_7_title_9	[$f.mdab$ $f.member$ brauchen Baumaterialien]
 
 		template_task_forage_give_7_title_10	[$f.member$ mit Baumaterialien versorgen]
 
@@ -62625,7 +62625,7 @@ TEMPLATE_TASK_FORAGE_GIVE_8_TITLE (bot giver, int random, faction f)
 		template_task_forage_give_8_title_2	[Insekten für $f.mda$ $f.member$ suchen]
 
 	(random = 3)
-		template_task_forage_give_8_title_3	[$f.mda$ $f.member$ mit Insekten beliefern]
+		template_task_forage_give_8_title_3	[$f.mdab$ $f.member$ mit Insekten beliefern]
 
 	(random = 4)
 		template_task_forage_give_8_title_4	[Insekten für $f.mda$ $f.member$ besorgen]
@@ -62640,12 +62640,12 @@ TEMPLATE_TASK_FORAGE_GIVE_8_TITLE (bot giver, int random, faction f)
 		template_task_forage_give_8_title_7	[Insekten für $f.mda$ $f.member$ finden]
 
 	(random = 8)
-		template_task_forage_give_8_title_8	[$f.mda$ $f.member$ benötigen jemanden, um Insekten zu sammeln]
+		template_task_forage_give_8_title_8	[$f.mdab$ $f.member$ benötigen jemanden, um Insekten zu sammeln]
 
 	(random = 9)
 		template_task_forage_give_8_title_9	[Insekten für $f.mda$ $f.member$ bringen]
 
-		template_task_forage_give_8_title_10	[$f.mda$ $f.member$ benötigen jemanden, um Insekten zu suchen]
+		template_task_forage_give_8_title_10	[$f.mdab$ $f.member$ benötigen jemanden, um Insekten zu suchen]
 
 }
 
@@ -62660,7 +62660,7 @@ TEMPLATE_TASK_FORAGE_GIVE_9_TITLE (bot giver, int random, faction f)
 		template_task_forage_give_9_title_2	[Nahrung für $f.mda$ $f.member$ suchen]
 
 	(random = 3)
-		template_task_forage_give_9_title_3	[$f.mda$ $f.member$ fehlt es an Nahrung]
+		template_task_forage_give_9_title_3	[$f.mdab$ $f.member$ fehlt es an Nahrung]
 
 	(random = 4)
 		template_task_forage_give_9_title_4	[Die $f.member$ mit Nahrung versorgen]
@@ -62675,12 +62675,12 @@ TEMPLATE_TASK_FORAGE_GIVE_9_TITLE (bot giver, int random, faction f)
 		template_task_forage_give_9_title_7	[Nahrung für $f.mda$ $f.member$ finden]
 
 	(random = 8)
-		template_task_forage_give_9_title_8	[$f.mda$ $f.member$ brauchen jemanden, um Nahrung zu sammeln]
+		template_task_forage_give_9_title_8	[$f.mdab$ $f.member$ brauchen jemanden, um Nahrung zu sammeln]
 
 	(random = 9)
-		template_task_forage_give_9_title_9	[$f.mda$ $f.member$ mit Nahrung beliefern]
+		template_task_forage_give_9_title_9	[$f.mdab$ $f.member$ mit Nahrung beliefern]
 
-		template_task_forage_give_9_title_10	[$f.mda$ $f.member$ benötigen jemanden, um Nahrung zu suchen]
+		template_task_forage_give_9_title_10	[$f.mdab$ $f.member$ benötigen jemanden, um Nahrung zu suchen]
 
 }
 
@@ -63605,21 +63605,21 @@ TEMPLATE_TASK_KILL_NPC_4_TITLE_BANDIT (bot giver, bot_name target, place region,
 		template_task_kill_npc_4_title_bandit_4	[$target$ für $f.mda$ $f.member$ in $region$ zur Strecke bringen]
 
 	(random = 5)
-		template_task_kill_npc_4_title_bandit_5	[$f.mda$ $f.member$ brauchen Hilfe, um $target$ in $region$ zu beseitigen]
+		template_task_kill_npc_4_title_bandit_5	[$f.mdab$ $f.member$ brauchen Hilfe, um $target$ in $region$ zu beseitigen]
 
 	(random = 6)
-		template_task_kill_npc_4_title_bandit_6	[$f.mda$ $f.member$ brauchen Hilfe, um $target$ in $region$ zu töten]
+		template_task_kill_npc_4_title_bandit_6	[$f.mdab$ $f.member$ brauchen Hilfe, um $target$ in $region$ zu töten]
 
 	(random = 7)
-		template_task_kill_npc_4_title_bandit_7	[$f.mda$ $f.member$ brauchen Hilfe, um $target$ in $region$ zu bekämpfen]
+		template_task_kill_npc_4_title_bandit_7	[$f.mdab$ $f.member$ brauchen Hilfe, um $target$ in $region$ zu bekämpfen]
 
 	(random = 8)
-		template_task_kill_npc_4_title_bandit_8	[$f.mda$ $f.member$ brauchen Hilfe, um $target$ in $region$ zu eliminieren]
+		template_task_kill_npc_4_title_bandit_8	[$f.mdab$ $f.member$ brauchen Hilfe, um $target$ in $region$ zu eliminieren]
 
 	(random = 9)
-		template_task_kill_npc_4_title_bandit_9	[$f.mda$ $f.member$ brauchen jemanden, um $target$ in $region$ zu töten]
+		template_task_kill_npc_4_title_bandit_9	[$f.mdab$ $f.member$ brauchen jemanden, um $target$ in $region$ zu töten]
 
-		template_task_kill_npc_4_title_bandit_10	[$f.mda$ $f.member$ brauchen jemanden, um $target$ in $region$ zu bekämpfen]
+		template_task_kill_npc_4_title_bandit_10	[$f.mdab$ $f.member$ brauchen jemanden, um $target$ in $region$ zu bekämpfen]
 
 }
 
@@ -63640,21 +63640,21 @@ TEMPLATE_TASK_KILL_NPC_4_TITLE_TRIBE (bot giver, faction target, place region, i
 		template_task_kill_npc_4_title_tribe_4	[$target.member$ für $f.mda$ $f.member$ in $region$ in Zaum zu halten]
 
 	(random = 5)
-		template_task_kill_npc_4_title_tribe_5	[$f.mda$ $f.member$ brauchen Hilfe, um $target.member$ in $region$ zu dezimieren]
+		template_task_kill_npc_4_title_tribe_5	[$f.mdab$ $f.member$ brauchen Hilfe, um $target.member$ in $region$ zu dezimieren]
 
 	(random = 6)
-		template_task_kill_npc_4_title_tribe_6	[$f.mda$ $f.member$ brauchen Hilfe, um $target.member$ in $region$ zu töten]
+		template_task_kill_npc_4_title_tribe_6	[$f.mdab$ $f.member$ brauchen Hilfe, um $target.member$ in $region$ zu töten]
 
 	(random = 7)
-		template_task_kill_npc_4_title_tribe_7	[$f.mda$ $f.member$ brauchen Hilfe, um $target.member$ in $region$ zu bekämpfen]
+		template_task_kill_npc_4_title_tribe_7	[$f.mdab$ $f.member$ brauchen Hilfe, um $target.member$ in $region$ zu bekämpfen]
 
 	(random = 8)
-		template_task_kill_npc_4_title_tribe_8	[$f.mda$ $f.member$ brauchen Hilfe, um $target.member$ in $region$ in Zaum zu halten]
+		template_task_kill_npc_4_title_tribe_8	[$f.mdab$ $f.member$ brauchen Hilfe, um $target.member$ in $region$ in Zaum zu halten]
 
 	(random = 9)
-		template_task_kill_npc_4_title_tribe_9	[$f.mda$ $f.member$ brauchen jemanden, um $target.member$ in $region$ zu töten]
+		template_task_kill_npc_4_title_tribe_9	[$f.mdab$ $f.member$ brauchen jemanden, um $target.member$ in $region$ zu töten]
 
-		template_task_kill_npc_4_title_tribe_10	[$f.mda$ $f.member$ brauchen jemanden, um $target.member$ in $region$ zu bekämpfen]
+		template_task_kill_npc_4_title_tribe_10	[$f.mdab$ $f.member$ brauchen jemanden, um $target.member$ in $region$ zu bekämpfen]
 
 }
 
@@ -64162,15 +64162,15 @@ TEMPLATE_TASK_LOOT_GIVE_13_TITLE (bot giver, int random, faction f)
 		template_task_loot_give_13_title_6	[Knochen für $f.mda$ $f.member$ bringen]
 
 	(random = 7)
-		template_task_loot_give_13_title_7	[$f.mda$ $f.member$ benötigen Knochen]
+		template_task_loot_give_13_title_7	[$f.mdab$ $f.member$ benötigen Knochen]
 
 	(random = 8)
-		template_task_loot_give_13_title_8	[$f.mda$ $f.member$ brauchen einen Knochenlieferanten]
+		template_task_loot_give_13_title_8	[$f.mdab$ $f.member$ brauchen einen Knochenlieferanten]
 
 	(random = 9)
-		template_task_loot_give_13_title_9	[$f.mda$ $f.member$ benötigen einen Jäger, um Knochen zu besorgen]
+		template_task_loot_give_13_title_9	[$f.mdab$ $f.member$ benötigen einen Jäger, um Knochen zu besorgen]
 
-		template_task_loot_give_13_title_10	[$f.mda$ $f.member$ benötigen jemanden, der für sie Knochen sammelt]
+		template_task_loot_give_13_title_10	[$f.mdab$ $f.member$ benötigen jemanden, der für sie Knochen sammelt]
 
 }
 
@@ -64197,15 +64197,15 @@ TEMPLATE_TASK_LOOT_GIVE_18_TITLE (bot giver, int random, faction f)
 		template_task_loot_give_18_title_6	[Blut für $f.mda$ $f.member$ zusammentragen]
 
 	(random = 7)
-		template_task_loot_give_18_title_7	[$f.mda$ $f.member$ brauchen Blutproben]
+		template_task_loot_give_18_title_7	[$f.mdab$ $f.member$ brauchen Blutproben]
 
 	(random = 8)
-		template_task_loot_give_18_title_8	[$f.mda$ $f.member$ suchen einen Blutprobenlieferanten]
+		template_task_loot_give_18_title_8	[$f.mdab$ $f.member$ suchen einen Blutprobenlieferanten]
 
 	(random = 9)
-		template_task_loot_give_18_title_9	[$f.mda$ $f.member$ brauchen einen Jäger, um ihren Blutprobenbestand wieder aufzufüllen]
+		template_task_loot_give_18_title_9	[$f.mdab$ $f.member$ brauchen einen Jäger, um ihren Blutprobenbestand wieder aufzufüllen]
 
-		template_task_loot_give_18_title_10	[$f.mda$ $f.member$ wollen ihren Blutprobenbestand wieder auffüllen]
+		template_task_loot_give_18_title_10	[$f.mdab$ $f.member$ wollen ihren Blutprobenbestand wieder auffüllen]
 
 }
 
@@ -64372,15 +64372,15 @@ TEMPLATE_TASK_LOOT_GIVE_23_TITLE (bot giver, int random, faction f)
 		template_task_loot_give_23_title_6	[Pelz für $f.mda$ $f.member$ zusammentragen]
 
 	(random = 7)
-		template_task_loot_give_23_title_7	[$f.mda$ $f.member$ brauchen Pelz]
+		template_task_loot_give_23_title_7	[$f.mdab$ $f.member$ brauchen Pelz]
 
 	(random = 8)
-		template_task_loot_give_23_title_8	[$f.mda$ $f.member$ suchen einen Pelzlieferanten]
+		template_task_loot_give_23_title_8	[$f.mdab$ $f.member$ suchen einen Pelzlieferanten]
 
 	(random = 9)
-		template_task_loot_give_23_title_9	[$f.mda$ $f.member$ benötigen einen Jäger, um ihren Pelzbestand wieder aufzufüllen]
+		template_task_loot_give_23_title_9	[$f.mdab$ $f.member$ benötigen einen Jäger, um ihren Pelzbestand wieder aufzufüllen]
 
-		template_task_loot_give_23_title_10	[$f.mda$ $f.member$ wollen ihren Pelzbestand wieder auffüllen]
+		template_task_loot_give_23_title_10	[$f.mdab$ $f.member$ wollen ihren Pelzbestand wieder auffüllen]
 
 }
 
@@ -64442,15 +64442,15 @@ TEMPLATE_TASK_LOOT_GIVE_28_TITLE (bot giver, int random, faction f)
 		template_task_loot_give_28_title_6	[Stücke intelligenter Pflanzen für $f.mda$ $f.member$ zusammentragen]
 
 	(random = 7)
-		template_task_loot_give_28_title_7	[$f.mda$ $f.member$ brauchen Stücke intelligenter Pflanzen]
+		template_task_loot_give_28_title_7	[$f.mdab$ $f.member$ brauchen Stücke intelligenter Pflanzen]
 
 	(random = 8)
-		template_task_loot_give_28_title_8	[$f.mda$ $f.member$ suchen einen Lieferanten von Stücken intelligenter Pflanzen]
+		template_task_loot_give_28_title_8	[$f.mdab$ $f.member$ suchen einen Lieferanten von Stücken intelligenter Pflanzen]
 
 	(random = 9)
-		template_task_loot_give_28_title_9	[$f.mda$ $f.member$ brauchen einen Jäger, um ihren Bestand an intelligenten Pflanzen wieder aufzufüllen]
+		template_task_loot_give_28_title_9	[$f.mdab$ $f.member$ brauchen einen Jäger, um ihren Bestand an intelligenten Pflanzen wieder aufzufüllen]
 
-		template_task_loot_give_28_title_10	[$f.mda$ $f.member$ wollen ihren Bestand an intelligenten Pflanzen wieder auffüllen]
+		template_task_loot_give_28_title_10	[$f.mdab$ $f.member$ wollen ihren Bestand an intelligenten Pflanzen wieder auffüllen]
 
 }
 
@@ -64687,15 +64687,15 @@ TEMPLATE_TASK_LOOT_GIVE_3_TITLE (bot giver, int random, faction f)
 		template_task_loot_give_3_title_6	[Fleisch für $f.mda$ $f.member$ sammeln]
 
 	(random = 7)
-		template_task_loot_give_3_title_7	[$f.mda$ $f.member$ brauchen Fleisch]
+		template_task_loot_give_3_title_7	[$f.mdab$ $f.member$ brauchen Fleisch]
 
 	(random = 8)
-		template_task_loot_give_3_title_8	[$f.mda$ $f.member$ suchen einen Fleischlieferanten]
+		template_task_loot_give_3_title_8	[$f.mdab$ $f.member$ suchen einen Fleischlieferanten]
 
 	(random = 9)
-		template_task_loot_give_3_title_9	[$f.mda$ $f.member$ brauchen einen Jäger, um ihren Fleischbestand wieder aufzufüllen]
+		template_task_loot_give_3_title_9	[$f.mdab$ $f.member$ brauchen einen Jäger, um ihren Fleischbestand wieder aufzufüllen]
 
-		template_task_loot_give_3_title_10	[$f.mda$ $f.member$ wollen ihren Fleischbestand wieder auffüllen]
+		template_task_loot_give_3_title_10	[$f.mdab$ $f.member$ wollen ihren Fleischbestand wieder auffüllen]
 
 }
 
@@ -64757,15 +64757,15 @@ TEMPLATE_TASK_LOOT_GIVE_8_TITLE (bot giver, int random, faction f)
 		template_task_loot_give_8_title_6	[Kitin-Rohmaterial für $f.mda$ $f.member$ sammeln]
 
 	(random = 7)
-		template_task_loot_give_8_title_7	[$f.mda$ $f.member$ brauchen Kitin-Stücke]
+		template_task_loot_give_8_title_7	[$f.mdab$ $f.member$ brauchen Kitin-Stücke]
 
 	(random = 8)
-		template_task_loot_give_8_title_8	[$f.mda$ $f.member$ suchen einen Lieferanten für Kitin-Stücke]
+		template_task_loot_give_8_title_8	[$f.mdab$ $f.member$ suchen einen Lieferanten für Kitin-Stücke]
 
 	(random = 9)
-		template_task_loot_give_8_title_9	[$f.mda$ $f.member$ brauchen einen Jäger, um ihren Bestand an Kitin-Stücken wieder aufzufüllen]
+		template_task_loot_give_8_title_9	[$f.mdab$ $f.member$ brauchen einen Jäger, um ihren Bestand an Kitin-Stücken wieder aufzufüllen]
 
-		template_task_loot_give_8_title_10	[$f.mda$ $f.member$ wollen ihren Bestand an Kitin-Rohstoffen erneuern]
+		template_task_loot_give_8_title_10	[$f.mdab$ $f.member$ wollen ihren Bestand an Kitin-Rohstoffen erneuern]
 
 }
 
@@ -65628,18 +65628,18 @@ TEMPLATE_TASK_VISIT_PLACE_4_TITLE (bot giver, int random, faction f)
 		template_task_visit_place_4_title_5	[Für $f.mda$ $f.member$ auf Ausschau gehen]
 
 	(random = 6)
-		template_task_visit_place_4_title_6	[$f.mda$ $f.member$ benötigen jemanden, um auf Ausschau zu gehen]
+		template_task_visit_place_4_title_6	[$f.mdab$ $f.member$ benötigen jemanden, um auf Ausschau zu gehen]
 
 	(random = 7)
-		template_task_visit_place_4_title_7	[$f.mda$ $f.member$ benötigen jemanden, um eine Expeditionstour zu machen]
+		template_task_visit_place_4_title_7	[$f.mdab$ $f.member$ benötigen jemanden, um eine Expeditionstour zu machen]
 
 	(random = 8)
-		template_task_visit_place_4_title_8	[$f.mda$ $f.member$ brauchen jemanden, um das Terrain zu erkundschaften]
+		template_task_visit_place_4_title_8	[$f.mdab$ $f.member$ brauchen jemanden, um das Terrain zu erkundschaften]
 
 	(random = 9)
-		template_task_visit_place_4_title_9	[$f.mda$ $f.member$ brauchen jemanden, um auf Erkundschaftung zu gehen]
+		template_task_visit_place_4_title_9	[$f.mdab$ $f.member$ brauchen jemanden, um auf Erkundschaftung zu gehen]
 
-		template_task_visit_place_4_title_10	[$f.mda$ $f.member$ brauchen Informationen über die Region]
+		template_task_visit_place_4_title_10	[$f.mdab$ $f.member$ brauchen Informationen über die Region]
 
 }
 
