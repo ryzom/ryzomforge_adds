@@ -788,7 +788,7 @@ _7D9F14ECEC8ADB18	gn_duneriders_kami_ambassador_f1	Kami-Botschafter der Dünenre
 _4D01DB0DF35F29FB	gn_ecowarriors_kami_ambassador_m1	Kami-Botschafter der Ökokrieger	Kami-Botschafterin der Ökokrieger
 _BED02C6E419264EF	gn_firstdeserters_kami_ambassador_m1	Kami-Botschafter der Ersten Deserteure	Kami-Botschafterin der Ersten Deserteure
 _2D0B05EBD586BD89	gn_fraharhunters_kami_ambassador_f1	Kami-Botschafter der Frahar-Jäger	Kami-Botschafterin der Frahar-Jäger
-_EC4D1BA5567D0B2F	gn_hamazans_kami_ambassador_z1	Kami-Botschafter der Matis-Amazonen	Kami-Botschafterin der Matis-Amazonen
+_EC4D1BA5567D0B2F	gn_hamazans_kami_ambassador_z1	Kami-Botschafter der Hamazans	Kami-Botschafterin der Hamazans
 _82C1FD0D8B307A8E	gn_kami_welcomer_f1	Kamiempfänger der Dünen der Verbannung	Kamiempfängerin der Dünen der Verbannung
 _170E3D0D0CB03AB7	gn_kami_welcomer_f2	Kamiempfänger der Frahar-Türme	Kamiempfängerin der Frahar-Türme
 _55B93E8802601EB2	gn_kami_welcomer_f3	Kamiempfänger der Imperialen Dünen	Kamiempfängerin der Imperialen Dünen

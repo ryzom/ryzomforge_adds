@@ -35,7 +35,6 @@ _B459CBF1392BE778	tribe_frahar_hunters	Frahar-Jäger	die	den	ein	Frahar-Jäger	d
 _EC39A49C646848A5	tribe_gibbay	Gibads	die	den	einer der	Gibads	die	einige
 _748A396FE96F21E5	tribe_goo_heads	Erleuchtete des Goo	die	den	einer der	Erleuchteten des Goo	die	einige
 _4255EE5EC3CBACFE	tribe_green_seed	Grüne Samen	die	den	einer der	Mitglieder der Grünen Samen	die	einige
-_36BF4380A26E67C9	tribe_hamazans_of_the_dead_seed	Matis-Amazonen Hamazans	die	den	eine der	Matis-Amazonen Hamazans	die	einige
 _08ADBC69EE67A864	tribe_icon_workshipers	Ikonenschnitzer	die	den	ein	Ikonenschnitzer	die	einige
 _2C7F49FC279914B1	tribe_keepers	Erinnerer	die	den	ein	Erinnerer	die	einige
 _B43A6B56730DC785	tribe_kitin_gatheres	Kitin-Jäger	die	den	ein	Kitin-Jäger	die	einige
@@ -66,3 +65,4 @@ _C295B382822077E7	tribe_the_slash_and_burn	Scharlachrote Söldner	die	den	einer 
 _6A2B10CEED297892	tribe_tutors	Tutoren	die	den	einer der	Mitglieder der Tutoren	die	einige
 _E59D6A166AEB3F9E	tribe_water_breakers	Wasserbrecher	die	den	ein	Wasserbrecher	die	einige
 _EBDAEECB1DE61EBB	tribe_woven_bridles	Wüstenplünderer	die	den	ein	Wüstenplünderer	die	einige
+_36BF4380A26E67C9	tribe_hamazans_of_the_dead_seed	Hamazans	die	den	eine der	Hamazans	die	Die	einige

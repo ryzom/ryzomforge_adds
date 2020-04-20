@@ -19558,7 +19558,7 @@ ENCY_THM_03_17 ()
 // HASH_VALUE 45E81462D2D82810
 ENCY_THM_03_18 ()
 {
-			[Die Matis-Amazonen]
+			[Die Hamazans]
 
 }
 
