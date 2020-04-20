@@ -5889,7 +5889,7 @@ _EBB7A046FED16F35	icbm1sa_3	Cleven der Fraiders	Cleven der Fraiders	Cleven der F
 _546524D1FE7C7B1E	icbm1pd	Fyler der Korsaren	Fyler der Korsaren	Fyler der Korsaren	Fyler der Korsaren	Fyler der Korsaren	einen	die	ein	der	Einhand-Dolch der Korsaren	
 _2049B5A6D0029C50	icbm1pd_2	Fyler der Goo-Köpfe	Fyler der Goo-Köpfe	Fyler der Goo-Köpfe	Fyler der Goo-Köpfe	Fyler der Goo-Köpfe	einen	die	ein	der	Einhand-Dolch der Erleuchteten des Goo	
 _4C3E08FC91BEB069	icbm1pd_3	Fyler der Cuzane	Fyler der Cuzane	Fyler der Cuzane	Fyler der Cuzane	Fyler der Cuzane	einen	die	ein	der	Einhand-Dolch der Cuzane	
-_4940D97F838E3064	icbm1ps	Palor der Matis-Amazonen 	Palor der Matis-Amazonen 	Palor der Matis-Amazonen 	Palor der Matis-Amazonen 	Palor der Matis-Amazonen 	eine	die	eine	die	Einhand-Lanze der Amazonen	
+_4940D97F838E3064	icbm1ps	Palor der Hamazans 	Palor der Hamazans 	Palor der Hamazans 	Palor der Hamazans 	Palor der Hamazans 	eine	die	eine	die	Einhand-Lanze der Hamazans	
 _8489AC4649EB7BA4	icbm1ps_2	Palor der Dörre Matis	Palor der Dörre Matis	Palor der Dörre Matis	Palor der Dörre Matis	Palor der Dörre Matis	eine	die	eine	die	Einhand-Lanze der Dörre Matis	
 _240D0C187511ADB7	icbm1ps_3	Palor der Sapsklaven	Palor der Sapsklaven	Palor der Sapsklaven	Palor der Sapsklaven	Palor der Sapsklaven	eine	die	eine	die	Einhand-Lanze der Sapsklaven	
 _2B7988AD7D405EE8	icbm1bm	Nanka des Heiligen Sap	Nanka des Heiligen Sap	Nanka des Heiligen Sap	Nanka des Heiligen Sap	Nanka des Heiligen Sap	einen	die	ein	der	Einhand-Streitkolben des Heiligen Sap	
