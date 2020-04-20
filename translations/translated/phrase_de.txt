@@ -34125,7 +34125,7 @@ ITEM_SHOP_LIMIT_REACHED ( int qty )
 ITEM_SOLD (item item, int qty, entity buyer, int money, int moneyNow, int moneyPrevious )
 {
 	(qty=1)
-		item_sold_1	[&ITM&Du verkaufst $item.ia$ $item$ für $moneyNow$ Dapper).]
+		item_sold_1	[&ITM&Du verkaufst $item.ia$ $item$ für $moneyNow$ Dapper.]
 
 	(qty>1)
 		item_sold_2	[&ITM&Du verkaufst $qty$ $item.p$ für $moneyNow$ Dapper.]
@@ -34136,10 +34136,10 @@ ITEM_SOLD (item item, int qty, entity buyer, int money, int moneyNow, int moneyP
 ITEM_SOLDED_TO_NPC ( item item, int qty, int price )
 {
 	(qty=1)
-			[&ITM&Du hast dem NPC $item$ für $price$ Dapper verkauft.]
+			[&ITM&Du verkaufst dem NSC $item$ für $price$ Dapper.]
 
 	(qty>1)
-			[&ITM&Du hast dem NPC $qty$ $item.p$ für $price$ Dapper verkauft.]
+			[&ITM&Du verkaufst dem NSC $qty$ $item.p$ für $price$ Dapper.]
 
 }
 
