@@ -1,0 +1,14 @@
+if computeCurrSeason == 2 then
+SceneEditor:spawnShape("ju_s3_plante.shape", 8556.507, -7474.384, -8.191, -0.67, -0.42, -0.6, '{"col size x":5.976,"scale y":0.63,"col size z":3.21,"col pos y":-7474.384,"col pos x":8556.507,"scale z":0.63,"col size y":5.849,"col orientation":0,"scale x":0.63}')
+SceneEditor:spawnShape("ju_s3_plante.shape", 8549.798, -7475.489, -5.553, 0, 0.26, 1, '{"col size x":5.976,"scale y":0.79,"col size z":3.21,"col pos y":-7475.489,"col pos x":8549.798,"scale z":0.68,"col size y":5.849,"col orientation":0,"scale x":0.79}')
+SceneEditor:spawnShape("ju_s3_plante.shape", 8539.939, -7444.138, -10.526, 0.02, 0.29, 0, '{"col size x":5.976,"scale y":0.84,"col size z":3.21,"col pos y":-7444.138,"col pos x":8539.939,"scale z":0.84,"col size y":5.849,"col orientation":-2.118,"scale x":0.84}')
+SceneEditor:spawnShape("ju_s3_plante.shape", 8542.671, -7435.919, 6.833, 0.66, 0, 0, '{"col size x":5.976,"scale y":0.65,"col size z":3.21,"col pos y":-7435.919,"col pos x":8542.671,"scale z":0.65,"col size y":5.849,"col orientation":0,"scale x":0.65}')
+SceneEditor:spawnShape("ju_s3_plante.shape", 8533.226, -7439.605, 5.419, -0.01, -0.91, 1.99, '{"col size x":5.976,"scale y":0.53,"col size z":3.21,"col pos y":-7439.605,"col pos x":8533.226,"scale z":0.53,"col size y":5.849,"col orientation":2.135,"scale x":0.53}')
+SceneEditor:spawnShape("ju_s3_plante.shape", 8563.777, -7435.339, -22.583, 0.36, 0.18, 1.23, '{"col size x":5.976,"scale y":0.56,"col size z":3.21,"col pos y":-7435.339,"col pos x":8563.777,"scale z":0.56,"col size y":5.849,"col orientation":0,"scale x":0.56}')
+SceneEditor:spawnShape("ju_s3_plante.shape", 8578.785, -7448.482, -26.597, -0.08, 0.72, 0.87, '{"col size x":5.976,"scale y":0.48,"col size z":3.21,"col pos y":-7448.482,"col pos x":8578.785,"scale z":0.48,"col size y":5.849,"col orientation":0,"scale x":0.48}')
+SceneEditor:spawnShape("ju_s3_plante.shape", 8565.095, -7442.228, -22.798, 0, 0.48, 0, '{"col size x":5.976,"scale y":0.55,"col size z":3.21,"col pos y":-7442.228,"col pos x":8565.095,"scale z":0.55,"col size y":5.849,"col orientation":0,"scale x":0.55}')
+SceneEditor:spawnShape("ju_s3_plante.shape", 8572.516, -7445.82, -26.397, -0.7, -0, -0.69, '{"col size x":5.976,"scale y":0.49,"col size z":3.21,"col pos y":-7445.82,"col pos x":8572.516,"scale z":0.49,"col size y":5.849,"col orientation":0,"scale x":0.49}')
+SceneEditor:spawnShape("ju_s3_plante.shape", 8570.502, -7435.513, -30.195, -0.7, 0.05, -1.97, '{"col size x":5.976,"scale y":0.54,"col size z":3.21,"col pos y":-7435.513,"col pos x":8570.502,"scale z":0.54,"col size y":5.849,"col orientation":0,"scale x":0.54}')
+SceneEditor:spawnShape("ju_s3_plante.shape", 8573.018, -7429.712, -28.985, 0.72, -0.08, 0.29, '{"col size x":5.976,"scale y":0.45,"col size z":3.21,"col pos y":-7429.712,"col pos x":8573.018,"scale z":0.45,"col size y":5.849,"col orientation":0,"scale x":0.45}')
+end
+
