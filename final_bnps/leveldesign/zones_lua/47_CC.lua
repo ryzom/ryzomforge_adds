@@ -1,4 +1,4 @@
-if computeCurrSeason == 2 then
+if computeCurrSeason() == 2 then
 SceneEditor:spawnShape("ju_s3_plante.shape", 8720.129, -7577.066, -19.293, 0.16, 0, 0, '{"col size x":5.976,"scale y":0.8,"col size z":3.21,"col pos y":-7577.066,"col pos x":8720.129,"scale z":0.8,"col size y":5.849,"col orientation":0.358,"scale x":0.8}')
 SceneEditor:spawnShape("ju_s3_plante.shape", 8741.477, -7587.524, -11.257, -0.34, -0.3, 0, '{"col size x":5.976,"scale y":0.62,"col size z":3.21,"col pos y":-7587.524,"col pos x":8741.477,"scale z":0.62,"col size y":5.849,"col orientation":-0.698,"scale x":0.62}')
 SceneEditor:spawnShape("ju_s3_plante.shape", 8678.131, -7572.926, -18.159, 0.1, 0.23, 0, '{"col size x":5.976,"scale y":0.69,"col size z":3.21,"col pos y":-7572.926,"col pos x":8678.131,"scale z":0.69,"col size y":5.849,"col orientation":0,"scale x":0.69}')

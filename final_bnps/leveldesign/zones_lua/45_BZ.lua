@@ -1,4 +1,4 @@
-if computeCurrSeason == 4 then
+if computeCurrSeason() == 4 then
 SceneEditor:spawnShape("tr_s3_trumpet_a.shape", 8259.878, -7256.628, -23.491, 0.26, 0, 0.25, '{"scale x":1,"col pos y":-7256.628,"scale y":1,"col pos x":8259.878,"col size z":2.644,"col orientation":1.448,"col size y":2.13,"col size x":2.144,"scale z":1}')
 SceneEditor:spawnShape("tr_s3_trumpet_a.shape", 8275.247, -7263.837, -27.07, 0.21, 0, -0.94, '{"scale x":1,"col pos y":-7263.837,"scale y":1,"col pos x":8275.247,"col size z":2.644,"col orientation":0,"col size y":2.13,"col size x":2.144,"scale z":1}')
 SceneEditor:spawnShape("tr_s3_trumpet_a.shape", 8276.867, -7259.063, -20.57, 0.15, 0, -1.25, '{"scale x":1,"col pos y":-7259.063,"scale y":1,"col pos x":8276.867,"col size z":2.644,"col orientation":0,"col size y":2.13,"col size x":2.144,"scale z":1}')

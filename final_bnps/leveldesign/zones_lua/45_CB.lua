@@ -1,4 +1,4 @@
-if computeCurrSeason == 3 then
+if computeCurrSeason() == 3 then
 SceneEditor:spawnShape("fy_s2_coconuts_b.shape", 8568.697, -7257.081, -9.594, 0, 0, 0, '{"scale x":0.85,"col pos y":-7257.081,"col size y":5.428,"scale y":0.77,"col pos x":8568.697,"col size x":4.082,"col orientation":0,"scale z":0.77,"col size z":13.468}')
 SceneEditor:spawnShape("fy_s2_coconuts_b.shape", 8534.836, -7275.02, -10.006, 0, 0, -2.16, '{"scale x":0.62,"col pos y":-7275.02,"col size y":3.008,"scale y":0.62,"col pos x":8534.836,"col size x":3.722,"col orientation":0,"scale z":0.64,"col size z":13.468}')
 SceneEditor:spawnShape("fy_s2_coconuts_a.shape", 8532.839, -7266.345, -10.471, 0, 0, -0.58, '{"scale x":0.63,"col pos y":-7266.345,"col size y":1.434,"scale y":0.63,"col pos x":8532.839,"col size x":-3.662,"col orientation":2.5844421002504e+185,"scale z":0.63,"col size z":13.485}')

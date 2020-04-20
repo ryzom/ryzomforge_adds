@@ -1,4 +1,4 @@
-if computeCurrSeason == 3 then
+if computeCurrSeason() == 3 then
 SceneEditor:spawnShape("fy_wea_epee2m.ps", 8730.044, -7411.772, -20.016, 0, 0, 0, '{"scale x":3.97,"col pos y":-7411.772,"col size y":1.243,"scale y":3.97,"col pos x":8730.044,"col size x":1.648,"col orientation":0,"scale z":3.97,"col size z":2.778}')
 SceneEditor:spawnShape("fy-polendesert.ps", 8731.454, -7423.729, -14.676, 0, 0, 0, '{"scale x":1,"col pos y":-7411.979,"col size y":4.911,"scale y":1,"col pos x":8729.827,"col size x":9.023,"col orientation":3.096,"scale z":1,"col size z":4.247}')
 SceneEditor:spawnShape("fy_s2_savantree_b.shape", 8747.605, -7416.832, -9.052, 0, 0, 0, '{"scale x":0.33,"col pos y":-7416.832,"col size y":2.29,"scale y":0.33,"col pos x":8747.605,"col size x":2.357,"col orientation":0,"scale z":0.33,"col size z":10.293}')
