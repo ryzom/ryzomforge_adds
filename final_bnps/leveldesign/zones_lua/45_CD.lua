@@ -1,4 +1,4 @@
-if computeCurrSeason == 4 then
+if computeCurrSeason() == 4 then
 SceneEditor:spawnShape("tr_s2_palmtree_f.shape", 8952.179, -7257.768, 0.332, 0, 0.1, 0, '{"scale x":0.62,"col pos y":-7257.768,"scale y":0.62,"col pos x":8952.179,"col size z":19.267,"col orientation":0,"col size y":2.34,"col size x":2.116,"scale z":0.62}')
 SceneEditor:spawnShape("tr_s2_palmtree_b.shape", 8874.223, -7261.087, -0.395, -0.21, 0, 2.08, '{"scale x":0.72,"col pos y":-7261.087,"scale y":0.72,"col pos x":8874.223,"col size z":12.402,"col orientation":0,"col size y":7.134,"col size x":12.203,"scale z":0.72}')
 SceneEditor:spawnShape("tr_s2_palmtree_c.shape", 8871.521, -7254.671, -0.676, 0, -0.23, 0.32, '{"scale x":0.67,"col pos y":-7254.671,"scale y":0.67,"col pos x":8871.521,"col size z":16.228,"col orientation":0,"col size y":7.553,"col size x":12.203,"scale z":0.67}')
