@@ -34218,7 +34218,7 @@ LEAGUE_INVITOR_NOT_LEADER ()
 }
 
 // HASH_VALUE 8FD6CB6B10B80ED5
-LEAGUE_PROPOSALL (player p)
+LEAGUE_PROPOSAL (player p)
 {
 	(p.gender = male)
 		league_proposal_m	[$p$ offers you to join his league.]

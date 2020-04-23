@@ -3147,7 +3147,7 @@ LEAGUE_ALREADY_IN_LEAGUE()
 {
 	[&CHK& Your target is already in a league]
 }
-LEAGUE_PROPOSALL(player p)
+LEAGUE_PROPOSAL(player p)
 {
 	(p.gender = male)
 		league_proposal_m	[$p$ offers you to join his league.]
