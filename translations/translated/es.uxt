@@ -6295,7 +6295,7 @@ uiPvPEffect_region_restingwater_Malus	[@{FE7F}Base de Aguas Tranquilas @{FFFF}:\
 
 // HASH_VALUE DB10BD4E5027D67E
 // INDEX 1523
-uiPvPEffect_region_dewdrops_Bonus	[@{FE7F}Base de Gotas de Rocío{FFFF}:\n
+uiPvPEffect_region_dewdrops_Bonus	[@{FE7F}Base de Gotas de Rocío @{FFFF}:\n
 	Aumenta la voluntad en un @{2F2F}%n]
 
 // HASH_VALUE D09AFB32C570750B
@@ -24083,7 +24083,7 @@ uittIdentitySap	[@{6F6F}Savia@{FFFF} %n\n
 
 // HASH_VALUE 96475BB346DF4BF2
 // INDEX 5727
-uittIdentitySta	[@{6F6F}Resistencia{FFFF} %n\n
+uittIdentitySta	[@{6F6F}Resistencia@{FFFF} %n\n
 	Cuando tu nivel de resistencia es muy bajo, ya no puedes llevar a cabo ataques especiales y tendrás que usar ataque por defecto hasta que tu resistencia esté regenerada.]
 
 // HASH_VALUE 5429E1693D81762D
@@ -24207,7 +24207,7 @@ uittGaugesSap	[@{6F6F}Savia@{FFFF}:\n
 
 // HASH_VALUE BCFAB72720F87E38
 // INDEX 5755
-uittGaugesSta	[@{6F6F}Resistencia{FFFF}:\n
+uittGaugesSta	[@{6F6F}Resistencia@{FFFF}:\n
 	Cuando tu nivel de resistencia es muy bajo, ya no puedes llevar a cabo ataques especiales y tendrás que usar ataque por defecto hasta que tu resistencia esté regenerada.]
 
 // HASH_VALUE 21A49D1370B3A93A
