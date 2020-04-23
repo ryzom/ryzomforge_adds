@@ -23867,7 +23867,7 @@ uiMk_action2_1	[De pie]
 
 // HASH_VALUE C3B320EC18D4D541
 // INDEX 5677
-uiMk_action2_1_tt	[Estás @{6F6F}De pie {FFFF}.\n
+uiMk_action2_1_tt	[Estás @{6F6F}De pie@{FFFF}.\n
 	Sentarse regenera tu salud, resistencia, savia y concentración dos veces más rápido.\n
 	Click para sentarse.]
 
