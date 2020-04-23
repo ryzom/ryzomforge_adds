@@ -1526,7 +1526,7 @@ uiUnpackErrHead	[No se puede leer el encabezamiento bnp:]
 
 // HASH_VALUE 3EC17830B80D1B1D
 // INDEX 381
-uiRebootConfirm	[Ryzom ahora se volverá a ejecutar. Por favor espere hasta que Ryzom se haya restablecido completamente.]
+uiRebootConfirm	[Ryzom volverá a ejecutar. Por favor esperé que haya restablecido completamente.]
 
 // HASH_VALUE 809F582A06023625
 // INDEX 382
