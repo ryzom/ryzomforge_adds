@@ -814,10 +814,10 @@ _57E64032FBC727C1	icfalp_3	Pantalon Hobenyx	un	le	Pantalons Hobenyx	des	les
 _38D784E87DF7744A	icfals_3	Manches Hobenyx	des	les	Manches Hobenyx	des	les
 _AB35A1E89F834039	icfalv_3	Gilet Hobenyx	un	le	Gilets Hobenyx	des	les
 _1AC7C9D0FB90EBC4	icfamb_3	Bottes Rilonyx	des	les	Bottes Rilonyx	des	les
-_1E50F4C7EED690CC	icfamg_3	Gants Rilonyx	des	les	Gants Rilonsyx	des	les
-_9F3711E8FB9023CE	icfamp_3	Pantalon Rilonyx	un	le	Pantalons Rilonsyx	des	les
-_BF66B0EEBB28697E	icfams_3	Manches Rilonyx	des	les	Manches Rilonsyx	des	les
-_EF56AD328A8340C6	icfamv_3	Gilet Rilonyx	un	le	Gilets Rilonsyx	des	les
+_1E50F4C7EED690CC	icfamg_3	Gants Rilonyx	des	les	Gants Rilonyx	des	les
+_9F3711E8FB9023CE	icfamp_3	Pantalon Rilonyx	un	le	Pantalons Rilonyx	des	les
+_BF66B0EEBB28697E	icfams_3	Manches Rilonyx	des	les	Manches Rilonyx	des	les
+_EF56AD328A8340C6	icfamv_3	Gilet Rilonyx	un	le	Gilets Rilonyx	des	les
 _8206D96E2FF36D1E	icfm1bm_3	Massue Massonyx	une	la	Massues Massonyx	des	les
 _242D59283356951C	icfm1bs_3	Bâton Talusyx	un	le	Bâtons Talusyx	des	les
 _DFE740E144382563	icfm1pd_3	Dague Jabyx	une	la	Dagues Jabyx	des	les
