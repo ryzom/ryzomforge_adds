@@ -65651,11 +65651,11 @@ TEMPLATE_TASK_VISIT_PLACE_INTRO_1 (bot giver, place op1, int reward, int timelim
 
 	(reward > 0 & timelimit > 0)
 		template_task_visit_place_intro_1_money_timed	[Ich muss wissen, was $op1.pp$ $op1$ vor sich geht. Wenn Du dahin gehst, zahle ich Dir $reward$ Dapper.\n
-			Doch beeil Dich sich, es ist sehr dringend!]
+			Doch beeil Dich, es ist sehr dringend!]
 
 	(timelimit > 0)
 		template_task_visit_place_intro_1_fame_timed	[Ich muss wissen, was $op1.pp$ $op1$ vor sich geht. Wenn Du dahin gehst, werden Dir $f.mda$ $f.member$ dafür dankbar sein.\n
-			Doch beeil Dich sich, es ist sehr dringend!]
+			Doch beeil Dich, es ist sehr dringend!]
 
 		template_task_visit_place_intro_1_fame	[Ich muss wissen, was $op1.pp$ $op1$ vor sich geht. Wenn Du dahin gehst, werden Dir $f.mda$ $f.member$  dafür dankbar sein.]
 
@@ -65669,11 +65669,11 @@ TEMPLATE_TASK_VISIT_PLACE_INTRO_2 (bot giver, place op1, place op2, int reward, 
 
 	(reward > 0 & timelimit > 0)
 		template_task_visit_place_intro_2_money_timed	[Ich muss wissen, was $op1.pp$ $op1$ und $op2.pp$ $op2$ vor sich geht. Wenn Du dahin gehst, zahle ich Dir $reward$ Dapper.\n
-			Doch beeil Dich sich, es ist sehr dringend!]
+			Doch beeil Dich, es ist sehr dringend!]
 
 	(timelimit > 0)
 		template_task_visit_place_intro_2_fame_timed	[Ich muss wissen, was $op1.pp$ $op1$ und $op2.pp$ $op2$ vor sich geht. Wenn Du dahin gehst, werden Dir $f.mda$ $f.member$ sehr dankbar dafür sein.\n
-			Doch beeil Dich sich, es ist sehr dringend!]
+			Doch beeil Dich, es ist sehr dringend!]
 
 		template_task_visit_place_intro_2_fame	[Ich muss wissen, was $op1.pp$ $op1$ und $op2.pp$ $op2$ vor sich geht. Wenn Du dahin gehst, werden Dir $f.mda$ $f.member$ sehr dankbar dafür sein.]
 
@@ -65687,11 +65687,11 @@ TEMPLATE_TASK_VISIT_PLACE_INTRO_3 (bot giver, place op1, place op2, place op3, i
 
 	(reward > 0 & timelimit > 0)
 		template_task_visit_place_intro_3_money_timed	[Ich muss wissen, was $op1.pp$  $op1$, $op2.pp$ $op2$ und $op3.pp$ $op3$ vor sich geht. Wenn Du dahin gehst, zahle ich Dir $reward$ Dapper.\n
-			Doch beeilen Sie sich, es ist sehr dringend!]
+			Doch beeilen Dich, es ist sehr dringend!]
 
 	(timelimit > 0)
 		template_task_visit_place_intro_3_fame_timed	[Ich muss wissen, was $op1.pp$  $op1$, $op2.pp$ $op2$ und $op3.pp$ $op3$ vor sich geht. Wenn Du dahin gehst, werden Dir $f.mda$ $f.member$ sehr dankbar dafür sein.\n
-			Doch beeil Dich sich, es ist sehr dringend!]
+			Doch beeil Dich, es ist sehr dringend!]
 
 		template_task_visit_place_intro_3_fame	[Ich muss wissen, was in $op1.pp$  $op1$, $op2.pp$ $op2$ und $op3.pp$ $op3$ vor sich geht. Wenn Du dahin gehst, werden Dir $f.mda$ $f.member$ sehr dankbar dafür sein.]
 
