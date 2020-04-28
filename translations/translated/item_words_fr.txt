@@ -814,10 +814,10 @@ _57E64032FBC727C1	icfalp_3	Pantalon Hobenyx	un	le	Pantalons Hobenyx	des	les
 _38D784E87DF7744A	icfals_3	Manches Hobenyx	des	les	Manches Hobenyx	des	les
 _AB35A1E89F834039	icfalv_3	Gilet Hobenyx	un	le	Gilets Hobenyx	des	les
 _1AC7C9D0FB90EBC4	icfamb_3	Bottes Rilonyx	des	les	Bottes Rilonyx	des	les
-_1E50F4C7EED690CC	icfamg_3	Gants Rilonyx	des	les	Gants Rilonsyx	des	les
-_9F3711E8FB9023CE	icfamp_3	Pantalon Rilonyx	un	le	Pantalons Rilonsyx	des	les
-_BF66B0EEBB28697E	icfams_3	Manches Rilonyx	des	les	Manches Rilonsyx	des	les
-_EF56AD328A8340C6	icfamv_3	Gilet Rilonyx	un	le	Gilets Rilonsyx	des	les
+_1E50F4C7EED690CC	icfamg_3	Gants Rilonyx	des	les	Gants Rilonyx	des	les
+_9F3711E8FB9023CE	icfamp_3	Pantalon Rilonyx	un	le	Pantalons Rilonyx	des	les
+_BF66B0EEBB28697E	icfams_3	Manches Rilonyx	des	les	Manches Rilonyx	des	les
+_EF56AD328A8340C6	icfamv_3	Gilet Rilonyx	un	le	Gilets Rilonyx	des	les
 _8206D96E2FF36D1E	icfm1bm_3	Massue Massonyx	une	la	Massues Massonyx	des	les
 _242D59283356951C	icfm1bs_3	Bâton Talusyx	un	le	Bâtons Talusyx	des	les
 _DFE740E144382563	icfm1pd_3	Dague Jabyx	une	la	Dagues Jabyx	des	les
@@ -5801,9 +5801,9 @@ _A89416C902E63B12	zo_hom_hair_style03	Coupe stylée  - Tresses Longues	une	la	Co
 _863B8907E2F56AA5	zo_hom_hair_style04	Coupe stylée  - Façon Dreadlocks	une	la	Coupes stylées  - Façon Dreadlocks	des	les
 _7C20A0EE31BFBF31	zo_hom_hair_style05	Coupe stylée - Automnale
 _81A22678035CE9F0	ic_candy_stick	Sucre d'Orge	un	le	Sucres d'Orge	des	les
-_6DF6933D6FDB589D	if1	Botte de fourrage basique	une	la	Bottes de fourrage basiques	des	les	Cet objet doit être placé dans l'inventaire de votre animal pour qu'il puisse l'utiliser. Lorsqu'il aura faim	 il le consommera automatiquement	 régénérant ainsi 500 Points de Satiété.
-_AC545FA407698E0E	if2	Botte de fourrage concentrée	une	la	Bottes de fourrage concentrées	des	les	Cet objet doit être placé dans l'inventaire de votre animal pour qu'il puisse l'utiliser. Lorsqu'il aura faim	 il le consommera automatiquement	 régénérant ainsi 500 Points de Satiété.
-_D70F815824F8AC0A	if3	Petite botte de fourrage 	une	la	Petites bottes de fourrage	des	les	Cet objet doit être placé dans l'inventaire de votre animal pour qu'il puisse l'utiliser. Lorsqu'il aura faim	 il le consommera automatiquement	 régénérant ainsi 300 Points de Satiété.
+_6DF6933D6FDB589D	if1	Botte de fourrage basique	une	la	Bottes de fourrage basiques	des	les	Cet objet doit être placé dans l'inventaire de votre animal pour qu'il puisse l'utiliser. Lorsqu'il aura faim il le consommera automatiquement régénérant ainsi 500 Points de Satiété.
+_AC545FA407698E0E	if2	Botte de fourrage concentrée	une	la	Bottes de fourrage concentrées	des	les	Cet objet doit être placé dans l'inventaire de votre animal pour qu'il puisse l'utiliser. Lorsqu'il aura faim il le consommera automatiquement régénérant ainsi 500 Points de Satiété.
+_D70F815824F8AC0A	if3	Petite botte de fourrage 	une	la	Petites bottes de fourrage	des	les	Cet objet doit être placé dans l'inventaire de votre animal pour qu'il puisse l'utiliser. Lorsqu'il aura faim il le consommera automatiquement régénérant ainsi 300 Points de Satiété.
 _A84322F366A92232	issf1	Service 'Nourrir Animal #1'	un	le	Services 'Nourrir Animal #1'	des	les	Le garçon d'étable vous propose de nourrir votre animal #1. Votre animal sera rassasié.
 _A84322F3A6C92233	issf2	Service 'Nourrir Animal #2'	un	le	Services 'Nourrir Animal #2'	des	les	Le garçon d'étable vous propose de nourrir votre animal #2. Votre animal sera rassasié.
 _A84322F3E6E92234	issf3	Service 'Nourrir Animal #3'	un	le	Services 'Nourrir Animal #3'	des	les	Le garçon d'étable vous propose de nourrir votre animal #3. Votre animal sera rassasié.

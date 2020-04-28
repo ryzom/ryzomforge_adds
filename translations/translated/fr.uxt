@@ -1,4 +1,4 @@
-// HASH_VALUE 6B09AC86E0363C89
+﻿// HASH_VALUE 6B09AC86E0363C89
 // INDEX 0
 LanguageName	[Français]
 
@@ -27906,7 +27906,7 @@ uiitYrkanis	[yrkanis]
 
 // HASH_VALUE F25F5861435C0FC9
 // INDEX 6639
-uiMP3SoundDisabled	[Media player requires sound to be enabled]
+uiMP3SoundDisabled	[Le son du lecteur MP3 doit être activé]
 
 // HASH_VALUE 5625C0951A26AC98
 // INDEX 6640
