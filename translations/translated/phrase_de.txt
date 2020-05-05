@@ -184,6 +184,13 @@ ANSWER_NO ()
 
 }
 
+// HASH_VALUE 7EFC12A90EF88F85
+ANSWER_NO_DISCOUNT ()
+{
+		answer_no_discount	[Kein Rabatt? Egal, ich komme später wieder.]
+
+}
+
 // HASH_VALUE AB3950B1A2380081
 ANSWER_OK ()
 {
@@ -293,10 +300,10 @@ BAG_FULL (int qty)
 
 }
 
-// HASH_VALUE 6CEDB3B27CF4AFA7
+// HASH_VALUE EDC0CB6DC5EA60A9
 BOSS_MAINLAND_CRAFTPART1A_DIAG1 ()
 {
-		boss_mainland_craftpart1a_diag1	[Wenn du mich bezahlst und mir alle Teile übergibst, dann beginne ich sofort mit der Arbeit.]
+		boss_mainland_craftpart1a_diag1	[Wenn du mich bezahlst und mir alle Teile gibst, gehe ich sofort an die Arbeit. Die Aufgabe ist komplex und 15 Millionen Dapper wert. Es gibt keine Rückerstattung, sobald ich angefangen habe.]
 
 }
 
@@ -337,10 +344,10 @@ BOSS_MAINLAND_CRAFTPART1A_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B37CF4AFA7
+// HASH_VALUE EDC0CB6EC5EA60A9
 BOSS_MAINLAND_CRAFTPART1B_DIAG1 ()
 {
-		boss_mainland_craftpart1b_diag1	[Wenn du mich bezahlst und mir alle Teile übergibst, dann beginne ich sofort mit der Arbeit.]
+		boss_mainland_craftpart1b_diag1	[Wenn du mich bezahlst und mir alle Teile gibst, gehe ich sofort an die Arbeit. Die Aufgabe ist komplex und 15 Millionen Dapper wert. Es gibt keine Rückerstattung, sobald ich angefangen habe.]
 
 }
 
@@ -381,10 +388,10 @@ BOSS_MAINLAND_CRAFTPART1B_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B47CF4AFA7
+// HASH_VALUE EDC0CB6FC5EA60A9
 BOSS_MAINLAND_CRAFTPART1C_DIAG1 ()
 {
-		boss_mainland_craftpart1c_diag1	[Wenn du mich bezahlst und mir alle Teile übergibst, dann beginne ich sofort mit der Arbeit.]
+		boss_mainland_craftpart1c_diag1	[Wenn du mich bezahlst und mir alle Teile gibst, gehe ich sofort an die Arbeit. Die Aufgabe ist komplex und 15 Millionen Dapper wert. Es gibt keine Rückerstattung, sobald ich angefangen habe.]
 
 }
 
@@ -425,10 +432,10 @@ BOSS_MAINLAND_CRAFTPART1C_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B57CF4AFA7
+// HASH_VALUE EDC0CB70C5EA60A9
 BOSS_MAINLAND_CRAFTPART1D_DIAG1 ()
 {
-		boss_mainland_craftpart1d_diag1	[Wenn du mich bezahlst und mir alle Teile übergibst, dann beginne ich sofort mit der Arbeit.]
+		boss_mainland_craftpart1d_diag1	[Wenn du mich bezahlst und mir alle Teile gibst, gehe ich sofort an die Arbeit. Die Aufgabe ist komplex und 15 Millionen Dapper wert. Es gibt keine Rückerstattung, sobald ich angefangen habe.]
 
 }
 
@@ -469,10 +476,10 @@ BOSS_MAINLAND_CRAFTPART1D_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B67CF4AFA7
+// HASH_VALUE EDC0CB71C5EA60A9
 BOSS_MAINLAND_CRAFTPART1E_DIAG1 ()
 {
-		boss_mainland_craftpart1e_diag1	[Wenn du mich bezahlst und mir alle Teile übergibst, dann beginne ich sofort mit der Arbeit.]
+		boss_mainland_craftpart1e_diag1	[Wenn du mich bezahlst und mir alle Teile gibst, gehe ich sofort an die Arbeit. Die Aufgabe ist komplex und 15 Millionen Dapper wert. Es gibt keine Rückerstattung, sobald ich angefangen habe.]
 
 }
 
@@ -513,10 +520,10 @@ BOSS_MAINLAND_CRAFTPART1E_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B2BCF4AFA7
+// HASH_VALUE EDC0CB6D05EA60A9
 BOSS_MAINLAND_CRAFTPART2A_DIAG1 ()
 {
-		boss_mainland_craftpart2a_diag1	[Wenn du mich bezahlst und mir alle Teile übergibst, dann beginne ich sofort mit der Arbeit.]
+		boss_mainland_craftpart2a_diag1	[Wenn du mich bezahlst und mir alle Teile gibst, gehe ich sofort an die Arbeit. Die Aufgabe ist komplex und 15 Millionen Dapper wert. Es gibt keine Rückerstattung, sobald ich angefangen habe.]
 
 }
 
@@ -557,10 +564,10 @@ BOSS_MAINLAND_CRAFTPART2A_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B3BCF4AFA7
+// HASH_VALUE EDC0CB6E05EA60A9
 BOSS_MAINLAND_CRAFTPART2B_DIAG1 ()
 {
-		boss_mainland_craftpart2b_diag1	[Wenn du mich bezahlst und mir alle Teile übergibst, dann beginne ich sofort mit der Arbeit.]
+		boss_mainland_craftpart2b_diag1	[Wenn du mich bezahlst und mir alle Teile gibst, gehe ich sofort an die Arbeit. Die Aufgabe ist komplex und 15 Millionen Dapper wert. Es gibt keine Rückerstattung, sobald ich angefangen habe.]
 
 }
 
@@ -601,10 +608,10 @@ BOSS_MAINLAND_CRAFTPART2B_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B4BCF4AFA7
+// HASH_VALUE EDC0CB6F05EA60A9
 BOSS_MAINLAND_CRAFTPART2C_DIAG1 ()
 {
-		boss_mainland_craftpart2c_diag1	[Wenn du mich bezahlst und mir alle Teile übergibst, dann beginne ich sofort mit der Arbeit.]
+		boss_mainland_craftpart2c_diag1	[Wenn du mich bezahlst und mir alle Teile gibst, gehe ich sofort an die Arbeit. Die Aufgabe ist komplex und 15 Millionen Dapper wert. Es gibt keine Rückerstattung, sobald ich angefangen habe.]
 
 }
 
@@ -645,10 +652,10 @@ BOSS_MAINLAND_CRAFTPART2C_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B5BCF4AFA7
+// HASH_VALUE EDC0CB7005EA60A9
 BOSS_MAINLAND_CRAFTPART2D_DIAG1 ()
 {
-		boss_mainland_craftpart2d_diag1	[Wenn du mich bezahlst und mir alle Teile übergibst, dann beginne ich sofort mit der Arbeit.]
+		boss_mainland_craftpart2d_diag1	[Wenn du mich bezahlst und mir alle Teile gibst, gehe ich sofort an die Arbeit. Die Aufgabe ist komplex und 15 Millionen Dapper wert. Es gibt keine Rückerstattung, sobald ich angefangen habe.]
 
 }
 
@@ -689,10 +696,10 @@ BOSS_MAINLAND_CRAFTPART2D_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B6BCF4AFA7
+// HASH_VALUE EDC0CB7105EA60A9
 BOSS_MAINLAND_CRAFTPART2E_DIAG1 ()
 {
-		boss_mainland_craftpart2e_diag1	[Wenn du mich bezahlst und mir alle Teile übergibst, dann beginne ich sofort mit der Arbeit.]
+		boss_mainland_craftpart2e_diag1	[Wenn du mich bezahlst und mir alle Teile gibst, gehe ich sofort an die Arbeit. Die Aufgabe ist komplex und 15 Millionen Dapper wert. Es gibt keine Rückerstattung, sobald ich angefangen habe.]
 
 }
 
@@ -733,10 +740,10 @@ BOSS_MAINLAND_CRAFTPART2E_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B2FCF4AFA7
+// HASH_VALUE EDC0CB6D45EA60A9
 BOSS_MAINLAND_CRAFTPART3A_DIAG1 ()
 {
-		boss_mainland_craftpart3a_diag1	[Wenn du mich bezahlst und mir alle Teile übergibst, dann beginne ich sofort mit der Arbeit.]
+		boss_mainland_craftpart3a_diag1	[Wenn du mich bezahlst und mir alle Teile gibst, gehe ich sofort an die Arbeit. Die Aufgabe ist komplex und 15 Millionen Dapper wert. Es gibt keine Rückerstattung, sobald ich angefangen habe.]
 
 }
 
@@ -777,10 +784,10 @@ BOSS_MAINLAND_CRAFTPART3A_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B3FCF4AFA7
+// HASH_VALUE EDC0CB6E45EA60A9
 BOSS_MAINLAND_CRAFTPART3B_DIAG1 ()
 {
-		boss_mainland_craftpart3b_diag1	[Wenn du mich bezahlst und mir alle Teile übergibst, dann beginne ich sofort mit der Arbeit.]
+		boss_mainland_craftpart3b_diag1	[Wenn du mich bezahlst und mir alle Teile gibst, gehe ich sofort an die Arbeit. Die Aufgabe ist komplex und 15 Millionen Dapper wert. Es gibt keine Rückerstattung, sobald ich angefangen habe.]
 
 }
 
@@ -821,10 +828,10 @@ BOSS_MAINLAND_CRAFTPART3B_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B4FCF4AFA7
+// HASH_VALUE EDC0CB6F45EA60A9
 BOSS_MAINLAND_CRAFTPART3C_DIAG1 ()
 {
-		boss_mainland_craftpart3c_diag1	[Wenn du mich bezahlst und mir alle Teile übergibst, dann beginne ich sofort mit der Arbeit.]
+		boss_mainland_craftpart3c_diag1	[Wenn du mich bezahlst und mir alle Teile gibst, gehe ich sofort an die Arbeit. Die Aufgabe ist komplex und 15 Millionen Dapper wert. Es gibt keine Rückerstattung, sobald ich angefangen habe.]
 
 }
 
@@ -865,10 +872,10 @@ BOSS_MAINLAND_CRAFTPART3C_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B5FCF4AFA7
+// HASH_VALUE EDC0CB7045EA60A9
 BOSS_MAINLAND_CRAFTPART3D_DIAG1 ()
 {
-		boss_mainland_craftpart3d_diag1	[Wenn du mich bezahlst und mir alle Teile übergibst, dann beginne ich sofort mit der Arbeit.]
+		boss_mainland_craftpart3d_diag1	[Wenn du mich bezahlst und mir alle Teile gibst, gehe ich sofort an die Arbeit. Die Aufgabe ist komplex und 15 Millionen Dapper wert. Es gibt keine Rückerstattung, sobald ich angefangen habe.]
 
 }
 
@@ -909,10 +916,10 @@ BOSS_MAINLAND_CRAFTPART3D_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B6FCF4AFA7
+// HASH_VALUE EDC0CB7145EA60A9
 BOSS_MAINLAND_CRAFTPART3E_DIAG1 ()
 {
-		boss_mainland_craftpart3e_diag1	[Wenn du mich bezahlst und mir alle Teile übergibst, dann beginne ich sofort mit der Arbeit.]
+		boss_mainland_craftpart3e_diag1	[Wenn du mich bezahlst und mir alle Teile gibst, gehe ich sofort an die Arbeit. Die Aufgabe ist komplex und 15 Millionen Dapper wert. Es gibt keine Rückerstattung, sobald ich angefangen habe.]
 
 }
 
@@ -953,10 +960,10 @@ BOSS_MAINLAND_CRAFTPART3E_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B23DF4AFA7
+// HASH_VALUE EDC0CB6D86EA60A9
 BOSS_MAINLAND_CRAFTPART4A_DIAG1 ()
 {
-		boss_mainland_craftpart4a_diag1	[Wenn du mich bezahlst und mir alle Teile übergibst, dann beginne ich sofort mit der Arbeit.]
+		boss_mainland_craftpart4a_diag1	[Wenn du mich bezahlst und mir alle Teile gibst, gehe ich sofort an die Arbeit. Die Aufgabe ist komplex und 15 Millionen Dapper wert. Es gibt keine Rückerstattung, sobald ich angefangen habe.]
 
 }
 
@@ -997,10 +1004,10 @@ BOSS_MAINLAND_CRAFTPART4A_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B33DF4AFA7
+// HASH_VALUE EDC0CB6E86EA60A9
 BOSS_MAINLAND_CRAFTPART4B_DIAG1 ()
 {
-		boss_mainland_craftpart4b_diag1	[Wenn du mich bezahlst und mir alle Teile übergibst, dann beginne ich sofort mit der Arbeit.]
+		boss_mainland_craftpart4b_diag1	[Wenn du mich bezahlst und mir alle Teile gibst, gehe ich sofort an die Arbeit. Die Aufgabe ist komplex und 15 Millionen Dapper wert. Es gibt keine Rückerstattung, sobald ich angefangen habe.]
 
 }
 
@@ -1041,10 +1048,10 @@ BOSS_MAINLAND_CRAFTPART4B_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B43DF4AFA7
+// HASH_VALUE EDC0CB6F86EA60A9
 BOSS_MAINLAND_CRAFTPART4C_DIAG1 ()
 {
-		boss_mainland_craftpart4c_diag1	[Wenn du mich bezahlst und mir alle Teile übergibst, dann beginne ich sofort mit der Arbeit.]
+		boss_mainland_craftpart4c_diag1	[Wenn du mich bezahlst und mir alle Teile gibst, gehe ich sofort an die Arbeit. Die Aufgabe ist komplex und 15 Millionen Dapper wert. Es gibt keine Rückerstattung, sobald ich angefangen habe.]
 
 }
 
@@ -1085,10 +1092,10 @@ BOSS_MAINLAND_CRAFTPART4C_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B53DF4AFA7
+// HASH_VALUE EDC0CB7086EA60A9
 BOSS_MAINLAND_CRAFTPART4D_DIAG1 ()
 {
-		boss_mainland_craftpart4d_diag1	[Wenn du mich bezahlst und mir alle Teile übergibst, dann beginne ich sofort mit der Arbeit.]
+		boss_mainland_craftpart4d_diag1	[Wenn du mich bezahlst und mir alle Teile gibst, gehe ich sofort an die Arbeit. Die Aufgabe ist komplex und 15 Millionen Dapper wert. Es gibt keine Rückerstattung, sobald ich angefangen habe.]
 
 }
 
@@ -1129,10 +1136,10 @@ BOSS_MAINLAND_CRAFTPART4D_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B63DF4AFA7
+// HASH_VALUE EDC0CB7186EA60A9
 BOSS_MAINLAND_CRAFTPART4E_DIAG1 ()
 {
-		boss_mainland_craftpart4e_diag1	[Wenn du mich bezahlst und mir alle Teile übergibst, dann beginne ich sofort mit der Arbeit.]
+		boss_mainland_craftpart4e_diag1	[Wenn du mich bezahlst und mir alle Teile gibst, gehe ich sofort an die Arbeit. Die Aufgabe ist komplex und 15 Millionen Dapper wert. Es gibt keine Rückerstattung, sobald ich angefangen habe.]
 
 }
 
@@ -1173,10 +1180,10 @@ BOSS_MAINLAND_CRAFTPART4E_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B27DF4AFA7
+// HASH_VALUE EDC0CB6DC6EA60A9
 BOSS_MAINLAND_CRAFTPART5A_DIAG1 ()
 {
-		boss_mainland_craftpart5a_diag1	[Wenn du mich bezahlst und mir alle Teile übergibst, dann beginne ich sofort mit der Arbeit.]
+		boss_mainland_craftpart5a_diag1	[Wenn du mich bezahlst und mir alle Teile gibst, gehe ich sofort an die Arbeit. Die Aufgabe ist komplex und 15 Millionen Dapper wert. Es gibt keine Rückerstattung, sobald ich angefangen habe.]
 
 }
 
@@ -1217,10 +1224,10 @@ BOSS_MAINLAND_CRAFTPART5A_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B37DF4AFA7
+// HASH_VALUE EDC0CB6EC6EA60A9
 BOSS_MAINLAND_CRAFTPART5B_DIAG1 ()
 {
-		boss_mainland_craftpart5b_diag1	[Wenn du mich bezahlst und mir alle Teile übergibst, dann beginne ich sofort mit der Arbeit.]
+		boss_mainland_craftpart5b_diag1	[Wenn du mich bezahlst und mir alle Teile gibst, gehe ich sofort an die Arbeit. Die Aufgabe ist komplex und 15 Millionen Dapper wert. Es gibt keine Rückerstattung, sobald ich angefangen habe.]
 
 }
 
@@ -1261,10 +1268,10 @@ BOSS_MAINLAND_CRAFTPART5B_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B47DF4AFA7
+// HASH_VALUE EDC0CB6FC6EA60A9
 BOSS_MAINLAND_CRAFTPART5C_DIAG1 ()
 {
-		boss_mainland_craftpart5c_diag1	[Wenn du mich bezahlst und mir alle Teile übergibst, dann beginne ich sofort mit der Arbeit.]
+		boss_mainland_craftpart5c_diag1	[Wenn du mich bezahlst und mir alle Teile gibst, gehe ich sofort an die Arbeit. Die Aufgabe ist komplex und 15 Millionen Dapper wert. Es gibt keine Rückerstattung, sobald ich angefangen habe.]
 
 }
 
@@ -1305,10 +1312,10 @@ BOSS_MAINLAND_CRAFTPART5C_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B57DF4AFA7
+// HASH_VALUE EDC0CB70C6EA60A9
 BOSS_MAINLAND_CRAFTPART5D_DIAG1 ()
 {
-		boss_mainland_craftpart5d_diag1	[Wenn du mich bezahlst und mir alle Teile übergibst, dann beginne ich sofort mit der Arbeit.]
+		boss_mainland_craftpart5d_diag1	[Wenn du mich bezahlst und mir alle Teile gibst, gehe ich sofort an die Arbeit. Die Aufgabe ist komplex und 15 Millionen Dapper wert. Es gibt keine Rückerstattung, sobald ich angefangen habe.]
 
 }
 
@@ -1349,10 +1356,10 @@ BOSS_MAINLAND_CRAFTPART5D_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B67DF4AFA7
+// HASH_VALUE EDC0CB71C6EA60A9
 BOSS_MAINLAND_CRAFTPART5E_DIAG1 ()
 {
-		boss_mainland_craftpart5e_diag1	[Wenn du mich bezahlst und mir alle Teile übergibst, dann beginne ich sofort mit der Arbeit.]
+		boss_mainland_craftpart5e_diag1	[Wenn du mich bezahlst und mir alle Teile gibst, gehe ich sofort an die Arbeit. Die Aufgabe ist komplex und 15 Millionen Dapper wert. Es gibt keine Rückerstattung, sobald ich angefangen habe.]
 
 }
 
@@ -1393,10 +1400,10 @@ BOSS_MAINLAND_CRAFTPART5E_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B2BDF4AFA7
+// HASH_VALUE EDC0CB6D06EA60A9
 BOSS_MAINLAND_CRAFTPART6A_DIAG1 ()
 {
-		boss_mainland_craftpart6a_diag1	[Wenn du mich bezahlst und mir alle Teile übergibst, dann beginne ich sofort mit der Arbeit.]
+		boss_mainland_craftpart6a_diag1	[Wenn du mich bezahlst und mir alle Teile gibst, gehe ich sofort an die Arbeit. Die Aufgabe ist komplex und 15 Millionen Dapper wert. Es gibt keine Rückerstattung, sobald ich angefangen habe.]
 
 }
 
@@ -1437,10 +1444,10 @@ BOSS_MAINLAND_CRAFTPART6A_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B3BDF4AFA7
+// HASH_VALUE EDC0CB6E06EA60A9
 BOSS_MAINLAND_CRAFTPART6B_DIAG1 ()
 {
-		boss_mainland_craftpart6b_diag1	[Wenn du mich bezahlst und mir alle Teile übergibst, dann beginne ich sofort mit der Arbeit.]
+		boss_mainland_craftpart6b_diag1	[Wenn du mich bezahlst und mir alle Teile gibst, gehe ich sofort an die Arbeit. Die Aufgabe ist komplex und 15 Millionen Dapper wert. Es gibt keine Rückerstattung, sobald ich angefangen habe.]
 
 }
 
@@ -1481,10 +1488,10 @@ BOSS_MAINLAND_CRAFTPART6B_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B4BDF4AFA7
+// HASH_VALUE EDC0CB6F06EA60A9
 BOSS_MAINLAND_CRAFTPART6C_DIAG1 ()
 {
-		boss_mainland_craftpart6c_diag1	[Wenn du mich bezahlst und mir alle Teile übergibst, dann beginne ich sofort mit der Arbeit.]
+		boss_mainland_craftpart6c_diag1	[Wenn du mich bezahlst und mir alle Teile gibst, gehe ich sofort an die Arbeit. Die Aufgabe ist komplex und 15 Millionen Dapper wert. Es gibt keine Rückerstattung, sobald ich angefangen habe.]
 
 }
 
@@ -1525,10 +1532,10 @@ BOSS_MAINLAND_CRAFTPART6C_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B5BDF4AFA7
+// HASH_VALUE EDC0CB7006EA60A9
 BOSS_MAINLAND_CRAFTPART6D_DIAG1 ()
 {
-		boss_mainland_craftpart6d_diag1	[Wenn du mich bezahlst und mir alle Teile übergibst, dann beginne ich sofort mit der Arbeit.]
+		boss_mainland_craftpart6d_diag1	[Wenn du mich bezahlst und mir alle Teile gibst, gehe ich sofort an die Arbeit. Die Aufgabe ist komplex und 15 Millionen Dapper wert. Es gibt keine Rückerstattung, sobald ich angefangen habe.]
 
 }
 
@@ -1569,10 +1576,10 @@ BOSS_MAINLAND_CRAFTPART6D_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B6BDF4AFA7
+// HASH_VALUE EDC0CB7106EA60A9
 BOSS_MAINLAND_CRAFTPART6E_DIAG1 ()
 {
-		boss_mainland_craftpart6e_diag1	[Wenn du mich bezahlst und mir alle Teile übergibst, dann beginne ich sofort mit der Arbeit.]
+		boss_mainland_craftpart6e_diag1	[Wenn du mich bezahlst und mir alle Teile gibst, gehe ich sofort an die Arbeit. Die Aufgabe ist komplex und 15 Millionen Dapper wert. Es gibt keine Rückerstattung, sobald ich angefangen habe.]
 
 }
 
@@ -5131,10 +5138,10 @@ COMBAT_ACTOR_FUMBLE ()
 COMBAT_ACTOR_HIT (entity e, int damage, int maxDamage)
 {
 	(maxDamage = 0 & damage > 1)
-		combat_actor_hit_p	[&DGM&Du verletzt $e.daa$ $e.nameda$ für $damage$ Schadenspunkte.]
+		combat_actor_hit_p	[&DGM&Du verletzt $e.daa$ $e.nameda$ mit $damage$ Schadenspunkten.]
 
 	(maxDamage = 0 & damage=1)
-		combat_actor_hit_1	[&DGM&Du verletzt $e.daa$ $e.nameda$ für einen Schadenspunkt.]
+		combat_actor_hit_1	[&DGM&Du verletzt $e.daa$ $e.nameda$ mit einen Schadenspunkt.]
 
 	(maxDamage = 0 & damage=0)
 		combat_actor_hit_0	[&DGM&Du triffst $e.daa$ $e.nameda$, richtest richtest keinen Schaden aus.]
@@ -5154,22 +5161,22 @@ COMBAT_ACTOR_HIT (entity e, int damage, int maxDamage)
 COMBAT_ACTOR_HIT_LOC (entity e, int damage, int maxDamage, bodypart b)
 {
 	(maxDamage = 0 & damage > 1)
-		combat_actor_hit_test_loc_p	[&DGM&Du triffst $b.daa$ $b$ $e.dag$ $e.pd$ für $damage$ Schadenspunkte.]
+		combat_actor_hit_test_loc_p	[&DGM&Du triffst $e.daa$ $e$ $b.pp$ $b.daa$ $b.nameda$ mit $damage$ Schadenspunkten.]
 
 	(maxDamage = 0 & damage = 1)
-		combat_actor_hit_test_loc_1	[&DGM&Du triffst $b.daa$ $b$ $e.dag$ $e.pd$ für einen Schadenspunkt.]
+		combat_actor_hit_test_loc_1	[&DGM&Du triffst $e.daa$ $e$ $b.pp$ $b.daa$ $b.nameda$ mit einem Schadenspunkt.]
 
 	(maxDamage = 0 & damage = 0)
-		combat_actor_hit_test_loc_0	[&DGM&Du triffst $b.daa$ $b$ $e.dag$ $e.pd$, verursachst aber keinen Schaden.]
+		combat_actor_hit_test_loc_0	[&DGM&Du triffst $e.daa$ $e$ $b.pp$ $b.daa$ $b.nameda$, verursachst aber keinen Schaden.]
 
 	(damage>1)
-		combat_actor_hit_test_loc_pm	[&DGM&Du triffst $b.daa$ $b$ $e.dag$ $e.pd$ für $damage$ ($maxDamage$) Schadenspunkte.]
+		combat_actor_hit_test_loc_pm	[&DGM&Du triffst $e.daa$ $e$ $b.pp$ $b.daa$ $b.nameda$ mit $damage$ ($maxDamage$) Schadenspunkten.]
 
 	(damage=1)
-		combat_actor_hit_test_loc_1m	[&DGM&Du triffst $b.daa$ $b$ $e.dag$ $e.pd$ für einen ($maxDamage$) Schadenspunkt.]
+		combat_actor_hit_test_loc_1m	[&DGM&Du triffst $e.daa$ $e$ $b.pp$ $b.daa$ $b.nameda$ mit einem Schadenspunkt ($maxDamage$).]
 
 	(damage=0)
-		combat_actor_hit_test_loc_0m	[&DGM&Du triffst $b.daa$ $b$ $e.dag$ $e.pd$, verursachst aber keinen Schaden ($maxDamage$).]
+		combat_actor_hit_test_loc_0m	[&DGM&Du triffst $e.daa$ $e$ $b.pp$ $b.daa$ $b.nameda$, verursachst aber keinen Schaden ($maxDamage$).]
 
 }
 
@@ -7987,7 +7994,7 @@ CWINTROZORAIFIN_POPUP_GUILD ()
 			\n
 			Mit einigen Dappern kann eine Gilde auch eine Gildenhalle erstehen, die es ihren Mitgliedern erlaubt, sich zu treffen und dort Gegenstände zu hinterlegen, auf die nur die Offiziere der Gilde Zugriff haben. \n
 			\n
-			Schließlich haben Gilden auch die Möglichkeit, die Kontrolle über einen oder mehrere außenposten von Atys zu übernehmen. Sie erlauben es, bestimmte Materialien zu fördern, an die man sonst nicht herankommt. Da die Anzahl der außenposten begrenzt ist, müssen die Gilden gegeneinander kämpfen, um einen zu ergattern und zu halten.]
+			Schließlich haben Gilden auch die Möglichkeit, die Kontrolle über einen oder mehrere Außenposten von Atys zu übernehmen. Sie erlauben es, bestimmte Materialien zu fördern, an die man sonst nicht herankommt. Da die Anzahl der Außenposten begrenzt ist, müssen die Gilden gegeneinander kämpfen, um einen zu ergattern und zu halten.]
 
 }
 
@@ -8085,7 +8092,7 @@ CWINTROZORAI_OUTOFROOM_PHRASE (bot givervar)
 // HASH_VALUE 516EDC4C5A923D2D
 CWINTROZORAI_SHOPS_LOW_SYSMES (place shops_low)
 {
-		cwintrozorai_shops_low_sysmes	[&AMB&Dieses Viertel heißt $shops_low$. Hier findest Du die Händler, wenn Du etwas benötigst.]
+		cwintrozorai_shops_low_sysmes	[&AMB&Dieser Distrikt heißt $shops_low$. Hier findest Du die Händler, wenn Du etwas benötigst.]
 
 }
 
@@ -8506,7 +8513,7 @@ CWMH02_DESC (bot giver, place city)
 // HASH_VALUE 7D9C48D073DE06A8
 CWMH02_DIALOG_BARMAN ()
 {
-		cwmh02_dialog_barman	[Hallo, Du kommst zur rechten Zeit. Du kennst Dich mit dem Rohstoffabbau ein wenig aus? Ich brauche bestimmte Wurzeln um meinen Getränken eine ganz spezielle Note zu verleihen. Sie wachsen im Westen der Stadt, dort, wo sich zwei große Wurzeln aus dem Boden erheben. Doch achte darauf, dass die Wurzeln auch von feiner Qualität sind.]
+		cwmh02_dialog_barman	[Hallo, Du kommst zur rechten Zeit. Du kennst Dich mit dem Rohstoffabbau ein wenig aus? Ich brauche bestimmte Wurzeln um meinen Getränken eine ganz spezielle Note zu verleihen. Sie wachsen im Westen der Stadt, dort, wo sich zwei große Wurzeln aus dem Boden erheben.]
 
 }
 
@@ -19362,7 +19369,7 @@ ENCY_THM_02_15 ()
 // HASH_VALUE 96688B9119E8939D
 ENCY_THM_02_16 ()
 {
-			[Raketenwerfer und Munition]
+			[Granatenwerfer und Munition]
 
 }
 
@@ -21451,7 +21458,7 @@ ENCY_THM_TXT_01_06 ()
 {
 			[Der Majestätische Garten befindet sich auf dem Kontinent der Grünen Anhöhen. Er ist nach den wunderschönen Gärten in der Nähe der alten Hauptstadt von Matia benannt. Diese Gärten wurden unter der Herrschaft von König Noblis angelegt und gelten als eines der Wunder der alten Welt. Nach zwei Jahren Exil in den Urwurzeln war es kein Wunder, dass "Welch ein majestätischer Garten!" die ersten Worte waren, die König Yasson durch den Kopf gingen, als er diese bezaubernden Wälder erblickte, die denen der geliebten Heimat überraschend ähnelten. \n
 			\n
-			Die neue Hauptstadt wurde bald gegründet und - als Symbol der Wiedergeburt - nach dem neugeborenen Matisprinzen, Yrkanis, benannt. Hinzu kamen die Dörfer Davae, Natae und Avalae, benannt nach den ersten drei Mädchen, die in der Matiskolonie in den Grünen Anhöhen geboren wurden. Die Region beherbergt auch einen einzelnen außenposten, der aufgrund seiner Lage "Handelsposten am Psykopla-Hügel" heißt.\n
+			Die neue Hauptstadt wurde bald gegründet und - als Symbol der Wiedergeburt - nach dem neugeborenen Matisprinzen, Yrkanis, benannt. Hinzu kamen die Dörfer Davae, Natae und Avalae, benannt nach den ersten drei Mädchen, die in der Matiskolonie in den Grünen Anhöhen geboren wurden. Die Region beherbergt auch einen einzelnen Außenposten, der aufgrund seiner Lage "Handelsposten am Psykopla-Hügel" heißt.\n
 			\n
 			Lange Jahre der Matispräsenz haben diesen Wald zu einem der sichersten auf ganz Atys gemacht, selbst sicher genug selbst für junge Homins, die hier ungefährdet ihre ersten Erfahrungen sammeln können. Nichtsdestotrotz beheimatet der Majestätische Garten eine ganze Reihe potenziell gefährlicher Tiere, wie zum Beispiel den Ragus, und den Gingo. Die einzige in dieser Region vorhandene Kitinart ist der Kipee, ein friedlicher Pflanzenfresser, der zwischen den majestätischen Dorotea- und Salinabäumen beobachtet werden kann. Immer wieder faszinierend für die Wissenschaft sind die eindrucksvollen Ansammlungen von Psykoplapflanzen, die oft zusammengedrängt auf Hügeln beeinanderstehend den Blick des Wanderers auf sich ziehen.\n
 			\n
@@ -21471,7 +21478,7 @@ ENCY_THM_TXT_01_07 ()
 			\n
 			Ein weiterer interessanter Ort im Vergänglichen Garten ist der sogenannte Hort, ein Gebiet, das sich hervorragend zur Rohstoffsuche eignet; sowie die Höhle des Zorns, in der Raubtiere herumschleichen und ein Runenkreis der Kami, welcher im Osten der Region zu finden ist. Dieser außergewöhnliche und in seinen Ausmaßen gewaltige Kreis, welcher von zwei Wurzelbergen flankiert wird, ist in Wirklichkeit ein Kami-Heiligtum, das vom Stamm der Zo'Kami behütet wird. Diese Zoraï haben es sich zur Aufgabe gemacht, dafür zu sorgen, dass die Kamis während ihrer Versammlungen in dem Heiligtum nicht bedroht werden.\n
 			\n
-			Die Geschwister der Pflanzen sind der andere in dieser Region ansässige Stamm. Die fünf errichteten außenposten in dem Gebiet sind der Grenzposten der Erhebung, der südöstliche Handelsposten, der Hof des Entdeckers, die Werkstatt des Horts und der Magische Ort des Kami-Kreises.\n
+			Die Geschwister der Pflanzen sind der andere in dieser Region ansässige Stamm. Die fünf errichteten Außenposten in dem Gebiet sind der Grenzposten der Erhebung, der südöstliche Handelsposten, der Hof des Entdeckers, die Werkstatt des Horts und der Magische Ort des Kami-Kreises.\n
 			\n
 			Der vergängliche Garten beherbergt eine Vielzahl von verschiedenen Tierarten, darunter die Gingos, verschiedenste Vogelgattungen, Bodocs, Mektoubs, Raspals und Frippos. Neben dem Kipee müssen die Lehrlinge hier auch nach den Kizoar Ausschau halten. Letzeres ist eine fliegende Kitinart, die friedlich ist, solange man sie in Ruhe lässt. Wenn man sie jedoch provoziert, kann sie sehr schnell äußerst gefährlich werden. Der Psykopla ist die einzige intelligente Pflanze der Region.\n
 			\n
@@ -21521,7 +21528,7 @@ ENCY_THM_TXT_01_13 ()
 			\n
 			Die Hauptstadt Zora wurde zum Gedenken an die vielen Homins errichtet, die während der Kitininvasion in der alten Hauptstadt Zoran ihr Leben verloren. Es folgte die Gründung der drei Dörfer: Min-Cho und Hoï-Cho wurden nach den zwei großen spirituellen Führern benannt, die in ihren aufeinanderfolgenden Regentschaftszeiten eine Brücke über die Kluft der Dynastien der alten und der neuen Länder geschlagen hatten. Min-Cho verlor sein Leben während des Großen Schwarms im alten Land, Hoï-Cho wurde der erste Zoraïführer in den neuentdeckten Ländern. Jen-Laï wurde für die Matis-Göttin Jena errichtet.\n
 			\n
-			Noch unter dem Trauma der großen Kitininvasion leidend, bauten die Zoraï diese ersten Siedlungen der Verdorrenden Lande bewusst im Inneren von Baumrindenhöhlen, da diese im Fall eines erneuten Kitinangriffs besser zu verteidigen sein sollten. Zwischen den Dörfern von Min-Cho und Hoï-Cho kann der Reisende auf das Camp eines Handwerker-Stammes stoßen, den Ikonenschnitzern, dem einzigen Stamm dieser Region. Die Region beherbergt auch einen einzelnen außenposten, Qai-Du.\n
+			Noch unter dem Trauma der großen Kitininvasion leidend, bauten die Zoraï diese ersten Siedlungen der Verdorrenden Lande bewusst im Inneren von Baumrindenhöhlen, da diese im Fall eines erneuten Kitinangriffs besser zu verteidigen sein sollten. Zwischen den Dörfern von Min-Cho und Hoï-Cho kann der Reisende auf das Camp eines Handwerker-Stammes stoßen, den Ikonenschnitzern, dem einzigen Stamm dieser Region. Die Region beherbergt auch einen einzelnen Außenposten, Qai-Du.\n
 			\n
 			Dieses Dschungelland, welches als erstes von den Zoraï gesichert wurde, ist eine relativ sichere Zone, wo unerfahrene Abenteurer ihre Fähigkeiten angemessen testen und erforschen können. Die einzige Kitin-Art in diesem Gebiet ist der Kipee, ein relativ friedlicher Pflanzenfresser, solange man ihn in Ruhe lässt. Es gibt aber auch andere wilde Tiere, wie zum Beispiel die Javings, die Ragus, die kleinen Yubos, die Izams sowie die Mektoubs. Der Reisende wird auch immer wieder auf weitläufige Slaveni-Felder treffen, die die einzigen intelligenten Pflanzen dieser Region sind.\n
 			\n
@@ -21569,7 +21576,7 @@ ENCY_THM_TXT_01_19 ()
 {
 			[Die Imperialen Dünen sind auf dem Kontinent der Brennenden Wüste gelegen. Es war die erste Gegend der neuentdeckten Länder, die von den Fyros besiedelt wurde, nachdem sie nach zwei Jahren des Exils in den Urwurzeln wieder an die Oberfläche zurückkehrten. Die kaiserlichen Späher waren die ersten Fyros, die ausgesandt wurden, um einen passenden Ort für die Feuerbestattung von Cerakos II zu finden. Dieser verlor zwei Jahre zuvor sein Leben während des Großen Schwarms. Man sagt, sein Geist wache noch heute über das Gebiet der Dünen.\n
 			\n
-			Die Hauptstadt Pyr wurde in einer Oase errichtet, welche von drei giftigen, feuerspeienden Schächten umgeben ist. Diese Feuerlöcher bilden heute die Stadttore von Pyr und an einer dieser Stellen, westlich der Stadt, wurde Cerakos' Scheiterhaufen errichtet, von dem aus seine Seele gen Himmel emporstieg. Mit den gewaltigen Hallen des Wissens, die Homins aller Rassen von nah und fern anlocken, so wie es schon früher die alte Hauptstadt tat, ist Pyr zweifellos die eindrucksvollste Homin Stadt der neuentdeckten Länder. Die Region beherbergt auch einen einzelnen außenposten, den Schwarzbrand-Handelsposten, der für gewöhnlich vom Stamm der Zöllner überwacht wird. Der Stamm der Zöllner ist der einzige dieser Region.\n
+			Die Hauptstadt Pyr wurde in einer Oase errichtet, welche von drei giftigen, feuerspeienden Schächten umgeben ist. Diese Feuerlöcher bilden heute die Stadttore von Pyr und an einer dieser Stellen, westlich der Stadt, wurde Cerakos' Scheiterhaufen errichtet, von dem aus seine Seele gen Himmel emporstieg. Mit den gewaltigen Hallen des Wissens, die Homins aller Rassen von nah und fern anlocken, so wie es schon früher die alte Hauptstadt tat, ist Pyr zweifellos die eindrucksvollste Homin Stadt der neuentdeckten Länder. Die Region beherbergt auch einen einzelnen Außenposten, den Schwarzbrand-Handelsposten, der für gewöhnlich vom Stamm der Zöllner überwacht wird. Der Stamm der Zöllner ist der einzige dieser Region.\n
 			\n
 			Lange Jahre der Fyros Präsenz haben dieses Wüstenland zu einem der sichersten Gebiete auf ganz Atys gemacht, sicher genug selbst für junge Homins, die erst damit beginnen, sich einen Namen bei ihrem Volk zu machen. Die einzige Kitinart, die man in den Imperialen Dünen findet, ist der Kipee. Solange man sie nicht bedroht, sind sie recht passive Lebewesen. Weiterhin beherbergen die Imperialen Dünen eine Reihe von gefährlichen Tieren, wie zum Beispiel die Gingos und die Goaris, die oft Jagd auf die friedlichen Caprynis und Yubos machen. Der Shooki, eine heimtückische Pflanze, ist die einzige intelligente Pflanze, die in dieser Region heimisch ist.\n
 			\n
@@ -21631,7 +21638,7 @@ ENCY_THM_TXT_01_27 ()
 {
 			[Die Region des Sees der Freiheit besteht aus einer Myriade von Seen und Lagunen und liegt auf dem Kontinent von Aeden Aqueous. Dies war das erste Seengebiet, welches die Tryker nach zwei Jahren der Gefangenschaft in den unterirdischen Urwurzeln entdeckten. Der Name wurde von den Weisen der Tryker gewählt und sollte nicht nur dazu dienen, die allgemeinen Gefühle der neuen Freiheit wiederzuspiegeln. Er sollte zugleich auch als eine beständige Mahnung für alle diejenigen sein, die es wagen, Gedanken zu hegen, die gegen die grundsätzliche Wertevorstellung des Trykervolkes "Freiheit für alle, alle für die Freiheit" verstoßen würden. Abergläubische Tryker glauben bis heute daran, dass die bloße Nennung dieses Names potenziellen Angreifern jedwelche Lust an Unterdrückung und Versklavung austreiben würde.\n
 			\n
-			Die erste neue Ansiedlung wurde folgerichtig in diesen paradiesischen Landen errichtet und sollte zur neuen Trykerhaupstadt werden, die den passenden Namen Fairhaven trägt. Drei Dörfer wurden in diesem Gebiet errichtet wobei jeder der Namen ebenfalls eine Anspielung auf die von den Trykern hochgehaltenen Werte ist: Crystabell, wo kristallklares Wasser fließt. Windermeer, bekannt für seine windigen Höhen und Windkanäle und Avendale, gelegen im wunderschönen Tal östlich der Hauptstadt. Der See der Freiheit beherbergt nicht weniger als sechs außenposten, in welchen die Korsaren Zuflucht gefunden haben: Schwarzmoor Handelsposten, Anmutige Insel, Sandy Werkstatt und Windermeer Farm. Der Stamm der Korsaren ist der einzige, der in dieser Region angesiedelt ist. \n
+			Die erste neue Ansiedlung wurde folgerichtig in diesen paradiesischen Landen errichtet und sollte zur neuen Trykerhaupstadt werden, die den passenden Namen Fairhaven trägt. Drei Dörfer wurden in diesem Gebiet errichtet wobei jeder der Namen ebenfalls eine Anspielung auf die von den Trykern hochgehaltenen Werte ist: Crystabell, wo kristallklares Wasser fließt. Windermeer, bekannt für seine windigen Höhen und Windkanäle und Avendale, gelegen im wunderschönen Tal östlich der Hauptstadt. Der See der Freiheit beherbergt nicht weniger als sechs Außenposten, in welchen die Korsaren Zuflucht gefunden haben: Schwarzmoor Handelsposten, Anmutige Insel, Sandy Werkstatt und Windermeer Farm. Der Stamm der Korsaren ist der einzige, der in dieser Region angesiedelt ist. \n
 			\n
 			Die erste von den Trykern erforschte Region der Seenlandschaft ist der See der Freiheit und diese ist folglich die sicherste auf dem Kontinent, wo junge Tryker Novizen lernen können, allein zurechtkommen und ihre Fähigkeiten zu verbessern. Jedoch ist auch diese Region nicht ohne Gefahren und der Reisende wird vielen tödlichen wilden Kreaturen begegnen, wie zum Beispiel den Goaris, den Cloppers, den Yubos, den Yber und den Messabs. Die einzige Kitinart, der man in diesem Gebiet begegnet, ist die Kipee, die vollkommen harmlos ist, solange man sie nicht bedroht. Jagt man die Kipee, so liefert sie nachdem sie getötet wurde, wertvolle Rohstoffe. Die Stinga Pflanze ist die einzige intelligente Pflanze, die in dieser Region heimisch ist.\n
 			\n
@@ -21643,7 +21650,7 @@ ENCY_THM_TXT_01_27 ()
 ENCY_THM_TXT_01_28 ()
 {
 			[Auf dem Kontinent Aeden Aqueous, nördlich von Fairhaven, findet man die Region Tautropfen. Auf den Inseln des Sees der Freiheit war die Region Tautropfen die zweite, die von den Trykern erkundet und gegen die gefährlichen Kitins gesichert wurde, die sich schnell in diesem Gebiet ausbreiteten. Es war der große Weise Rigan Mac'Darrell, der die Insel nach den Wasserkristallen benannte, die im Morgenlicht als Erinnerung an die Notwendigkeit des Wassers funkeln. Man sagt, diese Tautropfen seien Tränen, die von den Sternen fallen, um alle Homins an die Zerbrechlichkeit des Lebens auf Atys zu erinnern. In dieser Gegend, so sagt man, ist die Luft besonders klar, und der sanfte Windhauch scheint gerade kräftig genug zu sein, um die glitzernden Sterne am nächtlichen Firmament zu umschmeicheln. \n
-			Die Region ist wie leergefegt, kein einziger Stamm ist hier ansässig und es gibt auch keine außenposten hier. Deshalb eignet sich diese Region sehr gut für Trykerlehrlinge, um dort die Kunst des Waffenschmiedens zu erlernen und zu verbessern. Tatsächlich ist die Pflanzen- und Tierwelt, weit entfernt vom kultivierten Fairhaven und der näheren Umgebung, weitaus gefährlicher und man begegnet dort den Cloppern, den Ragus, den Gnoofs, den Ybers und den Izams. Die Stinga ist die einzige intelligente Pflanze, die in dieser Region gedeiht. Die einzigen Kitins in diesem Gebiet, die der von Rigan Mac'Darrel angeordneten und mit Hilfe der Wächter des Karavan durchgeführten gezielten Auslöschung entgangen sind, sind die Kipees und die fliegenden Kizoar. Beide Arten sind friedlich, solange man sie nicht angreift und liefern außerdem wertvolle Rohmaterialien. \n
+			Die Region ist wie leergefegt, kein einziger Stamm ist hier ansässig und es gibt auch keine Außenposten hier. Deshalb eignet sich diese Region sehr gut für Trykerlehrlinge, um dort die Kunst des Waffenschmiedens zu erlernen und zu verbessern. Tatsächlich ist die Pflanzen- und Tierwelt, weit entfernt vom kultivierten Fairhaven und der näheren Umgebung, weitaus gefährlicher und man begegnet dort den Cloppern, den Ragus, den Gnoofs, den Ybers und den Izams. Die Stinga ist die einzige intelligente Pflanze, die in dieser Region gedeiht. Die einzigen Kitins in diesem Gebiet, die der von Rigan Mac'Darrel angeordneten und mit Hilfe der Wächter des Karavan durchgeführten gezielten Auslöschung entgangen sind, sind die Kipees und die fliegenden Kizoar. Beide Arten sind friedlich, solange man sie nicht angreift und liefern außerdem wertvolle Rohmaterialien. \n
 			\n
 			Zwei Tunnels ermöglichen den Zugang zu den Inseln der Winden der Muse.\n
 			\n
@@ -21663,7 +21670,7 @@ ENCY_THM_TXT_01_30 ()
 {
 			[Das Gebiet der Winde der Muse erstreckt sich über eine Insel nordwestlich des Sees der Freiheit, welcher wiederrum nordwestlich des Kontinents Aeden Aqueous liegt. Der Name stammt von den Sandbildhauern, die ihrerseits ausgezeichnete Handwerker sind und sich hier, weit abgelegen vom hektischen Treiben der Hauptstadt Fairhaven, ansiedelten. Die windgepeitschte Insel ist tatsächlich ein beliebter Platz der Meditation für all jene, die Frieden und Inspiration suchen. Die starken Winde stellen auch eine Energiequelle für die Windmühlen dar, die geschickt hier und da aus dem Boden sprießen. Besonders viele Windmühlen findet man entlang des Windweges, welcher auch eine Werkstatt beherbergt.\n
 			\n
-			Andere nennenswerte Plätze sind die Hexenbucht, mit dem dort errichteten dauerhaften Feldlager; der See der Wacht, mit einer großen Fläche reinen Wassers und einer Farm südwestlich des Sees; sowie der Schlafende Berg, eine extrem gefährliche Gegend, in welcher ein riesiges Raubtier sein Unwesen treibt. Die außenposten der Musemere - Werkstatt, das Gehöft der drei Säulen und der Grenzposten am Tor von Loria, sind ebenfalls auf dieser Insel angesiedelt.\n
+			Andere nennenswerte Plätze sind die Hexenbucht, mit dem dort errichteten dauerhaften Feldlager; der See der Wacht, mit einer großen Fläche reinen Wassers und einer Farm südwestlich des Sees; sowie der Schlafende Berg, eine extrem gefährliche Gegend, in welcher ein riesiges Raubtier sein Unwesen treibt. Die Außenposten der Musemere - Werkstatt, das Gehöft der drei Säulen und der Grenzposten am Tor von Loria, sind ebenfalls auf dieser Insel angesiedelt.\n
 			\n
 			Die auf dieser Insel ansässigen, wilden Tiere sind die Clopper, die Ragus, die Caprynis, die Gnoofs, die Izams und die vogelartigen Ybers. Die Stinga ist die einzige, in dieser Region heimische intelligente Pflanze. Das Gebiet wurde von den gefährlichsten Kitins befreit, nachdem die Homins wieder aus den Urwurzeln auf die Oberfläche zurückkehrten. Heute trifft man hier nur noch auf die Kipees und die fliegenden Kizoars. Beide Arten sind völlig harmlos, solange man sie nicht provoziert und liefern außerdem interessante Rohstoffe für Künstler und Handwerker.\n
 			\n
@@ -21787,13 +21794,13 @@ ENCY_THM_TXT_02_01 ()
 // HASH_VALUE 020184C80804F20C
 ENCY_THM_TXT_02_02 ()
 {
-			[Die Sektion der Fernwaffen beinhaltet Automatikraketenwerfer, Raketenwerfer und Gewehre mit der passenden Munition. Diese Waffen können verschiedene Schäden zufügen; Aufschlitzen, Durchbohren oder Zertrümmern, je nachdem wieviel Munition benutzt wird. Sie bieten die Möglichkeit, einen oder mehrere Gegner aus der Entfernung anzugreifen. Manche Waffen, sowie der Raketenwerfer, können ein paar Ziele gleichzeitig in die Luft jagen. \n
+			[Die Sektion der Fernwaffen beinhaltet Automatikraketenwerfer, Granatenwerfer und Gewehre mit der passenden Munition. Diese Waffen können verschiedene Schäden zufügen; Aufschlitzen, Durchbohren oder Zertrümmern, je nachdem wieviel Munition benutzt wird. Sie bieten die Möglichkeit, einen oder mehrere Gegner aus der Entfernung anzugreifen. Manche Waffen, sowie der Granatenwerfer, können ein paar Ziele gleichzeitig in die Luft jagen. \n
 			\n
 			Verschiedene Bauteile werden zur Herstellung von Fernwaffen und Munition eingesetzt. Dazu gehören Gewehrläufe, Abzüge, Feuerzünder und Waffenschafte, sowie Explosivmaterial, Kugeln und Munitionshülsen. Der Homin Experte für Fernwaffen ist der Fernwaffenschmied. \n
 			\n
 			Seit dem Gemeinsamen Exil aller Homin Völker in den Urwurzeln von 2481 bis 2483 hatten Handwerker und Krieger jedes Volkes Zugang zu anderen Waffen und dazu passenden Fähigkeiten. Vor dieser Phase benutzte jedes Homin-Volk spezifische Waffen, die zu seiner Art und Weise der Kriegsführung passten. Noch heutzutage bevorzugen Puristen die Fertigkeiten und Waffen, die in alten Zeiten eingesetzt wurden, als die Homin-Zivilsationen noch glorreich waren.\n
 			\n
-			In Einklang mit dem Ehrenkodex und der Genauigkeit trug jeder ehrenwerte Matis in den alten Ländern von Matia eine Handpistole in seinem Gürtel. Leicht und präzise, konnte die Pistole auch einfach von einem Mektoub aus eingesetzt werden. Die Zoraï hingegen bevorzugten die Bogenpistole, die sie auch strategisch hinter der Großen Mauer aufstellten und die es den Wachen ermöglichte, einen Feind auf eine große Distanz zu treffen. Die Fyros-Strategie war es, ihre großen Raketenwerfer einzusetzen und den Gegner auszubomben, ehe sie Truppen in den Fernkampf schickten, um den Rest zu erledigen. Die Tryker, die die Kunst beherrschten, sich dem Feind anzunähern, entwickelten die Bogenpistole. Leicht und präzise, ließ sie ihnen eine Hand, um sich per Zeichen Orden hinter feindlichen Linien zu geben.]
+			In Einklang mit dem Ehrenkodex und der Genauigkeit trug jeder ehrenwerte Matis in den alten Ländern von Matia eine Handpistole in seinem Gürtel. Leicht und präzise, konnte die Pistole auch einfach von einem Mektoub aus eingesetzt werden. Die Zoraï hingegen bevorzugten die Bogenpistole, die sie auch strategisch hinter der Großen Mauer aufstellten und die es den Wachen ermöglichte, einen Feind auf eine große Distanz zu treffen. Die Fyros-Strategie war es, ihre großen Granatenwerfer einzusetzen und den Gegner auszubomben, ehe sie Truppen in den Fernkampf schickten, um den Rest zu erledigen. Die Tryker, die die Kunst beherrschten, sich dem Feind anzunähern, entwickelten die Bogenpistole. Leicht und präzise, ließ sie ihnen eine Hand, um sich per Zeichen Orden hinter feindlichen Linien zu geben.]
 
 }
 
@@ -22164,7 +22171,7 @@ ENCY_THM_TXT_03_02 ()
 			Zusammensetzung : Zoraïs\n
 			\n
 			Location\n
-			außenposten : 4 außenposten im Hain von Umbra\n
+			Außenposten : 4 Außenposten im Hain von Umbra\n
 			Lager : Hain von Umbra – nordwestlicher Teil der Region\n
 			Hintergrund\n
 			Zoraïs, die sich auf Grund des Unverständnisses, das ihnen die Kamis ob ihres Weges entgegenbrachten, zusammengerottet haben und Schutz unter dem Banner des Schwarzen Kreises gefunden haben. Der Stamm hat nur wenige Mitglieder, heißt aber jeden Zoraï, der über seine Zivilisation enttäuscht ist oder von selbiger verbannt wurde, willkommen. Ihre Gemeinschaft beruht auf Hass und Individualität. Wann immer sie sich zusammenfinden, ist es unvermeidlich, dass sie es tun um Kamis zu jagen. Dafür erlernten sie eine besonders gefährliche und zerstörerische Magie, die die Kamis in höchtem Maße beunruhigt. Sie nutzen diese Magie bei jeder Gelegenheit, um auch nur die geringsten physischen Tätigkeiten zu vermeiden, selbst wenn sich das höchst negativ auf ihre Umwelt auswirkt.\n
@@ -22190,7 +22197,7 @@ ENCY_THM_TXT_03_03 ()
 			Zusammensetzung : Fyros\n
 			\n
 			Gegend\n
-			außenposten : 5 außenposten in den Sägemehl Minen\n
+			Außenposten : 5 Außenposten in den Sägemehl Minen\n
 			\n
 			Lager : Sägemehl Minen – im nordwestlichen Teil der Region\n
 			\n
@@ -22225,7 +22232,7 @@ ENCY_THM_TXT_03_05 ()
 			Zusammensetzung : Alle Rassen\n
 			\n
 			Location\n
-			außenposten : 3 außenposten in Hain von Umbrae\n
+			Außenposten : 3 Außenposten in Hain von Umbrae\n
 			\n
 			Lager : Hain von Umbrae –im südöstlichen Teil der Region\n
 			\n
@@ -22268,7 +22275,7 @@ ENCY_THM_TXT_03_08 ()
 			Zusammensetzung : Zoraïs\n
 			\n
 			Location\n
-			außenposten : 2 außenposten in Hafen der Reinheit\n
+			Außenposten : 2 Außenposten in Hafen der Reinheit\n
 			\n
 			Lager : Hafen der Reinheit – nördlicher Teil der Region\n
 			\n
@@ -22325,7 +22332,7 @@ ENCY_THM_TXT_03_10 ()
 			Zusammensetzung : Matis\n
 			\n
 			Location\n
-			außenposten : 5 Baubereiche in Ketzers Hütte\n
+			Außenposten : 5 Baubereiche in Ketzers Hütte\n
 			\n
 			Lager : Ketzers Hütte – in der ganzen Region\n
 			\n
@@ -22353,7 +22360,7 @@ ENCY_THM_TXT_03_11 ()
 			Zusammensetzung : Fyros\n
 			\n
 			Gegend\n
-			außenposten : 5 außenposten in den Wilden Dünen\n
+			Außenposten : 5 Außenposten in den Wilden Dünen\n
 			\n
 			Lager :Wilde Dünen – südlicher Teil der Region\n
 			\n
@@ -22381,7 +22388,7 @@ ENCY_THM_TXT_03_12 ()
 			Zusammensetzung : Tryker\n
 			\n
 			Location\n
-			außenposten : 2 Baubereiche im Oberen Sumpf \n
+			Außenposten : 2 Baubereiche im Oberen Sumpf \n
 			\n
 			Lager : Oberer Sumpf – nördlicher Teil der Region\n
 			\n
@@ -22416,7 +22423,7 @@ ENCY_THM_TXT_03_14 ()
 			Zusammensetzung : Matis\n
 			\n
 			Location\n
-			außenposten : 4 Baubereiche in Hügel der Ablehung\n
+			Außenposten : 4 Baubereiche in Hügel der Ablehung\n
 			\n
 			Lager : Hügel der Ablehnung – westlicher Teil der Region\n
 			\n
@@ -22446,7 +22453,7 @@ ENCY_THM_TXT_03_15 ()
 			Zusammensetzung : Fyros\n
 			\n
 			Gegend\n
-			außenposten : 4 außenposten im Gebiet der Frahar Türme\n
+			Außenposten : 4 Außenposten im Gebiet der Frahar Türme\n
 			\n
 			Lager : Frahar Türme – in der gesamten Region\n
 			\n
@@ -22474,7 +22481,7 @@ ENCY_THM_TXT_03_16 ()
 			Zusammensetzung : Alle Rassen.\n
 			\n
 			Location\n
-			außenposten : 7 außenposten im Knoten des Schwachsinns\n
+			Außenposten : 7 Außenposten im Knoten des Schwachsinns\n
 			\n
 			Lager : Knoten des Schwachsinns – in der gesamten Region\n
 			\n
@@ -22529,7 +22536,7 @@ ENCY_THM_TXT_03_18 ()
 			Zusammensetzung : Weibliche Matis \n
 			\n
 			Gegend\n
-			außenposten : 3 außenposten im Jungfräulichen Wäldchen\n
+			Außenposten : 3 Außenposten im Jungfräulichen Wäldchen\n
 			\n
 			Lager : Jungfräuliches Wäldchen – südlicher Teil der Region\n
 			\n
@@ -22557,7 +22564,7 @@ ENCY_THM_TXT_03_19 ()
 			Zusammensetzung : Hauptsächlich junge Zoraïs\n
 			\n
 			Gegend\n
-			außenposten : 1 außenposten in dem Gebiet der Städte der Einsicht\n
+			Außenposten : 1 Außenposten in dem Gebiet der Städte der Einsicht\n
 			\n
 			Lager : Städte der Einsicht – östlicher Teil der Region, zwischen den Dörfern Min-Cho und Hoï-Cho\n
 			\n
@@ -22607,7 +22614,7 @@ ENCY_THM_TXT_03_23 ()
 			Zusammensetzung : Fyros und einige Geächtete anderer Rassen\n
 			\n
 			Gegend\n
-			außenposten : 2 außenposten in der Schlucht der Gesetzlosen\n
+			Außenposten : 2 Außenposten in der Schlucht der Gesetzlosen\n
 			\n
 			Lager : Schlucht der Gesetzlosen – nordwestlicher Teil der Region\n
 			\n
@@ -22636,7 +22643,7 @@ ENCY_THM_TXT_03_24 ()
 			Zusammensetzung : Fyros\n
 			\n
 			Gegend\n
-			außenposten : 1 außenposten in den Imperialen Dünen\n
+			Außenposten : 1 Außenposten in den Imperialen Dünen\n
 			\n
 			Lager : Imperialen Dünen – vor den Toren Pyr's, der Fyros Hauptstadt\n
 			\n
@@ -22665,7 +22672,7 @@ ENCY_THM_TXT_03_25 ()
 			Zusammensetzung : Zoraïs\n
 			\n
 			Location\n
-			außenposten : 5 außenposten im Nichts\n
+			Außenposten : 5 Außenposten im Nichts\n
 			\n
 			Lager : Das Nichts – nordöstlicher Teil der Region, nahe der Gooquelle; mögliche Lager im Westen und Süden, in der Nähe der Regionsgrenzen.\n
 			\n
@@ -22730,7 +22737,7 @@ ENCY_THM_TXT_03_28 ()
 			Zusammensetzung : Fyros\n
 			\n
 			Location\n
-			außenposten : 1 Baubereiche in der Versteckten Quelle\n
+			Außenposten : 1 Baubereiche in der Versteckten Quelle\n
 			\n
 			Lager : Versteckte Quelle – westlicher Teil der Region\n
 			\n
@@ -22772,7 +22779,7 @@ ENCY_THM_TXT_03_31 ()
 			Zusammensetzung : hauptsächlich Fyros mit einigen Matissöldnern\n
 			\n
 			Gegend\n
-			außenposten : 5 außenposten in den Dünen der Verbannung\n
+			Außenposten : 5 Außenposten in den Dünen der Verbannung\n
 			\n
 			Lager : Dünen der Verbannung – westlicher Teil der Region\n
 			\n
@@ -22802,7 +22809,7 @@ ENCY_THM_TXT_03_32 ()
 			Zusammensetzung : Fyros\n
 			\n
 			Gegend\n
-			außenposten : 1 außenposten im Versengten Durchgang\n
+			Außenposten : 1 Außenposten im Versengten Durchgang\n
 			\n
 			Lager : Versengter Durchgang – nordöstlicher Teil der Region\n
 			\n
@@ -22837,7 +22844,7 @@ ENCY_THM_TXT_03_34 ()
 			Zusammensetzung : Zoraï\n
 			\n
 			Location\n
-			außenposten : 2 Baubereiche im Vergänglichen Garten\n
+			Außenposten : 2 Baubereiche im Vergänglichen Garten\n
 			\n
 			Lager : Vergänglicher Garten – östlicher Teil der Region, nahe der Kami-Metazone\n
 			\n
@@ -22873,7 +22880,7 @@ ENCY_THM_TXT_03_36 ()
 			Zusammensetzung : Matis\n
 			\n
 			Location\n
-			außenposten : 2 Baubereiche im Hain der Verwirrung\n
+			Außenposten : 2 Baubereiche im Hain der Verwirrung\n
 			\n
 			Lager : Hain der Verwirrung – südlicher Teil der Region\n
 			\n
@@ -22903,7 +22910,7 @@ ENCY_THM_TXT_03_37 ()
 			Zusammensetzung : vielrassig\n
 			\n
 			Gegend\n
-			außenposten : 1 außenposten im Versengten Durchgang\n
+			Außenposten : 1 Außenposten im Versengten Durchgang\n
 			\n
 			Lager : Versengter Durchgang – westlicher Teil der Region\n
 			\n
@@ -22959,7 +22966,7 @@ ENCY_THM_TXT_03_39 ()
 			Zusammensetzung : Wald Slaveni-Pflanzen und junge Zoraïs\n
 			\n
 			Location \n
-			außenposten : 3 Baubereiche im Vergänglichen Garten\n
+			Außenposten : 3 Baubereiche im Vergänglichen Garten\n
 			\n
 			Lager : Vergänglicher Garten – nordwestlicher Teil der Region\n
 			\n
@@ -23008,7 +23015,7 @@ ENCY_THM_TXT_03_43 ()
 			Zusammensetzung : Matis\n
 			\n
 			Location\n
-			außenposten : 2 Baubereiche in Versteckte Quelle \n
+			Außenposten : 2 Baubereiche in Versteckte Quelle \n
 			\n
 			Lager : Versteckte Quelle – nordöstlicher Teil der Region\n
 			\n
@@ -23046,7 +23053,7 @@ ENCY_THM_TXT_03_45 ()
 			Zusammensetzung : Alle Rassen männlich und weiblich.\n
 			\n
 			Location\n
-			außenposten : 2 Baubereiche im Oberen Sumpf\n
+			Außenposten : 2 Baubereiche im Oberen Sumpf\n
 			\n
 			Lager : Oberer Sumpf – südlicher Teil der Region\n
 			\n
@@ -23074,7 +23081,7 @@ ENCY_THM_TXT_03_46 ()
 			Zusammensetzung : Hauptsächlich Zoraï und einige andere Homins\n
 			\n
 			Location\n
-			außenposten : 2 außenposten im Hafen der Reinheit\n
+			Außenposten : 2 Außenposten im Hafen der Reinheit\n
 			\n
 			Lager : Hafen der Reinheit – südwestlicher Teil der Region\n
 			\n
@@ -23130,7 +23137,7 @@ ENCY_THM_TXT_03_48 ()
 			Zusammensetzung : Fyros\n
 			\n
 			Location\n
-			außenposten : 2 außenposten in der Versteckten Quelle\n
+			Außenposten : 2 Außenposten in der Versteckten Quelle\n
 			\n
 			Lager : Versteckte Quelle – südwestlicher Teil der Region\n
 			\n
@@ -25814,7 +25821,7 @@ ENCY_THM_TXT_09_08 ()
 			\n
 			Würdest du glauben, dass der erste Matis, der ein lebendigen Kitin zu Gesicht bekommen hat, lebte um diese Geschichte zu erzählen?\n
 			\n
-			Sein Name war Angeli di Fabrini, vom noblen Lager, zweiter Sohn des hochrangigen Offiziers der, mit ein wenig Glück, ihn zu den Geistlichen einteilte. Mit sechzehn, nach dem Feierlichkeiten zu Ehren der drei Königen, welche die Ankunft der kälteren Tage verkündeten, wurde der junge Seminarist in seiner ersten Mission zur nördlichen Front ausgesandt, um die Worte Jenas in den Herzen der Fyros Dorfbewohnern wieder herzustellen, die an der äussersten Grenze von der Wüste lebten. Jene die Opfer des Vorrückens der Ketzerei geworden sind. Tatsächlich war die Gefahr, dass die Lieder der heidnischen Gesänge überall in unseren Ländern widerhallten. Nach einem langen und zermürbenden Ritt zum Matis außenposten und einer wohlverdienten Rast, war der Seminarist eifrig dabei seine Spuren in der Wüste zu hinterlassen.\n
+			Sein Name war Angeli di Fabrini, vom noblen Lager, zweiter Sohn des hochrangigen Offiziers der, mit ein wenig Glück, ihn zu den Geistlichen einteilte. Mit sechzehn, nach dem Feierlichkeiten zu Ehren der drei Königen, welche die Ankunft der kälteren Tage verkündeten, wurde der junge Seminarist in seiner ersten Mission zur nördlichen Front ausgesandt, um die Worte Jenas in den Herzen der Fyros Dorfbewohnern wieder herzustellen, die an der äussersten Grenze von der Wüste lebten. Jene die Opfer des Vorrückens der Ketzerei geworden sind. Tatsächlich war die Gefahr, dass die Lieder der heidnischen Gesänge überall in unseren Ländern widerhallten. Nach einem langen und zermürbenden Ritt zum Matis Außenposten und einer wohlverdienten Rast, war der Seminarist eifrig dabei seine Spuren in der Wüste zu hinterlassen.\n
 			\n
 			Angeli ritt über die heißen Wüstendünen. gehüllt in die Kleider seiner Position, dessen Erscheinung, abgesehen vom allgemeinen nichtwissendem Gefühl, bei keinem Fyros ein unpassendes Gefühl überkommen würde. Bei dem ersten Fyros Dorf, bekannt als Colomo, wurde der junge Matis vom Anführer mit höflicher Gleichgültigkeit angehört und vom örtlichen Magier bewirtet, der ihm ein Bett anbot, bis ein bevorstehender Sturm vorrübergezogen war. Aber der Magier, für den der junge Matis Lehrlingsseminarist auch auf den zweiten Blick weder irgendeine Zuneigung noch brüderliche Liebe empfinden konnte, stellte ihn seiner Tochter Julea vor.\n
 			\n
@@ -25828,7 +25835,7 @@ ENCY_THM_TXT_09_08 ()
 			\n
 			Auf seinem Weg zurück zu den Waldgebieten, wurde er in einem Wüstensturm gefangen und stoppte mit seinem Mektoub nahe einer Oase um Schutz zu suchen. Kaum fünfzig Yards hinter ihm, erblickte er eine entsetzliche schwarze Masse, die sich über 300 Yards Weite hinzog und sich in eine unbeschreibliche Distanz in die Tiefe erstreckte. Die Augen des Seminarist fielen auf eine Armee von Kitin Kriegern, angetrieben von einer furiousen Geschwindigkeit. Es war aussichtlos weg zu rennen, er setzte sich mit seinem Gebetsbuch hin und dachte an seine verlorene Liebe, sich an die kostbarsten Momente seines Lebens entsinnend, als die gesamte Kitin Armee keine 30 Yards enfernt direkt an ihm vorbeizog. Dann jedoch kam eine Anzahl Kreaturen aus dem Wasser der Oase...\n
 			\n
-			Das Mektoub war inzwischen im Sandsturm zusammengebrochen. Angeli aber saß still und studierte die Kitins im Wasser, kaum fünfzehn Meter von seinem Baum entfernt. Als die grausame Legion vorüber war, machte er sich wieder auf seinen Weg südöstlich zu seinem außenposten, um Alarm zu schlagen. Die einzige 'rationale' Begründung warum die Kitins ihn unangetastet gelassen haben, war dass sie den Matisgeruch noch nicht kannten. Was aber passierte weiter mit dem jungen Seminaristen?\n
+			Das Mektoub war inzwischen im Sandsturm zusammengebrochen. Angeli aber saß still und studierte die Kitins im Wasser, kaum fünfzehn Meter von seinem Baum entfernt. Als die grausame Legion vorüber war, machte er sich wieder auf seinen Weg südöstlich zu seinem Außenposten, um Alarm zu schlagen. Die einzige 'rationale' Begründung warum die Kitins ihn unangetastet gelassen haben, war dass sie den Matisgeruch noch nicht kannten. Was aber passierte weiter mit dem jungen Seminaristen?\n
 			\n
 			Nein, er hat niemals geheiratet, sein Herz verblieb nur Jena. Und, Dank Jena, erblickst du ihn genau jetzt, junger Homin. Ja, nur zwischen dir und mir, ich trage immernoch die Locke von Julea nah an meinem Herzen.]
 
@@ -25928,7 +25935,7 @@ ENCY_THM_TXT_09_18 ()
 			\n
 			Würdest du glauben, dass der erste Matis, der ein lebendigen Kitin zu Gesicht bekommen hat, lebte um diese Geschichte zu erzählen?\n
 			\n
-			Sein Name war Angeli di Fabrini, vom noblen Lager, zweiter Sohn des hochrangigen Offiziers der, mit ein wenig Glück, ihn zu den Geistlichen einteilte. Mit sechzehn, nach dem Feierlichkeiten zu Ehren der drei Königen, welche die Ankunft der kälteren Tage verkündeten, wurde der junge Seminarist in seiner ersten Mission zur nördlichen Front ausgesandt, um die Worte Jenas in den Herzen der Fyros Dorfbewohnern wieder herzustellen, die an der äussersten Grenze von der Wüste lebten. Jene die Opfer des Vorrückens der Ketzerei geworden sind. Tatsächlich war die Gefahr, dass die Lieder der heidnischen Gesänge überall in unseren Ländern widerhallten. Nach einem langen und zermürbenden Ritt zum Matis außenposten und einer wohlverdienten Rast, war der Seminarist eifrig dabei seine Spuren in der Wüste zu hinterlassen.\n
+			Sein Name war Angeli di Fabrini, vom noblen Lager, zweiter Sohn des hochrangigen Offiziers der, mit ein wenig Glück, ihn zu den Geistlichen einteilte. Mit sechzehn, nach dem Feierlichkeiten zu Ehren der drei Königen, welche die Ankunft der kälteren Tage verkündeten, wurde der junge Seminarist in seiner ersten Mission zur nördlichen Front ausgesandt, um die Worte Jenas in den Herzen der Fyros Dorfbewohnern wieder herzustellen, die an der äussersten Grenze von der Wüste lebten. Jene die Opfer des Vorrückens der Ketzerei geworden sind. Tatsächlich war die Gefahr, dass die Lieder der heidnischen Gesänge überall in unseren Ländern widerhallten. Nach einem langen und zermürbenden Ritt zum Matis Außenposten und einer wohlverdienten Rast, war der Seminarist eifrig dabei seine Spuren in der Wüste zu hinterlassen.\n
 			\n
 			Angeli ritt über die heißen Wüstendünen gehüllt in die Kleider seiner Position, dessen Erscheinung, abgesehen vom allgemeinen nichtwissendem Gefühl, bei keinem Fyros ein unpassendes Gefühl überkommen würde. Bei dem ersten Fyros Dorf, bekannt als Colomo, wurde der junge Matis vom Anführer mit höflicher Gleichgültigkeit angehört und vom örtlichen Magier bewirtet, der ihm ein Bett anbot, bis ein bevorstehender Sturm vorrübergezogen war. Aber der Magier, für den der junge Matis Lehrlingsseminarist auch auf den zweiten Blick weder irgendeine Zuneigung noch brüderliche Liebe empfinden konnte, stellte ihn seiner Tochter Julea vor.\n
 			\n
@@ -25942,7 +25949,7 @@ ENCY_THM_TXT_09_18 ()
 			\n
 			Auf seinem Weg zurück zu den Waldgebieten, wurde er in einem Wüstensturm gefangen und stoppte mit seinem Mektoub nahe einer Oase um Schutz zu suchen. Kaum fünfzig Yards hinter ihm, erblickte er eine entsetzliche schwarze Masse, die sich über 300 Yards Weite hinzog und sich in eine unbeschreibliche Distanz in die Tiefe erstreckte. Die Augen des Seminarist fielen auf eine Armee von Kitin Kriegern, angetrieben von einer furiousen Geschwindigkeit. Es war aussichtlos weg zu rennen, er setzte sich mit seinem Gebetsbuch hin und dachte an seine verlorene Liebe, sich an die kostbarsten Momente seines Lebens entsinnend, als die gesamte Kitin Armee keine 30 Yards enfernt direkt an ihm vorbeizog. Dann jedoch kam eine Anzahl Kreaturen aus dem Wasser der Oase...\n
 			\n
-			Das Mektoub war inzwischen im Sandsturm zusammengebrochen. Angeli aber saß still und studierte die Kitins im Wasser, kaum fünfzehn Meter von seinem Baum entfernt. Als die grausame Legion vorüber war, machte er sich wieder auf seinen Weg südöstlich zu seinem außenposten, um Alarm zu schlagen. Die einzige 'rationale' Begründung warum die Kitins ihn unangetastet gelassen haben, war dass sie den Matisgeruch noch nicht kannten. Was aber passierte weiter mit dem jungen Seminaristen?\n
+			Das Mektoub war inzwischen im Sandsturm zusammengebrochen. Angeli aber saß still und studierte die Kitins im Wasser, kaum fünfzehn Meter von seinem Baum entfernt. Als die grausame Legion vorüber war, machte er sich wieder auf seinen Weg südöstlich zu seinem Außenposten, um Alarm zu schlagen. Die einzige 'rationale' Begründung warum die Kitins ihn unangetastet gelassen haben, war dass sie den Matisgeruch noch nicht kannten. Was aber passierte weiter mit dem jungen Seminaristen?\n
 			\n
 			Nein, er hat niemals geheiratet, sein Herz verblieb nur Jena. Und, Dank Jena, erblickst du ihn genau jetzt, junger Homin. Ja, nur zwischen dir und mir, ich trage immernoch die Locke von Julea nah an meinem Herzen.]
 
@@ -26373,9 +26380,9 @@ ENCY_THM_TXT_12_04 ()
 			\n
 			Im Einklang mit ihrer einfühlsamen Natur und ihrer Gabe fürs Geschäft hatten die Tryker schon während der frühen Jahre in den Urwurzeln ein stilles Abkommen mit den Zoraïs geschlossen, laut dem Rohmaterial und Waren in verschiedenen Handelsposten entlang der Zoraï-Mauer getauscht wurden. Es waren auch die Tryker, die das Geld in Form von Dapper einführten, die seitdem als internationale Währung angenommen werden.\n
 			\n
-			Die Tryker hatten sich darauf eingestellt, ihre religiösen Differenzen aufs Eis zu legen, um friedliche Transaktionen und einen finanziellen Gewinn zu gewährleisten. In diesem Klima des wirtschaftlichen Vertrauens entstanden schnell wohlhabende Dörfer und Städte rund um die außenposten - sowohl bei den Trykern als auch bei den Zoraï.\n
+			Die Tryker hatten sich darauf eingestellt, ihre religiösen Differenzen aufs Eis zu legen, um friedliche Transaktionen und einen finanziellen Gewinn zu gewährleisten. In diesem Klima des wirtschaftlichen Vertrauens entstanden schnell wohlhabende Dörfer und Städte rund um die Außenposten - sowohl bei den Trykern als auch bei den Zoraï.\n
 			\n
-			Doch das Vertrauen der Tryker wurde 2435 erschüttert, als die Matis in ihre Länder einfielen. Als Antwort auf den Asylantrag der Tryker schlossen die Zoraï die Tore ihrer Mauer, um die Gewalt aus ihren Dschungeln fern zu halten. Die flüchtenden Tryker wurden zur leichten Beute für die Matis-Ritter. Um die Tryker einzuschüchtern und jeglichen Widerstand zu brechen, brachten die Matis Tausende Tryker um. Der Rest wurde gefangen genommen und zurück zu den Waldgebieten geschifft, wo sie ihre Orientierung verloren hatten und leicht als Sklaven ausgebeutet werden konnten. Die Städte der außenposten wurden durchwühlt und geplündert.\n
+			Doch das Vertrauen der Tryker wurde 2435 erschüttert, als die Matis in ihre Länder einfielen. Als Antwort auf den Asylantrag der Tryker schlossen die Zoraï die Tore ihrer Mauer, um die Gewalt aus ihren Dschungeln fern zu halten. Die flüchtenden Tryker wurden zur leichten Beute für die Matis-Ritter. Um die Tryker einzuschüchtern und jeglichen Widerstand zu brechen, brachten die Matis Tausende Tryker um. Der Rest wurde gefangen genommen und zurück zu den Waldgebieten geschifft, wo sie ihre Orientierung verloren hatten und leicht als Sklaven ausgebeutet werden konnten. Die Städte der Außenposten wurden durchwühlt und geplündert.\n
 			\n
 			Nach dem Friedensvertrag von Karavia des Jahres 2437 wurden die Beziehungen nach und nach wieder aufgenommen, bis 2481 der Große Schwarm der Kitins kam. Auf das Flehen der Tryker hin, ihnen Asyl zu gewähren, reagierten die Zoraïs erneut mit einer Schließung ihrer Tore, um die Monster draußen zu halten! Vor kurzem wurde die Beziehung wieder belastet, als Fung-Tun 2504 die Sklaverei in den Zoraï Landen unter dem Vorwand einführte, zusätzliche Hände zu benötigen, um das Goo zu bekämpfen.\n
 			\n
@@ -26436,13 +26443,13 @@ ENCY_THM_TXT_12_10 ()
 			Der Rat der Weisen unter der Führung von Rigan Mac'Darrell leistet einen Treueeid auf die Karavan und verkündet, dass man sich dem Bestreben der Matis anschließen wird, einen jährlicher Feiertag (das "Dankesfest") zu Ehren der Karavan einzurichten. Mit dem Fest soll das schützende Eingreifen der Karavan in Angesicht der anstürmenden Kitin Horden jetzt und in Zukunft angemessen in Ehren gehalten werden. Dieses Dankesfest findet jährlich am Tag der Wintersonnenwende statt, um die Rückkehr zum Licht nach den Jahren in der Dunkelheit zu symbolisieren, die in den Jahren nach dem großen Schwärmen der Kitins erduldet werden mussten.\n
 			\n
 			2484 – Die Gebiete rund um den See der Freiheit und den Tautropfen wird erkundet und weitestgehend gesichert.\n
-			Auch die Gegend der Winde der Muse wird erforscht und die ersten außenposten werden errichtet. Der traditionsreiche Stamm der Korsaren wird erneut gegründet und macht es sich zur Aufgabe, im Landstrich des Sees der Freiheit wachsam nach Anzeichen von Kitins Ausschau zu halten.\n
+			Auch die Gegend der Winde der Muse wird erforscht und die ersten Außenposten werden errichtet. Der traditionsreiche Stamm der Korsaren wird erneut gegründet und macht es sich zur Aufgabe, im Landstrich des Sees der Freiheit wachsam nach Anzeichen von Kitins Ausschau zu halten.\n
 			\n
 			2485 – In den Winden der Muse wird erstmalig ein Programm zur Reinigung des Wassers erprobt und durchgeführt.\n
 			\n
 			2486 – Die Mitglieder des Karavan üben zusammen mit Vertretern der Matis Druck auf den Rat der Tryker aus, um diesen dazu zu bewegen, die Kamis aus der Nähe der Wohnsiedlungen zu verbannen. In diesem Jahr tritt auch die mysteriöse "Gilde der Jünger des Elias" zum ersten Mal in Erscheinung.\n
 			\n
-			2487 – Ein Zustrom von Flüchtlingen ergießt sich über die Große Straße, welche bis in die alten Lande führt, in das Gebiet der Tryker. Es werden spezielle außenposten für die Aufnahme dieser Flüchtlinge geschaffen, die dazu beitragen sollen, die entwurzelten Tryker bestmöglich in die neue Gesellschaft zu integrieren.\n
+			2487 – Ein Zustrom von Flüchtlingen ergießt sich über die Große Straße, welche bis in die alten Lande führt, in das Gebiet der Tryker. Es werden spezielle Außenposten für die Aufnahme dieser Flüchtlinge geschaffen, die dazu beitragen sollen, die entwurzelten Tryker bestmöglich in die neue Gesellschaft zu integrieren.\n
 			Unterzeichnung des "Integrationspaktes", der Flüchtlingen garantiert, dass sie sich ihrer eigenen Rasse anschließen können und in die Gesellschaft aufgenommen werden.\n
 			Der "Sichere Korridor" wird geschaffen. Die Stützpunkte Aubermouth, Barkdell, Hobwelly, Waverton und Dingleton werden errichtet, um hier die Tryker Flüchtlinge willkommen zu heißen, sie wieder zu Kräften zu bringen und um sie angemessen auf das neue Leben vorzubereiten.\n
 			Das Städtchen Windermeer wird gegründet.\n
@@ -26452,7 +26459,7 @@ ENCY_THM_TXT_12_10 ()
 			Unter dem Mantel der Heimlichkeit werden bisher unbekannte Gebiete der Urwurzeln erforscht.\n
 			\n
 			2489 – Der sagenumwobene Kämpfer Bremmen Dingle bringt bei seiner Ankunft aus den alten Landen gänzlich neue Methoden der Kriegsführung mit. Während seiner lange Reise im Zuge des Exodus hatte er seinen Weg Seite an Seite mit großen Kriegern anderer Völker zurückgelegt, die in ihrer Gesamtheit gemeinhin als der "Orden der Bruderschaft" bezeichnet wird und hohes Ansehen bei allen Homin Völkern genießt.\n
-			Weitere außenposten werden errichtet.\n
+			Weitere Außenposten werden errichtet.\n
 			\n
 			2490 – Erstmals werden in der Region der Lagunen von Loria wieder Kitins gesichtet.\n
 			Unterzeichnung des Pakt des gegenseitigen Beistandes (PGB) durch Leanon, Hoï-Cho, Yasson und Mac'Darrell. Inhalt dieses Paktes ist die Zusage von gegenseitiger Hilfe im Kampf gegen die Bedrohung durch die Kitins.\n
@@ -28872,7 +28879,7 @@ FYROS_INSTRUCTOR_MIS_01_END (bot previous)
 // HASH_VALUE 153759DBCD95E9E0
 FYROS_INSTRUCTOR_MIS_01_STEP_1 (bot current, bot target)
 {
-		fyros_instructor_mis_01_step_1	[Ich heiße Dich willkommen, $self$. Ich bin hocherfreut über Deinen Mut und Deine Bereitschaft, die gefährliche Reise zu unternehmen, um beim Wiederaufbau des großen Fyrosimperiums mitzuhelfen... {break}Du bist auf einer kleinen Insel, nicht weit entfernt vom Hauptkontinent der Fyros. Es gibt 5 kleine außenposten auf dieser Insel, und dies ist einer von ihnen.\n
+		fyros_instructor_mis_01_step_1	[Ich heiße Dich willkommen, $self$. Ich bin hocherfreut über Deinen Mut und Deine Bereitschaft, die gefährliche Reise zu unternehmen, um beim Wiederaufbau des großen Fyrosimperiums mitzuhelfen... {break}Du bist auf einer kleinen Insel, nicht weit entfernt vom Hauptkontinent der Fyros. Es gibt 5 kleine Außenposten auf dieser Insel, und dies ist einer von ihnen.\n
 			\n
 			Bevor Du zu einem unserer Dörfern auf dem Hauptland aufbrichst, empfehle ich Dir, ein wenig von unseren geschätzten Lehrmeistern hier zu lernen. Du solltest zu aller erst mit $target$ sprechen. \n
 			\n
@@ -28900,7 +28907,7 @@ FYROS_INSTRUCTOR_MIS_01_STEP_3 (bot target)
 {
 		fyros_instructor_mis_01_step_3	[Ich muss dich warnen, $self$, du wirst auf die Kamis treffen und sie werden dir ihre mysteriösen Lehren eröffnen, wenn die Zeit dafür reif ist...{break}Die Kamis sind merkwürdige Wesen, deren mächtige Magie verehrt wird.\n
 			\n
-			Wenn du bereit bist aufzubrechen, suche den Kami Anhänger im außenposten. Er wird dich zu einem Kamipriester führen, der die Macht hat, dich zum Hauptland zu teleportieren. Bis dahin werde ich jederzeit für dich da sein, um deine magische Kraft und deine Weisheit auszubauen. \n
+			Wenn du bereit bist aufzubrechen, suche den Kami Anhänger im Außenposten. Er wird dich zu einem Kamipriester führen, der die Macht hat, dich zum Hauptland zu teleportieren. Bis dahin werde ich jederzeit für dich da sein, um deine magische Kraft und deine Weisheit auszubauen. \n
 			\n
 			Eines noch, auf dem Hauptkontinent wirst du sicherlich auf Mitglieder der Karavan treffen. Sie behaupten von sich, Anhänger der Göttin Jena zu sein, und tatsächlich ist ihre Magie auch sehr mächtig.\n
 			\n
@@ -30307,7 +30314,7 @@ FYROS_NEWB_HARVEST_1_STEP_1_1 ()
 // HASH_VALUE F7F5F772933C0343
 FYROS_NEWB_HARVEST_1_STEP_1_2 (item rm1, item rm2)
 {
-		fyros_newb_harvest_1_step_1_2	[Beginnen wir mit etwas einfachem, bring mir $rm1.ia$ $rm1$ und $rm2.ia$ $rm2$, welches Du im Boden im ganzen außenposten und rundherum findest.]
+		fyros_newb_harvest_1_step_1_2	[Beginnen wir mit etwas einfachem, bring mir $rm1.ia$ $rm1$ und $rm2.ia$ $rm2$, welches Du im Boden im ganzen Außenposten und rundherum findest.]
 
 }
 
@@ -30770,7 +30777,7 @@ FYROS_NEWB_WELCOME_STEP_1_1b ()
 // HASH_VALUE 1088D4BC3E0A0958
 FYROS_NEWB_WELCOME_STEP_1_1c ()
 {
-		fyros_newb_welcome_step_1_1c	[Du bist auf einer kleinen Insel, nicht weit entfernt vom Hauptkontinent. Wir besitzen fünf kleine außenposten hier, und das ist einer davon.]
+		fyros_newb_welcome_step_1_1c	[Du bist auf einer kleinen Insel, nicht weit entfernt vom Hauptkontinent. Wir besitzen fünf kleine Außenposten hier, und das ist einer davon.]
 
 }
 
@@ -31067,7 +31074,7 @@ FYROS_NEWB_WELCOME_STEP_7_2_b (bot giver)
 // HASH_VALUE F5B1695C13C18690
 FYROS_NEWB_WELCOME_STEP_8_1 ()
 {
-		fyros_newb_welcome_step_8_1	[Prima! Nun kennst Du unseren außenposten ein wenig besser. Bevor Du Dich nun aber den Gefahren des Hauptkontinents stellst, musst Du noch etwas trainieren, stärker werden und Dein Wissen ausbauen.]
+		fyros_newb_welcome_step_8_1	[Prima! Nun kennst Du unseren Außenposten ein wenig besser. Bevor Du Dich nun aber den Gefahren des Hauptkontinents stellst, musst Du noch etwas trainieren, stärker werden und Dein Wissen ausbauen.]
 
 }
 
@@ -31112,7 +31119,7 @@ FYROS_NEWB_WELCOME_STEP_9_1_b (place place_pyr)
 // HASH_VALUE 520755DACE4513CC
 FYROS_NEWB_WELCOME_STEP_9_1_c ()
 {
-		fyros_newb_welcome_step_9_1_c	[Im außenposten wirst Du einen Führer finden, der Dir den Weg zu den Kamis zeigen kann, welche die Macht haben Dich auf den Hauptkontinent zu teleportieren. Wenn Du die Hauptstadt erreicht hast, solltest Du mit dem Begrüßungsabgeordneten reden.]
+		fyros_newb_welcome_step_9_1_c	[Im Außenposten wirst Du einen Führer finden, der Dir den Weg zu den Kamis zeigen kann, welche die Macht haben Dich auf den Hauptkontinent zu teleportieren. Wenn Du die Hauptstadt erreicht hast, solltest Du mit dem Begrüßungsabgeordneten reden.]
 
 }
 
@@ -31134,9 +31141,9 @@ FYROS_NEWB_WELCOME_STEP_9_2 (bot kguide)
 FYROS_NEWB_WELCOME_SYSTEM_MSG_1 (bot target)
 {
 	(target.gender = female)
-		fyros_newb_welcome_system_msg_1_f	[&AROUND&$target$, ein Mitglied des Empfangskomitees dieses außenpostens möchte dich willkommen heißen. Geh und sprich mit ihr.]
+		fyros_newb_welcome_system_msg_1_f	[&AROUND&$target$, ein Mitglied des Empfangskomitees dieses Außenpostens möchte dich willkommen heißen. Geh und sprich mit ihr.]
 
-		fyros_newb_welcome_system_msg_1_m	[&AROUND&$target$, ein Mitglied des Empfangskomitees dieses außenpostens möchte dich willkommen heißen. Geh und sprich mit ihm.]
+		fyros_newb_welcome_system_msg_1_m	[&AROUND&$target$, ein Mitglied des Empfangskomitees dieses Außenpostens möchte dich willkommen heißen. Geh und sprich mit ihm.]
 
 }
 
@@ -32253,14 +32260,14 @@ GUILD_BUILDING_NEEDED ()
 // HASH_VALUE 3FAFE205FEC81501
 GUILD_CANT_INVITE_OUTPOST_ENEMY ()
 {
-			[&CHK&Du kannst keinen außenposten-Feind in Deine Gilde einladen]
+			[&CHK&Du kannst keinen Außenposten-Feind in Deine Gilde einladen]
 
 }
 
 // HASH_VALUE 1CBF80670260FDE0
 GUILD_CHALLENGE_OUTPOST_ALREADY_ATTACKED ()
 {
-			[&CHK&Der außenposten steht schon unter Beschuss.]
+			[&CHK&Der Außenposten steht schon unter Beschuss.]
 
 }
 
@@ -32898,7 +32905,7 @@ GUILD_GAIN_CHARGE_POINT (int points)
 // HASH_VALUE 2A8EAD4F9B1A4BA4
 GUILD_GIVEUP_OUTPOST_ATTACK_NOT_ATTACKED ()
 {
-			[&CHK&Der außenposten steht nicht unter Beschuss.]
+			[&CHK&Der Außenposten steht nicht unter Beschuss.]
 
 }
 
@@ -33303,7 +33310,7 @@ INSTRUCTOR_MIS_01_STEP_1 (bot current, bot target)
 {
 		instructor_mis_01_step_1	[Dies ist ein guter Zeitpunkt für Dich, mehr über Dein Volk zu erfahren. Enormes Wissen wurde uns, den wahren Erben der Matis, von unseren Vorfahren überliefert, und wir werden es dazu gebrauchen, unser prächtiges Königreich wieder aufzubauen. Mit den richtigen Lehrmeistern wirst auch Du dieses alte Wissen erlangen können. Und schon bald wird sich Deine Bestimmung offenbaren.{break}\n
 			\n
-			Aber nun genug des Geredes. Du muss noch einige hoch angesehene und geschätzte Personen unseres außenpostens kennenlernen. Bevor Du Dich entscheidest, einen unserer außenposten zu verlassen, solltest Du bei $target$ vorbeischauen. Er ist unser Kampflehrmeister und wird Dir viele tödliche Techniken beibringen...\n
+			Aber nun genug des Geredes. Du muss noch einige hoch angesehene und geschätzte Personen unseres Außenpostens kennenlernen. Bevor Du Dich entscheidest, einen unserer Außenposten zu verlassen, solltest Du bei $target$ vorbeischauen. Er ist unser Kampflehrmeister und wird Dir viele tödliche Techniken beibringen...\n
 			\n
 			Du findest ihn in unserer Gildenhalle. Benutze den Aufzug.]
 
@@ -33325,9 +33332,9 @@ INSTRUCTOR_MIS_01_STEP_2 (bot target, race kitins)
 // HASH_VALUE 72F215876CDFCD53
 INSTRUCTOR_MIS_01_STEP_3 (bot target)
 {
-		magic_master_mis_01_step_3	[Willkommen in unserem außenposten! Ich bin wirklich erfreut, Dich zu treffen! Schwierige Zeiten sind angebrochen. Das große Volk der Matis hat sich wieder versammelt und die Karavan sind endlich wieder erschienen. Wir werden wieder in der Lage sein, uns zu teleportieren. Und unsere Dörfer werden schnell wieder an Stärke gewinnen.{break}\n
+		magic_master_mis_01_step_3	[Willkommen in unserem Außenposten! Ich bin wirklich erfreut, Dich zu treffen! Schwierige Zeiten sind angebrochen. Das große Volk der Matis hat sich wieder versammelt und die Karavan sind endlich wieder erschienen. Wir werden wieder in der Lage sein, uns zu teleportieren. Und unsere Dörfer werden schnell wieder an Stärke gewinnen.{break}\n
 			\n
-			Wenn Du Dich in der Lage fühlst, den außenposten zu verlassen, gehe einfach zu einem der Karavan Wächter. Sie sind seltsame, dunkle Wesen und kein Homin hat je ihr wahres Gesicht gesehen. Aber Du musst keine Angst vor ihnen haben, das ist zumindest meine Meinung. Folge der Kontaktperson der Karavan und sie wird Dich zu einem Teleportoffizier geleiten.\n
+			Wenn Du Dich in der Lage fühlst, den Außenposten zu verlassen, gehe einfach zu einem der Karavan Wächter. Sie sind seltsame, dunkle Wesen und kein Homin hat je ihr wahres Gesicht gesehen. Aber Du musst keine Angst vor ihnen haben, das ist zumindest meine Meinung. Folge der Kontaktperson der Karavan und sie wird Dich zu einem Teleportoffizier geleiten.\n
 			\n
 			Als Magier muss ich Dich jedoch warnen, dass die Wege der Karavan mysteriös und verworren sind. Aber es gibt eine weitere Möglichkeit, die Du bald entdecken wirst. Wenn Du Deine Magiefähigkeiten weiter entwickelst, wirst Du die Kamis treffen, die Dir mit ein bisschen Glück die Augen öffnen und Dir eine neue Welt zeigen. Atys hat viele Gesichter...\n
 			\n
@@ -33661,21 +33668,21 @@ INSTRUCTOR_MIS_08_TITLE (bot giver, creature_model kipee)
 // HASH_VALUE 8E8C00B862D5D49C
 INSTRUCTOR_MIS_09_DESC (bot giver)
 {
-		instructor_mis_09_desc	[Hilf $giver$ die Ordnung im außenposten aufrecht zu halten.]
+		instructor_mis_09_desc	[Hilf $giver$ die Ordnung im Außenposten aufrecht zu halten.]
 
 }
 
 // HASH_VALUE 6BDB54C31202A0EB
 INSTRUCTOR_MIS_09_END ()
 {
-		instructor_mis_09_end	[Gut! Dieses Gesindel ist nicht länger eine Gefahr für unseren außenposten.]
+		instructor_mis_09_end	[Gut! Dieses Gesindel ist nicht länger eine Gefahr für unseren Außenposten.]
 
 }
 
 // HASH_VALUE A9F31E83FA3C7421
 INSTRUCTOR_MIS_09_OBJ ()
 {
-		instructor_mis_09_obj	[Finde und töte die Banditen, welche sich in der Nähe des außenpostens niedergelassen haben.\n
+		instructor_mis_09_obj	[Finde und töte die Banditen, welche sich in der Nähe des Außenpostens niedergelassen haben.\n
 			Du solltest ein Team finden, wenn Du nicht sterben willst!]
 
 }
@@ -34147,10 +34154,10 @@ ITEM_SOLDED_TO_NPC ( item item, int qty, int price )
 ITEM_SOLD_TO_MARKET (item item, int qty )
 {
 	(qty=1)
-		item_sold_market_1	[&ITM&Dein $item$ wurde verkauft und der Händler hat Dir schon die entsprechenden Dapper gegeben.]
+		item_sold_market_1	[&ITM&Dein $item$ wurde nicht verkauft, aber Dir wurden bereits Dapper dafür gegeben.]
 
 	(qty>1)
-		item_sold_market_2	[&ITM&Deine $qty$ $item.p$ wurden verkauft und der Händler hat Dir schon die entsprechenden Dapper gegeben.]
+		item_sold_market_2	[&ITM&Deine $qty$ $item.p$ wurden nicht verkauft, aber Dir wurden bereits Dapper dafür gegeben.]
 
 }
 
@@ -34395,21 +34402,21 @@ KE0904_FYROS_INSTRUCTIONS_PHASE_1_TITLE (bot giver)
 /* OLD VALUE : [
 	KE0904_FYROS_INSTRUCTIONS_PHASE_2_P_END_HOW_CAN_HELP (bot camp_giver)
 	{
-			ke0904_fyros_instructions_phase_2_p_end_how_can_help	[Die Kitins dezimieren die Herden und zerstören alles auf ihrem Weg. Unsere tapferen Krieger sind dauernd damit beschäftigt, die Bedrohung zurückzudrängen und kümmern sich um die Jagd. Wir fürchten einen schreckliche Nahrungsmittelknappheit, die unsere Verteidigung noch weiter schwächen wird. Wenn Du ein Rohstoffabbauer bist, so stelle Deine Dienste $camp_giver$ zur Verfügung, er wird Dir sagen, woran es am meisten mangelt. Wenn Du ein Packtier besitzt, schließe Dich mit Freunden zusammen und bringe es zu $camp_giver$, unsere außenposten sind auf die Lieferung von Nahrung und Materialien angewiesen.]
+			ke0904_fyros_instructions_phase_2_p_end_how_can_help	[Die Kitins dezimieren die Herden und zerstören alles auf ihrem Weg. Unsere tapferen Krieger sind dauernd damit beschäftigt, die Bedrohung zurückzudrängen und kümmern sich um die Jagd. Wir fürchten einen schreckliche Nahrungsmittelknappheit, die unsere Verteidigung noch weiter schwächen wird. Wenn Du ein Rohstoffabbauer bist, so stelle Deine Dienste $camp_giver$ zur Verfügung, er wird Dir sagen, woran es am meisten mangelt. Wenn Du ein Packtier besitzt, schließe Dich mit Freunden zusammen und bringe es zu $camp_giver$, unsere Außenposten sind auf die Lieferung von Nahrung und Materialien angewiesen.]
 	}
 ] */
 // Clause 0 : text changed.
 // HASH_VALUE B9637CEA25921036
 KE0904_FYROS_INSTRUCTIONS_PHASE_2_P_END_HOW_CAN_HELP (bot camp_giver)
 {
-		ke0904_fyros_instructions_phase_2_p_end_how_can_help	[Die Kitins dezimieren die Herden und zerstören alles auf ihrem Weg. Unsere tapferen Krieger sind dauernd damit beschäftigt, die Bedrohung zurückzudrängen und kümmern sich um die Jagd. Wir fürchten einen schreckliche Nahrungsmittelknappheit, die unsere Verteidigung noch weiter schwächen wird. Wenn Du ein Rohstoffabbauer bist, so stelle Deine Dienste $camp_giver$ zur Verfügung, er wird Dir sagen, woran es am meisten mangelt. Wenn Du ein Packtier besitzt, schließe Dich mit Freunden zusammen und bringe es zu $camp_giver$, unsere außenposten sind auf die Lieferung von Nahrung und Materialien angewiesen.]
+		ke0904_fyros_instructions_phase_2_p_end_how_can_help	[Die Kitins dezimieren die Herden und zerstören alles auf ihrem Weg. Unsere tapferen Krieger sind dauernd damit beschäftigt, die Bedrohung zurückzudrängen und kümmern sich um die Jagd. Wir fürchten einen schreckliche Nahrungsmittelknappheit, die unsere Verteidigung noch weiter schwächen wird. Wenn Du ein Rohstoffabbauer bist, so stelle Deine Dienste $camp_giver$ zur Verfügung, er wird Dir sagen, woran es am meisten mangelt. Wenn Du ein Packtier besitzt, schließe Dich mit Freunden zusammen und bringe es zu $camp_giver$, unsere Außenposten sind auf die Lieferung von Nahrung und Materialien angewiesen.]
 
 }
 
 // HASH_VALUE AE27E90BAD33ECC7
 KE0904_FYROS_INSTRUCTIONS_PHASE_2_P_END_WHAT_DOING ()
 {
-		ke0904_fyros_instructions_phase_2_p_end_what_doing	[Kitinschwärme kämpfen sich durch unsere Länder, unsere außenposten sind belagert und mehrere Dörfer mussten evakuiert werden, die Flüchtlinge strömen in die Städte. Unsere Rohstoff-Lagerstätten sind größtenteils verwüstet, die Depots zerstört und die Nachschub-Karawanen niedergemacht. Wichte Lebensmittel werden schon knapp, wir müssen die Invasion zurückschlagen!]
+		ke0904_fyros_instructions_phase_2_p_end_what_doing	[Kitinschwärme kämpfen sich durch unsere Länder, unsere Außenposten sind belagert und mehrere Dörfer mussten evakuiert werden, die Flüchtlinge strömen in die Städte. Unsere Rohstoff-Lagerstätten sind größtenteils verwüstet, die Depots zerstört und die Nachschub-Karawanen niedergemacht. Wichte Lebensmittel werden schon knapp, wir müssen die Invasion zurückschlagen!]
 
 }
 
@@ -34717,7 +34724,7 @@ LEAGUE_INVITOR_NOT_LEADER ()
 }
 
 // HASH_VALUE 8FD6CB6B10B80ED5
-LEAGUE_PROPOSALL (player p)
+LEAGUE_PROPOSAL (player p)
 {
 	(p.gender = male)
 		league_proposal_m	[$p$ lädt dich in seine Liga ein.]
@@ -34771,14 +34778,14 @@ LITERAL ( literal lit )
 // HASH_VALUE 06E76BFA20B760FC
 LODGE_MASTER_PYR_D1 (bot givervar)
 {
-		lodge_master_pyr_d1	[Willkommen, $self$! Ich bin $givervar$, Logenmeister der Bohrer-Kundigen. Meine Gilde hat zur Aufgabe, den Homins das Handwerk der außenposten beizubringen. Ich bin hier, um Deine Fragen zu beantworten. Was willst du wissen?]
+		lodge_master_pyr_d1	[Willkommen, $self$! Ich bin $givervar$, Logenmeister der Bohrer-Kundigen. Meine Gilde hat zur Aufgabe, den Homins das Handwerk der Außenposten beizubringen. Ich bin hier, um Deine Fragen zu beantworten. Was willst du wissen?]
 
 }
 
 // HASH_VALUE 71E1F89D756A1827
 LODGE_MASTER_PYR_D1_1 ()
 {
-		lodge_master_pyr_d1_1	[Mich interessiert die Geschichte der außenposten.]
+		lodge_master_pyr_d1_1	[Mich interessiert die Geschichte der Außenposten.]
 
 }
 
@@ -34806,7 +34813,7 @@ LODGE_MASTER_PYR_D1_4 ()
 // HASH_VALUE 3B69619892688842
 LODGE_MASTER_PYR_D2 ()
 {
-		lodge_master_pyr_d2	[Weise ist Deine Neugier. Die Kundigen haben die Geschichte der außenposten auf die Schilder graviert, die auf den außenposten aufgestellt sind. Du brauchst nur die Inschriften auf den Schildern zu lesen, um zu erfahren wie die Vergangenheit die Orte, an denen die außenposten stehen, verändert hat.]
+		lodge_master_pyr_d2	[Weise ist Deine Neugier. Die Kundigen haben die Geschichte der Außenposten auf die Schilder graviert, die auf den Außenposten aufgestellt sind. Du brauchst nur die Inschriften auf den Schildern zu lesen, um zu erfahren wie die Vergangenheit die Orte, an denen die Außenposten stehen, verändert hat.]
 
 }
 
@@ -34827,7 +34834,7 @@ LODGE_MASTER_PYR_D2_2 ()
 // HASH_VALUE FA917B916E9CA11A
 LODGE_MASTER_PYR_D3 ()
 {
-		lodge_master_pyr_d3	[Die Loge der Bohrer-Kundigen entstand Ende des 25.Jahrhunderts, nach der Schließung der Bohrer auf den außenposten. Ihr Ziel war es, das Wissen um das Handwerk der außenposten zu sammeln, damit es nicht verloren geht. {break}Die Loge hat einige Bestände an Ressourcen in Sicherheit gebracht, die von den Bohrern gefördert worden waren, um mit ihren Experimenten fortzufahren und ihr Handwerk zu verfeinern. Jetzt wollen die Kundigen den Homins dieses Handwerk vorstellen.]
+		lodge_master_pyr_d3	[Die Loge der Bohrer-Kundigen entstand Ende des 25.Jahrhunderts, nach der Schließung der Bohrer auf den Außenposten. Ihr Ziel war es, das Wissen um das Handwerk der Außenposten zu sammeln, damit es nicht verloren geht. {break}Die Loge hat einige Bestände an Ressourcen in Sicherheit gebracht, die von den Bohrern gefördert worden waren, um mit ihren Experimenten fortzufahren und ihr Handwerk zu verfeinern. Jetzt wollen die Kundigen den Homins dieses Handwerk vorstellen.]
 
 }
 
@@ -34841,7 +34848,7 @@ LODGE_MASTER_PYR_D3_1 ()
 // HASH_VALUE 90D268BD724222D1
 LODGE_MASTER_PYR_D3_2 ()
 {
-		lodge_master_pyr_d3_2	[Woraus besteht das Handwerk der außenposten?]
+		lodge_master_pyr_d3_2	[Woraus besteht das Handwerk der Außenposten?]
 
 }
 
@@ -34862,14 +34869,14 @@ LODGE_MASTER_PYR_D5 ()
 // HASH_VALUE 6873EBD342C4BC2E
 LODGE_MASTER_PYR_D6 ()
 {
-		lodge_master_pyr_d6	[Die Gilde setzt sich aus Homins aller Völker zusammen. Sie wird von einer großen Loge Handwerkermeister dirigiert. Zur Zeit ist Meister Seadun Mac'Dolen unser Sprecher. Er ist der Sohn eines ehemaligen Schlammbildhauers, der es satt in der Einsamkeit der Winde der Musen hatte und zurück in die Tryker-Föderation gekehrt ist.{break}Kurz nachdem die Mächte die Wiedereröffnung der außenposten ankündigten, haben wir Stände in den Hauptstädten errichtet, um den Homins unser Wissen zu vermitteln.]
+		lodge_master_pyr_d6	[Die Gilde setzt sich aus Homins aller Völker zusammen. Sie wird von einer großen Loge Handwerkermeister dirigiert. Zur Zeit ist Meister Seadun Mac'Dolen unser Sprecher. Er ist der Sohn eines ehemaligen Schlammbildhauers, der es satt in der Einsamkeit der Winde der Musen hatte und zurück in die Tryker-Föderation gekehrt ist.{break}Kurz nachdem die Mächte die Wiedereröffnung der Außenposten ankündigten, haben wir Stände in den Hauptstädten errichtet, um den Homins unser Wissen zu vermitteln.]
 
 }
 
 // HASH_VALUE 998811A9428A1A52
 LODGE_MASTER_PYR_D7 ()
 {
-		lodge_master_pyr_d7	[Dieses Handwerk beruht auf der Nutzung von behandelten Materialien durch die Bohrer der Mächte - sei es Kami oder Karavan - um Waffen und Werkzeug mit außergewöhnlichen Eigenschaften herzustellen.{break}Es wurde vor einigen Jahrzehnten vom Tryker-Stamm der Schlammbildhauer erfunden, als die außenposten und der Handel sich entwickelten. Es hat nur so weit mit den Mächten zu tun, als dass es um Ressourcen ihrer Bohrerinnen geht.]
+		lodge_master_pyr_d7	[Dieses Handwerk beruht auf der Nutzung von behandelten Materialien durch die Bohrer der Mächte - sei es Kami oder Karavan - um Waffen und Werkzeug mit außergewöhnlichen Eigenschaften herzustellen.{break}Es wurde vor einigen Jahrzehnten vom Tryker-Stamm der Schlammbildhauer erfunden, als die Außenposten und der Handel sich entwickelten. Es hat nur so weit mit den Mächten zu tun, als dass es um Ressourcen ihrer Bohrerinnen geht.]
 
 }
 
@@ -36873,7 +36880,7 @@ MATIS_NEWB_WELCOME_STEP_1_1b ()
 // HASH_VALUE 0EC814CA3E0A0958
 MATIS_NEWB_WELCOME_STEP_1_1c ()
 {
-		matis_newb_welcome_step_1_1c	[Du bist auf einer kleinen Insel, nicht weit entfernt vom Hauptkontinent der Matis. Es gibt 5 kleine außenposten auf dieser Insel, und dies ist einer von ihnen.]
+		matis_newb_welcome_step_1_1c	[Du bist auf einer kleinen Insel, nicht weit entfernt vom Hauptkontinent der Matis. Es gibt 5 kleine Außenposten auf dieser Insel, und dies ist einer von ihnen.]
 
 }
 
@@ -36881,9 +36888,9 @@ MATIS_NEWB_WELCOME_STEP_1_1c ()
 MATIS_NEWB_WELCOME_STEP_1_2 (bot target, place capital)
 {
 	(target.gender = female)
-		matis_newb_welcome_step_1_2_f	[Genug der Worte. Du solltest nun die hochgeschätzten Persönlichkeiten dieses außenpostens kennenlernen. Bevor Du nach $capital$ abreist, der Matis Hauptstadt, möchte ich, dass Du mit $target$ sprichst.]
+		matis_newb_welcome_step_1_2_f	[Genug der Worte. Du solltest nun die hochgeschätzten Persönlichkeiten dieses Außenpostens kennenlernen. Bevor Du nach $capital$ abreist, der Matis Hauptstadt, möchte ich, dass Du mit $target$ sprichst.]
 
-		matis_newb_welcome_step_1_2_m	[Genug der Worte. Du solltest nun die hochgeschätzten Persönlichkeiten dieses außenpostens kennenlernen. Bevor Du nach $capital$ abreist, der Matis Hauptstadt, möchte ich, dass Du mit $target$ sprichst.]
+		matis_newb_welcome_step_1_2_m	[Genug der Worte. Du solltest nun die hochgeschätzten Persönlichkeiten dieses Außenpostens kennenlernen. Bevor Du nach $capital$ abreist, der Matis Hauptstadt, möchte ich, dass Du mit $target$ sprichst.]
 
 }
 
@@ -36947,7 +36954,7 @@ MATIS_NEWB_WELCOME_STEP_2_2_c (bot target)
 // HASH_VALUE 997A2EE51C0020EE
 MATIS_NEWB_WELCOME_STEP_3_1 ()
 {
-		matis_newb_welcome_step_3_1	[Willkommen in unserem außenposten, ich freue mich Dich kennenzulernen! Dies sind wichtige Zeiten.]
+		matis_newb_welcome_step_3_1	[Willkommen in unserem Außenposten, ich freue mich Dich kennenzulernen! Dies sind wichtige Zeiten.]
 
 }
 
@@ -37148,7 +37155,7 @@ MATIS_NEWB_WELCOME_STEP_7_2_b (bot giver)
 // HASH_VALUE 74D1096313C18690
 MATIS_NEWB_WELCOME_STEP_8_1 ()
 {
-		matis_newb_welcome_step_8_1	[Prima! Nun kennst Du unseren außenposten ein wenig besser. Bevor Du Dich nun aber den Gefahren des Hauptkontinents stellst, musst Du noch etwas trainieren, stärker werden und Dein Wissen ausbauen.]
+		matis_newb_welcome_step_8_1	[Prima! Nun kennst Du unseren Außenposten ein wenig besser. Bevor Du Dich nun aber den Gefahren des Hauptkontinents stellst, musst Du noch etwas trainieren, stärker werden und Dein Wissen ausbauen.]
 
 }
 
@@ -37190,7 +37197,7 @@ MATIS_NEWB_WELCOME_STEP_9_1_b (place place_yrkanis)
 // HASH_VALUE AC0C848D3FB74179
 MATIS_NEWB_WELCOME_STEP_9_1_c ()
 {
-		matis_newb_welcome_step_9_1_c	[Im außenposten wirst Du einen Führer finden, der Dich zu den Karavan bringen kann. Sie haben die Macht Dich auf den Hauptkontinent zu teleportieren. Auf dem Hauptkontinent solltest Du mit dem Stadtvorsteher reden.]
+		matis_newb_welcome_step_9_1_c	[Im Außenposten wirst Du einen Führer finden, der Dich zu den Karavan bringen kann. Sie haben die Macht Dich auf den Hauptkontinent zu teleportieren. Auf dem Hauptkontinent solltest Du mit dem Stadtvorsteher reden.]
 
 }
 
@@ -37403,6 +37410,13 @@ MENU_AN_OPENING ()
 
 }
 
+// HASH_VALUE E0171C64E0552494
+MENU_BANARC ()
+{
+			[Banarc]
+
+}
+
 // HASH_VALUE B4321C626C3A3484
 MENU_BUY_NATION_ITEMS ()
 {
@@ -37417,10 +37431,24 @@ MENU_BUY_PVP ()
 
 }
 
+// HASH_VALUE 48583456AE5AE432
+MENU_CAN_I_HELP_YOU ()
+{
+			[Kannst du mir helfen?]
+
+}
+
 // HASH_VALUE 7484942F337068FF
 MENU_CASINO_INSERT_COIN ()
 {
 			[Setze Jeton]
+
+}
+
+// HASH_VALUE 8D69FC3CE7958B8C
+MENU_DELES_SILAM ()
+{
+			[Deles Silam]
 
 }
 
@@ -37452,6 +37480,13 @@ MENU_HAVE_MISSION ()
 
 }
 
+// HASH_VALUE A5E3EB3B7080146A
+MENU_HAVE_SOMETHINH_FOR_ME ()
+{
+			[Hast du etwas für mich?]
+
+}
+
 // HASH_VALUE D7065F6B15C44E92
 MENU_HELLO ()
 {
@@ -37480,10 +37515,24 @@ MENU_HOF ()
 
 }
 
+// HASH_VALUE DFB6088196347B98
+MENU_KAMIA_ATA ()
+{
+			[Kamia'ata]
+
+}
+
 // HASH_VALUE 6A5644916017488F
 MENU_LIGHT_UP ()
 {
 			[Anzünden]
+
+}
+
+// HASH_VALUE 6B08F0792DA5189C
+MENU_LORDOY ()
+{
+			[Lordoy]
 
 }
 
@@ -37494,10 +37543,31 @@ MENU_MATISPOETRY ()
 
 }
 
+// HASH_VALUE A666705B25C4B47C
+MENU_DANGER ()
+{
+			[Gefahr]
+
+}
+
+// HASH_VALUE D034A258ECA4C057
+MENU_NEED_SOME_INFORMATIONS ()
+{
+			[Ich brauche Informationen...]
+
+}
+
 // HASH_VALUE 2E151C3CE0D2F84A
 MENU_OPEN_CHEST ()
 {
 			[Öffne die Kiste]
+
+}
+
+// HASH_VALUE 6C58043C201C9480
+MENU_OPEN_IT ()
+{
+			[Öffne es!]
 
 }
 
@@ -37511,7 +37581,7 @@ MENU_OREN_PYR ()
 // HASH_VALUE 1B78F408E6E6BC27
 MENU_OUTPOST ()
 {
-			[Schaue auf die Flagge des außenpostens]
+			[Schaue auf die Flagge des Außenpostens]
 
 }
 
@@ -37595,7 +37665,7 @@ MENU_TRADE ()
 // HASH_VALUE 5E79C47B9AFAE07D
 MENU_USE_PA ()
 {
-			[Ihre Beteiligung nutzen]
+			[Ihre Elyps nutzen]
 
 }
 
@@ -37615,6 +37685,34 @@ MENU_WHOISKARAVAN (player p, bot b)
 {
 	(b.race = karavan)
 		menu_who_is_karavan	[Was sind die Karavan?]
+
+}
+
+// HASH_VALUE 6018F45C6018F45C
+MENU_WOHA ()
+{
+			[Woha]
+
+}
+
+// HASH_VALUE 513A5C55ABC6D39F
+MENU_WOREN_SILOY ()
+{
+			[Woren Siloy]
+
+}
+
+// HASH_VALUE A1543F9ADEB3535D
+MENU_ZIGA ()
+{
+			[Streichle Ari.]
+
+}
+
+// HASH_VALUE 12E8C386E6355467
+MENU_ZIGB ()
+{
+			[Streichle Tynee.]
 
 }
 
@@ -41018,7 +41116,7 @@ MISSION_MAX_SOLO_REACHED ()
 // HASH_VALUE 923525270019F64B
 MISSION_PREREQ_ACTION (sbrick s)
 {
-			[Für diese Mission müssen Sie die Stanza "$s$" beherrschen.]
+			[Für diese Mission musst Du die Stanza "$s$" beherrschen.]
 
 }
 
@@ -41046,28 +41144,28 @@ MISSION_PREREQ_ENCYCLO_ALL_DONE (dyn_string_id thema, dyn_string_id album)
 // HASH_VALUE AA972AC236D15732
 MISSION_PREREQ_EVENT_FACTION (event_faction ef)
 {
-			[Sie müssen in der Eventfraktion '$ef$'sein.]
+			[Du musst in der Eventfraktion '$ef$'sein.]
 
 }
 
 // HASH_VALUE 0DFCF30ED9F115FD
 MISSION_PREREQ_FAME_FACTION (faction f, int level)
 {
-			[Sie müssen mindestens eine Ruhmstufe von $level$ bei der Fraktion $f$ haben.]
+			[Du musst mindestens eine Ruhmstufe von $level$ bei der Fraktion $f$ haben.]
 
 }
 
 // HASH_VALUE 94DD0E9B083FF5F4
 MISSION_PREREQ_KAMI ()
 {
-			[Ihr Ruhm bei den Kamis müss höher sein als der bei der Karavan.]
+			[Dein Ruhm bei den Kamis muss höher sein als bei den Karavan.]
 
 }
 
 // HASH_VALUE 9D95C86D2895AE00
 MISSION_PREREQ_KARAVAN ()
 {
-			[Ihr Ruhm bei der Karavan muss höher sein als der bei den Kamis.]
+			[Dein Ruhm bei den Karavan muss höher sein als bei den Kamis.]
 
 }
 
@@ -41102,7 +41200,7 @@ MISSION_PREREQ_MISSION_RUNNING (dyn_string_id str)
 // HASH_VALUE 231F493A834B9768
 MISSION_PREREQ_MONO ()
 {
-			[Diese Mission kann zurzeit nicht genommen werden, komme später wieder.]
+			[Diese Mission kann zurzeit nicht genommen werden, komm später wieder.]
 
 }
 
@@ -41178,7 +41276,7 @@ MISSION_PREREQ_TEAM_LEADER ()
 // HASH_VALUE 345611AFA150C5BE
 MISSION_PREREQ_TEAM_SIZE (int n)
 {
-			[Ihr Team muss mindestens aus $n$ Mitgliedern bestehen.]
+			[Dein Team muss mindestens aus $n$ Mitgliedern bestehen.]
 
 }
 
@@ -41198,7 +41296,7 @@ MISSION_PREREQ_TIMER (int days, int h, int m)
 // HASH_VALUE D7C8585B2742189B
 MISSION_PREREQ_TITLE (title title)
 {
-			[Sie müssen den Titel "$title$" anzeigen.]
+			[Du musst den Titel "$title$" anzeigen.]
 
 }
 
@@ -41800,7 +41898,7 @@ MISSION_TRYKER_08_P_LDCC_INTRO (item mp_dead_leaf)
 // HASH_VALUE 692D5DDBF6F95295
 MISSION_TRYKER_08_P_OVL_VISIT_ILOT (place lieu_ilot)
 {
-		mission_tryker_08_p_ovl_visit_ilot	[Treffen auf der kleinen Insel nordöstlich des Lagers]
+		mission_tryker_08_p_ovl_visit_ilot	[Treffen auf der kleinen Insel nordwestlich des Lagers]
 
 }
 
@@ -47308,7 +47406,7 @@ ONCLICK_NEWB_MATIS_GUARD_1 ()
 // HASH_VALUE C58CEF66C0FE8DF1
 ONCLICK_NEWB_MATIS_GUARD_2 ()
 {
-		onclick_newb_matis_guard_2	[Hey! Hast Du die Karavan Wächter gesehen?! Ein Krieger im außenposten sagt sie seien noch gefährlicher als Fyroskrieger. Ist das möglich?]
+		onclick_newb_matis_guard_2	[Hey! Hast Du die Karavan Wächter gesehen?! Ein Krieger im Außenposten sagt sie seien noch gefährlicher als Fyroskrieger. Ist das möglich?]
 
 }
 
@@ -47799,28 +47897,28 @@ OPS_WELCOME ()
 // HASH_VALUE BB84286E67613D94
 OUTPOST_ATTACKER (string_id str)
 {
-			[&SYS&$str$ greift den außenposten an.]
+			[&SYS&$str$ greift den Außenposten an.]
 
 }
 
 // HASH_VALUE D0FFE8B1E7C1D62D
 OUTPOST_BCM_LAST_ROUND_LOST (outpost o, int side)
 {
-			[&OSM&Sie haben die Runde verloren.]
+			[&OSM&Ihr habt die Runde verloren.]
 
 }
 
 // HASH_VALUE CF6EE8B1E708FE22
 OUTPOST_BCM_LAST_ROUND_WON (outpost o, int side)
 {
-			[&OSM&Sie haben die Runde gewonnen.]
+			[&OSM&Ihr habt die Runde gewonnen.]
 
 }
 
 // HASH_VALUE D0FFE8B1E7C1D62D
 OUTPOST_BCM_ROUND_LOST (outpost o, int side)
 {
-			[&OSM&Sie haben die Runde verloren.]
+			[&OSM&Ihr habt die Runde verloren.]
 
 }
 
@@ -47834,14 +47932,14 @@ OUTPOST_BCM_ROUND_NEAR_END (outpost o, int side)
 // HASH_VALUE CF6EE8B1E708FE22
 OUTPOST_BCM_ROUND_WON (outpost o, int side)
 {
-			[&OSM&Sie haben die Runde gewonnen.]
+			[&OSM&Ihr habt die Runde gewonnen.]
 
 }
 
 // HASH_VALUE 6972CBADCA9297F7
 OUTPOST_BCM_UNKNOWN (outpost o, int side)
 {
-			[&OSM&Fehler: Unbekannte außenposten-Meldung.]
+			[&OSM&Fehler: Unbekannte Außenposten-Meldung.]
 
 }
 
@@ -47849,12 +47947,12 @@ OUTPOST_BCM_UNKNOWN (outpost o, int side)
 OUTPOST_BCP_ATTACK_FAILED (outpost o, int side)
 {
 	(side = 0)
-			[Der Angriff auf $o.name$ ist gescheitert, Sie behalten die Kontrolle über den außenpostens.]
+			[Der Angriff auf den Außenposten $o.name$ ist gescheitert.Ihr behaltet die Kontrolle über den Außenposten.]
 
 	(side = 1)
-			[Der Angriff auf den außenposten $o.name$ ist gescheitert, Ihr Versuch, den außenposten zu erobern, ist misslungen.]
+			[Der Angriff auf den Außenposten $o.name$ ist gescheitertDer Versuch, den Außenposten zu erobern, wurde vereitelt.]
 
-			[Der Angriff des außenpostens ist gescheitert.]
+			[Der Angriff des Außenpostens ist gescheitert.]
 
 }
 
@@ -47875,9 +47973,9 @@ OUTPOST_BCP_ATTACK_FAILED_TITLE (outpost o, int side)
 OUTPOST_BCP_ATTACK_ROUNDS (outpost o, int side)
 {
 	(side = 0)
-			[Die Angriffsperiode gegen Ihren außenposten $o.name$ hat begonnen!]
+			[Die Angriffsphase gegen Euren Außenposten $o.name$ hat begonnen!]
 
-			[Die Angriffsperiode gegen Ihren außenposten $o.name$ hat begonnen!]
+			[Die Angriffsphase gegen Euren Außenposten $o.name$ hat begonnen!]
 
 }
 
@@ -47892,12 +47990,12 @@ OUTPOST_BCP_ATTACK_ROUNDS_TITLE (outpost o, int side)
 OUTPOST_BCP_ATTACK_SUCCEEDED (outpost o, int side, int guild_owner)
 {
 	(guild_owner = 1)
-			[Der Angriff auf den außenposten $o.name$ ist gelungen, bereiten Sie sich auf die Verteidigungsphase vor.]
+			[Der Angriff auf den Außenposten $o.name$ ist gelungen.Bereitet euch auf die Verteidigungsphase vor.]
 
 	(guild_owner = 0 and side = 1)
-			[Der Angriff auf den außenposten $o.name$ ist gelungen, Sie werden die Kontrolle über den außenposten übernehmen.]
+			[Der Angriff auf den Außenposten $o.name$ ist gelungen.Ihr übernehmt die Kontrolle über den Außenposten.]
 
-			[Der Angriff auf den außenposten ist gelungen.]
+			[Der Angriff auf den Außenposten war erfolgreich.]
 
 }
 
@@ -47918,12 +48016,12 @@ OUTPOST_BCP_ATTACK_SUCCEEDED_TITLE (outpost o, int side)
 OUTPOST_BCP_DEFENSE_FAILED (outpost o, int side)
 {
 	(side = 0)
-			[Die Verteidigung des außenpostens $o.name$ ist gescheitert, Sie werden die Kontrolle über den außenposten verlieren.]
+			[Die Verteidigung des Außenpostens $o.name$ ist gescheitert.Ihr verliert die Kontrolle über den Außenposten.]
 
 	(side = 1)
-			[Die Verteidigung des außenpostens $o.name$ ist gescheitert, Sie werden die Kontrolle über den außenposten übernehmen.]
+			[Die Verteidigung des Außenpostens $o.name$ ist gescheitert.Ihr übernimmt die Kontrolle über den Außenposten.]
 
-			[Die Verteidigung des außenpostens ist gescheitert.]
+			[Die Verteidigung des Außenpostens ist gescheitert.]
 
 }
 
@@ -47944,9 +48042,9 @@ OUTPOST_BCP_DEFENSE_FAILED_TITLE (outpost o, int side)
 OUTPOST_BCP_DEFENSE_ROUNDS (outpost o, int side)
 {
 	(side = 0)
-			[Die Verteidigungsperiode Ihres außenpostens $o.name$ hat begonnen!]
+			[Die Verteidigungsphase eures Außenpostens $o.name$ hat begonnen!]
 
-			[Die Verteidigungsperiode des außenpostens $o.name$ hat begonnen!]
+			[Die Verteidigungsphase des Außenpostens $o.name$ hat begonnen!]
 
 }
 
@@ -47961,12 +48059,12 @@ OUTPOST_BCP_DEFENSE_ROUNDS_TITLE (outpost o, int side)
 OUTPOST_BCP_DEFENSE_SUCEEDED (outpost o, int side)
 {
 	(side = 0)
-			[Die Verteidigung des außenpostens $o.name$ ist gelungen, Sie behalten die Kontrolle des außenpostens.]
+			[Die Verteidigung des Außenpostens $o.name$ war erfolgreich; ihr behaltet die Kontrolle über den Außenpostens.]
 
 	(side = 1)
-			[Die Verteidigung des außenpostens $o.name$ ist gelungen; Ihr Versuch, die Kontrolle zu übernehmen, ist gescheitert.]
+			[Die Verteidigung des Außenpostens $o.name$ war erfolgreich; der Versuch der Kontrollübernahme ist aber gescheitert.]
 
-			[Die Verteidigung des außenpostens ist gelungen.]
+			[Die Verteidigung des Außenpostens war erfolgreich.]
 
 }
 
@@ -47993,7 +48091,7 @@ OUTPOST_BCP_UNKNOWN (outpost o, int side)
 // HASH_VALUE 4E74B1F115621809
 OUTPOST_BCP_UNKNOWN_TITLE (outpost o, int side)
 {
-			[Fehler: Unbekannte außenposten-Meldung]
+			[Fehler: Unbekannte Außenposten-Meldung]
 
 }
 
@@ -48001,16 +48099,16 @@ OUTPOST_BCP_UNKNOWN_TITLE (outpost o, int side)
 OUTPOST_BCP_WAR_DECLARED (outpost o, int side)
 {
 	(side = 0)
-			[Auf Ihrem außenposten $o.name$ wurde Krieg erklärt.]
+			[Eurem Außenposten $o.name$ wurde der Krieg erklärt.]
 
-			[Ihre Gilde hat dem außenposten $o.name$ Krieg erklärt.]
+			[Eure Gilde hat dem Außenposten $o.name$ den Krieg erklärt.]
 
 }
 
 // HASH_VALUE BA647031D81D38CA
 OUTPOST_BCP_WAR_DECLARED_TITLE (outpost o, int side)
 {
-			[Der Krieg ist erklärt]
+			[Kriegserklärung]
 
 }
 
@@ -48031,70 +48129,70 @@ OUTPOST_CANNOT_BUY_SQUADS_B ()
 // HASH_VALUE 48C84188AB25DD38
 OUTPOST_CANT_FREE_LAST_SQUAD ()
 {
-			[&CHK&Sie können die letzte Truppe nicht löschen, sonst ist der außenposten verloren.]
+			[&CHK&Ihr könnt die letzte Truppe nicht löschen, denn sonst ist der Außenposten verloren.]
 
 }
 
 // HASH_VALUE E91831186DBC058E
 OUTPOST_CANT_PARTICIPATE ()
 {
-			[&CHK&Sie sind von diesem außenposten verbannt, Sie können nicht am laufenden Konflikt teilnehmen.]
+			[&CHK&Du bist von diesem Außenposten verbannt und können nicht am laufenden Konflikt teilnehmen.]
 
 }
 
 // HASH_VALUE CE96CC4B535C8AF2
 OUTPOST_CANT_PARTICIPATE_ATTACK ()
 {
-			[&CHK&Sie werden vom Lager der Angreifer für die Schlacht dieses vorgeschobenen Postens verbannt.]
+			[&CHK&Du wist vom Lager der Angreifer für die Schlacht dieses vorgeschobenen Postens verbannt.]
 
 }
 
 // HASH_VALUE 4AEDD052543C7EF6
 OUTPOST_CANT_PARTICIPATE_DEFENSE ()
 {
-			[&CHK&Sie werden vom Lager der Verteidiger für die Schlacht dieses vorgeschobenen Postens verbannt.]
+			[&CHK&Du wirst vom Lager der Verteidiger für die Schlacht dieses vorgeschobenen Postens verbannt.]
 
 }
 
 // HASH_VALUE 5894040364AE27FE
 OUTPOST_CANT_PAY_SQUAD_WAGE (string_id str)
 {
-			[&CHK&$str$ hat nicht genug Geld, um das Gehalt der Gruppe zu zahlen. Diese verlässt den außenposten!]
+			[&CHK&$str$ hat nicht genug Geld, um das Gehalt der Gruppe zu zahlen. Dieser verlässt den Außenposten!]
 
 }
 
 // HASH_VALUE 021E0EDFB79FC31F
 OUTPOST_EDITING_CONCURRENCY_ISSUE (player p)
 {
-			[&CHK&$p$ ist dabei einen außenposten herauszugeben, versuchen Sie es später noch ein Mal.]
+			[&CHK&$p$ ist dabei einen Außenposten herauszugeben, versuch es später noch ein Mal.]
 
 }
 
 // HASH_VALUE 967E0A2723302B8A
 OUTPOST_ERROR_ALREADY_ATTACKED ()
 {
-			[Dieser außenposten wird schon angegriffen.]
+			[Dieser Außenposten wird schon angegriffen.]
 
 }
 
 // HASH_VALUE E8A6B8A8C620E372
 OUTPOST_ERROR_ALREADY_OWNED ()
 {
-			[Sie besitzen diesen außenposten schon.]
+			[Du besitzt diesen Außenposten schon.]
 
 }
 
 // HASH_VALUE 58CA360736255105
 OUTPOST_ERROR_BAD_GUILD_GRADE ()
 {
-			[Sie haben nicht den nötigen Grad in Ihrer Gilde, um diesen außenposten anzugreifen.]
+			[Du hast nicht den nötigen Rang in deiner Gilde, um diesen Außenposten anzugreifen.]
 
 }
 
 // HASH_VALUE 52B18FE683E2E830
 OUTPOST_ERROR_BAD_MEMBER_LEVEL ()
 {
-			[Du musst einen Spieler mit ausreichender Fertigkeits-Stufe und Spiel-Zeit in der Gilde haben, um diesen AuÃenposten zu besetzen. Erforderliche Stufe und Spielzeit hängen von der Stufe des Außenpostens ab.]
+			[Du musst einen Spieler mit ausreichender Fertigkeits-Stufe und Spiel-Zeit in der Gilde haben, um diesen Außenposten zu besetzen. Erforderliche Stufe und Spielzeit hängen von der Stufe des Außenpostens ab.]
 
 }
 
@@ -48143,7 +48241,7 @@ OUTPOST_ERROR_TIME_PERIOD_ESTIMATION_CHANGED ()
 // HASH_VALUE 3ACF5A57D0DDF770
 OUTPOST_ERROR_TOO_MANY_GUILD_OUTPOSTS ()
 {
-			[Ihre Gilde kann nicht mehr Außenposten erobern.]
+			[Deine Gilde kann nicht mehr Außenposten erobern.]
 
 }
 
@@ -48178,84 +48276,84 @@ OUTPOST_EVENT_AttackerVanished ()
 // HASH_VALUE D20944D21AB5405E
 OUTPOST_EVENT_Challenged ()
 {
-			[&SYS&Der außenposten wird heraus gefordert.]
+			[&SYS&Der Außenposten wird herausgefordert.]
 
 }
 
 // HASH_VALUE C24BE096E9F4D2D4
 OUTPOST_EVENT_OwnerGiveUp ()
 {
-			[&SYS&Der Besitzer des außenpostens hat aufgegeben.]
+			[&SYS&Der Besitzer des Außenpostens hat aufgegeben.]
 
 }
 
 // HASH_VALUE BD925CF8033BBFD2
 OUTPOST_EVENT_OwnerVanished ()
 {
-			[&SYS&Der Besitzer des außenpostens ist verschwunden.]
+			[&SYS&Der Besitzer des Außenpostens ist verschwunden.]
 
 }
 
 // HASH_VALUE AB1E2DF5E10F0CDE
 OUTPOST_EVENT_TimerEnd ()
 {
-			[&SYS&Die Zeit im außenposten ist abgelaufen.]
+			[&SYS&Die Zeit im Außenposten ist abgelaufen.]
 
 }
 
 // HASH_VALUE 7EB900456DA8EDEF
 OUTPOST_GUILD_BANISHED_ATTACK ()
 {
-			[&SYS&Ihre Gilde wurde soeben vom Lager der Angreifer für die Schlacht dieses vorgeschobenen Postens verbannt.]
+			[&SYS&Deine Gilde wurde soeben vom Lager der Angreifer für die Schlacht dieses vorgeschobenen Postens verbannt.]
 
 }
 
 // HASH_VALUE DBC91C49EC77FDE1
 OUTPOST_GUILD_BANISHED_DEFENSE ()
 {
-			[&SYS&Ihre Gilde wurde soeben vom Lager der Verteidiger für die Schlacht dieses vorgeschobenen Postens verbannt.]
+			[&SYS&Deine Gilde wurde soeben vom Lager der Verteidiger für die Schlacht dieses vorgeschobenen Postens verbannt.]
 
 }
 
 // HASH_VALUE 8746F547D8B8B6F6
 OUTPOST_IN_CONFLICT ()
 {
-			[&SYS&Sie nehmen am Konflikt auf diesem außenposten teil.]
+			[&SYS&Du nimmst am Konflikt auf diesem Außenposten teil.]
 
 }
 
 // HASH_VALUE 90783C6A0A77E13B
 OUTPOST_LEAVE_ZONE (outpost o)
 {
-			[&SYS&Sie verlassen den außenposten $o.name$.]
+			[&SYS&Du verlässt den Außenposten $o.name$.]
 
 }
 
 // HASH_VALUE 07AB156EE5022A56
 OUTPOST_NO_MORE_IN_CONFLICT ()
 {
-			[&SYS&Sie sind in keinen außenpostenkampf mehr verwickelt.]
+			[&SYS&Du bist in keinem Außenpostenkampf mehr verwickelt.]
 
 }
 
 // HASH_VALUE 29D33CD92E298C12
 OUTPOST_OWNER (string_id str)
 {
-			[&SYS&$str$ besitzt jetzt den außenposten]
+			[&SYS&$str$ besitzt jetzt den Außenposten]
 
 }
 
 // HASH_VALUE CB9A90BE9B34F756
 OUTPOST_PLAYER_BANISHED_ATTACK ()
 {
-			[&SYS&Sie wurden soeben vom Angriff dieses vorgeschobenen Postens verbannt.]
+			[&SYS&Du wurdest soeben vom Angriff dieses vorgeschobenen Postens verbannt.]
 
 }
 
 // HASH_VALUE 90E1792144C89E3A
 OUTPOST_PLAYER_BANISHED_DEFENSE ()
 {
-			[&SYS&Sie wurden soeben von der Verteidigung dieses vorgeschobenen Postens verbannt.]
+			[&SYS&Du wurdest soeben von der Verteidigung dieses vorgeschobenen Postens verbannt.]
 
 }
 
@@ -48269,42 +48367,42 @@ OUTPOST_SQUAD_RECRUITED ()
 // HASH_VALUE 4892A6BBF530F001
 OUTPOST_STATE_Attack ()
 {
-			[&SYS&Der außenposten unterstützt jetzt einen Angriff.]
+			[&SYS&Der Außenposten unterstützt jetzt einen Angriff.]
 
 }
 
 // HASH_VALUE 0A949F188D57CEE6
 OUTPOST_STATE_CounterAttack ()
 {
-			[&SYS&Der außenposten unterstützt jetzt einen Gegenangriff.]
+			[&SYS&Der Außenposten unterstützt jetzt einen Gegenangriff.]
 
 }
 
 // HASH_VALUE D1394404998B6469
 OUTPOST_STATE_Peace ()
 {
-			[&SYS&Der außenposten ist jetzt friedlich.]
+			[&SYS&Der Außenposten ist jetzt friedlich.]
 
 }
 
 // HASH_VALUE DACCEA41DC756A4B
 OUTPOST_STATE_WarDeclaration ()
 {
-			[&SYS&Ein Konflikt ist im außenposten ausgebrochen.]
+			[&SYS&Ein Konflikt ist im Außenposten ausgebrochen.]
 
 }
 
 // HASH_VALUE 526A52CB3CC182CF
 OUTPOST_STATE_WarTransition ()
 {
-			[&SYS&Bald wird ein Gegenangriff im außenposten gestartet...]
+			[&SYS&Bald wird ein Gegenangriff im Außenposten gestartet...]
 
 }
 
 // HASH_VALUE 5F7E5B28EA40C655
 OUTPOST_VERSION_NOT_SYNC ()
 {
-			[&CHK&Ihre Aktion auf den außenposten wurde abgelehnt, das eine andere Aktion am Laufen war.]
+			[&CHK&Ihre Aktion auf den Außenposten wurde abgelehnt, das eine andere Aktion am Laufen war.]
 
 }
 
@@ -49545,7 +49643,7 @@ RANGESTATE5 ()
 // HASH_VALUE C9DAF6B9A853EEF6
 RANGESTATE6 ()
 {
-		rangestate6	[Der allerbeste Raketenwerfer auf dem Markt, hol ihn Dir jetzt!]
+		rangestate6	[Der allerbeste Granatenwerfer auf dem Markt, hol ihn Dir jetzt!]
 
 }
 
@@ -52841,7 +52939,7 @@ R_01_07_P_DC_T2_HELLO_HUNTER (bot hunter)
 // HASH_VALUE FBE69599D6C7CD92
 R_01_07_P_LDF_BARMAN_INTRO (bot hunter, place region_f)
 {
-		r_01_07_p_ldf_barman_intro	[Herzlich willkommen! Kennen Sie unser wundervolles Land gut, Homin? $region_f.da$ $region_f$ ist eine unserer schönsten Regionen. Wenn Sie sie entdecken wollen, müssen Sie unbedingt $hunter$ kennenlernen.{break}$hunter$ ist ein Jäger, der die meiste Zeit dort lebt. Er kommt regelmäßig in die Gegend der außenposten der Region. Finden Sie ihn und sagen ihm, dass ich Sie schicke. Kommen Sie bei Ihrer Rückkehr bei mir vorbei, ich werde Ihnen eine sehr praktische Kartierungstechnik beibringen.]
+		r_01_07_p_ldf_barman_intro	[Herzlich willkommen! Kennen Sie unser wundervolles Land gut, Homin? $region_f.da$ $region_f$ ist eine unserer schönsten Regionen. Wenn Sie sie entdecken wollen, müssen Sie unbedingt $hunter$ kennenlernen.{break}$hunter$ ist ein Jäger, der die meiste Zeit dort lebt. Er kommt regelmäßig in die Gegend der Außenposten der Region. Finden Sie ihn und sagen ihm, dass ich Sie schicke. Kommen Sie bei Ihrer Rückkehr bei mir vorbei, ich werde Ihnen eine sehr praktische Kartierungstechnik beibringen.]
 
 }
 
@@ -53142,21 +53240,21 @@ R_01_27_M_T2_SUPPLIER_3 (bot supplier_3, item item_to_loot_3)
 // HASH_VALUE 37E687B1CA3D6C0A
 R_01_27_O_ES_1 ()
 {
-		r_01_27_o_es_1	[Eskortiere den Konvoi zum ersten außenposten.]
+		r_01_27_o_es_1	[Eskortiere den Konvoi zum ersten Außenposten.]
 
 }
 
 // HASH_VALUE 74644FB14DDCEB94
 R_01_27_O_ES_2 ()
 {
-		r_01_27_o_es_2	[Eskortiere den Konvoi zum zweiten außenposten.]
+		r_01_27_o_es_2	[Eskortiere den Konvoi zum zweiten Außenposten.]
 
 }
 
 // HASH_VALUE 33D663B04E3D740A
 R_01_27_O_ES_3 ()
 {
-		r_01_27_o_es_3	[Eskortiere den Konvoi zum dritten außenposten.]
+		r_01_27_o_es_3	[Eskortiere den Konvoi zum dritten Außenposten.]
 
 }
 
@@ -53198,7 +53296,7 @@ R_01_27_O_VI_PLAGE (place place)
 // HASH_VALUE F6F1FF011307705B
 R_01_27_P_BC_BRIEF_ESCORT_1 (faction corsairs, race mektoub)
 {
-		r_01_27_p_bc_brief_escort_1	[Das ist richtig... Ihre Anwesenheit wird mir die Sache erleichtern! Ich vertreibe die Produkte der hier ansässigen Stämme und ich muss zu den außenposten der $corsairs$ gehen und dort einige Güter abholen. Ich habe einen $mektoub$ um uns zu helfen, und Ihre Aufgabe besteht darin, ihn zu beschützen.]
+		r_01_27_p_bc_brief_escort_1	[Das ist richtig... Ihre Anwesenheit wird mir die Sache erleichtern! Ich vertreibe die Produkte der hier ansässigen Stämme und ich muss zu den Außenposten der $corsairs$ gehen und dort einige Güter abholen. Ich habe einen $mektoub$ um uns zu helfen, und Ihre Aufgabe besteht darin, ihn zu beschützen.]
 
 }
 
@@ -53240,7 +53338,7 @@ R_01_27_P_BC_ES_1B ()
 // HASH_VALUE EFF073F5F863D2C2
 R_01_27_P_BC_ES_2 ()
 {
-		r_01_27_p_bc_es_2	[Grossartig, und weiter gehts zum zweiten außenposten...]
+		r_01_27_p_bc_es_2	[Grossartig, und weiter gehts zum zweiten Außenposten...]
 
 }
 
@@ -54100,7 +54198,7 @@ R_04_02_P_BC_DEBRIEF_1 (bot player)
 // HASH_VALUE E7E3D34E0A0C722E
 R_04_02_P_LDF_INTRO_1 (place oflovaksoasis)
 {
-		r_04_02_p_ldf_intro_1	[Fasern sind sehr selten und wir müssen sie um jeden Preis verstehen lernen, da sie zur Herstellung von Munition benötigt werden.{break}Unsere Lande der $oflovaksoasis$ beherbergen ein paar dieser Fasern und mir wurde gesagt, dass einige nur im Sommer vorkommen und andere nur im Winter. Diese Vorkommnisse sollen sich zwischen zwei außenposten in $oflovaksoasis$ befinden.{break}Wenn Sie mir Fasern aus diesen Vorkommnissen bringen könnten, werden ich Ihnen zeigen, wie man mehr Zeit erhält, um eine Quelle auszubeuten.]
+		r_04_02_p_ldf_intro_1	[Fasern sind sehr selten und wir müssen sie um jeden Preis verstehen lernen, da sie zur Herstellung von Munition benötigt werden.{break}Unsere Lande der $oflovaksoasis$ beherbergen ein paar dieser Fasern und mir wurde gesagt, dass einige nur im Sommer vorkommen und andere nur im Winter. Diese Vorkommnisse sollen sich zwischen zwei Außenposten in $oflovaksoasis$ befinden.{break}Wenn Sie mir Fasern aus diesen Vorkommnissen bringen könnten, werden ich Ihnen zeigen, wie man mehr Zeit erhält, um eine Quelle auszubeuten.]
 
 }
 
@@ -55062,7 +55160,7 @@ R_05_39_O_SAVE_PEONS_1 ()
 // HASH_VALUE A379B3702FCF562D
 R_05_39_O_VISIT_PLACE_1 (place place_1)
 {
-		r_05_39_o_visit_place_1	[Suche nach der Spur der Bestie in der Nähe des außenpostens.]
+		r_05_39_o_visit_place_1	[Suche nach der Spur der Bestie in der Nähe des Außenpostens.]
 
 }
 
@@ -55083,14 +55181,14 @@ R_05_39_P_BC_CHASE_CREATURE_1 ()
 /* OLD VALUE : [
 	R_05_39_P_BC_CHIEF_BRIEF_1 ()
 	{
-			r_05_39_p_bc_chief_brief_1	[Du bist also gekommen um uns von der Bestie zu befreien? Bist Du Dir sicher, dass Du es alleine schaffen wirst?{break}Viele unserer mutigsten Krieger haben bereits ihr Leben verloren und der schreckliche Teufel mordet weiterhin unter unseren Stammesangehörigen. Bitte finde und töte diese Bestie.{break}Normalerweise treibt sie sich immer in der Nähe des Dorfes herum, aber sei vorsichtig, die Kreatur greift alles an, was in ihre Sichtweite gerät! Am besten suchst Du die Spur der Bestie in der Nähe des außenpostens.]
+			r_05_39_p_bc_chief_brief_1	[Du bist also gekommen um uns von der Bestie zu befreien? Bist Du Dir sicher, dass Du es alleine schaffen wirst?{break}Viele unserer mutigsten Krieger haben bereits ihr Leben verloren und der schreckliche Teufel mordet weiterhin unter unseren Stammesangehörigen. Bitte finde und töte diese Bestie.{break}Normalerweise treibt sie sich immer in der Nähe des Dorfes herum, aber sei vorsichtig, die Kreatur greift alles an, was in ihre Sichtweite gerät! Am besten suchst Du die Spur der Bestie in der Nähe des Außenpostens.]
 	}
 ] */
 // Clause 0 : text changed.
 // HASH_VALUE 5CE959E1B8B3CECC
 R_05_39_P_BC_CHIEF_BRIEF_1 ()
 {
-		r_05_39_p_bc_chief_brief_1	[Du bist also gekommen, uns von diesem Dämon zu befreien? Und Du bist sicher, dass Du diese Jagd alleine bewältigen willst? Mehrere unser besten Krieger haben dort bereits ihr Leben lassen müssen und dieser Schrecken mordet weiterhin unter unseren Stammesangehörigen. Bitte finde sie und befreie uns von ihr. Mit etwas Glück findest Du sie in der Nähe des Dorfes, aber sieh Dich vor, sie greift alles an, was in ihre Sichtweite gerät! Am besten suchst Du nach Spuren der Bestie in der Umgebung des außenpostens.]
+		r_05_39_p_bc_chief_brief_1	[Du bist also gekommen, uns von diesem Dämon zu befreien? Und Du bist sicher, dass Du diese Jagd alleine bewältigen willst? Mehrere unser besten Krieger haben dort bereits ihr Leben lassen müssen und dieser Schrecken mordet weiterhin unter unseren Stammesangehörigen. Bitte finde sie und befreie uns von ihr. Mit etwas Glück findest Du sie in der Nähe des Dorfes, aber sieh Dich vor, sie greift alles an, was in ihre Sichtweite gerät! Am besten suchst Du nach Spuren der Bestie in der Umgebung des Außenpostens.]
 
 }
 
@@ -55111,14 +55209,14 @@ R_05_39_P_BC_DEBRIEF_1 ()
 /* OLD VALUE : [
 	R_05_39_P_LDF_INTRO_1 ()
 	{
-			r_05_39_p_ldf_intro_1	[Eine gigantische Bestie verbreitet den Tod in der Region um die Sägemehlminen und schürrt einige wilde Gerüchte. Einige besagen sogar, das Monster käme direkt aus den Tiefen der Urwurzeln.{break}Wenn Du Seinen Kopf zurückbringst, wirst Du dadurch Deinen Wert beweisen und ich würde Dich in unsere Kunst die Ausdauer zu verbessern unterweisen.{break}Zuletzt wurde die Bestie in der Nähe des außenpostens an der Klippe, nordwestlich von hier, in der Region der Sägemehlminen gesichtet.]
+			r_05_39_p_ldf_intro_1	[Eine gigantische Bestie verbreitet den Tod in der Region um die Sägemehlminen und schürrt einige wilde Gerüchte. Einige besagen sogar, das Monster käme direkt aus den Tiefen der Urwurzeln.{break}Wenn Du Seinen Kopf zurückbringst, wirst Du dadurch Deinen Wert beweisen und ich würde Dich in unsere Kunst die Ausdauer zu verbessern unterweisen.{break}Zuletzt wurde die Bestie in der Nähe des Außenpostens an der Klippe, nordwestlich von hier, in der Region der Sägemehlminen gesichtet.]
 	}
 ] */
 // Clause 0 : text changed.
 // HASH_VALUE FC6A20A520CE0B34
 R_05_39_P_LDF_INTRO_1 ()
 {
-		r_05_39_p_ldf_intro_1	[Eine gewaltige Bestie verbreitet den Tod in der Region um die Sägemehlminen und gibt zahlreichen wilden Gerüchten Nahrung. Einige sprechen sogar von einem Dämon, der aus den Urwurzeln heraufgestiegen ist. Wenn Du mir seinen Kopf bringst, hast Du dadurch Deinen Wert bewiesen und ich würde Dich in unserer Kunst unterweisen, die Ausdauer zu verbessern. Das Wesen erschien das letzte Mal in der Nähe eines außenpostens, der sich längs der Klippe erstreckt, nordwestlich von hier, in der Region der Sägemehlminen.]
+		r_05_39_p_ldf_intro_1	[Eine gewaltige Bestie verbreitet den Tod in der Region um die Sägemehlminen und gibt zahlreichen wilden Gerüchten Nahrung. Einige sprechen sogar von einem Dämon, der aus den Urwurzeln heraufgestiegen ist. Wenn Du mir seinen Kopf bringst, hast Du dadurch Deinen Wert bewiesen und ich würde Dich in unserer Kunst unterweisen, die Ausdauer zu verbessern. Das Wesen erschien das letzte Mal in der Nähe eines Außenpostens, der sich längs der Klippe erstreckt, nordwestlich von hier, in der Region der Sägemehlminen.]
 
 }
 
@@ -56259,7 +56357,7 @@ R_06_20_P_BC_BRIEF_1 ()
 // HASH_VALUE 460B279099C79617
 R_06_20_P_BC_CHIEF_1 ()
 {
-		r_06_20_p_bc_chief_1	[Meine Homins sind sehr besorgt, einige unserer Leute sind von ihren Lieferungen nicht wieder zurüchgekehrt... Ausserdem sind dort jede Nacht diese markerschütternden Schreie..ganz sicher von den bemitleidenswürdigen Opfern...{break}Keiner hier wagt es noch einen Schritt aus dem Lager zu machen. Es gibt Gerüchte, dass dort draußen eine Horde schrecklicher Monster darauf lauert den Stamm anzugreifen, unsere Moral war niemals niedriger.{break}Wenn Du herausfinden könntest was sich hinter alldem verbirgt und die Sicherheit der Region wieder bringst in dem Du tötest, was auch immer ausserhalb des Lagers auf uns lauert, würde dies die Moral meines Stammes wieder heben und wir könnten unser normales Leben wieder aufnehmen.{break}Die letzen berichteten Probleme waren in einem unserer außenposten im Westen, am Rande des Hafens der Reinheit. Ich empfehle Dir die Spur dort aufzunehmen.]
+		r_06_20_p_bc_chief_1	[Meine Homins sind sehr besorgt, einige unserer Leute sind von ihren Lieferungen nicht wieder zurüchgekehrt... Ausserdem sind dort jede Nacht diese markerschütternden Schreie..ganz sicher von den bemitleidenswürdigen Opfern...{break}Keiner hier wagt es noch einen Schritt aus dem Lager zu machen. Es gibt Gerüchte, dass dort draußen eine Horde schrecklicher Monster darauf lauert den Stamm anzugreifen, unsere Moral war niemals niedriger.{break}Wenn Du herausfinden könntest was sich hinter alldem verbirgt und die Sicherheit der Region wieder bringst in dem Du tötest, was auch immer ausserhalb des Lagers auf uns lauert, würde dies die Moral meines Stammes wieder heben und wir könnten unser normales Leben wieder aufnehmen.{break}Die letzen berichteten Probleme waren in einem unserer Außenposten im Westen, am Rande des Hafens der Reinheit. Ich empfehle Dir die Spur dort aufzunehmen.]
 
 }
 
@@ -57089,7 +57187,7 @@ R_11_17_P_BC_DEBRIEF_1 ()
 // HASH_VALUE E5A4DEF27098C146
 R_11_17_P_BC_NEXT_1 ()
 {
-		r_11_17_p_bc_next_1	[Gut, nun weiter zum nächsten außenposten.]
+		r_11_17_p_bc_next_1	[Gut, nun weiter zum nächsten Außenposten.]
 
 }
 
@@ -57098,7 +57196,7 @@ R_11_17_P_BC_TRIBECHIEF_1 ()
 {
 		r_11_17_p_bc_tribechief_1	[- Die Region wurde nach einem großen Fyros benannt, der viele Homins während des Großen Schwarms rettete.\n
 			- Wir organisieren dieses Rennen als einen Tribut an seinen Mut.\n
-			- Es geht darum, die Region zu durchqueren, die verschiedenen außenposten zu passieren und jedes Mal einen Gegenstand herzustellen. \n
+			- Es geht darum, die Region zu durchqueren, die verschiedenen Außenposten zu passieren und jedes Mal einen Gegenstand herzustellen. \n
 			- Danach musst du vor Sonnenaufgang hierher zurückkommen und mir deine Arbeit übergeben. ]
 
 }
@@ -64746,17 +64844,17 @@ TEMPLATE_TASK_LOOT_GIVE_9_TITLE (bot giver, int random, faction f)
 TEMPLATE_TASK_LOOT_GIVE_INTRO_1 (bot giver, item i1, int qt1, int ql1, int reward, int timelimit, int random, faction f)
 {
 	(reward > 0 & timelimit = 0)
-		template_task_loot_give_intro_1_money	[Ich benötige $qt1$ $i1$ der Qualiät $ql1$. Wenn Sie mir welche bringen, zahle ich Ihnen $reward$ Dapper.]
+		template_task_loot_give_intro_1_money	[Ich benötige $qt1$ $i1$ der Qualiät $ql1$. Wenn Du mir welche bringst, zahle ich Dir $reward$ Dapper.]
 
 	(reward > 0 & timelimit > 0)
-		template_task_loot_give_intro_1_money_timed	[Ich benötige $qt1$ $i1$ der Qualiät $ql1$. Wenn Sie mir welche bringen, zahle ich Ihnen $reward$ Dapper.\n
+		template_task_loot_give_intro_1_money_timed	[Ich benötige $qt1$ $i1$ der Qualiät $ql1$. Wenn Du mir welche bringst, zahle ich Dir $reward$ Dapper.\n
 			Doch schnell, es ist sehr dringend!]
 
 	(timelimit > 0)
-		template_task_loot_give_intro_1_fame_timed	[Ich benötige $qt1$ $i1$ der Qualiät $ql1$. Wenn Sie mir welche bringen, werden $f.mda$ $f.member$ Ihnen sehr dankbar sein.\n
+		template_task_loot_give_intro_1_fame_timed	[Ich benötige $qt1$ $i1$ der Qualiät $ql1$. Wenn Du mir welche bringst, werden $f.mda$ $f.member$ DIr sehr dankbar sein.\n
 			Doch schnell, es ist sehr dringend!]
 
-		template_task_loot_give_intro_1_fame	[Ich benötige $qt1$ $i1$ der Qualiät $ql1$. Wenn Sie mir welche bringen, werden $f.mda$ $f.member$ Ihnen sehr dankbar sein.]
+		template_task_loot_give_intro_1_fame	[Ich benötige $qt1$ $i1$ der Qualiät $ql1$. Wenn Du mir welche bringst, werden $f.mda$ $f.member$ Dir sehr dankbar sein.]
 
 }
 
@@ -64764,17 +64862,17 @@ TEMPLATE_TASK_LOOT_GIVE_INTRO_1 (bot giver, item i1, int qt1, int ql1, int rewar
 TEMPLATE_TASK_LOOT_GIVE_INTRO_2 (bot giver, item i1, int qt1, int ql1, item i2, int qt2, int ql2, int reward, int timelimit, int random, faction f)
 {
 	(reward > 0 & timelimit = 0)
-		template_task_loot_give_intro_2_money	[Ich benötige $qt1$ $i1$ der Qualität $ql1$ und $qt2$ $i2$ der Qualität $ql2$. Wenn Sie mir welche bringen, zahle ich Ihnen $reward$ Dapper.]
+		template_task_loot_give_intro_2_money	[Ich benötige $qt1$ $i1$ der Qualität $ql1$ und $qt2$ $i2$ der Qualität $ql2$. Wenn Du mir welche bringst, zahle ich Dir $reward$ Dapper.]
 
 	(reward > 0 & timelimit > 0)
-		template_task_loot_give_intro_2_money_timed	[Ich benötige $qt1$ $i1$ der Qualität $ql1$ und $qt2$ $i2$ der Qualität $ql2$. Wenn Sie mir welche bringen, zahle ich Ihnen $reward$ Dapper.\n
+		template_task_loot_give_intro_2_money_timed	[Ich benötige $qt1$ $i1$ der Qualität $ql1$ und $qt2$ $i2$ der Qualität $ql2$. Wenn Du mir welche bringst, zahle ich Dir $reward$ Dapper.\n
 			Doch schnell, es ist sehr dringend!]
 
 	(timelimit > 0)
-		template_task_loot_give_intro_2_fame_timed	[Ich benötige $qt1$ $i1$ der Qualität $ql1$ und $qt2$ $i2$ der Qualität $ql2$. Wenn Sie mir welche bringen, werden $f.mda$ $f.member$ Ihnen sehr dankbar sein.\n
+		template_task_loot_give_intro_2_fame_timed	[Ich benötige $qt1$ $i1$ der Qualität $ql1$ und $qt2$ $i2$ der Qualität $ql2$. Wenn Du mir welche bringst, werden $f.mda$ $f.member$ Dir sehr dankbar sein.\n
 			Doch schnell, es ist sehr dringend!]
 
-		template_task_loot_give_intro_2_fame	[Ich benötige $qt1$ $i1$ der Qualität $ql1$ und $qt2$ $i2$ der Qualität $ql2$. Wenn Sie mir welche bringen, werden $f.mda$ $f.member$ Ihnen sehr dankbar sein.]
+		template_task_loot_give_intro_2_fame	[Ich benötige $qt1$ $i1$ der Qualität $ql1$ und $qt2$ $i2$ der Qualität $ql2$. Wenn Du mir welche bringst, werden $f.mda$ $f.member$ Dir sehr dankbar sein.]
 
 }
 
@@ -64782,17 +64880,17 @@ TEMPLATE_TASK_LOOT_GIVE_INTRO_2 (bot giver, item i1, int qt1, int ql1, item i2, 
 TEMPLATE_TASK_LOOT_GIVE_INTRO_3 (bot giver, item i1, int qt1, int ql1, item i2, int qt2, int ql2, item i3, int qt3, int ql3, int reward, int timelimit, int random, faction f)
 {
 	(reward > 0 & timelimit = 0)
-		template_task_loot_give_intro_3_money	[Ich benötige $qt1$ $i1$ der Qualität $ql1$, $qt2$ $i2$ der Qualität $ql2$ und $qt3$ $i3$ der Qualität $ql3$. Wenn Sie mir welche bringen, zahle ich Ihnen $reward$ Dapper.]
+		template_task_loot_give_intro_3_money	[Ich benötige $qt1$ $i1$ der Qualität $ql1$, $qt2$ $i2$ der Qualität $ql2$ und $qt3$ $i3$ der Qualität $ql3$. Wenn Du mir welche bringst, zahle ich Dir $reward$ Dapper.]
 
 	(reward > 0 & timelimit > 0)
-		template_task_loot_give_intro_3_money_timed	[Ich benötige $qt1$ $i1$ der Qualität $ql1$, $qt2$ $i2$ der Qualität $ql2$ und $qt3$ $i3$ der Qualität $ql3$. Wenn Sie mir welche bringen, zahle ich Ihnen $reward$ Dapper.\n
+		template_task_loot_give_intro_3_money_timed	[Ich benötige $qt1$ $i1$ der Qualität $ql1$, $qt2$ $i2$ der Qualität $ql2$ und $qt3$ $i3$ der Qualität $ql3$. Wenn Du mir welche bringst, zahle ich Dir $reward$ Dapper.\n
 			Doch schnell, es ist sehr dringend!]
 
 	(timelimit > 0)
-		template_task_loot_give_intro_3_fame_timed	[Ich benötige $qt1$ $i1$ der Qualität $ql1$, $qt2$ $i2$ der Qualität $ql2$ und $qt3$ $i3$ der Qualität $ql3$. Wenn Sie mir welche bringen, werden $f.mda$ $f.member$ Ihnen sehr dankbar sein.\n
+		template_task_loot_give_intro_3_fame_timed	[Ich benötige $qt1$ $i1$ der Qualität $ql1$, $qt2$ $i2$ der Qualität $ql2$ und $qt3$ $i3$ der Qualität $ql3$. Wenn Du mir welche bringst, werden $f.mda$ $f.member$ Dir sehr dankbar sein.\n
 			Doch schnell, es ist sehr dringend!]
 
-		template_task_loot_give_intro_3_fame	[Ich benötige $qt1$ $i1$ der Qualität $ql1$, $qt2$ $i2$ der Qualität $ql2$ und $qt3$ $i3$ der Qualität $ql3$. Wenn Sie mir welche bringen, werden $f.mda$ $f.member$ Ihnen sehr dankbar sein.]
+		template_task_loot_give_intro_3_fame	[Ich benötige $qt1$ $i1$ der Qualität $ql1$, $qt2$ $i2$ der Qualität $ql2$ und $qt3$ $i3$ der Qualität $ql3$. Wenn Du mir welche bringst, werden $f.mda$ $f.member$ Dir sehr dankbar sein.]
 
 }
 
@@ -67541,7 +67639,7 @@ TRYKER_INSTRUCTOR_MIS_01_STEP_1 (bot current, bot target)
 {
 		tryker_instructor_mis_01_step_1	[Dies ist eine gute Gelegenheit für Dich, mehr über Dein Volk zu erfahren. Unsere Vorfahren haben uns ein riesiges Wissen vererbt, und wir werden es nutzen, um unser ehrwürdiges Reich wieder aufzubauen. Mit den richtigen Lehrmeistern wirst auch Du dieses alte Wissen erlangen können. Und schon bald wird sich Deine Bestimmung offenbaren.{break}\n
 			\n
-			Aber nun genug des Geredes. Du muss noch einige hoch angesehene und geschätzte Personen unseres außenpostens kennenlernen. Bevor Du Dich entscheidest, unser Dorf zu verlassen, solltest Du Dich mit $target$ treffen. Er ist unser Kampflehrmeister und wird Dir einige der tödlichen Techniken unseres Volkes beibringen...\n
+			Aber nun genug des Geredes. Du muss noch einige hoch angesehene und geschätzte Personen unseres Außenpostens kennenlernen. Bevor Du Dich entscheidest, unser Dorf zu verlassen, solltest Du Dich mit $target$ treffen. Er ist unser Kampflehrmeister und wird Dir einige der tödlichen Techniken unseres Volkes beibringen...\n
 			\n
 			Du findest ihn in unserer Gildenhalle. Benutze den Aufzug.]
 
@@ -67563,9 +67661,9 @@ TRYKER_INSTRUCTOR_MIS_01_STEP_2 (bot target, race kitins)
 // HASH_VALUE EAB5125B51F1D601
 TRYKER_INSTRUCTOR_MIS_01_STEP_3 (bot target)
 {
-		tryker_instructor_mis_01_step_3	[Willkommen in unserem außenposten ! Ich bin wirklich erfreut, Dich zu treffen ! Schwierige Zeiten sind angebrochen. Das Volk der Matis hat sich wieder versammelt und auch die Karavan sind endlich wieder erschienen. Wir werden wieder in der Lage sein, uns zu teleportieren. Und unsere Dörfer sollten schon bald wieder die alte Stärke erreicht haben.{break}\n
+		tryker_instructor_mis_01_step_3	[Willkommen in unserem Außenposten ! Ich bin wirklich erfreut, Dich zu treffen ! Schwierige Zeiten sind angebrochen. Das Volk der Matis hat sich wieder versammelt und auch die Karavan sind endlich wieder erschienen. Wir werden wieder in der Lage sein, uns zu teleportieren. Und unsere Dörfer sollten schon bald wieder die alte Stärke erreicht haben.{break}\n
 			\n
-			Wenn Du Dich in der Lage fühlst, den außenposten zu verlassen, gehe einfach zu einem der Karavan-Wächter. Sie sind seltsame, dunkle Individuen und kein Homin hat je ihr wahres Gesicht gesehen. Aber Du mußt keine Angst vor ihnen haben, das ist zumindest meine Meinung. Folge der Kontaktperson des Karavan, sie wird Dich zu einem Teleportoffizier geleiten.\n
+			Wenn Du Dich in der Lage fühlst, den Außenposten zu verlassen, gehe einfach zu einem der Karavan-Wächter. Sie sind seltsame, dunkle Individuen und kein Homin hat je ihr wahres Gesicht gesehen. Aber Du mußt keine Angst vor ihnen haben, das ist zumindest meine Meinung. Folge der Kontaktperson des Karavan, sie wird Dich zu einem Teleportoffizier geleiten.\n
 			\n
 			Als Magier muss ich dich jedoch warnen, dass die Wege des Karavan mysteriös und verworren sind. Aber es gibt eine weitere Möglichkeit, die Du bald entdecken wirst. Wenn Du Deine Magiefähigkeiten weiter entwickelst, wirst Du auf die Kamis treffen, die Dir mit ein bisschen Glück die Augen öffnen und Dir eine neue Welt zeigen. Atys hat viele Gesichter...\n
 			\n
@@ -67875,21 +67973,21 @@ TRYKER_INSTRUCTOR_MIS_08_TITLE (bot giver, creature_model kipee)
 // HASH_VALUE 72CDDA23E8CD911C
 TRYKER_INSTRUCTOR_MIS_09_DESC (bot giver)
 {
-		tryker_instructor_mis_09_desc	[Hilf $giver$ die Ordnung im außenposten aufrecht zu halten.]
+		tryker_instructor_mis_09_desc	[Hilf $giver$ die Ordnung im Außenposten aufrecht zu halten.]
 
 }
 
 // HASH_VALUE 9B7572FF81D281DF
 TRYKER_INSTRUCTOR_MIS_09_END ()
 {
-		tryker_instructor_mis_09_end	[Sehr gut! Dieses Gesindel ist nicht länger eine Gefahr für unseren außenposten.]
+		tryker_instructor_mis_09_end	[Sehr gut! Dieses Gesindel ist nicht länger eine Gefahr für unseren Außenposten.]
 
 }
 
 // HASH_VALUE A599AC2F9D43A46B
 TRYKER_INSTRUCTOR_MIS_09_OBJ ()
 {
-		tryker_instructor_mis_09_obj	[Finde und töte die Banditen, welche sich in der Nähe des außenpostens niedergelassen haben.\n
+		tryker_instructor_mis_09_obj	[Finde und töte die Banditen, welche sich in der Nähe des Außenpostens niedergelassen haben.\n
 			Du solltest Dich mit anderen zusammentun, wenn Du nicht sterben willst!]
 
 }
@@ -68241,7 +68339,7 @@ TRYKER_NEWB_HARVEST_1_STEP_1_1 ()
 // HASH_VALUE 2BD21852C3EA5CAF
 TRYKER_NEWB_HARVEST_1_STEP_1_2 (item rm1, item rm2)
 {
-		tryker_newb_harvest_1_step_1_2	[Beginnen wir mit etwas einfachem, bring mir $rm1.ia$ $rm1$ und $rm2.ia$ $rm2$, welches Du im Boden rund um und im außenposten findest.]
+		tryker_newb_harvest_1_step_1_2	[Beginnen wir mit etwas einfachem, bring mir $rm1.ia$ $rm1$ und $rm2.ia$ $rm2$, welches Du im Boden rund um und im Außenposten findest.]
 
 }
 
@@ -68677,14 +68775,14 @@ TRYKER_NEWB_WELCOME_STEP_1_1b ()
 // HASH_VALUE A82DB6E521387B01
 TRYKER_NEWB_WELCOME_STEP_1_1c ()
 {
-		tryker_newb_welcome_step_1_1c	[Du bist auf einer kleinen Insel, nicht weit entfernt vom Fyros Hauptland. Wir besitzen fünf kleine außenposten hier und das ist einer davon.]
+		tryker_newb_welcome_step_1_1c	[Du bist auf einer kleinen Insel, nicht weit entfernt vom Fyros Hauptland. Wir besitzen fünf kleine Außenposten hier und das ist einer davon.]
 
 }
 
 // HASH_VALUE A82DB6E521387B02
 TRYKER_NEWB_WELCOME_STEP_1_1d ()
 {
-		tryker_newb_welcome_step_1_1d	[Du bist auf einer kleinen Insel, nicht weit entfernt vom Hauptkontinent der Tryker. Es gibt 5 kleine außenposten auf dieser Insel, und dies ist einer von ihnen.]
+		tryker_newb_welcome_step_1_1d	[Du bist auf einer kleinen Insel, nicht weit entfernt vom Hauptkontinent der Tryker. Es gibt 5 kleine Außenposten auf dieser Insel, und dies ist einer von ihnen.]
 
 }
 
@@ -68692,9 +68790,9 @@ TRYKER_NEWB_WELCOME_STEP_1_1d ()
 TRYKER_NEWB_WELCOME_STEP_1_2 (bot target, place capital)
 {
 	(target.gender = female)
-		tryker_newb_welcome_step_1_2_f	[Aber ich habe nun genug geredet. Du musst die hochgeehrten Persönlichkeiten dieses außenpostens noch treffen. Bevor Du nach $capital$ abreist, der Hauptstadt des Trykerreiches, empfehle ich Dir mit $target$ zu sprechen.]
+		tryker_newb_welcome_step_1_2_f	[Aber ich habe nun genug geredet. Du musst die hochgeehrten Persönlichkeiten dieses Außenpostens noch treffen. Bevor Du nach $capital$ abreist, der Hauptstadt des Trykerreiches, empfehle ich Dir mit $target$ zu sprechen.]
 
-		tryker_newb_welcome_step_1_2_m	[Aber ich habe nun genug geredet. Du musst die hochgeehrten Persönlichkeiten dieses außenpostens noch treffen. Bevor Du nach $capital$ abreist, der Hauptstadt des Trykerreiches, empfehle ich Dir mit $target$ zu sprechen.]
+		tryker_newb_welcome_step_1_2_m	[Aber ich habe nun genug geredet. Du musst die hochgeehrten Persönlichkeiten dieses Außenpostens noch treffen. Bevor Du nach $capital$ abreist, der Hauptstadt des Trykerreiches, empfehle ich Dir mit $target$ zu sprechen.]
 
 }
 
@@ -68758,7 +68856,7 @@ TRYKER_NEWB_WELCOME_STEP_2_2_c (bot target)
 // HASH_VALUE BF74547E22718977
 TRYKER_NEWB_WELCOME_STEP_3_1 ()
 {
-		tryker_newb_welcome_step_3_1	[Willkommen in unserem außenposten, ich freue mich Dich zu treffen! Dies sind wichtige Zeiten.]
+		tryker_newb_welcome_step_3_1	[Willkommen in unserem Außenposten, ich freue mich Dich zu treffen! Dies sind wichtige Zeiten.]
 
 }
 
@@ -68772,7 +68870,7 @@ TRYKER_NEWB_WELCOME_STEP_3_1_b ()
 // HASH_VALUE 7D84F1327C9BA870
 TRYKER_NEWB_WELCOME_STEP_3_2 ()
 {
-		tryker_newb_welcome_step_3_2	[Wenn Dich bereit fühlst, den außenposten zu verlassen, werden die Karavan Dich führen. Die Karavanjünger sind merkwürdig, dunkle Erscheinungen, kein Homin hat jemals ihr wahres Gesicht gesehen. Aber fürchten muss man sie wohl nicht, zumindest ist das meine Meinung.]
+		tryker_newb_welcome_step_3_2	[Wenn Dich bereit fühlst, den Außenposten zu verlassen, werden die Karavan Dich führen. Die Karavanjünger sind merkwürdig, dunkle Erscheinungen, kein Homin hat jemals ihr wahres Gesicht gesehen. Aber fürchten muss man sie wohl nicht, zumindest ist das meine Meinung.]
 
 }
 
@@ -68959,7 +69057,7 @@ TRYKER_NEWB_WELCOME_STEP_7_2_b (bot giver)
 // HASH_VALUE 14F2433A97FB30D0
 TRYKER_NEWB_WELCOME_STEP_8_1 ()
 {
-		tryker_newb_welcome_step_8_1	[Prima! Nun kennst Du unseren kleinen außenposten ein wenig besser. Bevor Du Dich nun aber den Gefahren des Hauptkontinents stellst, musst Du noch etwas trainieren, stärker werden und Dein Wissen ausbauen.]
+		tryker_newb_welcome_step_8_1	[Prima! Nun kennst Du unseren kleinen Außenposten ein wenig besser. Bevor Du Dich nun aber den Gefahren des Hauptkontinents stellst, musst Du noch etwas trainieren, stärker werden und Dein Wissen ausbauen.]
 
 }
 
@@ -69002,7 +69100,7 @@ TRYKER_NEWB_WELCOME_STEP_9_1_b (place place_fairhaven)
 // HASH_VALUE 13C96088FF3AF7C2
 TRYKER_NEWB_WELCOME_STEP_9_1_c ()
 {
-		tryker_newb_welcome_step_9_1_c	[Im außenposten wirst Du einen Führer finden, der Dich zu den Karavan bringt, welche die Macht haben Dich auf den Hauptkontinent zu teleportieren. Auf dem Hauptkontinent angekommen solltest Du als erstes mit dem Stadtvorsteher reden.]
+		tryker_newb_welcome_step_9_1_c	[Im Außenposten wirst Du einen Führer finden, der Dich zu den Karavan bringt, welche die Macht haben Dich auf den Hauptkontinent zu teleportieren. Auf dem Hauptkontinent angekommen solltest Du als erstes mit dem Stadtvorsteher reden.]
 
 }
 
@@ -69456,7 +69554,7 @@ WHOAMI_KITINIERE_COORD ()
 		whoami_kitiniere_coord	[Ich bin für die Organisation der Forschung auf dieser Seite verantwortlich.\n
 			Wir befinden uns am Eingang des Tunnels von Almati, welcher kürzlich mit dem Absinken des umliegenden Geländes freigelegt wurde. Der unbesonnene verrückte Almati und der berüchtigte köngliche Alchemist von Matis haben den Kitin einen Weg an die Oberfläche, nahe unserer Heimatländer geschaffen!\n
 			Wir, die Ranger, haben nicht die nötigen Truppen um die Kontrolle über solche Heerscharen zu übernehmen. Somit liegt unsere einzige Hoffnung in der Entschlossenheit der tapferen Homins, welche sich bereit machen das Wagnis im Kitin-Nest auf sich zu nehmen.\n
-			Dieser kleine außenposten dient als Basis für die Organisation unserer Truppen in den Tunneln.]
+			Dieser kleine Außenposten dient als Basis für die Organisation unserer Truppen in den Tunneln.]
 
 }
 
@@ -69487,7 +69585,7 @@ WHOAMI_LEVIERS_DOUANIER_2 ()
 // HASH_VALUE 6EDA545C348FC93F
 WHOAMI_LODGE_MASTER ()
 {
-			[Ich bin ein Handwerkermeister und leite eine lokale Loge der Kumpels der Bohrerin. Meine Gilde hat zur Aufgabe, das Handwerk der außenposten am Leben zu erhalten, das Ende des 25. Jahrhunderts entstand und dieses Wissen an die anderen Homins weiter zu geben.]
+			[Ich bin ein Handwerkermeister und leite eine lokale Loge der Kumpels der Bohrerin. Meine Gilde hat zur Aufgabe, das Handwerk der Außenposten am Leben zu erhalten, das Ende des 25. Jahrhunderts entstand und dieses Wissen an die anderen Homins weiter zu geben.]
 
 }
 
@@ -69950,7 +70048,7 @@ WHOAMI_TASK_FRONTIERS_SUPPLIER ()
 // HASH_VALUE FDBD6B64E32CD67A
 WHOAMI_TASK_HAWKER ()
 {
-		whoami_task_hawker	[Ich bin immer unterwegs, sammele Objekte auf diesem Kontinent und verkaufe sie an andere , das ist es was Hawker tun, weißt Du. Übrigents, wenn Du das eine oder andere Objekt oder Material für mich hast, hab ich auch die eine oder andere Kleinigkeit für Dich.]
+		whoami_task_hawker	[Ich bin immer unterwegs, sammele Gegenstände auf diesem Kontinent und verkaufe diese an Andere , das ist es was Hausierer tun, weißt Du. Übrigens, wenn Du irgendeinen Gegenstand oder auch Material für mich hast, könnte ich Dir auch ein wenig dafür geben.]
 
 }
 
@@ -69992,7 +70090,7 @@ WHOAMI_TASK_HUNTER_TRIBE ()
 // HASH_VALUE F9F618648F827D55
 WHOAMI_TASK_JOURNEYMAN ()
 {
-		whoami_task_journeyman	[Handwerk liegt auf meiner Linie, Homin, mit dem Unterschied, dass ich für diese Tätigkeit von Ort zu Ort wandere. Du wirst mich in der Nähe von außenposten, Stammes Gebieten, Städten und Dörfern treffen, überall dort wo meine Unterstützung gebraucht wird. Ich halte immer nach Homins ausschau, die für mich Materialien sammeln, oder die mich bei der dringenden Aufgabe einige Gegenstände zu fertigen unterstützen. Einige dieser Objekte schreien nach den handwerklichen Fähigkeiten einer anderen Zivilisation.]
+		whoami_task_journeyman	[Handwerk liegt auf meiner Linie, Homin, mit dem Unterschied, dass ich für diese Tätigkeit von Ort zu Ort wandere. Du wirst mich in der Nähe von Außenposten, Stammes Gebieten, Städten und Dörfern treffen, überall dort wo meine Unterstützung gebraucht wird. Ich halte immer nach Homins ausschau, die für mich Materialien sammeln, oder die mich bei der dringenden Aufgabe einige Gegenstände zu fertigen unterstützen. Einige dieser Objekte schreien nach den handwerklichen Fähigkeiten einer anderen Zivilisation.]
 
 }
 
@@ -70083,14 +70181,14 @@ WHOAMI_TASK_OUTLANDS_SUPPLIER_GIB ()
 // HASH_VALUE A6CAC12A9A1523FF
 WHOAMI_TASK_OUTPOST_STEWARD ()
 {
-		whoami_task_outpost_steward	[Als der offizielle Repräsentant der Behörden, ist es meine Aufgabe alle Aufgaben, die die Dinge des täglichen Lebens und spezielle Nöte diesen außenposten betreffend zu vergeben. Ich kann Deiner Gilde auch das Recht geben, ein Bauwerk in Auftrag geben zu dürfen. Die Gilde wird ihre Aufgabe erfüllt haben, sobald sie genug Aufgaben für den außenposten erfüllt haben. Sie wird dann eine grosse Belohnung erhalten.]
+		whoami_task_outpost_steward	[Als der offizielle Repräsentant der Behörden, ist es meine Aufgabe alle Aufgaben, die die Dinge des täglichen Lebens und spezielle Nöte diesen Außenposten betreffend zu vergeben. Ich kann Deiner Gilde auch das Recht geben, ein Bauwerk in Auftrag geben zu dürfen. Die Gilde wird ihre Aufgabe erfüllt haben, sobald sie genug Aufgaben für den Außenposten erfüllt haben. Sie wird dann eine grosse Belohnung erhalten.]
 
 }
 
 // HASH_VALUE EE3762012668E69E
 WHOAMI_TASK_OUTPOST_STEWARD_TRIBE ()
 {
-		whoami_task_outpost_steward_tribe	[Meine Aufgabe als Stammessteward ist es primär, Aufgaben für Dinge des täglichen Bedarfs und einiger speziell benötigten Dinge für den außenposten zu vergeben. Aber nur eine Gilde, die offiziell die Leitung des Ausspostens übertragen bekommen hat, ist für diese Aufgaben vorgesehen. Wenn die Gilde genug Aufgaben erfolgreich abgeschlossen hat, um des Stamms Achtung zu gewinnen, bekommt den außenposten ohne Kampf übergeben.]
+		whoami_task_outpost_steward_tribe	[Meine Aufgabe als Stammessteward ist es primär, Aufgaben für Dinge des täglichen Bedarfs und einiger speziell benötigten Dinge für den Außenposten zu vergeben. Aber nur eine Gilde, die offiziell die Leitung des Ausspostens übertragen bekommen hat, ist für diese Aufgaben vorgesehen. Wenn die Gilde genug Aufgaben erfolgreich abgeschlossen hat, um des Stamms Achtung zu gewinnen, bekommt den Außenposten ohne Kampf übergeben.]
 
 }
 
@@ -70104,7 +70202,7 @@ WHOAMI_TASK_PATROLMAN ()
 // HASH_VALUE 8DD8ED555EBFFA87
 WHOAMI_TASK_PROSPECTOR ()
 {
-		whoami_task_prospector	[Ich bin der offizielle Schürfer hier in der Gegend. Ich habe nie einen Augenblick für mich zeit, denn ich gehe immer rund um Städte und außenposten und renne durch das Land um Ressourcen für den Fortschritt meines Volkes zu sammeln. Aus diesem Grund halte ich immer ausschau nach einem würdigen Homin, der mir seine starke Hand leiht, um Materialien zu sammeln oder einfach den Boden von unerwünschten Ressourcen zu reinigen.]
+		whoami_task_prospector	[Ich bin der offizielle Schürfer hier in der Gegend. Ich habe nie einen Augenblick für mich zeit, denn ich gehe immer rund um Städte und Außenposten und renne durch das Land um Ressourcen für den Fortschritt meines Volkes zu sammeln. Aus diesem Grund halte ich immer ausschau nach einem würdigen Homin, der mir seine starke Hand leiht, um Materialien zu sammeln oder einfach den Boden von unerwünschten Ressourcen zu reinigen.]
 
 }
 
@@ -70163,7 +70261,7 @@ WHOAMI_TASK_TRIBE_WELCOMER ()
 // HASH_VALUE B70802260A14FE19
 WHOAMI_TASK_VILLAGE_WELCOMER ()
 {
-		whoami_task_welcomer	[Ich bin der Vorsteher dieses außenpostens. Genauso wie ich Homins begrüsse, kümmere ich michum das Tagesgeschäft dieses außenpostens. Das Schöne an meinem Job ist, dass es mich mit praktisch jedem in Kontakt bringt, jeder kennt mich! Die Aufgaben, die ich anbieten kann, führen Dich in gefährliche und lebensfeindliche Gegenden. Das ist der Grund, warum ich sie nur erfahrenen Homis anbiete.]
+		whoami_task_welcomer	[Ich bin der Vorsteher dieses Außenpostens. Genauso wie ich Homins begrüsse, kümmere ich michum das Tagesgeschäft dieses Außenpostens. Das Schöne an meinem Job ist, dass es mich mit praktisch jedem in Kontakt bringt, jeder kennt mich! Die Aufgaben, die ich anbieten kann, führen Dich in gefährliche und lebensfeindliche Gegenden. Das ist der Grund, warum ich sie nur erfahrenen Homis anbiete.]
 
 }
 
@@ -70198,7 +70296,7 @@ WHOAMI_TRIBE_CHIEF_GIBBAI ()
 // HASH_VALUE 01D7F509A42FBC4C
 WHOAMI_TRIBE_OUTPOST_OFFICER ()
 {
-		whoami_tribe_outpost_officer	[Ich bin von meinem Stamm ausgewählt worden, über die außenposten in unserem Territorium zu wachen. Manchmal überreichen wir einer befreundeten Gilde die Befehlsgewalt eines außenposten.{break}Aber wenn jemand versucht uns etwas wegzunehmen, das rechtmäßig unser ist, werden unsere Krieger ohne Gnade kämpfen!]
+		whoami_tribe_outpost_officer	[Ich bin von meinem Stamm ausgewählt worden, über die Außenposten in unserem Territorium zu wachen. Manchmal überreichen wir einer befreundeten Gilde die Befehlsgewalt eines Außenposten.{break}Aber wenn jemand versucht uns etwas wegzunehmen, das rechtmäßig unser ist, werden unsere Krieger ohne Gnade kämpfen!]
 
 }
 
@@ -72123,7 +72221,7 @@ ZORAI_INSTRUCTOR_MIS_01_END (bot previous)
 // HASH_VALUE E6D1CFDBED62AF77
 ZORAI_INSTRUCTOR_MIS_01_STEP_1 (bot current, bot target)
 {
-		zorai_instructor_mis_01_step_1	[Dein Geist ist willkommen hier, $self$. Ich bin hocherfreut über Deinen Mut und Deine Bereitschaft, die gefährliche Reise zu unternehmen um beim Wiederaufbau unserer großen Zoraïdynastie mitzuhelfen...{break}Du bist auf einer kleinen Insel nicht weit vom Zoraï Hauptland. Es gibt 5 kleine außenposten auf dieser Insel und dies ist einer von ihnen. \n
+		zorai_instructor_mis_01_step_1	[Dein Geist ist willkommen hier, $self$. Ich bin hocherfreut über Deinen Mut und Deine Bereitschaft, die gefährliche Reise zu unternehmen um beim Wiederaufbau unserer großen Zoraïdynastie mitzuhelfen...{break}Du bist auf einer kleinen Insel nicht weit vom Zoraï Hauptland. Es gibt 5 kleine Außenposten auf dieser Insel und dies ist einer von ihnen. \n
 			\n
 			Bevor Du zu einem unserer Dörfer im Hauptland aufbrichst, empfehle ich Dir, ein wenig von unseren geschätzten Lehrmeistern hier zu erlernen. Du solltest zuallererst mit $target$ sprechen. \n
 			\n
@@ -72151,7 +72249,7 @@ ZORAI_INSTRUCTOR_MIS_01_STEP_3 (bot target)
 {
 		zorai_instructor_mis_01_step_3	[Ich freue mich, Sie kennenzulernen. Sie müssen wissen, $self$, dass sich selbst in diesen Landstrichen bereits das Goo verbreitet...{break}Dies ist eine merkwürdige, pestartige Krankheit, die sich immer weiter über die Vegetation verbreitet und sie befällt. Die Kamis, durch unsere Lebensenergie Ma-Duk entsendet, sind wertvolle Verbündete in unserem Kampf gegen diese Seuche.\n
 			\n
-			Wenn Sie bereit sind zu gehen, suchen Sie den Kami Anhänger im außenposten. Er wird Sie zu einem Kami führen, der die Macht hat, Sie zum Hauptland zu teleportieren. In der Zwischenzeit werde ich jederzeit für Sie da sein, um Ihre magische Kraft und Ihr Wissen auszubauen. \n
+			Wenn Sie bereit sind zu gehen, suchen Sie den Kami Anhänger im Außenposten. Er wird Sie zu einem Kami führen, der die Macht hat, Sie zum Hauptland zu teleportieren. In der Zwischenzeit werde ich jederzeit für Sie da sein, um Ihre magische Kraft und Ihr Wissen auszubauen. \n
 			\n
 			Eins noch: auf dem Hauptland kannst du auf Mitglieder des Karavan treffen. Ihre Magie ist stark, und sie behaupten, Jünger Jenas zu sein.\n
 			\n
@@ -72438,21 +72536,21 @@ ZORAI_INSTRUCTOR_MIS_08_TITLE (bot giver, creature_model kipee)
 // HASH_VALUE F3BD3965EAC816DC
 ZORAI_INSTRUCTOR_MIS_09_DESC (bot giver)
 {
-		zorai_instructor_mis_09_desc	[Hilf $giver$ die Ordnung im außenposten aufrecht zu halten.]
+		zorai_instructor_mis_09_desc	[Hilf $giver$ die Ordnung im Außenposten aufrecht zu halten.]
 
 }
 
 // HASH_VALUE 5C38C2FEFB02C8E0
 ZORAI_INSTRUCTOR_MIS_09_END ()
 {
-		zorai_instructor_mis_09_end	[Prima! Dieses Gesindel ist nicht länger eine Gefahr für unseren außenposten.]
+		zorai_instructor_mis_09_end	[Prima! Dieses Gesindel ist nicht länger eine Gefahr für unseren Außenposten.]
 
 }
 
 // HASH_VALUE 2A948DF47D9063A8
 ZORAI_INSTRUCTOR_MIS_09_OBJ ()
 {
-		zorai_instructor_mis_09_obj	[Finde und töte die Banditen, welche sich in der Nähe des außenpostens niedergelassen haben.\n
+		zorai_instructor_mis_09_obj	[Finde und töte die Banditen, welche sich in der Nähe des Außenpostens niedergelassen haben.\n
 			Du solltest ein Team finden, wenn Du nicht sterben willst!]
 
 }
@@ -73234,7 +73332,7 @@ ZORAI_NEWB_WELCOME_STEP_1_1b ()
 // HASH_VALUE 0A8884E43E0A09CA
 ZORAI_NEWB_WELCOME_STEP_1_1c ()
 {
-		zorai_newb_welcome_step_1_1c	[Sie sind auf einer kleinen Insel, nicht weit entfernt vom Zoraï Hauptland. Wir besitzen fünf kleine außenposten hier und das ist einer davon.]
+		zorai_newb_welcome_step_1_1c	[Sie sind auf einer kleinen Insel, nicht weit entfernt vom Zoraï Hauptland. Wir besitzen fünf kleine Außenposten hier und das ist einer davon.]
 
 }
 
@@ -73509,7 +73607,7 @@ ZORAI_NEWB_WELCOME_STEP_7_2_b (bot giver)
 // HASH_VALUE 72B1417013C18686
 ZORAI_NEWB_WELCOME_STEP_8_1 ()
 {
-		zorai_newb_welcome_step_8_1	[Prima! Nun kennst Du unseren außenposten ein wenig besser. Bevor Du Dich nun aber den Gefahren des Hauptkontinents stellst, musst Du noch etwas trainieren, stärker werden und Dein Wissen ausbauen.]
+		zorai_newb_welcome_step_8_1	[Prima! Nun kennst Du unseren Außenposten ein wenig besser. Bevor Du Dich nun aber den Gefahren des Hauptkontinents stellst, musst Du noch etwas trainieren, stärker werden und Dein Wissen ausbauen.]
 
 }
 
@@ -73551,7 +73649,7 @@ ZORAI_NEWB_WELCOME_STEP_9_1_b (place place_zora)
 // HASH_VALUE CF072DEECE4513C2
 ZORAI_NEWB_WELCOME_STEP_9_1_c ()
 {
-		zorai_newb_welcome_step_9_1_c	[Im außenposten wirst Du einen Führer finden, der Dir den Weg zu den Kami zeigen kann, welche die Macht haben Dich auf den Hauptkontinent zu teleportieren. Auf dem Hauptkontinent angekommen solltest Du zunächst mit dem Stadtvorsteher reden.]
+		zorai_newb_welcome_step_9_1_c	[Im Außenposten wirst Du einen Führer finden, der Dir den Weg zu den Kami zeigen kann, welche die Macht haben Dich auf den Hauptkontinent zu teleportieren. Auf dem Hauptkontinent angekommen solltest Du zunächst mit dem Stadtvorsteher reden.]
 
 }
 
@@ -74710,7 +74808,7 @@ fc100_reward ()
 // HASH_VALUE E98870A95B70007B
 fc100_reward2 ()
 {
-			[Brazerus-Raketenwerfer]
+			[Brazerus-Granatenwerfer]
 
 }
 
@@ -77209,7 +77307,7 @@ zf100_reward_melee ()
 // HASH_VALUE 16B19CA426E78BFA
 zf100_reward_range ()
 {
-			[Ba-zoon-Raketenwerfer]
+			[Ba-zoon-Granatenwerfer]
 
 }
 

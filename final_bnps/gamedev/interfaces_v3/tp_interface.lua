@@ -78,14 +78,15 @@ if artefact == nil then
         isLogoMinimized = false,
         web_item = "params_l:#L;template:webig_inv_item_artefact;\
                     display:inline-block;id:pact#P;tooltip:u:#T;\
-                    quantity:q0;#Q;img1:tp_#I.tga;\
+                    quantity:q0;#Q;#O;img1:tp_#I.tga;\
                     bg:bk_#E.tga;col_over:255 255 255 45", -- slotbg:blank2.tga;
         uiWindow = nil,
         uiWindowBag = nil,
         idWindow = "ui:interface:artefact",
         idWindowBag = "ui:interface:inventory:content:bag",
         webcode = html,
-        zone = ""
+        zone = "",
+        items_labels = Json.decode([[{"kami_almati":"almati","kami_avalae":"avalae","kami_avendale":"avendale","kami_bountybeaches":"bounty","kami_citiesofintuition":"","kami_corrupted_moor":"","kami_corrupted_moor_fairhaven":"","kami_corrupted_moor_pyr":"","kami_corrupted_moor_yrkanis":"","kami_corrupted_moor_zora":"","kami_crystabell":"crystabell","kami_davae":"davae","kami_dewdrops":"dewdrops","kami_dunesofexil":"dunes","kami_dyron":"dyron","kami_enchantedisle":"enchanted","kami_fairhaven":"fairhaven","kami_fleetinggarden":"fleeting","kami_forbidden_depths":"forbidden","kami_frahartowers":"frahar","kami_gate_of_obscurity":"gate","kami_groveofconfusion":"grove","kami_groveofumbra":"grove","kami_havenofpurity":"haven","kami_hereticshovel":"heretic","kami_hiddensource":"hidden","kami_hoi_cho":"hoicho","kami_jen_lai":"jenlai","kami_knollofdissent":"knoll","kami_knotofdementia":"knot","kami_lagoonsofloria":"lagoon","kami_maidengrove":"maiden","kami_min_cho":"mincho","kami_natae":"natae","kami_nexus_bagne":"","kami_nexus_route_gouffre":"","kami_nexus_terre":"nexus","kami_oflovaksoasis":"oflovak","kami_outlawcanyon":"outlaw","kami_pyr":"pyr","kami_ranger_camp":"ranger","kami_restingwater":"resting","kami_sawdustmines":"sawdust","kami_shining_lake":"shining","kami_the_abyss_of_ichor_matis":"abyss","kami_the_abyss_of_ichor_nexus":"","kami_the_elusive_forest":"elusive","kami_the_land_of_continuity":"land","kami_the_sunken_city":"sunken","kami_the_trench_of_trials_tryker":"","kami_the_trench_of_trials_zorai":"trench","kami_the_under_spring_fyros":"under","kami_the_under_spring_zorai":"","kami_the_windy_gate":"windy","kami_thefount":"fount","kami_thesavagedunes":"savage","kami_thescorchedcorridor":"scorched","kami_thesos":"thesos","kami_thevoid":"void","kami_upperbog":"upper","kami_windermeer":"windermeer","kami_windsofmuse":"winds","kami_yrkanis":"yrkanis","kami_zora":"zora","kami_zorai_nland":"","karavan_almati":"almati","karavan_avalae":"avalae","karavan_avendale":"avendale","karavan_bountybeaches":"bounty","karavan_corrupted_moor":"","karavan_corrupted_moor_fairhaven":"","karavan_corrupted_moor_pyr":"","karavan_corrupted_moor_yrkanis":"","karavan_corrupted_moor_zora":"","karavan_crystabell":"crystabell","karavan_davae":"davae","karavan_dewdrops":"dewdrops","karavan_dunesofexil":"dunes","karavan_dyron":"dyron","karavan_enchantedisle":"enchanted","karavan_fairhaven":"fairhaven","karavan_fleetinggarden":"fleeting","karavan_forbidden_depths":"forbidden","karavan_frahartowers":"frahar","karavan_gate_of_obscurity":"gate","karavan_groveofconfusion":"grove","karavan_groveofumbra":"grove","karavan_havenofpurity":"haven","karavan_hereticshovel":"heretic","karavan_hiddensource":"hidden","karavan_hoi_cho":"hoicho","karavan_jen_lai":"jenlai","karavan_knollofdissent":"knoll","karavan_knotofdementia":"knot","karavan_lagoonsofloria":"lagoon","karavan_maidengrove":"maiden","karavan_majesticgarden":"","karavan_matis_nland":"","karavan_min_cho":"mincho","karavan_natae":"natae","karavan_nexus_bagne":"","karavan_nexus_route_gouffre":"","karavan_nexus_terre":"nexus","karavan_oflovaksoasis":"oflovak","karavan_outlawcanyon":"outlaw","karavan_pyr":"pyr","karavan_ranger_camp":"ranger","karavan_restingwater":"resting","karavan_sawdustmines":"sawdust","karavan_shattered_ruins":"shattered","karavan_the_abyss_of_ichor_matis":"abyss","karavan_the_abyss_of_ichor_nexus":"","karavan_the_elusive_forest":"elusive","karavan_the_land_of_continuity":"land","karavan_the_sunken_city":"sunken","karavan_the_trench_of_trials_tryker":"","karavan_the_trench_of_trials_zorai":"trench","karavan_the_under_spring_fyros":"under","karavan_the_under_spring_zorai":"","karavan_the_windy_gate":"windy","karavan_thefount":"fount","karavan_thesavagedunes":"savage","karavan_thescorchedcorridor":"scorched","karavan_thesos":"thesos","karavan_thevoid":"void","karavan_upperbog":"upper","karavan_windermeer":"windermeer","karavan_windsofmuse":"winds","karavan_yrkanis":"yrkanis","karavan_zora":"zora"}]])
     }
 
     -- on_event window
@@ -517,18 +518,25 @@ if artefact == nil then
             quantity = 999
         end
         local n = 1
-        local s = ""
+        local s = "q0:x;"
         -- format quantity as q1:;q2:;q3:;..
         for q in string.gmatch(tostring(quantity), "%d") do
             s = s.."q"..n..":"..q..";"
             n = n + 1
         end
+        -- format overlay label as o1:;o2:;o3:;..
+        for i = 1, math.min(8, #item.label) do
+            s = s.."o"..tostring(i-1)..":"..item.label:sub(i, i)..";"
+            n = n + 1
+        end
+
         local wi = string.gsub(self.web_item, "#Q", s)
         local desc = item.desc:toUtf8()
         -- keep only the name of the zone
         for i = 1, #self.blacklist do
             desc = string.gsub(desc, self.blacklist[i], "")
         end
+
         desc = desc:gsub("^%l", string.upper)
         -- construct item
         for k, v in pairs({
@@ -563,8 +571,10 @@ if artefact == nil then
     end
 
     function artefact:getitem(id, s)
-		return getDbProp(self.bag..':'..id..':'..s:upper())
-	end
+        if id ~= nil then
+            return getDbProp(self.bag..':'..id..':'..s:upper())
+        end
+    end
 
     function artefact:getfaction(id)
         if not id then id = getDbProp(self.fame) end
@@ -730,7 +740,7 @@ function artefact:__init__()
             "Pacto de Teletransportacion Karavan para madera ",
             "Pacto Teletransportador "
         },
-        psort = function(p0, p1) return p0.desc < p1.desc end
+        psort = function(p0, p1) return p0.label < p1.label end
     }
     vars.__index = vars
 
@@ -763,9 +773,13 @@ function artefact:startInterface(cult)
                     sheet = string.gsub(sheet, "_f_", "_"..self.faction.."_")
                     -- faction only
                     if self:strcmp(sheet, "tp_"..self.faction) then
+                        local sheet_name = string.gsub(sheet, "tp_", "")
+                        sheet_name = string.gsub(sheet_name, ".sitem", "")
+                        label = self.items_labels[sheet_name]
                         tmp[eco][#tmp[eco]+1] = {
                             name = sheet,
                             desc = getSheetLocalizedName(sheet..".sitem"),
+                            label = label,
                             cost = tostring(price)
                         }
                     end

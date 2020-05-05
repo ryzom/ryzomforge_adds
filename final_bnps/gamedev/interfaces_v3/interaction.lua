@@ -610,6 +610,37 @@ function game:openWebIGBrowserHeader()
 	end
 end
 
+------------------------------------------------------------------------------------------------------------
+--
+function game:closeWindowHeader()
+	local ui = getUICaller().parent;
+
+	-- save size
+	ui_webig_browser_h = ui.h;
+	ui_webig_browser_w = ui.w;
+
+	-- reduce window size
+	ui.pop_min_h = 32;
+	ui.h = 0;
+	ui.w = 150;
+end
+
+------------------------------------------------------------------------------------------------------------
+--
+function game:openWindowHeader()
+	local ui = getUICaller().parent;
+	ui.pop_min_h = 96;
+
+	-- set size from saved values
+	if (ui_webig_browser_h ~= nil) then
+		ui.h = ui_webig_browser_h;
+	end
+
+	 if (ui_webig_browser_w ~= nil) then
+		ui.w = ui_webig_browser_w;
+	end
+end
+
 
 ------------------------------------------------------------------------------------------------------------
 function game:openGuildIsland(url_island)
@@ -813,4 +844,15 @@ function game:chatWelcomeMsg(input)
 		end
 	end
 	runAH(getUICaller(), "chat_group_filter", chat)
+end
+
+
+function game:TalkWithNpc(bullying)
+	setTargetAsInterlocutor()
+
+	if bullying == 1 then
+		runCommand("a", "openTargetUrl", "1")
+	else
+		runCommand("a", "openTargetUrl")
+	end
 end
