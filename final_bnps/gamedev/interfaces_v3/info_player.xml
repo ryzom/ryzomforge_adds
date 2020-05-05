@@ -5,7 +5,7 @@
     <variable entry="UI:VARIABLES:TOTAL_MALUS_EQUIP" type="sint32" value="0" />
     <variable entry="UI:VARIABLES:TOTAL_MAGIC_ABSORB" type="sint32" value="0" />
     <!-- <variable entry="UI:VARIABLES:CDB_INIT_IN_PROGRESS"        type="bool"   value="1" /> -->
-    <!-- Link to compute the Total_Magic absorb, in local, according to 
+    <!-- Link to compute the Total_Magic absorb, in local, according to
         - jewels weared  (=> EQUIP and BAG)
         - absorb factor
         - max baseskilllevel of the player
@@ -95,7 +95,7 @@
                 <view type="bitmap" id="jauge_graph" posref="TL TL" texture="jauge.tga" color="#color" global_color="false" />
             </group>
             <view type="text" id="t" posref="TL TL" x="16" y="2" color="255 255 255 255" global_color="false" fontsize="10" shadow="true" hardtext="#text" />
-            <!--  
+            <!--
          <view type="text_number" id="max" posref="MR MR" x="-12" y="-2" color="255 255 255 255" shadow="true" global_color="false" fontsize="10" value="#maxval" positive="true" />
          <view type="text" id="sep" posparent="max" posref="TL TR" x="-1" color="255 255 255 255" shadow="true" global_color="false" fontsize="10" hardtext="/" />
          <view type="text_number" id="val" posparent="max" posref="TL TR" x="-10" color="255 255 255 255" shadow="true" global_color="false" fontsize="10" value="#val" positive="true" />
@@ -614,7 +614,7 @@
             <vector template="t_group_mission_title" posparent="%ipj_last_title" _size="%ipj_nb_group_mission" _firstpos="BL TL" _nextpos="BL TL" _xfirst="0" id="group_title$i" stepindex="$i" />
         </group>
         <!--
-        <ctrl style="skin_scroll" id="sv" posref="TL TL" x="4" y="-8" target="mission_list"/>   
+        <ctrl style="skin_scroll" id="sv" posref="TL TL" x="4" y="-8" target="mission_list"/>
         -->
     </group>
     <!-- bind lua observers to know when :
@@ -653,7 +653,7 @@
                  <ctrl style="text_button_16" id="mission_catalog_bg" w="-28" h="32" x="26" y="-15" sizeref="w" scale="true" posref="TL TL" global_color_normal="false" text_color_normal="255 189 0 255" text_global_color_normal="false" global_color_pushed="false" global_color_over="false" tx_normal="w_text_button_pushed" tx_pushed="w_text_button_pushed" tx_over="w_text_button_over"  hardtext="uiMissionCatalog" onclick_l="lua:game:openMissionsCatalog()" />
                  <ctrl type="button" button_type="push_button" id="mission_catalog" w="32" h="32" y="0" scale="false" global_color="false" color="255 255 255 255" tx_normal="tb_missions.tga" col_over="255 255 255 255" tx_over="tb_missions.tga" col_pushed="255 255 255 255" tx_pushed="tb_missions.tga" />
             </group>
-            
+
             <group id="mission_combo" type="group_wheel" posref="TL TL" x="2" y="-38" sizeref="w" w="-4" h="24" on_wheel_up="lua" on_wheel_up_params="game:onMissionComboWheelUp()" on_wheel_down="lua" on_wheel_down_params="game:onMissionComboWheelDown()">
                 <!-- DECORATION -->
                 <instance template="box_widget" id="back" sizeref="wh" w="0" h="0" />
@@ -832,5 +832,8 @@
         </group>
     </group>
     <tree node="ark_mission_catalog" />
-        
+
+	<group type="container" id="storyline_window" active="true" w="0" h="0" pop_max_w="0" pop_max_h="0" pop_min_w="0" pop_min_h="0"></group>
+    <tree node="storyline_window" />
+
 </interface_config>
