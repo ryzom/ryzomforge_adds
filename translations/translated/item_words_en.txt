@@ -6890,7 +6890,7 @@ _6396266C1993062B	system_mp_excellent_red	Excellent Generic Raw Material (Red)	a
 _D9F3E41C3DB85F0A	system_mp_excellent_turquoise	Excellent Generic Raw Material (Turquoise)	a	the	Excellent Generic Raw Materials (Turquoise)	\d	the	
 _FC0993A06274F698	system_mp_excellent_white	Excellent Generic Raw Material (White)	a	the	Excellent Generic Raw Materials (White)	\d	the	
 _29B958CBA68A90A0	web_transaction	Transaction	a	the	Transactions	\d	the	
-_2015701C2C98F49B	rpjobloot_casket	Mysterious Casket 	a	the	Mysterious Caskets	\d	the	
+_2015F01C2C98F49B	rpjobloot_casket	Mysterious Casket 	a	the	Mysterious Caskets	\d	the	
 _2E488BD22789DCAB	rpjobloot_event	Mysterious Purse	a	the	Mysterious Purses	\d	the	
 _02C0AA7F32FA1A42	marauder_teleport_crystal	Marauder Teleport Crystal	a	the	Marauder Teleport Crystals	\d	the	
 _14F44666805E953D	npc_caravan_pistol_p	<GEN>npc_caravan_pistol_p						
@@ -7860,3 +7860,11 @@ _5DC47E6D6C73FA98	wheel_token_choice	withered token	a	the	withered tokens	the
 _1DE726797DBE9444	wheel_token_fine	withered token	a	the	withered tokens	the		
 _5DC49E6FAE842EA8	wheel_token_suprem	withered token	a	the	withered tokens	the		
 _677212AB08CFE10C	wheel_token_xl	withered token	a	the	withered tokens	the		
+_B2B03527C20E549C	steak_rendor_1	Rendor Meat	a	the	Rendor Meat			
+_B2B03527C20E589C	steak_rendor_2	Rendor Meat	a	the	Rendor Meat			
+_B2B03527C20E5C9C	steak_rendor_3	Rendor Meat	a	the	Rendor Meat			
+_B2B03527C20E609C	steak_rendor_4	Rendor Meat	a	the	Rendor Meat			
+_9FDE41BB63B664A1	nexus_neck_1	Iridescent Desert Necklace	a	the	Iridescent Desert Necklace			
+_DFDE41BB63B664A1	nexus_neck_2	Iridescent Forest Necklace	a	the	Iridescent Forest Necklace			
+_1FDE41BB63B664A1	nexus_neck_3	Iridescent Lakes Necklace	a	the	Iridescent Lakes Necklace			
+_60DE41BB63B664A1	nexus_neck_4	Iridescent Jungle Necklace	a	the	Iridescent Jungle Necklace			
