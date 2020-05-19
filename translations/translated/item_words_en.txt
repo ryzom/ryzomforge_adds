@@ -1,34 +1,34 @@
-*HASH_VALUE	item ID	name	ia	da	p	pia	pda	description
-_108DDB88207D7D6F	barman_bottle	Barman's Bottle	a	the	Barman's Bottles	\d	the
-_719D75E0E9F8F0D4	big_barrel	Big Barrel	a	the	Big Barrels	\d	the
-_AAF8AD76E06BA817	big_living_sculpture	Big Living Sculpture	a	the	Big Living Sculptures	\d	the
-_C53473989DD18D60	black_medicine	Black Medicine	a	the	Black Medicines	\d	the
-_095D69BC15982000	blood_vial	Blood Vial	a	the	Blood Vials	\d	the
-_992FA17CC3622A69	blue_medicine	Blue Medicine	a	the	Blue Medicines	\d	the
-_387B063C978B2F9A	botanist_letter	Botanist's Letter	a	the	Botanist's Letters	\d	the
-_94281F5594E74586	botanist_vial	Botanist's Vial	a	the	Botanist's Vials	\d	the
-_6E7AE080AAA7CCAD	bottle	Bottle	a	the	Bottles	\d	the
-_29FA4C81EB47209E	casket	Casket	a	the	Caskets	\d	the
-_BB42F36FBADA4FB3	crystalized_spell	Crystalized Spell	a	the	Crystallized Spells	\d	the
-_5C103D85258D1E61	cure_expert_letter	Cure Expert's Letter	a	the	Cure Expert's Letters	\d	the
-_265C8F99DC8713A2	fv_arrowhead	Strange Arrowhead	a	the	Strange Arrowheads	\d	the
-_C4ED4DA60E405F1D	fv_seal1	Miner's Seal	a	the	Miner's Seals	\d	the
-_A7688EB001F4C3B6	fy_cheveux_long01	Fyros Long Haircut	a	the	Fyros Long Hairs	\d	the
-_C9AE97CCA6393608	fy_cheveux_medium01	Fyros Medium Haircut	a	the	Fyros Medium Haircuts	\d	the
-_444DFF215179DB83	fy_cheveux_shave01	Fyros Shaved Haircut	a	the	Fyros Shaved Haircuts	\d	the
-_2B15C615EDDA8EDA	fy_cheveux_short01	Fyros Short Haircut	a	the	Fyros Short Haircuts	\d	the
-_877F6110998470D1	fy_visage	Fyros Mask	a	the	Fyros Masks	\d	the
-_B961ACE6A4CCEFFF	goo_swarmplants_fiber	Goo Shooki Fiber	some	the	Goo Shooki Fibers	\d	the
-_35683D7993C78D1E	goo_swarmplants_fruit	Piece of Goo Shooki Fruit	a	the	Pieces of Goo Shooki Fruit	\d	the
-_D983739BF7A2F020	goo_vampignon_fungus	Goo Vampignon Fungus	a	the	Goo Vampignon Fungi	\d	the
-_7CA21DC266832C54	goo_varinx_blood	Phial of Goo Varinx Blood	a	the	Phials of Goo Varinx Blood	\d	the
-_DDE22C9F40DC38D2	goo_yber_sticky_glands	Goo Yber Sticky Gland	a	the	Goo Yber Sticky Glands	\d	the
-_DFBEF850F4144EB3	green_liquid_vial	Nexus Crystal	a	the	Nexus Crystals	\d	the
-_C7E4ABA61E218D66	green_medicine	Green Medicine	a	the	Green Medicines	\d	the
-_C035657CDDA3C54C	guard_scroll	Guard's Scroll	a	the	Guard's Scrolls	\d	the
-_FE92D2ABBEF726B8	heavy_armors_acreditation	Heavy Armor Accreditation	a	the	Heavy Armor Accreditations	\d	the
-_7BFC81067891490A	heavy_conch	Heavy Conch	a	the	Heavy Conchs	\d	the
-_8B31326A3B23E66B	heavy_package	Heavy Package	a	the	Heavy Packages	\d	the
+﻿*HASH_VALUE	item ID	name	ia	da	p	pia	pda	description
+_108DDB88207D7D6F	barman_bottle	Barman's Bottle	a	the	Barman's Bottles	\d	the	
+_719D75E0E9F8F0D4	big_barrel	Big Barrel	a	the	Big Barrels	\d	the	
+_AAF8AD76E06BA817	big_living_sculpture	Big Living Sculpture	a	the	Big Living Sculptures	\d	the	
+_C53473989DD18D60	black_medicine	Black Medicine	a	the	Black Medicines	\d	the	
+_095D69BC15982000	blood_vial	Blood Vial	a	the	Blood Vials	\d	the	
+_992FA17CC3622A69	blue_medicine	Blue Medicine	a	the	Blue Medicines	\d	the	
+_387B063C978B2F9A	botanist_letter	Botanist's Letter	a	the	Botanist's Letters	\d	the	
+_94281F5594E74586	botanist_vial	Botanist's Vial	a	the	Botanist's Vials	\d	the	
+_6E7AE080AAA7CCAD	bottle	Bottle	a	the	Bottles	\d	the	
+_29FA4C81EB47209E	casket	Casket	a	the	Caskets	\d	the	
+_BB42F36FBADA4FB3	crystalized_spell	Crystalized Spell	a	the	Crystallized Spells	\d	the	
+_5C103D85258D1E61	cure_expert_letter	Cure Expert's Letter	a	the	Cure Expert's Letters	\d	the	
+_265C8F99DC8713A2	fv_arrowhead	Strange Arrowhead	a	the	Strange Arrowheads	\d	the	
+_C4ED4DA60E405F1D	fv_seal1	Miner's Seal	a	the	Miner's Seals	\d	the	
+_A7688EB001F4C3B6	fy_cheveux_long01	Fyros Long Haircut	a	the	Fyros Long Hairs	\d	the	
+_C9AE97CCA6393608	fy_cheveux_medium01	Fyros Medium Haircut	a	the	Fyros Medium Haircuts	\d	the	
+_444DFF215179DB83	fy_cheveux_shave01	Fyros Shaved Haircut	a	the	Fyros Shaved Haircuts	\d	the	
+_2B15C615EDDA8EDA	fy_cheveux_short01	Fyros Short Haircut	a	the	Fyros Short Haircuts	\d	the	
+_877F6110998470D1	fy_visage	Fyros Mask	a	the	Fyros Masks	\d	the	
+_B961ACE6A4CCEFFF	goo_swarmplants_fiber	Goo Shooki Fiber	some	the	Goo Shooki Fibers	\d	the	
+_35683D7993C78D1E	goo_swarmplants_fruit	Piece of Goo Shooki Fruit	a	the	Pieces of Goo Shooki Fruit	\d	the	
+_D983739BF7A2F020	goo_vampignon_fungus	Goo Vampignon Fungus	a	the	Goo Vampignon Fungi	\d	the	
+_7CA21DC266832C54	goo_varinx_blood	Phial of Goo Varinx Blood	a	the	Phials of Goo Varinx Blood	\d	the	
+_DDE22C9F40DC38D2	goo_yber_sticky_glands	Goo Yber Sticky Gland	a	the	Goo Yber Sticky Glands	\d	the	
+_DFBEF850F4144EB3	green_liquid_vial	Nexus Crystal	a	the	Nexus Crystals	\d	the	
+_C7E4ABA61E218D66	green_medicine	Green Medicine	a	the	Green Medicines	\d	the	
+_C035657CDDA3C54C	guard_scroll	Guard's Scroll	a	the	Guard's Scrolls	\d	the	
+_FE92D2ABBEF726B8	heavy_armors_acreditation	Heavy Armor Accreditation	a	the	Heavy Armor Accreditations	\d	the	
+_7BFC81067891490A	heavy_conch	Heavy Conch	a	the	Heavy Conchs	\d	the	
+_8B31326A3B23E66B	heavy_package	Heavy Package	a	the	Heavy Packages	\d	the	
 _E938348C4558587C	iccm1bm	Mace	a	the	Maces	\d	the	Mace
 _E5F930951F9AC05E	iccm1bs	Staff	a	the	Staffs	\d	the	Staff
 _9E18DC15602A786B	iccm1pd	Dagger	a	the	Daggers	\d	the	Dagger
@@ -6565,1272 +6565,1272 @@ _5831CC231D8B98D4	conso_fireworks_p	Firework Type P	a	the	Fireworks Type P	\d	th
 _5831CC241D8B9CD4	conso_fireworks_q	Firework Type Q	a	the	Fireworks Type Q	\d	the	Pretty lights!
 _5831CC251D8BA0D4	conso_fireworks_r	Firework Type R	a	the	Fireworks Type R	\d	the	Pretty lights!
 _5831CC261D8BA4D4	conso_fireworks_s	Firework Type S	a	the	Fireworks Type S	\d	the	Pretty lights!
-_C193E497EB5D71BC	ipoc_con_10min	Flower of Constitution	a	the	Flowers of Constitution	\d	the
-_3F48208A7D7C0AF9	ipoc_int_10min	Flower of Intelligence	a	the	Flowers of Intelligence	\d	the
-_5A746281C4A7FBF1	ipoc_str_10min	Flower of Strength	a	the	Flowers of Strength	\d	the
-_6041FA44E0A91486	ipoc_dex_10min	Flower of Dexterity	a	the	Flowers of Dexterity	\d	the
-_AA282DFAB079A090	teddyubo	Teddy	a	the	Teddies	\d	the
-_0377AA80C7DAAD00	casinoshield_pre_order	Shield of Prestige	a	the	Shields of Prestige	\d	the
-_2BDDF2DCD03621CE	amber_cube_common_ancient	Ancient Amber Cube	an	the	Ancient Amber Cubes	\d	the
-_AA9A76F2A09FC196	amber_cube_common_recent	Recent Amber Cube	a	the	Recent Amber Cubes	\d	the
-_E31093E62B434107	amber_cube_common_very_ancient	Very Ancient Amber Cube	a	the	Very Ancient Amber Cubes	\d	the
-_8C574B0A8BBACFD5	amber_cube_fyros_ancient	Fyros Ancient Amber Cube	a	the	Fyros Ancient Amber Cubes	\d	the
-_86B0129072502D54	amber_cube_fyros_recent	Fyros Recent Amber Cube	a	the	Fyros Recent Amber Cubes	\d	the
-_8E608B43CDA97EC3	amber_cube_fyros_very_ancient	Fyros Very Ancient Amber Cube	a	the	Fyros Very Ancient Amber Cubes	\d	the
-_934E8398C2CEC40E	amber_cube_kami_ancient	Kami Ancient Amber Cube	a	the	Kami Ancient Amber Cubes	\d	the
-_BEF2EC60CF25CA7F	amber_cube_kami_recent	Kami Recent Amber Cube	a	the	Kami Recent Amber Cubes	\d	the
-_77106151DEBC832A	amber_cube_kami_very_ancient	Kami Very Ancient Amber Cube	a	the	Kami Very Ancient Amber Cubes	\d	the
-_78F548564D1A738A	amber_cube_karavan_ancient	Karavan Ancient Amber Cube	a	the	Karavan Ancient Amber Cubes	\d	the
-_E2AA18B300001D9E	amber_cube_karavan_recent	Karavan Recent Amber Cube	a	the	Karavan Recent Amber Cubes	\d	the
-_B350928FD4DA4352	amber_cube_karavan_very_ancient	Karavan Very Ancient Amber Cube	a	the	Karavan Very Ancient Amber Cubes	\d	the
-_10574B040C79FBA5	amber_cube_matis_ancient	Matis Ancient Amber Cube	a	the	Matis Ancient Amber Cubes	\d	the
-_42201290F110BD45	amber_cube_matis_recent	Matis Recent Amber Cube	a	the	Matis Recent Amber Cubes	\d	the
-_4AD08B3D4EC88AAD	amber_cube_matis_very_ancient	Matis Very Ancient Amber Cube	a	the	Matis Very Ancient Amber Cubes	\d	the
-_94C52B11C79EA5A5	amber_cube_tryker_ancient	Tryker Ancient Amber Cube	a	the	Tryker Ancient Amber Cubes	\d	the
-_29E27F5BEB2EB879	amber_cube_tryker_recent	Tryker Recent Amber Cube	a	the	Tryker Recent Amber Cubes	\d	the
-_85249CABCEC044DD	amber_cube_tryker_very_ancient	Tryker Very Ancient Amber Cube	a	the	Tryker Very Ancient Amber Cubes	\d	the
-_96573DFC28591FC1	amber_cube_zorai_ancient	Zoraï Ancient Amber Cube	a	the	Zoraï Ancient Amber Cubes	\d	the
-_08F1120C6D37CD5E	amber_cube_zorai_recent	Zoraï Recent Amber Cube	a	the	Zoraï Recent Amber Cubes	\d	the
-_10A17D354BEF96B9	amber_cube_zorai_very_ancient	Zoraï Very Ancient Amber Cube	a	the	Zoraï Very Ancient Amber Cubes	\d	the
-_4B006F4536066EE8	cwtf03_pearl	Corsair Pearl	a	the	Corsair Pearls	\d	the
-_1872BF42B7678FEC	m0709dxaca02	Lake Shell	a	the	Lake Shells	\d	the
-_FF6A845DB1616D7D	m0194dxaca02	Peat	some	the	Peat	\d	the
-_0B0316B901F25F7D	m0229dxaca02	Lake Root	a	the	Lake Roots	\d	the
-_55A50C949A9EFBB7	m0224dxaca02	Kamic Thinking Moss	some	the	Kamic Thinking Moss	\d	the
-_55F1A9E3E85E2F56	m0194dxaca04	Mektoub Dropping	a	the	Mektoub Droppings	\d	the
-_CA9539D4A91C468B	m0201dxaca02	Waterfall Pearl	a	the	Waterfall Pearls	\d	the
-_83E0AEA12758D718	m0194dxaca05	Bone	a	the	Bones	\d	the
-_6A6918129F199455	m0229dxaca03	Root	a	the	Roots	\d	the
-_8814699BA3F8F63C	m0706dxaca02	Psykopla Spore	a	the	Psykopla Spores	\d	the
-_2D1A1C27E185D84D	m0194dxaca03	Garbage	some	the	Garbage	\d	the
-_AAB9900DA2FA90C7	m0684ccpca02	Fossil	a	the	Fossils	\d	the
-_A7B210C06A40F4B4	m0707dxaca02	Mud	some	the	Mud	\d	the
-_5C68D5A061E0CF01	cwmf03_bag	Package to deliver	a	the	Packages to deliver	\d	the
-_8DAA130662E2CC41	cwmf03_purse	Little Purse	a	the	Little Purses	\d	the
-_84D0CD264740551E	cwff03_egg	Goari Egg	a	the	Goari Eggs	\d	the
-_30EAD1F19E862CB7	itforagefyros_1	Krat	a	the	Krat	\d	the
-_440E390B5D55391D	itforagematis_1	Merena	a	the	Merena	\d	the
-_2B69E4F056F7B0AA	itforagetryker_1	Pik	a	the	Pik	\d	the
-_DFCE668F03D9AE9D	itforagezorai_1	Taï-Sui'Kuk	a	the	Taï-Sui'Kuk	\d	the
-_BA6D78FD2C8AB833	sfxitforagefyros_1	Krat	a	the	Krat	\d	the
-_421D6C80C58E010D	sfxitforagematis_1	Merena	a	the	Merena	\d	the
-_7B5C151EE949D8B8	sfxitforagetryker_1	Pik	a	the	Pik	\d	the
-_62064CDDE5B63097	sfxitforagezorai_1	Taï-Sui'Kuk	a	the	Taï-Sui'Kuk	\d	the
-_6DF3A29EA1F42EBF	ke0904_big_package	Heavy Package	a	the	Heavy Packages	\d	the
-_9144DFF07E5B90D7	ke0904_light_package	Light Package	a	the	Light Packages	\d	the
-_F64F396D07DD63AB	system_mp_choice_black	Choice Generic Raw Material (Black)	a	the	Choice Generic Raw Materials (Black)	\d	the
-_EC092C92BBFDCDCA	system_mp_choice_blue	Choice Generic Raw Material (Blue)	a	the	Choice Generic Raw Materials (Blue)	\d	the
-_F9B04D6D07FD93A3	system_mp_choice_green	Choice Generic Raw Material (Green)	a	the	Choice Generic Raw Materials (Green)	\d	the
-_AF185AE2A6838ADF	system_mp_choice_purple	Choice Generic Raw Material (Purple)	a	the	Choice Generic Raw Materials (Purple)	\d	the
-_A2D446911624AAAA	system_mp_choice_red	Choice Generic Raw Material (Red)	a	the	Choice Generic Raw Materials (Red)	\d	the
-_B8B8571E85ED0678	system_mp_choice_turquoise	Choice Generic Raw Material (Turquoise)	a	the	Choice Generic Raw Materials (Turquoise)	\d	the
-_8CC20ED2220D0CBF	system_mp_choice_white	Choice Generic Raw Material (White)	a	the	Choice Generic Raw Materials (White)	\d	the
-_8F941DA2C74C90F6	event_barrel_of_beer	Barrel of Lakes Beer	a	the	Barrels of Lakes Beer	\d	the
-_CEDF5E74EB06158C	event_barrel_of_shooki_liquor	Barrel of Shooki Liquor	a	the	Barrels of Shooki Liquor	\d	the
-_8797D1B6F8D32524	event_barrel_of_water	Barrel of Lake Water	a	the	Barrels of Lake Water	\d	the
-_9D681018DEB96CB0	event_blood	Blood	some	the	Blood	\d	the
-_A0F838BC6AF78CCC	event_goo	Goo	some	the	Goo	\d	the
-_4A0809AB7AC24C97	event_incandescent_wood	Incandescent Wood	some	the	Incandescent Wood	\d	the
-_97B7824B500FC57F	event_lakes_beer	Lakes Beer	some	the	Lakes Beer	\d	the
-_8F9D1CE8B4EE400B	event_magnetized_amber	Magnetized Amber	a	the	Magnetized Amber	\d	the
-_94208A4E6EF63202	event_magnetized_amber_sphere	Sphere Magnetized Amber	a	the	Sphere Magnetized Amber	\d	the
-_27360CA7E5B924AE	event_meat	Meat	some	the	Meats	\d	the
-_87D181F46B485C08	event_missive	Missive	a	the	Missives	\d	the
-_71D8B6A365ACBBF2	event_missive_fyros	Fyros Missive	a	the	Fyros Missives	\d	the
-_F5484BE38CDD6E9F	event_missive_kami	Kami Missive	a	the	Kami Missives	\d	the
-_F83843593C7B1FB6	event_missive_kara	Karavan Missive	a	the	Karavan Missives	\d	the
-_33D89EA5DEDC63E1	event_missive_matis	Matis Missive	a	the	Matis Missives	\d	the
-_39179880BF0CCB91	event_missive_tryker	Tryker Missive	a	the	Tryker Missives	\d	the
-_76377E1F7E0D93FC	event_missive_zorai	Zoraï Missive	a	the	Zoraï Missives	\d	the
-_B6E66FE36225CADD	event_purified_sap	Purified Sap	some	the	Purified Sap	\d	the
-_F2B92263341A72E5	event_shooki_liquor	Shooki Liquor	some	the	Shooki Liquor	\d	the
-_29A7A5D7D67F5FA5	event_taliari_pearl_black	Black Taliari Pearl	a	the	Black Taliari Pearls	\d	the
-_2410D9A90BF29D15	event_taliari_pearl_blue	Blue Taliari Pearl	a	the	Blue Taliari Pearls	\d	the
-_015AA2E3EE8B6DE7	event_taliari_pearl_violet	Violet Taliari Pearl	a	the	Violet Taliari Pearls	\d	the
-_EBB88CB1AA47389B	winch	Winch	a	the	Winchs	\d	the
-_6598E09CD4E5BC94	winch_2	Winch	a	the	Winchs	\d	the
-_6598E09C14F5BC94	winch_3	Winch	a	the	Winchs	\d	the
-_E8C884B2A4DAD8AB	secator	Secator	a	the	Secators	\d	the
-_6539707AA7A9C49C	secator_2	Secator	a	the	Secators	\d	the
-_6539707BA7A9C49C	secator_3	Secator	a	the	Secators	\d	the
-_66B9B8B0E67AB0AC	scraper	Scraper	a	the	Scrapers	\d	the
-_290A4076A7FA8498	scraper_2	Scraper	a	the	Scrapers	\d	the
-_290A4077A7FA8498	scraper_3	Scraper	a	the	Scrapers	\d	the
-_2E4A00ACAFF878AB	brush	Brush	a	the	Brushes	\d	the
-_6E0BFC7EDD66B0A6	brush_2	Brush	a	the	Brushes	\d	the
-_6E0BFC7EDD76B0A6	brush_3	Brush	a	the	Brushes	\d	the
-_F713547E87315100	cattlestick	Cattle Stick	a	the	Cattle Sticks	\d	the
-_3837C68A078F510E	cattlestick_2	Cattle Stick	a	the	Cattle Sticks	\d	the
-_3837C68A078F510F	cattlestick_3	Cattle Stick	a	the	Cattle Sticks	\d	the
-_5BB592DEC824818E	mountingstick	Mounting Stick	a	the	Mounting Sticks	\d	the
-_E2EA8AE2C512BE8A	mountingstick_2	Mounting Stick	a	the	Mounting Sticks	\d	the
-_E2EA8AE2C522BE8A	mountingstick_3	Mounting Stick	a	the	Mounting Sticks	\d	the
-_581C91B3EC59648F	petstick	Pet Stick	a	the	Pet Sticks	\d	the
-_BA8A8C10E5F76BD0	petstick_2	Pet Stick	a	the	Pet Sticks	\d	the
-_BA8A9010E5F76BD0	petstick_3	Pet Stick	a	the	Pet Sticks	\d	the
-_6C78C0A521CAACA9	chopper	Butcher's Knife	a	the	Butcher Knives	\d	the
-_2C29146667C99897	chopper_2	Chopper	a	the	Choppers	\d	the
-_2C29146767C99897	chopper_3	Chopper	a	the	Choppers	\d	the
-_2F38D0AB2A57108C	drill	Drill	a	the	Drills	\d	the
-_AB19C87F10E5CCA5	drill_2	Drill	a	the	Drills	\d	the
-_AB19C87F50F5CCA5	drill_3	Drill	a	the	Drills	\d	the
-_EA383482AD482C56	grip	Grip	a	the	Grips	\d	the
-_E2D80CA2F0F4BB76	grip_2	Grip	a	the	Grips	\d	the
-_22D80CA2F0F4BF76	grip_3	Grip	a	the	Grips	\d	the
-_AB98B0B32B68549A	stick	Stick	a	the	Sticks	\d	the
-_E4A9149FD3E5C89A	stick_2	Stick	a	the	Sticks	\d	the
-_E4A9149F13F5C89A	stick_3	Stick	a	the	Sticks	\d	the
-_2C3898B32BE85494	stake	Stake	a	the	Stakes	\d	the
-_6C887CA2E8771898	phial	Phial	a	the	Phials	\d	the
-_1ED36935B6F1BE32	iccm2ms_2	Magic Amplifier	a	the	Magic Amplifiers	\d	the
-_1ED36936B6F1BE32	iccm2ms_3	Magic Amplifier	a	the	Magic Amplifiers	\d	the
-_F0093121888B44F3	r_06_08_phial_full	Phial	a	the	Phials	\d	the
-_FC6CAD2C67ECB821	r_06_08_report	Report	a	the	Reports	\d	the
-_A6098DA120A6473F	r_06_09_kizoar_element	Lethal Kizoar Wing	a	the	Lethal Kizoar Wings	\d	the
-_FC6CAD2C67FCB821	r_06_09_report	Report	a	the	Reports	\d	the
-_3555F7DD2126222F	rpjob_elementary	Basic Occupation	a	the	Basic Occupations	\d	the
-_9DA562B26F425A61	rpjob_advanced	Advanced Occupation	an	the	Advanced Occupations	\d	the
-_16515F8222A6FA6C	rpjob_roleplay	Basic Occupation	a	the	Basic Occupations	\d	the
-_85B4A1C5D99F7053	rpjobitem_certifications	Master's Instrument	a	the	Master's Instruments	\d	the
-_0F3D776412F0C65C	rpjob_200	Apprentice Butcher	an	of	Apprentice Butcher	\d	of
-_FA0E017088640A01	rpjobitem_200_a0	Butchering Components	some	the	Butchering Components	\d	the
-_99DB2BEBE9ECCE42	rpjobitem_200_a1	Greater Butchering Components	some	the	Greater Buthering Components	\d	the
-_06BEF7FF65B8D31A	rpjobitem_200_b0	Herbivore Meat	some	the	Herbivore Meats	\d	the
-_8BA219614946FD14	rpjobitem_200_b1	Prime Herbivore Meat	some	the	Prime Herbivore Meats	\d	the
-_CD7CDED57FF3D638	rpjobitem_200_c0	Leg of Yubo	some	the	Legs of Yubo	\d	the
-_9BAFD3E438E40AA6	rpjobitem_200_c1	Bodoc Steak	some	the	Bodoc Steaks	\d	the
-_4DE37ABDC975C42C	rpjobitem_200_c2	Giblet of Arma	some	the	Giblets of Arma	\d	the
-_DBFFA3DD7A743EA0	rpjobitem_200_c3	Fillet of Arana	some	the	Fillets of Arana	\d	the
-_327C270227963388	rpjobitem_200_c4	Sirloin of Madakam	some	the	Sirloins of Madakam	\d	the
-_CE21AF717EA685F2	rpjobitem_200_c5	Shalah Ribs	some	the	Shalah Ribs	\d	the
-_CDCCBF665780A66F	rpjob_201	Apprentice Florist	an	of	Apprentice Florist	\d	of
-_CA02022225F6448B	rpjobitem_201_a0	Flower Supply Certificates	some	the	Flower Supply Certificates	\d	the
-_1D5F7FB6237E14C7	rpjobitem_201_a1	Abundant Flower Supply Certificates	some	the	Abondant Flower Certificates	\d	the
-_9279471FFE4CC296	rpjobitem_201_b0	Flower Maintenance certificates	some	the	Flower Maintenance Certificates	\d	the
-_84A75C031EE9E86D	rpjobitem_201_b1	Perfect Flower Maintenance Certificates	some	the	Perfect Flower Maintenance Certificates	\d	the
-_4DE5D24DCDD1C441	rpjobitem_201_c0	Basic Bouquet	a	the	Basic Bouquets	\d	the
-_99057FAA7423B24A	rpjobitem_201_c1	Mystia Bouquet	a	the	Mystia Bouquets	\d	the
-_1549BF9C53E6B374	rpjobitem_201_c2	Fallenor Bouquet	a	the	Fallenor Bouquets	\d	the
-_54B9EB9A5486AB7E	rpjobitem_201_c3	Folially Bouquet	a	the	Folially Bouquets	\d	the
-_17F32FA33544FA48	rpjobitem_201_c4	Floris Bouquet	a	the	Floris Bouquets	\d	the
-_5385F2650ED1C461	rpjobitem_201_c5	Nexus Bouquet	a	the	Nexus Bouquets	\d	the
-_CE3CB77612E0BA6C	rpjob_205	Apprentice Medic	an	of	Apprentice Medic	\d	of
-_B53CF91C99F90DC1	rpjobitem_205_a0	Bandages	some	the	Bandages	\d	the
-_2B07B78E8CF29642	rpjobitem_205_a1	Strong Bandages	some	the	Strong Bandages	\d	the
-_743929FCDDBAA464	rpjobitem_205_b0	Balsams	some	the	Balsams	\d	the
-_94A9AF8A14B637B5	rpjobitem_205_b1	Powerful Balsams	some	the	Powerful Balsams	\d	the
-_7EB29CFA8C1797C5	rpjobitem_205_c0	Small First-Aid Kit	a	the	Small First-Aid Kits	\d	the
-_538388330BB5C467	rpjobitem_205_c1	First-Aid Kit	a	the	First-Aid Kits	\d	the
-_BF2E53D49338E646	rpjobitem_205_c2	Prevention Kit	a	the	Prevention Kits	\d	the
-_B38B603148339710	rpjobitem_205_c3	Advanced Care Kit	an	the	Advanced Care Kits	\d	the
-_18342E325DAFB652	rpjobitem_205_c4	Survival Kit	a	the	Survival Kits	\d	the
-_0D4FBA11C061F881	rpjobitem_205_c5	Fast Regeneration Kit	a	the	Fast Regeneration Kits	\d	the
-_E2F25C48324C5FFA	itoshovelgarden	Trowel	a	the	Trowels	\d	the
-_5E6454A1077EE1EF	lucky_flower	Lucky Flower	a	the	Lucky Flowers	\d	the
-_8220BB29E86B80CF	rpjob_202	Apprentice Water-Carrier	an	of	Apprentice Water-Carrier	\d	of
-_67392C59EBA7C4A6	bucket	Bucket	a	the	 Buckets	\d	the
-_7B3AF6F2CEF30E8C	aqua_speed	Aquatic Propulsor	an	the	Aquatic Propulsors	\d	the
-_9CBDFA15261AEF9B	rpjobitem_202_a0	Water Quality Certificates	some	the	Water Quality Certificates	\d	the
-_14F6CF81BDAD4A14	rpjobitem_202_a1	Good Water Quality Certificates	some	the	Good Water Quality Certificates	\d	the
-_8FA7518A0D4B353F	rpjobitem_202_b0	Report of the Commissioner Sender	a	the	Reports of the Commissioner Sender	\d	the
-_776BC2D1B1D15237	rpjobitem_202_b1	Report of Excellence of the Commissioner Sender	a	the	Reports of Excellence of the Commissioner Sender	\d	the
-_AE2DCA0C821C28BB	rpjobitem_202_c0	Small Flask of Drab Water	a	the	Small Flasks of Drab Water	\d	the
-_87539C3D99596890	rpjobitem_202_c1	Small Flask of Water	a	the	Small Flasks of Water	\d	the
-_D92A8AA6505C5EE4	rpjobitem_202_c2	Small Flask of Refreshing Water	a	the	Small Flasks of Refreshing Water	\d	the
-_C0D3AEEC0612B36C	rpjobitem_202_c3	Small Flask of Exhilarating Water	a	the	Small Flasks of Exhilarating Water	\d	the
-_0072F537AA1796CA	rpjobitem_202_c4	Small Flask of Purifying water	a	the	Small Flasks of Purifying Water	\d	the
-_BD7FC60DAA45DA62	rpjobitem_202_c5	Small Flask of Healing water	a	the	Small Flasks of Healing Water	\d	the
-_263DA69ABDA01117	medical_kit	Kit of Supreme Healing	a	the	Kits of Supreme Healing	\d	the
-_6EBE86E6562EFCAD	rpjob_203	Apprentice Magnetic Cartographer	an	of	Apprentice Magnetic Cartographer	\d	of
-_70CC20A4644904A7	stylet	Stylus	a	the	Stylus	\d	the
-_3CFE0C58358826A3	protect_amber	Amber of Protection	an	the	 Ambers of Protection	\d	the
-_0A2BCBBC6C52B8AB	rpjobitem_203_a0	Fragment of Magnetic Fields Map	a	the	Fragments of Magnetic Fields Map	\d	the
-_12002DE0E31C5EFB	rpjobitem_203_a1	Fragment of Precise Magnetic Fields Map	a	the	Fragments of Precise Magnetic Fields Map	\d	the
-_53F7BE95D19BA24B	rpjobitem_203_b0	List of Magnetic Amplitudes	a	the	Lists of Magnetic Amplitudes	\d	the
-_33A3546EF1473824	rpjobitem_203_b1	List of Precise Magnetic Amplitudes	a	the	Lists of Precise Magnetic Amplitudes	\d	the
-_F95F39A430EE2F92	rpjobitem_203_c0	Map of Minor Magnetism	a	the	Maps of Minor Magnetism	\d	the
-_049573BB0B260983	rpjobitem_203_c1	Map of Primary Magnetism	a	the	Maps of Primary Magnetism	\d	the
-_3EF55681E5E5EC90	rpjobitem_203_c2	Map of Secondary Magnetism	a	the	Maps of Secondary Magnetism	\d	the
-_3E4215A07CF6F956	rpjobitem_203_c3	Map of Tertiary Magnetism	a	the	Maps of Tertiary Magnetism	\d	the
-_CEE2AD5AB38D2E18	rpjobitem_203_c4	Map of Medium Magnetism	a	the	Maps of Medium Magnetism	\d	the
-_3AB021B1F9640567	rpjobitem_203_c5	Map of Major Magnetism	a	the	Maps of Major Magnetism	\d	the
-_A518DB81926887CF	rpjob_204	Apprentice Toolmaker	an	of	Apprentice Toolmaker	\d	of
-_E1873693C8613D0D	tools_ticket	Improved Tool	an	the	Improved Tools	\d	the
-_18F46B65C6E278F1	rpjobitem_204_a0	Materials for the Handle	some	the	Materials for the Handle	\d	the
-_DB279794BBC5CE98	rpjobitem_204_a1	Sturdy Materials for the Handle	some	the	Sturdy Materials for the Handle	\d	the
-_38923576A7D8C1EB	rpjobitem_204_b0	Materials for the Main Element	some	the	Materials for the Main Element	\d	the
-_F7878891ADC1AA48	rpjobitem_204_b1	Sturdy Materials for the Main Element	some	the	Sturdy Materials for the Main Element	\d	the
-_D231428A5E6C0645	rpjobitem_204_c0	Basic Tool	a	the	Basic Tools	\d	the
-_0F4F0EC90C56064B	rpjobitem_204_c1	Practical Tool	a	the	Practical Tools	\d	the
-_96C15662F8A95183	rpjobitem_204_c2	Clever Tool	a	the	Clever Tools	\d	the
-_6BB3A7ED4FD7CE09	rpjobitem_204_c3	Productive Tool	a	the	Productive Tools	\d	the
-_D46FEED09267E647	rpjobitem_204_c4	Outstanding Tool	a	the	Outstanding Tools	\d	the
-_B2E66858ED0D3AB8	rpjobitem_204_c5	Revolutionary Tool	a	the	Revolutionary Tools	\d	the
-_5F25EA734694013B	butcher_knife	Butcher's Knife	a	the	Butcher's Knives	\d	the
-_5EDEA4DE7F569105	tp_kami_almati	Kami Teleporter Pact for Almati Wood	a	the	Kami Teleporter Pacts for Almati Wood	\d	the
-_A3A9478D123A5BB9	rpjob_206	Apprentice Larvester	an	of	Apprentice Larvester	\d	of
-_3351407B3F6119F9	large_phial	Larvae Phial	a	the	Larvae Phials	\d	the
-_801F13A2BDA5C5A2	tp_kara_almati	Karavan Teleporter Pact for Almati Wood	a	the	Karavan Teleporter Pacts for Almati Wood	\d	the
-_D5C3138802B88A3D	rpjobitem_206_a0	Primary Larva	a	the	Primary Larvae	\d	the
-_7D8FC42BC571F818	rpjobitem_206_a1	Sublime Primary Larva	a	the	Sublime Primary Larvae	\d	the
-_6998FEF991A55F65	rpjobitem_206_b0	Secondary Larva	a	the	Secondary Larvae	\d	the
-_E20E6916072F140D	rpjobitem_206_b1	Sublime Secondary Larva	a	the	Sublime Secondary Larvae	\d	the
-_CF224A7D6AAF89F8	rpjobitem_206_c0	Dried Larva	a	the	Dried Larvae	\d	the
-_D1251A398D8DEE3A	rpjobitem_206_c1	Small Larva	a	the	Small Larvae	\d	the
-_BF814A74B5AFBCCF	rpjobitem_206_c2	Tonic Larva	a	the	Tonic Larvae	\d	the
-_58F878F12F3DCFC8	rpjobitem_206_c3	Stimulating Larva	a	the	Stimulating Larvae	\d	the
-_A9B5D3BF2869B778	rpjobitem_206_c4	Energizing Larva	an	the	Energizing Larvae	\d	the
-_52023686AEAF8906	rpjobitem_206_c5	Power Larva	a	the	Power Larvae	\d	the
-_639F5992EBFB4D73	tp_karavan_almati	Karavan Teleporter Pact for Almati Wood	a	the	Karavan Teleporter Pacts for Almati Wood	\d	the
-_274FB0312F39F783	rpjob_207	Apprentice Scrollmaker	a	of	Apprentice Scrollmaker	\d	of
-_392FBC14BAEA17EC	scrollmaker	Scroll Making Tool	a	the	Scroll Making Tool	\d	the
-_E75A811DAD79689E	parchment	Parchment	a	the	Parchments	\d	the
-_09772876C79B9A18	rpjobitem_207_a0	Parchment Manufacturing Materials	some	the	Parchment Manufacturing Materials	\d	the
-_F93F20C9A7B3E499	rpjobitem_207_a1	Greater Parchment Manufacturing Materials	some	the	Greater Parchment Manufacturing Materials	\d	the
-_EB49342F63EBB8ED	rpjobitem_207_b0	Ink Manufacturing Materials	some	the	Ink Manufacturing Materials	\d	the
-_563A6F383DC3C617	rpjobitem_207_b1	Greater Ink Manufacturing Materials	some	the	Greater Ink Manufacturing Materials	\d	the
-_DB1D91120AE6AF8C	rpjobitem_207_c0	Basic Writing Necessities	some	the	Basic Writing Necessities	\d	the
-_6E6B62C6C9369DC7	rpjobitem_207_c1	Modest Writing Necessities	some	the	Modest Writing Necessities	\d	the
-_70AC6EC68A3661B1	rpjobitem_207_c2	Simple Writing Necessities	some	the	Simple Writing Necessities	\d	the
-_9F94D3C9DD48B783	rpjobitem_207_c3	Handwriting Necessities	some	the	Handwriting Necessities	\d	the
-_207D79354C64A499	rpjobitem_207_c4	Fine Writing Necessities	some	the	Fine Writing Necessities	\d	the
-_F83712A269A78100	rpjobitem_207_c5	Masterful Writing Necessities	some	the	Masterful Writing Necessities	\d	the
-_C09D3E031C548ACF	water_barrel	Stimulating Water	a	the	Stimulating Waters	\d	the
-_56976F432904EFBC	rpjobitem_200_c6	Tongue of Ploderos	a	the	Tongue of Ploderos	\d	the
-_AAE466A5BD78CE5B	rpjobitem_201_c6	Canopy Bouquet	a	the	Canopy Bouquets	\d	the
-_4F173424D5C4699F	rpjobitem_202_c6	Small Flask of Holy Water	a	the	Small Flasks of Holy Water	\d	the
-_B9B60DC7CC06D51F	rpjobitem_203_c6	Map of Absolute Magnetism	a	the	Maps of Absolute Magnetism	\d	the
-_8F0C7EBE9408E249	rpjobitem_204_c6	Fantastic Tool	a	the	Fantastic Tools	\d	the
-_5B31142984912033	rpjobitem_205_c6	Kit of Supreme Healing	a	the	Kits of Supreme Healing	\d	the
-_4BE08C5B9E1C0FDD	rpjobitem_206_c6	Extraordinary Larva	an	the	Extraordinary Larvae	\d	the
-_E324C2CFE2D8A689	rpjobitem_207_c6	Artful Writing Necessities	some	the	Artful Writing Necessities	\d	the
-_7F7B0EEE77E932E5	unstable_goo_vial	Unstable Potion	an	the	Unstable Potions	\d	the
-_FDEBE33068537FC4	shopan_staff_crate	Shopan Staff of the Masters of the Goo	a	the	Shopan Staffs of the Masters of the Goo	\d	the
-_720F99C85F2AF504	fyler_dagger_crate	Fyler Dagger of the Goo Heads	a	the	Fyler Daggers of the Goo Heads	\d	the
-_F5AF2C76FDB63B79	makam_bowrifle_crate	Ma-Kam Bowrifle of the Antikamis	a	the	Ma-Kam Bowrifles of the Antikamis	\d	the
-_8D36C2C75C0C23D1	nanka_mace_crate	Nanka Mace of the Black Circle	a	the	Nanka Maces of the Black Circle	\d	the
-_9BF7A3AD73F5D2B9	iccalb	Tribe Commander Light Boots	\d	the	Tribe Commander Light Boots	\d	the
-_0FB1431AE993C3A6	iccalg	Tribe Commander Light Gloves	\d	the	Tribe Commander Light Gloves	\d	the
-_5B17D79FF7F50AB9	iccalp	Tribe Commander Light Pants	\d	the	Tribe Commander Light Pants	\d	the
-_3C3DCCD5E7D677D5	iccals	Tribe Commander Light Sleeves	\d	the	Tribe Commander Light Sleeves	\d	the
-_618ACE9206675385	iccalv	Tribe Commander Light Vest	a	the	Tribe Commander Light Vest	\d	the
-_31BB07FD667629E1	pvp_aura_lifemage_c0	Feeble Halo of the Mage	a	the	Feeble Halos of the Mage	\d	the
-_71BB070CE72549EC	pvp_aura_lifemage_c1	Simple Halo of the Mage	a	the	Simple Halos of the Mage	\d	the
-_0439C454E2DAE454	pvp_aura_lifemage_c2	Effective Halo of the Mage	an	the	Effective Halos of the Mage	\d	the
-_F1BB070CE7E529EC	pvp_aura_lifemage_c3	Powerful Halo of the Mage	a	the	Powerful Halos of the Mage	\d	the
-_F32BD2793F5B6BE5	pvp_aura_lifemage_c4	Magnificent Halo of the Mage	a	the	Magnificent Halos of the Mage	\d	the
-_CD8F79B97EE1B9A7	pvp_aura_lifemage_c5	Mythical Halo of the Mage	a	the	Mythical Halos of the Mage	\d	the
-_A0D73511931095E0	pvp_aura_lifemage_c6	Divine Halo of the Mage	a	the	Divine Halos of the Mage	\d	the
-_315C0775030C79EC	pvp_aura_lifetank_c0	Feeble Halo of the Warrior	a	the	Feeble Halos of the Warrior	\d	the
-_715C078484BB99F7	pvp_aura_lifetank_c1	Simple Halo of the Warrior	a	the	Simple Halos of the Warrior	\d	the
-_046081C3E78B005E	pvp_aura_lifetank_c2	Effective Halo of the Warrior	an	the	Effective Halos of the Warrior	\d	the
-_F15C0784847B79F7	pvp_aura_lifetank_c3	Powerful Halo of the Warrior	a	the	Powerful Halos of the Warrior	\d	the
-_CEC1068A01FC8757	pvp_aura_lifetank_c4	Magnificent Halo of the Warrior	a	the	Magnificent Halos of the Warrior	\d	the
-_CDB636288392D5B1	pvp_aura_lifetank_c5	Mythical Halo of the Warrior	a	the	Mythical Halos of the Warrior	\d	the
-_22D7FE86AFE1DDE0	pvp_aura_lifetank_c6	Divine Halo of the Warrior	a	the	Divine Halos of the Warrior	\d	the
-_3B8D856E2219C78F	pvp_aura_saplife_c0	Feeble Halo of Sap	some	the	Feeble Halos of Sap	\d	the
-_FE9D856EE679B397	pvp_aura_saplife_c1	Simple Halo of Sap	some	the	Simple Halos of Sap	\d	the
-_1742CC9D56AA04A3	pvp_aura_saplife_c2	Effective Halo of Sap	some	the	Effective Halos of Sap	\d	the
-_FEBD856EE679A38F	pvp_aura_saplife_c3	Powerful Halo of Sap	some	the	Powerful Halos of Sap	\d	the
-_FA3C48FB84505985	pvp_aura_saplife_c4	Magnificent Halo of Sap	some	the	Magnificent Halos of Sap	\d	the
-_EB74610A12CAC518	pvp_aura_saplife_c5	Mythical Halo of Sap	some	the	Mythical Halos of Sap	\d	the
-_B9C933F92725D818	pvp_aura_saplife_c6	Divine Halo of Sap	some	the	Divine Halos of Sap	\d	the
-_B5CD235EC18C45E3	pvp_aura_stamlife_c0	Feeble Halo of Stamina	a	the	Feeble Halos of Stamina	\d	the
-_F5CD236D423B65EE	pvp_aura_stamlife_c1	Simple Halo of Stamina	a	the	Simple Halos of Stamina	\d	the
-_C30099BDA4FA2C62	pvp_aura_stamlife_c2	Effective Halo of Stamina	an	the	Effective Halos of Stamina	\d	the
-_75CD236D42FB45EE	pvp_aura_stamlife_c3	Powerful Halo of Stamina	a	the	Powerful Halos of Stamina	\d	the
-_4D720E73C43C674E	pvp_aura_stamlife_c4	Magnificent Halo of Stamina	a	the	Magnificent Halos of Stamina	\d	the
-_8C564E22400101B5	pvp_aura_stamlife_c5	Mythical Halo of Stamina	a	the	Mythical Halos of Stamina	\d	the
-_E088D67FAD1079FB	pvp_aura_stamlife_c6	Divine Halo of Stamina	a	the	Divine Halos of Stamina	\d	the
-_0EA09D8F43BF7987	pvp_boost_lifemage_c0	Feeble Potion of the Mage	a	the	Feeble Potions of the Mage	\d	the
-_0EA0D995023FA588	pvp_boost_lifemage_c1	Simple Potion of the Mage	a	the	Simple Potions of the Mage	\d	the
-_11FE4515A4C42C69	pvp_boost_lifemage_c2	Effective Potion of the Mage	an	the	Effective Potions of the Mage	\d	the
-_B6BA348D828E8D8A	pvp_boost_lifemage_c3	Powerful Potion of the Mage	a	the	Powerful Potions of the Mage	\d	the
-_1634A23FB94BB83D	pvp_boost_lifemage_c4	Magnificent Potion of the Mage	a	the	Magnificent Potions of the Mage	\d	the
-_6AD4DA87C01B798C	pvp_boost_lifemage_c5	Mythical Potion of the Mage	a	the	Mythical Potions of the Mage	\d	the
-_EC1AF28A837DA0B4	pvp_boost_lifemage_c6	Divine Potion of the Mage	a	the	Divine Potions of the Mage	\d	the
-_52B0B59B87FF8987	pvp_boost_lifetank_c0	Feeble Potion of the Warrior	a	the	Feeble Potions of the Warrior	\d	the
-_52B0F1A1467FB588	pvp_boost_lifetank_c1	Simple Potion of the Warrior	a	the	Simple Potions of the Warrior	\d	the
-_6BCF891C2635F5D8	pvp_boost_lifetank_c2	Effective Potion of the Warrior	an	the	Effective Potions of the Warrior	\d	the
-_52B0F1A145FFB58A	pvp_boost_lifetank_c3	Powerful Potion of the Warrior	a	the	Powerful Potions of the Warrior	\d	the
-_D934E24655B25D4A	pvp_boost_lifetank_c4	Magnificent Potion of the Warrior	a	the	Magnificent Potions of the Warrior	\d	the
-_C4A51E8E428C42FB	pvp_boost_lifetank_c5	Mythical Potion of the Warrior	a	the	Mythical Potions of the Warrior	\d	the
-_C7B03E9C838FA026	pvp_boost_lifetank_c6	Divine Potion of the Warrior	a	the	Divine Potions of the Warrior	\d	the
-_1EDF10CC6AC01DDB	pvp_boost_saplife_c0	Feeble Potion of Sap	some	the	Feeble Potions of Sap	\d	the
-_5EDF10DBEB6F3DE6	pvp_boost_saplife_c1	Simple Potion of Sap	some	the	Simple Potions of Sap	\d	the
-_96768C282708AB88	pvp_boost_saplife_c2	Effective Potion of Sap	some	the	Effective Potions of Sap	\d	the
-_DEDF10DBEB2F1DE6	pvp_boost_saplife_c3	Powerful Potion of Sap	some	the	Powerful Potions of Sap	\d	the
-_72C7AE7CB12D8CAB	pvp_boost_saplife_c4	Magnificent Potion of Sap	some	the	Magnificent Potions of Sap	\d	the
-_5FCC418DC30F80DB	pvp_boost_saplife_c5	Mythical Potion of Sap	some	the	Mythical Potions of Sap	\d	the
-_696CE825C69F31A5	pvp_boost_saplife_c6	Divine Potion of Sap	some	the	Divine Potions of Sap	\d	the
-_D1119D8E45AF9982	pvp_boost_stamlife_c0	Feeble Potion of Stamina	a	the	Feeble Potions of Stamina	\d	the
-_D111D994042FC583	pvp_boost_stamlife_c1	Simple Potion of Stamina	a	the	Simple Potions of Stamina	\d	the
-_2EEF2D2727B4D1D2	pvp_boost_stamlife_c2	Effective Potion of Stamina	an	the	Effective Potions of Stamina	\d	the
-_D111D99403AFC585	pvp_boost_stamlife_c3	Powerful Potion of Stamina	a	the	Powerful Potions of Stamina	\d	the
-_58D6BA3E13217D40	pvp_boost_stamlife_c4	Magnificent Potion of Stamina	a	the	Magnificent Potions of Stamina	\d	the
-_87C5C299430B1EF5	pvp_boost_stamlife_c5	Mythical Potion of Stamina	a	the	Mythical Potions of Stamina	\d	the
-_4A2112834ACEC010	pvp_boost_stamlife_c6	Divine Potion of Stamina	a	the	Divine Potions of Stamina	\d	the
-_2BA4C891D7970C50	icoanimtammo	SGM Ammo Crafting Tool	a	the	SGM Ammo Crafting Tools	\d	the
-_AB5960C823428C6F	icoanimtarmor	SGM Armor Craft Tool	a	the	SGM Armor Craft Tools	\d	the
-_AB2950D12342745F	icoanimtjewel	SGM Jewel Craft Tool	a	the	SGM Jewel Craft Tools	\d	the
-_C10A910AD60E8CB5	icoanimtmwea	SGM Melee Weapon Craft Tool	a	the	SGM Melee Weapon Craft Tools	\d	the
-_412A8114D60E8CB5	icoanimtrwea	SGM Range Weapon Craft Tool	a	the	SGM Range Weapon Craft Tools	\d	the
-_D8512A3C46DECD3C	system_mp_extra_black	Perfect Generic Raw Material (Black)	a	the	Perfect Generic Raw Materials (Black)	\d	the
-_0AD0F57006AAC5F4	system_mp_extra_blue	Perfect Generic Raw Material (Blue)	a	the	Perfect Generic Raw Materials (Blue)	\d	the
-_9A91424107FEDD45	system_mp_extra_green	Perfect Generic Raw Material (Green)	a	the	Perfect Generic Raw Materials (Green)	\d	the
-_97226694C74E4A5F	system_mp_extra_purple	Perfect Generic Raw Material (Purple)	a	the	Perfect Generic Raw Materials (Purple)	\d	the
-_C23FF501BFDEE1D6	system_mp_extra_red	Perfect Generic Raw Material (Red)	a	the	Perfect Generic Raw Materials (Red)	\d	the
-_46FEA7B699F01ABB	system_mp_extra_turquoise	Perfect Generic Raw Material (Turquoise)	a	the	Perfect Generic Raw Materials (Turquoise)	\d	the
-_62D11A51C5EFED32	system_mp_extra_white	Perfect Generic Raw Material (White)	a	the	Perfect Generic Raw Materials (White)	\d	the
-_B70993A69EE3E687	system_mp_excellent_black	Excellent Generic Raw Material (Black)	a	the	Excellent Generic Raw Materials (Black)	\d	the
-_E1F8DECBA2C0126C	system_mp_excellent_blue	Excellent Generic Raw Material (Blue)	a	the	Excellent Generic Raw Materials (Blue)	\d	the
-_F80993A9E0430E92	system_mp_excellent_green	Excellent Generic Raw Material (Green)	a	the	Excellent Generic Raw Materials (Green)	\d	the
-_70C7CFE62497EBD5	system_mp_excellent_purple	Excellent Generic Raw Material (Purple)	a	the	Excellent Generic Raw Materials (Purple)	\d	the
-_6396266C1993062B	system_mp_excellent_red	Excellent Generic Raw Material (Red)	a	the	Excellent Generic Raw Materials (Red)	\d	the
-_D9F3E41C3DB85F0A	system_mp_excellent_turquoise	Excellent Generic Raw Material (Turquoise)	a	the	Excellent Generic Raw Materials (Turquoise)	\d	the
-_FC0993A06274F698	system_mp_excellent_white	Excellent Generic Raw Material (White)	a	the	Excellent Generic Raw Materials (White)	\d	the
-_29B958CBA68A90A0	web_transaction	Transaction	a	the	Transactions	\d	the
-_2015F01C2C98F49B	rpjobloot_casket	Mysterious Casket 	a	the	Mysterious Caskets	\d	the
-_2E488BD22789DCAB	rpjobloot_event	Mysterious Purse	a	the	Mysterious Purses	\d	the
-_02C0AA7F32FA1A42	marauder_teleport_crystal	Marauder Teleport Crystal	a	the	Marauder Teleport Crystals	\d	the
-_14F44666805E953D	npc_caravan_pistol_p	<GEN>npc_caravan_pistol_p
-_5BD6D4B52B062872	arma_mount	<GEN>arma_mount
-_D9F9E35696716241	iapd1	<GEN>iapd1
-_19F9E35696816642	iapd2	<GEN>iapd2
-_59F9E35696916A43	iapd3	<GEN>iapd3
-_9AF9E35696A16E44	iapd4	<GEN>iapd4
-_1EE47826D1239791	iapdc1	<GEN>iapdc1
-_1EE47827D1339B91	iapdc2	<GEN>iapdc2
-_1EE47828D1439F91	iapdc3	<GEN>iapdc3
-_1EE47829D153A391	iapdc4	<GEN>iapdc4
-_1EE4782612239B92	iapdd1	<GEN>iapdd1
-_1EE4782712339F92	iapdd2	<GEN>iapdd2
-_1EE478281243A392	iapdd3	<GEN>iapdd3
-_1EE478291253A792	iapdd4	<GEN>iapdd4
-_1EE4782652239F93	iapde1	<GEN>iapde1
-_1EE478275233A393	iapde2	<GEN>iapde2
-_1EE478285243A793	iapde3	<GEN>iapde3
-_1EE478295253AB93	iapde4	<GEN>iapde4
-_1EE478269223A394	iapdf1	<GEN>iapdf1
-_1EE478279233A794	iapdf2	<GEN>iapdf2
-_1EE478289243AB94	iapdf3	<GEN>iapdf3
-_1EE478299253AF94	iapdf4	<GEN>iapdf4
-_5919E35696716A43	iapf1	<GEN>iapf1
-_9919E35696816E44	iapf2	<GEN>iapf2
-_D919E35696917245	iapf3	<GEN>iapf3
-_1A19E35696A17646	iapf4	<GEN>iapf4
-_9EE4782651439793	iapfc1	<GEN>iapfc1
-_9EE4782751539B93	iapfc2	<GEN>iapfc2
-_9EE4782851639F93	iapfc3	<GEN>iapfc3
-_9EE478295173A393	iapfc4	<GEN>iapfc4
-_9EE4782692439B94	iapfd1	<GEN>iapfd1
-_9EE4782792539F94	iapfd2	<GEN>iapfd2
-_9EE478289263A394	iapfd3	<GEN>iapfd3
-_9EE478299273A794	iapfd4	<GEN>iapfd4
-_9EE47826D2439F95	iapfe1	<GEN>iapfe1
-_9EE47827D253A395	iapfe2	<GEN>iapfe2
-_9EE47828D263A795	iapfe3	<GEN>iapfe3
-_9EE47829D273AB95	iapfe4	<GEN>iapfe4
-_9EE478261243A396	iapff1	<GEN>iapff1
-_9EE478271253A796	iapff2	<GEN>iapff2
-_9EE478281263AB96	iapff3	<GEN>iapff3
-_9EE478291273AF96	iapff4	<GEN>iapff4
-_5A59E35696717A47	iapj1	<GEN>iapj1
-_9A59E35696817E48	iapj2	<GEN>iapj2
-_DA59E35696918249	iapj3	<GEN>iapj3
-_1B59E35696A1864A	iapj4	<GEN>iapj4
-_9FE4782652839797	iapjc1	<GEN>iapjc1
-_9FE4782752939B97	iapjc2	<GEN>iapjc2
-_9FE4782852A39F97	iapjc3	<GEN>iapjc3
-_9FE4782952B3A397	iapjc4	<GEN>iapjc4
-_9FE4782693839B98	iapjd1	<GEN>iapjd1
-_9FE4782793939F98	iapjd2	<GEN>iapjd2
-_9FE4782893A3A398	iapjd3	<GEN>iapjd3
-_9FE4782993B3A798	iapjd4	<GEN>iapjd4
-_9FE47826D3839F99	iapje1	<GEN>iapje1
-_9FE47827D393A399	iapje2	<GEN>iapje2
-_9FE47828D3A3A799	iapje3	<GEN>iapje3
-_9FE47829D3B3AB99	iapje4	<GEN>iapje4
-_9FE478261383A39A	iapjf1	<GEN>iapjf1
-_9FE478271393A79A	iapjf2	<GEN>iapjf2
-_9FE4782813A3AB9A	iapjf3	<GEN>iapjf3
-_9FE4782913B3AF9A	iapjf4	<GEN>iapjf4
-_DB79E35696718249	iapl1	<GEN>iapl1
-_1B79E3569681864A	iapl2	<GEN>iapl2
-_5B79E35696918A4B	iapl3	<GEN>iapl3
-_9C79E35696A18E4C	iapl4	<GEN>iapl4
-_20E47826D3A39799	iaplc1	<GEN>iaplc1
-_20E47827D3B39B99	iaplc2	<GEN>iaplc2
-_20E47828D3C39F99	iaplc3	<GEN>iaplc3
-_20E47829D3D3A399	iaplc4	<GEN>iaplc4
-_20E4782614A39B9A	iapld1	<GEN>iapld1
-_20E4782714B39F9A	iapld2	<GEN>iapld2
-_20E4782814C3A39A	iapld3	<GEN>iapld3
-_20E4782914D3A79A	iapld4	<GEN>iapld4
-_20E4782654A39F9B	iaple1	<GEN>iaple1
-_20E4782754B3A39B	iaple2	<GEN>iaple2
-_20E4782854C3A79B	iaple3	<GEN>iaple3
-_20E4782954D3AB9B	iaple4	<GEN>iaple4
-_20E4782694A3A39C	iaplf1	<GEN>iaplf1
-_20E4782794B3A79C	iaplf2	<GEN>iaplf2
-_20E4782894C3AB9C	iaplf3	<GEN>iaplf3
-_20E4782994D3AF9C	iaplf4	<GEN>iaplf4
-_E1E47826D5149BA1	iapsd1	<GEN>iapsd1
-_E1E47827D5249FA1	iapsd2	<GEN>iapsd2
-_E1E47828D534A3A1	iapsd3	<GEN>iapsd3
-_E1E47829D544A7A1	iapsd4	<GEN>iapsd4
-_96C1EB775E340C73	iapsdc1	<GEN>iapsdc1
-_96D1EF775E440C73	iapsdc2	<GEN>iapsdc2
-_96E1F3775E540C73	iapsdc3	<GEN>iapsdc3
-_96F1F7775E640C73	iapsdc4	<GEN>iapsdc4
-_96C1EF785E341073	iapsdd1	<GEN>iapsdd1
-_96D1F3785E441073	iapsdd2	<GEN>iapsdd2
-_96E1F7785E541073	iapsdd3	<GEN>iapsdd3
-_96F1FB785E641073	iapsdd4	<GEN>iapsdd4
-_96C1F3795E341473	iapsde1	<GEN>iapsde1
-_96D1F7795E441473	iapsde2	<GEN>iapsde2
-_96E1FB795E541473	iapsde3	<GEN>iapsde3
-_96F1FF795E641473	iapsde4	<GEN>iapsde4
-_96C1F77A5E341873	iapsdf1	<GEN>iapsdf1
-_96D1FB7A5E441873	iapsdf2	<GEN>iapsdf2
-_96E1FF7A5E541873	iapsdf3	<GEN>iapsdf3
-_96F1037A5E641873	iapsdf4	<GEN>iapsdf4
-_E1E478265514A3A3	iapsf1	<GEN>iapsf1
-_E1E478275524A7A3	iapsf2	<GEN>iapsf2
-_E1E478285534ABA3	iapsf3	<GEN>iapsf3
-_E1E478295544AFA3	iapsf4	<GEN>iapsf4
-_96C1EB79DE340C75	iapsfc1	<GEN>iapsfc1
-_96D1EF79DE440C75	iapsfc2	<GEN>iapsfc2
-_96E1F379DE540C75	iapsfc3	<GEN>iapsfc3
-_96F1F779DE640C75	iapsfc4	<GEN>iapsfc4
-_96C1EF7ADE341075	iapsfd1	<GEN>iapsfd1
-_96D1F37ADE441075	iapsfd2	<GEN>iapsfd2
-_96E1F77ADE541075	iapsfd3	<GEN>iapsfd3
-_96F1FB7ADE641075	iapsfd4	<GEN>iapsfd4
-_96C1F37BDE341475	iapsfe1	<GEN>iapsfe1
-_96D1F77BDE441475	iapsfe2	<GEN>iapsfe2
-_96E1FB7BDE541475	iapsfe3	<GEN>iapsfe3
-_96F1FF7BDE641475	iapsfe4	<GEN>iapsfe4
-_96C1F77CDE341875	iapsff1	<GEN>iapsff1
-_96D1FB7CDE441875	iapsff2	<GEN>iapsff2
-_96E1FF7CDE541875	iapsff3	<GEN>iapsff3
-_96F1037CDE641875	iapsff4	<GEN>iapsff4
-_E1E478265614B3A7	iapsj1	<GEN>iapsj1
-_E1E478275624B7A7	iapsj2	<GEN>iapsj2
-_E1E478285634BBA7	iapsj3	<GEN>iapsj3
-_E1E478295644BFA7	iapsj4	<GEN>iapsj4
-_96C1EB7DDF340C79	iapsjc1	<GEN>iapsjc1
-_96D1EF7DDF440C79	iapsjc2	<GEN>iapsjc2
-_96E1F37DDF540C79	iapsjc3	<GEN>iapsjc3
-_96F1F77DDF640C79	iapsjc4	<GEN>iapsjc4
-_96C1EF7EDF341079	iapsjd1	<GEN>iapsjd1
-_96D1F37EDF441079	iapsjd2	<GEN>iapsjd2
-_96E1F77EDF541079	iapsjd3	<GEN>iapsjd3
-_96F1FB7EDF641079	iapsjd4	<GEN>iapsjd4
-_96C1F37FDF341479	iapsje1	<GEN>iapsje1
-_96D1F77FDF441479	iapsje2	<GEN>iapsje2
-_96E1FB7FDF541479	iapsje3	<GEN>iapsje3
-_96F1FF7FDF641479	iapsje4	<GEN>iapsje4
-_96C1F780DF341879	iapsjf1	<GEN>iapsjf1
-_96D1FB80DF441879	iapsjf2	<GEN>iapsjf2
-_96E1FF80DF541879	iapsjf3	<GEN>iapsjf3
-_96F10380DF641879	iapsjf4	<GEN>iapsjf4
-_E1E47826D714BBA9	iapsl1	<GEN>iapsl1
-_E1E47827D724BFA9	iapsl2	<GEN>iapsl2
-_E1E47828D734C3A9	iapsl3	<GEN>iapsl3
-_E1E47829D744C7A9	iapsl4	<GEN>iapsl4
-_96C1EB7F60340C7B	iapslc1	<GEN>iapslc1
-_96D1EF7F60440C7B	iapslc2	<GEN>iapslc2
-_96E1F37F60540C7B	iapslc3	<GEN>iapslc3
-_96F1F77F60640C7B	iapslc4	<GEN>iapslc4
-_96C1EF806034107B	iapsld1	<GEN>iapsld1
-_96D1F3806044107B	iapsld2	<GEN>iapsld2
-_96E1F7806054107B	iapsld3	<GEN>iapsld3
-_96F1FB806064107B	iapsld4	<GEN>iapsld4
-_96C1F3816034147B	iapsle1	<GEN>iapsle1
-_96D1F7816044147B	iapsle2	<GEN>iapsle2
-_96E1FB816054147B	iapsle3	<GEN>iapsle3
-_96F1FF816064147B	iapsle4	<GEN>iapsle4
-_96C1F7826034187B	iapslf1	<GEN>iapslf1
-_96D1FB826044187B	iapslf2	<GEN>iapslf2
-_96E1FF826054187B	iapslf3	<GEN>iapslf3
-_96F103826064187B	iapslf4	<GEN>iapslf4
-_9929EF5696716244	iasd1	<GEN>iasd1
-_D929EF5696816645	iasd2	<GEN>iasd2
-_1929EF5696916A46	iasd3	<GEN>iasd3
-_5A29EF5696A16E47	iasd4	<GEN>iasd4
-_1949EF5696716A46	iasf1	<GEN>iasf1
-_5949EF5696816E47	iasf2	<GEN>iasf2
-_9949EF5696917248	iasf3	<GEN>iasf3
-_DA49EF5696A17649	iasf4	<GEN>iasf4
-_1A89EF5696717A4A	iasj1	<GEN>iasj1
-_5A89EF5696817E4B	iasj2	<GEN>iasj2
-_9A89EF569691824C	iasj3	<GEN>iasj3
-_DB89EF5696A1864D	iasj4	<GEN>iasj4
-_9BA9EF569671824C	iasl1	<GEN>iasl1
-_DBA9EF569681864D	iasl2	<GEN>iasl2
-_1BA9EF5696918A4E	iasl3	<GEN>iasl3
-_5CA9EF5696A18E4F	iasl4	<GEN>iasl4
-_A157DB8A98C37B6D	iasp	<GEN>iasp
-_E0774BA86457B388	eroukan_b	<GEN>eroukan_b
-_E0774BADA5A7B388	eroukan_g	<GEN>eroukan_g
-_E0774BAEE6B7B388	eroukan_h	<GEN>eroukan_h
-_E0774BB6E838B388	eroukan_p	<GEN>eroukan_p
-_E0774BB9A868B388	eroukan_s	<GEN>eroukan_s
-_E0774BBC6998B388	eroukan_v	<GEN>eroukan_v
-_1933806510166890	iccacp	<GEN>iccacp
-_8825065A790EE9F6	iccacp_boss_fyros_e1	<GEN>iccacp_boss_fyros_e1
-_8825065479ADA5FD	iccacp_boss_matis_e1	<GEN>iccacp_boss_matis_e1
-_D84451637B90113D	iccacp_boss_tryker_e1	<GEN>iccacp_boss_tryker_e1
-_8825DE42F66D110A	iccacp_boss_zorai_e1	<GEN>iccacp_boss_zorai_e1
-_D94580B2EAE60479	iccacp_pvp	<GEN>iccacp_pvp
-_8825065A792DC5FB	iccahb_boss_fyros_e1	<GEN>iccahb_boss_fyros_e1
-_8825065479CC8102	iccahb_boss_matis_e1	<GEN>iccahb_boss_matis_e1
-_D8445163F7E0D942	iccahb_boss_tryker_e1	<GEN>iccahb_boss_tryker_e1
-_8825DE42F68CED0F	iccahb_boss_zorai_e1	<GEN>iccahb_boss_zorai_e1
-_8825065A797DD9FB	iccahg_boss_fyros_e1	<GEN>iccahg_boss_fyros_e1
-_88250654791C9502	iccahg_boss_matis_e1	<GEN>iccahg_boss_matis_e1
-_D844516338E0ED42	iccahg_boss_tryker_e1	<GEN>iccahg_boss_tryker_e1
-_8825DE42F6DC010F	iccahg_boss_zorai_e1	<GEN>iccahg_boss_zorai_e1
-_8825065A798DDDFB	iccahh_boss_fyros_e1	<GEN>iccahh_boss_fyros_e1
-_88250654792C9902	iccahh_boss_matis_e1	<GEN>iccahh_boss_matis_e1
-_D844516379E0F142	iccahh_boss_tryker_e1	<GEN>iccahh_boss_tryker_e1
-_8825DE42F6EC050F	iccahh_boss_zorai_e1	<GEN>iccahh_boss_zorai_e1
-_8825065A790EFDFB	iccahp_boss_fyros_e1	<GEN>iccahp_boss_fyros_e1
-_8825065479ADB902	iccahp_boss_matis_e1	<GEN>iccahp_boss_matis_e1
-_D84451637BE01142	iccahp_boss_tryker_e1	<GEN>iccahp_boss_tryker_e1
-_8825DE42F66D250F	iccahp_boss_zorai_e1	<GEN>iccahp_boss_zorai_e1
-_8825065A793E09FB	iccahs_boss_fyros_e1	<GEN>iccahs_boss_fyros_e1
-_8825065479DDC502	iccahs_boss_matis_e1	<GEN>iccahs_boss_matis_e1
-_D84451633BE01D42	iccahs_boss_tryker_e1	<GEN>iccahs_boss_tryker_e1
-_8825DE42F69D310F	iccahs_boss_zorai_e1	<GEN>iccahs_boss_zorai_e1
-_8825065A796E15FB	iccahv_boss_fyros_e1	<GEN>iccahv_boss_fyros_e1
-_88250654790DD102	iccahv_boss_matis_e1	<GEN>iccahv_boss_matis_e1
-_D8445163FCE02942	iccahv_boss_tryker_e1	<GEN>iccahv_boss_tryker_e1
-_8825DE42F6CD3D0F	iccahv_boss_zorai_e1	<GEN>iccahv_boss_zorai_e1
-_8825065A792DD5FF	iccalb_boss_fyros_e1	<GEN>iccalb_boss_fyros_e1
-_8825065479CC9106	iccalb_boss_matis_e1	<GEN>iccalb_boss_matis_e1
-_D8445163F720D946	iccalb_boss_tryker_e1	<GEN>iccalb_boss_tryker_e1
-_8825DE42F68CFD13	iccalb_boss_zorai_e1	<GEN>iccalb_boss_zorai_e1
-_8825065A797DE9FF	iccalg_boss_fyros_e1	<GEN>iccalg_boss_fyros_e1
-_88250654791CA506	iccalg_boss_matis_e1	<GEN>iccalg_boss_matis_e1
-_D84451633820ED46	iccalg_boss_tryker_e1	<GEN>iccalg_boss_tryker_e1
-_8825DE42F6DC1113	iccalg_boss_zorai_e1	<GEN>iccalg_boss_zorai_e1
-_8825065A790E0DFF	iccalp_boss_fyros_e1	<GEN>iccalp_boss_fyros_e1
-_8825065479ADC906	iccalp_boss_matis_e1	<GEN>iccalp_boss_matis_e1
-_D84451637B201146	iccalp_boss_tryker_e1	<GEN>iccalp_boss_tryker_e1
-_8825DE42F66D3513	iccalp_boss_zorai_e1	<GEN>iccalp_boss_zorai_e1
-_8825065A793E19FF	iccals_boss_fyros_e1	<GEN>iccals_boss_fyros_e1
-_8825065479DDD506	iccals_boss_matis_e1	<GEN>iccals_boss_matis_e1
-_D84451633B201D46	iccals_boss_tryker_e1	<GEN>iccals_boss_tryker_e1
-_8825DE42F69D4113	iccals_boss_zorai_e1	<GEN>iccals_boss_zorai_e1
-_8825065A796E25FF	iccalv_boss_fyros_e1	<GEN>iccalv_boss_fyros_e1
-_88250654790DE106	iccalv_boss_matis_e1	<GEN>iccalv_boss_matis_e1
-_D8445163FC202946	iccalv_boss_tryker_e1	<GEN>iccalv_boss_tryker_e1
-_8825DE42F6CD4D13	iccalv_boss_zorai_e1	<GEN>iccalv_boss_zorai_e1
-_193380579335589A	iccamb	<GEN>iccamb
-_8825065A792DD900	iccamb_boss_fyros_e1	<GEN>iccamb_boss_fyros_e1
-_8825065479CC9507	iccamb_boss_matis_e1	<GEN>iccamb_boss_matis_e1
-_D8445163F730D947	iccamb_boss_tryker_e1	<GEN>iccamb_boss_tryker_e1
-_8825DE42F68C0114	iccamb_boss_zorai_e1	<GEN>iccamb_boss_zorai_e1
-_1933805C93856C9A	iccamg	<GEN>iccamg
-_8825065A797DED00	iccamg_boss_fyros_e1	<GEN>iccamg_boss_fyros_e1
-_88250654791CA907	iccamg_boss_matis_e1	<GEN>iccamg_boss_matis_e1
-_D84451633830ED47	iccamg_boss_tryker_e1	<GEN>iccamg_boss_tryker_e1
-_8825DE42F6DC1514	iccamg_boss_zorai_e1	<GEN>iccamg_boss_zorai_e1
-_193380659316909A	iccamp	<GEN>iccamp
-_8825065A790E1100	iccamp_boss_fyros_e1	<GEN>iccamp_boss_fyros_e1
-_8825065479ADCD07	iccamp_boss_matis_e1	<GEN>iccamp_boss_matis_e1
-_D84451637B301147	iccamp_boss_tryker_e1	<GEN>iccamp_boss_tryker_e1
-_8825DE42F66D3914	iccamp_boss_zorai_e1	<GEN>iccamp_boss_zorai_e1
-_1933806893469C9A	iccams	<GEN>iccams
-_8825065A793E1D00	iccams_boss_fyros_e1	<GEN>iccams_boss_fyros_e1
-_8825065479DDD907	iccams_boss_matis_e1	<GEN>iccams_boss_matis_e1
-_D84451633B301D47	iccams_boss_tryker_e1	<GEN>iccams_boss_tryker_e1
-_8825DE42F69D4514	iccams_boss_zorai_e1	<GEN>iccams_boss_zorai_e1
-_1933806B9376A89A	iccamv	<GEN>iccamv
-_8825065A796E2900	iccamv_boss_fyros_e1	<GEN>iccamv_boss_fyros_e1
-_88250654790DE507	iccamv_boss_matis_e1	<GEN>iccamv_boss_matis_e1
-_D8445163FC302947	iccamv_boss_tryker_e1	<GEN>iccamv_boss_tryker_e1
-_8825DE42F6CD5114	iccamv_boss_zorai_e1	<GEN>iccamv_boss_zorai_e1
-_15E3D0721CF5F07A	ikamaab	<GEN>ikamaab
-_1533E4721C45F07A	ikamaag	<GEN>ikamaag
-_1543E8721C55F07A	ikamaah	<GEN>ikamaah
-_15C408721CD6F07A	ikamaap	<GEN>ikamaap
-_15F414721C06F07A	ikamaas	<GEN>ikamaas
-_152420721C36F07A	ikamaav	<GEN>ikamaav
-_56E3D0725D46F07A	ikaraab	<GEN>ikaraab
-_5633E4725D96F07A	ikaraag	<GEN>ikaraag
-_5643E8725DA6F07A	ikaraah	<GEN>ikaraah
-_56C408725D27F07A	ikaraap	<GEN>ikaraap
-_56F414725D57F07A	ikaraas	<GEN>ikaraas
-_562420725D87F07A	ikaraav	<GEN>ikaraav
-_56E3D4735D46F47A	ikarabb	<GEN>ikarabb
-_5633E8735D96F47A	ikarabg	<GEN>ikarabg
-_5643EC735DA6F47A	ikarabh	<GEN>ikarabh
-_56C40C735D27F47A	ikarabp	<GEN>ikarabp
-_56F418735D57F47A	ikarabs	<GEN>ikarabs
-_562424735D87F47A	ikarabv	<GEN>ikarabv
-_56E3D8745D46F87A	ikaracb	<GEN>ikaracb
-_5633EC745D96F87A	ikaracg	<GEN>ikaracg
-_5643F0745DA6F87A	ikarach	<GEN>ikarach
-_56C410745D27F87A	ikaracp	<GEN>ikaracp
-_56F41C745D57F87A	ikaracs	<GEN>ikaracs
-_562428745D87F87A	ikaracv	<GEN>ikaracv
-_56E3E0765D46007A	ikaraeb	<GEN>ikaraeb
-_5633F4765D96007A	ikaraeg	<GEN>ikaraeg
-_5643F8765DA6007A	ikaraeh	<GEN>ikaraeh
-_56C418765D27007A	ikaraep	<GEN>ikaraep
-_56F424765D57007A	ikaraes	<GEN>ikaraes
-_562430765D87007A	ikaraev	<GEN>ikaraev
-_56E3007E5D46207A	ikaramb	<GEN>ikaramb
-_5633147E5D96207A	ikaramg	<GEN>ikaramg
-_5643187E5DA6207A	ikaramh	<GEN>ikaramh
-_56C4387E5D27207A	ikaramp	<GEN>ikaramp
-_56F4447E5D57207A	ikarams	<GEN>ikarams
-_5624507E5D87207A	ikaramv	<GEN>ikaramv
-_56E318845D46387A	ikarasb	<GEN>ikarasb
-_21C7EB97A3D7CB84	ikarasb_b	<GEN>ikarasb_b
-_21C7EB9FA557CB84	ikarasb_j	<GEN>ikarasb_j
-_21C7EBA7A7D8CB84	ikarasb_r	<GEN>ikarasb_r
-_56332C845D96387A	ikarasg	<GEN>ikarasg
-_21C7EB97A327DF89	ikarasg_b	<GEN>ikarasg_b
-_21C7EB9FA5A7DF89	ikarasg_j	<GEN>ikarasg_j
-_21C7EBA7A728DF89	ikarasg_r	<GEN>ikarasg_r
-_564330845DA6387A	ikarash	<GEN>ikarash
-_21C7EB97A337E38A	ikarash_b	<GEN>ikarash_b
-_21C7EB9FA5B7E38A	ikarash_j	<GEN>ikarash_j
-_21C7EBA7A738E38A	ikarash_r	<GEN>ikarash_r
-_56C450845D27387A	ikarasp	<GEN>ikarasp
-_21C7EB97A3B80392	ikarasp_b	<GEN>ikarasp_b
-_21C7EB9FA5380392	ikarasp_j	<GEN>ikarasp_j
-_21C7EBA7A7B90392	ikarasp_r	<GEN>ikarasp_r
-_56F45C845D57387A	ikarass	<GEN>ikarass
-_21C7EB97A3E80F95	ikarass_b	<GEN>ikarass_b
-_21C7EB9FA5680F95	ikarass_j	<GEN>ikarass_j
-_21C7EBA7A7E90F95	ikarass_r	<GEN>ikarass_r
-_562468845D87387A	ikarasv	<GEN>ikarasv
-_21C7EB97A3181B98	ikarasv_b	<GEN>ikarasv_b
-_21C7EB9FA5981B98	ikarasv_j	<GEN>ikarasv_j
-_21C7EBA7A7191B98	ikarasv_r	<GEN>ikarasv_r
-_56E31C855D463C7A	ikaratb	<GEN>ikaratb
-_563330855D963C7A	ikaratg	<GEN>ikaratg
-_564334855DA63C7A	ikarath	<GEN>ikarath
-_56C454855D273C7A	ikaratp	<GEN>ikaratp
-_56F460855D573C7A	ikarats	<GEN>ikarats
-_56246C855D873C7A	ikaratv	<GEN>ikaratv
-_2788D35C17B56778	igfau	<GEN>igfau
-_6798D35C17B56B79	igfbu	<GEN>igfbu
-_A8E8D35C17B57F7E	igfgu	<GEN>igfgu
-_EB79D35C17B5A387	igfpu	<GEN>igfpu
-_6CD9D35C17B5BB8D	igfvu	<GEN>igfvu
-_E9F8EF5C17B5677F	igmau	<GEN>igmau
-_2908EF5C17B56B80	igmbu	<GEN>igmbu
-_6A58EF5C17B57F85	igmgu	<GEN>igmgu
-_ADE9EF5C17B5A38E	igmpu	<GEN>igmpu
-_2E49EF5C17B5BB94	igmvu	<GEN>igmvu
-_AB690B5C17B56786	igtau	<GEN>igtau
-_EB790B5C17B56B87	igtbu	<GEN>igtbu
-_2CC90B5C17B57F8C	igtgu	<GEN>igtgu
-_6F5A0B5C17B5A395	igtpu	<GEN>igtpu
-_F0BA0B5C17B5BB9B	igtvu	<GEN>igtvu
-_2CC9235C17B5678C	igzau	<GEN>igzau
-_6CD9235C17B56B8D	igzbu	<GEN>igzbu
-_AD29235C17B57F92	igzgu	<GEN>igzgu
-_F0BA235C17B5A39B	igzpu	<GEN>igzpu
-_711A235C17B5BBA1	igzvu	<GEN>igzvu
-_D0B6D0A763E14E0C	ipma15_kam	<GEN>ipma15_kam
-_D0B6E4AC63E14E0C	ipma15_kar	<GEN>ipma15_kar
-_10B6D0A763913E08	ipma20_kam	<GEN>ipma20_kam
-_10B6E4AC63913E08	ipma20_kar	<GEN>ipma20_kar
-_10B6D0A763E1520D	ipma25_kam	<GEN>ipma25_kam
-_10B6E4AC63E1520D	ipma25_kar	<GEN>ipma25_kar
-_10C6D0A763E14E0D	ipmb15_kam	<GEN>ipmb15_kam
-_10C6E4AC63E14E0D	ipmb15_kar	<GEN>ipmb15_kar
-_50C6D0A763913E09	ipmb20_kam	<GEN>ipmb20_kam
-_50C6E4AC63913E09	ipmb20_kar	<GEN>ipmb20_kar
-_50C6D0A763E1520E	ipmb25_kam	<GEN>ipmb25_kam
-_50C6E4AC63E1520E	ipmb25_kar	<GEN>ipmb25_kar
-_50D6D0A763E14E0E	ipmc15_kam	<GEN>ipmc15_kam
-_50D6E4AC63E14E0E	ipmc15_kar	<GEN>ipmc15_kar
-_90D6D0A763913E0A	ipmc20_kam	<GEN>ipmc20_kam
-_90D6E4AC63913E0A	ipmc20_kar	<GEN>ipmc20_kar
-_90D6D0A763E1520F	ipmc25_kam	<GEN>ipmc25_kam
-_90D6E4AC63E1520F	ipmc25_kar	<GEN>ipmc25_kar
-_91E6D0A763E14E0F	ipmd15_kam	<GEN>ipmd15_kam
-_91E6E4AC63E14E0F	ipmd15_kar	<GEN>ipmd15_kar
-_D1E6D0A763913E0B	ipmd20_kam	<GEN>ipmd20_kam
-_D1E6E4AC63913E0B	ipmd20_kar	<GEN>ipmd20_kar
-_D1E6D0A763E15210	ipmd25_kam	<GEN>ipmd25_kam
-_D1E6E4AC63E15210	ipmd25_kar	<GEN>ipmd25_kar
-_91F6D0A763C1420D	ipme03_kam	<GEN>ipme03_kam
-_91F6E4AC63C1420D	ipme03_kar	<GEN>ipme03_kar
-_91F6D0A763D1460E	ipme04_kam	<GEN>ipme04_kam
-_91F6E4AC63D1460E	ipme04_kar	<GEN>ipme04_kar
-_91F6D0A763E14A0F	ipme05_kam	<GEN>ipme05_kam
-_91F6E4AC63E14A0F	ipme05_kar	<GEN>ipme05_kar
-_2BCAD878DFD7347F	supreme_heal	<GEN>supreme_heal
-_19D63569F7F2F976	test_conso_breakdance	<GEN>test_conso_breakdance
-_B0790FBCA416C2C7	test_conso_craft_success	<GEN>test_conso_craft_success
-_377C31930BFBB1D2	test_conso_defense	<GEN>test_conso_defense
-_651621A01571608F	test_conso_desert_forage_success	<GEN>test_conso_desert_forage_success
-_7DFCA9FBA7B8BCDF	test_conso_dodge	<GEN>test_conso_dodge
-_B0F8FE045B6DFEB4	test_conso_forage_success	<GEN>test_conso_forage_success
-_F4D9CBC65F46DAA5	test_conso_magic_success	<GEN>test_conso_magic_success
-_F329DBC6E006EEAB	test_conso_melee_success	<GEN>test_conso_melee_success
-_3B1C4987453CD5D8	test_conso_nobreak	<GEN>test_conso_nobreak
-_43DD7107AC69F4E5	test_conso_parry	<GEN>test_conso_parry
-_B449CBCBE026F6A7	test_conso_range_success	<GEN>test_conso_range_success
-_F2F548039D37A89C	test_conso_sit	<GEN>test_conso_sit
-_23DC9904A3F884BD	test_conso_swim	<GEN>test_conso_swim
-_642CC9FCE448B4B5	test_conso_toub	<GEN>test_conso_toub
-_E13E55F5615A40AE	test_fast_regen	<GEN>test_fast_regen
-_A01E6DE8203A58A1	test_long_regen	<GEN>test_long_regen
-_393C1D70046DA9E3	light_sap_recharge	<GEN>light_sap_recharge
-_751A0C90FBDE61E1	fy_cheveux_medium02	<GEN>fy_cheveux_medium02
-_753A0C90FBDE61E1	fy_cheveux_medium03	<GEN>fy_cheveux_medium03
-_B91A882E780E2DE9	fy_cheveux_short02	<GEN>fy_cheveux_short02
-_4984CC7D1E87FC3A	fy_helmet_01	<GEN>fy_helmet_01
-_490380821E06103A	ka_helmet_01	<GEN>ka_helmet_01
-_38DA94D2DB2D9B02	ma_cheveux_long02	<GEN>ma_cheveux_long02
-_751A4C9EFBDE61E1	ma_cheveux_medium02	<GEN>ma_cheveux_medium02
-_B91A281D3A0E2DE9	ma_cheveux_short02	<GEN>ma_cheveux_short02
-_490388841E06183A	ma_helmet_01	<GEN>ma_helmet_01
-_751AD4ACFBDE61E1	tr_cheveux_medium02	<GEN>tr_cheveux_medium02
-_B91A6C35FC0E2DE9	tr_cheveux_short02	<GEN>tr_cheveux_short02
-_B91A7036FC0E2DE9	tr_cheveux_short03	<GEN>tr_cheveux_short03
-_4914E88B1E17343A	tr_helmet_01	<GEN>tr_helmet_01
-_38DACCDF5EFE9B02	zo_cheveux_long02	<GEN>zo_cheveux_long02
-_751ABCB8FBDE61E1	zo_cheveux_medium02	<GEN>zo_cheveux_medium02
-_753ABCB8FBDE61E1	zo_cheveux_medium03	<GEN>zo_cheveux_medium03
-_49E3F4911EE64C3A	zo_helmet_01	<GEN>zo_helmet_01
-_9D55EE5AFEEDC157	sfxitforage_marauder	<GEN>sfxitforage_marauder
-_5CBEBDFFDCDAA8B8	sfxitforage_pvp	<GEN>sfxitforage_pvp
-_792F64E3EA5CF019	sfxitforagefyros2	<GEN>sfxitforagefyros2
-_FB0C743283CD05F4	sfxitforagematis_2	<GEN>sfxitforagematis_2
-_FD00668C793C1113	sfxitforagetryker_2	<GEN>sfxitforagetryker_2
-_C1DD743201ACDD00	sfxitforagezorai_2	<GEN>sfxitforagezorai_2
-_9043337010F34757	bag	<GEN>bag
-_E878E394DD08EFB8	bag_inventory	<GEN>bag_inventory
-_774CD18403CD01E8	bot_gift_inventory	<GEN>bot_gift_inventory
-_F9081690FF5CA913	equipment_inventory	<GEN>equipment_inventory
-_628DC5F7E2A9B0B0	guild_inventory	<GEN>guild_inventory
-_677730F4E1E514A0	hand_inventory	<GEN>hand_inventory
-_1AB50D7DF7E3217F	pack_animal_inventory	<GEN>pack_animal_inventory
-_5D93B46C17B6C8B9	pickup	<GEN>pickup
-_E4C595707D539D84	player_room_inventory	<GEN>player_room_inventory
-_27CA1B73DDB5476B	stack	<GEN>stack
-_A04DC1032069ACBC	steed_inventory	<GEN>steed_inventory
-_7D06B6B801DCD111	temporary_inventory	<GEN>temporary_inventory
-_5F16AFAA69C62A5A	ickamm2ms	<GEN>ickamm2ms
-_19B214B8A0402C84	ickamm2ms_2	<GEN>ickamm2ms_2
-_19D214B8A0402C84	ickamm2ms_3	<GEN>ickamm2ms_3
-_A067AFAA69C62A5F	ickarm2ms	<GEN>ickarm2ms
-_19B214B8E1402C8E	ickarm2ms_2	<GEN>ickarm2ms_2
-_19D214B8E1402C8E	ickarm2ms_3	<GEN>ickarm2ms_3
-_1FB894A2C966C80E	ichm2bm_hom	<GEN>ichm2bm_hom
-_1FB824A8C966C80E	ichm2bm_kam	<GEN>ichm2bm_kam
-_1F5A24A8C966C80E	ichm2bm_kar	<GEN>ichm2bm_kar
-_1F9A64A8C966C80E	ichm2bm_kit	<GEN>ichm2bm_kit
-_1FB894A2C9C8380E	ichm2pp_hom	<GEN>ichm2pp_hom
-_1FB824A8C9C8380E	ichm2pp_kam	<GEN>ichm2pp_kam
-_1F5A24A8C9C8380E	ichm2pp_kar	<GEN>ichm2pp_kar
-_1F9A64A8C9C8380E	ichm2pp_kit	<GEN>ichm2pp_kit
-_1FB894A2C928500E	ichm2ss_hom	<GEN>ichm2ss_hom
-_1FB824A8C928500E	ichm2ss_kam	<GEN>ichm2ss_kam
-_1F5A24A8C928500E	ichm2ss_kar	<GEN>ichm2ss_kar
-_1F9A64A8C928500E	ichm2ss_kit	<GEN>ichm2ss_kit
-_781D300E6DCE3C04	npc_eroukan_sword	<GEN>npc_eroukan_sword
-_D093BB61D594B34F	icbm2bm_3	<GEN>icbm2bm_3
-_1493BB61D5F50F66	icbm2ss_3	<GEN>icbm2ss_3
-_1EC4A8A46C667C7F	tcm_louche	<GEN>tcm_louche
-_9E37D8E0077ABCAB	cartographier_kitiniere_parchemin	<GEN>cartographier_kitiniere_parchemin
-_321C58DBB2384394	copie de cartographier_kitiniere_parchemin_full	<GEN>copie de cartographier_kitiniere_parchemin_full
-_2AF8378260D8E7BF	botanist_list	<GEN>botanist_list
-_5F4FD1DBDF6BBC94	botanist_remedy	<GEN>botanist_remedy
-_6FE9D78959F817B9	clopper_flute	<GEN>clopper_flute
-_9026C77B26C13A0E	cwfh01_mp1	<GEN>cwfh01_mp1
-_9026C77B26D13E0F	cwfh02_mp1	<GEN>cwfh02_mp1
-_9026C77B26E14210	cwfh03_mp1	<GEN>cwfh03_mp1
-_5296E37B26C13A0E	cwmh01_mp1	<GEN>cwmh01_mp1
-_5296E37B26D13E0F	cwmh02_mp1	<GEN>cwmh02_mp1
-_5296E37B26E14210	cwmh03_mp1	<GEN>cwmh03_mp1
-_1407FF7B26C13A0E	cwth01_mp1	<GEN>cwth01_mp1
-_1407FF7B26D13E0F	cwth02_mp1	<GEN>cwth02_mp1
-_1407037C26D13E0F	cwth02_mp2	<GEN>cwth02_mp2
-_1407FF7B26E14210	cwth03_mp1	<GEN>cwth03_mp1
-_9567177B26C13A0E	cwzh01_mp1	<GEN>cwzh01_mp1
-_9567177B26D13E0F	cwzh02_mp1	<GEN>cwzh02_mp1
-_95671B7C26D13E0F	cwzh02_mp2	<GEN>cwzh02_mp2
-_9567177B26E14210	cwzh03_mp1	<GEN>cwzh03_mp1
-_FE20D1D6ED6AB0E5	diseased_sprouts	<GEN>diseased_sprouts
-_414D85EF2439BCCA	flowers_medicine	<GEN>flowers_medicine
-_FB1D72F1A674A5FB	fragment_magik_echantillon_kitiniere	<GEN>fragment_magik_echantillon_kitiniere
-_66C65CD3E2C574BD	fruit_medicine	<GEN>fruit_medicine
-_E329E38321B7BFBF	kitiniere_map	<GEN>kitiniere_map
-_99A519453BC24184	kitiniere_prince_head	<GEN>kitiniere_prince_head
-_A1559A47FA7CA551	kitiniere_queen_head	<GEN>kitiniere_queen_head
-_B0F922EE61BA1AAF	light_armors_acreditation	<GEN>light_armors_acreditation
-_A575D08F4B86DF05	mb_seal1	<GEN>mb_seal1
-_A575D08F8B86DF07	mb_seal2	<GEN>mb_seal2
-_918A5DBB11A64874	mc100_bon_clips	<GEN>mc100_bon_clips
-_7197A357B5D9EBB0	melee_weapons_acreditation	<GEN>melee_weapons_acreditation
-_A6A848D7E406B8B0	merchant_purse	<GEN>merchant_purse
-_FACB117D068AA5F6	nbland_msg_sivaldo	<GEN>nbland_msg_sivaldo
-_762DB5D56C0888EA	newbie_parchemin	<GEN>newbie_parchemin
-_DA7AA4BA23F41C7E	newbie_tool	<GEN>newbie_tool
-_7C5E983927E1B0FE	outpost_parchment	<GEN>outpost_parchment
-_639844A2E0579484	pearl_black	<GEN>pearl_black
-_E05670AF2CC4F082	pearl_blue	<GEN>pearl_blue
-_6A88C486E2060C8E	pearl_violet	<GEN>pearl_violet
-_A66528DBE0E564A5	piece_of_cloth	<GEN>piece_of_cloth
-_855226636B960013	r_05_39_varinx_skull	<GEN>r_05_39_varinx_skull
-_3CDEA43169FFC4F0	report_councellor	<GEN>report_councellor
-_9B36177D1040F53F	rpjob_001	<GEN>rpjob_001
-_9B36177E5050F53F	rpjob_002	<GEN>rpjob_002
-_9B36177F9060F53F	rpjob_003	<GEN>rpjob_003
-_9B361780D170F53F	rpjob_004	<GEN>rpjob_004
-_9B3617811180F53F	rpjob_005	<GEN>rpjob_005
-_9B3617825190F53F	rpjob_006	<GEN>rpjob_006
-_9B36178391A0F53F	rpjob_007	<GEN>rpjob_007
-_9B361784D2B0F53F	rpjob_008	<GEN>rpjob_008
-_9B36178512C0F53F	rpjob_009	<GEN>rpjob_009
-_9B36177C1040F93F	rpjob_010	<GEN>rpjob_010
-_9B36177D5050F93F	rpjob_011	<GEN>rpjob_011
-_9B36177E9060F93F	rpjob_012	<GEN>rpjob_012
-_9B36177FD070F93F	rpjob_013	<GEN>rpjob_013
-_9B3617801180F93F	rpjob_014	<GEN>rpjob_014
-_9B3617815190F93F	rpjob_015	<GEN>rpjob_015
-_9B36178291A0F93F	rpjob_016	<GEN>rpjob_016
-_9B361783D1B0F93F	rpjob_017	<GEN>rpjob_017
-_9B36178412C0F93F	rpjob_018	<GEN>rpjob_018
-_9B36178552D0F93F	rpjob_019	<GEN>rpjob_019
-_9B36177C5050FD3F	rpjob_020	<GEN>rpjob_020
-_9B361784D2D0FD41	rpjob_208	<GEN>rpjob_208
-_9B36178512E0FD41	rpjob_209	<GEN>rpjob_209
-_9B36177C10600141	rpjob_210	<GEN>rpjob_210
-_9B36177D50700141	rpjob_211	<GEN>rpjob_211
-_9B36177E90800141	rpjob_212	<GEN>rpjob_212
-_9B36177FD0900141	rpjob_213	<GEN>rpjob_213
-_9B36178011A00141	rpjob_214	<GEN>rpjob_214
-_9B36178151B00141	rpjob_215	<GEN>rpjob_215
-_9B36178291C00141	rpjob_216	<GEN>rpjob_216
-_9B361783D1D00141	rpjob_217	<GEN>rpjob_217
-_9B36178412E00141	rpjob_218	<GEN>rpjob_218
-_9B36178552F00141	rpjob_219	<GEN>rpjob_219
-_EFA8C4BA8B59A06D	rpjobitem_208_a0	<GEN>rpjobitem_208_a0
-_EFA8C4BACB59A06E	rpjobitem_208_a1	<GEN>rpjobitem_208_a1
-_2FA8C4BA8B69A06D	rpjobitem_208_b0	<GEN>rpjobitem_208_b0
-_2FA8C4BACB69A06E	rpjobitem_208_b1	<GEN>rpjobitem_208_b1
-_6FA8C4BA8B79A06D	rpjobitem_208_c0	<GEN>rpjobitem_208_c0
-_6FA8C4BACB79A06E	rpjobitem_208_c1	<GEN>rpjobitem_208_c1
-_EFA8C8BA8B59A06E	rpjobitem_209_a0	<GEN>rpjobitem_209_a0
-_EFA8C8BACB59A06F	rpjobitem_209_a1	<GEN>rpjobitem_209_a1
-_2FA8C8BA8B69A06E	rpjobitem_209_b0	<GEN>rpjobitem_209_b0
-_2FA8C8BACB69A06F	rpjobitem_209_b1	<GEN>rpjobitem_209_b1
-_6FA8C8BA8B79A06E	rpjobitem_209_c0	<GEN>rpjobitem_209_c0
-_6FA8C8BACB79A06F	rpjobitem_209_c1	<GEN>rpjobitem_209_c1
-_2FA8A4BB8B59A065	rpjobitem_210_a0	<GEN>rpjobitem_210_a0
-_2FA8A4BBCB59A066	rpjobitem_210_a1	<GEN>rpjobitem_210_a1
-_6FA8A4BB8B69A065	rpjobitem_210_b0	<GEN>rpjobitem_210_b0
-_6FA8A4BBCB69A066	rpjobitem_210_b1	<GEN>rpjobitem_210_b1
-_AFA8A4BB8B79A065	rpjobitem_210_c0	<GEN>rpjobitem_210_c0
-_AFA8A4BBCB79A066	rpjobitem_210_c1	<GEN>rpjobitem_210_c1
-_2FA8A8BB8B59A066	rpjobitem_211_a0	<GEN>rpjobitem_211_a0
-_2FA8A8BBCB59A067	rpjobitem_211_a1	<GEN>rpjobitem_211_a1
-_6FA8A8BB8B69A066	rpjobitem_211_b0	<GEN>rpjobitem_211_b0
-_6FA8A8BBCB69A067	rpjobitem_211_b1	<GEN>rpjobitem_211_b1
-_AFA8A8BB8B79A066	rpjobitem_211_c0	<GEN>rpjobitem_211_c0
-_AFA8A8BBCB79A067	rpjobitem_211_c1	<GEN>rpjobitem_211_c1
-_2FA8ACBB8B59A067	rpjobitem_212_a0	<GEN>rpjobitem_212_a0
-_2FA8ACBBCB59A068	rpjobitem_212_a1	<GEN>rpjobitem_212_a1
-_6FA8ACBB8B69A067	rpjobitem_212_b0	<GEN>rpjobitem_212_b0
-_6FA8ACBBCB69A068	rpjobitem_212_b1	<GEN>rpjobitem_212_b1
-_AFA8ACBB8B79A067	rpjobitem_212_c0	<GEN>rpjobitem_212_c0
-_AFA8ACBBCB79A068	rpjobitem_212_c1	<GEN>rpjobitem_212_c1
-_2FA8B0BB8B59A068	rpjobitem_213_a0	<GEN>rpjobitem_213_a0
-_2FA8B0BBCB59A069	rpjobitem_213_a1	<GEN>rpjobitem_213_a1
-_6FA8B0BB8B69A068	rpjobitem_213_b0	<GEN>rpjobitem_213_b0
-_6FA8B0BBCB69A069	rpjobitem_213_b1	<GEN>rpjobitem_213_b1
-_AFA8B0BB8B79A068	rpjobitem_213_c0	<GEN>rpjobitem_213_c0
-_AFA8B0BBCB79A069	rpjobitem_213_c1	<GEN>rpjobitem_213_c1
-_2FA8B4BB8B59A069	rpjobitem_214_a0	<GEN>rpjobitem_214_a0
-_2FA8B4BBCB59A06A	rpjobitem_214_a1	<GEN>rpjobitem_214_a1
-_6FA8B4BB8B69A069	rpjobitem_214_b0	<GEN>rpjobitem_214_b0
-_6FA8B4BBCB69A06A	rpjobitem_214_b1	<GEN>rpjobitem_214_b1
-_AFA8B4BB8B79A069	rpjobitem_214_c0	<GEN>rpjobitem_214_c0
-_AFA8B4BBCB79A06A	rpjobitem_214_c1	<GEN>rpjobitem_214_c1
-_2FA8B8BB8B59A06A	rpjobitem_215_a0	<GEN>rpjobitem_215_a0
-_2FA8B8BBCB59A06B	rpjobitem_215_a1	<GEN>rpjobitem_215_a1
-_6FA8B8BB8B69A06A	rpjobitem_215_b0	<GEN>rpjobitem_215_b0
-_6FA8B8BBCB69A06B	rpjobitem_215_b1	<GEN>rpjobitem_215_b1
-_AFA8B8BB8B79A06A	rpjobitem_215_c0	<GEN>rpjobitem_215_c0
-_AFA8B8BBCB79A06B	rpjobitem_215_c1	<GEN>rpjobitem_215_c1
-_2FA8BCBB8B59A06B	rpjobitem_216_a0	<GEN>rpjobitem_216_a0
-_2FA8BCBBCB59A06C	rpjobitem_216_a1	<GEN>rpjobitem_216_a1
-_6FA8BCBB8B69A06B	rpjobitem_216_b0	<GEN>rpjobitem_216_b0
-_6FA8BCBBCB69A06C	rpjobitem_216_b1	<GEN>rpjobitem_216_b1
-_AFA8BCBB8B79A06B	rpjobitem_216_c0	<GEN>rpjobitem_216_c0
-_AFA8BCBBCB79A06C	rpjobitem_216_c1	<GEN>rpjobitem_216_c1
-_2FA8C0BB8B59A06C	rpjobitem_217_a0	<GEN>rpjobitem_217_a0
-_2FA8C0BBCB59A06D	rpjobitem_217_a1	<GEN>rpjobitem_217_a1
-_6FA8C0BB8B69A06C	rpjobitem_217_b0	<GEN>rpjobitem_217_b0
-_6FA8C0BBCB69A06D	rpjobitem_217_b1	<GEN>rpjobitem_217_b1
-_AFA8C0BB8B79A06C	rpjobitem_217_c0	<GEN>rpjobitem_217_c0
-_AFA8C0BBCB79A06D	rpjobitem_217_c1	<GEN>rpjobitem_217_c1
-_2FA8C4BB8B59A06D	rpjobitem_218_a0	<GEN>rpjobitem_218_a0
-_2FA8C4BBCB59A06E	rpjobitem_218_a1	<GEN>rpjobitem_218_a1
-_6FA8C4BB8B69A06D	rpjobitem_218_b0	<GEN>rpjobitem_218_b0
-_6FA8C4BBCB69A06E	rpjobitem_218_b1	<GEN>rpjobitem_218_b1
-_AFA8C4BB8B79A06D	rpjobitem_218_c0	<GEN>rpjobitem_218_c0
-_AFA8C4BBCB79A06E	rpjobitem_218_c1	<GEN>rpjobitem_218_c1
-_2FA8C8BB8B59A06E	rpjobitem_219_a0	<GEN>rpjobitem_219_a0
-_2FA8C8BBCB59A06F	rpjobitem_219_a1	<GEN>rpjobitem_219_a1
-_6FA8C8BB8B69A06E	rpjobitem_219_b0	<GEN>rpjobitem_219_b0
-_6FA8C8BBCB69A06F	rpjobitem_219_b1	<GEN>rpjobitem_219_b1
-_AFA8C8BB8B79A06E	rpjobitem_219_c0	<GEN>rpjobitem_219_c0
-_AFA8C8BBCB79A06F	rpjobitem_219_c1	<GEN>rpjobitem_219_c1
-_BB2C51994B3B4DDF	sacred_tryker_book	<GEN>sacred_tryker_book
-_DA9C8CBADD45208C	tax_receipt	<GEN>tax_receipt
-_9CC4DCAE2E164076	tcm_flower	<GEN>tcm_flower
-_D91EF67CFB9C69E9	tf60_ailes_grillees	<GEN>tf60_ailes_grillees
-_A8B9148B61950479	thief_letter	<GEN>thief_letter
-_627D51EDE2993CA6	very_big_barrel	<GEN>very_big_barrel
-_BF9BA41F25F0A8ED	very_small_barrel	<GEN>very_small_barrel
-_FC8D89FCA738E0DC	warmap_goo_miasm	<GEN>warmap_goo_miasm
-_F81D5C27E7F0A0ED	warmap_kami_merit	<GEN>warmap_kami_merit
-_63370E53762BA155	warmap_karavan_merit	<GEN>warmap_karavan_merit
-_396E75F7A9C8D8D0	warmap_kitin_egg	<GEN>warmap_kitin_egg
-_A23A7CB01DA4606A	warmap_nano	<GEN>warmap_nano
-_75463672813CE1ED	warmap_sap_cristaux	<GEN>warmap_sap_cristaux
-_DD063A894DD5EBD6	icbr2l_3	<GEN>icbr2l_3
-_991AB4A4DAC6E894	karavan_gun	<GEN>karavan_gun
-_73C93D90889EF9E2	npc_caravan_pistol	<GEN>npc_caravan_pistol
-_713F8F86DB7453DC	m0077ixxcc02	<GEN>m0077ixxcc02
-_F22F876F552423D6	m0180dxaca02	<GEN>m0180dxaca02
-_322F876F552423D7	m0180dxaca03	<GEN>m0180dxaca03
-_732F876F552423D8	m0180dxaca04	<GEN>m0180dxaca04
-_718F876FD62443D6	m0708dxaca02	<GEN>m0708dxaca02
-_72EF9B6F17242BCF	m0802dxacf01	<GEN>m0802dxacf01
-_72EF9B6F17242FD0	m0803dxacf01	<GEN>m0803dxacf01
-_72EF9B6F172433D1	m0804dxacf01	<GEN>m0804dxacf01
-_72EF9B6F172437D2	m0805dxacf01	<GEN>m0805dxacf01
-_72EF9B6F17243BD3	m0806dxacf01	<GEN>m0806dxacf01
-_72EF9B6F17243FD4	m0807dxacf01	<GEN>m0807dxacf01
-_72EF9B6F172443D5	m0808dxacf01	<GEN>m0808dxacf01
-_72EF9B6F172447D6	m0809dxacf01	<GEN>m0809dxacf01
-_B2EF9B6F172423CE	m0810dxacf01	<GEN>m0810dxacf01
-_B2EF9B6F172427CF	m0811dxacf01	<GEN>m0811dxacf01
-_B2EF9B6F17242BD0	m0812dxacf01	<GEN>m0812dxacf01
-_B2EF9B6F17242FD1	m0813dxacf01	<GEN>m0813dxacf01
-_B3AFCF7E52431FD6	m0490ckcpf01	<GEN>m0490ckcpf01
-_B3AFCF7E524323D7	m0491ckcpf01	<GEN>m0491ckcpf01
-_B3AFCF7E524327D8	m0492ckcpf01	<GEN>m0492ckcpf01
-_F1CFCF7ED2432FD1	m0604ckcpf01	<GEN>m0604ckcpf01
-_F1CFCF7ED24333D2	m0605ckcpf01	<GEN>m0605ckcpf01
-_72CFCB7CD6243FD9	m0757dxape01	<GEN>m0757dxape01
-_72DFCF7CD6243FD9	m0757dxapf01	<GEN>m0757dxapf01
-_72BFC77CD62443DA	m0758dxapd01	<GEN>m0758dxapd01
-_72DFCF7CD62443DA	m0758dxapf01	<GEN>m0758dxapf01
-_72BFC77CD62447DB	m0759dxapd01	<GEN>m0759dxapd01
-_72DFCF7CD62447DB	m0759dxapf01	<GEN>m0759dxapf01
-_B2BFC77CD62423D3	m0760dxapd01	<GEN>m0760dxapd01
-_B2DFCF7CD62423D3	m0760dxapf01	<GEN>m0760dxapf01
-_B2CFCB7CD62427D4	m0761dxape01	<GEN>m0761dxape01
-_B2DFCF7CD62427D4	m0761dxapf01	<GEN>m0761dxapf01
-_B2CFCB7CD6242BD5	m0762dxape01	<GEN>m0762dxape01
-_B2DFCF7CD6242BD5	m0762dxapf01	<GEN>m0762dxapf01
-_B2BFC77CD6242FD6	m0763dxapd01	<GEN>m0763dxapd01
-_B2DFCF7CD6242FD6	m0763dxapf01	<GEN>m0763dxapf01
-_B2BFC77CD62433D7	m0764dxapd01	<GEN>m0764dxapd01
-_B2DFCF7CD62433D7	m0764dxapf01	<GEN>m0764dxapf01
-_B2BFC77CD62437D8	m0765dxapd01	<GEN>m0765dxapd01
-_B2CFCB7CD62437D8	m0765dxape01	<GEN>m0765dxape01
-_B2CFCB7CD6243BD9	m0766dxape01	<GEN>m0766dxape01
-_B2DFCF7CD6243BD9	m0766dxapf01	<GEN>m0766dxapf01
-_B2BFC77CD6243FDA	m0767dxapd01	<GEN>m0767dxapd01
-_B2DFCF7CD6243FDA	m0767dxapf01	<GEN>m0767dxapf01
-_B2BFC77CD62443DB	m0768dxapd01	<GEN>m0768dxapd01
-_B2DFCF7CD62443DB	m0768dxapf01	<GEN>m0768dxapf01
-_B2BFC77CD62447DC	m0769dxapd01	<GEN>m0769dxapd01
-_B2DFCF7CD62447DC	m0769dxapf01	<GEN>m0769dxapf01
-_F2CFCB7CD62423D4	m0770dxape01	<GEN>m0770dxape01
-_F2DFCF7CD62423D4	m0770dxapf01	<GEN>m0770dxapf01
-_F2BFC77CD62427D5	m0771dxapd01	<GEN>m0771dxapd01
-_F2DFCF7CD62427D5	m0771dxapf01	<GEN>m0771dxapf01
-_F2BFC77CD6242BD6	m0772dxapd01	<GEN>m0772dxapd01
-_F2DFCF7CD6242BD6	m0772dxapf01	<GEN>m0772dxapf01
-_F2BFC77CD6242FD7	m0773dxapd01	<GEN>m0773dxapd01
-_F2DFCF7CD6242FD7	m0773dxapf01	<GEN>m0773dxapf01
-_F2BFC77CD62433D8	m0774dxapd01	<GEN>m0774dxapd01
-_F2CFCB7CD62433D8	m0774dxape01	<GEN>m0774dxape01
-_F2CFCB7CD62437D9	m0775dxape01	<GEN>m0775dxape01
-_F2DFCF7CD62437D9	m0775dxapf01	<GEN>m0775dxapf01
-_F2CFCB7CD6243BDA	m0776dxape01	<GEN>m0776dxape01
-_F2DFCF7CD6243BDA	m0776dxapf01	<GEN>m0776dxapf01
-_F2BFC77CD6243FDB	m0777dxapd01	<GEN>m0777dxapd01
-_F2DFCF7CD6243FDB	m0777dxapf01	<GEN>m0777dxapf01
-_F2BFC77CD62443DC	m0778dxapd01	<GEN>m0778dxapd01
-_F2CFCB7CD62443DC	m0778dxape01	<GEN>m0778dxape01
-_F2CFCB7CD62447DD	m0779dxape01	<GEN>m0779dxape01
-_F2DFCF7CD62447DD	m0779dxapf01	<GEN>m0779dxapf01
-_33CFCB7CD62423D5	m0780dxape01	<GEN>m0780dxape01
-_33DFCF7CD62423D5	m0780dxapf01	<GEN>m0780dxapf01
-_33BFC77CD62427D6	m0781dxapd01	<GEN>m0781dxapd01
-_33DFCF7CD62427D6	m0781dxapf01	<GEN>m0781dxapf01
-_33BFC77CD6242BD7	m0782dxapd01	<GEN>m0782dxapd01
-_33DFCF7CD6242BD7	m0782dxapf01	<GEN>m0782dxapf01
-_33CFCB7CD6242FD8	m0783dxape01	<GEN>m0783dxape01
-_33DFCF7CD6242FD8	m0783dxapf01	<GEN>m0783dxapf01
-_33CFCB7CD62433D9	m0784dxape01	<GEN>m0784dxape01
-_33DFCF7CD62433D9	m0784dxapf01	<GEN>m0784dxapf01
-_33BFC77CD62437DA	m0785dxapd01	<GEN>m0785dxapd01
-_33DFCF7CD62437DA	m0785dxapf01	<GEN>m0785dxapf01
-_33BFC77CD6243BDB	m0786dxapd01	<GEN>m0786dxapd01
-_33DFCF7CD6243BDB	m0786dxapf01	<GEN>m0786dxapf01
-_33BFC77CD6243FDC	m0787dxapd01	<GEN>m0787dxapd01
-_33DFCF7CD6243FDC	m0787dxapf01	<GEN>m0787dxapf01
-_73BFC77CD6243FDD	m0797dxapd01	<GEN>m0797dxapd01
-_73CFCB7CD6243FDD	m0797dxape01	<GEN>m0797dxape01
-_73DFCF7CD6243FDD	m0797dxapf01	<GEN>m0797dxapf01
-_73BFC77CD62443DE	m0798dxapd01	<GEN>m0798dxapd01
-_73CFCB7CD62443DE	m0798dxape01	<GEN>m0798dxape01
-_73DFCF7CD62443DE	m0798dxapf01	<GEN>m0798dxapf01
-_73BFC77CD62447DF	m0799dxapd01	<GEN>m0799dxapd01
-_73CFCB7CD62447DF	m0799dxape01	<GEN>m0799dxape01
-_73DFCF7CD62447DF	m0799dxapf01	<GEN>m0799dxapf01
-_72CFC77C172423CD	m0800dxapd01	<GEN>m0800dxapd01
-_72DFCB7C172423CD	m0800dxape01	<GEN>m0800dxape01
-_72EFCF7C172423CD	m0800dxapf01	<GEN>m0800dxapf01
-_72CFC77C172427CE	m0801dxapd01	<GEN>m0801dxapd01
-_72DFCB7C172427CE	m0801dxape01	<GEN>m0801dxape01
-_72EFCF7C172427CE	m0801dxapf01	<GEN>m0801dxapf01
-_398EBD89838AA5D8	system_mp_xl_black	<GEN>system_mp_xl_black
-_7C7DD433ED4FC0DD	system_mp_xl_blue	<GEN>system_mp_xl_blue
-_398EC98E052BD1DD	system_mp_xl_green	<GEN>system_mp_xl_green
-_7F2826A67D7C01CF	system_mp_xl_purple	<GEN>system_mp_xl_purple
-_FB0F91FF6ED70CD3	system_mp_xl_red	<GEN>system_mp_xl_red
-_E694C2DFD4B28684	system_mp_xl_turquoise	<GEN>system_mp_xl_turquoise
-_398EA594CACAE9ED	system_mp_xl_white	<GEN>system_mp_xl_white
-_52A7D2EAD2C3BDA3	r2_create_new_plot_item	<GEN>r2_create_new_plot_item
-_6D23A3BF9AE78F71	r2_plot_item_0	<GEN>r2_plot_item_0
-_6D23A3C09AE79371	r2_plot_item_1	<GEN>r2_plot_item_1
-_DD792FED5D951AA6	r2_plot_item_10	<GEN>r2_plot_item_10
-_33A8E4F413B4EF98	r2_plot_item_100	<GEN>r2_plot_item_100
-_33A8E4F453B4EF99	r2_plot_item_101	<GEN>r2_plot_item_101
-_33A8E4F493B4EF9A	r2_plot_item_102	<GEN>r2_plot_item_102
-_33A8E4F4D3B4EF9B	r2_plot_item_103	<GEN>r2_plot_item_103
-_33A8E4F414B4EF9C	r2_plot_item_104	<GEN>r2_plot_item_104
-_33A8E4F454B4EF9D	r2_plot_item_105	<GEN>r2_plot_item_105
-_33A8E4F494B4EF9E	r2_plot_item_106	<GEN>r2_plot_item_106
-_33A8E4F4D4B4EF9F	r2_plot_item_107	<GEN>r2_plot_item_107
-_33A8E4F415B4EFA0	r2_plot_item_108	<GEN>r2_plot_item_108
-_33A8E4F455B4EFA1	r2_plot_item_109	<GEN>r2_plot_item_109
-_DD892FED5DA51AA6	r2_plot_item_11	<GEN>r2_plot_item_11
-_73A8E4F413C4EF98	r2_plot_item_110	<GEN>r2_plot_item_110
-_73A8E4F453C4EF99	r2_plot_item_111	<GEN>r2_plot_item_111
-_73A8E4F493C4EF9A	r2_plot_item_112	<GEN>r2_plot_item_112
-_73A8E4F4D3C4EF9B	r2_plot_item_113	<GEN>r2_plot_item_113
-_73A8E4F414C4EF9C	r2_plot_item_114	<GEN>r2_plot_item_114
-_73A8E4F454C4EF9D	r2_plot_item_115	<GEN>r2_plot_item_115
-_73A8E4F494C4EF9E	r2_plot_item_116	<GEN>r2_plot_item_116
-_73A8E4F4D4C4EF9F	r2_plot_item_117	<GEN>r2_plot_item_117
-_73A8E4F415C4EFA0	r2_plot_item_118	<GEN>r2_plot_item_118
-_73A8E4F455C4EFA1	r2_plot_item_119	<GEN>r2_plot_item_119
-_DD992FED5DB51AA6	r2_plot_item_12	<GEN>r2_plot_item_12
-_B3A8E4F413D4EF98	r2_plot_item_120	<GEN>r2_plot_item_120
-_B3A8E4F453D4EF99	r2_plot_item_121	<GEN>r2_plot_item_121
-_B3A8E4F493D4EF9A	r2_plot_item_122	<GEN>r2_plot_item_122
-_B3A8E4F4D3D4EF9B	r2_plot_item_123	<GEN>r2_plot_item_123
-_B3A8E4F414D4EF9C	r2_plot_item_124	<GEN>r2_plot_item_124
-_B3A8E4F454D4EF9D	r2_plot_item_125	<GEN>r2_plot_item_125
-_B3A8E4F494D4EF9E	r2_plot_item_126	<GEN>r2_plot_item_126
-_B3A8E4F4D4D4EF9F	r2_plot_item_127	<GEN>r2_plot_item_127
-_B3A8E4F415D4EFA0	r2_plot_item_128	<GEN>r2_plot_item_128
-_B3A8E4F455D4EFA1	r2_plot_item_129	<GEN>r2_plot_item_129
-_DDA92FED5DC51AA6	r2_plot_item_13	<GEN>r2_plot_item_13
-_F3A8E4F413E4EF98	r2_plot_item_130	<GEN>r2_plot_item_130
-_F3A8E4F453E4EF99	r2_plot_item_131	<GEN>r2_plot_item_131
-_F3A8E4F493E4EF9A	r2_plot_item_132	<GEN>r2_plot_item_132
-_F3A8E4F4D3E4EF9B	r2_plot_item_133	<GEN>r2_plot_item_133
-_F3A8E4F414E4EF9C	r2_plot_item_134	<GEN>r2_plot_item_134
-_F3A8E4F454E4EF9D	r2_plot_item_135	<GEN>r2_plot_item_135
-_F3A8E4F494E4EF9E	r2_plot_item_136	<GEN>r2_plot_item_136
-_F3A8E4F4D4E4EF9F	r2_plot_item_137	<GEN>r2_plot_item_137
-_F3A8E4F415E4EFA0	r2_plot_item_138	<GEN>r2_plot_item_138
-_F3A8E4F455E4EFA1	r2_plot_item_139	<GEN>r2_plot_item_139
-_DDB92FED5DD51AA6	r2_plot_item_14	<GEN>r2_plot_item_14
-_34A8E4F413F4EF98	r2_plot_item_140	<GEN>r2_plot_item_140
-_34A8E4F453F4EF99	r2_plot_item_141	<GEN>r2_plot_item_141
-_34A8E4F493F4EF9A	r2_plot_item_142	<GEN>r2_plot_item_142
-_34A8E4F4D3F4EF9B	r2_plot_item_143	<GEN>r2_plot_item_143
-_34A8E4F414F4EF9C	r2_plot_item_144	<GEN>r2_plot_item_144
-_34A8E4F454F4EF9D	r2_plot_item_145	<GEN>r2_plot_item_145
-_34A8E4F494F4EF9E	r2_plot_item_146	<GEN>r2_plot_item_146
-_34A8E4F4D4F4EF9F	r2_plot_item_147	<GEN>r2_plot_item_147
-_34A8E4F415F4EFA0	r2_plot_item_148	<GEN>r2_plot_item_148
-_34A8E4F455F4EFA1	r2_plot_item_149	<GEN>r2_plot_item_149
-_DDC92FED5DE51AA6	r2_plot_item_15	<GEN>r2_plot_item_15
-_74A8E4F41304EF98	r2_plot_item_150	<GEN>r2_plot_item_150
-_74A8E4F45304EF99	r2_plot_item_151	<GEN>r2_plot_item_151
-_74A8E4F49304EF9A	r2_plot_item_152	<GEN>r2_plot_item_152
-_74A8E4F4D304EF9B	r2_plot_item_153	<GEN>r2_plot_item_153
-_74A8E4F41404EF9C	r2_plot_item_154	<GEN>r2_plot_item_154
-_74A8E4F45404EF9D	r2_plot_item_155	<GEN>r2_plot_item_155
-_74A8E4F49404EF9E	r2_plot_item_156	<GEN>r2_plot_item_156
-_74A8E4F4D404EF9F	r2_plot_item_157	<GEN>r2_plot_item_157
-_74A8E4F41504EFA0	r2_plot_item_158	<GEN>r2_plot_item_158
-_74A8E4F45504EFA1	r2_plot_item_159	<GEN>r2_plot_item_159
-_DDD92FED5DF51AA6	r2_plot_item_16	<GEN>r2_plot_item_16
-_B4A8E4F41314EF98	r2_plot_item_160	<GEN>r2_plot_item_160
-_B4A8E4F45314EF99	r2_plot_item_161	<GEN>r2_plot_item_161
-_B4A8E4F49314EF9A	r2_plot_item_162	<GEN>r2_plot_item_162
-_B4A8E4F4D314EF9B	r2_plot_item_163	<GEN>r2_plot_item_163
-_B4A8E4F41414EF9C	r2_plot_item_164	<GEN>r2_plot_item_164
-_B4A8E4F45414EF9D	r2_plot_item_165	<GEN>r2_plot_item_165
-_B4A8E4F49414EF9E	r2_plot_item_166	<GEN>r2_plot_item_166
-_B4A8E4F4D414EF9F	r2_plot_item_167	<GEN>r2_plot_item_167
-_B4A8E4F41514EFA0	r2_plot_item_168	<GEN>r2_plot_item_168
-_B4A8E4F45514EFA1	r2_plot_item_169	<GEN>r2_plot_item_169
-_DDE92FED5D051AA6	r2_plot_item_17	<GEN>r2_plot_item_17
-_F4A8E4F41324EF98	r2_plot_item_170	<GEN>r2_plot_item_170
-_F4A8E4F45324EF99	r2_plot_item_171	<GEN>r2_plot_item_171
-_F4A8E4F49324EF9A	r2_plot_item_172	<GEN>r2_plot_item_172
-_F4A8E4F4D324EF9B	r2_plot_item_173	<GEN>r2_plot_item_173
-_F4A8E4F41424EF9C	r2_plot_item_174	<GEN>r2_plot_item_174
-_F4A8E4F45424EF9D	r2_plot_item_175	<GEN>r2_plot_item_175
-_F4A8E4F49424EF9E	r2_plot_item_176	<GEN>r2_plot_item_176
-_F4A8E4F4D424EF9F	r2_plot_item_177	<GEN>r2_plot_item_177
-_F4A8E4F41524EFA0	r2_plot_item_178	<GEN>r2_plot_item_178
-_F4A8E4F45524EFA1	r2_plot_item_179	<GEN>r2_plot_item_179
-_DDF92FED5D151AA6	r2_plot_item_18	<GEN>r2_plot_item_18
-_35A8E4F41334EF98	r2_plot_item_180	<GEN>r2_plot_item_180
-_35A8E4F45334EF99	r2_plot_item_181	<GEN>r2_plot_item_181
-_35A8E4F49334EF9A	r2_plot_item_182	<GEN>r2_plot_item_182
-_35A8E4F4D334EF9B	r2_plot_item_183	<GEN>r2_plot_item_183
-_35A8E4F41434EF9C	r2_plot_item_184	<GEN>r2_plot_item_184
-_DD092FED5D251AA6	r2_plot_item_19	<GEN>r2_plot_item_19
-_6D23A3C19AE79771	r2_plot_item_2	<GEN>r2_plot_item_2
-_DD7933ED5D951EA6	r2_plot_item_20	<GEN>r2_plot_item_20
-_DD8933ED5DA51EA6	r2_plot_item_21	<GEN>r2_plot_item_21
-_DD9933ED5DB51EA6	r2_plot_item_22	<GEN>r2_plot_item_22
-_DDA933ED5DC51EA6	r2_plot_item_23	<GEN>r2_plot_item_23
-_DDB933ED5DD51EA6	r2_plot_item_24	<GEN>r2_plot_item_24
-_DDC933ED5DE51EA6	r2_plot_item_25	<GEN>r2_plot_item_25
-_DDD933ED5DF51EA6	r2_plot_item_26	<GEN>r2_plot_item_26
-_DDE933ED5D051EA6	r2_plot_item_27	<GEN>r2_plot_item_27
-_DDF933ED5D151EA6	r2_plot_item_28	<GEN>r2_plot_item_28
-_DD0933ED5D251EA6	r2_plot_item_29	<GEN>r2_plot_item_29
-_6D23A3C29AE79B71	r2_plot_item_3	<GEN>r2_plot_item_3
-_DD7937ED5D9522A6	r2_plot_item_30	<GEN>r2_plot_item_30
-_DD8937ED5DA522A6	r2_plot_item_31	<GEN>r2_plot_item_31
-_DD9937ED5DB522A6	r2_plot_item_32	<GEN>r2_plot_item_32
-_DDA937ED5DC522A6	r2_plot_item_33	<GEN>r2_plot_item_33
-_DDB937ED5DD522A6	r2_plot_item_34	<GEN>r2_plot_item_34
-_DDC937ED5DE522A6	r2_plot_item_35	<GEN>r2_plot_item_35
-_DDD937ED5DF522A6	r2_plot_item_36	<GEN>r2_plot_item_36
-_DDE937ED5D0522A6	r2_plot_item_37	<GEN>r2_plot_item_37
-_DDF937ED5D1522A6	r2_plot_item_38	<GEN>r2_plot_item_38
-_DD0937ED5D2522A6	r2_plot_item_39	<GEN>r2_plot_item_39
-_6D23A3C39AE79F71	r2_plot_item_4	<GEN>r2_plot_item_4
-_DD793BED5D9526A6	r2_plot_item_40	<GEN>r2_plot_item_40
-_DD893BED5DA526A6	r2_plot_item_41	<GEN>r2_plot_item_41
-_DD993BED5DB526A6	r2_plot_item_42	<GEN>r2_plot_item_42
-_DDA93BED5DC526A6	r2_plot_item_43	<GEN>r2_plot_item_43
-_DDB93BED5DD526A6	r2_plot_item_44	<GEN>r2_plot_item_44
-_DDC93BED5DE526A6	r2_plot_item_45	<GEN>r2_plot_item_45
-_DDD93BED5DF526A6	r2_plot_item_46	<GEN>r2_plot_item_46
-_DDE93BED5D0526A6	r2_plot_item_47	<GEN>r2_plot_item_47
-_DDF93BED5D1526A6	r2_plot_item_48	<GEN>r2_plot_item_48
-_DD093BED5D2526A6	r2_plot_item_49	<GEN>r2_plot_item_49
-_6D23A3C49AE7A371	r2_plot_item_5	<GEN>r2_plot_item_5
-_DD793FED5D952AA6	r2_plot_item_50	<GEN>r2_plot_item_50
-_DD893FED5DA52AA6	r2_plot_item_51	<GEN>r2_plot_item_51
-_DD993FED5DB52AA6	r2_plot_item_52	<GEN>r2_plot_item_52
-_DDA93FED5DC52AA6	r2_plot_item_53	<GEN>r2_plot_item_53
-_DDB93FED5DD52AA6	r2_plot_item_54	<GEN>r2_plot_item_54
-_DDC93FED5DE52AA6	r2_plot_item_55	<GEN>r2_plot_item_55
-_DDD93FED5DF52AA6	r2_plot_item_56	<GEN>r2_plot_item_56
-_DDE93FED5D052AA6	r2_plot_item_57	<GEN>r2_plot_item_57
-_DDF93FED5D152AA6	r2_plot_item_58	<GEN>r2_plot_item_58
-_DD093FED5D252AA6	r2_plot_item_59	<GEN>r2_plot_item_59
-_6D23A3C59AE7A771	r2_plot_item_6	<GEN>r2_plot_item_6
-_DD7943ED5D952EA6	r2_plot_item_60	<GEN>r2_plot_item_60
-_DD8943ED5DA52EA6	r2_plot_item_61	<GEN>r2_plot_item_61
-_DD9943ED5DB52EA6	r2_plot_item_62	<GEN>r2_plot_item_62
-_DDA943ED5DC52EA6	r2_plot_item_63	<GEN>r2_plot_item_63
-_DDB943ED5DD52EA6	r2_plot_item_64	<GEN>r2_plot_item_64
-_DDC943ED5DE52EA6	r2_plot_item_65	<GEN>r2_plot_item_65
-_DDD943ED5DF52EA6	r2_plot_item_66	<GEN>r2_plot_item_66
-_DDE943ED5D052EA6	r2_plot_item_67	<GEN>r2_plot_item_67
-_DDF943ED5D152EA6	r2_plot_item_68	<GEN>r2_plot_item_68
-_DD0943ED5D252EA6	r2_plot_item_69	<GEN>r2_plot_item_69
-_6D23A3C69AE7AB71	r2_plot_item_7	<GEN>r2_plot_item_7
-_DD7947ED5D9532A6	r2_plot_item_70	<GEN>r2_plot_item_70
-_DD8947ED5DA532A6	r2_plot_item_71	<GEN>r2_plot_item_71
-_DD9947ED5DB532A6	r2_plot_item_72	<GEN>r2_plot_item_72
-_DDA947ED5DC532A6	r2_plot_item_73	<GEN>r2_plot_item_73
-_DDB947ED5DD532A6	r2_plot_item_74	<GEN>r2_plot_item_74
-_DDC947ED5DE532A6	r2_plot_item_75	<GEN>r2_plot_item_75
-_DDD947ED5DF532A6	r2_plot_item_76	<GEN>r2_plot_item_76
-_DDE947ED5D0532A6	r2_plot_item_77	<GEN>r2_plot_item_77
-_DDF947ED5D1532A6	r2_plot_item_78	<GEN>r2_plot_item_78
-_DD0947ED5D2532A6	r2_plot_item_79	<GEN>r2_plot_item_79
-_6D23A3C79AE7AF71	r2_plot_item_8	<GEN>r2_plot_item_8
-_DD794BED5D9536A6	r2_plot_item_80	<GEN>r2_plot_item_80
-_DD894BED5DA536A6	r2_plot_item_81	<GEN>r2_plot_item_81
-_DD994BED5DB536A6	r2_plot_item_82	<GEN>r2_plot_item_82
-_DDA94BED5DC536A6	r2_plot_item_83	<GEN>r2_plot_item_83
-_DDB94BED5DD536A6	r2_plot_item_84	<GEN>r2_plot_item_84
-_DDC94BED5DE536A6	r2_plot_item_85	<GEN>r2_plot_item_85
-_DDD94BED5DF536A6	r2_plot_item_86	<GEN>r2_plot_item_86
-_DDE94BED5D0536A6	r2_plot_item_87	<GEN>r2_plot_item_87
-_DDF94BED5D1536A6	r2_plot_item_88	<GEN>r2_plot_item_88
-_DD094BED5D2536A6	r2_plot_item_89	<GEN>r2_plot_item_89
-_6D23A3C89AE7B371	r2_plot_item_9	<GEN>r2_plot_item_9
-_DD794FED5D953AA6	r2_plot_item_90	<GEN>r2_plot_item_90
-_DD894FED5DA53AA6	r2_plot_item_91	<GEN>r2_plot_item_91
-_DD994FED5DB53AA6	r2_plot_item_92	<GEN>r2_plot_item_92
-_DDA94FED5DC53AA6	r2_plot_item_93	<GEN>r2_plot_item_93
-_DDB94FED5DD53AA6	r2_plot_item_94	<GEN>r2_plot_item_94
-_DDC94FED5DE53AA6	r2_plot_item_95	<GEN>r2_plot_item_95
-_DDD94FED5DF53AA6	r2_plot_item_96	<GEN>r2_plot_item_96
-_DDE94FED5D053AA6	r2_plot_item_97	<GEN>r2_plot_item_97
-_DDF94FED5D153AA6	r2_plot_item_98	<GEN>r2_plot_item_98
-_DD094FED5D253AA6	r2_plot_item_99	<GEN>r2_plot_item_99
-_EC070CCDE03513A2	test_scroll_r2	<GEN>test_scroll_r2
-_EB7600F15E16A49C	icbss_marauder	<GEN>icbss_marauder
-_E008D39EEB0B0F90	icbss_pvp	<GEN>icbss_pvp
-_5F20AACF91733A83	tp_kami_corrupted_moor	<GEN>tp_kami_corrupted_moor
-_A5D8598CCEB08C7C	tp_kami_corrupted_moor_fairhaven	<GEN>tp_kami_corrupted_moor_fairhaven
-_B288BF64B8076BD9	tp_kami_corrupted_moor_pyr	<GEN>tp_kami_corrupted_moor_pyr
-_96CDD4B4494E8C57	tp_kami_corrupted_moor_yrkanis	<GEN>tp_kami_corrupted_moor_yrkanis
-_B11088542B8893D1	tp_kami_corrupted_moor_zora	<GEN>tp_kami_corrupted_moor_zora
-_AFB506DAA9BEAABF	tp_karavan_corrupted_moor	<GEN>tp_karavan_corrupted_moor
-_5518BA5AE9563577	tp_karavan_corrupted_moor_fairhaven	<GEN>tp_karavan_corrupted_moor_fairhaven
-_D4D22B47B9CFE734	tp_karavan_corrupted_moor_pyr	<GEN>tp_karavan_corrupted_moor_pyr
-_A3024CC6DADBD498	tp_karavan_corrupted_moor_yrkanis	<GEN>tp_karavan_corrupted_moor_yrkanis
-_D37E0CAE4C1E4452	tp_karavan_corrupted_moor_zora	<GEN>tp_karavan_corrupted_moor_zora
-_30284704CC2117ED	xmas_gingeryubo	Gingerbread Yubo	a	the	Gingerbread Yubo		the
-_992D57D25430CAB2	xmas_gingerbread	Gingerbread Man	a	the	Gingerbread Man		the
-_E558E5FDAECBB8AB	event_sheet_music	Sheet	a	the	Sheet		the
-_822ED5F858D9899F	ic_ice_stick	Ice Stick	an	the	Ice Sticks		the
-_7DAC507AA992B127	ic_star_stick	Star Stick	a	the	Star Sticks		the
-_AD64ADF3C56C8440	tp_kami_ranger_camp	Kami Teleporter Pact for Ranger Camp	a	the	Kami Teleporter Pacts for Ranger Camp		the
-_85BA00F2EAE1B540	tp_kami_shining_lake	Kami Teleporter Pact for Shining Lake	a	the	Kami Teleporter Pacts for Shining Lake		the
-_1BB4E021DB5BE209	tp_karavan_ranger_camp	Karavan Teleporter Pact for Ranger Camp	a	the	Karavan Teleporter Pacts for Ranger Camp		the
-_79A8C0CE2A3D11EA	tp_karavan_shattered_ruins	Karavan Teleporter Pact for Shattered Ruins	a	the	Karavan Teleporter Pacts for Shattered Ruins		the
-_5DBA9814E46B947A	rite_ranger_map_book	Map	a	the	Map		the
-_3869B7E1D7D0813A	ranger_rite_leader_tool	List Editor	a	the	List Editor		the
-_16FED261B53DAA77	ranger_rite_flare_gun	Flare Gun	a	the	Flare Gun		the
-_1DABFEA149D1383F	m0817googf01	Supreme leaf of corrupted cratcha	a	the	Supreme leaf of corrupted cratcha		the
-_1E9C1AA10B11744E	m0818googf01	Supreme stem of corrupted cratcha	a	the	Supreme stem of corrupted cratcha		the
-_A8AFB13DADA8E4BB	teddragus	Teddy	a	the	Teddies	\d	the
-_CA8F29F0AAD849F6	teddploderos	Teddy	a	the	Teddies	\d	the
-_F9902D115DEA7C12	teddmadakam	Teddy	a	the	Teddies	\d	the
-_C1BDB91DE857FCA9	teddlumper	Teddy	a	the	Teddies	\d	the
-_C1BD952624A7FCA4	teddgubani	Teddy	a	the	Teddies	\d	the
-_AA282DFA2D299478	teddarma	Teddy	a	the	Teddies	\d	the
+_C193E497EB5D71BC	ipoc_con_10min	Flower of Constitution	a	the	Flowers of Constitution	\d	the	
+_3F48208A7D7C0AF9	ipoc_int_10min	Flower of Intelligence	a	the	Flowers of Intelligence	\d	the	
+_5A746281C4A7FBF1	ipoc_str_10min	Flower of Strength	a	the	Flowers of Strength	\d	the	
+_6041FA44E0A91486	ipoc_dex_10min	Flower of Dexterity	a	the	Flowers of Dexterity	\d	the	
+_AA282DFAB079A090	teddyubo	Teddy	a	the	Teddies	\d	the	
+_0377AA80C7DAAD00	casinoshield_pre_order	Shield of Prestige	a	the	Shields of Prestige	\d	the	
+_2BDDF2DCD03621CE	amber_cube_common_ancient	Ancient Amber Cube	an	the	Ancient Amber Cubes	\d	the	
+_AA9A76F2A09FC196	amber_cube_common_recent	Recent Amber Cube	a	the	Recent Amber Cubes	\d	the	
+_E31093E62B434107	amber_cube_common_very_ancient	Very Ancient Amber Cube	a	the	Very Ancient Amber Cubes	\d	the	
+_8C574B0A8BBACFD5	amber_cube_fyros_ancient	Fyros Ancient Amber Cube	a	the	Fyros Ancient Amber Cubes	\d	the	
+_86B0129072502D54	amber_cube_fyros_recent	Fyros Recent Amber Cube	a	the	Fyros Recent Amber Cubes	\d	the	
+_8E608B43CDA97EC3	amber_cube_fyros_very_ancient	Fyros Very Ancient Amber Cube	a	the	Fyros Very Ancient Amber Cubes	\d	the	
+_934E8398C2CEC40E	amber_cube_kami_ancient	Kami Ancient Amber Cube	a	the	Kami Ancient Amber Cubes	\d	the	
+_BEF2EC60CF25CA7F	amber_cube_kami_recent	Kami Recent Amber Cube	a	the	Kami Recent Amber Cubes	\d	the	
+_77106151DEBC832A	amber_cube_kami_very_ancient	Kami Very Ancient Amber Cube	a	the	Kami Very Ancient Amber Cubes	\d	the	
+_78F548564D1A738A	amber_cube_karavan_ancient	Karavan Ancient Amber Cube	a	the	Karavan Ancient Amber Cubes	\d	the	
+_E2AA18B300001D9E	amber_cube_karavan_recent	Karavan Recent Amber Cube	a	the	Karavan Recent Amber Cubes	\d	the	
+_B350928FD4DA4352	amber_cube_karavan_very_ancient	Karavan Very Ancient Amber Cube	a	the	Karavan Very Ancient Amber Cubes	\d	the	
+_10574B040C79FBA5	amber_cube_matis_ancient	Matis Ancient Amber Cube	a	the	Matis Ancient Amber Cubes	\d	the	
+_42201290F110BD45	amber_cube_matis_recent	Matis Recent Amber Cube	a	the	Matis Recent Amber Cubes	\d	the	
+_4AD08B3D4EC88AAD	amber_cube_matis_very_ancient	Matis Very Ancient Amber Cube	a	the	Matis Very Ancient Amber Cubes	\d	the	
+_94C52B11C79EA5A5	amber_cube_tryker_ancient	Tryker Ancient Amber Cube	a	the	Tryker Ancient Amber Cubes	\d	the	
+_29E27F5BEB2EB879	amber_cube_tryker_recent	Tryker Recent Amber Cube	a	the	Tryker Recent Amber Cubes	\d	the	
+_85249CABCEC044DD	amber_cube_tryker_very_ancient	Tryker Very Ancient Amber Cube	a	the	Tryker Very Ancient Amber Cubes	\d	the	
+_96573DFC28591FC1	amber_cube_zorai_ancient	Zoraï Ancient Amber Cube	a	the	Zoraï Ancient Amber Cubes	\d	the	
+_08F1120C6D37CD5E	amber_cube_zorai_recent	Zoraï Recent Amber Cube	a	the	Zoraï Recent Amber Cubes	\d	the	
+_10A17D354BEF96B9	amber_cube_zorai_very_ancient	Zoraï Very Ancient Amber Cube	a	the	Zoraï Very Ancient Amber Cubes	\d	the	
+_4B006F4536066EE8	cwtf03_pearl	Corsair Pearl	a	the	Corsair Pearls	\d	the	
+_1872BF42B7678FEC	m0709dxaca02	Lake Shell	a	the	Lake Shells	\d	the	
+_FF6A845DB1616D7D	m0194dxaca02	Peat	some	the	Peat	\d	the	
+_0B0316B901F25F7D	m0229dxaca02	Lake Root	a	the	Lake Roots	\d	the	
+_55A50C949A9EFBB7	m0224dxaca02	Kamic Thinking Moss	some	the	Kamic Thinking Moss	\d	the	
+_55F1A9E3E85E2F56	m0194dxaca04	Mektoub Dropping	a	the	Mektoub Droppings	\d	the	
+_CA9539D4A91C468B	m0201dxaca02	Waterfall Pearl	a	the	Waterfall Pearls	\d	the	
+_83E0AEA12758D718	m0194dxaca05	Bone	a	the	Bones	\d	the	
+_6A6918129F199455	m0229dxaca03	Root	a	the	Roots	\d	the	
+_8814699BA3F8F63C	m0706dxaca02	Psykopla Spore	a	the	Psykopla Spores	\d	the	
+_2D1A1C27E185D84D	m0194dxaca03	Garbage	some	the	Garbage	\d	the	
+_AAB9900DA2FA90C7	m0684ccpca02	Fossil	a	the	Fossils	\d	the	
+_A7B210C06A40F4B4	m0707dxaca02	Mud	some	the	Mud	\d	the	
+_5C68D5A061E0CF01	cwmf03_bag	Package to deliver	a	the	Packages to deliver	\d	the	
+_8DAA130662E2CC41	cwmf03_purse	Little Purse	a	the	Little Purses	\d	the	
+_84D0CD264740551E	cwff03_egg	Goari Egg	a	the	Goari Eggs	\d	the	
+_30EAD1F19E862CB7	itforagefyros_1	Krat	a	the	Krat	\d	the	
+_440E390B5D55391D	itforagematis_1	Merena	a	the	Merena	\d	the	
+_2B69E4F056F7B0AA	itforagetryker_1	Pik	a	the	Pik	\d	the	
+_DFCE668F03D9AE9D	itforagezorai_1	Taï-Sui'Kuk	a	the	Taï-Sui'Kuk	\d	the	
+_BA6D78FD2C8AB833	sfxitforagefyros_1	Krat	a	the	Krat	\d	the	
+_421D6C80C58E010D	sfxitforagematis_1	Merena	a	the	Merena	\d	the	
+_7B5C151EE949D8B8	sfxitforagetryker_1	Pik	a	the	Pik	\d	the	
+_62064CDDE5B63097	sfxitforagezorai_1	Taï-Sui'Kuk	a	the	Taï-Sui'Kuk	\d	the	
+_6DF3A29EA1F42EBF	ke0904_big_package	Heavy Package	a	the	Heavy Packages	\d	the	
+_9144DFF07E5B90D7	ke0904_light_package	Light Package	a	the	Light Packages	\d	the	
+_F64F396D07DD63AB	system_mp_choice_black	Choice Generic Raw Material (Black)	a	the	Choice Generic Raw Materials (Black)	\d	the	
+_EC092C92BBFDCDCA	system_mp_choice_blue	Choice Generic Raw Material (Blue)	a	the	Choice Generic Raw Materials (Blue)	\d	the	
+_F9B04D6D07FD93A3	system_mp_choice_green	Choice Generic Raw Material (Green)	a	the	Choice Generic Raw Materials (Green)	\d	the	
+_AF185AE2A6838ADF	system_mp_choice_purple	Choice Generic Raw Material (Purple)	a	the	Choice Generic Raw Materials (Purple)	\d	the	
+_A2D446911624AAAA	system_mp_choice_red	Choice Generic Raw Material (Red)	a	the	Choice Generic Raw Materials (Red)	\d	the	
+_B8B8571E85ED0678	system_mp_choice_turquoise	Choice Generic Raw Material (Turquoise)	a	the	Choice Generic Raw Materials (Turquoise)	\d	the	
+_8CC20ED2220D0CBF	system_mp_choice_white	Choice Generic Raw Material (White)	a	the	Choice Generic Raw Materials (White)	\d	the	
+_8F941DA2C74C90F6	event_barrel_of_beer	Barrel of Lakes Beer	a	the	Barrels of Lakes Beer	\d	the	
+_CEDF5E74EB06158C	event_barrel_of_shooki_liquor	Barrel of Shooki Liquor	a	the	Barrels of Shooki Liquor	\d	the	
+_8797D1B6F8D32524	event_barrel_of_water	Barrel of Lake Water	a	the	Barrels of Lake Water	\d	the	
+_9D681018DEB96CB0	event_blood	Blood	some	the	Blood	\d	the	
+_A0F838BC6AF78CCC	event_goo	Goo	some	the	Goo	\d	the	
+_4A0809AB7AC24C97	event_incandescent_wood	Incandescent Wood	some	the	Incandescent Wood	\d	the	
+_97B7824B500FC57F	event_lakes_beer	Lakes Beer	some	the	Lakes Beer	\d	the	
+_8F9D1CE8B4EE400B	event_magnetized_amber	Magnetized Amber	a	the	Magnetized Amber	\d	the	
+_94208A4E6EF63202	event_magnetized_amber_sphere	Sphere Magnetized Amber	a	the	Sphere Magnetized Amber	\d	the	
+_27360CA7E5B924AE	event_meat	Meat	some	the	Meats	\d	the	
+_87D181F46B485C08	event_missive	Missive	a	the	Missives	\d	the	
+_71D8B6A365ACBBF2	event_missive_fyros	Fyros Missive	a	the	Fyros Missives	\d	the	
+_F5484BE38CDD6E9F	event_missive_kami	Kami Missive	a	the	Kami Missives	\d	the	
+_F83843593C7B1FB6	event_missive_kara	Karavan Missive	a	the	Karavan Missives	\d	the	
+_33D89EA5DEDC63E1	event_missive_matis	Matis Missive	a	the	Matis Missives	\d	the	
+_39179880BF0CCB91	event_missive_tryker	Tryker Missive	a	the	Tryker Missives	\d	the	
+_76377E1F7E0D93FC	event_missive_zorai	Zoraï Missive	a	the	Zoraï Missives	\d	the	
+_B6E66FE36225CADD	event_purified_sap	Purified Sap	some	the	Purified Sap	\d	the	
+_F2B92263341A72E5	event_shooki_liquor	Shooki Liquor	some	the	Shooki Liquor	\d	the	
+_29A7A5D7D67F5FA5	event_taliari_pearl_black	Black Taliari Pearl	a	the	Black Taliari Pearls	\d	the	
+_2410D9A90BF29D15	event_taliari_pearl_blue	Blue Taliari Pearl	a	the	Blue Taliari Pearls	\d	the	
+_015AA2E3EE8B6DE7	event_taliari_pearl_violet	Violet Taliari Pearl	a	the	Violet Taliari Pearls	\d	the	
+_EBB88CB1AA47389B	winch	Winch	a	the	Winchs	\d	the	
+_6598E09CD4E5BC94	winch_2	Winch	a	the	Winchs	\d	the	
+_6598E09C14F5BC94	winch_3	Winch	a	the	Winchs	\d	the	
+_E8C884B2A4DAD8AB	secator	Secator	a	the	Secators	\d	the	
+_6539707AA7A9C49C	secator_2	Secator	a	the	Secators	\d	the	
+_6539707BA7A9C49C	secator_3	Secator	a	the	Secators	\d	the	
+_66B9B8B0E67AB0AC	scraper	Scraper	a	the	Scrapers	\d	the	
+_290A4076A7FA8498	scraper_2	Scraper	a	the	Scrapers	\d	the	
+_290A4077A7FA8498	scraper_3	Scraper	a	the	Scrapers	\d	the	
+_2E4A00ACAFF878AB	brush	Brush	a	the	Brushes	\d	the	
+_6E0BFC7EDD66B0A6	brush_2	Brush	a	the	Brushes	\d	the	
+_6E0BFC7EDD76B0A6	brush_3	Brush	a	the	Brushes	\d	the	
+_F713547E87315100	cattlestick	Cattle Stick	a	the	Cattle Sticks	\d	the	
+_3837C68A078F510E	cattlestick_2	Cattle Stick	a	the	Cattle Sticks	\d	the	
+_3837C68A078F510F	cattlestick_3	Cattle Stick	a	the	Cattle Sticks	\d	the	
+_5BB592DEC824818E	mountingstick	Mounting Stick	a	the	Mounting Sticks	\d	the	
+_E2EA8AE2C512BE8A	mountingstick_2	Mounting Stick	a	the	Mounting Sticks	\d	the	
+_E2EA8AE2C522BE8A	mountingstick_3	Mounting Stick	a	the	Mounting Sticks	\d	the	
+_581C91B3EC59648F	petstick	Pet Stick	a	the	Pet Sticks	\d	the	
+_BA8A8C10E5F76BD0	petstick_2	Pet Stick	a	the	Pet Sticks	\d	the	
+_BA8A9010E5F76BD0	petstick_3	Pet Stick	a	the	Pet Sticks	\d	the	
+_6C78C0A521CAACA9	chopper	Butcher's Knife	a	the	Butcher Knives	\d	the	
+_2C29146667C99897	chopper_2	Chopper	a	the	Choppers	\d	the	
+_2C29146767C99897	chopper_3	Chopper	a	the	Choppers	\d	the	
+_2F38D0AB2A57108C	drill	Drill	a	the	Drills	\d	the	
+_AB19C87F10E5CCA5	drill_2	Drill	a	the	Drills	\d	the	
+_AB19C87F50F5CCA5	drill_3	Drill	a	the	Drills	\d	the	
+_EA383482AD482C56	grip	Grip	a	the	Grips	\d	the	
+_E2D80CA2F0F4BB76	grip_2	Grip	a	the	Grips	\d	the	
+_22D80CA2F0F4BF76	grip_3	Grip	a	the	Grips	\d	the	
+_AB98B0B32B68549A	stick	Stick	a	the	Sticks	\d	the	
+_E4A9149FD3E5C89A	stick_2	Stick	a	the	Sticks	\d	the	
+_E4A9149F13F5C89A	stick_3	Stick	a	the	Sticks	\d	the	
+_2C3898B32BE85494	stake	Stake	a	the	Stakes	\d	the	
+_6C887CA2E8771898	phial	Phial	a	the	Phials	\d	the	
+_1ED36935B6F1BE32	iccm2ms_2	Magic Amplifier	a	the	Magic Amplifiers	\d	the	
+_1ED36936B6F1BE32	iccm2ms_3	Magic Amplifier	a	the	Magic Amplifiers	\d	the	
+_F0093121888B44F3	r_06_08_phial_full	Phial	a	the	Phials	\d	the	
+_FC6CAD2C67ECB821	r_06_08_report	Report	a	the	Reports	\d	the	
+_A6098DA120A6473F	r_06_09_kizoar_element	Lethal Kizoar Wing	a	the	Lethal Kizoar Wings	\d	the	
+_FC6CAD2C67FCB821	r_06_09_report	Report	a	the	Reports	\d	the	
+_3555F7DD2126222F	rpjob_elementary	Basic Occupation	a	the	Basic Occupations	\d	the	
+_9DA562B26F425A61	rpjob_advanced	Advanced Occupation	an	the	Advanced Occupations	\d	the	
+_16515F8222A6FA6C	rpjob_roleplay	Basic Occupation	a	the	Basic Occupations	\d	the	
+_85B4A1C5D99F7053	rpjobitem_certifications	Master's Instrument	a	the	Master's Instruments	\d	the	
+_0F3D776412F0C65C	rpjob_200	Apprentice Butcher	an	of	Apprentice Butcher	\d	of	
+_FA0E017088640A01	rpjobitem_200_a0	Butchering Components	some	the	Butchering Components	\d	the	
+_99DB2BEBE9ECCE42	rpjobitem_200_a1	Greater Butchering Components	some	the	Greater Buthering Components	\d	the	
+_06BEF7FF65B8D31A	rpjobitem_200_b0	Herbivore Meat	some	the	Herbivore Meats	\d	the	
+_8BA219614946FD14	rpjobitem_200_b1	Prime Herbivore Meat	some	the	Prime Herbivore Meats	\d	the	
+_CD7CDED57FF3D638	rpjobitem_200_c0	Leg of Yubo	some	the	Legs of Yubo	\d	the	
+_9BAFD3E438E40AA6	rpjobitem_200_c1	Bodoc Steak	some	the	Bodoc Steaks	\d	the	
+_4DE37ABDC975C42C	rpjobitem_200_c2	Giblet of Arma	some	the	Giblets of Arma	\d	the	
+_DBFFA3DD7A743EA0	rpjobitem_200_c3	Fillet of Arana	some	the	Fillets of Arana	\d	the	
+_327C270227963388	rpjobitem_200_c4	Sirloin of Madakam	some	the	Sirloins of Madakam	\d	the	
+_CE21AF717EA685F2	rpjobitem_200_c5	Shalah Ribs	some	the	Shalah Ribs	\d	the	
+_CDCCBF665780A66F	rpjob_201	Apprentice Florist	an	of	Apprentice Florist	\d	of	
+_CA02022225F6448B	rpjobitem_201_a0	Flower Supply Certificates	some	the	Flower Supply Certificates	\d	the	
+_1D5F7FB6237E14C7	rpjobitem_201_a1	Abundant Flower Supply Certificates	some	the	Abondant Flower Certificates	\d	the	
+_9279471FFE4CC296	rpjobitem_201_b0	Flower Maintenance certificates	some	the	Flower Maintenance Certificates	\d	the	
+_84A75C031EE9E86D	rpjobitem_201_b1	Perfect Flower Maintenance Certificates	some	the	Perfect Flower Maintenance Certificates	\d	the	
+_4DE5D24DCDD1C441	rpjobitem_201_c0	Basic Bouquet	a	the	Basic Bouquets	\d	the	
+_99057FAA7423B24A	rpjobitem_201_c1	Mystia Bouquet	a	the	Mystia Bouquets	\d	the	
+_1549BF9C53E6B374	rpjobitem_201_c2	Fallenor Bouquet	a	the	Fallenor Bouquets	\d	the	
+_54B9EB9A5486AB7E	rpjobitem_201_c3	Folially Bouquet	a	the	Folially Bouquets	\d	the	
+_17F32FA33544FA48	rpjobitem_201_c4	Floris Bouquet	a	the	Floris Bouquets	\d	the	
+_5385F2650ED1C461	rpjobitem_201_c5	Nexus Bouquet	a	the	Nexus Bouquets	\d	the	
+_CE3CB77612E0BA6C	rpjob_205	Apprentice Medic	an	of	Apprentice Medic	\d	of	
+_B53CF91C99F90DC1	rpjobitem_205_a0	Bandages	some	the	Bandages	\d	the	
+_2B07B78E8CF29642	rpjobitem_205_a1	Strong Bandages	some	the	Strong Bandages	\d	the	
+_743929FCDDBAA464	rpjobitem_205_b0	Balsams	some	the	Balsams	\d	the	
+_94A9AF8A14B637B5	rpjobitem_205_b1	Powerful Balsams	some	the	Powerful Balsams	\d	the	
+_7EB29CFA8C1797C5	rpjobitem_205_c0	Small First-Aid Kit	a	the	Small First-Aid Kits	\d	the	
+_538388330BB5C467	rpjobitem_205_c1	First-Aid Kit	a	the	First-Aid Kits	\d	the	
+_BF2E53D49338E646	rpjobitem_205_c2	Prevention Kit	a	the	Prevention Kits	\d	the	
+_B38B603148339710	rpjobitem_205_c3	Advanced Care Kit	an	the	Advanced Care Kits	\d	the	
+_18342E325DAFB652	rpjobitem_205_c4	Survival Kit	a	the	Survival Kits	\d	the	
+_0D4FBA11C061F881	rpjobitem_205_c5	Fast Regeneration Kit	a	the	Fast Regeneration Kits	\d	the	
+_E2F25C48324C5FFA	itoshovelgarden	Trowel	a	the	Trowels	\d	the	
+_5E6454A1077EE1EF	lucky_flower	Lucky Flower	a	the	Lucky Flowers	\d	the	
+_8220BB29E86B80CF	rpjob_202	Apprentice Water-Carrier	an	of	Apprentice Water-Carrier	\d	of	
+_67392C59EBA7C4A6	bucket	Bucket	a	the	 Buckets	\d	the	
+_7B3AF6F2CEF30E8C	aqua_speed	Aquatic Propulsor	an	the	Aquatic Propulsors	\d	the	
+_9CBDFA15261AEF9B	rpjobitem_202_a0	Water Quality Certificates	some	the	Water Quality Certificates	\d	the	
+_14F6CF81BDAD4A14	rpjobitem_202_a1	Good Water Quality Certificates	some	the	Good Water Quality Certificates	\d	the	
+_8FA7518A0D4B353F	rpjobitem_202_b0	Report of the Commissioner Sender	a	the	Reports of the Commissioner Sender	\d	the	
+_776BC2D1B1D15237	rpjobitem_202_b1	Report of Excellence of the Commissioner Sender	a	the	Reports of Excellence of the Commissioner Sender	\d	the	
+_AE2DCA0C821C28BB	rpjobitem_202_c0	Small Flask of Drab Water	a	the	Small Flasks of Drab Water	\d	the	
+_87539C3D99596890	rpjobitem_202_c1	Small Flask of Water	a	the	Small Flasks of Water	\d	the	
+_D92A8AA6505C5EE4	rpjobitem_202_c2	Small Flask of Refreshing Water	a	the	Small Flasks of Refreshing Water	\d	the	
+_C0D3AEEC0612B36C	rpjobitem_202_c3	Small Flask of Exhilarating Water	a	the	Small Flasks of Exhilarating Water	\d	the	
+_0072F537AA1796CA	rpjobitem_202_c4	Small Flask of Purifying water	a	the	Small Flasks of Purifying Water	\d	the	
+_BD7FC60DAA45DA62	rpjobitem_202_c5	Small Flask of Healing water	a	the	Small Flasks of Healing Water	\d	the	
+_263DA69ABDA01117	medical_kit	Kit of Supreme Healing	a	the	Kits of Supreme Healing	\d	the	
+_6EBE86E6562EFCAD	rpjob_203	Apprentice Magnetic Cartographer	an	of	Apprentice Magnetic Cartographer	\d	of	
+_70CC20A4644904A7	stylet	Stylus	a	the	Stylus	\d	the	
+_3CFE0C58358826A3	protect_amber	Amber of Protection	an	the	 Ambers of Protection	\d	the	
+_0A2BCBBC6C52B8AB	rpjobitem_203_a0	Fragment of Magnetic Fields Map	a	the	Fragments of Magnetic Fields Map	\d	the	
+_12002DE0E31C5EFB	rpjobitem_203_a1	Fragment of Precise Magnetic Fields Map	a	the	Fragments of Precise Magnetic Fields Map	\d	the	
+_53F7BE95D19BA24B	rpjobitem_203_b0	List of Magnetic Amplitudes	a	the	Lists of Magnetic Amplitudes	\d	the	
+_33A3546EF1473824	rpjobitem_203_b1	List of Precise Magnetic Amplitudes	a	the	Lists of Precise Magnetic Amplitudes	\d	the	
+_F95F39A430EE2F92	rpjobitem_203_c0	Map of Minor Magnetism	a	the	Maps of Minor Magnetism	\d	the	
+_049573BB0B260983	rpjobitem_203_c1	Map of Primary Magnetism	a	the	Maps of Primary Magnetism	\d	the	
+_3EF55681E5E5EC90	rpjobitem_203_c2	Map of Secondary Magnetism	a	the	Maps of Secondary Magnetism	\d	the	
+_3E4215A07CF6F956	rpjobitem_203_c3	Map of Tertiary Magnetism	a	the	Maps of Tertiary Magnetism	\d	the	
+_CEE2AD5AB38D2E18	rpjobitem_203_c4	Map of Medium Magnetism	a	the	Maps of Medium Magnetism	\d	the	
+_3AB021B1F9640567	rpjobitem_203_c5	Map of Major Magnetism	a	the	Maps of Major Magnetism	\d	the	
+_A518DB81926887CF	rpjob_204	Apprentice Toolmaker	an	of	Apprentice Toolmaker	\d	of	
+_E1873693C8613D0D	tools_ticket	Improved Tool	an	the	Improved Tools	\d	the	
+_18F46B65C6E278F1	rpjobitem_204_a0	Materials for the Handle	some	the	Materials for the Handle	\d	the	
+_DB279794BBC5CE98	rpjobitem_204_a1	Sturdy Materials for the Handle	some	the	Sturdy Materials for the Handle	\d	the	
+_38923576A7D8C1EB	rpjobitem_204_b0	Materials for the Main Element	some	the	Materials for the Main Element	\d	the	
+_F7878891ADC1AA48	rpjobitem_204_b1	Sturdy Materials for the Main Element	some	the	Sturdy Materials for the Main Element	\d	the	
+_D231428A5E6C0645	rpjobitem_204_c0	Basic Tool	a	the	Basic Tools	\d	the	
+_0F4F0EC90C56064B	rpjobitem_204_c1	Practical Tool	a	the	Practical Tools	\d	the	
+_96C15662F8A95183	rpjobitem_204_c2	Clever Tool	a	the	Clever Tools	\d	the	
+_6BB3A7ED4FD7CE09	rpjobitem_204_c3	Productive Tool	a	the	Productive Tools	\d	the	
+_D46FEED09267E647	rpjobitem_204_c4	Outstanding Tool	a	the	Outstanding Tools	\d	the	
+_B2E66858ED0D3AB8	rpjobitem_204_c5	Revolutionary Tool	a	the	Revolutionary Tools	\d	the	
+_5F25EA734694013B	butcher_knife	Butcher's Knife	a	the	Butcher's Knives	\d	the	
+_5EDEA4DE7F569105	tp_kami_almati	Kami Teleporter Pact for Almati Wood	a	the	Kami Teleporter Pacts for Almati Wood	\d	the	
+_A3A9478D123A5BB9	rpjob_206	Apprentice Larvester	an	of	Apprentice Larvester	\d	of	
+_3351407B3F6119F9	large_phial	Larvae Phial	a	the	Larvae Phials	\d	the	
+_801F13A2BDA5C5A2	tp_kara_almati	Karavan Teleporter Pact for Almati Wood	a	the	Karavan Teleporter Pacts for Almati Wood	\d	the	
+_D5C3138802B88A3D	rpjobitem_206_a0	Primary Larva	a	the	Primary Larvae	\d	the	
+_7D8FC42BC571F818	rpjobitem_206_a1	Sublime Primary Larva	a	the	Sublime Primary Larvae	\d	the	
+_6998FEF991A55F65	rpjobitem_206_b0	Secondary Larva	a	the	Secondary Larvae	\d	the	
+_E20E6916072F140D	rpjobitem_206_b1	Sublime Secondary Larva	a	the	Sublime Secondary Larvae	\d	the	
+_CF224A7D6AAF89F8	rpjobitem_206_c0	Dried Larva	a	the	Dried Larvae	\d	the	
+_D1251A398D8DEE3A	rpjobitem_206_c1	Small Larva	a	the	Small Larvae	\d	the	
+_BF814A74B5AFBCCF	rpjobitem_206_c2	Tonic Larva	a	the	Tonic Larvae	\d	the	
+_58F878F12F3DCFC8	rpjobitem_206_c3	Stimulating Larva	a	the	Stimulating Larvae	\d	the	
+_A9B5D3BF2869B778	rpjobitem_206_c4	Energizing Larva	an	the	Energizing Larvae	\d	the	
+_52023686AEAF8906	rpjobitem_206_c5	Power Larva	a	the	Power Larvae	\d	the	
+_639F5992EBFB4D73	tp_karavan_almati	Karavan Teleporter Pact for Almati Wood	a	the	Karavan Teleporter Pacts for Almati Wood	\d	the	
+_274FB0312F39F783	rpjob_207	Apprentice Scrollmaker	a	of	Apprentice Scrollmaker	\d	of	
+_392FBC14BAEA17EC	scrollmaker	Scroll Making Tool	a	the	Scroll Making Tool	\d	the	
+_E75A811DAD79689E	parchment	Parchment	a	the	Parchments	\d	the	
+_09772876C79B9A18	rpjobitem_207_a0	Parchment Manufacturing Materials	some	the	Parchment Manufacturing Materials	\d	the	
+_F93F20C9A7B3E499	rpjobitem_207_a1	Greater Parchment Manufacturing Materials	some	the	Greater Parchment Manufacturing Materials	\d	the	
+_EB49342F63EBB8ED	rpjobitem_207_b0	Ink Manufacturing Materials	some	the	Ink Manufacturing Materials	\d	the	
+_563A6F383DC3C617	rpjobitem_207_b1	Greater Ink Manufacturing Materials	some	the	Greater Ink Manufacturing Materials	\d	the	
+_DB1D91120AE6AF8C	rpjobitem_207_c0	Basic Writing Necessities	some	the	Basic Writing Necessities	\d	the	
+_6E6B62C6C9369DC7	rpjobitem_207_c1	Modest Writing Necessities	some	the	Modest Writing Necessities	\d	the	
+_70AC6EC68A3661B1	rpjobitem_207_c2	Simple Writing Necessities	some	the	Simple Writing Necessities	\d	the	
+_9F94D3C9DD48B783	rpjobitem_207_c3	Handwriting Necessities	some	the	Handwriting Necessities	\d	the	
+_207D79354C64A499	rpjobitem_207_c4	Fine Writing Necessities	some	the	Fine Writing Necessities	\d	the	
+_F83712A269A78100	rpjobitem_207_c5	Masterful Writing Necessities	some	the	Masterful Writing Necessities	\d	the	
+_C09D3E031C548ACF	water_barrel	Stimulating Water	a	the	Stimulating Waters	\d	the	
+_56976F432904EFBC	rpjobitem_200_c6	Tongue of Ploderos	a	the	Tongue of Ploderos	\d	the	
+_AAE466A5BD78CE5B	rpjobitem_201_c6	Canopy Bouquet	a	the	Canopy Bouquets	\d	the	
+_4F173424D5C4699F	rpjobitem_202_c6	Small Flask of Holy Water	a	the	Small Flasks of Holy Water	\d	the	
+_B9B60DC7CC06D51F	rpjobitem_203_c6	Map of Absolute Magnetism	a	the	Maps of Absolute Magnetism	\d	the	
+_8F0C7EBE9408E249	rpjobitem_204_c6	Fantastic Tool	a	the	Fantastic Tools	\d	the	
+_5B31142984912033	rpjobitem_205_c6	Kit of Supreme Healing	a	the	Kits of Supreme Healing	\d	the	
+_4BE08C5B9E1C0FDD	rpjobitem_206_c6	Extraordinary Larva	an	the	Extraordinary Larvae	\d	the	
+_E324C2CFE2D8A689	rpjobitem_207_c6	Artful Writing Necessities	some	the	Artful Writing Necessities	\d	the	
+_7F7B0EEE77E932E5	unstable_goo_vial	Unstable Potion	an	the	Unstable Potions	\d	the	
+_FDEBE33068537FC4	shopan_staff_crate	Shopan Staff of the Masters of the Goo	a	the	Shopan Staffs of the Masters of the Goo	\d	the	
+_720F99C85F2AF504	fyler_dagger_crate	Fyler Dagger of the Goo Heads	a	the	Fyler Daggers of the Goo Heads	\d	the	
+_F5AF2C76FDB63B79	makam_bowrifle_crate	Ma-Kam Bowrifle of the Antikamis	a	the	Ma-Kam Bowrifles of the Antikamis	\d	the	
+_8D36C2C75C0C23D1	nanka_mace_crate	Nanka Mace of the Black Circle	a	the	Nanka Maces of the Black Circle	\d	the	
+_9BF7A3AD73F5D2B9	iccalb	Tribe Commander Light Boots	\d	the	Tribe Commander Light Boots	\d	the	
+_0FB1431AE993C3A6	iccalg	Tribe Commander Light Gloves	\d	the	Tribe Commander Light Gloves	\d	the	
+_5B17D79FF7F50AB9	iccalp	Tribe Commander Light Pants	\d	the	Tribe Commander Light Pants	\d	the	
+_3C3DCCD5E7D677D5	iccals	Tribe Commander Light Sleeves	\d	the	Tribe Commander Light Sleeves	\d	the	
+_618ACE9206675385	iccalv	Tribe Commander Light Vest	a	the	Tribe Commander Light Vest	\d	the	
+_31BB07FD667629E1	pvp_aura_lifemage_c0	Feeble Halo of the Mage	a	the	Feeble Halos of the Mage	\d	the	
+_71BB070CE72549EC	pvp_aura_lifemage_c1	Simple Halo of the Mage	a	the	Simple Halos of the Mage	\d	the	
+_0439C454E2DAE454	pvp_aura_lifemage_c2	Effective Halo of the Mage	an	the	Effective Halos of the Mage	\d	the	
+_F1BB070CE7E529EC	pvp_aura_lifemage_c3	Powerful Halo of the Mage	a	the	Powerful Halos of the Mage	\d	the	
+_F32BD2793F5B6BE5	pvp_aura_lifemage_c4	Magnificent Halo of the Mage	a	the	Magnificent Halos of the Mage	\d	the	
+_CD8F79B97EE1B9A7	pvp_aura_lifemage_c5	Mythical Halo of the Mage	a	the	Mythical Halos of the Mage	\d	the	
+_A0D73511931095E0	pvp_aura_lifemage_c6	Divine Halo of the Mage	a	the	Divine Halos of the Mage	\d	the	
+_315C0775030C79EC	pvp_aura_lifetank_c0	Feeble Halo of the Warrior	a	the	Feeble Halos of the Warrior	\d	the	
+_715C078484BB99F7	pvp_aura_lifetank_c1	Simple Halo of the Warrior	a	the	Simple Halos of the Warrior	\d	the	
+_046081C3E78B005E	pvp_aura_lifetank_c2	Effective Halo of the Warrior	an	the	Effective Halos of the Warrior	\d	the	
+_F15C0784847B79F7	pvp_aura_lifetank_c3	Powerful Halo of the Warrior	a	the	Powerful Halos of the Warrior	\d	the	
+_CEC1068A01FC8757	pvp_aura_lifetank_c4	Magnificent Halo of the Warrior	a	the	Magnificent Halos of the Warrior	\d	the	
+_CDB636288392D5B1	pvp_aura_lifetank_c5	Mythical Halo of the Warrior	a	the	Mythical Halos of the Warrior	\d	the	
+_22D7FE86AFE1DDE0	pvp_aura_lifetank_c6	Divine Halo of the Warrior	a	the	Divine Halos of the Warrior	\d	the	
+_3B8D856E2219C78F	pvp_aura_saplife_c0	Feeble Halo of Sap	some	the	Feeble Halos of Sap	\d	the	
+_FE9D856EE679B397	pvp_aura_saplife_c1	Simple Halo of Sap	some	the	Simple Halos of Sap	\d	the	
+_1742CC9D56AA04A3	pvp_aura_saplife_c2	Effective Halo of Sap	some	the	Effective Halos of Sap	\d	the	
+_FEBD856EE679A38F	pvp_aura_saplife_c3	Powerful Halo of Sap	some	the	Powerful Halos of Sap	\d	the	
+_FA3C48FB84505985	pvp_aura_saplife_c4	Magnificent Halo of Sap	some	the	Magnificent Halos of Sap	\d	the	
+_EB74610A12CAC518	pvp_aura_saplife_c5	Mythical Halo of Sap	some	the	Mythical Halos of Sap	\d	the	
+_B9C933F92725D818	pvp_aura_saplife_c6	Divine Halo of Sap	some	the	Divine Halos of Sap	\d	the	
+_B5CD235EC18C45E3	pvp_aura_stamlife_c0	Feeble Halo of Stamina	a	the	Feeble Halos of Stamina	\d	the	
+_F5CD236D423B65EE	pvp_aura_stamlife_c1	Simple Halo of Stamina	a	the	Simple Halos of Stamina	\d	the	
+_C30099BDA4FA2C62	pvp_aura_stamlife_c2	Effective Halo of Stamina	an	the	Effective Halos of Stamina	\d	the	
+_75CD236D42FB45EE	pvp_aura_stamlife_c3	Powerful Halo of Stamina	a	the	Powerful Halos of Stamina	\d	the	
+_4D720E73C43C674E	pvp_aura_stamlife_c4	Magnificent Halo of Stamina	a	the	Magnificent Halos of Stamina	\d	the	
+_8C564E22400101B5	pvp_aura_stamlife_c5	Mythical Halo of Stamina	a	the	Mythical Halos of Stamina	\d	the	
+_E088D67FAD1079FB	pvp_aura_stamlife_c6	Divine Halo of Stamina	a	the	Divine Halos of Stamina	\d	the	
+_0EA09D8F43BF7987	pvp_boost_lifemage_c0	Feeble Potion of the Mage	a	the	Feeble Potions of the Mage	\d	the	
+_0EA0D995023FA588	pvp_boost_lifemage_c1	Simple Potion of the Mage	a	the	Simple Potions of the Mage	\d	the	
+_11FE4515A4C42C69	pvp_boost_lifemage_c2	Effective Potion of the Mage	an	the	Effective Potions of the Mage	\d	the	
+_B6BA348D828E8D8A	pvp_boost_lifemage_c3	Powerful Potion of the Mage	a	the	Powerful Potions of the Mage	\d	the	
+_1634A23FB94BB83D	pvp_boost_lifemage_c4	Magnificent Potion of the Mage	a	the	Magnificent Potions of the Mage	\d	the	
+_6AD4DA87C01B798C	pvp_boost_lifemage_c5	Mythical Potion of the Mage	a	the	Mythical Potions of the Mage	\d	the	
+_EC1AF28A837DA0B4	pvp_boost_lifemage_c6	Divine Potion of the Mage	a	the	Divine Potions of the Mage	\d	the	
+_52B0B59B87FF8987	pvp_boost_lifetank_c0	Feeble Potion of the Warrior	a	the	Feeble Potions of the Warrior	\d	the	
+_52B0F1A1467FB588	pvp_boost_lifetank_c1	Simple Potion of the Warrior	a	the	Simple Potions of the Warrior	\d	the	
+_6BCF891C2635F5D8	pvp_boost_lifetank_c2	Effective Potion of the Warrior	an	the	Effective Potions of the Warrior	\d	the	
+_52B0F1A145FFB58A	pvp_boost_lifetank_c3	Powerful Potion of the Warrior	a	the	Powerful Potions of the Warrior	\d	the	
+_D934E24655B25D4A	pvp_boost_lifetank_c4	Magnificent Potion of the Warrior	a	the	Magnificent Potions of the Warrior	\d	the	
+_C4A51E8E428C42FB	pvp_boost_lifetank_c5	Mythical Potion of the Warrior	a	the	Mythical Potions of the Warrior	\d	the	
+_C7B03E9C838FA026	pvp_boost_lifetank_c6	Divine Potion of the Warrior	a	the	Divine Potions of the Warrior	\d	the	
+_1EDF10CC6AC01DDB	pvp_boost_saplife_c0	Feeble Potion of Sap	some	the	Feeble Potions of Sap	\d	the	
+_5EDF10DBEB6F3DE6	pvp_boost_saplife_c1	Simple Potion of Sap	some	the	Simple Potions of Sap	\d	the	
+_96768C282708AB88	pvp_boost_saplife_c2	Effective Potion of Sap	some	the	Effective Potions of Sap	\d	the	
+_DEDF10DBEB2F1DE6	pvp_boost_saplife_c3	Powerful Potion of Sap	some	the	Powerful Potions of Sap	\d	the	
+_72C7AE7CB12D8CAB	pvp_boost_saplife_c4	Magnificent Potion of Sap	some	the	Magnificent Potions of Sap	\d	the	
+_5FCC418DC30F80DB	pvp_boost_saplife_c5	Mythical Potion of Sap	some	the	Mythical Potions of Sap	\d	the	
+_696CE825C69F31A5	pvp_boost_saplife_c6	Divine Potion of Sap	some	the	Divine Potions of Sap	\d	the	
+_D1119D8E45AF9982	pvp_boost_stamlife_c0	Feeble Potion of Stamina	a	the	Feeble Potions of Stamina	\d	the	
+_D111D994042FC583	pvp_boost_stamlife_c1	Simple Potion of Stamina	a	the	Simple Potions of Stamina	\d	the	
+_2EEF2D2727B4D1D2	pvp_boost_stamlife_c2	Effective Potion of Stamina	an	the	Effective Potions of Stamina	\d	the	
+_D111D99403AFC585	pvp_boost_stamlife_c3	Powerful Potion of Stamina	a	the	Powerful Potions of Stamina	\d	the	
+_58D6BA3E13217D40	pvp_boost_stamlife_c4	Magnificent Potion of Stamina	a	the	Magnificent Potions of Stamina	\d	the	
+_87C5C299430B1EF5	pvp_boost_stamlife_c5	Mythical Potion of Stamina	a	the	Mythical Potions of Stamina	\d	the	
+_4A2112834ACEC010	pvp_boost_stamlife_c6	Divine Potion of Stamina	a	the	Divine Potions of Stamina	\d	the	
+_2BA4C891D7970C50	icoanimtammo	SGM Ammo Crafting Tool	a	the	SGM Ammo Crafting Tools	\d	the	
+_AB5960C823428C6F	icoanimtarmor	SGM Armor Craft Tool	a	the	SGM Armor Craft Tools	\d	the	
+_AB2950D12342745F	icoanimtjewel	SGM Jewel Craft Tool	a	the	SGM Jewel Craft Tools	\d	the	
+_C10A910AD60E8CB5	icoanimtmwea	SGM Melee Weapon Craft Tool	a	the	SGM Melee Weapon Craft Tools	\d	the	
+_412A8114D60E8CB5	icoanimtrwea	SGM Range Weapon Craft Tool	a	the	SGM Range Weapon Craft Tools	\d	the	
+_D8512A3C46DECD3C	system_mp_extra_black	Perfect Generic Raw Material (Black)	a	the	Perfect Generic Raw Materials (Black)	\d	the	
+_0AD0F57006AAC5F4	system_mp_extra_blue	Perfect Generic Raw Material (Blue)	a	the	Perfect Generic Raw Materials (Blue)	\d	the	
+_9A91424107FEDD45	system_mp_extra_green	Perfect Generic Raw Material (Green)	a	the	Perfect Generic Raw Materials (Green)	\d	the	
+_97226694C74E4A5F	system_mp_extra_purple	Perfect Generic Raw Material (Purple)	a	the	Perfect Generic Raw Materials (Purple)	\d	the	
+_C23FF501BFDEE1D6	system_mp_extra_red	Perfect Generic Raw Material (Red)	a	the	Perfect Generic Raw Materials (Red)	\d	the	
+_46FEA7B699F01ABB	system_mp_extra_turquoise	Perfect Generic Raw Material (Turquoise)	a	the	Perfect Generic Raw Materials (Turquoise)	\d	the	
+_62D11A51C5EFED32	system_mp_extra_white	Perfect Generic Raw Material (White)	a	the	Perfect Generic Raw Materials (White)	\d	the	
+_B70993A69EE3E687	system_mp_excellent_black	Excellent Generic Raw Material (Black)	a	the	Excellent Generic Raw Materials (Black)	\d	the	
+_E1F8DECBA2C0126C	system_mp_excellent_blue	Excellent Generic Raw Material (Blue)	a	the	Excellent Generic Raw Materials (Blue)	\d	the	
+_F80993A9E0430E92	system_mp_excellent_green	Excellent Generic Raw Material (Green)	a	the	Excellent Generic Raw Materials (Green)	\d	the	
+_70C7CFE62497EBD5	system_mp_excellent_purple	Excellent Generic Raw Material (Purple)	a	the	Excellent Generic Raw Materials (Purple)	\d	the	
+_6396266C1993062B	system_mp_excellent_red	Excellent Generic Raw Material (Red)	a	the	Excellent Generic Raw Materials (Red)	\d	the	
+_D9F3E41C3DB85F0A	system_mp_excellent_turquoise	Excellent Generic Raw Material (Turquoise)	a	the	Excellent Generic Raw Materials (Turquoise)	\d	the	
+_FC0993A06274F698	system_mp_excellent_white	Excellent Generic Raw Material (White)	a	the	Excellent Generic Raw Materials (White)	\d	the	
+_29B958CBA68A90A0	web_transaction	Transaction	a	the	Transactions	\d	the	
+_2015F01C2C98F49B	rpjobloot_casket	Mysterious Casket 	a	the	Mysterious Caskets	\d	the	
+_2E488BD22789DCAB	rpjobloot_event	Mysterious Purse	a	the	Mysterious Purses	\d	the	
+_02C0AA7F32FA1A42	marauder_teleport_crystal	Marauder Teleport Crystal	a	the	Marauder Teleport Crystals	\d	the	
+_14F44666805E953D	npc_caravan_pistol_p	<GEN>npc_caravan_pistol_p						
+_5BD6D4B52B062872	arma_mount	<GEN>arma_mount						
+_D9F9E35696716241	iapd1	<GEN>iapd1						
+_19F9E35696816642	iapd2	<GEN>iapd2						
+_59F9E35696916A43	iapd3	<GEN>iapd3						
+_9AF9E35696A16E44	iapd4	<GEN>iapd4						
+_1EE47826D1239791	iapdc1	<GEN>iapdc1						
+_1EE47827D1339B91	iapdc2	<GEN>iapdc2						
+_1EE47828D1439F91	iapdc3	<GEN>iapdc3						
+_1EE47829D153A391	iapdc4	<GEN>iapdc4						
+_1EE4782612239B92	iapdd1	<GEN>iapdd1						
+_1EE4782712339F92	iapdd2	<GEN>iapdd2						
+_1EE478281243A392	iapdd3	<GEN>iapdd3						
+_1EE478291253A792	iapdd4	<GEN>iapdd4						
+_1EE4782652239F93	iapde1	<GEN>iapde1						
+_1EE478275233A393	iapde2	<GEN>iapde2						
+_1EE478285243A793	iapde3	<GEN>iapde3						
+_1EE478295253AB93	iapde4	<GEN>iapde4						
+_1EE478269223A394	iapdf1	<GEN>iapdf1						
+_1EE478279233A794	iapdf2	<GEN>iapdf2						
+_1EE478289243AB94	iapdf3	<GEN>iapdf3						
+_1EE478299253AF94	iapdf4	<GEN>iapdf4						
+_5919E35696716A43	iapf1	<GEN>iapf1						
+_9919E35696816E44	iapf2	<GEN>iapf2						
+_D919E35696917245	iapf3	<GEN>iapf3						
+_1A19E35696A17646	iapf4	<GEN>iapf4						
+_9EE4782651439793	iapfc1	<GEN>iapfc1						
+_9EE4782751539B93	iapfc2	<GEN>iapfc2						
+_9EE4782851639F93	iapfc3	<GEN>iapfc3						
+_9EE478295173A393	iapfc4	<GEN>iapfc4						
+_9EE4782692439B94	iapfd1	<GEN>iapfd1						
+_9EE4782792539F94	iapfd2	<GEN>iapfd2						
+_9EE478289263A394	iapfd3	<GEN>iapfd3						
+_9EE478299273A794	iapfd4	<GEN>iapfd4						
+_9EE47826D2439F95	iapfe1	<GEN>iapfe1						
+_9EE47827D253A395	iapfe2	<GEN>iapfe2						
+_9EE47828D263A795	iapfe3	<GEN>iapfe3						
+_9EE47829D273AB95	iapfe4	<GEN>iapfe4						
+_9EE478261243A396	iapff1	<GEN>iapff1						
+_9EE478271253A796	iapff2	<GEN>iapff2						
+_9EE478281263AB96	iapff3	<GEN>iapff3						
+_9EE478291273AF96	iapff4	<GEN>iapff4						
+_5A59E35696717A47	iapj1	<GEN>iapj1						
+_9A59E35696817E48	iapj2	<GEN>iapj2						
+_DA59E35696918249	iapj3	<GEN>iapj3						
+_1B59E35696A1864A	iapj4	<GEN>iapj4						
+_9FE4782652839797	iapjc1	<GEN>iapjc1						
+_9FE4782752939B97	iapjc2	<GEN>iapjc2						
+_9FE4782852A39F97	iapjc3	<GEN>iapjc3						
+_9FE4782952B3A397	iapjc4	<GEN>iapjc4						
+_9FE4782693839B98	iapjd1	<GEN>iapjd1						
+_9FE4782793939F98	iapjd2	<GEN>iapjd2						
+_9FE4782893A3A398	iapjd3	<GEN>iapjd3						
+_9FE4782993B3A798	iapjd4	<GEN>iapjd4						
+_9FE47826D3839F99	iapje1	<GEN>iapje1						
+_9FE47827D393A399	iapje2	<GEN>iapje2						
+_9FE47828D3A3A799	iapje3	<GEN>iapje3						
+_9FE47829D3B3AB99	iapje4	<GEN>iapje4						
+_9FE478261383A39A	iapjf1	<GEN>iapjf1						
+_9FE478271393A79A	iapjf2	<GEN>iapjf2						
+_9FE4782813A3AB9A	iapjf3	<GEN>iapjf3						
+_9FE4782913B3AF9A	iapjf4	<GEN>iapjf4						
+_DB79E35696718249	iapl1	<GEN>iapl1						
+_1B79E3569681864A	iapl2	<GEN>iapl2						
+_5B79E35696918A4B	iapl3	<GEN>iapl3						
+_9C79E35696A18E4C	iapl4	<GEN>iapl4						
+_20E47826D3A39799	iaplc1	<GEN>iaplc1						
+_20E47827D3B39B99	iaplc2	<GEN>iaplc2						
+_20E47828D3C39F99	iaplc3	<GEN>iaplc3						
+_20E47829D3D3A399	iaplc4	<GEN>iaplc4						
+_20E4782614A39B9A	iapld1	<GEN>iapld1						
+_20E4782714B39F9A	iapld2	<GEN>iapld2						
+_20E4782814C3A39A	iapld3	<GEN>iapld3						
+_20E4782914D3A79A	iapld4	<GEN>iapld4						
+_20E4782654A39F9B	iaple1	<GEN>iaple1						
+_20E4782754B3A39B	iaple2	<GEN>iaple2						
+_20E4782854C3A79B	iaple3	<GEN>iaple3						
+_20E4782954D3AB9B	iaple4	<GEN>iaple4						
+_20E4782694A3A39C	iaplf1	<GEN>iaplf1						
+_20E4782794B3A79C	iaplf2	<GEN>iaplf2						
+_20E4782894C3AB9C	iaplf3	<GEN>iaplf3						
+_20E4782994D3AF9C	iaplf4	<GEN>iaplf4						
+_E1E47826D5149BA1	iapsd1	<GEN>iapsd1						
+_E1E47827D5249FA1	iapsd2	<GEN>iapsd2						
+_E1E47828D534A3A1	iapsd3	<GEN>iapsd3						
+_E1E47829D544A7A1	iapsd4	<GEN>iapsd4						
+_96C1EB775E340C73	iapsdc1	<GEN>iapsdc1						
+_96D1EF775E440C73	iapsdc2	<GEN>iapsdc2						
+_96E1F3775E540C73	iapsdc3	<GEN>iapsdc3						
+_96F1F7775E640C73	iapsdc4	<GEN>iapsdc4						
+_96C1EF785E341073	iapsdd1	<GEN>iapsdd1						
+_96D1F3785E441073	iapsdd2	<GEN>iapsdd2						
+_96E1F7785E541073	iapsdd3	<GEN>iapsdd3						
+_96F1FB785E641073	iapsdd4	<GEN>iapsdd4						
+_96C1F3795E341473	iapsde1	<GEN>iapsde1						
+_96D1F7795E441473	iapsde2	<GEN>iapsde2						
+_96E1FB795E541473	iapsde3	<GEN>iapsde3						
+_96F1FF795E641473	iapsde4	<GEN>iapsde4						
+_96C1F77A5E341873	iapsdf1	<GEN>iapsdf1						
+_96D1FB7A5E441873	iapsdf2	<GEN>iapsdf2						
+_96E1FF7A5E541873	iapsdf3	<GEN>iapsdf3						
+_96F1037A5E641873	iapsdf4	<GEN>iapsdf4						
+_E1E478265514A3A3	iapsf1	<GEN>iapsf1						
+_E1E478275524A7A3	iapsf2	<GEN>iapsf2						
+_E1E478285534ABA3	iapsf3	<GEN>iapsf3						
+_E1E478295544AFA3	iapsf4	<GEN>iapsf4						
+_96C1EB79DE340C75	iapsfc1	<GEN>iapsfc1						
+_96D1EF79DE440C75	iapsfc2	<GEN>iapsfc2						
+_96E1F379DE540C75	iapsfc3	<GEN>iapsfc3						
+_96F1F779DE640C75	iapsfc4	<GEN>iapsfc4						
+_96C1EF7ADE341075	iapsfd1	<GEN>iapsfd1						
+_96D1F37ADE441075	iapsfd2	<GEN>iapsfd2						
+_96E1F77ADE541075	iapsfd3	<GEN>iapsfd3						
+_96F1FB7ADE641075	iapsfd4	<GEN>iapsfd4						
+_96C1F37BDE341475	iapsfe1	<GEN>iapsfe1						
+_96D1F77BDE441475	iapsfe2	<GEN>iapsfe2						
+_96E1FB7BDE541475	iapsfe3	<GEN>iapsfe3						
+_96F1FF7BDE641475	iapsfe4	<GEN>iapsfe4						
+_96C1F77CDE341875	iapsff1	<GEN>iapsff1						
+_96D1FB7CDE441875	iapsff2	<GEN>iapsff2						
+_96E1FF7CDE541875	iapsff3	<GEN>iapsff3						
+_96F1037CDE641875	iapsff4	<GEN>iapsff4						
+_E1E478265614B3A7	iapsj1	<GEN>iapsj1						
+_E1E478275624B7A7	iapsj2	<GEN>iapsj2						
+_E1E478285634BBA7	iapsj3	<GEN>iapsj3						
+_E1E478295644BFA7	iapsj4	<GEN>iapsj4						
+_96C1EB7DDF340C79	iapsjc1	<GEN>iapsjc1						
+_96D1EF7DDF440C79	iapsjc2	<GEN>iapsjc2						
+_96E1F37DDF540C79	iapsjc3	<GEN>iapsjc3						
+_96F1F77DDF640C79	iapsjc4	<GEN>iapsjc4						
+_96C1EF7EDF341079	iapsjd1	<GEN>iapsjd1						
+_96D1F37EDF441079	iapsjd2	<GEN>iapsjd2						
+_96E1F77EDF541079	iapsjd3	<GEN>iapsjd3						
+_96F1FB7EDF641079	iapsjd4	<GEN>iapsjd4						
+_96C1F37FDF341479	iapsje1	<GEN>iapsje1						
+_96D1F77FDF441479	iapsje2	<GEN>iapsje2						
+_96E1FB7FDF541479	iapsje3	<GEN>iapsje3						
+_96F1FF7FDF641479	iapsje4	<GEN>iapsje4						
+_96C1F780DF341879	iapsjf1	<GEN>iapsjf1						
+_96D1FB80DF441879	iapsjf2	<GEN>iapsjf2						
+_96E1FF80DF541879	iapsjf3	<GEN>iapsjf3						
+_96F10380DF641879	iapsjf4	<GEN>iapsjf4						
+_E1E47826D714BBA9	iapsl1	<GEN>iapsl1						
+_E1E47827D724BFA9	iapsl2	<GEN>iapsl2						
+_E1E47828D734C3A9	iapsl3	<GEN>iapsl3						
+_E1E47829D744C7A9	iapsl4	<GEN>iapsl4						
+_96C1EB7F60340C7B	iapslc1	<GEN>iapslc1						
+_96D1EF7F60440C7B	iapslc2	<GEN>iapslc2						
+_96E1F37F60540C7B	iapslc3	<GEN>iapslc3						
+_96F1F77F60640C7B	iapslc4	<GEN>iapslc4						
+_96C1EF806034107B	iapsld1	<GEN>iapsld1						
+_96D1F3806044107B	iapsld2	<GEN>iapsld2						
+_96E1F7806054107B	iapsld3	<GEN>iapsld3						
+_96F1FB806064107B	iapsld4	<GEN>iapsld4						
+_96C1F3816034147B	iapsle1	<GEN>iapsle1						
+_96D1F7816044147B	iapsle2	<GEN>iapsle2						
+_96E1FB816054147B	iapsle3	<GEN>iapsle3						
+_96F1FF816064147B	iapsle4	<GEN>iapsle4						
+_96C1F7826034187B	iapslf1	<GEN>iapslf1						
+_96D1FB826044187B	iapslf2	<GEN>iapslf2						
+_96E1FF826054187B	iapslf3	<GEN>iapslf3						
+_96F103826064187B	iapslf4	<GEN>iapslf4						
+_9929EF5696716244	iasd1	<GEN>iasd1						
+_D929EF5696816645	iasd2	<GEN>iasd2						
+_1929EF5696916A46	iasd3	<GEN>iasd3						
+_5A29EF5696A16E47	iasd4	<GEN>iasd4						
+_1949EF5696716A46	iasf1	<GEN>iasf1						
+_5949EF5696816E47	iasf2	<GEN>iasf2						
+_9949EF5696917248	iasf3	<GEN>iasf3						
+_DA49EF5696A17649	iasf4	<GEN>iasf4						
+_1A89EF5696717A4A	iasj1	<GEN>iasj1						
+_5A89EF5696817E4B	iasj2	<GEN>iasj2						
+_9A89EF569691824C	iasj3	<GEN>iasj3						
+_DB89EF5696A1864D	iasj4	<GEN>iasj4						
+_9BA9EF569671824C	iasl1	<GEN>iasl1						
+_DBA9EF569681864D	iasl2	<GEN>iasl2						
+_1BA9EF5696918A4E	iasl3	<GEN>iasl3						
+_5CA9EF5696A18E4F	iasl4	<GEN>iasl4						
+_A157DB8A98C37B6D	iasp	<GEN>iasp						
+_E0774BA86457B388	eroukan_b	<GEN>eroukan_b						
+_E0774BADA5A7B388	eroukan_g	<GEN>eroukan_g						
+_E0774BAEE6B7B388	eroukan_h	<GEN>eroukan_h						
+_E0774BB6E838B388	eroukan_p	<GEN>eroukan_p						
+_E0774BB9A868B388	eroukan_s	<GEN>eroukan_s						
+_E0774BBC6998B388	eroukan_v	<GEN>eroukan_v						
+_1933806510166890	iccacp	<GEN>iccacp						
+_8825065A790EE9F6	iccacp_boss_fyros_e1	<GEN>iccacp_boss_fyros_e1						
+_8825065479ADA5FD	iccacp_boss_matis_e1	<GEN>iccacp_boss_matis_e1						
+_D84451637B90113D	iccacp_boss_tryker_e1	<GEN>iccacp_boss_tryker_e1						
+_8825DE42F66D110A	iccacp_boss_zorai_e1	<GEN>iccacp_boss_zorai_e1						
+_D94580B2EAE60479	iccacp_pvp	<GEN>iccacp_pvp						
+_8825065A792DC5FB	iccahb_boss_fyros_e1	<GEN>iccahb_boss_fyros_e1						
+_8825065479CC8102	iccahb_boss_matis_e1	<GEN>iccahb_boss_matis_e1						
+_D8445163F7E0D942	iccahb_boss_tryker_e1	<GEN>iccahb_boss_tryker_e1						
+_8825DE42F68CED0F	iccahb_boss_zorai_e1	<GEN>iccahb_boss_zorai_e1						
+_8825065A797DD9FB	iccahg_boss_fyros_e1	<GEN>iccahg_boss_fyros_e1						
+_88250654791C9502	iccahg_boss_matis_e1	<GEN>iccahg_boss_matis_e1						
+_D844516338E0ED42	iccahg_boss_tryker_e1	<GEN>iccahg_boss_tryker_e1						
+_8825DE42F6DC010F	iccahg_boss_zorai_e1	<GEN>iccahg_boss_zorai_e1						
+_8825065A798DDDFB	iccahh_boss_fyros_e1	<GEN>iccahh_boss_fyros_e1						
+_88250654792C9902	iccahh_boss_matis_e1	<GEN>iccahh_boss_matis_e1						
+_D844516379E0F142	iccahh_boss_tryker_e1	<GEN>iccahh_boss_tryker_e1						
+_8825DE42F6EC050F	iccahh_boss_zorai_e1	<GEN>iccahh_boss_zorai_e1						
+_8825065A790EFDFB	iccahp_boss_fyros_e1	<GEN>iccahp_boss_fyros_e1						
+_8825065479ADB902	iccahp_boss_matis_e1	<GEN>iccahp_boss_matis_e1						
+_D84451637BE01142	iccahp_boss_tryker_e1	<GEN>iccahp_boss_tryker_e1						
+_8825DE42F66D250F	iccahp_boss_zorai_e1	<GEN>iccahp_boss_zorai_e1						
+_8825065A793E09FB	iccahs_boss_fyros_e1	<GEN>iccahs_boss_fyros_e1						
+_8825065479DDC502	iccahs_boss_matis_e1	<GEN>iccahs_boss_matis_e1						
+_D84451633BE01D42	iccahs_boss_tryker_e1	<GEN>iccahs_boss_tryker_e1						
+_8825DE42F69D310F	iccahs_boss_zorai_e1	<GEN>iccahs_boss_zorai_e1						
+_8825065A796E15FB	iccahv_boss_fyros_e1	<GEN>iccahv_boss_fyros_e1						
+_88250654790DD102	iccahv_boss_matis_e1	<GEN>iccahv_boss_matis_e1						
+_D8445163FCE02942	iccahv_boss_tryker_e1	<GEN>iccahv_boss_tryker_e1						
+_8825DE42F6CD3D0F	iccahv_boss_zorai_e1	<GEN>iccahv_boss_zorai_e1						
+_8825065A792DD5FF	iccalb_boss_fyros_e1	<GEN>iccalb_boss_fyros_e1						
+_8825065479CC9106	iccalb_boss_matis_e1	<GEN>iccalb_boss_matis_e1						
+_D8445163F720D946	iccalb_boss_tryker_e1	<GEN>iccalb_boss_tryker_e1						
+_8825DE42F68CFD13	iccalb_boss_zorai_e1	<GEN>iccalb_boss_zorai_e1						
+_8825065A797DE9FF	iccalg_boss_fyros_e1	<GEN>iccalg_boss_fyros_e1						
+_88250654791CA506	iccalg_boss_matis_e1	<GEN>iccalg_boss_matis_e1						
+_D84451633820ED46	iccalg_boss_tryker_e1	<GEN>iccalg_boss_tryker_e1						
+_8825DE42F6DC1113	iccalg_boss_zorai_e1	<GEN>iccalg_boss_zorai_e1						
+_8825065A790E0DFF	iccalp_boss_fyros_e1	<GEN>iccalp_boss_fyros_e1						
+_8825065479ADC906	iccalp_boss_matis_e1	<GEN>iccalp_boss_matis_e1						
+_D84451637B201146	iccalp_boss_tryker_e1	<GEN>iccalp_boss_tryker_e1						
+_8825DE42F66D3513	iccalp_boss_zorai_e1	<GEN>iccalp_boss_zorai_e1						
+_8825065A793E19FF	iccals_boss_fyros_e1	<GEN>iccals_boss_fyros_e1						
+_8825065479DDD506	iccals_boss_matis_e1	<GEN>iccals_boss_matis_e1						
+_D84451633B201D46	iccals_boss_tryker_e1	<GEN>iccals_boss_tryker_e1						
+_8825DE42F69D4113	iccals_boss_zorai_e1	<GEN>iccals_boss_zorai_e1						
+_8825065A796E25FF	iccalv_boss_fyros_e1	<GEN>iccalv_boss_fyros_e1						
+_88250654790DE106	iccalv_boss_matis_e1	<GEN>iccalv_boss_matis_e1						
+_D8445163FC202946	iccalv_boss_tryker_e1	<GEN>iccalv_boss_tryker_e1						
+_8825DE42F6CD4D13	iccalv_boss_zorai_e1	<GEN>iccalv_boss_zorai_e1						
+_193380579335589A	iccamb	<GEN>iccamb						
+_8825065A792DD900	iccamb_boss_fyros_e1	<GEN>iccamb_boss_fyros_e1						
+_8825065479CC9507	iccamb_boss_matis_e1	<GEN>iccamb_boss_matis_e1						
+_D8445163F730D947	iccamb_boss_tryker_e1	<GEN>iccamb_boss_tryker_e1						
+_8825DE42F68C0114	iccamb_boss_zorai_e1	<GEN>iccamb_boss_zorai_e1						
+_1933805C93856C9A	iccamg	<GEN>iccamg						
+_8825065A797DED00	iccamg_boss_fyros_e1	<GEN>iccamg_boss_fyros_e1						
+_88250654791CA907	iccamg_boss_matis_e1	<GEN>iccamg_boss_matis_e1						
+_D84451633830ED47	iccamg_boss_tryker_e1	<GEN>iccamg_boss_tryker_e1						
+_8825DE42F6DC1514	iccamg_boss_zorai_e1	<GEN>iccamg_boss_zorai_e1						
+_193380659316909A	iccamp	<GEN>iccamp						
+_8825065A790E1100	iccamp_boss_fyros_e1	<GEN>iccamp_boss_fyros_e1						
+_8825065479ADCD07	iccamp_boss_matis_e1	<GEN>iccamp_boss_matis_e1						
+_D84451637B301147	iccamp_boss_tryker_e1	<GEN>iccamp_boss_tryker_e1						
+_8825DE42F66D3914	iccamp_boss_zorai_e1	<GEN>iccamp_boss_zorai_e1						
+_1933806893469C9A	iccams	<GEN>iccams						
+_8825065A793E1D00	iccams_boss_fyros_e1	<GEN>iccams_boss_fyros_e1						
+_8825065479DDD907	iccams_boss_matis_e1	<GEN>iccams_boss_matis_e1						
+_D84451633B301D47	iccams_boss_tryker_e1	<GEN>iccams_boss_tryker_e1						
+_8825DE42F69D4514	iccams_boss_zorai_e1	<GEN>iccams_boss_zorai_e1						
+_1933806B9376A89A	iccamv	<GEN>iccamv						
+_8825065A796E2900	iccamv_boss_fyros_e1	<GEN>iccamv_boss_fyros_e1						
+_88250654790DE507	iccamv_boss_matis_e1	<GEN>iccamv_boss_matis_e1						
+_D8445163FC302947	iccamv_boss_tryker_e1	<GEN>iccamv_boss_tryker_e1						
+_8825DE42F6CD5114	iccamv_boss_zorai_e1	<GEN>iccamv_boss_zorai_e1						
+_15E3D0721CF5F07A	ikamaab	<GEN>ikamaab						
+_1533E4721C45F07A	ikamaag	<GEN>ikamaag						
+_1543E8721C55F07A	ikamaah	<GEN>ikamaah						
+_15C408721CD6F07A	ikamaap	<GEN>ikamaap						
+_15F414721C06F07A	ikamaas	<GEN>ikamaas						
+_152420721C36F07A	ikamaav	<GEN>ikamaav						
+_56E3D0725D46F07A	ikaraab	<GEN>ikaraab						
+_5633E4725D96F07A	ikaraag	<GEN>ikaraag						
+_5643E8725DA6F07A	ikaraah	<GEN>ikaraah						
+_56C408725D27F07A	ikaraap	<GEN>ikaraap						
+_56F414725D57F07A	ikaraas	<GEN>ikaraas						
+_562420725D87F07A	ikaraav	<GEN>ikaraav						
+_56E3D4735D46F47A	ikarabb	<GEN>ikarabb						
+_5633E8735D96F47A	ikarabg	<GEN>ikarabg						
+_5643EC735DA6F47A	ikarabh	<GEN>ikarabh						
+_56C40C735D27F47A	ikarabp	<GEN>ikarabp						
+_56F418735D57F47A	ikarabs	<GEN>ikarabs						
+_562424735D87F47A	ikarabv	<GEN>ikarabv						
+_56E3D8745D46F87A	ikaracb	<GEN>ikaracb						
+_5633EC745D96F87A	ikaracg	<GEN>ikaracg						
+_5643F0745DA6F87A	ikarach	<GEN>ikarach						
+_56C410745D27F87A	ikaracp	<GEN>ikaracp						
+_56F41C745D57F87A	ikaracs	<GEN>ikaracs						
+_562428745D87F87A	ikaracv	<GEN>ikaracv						
+_56E3E0765D46007A	ikaraeb	<GEN>ikaraeb						
+_5633F4765D96007A	ikaraeg	<GEN>ikaraeg						
+_5643F8765DA6007A	ikaraeh	<GEN>ikaraeh						
+_56C418765D27007A	ikaraep	<GEN>ikaraep						
+_56F424765D57007A	ikaraes	<GEN>ikaraes						
+_562430765D87007A	ikaraev	<GEN>ikaraev						
+_56E3007E5D46207A	ikaramb	<GEN>ikaramb						
+_5633147E5D96207A	ikaramg	<GEN>ikaramg						
+_5643187E5DA6207A	ikaramh	<GEN>ikaramh						
+_56C4387E5D27207A	ikaramp	<GEN>ikaramp						
+_56F4447E5D57207A	ikarams	<GEN>ikarams						
+_5624507E5D87207A	ikaramv	<GEN>ikaramv						
+_56E318845D46387A	ikarasb	<GEN>ikarasb						
+_21C7EB97A3D7CB84	ikarasb_b	<GEN>ikarasb_b						
+_21C7EB9FA557CB84	ikarasb_j	<GEN>ikarasb_j						
+_21C7EBA7A7D8CB84	ikarasb_r	<GEN>ikarasb_r						
+_56332C845D96387A	ikarasg	<GEN>ikarasg						
+_21C7EB97A327DF89	ikarasg_b	<GEN>ikarasg_b						
+_21C7EB9FA5A7DF89	ikarasg_j	<GEN>ikarasg_j						
+_21C7EBA7A728DF89	ikarasg_r	<GEN>ikarasg_r						
+_564330845DA6387A	ikarash	<GEN>ikarash						
+_21C7EB97A337E38A	ikarash_b	<GEN>ikarash_b						
+_21C7EB9FA5B7E38A	ikarash_j	<GEN>ikarash_j						
+_21C7EBA7A738E38A	ikarash_r	<GEN>ikarash_r						
+_56C450845D27387A	ikarasp	<GEN>ikarasp						
+_21C7EB97A3B80392	ikarasp_b	<GEN>ikarasp_b						
+_21C7EB9FA5380392	ikarasp_j	<GEN>ikarasp_j						
+_21C7EBA7A7B90392	ikarasp_r	<GEN>ikarasp_r						
+_56F45C845D57387A	ikarass	<GEN>ikarass						
+_21C7EB97A3E80F95	ikarass_b	<GEN>ikarass_b						
+_21C7EB9FA5680F95	ikarass_j	<GEN>ikarass_j						
+_21C7EBA7A7E90F95	ikarass_r	<GEN>ikarass_r						
+_562468845D87387A	ikarasv	<GEN>ikarasv						
+_21C7EB97A3181B98	ikarasv_b	<GEN>ikarasv_b						
+_21C7EB9FA5981B98	ikarasv_j	<GEN>ikarasv_j						
+_21C7EBA7A7191B98	ikarasv_r	<GEN>ikarasv_r						
+_56E31C855D463C7A	ikaratb	<GEN>ikaratb						
+_563330855D963C7A	ikaratg	<GEN>ikaratg						
+_564334855DA63C7A	ikarath	<GEN>ikarath						
+_56C454855D273C7A	ikaratp	<GEN>ikaratp						
+_56F460855D573C7A	ikarats	<GEN>ikarats						
+_56246C855D873C7A	ikaratv	<GEN>ikaratv						
+_2788D35C17B56778	igfau	<GEN>igfau						
+_6798D35C17B56B79	igfbu	<GEN>igfbu						
+_A8E8D35C17B57F7E	igfgu	<GEN>igfgu						
+_EB79D35C17B5A387	igfpu	<GEN>igfpu						
+_6CD9D35C17B5BB8D	igfvu	<GEN>igfvu						
+_E9F8EF5C17B5677F	igmau	<GEN>igmau						
+_2908EF5C17B56B80	igmbu	<GEN>igmbu						
+_6A58EF5C17B57F85	igmgu	<GEN>igmgu						
+_ADE9EF5C17B5A38E	igmpu	<GEN>igmpu						
+_2E49EF5C17B5BB94	igmvu	<GEN>igmvu						
+_AB690B5C17B56786	igtau	<GEN>igtau						
+_EB790B5C17B56B87	igtbu	<GEN>igtbu						
+_2CC90B5C17B57F8C	igtgu	<GEN>igtgu						
+_6F5A0B5C17B5A395	igtpu	<GEN>igtpu						
+_F0BA0B5C17B5BB9B	igtvu	<GEN>igtvu						
+_2CC9235C17B5678C	igzau	<GEN>igzau						
+_6CD9235C17B56B8D	igzbu	<GEN>igzbu						
+_AD29235C17B57F92	igzgu	<GEN>igzgu						
+_F0BA235C17B5A39B	igzpu	<GEN>igzpu						
+_711A235C17B5BBA1	igzvu	<GEN>igzvu						
+_D0B6D0A763E14E0C	ipma15_kam	<GEN>ipma15_kam						
+_D0B6E4AC63E14E0C	ipma15_kar	<GEN>ipma15_kar						
+_10B6D0A763913E08	ipma20_kam	<GEN>ipma20_kam						
+_10B6E4AC63913E08	ipma20_kar	<GEN>ipma20_kar						
+_10B6D0A763E1520D	ipma25_kam	<GEN>ipma25_kam						
+_10B6E4AC63E1520D	ipma25_kar	<GEN>ipma25_kar						
+_10C6D0A763E14E0D	ipmb15_kam	<GEN>ipmb15_kam						
+_10C6E4AC63E14E0D	ipmb15_kar	<GEN>ipmb15_kar						
+_50C6D0A763913E09	ipmb20_kam	<GEN>ipmb20_kam						
+_50C6E4AC63913E09	ipmb20_kar	<GEN>ipmb20_kar						
+_50C6D0A763E1520E	ipmb25_kam	<GEN>ipmb25_kam						
+_50C6E4AC63E1520E	ipmb25_kar	<GEN>ipmb25_kar						
+_50D6D0A763E14E0E	ipmc15_kam	<GEN>ipmc15_kam						
+_50D6E4AC63E14E0E	ipmc15_kar	<GEN>ipmc15_kar						
+_90D6D0A763913E0A	ipmc20_kam	<GEN>ipmc20_kam						
+_90D6E4AC63913E0A	ipmc20_kar	<GEN>ipmc20_kar						
+_90D6D0A763E1520F	ipmc25_kam	<GEN>ipmc25_kam						
+_90D6E4AC63E1520F	ipmc25_kar	<GEN>ipmc25_kar						
+_91E6D0A763E14E0F	ipmd15_kam	<GEN>ipmd15_kam						
+_91E6E4AC63E14E0F	ipmd15_kar	<GEN>ipmd15_kar						
+_D1E6D0A763913E0B	ipmd20_kam	<GEN>ipmd20_kam						
+_D1E6E4AC63913E0B	ipmd20_kar	<GEN>ipmd20_kar						
+_D1E6D0A763E15210	ipmd25_kam	<GEN>ipmd25_kam						
+_D1E6E4AC63E15210	ipmd25_kar	<GEN>ipmd25_kar						
+_91F6D0A763C1420D	ipme03_kam	<GEN>ipme03_kam						
+_91F6E4AC63C1420D	ipme03_kar	<GEN>ipme03_kar						
+_91F6D0A763D1460E	ipme04_kam	<GEN>ipme04_kam						
+_91F6E4AC63D1460E	ipme04_kar	<GEN>ipme04_kar						
+_91F6D0A763E14A0F	ipme05_kam	<GEN>ipme05_kam						
+_91F6E4AC63E14A0F	ipme05_kar	<GEN>ipme05_kar						
+_2BCAD878DFD7347F	supreme_heal	<GEN>supreme_heal						
+_19D63569F7F2F976	test_conso_breakdance	<GEN>test_conso_breakdance						
+_B0790FBCA416C2C7	test_conso_craft_success	<GEN>test_conso_craft_success						
+_377C31930BFBB1D2	test_conso_defense	<GEN>test_conso_defense						
+_651621A01571608F	test_conso_desert_forage_success	<GEN>test_conso_desert_forage_success						
+_7DFCA9FBA7B8BCDF	test_conso_dodge	<GEN>test_conso_dodge						
+_B0F8FE045B6DFEB4	test_conso_forage_success	<GEN>test_conso_forage_success						
+_F4D9CBC65F46DAA5	test_conso_magic_success	<GEN>test_conso_magic_success						
+_F329DBC6E006EEAB	test_conso_melee_success	<GEN>test_conso_melee_success						
+_3B1C4987453CD5D8	test_conso_nobreak	<GEN>test_conso_nobreak						
+_43DD7107AC69F4E5	test_conso_parry	<GEN>test_conso_parry						
+_B449CBCBE026F6A7	test_conso_range_success	<GEN>test_conso_range_success						
+_F2F548039D37A89C	test_conso_sit	<GEN>test_conso_sit						
+_23DC9904A3F884BD	test_conso_swim	<GEN>test_conso_swim						
+_642CC9FCE448B4B5	test_conso_toub	<GEN>test_conso_toub						
+_E13E55F5615A40AE	test_fast_regen	<GEN>test_fast_regen						
+_A01E6DE8203A58A1	test_long_regen	<GEN>test_long_regen						
+_393C1D70046DA9E3	light_sap_recharge	<GEN>light_sap_recharge						
+_751A0C90FBDE61E1	fy_cheveux_medium02	<GEN>fy_cheveux_medium02						
+_753A0C90FBDE61E1	fy_cheveux_medium03	<GEN>fy_cheveux_medium03						
+_B91A882E780E2DE9	fy_cheveux_short02	<GEN>fy_cheveux_short02						
+_4984CC7D1E87FC3A	fy_helmet_01	<GEN>fy_helmet_01						
+_490380821E06103A	ka_helmet_01	<GEN>ka_helmet_01						
+_38DA94D2DB2D9B02	ma_cheveux_long02	<GEN>ma_cheveux_long02						
+_751A4C9EFBDE61E1	ma_cheveux_medium02	<GEN>ma_cheveux_medium02						
+_B91A281D3A0E2DE9	ma_cheveux_short02	<GEN>ma_cheveux_short02						
+_490388841E06183A	ma_helmet_01	<GEN>ma_helmet_01						
+_751AD4ACFBDE61E1	tr_cheveux_medium02	<GEN>tr_cheveux_medium02						
+_B91A6C35FC0E2DE9	tr_cheveux_short02	<GEN>tr_cheveux_short02						
+_B91A7036FC0E2DE9	tr_cheveux_short03	<GEN>tr_cheveux_short03						
+_4914E88B1E17343A	tr_helmet_01	<GEN>tr_helmet_01						
+_38DACCDF5EFE9B02	zo_cheveux_long02	<GEN>zo_cheveux_long02						
+_751ABCB8FBDE61E1	zo_cheveux_medium02	<GEN>zo_cheveux_medium02						
+_753ABCB8FBDE61E1	zo_cheveux_medium03	<GEN>zo_cheveux_medium03						
+_49E3F4911EE64C3A	zo_helmet_01	<GEN>zo_helmet_01						
+_9D55EE5AFEEDC157	sfxitforage_marauder	<GEN>sfxitforage_marauder						
+_5CBEBDFFDCDAA8B8	sfxitforage_pvp	<GEN>sfxitforage_pvp						
+_792F64E3EA5CF019	sfxitforagefyros2	<GEN>sfxitforagefyros2						
+_FB0C743283CD05F4	sfxitforagematis_2	<GEN>sfxitforagematis_2						
+_FD00668C793C1113	sfxitforagetryker_2	<GEN>sfxitforagetryker_2						
+_C1DD743201ACDD00	sfxitforagezorai_2	<GEN>sfxitforagezorai_2						
+_9043337010F34757	bag	<GEN>bag						
+_E878E394DD08EFB8	bag_inventory	<GEN>bag_inventory						
+_774CD18403CD01E8	bot_gift_inventory	<GEN>bot_gift_inventory						
+_F9081690FF5CA913	equipment_inventory	<GEN>equipment_inventory						
+_628DC5F7E2A9B0B0	guild_inventory	<GEN>guild_inventory						
+_677730F4E1E514A0	hand_inventory	<GEN>hand_inventory						
+_1AB50D7DF7E3217F	pack_animal_inventory	<GEN>pack_animal_inventory						
+_5D93B46C17B6C8B9	pickup	<GEN>pickup						
+_E4C595707D539D84	player_room_inventory	<GEN>player_room_inventory						
+_27CA1B73DDB5476B	stack	<GEN>stack						
+_A04DC1032069ACBC	steed_inventory	<GEN>steed_inventory						
+_7D06B6B801DCD111	temporary_inventory	<GEN>temporary_inventory						
+_5F16AFAA69C62A5A	ickamm2ms	<GEN>ickamm2ms						
+_19B214B8A0402C84	ickamm2ms_2	<GEN>ickamm2ms_2						
+_19D214B8A0402C84	ickamm2ms_3	<GEN>ickamm2ms_3						
+_A067AFAA69C62A5F	ickarm2ms	<GEN>ickarm2ms						
+_19B214B8E1402C8E	ickarm2ms_2	<GEN>ickarm2ms_2						
+_19D214B8E1402C8E	ickarm2ms_3	<GEN>ickarm2ms_3						
+_1FB894A2C966C80E	ichm2bm_hom	<GEN>ichm2bm_hom						
+_1FB824A8C966C80E	ichm2bm_kam	<GEN>ichm2bm_kam						
+_1F5A24A8C966C80E	ichm2bm_kar	<GEN>ichm2bm_kar						
+_1F9A64A8C966C80E	ichm2bm_kit	<GEN>ichm2bm_kit						
+_1FB894A2C9C8380E	ichm2pp_hom	<GEN>ichm2pp_hom						
+_1FB824A8C9C8380E	ichm2pp_kam	<GEN>ichm2pp_kam						
+_1F5A24A8C9C8380E	ichm2pp_kar	<GEN>ichm2pp_kar						
+_1F9A64A8C9C8380E	ichm2pp_kit	<GEN>ichm2pp_kit						
+_1FB894A2C928500E	ichm2ss_hom	<GEN>ichm2ss_hom						
+_1FB824A8C928500E	ichm2ss_kam	<GEN>ichm2ss_kam						
+_1F5A24A8C928500E	ichm2ss_kar	<GEN>ichm2ss_kar						
+_1F9A64A8C928500E	ichm2ss_kit	<GEN>ichm2ss_kit						
+_781D300E6DCE3C04	npc_eroukan_sword	<GEN>npc_eroukan_sword						
+_D093BB61D594B34F	icbm2bm_3	<GEN>icbm2bm_3						
+_1493BB61D5F50F66	icbm2ss_3	<GEN>icbm2ss_3						
+_1EC4A8A46C667C7F	tcm_louche	<GEN>tcm_louche						
+_9E37D8E0077ABCAB	cartographier_kitiniere_parchemin	<GEN>cartographier_kitiniere_parchemin						
+_321C58DBB2384394	copie de cartographier_kitiniere_parchemin_full	<GEN>copie de cartographier_kitiniere_parchemin_full						
+_2AF8378260D8E7BF	botanist_list	<GEN>botanist_list						
+_5F4FD1DBDF6BBC94	botanist_remedy	<GEN>botanist_remedy						
+_6FE9D78959F817B9	clopper_flute	<GEN>clopper_flute						
+_9026C77B26C13A0E	cwfh01_mp1	<GEN>cwfh01_mp1						
+_9026C77B26D13E0F	cwfh02_mp1	<GEN>cwfh02_mp1						
+_9026C77B26E14210	cwfh03_mp1	<GEN>cwfh03_mp1						
+_5296E37B26C13A0E	cwmh01_mp1	<GEN>cwmh01_mp1						
+_5296E37B26D13E0F	cwmh02_mp1	<GEN>cwmh02_mp1						
+_5296E37B26E14210	cwmh03_mp1	<GEN>cwmh03_mp1						
+_1407FF7B26C13A0E	cwth01_mp1	<GEN>cwth01_mp1						
+_1407FF7B26D13E0F	cwth02_mp1	<GEN>cwth02_mp1						
+_1407037C26D13E0F	cwth02_mp2	<GEN>cwth02_mp2						
+_1407FF7B26E14210	cwth03_mp1	<GEN>cwth03_mp1						
+_9567177B26C13A0E	cwzh01_mp1	<GEN>cwzh01_mp1						
+_9567177B26D13E0F	cwzh02_mp1	<GEN>cwzh02_mp1						
+_95671B7C26D13E0F	cwzh02_mp2	<GEN>cwzh02_mp2						
+_9567177B26E14210	cwzh03_mp1	<GEN>cwzh03_mp1						
+_FE20D1D6ED6AB0E5	diseased_sprouts	<GEN>diseased_sprouts						
+_414D85EF2439BCCA	flowers_medicine	<GEN>flowers_medicine						
+_FB1D72F1A674A5FB	fragment_magik_echantillon_kitiniere	<GEN>fragment_magik_echantillon_kitiniere						
+_66C65CD3E2C574BD	fruit_medicine	<GEN>fruit_medicine						
+_E329E38321B7BFBF	kitiniere_map	<GEN>kitiniere_map						
+_99A519453BC24184	kitiniere_prince_head	<GEN>kitiniere_prince_head						
+_A1559A47FA7CA551	kitiniere_queen_head	<GEN>kitiniere_queen_head						
+_B0F922EE61BA1AAF	light_armors_acreditation	<GEN>light_armors_acreditation						
+_A575D08F4B86DF05	mb_seal1	<GEN>mb_seal1						
+_A575D08F8B86DF07	mb_seal2	<GEN>mb_seal2						
+_918A5DBB11A64874	mc100_bon_clips	<GEN>mc100_bon_clips						
+_7197A357B5D9EBB0	melee_weapons_acreditation	<GEN>melee_weapons_acreditation						
+_A6A848D7E406B8B0	merchant_purse	<GEN>merchant_purse						
+_FACB117D068AA5F6	nbland_msg_sivaldo	<GEN>nbland_msg_sivaldo						
+_762DB5D56C0888EA	newbie_parchemin	<GEN>newbie_parchemin						
+_DA7AA4BA23F41C7E	newbie_tool	<GEN>newbie_tool						
+_7C5E983927E1B0FE	outpost_parchment	<GEN>outpost_parchment						
+_639844A2E0579484	pearl_black	<GEN>pearl_black						
+_E05670AF2CC4F082	pearl_blue	<GEN>pearl_blue						
+_6A88C486E2060C8E	pearl_violet	<GEN>pearl_violet						
+_A66528DBE0E564A5	piece_of_cloth	<GEN>piece_of_cloth						
+_855226636B960013	r_05_39_varinx_skull	<GEN>r_05_39_varinx_skull						
+_3CDEA43169FFC4F0	report_councellor	<GEN>report_councellor						
+_9B36177D1040F53F	rpjob_001	<GEN>rpjob_001						
+_9B36177E5050F53F	rpjob_002	<GEN>rpjob_002						
+_9B36177F9060F53F	rpjob_003	<GEN>rpjob_003						
+_9B361780D170F53F	rpjob_004	<GEN>rpjob_004						
+_9B3617811180F53F	rpjob_005	<GEN>rpjob_005						
+_9B3617825190F53F	rpjob_006	<GEN>rpjob_006						
+_9B36178391A0F53F	rpjob_007	<GEN>rpjob_007						
+_9B361784D2B0F53F	rpjob_008	<GEN>rpjob_008						
+_9B36178512C0F53F	rpjob_009	<GEN>rpjob_009						
+_9B36177C1040F93F	rpjob_010	<GEN>rpjob_010						
+_9B36177D5050F93F	rpjob_011	<GEN>rpjob_011						
+_9B36177E9060F93F	rpjob_012	<GEN>rpjob_012						
+_9B36177FD070F93F	rpjob_013	<GEN>rpjob_013						
+_9B3617801180F93F	rpjob_014	<GEN>rpjob_014						
+_9B3617815190F93F	rpjob_015	<GEN>rpjob_015						
+_9B36178291A0F93F	rpjob_016	<GEN>rpjob_016						
+_9B361783D1B0F93F	rpjob_017	<GEN>rpjob_017						
+_9B36178412C0F93F	rpjob_018	<GEN>rpjob_018						
+_9B36178552D0F93F	rpjob_019	<GEN>rpjob_019						
+_9B36177C5050FD3F	rpjob_020	<GEN>rpjob_020						
+_9B361784D2D0FD41	rpjob_208	<GEN>rpjob_208						
+_9B36178512E0FD41	rpjob_209	<GEN>rpjob_209						
+_9B36177C10600141	rpjob_210	<GEN>rpjob_210						
+_9B36177D50700141	rpjob_211	<GEN>rpjob_211						
+_9B36177E90800141	rpjob_212	<GEN>rpjob_212						
+_9B36177FD0900141	rpjob_213	<GEN>rpjob_213						
+_9B36178011A00141	rpjob_214	<GEN>rpjob_214						
+_9B36178151B00141	rpjob_215	<GEN>rpjob_215						
+_9B36178291C00141	rpjob_216	<GEN>rpjob_216						
+_9B361783D1D00141	rpjob_217	<GEN>rpjob_217						
+_9B36178412E00141	rpjob_218	<GEN>rpjob_218						
+_9B36178552F00141	rpjob_219	<GEN>rpjob_219						
+_EFA8C4BA8B59A06D	rpjobitem_208_a0	<GEN>rpjobitem_208_a0						
+_EFA8C4BACB59A06E	rpjobitem_208_a1	<GEN>rpjobitem_208_a1						
+_2FA8C4BA8B69A06D	rpjobitem_208_b0	<GEN>rpjobitem_208_b0						
+_2FA8C4BACB69A06E	rpjobitem_208_b1	<GEN>rpjobitem_208_b1						
+_6FA8C4BA8B79A06D	rpjobitem_208_c0	<GEN>rpjobitem_208_c0						
+_6FA8C4BACB79A06E	rpjobitem_208_c1	<GEN>rpjobitem_208_c1						
+_EFA8C8BA8B59A06E	rpjobitem_209_a0	<GEN>rpjobitem_209_a0						
+_EFA8C8BACB59A06F	rpjobitem_209_a1	<GEN>rpjobitem_209_a1						
+_2FA8C8BA8B69A06E	rpjobitem_209_b0	<GEN>rpjobitem_209_b0						
+_2FA8C8BACB69A06F	rpjobitem_209_b1	<GEN>rpjobitem_209_b1						
+_6FA8C8BA8B79A06E	rpjobitem_209_c0	<GEN>rpjobitem_209_c0						
+_6FA8C8BACB79A06F	rpjobitem_209_c1	<GEN>rpjobitem_209_c1						
+_2FA8A4BB8B59A065	rpjobitem_210_a0	<GEN>rpjobitem_210_a0						
+_2FA8A4BBCB59A066	rpjobitem_210_a1	<GEN>rpjobitem_210_a1						
+_6FA8A4BB8B69A065	rpjobitem_210_b0	<GEN>rpjobitem_210_b0						
+_6FA8A4BBCB69A066	rpjobitem_210_b1	<GEN>rpjobitem_210_b1						
+_AFA8A4BB8B79A065	rpjobitem_210_c0	<GEN>rpjobitem_210_c0						
+_AFA8A4BBCB79A066	rpjobitem_210_c1	<GEN>rpjobitem_210_c1						
+_2FA8A8BB8B59A066	rpjobitem_211_a0	<GEN>rpjobitem_211_a0						
+_2FA8A8BBCB59A067	rpjobitem_211_a1	<GEN>rpjobitem_211_a1						
+_6FA8A8BB8B69A066	rpjobitem_211_b0	<GEN>rpjobitem_211_b0						
+_6FA8A8BBCB69A067	rpjobitem_211_b1	<GEN>rpjobitem_211_b1						
+_AFA8A8BB8B79A066	rpjobitem_211_c0	<GEN>rpjobitem_211_c0						
+_AFA8A8BBCB79A067	rpjobitem_211_c1	<GEN>rpjobitem_211_c1						
+_2FA8ACBB8B59A067	rpjobitem_212_a0	<GEN>rpjobitem_212_a0						
+_2FA8ACBBCB59A068	rpjobitem_212_a1	<GEN>rpjobitem_212_a1						
+_6FA8ACBB8B69A067	rpjobitem_212_b0	<GEN>rpjobitem_212_b0						
+_6FA8ACBBCB69A068	rpjobitem_212_b1	<GEN>rpjobitem_212_b1						
+_AFA8ACBB8B79A067	rpjobitem_212_c0	<GEN>rpjobitem_212_c0						
+_AFA8ACBBCB79A068	rpjobitem_212_c1	<GEN>rpjobitem_212_c1						
+_2FA8B0BB8B59A068	rpjobitem_213_a0	<GEN>rpjobitem_213_a0						
+_2FA8B0BBCB59A069	rpjobitem_213_a1	<GEN>rpjobitem_213_a1						
+_6FA8B0BB8B69A068	rpjobitem_213_b0	<GEN>rpjobitem_213_b0						
+_6FA8B0BBCB69A069	rpjobitem_213_b1	<GEN>rpjobitem_213_b1						
+_AFA8B0BB8B79A068	rpjobitem_213_c0	<GEN>rpjobitem_213_c0						
+_AFA8B0BBCB79A069	rpjobitem_213_c1	<GEN>rpjobitem_213_c1						
+_2FA8B4BB8B59A069	rpjobitem_214_a0	<GEN>rpjobitem_214_a0						
+_2FA8B4BBCB59A06A	rpjobitem_214_a1	<GEN>rpjobitem_214_a1						
+_6FA8B4BB8B69A069	rpjobitem_214_b0	<GEN>rpjobitem_214_b0						
+_6FA8B4BBCB69A06A	rpjobitem_214_b1	<GEN>rpjobitem_214_b1						
+_AFA8B4BB8B79A069	rpjobitem_214_c0	<GEN>rpjobitem_214_c0						
+_AFA8B4BBCB79A06A	rpjobitem_214_c1	<GEN>rpjobitem_214_c1						
+_2FA8B8BB8B59A06A	rpjobitem_215_a0	<GEN>rpjobitem_215_a0						
+_2FA8B8BBCB59A06B	rpjobitem_215_a1	<GEN>rpjobitem_215_a1						
+_6FA8B8BB8B69A06A	rpjobitem_215_b0	<GEN>rpjobitem_215_b0						
+_6FA8B8BBCB69A06B	rpjobitem_215_b1	<GEN>rpjobitem_215_b1						
+_AFA8B8BB8B79A06A	rpjobitem_215_c0	<GEN>rpjobitem_215_c0						
+_AFA8B8BBCB79A06B	rpjobitem_215_c1	<GEN>rpjobitem_215_c1						
+_2FA8BCBB8B59A06B	rpjobitem_216_a0	<GEN>rpjobitem_216_a0						
+_2FA8BCBBCB59A06C	rpjobitem_216_a1	<GEN>rpjobitem_216_a1						
+_6FA8BCBB8B69A06B	rpjobitem_216_b0	<GEN>rpjobitem_216_b0						
+_6FA8BCBBCB69A06C	rpjobitem_216_b1	<GEN>rpjobitem_216_b1						
+_AFA8BCBB8B79A06B	rpjobitem_216_c0	<GEN>rpjobitem_216_c0						
+_AFA8BCBBCB79A06C	rpjobitem_216_c1	<GEN>rpjobitem_216_c1						
+_2FA8C0BB8B59A06C	rpjobitem_217_a0	<GEN>rpjobitem_217_a0						
+_2FA8C0BBCB59A06D	rpjobitem_217_a1	<GEN>rpjobitem_217_a1						
+_6FA8C0BB8B69A06C	rpjobitem_217_b0	<GEN>rpjobitem_217_b0						
+_6FA8C0BBCB69A06D	rpjobitem_217_b1	<GEN>rpjobitem_217_b1						
+_AFA8C0BB8B79A06C	rpjobitem_217_c0	<GEN>rpjobitem_217_c0						
+_AFA8C0BBCB79A06D	rpjobitem_217_c1	<GEN>rpjobitem_217_c1						
+_2FA8C4BB8B59A06D	rpjobitem_218_a0	<GEN>rpjobitem_218_a0						
+_2FA8C4BBCB59A06E	rpjobitem_218_a1	<GEN>rpjobitem_218_a1						
+_6FA8C4BB8B69A06D	rpjobitem_218_b0	<GEN>rpjobitem_218_b0						
+_6FA8C4BBCB69A06E	rpjobitem_218_b1	<GEN>rpjobitem_218_b1						
+_AFA8C4BB8B79A06D	rpjobitem_218_c0	<GEN>rpjobitem_218_c0						
+_AFA8C4BBCB79A06E	rpjobitem_218_c1	<GEN>rpjobitem_218_c1						
+_2FA8C8BB8B59A06E	rpjobitem_219_a0	<GEN>rpjobitem_219_a0						
+_2FA8C8BBCB59A06F	rpjobitem_219_a1	<GEN>rpjobitem_219_a1						
+_6FA8C8BB8B69A06E	rpjobitem_219_b0	<GEN>rpjobitem_219_b0						
+_6FA8C8BBCB69A06F	rpjobitem_219_b1	<GEN>rpjobitem_219_b1						
+_AFA8C8BB8B79A06E	rpjobitem_219_c0	<GEN>rpjobitem_219_c0						
+_AFA8C8BBCB79A06F	rpjobitem_219_c1	<GEN>rpjobitem_219_c1						
+_BB2C51994B3B4DDF	sacred_tryker_book	<GEN>sacred_tryker_book						
+_DA9C8CBADD45208C	tax_receipt	<GEN>tax_receipt						
+_9CC4DCAE2E164076	tcm_flower	<GEN>tcm_flower						
+_D91EF67CFB9C69E9	tf60_ailes_grillees	<GEN>tf60_ailes_grillees						
+_A8B9148B61950479	thief_letter	<GEN>thief_letter						
+_627D51EDE2993CA6	very_big_barrel	<GEN>very_big_barrel						
+_BF9BA41F25F0A8ED	very_small_barrel	<GEN>very_small_barrel						
+_FC8D89FCA738E0DC	warmap_goo_miasm	<GEN>warmap_goo_miasm						
+_F81D5C27E7F0A0ED	warmap_kami_merit	<GEN>warmap_kami_merit						
+_63370E53762BA155	warmap_karavan_merit	<GEN>warmap_karavan_merit						
+_396E75F7A9C8D8D0	warmap_kitin_egg	<GEN>warmap_kitin_egg						
+_A23A7CB01DA4606A	warmap_nano	<GEN>warmap_nano						
+_75463672813CE1ED	warmap_sap_cristaux	<GEN>warmap_sap_cristaux						
+_DD063A894DD5EBD6	icbr2l_3	<GEN>icbr2l_3						
+_991AB4A4DAC6E894	karavan_gun	<GEN>karavan_gun						
+_73C93D90889EF9E2	npc_caravan_pistol	<GEN>npc_caravan_pistol						
+_713F8F86DB7453DC	m0077ixxcc02	<GEN>m0077ixxcc02						
+_F22F876F552423D6	m0180dxaca02	<GEN>m0180dxaca02						
+_322F876F552423D7	m0180dxaca03	<GEN>m0180dxaca03						
+_732F876F552423D8	m0180dxaca04	<GEN>m0180dxaca04						
+_718F876FD62443D6	m0708dxaca02	<GEN>m0708dxaca02						
+_72EF9B6F17242BCF	m0802dxacf01	<GEN>m0802dxacf01						
+_72EF9B6F17242FD0	m0803dxacf01	<GEN>m0803dxacf01						
+_72EF9B6F172433D1	m0804dxacf01	<GEN>m0804dxacf01						
+_72EF9B6F172437D2	m0805dxacf01	<GEN>m0805dxacf01						
+_72EF9B6F17243BD3	m0806dxacf01	<GEN>m0806dxacf01						
+_72EF9B6F17243FD4	m0807dxacf01	<GEN>m0807dxacf01						
+_72EF9B6F172443D5	m0808dxacf01	<GEN>m0808dxacf01						
+_72EF9B6F172447D6	m0809dxacf01	<GEN>m0809dxacf01						
+_B2EF9B6F172423CE	m0810dxacf01	<GEN>m0810dxacf01						
+_B2EF9B6F172427CF	m0811dxacf01	<GEN>m0811dxacf01						
+_B2EF9B6F17242BD0	m0812dxacf01	<GEN>m0812dxacf01						
+_B2EF9B6F17242FD1	m0813dxacf01	<GEN>m0813dxacf01						
+_B3AFCF7E52431FD6	m0490ckcpf01	<GEN>m0490ckcpf01						
+_B3AFCF7E524323D7	m0491ckcpf01	<GEN>m0491ckcpf01						
+_B3AFCF7E524327D8	m0492ckcpf01	<GEN>m0492ckcpf01						
+_F1CFCF7ED2432FD1	m0604ckcpf01	<GEN>m0604ckcpf01						
+_F1CFCF7ED24333D2	m0605ckcpf01	<GEN>m0605ckcpf01						
+_72CFCB7CD6243FD9	m0757dxape01	<GEN>m0757dxape01						
+_72DFCF7CD6243FD9	m0757dxapf01	<GEN>m0757dxapf01						
+_72BFC77CD62443DA	m0758dxapd01	<GEN>m0758dxapd01						
+_72DFCF7CD62443DA	m0758dxapf01	<GEN>m0758dxapf01						
+_72BFC77CD62447DB	m0759dxapd01	<GEN>m0759dxapd01						
+_72DFCF7CD62447DB	m0759dxapf01	<GEN>m0759dxapf01						
+_B2BFC77CD62423D3	m0760dxapd01	<GEN>m0760dxapd01						
+_B2DFCF7CD62423D3	m0760dxapf01	<GEN>m0760dxapf01						
+_B2CFCB7CD62427D4	m0761dxape01	<GEN>m0761dxape01						
+_B2DFCF7CD62427D4	m0761dxapf01	<GEN>m0761dxapf01						
+_B2CFCB7CD6242BD5	m0762dxape01	<GEN>m0762dxape01						
+_B2DFCF7CD6242BD5	m0762dxapf01	<GEN>m0762dxapf01						
+_B2BFC77CD6242FD6	m0763dxapd01	<GEN>m0763dxapd01						
+_B2DFCF7CD6242FD6	m0763dxapf01	<GEN>m0763dxapf01						
+_B2BFC77CD62433D7	m0764dxapd01	<GEN>m0764dxapd01						
+_B2DFCF7CD62433D7	m0764dxapf01	<GEN>m0764dxapf01						
+_B2BFC77CD62437D8	m0765dxapd01	<GEN>m0765dxapd01						
+_B2CFCB7CD62437D8	m0765dxape01	<GEN>m0765dxape01						
+_B2CFCB7CD6243BD9	m0766dxape01	<GEN>m0766dxape01						
+_B2DFCF7CD6243BD9	m0766dxapf01	<GEN>m0766dxapf01						
+_B2BFC77CD6243FDA	m0767dxapd01	<GEN>m0767dxapd01						
+_B2DFCF7CD6243FDA	m0767dxapf01	<GEN>m0767dxapf01						
+_B2BFC77CD62443DB	m0768dxapd01	<GEN>m0768dxapd01						
+_B2DFCF7CD62443DB	m0768dxapf01	<GEN>m0768dxapf01						
+_B2BFC77CD62447DC	m0769dxapd01	<GEN>m0769dxapd01						
+_B2DFCF7CD62447DC	m0769dxapf01	<GEN>m0769dxapf01						
+_F2CFCB7CD62423D4	m0770dxape01	<GEN>m0770dxape01						
+_F2DFCF7CD62423D4	m0770dxapf01	<GEN>m0770dxapf01						
+_F2BFC77CD62427D5	m0771dxapd01	<GEN>m0771dxapd01						
+_F2DFCF7CD62427D5	m0771dxapf01	<GEN>m0771dxapf01						
+_F2BFC77CD6242BD6	m0772dxapd01	<GEN>m0772dxapd01						
+_F2DFCF7CD6242BD6	m0772dxapf01	<GEN>m0772dxapf01						
+_F2BFC77CD6242FD7	m0773dxapd01	<GEN>m0773dxapd01						
+_F2DFCF7CD6242FD7	m0773dxapf01	<GEN>m0773dxapf01						
+_F2BFC77CD62433D8	m0774dxapd01	<GEN>m0774dxapd01						
+_F2CFCB7CD62433D8	m0774dxape01	<GEN>m0774dxape01						
+_F2CFCB7CD62437D9	m0775dxape01	<GEN>m0775dxape01						
+_F2DFCF7CD62437D9	m0775dxapf01	<GEN>m0775dxapf01						
+_F2CFCB7CD6243BDA	m0776dxape01	<GEN>m0776dxape01						
+_F2DFCF7CD6243BDA	m0776dxapf01	<GEN>m0776dxapf01						
+_F2BFC77CD6243FDB	m0777dxapd01	<GEN>m0777dxapd01						
+_F2DFCF7CD6243FDB	m0777dxapf01	<GEN>m0777dxapf01						
+_F2BFC77CD62443DC	m0778dxapd01	<GEN>m0778dxapd01						
+_F2CFCB7CD62443DC	m0778dxape01	<GEN>m0778dxape01						
+_F2CFCB7CD62447DD	m0779dxape01	<GEN>m0779dxape01						
+_F2DFCF7CD62447DD	m0779dxapf01	<GEN>m0779dxapf01						
+_33CFCB7CD62423D5	m0780dxape01	<GEN>m0780dxape01						
+_33DFCF7CD62423D5	m0780dxapf01	<GEN>m0780dxapf01						
+_33BFC77CD62427D6	m0781dxapd01	<GEN>m0781dxapd01						
+_33DFCF7CD62427D6	m0781dxapf01	<GEN>m0781dxapf01						
+_33BFC77CD6242BD7	m0782dxapd01	<GEN>m0782dxapd01						
+_33DFCF7CD6242BD7	m0782dxapf01	<GEN>m0782dxapf01						
+_33CFCB7CD6242FD8	m0783dxape01	<GEN>m0783dxape01						
+_33DFCF7CD6242FD8	m0783dxapf01	<GEN>m0783dxapf01						
+_33CFCB7CD62433D9	m0784dxape01	<GEN>m0784dxape01						
+_33DFCF7CD62433D9	m0784dxapf01	<GEN>m0784dxapf01						
+_33BFC77CD62437DA	m0785dxapd01	<GEN>m0785dxapd01						
+_33DFCF7CD62437DA	m0785dxapf01	<GEN>m0785dxapf01						
+_33BFC77CD6243BDB	m0786dxapd01	<GEN>m0786dxapd01						
+_33DFCF7CD6243BDB	m0786dxapf01	<GEN>m0786dxapf01						
+_33BFC77CD6243FDC	m0787dxapd01	<GEN>m0787dxapd01						
+_33DFCF7CD6243FDC	m0787dxapf01	<GEN>m0787dxapf01						
+_73BFC77CD6243FDD	m0797dxapd01	<GEN>m0797dxapd01						
+_73CFCB7CD6243FDD	m0797dxape01	<GEN>m0797dxape01						
+_73DFCF7CD6243FDD	m0797dxapf01	<GEN>m0797dxapf01						
+_73BFC77CD62443DE	m0798dxapd01	<GEN>m0798dxapd01						
+_73CFCB7CD62443DE	m0798dxape01	<GEN>m0798dxape01						
+_73DFCF7CD62443DE	m0798dxapf01	<GEN>m0798dxapf01						
+_73BFC77CD62447DF	m0799dxapd01	<GEN>m0799dxapd01						
+_73CFCB7CD62447DF	m0799dxape01	<GEN>m0799dxape01						
+_73DFCF7CD62447DF	m0799dxapf01	<GEN>m0799dxapf01						
+_72CFC77C172423CD	m0800dxapd01	<GEN>m0800dxapd01						
+_72DFCB7C172423CD	m0800dxape01	<GEN>m0800dxape01						
+_72EFCF7C172423CD	m0800dxapf01	<GEN>m0800dxapf01						
+_72CFC77C172427CE	m0801dxapd01	<GEN>m0801dxapd01						
+_72DFCB7C172427CE	m0801dxape01	<GEN>m0801dxape01						
+_72EFCF7C172427CE	m0801dxapf01	<GEN>m0801dxapf01						
+_398EBD89838AA5D8	system_mp_xl_black	<GEN>system_mp_xl_black						
+_7C7DD433ED4FC0DD	system_mp_xl_blue	<GEN>system_mp_xl_blue						
+_398EC98E052BD1DD	system_mp_xl_green	<GEN>system_mp_xl_green						
+_7F2826A67D7C01CF	system_mp_xl_purple	<GEN>system_mp_xl_purple						
+_FB0F91FF6ED70CD3	system_mp_xl_red	<GEN>system_mp_xl_red						
+_E694C2DFD4B28684	system_mp_xl_turquoise	<GEN>system_mp_xl_turquoise						
+_398EA594CACAE9ED	system_mp_xl_white	<GEN>system_mp_xl_white						
+_52A7D2EAD2C3BDA3	r2_create_new_plot_item	<GEN>r2_create_new_plot_item						
+_6D23A3BF9AE78F71	r2_plot_item_0	<GEN>r2_plot_item_0						
+_6D23A3C09AE79371	r2_plot_item_1	<GEN>r2_plot_item_1						
+_DD792FED5D951AA6	r2_plot_item_10	<GEN>r2_plot_item_10						
+_33A8E4F413B4EF98	r2_plot_item_100	<GEN>r2_plot_item_100						
+_33A8E4F453B4EF99	r2_plot_item_101	<GEN>r2_plot_item_101						
+_33A8E4F493B4EF9A	r2_plot_item_102	<GEN>r2_plot_item_102						
+_33A8E4F4D3B4EF9B	r2_plot_item_103	<GEN>r2_plot_item_103						
+_33A8E4F414B4EF9C	r2_plot_item_104	<GEN>r2_plot_item_104						
+_33A8E4F454B4EF9D	r2_plot_item_105	<GEN>r2_plot_item_105						
+_33A8E4F494B4EF9E	r2_plot_item_106	<GEN>r2_plot_item_106						
+_33A8E4F4D4B4EF9F	r2_plot_item_107	<GEN>r2_plot_item_107						
+_33A8E4F415B4EFA0	r2_plot_item_108	<GEN>r2_plot_item_108						
+_33A8E4F455B4EFA1	r2_plot_item_109	<GEN>r2_plot_item_109						
+_DD892FED5DA51AA6	r2_plot_item_11	<GEN>r2_plot_item_11						
+_73A8E4F413C4EF98	r2_plot_item_110	<GEN>r2_plot_item_110						
+_73A8E4F453C4EF99	r2_plot_item_111	<GEN>r2_plot_item_111						
+_73A8E4F493C4EF9A	r2_plot_item_112	<GEN>r2_plot_item_112						
+_73A8E4F4D3C4EF9B	r2_plot_item_113	<GEN>r2_plot_item_113						
+_73A8E4F414C4EF9C	r2_plot_item_114	<GEN>r2_plot_item_114						
+_73A8E4F454C4EF9D	r2_plot_item_115	<GEN>r2_plot_item_115						
+_73A8E4F494C4EF9E	r2_plot_item_116	<GEN>r2_plot_item_116						
+_73A8E4F4D4C4EF9F	r2_plot_item_117	<GEN>r2_plot_item_117						
+_73A8E4F415C4EFA0	r2_plot_item_118	<GEN>r2_plot_item_118						
+_73A8E4F455C4EFA1	r2_plot_item_119	<GEN>r2_plot_item_119						
+_DD992FED5DB51AA6	r2_plot_item_12	<GEN>r2_plot_item_12						
+_B3A8E4F413D4EF98	r2_plot_item_120	<GEN>r2_plot_item_120						
+_B3A8E4F453D4EF99	r2_plot_item_121	<GEN>r2_plot_item_121						
+_B3A8E4F493D4EF9A	r2_plot_item_122	<GEN>r2_plot_item_122						
+_B3A8E4F4D3D4EF9B	r2_plot_item_123	<GEN>r2_plot_item_123						
+_B3A8E4F414D4EF9C	r2_plot_item_124	<GEN>r2_plot_item_124						
+_B3A8E4F454D4EF9D	r2_plot_item_125	<GEN>r2_plot_item_125						
+_B3A8E4F494D4EF9E	r2_plot_item_126	<GEN>r2_plot_item_126						
+_B3A8E4F4D4D4EF9F	r2_plot_item_127	<GEN>r2_plot_item_127						
+_B3A8E4F415D4EFA0	r2_plot_item_128	<GEN>r2_plot_item_128						
+_B3A8E4F455D4EFA1	r2_plot_item_129	<GEN>r2_plot_item_129						
+_DDA92FED5DC51AA6	r2_plot_item_13	<GEN>r2_plot_item_13						
+_F3A8E4F413E4EF98	r2_plot_item_130	<GEN>r2_plot_item_130						
+_F3A8E4F453E4EF99	r2_plot_item_131	<GEN>r2_plot_item_131						
+_F3A8E4F493E4EF9A	r2_plot_item_132	<GEN>r2_plot_item_132						
+_F3A8E4F4D3E4EF9B	r2_plot_item_133	<GEN>r2_plot_item_133						
+_F3A8E4F414E4EF9C	r2_plot_item_134	<GEN>r2_plot_item_134						
+_F3A8E4F454E4EF9D	r2_plot_item_135	<GEN>r2_plot_item_135						
+_F3A8E4F494E4EF9E	r2_plot_item_136	<GEN>r2_plot_item_136						
+_F3A8E4F4D4E4EF9F	r2_plot_item_137	<GEN>r2_plot_item_137						
+_F3A8E4F415E4EFA0	r2_plot_item_138	<GEN>r2_plot_item_138						
+_F3A8E4F455E4EFA1	r2_plot_item_139	<GEN>r2_plot_item_139						
+_DDB92FED5DD51AA6	r2_plot_item_14	<GEN>r2_plot_item_14						
+_34A8E4F413F4EF98	r2_plot_item_140	<GEN>r2_plot_item_140						
+_34A8E4F453F4EF99	r2_plot_item_141	<GEN>r2_plot_item_141						
+_34A8E4F493F4EF9A	r2_plot_item_142	<GEN>r2_plot_item_142						
+_34A8E4F4D3F4EF9B	r2_plot_item_143	<GEN>r2_plot_item_143						
+_34A8E4F414F4EF9C	r2_plot_item_144	<GEN>r2_plot_item_144						
+_34A8E4F454F4EF9D	r2_plot_item_145	<GEN>r2_plot_item_145						
+_34A8E4F494F4EF9E	r2_plot_item_146	<GEN>r2_plot_item_146						
+_34A8E4F4D4F4EF9F	r2_plot_item_147	<GEN>r2_plot_item_147						
+_34A8E4F415F4EFA0	r2_plot_item_148	<GEN>r2_plot_item_148						
+_34A8E4F455F4EFA1	r2_plot_item_149	<GEN>r2_plot_item_149						
+_DDC92FED5DE51AA6	r2_plot_item_15	<GEN>r2_plot_item_15						
+_74A8E4F41304EF98	r2_plot_item_150	<GEN>r2_plot_item_150						
+_74A8E4F45304EF99	r2_plot_item_151	<GEN>r2_plot_item_151						
+_74A8E4F49304EF9A	r2_plot_item_152	<GEN>r2_plot_item_152						
+_74A8E4F4D304EF9B	r2_plot_item_153	<GEN>r2_plot_item_153						
+_74A8E4F41404EF9C	r2_plot_item_154	<GEN>r2_plot_item_154						
+_74A8E4F45404EF9D	r2_plot_item_155	<GEN>r2_plot_item_155						
+_74A8E4F49404EF9E	r2_plot_item_156	<GEN>r2_plot_item_156						
+_74A8E4F4D404EF9F	r2_plot_item_157	<GEN>r2_plot_item_157						
+_74A8E4F41504EFA0	r2_plot_item_158	<GEN>r2_plot_item_158						
+_74A8E4F45504EFA1	r2_plot_item_159	<GEN>r2_plot_item_159						
+_DDD92FED5DF51AA6	r2_plot_item_16	<GEN>r2_plot_item_16						
+_B4A8E4F41314EF98	r2_plot_item_160	<GEN>r2_plot_item_160						
+_B4A8E4F45314EF99	r2_plot_item_161	<GEN>r2_plot_item_161						
+_B4A8E4F49314EF9A	r2_plot_item_162	<GEN>r2_plot_item_162						
+_B4A8E4F4D314EF9B	r2_plot_item_163	<GEN>r2_plot_item_163						
+_B4A8E4F41414EF9C	r2_plot_item_164	<GEN>r2_plot_item_164						
+_B4A8E4F45414EF9D	r2_plot_item_165	<GEN>r2_plot_item_165						
+_B4A8E4F49414EF9E	r2_plot_item_166	<GEN>r2_plot_item_166						
+_B4A8E4F4D414EF9F	r2_plot_item_167	<GEN>r2_plot_item_167						
+_B4A8E4F41514EFA0	r2_plot_item_168	<GEN>r2_plot_item_168						
+_B4A8E4F45514EFA1	r2_plot_item_169	<GEN>r2_plot_item_169						
+_DDE92FED5D051AA6	r2_plot_item_17	<GEN>r2_plot_item_17						
+_F4A8E4F41324EF98	r2_plot_item_170	<GEN>r2_plot_item_170						
+_F4A8E4F45324EF99	r2_plot_item_171	<GEN>r2_plot_item_171						
+_F4A8E4F49324EF9A	r2_plot_item_172	<GEN>r2_plot_item_172						
+_F4A8E4F4D324EF9B	r2_plot_item_173	<GEN>r2_plot_item_173						
+_F4A8E4F41424EF9C	r2_plot_item_174	<GEN>r2_plot_item_174						
+_F4A8E4F45424EF9D	r2_plot_item_175	<GEN>r2_plot_item_175						
+_F4A8E4F49424EF9E	r2_plot_item_176	<GEN>r2_plot_item_176						
+_F4A8E4F4D424EF9F	r2_plot_item_177	<GEN>r2_plot_item_177						
+_F4A8E4F41524EFA0	r2_plot_item_178	<GEN>r2_plot_item_178						
+_F4A8E4F45524EFA1	r2_plot_item_179	<GEN>r2_plot_item_179						
+_DDF92FED5D151AA6	r2_plot_item_18	<GEN>r2_plot_item_18						
+_35A8E4F41334EF98	r2_plot_item_180	<GEN>r2_plot_item_180						
+_35A8E4F45334EF99	r2_plot_item_181	<GEN>r2_plot_item_181						
+_35A8E4F49334EF9A	r2_plot_item_182	<GEN>r2_plot_item_182						
+_35A8E4F4D334EF9B	r2_plot_item_183	<GEN>r2_plot_item_183						
+_35A8E4F41434EF9C	r2_plot_item_184	<GEN>r2_plot_item_184						
+_DD092FED5D251AA6	r2_plot_item_19	<GEN>r2_plot_item_19						
+_6D23A3C19AE79771	r2_plot_item_2	<GEN>r2_plot_item_2						
+_DD7933ED5D951EA6	r2_plot_item_20	<GEN>r2_plot_item_20						
+_DD8933ED5DA51EA6	r2_plot_item_21	<GEN>r2_plot_item_21						
+_DD9933ED5DB51EA6	r2_plot_item_22	<GEN>r2_plot_item_22						
+_DDA933ED5DC51EA6	r2_plot_item_23	<GEN>r2_plot_item_23						
+_DDB933ED5DD51EA6	r2_plot_item_24	<GEN>r2_plot_item_24						
+_DDC933ED5DE51EA6	r2_plot_item_25	<GEN>r2_plot_item_25						
+_DDD933ED5DF51EA6	r2_plot_item_26	<GEN>r2_plot_item_26						
+_DDE933ED5D051EA6	r2_plot_item_27	<GEN>r2_plot_item_27						
+_DDF933ED5D151EA6	r2_plot_item_28	<GEN>r2_plot_item_28						
+_DD0933ED5D251EA6	r2_plot_item_29	<GEN>r2_plot_item_29						
+_6D23A3C29AE79B71	r2_plot_item_3	<GEN>r2_plot_item_3						
+_DD7937ED5D9522A6	r2_plot_item_30	<GEN>r2_plot_item_30						
+_DD8937ED5DA522A6	r2_plot_item_31	<GEN>r2_plot_item_31						
+_DD9937ED5DB522A6	r2_plot_item_32	<GEN>r2_plot_item_32						
+_DDA937ED5DC522A6	r2_plot_item_33	<GEN>r2_plot_item_33						
+_DDB937ED5DD522A6	r2_plot_item_34	<GEN>r2_plot_item_34						
+_DDC937ED5DE522A6	r2_plot_item_35	<GEN>r2_plot_item_35						
+_DDD937ED5DF522A6	r2_plot_item_36	<GEN>r2_plot_item_36						
+_DDE937ED5D0522A6	r2_plot_item_37	<GEN>r2_plot_item_37						
+_DDF937ED5D1522A6	r2_plot_item_38	<GEN>r2_plot_item_38						
+_DD0937ED5D2522A6	r2_plot_item_39	<GEN>r2_plot_item_39						
+_6D23A3C39AE79F71	r2_plot_item_4	<GEN>r2_plot_item_4						
+_DD793BED5D9526A6	r2_plot_item_40	<GEN>r2_plot_item_40						
+_DD893BED5DA526A6	r2_plot_item_41	<GEN>r2_plot_item_41						
+_DD993BED5DB526A6	r2_plot_item_42	<GEN>r2_plot_item_42						
+_DDA93BED5DC526A6	r2_plot_item_43	<GEN>r2_plot_item_43						
+_DDB93BED5DD526A6	r2_plot_item_44	<GEN>r2_plot_item_44						
+_DDC93BED5DE526A6	r2_plot_item_45	<GEN>r2_plot_item_45						
+_DDD93BED5DF526A6	r2_plot_item_46	<GEN>r2_plot_item_46						
+_DDE93BED5D0526A6	r2_plot_item_47	<GEN>r2_plot_item_47						
+_DDF93BED5D1526A6	r2_plot_item_48	<GEN>r2_plot_item_48						
+_DD093BED5D2526A6	r2_plot_item_49	<GEN>r2_plot_item_49						
+_6D23A3C49AE7A371	r2_plot_item_5	<GEN>r2_plot_item_5						
+_DD793FED5D952AA6	r2_plot_item_50	<GEN>r2_plot_item_50						
+_DD893FED5DA52AA6	r2_plot_item_51	<GEN>r2_plot_item_51						
+_DD993FED5DB52AA6	r2_plot_item_52	<GEN>r2_plot_item_52						
+_DDA93FED5DC52AA6	r2_plot_item_53	<GEN>r2_plot_item_53						
+_DDB93FED5DD52AA6	r2_plot_item_54	<GEN>r2_plot_item_54						
+_DDC93FED5DE52AA6	r2_plot_item_55	<GEN>r2_plot_item_55						
+_DDD93FED5DF52AA6	r2_plot_item_56	<GEN>r2_plot_item_56						
+_DDE93FED5D052AA6	r2_plot_item_57	<GEN>r2_plot_item_57						
+_DDF93FED5D152AA6	r2_plot_item_58	<GEN>r2_plot_item_58						
+_DD093FED5D252AA6	r2_plot_item_59	<GEN>r2_plot_item_59						
+_6D23A3C59AE7A771	r2_plot_item_6	<GEN>r2_plot_item_6						
+_DD7943ED5D952EA6	r2_plot_item_60	<GEN>r2_plot_item_60						
+_DD8943ED5DA52EA6	r2_plot_item_61	<GEN>r2_plot_item_61						
+_DD9943ED5DB52EA6	r2_plot_item_62	<GEN>r2_plot_item_62						
+_DDA943ED5DC52EA6	r2_plot_item_63	<GEN>r2_plot_item_63						
+_DDB943ED5DD52EA6	r2_plot_item_64	<GEN>r2_plot_item_64						
+_DDC943ED5DE52EA6	r2_plot_item_65	<GEN>r2_plot_item_65						
+_DDD943ED5DF52EA6	r2_plot_item_66	<GEN>r2_plot_item_66						
+_DDE943ED5D052EA6	r2_plot_item_67	<GEN>r2_plot_item_67						
+_DDF943ED5D152EA6	r2_plot_item_68	<GEN>r2_plot_item_68						
+_DD0943ED5D252EA6	r2_plot_item_69	<GEN>r2_plot_item_69						
+_6D23A3C69AE7AB71	r2_plot_item_7	<GEN>r2_plot_item_7						
+_DD7947ED5D9532A6	r2_plot_item_70	<GEN>r2_plot_item_70						
+_DD8947ED5DA532A6	r2_plot_item_71	<GEN>r2_plot_item_71						
+_DD9947ED5DB532A6	r2_plot_item_72	<GEN>r2_plot_item_72						
+_DDA947ED5DC532A6	r2_plot_item_73	<GEN>r2_plot_item_73						
+_DDB947ED5DD532A6	r2_plot_item_74	<GEN>r2_plot_item_74						
+_DDC947ED5DE532A6	r2_plot_item_75	<GEN>r2_plot_item_75						
+_DDD947ED5DF532A6	r2_plot_item_76	<GEN>r2_plot_item_76						
+_DDE947ED5D0532A6	r2_plot_item_77	<GEN>r2_plot_item_77						
+_DDF947ED5D1532A6	r2_plot_item_78	<GEN>r2_plot_item_78						
+_DD0947ED5D2532A6	r2_plot_item_79	<GEN>r2_plot_item_79						
+_6D23A3C79AE7AF71	r2_plot_item_8	<GEN>r2_plot_item_8						
+_DD794BED5D9536A6	r2_plot_item_80	<GEN>r2_plot_item_80						
+_DD894BED5DA536A6	r2_plot_item_81	<GEN>r2_plot_item_81						
+_DD994BED5DB536A6	r2_plot_item_82	<GEN>r2_plot_item_82						
+_DDA94BED5DC536A6	r2_plot_item_83	<GEN>r2_plot_item_83						
+_DDB94BED5DD536A6	r2_plot_item_84	<GEN>r2_plot_item_84						
+_DDC94BED5DE536A6	r2_plot_item_85	<GEN>r2_plot_item_85						
+_DDD94BED5DF536A6	r2_plot_item_86	<GEN>r2_plot_item_86						
+_DDE94BED5D0536A6	r2_plot_item_87	<GEN>r2_plot_item_87						
+_DDF94BED5D1536A6	r2_plot_item_88	<GEN>r2_plot_item_88						
+_DD094BED5D2536A6	r2_plot_item_89	<GEN>r2_plot_item_89						
+_6D23A3C89AE7B371	r2_plot_item_9	<GEN>r2_plot_item_9						
+_DD794FED5D953AA6	r2_plot_item_90	<GEN>r2_plot_item_90						
+_DD894FED5DA53AA6	r2_plot_item_91	<GEN>r2_plot_item_91						
+_DD994FED5DB53AA6	r2_plot_item_92	<GEN>r2_plot_item_92						
+_DDA94FED5DC53AA6	r2_plot_item_93	<GEN>r2_plot_item_93						
+_DDB94FED5DD53AA6	r2_plot_item_94	<GEN>r2_plot_item_94						
+_DDC94FED5DE53AA6	r2_plot_item_95	<GEN>r2_plot_item_95						
+_DDD94FED5DF53AA6	r2_plot_item_96	<GEN>r2_plot_item_96						
+_DDE94FED5D053AA6	r2_plot_item_97	<GEN>r2_plot_item_97						
+_DDF94FED5D153AA6	r2_plot_item_98	<GEN>r2_plot_item_98						
+_DD094FED5D253AA6	r2_plot_item_99	<GEN>r2_plot_item_99						
+_EC070CCDE03513A2	test_scroll_r2	<GEN>test_scroll_r2						
+_EB7600F15E16A49C	icbss_marauder	<GEN>icbss_marauder						
+_E008D39EEB0B0F90	icbss_pvp	<GEN>icbss_pvp						
+_5F20AACF91733A83	tp_kami_corrupted_moor	<GEN>tp_kami_corrupted_moor						
+_A5D8598CCEB08C7C	tp_kami_corrupted_moor_fairhaven	<GEN>tp_kami_corrupted_moor_fairhaven						
+_B288BF64B8076BD9	tp_kami_corrupted_moor_pyr	<GEN>tp_kami_corrupted_moor_pyr						
+_96CDD4B4494E8C57	tp_kami_corrupted_moor_yrkanis	<GEN>tp_kami_corrupted_moor_yrkanis						
+_B11088542B8893D1	tp_kami_corrupted_moor_zora	<GEN>tp_kami_corrupted_moor_zora						
+_AFB506DAA9BEAABF	tp_karavan_corrupted_moor	<GEN>tp_karavan_corrupted_moor						
+_5518BA5AE9563577	tp_karavan_corrupted_moor_fairhaven	<GEN>tp_karavan_corrupted_moor_fairhaven						
+_D4D22B47B9CFE734	tp_karavan_corrupted_moor_pyr	<GEN>tp_karavan_corrupted_moor_pyr						
+_A3024CC6DADBD498	tp_karavan_corrupted_moor_yrkanis	<GEN>tp_karavan_corrupted_moor_yrkanis						
+_D37E0CAE4C1E4452	tp_karavan_corrupted_moor_zora	<GEN>tp_karavan_corrupted_moor_zora						
+_30284704CC2117ED	xmas_gingeryubo	Gingerbread Yubo	a	the	Gingerbread Yubo		the	
+_992D57D25430CAB2	xmas_gingerbread	Gingerbread Man	a	the	Gingerbread Man		the	
+_E558E5FDAECBB8AB	event_sheet_music	Sheet	a	the	Sheet		the	
+_822ED5F858D9899F	ic_ice_stick	Ice Stick	an	the	Ice Sticks		the	
+_7DAC507AA992B127	ic_star_stick	Star Stick	a	the	Star Sticks		the	
+_AD64ADF3C56C8440	tp_kami_ranger_camp	Kami Teleporter Pact for Ranger Camp	a	the	Kami Teleporter Pacts for Ranger Camp		the	
+_85BA00F2EAE1B540	tp_kami_shining_lake	Kami Teleporter Pact for Shining Lake	a	the	Kami Teleporter Pacts for Shining Lake		the	
+_1BB4E021DB5BE209	tp_karavan_ranger_camp	Karavan Teleporter Pact for Ranger Camp	a	the	Karavan Teleporter Pacts for Ranger Camp		the	
+_79A8C0CE2A3D11EA	tp_karavan_shattered_ruins	Karavan Teleporter Pact for Shattered Ruins	a	the	Karavan Teleporter Pacts for Shattered Ruins		the	
+_5DBA9814E46B947A	rite_ranger_map_book	Map	a	the	Map		the	
+_3869B7E1D7D0813A	ranger_rite_leader_tool	List Editor	a	the	List Editor		the	
+_16FED261B53DAA77	ranger_rite_flare_gun	Flare Gun	a	the	Flare Gun		the	
+_1DABFEA149D1383F	m0817googf01	Supreme leaf of corrupted cratcha	a	the	Supreme leaf of corrupted cratcha		the	
+_1E9C1AA10B11744E	m0818googf01	Supreme stem of corrupted cratcha	a	the	Supreme stem of corrupted cratcha		the	
+_A8AFB13DADA8E4BB	teddragus	Teddy	a	the	Teddies	\d	the	
+_CA8F29F0AAD849F6	teddploderos	Teddy	a	the	Teddies	\d	the	
+_F9902D115DEA7C12	teddmadakam	Teddy	a	the	Teddies	\d	the	
+_C1BDB91DE857FCA9	teddlumper	Teddy	a	the	Teddies	\d	the	
+_C1BD952624A7FCA4	teddgubani	Teddy	a	the	Teddies	\d	the	
+_AA282DFA2D299478	teddarma	Teddy	a	the	Teddies	\d	the	
 _5FB35676CF1F05E9	gubani_mount_0	Gubani Mount	a	the	Gubani Mount	\d	the	Gubani Mount
 _5FB35676CF1F09E9	gubani_mount_1	Gubani Mount	a	the	Gubani Mount	\d	the	Gubani Mount
 _5FB35676CF1F0DE9	gubani_mount_2	Gubani Mount	a	the	Gubani Mount	\d	the	Gubani Mount
@@ -7851,16 +7851,20 @@ _DE77E608A092B618	ictaup	Tissan Panties	\d	the	Tissan Panties	\d	the	Tryker Ligh
 _55FF165F364CCCED	ictauv	Tissan Bra	\d	the	Tissan Bra	\d	the	Tryker Light Bra
 _80F7C6C5E3249271	iczaup	Nin-Ka Panties	\d	the	Nin-Ka Panties	\d	the	Zoraï Light Panties
 _B5D4E9917A8BD9B1	iczauv	Nin-Ka Bra	\d	the	Nin-Ka Bra	\d	the	Zoraï Light Bra
-_7179D6FE2D87A5B8	tp_interface_kami	Kami Teleportation Artefact	a	the	Kami Teleportation Artefact	the
-_84020E9F43014E3E	tp_interface_karavan	Karavan Teleportation Artefact	a	the	Karavan Teleportation Artefact	the
-_E1069680FFDA0183	wheel_token_anlor	withered token	a	the	withered tokens	the
-_54445E2B93587688	wheel_token_atysmas	withered token	a	the	withered tokens	the
-_E10696717E4BCD84	wheel_token_basic	withered token	a	the	withered tokens	the
-_5DC47E6D6C73FA98	wheel_token_choice	withered token	a	the	withered tokens	the
-_1DE726797DBE9444	wheel_token_fine	withered token	a	the	withered tokens	the
-_5DC49E6FAE842EA8	wheel_token_suprem	withered token	a	the	withered tokens	the
-_677212AB08CFE10C	wheel_token_xl	withered token	a	the	withered tokens	the
-_B2B03527C20E549C	steak_rendor_1	Rendor Meat	a	the	Rendor Meat
-_B2B03527C20E589C	steak_rendor_2	Rendor Meat	a	the	Rendor Meat
-_B2B03527C20E5C9C	steak_rendor_3	Rendor Meat	a	the	Rendor Meat
-_B2B03527C20E609C	steak_rendor_4	Rendor Meat	a	the	Rendor Meat
+_7179D6FE2D87A5B8	tp_interface_kami	Kami Teleportation Artefact	a	the	Kami Teleportation Artefact	the		
+_84020E9F43014E3E	tp_interface_karavan	Karavan Teleportation Artefact	a	the	Karavan Teleportation Artefact	the		
+_E1069680FFDA0183	wheel_token_anlor	withered token	a	the	withered tokens	the		
+_54445E2B93587688	wheel_token_atysmas	withered token	a	the	withered tokens	the		
+_E10696717E4BCD84	wheel_token_basic	withered token	a	the	withered tokens	the		
+_5DC47E6D6C73FA98	wheel_token_choice	withered token	a	the	withered tokens	the		
+_1DE726797DBE9444	wheel_token_fine	withered token	a	the	withered tokens	the		
+_5DC49E6FAE842EA8	wheel_token_suprem	withered token	a	the	withered tokens	the		
+_677212AB08CFE10C	wheel_token_xl	withered token	a	the	withered tokens	the		
+_B2B03527C20E549C	steak_rendor_1	Rendor Meat	a	the	Rendor Meat			
+_B2B03527C20E589C	steak_rendor_2	Rendor Meat	a	the	Rendor Meat			
+_B2B03527C20E5C9C	steak_rendor_3	Rendor Meat	a	the	Rendor Meat			
+_B2B03527C20E609C	steak_rendor_4	Rendor Meat	a	the	Rendor Meat			
+_9FDE41BB63B664A1	nexus_neck_1	Iridescent Desert Necklace	a	the	Iridescent Desert Necklace			
+_DFDE41BB63B664A1	nexus_neck_2	Iridescent Forest Necklace	a	the	Iridescent Forest Necklace			
+_1FDE41BB63B664A1	nexus_neck_3	Iridescent Lakes Necklace	a	the	Iridescent Lakes Necklace			
+_60DE41BB63B664A1	nexus_neck_4	Iridescent Jungle Necklace	a	the	Iridescent Jungle Necklace			
