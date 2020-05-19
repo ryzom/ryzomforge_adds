@@ -34218,7 +34218,7 @@ LEAGUE_INVITOR_NOT_LEADER ()
 }
 
 // HASH_VALUE 8FD6CB6B10B80ED5
-LEAGUE_PROPOSALL (player p)
+LEAGUE_PROPOSAL (player p)
 {
 	(p.gender = male)
 		league_proposal_m	[$p$ offers you to join his league.]
@@ -36927,6 +36927,13 @@ MENU_HOF ()
 
 }
 
+// HASH_VALUE DFB6088196347B98
+MENU_KAMIA_ATA ()
+{
+			[Kamia'ata]
+
+}
+
 // HASH_VALUE 6A5644916017488F
 MENU_LIGHT_UP ()
 {
@@ -36945,6 +36952,13 @@ MENU_LORDOY ()
 MENU_MATISPOETRY ()
 {
 			[Collection of Matis poetry.]
+
+}
+
+// HASH_VALUE A666705B25C4B47C
+MENU_DANGER ()
+{
+			[Danger]
 
 }
 

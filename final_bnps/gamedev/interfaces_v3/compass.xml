@@ -83,7 +83,7 @@
           posref="TL TL"
           x="8"
           y="-8"
-          hardtext="uiPlaylistTitle"
+          hardtext=""
           shadow="true"
           color="255 255 255 255"
           fontsize="12" />
