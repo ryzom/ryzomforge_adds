@@ -1270,7 +1270,7 @@
           dragable="true"
           menu_r="ui:interface:cm_memory_phrase"
           menu_r_empty_slot="ui:interface:cm_memory_phrase_empty"
-          is_shortcut="true"
+          is_shortcut="false"
           drag_copy="true"
           onclick_r="phrase_memory_before_menu"
           onclick_l="cast_phrase_or_create_new"
