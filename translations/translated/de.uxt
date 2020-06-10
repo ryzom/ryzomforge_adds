@@ -5257,7 +5257,7 @@ uiTIWaitCrystallize	[Kristallisierung, bitte warten...]
 
 // HASH_VALUE C6F1C8331DF0CFC0
 // INDEX 1290
-uiTIForaging	[%qt Material/ien der Qualität %ql]
+uiTIForaging	[%qt der Qualität %ql]
 
 // HASH_VALUE AAC6F3742A34A29E
 // INDEX 1291
