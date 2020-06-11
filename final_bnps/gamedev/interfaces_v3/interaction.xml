@@ -845,32 +845,27 @@
             name="uiFilterMenuAround"
             handler="chat_target_selected"
             params="say"
-            formatted="true" 
-            icon="r2_toolbar_set_as_leader.tga" />
+            formatted="true" />
     <action id="region"
             name="uiFilterMenuRegion"
             handler="chat_target_selected"
             params="region"
-            formatted="true" 
-            icon="rpjobitem_203_c.tga" />
+            formatted="true" />
     <action id="universe"
             name="uiFilterMenuUniverse"
             handler="chat_target_selected"
             params="universe"
-            formatted="true" 
-            icon="ico_atys.tga" />
+            formatted="true" />
     <action id="team"
             name="uiFilterMenuTeam"
             handler="chat_target_selected"
             params="team"
-            formatted="true" 
-            icon="teammate_map.tga" />
+            formatted="true" />
     <action id="guild"
             name="uiFilterMenuGuild"
             handler="chat_target_selected"
             params="guild"
-            formatted="true" 
-            icon="spe_memory.tga" />
+            formatted="true"/>
   </group>
   <!-- actual action handlers are created in code, this just lists the emotes we want to appear in the quick access menu -->
   <group type="menu"
@@ -1963,33 +1958,27 @@
         <action id="around"
                 name="uiAroundMe"
                 usergroup_l="chat_menu_button"
-                usergroup_params_l="chat_db=AROUND_ME" 
-                icon="r2_toolbar_set_as_leader.tga" />
+                usergroup_params_l="chat_db=AROUND_ME" />
         <action id="region"
                 name="uiREGION"
                 usergroup_l="chat_menu_button"
-                usergroup_params_l="chat_db=REGION_CHAT" 
-                icon="rpjobitem_203_c.tga" />
+                usergroup_params_l="chat_db=REGION_CHAT" />
         <action id="team"
                 name="uiTeam"
                 usergroup_l="chat_menu_button"
-                usergroup_params_l="chat_db=TEAM_CHAT" 
-                icon="teammate_map.tga" />
+                usergroup_params_l="chat_db=TEAM_CHAT" />
         <action id="guild"
                 name="uimGuild"
                 usergroup_l="chat_menu_button"
-                usergroup_params_l="chat_db=GUILD_CHAT" 
-                icon="spe_memory.tga" />
+                usergroup_params_l="chat_db=GUILD_CHAT"  />
         <action id="universe"
                 name="uiUNIVERSE"
                 usergroup_l="chat_menu_button"
-                usergroup_params_l="chat_db=UNIVERSE_CHAT" 
-                icon="ico_atys.tga" />
+                usergroup_params_l="chat_db=UNIVERSE_CHAT" />
         <action id="system"
                 name="uiSystemInfo"
                 usergroup_l="chat_menu_button"
-                usergroup_params_l="chat_db=SYSTEM_INFO" 
-                icon="spe_options.tga" />
+                usergroup_params_l="chat_db=SYSTEM_INFO" />
         <!-- Bit of a hack as vector is not supported inside a submenu -->
         <action id="dyn0"
                 name="0"

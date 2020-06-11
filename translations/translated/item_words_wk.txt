@@ -7864,3 +7864,7 @@ _B2B03527C20E549C	steak_rendor_1	Rendor Meat	a	the	Rendor Meat
 _B2B03527C20E589C	steak_rendor_2	Rendor Meat	a	the	Rendor Meat			
 _B2B03527C20E5C9C	steak_rendor_3	Rendor Meat	a	the	Rendor Meat			
 _B2B03527C20E609C	steak_rendor_4	Rendor Meat	a	the	Rendor Meat			
+_9FDE41BB63B664A1	nexus_neck_1	Nexu Neck	a	the	Nexus Neck			
+_DFDE41BB63B664A1	nexus_neck_2	Nexu Neck	a	the	Nexus Neck			
+_1FDE41BB63B664A1	nexus_neck_3	Nexu Neck	a	the	Nexus Neck			
+_60DE41BB63B664A1	nexus_neck_4	Nexu Neck	a	the	Nexus Neck			
