@@ -101,7 +101,7 @@ ANIMAL_INTERLOCUTOR_HAVE_MAX ()
 // HASH_VALUE EBB7EBE03A73EE7E
 ANIMAL_INVENTORY_INACCESSIBLE (int number)
 {
-			[&SYS&Dein Tier #$number$ ist zu weit entfernt, als dass du an sein Inventar kommen könntest. ]
+			[&SYS&Dein Tier #$number$ ist zu weit entfernt, als dass du an sein Inventar kommen könntest.]
 
 }
 
@@ -247,21 +247,21 @@ AUTO_LOOT_SUCCESS (int nb, item i, int level)
 // HASH_VALUE E9D50965D2F5FB5C
 AVALAE_CITY_WELCOMER_1_P_BC_ANSWER_C_1 (bot trainer_c_1)
 {
-		avalae_city_welcomer_1_p_bc_answer_c_1	[Meisterin $trainer_c_1$ ist die Handwerkslehrerin von Avalae, ich markiere ihren Aufenthaltsort auf deiner Karte. ]
+		avalae_city_welcomer_1_p_bc_answer_c_1	[Meisterin $trainer_c_1$ ist die Handwerkslehrerin von Avalae, ich markiere ihren Aufenthaltsort auf deiner Karte.]
 
 }
 
 // HASH_VALUE 8265D0399072AD0B
 AVALAE_CITY_WELCOMER_1_P_BC_ANSWER_F_11 (bot trainer_f_1)
 {
-		avalae_city_welcomer_1_p_bc_answer_f_11	[Meister $trainer_f_1$ ist der Kampflehrer von Avalae, ich markiere seinen Aufenthaltsort auf deiner Karte. ]
+		avalae_city_welcomer_1_p_bc_answer_f_11	[Meister $trainer_f_1$ ist der Kampflehrer von Avalae, ich markiere seinen Aufenthaltsort auf deiner Karte.]
 
 }
 
 // HASH_VALUE 4483D0A464B84BD9
 AVALAE_CITY_WELCOMER_1_P_BC_ANSWER_H_11 (bot trainer_h_1)
 {
-		avalae_city_welcomer_1_p_bc_answer_h_11	[Meisterin $trainer_h_1$ ist die Erntelehrerin von Avalae, ich markiere ihren Aufenthaltsort auf deiner Karte. ]
+		avalae_city_welcomer_1_p_bc_answer_h_11	[Meisterin $trainer_h_1$ ist die Erntelehrerin von Avalae, ich markiere ihren Aufenthaltsort auf deiner Karte.]
 
 }
 
@@ -2261,7 +2261,7 @@ CASINO_IGOTJACKTICKET ()
 // HASH_VALUE D6D5B3A11BC18A1F
 CASINO_IGOTTITLETICKET ()
 {
-		casino_igottitleticket	[Du hast einen Gutschein fûr einen Titel gewonnen. ]
+		casino_igottitleticket	[Du hast einen Gutschein fûr einen Titel gewonnen.]
 
 }
 
@@ -3413,7 +3413,7 @@ CITIZENSHIP_MATIS_DAVAE_OBJ (bot davae)
 CITIZENSHIP_MATIS_DAVAE_PEARL ()
 {
 	( self.gender = male )
-		citizenship_matis_davae_pearl_m	[Ah, ich habe hier möglicherweise einen künftigen Bürger vor mir? Gut. Ich bin der Wächter der Loyalität und ein unermüdlicher Verteidiger des Reiches. Schwörst Du, dem Volk der Matis treu zu sein? ]
+		citizenship_matis_davae_pearl_m	[Ah, ich habe hier möglicherweise einen künftigen Bürger vor mir? Gut. Ich bin der Wächter der Loyalität und ein unermüdlicher Verteidiger des Reiches. Schwörst Du, dem Volk der Matis treu zu sein?]
 
 	( self.gender = female )
 		citizenship_matis_davae_pearl_f	[Ah, ich habe hier möglicherweise eine künftige Bürgerin vor mir? Gut. Ich bin der Wächter der Loyalität und ein unermüdlicher Verteidiger des Reiches. Schwörst Du, dem Volk der Matis treu zu sein?]
@@ -3704,7 +3704,7 @@ CITIZENSHIP_MATIS_QUERY_1_YRKANIS ()
 // HASH_VALUE 60A08546FF2BB50C
 CITIZENSHIP_MATIS_QUERY_2 ()
 {
-		citizenship_matis_query_2	[Du hast richtig geantwortet. Yrkanis, Sohn von Yasson, kam im Exil zur Welt und mit ihm wurde eine neue Hoffnung geboren. Unsere Hauptstadt trägt seinen Namen. Der König ist ein außergewöhnlicher Herrscher. Kannst Du mir sagen, in welchem Jahr er den Thron bestieg? ]
+		citizenship_matis_query_2	[Du hast richtig geantwortet. Yrkanis, Sohn von Yasson, kam im Exil zur Welt und mit ihm wurde eine neue Hoffnung geboren. Unsere Hauptstadt trägt seinen Namen. Der König ist ein außergewöhnlicher Herrscher. Kannst Du mir sagen, in welchem Jahr er den Thron bestieg?]
 
 }
 
@@ -3975,7 +3975,7 @@ CITIZENSHIP_TRYKER_GUILD_INTRO_NO_TRYKER ()
 // HASH_VALUE 25DB701C276D0CA8
 CITIZENSHIP_TRYKER_GUILD_P_DESC (bot giver)
 {
-		citizenship_tryker_guild_p_desc	[Wenn Du dieses Ritual vollziehst, wird Deine Gilde zu einer föderalen Tryker-Gilde. ]
+		citizenship_tryker_guild_p_desc	[Wenn Du dieses Ritual vollziehst, wird Deine Gilde zu einer föderalen Tryker-Gilde.]
 
 }
 
@@ -6094,7 +6094,7 @@ CONVERSION_KAMI_FYROS_QUERY_2_SPHERE ()
 // HASH_VALUE B5CFF698FEBFEDB4
 CONVERSION_KAMI_FYROS_QUERY_3 ()
 {
-		conversion_kami_fyros_query_3	[Die Erleuchtung: Der Zustand der vollkommenen Glückseligkeit, wo die Homins eins mit Ma-Duk sind und das universelle Wissen erhalten. Um das zu erreichen müssen die Gläubigen allen die heiligen Worte des Ma-Duk predigen. Kannst du mir sagen, wie viele davon im Buch der Enthüllungen nieder geschrieben wurden? ]
+		conversion_kami_fyros_query_3	[Die Erleuchtung: Der Zustand der vollkommenen Glückseligkeit, wo die Homins eins mit Ma-Duk sind und das universelle Wissen erhalten. Um das zu erreichen müssen die Gläubigen allen die heiligen Worte des Ma-Duk predigen. Kannst du mir sagen, wie viele davon im Buch der Enthüllungen nieder geschrieben wurden?]
 
 }
 
@@ -7956,7 +7956,7 @@ CWINTROZORAIFIN_DIALOG_GUILD (bot player)
 // HASH_VALUE D253A22CF5F4CFD4
 CWINTROZORAIFIN_DIALOG_SAGE (place city, bot givervar)
 {
-		cwintrozoraifin_dialog_sage	[Du möchtest also mehr über die Welt erfahren? Dann werde ich Dir von der Truhe der Weisheit erzählen. {break}Diese Truhe repräsentiert die Summe unserer Erkenntnisse, sie ist ein großes Behältnis für die Sammlung der Bernsteinwürfel. {break}Die Magie dieser Würfel wurde vor langer Zeit von Homins entdeckt und studiert, angetrieben von dem Bemühen, ihr Wissen gegen die Spuren der Zeit und des Feuers zu schützen. Sie lernten, die Kräfte der Bernsteinwürfel zu nutzen und das Wissen darin aufzubewahren, gleich einem Insekt, das in Harz eingeschlossen ist. {break}Jeder Homin, der seine Kenntnisse mehren möchte, sollte Bernsteinwürfel sammeln und nach ihnen suchen. Wenn $givervar$ Dich zu mir schickt, zeigt mir das, dass Du einer jener Homins bist, die von Wissensdurst getrieben sind. {break}Durch meine Arbeit und den dadurch gewachsenen Verbindungen zu eingeweihten Homins bin ich in der Lage, zahlreiche Würfel zu erlangen. Ich teile sie mit jenen, denen es gelingt, die Prüfungen der Eingeweihten erfolgreich zu bestehen. Das Wissen ist wahrhaftig ein kostbares Gut und wir müssen voller Umsicht dafür sorgen, dass sie nicht in falsche Hände geraten. {break}Du hast bereits Deinen Willen unter Beweis gestellt, den Pfad des Wissens zu erkunden und ich beglückwünsche Dich dafür. {break}Als Hüter des Wissenss von $city$ ist es mir eine Ehre, Dir diesen Würfel als Erinnerung daran zu übergeben, was Du heute gelernt hast.]
+		cwintrozoraifin_dialog_sage	[Du möchtest also mehr über die Welt erfahren? Dann werde ich Dir von der Truhe der Weisheit erzählen. {break}Diese Truhe repräsentiert die Summe unserer Erkenntnisse, sie ist ein großes Behältnis für die Sammlung der Bernsteinwürfel. {break}Die Magie dieser Würfel wurde vor langer Zeit von Homins entdeckt und studiert, angetrieben von dem Bemühen, ihr Wissen gegen die Spuren der Zeit und des Feuers zu schützen. Sie lernten, die Kräfte der Bernsteinwürfel zu nutzen und das Wissen darin aufzubewahren, gleich einem Insekt, das in Harz eingeschlossen ist. {break}Jeder Homin, der seine Kenntnisse mehren möchte, sollte Bernsteinwürfel sammeln und nach ihnen suchen. Wenn $givervar$ Dich zu mir schickt, zeigt mir das, dass Du einer jener Homins bist, die von Wissensdurst getrieben sind. {break}Durch meine Arbeit und den dadurch gewachsenen Verbindungen zu eingeweihten Homins bin ich in der Lage, zahlreiche Würfel zu erlangen. Ich teile sie mit jenen, denen es gelingt, die Prüfungen der Eingeweihten erfolgreich zu bestehen. Das Wissen ist wahrhaftig ein kostbares Gut und wir müssen voller Umsicht dafür sorgen, dass sie nicht in falsche Hände geraten. {break}Du hast bereits Deinen Willen unter Beweis gestellt, den Pfad des Wissens zu erkunden und ich beglückwünsche Dich dafür. {break}Als Hüter des Wissens von $city$ ist es mir eine Ehre, Dir diesen Würfel als Erinnerung daran zu übergeben, was Du heute gelernt hast.]
 
 }
 
@@ -9966,7 +9966,7 @@ DEBUG_CHAT_P_DA1 ()
 // HASH_VALUE 19E81759F52522C9
 DEBUG_CHAT_P_DA_TALK ()
 {
-		debug_chat_p_da_talk	[Testsatz gefolgt von einem Sprechschritt. ]
+		debug_chat_p_da_talk	[Testsatz gefolgt von einem Sprechschritt.]
 
 }
 
@@ -10064,7 +10064,7 @@ DEBUG_CRASH_P_SMG_CRASH2 ()
 // HASH_VALUE 8A11FA892DDE5953
 DEBUG_DIVERS_MIS_DESC (bot giver)
 {
-		debug_divers_mis_desc	[Test recv Ruhm, ]
+		debug_divers_mis_desc	[Test recv Ruhm,]
 
 }
 
@@ -10134,14 +10134,14 @@ DEBUG_FAIL_MIS_TITLE (bot giver)
 // HASH_VALUE 1A3FA5DCA6A21B57
 DEBUG_FAIL_P_SMF_FAILURE1 ()
 {
-		debug_fail_p_smf_failure1	[Missionsschritt gescheitert. Weiter zum nächsten. ]
+		debug_fail_p_smf_failure1	[Missionsschritt gescheitert. Weiter zum nächsten.]
 
 }
 
 // HASH_VALUE 9C82B35867A19CBA
 DEBUG_FAIL_P_SMG_PERIODE ()
 {
-		debug_fail_p_smg_periode	[Scheitern des Schritts - weiter zum nächsten ]
+		debug_fail_p_smg_periode	[Scheitern des Schritts - weiter zum nächsten]
 
 }
 
@@ -10617,7 +10617,7 @@ DECLARATION_3 ()
 // HASH_VALUE 3EAEBE444863E317
 DECLARATION_4 ()
 {
-			[&bbl&Die Karavan sind Gesandte und die ersten Auserwählten Jenas. Lerne von Ihnen, um zu einer höheren Stufe in dieser Welt zu gelangen! ]
+			[&bbl&Die Karavan sind Gesandte und die ersten Auserwählten Jenas. Lerne von Ihnen, um zu einer höheren Stufe in dieser Welt zu gelangen!]
 
 }
 
@@ -18447,7 +18447,7 @@ EMOTE_VENGEFUL_SELF (player a)
 		emote_vengeful_self_m	[&EMT&$a$ will sich rächen.]
 
 	(a.gender = female)
-		emote_vengeful_self_f	[&EMT&$a$ will sich rächen. ]
+		emote_vengeful_self_f	[&EMT&$a$ will sich rächen.]
 
 }
 
@@ -18744,7 +18744,7 @@ ENCYCLO_TUTORIAL_MIS_DESC (bot giver)
 // HASH_VALUE 1BC834D31B116528
 ENCYCLO_TUTORIAL_MIS_DESC_2 ()
 {
-		encyclo_tutorial_mis_desc_2	[Du bist dabei, die alten Traditionen der Bernsteinwürfel und der Truhe der Weisheit kennen zu lernen. ]
+		encyclo_tutorial_mis_desc_2	[Du bist dabei, die alten Traditionen der Bernsteinwürfel und der Truhe der Weisheit kennen zu lernen.]
 
 }
 
@@ -19565,7 +19565,7 @@ ENCY_THM_03_17 ()
 // HASH_VALUE 45E81462D2D82810
 ENCY_THM_03_18 ()
 {
-			[Die Matis-Amazonen]
+			[Die Hamazans]
 
 }
 
@@ -23207,7 +23207,7 @@ ENCY_THM_TXT_04_02 ()
 			\n
 			Das Handwerk mit Nita-Knoten verleiht dem Hammer eine bessere Handfertigkeit, wodurch Sie Angriffen besser ausweichen und das Gegengewicht präziser steuern können. Dadurch wird es schwieriger für den Gegner Ihren Angriffen auszuweichen.\n
 			\n
-			Die Scrath-Pflanze, die auch für ihre nährhaften Beeren und ihre prickelnden Gallen bekannt ist, produziert leichte Knoten. Die Hammer die mit diesen Knoten hergestellt werden, können deshalb besser und mit mehr Kontrolle gehandhabt werden. Dadurch wird es schwieriger für Ihren Gegner, Ihren Angriffen auszuweichen. Die Gegengewichte sind auch leichter. ]
+			Die Scrath-Pflanze, die auch für ihre nährhaften Beeren und ihre prickelnden Gallen bekannt ist, produziert leichte Knoten. Die Hammer die mit diesen Knoten hergestellt werden, können deshalb besser und mit mehr Kontrolle gehandhabt werden. Dadurch wird es schwieriger für Ihren Gegner, Ihren Angriffen auszuweichen. Die Gegengewichte sind auch leichter.]
 
 }
 
@@ -23319,7 +23319,7 @@ ENCY_THM_TXT_04_12 ()
 			\n
 			Aromatische Pflanzen werden sowohl zum Kochen von duftenden Gerichten eingesetzt, als auch zum Parfümieren der Luft. Manche Pflanzen haben sedative Eigenschaften. Fyros Mägde benutzen ein aus diesen Pflanzen gewonnenes Öl, mit dem sie ihre Haut einreiben, um sie vor der Wüstensonne zu schützen. \n
 			\n
-			In Folge ihrer Vorliebe für die Feste, haben die Tryker sich zu Experten der Brauerei entwickelt. Mit der Mischung aus gährenden Früchten, Beern und Getreide stellen sie eine Reihe von Getränken her - inklusive Aalen- und Wurzelbier. ]
+			In Folge ihrer Vorliebe für die Feste, haben die Tryker sich zu Experten der Brauerei entwickelt. Mit der Mischung aus gährenden Früchten, Beern und Getreide stellen sie eine Reihe von Getränken her - inklusive Aalen- und Wurzelbier.]
 
 }
 
@@ -26063,7 +26063,7 @@ ENCY_THM_TXT_10_10 ()
 			\n
 			Laut den Schriften des Hoi-Cho fiel der große Zoraï Weise beim Anblick des Höchsten voller Achtung auf die Knie - so wie es der erste Cho vor dem ersten Kami tat. Das Wort Ma-Duk, das so viel heißt wie der Große Schöpfer, kam ihm instinktiv über die Lippen und erfüllte die Leere seines Herzens. Für die Kami Anhänger war das das Ende Jenas und der Anfang einer neuen Ära, in der Ma-Duk den ehrenhaften Homins das Erreichen der Kamiheit versprach.\n
 			\n
-			Daraufhin folgten viele Treffen und im Jahr 2495 diktierte Hoi-Cho das Buch der Offenbarungen für die Nachwelt. Die Offenbarungen beginnen mit den ersten Artikeln, die Ma-Duk gesprochen hat und mit denen man die Kamiheit erreichen kann. Seither sind diese Artikel zum religiösen Verhaltenscode geworden und lauten wie folgt:Artikel 1. Ich bin Ma-Duk, der Schöpfer, der Erschaffer von Atys, und ich bin eins mit den Kamis, die Teil von mir sind. Sie müssen sie so verehren wie den Erschaffer selbst.Artikel 2. Folgen Sie dem Weg der Kami Erleuchtung; er wird Sie zur Erhöhung in die Kamisphäre leiten. Artikel 3. Um die Sphäre der Kamiheit zu betreten und eins mit dem Schöpfer zu sein, müssen Sie den Weg der Erleuchtung nehmen, um Ansehen zu gewinnen.Artikel 4. Ansehen durch Verehrung und Pflege von Atys, er ist meinem Busen entsprungen.Artikel 5. Auf dem Weg zur Kami-Erleuchtung werden Sie versorgt sein und ich werde Ihren Geist wieder entflammen, falls Sie sterben, ehe Sie das ganze Ansehen gewonnen haben. Artikel 6. Lassen Sie sich nicht von falschen Göttern verführen, sie können nicht von der Zusammensetzung Atys' sein, sie haben keinen Platz in meiner Schöpfung, sie zerstören das Gleichgewicht.Artikel 7. Seien Sie ein Feind der Exzesse und Ihre Reise über den Weg der Kamiheit wird erfüllt sein. Artikel 8. So wie ich die Samen des Daseins gesät habe, um Ihr Leben auf Atys vorzubereiten, sollen auch Sie die Erleuchtung der Kamis in den vier Ecken der Welt verbreiten. ]
+			Daraufhin folgten viele Treffen und im Jahr 2495 diktierte Hoi-Cho das Buch der Offenbarungen für die Nachwelt. Die Offenbarungen beginnen mit den ersten Artikeln, die Ma-Duk gesprochen hat und mit denen man die Kamiheit erreichen kann. Seither sind diese Artikel zum religiösen Verhaltenscode geworden und lauten wie folgt:Artikel 1. Ich bin Ma-Duk, der Schöpfer, der Erschaffer von Atys, und ich bin eins mit den Kamis, die Teil von mir sind. Sie müssen sie so verehren wie den Erschaffer selbst.Artikel 2. Folgen Sie dem Weg der Kami Erleuchtung; er wird Sie zur Erhöhung in die Kamisphäre leiten. Artikel 3. Um die Sphäre der Kamiheit zu betreten und eins mit dem Schöpfer zu sein, müssen Sie den Weg der Erleuchtung nehmen, um Ansehen zu gewinnen.Artikel 4. Ansehen durch Verehrung und Pflege von Atys, er ist meinem Busen entsprungen.Artikel 5. Auf dem Weg zur Kami-Erleuchtung werden Sie versorgt sein und ich werde Ihren Geist wieder entflammen, falls Sie sterben, ehe Sie das ganze Ansehen gewonnen haben. Artikel 6. Lassen Sie sich nicht von falschen Göttern verführen, sie können nicht von der Zusammensetzung Atys' sein, sie haben keinen Platz in meiner Schöpfung, sie zerstören das Gleichgewicht.Artikel 7. Seien Sie ein Feind der Exzesse und Ihre Reise über den Weg der Kamiheit wird erfüllt sein. Artikel 8. So wie ich die Samen des Daseins gesät habe, um Ihr Leben auf Atys vorzubereiten, sollen auch Sie die Erleuchtung der Kamis in den vier Ecken der Welt verbreiten.]
 
 }
 
@@ -26674,7 +26674,7 @@ EP2_TRYKER_CRAFT_KAMI_1_P_BC_NOT_OK ()
 // HASH_VALUE 5968E9051C399352
 EP2_TRYKER_CRAFT_KAMI_1_P_BC_SKILL_NOT_OK ()
 {
-		ep2_tryker_craft_kami_1_p_bc_skill_not_ok	[Du scheinst noch nicht über die nötigen Fähigkeiten zu verfügen, um dieses Bauteil zu erschaffen. Du solltest vielleicht etwas probieren, das mehr Deinem Kompetenzbereich entspricht. ]
+		ep2_tryker_craft_kami_1_p_bc_skill_not_ok	[Du scheinst noch nicht über die nötigen Fähigkeiten zu verfügen, um dieses Bauteil zu erschaffen. Du solltest vielleicht etwas probieren, das mehr Deinem Kompetenzbereich entspricht.]
 
 }
 
@@ -26807,7 +26807,7 @@ EP2_TRYKER_HARVEST_KAMI_1_P_DC_MP_QLTY_1 ()
 // HASH_VALUE 88B4C4D3AAA40EA0
 EP2_TRYKER_HARVEST_KAMI_1_P_DC_MP_TYPE_START ()
 {
-		ep2_tryker_harvest_kami_1_p_dc_mp_type_start	[Welche Rohstoffe kannst Du mir anbieten? ]
+		ep2_tryker_harvest_kami_1_p_dc_mp_type_start	[Welche Rohstoffe kannst Du mir anbieten?]
 
 }
 
@@ -26853,7 +26853,7 @@ EP2_TRYKER_HARVEST_KAMI_3_P_OVERLOAD_HARVEST (bot giver, item mp_1, item mp_2, i
 // HASH_VALUE 9F403845D76F062A
 EP2_TRYKER_HARVEST_KARAVAN_1_MIS_DESC (bot giver)
 {
-		ep2_tryker_harvest_karavan_1_mis_desc	[Die Baustelle mit Rohstoffen versorgen. ]
+		ep2_tryker_harvest_karavan_1_mis_desc	[Die Baustelle mit Rohstoffen versorgen.]
 
 }
 
@@ -26895,7 +26895,7 @@ EP2_TRYKER_HARVEST_KARAVAN_1_P_DC_MP_1_QLTY_1 ()
 // HASH_VALUE 78082C96A6C1F8E2
 EP2_TRYKER_HARVEST_KARAVAN_1_P_DC_MP_QLTY_1 ()
 {
-		ep2_tryker_harvest_karavan_1_p_dc_mp_qlty_1	[Gut! Das ist ja eine gute Nachricht, über welche Qualität verfügst Du? ]
+		ep2_tryker_harvest_karavan_1_p_dc_mp_qlty_1	[Gut! Das ist ja eine gute Nachricht, über welche Qualität verfügst Du?]
 
 }
 
@@ -26937,7 +26937,7 @@ EPISODE2_TP_KAMI_ACTE1_PYR_P_DC_TP (place city_destination)
 // HASH_VALUE 6075ED2000BD1382
 EPISODE2_TP_KARAVAN_ACTE1_PYR_P_DC_TP (place city_destination)
 {
-		episode2_tp_karavan_acte1_pyr_p_dc_tp	[Wenn Du aus $city_destination$ kommst, kann ich Dich in Dein Land zurückschicken, damit Du deine Mission im Dienste Jenas erfüllen kannst. Willst Du das, Homin? ]
+		episode2_tp_karavan_acte1_pyr_p_dc_tp	[Wenn Du aus $city_destination$ kommst, kann ich Dich in Dein Land zurückschicken, damit Du deine Mission im Dienste Jenas erfüllen kannst. Willst Du das, Homin?]
 
 }
 
@@ -28821,9 +28821,9 @@ FYROS_ACTE1_KAMI_TP_P_DA_TP_KAMI_ISLAND_OK ()
 // HASH_VALUE 14DEB9F6711BFB3A
 FYROS_ACTE1_KAMI_TP_P_DC_TP_KAMI_ISLAND (place region_name)
 {
-		fyros_acte1_kami_tp_p_dc_tp_kami_island	[ In die Alten Lande ich Dich kann schicken. \n
+		fyros_acte1_kami_tp_p_dc_tp_kami_island	[In die Alten Lande ich Dich kann schicken. \n
 			Dort, in den $region_name$, wo Kitins leben, wertvolle Ressourcen Du wirst finden. \n
-			Sie dienen dem Wiederaufbau unserer Altäre. Für den Weg bereit Du bist? ]
+			Sie dienen dem Wiederaufbau unserer Altäre. Für den Weg bereit Du bist?]
 
 }
 
@@ -29300,7 +29300,7 @@ FYROS_KAMI_NPC_T10_T13_CRAFT_MAIN_P_LDC_INTRO (bot player)
 // HASH_VALUE 93FF835D66F63D9B
 FYROS_KAMI_NPC_T10_T13_CRAFT_MAIN_P_LDC_TELL_ENNEMY (bot player)
 {
-		fyros_kami_npc_t10_t13_craft_main_p_ldc_tell_ennemy	[Ja, $player$. Deshalb ist die Bauzeit jeder Etappe begrenzt. Die eingesetzten Rohstoffe kommen aus Quellen in den alten Landen. Diese Quellen sind nicht unsterblich und die Karavan nutzt sie auch, um ihre Tempel zu errichten.{break}Unsere Handwerker können sich über den Fortgang der Baustelle auf der Ruhmessäule informieren. Es ist unabdinglich, dass die Homins mehr Altare bauen als Jenatempel, um die Macht Ma-Duks zu veranschaulichen. ]
+		fyros_kami_npc_t10_t13_craft_main_p_ldc_tell_ennemy	[Ja, $player$. Deshalb ist die Bauzeit jeder Etappe begrenzt. Die eingesetzten Rohstoffe kommen aus Quellen in den alten Landen. Diese Quellen sind nicht unsterblich und die Karavan nutzt sie auch, um ihre Tempel zu errichten.{break}Unsere Handwerker können sich über den Fortgang der Baustelle auf der Ruhmessäule informieren. Es ist unabdinglich, dass die Homins mehr Altare bauen als Jenatempel, um die Macht Ma-Duks zu veranschaulichen.]
 
 }
 
@@ -29384,7 +29384,7 @@ FYROS_KAMI_NPC_T2_T7_CRAFT_MAIN_P_ANSWER_YOUR_ROLE ()
 // HASH_VALUE AE212755FE542F75
 FYROS_KAMI_NPC_T2_T7_CRAFT_MAIN_P_LDC_HOW_TO ()
 {
-		fyros_kami_npc_t2_t7_craft_main_p_ldc_how_to	[Erstmal müssen die einzelnen Teile vor Ort fabriziert werden. Ma-Duk hat diesen Ort gesegnet und seine Magie wird die Bestandteile verzaubern, die dort hergestellt werden. Ausserhalb dieses heiligen Ortes wären die Bestandteile unrein und könnten nicht bei der Errichtung des Altars eingesetzt werden.{break}Du sollst wissen dass die Macht Ma-Duks die Handwerker bei dieser Arbeit inspirieren wird. So können alle daran teilnehmen, egal aus welchem Bereich sie kommen. Die Unterkunft des Ma-Duk zu bauen ist ein Präzisionswerk, ein Kunstwerk, ein göttliches Werk. Nur mit den Werkzeugen der Schmuckhändler können diese Bestandteile präzise verarbeitet werden.{break}Ich werde jedem Handwerker einen Handwerksplan und die nötigen Bestandteile für die Gegenstände geben, die sie erschaffen wollen. Nur die aus magischer Verwandlung stammenden Ressourcen aus den alten Landen können benutzt werden. Wenn unsere Handwerker nicht ausreichend versorgt werden, können sie nicht mehr weiter arbeiten. ]
+		fyros_kami_npc_t2_t7_craft_main_p_ldc_how_to	[Erstmal müssen die einzelnen Teile vor Ort fabriziert werden. Ma-Duk hat diesen Ort gesegnet und seine Magie wird die Bestandteile verzaubern, die dort hergestellt werden. Ausserhalb dieses heiligen Ortes wären die Bestandteile unrein und könnten nicht bei der Errichtung des Altars eingesetzt werden.{break}Du sollst wissen dass die Macht Ma-Duks die Handwerker bei dieser Arbeit inspirieren wird. So können alle daran teilnehmen, egal aus welchem Bereich sie kommen. Die Unterkunft des Ma-Duk zu bauen ist ein Präzisionswerk, ein Kunstwerk, ein göttliches Werk. Nur mit den Werkzeugen der Schmuckhändler können diese Bestandteile präzise verarbeitet werden.{break}Ich werde jedem Handwerker einen Handwerksplan und die nötigen Bestandteile für die Gegenstände geben, die sie erschaffen wollen. Nur die aus magischer Verwandlung stammenden Ressourcen aus den alten Landen können benutzt werden. Wenn unsere Handwerker nicht ausreichend versorgt werden, können sie nicht mehr weiter arbeiten.]
 
 }
 
@@ -29398,7 +29398,7 @@ FYROS_KAMI_NPC_T2_T7_CRAFT_MAIN_P_LDC_INTRO (bot player)
 // HASH_VALUE B41BCB4D31A83F43
 FYROS_KAMI_NPC_T2_T7_CRAFT_MAIN_P_LDC_TELL_ENNEMY (bot player)
 {
-		fyros_kami_npc_t2_t7_craft_main_p_ldc_tell_ennemy	[Ja, $player$. Deshalb ist die Bauzeit jeder Etappe begrenzt. Die eingesetzten Rohstoffe kommen aus Quellen in den alten Landen. Diese Quellen sind nicht unsterblich und die Karavan nutzt sie auch, um ihre Tempel zu errichten.{break}Unsere Handwerker können sich über den Fortgang der Baustelle auf der Ruhmessäule informieren. Es ist unabdinglich, dass die Homins mehr Altare bauen als Jenatempel, um die Macht Ma-Duks zu veranschaulichen. ]
+		fyros_kami_npc_t2_t7_craft_main_p_ldc_tell_ennemy	[Ja, $player$. Deshalb ist die Bauzeit jeder Etappe begrenzt. Die eingesetzten Rohstoffe kommen aus Quellen in den alten Landen. Diese Quellen sind nicht unsterblich und die Karavan nutzt sie auch, um ihre Tempel zu errichten.{break}Unsere Handwerker können sich über den Fortgang der Baustelle auf der Ruhmessäule informieren. Es ist unabdinglich, dass die Homins mehr Altare bauen als Jenatempel, um die Macht Ma-Duks zu veranschaulichen.]
 
 }
 
@@ -29517,7 +29517,7 @@ FYROS_KAMI_REPRESENTANT_ACTEI_ANS_1_3_1 (place ilot)
 // HASH_VALUE 6CF03B9E26279862
 FYROS_KAMI_REPRESENTANT_PROLOGUE_ANS_1 ()
 {
-		fyros_kami_representant_prologue_ans_1	[Das ist alles von größter Bedeutung und ich würde gerne mehr darüber erfahren. ]
+		fyros_kami_representant_prologue_ans_1	[Das ist alles von größter Bedeutung und ich würde gerne mehr darüber erfahren.]
 
 }
 
@@ -29683,7 +29683,7 @@ FYROS_KARAVAN_EMISSARY_PROLOGUE_ANS_1 ()
 // HASH_VALUE D918BC07BA35D4CD
 FYROS_KARAVAN_EMISSARY_PROLOGUE_ANS_1_0 ()
 {
-		fyros_karavan_emissary_prologue_ans_1_0	[Um die Karavan-Mitglieder vor den Angriffen der Kamis zu beschützen, werden wir bald Tempel auf Atys errichten. Diese Tempel, Reserven von Jenas Lebenskraft, werden sie vor den Kamis schützen. Diese Tempel zu bauen ist lebenswichtig für die Homins! Die Tempel werden ebenfalls als Schule dienen, in denen wir den Homins die Lehren Jenas vermitteln. ]
+		fyros_karavan_emissary_prologue_ans_1_0	[Um die Karavan-Mitglieder vor den Angriffen der Kamis zu beschützen, werden wir bald Tempel auf Atys errichten. Diese Tempel, Reserven von Jenas Lebenskraft, werden sie vor den Kamis schützen. Diese Tempel zu bauen ist lebenswichtig für die Homins! Die Tempel werden ebenfalls als Schule dienen, in denen wir den Homins die Lehren Jenas vermitteln.]
 
 }
 
@@ -29725,7 +29725,7 @@ FYROS_KARAVAN_EMISSARY_PROLOGUE_ANS_1_3 ()
 // HASH_VALUE 642D6A79B51BD820
 FYROS_KARAVAN_EMISSARY_PROLOGUE_ANS_1_3_1 (bot player)
 {
-		fyros_karavan_emissary_prologue_ans_1_3_1	[Vergiss nicht $player$, dass der göttliche Charakter des Tempels besondere Rohstoffe beansprucht, die die Karavankundschafter in den alten Landen entdeckt haben. Teleporter werden dich dorthin geleiten. Für jede dieser Etappen des Tempelbaus werden verschiedene Rohstoffe benötigt, die einer anderen Sammelzone entsprechen. Pass gut auf $player$, denn die Kamis und die Kitins werden versuchen, dir Schaden zuzufügen. ]
+		fyros_karavan_emissary_prologue_ans_1_3_1	[Vergiss nicht $player$, dass der göttliche Charakter des Tempels besondere Rohstoffe beansprucht, die die Karavankundschafter in den alten Landen entdeckt haben. Teleporter werden dich dorthin geleiten. Für jede dieser Etappen des Tempelbaus werden verschiedene Rohstoffe benötigt, die einer anderen Sammelzone entsprechen. Pass gut auf $player$, denn die Kamis und die Kitins werden versuchen, dir Schaden zuzufügen.]
 
 }
 
@@ -29746,7 +29746,7 @@ FYROS_KARAVAN_EMISSARY_PROLOGUE_ANS_2 ()
 // HASH_VALUE 8AA3F2F9868D415A
 FYROS_KARAVAN_EMISSARY_PROLOGUE_DETAILS ()
 {
-		fyros_karavan_emissary_prologue_details	[Sage mir bitte noch ein Mal, was ich für Jena tun kann. ]
+		fyros_karavan_emissary_prologue_details	[Sage mir bitte noch ein Mal, was ich für Jena tun kann.]
 
 }
 
@@ -30018,7 +30018,7 @@ FYROS_NEWB_CRAFT_1_DESC (bot giver)
 // HASH_VALUE 5D32118CBC9E4914
 FYROS_NEWB_CRAFT_1_END_1 ()
 {
-		fyros_newb_craft_1_end_1	[Sehr gut! Um Dich zu verbessern, solltest Du etwas Praxis im Erschaffen von Gegenstäden sammeln... ]
+		fyros_newb_craft_1_end_1	[Sehr gut! Um Dich zu verbessern, solltest Du etwas Praxis im Erschaffen von Gegenstäden sammeln...]
 
 }
 
@@ -31215,7 +31215,7 @@ FYROS_NEWB_WELCOME_TEAM_STEP_1 ()
 // HASH_VALUE 8582488558D9BDD9
 FYROS_NEWB_WELCOME_TEAM_STEP_2 ()
 {
-		fyros_newb_welcome_team_step_2	[Finde ein Team und ich werde Euch eine Kampfmission erteilen. ]
+		fyros_newb_welcome_team_step_2	[Finde ein Team und ich werde Euch eine Kampfmission erteilen.]
 
 }
 
@@ -31307,7 +31307,7 @@ GROUP_DEBUG_CHAIN_DO_MIS_DESC (bot giver)
 // HASH_VALUE 725F30122108AEA3
 GROUP_DEBUG_CHAIN_DO_MIS_TITLE (bot giver)
 {
-		group_debug_chain_do_mis_title	[FEHLERKORREKTUR Gruppenkette ]
+		group_debug_chain_do_mis_title	[FEHLERKORREKTUR Gruppenkette]
 
 }
 
@@ -31398,7 +31398,7 @@ GROUP_DEBUG_CRASH_P_SMG_CRASH2 ()
 // HASH_VALUE 4B4B9F8F5BC6B172
 GROUP_DEBUG_DIVERS_MIS_DESC (bot giver)
 {
-		group_debug_divers_mis_desc	[Test recv Ruhm, ]
+		group_debug_divers_mis_desc	[Test recv Ruhm,]
 
 }
 
@@ -31461,7 +31461,7 @@ GROUP_DEBUG_FORAGE_MIS_DESC (bot giver)
 // HASH_VALUE 9800831D21189B7C
 GROUP_DEBUG_FORAGE_MIS_TITLE (bot giver)
 {
-		group_debug_forage_mis_title	[FEHLERKORREKTUR Gruppenrohstoffabbau ]
+		group_debug_forage_mis_title	[FEHLERKORREKTUR Gruppenrohstoffabbau]
 
 }
 
@@ -31636,14 +31636,14 @@ GROUP_DEBUG_SPAWN_DO_MIS_DESC (bot giver)
 // HASH_VALUE C531697D733F7BEC
 GROUP_DEBUG_SPAWN_DO_MIS_TITLE (bot giver)
 {
-		group_debug_spawn_do_mis_title	[FEHLERKORREKTUR SPAWN-GRUPPENMISSION ]
+		group_debug_spawn_do_mis_title	[FEHLERKORREKTUR SPAWN-GRUPPENMISSION]
 
 }
 
 // HASH_VALUE E5E51EEE40230617
 GROUP_DEBUG_SPAWN_DO_P_OVL_DOMISSION (creature_model creature_kill, creature_model creature_kill2)
 {
-		group_debug_spawn_do_p_ovl_domission	[Überfüllt: Die zusammenhängenden Missionen erfüllen: $creature_kill$ UND $creature_kill2$ töten ]
+		group_debug_spawn_do_p_ovl_domission	[Überfüllt: Die zusammenhängenden Missionen erfüllen: $creature_kill$ UND $creature_kill2$ töten]
 
 }
 
@@ -31839,7 +31839,7 @@ GUARD_NEWB_ENGAGE_1 ()
 // HASH_VALUE 4C2C3A6E5F6FDC56
 GUARD_NEWB_ENGAGE_2 ()
 {
-		guard_newb_engage_2	[&BBL&Jemand hat Probleme! ]
+		guard_newb_engage_2	[&BBL&Jemand hat Probleme!]
 
 }
 
@@ -32435,7 +32435,7 @@ GUILD_DEBUG_CRASH_P_SMG_CRASH2 ()
 // HASH_VALUE CA7B9F8F5BC68169
 GUILD_DEBUG_DIVERS_MIS_DESC (bot giver)
 {
-		guild_debug_divers_mis_desc	[Test recv fame, ]
+		guild_debug_divers_mis_desc	[Test recv fame,]
 
 }
 
@@ -32680,7 +32680,7 @@ GUILD_DEBUG_SPAWN_DO_MIS_TITLE (bot giver)
 // HASH_VALUE E5E51EEE3D92EE1A
 GUILD_DEBUG_SPAWN_DO_P_OVL_DOMISSION (creature_model creature_kill, creature_model creature_kill2)
 {
-		guild_debug_spawn_do_p_ovl_domission	[Overload : remplir les missions liées : tuer $creature_kill$ ET $creature_kill2$ ]
+		guild_debug_spawn_do_p_ovl_domission	[Overload : remplir les missions liées : tuer $creature_kill$ ET $creature_kill2$]
 
 }
 
@@ -34084,7 +34084,7 @@ ITEM_IS_NOW_ENCHANTED (item i)
 // HASH_VALUE C4844F2DA6A049DC
 ITEM_IS_RECHARGED (item it, int current, int max )
 {
-		item_is_recharged	[&ITM&Gegenstand $it$ ist nun aufgeladen. Sapladung ist $current$ von $max$.]
+		item_is_recharged	[&ITM& Dein/e $it$ ist nun mit $current$ von möglichen $max$ aufgeladen.]
 
 }
 
@@ -34132,7 +34132,7 @@ ITEM_SHOP_LIMIT_REACHED ( int qty )
 ITEM_SOLD (item item, int qty, entity buyer, int money, int moneyNow, int moneyPrevious )
 {
 	(qty=1)
-		item_sold_1	[&ITM&Du verkaufst $item.ia$ $item$ für $moneyNow$ Dapper).]
+		item_sold_1	[&ITM&Du verkaufst $item.ia$ $item$ für $moneyNow$ Dapper.]
 
 	(qty>1)
 		item_sold_2	[&ITM&Du verkaufst $qty$ $item.p$ für $moneyNow$ Dapper.]
@@ -34143,10 +34143,10 @@ ITEM_SOLD (item item, int qty, entity buyer, int money, int moneyNow, int moneyP
 ITEM_SOLDED_TO_NPC ( item item, int qty, int price )
 {
 	(qty=1)
-			[&ITM&Du hast dem NPC $item$ für $price$ Dapper verkauft.]
+			[&ITM&Du verkaufst dem NSC $item$ für $price$ Dapper.]
 
 	(qty>1)
-			[&ITM&Du hast dem NPC $qty$ $item.p$ für $price$ Dapper verkauft.]
+			[&ITM&Du verkaufst dem NSC $qty$ $item.p$ für $price$ Dapper.]
 
 }
 
@@ -35162,7 +35162,7 @@ MAGIC_CAN_ONLY_CAST_ON_PLAYERS ()
 // HASH_VALUE B4C0BF28BDB25910
 MAGIC_DAMAGE_HP_CASTER (entity e, int n, int m)
 {
-		magic_damage_hp_caster	[&DGM&Du fügst $e.da$ $e$ $n$($m$) magische Trefferpunkte Schaden zu. ]
+		magic_damage_hp_caster	[&DGM&Du fügst $e.da$ $e$ $n$($m$) magische Trefferpunkte Schaden zu.]
 
 }
 
@@ -35950,7 +35950,7 @@ MATIS_ENDING_KAMI_TP_OPEN_ISLAND_TP (place region_name)
 // HASH_VALUE 605AAE3526A39BF4
 MATIS_ENDING_KARAVAN_TP_OPEN_ISLAND_TP (place region_name)
 {
-		matis_ending_karavan_tp_open_island_tp	[Homin, ich kann dich in die Alten Lande nach $region_name.da$ $region_name$ teleportieren. Die Region ist von Kitins übersät, sie müssen beobachtet werden.{break}Und noch was: $region_name.da$ $region_name$ muss in der Hand der Karavaniere bleiben. Bist du bereit, abzureisen? ]
+		matis_ending_karavan_tp_open_island_tp	[Homin, ich kann dich in die Alten Lande nach $region_name.da$ $region_name$ teleportieren. Die Region ist von Kitins übersät, sie müssen beobachtet werden.{break}Und noch was: $region_name.da$ $region_name$ muss in der Hand der Karavaniere bleiben. Bist du bereit, abzureisen?]
 
 }
 
@@ -36169,7 +36169,7 @@ MATIS_NEWB_CRAFT_1_DESC (bot giver)
 // HASH_VALUE DC52B193BC9E4914
 MATIS_NEWB_CRAFT_1_END_1 ()
 {
-		matis_newb_craft_1_end_1	[Sehr gut! Um dich zu verbessern, solltest du etwas Praxis im Erschaffen von Ausrüstung sammeln... ]
+		matis_newb_craft_1_end_1	[Sehr gut! Um dich zu verbessern, solltest du etwas Praxis im Erschaffen von Ausrüstung sammeln...]
 
 }
 
@@ -37291,7 +37291,7 @@ MATIS_NEWB_WELCOME_TEAM_STEP_1 ()
 // HASH_VALUE 04A2E88C58D9BDD9
 MATIS_NEWB_WELCOME_TEAM_STEP_2 ()
 {
-		matis_newb_welcome_team_step_2	[Gründe ein Team, dann werde ich Dir eine Kampfmission erteilen. ]
+		matis_newb_welcome_team_step_2	[Gründe ein Team, dann werde ich Dir eine Kampfmission erteilen.]
 
 }
 
@@ -39949,7 +39949,7 @@ MISSION_KARAVAN_04_P_DA_TP_OUI ()
 MISSION_KARAVAN_04_P_DC_TP ()
 {
 	( self.gender = male )
-		mission_karavan_04_p_dc_tp_m	[Gut Homin, gemäß der abgeschlossenen Abkommen kann ich dich sofort zu unserem auswärtigen Posten transportieren. Willst du sofort aufbrechen? ]
+		mission_karavan_04_p_dc_tp_m	[Gut Homin, gemäß der abgeschlossenen Abkommen kann ich dich sofort zu unserem auswärtigen Posten transportieren. Willst du sofort aufbrechen?]
 
 	( self.gender = female )
 		mission_karavan_04_p_dc_tp_f	[Gut Homin, gemäß der abgeschlossenen Abkommen kann ich dich sofort zu unserem auswärtigen Posten transportieren. Willst du sofort aufbrechen?]
@@ -40784,7 +40784,7 @@ MISSION_MATIS_05_P_T2_DEVOTION (bot giver)
 // HASH_VALUE 4160031541A5B0A9
 MISSION_MATIS_05_P_T2_END (bot giver)
 {
-		mission_matis_05_p_t2_end	[ Ich habe das Nötige gefunden.]
+		mission_matis_05_p_t2_end	[Ich habe das Nötige gefunden.]
 
 }
 
@@ -40828,7 +40828,7 @@ MISSION_MATIS_06_P_OVL_END (bot giver, bot givervar)
 // HASH_VALUE 4160031641A5B0A9
 MISSION_MATIS_06_P_T2_END (bot giver)
 {
-		mission_matis_06_p_t2_end	[ Ich habe das Nötige gefunden.]
+		mission_matis_06_p_t2_end	[Ich habe das Nötige gefunden.]
 
 }
 
@@ -41782,7 +41782,7 @@ MISSION_TRYKER_06_MIS_TITLE (bot giver)
 // HASH_VALUE AEDC96292D60C240
 MISSION_TRYKER_06_P_LDCC_DEBRIEF ()
 {
-		mission_tryker_06_p_ldcc_debrief	[Was für ein wundervolles Objekt! Ich muss schon sagen, die Matis sind gute Handwerker. Du hast eine schöne Belohnung verdient. Nimm das. ]
+		mission_tryker_06_p_ldcc_debrief	[Was für ein wundervolles Objekt! Ich muss schon sagen, die Matis sind gute Handwerker. Du hast eine schöne Belohnung verdient. Nimm das.]
 
 }
 
@@ -42330,7 +42330,7 @@ MISSION_ZORAI_04_P_LDC_EXIT ()
 // HASH_VALUE E768BBDDF3BFCE3B
 MISSION_ZORAI_04_P_LDC_LIE ()
 {
-		mission_zorai_04_p_ldc_lie	[Das ist nicht wahr. Geh zurück und beschaff dir diesen Spruch, sonst können wir nichts tun. ]
+		mission_zorai_04_p_ldc_lie	[Das ist nicht wahr. Geh zurück und beschaff dir diesen Spruch, sonst können wir nichts tun.]
 
 }
 
@@ -42393,7 +42393,7 @@ MISSION_ZORAI_04_P_OVL_T2_SKILL (bot giver, bot givervar)
 // HASH_VALUE 0D2C92BB171C5B87
 MISSION_ZORAI_04_P_OVL_TEAM (bot giver, bot givervar)
 {
-		mission_zorai_04_p_ovl_team	[ $givervar$ besuchen, um mit der Ausbildung weiterzumachen.]
+		mission_zorai_04_p_ovl_team	[$givervar$ besuchen, um mit der Ausbildung weiterzumachen.]
 
 }
 
@@ -44707,7 +44707,7 @@ MIS_TARGET_FAUNA_4 (creature_model c1, creature_model c2, creature_model c3, cre
 // HASH_VALUE 639BE6C6FB0248D8
 MIS_TARGET_FAUNA_PLACE_1 (creature_model c1, place p)
 {
-		mis_target_fauna_place_1	[Finde und ziele auf $c1$ in $p$ ]
+		mis_target_fauna_place_1	[Finde und ziele auf $c1$ in $p$]
 
 }
 
@@ -45179,7 +45179,7 @@ NATAE_CITY_WELCOMER_1_P_BC_ANSWER_RW_1 (bot merchant_rw1)
 // HASH_VALUE AB9D510C5A8B1C62
 NATAE_CITY_WELCOMER_1_P_BC_ANSWER_TO_1 (bot merchant_to)
 {
-		natae_city_welcomer_1_p_bc_answer_to_1	[$merchant_to$ verkauft Werkzeug, ich zeige Ihnen auf der Karte, wo Sie ihn finden. ]
+		natae_city_welcomer_1_p_bc_answer_to_1	[$merchant_to$ verkauft Werkzeug, ich zeige Ihnen auf der Karte, wo Sie ihn finden.]
 
 }
 
@@ -45470,7 +45470,7 @@ NEWBIELAND_GRAVESTSIN2_MIS_TITLE (bot giver)
 // HASH_VALUE 42A24B12195CBE17
 NEWBIELAND_GRAVESTSIN2_T2CHIANG_OBJ (bot givervar)
 {
-		newbieland_gravestsin2_t2chiang_obj	[ $givervar$ den gefundenen Apparat zeigen]
+		newbieland_gravestsin2_t2chiang_obj	[$givervar$ den gefundenen Apparat zeigen]
 
 }
 
@@ -45522,7 +45522,7 @@ NEWBIELAND_GRAVESTSIN3BIS_KAMI_TALK ()
 			Um zu zeigen, wie wichtig deine Mission uns ist, einen Gefallen die Kami dir gewähren.\n
 			Dein Geist ist jetzt gebunden an diesen Ort.\n
 			Wenn du fällst im Kampf, du in diesem Altar wieder aufersthene kannst, anstatt in diesem entfernten Kami-Lager.\n
-			Jetzt los musst du und tun was du tun musst.{break}Noch etwas ich spüre, stärker, noch stärker. Mit meinen Brüdern wir werden finden was ist es... ]
+			Jetzt los musst du und tun was du tun musst.{break}Noch etwas ich spüre, stärker, noch stärker. Mit meinen Brüdern wir werden finden was ist es...]
 
 	( self.gender = female )
 		newbieland_gravestsin3bis_kami_talk_f	[Ich gewartet habe auf dich. \n
@@ -45534,7 +45534,7 @@ NEWBIELAND_GRAVESTSIN3BIS_KAMI_TALK ()
 			Um zu zeigen, wie wichtig deine Mission uns ist, einen Gefallen die Kami dir gewähren.\n
 			Dein Geist ist jetzt gebunden an diesen Ort.\n
 			Wenn du fällst im Kampf, du in diesem Altar wieder aufersthene kannst, anstatt in diesem entfernten Kami-Lager.\n
-			Jetzt los musst du und tun was du tun musst.{break}Noch etwas ich spüre, stärker, noch stärker. Mit meinen Brüdern wir werden finden was ist es... ]
+			Jetzt los musst du und tun was du tun musst.{break}Noch etwas ich spüre, stärker, noch stärker. Mit meinen Brüdern wir werden finden was ist es...]
 
 }
 
@@ -45778,7 +45778,7 @@ NEWBIELAND_KITINVALLEY_LEAVE ()
 			Ich denke es ist an der Zeit mein Freund, uns zu verlassen und deine Fähigkeiten in den Dienst der großen Welt zu stellen, wo sie dir sehr nützlich sein werden!\n
 			\n
 			Die Kami und die Karavan können Homins auf den Kontinent teleportieren. Du solltst eine von beiden Einheiten aufsuchen, um in die Hauptstadt deines Volkes zu reisen.\n
-			Ich wünsche dir alles Gute für deine kommenden Reisen und ich bin mir sicher, du und deine Fähigkeiten entwickelt euch gut auf Atys weiter. ]
+			Ich wünsche dir alles Gute für deine kommenden Reisen und ich bin mir sicher, du und deine Fähigkeiten entwickelt euch gut auf Atys weiter.]
 
 	( self.gender = female )
 		newbieland_kitinvalley_leave_f	[Du hast dieses Gebiet durch und durch erkundet, bist jeder Kreatur begegnet, hast jede Herausforderung angenommen und anscheinend alles gelernt, was es zu lernen gab. \n
@@ -46023,7 +46023,7 @@ NEWBIELAND_RANGER_INTRO_P_INTRO_2 ()
 		newbieland_ranger_intro_p_intro_2	[Doch die Kitins haben uns nicht alle umgebracht und jetzt haben die meisten von uns sich geschworen, sie zunichte zu machen.\n
 			Wir sind die Rangers und wir haben dieses Lager errichtet. Wir sind nicht sehr zahlreich und die meisten von uns sind damit beschäftigt, den Feind in den Urwurzeln zu bekämpfen.{break}Deshalb haben wir den Vetretern der verschiedenen Völker erlaubt, sich hier nieder zu lassen. \n
 			Alle haben einen Grund, hier zu sein. Doch sie können dir das besser erklären als ich. Was sie wieder aufbauen kommt dem nahe, für was wir kämpfen: die Möglichkeit, dass unsere Kulturen und Nationen erneut auferstehen und stärker sind als je zuvor. \n
-			Geh zu ihnen, sprech mit ihnen, hör ihnen zu und lerne. ]
+			Geh zu ihnen, sprech mit ihnen, hör ihnen zu und lerne.]
 
 }
 
@@ -46558,14 +46558,14 @@ NEWBIELAND_RANGER_XLEAVETHELAND_2_P_LDC_OK_LEAVE ()
 // HASH_VALUE 6A66ED25AA0597A9
 NEWBIELAND_RANGER_XLEAVETHELAND_2_P_LDC_QUIT ()
 {
-		newbieland_ranger_xleavetheland_2_p_ldc_quit	[Gut. Ich kann mich deinem Entschluss nicht widersetzen, doch ich hätte dich noch um einen Gefallen zu bitten, ehe du gehst. Es dauert nicht lange und ist auch für dich gut. ]
+		newbieland_ranger_xleavetheland_2_p_ldc_quit	[Gut. Ich kann mich deinem Entschluss nicht widersetzen, doch ich hätte dich noch um einen Gefallen zu bitten, ehe du gehst. Es dauert nicht lange und ist auch für dich gut.]
 
 }
 
 // HASH_VALUE 80102E905844565A
 NEWBIELAND_RANGER_XLEAVETHELAND_2_P_LDC_QUIT2 ()
 {
-		newbieland_ranger_xleavetheland_2_p_ldc_quit2	[Also, ich möchte nur, dass du mit den verschiedenen VÖlker-Chefs sprichst. Dabei wirst du merken, dass sie dir viel beibringen können. ]
+		newbieland_ranger_xleavetheland_2_p_ldc_quit2	[Also, ich möchte nur, dass du mit den verschiedenen VÖlker-Chefs sprichst. Dabei wirst du merken, dass sie dir viel beibringen können.]
 
 }
 
@@ -46818,7 +46818,7 @@ NEWBIELAND_SLAUGHTER_WEEK_INFO_INTRO ()
 			Die Gebiete sind besetzt und mir wurden ganze Armeen von Kitins in der Fyros-Wüste, im Zoraï-Dschungel, in den Matis-Wäldern und sogar rund um die großen Tryker-Seen gemeldet.\n
 			Wir wissen nicht, warum so viele Kitins auf einmal aus den Tiefen von Atys aufgestiegen sind, doch eines ist sicher...Wir müssen kämpfen!\n
 			Wir brauchen junge durchtrainierte Homins, um unseren tapersten Kämpfern in diesem Krieg zu helfen.\n
-			Ich zähle auf Sie $self$, kehren Sie so schnell wie möglich in Ihr Land zurück! ]
+			Ich zähle auf Sie $self$, kehren Sie so schnell wie möglich in Ihr Land zurück!]
 
 }
 
@@ -49660,28 +49660,28 @@ RANGESTATE7 ()
 // HASH_VALUE DC887FD25EDA7F8A
 RELEVESTATE1 ()
 {
-		relevestate1	[Ruhm und Leid! ]
+		relevestate1	[Ruhm und Leid!]
 
 }
 
 // HASH_VALUE 89748BBA1CFB886E
 RELEVESTATE2 ()
 {
-		relevestate2	[Für die Matis! ]
+		relevestate2	[Für die Matis!]
 
 }
 
 // HASH_VALUE 1A88C3665DC72EA1
 RELEVESTATE3 ()
 {
-		relevestate3	[Lasst uns arbeiten! ]
+		relevestate3	[Lasst uns arbeiten!]
 
 }
 
 // HASH_VALUE C738D8659BA77C9B
 RELEVESTATE4 ()
 {
-		relevestate4	[Los gehts! ]
+		relevestate4	[Los gehts!]
 
 }
 
@@ -53128,7 +53128,7 @@ R_01_13_SUB_MIN_CHO_P_BC_MIN_CHO (place mincho)
 // HASH_VALUE 956AC49BAAEFC807
 R_01_19_MIS_DESC (bot giver, race gingo)
 {
-		r_01_19_mis_desc	[ Eine Wasserzufuhr wird von einer hungrigen Bande $gingo.p$ festgehalten. Der Konvoi muss zu seinem Ziel eskortiert werden.]
+		r_01_19_mis_desc	[Eine Wasserzufuhr wird von einer hungrigen Bande $gingo.p$ festgehalten. Der Konvoi muss zu seinem Ziel eskortiert werden.]
 
 }
 
@@ -53738,7 +53738,7 @@ R_02_04_P_DC_MP_3 (int mp_price_3)
 // HASH_VALUE 5B4246E6F57D7577
 R_02_04_P_LDF_INTRO_1 ()
 {
-		r_02_04_p_ldf_intro_1	[Eine der hervorragendsten Juwelierinnen der Stadt hat Schwierigkeiten, ihre Verträge zu erfüllen. Sie ist eine große Expertin und sehr genau mit allem, aber das ist eine gute Gelegenheit für Sie, sich weiter zu bilden.{break}Gehen Sie zum Südmarkt und sprechen Sie mit ihr auf meine Empfehlung hin. Glauben Sie mir, sie benötigt dringend Hilfe und wartet nur darauf! ]
+		r_02_04_p_ldf_intro_1	[Eine der hervorragendsten Juwelierinnen der Stadt hat Schwierigkeiten, ihre Verträge zu erfüllen. Sie ist eine große Expertin und sehr genau mit allem, aber das ist eine gute Gelegenheit für Sie, sich weiter zu bilden.{break}Gehen Sie zum Südmarkt und sprechen Sie mit ihr auf meine Empfehlung hin. Glauben Sie mir, sie benötigt dringend Hilfe und wartet nur darauf!]
 
 }
 
@@ -54142,7 +54142,7 @@ R_03_47_P_BC_FORGERON_2 ()
 R_03_47_P_BC_FORGERON_4 ()
 {
 		r_03_47_p_bc_forgeron_4	[Gute Arbeit mein Freund. Du scheinst bereit zu sein, in unsere Lehre zu kommen, doch leider entscheide nicht ich darüber. \n
-			Du musst unserem besten Handwerker einen Besuch abstatten und nur er kann entscheiden. ]
+			Du musst unserem besten Handwerker einen Besuch abstatten und nur er kann entscheiden.]
 
 }
 
@@ -54310,7 +54310,7 @@ R_04_20_M_T2_PROSPECTOR_1 (bot prospector_1, bot giver)
 // HASH_VALUE 5845FF5738F26808
 R_04_20_P_BC_DEBRIEF_1 ()
 {
-		r_04_20_p_bc_debrief_1	[Es stimmt mich traurig, dass einige Quellen für nichts und wieder nichts austrocknen. Ich hoffe, dass Dich das, was Du dort gesehen hast, dazu veranlaßt verantwortlicher mit den Ressourcen von Atys umzugehen. Es nun Zeit für Dich etwas zu lernen.{break}Nimm diesen Bernsteinwürfel, er ist ein Hüter des Wissenss über unser Land und den Dschungel, der es bedeckt.]
+		r_04_20_p_bc_debrief_1	[Es stimmt mich traurig, dass einige Quellen für nichts und wieder nichts austrocknen. Ich hoffe, dass Dich das, was Du dort gesehen hast, dazu veranlaßt verantwortlicher mit den Ressourcen von Atys umzugehen. Es nun Zeit für Dich etwas zu lernen.{break}Nimm diesen Bernsteinwürfel, er ist ein Hüter des Wissens über unser Land und den Dschungel, der es bedeckt.]
 
 }
 
@@ -54380,7 +54380,7 @@ R_04_22_P_LDF_INTRO_1 ()
 // HASH_VALUE 4616D718DB80EA40
 R_05_01_MIS_DESC (bot giver, race creature, creature_model creature_boss)
 {
-		r_05_01_mis_desc	[ $creature_boss.ia$ $creature_boss$ umbringen, $creature.ia$ $creature$ außergewöhnliher Art und $creature$-Fleisch mitbringen]
+		r_05_01_mis_desc	[$creature_boss.ia$ $creature_boss$ umbringen, $creature.ia$ $creature$ außergewöhnliher Art und $creature$-Fleisch mitbringen]
 
 }
 
@@ -54450,7 +54450,7 @@ R_05_02_P_BC_RAW_STEP_HARVEST (int qty)
 // HASH_VALUE 7F5B133D78088051
 R_05_02_P_LDF_INTENDANT_INTRO (race bodoc, place crystabell, bot raw_merchant)
 {
-		r_05_02_p_ldf_intendant_intro	[Ich grüße Sie, $self$. Ich bin etwas beunruhigt, die Nahrungsreserven von $crystabell$ sind fast null. Wir brauchen dringend $bodoc$-Fleisch und ein Aufbewahrungsmittel. Wenn Sie der Dorfbevölkerung helfen wollen, gehen Sie zu $raw_merchant$, sie wird ihnen mehr darüber sagen. Im Gegenzug werde ich Ihnen eine sehr nützliche magische Verteidigungstechnik beibringen. ]
+		r_05_02_p_ldf_intendant_intro	[Ich grüße Sie, $self$. Ich bin etwas beunruhigt, die Nahrungsreserven von $crystabell$ sind fast null. Wir brauchen dringend $bodoc$-Fleisch und ein Aufbewahrungsmittel. Wenn Sie der Dorfbevölkerung helfen wollen, gehen Sie zu $raw_merchant$, sie wird ihnen mehr darüber sagen. Im Gegenzug werde ich Ihnen eine sehr nützliche magische Verteidigungstechnik beibringen.]
 
 }
 
@@ -54471,7 +54471,7 @@ R_05_02_T2_GIVERVAR (bot giver, bot raw_merchant)
 // HASH_VALUE 29E9B9F086A197BF
 R_05_12_MIS_DESC (bot giver, race creature)
 {
-		r_05_12_mis_desc	[ $creature.p$ stellen durch ihre Anzahl eine ständige Bedrohung für die Flora dar. Sie müssen die Balance wiederherstellen.]
+		r_05_12_mis_desc	[$creature.p$ stellen durch ihre Anzahl eine ständige Bedrohung für die Flora dar. Sie müssen die Balance wiederherstellen.]
 
 }
 
@@ -54520,14 +54520,14 @@ R_05_15_M_T2_TRIBECHIEF_1 (bot tribe_chief_1)
 // HASH_VALUE 5047EB4BB87A7390
 R_05_15_O_ES_GNOOF_1 (place crystabell, bot gnoof_1)
 {
-		r_05_15_o_es_gnoof_1	[ $gnoof_1$ nach $crystabell$ zurückbringen]
+		r_05_15_o_es_gnoof_1	[$gnoof_1$ nach $crystabell$ zurückbringen]
 
 }
 
 // HASH_VALUE 5047EB4CB87A7390
 R_05_15_O_ES_GNOOF_2 (place crystabell, bot gnoof_1)
 {
-		r_05_15_o_es_gnoof_2	[ $gnoof_1$ nach $crystabell$ zurückbringen]
+		r_05_15_o_es_gnoof_2	[$gnoof_1$ nach $crystabell$ zurückbringen]
 
 }
 
@@ -54611,7 +54611,7 @@ R_05_21_P_BC_RAPPORT_02 (bot givervar)
 // HASH_VALUE E1141A6EE6301A0D
 R_05_21_P_LDC_INTRO (bot chasseur, race creature, place lieu_outlawcanyon)
 {
-		r_05_21_p_ldc_intro	[Das trifft sich, $self$ ! Sie scheinen mir eine erfahrene Person zu sein. Ich brauche einen Scout, der keine Angst hat, sich in wilde Regionen zu wagen.{break}Unsere Jäger suchen nach neuen Truppen $creature.p$ in der Region $lieu_outlawcanyon$, Sie werden sich also auf die Suche nach diesen Kreaturen machen.{break}$creature.pda$ $creature.p$ sind Pflanzenfresser und eher friedlich ... doch sie leben in besonders gefährlichen Regionen.{break}Ich verlange nicht, dass Sie $creature.pia$ $creature.p$ jagen, sondern nur ihre Truppen aufspüren. Falls Sie die Idee hätten, sie anzugreifen, müssen Sie wissen dass $creature.pda$ $creature.p$ sehr solidarisch untereinander sind. Schlimmer, $creature.pda$ $creature.p$ sind es gewohnt, auch andere Arten zu beschützen, wie manche Pflanzenfresser oder Vögel.{break}Seien Sie also vorsichtig und unterschätzen Sie sie nicht. Wenn Sie fertig mit dem Aufspüren sind, liefern Sie einen Bericht bei $chasseur$ ab, er ist einer unserer besten Jäger. Sie finden ihn südlich von Pyr, in der Nähe der Stadt. Kommen Sie danach zu mir zurück. Als Dankeschön werde ich Ihnen eine magische Verteidigungstechnik der Fyros beibringen. ]
+		r_05_21_p_ldc_intro	[Das trifft sich, $self$ ! Sie scheinen mir eine erfahrene Person zu sein. Ich brauche einen Scout, der keine Angst hat, sich in wilde Regionen zu wagen.{break}Unsere Jäger suchen nach neuen Truppen $creature.p$ in der Region $lieu_outlawcanyon$, Sie werden sich also auf die Suche nach diesen Kreaturen machen.{break}$creature.pda$ $creature.p$ sind Pflanzenfresser und eher friedlich ... doch sie leben in besonders gefährlichen Regionen.{break}Ich verlange nicht, dass Sie $creature.pia$ $creature.p$ jagen, sondern nur ihre Truppen aufspüren. Falls Sie die Idee hätten, sie anzugreifen, müssen Sie wissen dass $creature.pda$ $creature.p$ sehr solidarisch untereinander sind. Schlimmer, $creature.pda$ $creature.p$ sind es gewohnt, auch andere Arten zu beschützen, wie manche Pflanzenfresser oder Vögel.{break}Seien Sie also vorsichtig und unterschätzen Sie sie nicht. Wenn Sie fertig mit dem Aufspüren sind, liefern Sie einen Bericht bei $chasseur$ ab, er ist einer unserer besten Jäger. Sie finden ihn südlich von Pyr, in der Nähe der Stadt. Kommen Sie danach zu mir zurück. Als Dankeschön werde ich Ihnen eine magische Verteidigungstechnik der Fyros beibringen.]
 
 }
 
@@ -54653,7 +54653,7 @@ R_05_24_MIS_DESC (bot giver, race izam)
 // HASH_VALUE E99575E924B6AA9F
 R_05_24_MIS_TITLE (bot giver, race izam)
 {
-		r_05_24_mis_title	[Der zahme $izam$ ]
+		r_05_24_mis_title	[Der zahme $izam$]
 
 }
 
@@ -54674,7 +54674,7 @@ R_05_24_M_T2_PROSPECTOR_1 (bot prospector, bot giver)
 // HASH_VALUE DC5729FECEE96809
 R_05_24_O_ES_IZAM_1 (bot giver, bot izam_1)
 {
-		r_05_24_o_es_izam_1	[ $giver$ $izam_1$ zurück bringen]
+		r_05_24_o_es_izam_1	[$giver$ $izam_1$ zurück bringen]
 
 }
 
@@ -54688,7 +54688,7 @@ R_05_24_O_GI_TO_IZAM_1_1 (item i1, int qt1, int qual1, bot izam_1)
 // HASH_VALUE 2A91D00460A7F380
 R_05_24_P_BC_DEBRIEF_1 ()
 {
-		r_05_24_p_bc_debrief_1	[Oh, Sie haben ihn wieder gefunden! Sie haben seine Natur gut verstanden, sonst wäre er Ihnen nicht so gut gefolgt. Nehmen Sie diesen Bernsteinwürfel, der Sie über diese Art von Tieren informiert. Wir werden dann ein Training durchführen, damit Sie der Müdigkeit besser widerstehen. ]
+		r_05_24_p_bc_debrief_1	[Oh, Sie haben ihn wieder gefunden! Sie haben seine Natur gut verstanden, sonst wäre er Ihnen nicht so gut gefolgt. Nehmen Sie diesen Bernsteinwürfel, der Sie über diese Art von Tieren informiert. Wir werden dann ein Training durchführen, damit Sie der Müdigkeit besser widerstehen.]
 
 }
 
@@ -54837,7 +54837,7 @@ R_05_33_P_BC_DEBRIEF_1 (race clopper)
 // HASH_VALUE C56CA84064F20722
 R_05_33_P_BC_FAVOR_1 (race clopper)
 {
-		r_05_33_p_bc_favor_1	[ $clopper.ia$ blutenden $clopper$ fangen? Nun, man fängt sie nicht so einfach, weißt du! Hm, ich kenne etwas was dir helfen würde...aber du mußt mir erst einen kleinen Gefallen tun.]
+		r_05_33_p_bc_favor_1	[$clopper.ia$ blutenden $clopper$ fangen? Nun, man fängt sie nicht so einfach, weißt du! Hm, ich kenne etwas was dir helfen würde...aber du mußt mir erst einen kleinen Gefallen tun.]
 
 }
 
@@ -55293,7 +55293,7 @@ R_05_41_P_LDF_INTRO_1 (place place_attack_1)
 // HASH_VALUE 8CC40FF7BCBBED8D
 R_05_44_MIS_DESC (bot giver, race creature)
 {
-		r_05_44_mis_desc	[ $creature$-Blut für einen Matis-Wissenschaftler mitbringen]
+		r_05_44_mis_desc	[$creature$-Blut für einen Matis-Wissenschaftler mitbringen]
 
 }
 
@@ -55328,7 +55328,7 @@ R_05_44_P_AN_SCI_01C (race creature, place lieu_groveofconfusion)
 // HASH_VALUE EDA7C63BE94A77DC
 R_05_44_P_AN_SCI_02A ()
 {
-		r_05_44_p_an_sci_02a	[Ja, das ist der Ort den Sie mir angegeben haben ]
+		r_05_44_p_an_sci_02a	[Ja, das ist der Ort den Sie mir angegeben haben]
 
 }
 
@@ -55349,7 +55349,7 @@ R_05_44_P_AN_SCI_02C (race creature, place lieu_forbiddendepths)
 // HASH_VALUE AE3F1615D8DB4B4E
 R_05_44_P_AN_SCI_03A ()
 {
-		r_05_44_p_an_sci_03a	[Sagen Sie nicht... das ist nicht das was Sie wollten? ]
+		r_05_44_p_an_sci_03a	[Sagen Sie nicht... das ist nicht das was Sie wollten?]
 
 }
 
@@ -55370,7 +55370,7 @@ R_05_44_P_BC_SCI_01 ()
 // HASH_VALUE 959304136A65C4A1
 R_05_44_P_BC_SCI_02 ()
 {
-		r_05_44_p_bc_sci_02	[Gut, das fängt langsam an, rein zu gehen. Wir werden auch nicht allzu viel Zeit damit verbringen.... los jetzt! ]
+		r_05_44_p_bc_sci_02	[Gut, das fängt langsam an, rein zu gehen. Wir werden auch nicht allzu viel Zeit damit verbringen.... los jetzt!]
 
 }
 
@@ -55398,7 +55398,7 @@ R_05_44_P_DC_SCI_01A (race creature_arma)
 // HASH_VALUE 463678CB3B5B57BB
 R_05_44_P_DC_SCI_01B (race creature)
 {
-		r_05_44_p_dc_sci_01b	[Ja, das habe ich ja gerade gesagt: an der Studie der $creature.p$. Passen Sie ein bisschen auf, sonst kommen wir nie auf einen grünen Zweig! ]
+		r_05_44_p_dc_sci_01b	[Ja, das habe ich ja gerade gesagt: an der Studie der $creature.p$. Passen Sie ein bisschen auf, sonst kommen wir nie auf einen grünen Zweig!]
 
 }
 
@@ -55454,7 +55454,7 @@ R_05_44_P_T2_DEBRIEF (bot givervar)
 // HASH_VALUE 07DE4B3C4750A4C0
 R_05_44_P_T2_SCI_01 (bot scientifique, bot givervar)
 {
-		r_05_44_p_t2_sci_01	[ $givervar$ schickt mich]
+		r_05_44_p_t2_sci_01	[$givervar$ schickt mich]
 
 }
 
@@ -55489,14 +55489,14 @@ R_06_06_P_LDC_INTRO (race crea_kiban, creature_model kiban_lector, place lieu_te
 // HASH_VALUE 8E34E4EAF8BF8D49
 R_06_06_P_OVL_DEBRIEF (bot givervar, creature_model kiban_lector)
 {
-		r_06_06_p_ovl_debrief	[Bringen Sie $givervar$ die Kiefer des $kiban_lector$ ]
+		r_06_06_p_ovl_debrief	[Bringen Sie $givervar$ die Kiefer des $kiban_lector$]
 
 }
 
 // HASH_VALUE 3A4AD7C71294D12E
 R_06_06_P_OVL_DONNER_TROPHEE_1 (item i1, int qt1, int qual1, bot givervar)
 {
-		r_06_06_p_ovl_donner_trophee_1	[ $givervar$ die Kiefer geben]
+		r_06_06_p_ovl_donner_trophee_1	[$givervar$ die Kiefer geben]
 
 }
 
@@ -56154,7 +56154,7 @@ R_06_09_ZORAI_TITLE (bot giver)
 // HASH_VALUE 8BD7700F7CD865B0
 R_06_13_MIS_DESC_1 (bot giver)
 {
-		r_06_13_mis_desc_1	[Folgen Sie dem Weg der Pioniere und bekämpfen Sie die Kitins. ]
+		r_06_13_mis_desc_1	[Folgen Sie dem Weg der Pioniere und bekämpfen Sie die Kitins.]
 
 }
 
@@ -56528,7 +56528,7 @@ R_07_04_P_LDF_INTRO_1 (item item_to_loot_1, item item_to_loot_2, item item_to_lo
 // HASH_VALUE 89A344A30EC6DF60
 R_07_05_MIS_DESC (bot giver, place lieu_fount, place lieu_restingwater)
 {
-		r_07_05_mis_desc	[Unter dem Einfluss eines ehrgeizigen Oberhaupts haben die Banditen in $lieu_fount.da$ $lieu_fount$ Angriffe auf die $lieu_restingwater$ gestartet, wo sie das natürliche Gleichgewicht gefährden. ]
+		r_07_05_mis_desc	[Unter dem Einfluss eines ehrgeizigen Oberhaupts haben die Banditen in $lieu_fount.da$ $lieu_fount$ Angriffe auf die $lieu_restingwater$ gestartet, wo sie das natürliche Gleichgewicht gefährden.]
 
 }
 
@@ -56668,7 +56668,7 @@ R_08_16_P_OVL_VISIT_CHIEF_PLACE (place place_5)
 // HASH_VALUE 246903393F0300CB
 R_08_16_P_OVL_VISIT_FIRST_PLACE (place place_2)
 {
-		r_08_16_p_ovl_visit_first_place	[Die erste Gruppe Rohstoffabbauer finden ]
+		r_08_16_p_ovl_visit_first_place	[Die erste Gruppe Rohstoffabbauer finden]
 
 }
 
@@ -56725,7 +56725,7 @@ R_09_19_MIS_TITLE (bot giver)
 // HASH_VALUE 75EDAABC0F70F087
 R_09_19_P_BC_DEBRIEF ()
 {
-		r_09_19_p_bc_debrief	[Sie haben es geschafft! Gute Arbeit, $self$. Wie abgemacht können Sie Ihren Teil der Beute behalten. Nehmen Sie ebenfalls diesen Bernsteinwürfel, er enthält eine Geschichte, die sich während des Exils der Homins in den Tiefen von Atys abspielt. ]
+		r_09_19_p_bc_debrief	[Sie haben es geschafft! Gute Arbeit, $self$. Wie abgemacht können Sie Ihren Teil der Beute behalten. Nehmen Sie ebenfalls diesen Bernsteinwürfel, er enthält eine Geschichte, die sich während des Exils der Homins in den Tiefen von Atys abspielt.]
 
 }
 
@@ -56746,7 +56746,7 @@ R_09_19_P_LDC_INTRO (bot chef_borderguards, faction fact_borderguards, faction f
 // HASH_VALUE 341028E07A1ADE77
 R_09_19_P_OVL_KILL_CONVOI (bot_name convoi)
 {
-		r_09_19_p_ovl_kill_convoi	[Zerstören Sie den Konvoi ]
+		r_09_19_p_ovl_kill_convoi	[Zerstören Sie den Konvoi]
 
 }
 
@@ -56984,7 +56984,7 @@ R_10_17_P_LDF_INTRO_1 (place maiden_grove, faction shadow_runners)
 // HASH_VALUE F64B124A285ABB65
 R_11_10_MIS_DESC (bot giver)
 {
-		r_11_10_mis_desc	[Erweisen Sie Cerakos II und der Entwicklung des Fyros-Handwerks alle Ehre und bekämpfen Sie die Kitins in den Imperialen Dünen. ]
+		r_11_10_mis_desc	[Erweisen Sie Cerakos II und der Entwicklung des Fyros-Handwerks alle Ehre und bekämpfen Sie die Kitins in den Imperialen Dünen.]
 
 }
 
@@ -57197,7 +57197,7 @@ R_11_17_P_BC_TRIBECHIEF_1 ()
 		r_11_17_p_bc_tribechief_1	[- Die Region wurde nach einem großen Fyros benannt, der viele Homins während des Großen Schwarms rettete.\n
 			- Wir organisieren dieses Rennen als einen Tribut an seinen Mut.\n
 			- Es geht darum, die Region zu durchqueren, die verschiedenen Außenposten zu passieren und jedes Mal einen Gegenstand herzustellen. \n
-			- Danach musst du vor Sonnenaufgang hierher zurückkommen und mir deine Arbeit übergeben. ]
+			- Danach musst du vor Sonnenaufgang hierher zurückkommen und mir deine Arbeit übergeben.]
 
 }
 
@@ -58311,7 +58311,7 @@ SLAUGHTER_WEEK_MISSION_BG_FYROS_SLAUGHTER_WEEK_BG3 ()
 SLAUGHTER_WEEK_MISSION_BG_FYROS_SLAUGHTER_WEEK_BG4 ()
 {
 		slaughter_week_mission_bg_fyros_slaughter_week_bg4	[Für den Moment gibt es nichts zu melden.\n
-			Wir müssen vorsichtig bleiben, die Aktivitäten der Kitins haben in letzter Zeit zugenommen. ]
+			Wir müssen vorsichtig bleiben, die Aktivitäten der Kitins haben in letzter Zeit zugenommen.]
 
 }
 
@@ -58381,7 +58381,7 @@ SLAUGHTER_WEEK_MISSION_BG_MATIS_SLAUGHTER_WEEK_BG3 ()
 SLAUGHTER_WEEK_MISSION_BG_MATIS_SLAUGHTER_WEEK_BG4 ()
 {
 		slaughter_week_mission_bg_matis_slaughter_week_bg4	[Für den Moment gibt es nichts zu melden.\n
-			Wir müssen vorsichtig bleiben, die Aktivitäten der Kitins haben in letzter Zeit zugenommen. ]
+			Wir müssen vorsichtig bleiben, die Aktivitäten der Kitins haben in letzter Zeit zugenommen.]
 
 }
 
@@ -58451,7 +58451,7 @@ SLAUGHTER_WEEK_MISSION_BG_TRYKER_SLAUGHTER_WEEK_BG3 ()
 SLAUGHTER_WEEK_MISSION_BG_TRYKER_SLAUGHTER_WEEK_BG4 ()
 {
 		slaughter_week_mission_bg_tryker_slaughter_week_bg4	[Für den Moment gibt es nichts zu melden.\n
-			Wir müssen vorsichtig bleiben, die Aktivitäten der Kitins haben in letzter Zeit zugenommen. ]
+			Wir müssen vorsichtig bleiben, die Aktivitäten der Kitins haben in letzter Zeit zugenommen.]
 
 }
 
@@ -58521,7 +58521,7 @@ SLAUGHTER_WEEK_MISSION_BG_ZORAI_SLAUGHTER_WEEK_BG3 ()
 SLAUGHTER_WEEK_MISSION_BG_ZORAI_SLAUGHTER_WEEK_BG4 ()
 {
 		slaughter_week_mission_bg_zorai_slaughter_week_bg4	[Für den Moment gibt es nichts zu melden.\n
-			Wir müssen vorsichtig bleiben, die Aktivitäten der Kitins haben in letzter Zeit zugenommen. ]
+			Wir müssen vorsichtig bleiben, die Aktivitäten der Kitins haben in letzter Zeit zugenommen.]
 
 }
 
@@ -60332,10 +60332,10 @@ TEMPLATE_TASK_CRAFT_10_TITLE (bot giver, int random, faction f)
 		template_task_craft_10_title_2	[Schmuck für $f.mda$ $f.member$ herstellen.]
 
 	(random = 3)
-		template_task_craft_10_title_3	[$f.mda$ $f.member$ brauchen Schmuck.]
+		template_task_craft_10_title_3	[$f.mdab$ $f.member$ brauchen Schmuck.]
 
 	(random = 4)
-		template_task_craft_10_title_4	[$f.mda$ $f.member$ fragen nach einem Juwelier.]
+		template_task_craft_10_title_4	[$f.mdab$ $f.member$ fragen nach einem Juwelier.]
 
 	(random = 5)
 		template_task_craft_10_title_5	[Spezialbestellung von Schmuck für $f.mda$ $f.member$]
@@ -60344,15 +60344,15 @@ TEMPLATE_TASK_CRAFT_10_TITLE (bot giver, int random, faction f)
 		template_task_craft_10_title_6	[Schmuck für $f.mda$ $f.member$]
 
 	(random = 7)
-		template_task_craft_10_title_7	[$f.mda$ $f.member$ möchten neuen Schmuck]
+		template_task_craft_10_title_7	[$f.mdab$ $f.member$ möchten neuen Schmuck]
 
 	(random = 8)
-		template_task_craft_10_title_8	[$f.mda$ $f.member$ brauchen einen Juwelier]
+		template_task_craft_10_title_8	[$f.mdab$ $f.member$ brauchen einen Juwelier]
 
 	(random = 9)
 		template_task_craft_10_title_9	[Eine Schmuckbestellung für $f.mda$ $f.member$]
 
-		template_task_craft_10_title_10	[$f.mda$ $f.member$ möchten Schmuck nach Maß]
+		template_task_craft_10_title_10	[$f.mdab$ $f.member$ möchten Schmuck nach Maß]
 
 }
 
@@ -60627,7 +60627,7 @@ TEMPLATE_TASK_CRAFT_1_TITLE (bot giver, int random, faction f)
 		template_task_craft_1_title_7	[$giver$ benötigt Matis-Material]
 
 	(random = 8)
-		template_task_craft_1_title_8	[$giver$ benötigt einen Handwerker, um Matis-Material herzustellen. ]
+		template_task_craft_1_title_8	[$giver$ benötigt einen Handwerker, um Matis-Material herzustellen.]
 
 	(random = 9)
 		template_task_craft_1_title_9	[Eine Bestellung von Matis-Material]
@@ -60857,10 +60857,10 @@ TEMPLATE_TASK_CRAFT_8_TITLE (bot giver, int random, faction f)
 		template_task_craft_8_title_2	[Waffen für $f.mda$ $f.member$ herstellen]
 
 	(random = 3)
-		template_task_craft_8_title_3	[$f.mda$ $f.member$ benötigen Waffen]
+		template_task_craft_8_title_3	[$f.mdab$ $f.member$ benötigen Waffen]
 
 	(random = 4)
-		template_task_craft_8_title_4	[$f.mda$ $f.member$ fragen nach einem Waffenhersteller]
+		template_task_craft_8_title_4	[$f.mdab$ $f.member$ fragen nach einem Waffenhersteller]
 
 	(random = 5)
 		template_task_craft_8_title_5	[Spezialbestellung von Waffen für $f.mda$ $f.member$]
@@ -60869,15 +60869,15 @@ TEMPLATE_TASK_CRAFT_8_TITLE (bot giver, int random, faction f)
 		template_task_craft_8_title_6	[Waffen für $f.mda$ $f.member$]
 
 	(random = 7)
-		template_task_craft_8_title_7	[$f.mda$ $f.member$ wollen neue Waffen]
+		template_task_craft_8_title_7	[$f.mdab$ $f.member$ wollen neue Waffen]
 
 	(random = 8)
-		template_task_craft_8_title_8	[$f.mda$ $f.member$ benötigen einen Handwerker, um Waffen herzustellen]
+		template_task_craft_8_title_8	[$f.mdab$ $f.member$ benötigen einen Handwerker, um Waffen herzustellen]
 
 	(random = 9)
 		template_task_craft_8_title_9	[Eine Waffenbestellung für $f.mda$ $f.member$]
 
-		template_task_craft_8_title_10	[$f.mda$ $f.member$ wollen Waffen nach Maß]
+		template_task_craft_8_title_10	[$f.mdab$ $f.member$ wollen Waffen nach Maß]
 
 }
 
@@ -60892,10 +60892,10 @@ TEMPLATE_TASK_CRAFT_9_TITLE (bot giver, int random, faction f)
 		template_task_craft_9_title_2	[Rüstungen für $f.mda$ $f.member$ herstellen]
 
 	(random = 3)
-		template_task_craft_9_title_3	[$f.mda$ $f.member$ benötigen Rüstungen]
+		template_task_craft_9_title_3	[$f.mdab$ $f.member$ benötigen Rüstungen]
 
 	(random = 4)
-		template_task_craft_9_title_4	[$f.mda$ $f.member$ fragen nach einem Rüstungshersteller]
+		template_task_craft_9_title_4	[$f.mdab$ $f.member$ fragen nach einem Rüstungshersteller]
 
 	(random = 5)
 		template_task_craft_9_title_5	[Spezialbestellung von Rüstungen für $f.mda$ $f.member$]
@@ -60904,15 +60904,15 @@ TEMPLATE_TASK_CRAFT_9_TITLE (bot giver, int random, faction f)
 		template_task_craft_9_title_6	[Rüstungen für $f.mda$ $f.member$]
 
 	(random = 7)
-		template_task_craft_9_title_7	[$f.mda$ $f.member$ wollen neue Rüstungen]
+		template_task_craft_9_title_7	[$f.mdab$ $f.member$ wollen neue Rüstungen]
 
 	(random = 8)
-		template_task_craft_9_title_8	[$f.mda$ $f.member$ benötigen einen Handwerker, um Rüstungen herzustellen]
+		template_task_craft_9_title_8	[$f.mdab$ $f.member$ benötigen einen Handwerker, um Rüstungen herzustellen]
 
 	(random = 9)
 		template_task_craft_9_title_9	[Eine Bestellung von Rüstungen für $f.mda$ $f.member$]
 
-		template_task_craft_9_title_10	[$f.mda$ $f.member$ wollen Rüstungen nach Maß]
+		template_task_craft_9_title_10	[$f.mdab$ $f.member$ wollen Rüstungen nach Maß]
 
 }
 
@@ -61045,33 +61045,33 @@ TEMPLATE_TASK_FORAGE_11_TITLE (bot giver, int random, faction f)
 {
 	//Kami / kitin
 	(random = 1)
-		template_task_forage_11_title_1	[Kitinspuren für die Kamis entfernen ]
+		template_task_forage_11_title_1	[Kitinspuren für die Kamis entfernen]
 
 	(random = 2)
-		template_task_forage_11_title_2	[Für die Kamis von Kitins verseuchte Erntegebiete säubern ]
+		template_task_forage_11_title_2	[Für die Kamis von Kitins verseuchte Erntegebiete säubern]
 
 	(random = 3)
-		template_task_forage_11_title_3	[Für die Kamis das Land von Spuren der Kitins befreien ]
+		template_task_forage_11_title_3	[Für die Kamis das Land von Spuren der Kitins befreien]
 
 	(random = 4)
-		template_task_forage_11_title_4	[Die Kamis benötigen jemanden, der die Spuren der Kitins von den Erntegebieten entfernt ]
+		template_task_forage_11_title_4	[Die Kamis benötigen jemanden, der die Spuren der Kitins von den Erntegebieten entfernt]
 
 	(random = 5)
-		template_task_forage_11_title_5	[Für die Kamis Spuren der Kitins beseitigen ]
+		template_task_forage_11_title_5	[Für die Kamis Spuren der Kitins beseitigen]
 
 	(random = 6)
 		template_task_forage_11_title_6	[Für die Kamis die Erntegebiete von den Spuren der Kitins befreien]
 
 	(random = 7)
-		template_task_forage_11_title_7	[Die Kamis brauchen jemanden, der die Erntegebiete von den Spuren der Kitins befreit ]
+		template_task_forage_11_title_7	[Die Kamis brauchen jemanden, der die Erntegebiete von den Spuren der Kitins befreit]
 
 	(random = 8)
-		template_task_forage_11_title_8	[Die Kamis brauchen jemanden, der die Erntegebiete von Kitin-Spuren säubert ]
+		template_task_forage_11_title_8	[Die Kamis brauchen jemanden, der die Erntegebiete von Kitin-Spuren säubert]
 
 	(random = 9)
-		template_task_forage_11_title_9	[Die Kamis möchten, dass jemand die Spuren von Kitins aus den Erntegebieten beseitigt ]
+		template_task_forage_11_title_9	[Die Kamis möchten, dass jemand die Spuren von Kitins aus den Erntegebieten beseitigt]
 
-		template_task_forage_11_title_10	[Die Kamis möchten, dass jemand die Spuren der Kitins aus den Erntegebieten entfernt ]
+		template_task_forage_11_title_10	[Die Kamis möchten, dass jemand die Spuren der Kitins aus den Erntegebieten entfernt]
 
 }
 
@@ -61080,33 +61080,33 @@ TEMPLATE_TASK_FORAGE_12_TITLE (bot giver, int random, faction f)
 {
 	//Kami / goo
 	(random = 1)
-		template_task_forage_12_title_1	[Für die Kamis Goo-Überreste beseitigen ]
+		template_task_forage_12_title_1	[Für die Kamis Goo-Überreste beseitigen]
 
 	(random = 2)
-		template_task_forage_12_title_2	[Für die Kamis Goo-verseuchte Erntegebiete säubern ]
+		template_task_forage_12_title_2	[Für die Kamis Goo-verseuchte Erntegebiete säubern]
 
 	(random = 3)
-		template_task_forage_12_title_3	[Für die Kamis Goo-befallenes Land reinigen ]
+		template_task_forage_12_title_3	[Für die Kamis Goo-befallenes Land reinigen]
 
 	(random = 4)
-		template_task_forage_12_title_4	[Die Kamis benötigen jemanden, der Goo-Überreste aus den Feldern entfernt ]
+		template_task_forage_12_title_4	[Die Kamis benötigen jemanden, der Goo-Überreste aus den Feldern entfernt]
 
 	(random = 5)
-		template_task_forage_12_title_5	[Für die Kamis Goo-Überreste beseitigen ]
+		template_task_forage_12_title_5	[Für die Kamis Goo-Überreste beseitigen]
 
 	(random = 6)
-		template_task_forage_12_title_6	[Für die Kamis Goo-infizierte Erntegebiete reinigen ]
+		template_task_forage_12_title_6	[Für die Kamis Goo-infizierte Erntegebiete reinigen]
 
 	(random = 7)
-		template_task_forage_12_title_7	[Die Kamis benötigen jemanden, der Goo-Überreste aus den Erntegebieten entfernt ]
+		template_task_forage_12_title_7	[Die Kamis benötigen jemanden, der Goo-Überreste aus den Erntegebieten entfernt]
 
 	(random = 8)
-		template_task_forage_12_title_8	[Die Kamis benötigen jemanden, der die Erntegebiete von Goo-Überresten befreit ]
+		template_task_forage_12_title_8	[Die Kamis benötigen jemanden, der die Erntegebiete von Goo-Überresten befreit]
 
 	(random = 9)
-		template_task_forage_12_title_9	[Die Kamis möchten, dass jemand Goo-Überreste aus den Erntegebieten entfernt ]
+		template_task_forage_12_title_9	[Die Kamis möchten, dass jemand Goo-Überreste aus den Erntegebieten entfernt]
 
-		template_task_forage_12_title_10	[Die Kamis möchten, dass jemand die Erntegebiete von Goo-Überresten säubert ]
+		template_task_forage_12_title_10	[Die Kamis möchten, dass jemand die Erntegebiete von Goo-Überresten säubert]
 
 }
 
@@ -61115,13 +61115,13 @@ TEMPLATE_TASK_FORAGE_13_TITLE (bot giver, int random, faction f)
 {
 	//Karavan / nocive
 	(random = 1)
-		template_task_forage_13_title_1	[Für den Karavan das Land putzen, damit es bestellt werden kann ]
+		template_task_forage_13_title_1	[Für den Karavan das Land putzen, damit es bestellt werden kann]
 
 	(random = 2)
-		template_task_forage_13_title_2	[Für den Karavan Erntegebiete putzen, damit es bestellt werden kann ]
+		template_task_forage_13_title_2	[Für den Karavan Erntegebiete putzen, damit es bestellt werden kann]
 
 	(random = 3)
-		template_task_forage_13_title_3	[Für den Karavan Land reinigen, damit es bestellt werden kann ]
+		template_task_forage_13_title_3	[Für den Karavan Land reinigen, damit es bestellt werden kann]
 
 	(random = 4)
 		template_task_forage_13_title_4	[Der Karavan benötigt jemanden, der Erntegebiete säubert, um sie bestellen zu können]
@@ -61130,18 +61130,18 @@ TEMPLATE_TASK_FORAGE_13_TITLE (bot giver, int random, faction f)
 		template_task_forage_13_title_5	[Der Karavan brauchen jemanden, der Erntegebiete reinigt, um sie bestellen zu können]
 
 	(random = 6)
-		template_task_forage_13_title_6	[Für den Karavan Land bearbeiten, damit es bestellt werden kann ]
+		template_task_forage_13_title_6	[Für den Karavan Land bearbeiten, damit es bestellt werden kann]
 
 	(random = 7)
-		template_task_forage_13_title_7	[Für den Karavan Erntegebiete vorbereiten, damit sie bestellt werden können ]
+		template_task_forage_13_title_7	[Für den Karavan Erntegebiete vorbereiten, damit sie bestellt werden können]
 
 	(random = 8)
-		template_task_forage_13_title_8	[Der Karavan benötigt jemanden, der Erntegebiete vorbereitet, um sie bestellen zu können ]
+		template_task_forage_13_title_8	[Der Karavan benötigt jemanden, der Erntegebiete vorbereitet, um sie bestellen zu können]
 
 	(random = 9)
-		template_task_forage_13_title_9	[Für den Karavan das Land instand halten, damit es bestellt werden kann ]
+		template_task_forage_13_title_9	[Für den Karavan das Land instand halten, damit es bestellt werden kann]
 
-		template_task_forage_13_title_10	[Der Karavan benötigt jemanden, der das Land pflegt, um es bestellen zu können ]
+		template_task_forage_13_title_10	[Der Karavan benötigt jemanden, der das Land pflegt, um es bestellen zu können]
 
 }
 
@@ -61150,31 +61150,31 @@ TEMPLATE_TASK_FORAGE_14_TITLE (bot giver, int random, faction f)
 {
 	//Karavan / kitin
 	(random = 1)
-		template_task_forage_14_title_1	[Die Spuren von Kitins beseitigen, damit der Karavan die Ressourcen abbauen kann ]
+		template_task_forage_14_title_1	[Die Spuren von Kitins beseitigen, damit der Karavan die Ressourcen abbauen kann]
 
 	(random = 2)
-		template_task_forage_14_title_2	[Für den Karavan Kitin-verschmutzte Erntegebiete reinigen, damit sie bestellt werden können ]
+		template_task_forage_14_title_2	[Für den Karavan Kitin-verschmutzte Erntegebiete reinigen, damit sie bestellt werden können]
 
 	(random = 3)
-		template_task_forage_14_title_3	[Für den Karavan das Land von Spuren der Kitins befreien, damit es bestellt werden kann ]
+		template_task_forage_14_title_3	[Für den Karavan das Land von Spuren der Kitins befreien, damit es bestellt werden kann]
 
 	(random = 4)
-		template_task_forage_14_title_4	[Der Karavan benötigt jemanden, der die Spuren der Kitins entfernt, um Erntegebiete bestellen zu können ]
+		template_task_forage_14_title_4	[Der Karavan benötigt jemanden, der die Spuren der Kitins entfernt, um Erntegebiete bestellen zu können]
 
 	(random = 5)
 		template_task_forage_14_title_5	[Die Spuren der Kitins beseitigen, damit der Karavan Ressourcen abbauen kann]
 
 	(random = 6)
-		template_task_forage_14_title_6	[Für den Karavan Erntegebeite von Spuren der Kitins befreien, damit sie bestellt werden können ]
+		template_task_forage_14_title_6	[Für den Karavan Erntegebeite von Spuren der Kitins befreien, damit sie bestellt werden können]
 
 	(random = 7)
-		template_task_forage_14_title_7	[Der Karavan braucht jemanden, der Spuren der Kitins von Erntegebieten beseitigt ]
+		template_task_forage_14_title_7	[Der Karavan braucht jemanden, der Spuren der Kitins von Erntegebieten beseitigt]
 
 	(random = 8)
 		template_task_forage_14_title_8	[Der Karavan braucht jemanden, der Spuren der Kitins von den Erntegebieten beseitigt, um sie zu bestellen]
 
 	(random = 9)
-		template_task_forage_14_title_9	[Der Karavan möchte, dass jemand Spuren der Kitins von den Erntegebieten entfernt, um sie zu bestellen ]
+		template_task_forage_14_title_9	[Der Karavan möchte, dass jemand Spuren der Kitins von den Erntegebieten entfernt, um sie zu bestellen]
 
 		template_task_forage_14_title_10	[Der Karavan möchte, dass jemand die Erntegebiete von Spuren der Kitins befreit, um sie zu bestellen]
 
@@ -61185,33 +61185,33 @@ TEMPLATE_TASK_FORAGE_15_TITLE (bot giver, int random, faction f)
 {
 	//Karavan / goo
 	(random = 1)
-		template_task_forage_15_title_1	[Goo-Überreste entfernen, damit der Karavan die Ressourcen abbauen kann ]
+		template_task_forage_15_title_1	[Goo-Überreste entfernen, damit der Karavan die Ressourcen abbauen kann]
 
 	(random = 2)
-		template_task_forage_15_title_2	[Für den Karavan Goo-verseuchte Erntegebiete putzen, damit sie bestellt werden können ]
+		template_task_forage_15_title_2	[Für den Karavan Goo-verseuchte Erntegebiete putzen, damit sie bestellt werden können]
 
 	(random = 3)
-		template_task_forage_15_title_3	[Für den Karavan Goo-befallenes Land reinigen, damit es bestellt werden kann ]
+		template_task_forage_15_title_3	[Für den Karavan Goo-befallenes Land reinigen, damit es bestellt werden kann]
 
 	(random = 4)
-		template_task_forage_15_title_4	[Der Karavan benötigt jemanden, der Goo-Überreste aus Erntegebieten entfernt, damit sie bestellt werden ]
+		template_task_forage_15_title_4	[Der Karavan benötigt jemanden, der Goo-Überreste aus Erntegebieten entfernt, damit sie bestellt werden]
 
 	(random = 5)
-		template_task_forage_15_title_5	[Goo-Überreste entfernen, damit der Karavan Ressourcen abbauen kann ]
+		template_task_forage_15_title_5	[Goo-Überreste entfernen, damit der Karavan Ressourcen abbauen kann]
 
 	(random = 6)
-		template_task_forage_15_title_6	[Für den Karavan Goo-infizierte Erntegebiete reinigen, damit sie bestellt werden können ]
+		template_task_forage_15_title_6	[Für den Karavan Goo-infizierte Erntegebiete reinigen, damit sie bestellt werden können]
 
 	(random = 7)
-		template_task_forage_15_title_7	[Der Karavan benötigt jemanden, der Goo-Überreste aus Erntegebieten entfernt, um sie bestellen zu können ]
+		template_task_forage_15_title_7	[Der Karavan benötigt jemanden, der Goo-Überreste aus Erntegebieten entfernt, um sie bestellen zu können]
 
 	(random = 8)
-		template_task_forage_15_title_8	[Der Karavan benötigt jemanden, der Erntegebiete von Goo-Überresten säubert, um sie bestellen zu können ]
+		template_task_forage_15_title_8	[Der Karavan benötigt jemanden, der Erntegebiete von Goo-Überresten säubert, um sie bestellen zu können]
 
 	(random = 9)
-		template_task_forage_15_title_9	[Der Karavan möchte, dass jemand Erntegebiete von Goo-Überresten reinigt, um sie bestellen zu können ]
+		template_task_forage_15_title_9	[Der Karavan möchte, dass jemand Erntegebiete von Goo-Überresten reinigt, um sie bestellen zu können]
 
-		template_task_forage_15_title_10	[Der Karavan möchte, dass jemand Goo-Überreste von Erntegebieten entfernt, um sie bestellen zu können ]
+		template_task_forage_15_title_10	[Der Karavan möchte, dass jemand Goo-Überreste von Erntegebieten entfernt, um sie bestellen zu können]
 
 }
 
@@ -61246,7 +61246,7 @@ TEMPLATE_TASK_FORAGE_16_TITLE (bot giver, int random, faction f)
 	(random = 9)
 		template_task_forage_16_title_9	[Das Land der $f.member$-Freunde von $giver$ instand halten]
 
-		template_task_forage_16_title_10	[Die $f.member$-Freunde von $giver$ brauchen jemanden, der ihre Erntegebiete instand hält ]
+		template_task_forage_16_title_10	[Die $f.member$-Freunde von $giver$ brauchen jemanden, der ihre Erntegebiete instand hält]
 
 }
 
@@ -61273,7 +61273,7 @@ TEMPLATE_TASK_FORAGE_17_TITLE (bot giver, int random, faction f)
 		template_task_forage_17_title_6	[Die Erntegebiete von den Spuren der Kitins für die $f.member$-Freunde von $giver$ beseitigen]
 
 	(random = 7)
-		template_task_forage_17_title_7	[Die $f.member$-Freunde von $giver$ brauchen jemanden, um die Spuren der Kitins aus ihren Erntegebieten zu entfernen ]
+		template_task_forage_17_title_7	[Die $f.member$-Freunde von $giver$ brauchen jemanden, um die Spuren der Kitins aus ihren Erntegebieten zu entfernen]
 
 	(random = 8)
 		template_task_forage_17_title_8	[Die $f.member$-Freunde von $giver$ brauchen jemanden, der ihre Erntegebiete von den Spuren der Kitins befreit]
@@ -61311,7 +61311,7 @@ TEMPLATE_TASK_FORAGE_18_TITLE (bot giver, int random, faction f)
 		template_task_forage_18_title_7	[Die $f.member$-Freunde von $giver$ brauchen jemanden, der Goo-Überreste aus ihren Erntegebieten entfernt]
 
 	(random = 8)
-		template_task_forage_18_title_8	[Die $f.member$-Freunde von $giver$ brauchen jemanden, der ihre Erntegebiete von Goo befreit ]
+		template_task_forage_18_title_8	[Die $f.member$-Freunde von $giver$ brauchen jemanden, der ihre Erntegebiete von Goo befreit]
 
 	(random = 9)
 		template_task_forage_18_title_9	[Die $f.member$-Freunde von $giver$ verlangen, dass Goo-Überreste aus ihren Erntegebieten entfernt werden]
@@ -61404,7 +61404,7 @@ TEMPLATE_TASK_FORAGE_3_TITLE (bot giver, int random, faction f)
 		template_task_forage_3_title_3	[Die Goo-befallenen Erntegebiete von $giver$ säubern]
 
 	(random = 4)
-		template_task_forage_3_title_4	[$giver$ benötigt jemanden, der Goo-Überreste aus seinen Erntegebieten entfernt ]
+		template_task_forage_3_title_4	[$giver$ benötigt jemanden, der Goo-Überreste aus seinen Erntegebieten entfernt]
 
 	(random = 5)
 		template_task_forage_3_title_5	[Goo-Überreste aus den Erntegebieten von $giver$ beseitigen]
@@ -61413,13 +61413,13 @@ TEMPLATE_TASK_FORAGE_3_TITLE (bot giver, int random, faction f)
 		template_task_forage_3_title_6	[Die vom Goo befallenen Erntegebiete von $giver$ säubern]
 
 	(random = 7)
-		template_task_forage_3_title_7	[$giver$ benötigt jemanden, der seine Erntegebiete von Goo-Überresten reinigt ]
+		template_task_forage_3_title_7	[$giver$ benötigt jemanden, der seine Erntegebiete von Goo-Überresten reinigt]
 
 	(random = 8)
 		template_task_forage_3_title_8	[$giver$ benötigt jemanden, der seine Erntegebiete von Goo-Verschmutzung befreit]
 
 	(random = 9)
-		template_task_forage_3_title_9	[$giver$ möchte, dass jemand seine Erntegebiete von Goo-Überresten säubert ]
+		template_task_forage_3_title_9	[$giver$ möchte, dass jemand seine Erntegebiete von Goo-Überresten säubert]
 
 		template_task_forage_3_title_10	[$giver$ möchte, dass jemand Goo-Überreste aus seinen Erntegebieten entfernt]
 
@@ -61474,22 +61474,22 @@ TEMPLATE_TASK_FORAGE_5_TITLE (bot giver, int random, faction f)
 		template_task_forage_5_title_3	[Das Land von den Spuren der Kitins befreien]
 
 	(random = 4)
-		template_task_forage_5_title_4	[$giver$ benötigt jemanden, der die Spuren von Kitins aus seinen Erntegebieten beseitigt ]
+		template_task_forage_5_title_4	[$giver$ benötigt jemanden, der die Spuren von Kitins aus seinen Erntegebieten beseitigt]
 
 	(random = 5)
 		template_task_forage_5_title_5	[Die Spuren der Kitins von den Erntegebieten entfernen]
 
 	(random = 6)
-		template_task_forage_5_title_6	[Erntegebiete von den Spuren der Kitins befreien ]
+		template_task_forage_5_title_6	[Erntegebiete von den Spuren der Kitins befreien]
 
 	(random = 7)
-		template_task_forage_5_title_7	[$giver$ benötigt jemanden, der die Spuren von Kitins aus den Erntegebieten beseitigt ]
+		template_task_forage_5_title_7	[$giver$ benötigt jemanden, der die Spuren von Kitins aus den Erntegebieten beseitigt]
 
 	(random = 8)
-		template_task_forage_5_title_8	[$giver$ benötigt jemanden, der die Spuren der Kitins von Erntegebieten entfernt ]
+		template_task_forage_5_title_8	[$giver$ benötigt jemanden, der die Spuren der Kitins von Erntegebieten entfernt]
 
 	(random = 9)
-		template_task_forage_5_title_9	[$giver$ möchte, dass die Spuren der Kitins von seinen Erntegebieten beseitigt werden ]
+		template_task_forage_5_title_9	[$giver$ möchte, dass die Spuren der Kitins von seinen Erntegebieten beseitigt werden]
 
 		template_task_forage_5_title_10	[$giver$ möchte, dass die Spuren von Kitins aus seinen Erntegebieten entfernt werden]
 
@@ -61500,7 +61500,7 @@ TEMPLATE_TASK_FORAGE_6_TITLE (bot giver, int random, faction f)
 {
 	//scout / goo, welcomer / goo
 	(random = 1)
-		template_task_forage_6_title_1	[Goo-Überreste aus den Erntegebieten entfernen ]
+		template_task_forage_6_title_1	[Goo-Überreste aus den Erntegebieten entfernen]
 
 	(random = 2)
 		template_task_forage_6_title_2	[Die vom Goo befallenen Erntegebiete reinigen]
@@ -61509,24 +61509,24 @@ TEMPLATE_TASK_FORAGE_6_TITLE (bot giver, int random, faction f)
 		template_task_forage_6_title_3	[Das vom Goo befallene Land reinigen]
 
 	(random = 4)
-		template_task_forage_6_title_4	[$giver$ benötigt jemanden, der Goo-Überreste aus den Erntegebieten beseitigt ]
+		template_task_forage_6_title_4	[$giver$ benötigt jemanden, der Goo-Überreste aus den Erntegebieten beseitigt]
 
 	(random = 5)
 		template_task_forage_6_title_5	[Goo-Überreste entfernen]
 
 	(random = 6)
-		template_task_forage_6_title_6	[Die vom Goo verseuchten Erntegebiete säubern ]
+		template_task_forage_6_title_6	[Die vom Goo verseuchten Erntegebiete säubern]
 
 	(random = 7)
-		template_task_forage_6_title_7	[$giver$ benötigt jemanden, der Goo-Überreste aus den Erntegebieten entfernt ]
+		template_task_forage_6_title_7	[$giver$ benötigt jemanden, der Goo-Überreste aus den Erntegebieten entfernt]
 
 	(random = 8)
-		template_task_forage_6_title_8	[$giver$ benötigt jemanden, der vom Goo infizierte Erntegebiete reinigt ]
+		template_task_forage_6_title_8	[$giver$ benötigt jemanden, der vom Goo infizierte Erntegebiete reinigt]
 
 	(random = 9)
-		template_task_forage_6_title_9	[$giver$ möchte, dass jemand Goo-Überreste aus Erntegebieten entfernt ]
+		template_task_forage_6_title_9	[$giver$ möchte, dass jemand Goo-Überreste aus Erntegebieten entfernt]
 
-		template_task_forage_6_title_10	[$giver$ möchte, dass jemand Erntegebiete von Goo-Überresten befreit ]
+		template_task_forage_6_title_10	[$giver$ möchte, dass jemand Erntegebiete von Goo-Überresten befreit]
 
 }
 
@@ -61544,10 +61544,10 @@ TEMPLATE_TASK_FORAGE_7_TITLE (bot giver, int random, faction f)
 		template_task_forage_7_title_3	[Das Land der $f.member$ säubern]
 
 	(random = 4)
-		template_task_forage_7_title_4	[$f.mda$ $f.member$ benötigen jemanden, der ihre Erntegebiete reinigt ]
+		template_task_forage_7_title_4	[$f.mdab$ $f.member$ benötigen jemanden, der ihre Erntegebiete reinigt]
 
 	(random = 5)
-		template_task_forage_7_title_5	[$f.mda$ $f.member$ benötigen jemanden, der ihre Erntegebiete säubert ]
+		template_task_forage_7_title_5	[$f.mdab$ $f.member$ benötigen jemanden, der ihre Erntegebiete säubert]
 
 	(random = 6)
 		template_task_forage_7_title_6	[Das Land für die $f.mda$ $f.member$ bestellen]
@@ -61556,12 +61556,12 @@ TEMPLATE_TASK_FORAGE_7_TITLE (bot giver, int random, faction f)
 		template_task_forage_7_title_7	[Die Erntegebiete der $f.member$ vorbereiten]
 
 	(random = 8)
-		template_task_forage_7_title_8	[$f.mda$ $f.member$ benötigen jemanden, der ihre Erntegebiete vorbereitet]
+		template_task_forage_7_title_8	[$f.mdab$ $f.member$ benötigen jemanden, der ihre Erntegebiete vorbereitet]
 
 	(random = 9)
-		template_task_forage_7_title_9	[Die Felder der $f.member$ bestellen helfen ]
+		template_task_forage_7_title_9	[Die Felder der $f.member$ bestellen helfen]
 
-		template_task_forage_7_title_10	[$f.mda$ $f.member$ benötigen jemanden, um ihre Erntegebiete zu bestellen. ]
+		template_task_forage_7_title_10	[$f.mdab$ $f.member$ benötigen jemanden, um ihre Erntegebiete zu bestellen.]
 
 }
 
@@ -61579,7 +61579,7 @@ TEMPLATE_TASK_FORAGE_8_TITLE (bot giver, int random, faction f)
 		template_task_forage_8_title_3	[Die Erntegebiete der $f.member$ von den Spuren der Kitins befreien]
 
 	(random = 4)
-		template_task_forage_8_title_4	[$f.mda$ $f.member$ benötigen jemanden, der die Spuren der Kitins von ihren Erntegebieten beseitigt]
+		template_task_forage_8_title_4	[$f.mdab$ $f.member$ benötigen jemanden, der die Spuren der Kitins von ihren Erntegebieten beseitigt]
 
 	(random = 5)
 		template_task_forage_8_title_5	[Spuren von Kitins für die $f.mda$ $f.member$ entfernen]
@@ -61588,15 +61588,15 @@ TEMPLATE_TASK_FORAGE_8_TITLE (bot giver, int random, faction f)
 		template_task_forage_8_title_6	[Die Erntegebiete der $f.member$ von den Spuren der Kitins befreien]
 
 	(random = 7)
-		template_task_forage_8_title_7	[$f.mda$ $f.member$ benötigen jemanden, der die Spuren von Kitins von ihren Erntegebieten beseitigt. ]
+		template_task_forage_8_title_7	[$f.mdab$ $f.member$ benötigen jemanden, der die Spuren von Kitins von ihren Erntegebieten beseitigt.]
 
 	(random = 8)
-		template_task_forage_8_title_8	[$f.mda$ $f.member$ benötigen jemanden, der ihre Erntegebiete von den Spuren der Kitins befreit]
+		template_task_forage_8_title_8	[$f.mdab$ $f.member$ benötigen jemanden, der ihre Erntegebiete von den Spuren der Kitins befreit]
 
 	(random = 9)
-		template_task_forage_8_title_9	[$f.mda$ $f.member$ möchten, dass jemand die Spuren von Kitins aus ihren Erntegebieten entfernt ]
+		template_task_forage_8_title_9	[$f.mdab$ $f.member$ möchten, dass jemand die Spuren von Kitins aus ihren Erntegebieten entfernt]
 
-		template_task_forage_8_title_10	[$f.mda$ $f.member$ möchten, dass jemand die Spuren der Kitins von ihren Erntegebieten beseitigt ]
+		template_task_forage_8_title_10	[$f.mdab$ $f.member$ möchten, dass jemand die Spuren der Kitins von ihren Erntegebieten beseitigt]
 
 }
 
@@ -61614,7 +61614,7 @@ TEMPLATE_TASK_FORAGE_9_TITLE (bot giver, int random, faction f)
 		template_task_forage_9_title_3	[Das Goo-befallene Land von $f.member$ reinigen]
 
 	(random = 4)
-		template_task_forage_9_title_4	[$f.mda$ $f.member$ brauchen jemanden, der Goo-Überreste aus ihren Erntegebieten entfernt]
+		template_task_forage_9_title_4	[$f.mdab$ $f.member$ brauchen jemanden, der Goo-Überreste aus ihren Erntegebieten entfernt]
 
 	(random = 5)
 		template_task_forage_9_title_5	[Goo-Überreste für $f.mda$ $f.member$ entfernen]
@@ -61623,15 +61623,15 @@ TEMPLATE_TASK_FORAGE_9_TITLE (bot giver, int random, faction f)
 		template_task_forage_9_title_6	[Die Goo-verseuchten Erntegebiete von $f.member$ säubern]
 
 	(random = 7)
-		template_task_forage_9_title_7	[$f.mda$ $f.member$ benötigen jemanden, der Goo-Überreste aus ihren Erntegebieten befreit]
+		template_task_forage_9_title_7	[$f.mdab$ $f.member$ benötigen jemanden, der Goo-Überreste aus ihren Erntegebieten befreit]
 
 	(random = 8)
-		template_task_forage_9_title_8	[$f.mda$ $f.member$ benötigen jemanden, der ihre Erntegebiete von Goo befreit ]
+		template_task_forage_9_title_8	[$f.mdab$ $f.member$ benötigen jemanden, der ihre Erntegebiete von Goo befreit]
 
 	(random = 9)
-		template_task_forage_9_title_9	[$f.mda$ $f.member$ möchten, dass jemand Goo-Überreste von ihren Erntegebieten besseitigt ]
+		template_task_forage_9_title_9	[$f.mdab$ $f.member$ möchten, dass jemand Goo-Überreste von ihren Erntegebieten besseitigt]
 
-		template_task_forage_9_title_10	[$f.mda$ $f.member$ möchten, dass jemand Goo-Überreste aus ihren Erntegebieten entfernt]
+		template_task_forage_9_title_10	[$f.mdab$ $f.member$ möchten, dass jemand Goo-Überreste aus ihren Erntegebieten entfernt]
 
 }
 
@@ -61681,7 +61681,7 @@ TEMPLATE_TASK_FORAGE_GIVE_10_TITLE (bot giver, int random, faction f)
 		template_task_forage_give_10_title_2	[Kitinreste zu Studienzwecken für die $f.mda$ $f.member$ zusammentragen]
 
 	(random = 3)
-		template_task_forage_give_10_title_3	[$f.mda$ $f.member$ brauchen Kitinreste zu Studienzwecken]
+		template_task_forage_give_10_title_3	[$f.mdab$ $f.member$ brauchen Kitinreste zu Studienzwecken]
 
 	(random = 4)
 		template_task_forage_give_10_title_4	[Den $f.member$ Kitinreste zu Studienzwecken bringen]
@@ -61696,12 +61696,12 @@ TEMPLATE_TASK_FORAGE_GIVE_10_TITLE (bot giver, int random, faction f)
 		template_task_forage_give_10_title_7	[Kitinreste zu Studienzwecken für die $f.mda$ $f.member$ sammeln]
 
 	(random = 8)
-		template_task_forage_give_10_title_8	[$f.mda$ $f.member$ brauchen jemanden, um Kitinreste zu Studienzwecken zu sammeln]
+		template_task_forage_give_10_title_8	[$f.mdab$ $f.member$ brauchen jemanden, um Kitinreste zu Studienzwecken zu sammeln]
 
 	(random = 9)
-		template_task_forage_give_10_title_9	[$f.mda$ $f.member$ mit Kitinresten zu Studienzwecken versorgen]
+		template_task_forage_give_10_title_9	[$f.mdab$ $f.member$ mit Kitinresten zu Studienzwecken versorgen]
 
-		template_task_forage_give_10_title_10	[$f.mda$ $f.member$ benötigen jemanden, um Kitinreste zu Studienzwecken zu sammeln ]
+		template_task_forage_give_10_title_10	[$f.mdab$ $f.member$ benötigen jemanden, um Kitinreste zu Studienzwecken zu sammeln]
 
 }
 
@@ -61716,7 +61716,7 @@ TEMPLATE_TASK_FORAGE_GIVE_11_TITLE (bot giver, int random, faction f)
 		template_task_forage_give_11_title_2	[Goo-Reste zu Studienzwecken für $f.mda$ $f.member$ zusammentragen]
 
 	(random = 3)
-		template_task_forage_give_11_title_3	[$f.mda$ $f.member$ benötigen Goo-Reste zu Studienzwecken]
+		template_task_forage_give_11_title_3	[$f.mdab$ $f.member$ benötigen Goo-Reste zu Studienzwecken]
 
 	(random = 4)
 		template_task_forage_give_11_title_4	[$f.member$ mit Goo-Resten zu Studienzwecken versorgen]
@@ -61731,12 +61731,12 @@ TEMPLATE_TASK_FORAGE_GIVE_11_TITLE (bot giver, int random, faction f)
 		template_task_forage_give_11_title_7	[Goo-Reste zu Studienzwecken für die $f.mda$ $f.member$ sammeln]
 
 	(random = 8)
-		template_task_forage_give_11_title_8	[$f.mda$ $f.member$ brauchen jemanden, um Goo-Reste zu Studienzwecken zu sammeln]
+		template_task_forage_give_11_title_8	[$f.mdab$ $f.member$ brauchen jemanden, um Goo-Reste zu Studienzwecken zu sammeln]
 
 	(random = 9)
-		template_task_forage_give_11_title_9	[ $f.mda$ $f.member$ mit Goo-Resten zu Studienzwecken versorgen]
+		template_task_forage_give_11_title_9	[$f.mdab$ $f.member$ mit Goo-Resten zu Studienzwecken versorgen]
 
-		template_task_forage_give_11_title_10	[$f.mda$ $f.member$ benötigen jemanden, um Goo-Reste zu Studienzwecken zu sammeln ]
+		template_task_forage_give_11_title_10	[$f.mdab$ $f.member$ benötigen jemanden, um Goo-Reste zu Studienzwecken zu sammeln]
 
 }
 
@@ -61751,7 +61751,7 @@ TEMPLATE_TASK_FORAGE_GIVE_12_TITLE (bot giver, int random, faction f)
 		template_task_forage_give_12_title_2	[Konservierungsstoffe für $f.mda$ $f.member$ zusammentragen]
 
 	(random = 3)
-		template_task_forage_give_12_title_3	[$f.mda$ $f.member$ fehlt es an Konservierungsstoffen]
+		template_task_forage_give_12_title_3	[$f.mdab$ $f.member$ fehlt es an Konservierungsstoffen]
 
 	(random = 4)
 		template_task_forage_give_12_title_4	[Die $f.member$ mit Konservierungsstoffen versorgen]
@@ -61766,12 +61766,12 @@ TEMPLATE_TASK_FORAGE_GIVE_12_TITLE (bot giver, int random, faction f)
 		template_task_forage_give_12_title_7	[Konservierungsstoffe für $f.mda$ $f.member$ sammeln]
 
 	(random = 8)
-		template_task_forage_give_12_title_8	[$f.mda$ $f.member$ benötigen jemanden, um Konservierungsstoffe zu sammeln]
+		template_task_forage_give_12_title_8	[$f.mdab$ $f.member$ benötigen jemanden, um Konservierungsstoffe zu sammeln]
 
 	(random = 9)
-		template_task_forage_give_12_title_9	[$f.mda$ $f.member$ mit Konservierungsstoffen versorgen]
+		template_task_forage_give_12_title_9	[$f.mdab$ $f.member$ mit Konservierungsstoffen versorgen]
 
-		template_task_forage_give_12_title_10	[$f.mda$ $f.member$ benötigen jemanden, um Konservierungsstoffe zu sammeln]
+		template_task_forage_give_12_title_10	[$f.mdab$ $f.member$ benötigen jemanden, um Konservierungsstoffe zu sammeln]
 
 }
 
@@ -61798,7 +61798,7 @@ TEMPLATE_TASK_FORAGE_GIVE_13_TITLE (bot giver, int random, faction f)
 		template_task_forage_give_13_title_6	[Bestellung von Baumaterial für die Kamis]
 
 	(random = 7)
-		template_task_forage_give_13_title_7	[Baumaterial für die Kamis sammeln ]
+		template_task_forage_give_13_title_7	[Baumaterial für die Kamis sammeln]
 
 	(random = 8)
 		template_task_forage_give_13_title_8	[Baumaterial für die Kamis zusammentragen]
@@ -61841,7 +61841,7 @@ TEMPLATE_TASK_FORAGE_GIVE_14_TITLE (bot giver, int random, faction f)
 	(random = 9)
 		template_task_forage_give_14_title_9	[Den Kamis Insekten bringen]
 
-		template_task_forage_give_14_title_10	[Die Kamis benötigen jemanden, der Insekten sammelt ]
+		template_task_forage_give_14_title_10	[Die Kamis benötigen jemanden, der Insekten sammelt]
 
 }
 
@@ -61944,9 +61944,9 @@ TEMPLATE_TASK_FORAGE_GIVE_17_TITLE (bot giver, int random, faction f)
 		template_task_forage_give_17_title_8	[Die Kamis benötigen jemanden, um Goo-Reste zu Studienzwecken zu sammeln]
 
 	(random = 9)
-		template_task_forage_give_17_title_9	[Die Kamis mit Goo-Resten zu Studienzwecken beliefern ]
+		template_task_forage_give_17_title_9	[Die Kamis mit Goo-Resten zu Studienzwecken beliefern]
 
-		template_task_forage_give_17_title_10	[Die Kamis brauchen jemanden, um Goo-Reste zu Studienzwecken zu bringen ]
+		template_task_forage_give_17_title_10	[Die Kamis brauchen jemanden, um Goo-Reste zu Studienzwecken zu bringen]
 
 }
 
@@ -62002,7 +62002,7 @@ TEMPLATE_TASK_FORAGE_GIVE_19_TITLE (bot giver, int random, faction f)
 		template_task_forage_give_19_title_4	[Den Karavan mit Baumaterial versorgen]
 
 	(random = 5)
-		template_task_forage_give_19_title_5	[Spezialbestellung von Baumaterial für den Karavan ]
+		template_task_forage_give_19_title_5	[Spezialbestellung von Baumaterial für den Karavan]
 
 	(random = 6)
 		template_task_forage_give_19_title_6	[Eine Bestellung von Baumaterial für den Karavan]
@@ -62506,7 +62506,7 @@ TEMPLATE_TASK_FORAGE_GIVE_3_TITLE (bot giver, int random, faction f)
 	(random = 9)
 		template_task_forage_give_3_title_9	[$giver$ mit Nahrung beliefern]
 
-		template_task_forage_give_3_title_10	[$giver$ benötigt jemanden, der Nahrung sucht ]
+		template_task_forage_give_3_title_10	[$giver$ benötigt jemanden, der Nahrung sucht]
 
 }
 
@@ -62518,7 +62518,7 @@ TEMPLATE_TASK_FORAGE_GIVE_4_TITLE (bot giver, int random, faction f)
 		template_task_forage_give_4_title_1	[Nach Kitin-Resten zu Studienzwecken suchen]
 
 	(random = 2)
-		template_task_forage_give_4_title_2	[Kitin-Reste zu Studienzwecken sammeln ]
+		template_task_forage_give_4_title_2	[Kitin-Reste zu Studienzwecken sammeln]
 
 	(random = 3)
 		template_task_forage_give_4_title_3	[$giver$ braucht Kitin-Reste zu Studienzwecken]
@@ -62527,21 +62527,21 @@ TEMPLATE_TASK_FORAGE_GIVE_4_TITLE (bot giver, int random, faction f)
 		template_task_forage_give_4_title_4	[$giver$ zu Studienzwecken mit Kitin-Resten beliefern]
 
 	(random = 5)
-		template_task_forage_give_4_title_5	[Spezialbestellung von Kitin-Resten zu Studienzwecken ]
+		template_task_forage_give_4_title_5	[Spezialbestellung von Kitin-Resten zu Studienzwecken]
 
 	(random = 6)
-		template_task_forage_give_4_title_6	[Eine Bestellung von Kitin-Resten zu Studienzwecken ]
+		template_task_forage_give_4_title_6	[Eine Bestellung von Kitin-Resten zu Studienzwecken]
 
 	(random = 7)
-		template_task_forage_give_4_title_7	[Kitin-Reste zu Studienzwecken finden ]
+		template_task_forage_give_4_title_7	[Kitin-Reste zu Studienzwecken finden]
 
 	(random = 8)
-		template_task_forage_give_4_title_8	[$giver$ benötigt jemanden, um Kitin-Reste zu Studienzwecken zu suchen ]
+		template_task_forage_give_4_title_8	[$giver$ benötigt jemanden, um Kitin-Reste zu Studienzwecken zu suchen]
 
 	(random = 9)
 		template_task_forage_give_4_title_9	[$giver$ mit Kitinresten zu Studienzwecken versorgen]
 
-		template_task_forage_give_4_title_10	[$giver$ benötigt jemanden, um Kitinreste zu Studienzwecken zu sammeln. ]
+		template_task_forage_give_4_title_10	[$giver$ benötigt jemanden, um Kitinreste zu Studienzwecken zu sammeln.]
 
 }
 
@@ -62574,7 +62574,7 @@ TEMPLATE_TASK_FORAGE_GIVE_5_TITLE (bot giver, int random, faction f)
 		template_task_forage_give_5_title_8	[$giver$ benötigt jemanden, um Goo-Überreste zu Studienzwecken zu sammeln]
 
 	(random = 9)
-		template_task_forage_give_5_title_9	[$giver$ mit Goo-Überresten zu Studienzwecken beliefern ]
+		template_task_forage_give_5_title_9	[$giver$ mit Goo-Überresten zu Studienzwecken beliefern]
 
 		template_task_forage_give_5_title_10	[$giver$ benötigt jemanden, um Goo-Überreste zu Studienzwecken zu suchen]
 
@@ -62626,7 +62626,7 @@ TEMPLATE_TASK_FORAGE_GIVE_7_TITLE (bot giver, int random, faction f)
 		template_task_forage_give_7_title_2	[Baumaterialien für $f.mda$ $f.member$ suchen]
 
 	(random = 3)
-		template_task_forage_give_7_title_3	[$f.mda$ $f.member$ benötigen Baumaterial]
+		template_task_forage_give_7_title_3	[$f.mdab$ $f.member$ benötigen Baumaterial]
 
 	(random = 4)
 		template_task_forage_give_7_title_4	[$f.member$ mit Baumaterialien beliefern]
@@ -62644,7 +62644,7 @@ TEMPLATE_TASK_FORAGE_GIVE_7_TITLE (bot giver, int random, faction f)
 		template_task_forage_give_7_title_8	[Baumaterialien für $f.mda$ $f.member$ zusammentragen]
 
 	(random = 9)
-		template_task_forage_give_7_title_9	[$f.mda$ $f.member$ brauchen Baumaterialien]
+		template_task_forage_give_7_title_9	[$f.mdab$ $f.member$ brauchen Baumaterialien]
 
 		template_task_forage_give_7_title_10	[$f.member$ mit Baumaterialien versorgen]
 
@@ -62661,7 +62661,7 @@ TEMPLATE_TASK_FORAGE_GIVE_8_TITLE (bot giver, int random, faction f)
 		template_task_forage_give_8_title_2	[Insekten für $f.mda$ $f.member$ suchen]
 
 	(random = 3)
-		template_task_forage_give_8_title_3	[$f.mda$ $f.member$ mit Insekten beliefern]
+		template_task_forage_give_8_title_3	[$f.mdab$ $f.member$ mit Insekten beliefern]
 
 	(random = 4)
 		template_task_forage_give_8_title_4	[Insekten für $f.mda$ $f.member$ besorgen]
@@ -62676,12 +62676,12 @@ TEMPLATE_TASK_FORAGE_GIVE_8_TITLE (bot giver, int random, faction f)
 		template_task_forage_give_8_title_7	[Insekten für $f.mda$ $f.member$ finden]
 
 	(random = 8)
-		template_task_forage_give_8_title_8	[$f.mda$ $f.member$ benötigen jemanden, um Insekten zu sammeln]
+		template_task_forage_give_8_title_8	[$f.mdab$ $f.member$ benötigen jemanden, um Insekten zu sammeln]
 
 	(random = 9)
 		template_task_forage_give_8_title_9	[Insekten für $f.mda$ $f.member$ bringen]
 
-		template_task_forage_give_8_title_10	[$f.mda$ $f.member$ benötigen jemanden, um Insekten zu suchen]
+		template_task_forage_give_8_title_10	[$f.mdab$ $f.member$ benötigen jemanden, um Insekten zu suchen]
 
 }
 
@@ -62696,7 +62696,7 @@ TEMPLATE_TASK_FORAGE_GIVE_9_TITLE (bot giver, int random, faction f)
 		template_task_forage_give_9_title_2	[Nahrung für $f.mda$ $f.member$ suchen]
 
 	(random = 3)
-		template_task_forage_give_9_title_3	[$f.mda$ $f.member$ fehlt es an Nahrung]
+		template_task_forage_give_9_title_3	[$f.mdab$ $f.member$ fehlt es an Nahrung]
 
 	(random = 4)
 		template_task_forage_give_9_title_4	[Die $f.member$ mit Nahrung versorgen]
@@ -62711,12 +62711,12 @@ TEMPLATE_TASK_FORAGE_GIVE_9_TITLE (bot giver, int random, faction f)
 		template_task_forage_give_9_title_7	[Nahrung für $f.mda$ $f.member$ finden]
 
 	(random = 8)
-		template_task_forage_give_9_title_8	[$f.mda$ $f.member$ brauchen jemanden, um Nahrung zu sammeln ]
+		template_task_forage_give_9_title_8	[$f.mdab$ $f.member$ brauchen jemanden, um Nahrung zu sammeln]
 
 	(random = 9)
-		template_task_forage_give_9_title_9	[ $f.mda$ $f.member$ mit Nahrung beliefern]
+		template_task_forage_give_9_title_9	[$f.mdab$ $f.member$ mit Nahrung beliefern]
 
-		template_task_forage_give_9_title_10	[$f.mda$ $f.member$ benötigen jemanden, um Nahrung zu suchen]
+		template_task_forage_give_9_title_10	[$f.mdab$ $f.member$ benötigen jemanden, um Nahrung zu suchen]
 
 }
 
@@ -62845,7 +62845,7 @@ TEMPLATE_TASK_GIVE_ITEM_0_TITLE (bot giver, place region, int random, faction f)
 		template_task_give_item_0_title_4	[Etwas nach $region$ transportieren]
 
 	(random = 5)
-		template_task_give_item_0_title_5	[Eine Lieferung für $giver$ nach $region$ ]
+		template_task_give_item_0_title_5	[Eine Lieferung für $giver$ nach $region$]
 
 	(random = 6)
 		template_task_give_item_0_title_6	[$giver$ benötigt jemanden, um eine Lieferung nach $region$ zu übernehmen]
@@ -63142,7 +63142,7 @@ TEMPLATE_TASK_GIVE_ITEM_4_TITLE (bot giver, place region, int random, faction f)
 		template_task_give_item_4_title_7	[$giver$ benötigt einen Lieferanten, um Medikamente nach $region$ zu transportieren]
 
 	(random = 8)
-		template_task_give_item_4_title_8	[$giver$ sucht einen Lieferanten, der nach $region$ geht, um Medikamente zu schicken ]
+		template_task_give_item_4_title_8	[$giver$ sucht einen Lieferanten, der nach $region$ geht, um Medikamente zu schicken]
 
 	(random = 9)
 		template_task_give_item_4_title_9	[$giver$ will Medikamente nach $region$ transportieren]
@@ -63247,7 +63247,7 @@ TEMPLATE_TASK_GIVE_ITEM_7_TITLE (bot giver, place region, int random, faction f)
 		template_task_give_item_7_title_7	[$giver$ benötigt einen Boten, um einen Brief nach $region$ zu tragen]
 
 	(random = 8)
-		template_task_give_item_7_title_8	[$giver$ sucht einen Boten, der nach $region$ geht, um einen Brief zu schicken ]
+		template_task_give_item_7_title_8	[$giver$ sucht einen Boten, der nach $region$ geht, um einen Brief zu schicken]
 
 	(random = 9)
 		template_task_give_item_7_title_9	[$giver$ will einen Brief nach $region$ schicken]
@@ -63282,7 +63282,7 @@ TEMPLATE_TASK_GIVE_ITEM_8_TITLE (bot giver, place region, int random, faction f)
 		template_task_give_item_8_title_7	[Die $f.member$-Freunde von $giver$ benötigen einen Lieferanten, um ein mittelgroßes Päckchen nach $region$ zu befördern]
 
 	(random = 8)
-		template_task_give_item_8_title_8	[Die $f.member$-Freunde von $giver$ suchen einen Lieferanten, der nach $region$ geht, um ein mittelgroßes Päckchen zu verschicken ]
+		template_task_give_item_8_title_8	[Die $f.member$-Freunde von $giver$ suchen einen Lieferanten, der nach $region$ geht, um ein mittelgroßes Päckchen zu verschicken]
 
 	(random = 9)
 		template_task_give_item_8_title_9	[Die $f.member$-Freunde von $giver$ wollen ein mittelgroßes Päckchen nach $region$ transportieren]
@@ -63330,17 +63330,17 @@ TEMPLATE_TASK_GIVE_ITEM_9_TITLE (bot giver, place region, int random, faction f)
 TEMPLATE_TASK_GIVE_ITEM_INTRO_1 (bot giver, item i1, int qt1, bot dest1, int reward, place region, int timelimit, int random, faction f)
 {
 	(reward > 0 & timelimit = 0)
-		template_task_give_item_intro_1_money	[Trag für mich $qt1$ $i1$ nach $dest1$, das ist in $region$, ich zahle dir dafür $reward$ Dapper.]
+		template_task_give_item_intro_1_money	[Gehe nach $region$ und übergib dort $qt1$ $i1$ an $dest1$. Ich zahle dir dafür $reward$ Dapper.]
 
 	(reward > 0 & timelimit > 0)
-		template_task_give_item_intro_1_money_timed	[Trag für mich $qt1$ $i1$ nach $dest1$, das ist in $region$, ich zahle dir dafür $reward$ Dapper\n
+		template_task_give_item_intro_1_money_timed	[Gehe nach $region$ und übergib dort $qt1$ $i1$ an $dest1$. Ich zahle dir dafür $reward$ Dapper\n
 			Doch beeil dich, es ist sehr dringend!]
 
 	(timelimit > 0)
-		template_task_give_item_intro_1_fame_timed	[Trag für mich $qt1$ $i1$ nach $dest1$, das ist in $region$, $f.mda$ $f.member$ werden dir dafür dankbar sein.\n
+		template_task_give_item_intro_1_fame_timed	[Gehe nach $region$ und übergib dort $qt1$ $i1$ an $dest1$. $f.mda$ $f.member$ werden dir dafür dankbar sein.\n
 			Doch beeil dich, es ist sehr dringend!]
 
-		template_task_give_item_intro_1_fame	[Trag für mich $qt1$ $i1$ nach $dest1$, das ist in $region$, $f.mda$ $f.member$ werden dir dafür dankbar sein.]
+		template_task_give_item_intro_1_fame	[Gehe nach $region$ und übergib dort $qt1$ $i1$ an $dest1$. $f.mda$ $f.member$ werden dir dafür dankbar sein.]
 
 }
 
@@ -63349,7 +63349,7 @@ TEMPLATE_TASK_KILL_NPC_0_TITLE_BANDIT (bot giver, bot_name target, place region,
 {
 	//default text with bandits
 	(random = 1)
-		template_task_kill_npc_0_title_bandit_1	[ $target$ für $giver$ in $region$ töten]
+		template_task_kill_npc_0_title_bandit_1	[$target$ für $giver$ in $region$ töten]
 
 	(random = 2)
 		template_task_kill_npc_0_title_bandit_2	[$target$ für $giver$ in $region$ eliminieren]
@@ -63358,7 +63358,7 @@ TEMPLATE_TASK_KILL_NPC_0_TITLE_BANDIT (bot giver, bot_name target, place region,
 		template_task_kill_npc_0_title_bandit_3	[Die $target$ für $giver$ in $region$ bekämpfen]
 
 	(random = 4)
-		template_task_kill_npc_0_title_bandit_4	[ $target$ für $giver$ in $region$ zur Strecke bringen]
+		template_task_kill_npc_0_title_bandit_4	[$target$ für $giver$ in $region$ zur Strecke bringen]
 
 	(random = 5)
 		template_task_kill_npc_0_title_bandit_5	[$giver$ braucht Hilfe, um $target$ in $region$ zu eliminieren]
@@ -63390,7 +63390,7 @@ TEMPLATE_TASK_KILL_NPC_0_TITLE_TRIBE (bot giver, faction target, place region, i
 		template_task_kill_npc_0_title_tribe_2	[$target.member$ für $giver$ in $region$ beseitigen]
 
 	(random = 3)
-		template_task_kill_npc_0_title_tribe_3	[ $target.member$ für $giver$ in $region$ bekämpfen]
+		template_task_kill_npc_0_title_tribe_3	[$target.member$ für $giver$ in $region$ bekämpfen]
 
 	(random = 4)
 		template_task_kill_npc_0_title_tribe_4	[$target.member$ für $giver$ in $region$ zur Strecke bringen]
@@ -63419,7 +63419,7 @@ TEMPLATE_TASK_KILL_NPC_1_TITLE_BANDIT (bot giver, bot_name target, place region,
 {
 	//Karavan
 	(random = 1)
-		template_task_kill_npc_1_title_bandit_1	[ $target$ für die Karavan in $region$ töten]
+		template_task_kill_npc_1_title_bandit_1	[$target$ für die Karavan in $region$ töten]
 
 	(random = 2)
 		template_task_kill_npc_1_title_bandit_2	[$target$ für die Karavan in $region$ beseitigen]
@@ -63466,7 +63466,7 @@ TEMPLATE_TASK_KILL_NPC_1_TITLE_TRIBE (bot giver, faction target, place region, i
 		template_task_kill_npc_1_title_tribe_4	[$target.member$ für die Karavan in $region$ beseitigen]
 
 	(random = 5)
-		template_task_kill_npc_1_title_tribe_5	[ Die Karavan braucht Hilfe, um $target.member$ in $region$ zu beseitigen]
+		template_task_kill_npc_1_title_tribe_5	[Die Karavan braucht Hilfe, um $target.member$ in $region$ zu beseitigen]
 
 	(random = 6)
 		template_task_kill_npc_1_title_tribe_6	[Die Karavan braucht Hilfe, um $target.member$ in $region$ zu töten]
@@ -63559,7 +63559,7 @@ TEMPLATE_TASK_KILL_NPC_3_TITLE_BANDIT (bot giver, bot_name target, place region,
 {
 	//double fame
 	(random = 1)
-		template_task_kill_npc_3_title_bandit_1	[ $target$ für die $f$-Freunde von $giver$ in $region$ töten]
+		template_task_kill_npc_3_title_bandit_1	[$target$ für die $f$-Freunde von $giver$ in $region$ töten]
 
 	(random = 2)
 		template_task_kill_npc_3_title_bandit_2	[$target$ für die $f$-Freunde von $giver$ in $region$ eliminieren]
@@ -63641,21 +63641,21 @@ TEMPLATE_TASK_KILL_NPC_4_TITLE_BANDIT (bot giver, bot_name target, place region,
 		template_task_kill_npc_4_title_bandit_4	[$target$ für $f.mda$ $f.member$ in $region$ zur Strecke bringen]
 
 	(random = 5)
-		template_task_kill_npc_4_title_bandit_5	[$f.mda$ $f.member$ brauchen Hilfe, um $target$ in $region$ zu beseitigen]
+		template_task_kill_npc_4_title_bandit_5	[$f.mdab$ $f.member$ brauchen Hilfe, um $target$ in $region$ zu beseitigen]
 
 	(random = 6)
-		template_task_kill_npc_4_title_bandit_6	[$f.mda$ $f.member$ brauchen Hilfe, um $target$ in $region$ zu töten]
+		template_task_kill_npc_4_title_bandit_6	[$f.mdab$ $f.member$ brauchen Hilfe, um $target$ in $region$ zu töten]
 
 	(random = 7)
-		template_task_kill_npc_4_title_bandit_7	[$f.mda$ $f.member$ brauchen Hilfe, um $target$ in $region$ zu bekämpfen]
+		template_task_kill_npc_4_title_bandit_7	[$f.mdab$ $f.member$ brauchen Hilfe, um $target$ in $region$ zu bekämpfen]
 
 	(random = 8)
-		template_task_kill_npc_4_title_bandit_8	[$f.mda$ $f.member$ brauchen Hilfe, um $target$ in $region$ zu eliminieren]
+		template_task_kill_npc_4_title_bandit_8	[$f.mdab$ $f.member$ brauchen Hilfe, um $target$ in $region$ zu eliminieren]
 
 	(random = 9)
-		template_task_kill_npc_4_title_bandit_9	[$f.mda$ $f.member$ brauchen jemanden, um $target$ in $region$ zu töten]
+		template_task_kill_npc_4_title_bandit_9	[$f.mdab$ $f.member$ brauchen jemanden, um $target$ in $region$ zu töten]
 
-		template_task_kill_npc_4_title_bandit_10	[$f.mda$ $f.member$ brauchen jemanden, um $target$ in $region$ zu bekämpfen]
+		template_task_kill_npc_4_title_bandit_10	[$f.mdab$ $f.member$ brauchen jemanden, um $target$ in $region$ zu bekämpfen]
 
 }
 
@@ -63676,21 +63676,21 @@ TEMPLATE_TASK_KILL_NPC_4_TITLE_TRIBE (bot giver, faction target, place region, i
 		template_task_kill_npc_4_title_tribe_4	[$target.member$ für $f.mda$ $f.member$ in $region$ in Zaum zu halten]
 
 	(random = 5)
-		template_task_kill_npc_4_title_tribe_5	[$f.mda$ $f.member$ brauchen Hilfe, um $target.member$ in $region$ zu dezimieren]
+		template_task_kill_npc_4_title_tribe_5	[$f.mdab$ $f.member$ brauchen Hilfe, um $target.member$ in $region$ zu dezimieren]
 
 	(random = 6)
-		template_task_kill_npc_4_title_tribe_6	[$f.mda$ $f.member$ brauchen Hilfe, um $target.member$ in $region$ zu töten]
+		template_task_kill_npc_4_title_tribe_6	[$f.mdab$ $f.member$ brauchen Hilfe, um $target.member$ in $region$ zu töten]
 
 	(random = 7)
-		template_task_kill_npc_4_title_tribe_7	[$f.mda$ $f.member$ brauchen Hilfe, um $target.member$ in $region$ zu bekämpfen]
+		template_task_kill_npc_4_title_tribe_7	[$f.mdab$ $f.member$ brauchen Hilfe, um $target.member$ in $region$ zu bekämpfen]
 
 	(random = 8)
-		template_task_kill_npc_4_title_tribe_8	[$f.mda$ $f.member$ brauchen Hilfe, um $target.member$ in $region$ in Zaum zu halten]
+		template_task_kill_npc_4_title_tribe_8	[$f.mdab$ $f.member$ brauchen Hilfe, um $target.member$ in $region$ in Zaum zu halten]
 
 	(random = 9)
-		template_task_kill_npc_4_title_tribe_9	[$f.mda$ $f.member$ brauchen jemanden, um $target.member$ in $region$ zu töten]
+		template_task_kill_npc_4_title_tribe_9	[$f.mdab$ $f.member$ brauchen jemanden, um $target.member$ in $region$ zu töten]
 
-		template_task_kill_npc_4_title_tribe_10	[$f.mda$ $f.member$ brauchen jemanden, um $target.member$ in $region$ zu bekämpfen]
+		template_task_kill_npc_4_title_tribe_10	[$f.mdab$ $f.member$ brauchen jemanden, um $target.member$ in $region$ zu bekämpfen]
 
 }
 
@@ -63777,16 +63777,16 @@ TEMPLATE_TASK_KILL_SPECIES_1_TITLE (bot giver, place region, int random, faction
 {
 	//captain / carnivore, welcomer / carnivore, patrolman / carnivore, tribe / carnivore, hunter / carnivore, Kami / carnivore, Karavan / carnivore
 	(random = 1)
-		template_task_kill_species_1_title_1	[ Die Fleischfresser in $region$ töten, sie die Herden der Region dezimieren ]
+		template_task_kill_species_1_title_1	[Die Fleischfresser in $region$ töten, sie die Herden der Region dezimieren]
 
 	(random = 2)
-		template_task_kill_species_1_title_2	[Die Fleischfresser in $region$ jagen, sie die Herden der Region dezimieren ]
+		template_task_kill_species_1_title_2	[Die Fleischfresser in $region$ jagen, sie die Herden der Region dezimieren]
 
 	(random = 3)
-		template_task_kill_species_1_title_3	[Die Fleischfresser in $region$ zur Strecke bringen, sie die Herden der Region gefährden ]
+		template_task_kill_species_1_title_3	[Die Fleischfresser in $region$ zur Strecke bringen, sie die Herden der Region gefährden]
 
 	(random = 4)
-		template_task_kill_species_1_title_4	[Die Fleischfresser in $region$ beseitigen, die die Herden der Region gefährden ]
+		template_task_kill_species_1_title_4	[Die Fleischfresser in $region$ beseitigen, die die Herden der Region gefährden]
 
 	(random = 5)
 		template_task_kill_species_1_title_5	[$giver$ benötigt jemanden, um die Fleischfresser der $region$ zur Strecke zu bringen, die die Herden der Region gefährden]
@@ -63838,7 +63838,7 @@ TEMPLATE_TASK_KILL_SPECIES_2_TITLE (bot giver, place region, int random, faction
 	(random = 9)
 		template_task_kill_species_2_title_9	[$giver$ will die Pflanzenfresser töten lassen, die alle Pflanzen in $region$ verschlingen]
 
-		template_task_kill_species_2_title_10	[$giver$ will die Pflanzenfresser dezimieren lassen, die alle Pflanzen in $region$ verschlingen ]
+		template_task_kill_species_2_title_10	[$giver$ will die Pflanzenfresser dezimieren lassen, die alle Pflanzen in $region$ verschlingen]
 
 }
 
@@ -63902,10 +63902,10 @@ TEMPLATE_TASK_KILL_SPECIES_4_TITLE (bot giver, place region, int random, faction
 		template_task_kill_species_4_title_7	[$giver$ benötigt jemanden, um die Kitins zur Strecke zu bringen, die alles angreifen, was sich in $region$ bewegt]
 
 	(random = 8)
-		template_task_kill_species_4_title_8	[ $giver$ benötigt jemanden, um sich der Kitins zu entledigen, die alles angreifen, was sich in $region$ bewegt]
+		template_task_kill_species_4_title_8	[$giver$ benötigt jemanden, um sich der Kitins zu entledigen, die alles angreifen, was sich in $region$ bewegt]
 
 	(random = 9)
-		template_task_kill_species_4_title_9	[$giver$ will die Kitins zur Strecke bringen, die alles angreifen, was sich in der Region bewegt ]
+		template_task_kill_species_4_title_9	[$giver$ will die Kitins zur Strecke bringen, die alles angreifen, was sich in der Region bewegt]
 
 		template_task_kill_species_4_title_10	[$giver$ will sich der Kitins entledigen, die alles angreifen, was sich in $region$ bewegt]
 
@@ -64064,7 +64064,7 @@ TEMPLATE_TASK_LOOT_GIVE_0_TITLE (bot giver, int random, faction f)
 		template_task_loot_give_0_title_8	[$giver$ sucht einen Lieferanten von tierischen Rohmaterialien]
 
 	(random = 9)
-		template_task_loot_give_0_title_9	[$giver$ benötigt einen Jäger, um sein Rohstofflager aufzufüllen ]
+		template_task_loot_give_0_title_9	[$giver$ benötigt einen Jäger, um sein Rohstofflager aufzufüllen]
 
 		template_task_loot_give_0_title_10	[$giver$ will sein Lager an tierischen Rohmaterialien wieder auffüllen]
 
@@ -64078,16 +64078,16 @@ TEMPLATE_TASK_LOOT_GIVE_10_TITLE (bot giver, int random, faction f)
 		template_task_loot_give_10_title_1	[Kitin-Materialien für den Karavan sammeln]
 
 	(random = 2)
-		template_task_loot_give_10_title_2	[Auf die Jagd gehen, um Kitin-Materialien für den Karavan zu sammeln ]
+		template_task_loot_give_10_title_2	[Auf die Jagd gehen, um Kitin-Materialien für den Karavan zu sammeln]
 
 	(random = 3)
 		template_task_loot_give_10_title_3	[Den Karavan mit Kitin-Materialien beliefern]
 
 	(random = 4)
-		template_task_loot_give_10_title_4	[Spezialbestellung Kitin-Materialien für den Karavan ]
+		template_task_loot_give_10_title_4	[Spezialbestellung Kitin-Materialien für den Karavan]
 
 	(random = 5)
-		template_task_loot_give_10_title_5	[Eine Bestellung Kitin-Materialien für den Karavan ]
+		template_task_loot_give_10_title_5	[Eine Bestellung Kitin-Materialien für den Karavan]
 
 	(random = 6)
 		template_task_loot_give_10_title_6	[Kitin-Materialien für den Karavan suchen]
@@ -64099,7 +64099,7 @@ TEMPLATE_TASK_LOOT_GIVE_10_TITLE (bot giver, int random, faction f)
 		template_task_loot_give_10_title_8	[Der Karavan sucht einen Kitin-Materialien-Lieferanten]
 
 	(random = 9)
-		template_task_loot_give_10_title_9	[Der Karavan braucht einen Jäger, um Kitin-Materialien zu liefern ]
+		template_task_loot_give_10_title_9	[Der Karavan braucht einen Jäger, um Kitin-Materialien zu liefern]
 
 		template_task_loot_give_10_title_10	[Der Karavan benötigt Kitin-Materialien]
 
@@ -64157,7 +64157,7 @@ TEMPLATE_TASK_LOOT_GIVE_12_TITLE (bot giver, int random, faction f)
 		template_task_loot_give_12_title_4	[$giver$ dabei helfen, Knochen zusammenzusammeln]
 
 	(random = 5)
-		template_task_loot_give_12_title_5	[$giver$ fragt nach Hilfe, um Knochen zu sammeln ]
+		template_task_loot_give_12_title_5	[$giver$ fragt nach Hilfe, um Knochen zu sammeln]
 
 	(random = 6)
 		template_task_loot_give_12_title_6	[$giver$ mit Knochen beliefern]
@@ -64198,15 +64198,15 @@ TEMPLATE_TASK_LOOT_GIVE_13_TITLE (bot giver, int random, faction f)
 		template_task_loot_give_13_title_6	[Knochen für $f.mda$ $f.member$ bringen]
 
 	(random = 7)
-		template_task_loot_give_13_title_7	[$f.mda$ $f.member$ benötigen Knochen]
+		template_task_loot_give_13_title_7	[$f.mdab$ $f.member$ benötigen Knochen]
 
 	(random = 8)
-		template_task_loot_give_13_title_8	[$f.mda$ $f.member$ brauchen einen Knochenlieferanten]
+		template_task_loot_give_13_title_8	[$f.mdab$ $f.member$ brauchen einen Knochenlieferanten]
 
 	(random = 9)
-		template_task_loot_give_13_title_9	[$f.mda$ $f.member$ benötigen einen Jäger, um Knochen zu besorgen]
+		template_task_loot_give_13_title_9	[$f.mdab$ $f.member$ benötigen einen Jäger, um Knochen zu besorgen]
 
-		template_task_loot_give_13_title_10	[$f.mda$ $f.member$ benötigen jemanden, der für sie Knochen sammelt]
+		template_task_loot_give_13_title_10	[$f.mdab$ $f.member$ benötigen jemanden, der für sie Knochen sammelt]
 
 }
 
@@ -64233,15 +64233,15 @@ TEMPLATE_TASK_LOOT_GIVE_18_TITLE (bot giver, int random, faction f)
 		template_task_loot_give_18_title_6	[Blut für $f.mda$ $f.member$ zusammentragen]
 
 	(random = 7)
-		template_task_loot_give_18_title_7	[$f.mda$ $f.member$ brauchen Blutproben]
+		template_task_loot_give_18_title_7	[$f.mdab$ $f.member$ brauchen Blutproben]
 
 	(random = 8)
-		template_task_loot_give_18_title_8	[$f.mda$ $f.member$ suchen einen Blutprobenlieferanten]
+		template_task_loot_give_18_title_8	[$f.mdab$ $f.member$ suchen einen Blutprobenlieferanten]
 
 	(random = 9)
-		template_task_loot_give_18_title_9	[$f.mda$ $f.member$ brauchen einen Jäger, um ihren Blutprobenbestand wieder aufzufüllen]
+		template_task_loot_give_18_title_9	[$f.mdab$ $f.member$ brauchen einen Jäger, um ihren Blutprobenbestand wieder aufzufüllen]
 
-		template_task_loot_give_18_title_10	[$f.mda$ $f.member$ wollen ihren Blutprobenbestand wieder auffüllen]
+		template_task_loot_give_18_title_10	[$f.mdab$ $f.member$ wollen ihren Blutprobenbestand wieder auffüllen]
 
 }
 
@@ -64355,33 +64355,33 @@ TEMPLATE_TASK_LOOT_GIVE_22_TITLE (bot giver, int random, faction f)
 {
 	//hunter / fur
 	(random = 1)
-		template_task_loot_give_22_title_1	[$giver$ dabei helfen, Pelz zu sammeln ]
+		template_task_loot_give_22_title_1	[$giver$ dabei helfen, Pelz zu sammeln]
 
 	(random = 2)
 		template_task_loot_give_22_title_2	[Auf die Jagd gehen, um $giver$ dabei zu helfen, Pelz zu sammeln]
 
 	(random = 3)
-		template_task_loot_give_22_title_3	[ $giver$ zur Hand gehen, um Pelz zu sammeln ]
+		template_task_loot_give_22_title_3	[$giver$ zur Hand gehen, um Pelz zu sammeln]
 
 	(random = 4)
-		template_task_loot_give_22_title_4	[$giver$ dabei helfen, einer Spezialbestellung Pelz nach zu kommen ]
+		template_task_loot_give_22_title_4	[$giver$ dabei helfen, einer Spezialbestellung Pelz nach zu kommen]
 
 	(random = 5)
-		template_task_loot_give_22_title_5	[$giver$ fragt Hilfe, um Pelz zu sammeln ]
+		template_task_loot_give_22_title_5	[$giver$ fragt Hilfe, um Pelz zu sammeln]
 
 	(random = 6)
-		template_task_loot_give_22_title_6	[ $giver$ dabei helfen, Pelz zu sammeln ]
+		template_task_loot_give_22_title_6	[$giver$ dabei helfen, Pelz zu sammeln]
 
 	(random = 7)
-		template_task_loot_give_22_title_7	[$giver$ braucht Hilfe, um Pelz zu sammeln ]
+		template_task_loot_give_22_title_7	[$giver$ braucht Hilfe, um Pelz zu sammeln]
 
 	(random = 8)
-		template_task_loot_give_22_title_8	[$giver$ braucht Hilfe, um Pelz zu sammeln ]
+		template_task_loot_give_22_title_8	[$giver$ braucht Hilfe, um Pelz zu sammeln]
 
 	(random = 9)
-		template_task_loot_give_22_title_9	[$giver$ fragt nach Hilfe, um Pelz zu sammeln ]
+		template_task_loot_give_22_title_9	[$giver$ fragt nach Hilfe, um Pelz zu sammeln]
 
-		template_task_loot_give_22_title_10	[$giver$ benötigt Hilfe, um seinen Pelzbestand wieder aufzufüllen ]
+		template_task_loot_give_22_title_10	[$giver$ benötigt Hilfe, um seinen Pelzbestand wieder aufzufüllen]
 
 }
 
@@ -64408,15 +64408,15 @@ TEMPLATE_TASK_LOOT_GIVE_23_TITLE (bot giver, int random, faction f)
 		template_task_loot_give_23_title_6	[Pelz für $f.mda$ $f.member$ zusammentragen]
 
 	(random = 7)
-		template_task_loot_give_23_title_7	[$f.mda$ $f.member$ brauchen Pelz]
+		template_task_loot_give_23_title_7	[$f.mdab$ $f.member$ brauchen Pelz]
 
 	(random = 8)
-		template_task_loot_give_23_title_8	[$f.mda$ $f.member$ suchen einen Pelzlieferanten]
+		template_task_loot_give_23_title_8	[$f.mdab$ $f.member$ suchen einen Pelzlieferanten]
 
 	(random = 9)
-		template_task_loot_give_23_title_9	[$f.mda$ $f.member$ benötigen einen Jäger, um ihren Pelzbestand wieder aufzufüllen]
+		template_task_loot_give_23_title_9	[$f.mdab$ $f.member$ benötigen einen Jäger, um ihren Pelzbestand wieder aufzufüllen]
 
-		template_task_loot_give_23_title_10	[$f.mda$ $f.member$ wollen ihren Pelzbestand wieder auffüllen]
+		template_task_loot_give_23_title_10	[$f.mdab$ $f.member$ wollen ihren Pelzbestand wieder auffüllen]
 
 }
 
@@ -64425,33 +64425,33 @@ TEMPLATE_TASK_LOOT_GIVE_27_TITLE (bot giver, int random, faction f)
 {
 	//hunter / plant
 	(random = 1)
-		template_task_loot_give_27_title_1	[ $giver$ helfen, Stücke von intelligenten Pflanzen zu sammeln ]
+		template_task_loot_give_27_title_1	[$giver$ helfen, Stücke von intelligenten Pflanzen zu sammeln]
 
 	(random = 2)
 		template_task_loot_give_27_title_2	[Auf die Jagd gehen, um $giver$ dabei zu helfen, Stücke intelligenter Pflanzen zu sammeln]
 
 	(random = 3)
-		template_task_loot_give_27_title_3	[ $giver$ zur Hand gehen, um Stücke intelligenter Pflanzen zu sammeln ]
+		template_task_loot_give_27_title_3	[$giver$ zur Hand gehen, um Stücke intelligenter Pflanzen zu sammeln]
 
 	(random = 4)
-		template_task_loot_give_27_title_4	[$giver$ dabei helfen, einer Spezialbestellung von Stücken intelligenter Pflanzen nachzukommen ]
+		template_task_loot_give_27_title_4	[$giver$ dabei helfen, einer Spezialbestellung von Stücken intelligenter Pflanzen nachzukommen]
 
 	(random = 5)
-		template_task_loot_give_27_title_5	[$giver$ fragt Hilfe, um Stücke intelligenter Pflanzen zusammen zu tragen ]
+		template_task_loot_give_27_title_5	[$giver$ fragt Hilfe, um Stücke intelligenter Pflanzen zusammen zu tragen]
 
 	(random = 6)
-		template_task_loot_give_27_title_6	[ $giver$ dabei helfen, Stücke intelligenter Pflanzen zu pflücken ]
+		template_task_loot_give_27_title_6	[$giver$ dabei helfen, Stücke intelligenter Pflanzen zu pflücken]
 
 	(random = 7)
-		template_task_loot_give_27_title_7	[$giver$ benötigt Hilfe, um Stücke intelligenter Pflanzen zu sammeln ]
+		template_task_loot_give_27_title_7	[$giver$ benötigt Hilfe, um Stücke intelligenter Pflanzen zu sammeln]
 
 	(random = 8)
-		template_task_loot_give_27_title_8	[$giver$ benötigt Hilfe, um Stücke intelligenter Pflanzen zu pflücken ]
+		template_task_loot_give_27_title_8	[$giver$ benötigt Hilfe, um Stücke intelligenter Pflanzen zu pflücken]
 
 	(random = 9)
-		template_task_loot_give_27_title_9	[$giver$ fragt nach HIlfe, um Stücke intelligenter Pflanzen zu pflücken ]
+		template_task_loot_give_27_title_9	[$giver$ fragt nach HIlfe, um Stücke intelligenter Pflanzen zu pflücken]
 
-		template_task_loot_give_27_title_10	[$giver$ braucht Hilfe, um seinen Lagerbestand an intelligenten Pflanzen wieder aufzufüllen ]
+		template_task_loot_give_27_title_10	[$giver$ braucht Hilfe, um seinen Lagerbestand an intelligenten Pflanzen wieder aufzufüllen]
 
 }
 
@@ -64478,15 +64478,15 @@ TEMPLATE_TASK_LOOT_GIVE_28_TITLE (bot giver, int random, faction f)
 		template_task_loot_give_28_title_6	[Stücke intelligenter Pflanzen für $f.mda$ $f.member$ zusammentragen]
 
 	(random = 7)
-		template_task_loot_give_28_title_7	[$f.mda$ $f.member$ brauchen Stücke intelligenter Pflanzen ]
+		template_task_loot_give_28_title_7	[$f.mdab$ $f.member$ brauchen Stücke intelligenter Pflanzen]
 
 	(random = 8)
-		template_task_loot_give_28_title_8	[$f.mda$ $f.member$ suchen einen Lieferanten von Stücken intelligenter Pflanzen ]
+		template_task_loot_give_28_title_8	[$f.mdab$ $f.member$ suchen einen Lieferanten von Stücken intelligenter Pflanzen]
 
 	(random = 9)
-		template_task_loot_give_28_title_9	[$f.mda$ $f.member$ brauchen einen Jäger, um ihren Bestand an intelligenten Pflanzen wieder aufzufüllen ]
+		template_task_loot_give_28_title_9	[$f.mdab$ $f.member$ brauchen einen Jäger, um ihren Bestand an intelligenten Pflanzen wieder aufzufüllen]
 
-		template_task_loot_give_28_title_10	[$f.mda$ $f.member$ wollen ihren Bestand an intelligenten Pflanzen wieder auffüllen ]
+		template_task_loot_give_28_title_10	[$f.mdab$ $f.member$ wollen ihren Bestand an intelligenten Pflanzen wieder auffüllen]
 
 }
 
@@ -64495,7 +64495,7 @@ TEMPLATE_TASK_LOOT_GIVE_2_TITLE (bot giver, int random, faction f)
 {
 	//hunter / meat
 	(random = 1)
-		template_task_loot_give_2_title_1	[ $giver$ helfen, Fleisch zu sammeln]
+		template_task_loot_give_2_title_1	[$giver$ helfen, Fleisch zu sammeln]
 
 	(random = 2)
 		template_task_loot_give_2_title_2	[Auf die Jagd gehen, um $giver$ beim Fleisch sammeln zu helfen]
@@ -64504,7 +64504,7 @@ TEMPLATE_TASK_LOOT_GIVE_2_TITLE (bot giver, int random, faction f)
 		template_task_loot_give_2_title_3	[$giver$ zur Hand gehen, um Fleisch zusammen zu tragen]
 
 	(random = 4)
-		template_task_loot_give_2_title_4	[ $giver$ helfen, einer Spezialbestellung Fleisch nach zu kommen]
+		template_task_loot_give_2_title_4	[$giver$ helfen, einer Spezialbestellung Fleisch nach zu kommen]
 
 	(random = 5)
 		template_task_loot_give_2_title_5	[$giver$ fragt nach Hilfe, um Fleisch zusammen zu tragen e]
@@ -64513,13 +64513,13 @@ TEMPLATE_TASK_LOOT_GIVE_2_TITLE (bot giver, int random, faction f)
 		template_task_loot_give_2_title_6	[$giver$ helfen, Fleisch zu sammeln]
 
 	(random = 7)
-		template_task_loot_give_2_title_7	[$giver$ braucht Hilfe, um Fleisch zu sammeln ]
+		template_task_loot_give_2_title_7	[$giver$ braucht Hilfe, um Fleisch zu sammeln]
 
 	(random = 8)
 		template_task_loot_give_2_title_8	[$giver$ braucht Hilfe, um Fleisch zu sammeln]
 
 	(random = 9)
-		template_task_loot_give_2_title_9	[$giver$ fragt nach Hilfe, um Fleisch zu sammeln ]
+		template_task_loot_give_2_title_9	[$giver$ fragt nach Hilfe, um Fleisch zu sammeln]
 
 		template_task_loot_give_2_title_10	[$giver$ braucht Hilfe, um seinen Fleischbestand wieder aufzufüllen]
 
@@ -64530,22 +64530,22 @@ TEMPLATE_TASK_LOOT_GIVE_31_TITLE (bot giver, int random, faction f)
 {
 	//double fame hunter / meat
 	(random = 1)
-		template_task_loot_give_31_title_1	[ $giver$ helfen, Fleisch für seine $f$-Freunde zu sammeln]
+		template_task_loot_give_31_title_1	[$giver$ helfen, Fleisch für seine $f$-Freunde zu sammeln]
 
 	(random = 2)
 		template_task_loot_give_31_title_2	[Auf die Jagd gehen, um $giver$ zu helfen, Fleisch für seine $f$-Freunde zu sammeln]
 
 	(random = 3)
-		template_task_loot_give_31_title_3	[ $giver$ zur Hand gehen, um Fleisch für seine $f$-Freunde zu sammeln]
+		template_task_loot_give_31_title_3	[$giver$ zur Hand gehen, um Fleisch für seine $f$-Freunde zu sammeln]
 
 	(random = 4)
-		template_task_loot_give_31_title_4	[ $giver$ dabei helfen, einer Spezialbestellung Fleisch für seine $f$-Freunde nachzukommen]
+		template_task_loot_give_31_title_4	[$giver$ dabei helfen, einer Spezialbestellung Fleisch für seine $f$-Freunde nachzukommen]
 
 	(random = 5)
 		template_task_loot_give_31_title_5	[$giver$ fragt nach Hilfe, um Fleisch für seine $f$-Freunde zusammen zu tragen]
 
 	(random = 6)
-		template_task_loot_give_31_title_6	[ $giver$ dabei helfen, Fleisch für seine $f$-Freunde zu sammeln]
+		template_task_loot_give_31_title_6	[$giver$ dabei helfen, Fleisch für seine $f$-Freunde zu sammeln]
 
 	(random = 7)
 		template_task_loot_give_31_title_7	[$giver$ braucht Hilfe, um Fleisch für seine $f$-Freunde zu sammeln]
@@ -64556,7 +64556,7 @@ TEMPLATE_TASK_LOOT_GIVE_31_TITLE (bot giver, int random, faction f)
 	(random = 9)
 		template_task_loot_give_31_title_9	[$giver$ fragt nach Hilfe um Fleisch für seine $f$-Freunde zu sammeln]
 
-		template_task_loot_give_31_title_10	[Die $f$-Freunde von $giver$ brauchen Hilfe, um ihren Fleischbestand wieder aufzufüllen ]
+		template_task_loot_give_31_title_10	[Die $f$-Freunde von $giver$ brauchen Hilfe, um ihren Fleischbestand wieder aufzufüllen]
 
 }
 
@@ -64571,7 +64571,7 @@ TEMPLATE_TASK_LOOT_GIVE_32_TITLE (bot giver, int random, faction f)
 		template_task_loot_give_32_title_2	[Auf die Jagd gehen, um $giver$ zu helfen, Kitinstücke für seine $f$-Freunde zu sammeln]
 
 	(random = 3)
-		template_task_loot_give_32_title_3	[ $giver$ zur Hand gehen, um Kitinstücke für seine $f$-Freunde zu sammeln]
+		template_task_loot_give_32_title_3	[$giver$ zur Hand gehen, um Kitinstücke für seine $f$-Freunde zu sammeln]
 
 	(random = 4)
 		template_task_loot_give_32_title_4	[$giver$ dabei helfen, einer Spezialbestellung Kitinstücke für seine $f$-Freunde nachzukommen]
@@ -64580,7 +64580,7 @@ TEMPLATE_TASK_LOOT_GIVE_32_TITLE (bot giver, int random, faction f)
 		template_task_loot_give_32_title_5	[$giver$ fragt nach Hilfe, um Kitinstücke für seine $f$-Freunde zu sammeln]
 
 	(random = 6)
-		template_task_loot_give_32_title_6	[ $giver$ dabei helfen, Kitinstücke für seine $f$-Freunde zu sammeln]
+		template_task_loot_give_32_title_6	[$giver$ dabei helfen, Kitinstücke für seine $f$-Freunde zu sammeln]
 
 	(random = 7)
 		template_task_loot_give_32_title_7	[$giver$ braucht Hilfe, um Kitinstücke für seine $f$-Freunde zu sammeln]
@@ -64600,7 +64600,7 @@ TEMPLATE_TASK_LOOT_GIVE_33_TITLE (bot giver, int random, faction f)
 {
 	//double fame hunter / bone
 	(random = 1)
-		template_task_loot_give_33_title_1	[ $giver$ dabei helfen, Knochen für seine $f$-Freunde zu sammeln]
+		template_task_loot_give_33_title_1	[$giver$ dabei helfen, Knochen für seine $f$-Freunde zu sammeln]
 
 	(random = 2)
 		template_task_loot_give_33_title_2	[Auf die Jagd gehen, um $giver$ dabei zu helfen, Knochenstücke für seine $f$-Freunde zu sammeln]
@@ -64626,7 +64626,7 @@ TEMPLATE_TASK_LOOT_GIVE_33_TITLE (bot giver, int random, faction f)
 	(random = 9)
 		template_task_loot_give_33_title_9	[$giver$ fragt nach Hilfe, um Knochen für seine $f$-Freunde zu sammeln]
 
-		template_task_loot_give_33_title_10	[Die $f$-Freunde von $giver$ brauchen Hilfe, um ihren Knochenbestand wieder aufzufüllen ]
+		template_task_loot_give_33_title_10	[Die $f$-Freunde von $giver$ brauchen Hilfe, um ihren Knochenbestand wieder aufzufüllen]
 
 }
 
@@ -64635,7 +64635,7 @@ TEMPLATE_TASK_LOOT_GIVE_34_TITLE (bot giver, int random, faction f)
 {
 	//double fame hunter / blood
 	(random = 1)
-		template_task_loot_give_34_title_1	[ $giver$ dabei helfen, Blut für seine $f$-Freunde zu sammeln]
+		template_task_loot_give_34_title_1	[$giver$ dabei helfen, Blut für seine $f$-Freunde zu sammeln]
 
 	(random = 2)
 		template_task_loot_give_34_title_2	[Auf die Jagd gehen, um $giver$ dabei zu helfen, Blut für seine $f$-Freunde zu sammeln]
@@ -64723,15 +64723,15 @@ TEMPLATE_TASK_LOOT_GIVE_3_TITLE (bot giver, int random, faction f)
 		template_task_loot_give_3_title_6	[Fleisch für $f.mda$ $f.member$ sammeln]
 
 	(random = 7)
-		template_task_loot_give_3_title_7	[$f.mda$ $f.member$ brauchen Fleisch]
+		template_task_loot_give_3_title_7	[$f.mdab$ $f.member$ brauchen Fleisch]
 
 	(random = 8)
-		template_task_loot_give_3_title_8	[$f.mda$ $f.member$ suchen einen Fleischlieferanten]
+		template_task_loot_give_3_title_8	[$f.mdab$ $f.member$ suchen einen Fleischlieferanten]
 
 	(random = 9)
-		template_task_loot_give_3_title_9	[$f.mda$ $f.member$ brauchen einen Jäger, um ihren Fleischbestand wieder aufzufüllen]
+		template_task_loot_give_3_title_9	[$f.mdab$ $f.member$ brauchen einen Jäger, um ihren Fleischbestand wieder aufzufüllen]
 
-		template_task_loot_give_3_title_10	[$f.mda$ $f.member$ wollen ihren Fleischbestand wieder auffüllen]
+		template_task_loot_give_3_title_10	[$f.mdab$ $f.member$ wollen ihren Fleischbestand wieder auffüllen]
 
 }
 
@@ -64746,7 +64746,7 @@ TEMPLATE_TASK_LOOT_GIVE_6_TITLE (bot giver, int random, faction f)
 		template_task_loot_give_6_title_2	[Auf die Jagd gehen, um Kitin-Stücke zu sammeln]
 
 	(random = 3)
-		template_task_loot_give_6_title_3	[ $giver$ mit Kitin-Rohstoffen versorgen]
+		template_task_loot_give_6_title_3	[$giver$ mit Kitin-Rohstoffen versorgen]
 
 	(random = 4)
 		template_task_loot_give_6_title_4	[Spezialbestellung Kitin-Rohstoffe]
@@ -64781,7 +64781,7 @@ TEMPLATE_TASK_LOOT_GIVE_8_TITLE (bot giver, int random, faction f)
 		template_task_loot_give_8_title_2	[Auf die Jagd gehen, um Kitin-Stücke für $f.mda$ $f.member$ zu sammeln]
 
 	(random = 3)
-		template_task_loot_give_8_title_3	[ $f.member$ mit Kitin-Rohstoffen versorgen]
+		template_task_loot_give_8_title_3	[$f.member$ mit Kitin-Rohstoffen versorgen]
 
 	(random = 4)
 		template_task_loot_give_8_title_4	[Spezialbestellung von Kitin-Stücken für $f.mda$ $f.member$]
@@ -64793,15 +64793,15 @@ TEMPLATE_TASK_LOOT_GIVE_8_TITLE (bot giver, int random, faction f)
 		template_task_loot_give_8_title_6	[Kitin-Rohmaterial für $f.mda$ $f.member$ sammeln]
 
 	(random = 7)
-		template_task_loot_give_8_title_7	[$f.mda$ $f.member$ brauchen Kitin-Stücke]
+		template_task_loot_give_8_title_7	[$f.mdab$ $f.member$ brauchen Kitin-Stücke]
 
 	(random = 8)
-		template_task_loot_give_8_title_8	[$f.mda$ $f.member$ suchen einen Lieferanten für Kitin-Stücke]
+		template_task_loot_give_8_title_8	[$f.mdab$ $f.member$ suchen einen Lieferanten für Kitin-Stücke]
 
 	(random = 9)
-		template_task_loot_give_8_title_9	[$f.mda$ $f.member$ brauchen einen Jäger, um ihren Bestand an Kitin-Stücken wieder aufzufüllen ]
+		template_task_loot_give_8_title_9	[$f.mdab$ $f.member$ brauchen einen Jäger, um ihren Bestand an Kitin-Stücken wieder aufzufüllen]
 
-		template_task_loot_give_8_title_10	[$f.mda$ $f.member$ wollen ihren Bestand an Kitin-Rohstoffen erneuern ]
+		template_task_loot_give_8_title_10	[$f.mdab$ $f.member$ wollen ihren Bestand an Kitin-Rohstoffen erneuern]
 
 }
 
@@ -64813,28 +64813,28 @@ TEMPLATE_TASK_LOOT_GIVE_9_TITLE (bot giver, int random, faction f)
 		template_task_loot_give_9_title_1	[Kitin-Rohstoffe für die Kamis sammeln]
 
 	(random = 2)
-		template_task_loot_give_9_title_2	[Auf die Jagd gehen, um Kitin-Stücke für die Kamis zu sammeln ]
+		template_task_loot_give_9_title_2	[Auf die Jagd gehen, um Kitin-Stücke für die Kamis zu sammeln]
 
 	(random = 3)
 		template_task_loot_give_9_title_3	[Die Kamis mit Kitin-Rohstoffen versorgen]
 
 	(random = 4)
-		template_task_loot_give_9_title_4	[Spezialbestellung Kitin-Stücke für die Kamis ]
+		template_task_loot_give_9_title_4	[Spezialbestellung Kitin-Stücke für die Kamis]
 
 	(random = 5)
-		template_task_loot_give_9_title_5	[Eine Bestellung Kitin-Rohmaterial für die Kamis ]
+		template_task_loot_give_9_title_5	[Eine Bestellung Kitin-Rohmaterial für die Kamis]
 
 	(random = 6)
-		template_task_loot_give_9_title_6	[Kitin-Rohstoffe für die Kamis sammeln ]
+		template_task_loot_give_9_title_6	[Kitin-Rohstoffe für die Kamis sammeln]
 
 	(random = 7)
-		template_task_loot_give_9_title_7	[Die Kamis brauchen Kitin-Stücke ]
+		template_task_loot_give_9_title_7	[Die Kamis brauchen Kitin-Stücke]
 
 	(random = 8)
-		template_task_loot_give_9_title_8	[Die Kamis suchen einen Rohstoff-Lieferanten ]
+		template_task_loot_give_9_title_8	[Die Kamis suchen einen Rohstoff-Lieferanten]
 
 	(random = 9)
-		template_task_loot_give_9_title_9	[Die Kamis brauchen einen Jäger, um sie mit Kitin-Stücken zu versorgen ]
+		template_task_loot_give_9_title_9	[Die Kamis brauchen einen Jäger, um sie mit Kitin-Stücken zu versorgen]
 
 		template_task_loot_give_9_title_10	[Die Kamis verlangen Kitin-Rohstoffe]
 
@@ -64851,7 +64851,7 @@ TEMPLATE_TASK_LOOT_GIVE_INTRO_1 (bot giver, item i1, int qt1, int ql1, int rewar
 			Doch schnell, es ist sehr dringend!]
 
 	(timelimit > 0)
-		template_task_loot_give_intro_1_fame_timed	[Ich benötige $qt1$ $i1$ der Qualiät $ql1$. Wenn Du mir welche bringst, werden $f.mda$ $f.member$ DIr sehr dankbar sein.\n
+		template_task_loot_give_intro_1_fame_timed	[Ich benötige $qt1$ $i1$ der Qualiät $ql1$. Wenn Du mir welche bringst, werden $f.mda$ $f.member$ Dir sehr dankbar sein.\n
 			Doch schnell, es ist sehr dringend!]
 
 		template_task_loot_give_intro_1_fame	[Ich benötige $qt1$ $i1$ der Qualiät $ql1$. Wenn Du mir welche bringst, werden $f.mda$ $f.member$ Dir sehr dankbar sein.]
@@ -65192,7 +65192,7 @@ TEMPLATE_TASK_TARGET_SPECIES_0_TITLE (bot giver, place region, int random, facti
 {
 	//default text
 	(random = 1)
-		template_task_target_species_0_title_1	[Die Tierbevölkerung in $region$ aufspüren ]
+		template_task_target_species_0_title_1	[Die Tierbevölkerung in $region$ aufspüren]
 
 	(random = 2)
 		template_task_target_species_0_title_2	[Die Tierbevölkerung in $region$ erfassen]
@@ -65277,7 +65277,7 @@ TEMPLATE_TASK_TARGET_SPECIES_2_TITLE (bot giver, place region, int random, facti
 		template_task_target_species_2_title_5	[Die Pflanzenfresser in $region$ aufspüren]
 
 	(random = 6)
-		template_task_target_species_2_title_6	[$giver$ benötigt jemanden, um die Pflanzenfresser in $region$ aufzuspüren ]
+		template_task_target_species_2_title_6	[$giver$ benötigt jemanden, um die Pflanzenfresser in $region$ aufzuspüren]
 
 	(random = 7)
 		template_task_target_species_2_title_7	[$giver$ benötigt jemanden, um die Pflanzenfresser in $region$ zu zählen]
@@ -65286,7 +65286,7 @@ TEMPLATE_TASK_TARGET_SPECIES_2_TITLE (bot giver, place region, int random, facti
 		template_task_target_species_2_title_8	[$giver$ benötigt jemanden, um die Pflanzenfresser in $region$ unter die Lupe zu nehmen]
 
 	(random = 9)
-		template_task_target_species_2_title_9	[ $giver$ benötigt jemanden, um die Pflanzenfresser in $region$ aufzutreiben]
+		template_task_target_species_2_title_9	[$giver$ benötigt jemanden, um die Pflanzenfresser in $region$ aufzutreiben]
 
 		template_task_target_species_2_title_10	[$giver$ benötigt jemanden, um die Pflanzenfresser in $region$ aufzuspüren]
 
@@ -65664,18 +65664,18 @@ TEMPLATE_TASK_VISIT_PLACE_4_TITLE (bot giver, int random, faction f)
 		template_task_visit_place_4_title_5	[Für $f.mda$ $f.member$ auf Ausschau gehen]
 
 	(random = 6)
-		template_task_visit_place_4_title_6	[$f.mda$ $f.member$ benötigen jemanden, um auf Ausschau zu gehen]
+		template_task_visit_place_4_title_6	[$f.mdab$ $f.member$ benötigen jemanden, um auf Ausschau zu gehen]
 
 	(random = 7)
-		template_task_visit_place_4_title_7	[$f.mda$ $f.member$ benötigen jemanden, um eine Expeditionstour zu machen]
+		template_task_visit_place_4_title_7	[$f.mdab$ $f.member$ benötigen jemanden, um eine Expeditionstour zu machen]
 
 	(random = 8)
-		template_task_visit_place_4_title_8	[$f.mda$ $f.member$ brauchen jemanden, um das Terrain zu erkundschaften]
+		template_task_visit_place_4_title_8	[$f.mdab$ $f.member$ brauchen jemanden, um das Terrain zu erkundschaften]
 
 	(random = 9)
-		template_task_visit_place_4_title_9	[$f.mda$ $f.member$ brauchen jemanden, um auf Erkundschaftung zu gehen]
+		template_task_visit_place_4_title_9	[$f.mdab$ $f.member$ brauchen jemanden, um auf Erkundschaftung zu gehen]
 
-		template_task_visit_place_4_title_10	[$f.mda$ $f.member$ brauchen Informationen über die Region]
+		template_task_visit_place_4_title_10	[$f.mdab$ $f.member$ brauchen Informationen über die Region]
 
 }
 
@@ -65683,17 +65683,17 @@ TEMPLATE_TASK_VISIT_PLACE_4_TITLE (bot giver, int random, faction f)
 TEMPLATE_TASK_VISIT_PLACE_INTRO_1 (bot giver, place op1, int reward, int timelimit, int random, faction f)
 {
 	(reward > 0 & timelimit = 0)
-		template_task_visit_place_intro_1_money	[Ich muss wissen, was in $op1$ vor sich geht. Wenn Sie dahin gehen, zahle ich Ihnen $reward$ Dapper.]
+		template_task_visit_place_intro_1_money	[Ich muss wissen, was $op1.pp$ $op1$ vor sich geht. Wenn Du dahin gehst, zahle ich Dir $reward$ Dapper.]
 
 	(reward > 0 & timelimit > 0)
-		template_task_visit_place_intro_1_money_timed	[Ich muss wissen, was in $op1$ vor sich geht. Wenn Sie dahin gehen, zahle ich Ihnen $reward$ Dapper.\n
-			Doch beeilen Sie sich, es ist sehr dringend!]
+		template_task_visit_place_intro_1_money_timed	[Ich muss wissen, was $op1.pp$ $op1$ vor sich geht. Wenn Du dahin gehst, zahle ich Dir $reward$ Dapper.\n
+			Doch beeil Dich, es ist sehr dringend!]
 
 	(timelimit > 0)
-		template_task_visit_place_intro_1_fame_timed	[Ich muss wissen, was in $op1$ vor sich geht. Wenn Sie dahin gehen, werden $f.mda$ $f.member$ Ihnen dafür dankbar sein.\n
-			Doch beeilen Sie sich, es ist sehr dringend!]
+		template_task_visit_place_intro_1_fame_timed	[Ich muss wissen, was $op1.pp$ $op1$ vor sich geht. Wenn Du dahin gehst, werden Dir $f.mda$ $f.member$ dafür dankbar sein.\n
+			Doch beeil Dich, es ist sehr dringend!]
 
-		template_task_visit_place_intro_1_fame	[Ich muss wissen, was in $op1$ vor sich geht. Wenn Sie dahin gehen, werden $f.mda$ $f.member$ Ihnen dafür dankbar sein.]
+		template_task_visit_place_intro_1_fame	[Ich muss wissen, was $op1.pp$ $op1$ vor sich geht. Wenn Du dahin gehst, werden Dir $f.mda$ $f.member$  dafür dankbar sein.]
 
 }
 
@@ -65701,17 +65701,17 @@ TEMPLATE_TASK_VISIT_PLACE_INTRO_1 (bot giver, place op1, int reward, int timelim
 TEMPLATE_TASK_VISIT_PLACE_INTRO_2 (bot giver, place op1, place op2, int reward, int timelimit, int random, faction f)
 {
 	(reward > 0 & timelimit = 0)
-		template_task_visit_place_intro_2_money	[Ich muss wissen, was in $op1$ und $op2$ vor sich geht. Wenn Sie dahin gehen, zahle ich Ihnen $reward$ Dapper.]
+		template_task_visit_place_intro_2_money	[Ich muss wissen, was $op1.pp$ $op1$ und $op2.pp$ $op2$ vor sich geht. Wenn Du dahin gehst, zahle ich Dir $reward$ Dapper.]
 
 	(reward > 0 & timelimit > 0)
-		template_task_visit_place_intro_2_money_timed	[Ich muss wissen, was in $op1$ und $op2$ vor sich geht. Wenn Sie dahin gehen, zahle ich Ihnen $reward$ Dapper.\n
-			Doch beeilen Sie sich, es ist sehr dringend!]
+		template_task_visit_place_intro_2_money_timed	[Ich muss wissen, was $op1.pp$ $op1$ und $op2.pp$ $op2$ vor sich geht. Wenn Du dahin gehst, zahle ich Dir $reward$ Dapper.\n
+			Doch beeil Dich, es ist sehr dringend!]
 
 	(timelimit > 0)
-		template_task_visit_place_intro_2_fame_timed	[Ich muss wissen, was in $op1$ und $op2$ vor sich geht. Wenn Sie dahin gehen, werden $f.mda$ $f.member$ Ihnen sehr dankbar dafür sein.\n
-			Doch beeilen Sie sich, es ist sehr dringend!]
+		template_task_visit_place_intro_2_fame_timed	[Ich muss wissen, was $op1.pp$ $op1$ und $op2.pp$ $op2$ vor sich geht. Wenn Du dahin gehst, werden Dir $f.mda$ $f.member$ sehr dankbar dafür sein.\n
+			Doch beeil Dich, es ist sehr dringend!]
 
-		template_task_visit_place_intro_2_fame	[Ich muss wissen, was in $op1$ und $op2$ vor sich geht. Wenn Sie dahin gehen, werden $f.mda$ $f.member$ Ihnen sehr dankbar dafür sein.]
+		template_task_visit_place_intro_2_fame	[Ich muss wissen, was $op1.pp$ $op1$ und $op2.pp$ $op2$ vor sich geht. Wenn Du dahin gehst, werden Dir $f.mda$ $f.member$ sehr dankbar dafür sein.]
 
 }
 
@@ -65719,24 +65719,24 @@ TEMPLATE_TASK_VISIT_PLACE_INTRO_2 (bot giver, place op1, place op2, int reward, 
 TEMPLATE_TASK_VISIT_PLACE_INTRO_3 (bot giver, place op1, place op2, place op3, int reward, int timelimit, int random, faction f)
 {
 	(reward > 0 & timelimit = 0)
-		template_task_visit_place_intro_3_money	[Ich muss wissen, was in $op1$, $op2$ und $op3$ vor sich geht. Wenn Sie dahin gehen, zahle ich Ihnen $reward$ Dapper.]
+		template_task_visit_place_intro_3_money	[Ich muss wissen, was $op1.pp$  $op1$, $op2.pp$ $op2$ und $op3.pp$ $op3$ vor sich geht. Wenn Du dahin gehst, zahle ich Dir $reward$ Dapper.]
 
 	(reward > 0 & timelimit > 0)
-		template_task_visit_place_intro_3_money_timed	[Ich muss wissen, was in $op1$, $op2$ und $op3$ vor sich geht. Wenn Sie dahin gehen, zahle ich Ihnen $reward$ Dapper.\n
-			Doch beeilen Sie sich, es ist sehr dringend!]
+		template_task_visit_place_intro_3_money_timed	[Ich muss wissen, was $op1.pp$  $op1$, $op2.pp$ $op2$ und $op3.pp$ $op3$ vor sich geht. Wenn Du dahin gehst, zahle ich Dir $reward$ Dapper.\n
+			Doch beeilen Dich, es ist sehr dringend!]
 
 	(timelimit > 0)
-		template_task_visit_place_intro_3_fame_timed	[Ich muss wissen, was in $op1$, $op2$ und $op3$ vor sich geht. Wenn Sie dahin gehen, werden $f.mda$ $f.member$ Ihnen sehr dankbar dafür sein.\n
-			Doch beeilen Sie sich, es ist sehr dringend!]
+		template_task_visit_place_intro_3_fame_timed	[Ich muss wissen, was $op1.pp$  $op1$, $op2.pp$ $op2$ und $op3.pp$ $op3$ vor sich geht. Wenn Du dahin gehst, werden Dir $f.mda$ $f.member$ sehr dankbar dafür sein.\n
+			Doch beeil Dich, es ist sehr dringend!]
 
-		template_task_visit_place_intro_3_fame	[Ich muss wissen, was in $op1$, $op2$ und $op3$ vor sich geht. Wenn Sie dahin gehen, werden $f.mda$ $f.member$ Ihnen sehr dankbar dafür sein.]
+		template_task_visit_place_intro_3_fame	[Ich muss wissen, was in $op1.pp$  $op1$, $op2.pp$ $op2$ und $op3.pp$ $op3$ vor sich geht. Wenn Du dahin gehst, werden Dir $f.mda$ $f.member$ sehr dankbar dafür sein.]
 
 }
 
 // HASH_VALUE 1E859A12467A735D
 TEST12_BRICK ( sbrick b )
 {
-			[ vous possedez $b$ ]
+			[vous possedez $b$]
 
 }
 
@@ -65750,70 +65750,70 @@ TEST12_HIDE_OBJ ()
 // HASH_VALUE 4E4F85E198B8E6E9
 TEST12_MISSION ()
 {
-			[ vous n'avez pas fait la mission auto ]
+			[vous n'avez pas fait la mission auto]
 
 }
 
 // HASH_VALUE 65130078715BB4B7
 TEST12_PAS_BRICK ( sbrick b )
 {
-			[ vous ne possedez pas $b$ ]
+			[vous ne possedez pas $b$]
 
 }
 
 // HASH_VALUE 4E4F85E198B8E6E9
 TEST12_PAS_MISSION ()
 {
-			[ vous n'avez pas fait la mission auto ]
+			[vous n'avez pas fait la mission auto]
 
 }
 
 // HASH_VALUE 2F4DDD6BB0EA93EE
 TEST12_PAS_SKILL (skill s, int i)
 {
-			[ vous n'avez pas $s$ à au moins $i$ ]
+			[vous n'avez pas $s$ à au moins $i$]
 
 }
 
 // HASH_VALUE 2C02DCBBA6C83A76
 TEST12_SKILL (skill s, int i)
 {
-			[ vous avez $s$ à au moins $i$ ]
+			[vous avez $s$ à au moins $i$]
 
 }
 
 // HASH_VALUE 98E57C33CC029C33
 TEST_10_A1 ()
 {
-			[ retour au début de la mission(1) ]
+			[retour au début de la mission(1)]
 
 }
 
 // HASH_VALUE 98E57C330C029C33
 TEST_10_A2 ()
 {
-			[ retour au début de la mission(2) ]
+			[retour au début de la mission(2)]
 
 }
 
 // HASH_VALUE 197C6C5FC4498350
 TEST_10_A3 ()
 {
-			[ fin de la mission.]
+			[fin de la mission.]
 
 }
 
 // HASH_VALUE 98E57C33CC029C33
 TEST_10_B1 ()
 {
-			[ retour au début de la mission(1) ]
+			[retour au début de la mission(1)]
 
 }
 
 // HASH_VALUE 8771C7E685052FC1
 TEST_10_B2 ()
 {
-			[ Changement du texte de descriptionretour au début de la mission(2) ]
+			[Changement du texte de descriptionretour au début de la mission(2)]
 
 }
 
@@ -65835,7 +65835,7 @@ TEST_10_B3 ()
 // HASH_VALUE 56E70967F6E1E020
 TEST_10_DESC (bot dummy)
 {
-			[ Mission faite pour tester dyn chat , items spéciaux et changement de description. Global replay timer de 300 ticks ]
+			[Mission faite pour tester dyn chat , items spéciaux et changement de description. Global replay timer de 300 ticks]
 
 }
 
@@ -65849,7 +65849,7 @@ TEST_10_DESC_NEW ( bot b)
 // HASH_VALUE 28F91B48CCFCC0C9
 TEST_10_DYN ()
 {
-			[ Choisis une réponse il y en a 3 ]
+			[Choisis une réponse il y en a 3]
 
 }
 
@@ -65871,28 +65871,28 @@ TEST_10_TITLE (bot b)
 // HASH_VALUE E4E275C606280DF3
 TEST_11_DESC (bot dummy)
 {
-			[ On ne peut remplir le premier objectif que l'été de 17h30 à 23h30. On ne peut faire la mission qu'une fois et elle ne peut etre prise que par un joueur. Player replay timer de 300 ticks. Apres le 2eme objectif, la mission est un échec au bout de 20 secondes ]
+			[On ne peut remplir le premier objectif que l'été de 17h30 à 23h30. On ne peut faire la mission qu'une fois et elle ne peut etre prise que par un joueur. Player replay timer de 300 ticks. Apres le 2eme objectif, la mission est un échec au bout de 20 secondes]
 
 }
 
 // HASH_VALUE F4FB75CD546A5E8B
 TEST_11_TALK_TO_1 ()
 {
-			[ enleve contrainte de temps / saison ]
+			[enleve contrainte de temps / saison]
 
 }
 
 // HASH_VALUE AF1BB2EFC13F2A50
 TEST_11_TALK_TO_2 ()
 {
-			[ apres il reste 20 secondes pour accomplir la mission sinon echec ]
+			[apres il reste 20 secondes pour accomplir la mission sinon echec]
 
 }
 
 // HASH_VALUE C0C9F01CC8A7CB66
 TEST_11_TALK_TO_3 ()
 {
-			[ success de mission 11 ]
+			[success de mission 11]
 
 }
 
@@ -65907,21 +65907,21 @@ TEST_11_TITLE (bot b)
 // HASH_VALUE 1CBB45DA4FDDB4D1
 TEST_12_DESC (bot dummy)
 {
-			[ au moment ou on prend la missionon a des messages sur l'état du joueur (skill /mission / brick). Verifier qu'ils sont vrais. changer skill /mission / brick pour voir si les messages changent quand on prend la mission ]
+			[au moment ou on prend la missionon a des messages sur l'état du joueur (skill /mission / brick). Verifier qu'ils sont vrais. changer skill /mission / brick pour voir si les messages changent quand on prend la mission]
 
 }
 
 // HASH_VALUE CA7FFC896BA4043D
 TEST_12_TALK_TO_1 ()
 {
-			[ activer les teleports et le compass ]
+			[activer les teleports et le compass]
 
 }
 
 // HASH_VALUE 6A659BDBDE90E0B4
 TEST_12_TALK_TO_2 ()
 {
-			[ finir mission 12 ]
+			[finir mission 12]
 
 }
 
@@ -65936,7 +65936,7 @@ TEST_12_TITLE (bot b)
 // HASH_VALUE C8DEDBFCE526E6FA
 TEST_13_DESC (bot dummy, int i, int ql, int qu, item it)
 {
-			[on doit d'abord rester dans Aegus, sinon echec de la mission au bout de 30 secondes. Parler au bot annule la condition. On doit ensuite rester hors de Aegus sinon echec apres 60 sec., TEST de variable de prix: $qu$ $it$ de qualité $ql$ = $i$ dappers ]
+			[on doit d'abord rester dans Aegus, sinon echec de la mission au bout de 30 secondes. Parler au bot annule la condition. On doit ensuite rester hors de Aegus sinon echec apres 60 sec., TEST de variable de prix: $qu$ $it$ de qualité $ql$ = $i$ dappers]
 
 }
 
@@ -66023,7 +66023,7 @@ TEST_15_TITLE (bot b)
 // HASH_VALUE 2D94C1F88E07E9FA
 TEST_1_DESC ( bot dummy, item i, place p, skill s, race r, sbrick sb, faction f, bot b, creature_model cm, sphrase sp )
 {
-			[ item "$i$" \n
+			[item "$i$" \n
 			place "$p$" \n
 			skill "$s$" \n
 			race "$r$"\n
@@ -66047,14 +66047,14 @@ TEST_1_TALK_TO ( bot b, player p )
 // HASH_VALUE AE452C9A065A2F33
 TEST_1_TITLE (bot b1, bot b2, player p )
 {
-			[TEST1 : mission de test de titres / description : Salut $p$, je suis $b1$ ( I am also the mission_giver : $b2$ ). ]
+			[TEST1 : mission de test de titres / description : Salut $p$, je suis $b1$ ( I am also the mission_giver : $b2$ ).]
 
 }
 
 // HASH_VALUE 46EFA0C3E51C272C
 TEST_2_DESC (bot dummy)
 {
-			[TEST2 : ooo/ any /jump /failure /end ]
+			[TEST2 : ooo/ any /jump /failure /end]
 
 }
 
@@ -66139,7 +66139,7 @@ TEST_2_TALK_TO_9 ()
 // HASH_VALUE FA3D9A9894B75848
 TEST_2_TITLE (bot b)
 {
-			[TEST2 : jump /failure /end ]
+			[TEST2 : jump /failure /end]
 
 }
 
@@ -66175,7 +66175,7 @@ TEST_4_DESC (bot dummy)
 // HASH_VALUE 0F46851C53A64C53
 TEST_4_KILL_GROUP ()
 {
-			[ kill people in the group nearby ( green seed tribe ) ]
+			[kill people in the group nearby ( green seed tribe )]
 
 }
 
@@ -66183,21 +66183,21 @@ TEST_4_KILL_GROUP ()
 // HASH_VALUE 363DDE8760135465
 TEST_4_TITLE (bot b)
 {
-			[TEST4 : kill / target ]
+			[TEST4 : kill / target]
 
 }
 
 // HASH_VALUE 311DF984130C5195
 TEST_5_DESC (bot dummy)
 {
-			[ Mission faite pour tester des objectifs généraux ]
+			[Mission faite pour tester des objectifs généraux]
 
 }
 
 // HASH_VALUE D8410368F079BB81
 TEST_5_MISSION_DONE ()
 {
-			[ Complete the auto mission ]
+			[Complete the auto mission]
 
 }
 
@@ -66212,7 +66212,7 @@ TEST_5_TITLE (bot b)
 // HASH_VALUE 311DF984130C5195
 TEST_6_DESC (bot dummy)
 {
-			[ Mission faite pour tester des objectifs généraux ]
+			[Mission faite pour tester des objectifs généraux]
 
 }
 
@@ -66241,7 +66241,7 @@ TEST_7_CHAT ()
 // HASH_VALUE 841FBB2C6CD51060
 TEST_7_DESC (bot dummy)
 {
-			[ Mission faite pour tester les actions. A chaque fois que l'on parle au bot une nouvelle action est déclenchée. Liste des actions : recv_item\n
+			[Mission faite pour tester les actions. A chaque fois que l'on parle au bot une nouvelle action est déclenchée. Liste des actions : recv_item\n
 			learn_action\n
 			learn_brick\n
 			recv_money : 10000\n
@@ -68066,7 +68066,7 @@ TRYKER_NEWB_CRAFT_1_DESC (bot giver)
 // HASH_VALUE 530CEAAA86607CD1
 TRYKER_NEWB_CRAFT_1_END_1 ()
 {
-		tryker_newb_craft_1_end_1	[Sehr gut! Um in seiner Erfahrung fortzuschreiten, ist es am besten man trainiert die Herstellung von Gegenständen... ]
+		tryker_newb_craft_1_end_1	[Sehr gut! Um in seiner Erfahrung fortzuschreiten, ist es am besten man trainiert die Herstellung von Gegenständen...]
 
 }
 
@@ -69194,7 +69194,7 @@ TRYKER_NEWB_WELCOME_TEAM_STEP_1 ()
 // HASH_VALUE 53394FE2730A6914
 TRYKER_NEWB_WELCOME_TEAM_STEP_2 ()
 {
-		tryker_newb_welcome_team_step_2	[Gründe ein Team, dann werde ich Dir eine Kampfmission zuteilen. ]
+		tryker_newb_welcome_team_step_2	[Gründe ein Team, dann werde ich Dir eine Kampfmission zuteilen.]
 
 }
 
@@ -69523,7 +69523,7 @@ WHOAMI_KARAVAN_AUMONIER ()
 // HASH_VALUE 862CA169D89A2557
 WHOAMI_KARAVAN_EMISSARY_EPISODE2 ()
 {
-			[Ich bin ein Mitglied des Karavan und es ist meine Aufgabe, die Homins zu Jena und ihrer Kirche zu geleiten. ]
+			[Ich bin ein Mitglied des Karavan und es ist meine Aufgabe, die Homins zu Jena und ihrer Kirche zu geleiten.]
 
 }
 
@@ -69571,14 +69571,14 @@ WHOAMI_KITINIERE_RANGER ()
 // HASH_VALUE 48DEB66453EF6A1F
 WHOAMI_LEVIERS_DOUANIER_1 ()
 {
-		whoami_leviers_douanier_1	[Die Fyros-Waren haben eine zu gute Qualität, um an andere Völker verkauft zu werden. Wir verhindern, dass sie ins Ausland exportiert werden, indem wir die Exporteure besteuern. ]
+		whoami_leviers_douanier_1	[Die Fyros-Waren haben eine zu gute Qualität, um an andere Völker verkauft zu werden. Wir verhindern, dass sie ins Ausland exportiert werden, indem wir die Exporteure besteuern.]
 
 }
 
 // HASH_VALUE DFF05558BCADFF9C
 WHOAMI_LEVIERS_DOUANIER_2 ()
 {
-		whoami_leviers_douanier_2	[Die imperiale Regierung unternimmt nichts gegen den Export unserer Waren. Nur die Fyros sind der Fyros-Waren würdig. ]
+		whoami_leviers_douanier_2	[Die imperiale Regierung unternimmt nichts gegen den Export unserer Waren. Nur die Fyros sind der Fyros-Waren würdig.]
 
 }
 
@@ -70069,7 +70069,7 @@ WHOAMI_TASK_HUNTER_CUTE ()
 // HASH_VALUE 7599D127718FE128
 WHOAMI_TASK_HUNTER_FRAH ()
 {
-		whoami_task_hunter_frah	[Rrumpf! Ich Jäger! Ich ernähreeen Staaammm! Grrrarr! Du helfen Staammm? Du helfen mir! ]
+		whoami_task_hunter_frah	[Rrumpf! Ich Jäger! Ich ernähreeen Staaammm! Grrrarr! Du helfen Staammm? Du helfen mir!]
 
 }
 
@@ -70268,28 +70268,28 @@ WHOAMI_TASK_VILLAGE_WELCOMER ()
 // HASH_VALUE F4511C8CBD09C24C
 WHOAMI_TRIBE_CHIEF ()
 {
-		whoami_tribe_chief	[Ich repräsentiere die Waffen, das Herz und die Seele meines Stamms. Ich wache über meine Bekannten und Verwandten und stelle sicher, dass es ihnen an nichts fehlt. Im Falle eines Konflikts kümmere ich mich darum, dass die Gesetze nach unseren Sitten und Riten ausgeführt werden.{break}Homins die unsere Freundschaft suchen, müssen die heiligen Rituale durchlaufen. Auch bin ich der Hüter des Wissenss meiner Leute und werde ein wenig dieses Wissens mit allen Homins teilen, die die Rituale erfolgreich bestehen.]
+		whoami_tribe_chief	[Ich repräsentiere die Waffen, das Herz und die Seele meines Stamms. Ich wache über meine Bekannten und Verwandten und stelle sicher, dass es ihnen an nichts fehlt. Im Falle eines Konflikts kümmere ich mich darum, dass die Gesetze nach unseren Sitten und Riten ausgeführt werden.{break}Homins die unsere Freundschaft suchen, müssen die heiligen Rituale durchlaufen. Auch bin ich der Hüter des Wissens meiner Leute und werde ein wenig dieses Wissens mit allen Homins teilen, die die Rituale erfolgreich bestehen.]
 
 }
 
 // HASH_VALUE 10F3EFEE049A730F
 WHOAMI_TRIBE_CHIEF_CUTE ()
 {
-		whoami_tribe_chief_cute	[Ich biiiiin... Chef der Cuzans. Keeehk... Ich verteidige Staaaammmmm.....Sheeeeesh. ]
+		whoami_tribe_chief_cute	[Ich biiiiin... Chef der Cuzans. Keeehk... Ich verteidige Staaaammmmm.....Sheeeeesh.]
 
 }
 
 // HASH_VALUE 604D37813D6261C9
 WHOAMI_TRIBE_CHIEF_FRAHAR ()
 {
-		whoami_tribe_chief_frahar	[Ich Chef Frrraider! Rroumpf! Du Grrramouk, bbbbleibbb Freund mit Frrrraider! Sonst ich trrrinke aus dein Kooooopfff! Grrarr ! ]
+		whoami_tribe_chief_frahar	[Ich Chef Frrraider! Rroumpf! Du Grrramouk, bbbbleibbb Freund mit Frrrraider! Sonst ich trrrinke aus dein Kooooopfff! Grrarr !]
 
 }
 
 // HASH_VALUE 2E1ADA34C7EC41C1
 WHOAMI_TRIBE_CHIEF_GIBBAI ()
 {
-		whoami_tribe_chief_gibbai	[Geist meines Stammes, Yark, es ist meine Mission die Meinen zu beschützen und das Andenken aufzubewahren, hempf. ]
+		whoami_tribe_chief_gibbai	[Geist meines Stammes, Yark, es ist meine Mission die Meinen zu beschützen und das Andenken aufzubewahren, hempf.]
 
 }
 
@@ -70339,7 +70339,7 @@ WHO_CHANNEL_NOT_FOUND ()
 // HASH_VALUE 5B155AAA53840B51
 WHO_GM_INTRO ()
 {
-			[&SYS&CSR's derzeit Online : ]
+			[&SYS&CSR's derzeit Online :]
 
 }
 
@@ -70487,14 +70487,14 @@ YES ()
 // HASH_VALUE 79724D9B0C96A545
 YOU_NOT_HAVE_LOOT_RIGHT ()
 {
-		you_not_have_loot_right	[&CHK&Du hast im Moment nicht das Recht diese Leiche zu plündern. ]
+		you_not_have_loot_right	[&CHK&Du hast im Moment nicht das Recht diese Leiche zu plündern.]
 
 }
 
 // HASH_VALUE 6568C3BD05AE41DD
 YOU_NOT_HAVE_QUARTER_RIGHT ()
 {
-		you_not_have_quarter_right	[&CHK&Sie haben im Moment nicht das Recht diesen Kadaver ausweiden. ]
+		you_not_have_quarter_right	[&CHK&Sie haben im Moment nicht das Recht diesen Kadaver ausweiden.]
 
 }
 
@@ -70530,7 +70530,7 @@ YRKANIS_CITY_WELCOMER_1_P_BC_ABANDON_1 ()
 YRKANIS_CITY_WELCOMER_1_P_BC_ANSWER_C_1 (bot trainer_c_1)
 {
 	( trainer_c_1.gender = male )
-		yrkanis_city_welcomer_1_p_bc_answer_c_1_m	[$trainer_c_1$ trainiert die Handwerker unserer Stadt, ich zeige Ihnen auf Ihrer Karte, wo Sie ihn finden. ]
+		yrkanis_city_welcomer_1_p_bc_answer_c_1_m	[$trainer_c_1$ trainiert die Handwerker unserer Stadt, ich zeige Ihnen auf Ihrer Karte, wo Sie ihn finden.]
 
 	( trainer_c_1.gender = female )
 		yrkanis_city_welcomer_1_p_bc_answer_c_1_f	[$trainer_c_1$ trainiert die Handwerker unserer Stadt, ich zeige Ihnen auf Ihrer Karte, wo Sie sie finden.]
@@ -70714,7 +70714,7 @@ YRKANIS_CITY_WELCOMER_1_P_DA_MERCHANT_HD ()
 // HASH_VALUE 5950B873FA962724
 YRKANIS_CITY_WELCOMER_1_P_DA_MERCHANT_HM_1 ()
 {
-		yrkanis_city_welcomer_1_p_da_merchant_hm_1	[Wo finde ich einen Händler von Zweihand-Waffen? ]
+		yrkanis_city_welcomer_1_p_da_merchant_hm_1	[Wo finde ich einen Händler von Zweihand-Waffen?]
 
 }
 
@@ -70728,7 +70728,7 @@ YRKANIS_CITY_WELCOMER_1_P_DA_MERCHANT_JW_1 ()
 // HASH_VALUE 1F71B0BE088475B3
 YRKANIS_CITY_WELCOMER_1_P_DA_MERCHANT_LA_1 ()
 {
-		yrkanis_city_welcomer_1_p_da_merchant_la_1	[Wo finde ich einen Händler von leichten Rüstungen? ]
+		yrkanis_city_welcomer_1_p_da_merchant_la_1	[Wo finde ich einen Händler von leichten Rüstungen?]
 
 }
 
@@ -72161,7 +72161,7 @@ ZORAI_1 ()
 // HASH_VALUE E3376A4D5CAEBE1A
 ZORAI_2 ()
 {
-			[&bbl&Komm zu mir, gehe die Wege des Saps und der Magie. ]
+			[&bbl&Komm zu mir, gehe die Wege des Saps und der Magie.]
 
 }
 
@@ -72629,7 +72629,7 @@ ZORAI_NEWB_CRAFT_1_DESC (bot giver)
 // HASH_VALUE DA32E9A0BC9E490A
 ZORAI_NEWB_CRAFT_1_END_1 ()
 {
-		zorai_newb_craft_1_end_1	[Sehr gut! Um Dich zu verbessern, solltest Du etwas Praxis im Erschaffen von Gegenstäden sammeln... ]
+		zorai_newb_craft_1_end_1	[Sehr gut! Um Dich zu verbessern, solltest Du etwas Praxis im Erschaffen von Gegenstäden sammeln...]
 
 }
 
@@ -73743,7 +73743,7 @@ ZORAI_NEWB_WELCOME_TEAM_STEP_1 ()
 // HASH_VALUE 0282209958D9BDCF
 ZORAI_NEWB_WELCOME_TEAM_STEP_2 ()
 {
-		zorai_newb_welcome_team_step_2	[Gründe ein Team, dann werde ich Dir eine Kampfmission zuteilen. ]
+		zorai_newb_welcome_team_step_2	[Gründe ein Team, dann werde ich Dir eine Kampfmission zuteilen.]
 
 }
 
