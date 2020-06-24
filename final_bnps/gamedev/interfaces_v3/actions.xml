@@ -165,6 +165,22 @@
 			<value value="7" hardtext="uitabInvPAZig3"/>
 		</parameter>
 	</action>
+		<action name="beast_order" hardtext="uimEnterBag">
+		<parameter name="order" value="enter_bag" type="%action_param_hidden"/>
+		<parameter hardtext="uiAnimals" name="beast_index" value="5">
+			<value value="5" hardtext="uitabInvPAZig1"/>
+			<value value="6" hardtext="uitabInvPAZig2"/>
+			<value value="7" hardtext="uitabInvPAZig3"/>
+		</parameter>
+	</action>
+	<action name="beast_order" hardtext="uimLeaveBag">
+		<parameter name="order" value="leave_bag" type="%action_param_hidden"/>
+		<parameter hardtext="uiAnimals" name="beast_index" value="5">
+			<value value="5" hardtext="uitabInvPAZig1"/>
+			<value value="6" hardtext="uitabInvPAZig2"/>
+			<value value="7" hardtext="uitabInvPAZig3"/>
+		</parameter>
+	</action>
 </action_category>
 
 <action_category name="movement" hardtext="uiMovement" contexts="game, r2ed, r2ed_anim_test, r2ed_anim_dm, misc">
