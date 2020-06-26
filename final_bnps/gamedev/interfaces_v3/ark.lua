@@ -56,6 +56,13 @@ function ArkMissionCatalog:UpdateMissionTexts(win, id, text1, text2)
 	w:find("text2").uc_hardtext = text
 end
 
+function ArkMissionCatalog:startResize()
+	local ency = getUI("ui:interface:encyclopedia")
+	ency.w = 950
+	ency.h = 700
+	setOnDraw(ency, "ArkMissionCatalog:autoResize()")
+end
+
 function ArkMissionCatalog:autoResize()
 	if ArkMissionCatalog.bypass_resize then
 		ArkMissionCatalog.bypass_resize = false
