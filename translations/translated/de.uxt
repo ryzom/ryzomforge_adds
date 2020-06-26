@@ -4782,7 +4782,7 @@ uiOutpostLvlMaxAttacker	[Maximallevel der Angreifer: ]
 
 // HASH_VALUE 384FE58FF1A62CA0
 // INDEX 1184
-uittOutpostLvlMaxAttacker	[Maximales @{6F6F}Rundenlevel{FFFF} der Angreifer.\n
+uittOutpostLvlMaxAttacker	[Maximales @{6F6F}Rundenlevel@{FFFF} der Angreifer.\n
 	Es ist das maximale @{6F6F}Rundenlevel@{FFFF}, das die Angreifer während ihrer Angriffsperiode erreichen konnten.\n
 	]
 
@@ -4792,7 +4792,7 @@ uiOutpostLvlMaxDefender	[Maximallevel der Verteidiger: ]
 
 // HASH_VALUE A9A5CF968DD5501D
 // INDEX 1186
-uittOutpostLvlMaxDefender	[Maximales @{6F6F}Rundenlevel{FFFF} der Verteidiger.\n
+uittOutpostLvlMaxDefender	[Maximales @{6F6F}Rundenlevel@{FFFF} der Verteidiger.\n
 	Es ist das maximale @{6F6F}Rundenlevel@{FFFF} das die Verteidiger während ihrer Verteidigungsperiode erreichen konnten.\n
 	]
 
@@ -5960,7 +5960,7 @@ uiFame_tribe_green_seed	[Grüne Samen]
 
 // HASH_VALUE D468F810D8A85C6F
 // INDEX 1446
-uiFame_tribe_hamazans_of_the_dead_seed	[Matis-Amazonen (Hamazans)]
+uiFame_tribe_hamazans_of_the_dead_seed	[Hamazans]
 
 // HASH_VALUE EAF8B468F03AE420
 // INDEX 1447
@@ -10233,7 +10233,7 @@ uihelpItemCantSell	[@{F80B}Dieser Gegenstand kann an keinen Händler verkauft we
 
 // HASH_VALUE A203D9DB12EA02AC
 // INDEX 2466
-uihelpItemCosmeticDontFit	[Diese kosmetische Veränderung kann nur bei einer bestimmten @{F80B}Rasse{FFFF} und einem bestimmten @{F80B}Geschlecht@{FFFF} angewandt werden.\n
+uihelpItemCosmeticDontFit	[Diese kosmetische Veränderung kann nur bei einer bestimmten @{F80B}Rasse@{FFFF} und einem bestimmten @{F80B}Geschlecht@{FFFF} angewandt werden.\n
 	]
 
 // HASH_VALUE 03E5545F85F4B4DE
@@ -20228,7 +20228,7 @@ uiAppear_Infos_Matis	[DIE MATIS-ZIVILISATION\n
 	Tryker: Die Vergangenheit hat uns gelehrt, dass die Tryker nicht zu bändigen sind und dass sie den Dämonen ihre Seele verkaufen würden, nur um ihren Lebensstil zu warhen. Wie dem auch sei: Im Namen Jenas haben wir gelernt, als nachsichtige Freunde zusammenzuleben, anstatt sie sich auf die Seite der Ungläubigen schlagen zu lassen. Dank Jena ist unsere Freundschaft besser denn je, auch wenn ihr religiöser Eifer manchmal noch viel zu wünschen übrig lässt.\n
 	Zoraï: Die Zoraï sind Ungläubige und ihr Heidentum ist zu kontrollieren, auch wenn Zoraï waren, die den Vater unseres heutigen König retteten und ihm flüchtige Zuflucht gewährten. Bei allem Respekt grollen viele von uns über diese 'Schuld' gegenüber den Zoraï, da sie unsere Glaubwürdigkeit in den Augen des Karavan beeinträchtigt. Es wäre am besten, wenn so etwas nicht wieder vorkommt.\n
 	Fyros: Die Fyros sind unsere natürlichen Feinde, die über die letzten Jahrzehnte den bösartigen Kamis immer näher gekommen sind. Wir dürfen nie vergessen, dass es ihnen in der Vergangenheit gelungen ist, die Tryker zu drängen, mit ihnen gegen uns Stellung zu beziehen. Doch die Fyros verbünden sich jetzt lieber mit den Zoraï, deren Zuneigung zu den dämonischen Kamis sie teilen. Wir müssen trotzdem aufpassen, damit sie nicht versuchen, die Tryker mit ihrem gotteslästerlichern Geschwätz zu konvertieren.\n
-	Freundlich gesinnte Stämme sind: die Rindengräber, die Frahar-Jäger, die Lehmbildhauer, die Abtrünnigen, die Sklaventreiber, die Ikonenschnitzer, die Matis-Amazonen Hamazans, die Grünen Samen, die Sapsklaven, die Dörre Matis, die Matiagoo (verdunkelnder Sap) und natürlich die Kuilde.\n
+	Freundlich gesinnte Stämme sind: die Rindengräber, die Frahar-Jäger, die Lehmbildhauer, die Abtrünnigen, die Sklaventreiber, die Ikonenschnitzer, die Hamazans, die Grünen Samen, die Sapsklaven, die Dörre Matis, die Matiagoo (verdunkelnder Sap) und natürlich die Kuilde.\n
 	\n
 	Wer sind unsere Feinde ?\n
 	- Die Kamis: Sie sind dagegen, dass wir Jenas Ländern Ordnung und Schönheit bescheren. Sie sind ein bösartiges Übel und sollten ausgerottet werden.\n
@@ -20380,7 +20380,7 @@ uiAppear_Infos_Zorai	[DIE ZORAÏ-ZIVILISATION\n
 	Fyros: Die Fyros sind unverfrorene, aber beherzte Krieger, die sich in jüngerer Zeit als vertrauenswürdig erwiesen haben. Sie haben gute Fortschritte in ihrer spirituellen Entwicklung gemacht und haben sich eindeutig für den Weg der Kami entschieden.\n
 	Tryker: Der Geist der Tryker ist noch nicht weit genug entwickelt, um die Kami-Erleuchtung zu akzeptieren. Sie sind daher von geringerem spirituellen Wert. Nicht nur sollen sie die Kamis in der Vergangenheit mit Frivolität behandelt haben, sondern sie verehren auch den Karavan, der den Kamis feindlich gesinnt ist.\n
 	Matis: Wir müssen versuchen, die Matis vom Einfluss der Karavan zu befreien und sie von der Lebensart der Kamis zu überzeugen. Deshalb wurde Yrkanis, dem Vater des jetzigen Matis-König im Jahr 2509 in Zora Zuflucht gewährt und geholfen, eine Armee auszuheben, um den Karavan- extremistischen Monarchen Jinovitch zu stürzen und eine tolerantere Regierung an die Macht zu bringen. Das war der erste Schritt, um die Matis in die Kami-Welt zu locken.\n
-	Freundlich gesinnte Stämme beinhalten: die Rindengräber, die Dünenreiter, die Gischtläufer, die Ikonenschnitzer, die Tutoren, die Matis-Amazonen (Hamazans der Toten Samen), die Ökokrieger, die Brunnengräber, Heiliger Sap und die Geschwister der Pflanzen.\n
+	Freundlich gesinnte Stämme beinhalten: die Rindengräber, die Dünenreiter, die Gischtläufer, die Ikonenschnitzer, die Tutoren, die Hamazans, die Ökokrieger, die Brunnengräber, Heiliger Sap und die Geschwister der Pflanzen.\n
 	\n
 	Wer sind unsere Feinde?\n
 	- Die Karavan: Sie sind feindselig zu den Kami und haben schwächeren Seelen blinde Anhängerschaft zu ihrer Göttin Jena aufgezwungen. Unseren Vorfahren, und vor etwas kürzerem auch den Fyros, ist es gelungen, sich aus ihrem Griff zu lösen. Wir müssen den anderen Völkern helfen, das gleichfalls zu schaffen.\n
