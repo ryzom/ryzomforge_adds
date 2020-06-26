@@ -4782,7 +4782,7 @@ uiOutpostLvlMaxAttacker	[Maximallevel der Angreifer: ]
 
 // HASH_VALUE 384FE58FF1A62CA0
 // INDEX 1184
-uittOutpostLvlMaxAttacker	[Maximales @{6F6F}Rundenlevel{FFFF} der Angreifer.\n
+uittOutpostLvlMaxAttacker	[Maximales @{6F6F}Rundenlevel@{FFFF} der Angreifer.\n
 	Es ist das maximale @{6F6F}Rundenlevel@{FFFF}, das die Angreifer während ihrer Angriffsperiode erreichen konnten.\n
 	]
 
@@ -4792,7 +4792,7 @@ uiOutpostLvlMaxDefender	[Maximallevel der Verteidiger: ]
 
 // HASH_VALUE A9A5CF968DD5501D
 // INDEX 1186
-uittOutpostLvlMaxDefender	[Maximales @{6F6F}Rundenlevel{FFFF} der Verteidiger.\n
+uittOutpostLvlMaxDefender	[Maximales @{6F6F}Rundenlevel@{FFFF} der Verteidiger.\n
 	Es ist das maximale @{6F6F}Rundenlevel@{FFFF} das die Verteidiger während ihrer Verteidigungsperiode erreichen konnten.\n
 	]
 

@@ -4916,37 +4916,37 @@ _CE608DB02669D66C	m0711dxacb01	Average Goo Nodule	a	the	Average Goo Nodules		the
 _5BB0BCCB1BC1001A	m0711dxacc01	Prime Goo Nodule	a	the	Prime Goo Nodules		the	
 _C45252BAC3234773	m0711dxacd01	Select Goo Nodule	a	the	Select Goo Nodules		the	
 _C5530EC9C343C373	m0711dxace01	Superb Goo Nodule	a	the	Superb Goo Nodules		the	
-_62CB684AFB927C94	m0711dxacf01	Magnificient Goo Nodule	a	the	Magnificient Goo Nodules		the	
+_62CB684AFB927C94	m0711dxacf01	Magnificent Goo Nodule	a	the	Magnificent Goo Nodules		the	
 _11D28A18AFC79AA2	m0712dxaca01	Plain Nano Builders	a	the	Plain Nano Builderss		the	
 _E73B4617B8DC0483	m0712dxacb01	Average Nano Builders	a	the	Average Nano Builderss		the	
 _11D2920F6E87D2A8	m0712dxacc01	Prime Nano Builders	a	the	Prime Nano Builderss		the	
 _A6B23FEED24D5762	m0712dxacd01	Select Nano Builders	a	the	Select Nano Builderss		the	
 _A6B2B30CD2CFD762	m0712dxace01	Superb Nano Builders	a	the	Superb Nano Builderss		the	
-_F9EF4C582AD12853	m0712dxacf01	Magnificient Nano Builders	a	the	Magnificient Nano Builderss		the	
+_F9EF4C582AD12853	m0712dxacf01	Magnificent Nano Builders	a	the	Magnificent Nano Builderss		the	
 _27888EEC7C18AC9F	m0713dxaca01	Plain Kami Merit Badge	a	the	Plain Kami Merit Badges		the	
 _744CAC1A345DF46B	m0713dxacb01	Average Kami Merit Badge	a	the	Average Kami Merit Badges		the	
 _27F8A6EBFE98C49F	m0713dxacc01	Prime Kami Merit Badge	a	the	Prime Kami Merit Badges		the	
 _6063483E77DEDA0F	m0713dxacd01	Select Kami Merit Badge	a	the	Select Kami Merit Badges		the	
 _2463145D771F1AFD	m0713dxace01	Superb Kami Merit Badge	a	the	Superb Kami Merit Badges		the	
-_D997CCDE2281CD51	m0713dxacf01	Magnificient Kami Merit Badge	a	the	Magnificient Kami Merit Badges		the	
+_D997CCDE2281CD51	m0713dxacf01	Magnificent Kami Merit Badge	a	the	Magnificent Kami Merit Badges		the	
 _51ED32806AAC011F	m0714dxaca01	Plain Karavan Merit Badge	a	the	Plain Karavan Merit Badges		the	
 _8E4678DF2D8BDD14	m0714dxacb01	Average Karavan Merit Badge	a	the	Average Karavan Merit Badges		the	
 _534E3A776B2CF523	m0714dxacc01	Prime Karavan Merit Badge	a	the	Prime Karavan Merit Badges		the	
 _C0A76CBD29E35D5D	m0714dxacd01	Select Karavan Merit Badge	a	the	Select Karavan Merit Badges		the	
 _C4A728CCA4159D61	m0714dxace01	Superb Karavan Merit Badge	a	the	Superb Karavan Merit Badges		the	
-_3DE87ACDFDF9B21F	m0714dxacf01	Magnificient Karavan Merit Badge	a	the	Magnificient Karavan Merit Badges		the	
+_3DE87ACDFDF9B21F	m0714dxacf01	Magnificent Karavan Merit Badge	a	the	Magnificent Karavan Merit Badges		the	
 _E55BDF8F88DDF39A	m0715dxaca01	Plain Sap Power Kristal	a	the	Plain Sap Power Kristals		the	
 _B5403C350582F413	m0715dxacb01	Average Sap Power Kristal	a	the	Average Sap Power Kristals		the	
 _A39B078C895D0B9A	m0715dxacc01	Prime Sap Power Kristal	a	the	Prime Sap Power Kristals		the	
 _4359245C036A64AF	m0715dxacd01	Select Sap Power Kristal	a	the	Select Sap Power Kristals		the	
 _439A206B03AB5CBE	m0715dxace01	Superb Sap Power Kristal	a	the	Superb Sap Power Kristals		the	
-_9F3EF1D682297242	m0715dxacf01	Magnificient Sap Power Kristal	a	the	Magnificient Sap Power Kristals		the	
+_9F3EF1D682297242	m0715dxacf01	Magnificent Sap Power Kristal	a	the	Magnificent Sap Power Kristals		the	
 _363835C008A652F5	m0716dxaca01	Plain Kitin Egg	a	the	Plain Kitin Eggs		the	
 _0C54358B12E3676C	m0716dxacb01	Average Kitin Egg	a	the	Average Kitin Eggs		the	
 _F4785DBD09266AF5	m0716dxacc01	Prime Kitin Egg	a	the	Prime Kitin Eggs		the	
 _90D06E8250E1AED6	m0716dxacd01	Select Kitin Egg	a	the	Select Kitin Eggs		the	
 _90116A915022A6E5	m0716dxace01	Superb Kitin Egg	a	the	Superb Kitin Eggs		the	
-_EEC65BB5066B2802	m0716dxacf01	Magnificient Kitin Egg	a	the	Magnificient Kitin Eggs		the	
+_EEC65BB5066B2802	m0716dxacf01	Magnificent Kitin Egg	a	the	Magnificent Kitin Eggs		the	
 _9D9E6C1E2C0B5E49	m0717dxacc01	Fragment de carapace d'Aelius	un	le	Fragments de carapace d'Aelius	des	les	
 _82B7E9D47D22DB73	m0718dxacc01	Portion de résine d'Aelius	une	la	Portions de résine d'Aelius	des	les	
 _6A03DAA6733BFCFF	m0719dxacc01	Fagot de bois d'Aelius	un	le	Fagots de bois d'Aelius	des	les	
