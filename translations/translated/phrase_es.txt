@@ -8480,7 +8480,7 @@ CWMH02_DESC (bot giver, place city)
 
 }
 
-// HASH_VALUE 7D9C48D073DE06A8
+// HASH_VALUE 596C1F530FF1BDBD
 CWMH02_DIALOG_BARMAN ()
 {
 		cwmh02_dialog_barman	[Hola, qué bien tenerte aquí. Eres un buscador competente? Tengo necesidad de unas raíces especiales para sazonar mis bebidas. Podrías encontrar algunas si inspeccionas al este de la ciudad, donde hay dos raíces gigantes que salen del suelo.]
@@ -27003,6 +27003,41 @@ FACTION_URASIES ()
 
 }
 
+// HASH_VALUE 4410541044105410
+FACTION_USR_DE ()
+{
+			[DE]
+
+}
+
+// HASH_VALUE 4C50E4144C50E414
+FACTION_USR_EN ()
+{
+			[EN]
+
+}
+
+// HASH_VALUE 5050341450503414
+FACTION_USR_ES ()
+{
+			[ES]
+
+}
+
+// HASH_VALUE 5090241850902418
+FACTION_USR_FR ()
+{
+			[FR]
+
+}
+
+// HASH_VALUE 5494544854945448
+FACTION_USR_RU ()
+{
+			[RU]
+
+}
+
 // HASH_VALUE 68B78C7557881055
 FACTION_ZORAI ()
 {
@@ -36581,6 +36616,13 @@ MENU_CASINO_INSERT_COIN ()
 
 }
 
+// HASH_VALUE A666705B25C4B47C
+MENU_DANGER ()
+{
+			[Peligro]
+
+}
+
 // HASH_VALUE 8D69FC3CE7958B8C
 MENU_DELES_SILAM ()
 {
@@ -36677,13 +36719,6 @@ MENU_LORDOY ()
 MENU_MATISPOETRY ()
 {
 			[Poemario Matis.]
-
-}
-
-// HASH_VALUE A666705B25C4B47C
-MENU_DANGER ()
-{
-			[Peligro]
 
 }
 
