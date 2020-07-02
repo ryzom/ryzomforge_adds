@@ -340,9 +340,9 @@ _711A62921AD89387	iczp1gs	Zerschneidende Zoraï-Granate	Zerschneidende Zoraï-Gr
 _16C2D461E5F4C940	iczp1pb	Zertrümmernde Tchaï-Munition	Zertrümmernde Tchaï-Munition	Zertrümmernde Tchaï-Munition	Zertrümmernde Tchaï-Munition	Zertrümmernde Tchaï-Munition	eine	die	eine	die	Pistolen-Munition in Basis-Qualität
 _1782B45BA6D5993C	iczp1pp	Durchbohrende Tchaï-Munition	Durchbohrende Tchaï-Munition	Durchbohrende Tchaï-Munition	Durchbohrende Tchaï-Munition	Durchbohrende Tchaï-Munition	eine	die	eine	die	Pistolen-Munition in Basis-Qualität
 _16B2D461E5F5C540	iczp1ps	Zerschneidende Tchaï-Munition	Zerschneidende Tchaï-Munition	Zerschneidende Tchaï-Munition	Zerschneidende Tchaï-Munition	Zerschneidende Tchaï-Munition	eine	die	eine	die	Pistolen-Munition in Basis-Qualität
-_D2E235CEA4359D30	iczp2ab	Zertrümmernde Maka-Munition	Zertrümmernde Maka-Munition	Zertrümmernde Maka-Munition	Zertrümmernde Maka-Munition	Zertrümmernde Maka-Munition	eine	die	eine	die	Automatikgewehr-Munition in Basis-Qualität
-_90D231C4A516812D	iczp2ap	Durchbohrende Maka-Munition	Durchbohrende Maka-Munition	Durchbohrende Maka-Munition	Durchbohrende Maka-Munition	Durchbohrende Maka-Munition	eine	die	eine	die	Automatikgewehr-Munition in Basis-Qualität
-_D2E235CDA4369930	iczp2as	Zerschneidende Maka-Munition	Zerschneidende Maka-Munition	Zerschneidende Maka-Munition	Zerschneidende Maka-Munition	Zerschneidende Maka-Munition	eine	die	eine	die	Automatikgewehr-Munition in Basis-Qualität
+_D2E235CEA4359D30	iczp2ab	Zertrümmernde Moka-Munition	Zertrümmernde Moka-Munition	Zertrümmernde Moka-Munition	Zertrümmernde Moka-Munition	Zertrümmernde Maka-Munition	eine	die	eine	die	Automatikgewehr-Munition in Basis-Qualität
+_90D231C4A516812D	iczp2ap	Durchbohrende Moka-Munition	Durchbohrende Moka-Munition	Durchbohrende Moka-Munition	Durchbohrende Moka-Munition	Durchbohrende Maka-Munition	eine	die	eine	die	Automatikgewehr-Munition in Basis-Qualität
+_D2E235CDA4369930	iczp2as	Zerschneidende Moka-Munition	Zerschneidende Moka-Munition	Zerschneidende Moka-Munition	Zerschneidende Moka-Munition	Zerschneidende Moka-Munition	eine	die	eine	die	Automatikgewehr-Munition in Basis-Qualität
 _F165758226F0838D	iczp2bb	Zertrümmernde Makam-Munition	Zertrümmernde Makam-Munition	Zertrümmernde Makam-Munition	Zertrümmernde Makam-Munition	Zertrümmernde Makam-Munition	eine	die	eine	die	Bogengewehr-Munition in Basis-Qualität
 _F1C559892531778D	iczp2bp	Durchbohrende Makam-Munition	Durchbohrende Makam-Munition	Durchbohrende Makam-Munition	Durchbohrende Makam-Munition	Durchbohrende Makam-Munition	eine	die	eine	die	Bogengewehr-Munition in Basis-Qualität
 _F1657582A6F1838D	iczp2bs	Zerschneidende Makam-Munition	Zerschneidende Makam-Munition	Zerschneidende Makam-Munition	Zerschneidende Makam-Munition	Zerschneidende Makam-Munition	eine	die	eine	die	Bogengewehr-Munition in Basis-Qualität
@@ -354,7 +354,7 @@ _332E160ED3928408	iczp2rp	Durchbohrende Shoyton-Munition	Durchbohrende Shoyton-M
 _346E260D94428809	iczp2rs	Zerschneidende Shoyton-Munition	Zerschneidende Shoyton-Munition	Zerschneidende Shoyton-Munition	Zerschneidende Shoyton-Munition	Zerschneidende Shoyton-Munition	eine	die	eine	die	Gewehr-Munition in Basis-Qualität
 _52E52A03D9AA1466	iczr1b	Zinkan	Zinkan	Zinkan	Zinkan	Zinkan	eine	die	eine	die	Einhand-Bogenpistole in Basis-Qualität
 _87B2B40957F8F2D0	iczr1p	Tchaï	Tchaï	Tchaï	Tchaï	Tchaï	eine	die	eine	die	Einhand-Pistole in Basis-Qualität
-_CB68A1616E638253	iczr2a	Maka	Maka	Maka	Maka	Maka	ein	die	ein	das	Zweihand-Autimatikgewehr in Basis-Qualität
+_CB68A1616E638253	iczr2a	Moka	Moka	Moka	Moka	Moka	ein	die	ein	das	Zweihand-Automatikgewehr in Basis-Qualität
 _0E80C12ECF6B469F	iczr2b	Makam	Makam	Makam	Makam	Makam	ein	die	ein	das	Zweihand-Bogengewehr in Basis-Qualität
 _E593BD386C3A37BF	iczr2l	Bazoon	Bazoon	Bazoon	Bazoon	Bazoon	einen	die	ein	der	Zweihand-Granatenwerfer in Basis-Qualität
 _B81BE2CE719C6475	iczr2r	Shoyton	Shoyton	Shoyton	Shoyton	Shoyton	ein	die	ein	das	Zweihand-Gewehr in Basis-Qualität
