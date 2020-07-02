@@ -8513,7 +8513,7 @@ CWMH02_DESC (bot giver, place city)
 
 }
 
-// HASH_VALUE 7D9C48D073DE06A8
+// HASH_VALUE 596C1F530FF1BDBD
 CWMH02_DIALOG_BARMAN ()
 {
 		cwmh02_dialog_barman	[Bonjour. Vous tombez bien. Vous avez des compétences en forage ? J'aurais besoin de racines spéciales pour donner du goût à mes boissons. Vous pourrez en trouver en creusant à l'ouest de la ville, là ou deux racines géantes sortent du sol.]
@@ -27923,6 +27923,41 @@ FACTION_URASIES ()
 
 }
 
+// HASH_VALUE 4410541044105410
+FACTION_USR_DE ()
+{
+			[DE]
+
+}
+
+// HASH_VALUE 4C50E4144C50E414
+FACTION_USR_EN ()
+{
+			[EN]
+
+}
+
+// HASH_VALUE 5050341450503414
+FACTION_USR_ES ()
+{
+			[ES]
+
+}
+
+// HASH_VALUE 5090241850902418
+FACTION_USR_FR ()
+{
+			[FR]
+
+}
+
+// HASH_VALUE 5494544854945448
+FACTION_USR_RU ()
+{
+			[RU]
+
+}
+
 // HASH_VALUE 68B78C7557881055
 FACTION_ZORAI ()
 {
@@ -37846,6 +37881,13 @@ MENU_CASINO_INSERT_COIN ()
 
 }
 
+// HASH_VALUE A666705B25C4B47C
+MENU_DANGER ()
+{
+			[Danger]
+
+}
+
 // HASH_VALUE 8D69FC3CE7958B8C
 MENU_DELES_SILAM ()
 {
@@ -37941,13 +37983,6 @@ MENU_LORDOY ()
 MENU_MATISPOETRY ()
 {
 			[Recueil de poésie Matis.]
-
-}
-
-// HASH_VALUE A666705B25C4B47C
-MENU_DANGER ()
-{
-			[Danger]
 
 }
 
