@@ -1,4 +1,4 @@
-﻿*HASH_VALUE	title_id	name	women_name
+*HASH_VALUE	title_id	name	women_name
 _C27F65FEE99C5036	gn_apprentice_tracer	Apprentice Tracer	
 _7F3E91DD23C6651F	gn_bandit_bountybeaches_1	Blood Rooters	
 _C53D8D3533B1790F	gn_bandit_bountybeaches_2	Bounty Snatchers	
@@ -426,7 +426,7 @@ _98CAA891AF99102B	fct_sergent	 (Wachtmeister)	(Wachtmeisterin)
 _1138D4932AF6E85A	fct_captain	 (Befehlshaber)	(Befehlshaberin)
 _11CFB773732E88B9	fct_city_welcomer	 (Stadtempfänger)	(Stadtempfängerin)
 _992106B23D12F5C0	fct_village_welcomer	 (Dorfempfänger)	(Dorfempfängerin)
-_DBB854FAB4CD3968	fct_foreman_apprentice	 (Ausbilder der Lehrlinge)	(Ausbilder der Lehrlingein)
+_DBB854FAB4CD3968	fct_foreman_apprentice	 (Ausbilder der Lehrlinge)	(Ausbilderin der Lehrlinge)
 _12E97FAC6BCA0263	fct_foreman	 (Vorarbeiter)	(Vorarbeiterin)
 _2C8C85CA36B29969	fct_foreman_master	 (Obervorarbeiter)	(Obervorarbeiterin)
 _5485F09DE885E881	fct_hawker	 (Hausierer)	(Hausiererin)
