@@ -338,6 +338,9 @@
 			<value value="pet_animal2" hardtext="uimMtPaPacker1" />
 			<value value="pet_animal3" hardtext="uimMtPaPacker2" />
 			<value value="pet_animal4" hardtext="uimMtPaPacker3" />
+			<value value="pet_animal5" hardtext="uitabInvPAZig1" />
+			<value value="pet_animal6" hardtext="uitabInvPAZig2" />
+			<value value="pet_animal7" hardtext="uitabInvPAZig3" />
 			<value value="player_room" hardtext="uimMtRoom" />
 			<value value="guild"	   hardtext="uimMtGuild" />
 		</parameter>
