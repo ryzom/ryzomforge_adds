@@ -562,6 +562,48 @@
               onclick_cancel="leave_modal"
               onclick_cancel_param="" />
   </group>
+  <group type="modal"
+         id="change_contact_group"
+         exit_click_out="true"
+         posref="MM MR"
+         w="212"
+         child_resize_h="true"
+         child_resize_hmargin="14"
+         options="skin_modal"
+         on_active="set_keyboard_focus"
+         on_active_params="target=ui:interface:change_contact_group:change_contact_group_eb:eb|select_all=false">
+    
+    <view type="text"
+          id="text"
+          posref="TL TL"
+          x="8"
+          y="-8"
+          color="255 255 255 255"
+          global_color="false"
+          fontsize="12"
+          shadow="true"
+          hardtext="uiPeopleChangeContactGroup" />
+    <instance template="edit_box_widget"
+              id="change_contact_group_eb"
+              posref="TL TL"
+              x="6"
+              y="-24"
+              child_resize_h="true"
+              w="200"
+              onenter="change_contact_group"
+              max_num_chars="255"
+              entry_type="text" />
+    <instance template="button_ok_cancel"
+              posparent="change_contact_group_eb"
+              posref="BR TR"
+              x="0"
+              y="0"
+              onclick_ok="change_contact_group"
+              onclick_ok_param=""
+              onclick_cancel="leave_modal"
+              onclick_cancel_param="" />
+  </group>
+  
   <!-- ***************** -->
   <!-- * CHAT TEMPLATE * -->
   <!-- ***************** -->
@@ -2223,6 +2265,11 @@
             name="uimMoveToIgnoreList"
             handler="move_contact"
             params="list=0" />
+    <action id="group"
+	    name="uimChangeGroup"
+	    handler="change_contact_group_begin"
+	    params="group=ui:interface:change_contact_group"
+	    />
     <separator />
   </group>
   <group type="menu"
