@@ -1830,6 +1830,36 @@
       </group>
     </group>
   </template>
+  <!-- group header in friend list -->
+  <template name="people_list_group_header"
+            keep="true"
+            active="true"
+            movable="false"
+            opened="true"
+            id="system">
+    <group type="container"
+           id="#id"
+           w="252"
+           active="#active"
+           movable="#movable"
+           opened="#opened"
+           header_color="UI:SAVE:WIN:COLORS:COM"
+           global_color="false"
+           global_color_over="true">
+      <group id="header_closed"
+             x="0"
+             y="0"
+             h="16"
+             posref="TL TL">
+      </group>
+      <group id="header_opened"
+             x="0"
+             y="0"
+             h="16"
+             posref="TL TL">
+      </group>
+    </group>
+  </template>
   <!-- when you want to directly chat with a friend -->
   <template name="contact_chat_friend"
             keep="true"
