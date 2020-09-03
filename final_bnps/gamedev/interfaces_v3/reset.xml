@@ -260,7 +260,8 @@
 	<action handler="set" params="dblink=UI:SAVE:CHAT:ENTER_DONT_QUIT_CB|value=0" />
 	<action handler="set" params="dblink=UI:SAVE:CHAT:SHOW_TIMES_IN_CHAT_CB|value=0" />
 	<action handler="set" params="dblink=UI:SAVE:CHAT:SHOW_DYN_CHANNEL_NAME_IN_CHAT_CB|value=0" />
-
+	<action handler="set" params="dblink=UI:SAVE:CHAT:SHOW_TRANSLATION_ONLY_AS_TOOLTIP_CB|value=0" />
+	
 	<action handler="set" params="dblink=UI:SAVE:INV_BAG:SORT_TYPE|value=0" />
 	<action handler="set" params="dblink=UI:SAVE:INV_BAG:ICON_LIST|value=0" />
 	<action handler="set" params="dblink=UI:SAVE:INV_BAG:FILTER_ARMOR|value=1" />
