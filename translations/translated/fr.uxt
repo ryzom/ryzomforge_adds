@@ -4500,7 +4500,7 @@ uiBGD_ContentStartProcessTorrent	[Le 'mode Torrent' utilise la technolgie peer-t
 
 uiBGD_DontShowAgain	[Ne plus jamais afficher ce message.]
 
-uiBGD_Download	[]
+uiBGD_Download	[Download]
 
 uiBGD_DownloaderDisconnected	[Ryzom Downloader s'est arrêté, veuillez relancer Ryzom.]
 
@@ -12025,9 +12025,9 @@ uiSaveMovie	[Sauvegarder le film]
 
 uiSaveUI	[Sauvegarder]
 
-uiSAY	[Dire]
-
 uiSay	[Dire]
+
+uiSAY	[Dire]
 
 uiSayColor	[Dire]
 
