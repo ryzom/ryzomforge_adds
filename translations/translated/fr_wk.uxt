@@ -6071,7 +6071,7 @@ fct_stablegirl_merchant	[Palefrenière]
 
 fct_barmaid	[Serveuse]
 
-fct_civil	[]
+fct_civil	[(Civil)]
 
 fct_sage	[Sage]
 
