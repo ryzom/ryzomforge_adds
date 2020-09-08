@@ -5060,14 +5060,6 @@ uiCultZo	[ZORAÏ: MAGIER DER DSCHUNGEL IN DEN VERDORRENDEN LANDEN\n
 	Die groß gewachsenen blauhäutigen und maskentragenden Zoraï gelten als die Mystiker von Atys.\n
 	Sie sind Meister der Manipulation von Magnetfeldern, die sie zum Bau von Waffen und Gebäuden einsetzen.]
 
-uiEcoFy	[]
-
-uiEcoMa	[]
-
-uiEcoTr	[]
-
-uiEcoZo	[]
-
 uiExplcarac	[CHARAKTERISTIKEN\n
 	\n
 	Du kannst 20 Punkte für deine Eigenschaften verwenden.\n
@@ -5388,8 +5380,6 @@ uihelpItemMPCraftRequirement	[@{FFF9}Wird als Bestandteil bei der Herstellung sp
 	]
 
 uihelpItemMPAllCraft	[Alle Bestandteile]
-
-iompfUnknown	[]
 
 iompfCommon	[Alle Rassen]
 
@@ -7245,8 +7235,6 @@ uittNextExecutingPhrase	[Nächste Aktion]
 
 uiCancelCast	[Die laufende Aktion abbrechen]
 
-uiBotChatPhrase	[]
-
 uiPhraseFaberExecute	[Gegenstand-Herstellung: %item.]
 
 uiPhraseFaberExecuteNoPlan	[Gegenstand herstellen]
@@ -7362,8 +7350,6 @@ uiSelectMission	[Wähle eine Mission]
 uiAcceptMission	[Mission annehmen?]
 
 uiBotChatNews	[Neuigkeiten]
-
-uiBotChatMissionEnd	[]
 
 uiBotChatDynamicMission	[DYNAMISCHE MISSION]
 
@@ -10336,8 +10322,6 @@ uiCP_Name_Submit	[BESTÄTIGEN]
 
 uiCP_Name_Invalid	[Ungültiger Name]
 
-uiLocation_	[]
-
 uiLocation_Play	[JETZT SPIELEN]
 
 uiLocation_Back	[SPÄTER SPIELEN]
@@ -12306,8 +12290,6 @@ uimItemTextDisplay	[Lesen]
 
 uiTabInfo	[Rechtsklick, um den Tab in einem eigenen Fenster anzuzeigen.]
 
-uiItemSpecialEffectFlyingTextISE_FIGHT_ADD_CRITICAL	[]
-
 uiItemSpecialEffectFlyingTextISE_FIGHT_VAMPIRISM	[Lebensraub: %param]
 
 uiItemSpecialEffectFlyingTextISE_MAGIC_DIVINE_INTERVENTION	[Göttliche Intervention]
@@ -13874,10 +13856,6 @@ uiBGD_LoadPackageList	[Laden der Liste der verfügbaren Pakete.]
 
 uiBGD_RequiredSize	[Notwendige Größe: {0}]
 
-uiBGD_Download	[]
-
-uiBGD_Installing	[]
-
 uiBGD_ScanData	[Überprüfe die Integrität]
 
 uiBGD_Patch	[Herunterladen]
@@ -14613,12 +14591,4 @@ uiWindowSnapDistance	[Window snap distance]
 uiWindowSnapInvert	[Snap only when SHIFT is held down]
 
 uiWindowSnap	[Window snap]
-
-uimChangeGroup	[Move to friends group]
-
-uiPeopleChangeContactGroup	[Name of group]
-
-uiShowTranslationOnlyAsTooltip	[Display orginal messages and translated in tooltip]
-
-uittShowTranslationOnlyAsTooltip	[If checked, messages of players will be displayed untranslated and translation in a tooltip when mouse over]
 

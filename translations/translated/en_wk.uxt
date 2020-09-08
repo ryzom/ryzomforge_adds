@@ -5063,14 +5063,6 @@ uiCultZo	[ZORAÏ: MAGICIANS OF THE JUNGLES OF THE SICKLANDS\n
 	The Zoraïs are the mystics of Atys.\n
 	They have passed master in the manipulation of magnetic fields which they use in the fabrication of weaponry and buildings.]
 
-uiEcoFy	[]
-
-uiEcoMa	[]
-
-uiEcoTr	[]
-
-uiEcoZo	[]
-
 uiExplcarac	[CHARACTERISTICS\n
 	\n
 	You have 20 points to add to your characteristics.\n
@@ -5392,8 +5384,6 @@ uihelpItemMPCraftRequirement	[@{FFF9}Used as a component in the crafting of spec
 	]
 
 uihelpItemMPAllCraft	[All Item Parts]
-
-iompfUnknown	[]
 
 iompfCommon	[All Races]
 
@@ -6083,8 +6073,6 @@ fct_zf_guard	[ (Frontier Guard)]
 fct_stablegirl_merchant	[ (Stable Girl)]
 
 fct_barmaid	[ (Barmaid)]
-
-fct_civil	[]
 
 fct_sage	[ (Sage)]
 
@@ -7258,8 +7246,6 @@ uittNextExecutingPhrase	[Next Action]
 
 uiCancelCast	[Cancel the current action]
 
-uiBotChatPhrase	[]
-
 uiPhraseFaberExecute	[Craft an item: %item]
 
 uiPhraseFaberExecuteNoPlan	[Craft an item.]
@@ -7375,8 +7361,6 @@ uiSelectMission	[Select a Mission]
 uiAcceptMission	[Accept Mission?]
 
 uiBotChatNews	[News]
-
-uiBotChatMissionEnd	[]
 
 uiBotChatDynamicMission	[DYNAMIC MISSION]
 
@@ -10349,8 +10333,6 @@ uiCP_Name_Submit	[SUBMIT]
 
 uiCP_Name_Invalid	[Invalid name, please try another]
 
-uiLocation_	[]
-
 uiLocation_Play	[PLAY NOW]
 
 uiLocation_Back	[PLAY LATER]
@@ -12184,22 +12166,6 @@ uiJenaYear	[JY]
 
 uiRandomBadParameter	[The text "%s" isn't a valid parameter for the 'random' command.]
 
-uiTextCommand1	[]
-
-uiTextCommand2	[]
-
-uiTextCommand3	[]
-
-uiTextCommand4	[]
-
-uiTextCommandFT1	[]
-
-uiTextCommandFT2	[]
-
-uiTextCommandFT3	[]
-
-uiTextCommandFT4	[]
-
 uiLoadingString0	[Installing ninja Yubos...]
 
 uiLoadingString1	[Facepainting support staff...]
@@ -12320,8 +12286,6 @@ uimItemTextEdit	[Write]
 uimItemTextDisplay	[Read]
 
 uiTabInfo	[Right Click to Separate]
-
-uiItemSpecialEffectFlyingTextISE_FIGHT_ADD_CRITICAL	[]
 
 uiItemSpecialEffectFlyingTextISE_FIGHT_VAMPIRISM	[Life Stealer: %param]
 
@@ -13891,10 +13855,6 @@ uiBGD_LoadPackageList	[Loading available package list]
 
 uiBGD_RequiredSize	[Size needed: {0}]
 
-uiBGD_Download	[]
-
-uiBGD_Installing	[]
-
 uiBGD_ScanData	[Checking integrity]
 
 uiBGD_Patch	[Downloading]
@@ -14632,12 +14592,4 @@ uiWindowSnapDistance	[Window snap distance]
 uiWindowSnapInvert	[Snap only when SHIFT is held down]
 
 uiWindowSnap	[Window snap]
-
-uimChangeGroup	[Move to friends group]
-
-uiPeopleChangeContactGroup	[Name of group]
-
-uiShowTranslationOnlyAsTooltip	[Display orginal messages and translated in tooltip]
-
-uittShowTranslationOnlyAsTooltip	[If checked, messages of players will be displayed untranslated and translation in a tooltip when mouse over]
 
