@@ -8093,9 +8093,9 @@ uihMWeapon	[Armes de mêlée]
 
 uiHoleth	[Holeth]
 
-uiHome	[Accueil]
-
 uiHOME	[ACCUEIL]
+
+uiHome	[Accueil]
 
 uiHorizontal	[Horizontale]
 
@@ -9225,6 +9225,8 @@ uimBoldInfo	[Infos]
 uimCall	[Appeler]
 
 uimCareer	[Carrière]
+
+uimChangeGroup	[]
 
 uimChanSave	[Sauvegarder]
 
@@ -10358,9 +10360,9 @@ uiNoVersionFound	[Pas de version trouvée]
 
 uiNowDate	[La date est :]
 
-uiNPCColor	[PNJ]
-
 uiNpcColor	[PNJ]
+
+uiNPCColor	[PNJ]
 
 uiNPCGiver	[Initiateur : ]
 
@@ -10724,6 +10726,8 @@ uiPeople	[PEUPLE]
 uiPeopleAdd	[Ajouter]
 
 uiPeopleAddContact	[Ajouter un contact à la liste]
+
+uiPeopleChangeContactGroup	[]
 
 uiPet	[Animal domestique]
 
@@ -12025,9 +12029,9 @@ uiSaveMovie	[Sauvegarder le film]
 
 uiSaveUI	[Sauvegarder]
 
-uiSay	[Dire]
-
 uiSAY	[Dire]
+
+uiSay	[Dire]
 
 uiSayColor	[Dire]
 
@@ -12191,9 +12195,9 @@ uiShortcutNumber	[Numéro du raccourci]
 
 uiShortCutTT	[Glissez ici un sort de combat ou de magie]
 
-uiSHOUT	[Crier]
-
 uiShout	[Crier]
+
+uiSHOUT	[Crier]
 
 uiShoutColor	[Crier]
 
@@ -12224,6 +12228,8 @@ uiShowReticle	[Afficher le réticule autour de la cible]
 uiShowTargeted	[Affichage de la cible]
 
 uiShowTimesInChatCB	[Afficher l'heure dans les fenêtres de discussion]
+
+uiShowTranslationOnlyAsTooltip	[]
 
 uiShowUnderCursor	[Afficher sous le curseur]
 
@@ -14621,4 +14627,6 @@ _Natae_citizen	[Citoyen de Natae]
 _Yrkanis_citizen	[Citoyen d'Yrkanis]
 
 ___faber_skill_sep___	[--------------------------------]
+
+uittShowTranslationOnlyAsTooltip	[]
 

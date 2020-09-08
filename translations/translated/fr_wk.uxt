@@ -14622,3 +14622,11 @@ uiWindowSnapInvert	[Snap only when SHIFT is held down]
 
 uiWindowSnap	[Window snap]
 
+uimChangeGroup	[]
+
+uiPeopleChangeContactGroup	[]
+
+uiShowTranslationOnlyAsTooltip	[]
+
+uittShowTranslationOnlyAsTooltip	[]
+

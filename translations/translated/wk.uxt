@@ -7888,9 +7888,9 @@ uihMWeapon	[Melee Weapons]
 
 uiHoleth	[Holeth]
 
-uiHome	[Home]
-
 uiHOME	[HOME]
+
+uiHome	[Home]
 
 uiHorizontal	[Horizontal]
 
@@ -9017,6 +9017,8 @@ uimBoldInfo	[INFO]
 uimCall	[CALL]
 
 uimCareer	[CAREER]
+
+uimChangeGroup	[]
 
 uimChanSave	[Save]
 
@@ -10150,9 +10152,9 @@ uiNoVersionFound	[No Version Found]
 
 uiNowDate	[Now the date is :]
 
-uiNPCColor	[NPC]
-
 uiNpcColor	[NPC]
+
+uiNPCColor	[NPC]
 
 uiNPCGiver	[GIVER: ]
 
@@ -10516,6 +10518,8 @@ uiPeople	[PEOPLE]
 uiPeopleAdd	[ADD]
 
 uiPeopleAddContact	[Add contact to the list]
+
+uiPeopleChangeContactGroup	[]
 
 uiPet	[Pet]
 
@@ -11817,9 +11821,9 @@ uiSaveMovie	[Save Movie]
 
 uiSaveUI	[Save]
 
-uiSAY	[SAY]
-
 uiSay	[SAY]
+
+uiSAY	[SAY]
 
 uiSayColor	[Say]
 
@@ -11985,9 +11989,9 @@ uiShortcutNumber	[Shortcut Number]
 
 uiShortCutTT	[Drag here a combat or magic spell]
 
-uiSHOUT	[SHOUT]
-
 uiShout	[SHOUT]
+
+uiSHOUT	[SHOUT]
 
 uiShoutColor	[Shout]
 
@@ -12018,6 +12022,8 @@ uiShowReticle	[Show Target Reticle]
 uiShowTargeted	[Show Targeted]
 
 uiShowTimesInChatCB	[Show timestamps in chat]
+
+uiShowTranslationOnlyAsTooltip	[]
 
 uiShowUnderCursor	[Show Under Cursor]
 
@@ -14416,4 +14422,6 @@ _Natae_citizen	[ (Natae citizen)]
 _Yrkanis_citizen	[ (Yrkanis citizen)]
 
 ___faber_skill_sep___	[--------------------------------]
+
+uittShowTranslationOnlyAsTooltip	[]
 

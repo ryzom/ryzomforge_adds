@@ -1,4 +1,4 @@
-fct_civil	[(Civil)]
+fct_civil	[]
 
 iompfUnknown	[]
 
@@ -21,4 +21,12 @@ uiEcoZo	[]
 uiItemSpecialEffectFlyingTextISE_FIGHT_ADD_CRITICAL	[]
 
 uiLocation_	[]
+
+uimChangeGroup	[]
+
+uiPeopleChangeContactGroup	[]
+
+uiShowTranslationOnlyAsTooltip	[]
+
+uittShowTranslationOnlyAsTooltip	[]
 
