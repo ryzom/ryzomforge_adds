@@ -9018,7 +9018,7 @@ uimCall	[CALL]
 
 uimCareer	[CAREER]
 
-uimChangeGroup	[Déplacer vers un groupe d'amis]
+uimChangeGroup	[Move to friends group]
 
 uimChanSave	[Save]
 
@@ -10519,7 +10519,7 @@ uiPeopleAdd	[ADD]
 
 uiPeopleAddContact	[Add contact to the list]
 
-uiPeopleChangeContactGroup	[Nom du groupe]
+uiPeopleChangeContactGroup	[Name of group]
 
 uiPet	[Pet]
 
@@ -12023,7 +12023,7 @@ uiShowTargeted	[Show Targeted]
 
 uiShowTimesInChatCB	[Show timestamps in chat]
 
-uiShowTranslationOnlyAsTooltip	[Afficher les messages originaux et leur traduction au survol]
+uiShowTranslationOnlyAsTooltip	[Display orginal messages and translated in tooltip]
 
 uiShowUnderCursor	[Show Under Cursor]
 
@@ -14038,7 +14038,7 @@ uittShowReticle	[If checked, show a target reticle on mouseover and selection of
 
 uittShowTimesInChat	[If checked, displays the current time before all chat messages.]
 
-uittShowTranslationOnlyAsTooltip	[Si vous cochez cette case, les messages des autres joueurs seront affichés non traduits et leur traduction au survol de la souris]
+uittShowTranslationOnlyAsTooltip	[If checked, messages of players will be displayed untranslated and translation in a tooltip when mouse over]
 
 uittSit	[Sit Mode]
 

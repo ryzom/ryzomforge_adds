@@ -14614,11 +14614,11 @@ uiWindowSnapInvert	[Snap only when SHIFT is held down]
 
 uiWindowSnap	[Window snap]
 
-uimChangeGroup	[]
+uimChangeGroup	[Move to friends group]
 
-uiPeopleChangeContactGroup	[]
+uiPeopleChangeContactGroup	[Name of group]
 
-uiShowTranslationOnlyAsTooltip	[]
+uiShowTranslationOnlyAsTooltip	[Display orginal messages and translated in tooltip]
 
-uittShowTranslationOnlyAsTooltip	[]
+uittShowTranslationOnlyAsTooltip	[If checked, messages of players will be displayed untranslated and translation in a tooltip when mouse over]
 
