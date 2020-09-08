@@ -12229,8 +12229,6 @@ uiShowTargeted	[Affichage de la cible]
 
 uiShowTimesInChatCB	[Afficher l'heure dans les fenêtres de discussion]
 
-uiShowTranslationOnlyAsTooltip	[]
-
 uiShowUnderCursor	[Afficher sous le curseur]
 
 uiSkillJobLVL	[Niv. : ]
@@ -14627,6 +14625,4 @@ _Natae_citizen	[Citoyen de Natae]
 _Yrkanis_citizen	[Citoyen d'Yrkanis]
 
 ___faber_skill_sep___	[--------------------------------]
-
-uittShowTranslationOnlyAsTooltip	[]
 
