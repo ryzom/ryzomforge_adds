@@ -5064,14 +5064,6 @@ uiCultZo	[ZORAÏ: MAGOS DE LAS SELVAS DE LAS TIERRAS ENFERMAS\n
 	Los Zoraïs son los místicos de Atys.\n
 	Han pasado a ser maestros en la manipulación de campos magnéticos los que utilizan en la fabricación de armamento y edificios.]
 
-uiEcoFy	[]
-
-uiEcoMa	[]
-
-uiEcoTr	[]
-
-uiEcoZo	[]
-
 uiExplcarac	[CARACTERÍSTICAS\n
 	\n
 	Tienes 20 puntos para agregar a tus características.\n
@@ -5393,8 +5385,6 @@ uihelpItemMPCraftRequirement	[@{FFF9}Usado como un componente en la fabricación
 	]
 
 uihelpItemMPAllCraft	[Todoss los Componentes de un Objeto]
-
-iompfUnknown	[]
 
 iompfCommon	[Todas la Razas]
 
@@ -6085,8 +6075,6 @@ fct_zf_guard	[ (Guardia Fronterizo)]
 fct_stablegirl_merchant	[ (Moza de Establo)]
 
 fct_barmaid	[ (Tabernera)]
-
-fct_civil	[]
 
 fct_sage	[ (Savio)]
 
@@ -7260,8 +7248,6 @@ uittNextExecutingPhrase	[Próxima Acción]
 
 uiCancelCast	[Cancelar la acción actual]
 
-uiBotChatPhrase	[]
-
 uiPhraseFaberExecute	[Fabricar un objeto: %item.]
 
 uiPhraseFaberExecuteNoPlan	[Fabricar un objeto.]
@@ -7377,8 +7363,6 @@ uiSelectMission	[Seleccionar una Misión]
 uiAcceptMission	[¿Aceptar Misión?]
 
 uiBotChatNews	[Noticias]
-
-uiBotChatMissionEnd	[]
 
 uiBotChatDynamicMission	[MISIÓN DINÁMICA]
 
@@ -10351,8 +10335,6 @@ uiCP_Name_Submit	[ENVIAR]
 
 uiCP_Name_Invalid	[Nombre no válido, por favor, pruebe otro]
 
-uiLocation_	[]
-
 uiLocation_Play	[JUGAR AHORA]
 
 uiLocation_Back	[JUGAR MÁS TARDE]
@@ -12184,22 +12166,6 @@ uiJenaYear	[AJ]
 
 uiRandomBadParameter	[El texto "%s" no es un parámetro válido para el comando 'aleatorio'.]
 
-uiTextCommand1	[]
-
-uiTextCommand2	[]
-
-uiTextCommand3	[]
-
-uiTextCommand4	[]
-
-uiTextCommandFT1	[]
-
-uiTextCommandFT2	[]
-
-uiTextCommandFT3	[]
-
-uiTextCommandFT4	[]
-
 uiLoadingString0	[Instalando Yubos ninja...]
 
 uiLoadingString1	[Pintando la cara del personal de soporte...]
@@ -12320,8 +12286,6 @@ uimItemTextEdit	[Escribir]
 uimItemTextDisplay	[Leer]
 
 uiTabInfo	[Click Derecho para Separar]
-
-uiItemSpecialEffectFlyingTextISE_FIGHT_ADD_CRITICAL	[]
 
 uiItemSpecialEffectFlyingTextISE_FIGHT_VAMPIRISM	[Ladrón de Vida: %param]
 
@@ -13891,10 +13855,6 @@ uiBGD_LoadPackageList	[Cargando lista de paquetes disponibles]
 
 uiBGD_RequiredSize	[Tamaño necesario: {0}]
 
-uiBGD_Download	[]
-
-uiBGD_Installing	[]
-
 uiBGD_ScanData	[Verificando la integridad]
 
 uiBGD_Patch	[Descargando]
@@ -14632,12 +14592,4 @@ uiWindowSnapDistance	[Window snap distance]
 uiWindowSnapInvert	[Snap only when SHIFT is held down]
 
 uiWindowSnap	[Window snap]
-
-uimChangeGroup	[Move to friends group]
-
-uiPeopleChangeContactGroup	[Name of group]
-
-uiShowTranslationOnlyAsTooltip	[Display orginal messages and translated in tooltip]
-
-uittShowTranslationOnlyAsTooltip	[If checked, messages of players will be displayed untranslated and translation in a tooltip when mouse over]
 
