@@ -8484,7 +8484,7 @@ CWMH02_DESC (bot giver, place city)
 
 }
 
-// HASH_VALUE 7D9C48D073DE06A8
+// HASH_VALUE 6F80D9D90603EE2F
 CWMH02_DIALOG_BARMAN ()
 {
 		cwmh02_dialog_barman	[Bonjour. Vous tombez bien. Vous avez des compétences en forage ? J'aurais besoin de racines spéciales pour donner du goût à mes boissons. Vous pourrez en trouver en creusant à l'Ouest de la ville, là ou deux racines géantes sortent du sol.]
@@ -26998,6 +26998,41 @@ FACTION_URASIES ()
 
 }
 
+// HASH_VALUE 4410541044105410
+FACTION_USR_DE ()
+{
+			[DE]
+
+}
+
+// HASH_VALUE 4C50E4144C50E414
+FACTION_USR_EN ()
+{
+			[EN]
+
+}
+
+// HASH_VALUE 5050341450503414
+FACTION_USR_ES ()
+{
+			[ES]
+
+}
+
+// HASH_VALUE 5090241850902418
+FACTION_USR_FR ()
+{
+			[FR]
+
+}
+
+// HASH_VALUE 5494544854945448
+FACTION_USR_RU ()
+{
+			[RU]
+
+}
+
 // HASH_VALUE 68B78C7557881055
 FACTION_ZORAI ()
 {
@@ -34218,7 +34253,7 @@ LEAGUE_INVITOR_NOT_LEADER ()
 }
 
 // HASH_VALUE 8FD6CB6B10B80ED5
-LEAGUE_PROPOSALL (player p)
+LEAGUE_PROPOSAL (player p)
 {
 	(p.gender = male)
 		league_proposal_m	[$p$ offers you to join his league.]
@@ -36857,6 +36892,13 @@ MENU_CASINO_INSERT_COIN ()
 
 }
 
+// HASH_VALUE A666705B25C4B47C
+MENU_DANGER ()
+{
+			[Danger]
+
+}
+
 // HASH_VALUE 8D69FC3CE7958B8C
 MENU_DELES_SILAM ()
 {
@@ -36924,6 +36966,13 @@ MENU_HELPER_NPC ()
 MENU_HOF ()
 {
 			[Consulter la Stèle de Valeur]
+
+}
+
+// HASH_VALUE DFB6088196347B98
+MENU_KAMIA_ATA ()
+{
+			[Kamia'ata]
 
 }
 
@@ -64067,46 +64116,6 @@ TEMPLATE_TASK_LOOT_GIVE_INTRO_3 (bot giver, item i1, int qt1, int ql1, item i2, 
 {
 	(reward > 0 & timelimit = 0)
 		template_task_loot_give_intro_3_money	[Il me faut $qt1$ $i1$ de qualité $ql1$, $qt2$ $i2$ de qualité $ql2$ et $qt3$ $i3$ de qualité $ql3$. Si vous m'en rapportez, je vous paierai $reward$ dappers.]
-
-	(reward > 0 & timelimit > 0)
-		template_task_loot_give_intro_3_money_timed	[Il me faut $qt1$ $i1$ de qualité $ql1$, $qt2$ $i2$ de qualité $ql2$ et $qt3$ $i3$ de qualité $ql3$. Si vous m'en rapportez, je vous paierai $reward$ dappers.\n
-			Mais faites vite, c'est très urgent !]
-
-	(timelimit > 0)
-		template_task_loot_give_intro_3_fame_timed	[Il me faut $qt1$ $i1$ de qualité $ql1$, $qt2$ $i2$ de qualité $ql2$ et $qt3$ $i3$ de qualité $ql3$. Si vous m'en rapportez, $f.mda$ $f.member$ vous en seront reconnaissants.\n
-			Mais faites vite, c'est très urgent !]
-
-		template_task_loot_give_intro_3_fame	[Il me faut $qt1$ $i1$ de qualité $ql1$, $qt2$ $i2$ de qualité $ql2$ et $qt3$ $i3$ de qualité $ql3$. Si vous m'en rapportez, $f.mda$ $f.member$ vous en seront reconnaissants.]
-
-}
-
-// HASH_VALUE 7F851F0A30CB9CAD
-TEMPLATE_TASK_LOOT_GIVE_INTRO_3_P (bot giver, item i1, int qt1, int ql1, item i2, int qt2, int ql2, item i3, int qt3, int ql3, int reward, int timelimit, int random, faction f)
-{
-	// 111,ppp,1pp,p1p,pp1,p11,1p1,11p
-	(reward > 0 & timelimit = 0)
-		template_task_loot_give_intro_3_money_111	[Il me faut $qt1$ $i1$ de qualité $ql1$, $qt2$ $i2$ de qualité $ql2$ et $qt3$ $i3$ de qualité $ql3$. Si vous m'en rapportez, je vous paierai $reward$ dappers.]
-
-	(reward > 0 & timelimit = 0)
-		template_task_loot_give_intro_3_money_ppp	[Il me faut $qt1$ $i1.p$ de qualité $ql1$, $qt2$ $i2.p$ de qualité $ql2$ et $qt3$ $i3.p$ de qualité $ql3$. Si vous m'en rapportez, je vous paierai $reward$ dappers.]
-
-	(reward > 0 & timelimit = 0)
-		template_task_loot_give_intro_3_money_1pp	[Il me faut $qt1$ $i1$ de qualité $ql1$, $qt2$ $i2.p$ de qualité $ql2$ et $qt3$ $i3.p$ de qualité $ql3$. Si vous m'en rapportez, je vous paierai $reward$ dappers.]
-
-	(reward > 0 & timelimit = 0)
-		template_task_loot_give_intro_3_money_p1p	[Il me faut $qt1$ $i1.p$ de qualité $ql1$, $qt2$ $i2$ de qualité $ql2$ et $qt3$ $i3.p$ de qualité $ql3$. Si vous m'en rapportez, je vous paierai $reward$ dappers.]
-
-	(reward > 0 & timelimit = 0)
-		template_task_loot_give_intro_3_money_pp1	[Il me faut $qt1$ $i1.p$ de qualité $ql1$, $qt2$ $i2.p$ de qualité $ql2$ et $qt3$ $i3$ de qualité $ql3$. Si vous m'en rapportez, je vous paierai $reward$ dappers.]
-
-	(reward > 0 & timelimit = 0)
-		template_task_loot_give_intro_3_money_p11	[Il me faut $qt1$ $i1.p$ de qualité $ql1$, $qt2$ $i2$ de qualité $ql2$ et $qt3$ $i3$ de qualité $ql3$. Si vous m'en rapportez, je vous paierai $reward$ dappers.]
-
-	(reward > 0 & timelimit = 0)
-		template_task_loot_give_intro_3_money_1p1	[Il me faut $qt1$ $i1$ de qualité $ql1$, $qt2$ $i2.p$ de qualité $ql2$ et $qt3$ $i3$ de qualité $ql3$. Si vous m'en rapportez, je vous paierai $reward$ dappers.]
-
-	(reward > 0 & timelimit = 0)
-		template_task_loot_give_intro_3_money_pp1	[Il me faut $qt1$ $i1.p$ de qualité $ql1$, $qt2$ $i2.p$ de qualité $ql2$ et $qt3$ $i3$ de qualité $ql3$. Si vous m'en rapportez, je vous paierai $reward$ dappers.]
 
 	(reward > 0 & timelimit > 0)
 		template_task_loot_give_intro_3_money_timed	[Il me faut $qt1$ $i1$ de qualité $ql1$, $qt2$ $i2$ de qualité $ql2$ et $qt3$ $i3$ de qualité $ql3$. Si vous m'en rapportez, je vous paierai $reward$ dappers.\n
