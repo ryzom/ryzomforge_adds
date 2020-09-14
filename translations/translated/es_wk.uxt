@@ -14593,3 +14593,5 @@ uiWindowSnapInvert	[Snap only when SHIFT is held down]
 
 uiWindowSnap	[Window snap]
 
+uiShowTranslationOnlyAsTooltip	[Display by default orginal messages and the translated version in a tooltip]
+

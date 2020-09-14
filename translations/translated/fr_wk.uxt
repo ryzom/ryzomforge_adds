@@ -14602,5 +14602,11 @@ uiWindowSnapInvert	[Snap only when SHIFT is held down]
 
 uiWindowSnap	[Window snap]
 
-uimChangeGroup	[Déplacer vers un groupe d'amis]
+uimChangeGroup	[Déplacer dans un groupe d'amis]
+
+uiPeopleChangeContactGroup	[Nom du groupe d'amis]
+
+uiShowTranslationOnlyAsTooltip	[Afficher les messages originaux, la traduction en info-bulle]
+
+uittShowTranslationOnlyAsTooltip	[Si coché, les messages des joueurs seront affichés dans leur langue originale mais leur traduction ne sera affichée en info-bulle qu'au survol par la souris.]
 

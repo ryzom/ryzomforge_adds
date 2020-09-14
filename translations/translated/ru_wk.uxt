@@ -14585,3 +14585,11 @@ uiWindowSnapInvert	[Snap only when SHIFT is held down]
 
 uiWindowSnap	[Window snap]
 
+uiShowTranslationOnlyAsTooltip	[По умолчанию отображать только оригинальные сообщения, а переведённые - во всплывающей подсказке.]
+
+uimChangeGroup	[Перенести в группу друзей]
+
+uiPeopleChangeContactGroup	[Название группы]
+
+uittShowTranslationOnlyAsTooltip	[Если опция выбрана, сообщения игроков будут отображаться на оригинальном языке, а их перевод - во всплывающий подсказке при наведении на них курсора.]
+
