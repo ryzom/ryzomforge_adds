@@ -6946,3 +6946,6 @@
 -	zo_underwear_pantabottes	Zoraï-Hose	Zoraï-Hose	Zoraï-Hose	Zoraï-Hosen	Zoraï-Hosen	eine	die	eine	die
 -	zo_visage	Zoraï-Maske	Zoraï-Maske	Zoraï-Maske	Zoraï-Masken	Zoraï-Masken	eine	die	eine	die
 -	zo_weapon_leader_mabreka	Mabreka-Streitkolben	Mabreka-Streitkolben	Mabreka-Streitkolben	Mabreka-Streitkolben	Mabreka-Streitkolben	einen	die	ein	der
+-	zig_yubo_forest	Zig Yubo	Zig Yubo	Zig Yubo	Zig Yubo	Zig Yubo		die	ein	das	
+-	zig_yubo_lakes	Zig Yubo	Zig Yubo	Zig Yubo	Zig Yubo	Zig Yubo		die	ein	das	
+-	zig_yubo_white	Zig Yubo	Zig Yubo	Zig Yubo	Zig Yubo	Zig Yubo		die	ein	das	

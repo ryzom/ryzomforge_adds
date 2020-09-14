@@ -6950,3 +6950,6 @@
 -	zo_underwear_pantabottes	Zoraï Pants		the	Zoraï Pants		the	Zoraï Pants
 -	zo_visage	Zoraï Mask	a	the	Zoraï Masks		the	Zoraï Mask
 -	zo_weapon_leader_mabreka	Mabreka's Mace	a	the	Mabreka's Maces		the	
+-	zig_yubo_white	Zig Yubo	a	the	Zig Yubo	the	the	
+-	zig_yubo_lakes	Zig Yubo	a	the	Zig Yubo	the	the	
+-	zig_yubo_forest	Zig Yubo	a	the	Zig Yubo	the	the	
