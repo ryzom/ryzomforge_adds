@@ -6946,3 +6946,10 @@
 -	zo_underwear_pantabottes	Зорайские поножи	Зорайские поножи	Зорайские поножи	Зорайских поножей	Зорайских поножей	Зорайские поножи
 -	zo_visage	Маска Зораи	Масок Зораи	Маска Зораи	Масок Зораи	Маски Зораи	Маска Зораи
 -	zo_weapon_leader_mabreka	Палица Мабреки	Палицы Мабреки		Палиц Мабреки	Палицы Мабреки	Палицу Мабреки
+-	zig_yubo_white	Zig Yubo	Zig Yubo		Zig Yubo	Zig Yubo	Zig Yubo	
+-	zig_yubo_lakes	Zig Yubo	Zig Yubo		Zig Yubo	Zig Yubo	Zig Yubo	
+-	zig_yubo_forest	Zig Yubo	Zig Yubo		Zig Yubo	Zig Yubo	Zig Yubo	
+-	nexus_neck_1	
+-	nexus_neck_2	
+-	nexus_neck_3	
+-	nexus_neck_4	

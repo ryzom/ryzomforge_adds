@@ -6744,6 +6744,9 @@
 -	zh80_terre	Terre Polluée	de la	la	Terres Polluées	des	les	
 -	zh90_bouclier	Bouclier Rayé	un	le	Boucliers Rayés	des	les	
 -	zh100_outils	Outils Perdus	un	l'	Outils Perdus	des	les	
+-	zig_yubo_forest	Zig Yubo	a	the	Zig Yubo	the	the	
+-	zig_yubo_lakes	Zig Yubo	a	the	Zig Yubo	the	the	
+-	zig_yubo_white	Zig Yubo	a	the	Zig Yubo	the	the	
 -	zm50_ecailles	Ecailles de Bawaab Robuste	une	la	Ecailles de Bawaab Robuste	des	les	
 -	zm50_feuilles	Feuilles de Slaveni Robuste	une	la	Feuilles de Slaveni Robuste	des	les	
 -	zm60_artefact	Artéfact Corrompu	un	l'	Artéfacts Corrompus	des	les	

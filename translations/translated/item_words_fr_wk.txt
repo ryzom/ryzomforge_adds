@@ -6950,3 +6950,6 @@
 -	zo_underwear_pantabottes	Pantalon zoraï	un	le	Pantalons Zoraïs	des	les	
 -	zo_visage	Masque zoraï	un	le	Masques zoraïs	des	les	
 -	zo_weapon_leader_mabreka	Massue de Mabreka	une	la	Massues de Mabreka	des	les	
+-	zig_yubo_white	Zig Yubo	un	le	Zig Yubo	des	les	
+-	zig_yubo_lakes	Zig Yubo	un	le	Zig Yubo	des	les	
+-	zig_yubo_forest	Zig Yubo	un	le	Zig Yubo	des	les	
