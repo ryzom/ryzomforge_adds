@@ -80,12 +80,15 @@ function game:updateGLinvB()
 	if(getUI('ui:interface:guild').active)then
 		for v = 0, (getNbGuildMembers()-1) do
 			local invB = getUI('ui:interface:guild:content:tab_guild_info:invite')
-			if(getGuildMemberGrade(v) ~= 'Member')then
-				if(invB.active == false)then
-					invB.active = true
+			if(getPlayerName() == getGuildMemberName(v))then
+				--debugInfo(getGuildMemberName(v))
+				if(getGuildMemberGrade(v) ~= 'Member')then
+					if(invB.active == false)then
+						invB.active = true
+					end
+				else
+					invB.active = false
 				end
-			else
-				invB.active = false
 			end
 		end
 	end
