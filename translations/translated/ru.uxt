@@ -1371,8 +1371,6 @@ iompfTribe	[Только племена]
 
 iompfTryker	[Только трайкеры]
 
-iompfUnknown	[]
-
 iompfZorai	[Только зораи]
 
 ioRefugee	[Переселенец]
@@ -4540,8 +4538,6 @@ uiBGD_InstallFinished	[Завершение установки.\n
 	\n
 	Теперь вы можете играть в Ризом.]
 
-uiBGD_Installing	[]
-
 uiBGD_InvalidCommandLine	[Пожалуйста, используйте менеджер патчей Ризома для того, чтобы исправить ошибки установленной версии игры.]
 
 uiBGD_LaunchError	[Невозможно запустить менеджер патчей Ризома...]
@@ -4694,8 +4690,6 @@ uiBotChatGuildRoleMaster	[GUILD ROLE MASTER]
 
 uiBotChatItem	[Предмет: ]
 
-uiBotChatMissionEnd	[]
-
 uiBotChatMissions	[ЗАДАНИЯ]
 
 uiBotChatNews	[Новости]
@@ -4705,8 +4699,6 @@ uiBotChatNPCTag	[(Предмет NPC)]
 uiBotChatOffer	[ВАШЕ ПРЕДЛОЖЕНИЕ]
 
 uiBotChatPact	[Соглашение: ]
-
-uiBotChatPhrase	[]
 
 uiBotChatPrice	[Цена: ]
 
@@ -5929,15 +5921,7 @@ uiE	[В]
 
 uiEchelon	[Эшелон : ]
 
-uiEcoFy	[]
-
-uiEcoMa	[]
-
 uiEcosystem	[ЭКОСИСТЕМА]
-
-uiEcoTr	[]
-
-uiEcoZo	[]
 
 uiEdit	[Редактировать]
 
@@ -8339,8 +8323,6 @@ uiItemSpecialEffectFlyingTextISE_CRAFT_ADD_LIMIT	[Бонус ко всем ха�
 
 uiItemSpecialEffectFlyingTextISE_CRAFT_ADD_STAT_BONUS	[Бонус к характеристике]
 
-uiItemSpecialEffectFlyingTextISE_FIGHT_ADD_CRITICAL	[]
-
 uiItemSpecialEffectFlyingTextISE_FIGHT_VAMPIRISM	[Похищение жизненной силы: %param]
 
 uiItemSpecialEffectFlyingTextISE_FORAGE_ADD_RM	[Бонус к добыче ресурсов]
@@ -9042,8 +9024,6 @@ uiLocalAlpha	[ИНДИВИДУАЛЬНЫЕ НАСТРОЙКИ]
 
 uiLocationTitle	[КУДА ВЫ ХОТИТЕ ОТПРАВИТЬСЯ?]
 
-uiLocation_	[]
-
 uiLocation_Back	[ИГРАТЬ ПОЗЖЕ]
 
 uiLocation_Infos	[Информация о месте]
@@ -9230,7 +9210,7 @@ uimCall	[ПОДОЗВАТЬ]
 
 uimCareer	[РАБОТА]
 
-uimChangeGroup	[]
+uimChangeGroup	[Перенести в группу друзей]
 
 uimChanSave	[Save]
 
@@ -10364,9 +10344,9 @@ uiNoVersionFound	[Версия не обнаружена]
 
 uiNowDate	[Новая дата :]
 
-uiNpcColor	[NPC]
-
 uiNPCColor	[NPC]
+
+uiNpcColor	[NPC]
 
 uiNPCGiver	[ПОЛУЧЕНО У: ]
 
@@ -10732,7 +10712,7 @@ uiPeopleAdd	[ДОБАВИТЬ]
 
 uiPeopleAddContact	[Добавить в список контактов]
 
-uiPeopleChangeContactGroup	[]
+uiPeopleChangeContactGroup	[Название группы]
 
 uiPet	[Ручное животное]
 
@@ -12233,7 +12213,7 @@ uiShowTargeted	[Показывать выбранную цель]
 
 uiShowTimesInChatCB	[Отображать время сообщений в чате]
 
-uiShowTranslationOnlyAsTooltip	[]
+uiShowTranslationOnlyAsTooltip	[По умолчанию отображать только оригинальные сообщения, а переведённые - во всплывающей подсказке.]
 
 uiShowUnderCursor	[Показывать под курсором]
 
@@ -14248,6 +14228,8 @@ uittShowReticle	[Поставьте галочку для отображения
 
 uittShowTimesInChat	[Пометьте для отображения времени в каждом сообщении в чате.]
 
+uittShowTranslationOnlyAsTooltip	[Если опция выбрана, сообщения игроков будут отображаться на оригинальном языке, а их перевод - во всплывающий подсказке при наведении на них курсора.]
+
 uittSit	[Режим сидения]
 
 uittSourceColor	[Цвет для обозначения месторождений сырья]
@@ -14632,6 +14614,4 @@ _Natae_citizen	[ (Гражданин Нэтей)]
 _Yrkanis_citizen	[ (Гражданин Йрканиса)]
 
 ___faber_skill_sep___	[--------------------------------]
-
-uittShowTranslationOnlyAsTooltip	[]
 

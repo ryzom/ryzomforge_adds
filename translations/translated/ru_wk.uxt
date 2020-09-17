@@ -14110,49 +14110,49 @@ uiPlayerOnline	[&ISE&%s has come online.]
 
 uiPlayerOffline	[&ISE&%s has gone offline.]
 
-uiDynColor0	[Dynamic Channel 0]
+uiDynColor0	[Динамический канал 0]
 
 uiCCDDyn0	['Dynamic channel 0' messages color]
 
 uittChooseDynColor0	[Choose color for messages in dynamic chat channel 0]
 
-uiDynColor1	[Dynamic Channel 1]
+uiDynColor1	[Динамический канал 1]
 
 uiCCDDyn1	['Dynamic channel 1' messages color]
 
 uittChooseDynColor1	[Choose color for messages in dynamic chat channel 1]
 
-uiDynColor2	[Dynamic Channel 2]
+uiDynColor2	[Динамический канал 2]
 
 uiCCDDyn2	['Dynamic channel 2' messages color]
 
 uittChooseDynColor2	[Choose color for messages in dynamic chat channel 2]
 
-uiDynColor3	[Dynamic Channel 3]
+uiDynColor3	[Динамический канал 3]
 
 uiCCDDyn3	['Dynamic channel 3' messages color]
 
 uittChooseDynColor3	[Choose color for messages in dynamic chat channel 3]
 
-uiDynColor4	[Dynamic Channel 4]
+uiDynColor4	[Динамический канал 4]
 
 uiCCDDyn4	['Dynamic channel 4' messages color]
 
 uittChooseDynColor4	[Choose color for messages in dynamic chat channel 4]
 
-uiDynColor5	[Dynamic Channel 5]
+uiDynColor5	[Динамический канал 5]
 
 uiCCDDyn5	['Dynamic channel 5' messages color]
 
 uittChooseDynColor5	[Choose color for messages in dynamic chat channel 5]
 
-uiDynColor6	[Dynamic Channel 6]
+uiDynColor6	[Динамический канал 6]
 
 uiCCDDyn6	['Dynamic channel 6' messages color]
 
 uittChooseDynColor6	[Choose color for messages in dynamic chat channel 6]
 
-uiDynColor7	[Dynamic Channel 7]
+uiDynColor7	[Динамический канал 7]
 
 uiCCDDyn7	['Dynamic channel 7' messages color]
 
@@ -14449,9 +14449,9 @@ uimIcompact	[Toggle compact mode]
 
 uimChanSave	[Save]
 
-uiChanSaveCB	[Save Dynamic Channels]
+uiChanSaveCB	[Сохранить динамические каналы]
 
-uiChanAutoCB	[Restore Dynamic Channels]
+uiChanAutoCB	[Восстановить динамические каналы]
 
 uittChanSave	[If checked, dynamic chat channels are stored at disconnection or character selection.\n
 	You can also use the command @{6F6F}/saveChannel@{FFFF} to export channels manually.]

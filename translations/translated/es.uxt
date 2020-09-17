@@ -1372,8 +1372,6 @@ iompfTribe	[Tribu sólo]
 
 iompfTryker	[Tryker sólo]
 
-iompfUnknown	[]
-
 iompfZorai	[Zoraï sólo]
 
 ioRefugee	[Refugiado]
@@ -4540,8 +4538,6 @@ uiBGD_InstallFinished	[Instalación terminada.\n
 	\n
 	Ahora puedes jugar a Ryzom.]
 
-uiBGD_Installing	[]
-
 uiBGD_InvalidCommandLine	[Por favor usar el Descargador de Ryzom para reparar un instalación de Ryzom rota.]
 
 uiBGD_LaunchError	[Falló al ejecutar el Descargador de Ryzom...]
@@ -4694,8 +4690,6 @@ uiBotChatGuildRoleMaster	[ROL MASTER DEL GREMIO]
 
 uiBotChatItem	[Objeto: ]
 
-uiBotChatMissionEnd	[]
-
 uiBotChatMissions	[MISIONES]
 
 uiBotChatNews	[Noticias]
@@ -4705,8 +4699,6 @@ uiBotChatNPCTag	[(Objeto PNJ)]
 uiBotChatOffer	[HAZ TU OFERTA]
 
 uiBotChatPact	[Pacto: ]
-
-uiBotChatPhrase	[]
 
 uiBotChatPrice	[Precio: ]
 
@@ -5929,15 +5921,7 @@ uiE	[E]
 
 uiEchelon	[Grado : ]
 
-uiEcoFy	[]
-
-uiEcoMa	[]
-
 uiEcosystem	[ECOSISTEMA]
-
-uiEcoTr	[]
-
-uiEcoZo	[]
 
 uiEdit	[Editar]
 
@@ -8341,8 +8325,6 @@ uiItemSpecialEffectFlyingTextISE_CRAFT_ADD_LIMIT	[Todos los Bonus de Estadístic
 
 uiItemSpecialEffectFlyingTextISE_CRAFT_ADD_STAT_BONUS	[Bonus de Estadísticas]
 
-uiItemSpecialEffectFlyingTextISE_FIGHT_ADD_CRITICAL	[]
-
 uiItemSpecialEffectFlyingTextISE_FIGHT_VAMPIRISM	[Ladrón de Vida: %param]
 
 uiItemSpecialEffectFlyingTextISE_FORAGE_ADD_RM	[Bonus de Recolección]
@@ -9043,8 +9025,6 @@ uiLoadingString53	[Repostando las puertas de las ciudades Fyros...]
 uiLocalAlpha	[AJUSTES LOCALES]
 
 uiLocationTitle	[¿A DONDE QUIERES IR?]
-
-uiLocation_	[]
 
 uiLocation_Back	[JUGAR MÁS TARDE]
 
@@ -12461,13 +12441,13 @@ uitabInvPAMount2	[MONTURA 3]
 
 uitabInvPAMount3	[MONTURA 4]
 
-uitabInvPAPacker0	[MONTURA DE CARGA 1]
+uitabInvPAPacker0	[MONTURA CARGA 1]
 
-uitabInvPAPacker1	[MONTURA DE CARGA 2]
+uitabInvPAPacker1	[MONTURA CARGA 2]
 
-uitabInvPAPacker2	[MONTURA DE CARGA 3]
+uitabInvPAPacker2	[MONTURA  CARGA 3]
 
-uitabInvPAPacker3	[MONTURA DE CARGA 4]
+uitabInvPAPacker3	[MONTURA  CARGA 4]
 
 uitabInvPAZig1	[ZIG 1]
 
@@ -14638,6 +14618,4 @@ _Natae_citizen	[ (Ciudadano de Natae)]
 _Yrkanis_citizen	[ (Ciudadano de Yrkanis)]
 
 ___faber_skill_sep___	[--------------------------------]
-
-uittShowTranslationOnlyAsTooltip	[]
 

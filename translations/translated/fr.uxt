@@ -1371,8 +1371,6 @@ iompfTribe	[Tribu uniquement]
 
 iompfTryker	[Tryker uniquement]
 
-iompfUnknown	[]
-
 iompfZorai	[Zoraï uniquement]
 
 ioRefugee	[Réfugié]
@@ -4540,8 +4538,6 @@ uiBGD_InstallFinished	[Fin de l'installation.\n
 	\n
 	Vous pouvez maintenant jouer à Ryzom.]
 
-uiBGD_Installing	[]
-
 uiBGD_InvalidCommandLine	[Utilisez s'il vous plaît Ryzom Downloader pour réparer une installation défectueuse de Ryzom.]
 
 uiBGD_LaunchError	[Échec lors du lancement de Ryzom Downloader...]
@@ -4694,8 +4690,6 @@ uiBotChatGuildRoleMaster	[Maître de rôle de la guilde]
 
 uiBotChatItem	[Objet : ]
 
-uiBotChatMissionEnd	[]
-
 uiBotChatMissions	[Missions]
 
 uiBotChatNews	[Nouvelles]
@@ -4705,8 +4699,6 @@ uiBotChatNPCTag	[(Objet PNJ)]
 uiBotChatOffer	[Faites votre offre.]
 
 uiBotChatPact	[Pacte : ]
-
-uiBotChatPhrase	[]
 
 uiBotChatPrice	[Prix : ]
 
@@ -5930,15 +5922,7 @@ uiE	[E]
 
 uiEchelon	[Échelon : ]
 
-uiEcoFy	[]
-
-uiEcoMa	[]
-
 uiEcosystem	[ÉCOSYSTÈME]
-
-uiEcoTr	[]
-
-uiEcoZo	[]
 
 uiEdit	[Éditer]
 
@@ -8335,8 +8319,6 @@ uiItemSpecialEffectFlyingTextISE_CRAFT_ADD_LIMIT	[Limites étendues]
 
 uiItemSpecialEffectFlyingTextISE_CRAFT_ADD_STAT_BONUS	[Bonus de stat]
 
-uiItemSpecialEffectFlyingTextISE_FIGHT_ADD_CRITICAL	[]
-
 uiItemSpecialEffectFlyingTextISE_FIGHT_VAMPIRISM	[Vol de vie : %param]
 
 uiItemSpecialEffectFlyingTextISE_FORAGE_ADD_RM	[Bonus de récolte]
@@ -9038,8 +9020,6 @@ uiLocalAlpha	[RÉGLAGES LOCAUX]
 
 uiLocationTitle	[Où souhaitez-vous vous rendre ?]
 
-uiLocation_	[]
-
 uiLocation_Back	[Jouer plus tard]
 
 uiLocation_Infos	[Infos destination]
@@ -9226,7 +9206,7 @@ uimCall	[Appeler]
 
 uimCareer	[Carrière]
 
-uimChangeGroup	[]
+uimChangeGroup	[Déplacer dans un groupe d'amis]
 
 uimChanSave	[Sauvegarder]
 
@@ -10360,9 +10340,9 @@ uiNoVersionFound	[Pas de version trouvée]
 
 uiNowDate	[La date est :]
 
-uiNpcColor	[PNJ]
-
 uiNPCColor	[PNJ]
+
+uiNpcColor	[PNJ]
 
 uiNPCGiver	[Initiateur : ]
 
@@ -10727,7 +10707,7 @@ uiPeopleAdd	[Ajouter]
 
 uiPeopleAddContact	[Ajouter un contact à la liste]
 
-uiPeopleChangeContactGroup	[]
+uiPeopleChangeContactGroup	[Nom du groupe d'amis]
 
 uiPet	[Animal domestique]
 
@@ -12029,9 +12009,9 @@ uiSaveMovie	[Sauvegarder le film]
 
 uiSaveUI	[Sauvegarder]
 
-uiSAY	[Dire]
-
 uiSay	[Dire]
+
+uiSAY	[Dire]
 
 uiSayColor	[Dire]
 
@@ -12195,9 +12175,9 @@ uiShortcutNumber	[Numéro du raccourci]
 
 uiShortCutTT	[Glissez ici un sort de combat ou de magie]
 
-uiShout	[Crier]
-
 uiSHOUT	[Crier]
+
+uiShout	[Crier]
 
 uiShoutColor	[Crier]
 
@@ -12228,6 +12208,8 @@ uiShowReticle	[Afficher le réticule autour de la cible]
 uiShowTargeted	[Affichage de la cible]
 
 uiShowTimesInChatCB	[Afficher l'heure dans les fenêtres de discussion]
+
+uiShowTranslationOnlyAsTooltip	[Messages originaux affichés par défaut et traductions en info-bulles]
 
 uiShowUnderCursor	[Afficher sous le curseur]
 
@@ -14241,6 +14223,8 @@ uittShowOnlineOfflineNotifications	[Afficher les notifications de connexions / d
 uittShowReticle	[Si coché, affiche le réticule autour de la cible quand vous mettez la souris sur la cible.]
 
 uittShowTimesInChat	[Si coché, affiche l'heure dans les fenêtres de discussion.]
+
+uittShowTranslationOnlyAsTooltip	[Si coché, les messages des joueurs seront affichés dans leur langue originale mais leur traduction ne sera affichée en info-bulle qu'au survol par la souris.]
 
 uittSit	[S'asseoir]
 

@@ -1371,8 +1371,6 @@ iompfTribe	[Nur Stämme]
 
 iompfTryker	[Nur Tryker]
 
-iompfUnknown	[]
-
 iompfZorai	[Nur Zoraï]
 
 ioRefugee	[Flüchtling]
@@ -4538,8 +4536,6 @@ uiBGD_InstallFinished	[Installation abgeschlossen.\n
 	\n
 	Du kannst nun Ryzom spielen.]
 
-uiBGD_Installing	[]
-
 uiBGD_InvalidCommandLine	[Bitte verwende den Ryzom-Downloader, um deine Installation zu reparieren.]
 
 uiBGD_LaunchError	[Fehler beim Starten des Ryzom-Downloaders...]
@@ -4692,8 +4688,6 @@ uiBotChatGuildRoleMaster	[GILDEN-LEHRMEISTER]
 
 uiBotChatItem	[Gegenstand: ]
 
-uiBotChatMissionEnd	[]
-
 uiBotChatMissions	[Missionen]
 
 uiBotChatNews	[Neuigkeiten]
@@ -4703,8 +4697,6 @@ uiBotChatNPCTag	[(NPC-Gegenstand)]
 uiBotChatOffer	[MACH DEIN ANGEBOT]
 
 uiBotChatPact	[Pakt: ]
-
-uiBotChatPhrase	[]
 
 uiBotChatPrice	[Preis: ]
 
@@ -5928,15 +5920,7 @@ uiE	[O]
 
 uiEchelon	[Stufe: ]
 
-uiEcoFy	[]
-
-uiEcoMa	[]
-
 uiEcosystem	[ÖKOSYSTEM]
-
-uiEcoTr	[]
-
-uiEcoZo	[]
 
 uiEdit	[Editieren]
 
@@ -8328,8 +8312,6 @@ uiItemSpecialEffectFlyingTextISE_CRAFT_ADD_LIMIT	[Maximalwerte erhöht]
 
 uiItemSpecialEffectFlyingTextISE_CRAFT_ADD_STAT_BONUS	[Boosterhöhung]
 
-uiItemSpecialEffectFlyingTextISE_FIGHT_ADD_CRITICAL	[]
-
 uiItemSpecialEffectFlyingTextISE_FIGHT_VAMPIRISM	[Lebensraub: %param]
 
 uiItemSpecialEffectFlyingTextISE_FORAGE_ADD_RM	[Abbaubonus]
@@ -9030,8 +9012,6 @@ uiLoadingString53	[Bothaya-Bäume werden nacheinander mit Fackeln in Brand geset
 uiLocalAlpha	[LOKALE EINSTELLUNGEN]
 
 uiLocationTitle	[WO MÖCHTEST DU HIN?]
-
-uiLocation_	[]
 
 uiLocation_Back	[SPÄTER SPIELEN]
 
@@ -14226,13 +14206,15 @@ uittShowClock12h	[Wenn aktiviert, wird die Uhrzeit am Kompass und zu den Chat-Na
 
 uittShowDynChannelNameInChat	[Wenn aktiviert, wird der Name des jeweiligen Chat-Kanals vor einer Mitteilung angezeigt, sofern dieser Kanal für den Tab "User" aktiviert wurde.]
 
-uittShowIconBuffs	[Zeigt Gegenstandswerte, wie die Haltbarkeit zum Beispiel, \]
+uittShowIconBuffs	[Zeigt Gegenstandswerte, wie die Haltbarkeit zum Beispiel]
 
 uittShowOnlineOfflineNotifications	[Zeige eine Benachrichtigung, wenn Gildenmitglieder oder Freunde online oder offline gehen.]
 
 uittShowReticle	[Wenn aktiviert, wird eine Zielmarkierung bei Mouse-Over und einer Zielauswahl angezeigt.]
 
 uittShowTimesInChat	[Wenn aktiviert, wird die Zeit der Eingabe vor allen Chatnachrichten angezeigt.]
+
+uittShowTranslationOnlyAsTooltip	[]
 
 uittSit	[Sitzmodus]
 
@@ -14619,6 +14601,4 @@ _Natae_citizen	[(Einwohner von Natae)]
 _Yrkanis_citizen	[(Einwohner von Yrkanis)]
 
 ___faber_skill_sep___	[--------------------------------]
-
-uittShowTranslationOnlyAsTooltip	[]
 

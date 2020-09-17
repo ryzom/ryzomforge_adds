@@ -1371,8 +1371,6 @@ iompfTribe	[Tribe only]
 
 iompfTryker	[Tryker only]
 
-iompfUnknown	[]
-
 iompfZorai	[Zoraï only]
 
 ioRefugee	[Refugee]
@@ -4541,8 +4539,6 @@ uiBGD_InstallFinished	[Installation finished.\n
 	\n
 	You can now play to Ryzom.]
 
-uiBGD_Installing	[]
-
 uiBGD_InvalidCommandLine	[Please use Ryzom Downloader to repair a broken Ryzom installation.]
 
 uiBGD_LaunchError	[Failed to launch the Ryzom Downloader...]
@@ -4695,8 +4691,6 @@ uiBotChatGuildRoleMaster	[GUILD ROLE MASTER]
 
 uiBotChatItem	[Item: ]
 
-uiBotChatMissionEnd	[]
-
 uiBotChatMissions	[MISSIONS]
 
 uiBotChatNews	[News]
@@ -4706,8 +4700,6 @@ uiBotChatNPCTag	[(NPC item)]
 uiBotChatOffer	[MAKE YOUR OFFER]
 
 uiBotChatPact	[Pact: ]
-
-uiBotChatPhrase	[]
 
 uiBotChatPrice	[Price: ]
 
@@ -5930,15 +5922,7 @@ uiE	[E]
 
 uiEchelon	[Grade: ]
 
-uiEcoFy	[]
-
-uiEcoMa	[]
-
 uiEcosystem	[ECOSYSTEM]
-
-uiEcoTr	[]
-
-uiEcoZo	[]
 
 uiEdit	[Edit]
 
@@ -8341,8 +8325,6 @@ uiItemSpecialEffectFlyingTextISE_CRAFT_ADD_LIMIT	[All Stats Bonus]
 
 uiItemSpecialEffectFlyingTextISE_CRAFT_ADD_STAT_BONUS	[Stat Bonus]
 
-uiItemSpecialEffectFlyingTextISE_FIGHT_ADD_CRITICAL	[]
-
 uiItemSpecialEffectFlyingTextISE_FIGHT_VAMPIRISM	[Life Stealer: %param]
 
 uiItemSpecialEffectFlyingTextISE_FORAGE_ADD_RM	[Forage Bonus]
@@ -9044,8 +9026,6 @@ uiLocalAlpha	[LOCAL SETTINGS]
 
 uiLocationTitle	[WHERE DO YOU WANT TO GO?]
 
-uiLocation_	[]
-
 uiLocation_Back	[PLAY LATER]
 
 uiLocation_Infos	[Location Info]
@@ -9232,7 +9212,7 @@ uimCall	[CALL]
 
 uimCareer	[CAREER]
 
-uimChangeGroup	[]
+uimChangeGroup	[Move to friends group]
 
 uimChanSave	[Save]
 
@@ -10735,7 +10715,7 @@ uiPeopleAdd	[ADD]
 
 uiPeopleAddContact	[Add contact]
 
-uiPeopleChangeContactGroup	[]
+uiPeopleChangeContactGroup	[Name of group]
 
 uiPet	[Pet]
 
@@ -12237,7 +12217,7 @@ uiShowTargeted	[Show Targeted]
 
 uiShowTimesInChatCB	[Show Timestamps in Chat]
 
-uiShowTranslationOnlyAsTooltip	[]
+uiShowTranslationOnlyAsTooltip	[Display by default original messages and the translated version in a tooltip.]
 
 uiShowUnderCursor	[Show Under Cursor]
 
@@ -14255,6 +14235,8 @@ uittShowReticle	[If checked, show a target reticle on mouseover and selection of
 
 uittShowTimesInChat	[If checked, displays the current time before all chat messages.]
 
+uittShowTranslationOnlyAsTooltip	[If checked, messages will be displayed in their original language but their translation will only be displayed as a tooltip when hovering with the mouse.]
+
 uittSit	[Sit Mode]
 
 uittSourceColor	[Color used to display your raw material sources]
@@ -14638,6 +14620,4 @@ _Natae_citizen	[ (Natae citizen)]
 _Yrkanis_citizen	[ (Yrkanis citizen)]
 
 ___faber_skill_sep___	[--------------------------------]
-
-uittShowTranslationOnlyAsTooltip	[]
 

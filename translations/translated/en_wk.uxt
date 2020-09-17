@@ -14597,5 +14597,7 @@ uiShowTranslationOnlyAsTooltip	[Display by default original messages and the tra
 
 uimChangeGroup	[Move to friends group]
 
-uiPeopleChangeContactGroup	[Name of group]
+uiPeopleChangeContactGroup	[Name of the friends group]
+
+uittShowTranslationOnlyAsTooltip	[If checked, messages will be displayed in their original language but their translation will only be displayed as a tooltip when hovering with the mouse.]
 

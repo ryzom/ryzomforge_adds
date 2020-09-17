@@ -1371,8 +1371,6 @@ iompfTribe	[Tribe only]
 
 iompfTryker	[Tryker only]
 
-iompfUnknown	[]
-
 iompfZorai	[Zorai only]
 
 ioRefugee	[Refugee]
@@ -4325,8 +4323,6 @@ uiBGD_InstallFinished	[Installation finished.\n
 	\n
 	You can now play to Ryzom.]
 
-uiBGD_Installing	[]
-
 uiBGD_InvalidCommandLine	[Please use Ryzom Downloader to repair a broken Ryzom installation.]
 
 uiBGD_LaunchError	[Failed to launch the Ryzom Downloader...]
@@ -4479,8 +4475,6 @@ uiBotChatGuildRoleMaster	[GUILD ROLE MASTER]
 
 uiBotChatItem	[Item: ]
 
-uiBotChatMissionEnd	[]
-
 uiBotChatMissions	[MISSIONS]
 
 uiBotChatNews	[News]
@@ -4490,8 +4484,6 @@ uiBotChatNPCTag	[(NPC item)]
 uiBotChatOffer	[MAKE YOUR OFFER]
 
 uiBotChatPact	[Pact: ]
-
-uiBotChatPhrase	[]
 
 uiBotChatPrice	[Price: ]
 
@@ -5715,15 +5707,7 @@ uiE	[E]
 
 uiEchelon	[Echelon : ]
 
-uiEcoFy	[]
-
-uiEcoMa	[]
-
 uiEcosystem	[ECOSYSTEM]
-
-uiEcoTr	[]
-
-uiEcoZo	[]
 
 uiEdit	[Edit]
 
@@ -8127,8 +8111,6 @@ uiItemSpecialEffectFlyingTextISE_CRAFT_ADD_LIMIT	[Limites étendues]
 
 uiItemSpecialEffectFlyingTextISE_CRAFT_ADD_STAT_BONUS	[Bonus de stat]
 
-uiItemSpecialEffectFlyingTextISE_FIGHT_ADD_CRITICAL	[]
-
 uiItemSpecialEffectFlyingTextISE_FIGHT_VAMPIRISM	[Vol de vie : %param]
 
 uiItemSpecialEffectFlyingTextISE_FORAGE_ADD_RM	[Bonus de récolte]
@@ -8829,8 +8811,6 @@ uiLoadingString53	[Blessed paradise...]
 uiLocalAlpha	[LOCAL SETTINGS]
 
 uiLocationTitle	[WHERE DO YOU WANT TO GO ?]
-
-uiLocation_	[]
 
 uiLocation_Back	[PLAY LATER]
 
@@ -10152,9 +10132,9 @@ uiNoVersionFound	[No Version Found]
 
 uiNowDate	[Now the date is :]
 
-uiNPCColor	[NPC]
-
 uiNpcColor	[NPC]
+
+uiNPCColor	[NPC]
 
 uiNPCGiver	[GIVER: ]
 
@@ -12023,7 +12003,7 @@ uiShowTargeted	[Show Targeted]
 
 uiShowTimesInChatCB	[Show timestamps in chat]
 
-uiShowTranslationOnlyAsTooltip	[Display orginal messages and translated in tooltip]
+uiShowTranslationOnlyAsTooltip	[Display orginal messages  by default, the translated version in a tooltip]
 
 uiShowUnderCursor	[Show Under Cursor]
 

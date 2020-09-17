@@ -148,8 +148,8 @@ FireMaster	[Meister des Feuers]
 
 LakeMaster	[Meister der Seen]
 
-agp_trouble	[Dem Treiber war es nicht möglich, AGP-Speicher zu belegen, was zu Funktions- und Anzeigeproblemen führen kann.\n
-	Möchtest du mehr Details erfahren?]
+agp_trouble	[Dem Treiber war es nicht möglich AGP-Speicher zu belegen, was zu Funktions- und Anzeigeproblemen führen kann.\n
+	 Möchtest du mehr Details erfahren?]
 
 can_t_load_the_display_driver	[Anzeigetreiber kann nicht geladen werden]
 
@@ -14247,7 +14247,7 @@ uigcFxAnisotropicFilterNone	[Keiner]
 
 uiShowIconBuffs	[Zeige Gegenstandswerte und Verzauberung im Icon an]
 
-uittShowIconBuffs	[Zeigt Gegenstandswerte, wie die Haltbarkeit zum Beispiel, \]
+uittShowIconBuffs	[Zeigt Gegenstandswerte, wie die Haltbarkeit zum Beispiel]
 
 uiShowClock12h	[Verwende 12-Stunden-Uhrzeit-Anzeige.]
 
@@ -14592,5 +14592,13 @@ uiWindowSnapInvert	[Snap only when SHIFT is held down]
 
 uiWindowSnap	[Window snap]
 
-uiShowTranslationOnlyAsTooltip	[Display by default orginal messages and the translated version in a tooltip]
+uiShowTranslationOnlyAsTooltip	[Zeige originale Nachrichten an, Übersetzung im Tooltip]
+
+uimChangeGroup	[Zu befreundeter Gruppe wechseln]
+
+uiPeopleChangeContactGroup	[Name der befreundeten Gruppe]
+
+uittShowTranslationOnlyAsTooltip	[Setze ein Häkchen, um Nachrichten generell im Original anzuzeigen. Übersetzungen werden bei Mouse Over in einem Tooltip angezeigt.]
+
+uiBGD_Download	[Herunterladen]
 

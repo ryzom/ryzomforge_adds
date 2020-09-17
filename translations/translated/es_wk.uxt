@@ -222,7 +222,7 @@ ifCORPSE	[Cádaver]
 
 ifCARRION	[Carroña]
 
-ifBAG	[Bolsa]
+ifBAG	[Mochila]
 
 ifSTACK	[Montón]
 
@@ -2663,7 +2663,7 @@ uiTIWaitQuartering	[Descuartizando, espere...]
 
 uiTIWaitForaging	[Progreso de Recolección...]
 
-uiTIWaitBagFull	[Bolsa llena, espere...]
+uiTIWaitBagFull	[Mochila llena, espere...]
 
 uiTIWaitCraft	[Fabricando, espere...]
 
@@ -2679,7 +2679,7 @@ uiTIQuartering	[Materiales Descuartizados]
 
 uiTIForageResult	[Materiales Recolectados]
 
-uiTIBagFull	[Bolsa Llena]
+uiTIBagFull	[Mochila Llena]
 
 uiTICraft	[Objetos Fabricados]
 
@@ -3674,7 +3674,7 @@ uittEmote	[Clic para seleccionar y realizar un emoticono]
 
 uittTell	[Decir a amigo]
 
-uiTempMemory	[BOLSA TEMPORAL]
+uiTempMemory	[MOCHILA TEMPORAL]
 
 uittTakeAll	[Coger Todo]
 
@@ -3706,31 +3706,31 @@ uiTS_Valids	[Jugadores que validan el intercambio]
 
 uitabInvEquip	[EQUIPO]
 
-uitabInvBag	[BOLSA]
+uitabInvBag	[MOCHILA]
 
 uitabInvSteed	[CORCEL]
 
 uitabInvPAMount0	[MONTURA 1]
 
-uitabInvPAPacker0	[MONTURA DE CARGA 1]
+uitabInvPAPacker0	[MONTURA CARGA 1]
 
 uitabInvPADemon0	[DEMONIO 1]
 
 uitabInvPAMount1	[MONTURA 2]
 
-uitabInvPAPacker1	[MONTURA DE CARGA 2]
+uitabInvPAPacker1	[MONTURA CARGA 2]
 
 uitabInvPADemon1	[DEMONIO 2]
 
 uitabInvPAMount2	[MONTURA 3]
 
-uitabInvPAPacker2	[MONTURA DE CARGA 3]
+uitabInvPAPacker2	[MONTURA  CARGA 3]
 
 uitabInvPADemon2	[DEMONIO 3]
 
 uitabInvPAMount3	[MONTURA 4]
 
-uitabInvPAPacker3	[MONTURA DE CARGA 4]
+uitabInvPAPacker3	[MONTURA  CARGA 4]
 
 uitabInvPADemon3	[DEMONIO 4]
 
@@ -4380,17 +4380,17 @@ uiInvEquipTitle	[EQUIPO]
 
 uiMoneyTitle	[DAPPERS]
 
-uiBagTitle	[BOLSA]
+uiBagTitle	[MOCHILA]
 
-uiBagsTitle	[BOLSAS]
+uiBagsTitle	[MOCHILAS]
 
-uiBagTitle1	[BOLSA 1]
+uiBagTitle1	[Mochila 1]
 
-uiBagTitle2	[BOLSA 2]
+uiBagTitle2	[Mochila 2]
 
-uiBagTitle3	[BOLSA 3]
+uiBagTitle3	[Mochila 3]
 
-uiBagTitle4	[BOLSA 4]
+uiBagTitle4	[Mochila 4]
 
 uiKitTitle	[KIT]
 
@@ -4585,7 +4585,7 @@ uimwInventory	[INVENTARIO]
 
 uimwMoney	[DAPPERS]
 
-uimwBags	[BOLSAS]
+uimwBags	[MOCHILAS]
 
 uimwArmor	[ARMADURA]
 
@@ -4693,7 +4693,7 @@ uimQuantityDrop	[CANTIDAD A SOLTAR]
 
 uimQuantityDestroy	[CANTIDAD A DESTRUIR]
 
-uimMtBag	[BOLSA]
+uimMtBag	[MOCHILA]
 
 uimMtSheath	[CAPA]
 
@@ -6317,7 +6317,7 @@ msgCantBuild	[&CHK&No puedes construir el objeto.]
 
 msgCantUseBuiltItem	[&CHK&No puedes utilizar el objeto construído.]
 
-msgCantPutItemInBag	[&CHK&No puedes colocar el objeto en la bolsa. Tu bolsa está llena.]
+msgCantPutItemInBag	[&CHK&No puedes colocar el objeto en la mochila. Tu mochila está llena.]
 
 msgCantFightSwim	[&CHK&No puedes entablar combate mientras estás en el agua.]
 
@@ -6729,15 +6729,15 @@ uiWorkshop	[ACCIONES E INVENTARIO]
 
 uiMoney	[Dappers]
 
-uiBags	[Bolsas]
+uiBags	[Mochilas]
 
-uiBag1	[Bolsa 1]
+uiBag1	[Mochila 1]
 
-uiBag2	[Bolsa 2]
+uiBag2	[Mochila 2]
 
-uiBag3	[Bolsa 3]
+uiBag3	[Mochila 3]
 
-uiBag4	[Bolsa 4]
+uiBag4	[Mochila 4]
 
 uiKit	[Kit]
 
@@ -7495,7 +7495,7 @@ uiTipsEnd	[Presiona las teclas Arriba o Abajo para el consejo siguiente o anteri
 uiTipsTeleport	[Cargando continente %s, día %d, hora %d. La estación es %s y el clima es %s.]
 
 uiTips0	[En vez de arrastrar y soltar tus objetos en una Armadura/Equipo o Ranura de Joyas,\n
-	puedes directamente hacer un clic izquierdo en esas ranuras para seleccionar el objeto en tu bolsa.]
+	puedes directamente hacer un clic izquierdo en esas ranuras para seleccionar el objeto en tu mochila.]
 
 uiTips1	[Para aprender a usar el juego haz clic en el botón '?' y selecciona AYUDA]
 
@@ -10345,7 +10345,7 @@ uiQConfirmFreeAnimal	[¿Deseas realmente liberar a este animal?]
 
 uiQConfirmFreeAllAnimal	[¿Deseas realmente liberar a todos tus animales?]
 
-uitabBag	[Bolsa]
+uitabBag	[Mochila]
 
 uitabPacker0	[Cargador 1]
 
@@ -10926,7 +10926,7 @@ uiCaracMisc	[MISCELÁNEA]
 
 uiTotalMalus	[Malus Total ]
 
-uiBagBulk	[Volumen de la Bolsa ]
+uiBagBulk	[Volumen de la Mochila]
 
 uiWeightSpeedFactor	[Factor de Velocidad]
 
@@ -12706,7 +12706,7 @@ uittPhraseXPMalus	[@{6F6F}Pena de Muerte\n
 	@{FFFF}Cuando mueres, esta pena aumenta.\n
 	Cualquier EXP ganada será utilizada para reducir la pena.]
 
-uittInventoryWeight	[Peso @{6F6F}Total @{FFFF}de la bolsa]
+uittInventoryWeight	[Peso @{6F6F}Total @{FFFF}de la mochila]
 
 uittFriendsOnline	[Conectado en el mismo Contienente o Escenario del Anillo]
 
@@ -14409,9 +14409,9 @@ uiPATitleMount7	[Zig 3]
 uittInBag	[El animal está en tu saco.\n
 	@{6F6F}Hacer clic derecho @{FFFF}para dar una orden.]
 
-uimEnterBag	[Entrar en la bolsa]
+uimEnterBag	[Entrar en la Mochila]
 
-uimLeaveBag	[Salir de la bolsa]
+uimLeaveBag	[Salir de la Mochila]
 
 msgRollDiceLocal	[&SYS&@{FF1F}Tiraste de la %roll en un empate entre un %min y un %max.]
 
