@@ -1,4 +1,4 @@
-*HASH_VALUE	item ID	name	p	description	somgen	twogen	onegen
+﻿*HASH_VALUE	creature ID	name	p	creagen	screagen
 -	caaga1	Мерзкая бальдуза	Мерзкие бальдузы	Мерзких бальдуз	Мерзкую бальдузу
 -	caaga2	Больная бальдуза	Больные бальдузы	Больных бальдуз	Больную бальдузу
 -	caaga3	Прокаженная бальдуза	Прокаженные бальдузы	Прокаженных бальдуз	Прокаженную бальдузу

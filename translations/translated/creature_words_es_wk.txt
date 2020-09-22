@@ -1,4 +1,4 @@
-*HASH_VALUE	item ID	name	ia	da	p	pia	pda	description
+﻿*HASH_VALUE	creature ID	name	ia	da	p	pia	pda
 -	caaga1	Baldusa Impura	una	la	Baldusas Impuras		las
 -	caaga2	Baldusa Arruinada	una	la	Baldusas Arruinadas		las
 -	caaga3	Baldusa Contaminada	una	la	Baldusas Contaminadas		las

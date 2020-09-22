@@ -2383,7 +2383,7 @@ uiOutpostOwner	[Propietario: ]
 
 uittOutpostOwner	[Gremio Proprietario del Puesto de Avanzada. ]
 
-uiOutpostTribe	[El Puesto de Avanzada es propiedad de una Tribu Merodeadora.]
+uiOutpostTribe	[El Puesto de Avanzada es propiedad de una Tribu Marauder.]
 
 uiOutpostAttacker	[Atacante: ]
 
@@ -2599,7 +2599,7 @@ uiOutpostJoinPVPAttHeader	[Atacante: ]
 
 uiOutpostJoinPVPDefHeader	[Defensor: ]
 
-uiOutpostJoinPVPDefMarauder	[Tribu Merodeadora]
+uiOutpostJoinPVPDefMarauder	[Tribu Marauder]
 
 uiOutpostJoinPVPTimer	[@{FFFA}Serás automáticamente declarado neutral en @{FFFF}%time@{FFFA} segundos.]
 
@@ -9937,7 +9937,7 @@ mpfam813	[TODO : carapace la reine]
 
 mpfam814	[TODO : peau épaisse de la reine]
 
-mpfam815	[Cristal Merodeador]
+mpfam815	[Cristal de Marauders]
 
 mpfam816	[Cristal de Lixie]
 
@@ -9945,7 +9945,7 @@ mpfam817	[Cristal de Sirgio]
 
 mpfam818	[Cristal de Pei]
 
-mpfam819	[Cristal Merodeador]
+mpfam819	[Cristal de Marauders]
 
 mpgroup0	[Indefinido]
 
@@ -11385,7 +11385,7 @@ gn_bandit_the_abyss_of_ichor_2	[Asesinos Icóricos]
 
 gn_bandit_the_abyss_of_ichor_3	[Centinelas de la Savia]
 
-gn_bandit_the_abyss_of_ichor_4	[Merodeadores]
+gn_bandit_the_abyss_of_ichor_4	[Marauders]
 
 gn_bandit_the_elusive_forest_1	[Fien de Lino]
 
@@ -14200,7 +14200,7 @@ uiPvpTotal	[Total]
 
 uiOrganization	[ORGANIZACIÓN]
 
-uiOrganization_5	[Merodeadores]
+uiOrganization_5	[Marauders]
 
 uiOrganization_7	[Ranger]
 
@@ -14276,7 +14276,7 @@ uiCP_Name_Generator	[Generador de Nombres]
 
 uiCP_Name_Generate	[Generar]
 
-uiCP_Maraudeur	[Merodeador]
+uiCP_Maraudeur	[Marauder]
 
 uiCP_Name_Policy	[Política de nombramiento]
 
@@ -14593,5 +14593,11 @@ uiWindowSnapInvert	[Snap only when SHIFT is held down]
 
 uiWindowSnap	[Window snap]
 
-uiShowTranslationOnlyAsTooltip	[Display by default orginal messages and the translated version in a tooltip]
+uiPeopleChangeContactGroup	[Nombre del grupo]
+
+uiShowTranslationOnlyAsTooltip	[Mostrar los mensajes originales por defecto, la versión traducida en un tooltip]
+
+uittShowTranslationOnlyAsTooltip	[Si se marca, los mensajes se mostrarán en su idioma original, pero su traducción sólo se mostrará como una herramienta de ayuda al pasar el ratón por encima.]
+
+uimChangeGroup	[Mover a un grupo de amigos]
 

@@ -9212,7 +9212,7 @@ uimCall	[LLAMAR]
 
 uimCareer	[CARRERA]
 
-uimChangeGroup	[]
+uimChangeGroup	[Mover a un grupo de amigos]
 
 uimChanSave	[Guardar]
 
@@ -10715,7 +10715,7 @@ uiPeopleAdd	[AGREGAR]
 
 uiPeopleAddContact	[Añadir contacto]
 
-uiPeopleChangeContactGroup	[]
+uiPeopleChangeContactGroup	[Nombre del grupo]
 
 uiPet	[Mascota]
 
@@ -12183,9 +12183,9 @@ uiShortcutNumber	[Número de Acceso Directo]
 
 uiShortCutTT	[Arrastrar hechizo de combate o de magia aquí]
 
-uiShout	[GRITAR]
-
 uiSHOUT	[GRITAR]
+
+uiShout	[GRITAR]
 
 uiShoutColor	[Gritar]
 
@@ -12217,7 +12217,7 @@ uiShowTargeted	[Mostrar el Objetivo]
 
 uiShowTimesInChatCB	[Mostrar Hora en el Chat]
 
-uiShowTranslationOnlyAsTooltip	[]
+uiShowTranslationOnlyAsTooltip	[Mostrar los mensajes originales por defecto, la versión traducida en un tooltip]
 
 uiShowUnderCursor	[Muestra Bajo el Cursor]
 
@@ -14234,6 +14234,8 @@ uittShowOnlineOfflineNotifications	[Notificar cuándo un miembro de gremio o ami
 uittShowReticle	[Si se marca, muestra una retícula del objetivo pasando el ratón por encima y al seleccionar el objetivo.]
 
 uittShowTimesInChat	[Si se marca, muestra la hora actual antes de todos los mensajes de chat.]
+
+uittShowTranslationOnlyAsTooltip	[Si se marca, los mensajes se mostrarán en su idioma original, pero su traducción sólo se mostrará como una herramienta de ayuda al pasar el ratón por encima.]
 
 uittSit	[Modo Sentado]
 

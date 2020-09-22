@@ -1,4 +1,4 @@
-*HASH_VALUE	item ID	name	named	nameda	p	pd	pia	pda	ia	da	description
+﻿*HASH_VALUE	creature ID	name	named	namedda	nameda	iaa	ia	iag	da	dag	daa	dad	p	pd	pia	pda
 -	caaga1	Erkrankter Baldusa	Erkrankter Baldusa	Erkrankte Baldusa	Erkrankten Baldusa	einen	ein	eines	der	des	den	dem	Erkrankte Baldusas	Erkrankten Baldusas	Erkrankten Baldusas	die
 -	caaga2	Verfaulender Baldusa	Verfaulender Baldusa	Verfaulende Baldusa	Verfaulenden Baldusa	einen	ein	eines	der	des	den	dem	VerFaulede Baldusas	Verfaulenden Baldusas	Verfaulenden Baldusas	die
 -	caaga3	Verseuchter Baldusa	Verseuchter Baldusa	Verseuchte Baldusa	Verseuchten Baldusa	einen	ein	eines	der	des	den	dem	Verseuchte Baldusas	Verseuchten Baldusas	Verseuchten Baldusas	die

@@ -14592,13 +14592,13 @@ uiWindowSnapInvert	[Snap only when SHIFT is held down]
 
 uiWindowSnap	[Window snap]
 
-uiShowTranslationOnlyAsTooltip	[Zeige originale Nachrichten an, Übersetzung im Tooltip]
+uiShowTranslationOnlyAsTooltip	[Zeige ursprüngliche Nachrichten und die Übersetzungen im Tooltip an]
 
-uimChangeGroup	[Zu befreundeter Gruppe wechseln]
+uimChangeGroup	[Zur Freundesgruppe verschieben]
 
-uiPeopleChangeContactGroup	[Name der befreundeten Gruppe]
+uiPeopleChangeContactGroup	[Name der Freundesgruppe]
 
-uittShowTranslationOnlyAsTooltip	[Setze ein Häkchen, um Nachrichten generell im Original anzuzeigen. Übersetzungen werden bei Mouse Over in einem Tooltip angezeigt.]
+uittShowTranslationOnlyAsTooltip	[Setze ein Häkchen, um Nachrichten generell in originaler Sprache anzuzeigen. Übersetzungen werden bei Mouse-Over in einem Tooltip angezeigt.]
 
 uiBGD_Download	[Herunterladen]
 

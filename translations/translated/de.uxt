@@ -4496,7 +4496,7 @@ uiBGD_ContentStartProcessTorrent	['Torrent-Download' verwendet das BitTorrent-Pr
 
 uiBGD_DontShowAgain	[Diese Warnung künftig nicht mehr anzeigen.]
 
-uiBGD_Download	[]
+uiBGD_Download	[Herunterladen]
 
 uiBGD_DownloaderDisconnected	[Ryzom-Downloader gestoppt, bitte starte Ryzom erneut.]
 
@@ -9199,7 +9199,7 @@ uimCall	[Rufen]
 
 uimCareer	[KARRIERE]
 
-uimChangeGroup	[]
+uimChangeGroup	[Zur Freundesgruppe verschieben]
 
 uimChanSave	[Speichern]
 
@@ -10699,7 +10699,7 @@ uiPeopleAdd	[HINZUFÜGEN]
 
 uiPeopleAddContact	[Kontakt zur Liste hinzufügen]
 
-uiPeopleChangeContactGroup	[]
+uiPeopleChangeContactGroup	[Name der Freundesgruppe]
 
 uiPet	[Tier]
 
@@ -12201,7 +12201,7 @@ uiShowTargeted	[Ziel zeigen]
 
 uiShowTimesInChatCB	[Zeige Zeit im Chat]
 
-uiShowTranslationOnlyAsTooltip	[]
+uiShowTranslationOnlyAsTooltip	[Zeige ursprüngliche Nachrichten und die Übersetzungen im Tooltip an]
 
 uiShowUnderCursor	[Anzeige unterm Mauszeiger]
 
@@ -14214,7 +14214,7 @@ uittShowReticle	[Wenn aktiviert, wird eine Zielmarkierung bei Mouse-Over und ein
 
 uittShowTimesInChat	[Wenn aktiviert, wird die Zeit der Eingabe vor allen Chatnachrichten angezeigt.]
 
-uittShowTranslationOnlyAsTooltip	[]
+uittShowTranslationOnlyAsTooltip	[Setze ein Häkchen, um Nachrichten generell in originaler Sprache anzuzeigen. Übersetzungen werden bei Mouse-Over in einem Tooltip angezeigt.]
 
 uittSit	[Sitzmodus]
 
