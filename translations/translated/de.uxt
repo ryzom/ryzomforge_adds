@@ -22698,7 +22698,7 @@ uittMagicResistTable	[Den Zaubersprüchen der Kreaturen und Spieler kann vollst�
 	Die @{6F6F}Chance@{FFFF} einem Zauberspruch ganz zu widerstehen hängt ab von:\n
 	@{T4}- der @{6F6F}Kraft@{FFFF} des Spruchs, wenn es sich um einen Beherrschungsspruch handelt\n
 	@{T4}- der @{6F6F}Stufe@{FFFF} der Magiefertigkeit, wenn es sich um einen Elementarspruch handelt\n
-	@{T4}- deinem @{6F6F}Widerstandswert@{FFFF} in dem @{6F6F}Zauberbereich@{FFFF} des aufgesagten Spruchs\n
+	@{T4}- deinem @{6F6F}Widerstandswert@{FFFF} in dem @{6F6F}Bereich@{FFFF} des gesprochenen Zauberspruchs\n
 	@{T0}Dein @{6F6F}Widerstandswert@{FFFF} ist die Summe: :\n
 	@{T4}- vom Maximum zwischen deinen Fertigkeitsstufen in @{6F6F}Kampf, Zauber und Rohstoffabbau/2@{FFFF}\n
 	@{T4}- von den Boni @{6F6F}des Schmuckwiderstands@{FFFF} im betroffenen Magiebereich\n
@@ -22727,10 +22727,10 @@ uiResist_PrimRoot	[Urwurzel-Magie]
 
 // HASH_VALUE 0B3B8D626ED819EA
 // INDEX 5405
-uittResist_Desert	[Widerstand gegen Magie-Sprüche der Wüsten-Magie: @{6F6F}%v@{FFFF} %max\n
-	@{T4}- Chance, einem Spruch der @{6F6F}Elementarmagie@{FFFF} des Levels @{6F6F}%eml@{FFFF} um @{6F6F}%emr%@{FFFF} zu widerstehen\n
-	@{T4}- Chance, einem Spruch der @{6F6F}Beherrschungsmagie@{FFFF} das Levels @{6F6F}%aml@{FFFF} um @{6F6F}%amr%@{FFFF} zu widerstehen\n
-	@{T0}Diese Magie umfasst folgende Effekte:\n
+uittResist_Desert	[Widerstand gegen Wüsten-Magie: @{6F6F}%v@{FFFF} %max\n
+	@{T4}- @{6F6F}%emr%@{FFFF} Chance, @{6F6F}Feuer@{FFFF}-@{6F6F}Elementarmagie@{FFFF} des Levels @{6F6F}%eml@{FFFF} zu widerstehen.\n
+	@{T4}- @{6F6F}%amr%@{FFFF} Chance, den @{6F6F}Beherrschungszaubern@{FFFF} @{6F6F}Blindheit@{FFFF} und @{6F6F}Wahnsinn@{FFFF} des Levels @{6F6F}%aml@{FFFF} zu widerstehen.\n\n
+	@{T0}Wüsten-Magie umfasst folgende Zaubersprüche:\n
 	@{T4}- @{6F6F}Feuer@{FFFF}\n
 	@{T4}- @{6F6F}Blindheit@{FFFF}\n
 	@{T4}- @{6F6F}Wahnsinn@{FFFF}\n
@@ -22738,10 +22738,10 @@ uittResist_Desert	[Widerstand gegen Magie-Sprüche der Wüsten-Magie: @{6F6F}%v@
 
 // HASH_VALUE 59EA33B883AB2026
 // INDEX 5406
-uittResist_Forest	[Widerstand gegen Sprüche der Wald-Magie: @{6F6F}%v@{FFFF} %max\n
-	@{T4}- Chance, einem @{6F6F}Elementarzauber@{FFFF} des Levels um @{6F6F}%eml@{FFFF} um @{6F6F}%emr%@{FFFF} zu widerstehen. \n
-	@{T4}- Chance, einem @{6F6F}Beherrschungszauber@{FFFF} des Levels @{6F6F}%aml@{FFFF} um @{6F6F}%amr%@{FFFF} zu widerstehen. \n
-	@{T0}Diese Magie umfasst folgende Effekte:\n
+uittResist_Forest	[Widerstand gegen Wald-Magie: @{6F6F}%v@{FFFF} %max\n
+	@{T4}- @{6F6F}%emr%@{FFFF} Chance, @{6F6F}Gift@{FFFF}-@{6F6F}Elementarmagie@{FFFF} des Levels um @{6F6F}%eml@{FFFF} zu widerstehen.\n
+	@{T4}- @{6F6F}%amr%@{FFFF} Chance, den @{6F6F}Beherrschungszaubern@{FFFF} @{6F6F}Schlaf@{FFFF} und @{6F6F}Bewegungsverlangsamung@{FFFF} des Levels @{6F6F}%aml@{FFFF} zu widerstehen.\n\n
+	@{T0}Wald-Magie umfasst folgende Zaubersprüche:\n
 	@{T4}- @{6F6F}Gift@{FFFF}\n
 	@{T4}- @{6F6F}Schlaf@{FFFF}\n
 	@{T4}- @{6F6F}Bewegungsverlangsamung@{FFFF}\n
@@ -22749,10 +22749,10 @@ uittResist_Forest	[Widerstand gegen Sprüche der Wald-Magie: @{6F6F}%v@{FFFF} %m
 
 // HASH_VALUE C9600D6865D27D73
 // INDEX 5407
-uittResist_Lacustre	[Widerstand gegen Sprüche der Seenland-Magie: @{6F6F}%v@{FFFF} %max\n
-	@{T4}- Chance, einem @{6F6F}Elementarzauber@{FFFF} des Levels @{6F6F}%eml@{FFFF} um @{6F6F}%emr%@{FFFF} zu widerstehen.\n
-	@{T4}- Chance, einem @{6F6F}Beherrschungszauber@{FFFF} des Levels @{6F6F}%aml@{FFFF} um @{6F6F}%amr%@{FFFF} zu widerstehen.\n
-	@{T0}Diese Magie umfasst folgende Effekte:\n
+uittResist_Lacustre	[Widerstand gegen Seenland-Magie: @{6F6F}%v@{FFFF} %max\n
+	@{T4}- @{6F6F}%emr%@{FFFF} Chance, @{6F6F}Kälte@{FFFF}- oder @{6F6F}Schockwellen@{FFFF}-@{6F6F}Elementarmagie@{FFFF} des Levels @{6F6F}%eml@{FFFF} zu widerstehen.\n
+	@{T4}- @{6F6F}%amr%@{FFFF} Chance, dem @{6F6F}Beherrschungszauber@{FFFF} @{6F6F}Betäuben@{FFFF}des Levels @{6F6F}%aml@{FFFF} zu widerstehen.\n\n
+	@{T0}Seenland-Magie umfasst folgende Zaubersprüche:\n
 	@{T4}- @{6F6F}Kälte@{FFFF}\n
 	@{T4}- @{6F6F}Schockwelle@{FFFF}\n
 	@{T4}- @{6F6F}Betäuben@{FFFF}\n
@@ -22760,10 +22760,10 @@ uittResist_Lacustre	[Widerstand gegen Sprüche der Seenland-Magie: @{6F6F}%v@{FF
 
 // HASH_VALUE 6D27C3213D0933D9
 // INDEX 5408
-uittResist_Jungle	[Widerstand gegen Sprüche aus der Dschungel-Magie: @{6F6F}%v@{FFFF} %max\n
-	@{T4}- Chance, einem @{6F6F}Elementarzauber@{FFFF} des Levels @{6F6F}%eml@{FFFF} um @{6F6F}%emr%@{FFFF} zu widerstehen.\n
-	@{T4}- Chance, einem @{6F6F}Beherrschungszauber@{FFFF} des Levels @{6F6F}%aml@{FFFF} um @{6F6F}%amr%@{FFFF} zu widerstehen.\n
-	@{T0}Diese Magie umfasst folgende Effekte:\n
+uittResist_Jungle	[Widerstand gegen Dschungel-Magie: @{6F6F}%v@{FFFF} %max\n
+	@{T4}- @{6F6F}%emr%@{FFFF} Chance, @{6F6F}Elektrizitäts@{FFFF}-@{6F6F}Elementarmagie@{FFFF} des Levels @{6F6F}%eml@{FFFF} zu widerstehen.\n
+	@{T4}- @{6F6F}%amr%@{FFFF} Chance, den @{6F6F}Beherrschungszaubern@{FFFF} @{6F6F}Verwurzelung@{FFFF} und @{6F6F}Angriffsverlangsamung@{FFFF} des Levels @{6F6F}%aml@{FFFF} zu widerstehen\n\n
+	@{T0}Dschungel-Magie umfasst folgende Zaubersprüche:\n
 	@{T4}- @{6F6F}Elektrizität@{FFFF}\n
 	@{T4}- @{6F6F}Verwurzelung@{FFFF}\n
 	@{T4}- @{6F6F}Angriffsverlangsamung@{FFFF}\n
@@ -22771,12 +22771,12 @@ uittResist_Jungle	[Widerstand gegen Sprüche aus der Dschungel-Magie: @{6F6F}%v@
 
 // HASH_VALUE C84D03E6ED023088
 // INDEX 5409
-uittResist_PrimRoot	[Widerstand gegen Sprüche aus der Urwurzel-Magie: @{6F6F}%v@{FFFF} %max\n
-	@{T4}- Chance, einem @{6F6F}Elementarzauber@{FFFF} des Levels @{6F6F}%eml@{FFFF} um @{6F6F}%emr%@{FFFF} zu widerstehen.\n
-	@{T4}- Chance, einem @{6F6F}Beherrschungszauber@{FFFF} des Levels @{6F6F}%aml@{FFFF} um @{6F6F}%amr%@{FFFF} zu widerstehen.\n
-	@{T0}Diese Magie umfasst folgende Effekte:\n
+uittResist_PrimRoot	[Widerstand gegen Urwurzel-Magie: @{6F6F}%v@{FFFF} %max\n
+	@{T4}- @{6F6F}%emr%@{FFFF} Chance, @{6F6F}Säure@{FFFF}- oder @{6F6F}Verrottungs@{FFFF}-@{6F6F}Elementarmagie@{FFFF} des Levels @{6F6F}%eml@{FFFF} zu widerstehen.\n
+	@{T4}- @{6F6F}%amr%@{FFFF} Chance, dem @{6F6F}Beherrschungszauber@{FFFF} @{6F6F}Angst@{FFFF}  des Levels @{6F6F}%aml@{FFFF} zu widerstehen\n\n
+	@{T0}Urwurzel-Magie umfasst folgende Zaubersprüche:\n
 	@{T4}- @{6F6F}Säure@{FFFF}\n
-	@{T4}- @{6F6F}Verrotten@{FFFF}\n
+	@{T4}- @{6F6F}Verrottung@{FFFF}\n
 	@{T4}- @{6F6F}Angst@{FFFF}\n
 	]
 
