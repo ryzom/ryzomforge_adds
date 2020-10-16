@@ -24189,7 +24189,7 @@ uittIdentityDodge	[@{6F6F}Ausweichen@{FFFF}: %n\n
 // HASH_VALUE 7E36CADC9DBA9B29
 // INDEX 5749
 uittIdentityParry	[@{6F6F}Abwehren@{FFFF}: %n\n
-	Chance, dem Schlag eines Gegners der Stufe @{6F6F}%l @{FFFF}auszuweichen: @{6F6F}%p@{FFFF}%.]
+	Chance, den Schlag eines Gegners der Stufe @{6F6F}%l @{FFFF}zu parieren: @{6F6F}%p@{FFFF}%.]
 
 // HASH_VALUE 6B1A85A1D4FFAC37
 // INDEX 5750
