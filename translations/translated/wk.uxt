@@ -79,8 +79,6 @@ Average	[Average difficulty]
 
 Axeman	[Axeman]
 
-Bag	[]
-
 Biomancer	[Biomancer]
 
 bits	[bits]
@@ -1540,8 +1538,6 @@ Mentalist	[Mentalist]
 Mind_Lord	[Mind Lord]
 
 Misc	[Misc]
-
-Mochilla	[]
 
 mpcatExotic	[Exotic]
 
@@ -11973,9 +11969,9 @@ uiShortcutNumber	[Shortcut Number]
 
 uiShortCutTT	[Drag here a combat or magic spell]
 
-uiShout	[SHOUT]
-
 uiSHOUT	[SHOUT]
+
+uiShout	[SHOUT]
 
 uiShoutColor	[Shout]
 
@@ -14408,6 +14404,4 @@ _Natae_citizen	[ (Natae citizen)]
 _Yrkanis_citizen	[ (Yrkanis citizen)]
 
 ___faber_skill_sep___	[--------------------------------]
-
-Mount	[]
 
