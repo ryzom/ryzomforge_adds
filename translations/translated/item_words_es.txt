@@ -6949,3 +6949,5 @@
 -	zig_yubo_white	Zig Yubo	une	el	Zig Yubo	unos	los	
 -	zig_yubo_lakes	Zig Yubo	une	el	Zig Yubo	unos	los	
 -	zig_yubo_forest	Zig Yubo	une	el	Zig Yubo	unos	los	
+-	bag	
+-	mochilla	

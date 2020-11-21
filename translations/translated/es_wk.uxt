@@ -11151,7 +11151,9 @@ uiEulaDecline	[NO ACEPTO]
 
 uiEulaContent	[LICENCIA RYZOM\n
 	\n
-	AVISO AL USUARIO: ESTE DOCUMENTO ES UN CONTRATO. ANTES DE HACER CLICK EN EL BOTÓN "ACEPTO" ABAJO Y COMPLETAR EL PROCESO DE INSTALACIÓN O REGISTRO, POR FAVOR LEALO ATENTAMENTE . CUANDO HAGA CLICK EN "ACEPTO", ESTÁ ACEPTANDO LOS TERMINOS DE ESTE CONTRATO Y LAS OBLIGACIONES QUE EN ÉL SE CONTIENEN. SI NO QUIERES SER UNA DE LAS PARTES DE ESTE CONTRATO O ESTAR SUJETO A TODOS SUS TÉRMINOS, ENTONCES HAGA CLICK EN "CANCELAR" Y NO INSTALE EL SOFTWARE (O DESINSTALELO SI ESTÁ INSTALADO), Y NO LO USE. Si tiene alguna dificultad en relación a esta Licencia, por favor, contacte con Atención al Cliente de Ryzom en la siguiente dirección support@ryzom.com\n
+	AVISO AL USUARIO: ESTE DOCUMENTO ES UN CONTRATO. ANTES DE HACER CLICK EN EL BOTÓN "ACEPTO" ABAJO Y COMPLETAR EL PROCESO DE INSTALACIÓN O REGISTRO, POR FAVOR LEALO ATENTAMENTE . CUANDO HAGA CLICK EN "ACEPTO", ESTÁ ACEPTANDO LOS TERMINOS DE ESTE CONTRATO Y LAS OBLIGACIONES QUE EN ÉL SE CONTIENEN. SI NO QUIERES SER UNA DE LAS PARTES DE ESTE CONTRATO O ESTAR SUJETO A TODOS SUS TÉRMINOS, ENTONCES HAGA CLICK EN "CANCELAR" Y NO INSTALE EL SOFTWARE (O DESINSTALELO SI ESTÁ INSTALADO), Y NO LO USE.\n
+	AL ACEPTAR LOS TÉRMINOS DE ESTE CONTRATO, TAMBIÉN SE COMPROMETE A CUMPLIR CON EL CÓDIGO DE CONDUCTA QUE ENCUNETRA AQUÍ : https://ryzom.com/terms-of-service\n
+	Si tiene alguna dificultad en relación a esta Licencia, por favor, contacte con Atención al Cliente de Ryzom en la siguiente dirección support@ryzom.com\n
 	\n
 	1. OBJETO DEL CONTRATO. Esta Licencia Ryzom (en adelante "el Contrato") es un contrato entre usted y Winch Gate Property Limited ("Winch Gate" o "Nosotros"). Su propósito es establecer unos términos en los que Winch Gate provee (como se define en el Artículo 2 debajo) los siguientes servicios a un usuario autorizado en relación al juego multijugador masivo en linea Ryzom ("Ryzom" o "el Juego" o "Ryzom Arkitect"). Los servicios constan de la apertura y mantenimiento de una cuenta capacitando al jugador jugar al Juego en internet y a usar nuestras herramientas en el juego: Ryzom Arkitect para crear contenido para el juego.\n
 	\n
@@ -14600,4 +14602,8 @@ uiShowTranslationOnlyAsTooltip	[Mostrar los mensajes originales por defecto, la 
 uittShowTranslationOnlyAsTooltip	[Si se marca, los mensajes se mostrarán en su idioma original, pero su traducción sólo se mostrará como una herramienta de ayuda al pasar el ratón por encima.]
 
 uimChangeGroup	[Mover a un grupo de amigos]
+
+Mochilla	[]
+
+Mount	[]
 

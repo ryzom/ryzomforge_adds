@@ -79,6 +79,8 @@ Average	[Average difficulty]
 
 Axeman	[Axeman]
 
+Bag	[]
+
 Biomancer	[Biomancer]
 
 bits	[bits]
@@ -1538,6 +1540,8 @@ Mentalist	[Mentalist]
 Mind_Lord	[Mind Lord]
 
 Misc	[Misc]
+
+Mochilla	[]
 
 mpcatExotic	[Exotic]
 
@@ -14404,4 +14408,6 @@ _Natae_citizen	[ (Natae citizen)]
 _Yrkanis_citizen	[ (Yrkanis citizen)]
 
 ___faber_skill_sep___	[--------------------------------]
+
+Mount	[]
 

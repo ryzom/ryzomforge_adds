@@ -80,6 +80,8 @@ Average	[Dificultad Media]
 
 Axeman	[Porta Hachas]
 
+Bag	[]
+
 Biomancer	[Biomantico]
 
 bits	[bits]
@@ -1304,7 +1306,7 @@ ifAMMO	[Munición]
 
 ifARMOR	[Armadura]
 
-ifBAG	[Bolsa]
+ifBAG	[Mochila]
 
 ifBRICK	[Ladrillo]
 
@@ -1539,6 +1541,10 @@ Mentalist	[Mentalista]
 Mind_Lord	[Señor de la Mente]
 
 Misc	[Misceláneo]
+
+Mochilla	[]
+
+Mount	[]
 
 mpcatExotic	[Exótico]
 
@@ -3438,7 +3444,7 @@ msgCantFightSit	[&CHK&No puedes entablar combate mientras estás sentado.]
 
 msgCantFightSwim	[&CHK&No puedes entablar combate mientras estás en el agua.]
 
-msgCantPutItemInBag	[&CHK&No puedes colocar el objeto en la bolsa. Tu bolsa está llena.]
+msgCantPutItemInBag	[&CHK&No puedes colocar el objeto en la mochila. Tu mochila está llena.]
 
 msgCantUseBuiltItem	[&CHK&No puedes utilizar el objeto construído.]
 
@@ -4381,29 +4387,29 @@ uiBadQuantity	[CANTIDAD ERRONEA]
 
 uiBadResalePrice	[PRECIO DE REVENTA INADECUADO]
 
-uiBag1	[Bolsa 1]
+uiBag1	[Mochila 1]
 
-uiBag2	[Bolsa 2]
+uiBag2	[Mochila 2]
 
-uiBag3	[Bolsa 3]
+uiBag3	[Mochila 3]
 
-uiBag4	[Bolsa 4]
+uiBag4	[Mochila 4]
 
-uiBagBulk	[Volumen de la Bolsa ]
+uiBagBulk	[Volumen de la Mochila]
 
-uiBags	[Bolsas]
+uiBags	[Mochilas]
 
-uiBagsTitle	[BOLSAS]
+uiBagsTitle	[MOCHILAS]
 
-uiBagTitle	[BOLSA]
+uiBagTitle	[MOCHILA]
 
-uiBagTitle1	[BOLSA 1]
+uiBagTitle1	[Mochila 1]
 
-uiBagTitle2	[BOLSA 2]
+uiBagTitle2	[Mochila 2]
 
-uiBagTitle3	[BOLSA 3]
+uiBagTitle3	[Mochila 3]
 
-uiBagTitle4	[BOLSA 4]
+uiBagTitle4	[Mochila 4]
 
 uiBalanceCost	[Lanzamiento Imposible]
 
@@ -6657,7 +6663,9 @@ uiEulaAccept	[ACEPTO]
 
 uiEulaContent	[LICENCIA RYZOM\n
 	\n
-	AVISO AL USUARIO: ESTE DOCUMENTO ES UN CONTRATO. ANTES DE HACER CLICK EN EL BOTÓN "ACEPTO" ABAJO Y COMPLETAR EL PROCESO DE INSTALACIÓN O REGISTRO, POR FAVOR LEALO ATENTAMENTE . CUANDO HAGA CLICK EN "ACEPTO", ESTÁ ACEPTANDO LOS TERMINOS DE ESTE CONTRATO Y LAS OBLIGACIONES QUE EN ÉL SE CONTIENEN. SI NO QUIERES SER UNA DE LAS PARTES DE ESTE CONTRATO O ESTAR SUJETO A TODOS SUS TÉRMINOS, ENTONCES HAGA CLICK EN "CANCELAR" Y NO INSTALE EL SOFTWARE (O DESINSTALELO SI ESTÁ INSTALADO), Y NO LO USE. Si tiene alguna dificultad en relación a esta Licencia, por favor, contacte con Atención al Cliente de Ryzom en la siguiente dirección support@ryzom.com\n
+	AVISO AL USUARIO: ESTE DOCUMENTO ES UN CONTRATO. ANTES DE HACER CLICK EN EL BOTÓN "ACEPTO" ABAJO Y COMPLETAR EL PROCESO DE INSTALACIÓN O REGISTRO, POR FAVOR LEALO ATENTAMENTE . CUANDO HAGA CLICK EN "ACEPTO", ESTÁ ACEPTANDO LOS TERMINOS DE ESTE CONTRATO Y LAS OBLIGACIONES QUE EN ÉL SE CONTIENEN. SI NO QUIERES SER UNA DE LAS PARTES DE ESTE CONTRATO O ESTAR SUJETO A TODOS SUS TÉRMINOS, ENTONCES HAGA CLICK EN "CANCELAR" Y NO INSTALE EL SOFTWARE (O DESINSTALELO SI ESTÁ INSTALADO), Y NO LO USE.\n
+	AL ACEPTAR LOS TÉRMINOS DE ESTE CONTRATO, TAMBIÉN SE COMPROMETE A CUMPLIR CON EL CÓDIGO DE CONDUCTA QUE ENCUNETRA AQUÍ : https://ryzom.com/terms-of-service\n
+	Si tiene alguna dificultad en relación a esta Licencia, por favor, contacte con Atención al Cliente de Ryzom en la siguiente dirección support@ryzom.com\n
 	\n
 	1. OBJETO DEL CONTRATO. Esta Licencia Ryzom (en adelante "el Contrato") es un contrato entre usted y Winch Gate Property Limited ("Winch Gate" o "Nosotros"). Su propósito es establecer unos términos en los que Winch Gate provee (como se define en el Artículo 2 debajo) los siguientes servicios a un usuario autorizado en relación al juego multijugador masivo en linea Ryzom ("Ryzom" o "el Juego" o "Ryzom Arkitect"). Los servicios constan de la apertura y mantenimiento de una cuenta capacitando al jugador jugar al Juego en internet y a usar nuestras herramientas en el juego: Ryzom Arkitect para crear contenido para el juego.\n
 	\n
@@ -9310,7 +9318,7 @@ uiMemSpecialFul	[MEMORIA ESPECIAL]
 
 uiMemSpecialTitle	[ESPECIAL]
 
-uimEnterBag	[Entrar en la bolsa]
+uimEnterBag	[Entrar en la Mochila]
 
 uimEnterStable	[Entrar al Establo]
 
@@ -9816,7 +9824,7 @@ uiMk_window11	[Ryzom Ring]
 
 uiMK_Wins	[VENTANAS]
 
-uimLeaveBag	[Salir de la bolsa]
+uimLeaveBag	[Salir de la Mochila]
 
 uimLeaveStable	[Salir del Establo]
 
@@ -9868,7 +9876,7 @@ uimMoveToFriendList	[MOVERSE A LA LISTA DE AMIGOS]
 
 uimMoveToIgnoreList	[MOVERSE A LISTA DE IGNORADOS]
 
-uimMtBag	[BOLSA]
+uimMtBag	[MOCHILA]
 
 uimMtGuild	[GREMIO]
 
@@ -10116,7 +10124,7 @@ uimwArmor	[ARMADURA]
 
 uimwAroundMe	[ALREDEDOR DE MI]
 
-uimwBags	[BOLSAS]
+uimwBags	[MOCHILAS]
 
 uimwBars	[MIS BARRAS]
 
@@ -12183,9 +12191,9 @@ uiShortcutNumber	[Número de Acceso Directo]
 
 uiShortCutTT	[Arrastrar hechizo de combate o de magia aquí]
 
-uiSHOUT	[GRITAR]
-
 uiShout	[GRITAR]
+
+uiSHOUT	[GRITAR]
 
 uiShoutColor	[Gritar]
 
@@ -12375,7 +12383,7 @@ uiSystemInfo	[Información del Sistema]
 
 uiSystemInfoTitle	[INFORMACIÓN DEL SISTEMA]
 
-uitabBag	[Bolsa]
+uitabBag	[Mochila]
 
 uitabBuyAction	[Aciones]
 
@@ -12419,7 +12427,7 @@ uitabFameYou	[USTED]
 
 uiTabInfo	[Click Derecho para Separar]
 
-uitabInvBag	[BOLSA]
+uitabInvBag	[MOCHILA]
 
 uitabInvEquip	[EQUIPO]
 
@@ -12643,7 +12651,7 @@ uiTellWinAct	[Ventana de Conversación]
 
 uiTellWindow	[Ventana de Conversación]
 
-uiTempMemory	[BOLSA TEMPORAL]
+uiTempMemory	[MOCHILA TEMPORAL]
 
 uiTerriColor	[Territorio]
 
@@ -12691,7 +12699,7 @@ uiThreshold	[Calidad]
 
 uiThundery	[Tormentoso]
 
-uiTIBagFull	[Bolsa Llena]
+uiTIBagFull	[Mochila Llena]
 
 uiTICraft	[Objetos Fabricados]
 
@@ -12710,7 +12718,7 @@ uiTILoot	[Objetos Saqueados]
 uiTIMissionItem	[Objetos Recividos]
 
 uiTips0	[En vez de arrastrar y soltar tus objetos en una Armadura/Equipo o Ranura de Joyas,\n
-	puedes directamente hacer un clic izquierdo en esas ranuras para seleccionar el objeto en tu bolsa.]
+	puedes directamente hacer un clic izquierdo en esas ranuras para seleccionar el objeto en tu mochila.]
 
 uiTips1	[Para aprender a usar el juego haz clic en el botón '?' y selecciona AYUDA]
 
@@ -12781,7 +12789,7 @@ uiTitleSkillNoNeed	[No son necesarias habilidades para obtener este título.\n
 
 uiTitleSkillOr	[o]
 
-uiTIWaitBagFull	[Bolsa llena, espere...]
+uiTIWaitBagFull	[Mochila llena, espere...]
 
 uiTIWaitCraft	[Fabricando, espere...]
 
@@ -13658,7 +13666,7 @@ uittInfoWeight	[@{6F6F}Peso@{FFFF}:\n
 
 uittInventorySearch	[Buscar]
 
-uittInventoryWeight	[Peso @{6F6F}Total @{FFFF}de la bolsa]
+uittInventoryWeight	[Peso @{6F6F}Total @{FFFF}de la mochila]
 
 uittInvSlots	[@{6F6F}Ranuras@{FFFF}usadas/máximo]
 

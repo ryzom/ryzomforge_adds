@@ -79,6 +79,8 @@ Average	[Moyennement difficile]
 
 Axeman	[Expert en maniement de haches]
 
+Bag	[]
+
 Biomancer	[Biomancien]
 
 bits	[bits]
@@ -1538,6 +1540,10 @@ Mentalist	[Mentaliste]
 Mind_Lord	[Seigneur de l'Esprit]
 
 Misc	[Divers]
+
+Mochilla	[]
+
+Mount	[]
 
 mpcatExotic	[Exotique]
 
@@ -6657,7 +6663,8 @@ uiEulaAccept	[J'ACCEPTE]
 
 uiEulaContent	[LICENCE RYZOM\n
 	\n
-	AVIS À L'UTILISATEUR : CE DOCUMENT EST UN CONTRAT. AVANT DE CLIQUER SUR LE BOUTON « J'ACCEPTE » CI-DESSOUS ET D'ACHEVER LA PROCÉDURE D'INSTALLATION OU D'ENREGISTREMENT, VEUILLEZ LE LIRE ATTENTIVEMENT. EN CLIQUANT SUR LE BOUTON « J'ACCEPTE », VOUS ACCEPTEZ LES TERMES DU PRÉSENT CONTRAT ET LES OBLIGATIONS   QU'IL CONTIENT. SI VOUS NESOUHAITEZ PAS DEVENIR PARTIE AU PRÉSENT CONTRAT OU ÊTRE LIÉ PAR L'ENSEMBLE DE SES STIPULATIONS, CLIQUEZ SUR LE BOUTON « ANNULER »ET VEUILLEZ NE PAS INSTALLER (OU VEUILLEZ DÉSINSTALLER, SELON LECAS) LE LOGICIEL, ET NE PAS L'UTILISER. En cas de difficultés relatives à la présente Licence, veuillez contacter le service clients Ryzom à l'adresse suivante support@ryzom.com\n
+	AVIS À L'UTILISATEUR : CE DOCUMENT EST UN CONTRAT. AVANT DE CLIQUER SUR LE BOUTON « J'ACCEPTE » CI-DESSOUS ET D'ACHEVER LA PROCÉDURE D'INSTALLATION OU D'ENREGISTREMENT, VEUILLEZ LE LIRE ATTENTIVEMENT. EN CLIQUANT SUR LE BOUTON « J'ACCEPTE », VOUS ACCEPTEZ LES TERMES DU PRÉSENT CONTRAT ET LES OBLIGATIONS   QU'IL CONTIENT. SI VOUS NE SOUHAITEZ PAS DEVENIR PARTIE AU PRÉSENT CONTRAT OU ÊTRE LIÉ PAR L'ENSEMBLE DE SES STIPULATIONS, CLIQUEZ SUR LE BOUTON « ANNULER » ET VEUILLEZ NE PAS INSTALLER (OU VEUILLEZ DÉSINSTALLER, SELON LE CAS) LE LOGICIEL, ET NE PAS L'UTILISER. EN ACCEPTANT LES TERMES DE CE CONTRAT, VOUS ACCEPTEZ ÉGALEMENT DE VOUS SOUMETTRE AU CODE DE CONDUITE QUE VOUS TROUVEREZ ICI : https://ryzom.com/terms-of-service\n
+	En cas de difficultés relatives à la présente Licence, veuillez contacter le service clients Ryzom à l'adresse suivante support@ryzom.com\n
 	\n
 	1. OBJET DU CONTRAT. La présente Licence Ryzom (ci-après le « Contrat ») constitue uncontrat entre vous et Winch Gate Property Limited (ci-après « Winch Gate » ou « nous »). Il a pour objet de définir les conditions auxquelles Winch Gate concède à l'utilisateur autorisé (tel quedéfini à l'article 2 ci-après) les services suivants relatifs aujeu massivement multijoueur en ligne Ryzom (ci-après « Ryzom » ou le « Jeu » ou « Ryzom Arkitect » ), consistant dans l'ouverture et le maintien d'un compte permettant, par l'intermédiaire de l'Internet, de jouer au Jeu, et d'utiliser notre outil en jeu Ryzom Arkitect pour créer du contenu interne au jeu.\n
 	\n
