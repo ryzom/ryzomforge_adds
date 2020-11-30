@@ -3147,7 +3147,7 @@ LEAGUE_ALREADY_IN_LEAGUE()
 {
 	[&CHK& Your target is already in a league]
 }
-LEAGUE_PROPOSALL(player p)
+LEAGUE_PROPOSAL(player p)
 {
 	(p.gender = male)
 		league_proposal_m	[$p$ offers you to join his league.]
@@ -6177,4 +6177,38 @@ MENU_WOREN_SILOY()
 	[Woren Siloy]
 }
 
+MENU_DANGER()
+{
+	[Danger]
+}
+
+MENU_KAMIA_ATA()
+{
+	[Kamia'ata]
+}
+
+FACTION_USR_EN()
+{
+	[EN]
+}
+
+FACTION_USR_FR()
+{
+	[FR]
+}
+
+FACTION_USR_DE()
+{
+	[DE]
+}
+
+FACTION_USR_ES()
+{
+	[ES]
+}
+
+FACTION_USR_RU()
+{
+	[RU]
+}
 

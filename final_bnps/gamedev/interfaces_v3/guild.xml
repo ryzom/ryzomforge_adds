@@ -97,7 +97,7 @@
             y="0"
             fontsize="12"
             shadow="true"
-            case_mode="%case_normal" />
+            case_mode="%case_first_word_letter_up" />
       <view type="text"
             id="grade"
             x="158"
@@ -146,7 +146,7 @@
   <group type="container"
          id="guild"
          title="uiGuildTitle"
-         w="330"
+         w="340"
          h="350"
          pop_max_h="700"
          resizer="false"
@@ -198,7 +198,7 @@
               onclick_r=""
               params_r=""
               onclick_l="set"
-              params_l="target='ui:interface:guild:w'|value=330" />
+              params_l="target='ui:interface:guild:w'|value=340" />
         <ctrl style="tab_button_new"
               id="tab1"
               posparent="tab0"
@@ -286,7 +286,7 @@
               posparent="blason"
               posref="BR BL"
               x="8"
-              y="0"
+              y="-4"
               fontsize="10"
               shadow="true"
               value="SERVER:GUILD:CREATION_DATE"
@@ -328,6 +328,34 @@
               fontsize="10"
               shadow="true"
               hardtext="uiGuildInfoEff" />
+        <view type="text"
+              id="sep_2"
+              posparent="members"
+              posref="MR ML"
+              x="2"
+              y="0"
+              fontsize="10"
+              shadow="true"
+              hardtext="/" />
+        <view type="text"
+              id="member_count_online"
+              posparent="sep_2"
+              posref="MR ML"
+              x="2"
+              y="0"
+              fontsize="10"
+              shadow="true"
+              value=""
+              positive="true" />
+        <view type="text"
+              id="members_online_text"
+              posparent="member_count_online"
+              posref="MR ML"
+              x="2"
+              y="0"
+              fontsize="10"
+              shadow="true"
+              hardtext="uiGuildMemberOnline" />
         <!-- DESCRIPTION -->
         <view type="text"
               id="desc_title"
@@ -335,7 +363,7 @@
               shadow="true"
               posref="BL TL"
               x="0"
-              y="-6"
+              y="-12"
               fontsize="12"
               hardtext="uiGuildInfoDes"
               global_color="false"
@@ -352,7 +380,7 @@
               multi_line_space="0"
               textid="SERVER:GUILD:DESCRIPTION"
               dynamic_string="false" />
-        <!-- HEADQUARTERS -->
+        <!--HEADQUARTERS 
         <view type="text"
               id="head_title"
               posparent="desc"
@@ -375,18 +403,17 @@
               hardtext="uiGuildInfoHead2"
               textid="SERVER:GUILD:VILLAGE"
               dynamic_string="true" />
-        <!--
                 <view type="text" id="fame_title" posparent="head_title" shadow="true" posref="BL TL" x="0" y="-2" fontsize="12" hardtext="uiGuildInfoFame" global_color="false" case_mode="%case_upper" />
                 <view type="text_number" id="fame" posparent="fame_title" posref="MR ML" x="0" y="-1" fontsize="10" shadow="true" value="SERVER:GUILD:FAME" positive="false" />
 -->
         <!-- XP Score -->
         <view type="text"
               id="XP_title"
-              posparent="head_title"
+              posparent="desc"
               shadow="true"
               posref="BL TL"
               x="0"
-              y="-2"
+              y="-5"
               fontsize="12"
               hardtext="uiGuildInfoScore"
               global_color="false"
@@ -396,7 +423,7 @@
               posparent="XP_title"
               posref="MR ML"
               x="0"
-              y="-1"
+              y="0"
               fontsize="10"
               shadow="true"
               value="SERVER:GUILD:XP"
@@ -416,9 +443,9 @@
         <ctrl style="text_button_16"
               id="quit_guild"
               posparent="money"
-              posref="BR TR"
-              x="178"
-              y="-6"
+              posref="MR ML"
+              x="10"
+              y="0"
               hardtext="uiQuitGuild"
               color="255 255 255 255"
               col_over="255 255 255 255"
@@ -433,8 +460,8 @@
               id="invite"
               active="false"
               posparent="quit_guild"
-              posref="ML ML"
-              x="-70"
+              posref="MR ML"
+              x="5"
               hardtext="uiInviteToRingSession"
               color="255 255 255 255"
               col_over="255 255 255 255"

@@ -1434,13 +1434,14 @@ function game:onInGameDbInitialized()
 	game:openChannels()
 
 	runAH(nil, "sort_tribefame", "")
+	local ency = getUI("ui:interface:encyclopedia")
+	setOnDraw(ency, "ArkMissionCatalog:startResize()")
 end
 
 function game:onWebIgReady()
 	-- Call init webig
 	getUI("ui:interface:web_transactions:content:html"):browse("home")
 	getUI("ui:interface:webig:content:html"):browse("home")
-	setOnDraw(getUI("ui:interface:encyclopedia"), "ArkMissionCatalog:autoResize()")
 end
 
 --------------------------------------------------------------------------------------------------------------

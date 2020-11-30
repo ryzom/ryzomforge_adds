@@ -8480,7 +8480,7 @@ CWMH02_DESC (bot giver, place city)
 
 }
 
-// HASH_VALUE 7D9C48D073DE06A8
+// HASH_VALUE 596C1F530FF1BDBD
 CWMH02_DIALOG_BARMAN ()
 {
 		cwmh02_dialog_barman	[Hola, qué bien tenerte aquí. Eres un buscador competente? Tengo necesidad de unas raíces especiales para sazonar mis bebidas. Podrías encontrar algunas si inspeccionas al este de la ciudad, donde hay dos raíces gigantes que salen del suelo.]
@@ -27003,6 +27003,41 @@ FACTION_URASIES ()
 
 }
 
+// HASH_VALUE 4410541044105410
+FACTION_USR_DE ()
+{
+			[DE]
+
+}
+
+// HASH_VALUE 4C50E4144C50E414
+FACTION_USR_EN ()
+{
+			[EN]
+
+}
+
+// HASH_VALUE 5050341450503414
+FACTION_USR_ES ()
+{
+			[ES]
+
+}
+
+// HASH_VALUE 5090241850902418
+FACTION_USR_FR ()
+{
+			[FR]
+
+}
+
+// HASH_VALUE 5494544854945448
+FACTION_USR_RU ()
+{
+			[RU]
+
+}
+
 // HASH_VALUE 68B78C7557881055
 FACTION_ZORAI ()
 {
@@ -36567,10 +36602,24 @@ MENU_BUY_PVP ()
 
 }
 
+// HASH_VALUE 48583456AE5AE432
+MENU_CAN_I_HELP_YOU ()
+{
+			[¿Puede ayudarme?]
+
+}
+
 // HASH_VALUE 7484942F337068FF
 MENU_CASINO_INSERT_COIN ()
 {
 			[Toca una tecla]
+
+}
+
+// HASH_VALUE A666705B25C4B47C
+MENU_DANGER ()
+{
+			[Peligro]
 
 }
 
@@ -36595,10 +36644,24 @@ MENU_GET_FLOWER ()
 
 }
 
+// HASH_VALUE DD78D83A08F8E05C
+MENU_GLOWING_COAL ()
+{
+			[Carbón encendido]
+
+}
+
 // HASH_VALUE F36778F4031518EB
 MENU_HAVE_MISSION ()
 {
 			[¿Tiene alguna misión que asignarme?]
+
+}
+
+// HASH_VALUE A5E3EB3B7080146A
+MENU_HAVE_SOMETHINH_FOR_ME ()
+{
+			[¿Tienes algo para mí?]
 
 }
 
@@ -36631,6 +36694,13 @@ MENU_HOF ()
 
 }
 
+// HASH_VALUE DFB6088196347B98
+MENU_KAMIA_ATA ()
+{
+			[Kamia'ata]
+
+}
+
 // HASH_VALUE 6A5644916017488F
 MENU_LIGHT_UP ()
 {
@@ -36649,6 +36719,13 @@ MENU_LORDOY ()
 MENU_MATISPOETRY ()
 {
 			[Poemario Matis.]
+
+}
+
+// HASH_VALUE D034A258ECA4C057
+MENU_NEED_SOME_INFORMATIONS ()
+{
+			[Necesito información...]
 
 }
 

@@ -7864,3 +7864,7 @@ steak_rendor_1	Rendor Meat	a	the	Rendor Meat
 steak_rendor_2	Rendor Meat	a	the	Rendor Meat
 steak_rendor_3	Rendor Meat	a	the	Rendor Meat
 steak_rendor_4	Rendor Meat	a	the	Rendor Meat
+nexus_neck_1	Nexu Neck	a	the	Nexus Neck
+nexus_neck_2	Nexu Neck	a	the	Nexus Neck
+nexus_neck_3	Nexu Neck	a	the	Nexus Neck
+nexus_neck_4	Nexu Neck	a	the	Nexus Neck
