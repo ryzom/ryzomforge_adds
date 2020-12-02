@@ -2793,6 +2793,11 @@ This MUST follow the Enum MISSION_DESC::TIconId
   <variable entry="UI:SAVE:SHOW_RETICLE"
             type="bool"
             value="true" />
+  <variable entry="UI:SAVE:SHOW_ICON_BUFFS"
+            type="bool"
+            value="true" />
+  <link expr="@UI:SAVE:SHOW_ICON_BUFFS"
+            action="trigger_show_icon_buffs" />
   <variable entry="UI:VARIABLES:MISSION_SELECTED_PREV_SESSION"
             type="sint32"
             value="-1" />
@@ -3045,6 +3050,9 @@ This MUST follow the Enum MISSION_DESC::TIconId
   <variable entry="UI:SAVE:CHAT:SHOW_ONLINE_OFFLINE_NOTIFICATIONS_CB"
              type="bool"
              value="true" />
+  <variable entry="UI:SAVE:CHAT:SHOW_TRANSLATION_ONLY_AS_TOOLTIP_CB"
+	     type="bool"
+	     value="false" />
   <!-- ***************************** -->
   <!-- *    SYSTEM INFO COLORS     * -->
   <!-- ***************************** -->

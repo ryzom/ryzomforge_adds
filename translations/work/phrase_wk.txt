@@ -593,6 +593,13 @@ TOXIC_CLOUD_DEFENDER_HIT(int damage, int reduction)
 	toxic_cloud_defender_hit	[&DMG&A toxic cloud hits you for $damage$ damage.]
 }
 
+
+HEAL_CLOUD_HIT(score s, int v)
+{
+	heal_cloud_hit	[&SPLM&You feel the effects of benevolent magic and get a bonus of $s$ of $v$.]
+}
+
+
 SOURCE_EXPLOSION_SPECTATOR_HIT(entity defender, int damage)
 {
 	source_explosion_spectator_hit	[&SYS&An explosion hits $defender$ for $damage$ damage.]
@@ -3140,7 +3147,7 @@ LEAGUE_ALREADY_IN_LEAGUE()
 {
 	[&CHK& Your target is already in a league]
 }
-LEAGUE_PROPOSALL(player p)
+LEAGUE_PROPOSAL(player p)
 {
 	(p.gender = male)
 		league_proposal_m	[$p$ offers you to join his league.]
@@ -6027,6 +6034,11 @@ FACTION_RU()
 {
 	[русский Uni]
 }
+OPEN_SILAN_ANNOUNCE_TEXT()
+{
+	[Did you know we can reach Silan over the bark ? It seems that Rangers are maintaining a path whose entrance is at grove of confusion’s very end.]
+}
+
 MENU_HELLO_LEADER()
 {
 	[Hello?]
@@ -6079,3 +6091,124 @@ MENU_MATISPOETRY()
 {
 	[Collection of Matis poetry.]
 }
+MENU_BUY_PVP()
+{
+	[Buy Special Items]
+}
+MENU_CASINO_INSERT_COIN()
+{
+	[Play a token]
+}
+MENU_TRADE()
+{
+	[EXCHANGE]
+}
+
+MENU_LIGHT_UP()
+{
+	[Light]
+}
+
+MENU_SIT()
+{
+	[Sit down]
+}
+MENU_BUY_NATION_ITEMS()
+{
+	[Buy Nation Items]
+}
+
+MENU_USE_PA()
+{
+	[use your involvement]
+}
+MENU_HAVE_MISSION()
+{
+	[Do you have any mission to assign me?]
+}
+MENU_CAN_I_HELP_YOU()
+{
+	[Can you help me?]
+}
+MENU_HAVE_SOMETHINH_FOR_ME()
+{
+	[Have you something for me?]
+}
+MENU_NEED_SOME_INFORMATIONS()
+{
+	[I need some informations...]
+}
+
+FACTION_RF()
+{
+	[Forge]
+}
+
+MENU_ZIGA()
+{
+	[Caress Ari.]
+}
+MENU_ZIGB()
+{
+	[Caress Tynee.]
+}
+MENU_OPEN_IT()
+{
+	[Open it!]
+}
+MENU_WOHA()
+{
+	[Woha]
+}
+MENU_LORDOY()
+{
+	[Lordoy]
+}
+MENU_DELES_SILAM()
+{
+	[Deles Silam]
+}
+MENU_BANARC()
+{
+	[Banarc]
+}
+MENU_WOREN_SILOY()
+{
+	[Woren Siloy]
+}
+
+MENU_DANGER()
+{
+	[Danger]
+}
+
+MENU_KAMIA_ATA()
+{
+	[Kamia'ata]
+}
+
+FACTION_USR_EN()
+{
+	[EN]
+}
+
+FACTION_USR_FR()
+{
+	[FR]
+}
+
+FACTION_USR_DE()
+{
+	[DE]
+}
+
+FACTION_USR_ES()
+{
+	[ES]
+}
+
+FACTION_USR_RU()
+{
+	[RU]
+}
+

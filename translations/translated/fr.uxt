@@ -10455,7 +10455,7 @@ uihelpItemJewelFormat	[@{FFF9}@{HuittInfoOrigin}Origine :@{H}@{T14}@{FFFF}%origi
 	@{FFF9}@{HuittInfoHP}Points de vie :@{H}@{T14}@{FFFF}%hp / %hpmax\n
 	%cansell@{FFF9}@{HuittInfoRequirement}Prérequis :@{H}@{T14}@{FFFF}%caracreq@{FFFF}%skillreq@{FFFF}%skillreq2\n
 	\n
-	%magic_protection%magic_resistance%buffs%desc%custom_text]
+	%magic_protection%magic_resistance%buffs%desc%enchantment%custom_text]
 
 // HASH_VALUE 6E6E2DA956AF0E3A
 // INDEX 2495
@@ -10559,7 +10559,7 @@ uittAuraDisabled	[ - Aura désactivée]
 
 // HASH_VALUE 41CC871412930664
 // INDEX 2508
-uihelpPhraseHeaderBricks	[@{FFFF}--- Briques ---]
+uihelpPhraseHeaderBricks	[ ]
 
 // HASH_VALUE 820FADA1D202D652
 // INDEX 2509
@@ -19456,7 +19456,6 @@ uittAliveLandscape	[L'animal est en vie, et en dehors de l'étable.\n
 // HASH_VALUE 3CB6917B84CD2195
 // INDEX 4693
 uittStable	[L'animal est à l'étable.\n
-	@{6F6F}Clic-gauche @{FFFF}pour sélectionner.\n
 	@{6F6F}Clic-droit @{FFFF}pour donner un ordre.]
 
 // HASH_VALUE AF075E2295E176F7
@@ -27228,422 +27227,696 @@ uigcFxAnisotropicFilter	[Filtrage anisotrope :]
 // INDEX 6470
 uigcFxAnisotropicFilterNone	[Aucun]
 
-// HASH_VALUE 050BB49718B1CAD4
+// HASH_VALUE 88333801E8DB40C0
 // INDEX 6471
+uiShowIconBuffs	[Afficher les statistiques et les enchantements sur les icônes]
+
+// HASH_VALUE 88333801264B40C0
+// INDEX 6472
+uittShowIconBuffs	[Afficher les statistiques et les enchantements sur les icônes]
+
+// HASH_VALUE 050BB49718B1CAD4
+// INDEX 6473
 uiShowClock12h	[Utiliser le système horaire sur 12 heures]
 
 // HASH_VALUE BCF4DB5845BC4EDA
-// INDEX 6472
+// INDEX 6474
 uittShowClock12h	[Si coché, utilise le système horaire sur 12 heures dans le radar et les messages du chat.]
 
 // HASH_VALUE 68F99C8C69A81273
-// INDEX 6473
+// INDEX 6475
 uiRadarUseCamera	[Le radar suit la rotation de la caméra.]
 
 // HASH_VALUE B83EBD58DE9C068F
-// INDEX 6474
+// INDEX 6476
 uittRadarUseCamera	[Si coché, utilise la rotation de la caméra pour la vue du radar.]
 
 // HASH_VALUE 82A1901C06A3F72E
-// INDEX 6475
+// INDEX 6477
 uiTotalPatch	[Patch total]
 
 // HASH_VALUE D091B40C4890BC25
-// INDEX 6476
+// INDEX 6478
 uiRequiredFiles	[Fichiers requis]
 
 // HASH_VALUE 8C42E02F0C01D422
-// INDEX 6477
+// INDEX 6479
 uiLodValue	[Normal]
 
 // HASH_VALUE 6878DC2CC23A6CB6
-// INDEX 6478
+// INDEX 6480
 uiDebugProfileFillRate	[Profilage du taux de remplissage]
 
 // HASH_VALUE 0F54678C93B4CBF6
-// INDEX 6479
+// INDEX 6481
 uiFixedMissionEntry_Mainland_Unknwown	[Continent / Inconnu]
 
 // HASH_VALUE CAB123089C80B66B
-// INDEX 6480
+// INDEX 6482
 uiNoFiles	[Aucun fichier...]
 
 // HASH_VALUE 4090240840902408
-// INDEX 6481
+// INDEX 6483
 uiByte	[o]
 
 // HASH_VALUE AA699882DFD7A376
-// INDEX 6482
+// INDEX 6484
 uiCP_Name_Generator	[Générateur de noms]
 
 // HASH_VALUE 6498541C641C14C8
-// INDEX 6483
+// INDEX 6485
 uiCP_Name_Generate	[Générer]
 
 // HASH_VALUE 609C1434705844D4
-// INDEX 6484
+// INDEX 6486
 uiCP_Maraudeur	[Maraudeur]
 
 // HASH_VALUE 92C6D489AAC438C4
-// INDEX 6485
+// INDEX 6487
 uiCP_Name_Policy	[Charte des noms]
 
 // HASH_VALUE E7473F9596B88799
-// INDEX 6486
+// INDEX 6488
 uiCP_FirstName	[Prénom]
 
 // HASH_VALUE 6467007F5645D768
-// INDEX 6487
+// INDEX 6489
 uiCP_LastName	[Nom]
 
 // HASH_VALUE 6DA7FC912D38D095
-// INDEX 6488
+// INDEX 6490
 uiHorizontal	[Horizontale]
 
 // HASH_VALUE 749C54586C5834A4
-// INDEX 6489
+// INDEX 6491
 uiVertical	[Verticale]
 
 // HASH_VALUE 641C5434641C5434
-// INDEX 6490
+// INDEX 6492
 uiKeyMUTE	[Muet]
 
 // HASH_VALUE 3165F321EF51FEF1
-// INDEX 6491
+// INDEX 6493
 uiKeyPLAYPAUSE	[Lecture / pause]
 
 // HASH_VALUE 26C8EF962CB49073
-// INDEX 6492
+// INDEX 6494
 uiKeyVOLUMEDOWN	[Diminuer le volume]
 
 // HASH_VALUE E828AC5B1985D0BD
-// INDEX 6493
+// INDEX 6495
 uiKeyVOLUMEUP	[Augmenter le volume]
 
 // HASH_VALUE E906D08868678C93
-// INDEX 6494
+// INDEX 6496
 uiKeyCALC	[Calculatrice]
 
 // HASH_VALUE 60C82889E9C9B49B
-// INDEX 6495
+// INDEX 6497
 uiKeyPARAGRAPH	[Paragraphe]
 
 // HASH_VALUE ECEC8E017F3FDAE2
-// INDEX 6496
+// INDEX 6498
 uiKeyOEM_102	[OEM 102]
 
 // HASH_VALUE 61B9BCDD9CF5F488
-// INDEX 6497
+// INDEX 6499
 uiFilterMenuDynamic	[%channel @{T12}/%shortcut]
 
 // HASH_VALUE 6588A87B1E781483
-// INDEX 6498
+// INDEX 6500
 uimwAppZone	[AppZone]
 
 // HASH_VALUE 6588A87B1E781483
-// INDEX 6499
+// INDEX 6501
 uiAppZone	[App Zone]
 
 // HASH_VALUE 27273D41B0FA7DD2
-// INDEX 6500
+// INDEX 6502
 uiPlayedTime	[Vous avez joué avec ce personnage pendant %time.]
 
 // HASH_VALUE EB1A8C8F22674C92
-// INDEX 6501
+// INDEX 6503
 uiPlaylistRefresh	[Rafraîchir]
 
 // HASH_VALUE 570A63956CA078B7
-// INDEX 6502
+// INDEX 6504
 uiFreeViewTablet	[Tablette ou écran tactile]
 
 // HASH_VALUE 781CF40C781CF40C
-// INDEX 6503
+// INDEX 6505
 uiCopy	[Copier]
 
 // HASH_VALUE AF4704666E75D097
-// INDEX 6504
+// INDEX 6506
 uiBrowse	[Atteindre]
 
 // HASH_VALUE 4046D798ED76B4BE
-// INDEX 6505
+// INDEX 6507
 cmdCreateGroupUsage1	[Syntaxe de la commande createGroup :]
 
 // HASH_VALUE 672F2158D608B33D
-// INDEX 6506
+// INDEX 6508
 cmdCreateGroupUsage2	[/createGroup nom_groupe : crée un groupe nom_groupe avec tous vos objets équippés]
 
 // HASH_VALUE 281F2D43F2731DEC
-// INDEX 6507
+// INDEX 6509
 cmdCreateGroupUsage3	[/createGroup nom_groupe true : crée un groupe nom_groupe avec tous vos objets équippés, et crée une commande de suppression pour chaque emplacement vide]
 
 // HASH_VALUE 87A04D4E0C663745
-// INDEX 6508
+// INDEX 6510
 cmdCreateGroupError	[Le groupe %name existe déjà, impossible d'en créer un autre avec le même nom.]
 
 // HASH_VALUE 57AAD85BEAA4D7B9
-// INDEX 6509
+// INDEX 6511
 cmdCreateGroupSuccess1	[Le groupe %name a été créé avec succès.]
 
 // HASH_VALUE 9C6A88FAC1CEA4DC
-// INDEX 6510
+// INDEX 6512
 cmdCreateGroupSuccess2	[Le groupe %name a été créé avec succès avec la suppression de tous les objets non équipés.]
 
 // HASH_VALUE EBB1FF685D7AFCC7
-// INDEX 6511
+// INDEX 6513
 cmdEquipGroupUsage1	[Syntaxe de la commande equipGroup :]
 
 // HASH_VALUE 0FDFE7D6741FF8C5
-// INDEX 6512
+// INDEX 6514
 cmdEquipGroupUsage2	[/equipGroup nom_groupe : Prend les objets du groupe nom_groupe à partir de l'inventaire et les équipe.]
 
 // HASH_VALUE 5434105FEEDBCB30
-// INDEX 6513
+// INDEX 6515
 cmdEquipGroupError	[Impossible d'équiper le groupe %name parce qu'il est introuvable.]
 
 // HASH_VALUE 5B9A98912A55C7C1
-// INDEX 6514
+// INDEX 6516
 cmdEquipGroupSuccess	[Le groupe %name a été équipé avec succès.]
 
 // HASH_VALUE 82B6A399EDB6D0B1
-// INDEX 6515
+// INDEX 6517
 cmdDeleteGroupUsage1	[Syntaxe de la commande deleteGroup :]
 
 // HASH_VALUE 2022F308D2F5591B
-// INDEX 6516
+// INDEX 6518
 cmdDeleteGroupUsage2	[/deleteGroup nom_groupe : Supprimer le groupe nom_groupe s'il existe.]
 
 // HASH_VALUE 06DA351B3C7F2E56
-// INDEX 6517
+// INDEX 6519
 cmdDeleteGroupError	[Impossible de supprimer le groupe %name : aucun groupe ne correspond à ce nom.]
 
 // HASH_VALUE 19D9DC5BEAA4D7BD
-// INDEX 6518
+// INDEX 6520
 cmdDeleteGroupSuccess	[Le groupe %name a été supprimé avec succès.]
 
 // HASH_VALUE ADEA727BDB89387A
-// INDEX 6519
+// INDEX 6521
 cmdMoveGroupUsage1	[Syntaxe de la commande moveGroup :]
 
 // HASH_VALUE 9AF23A3F90C2A5A1
-// INDEX 6520
+// INDEX 6522
 cmdMoveGroupUsage2	[/moveGroup nom_groupe destination : déplace les objets de tous les inventaires vers la destination.]
 
 // HASH_VALUE 5BE3F613CFC022DC
-// INDEX 6521
+// INDEX 6523
 cmdMoveGroupUsage3	[destination peut être : bag, player_room, guild, pet_animal1, pet_animal2, pet_animal3, pet_animal4]
 
 // HASH_VALUE 063AAC84DBD18975
-// INDEX 6522
+// INDEX 6524
 cmdMoveGroupError	[Impossible de déplacer le groupe %name vers %inventory parce qu'aucun groupe correspondant n'a été trouvé et/ou l'inventaire n'était pas valide.]
 
 // HASH_VALUE 53F23D1089A67059
-// INDEX 6523
+// INDEX 6525
 cmdMoveGroupSuccess	[Le groupe %name a été déplacé vers %inventory avec succès.]
 
 // HASH_VALUE AE999B8E9D9143A5
-// INDEX 6524
+// INDEX 6526
 cmdListGroupHeader	[Groupes d'objets disponibles :]
 
 // HASH_VALUE 5BD4C6549B44ABA5
-// INDEX 6525
+// INDEX 6527
 cmdListGroupLine	[* %name, contenant %size objets.]
 
 // HASH_VALUE 3267346D71E53896
-// INDEX 6526
+// INDEX 6528
 uimGroup	[Groupes]
 
 // HASH_VALUE 0C8BC4F4AE78A6B7
-// INDEX 6527
+// INDEX 6529
 uiMacroItemGroupEquip	[Équiper un groupe d'objets]
 
 // HASH_VALUE 5614A7A2A707B055
-// INDEX 6528
+// INDEX 6530
 uiMacroItemGroupName	[Nom du groupe d'objets]
 
 // HASH_VALUE AC27CF9914116C1B
-// INDEX 6529
+// INDEX 6531
 uiMacroItemGroupMove	[Déplacer un groupe d'objets]
 
 // HASH_VALUE A7A1CC916E59E066
-// INDEX 6530
+// INDEX 6532
 uiMacroItemGroupDestination	[Destination du groupe d'objets]
 
 // HASH_VALUE 1627848455283B93
-// INDEX 6531
+// INDEX 6533
 uiMapSearch	[Rechercher]
 
 // HASH_VALUE 1627848455283B93
-// INDEX 6532
+// INDEX 6534
 uittMapSearch	[Rechercher sur toute la carte]
 
+// HASH_VALUE 61B58F8A6784D397
+// INDEX 6535
+uiTargetLandmarkCmd	[Cibler un repère de la carte]
+
+// HASH_VALUE 67B96C23981A60BB
+// INDEX 6536
+uiTargetLandmarkCmdEntity	[Mots-clés de recherche des repères]
+
 // HASH_VALUE AB97946A68B6A07A
-// INDEX 6533
+// INDEX 6537
 uittInventorySearch	[Recherche]
 
 // HASH_VALUE 5814F40C5814F40C
-// INDEX 6534
+// INDEX 6538
 uimMacroCopy	[COPIE]
 
 // HASH_VALUE 5814F40C5814F40C
-// INDEX 6535
+// INDEX 6539
 uimMCCopy	[COPIE]
 
 // HASH_VALUE 649C144C649C144C
-// INDEX 6536
+// INDEX 6540
 uiSaveUI	[Sauvegarder]
 
 // HASH_VALUE 250AD73C1E3664A5
-// INDEX 6537
+// INDEX 6541
 uiInterfaceScale	[Échelle d’interface]
 
 //zigs
 // HASH_VALUE 77AF6FF4C1C0D2F2
-// INDEX 6538
+// INDEX 6542
 uitabInvPAZig1	[ZIG 1]
 
 // HASH_VALUE B7AF73F5C1D0D6F3
-// INDEX 6539
+// INDEX 6543
 uitabInvPAZig2	[ZIG 2]
 
 // HASH_VALUE F7AF77F6C1E0DAF4
-// INDEX 6540
+// INDEX 6544
 uitabInvPAZig3	[ZIG 3]
 
 // HASH_VALUE 77AF6FF4C1C0D2F2
-// INDEX 6541
+// INDEX 6545
 uiPABagTitleMount4	[ZIG 1]
 
 // HASH_VALUE B7AF73F5C1D0D6F3
-// INDEX 6542
+// INDEX 6546
 uiPABagTitleMount5	[ZIG 2]
 
 // HASH_VALUE F7AF77F6C1E0DAF4
-// INDEX 6543
+// INDEX 6547
 uiPABagTitleMount6	[ZIG 3]
 
 // HASH_VALUE 87B36F14D1C45212
-// INDEX 6544
+// INDEX 6548
 uiPATitleMount5	[Zig 1]
 
 // HASH_VALUE C7B37315D1D45613
-// INDEX 6545
+// INDEX 6549
 uiPATitleMount6	[Zig 2]
 
 // HASH_VALUE 07B37716D1E45A14
-// INDEX 6546
+// INDEX 6550
 uiPATitleMount7	[Zig 3]
 
+// HASH_VALUE 44BA1C01D1DDC0A2
+// INDEX 6551
+uittInBag	[L'animal est dans votre sac.\n
+	@{6F6F}Clic-droit @{FFFF}pour donner un ordre.]
+
 // HASH_VALUE 649A14CAE8181224
-// INDEX 6547
+// INDEX 6552
 uimEnterBag	[Mettre dans le sac]
 
 // HASH_VALUE 6ED2B0829544BF4E
-// INDEX 6548
+// INDEX 6553
 uimLeaveBag	[Sortir du sac]
 
 // HASH_VALUE 843E4EA6D3404359
-// INDEX 6549
+// INDEX 6554
 msgRollDiceLocal	[&SYS&@{FF1F}Vous avez fait %roll sur un lancer entre %min et %max.]
 
 // HASH_VALUE A506B06C29D47491
-// INDEX 6550
+// INDEX 6555
 uiGuildTabIsland	[Île]
 
+// HASH_VALUE F7F6CC407B89B9D3
+// INDEX 6556
+uiWelcome_around	[Le jeu de rôle est l'un des intérêts majeurs de Ryzom, et le canal Alentours est un lieu privilégié pour le pratiquer.]
+
+// HASH_VALUE B061D9467D44EA31
+// INDEX 6557
+uiWelcome_region	[Discutez ici avec les joueurs dont l'avatar se trouve dans la même région que le vôtre.]
+
+// HASH_VALUE DB96555152E1C24F
+// INDEX 6558
+uiWelcome_universe	[Le canal Univers est un canal multilingue essentiellement destiné aux joueurs qui demandent de l'aide sur le jeu et à ceux qui la leur apportent. Mais c'est aussi un canal convivial qui peut être utilisé pour discuter de Ryzom.]
+
+// HASH_VALUE 7C727C9DF8FD147A
+// INDEX 6559
+uiWelcome_kami	[Discutez ici avec les joueurs dont l'avatar partage le même culte que le vôtre.]
+
+// HASH_VALUE 7C727C9DF8FD147A
+// INDEX 6560
+uiWelcome_karavan	[Discutez ici avec les joueurs dont l'avatar partage le même culte que le vôtre.]
+
+// HASH_VALUE 83F0F7CB75FA4A0B
+// INDEX 6561
+uiWelcome_fyros	[Discutez ici avec les joueurs dont l'avatar est lui aussi un patriote.]
+
+// HASH_VALUE 41F017BE7599221C
+// INDEX 6562
+uiWelcome_tryker	[Discutez ici avec les joueurs dont l'avatar est lui aussi un citoyen.]
+
+// HASH_VALUE 418FCFE09AC93216
+// INDEX 6563
+uiWelcome_zorai	[Discutez ici avec les joueurs dont l'avatar est lui aussi un initié.]
+
+// HASH_VALUE C3E0F7D1EA953E03
+// INDEX 6564
+uiWelcome_matis	[Discutez ici avec les joueurs dont l'avatar est lui aussi un vassal.]
+
+// HASH_VALUE 3FD0F7F686091E17
+// INDEX 6565
+uiWelcome_marauder	[Discutez ici avec les joueurs dont l'avatar est lui aussi un maraudeur.]
+
+// HASH_VALUE C08FF7CDEA955607
+// INDEX 6566
+uiWelcome_ranger	[Discutez ici avec les joueurs dont l'avatar est lui aussi un ranger.]
+
 // HASH_VALUE CEAE0F5379D05435
-// INDEX 6551
+// INDEX 6567
 uiArtefactRestrict	[@{C02F}Votre allégeance ou le niveau de votre renommée ne vous permet pas d'utiliser cet objet.]
 
 // HASH_VALUE 8F2D062BF5B9C40F
-// INDEX 6552
+// INDEX 6568
 uiArtefactHelp	[Achetez un pacte avant d'en manquer.]
 
 // HASH_VALUE 2399649083687012
-// INDEX 6553
+// INDEX 6569
 uimIhideBanner	[Masquer la bannière de faction]
 
 // HASH_VALUE 6949609B83899C11
-// INDEX 6554
+// INDEX 6570
 uimIshowBanner	[Montrer la bannière de faction]
 
 // HASH_VALUE ABC89C4230B523CE
-// INDEX 6555
+// INDEX 6571
 uimIcloseOnTp	[Fermer la fenêtre lors des téléportations]
 
 // HASH_VALUE AC39905229BA7F54
-// INDEX 6556
+// INDEX 6572
 uimIopenOnTp	[Conserver la fenêtre ouverte lors des téléportations]
 
 // HASH_VALUE EB1A8C8F22674C92
-// INDEX 6557
+// INDEX 6573
 uimIrefresh	[Rafraîchir]
 
 // HASH_VALUE 210983972690C4AB
-// INDEX 6558
+// INDEX 6574
 uimIcompact	[Basculer en mode compact]
 
 // HASH_VALUE 649C144C649C144C
-// INDEX 6559
+// INDEX 6575
 uimChanSave	[Sauvegarder]
 
 // HASH_VALUE AA977387EA09F021
-// INDEX 6560
+// INDEX 6576
 uiChanSaveCB	[Enregistrer les canaux dynamiques]
 
 // HASH_VALUE 2D6AB02BF4A8CCB9
-// INDEX 6561
+// INDEX 6577
 uiChanAutoCB	[Restauration des canaux dynamiques]
 
 // HASH_VALUE 6E62AFABF9C9FF64
-// INDEX 6562
+// INDEX 6578
 uittChanSave	[Si coché, les canaux de discussion dynamiques sont stockés lors de la déconnexion ou de la sélection des caractères.\n
 	Vous pouvez également utiliser la commande @{6F6F6F}/saveChannel@{FFFFFF} pour exporter les canaux manuellement.]
 
 // HASH_VALUE 1937B73191F88AC6
-// INDEX 6563
+// INDEX 6579
 uittChanAuto	[Si coché, vos canaux de discussion dynamiques seront restaurés s'ils ne sont pas déjà ouverts.\n
 	Prévient la perte de canaux au redémarrage ou en cas de panne du serveur.]
 
-// HASH_VALUE F7F6CC407B89B9D3
-// INDEX 6564
-uiWelcome_around	[Le jeu de rôle est l'un des intérêts majeurs de Ryzom, et le canal Alentours est un lieu privilégié pour le pratiquer.]
+// HASH_VALUE A9CBC85A8532D0B3
+// INDEX 6580
+uiMissionCatalog	[Ouvrir le Carnet de Missions]
 
-// HASH_VALUE B061D9467D44EA31
-// INDEX 6565
-uiWelcome_region	[Discutez ici avec les joueurs dont l'avatar se trouve dans la même région que le vôtre.]
+// HASH_VALUE AA540E4CE618BC5D
+// INDEX 6581
+uiS2	[La saison en noir contre blanc]
 
-// HASH_VALUE DB96555152E1C24F
-// INDEX 6566
-uiWelcome_universe	[Le canal Univers est un canal multilingue essentiellement destiné aux joueurs qui demandent de l'aide sur le jeu et à ceux qui la leur apportent. Mais c'est aussi un canal convivial qui peut être utilisé pour discuter de Ryzom.]
+// HASH_VALUE 06588D16CC507DD7
+// INDEX 6582
+uiS2E0	[Épisode 1 : Celui où on redécouvre le Nexus]
 
-// HASH_VALUE 7C727C9DF8FD147A
-// INDEX 6567
-uiWelcome_kami	[Discutez ici avec les joueurs dont l'avatar partage le même culte que le vôtre.]
+// HASH_VALUE 609C1408705844C8
+// INDEX 6583
+uimGcmChat	[Demander poliment]
 
-// HASH_VALUE 7C727C9DF8FD147A
-// INDEX 6568
-uiWelcome_karavan	[Discutez ici avec les joueurs dont l'avatar partage le même culte que le vôtre.]
+// HASH_VALUE D808A99F289008AE
+// INDEX 6584
+uimGcmBullying	[Interroger sans ménagement]
 
-// HASH_VALUE 83F0F7CB75FA4A0B
-// INDEX 6569
-uiWelcome_fyros	[Discutez ici avec les joueurs dont l'avatar est lui aussi un patriote.]
+// teleport icon labels
+// HASH_VALUE 25098CA3E84980B6
+// INDEX 6585
+uiitAlmati	[almati]
 
-// HASH_VALUE 41F017BE7599221C
-// INDEX 6570
-uiWelcome_tryker	[Discutez ici avec les joueurs dont l'avatar est lui aussi un citoyen.]
+// HASH_VALUE A64970B7258AB4AA
+// INDEX 6586
+uiitRangerCamp	[ranger]
 
-// HASH_VALUE 418FCFE09AC93216
-// INDEX 6571
-uiWelcome_zorai	[Discutez ici avec les joueurs dont l'avatar est lui aussi un initié.]
+// HASH_VALUE 6B1994AE6B0BBCB1
+// INDEX 6587
+uiitShatteredRuins	[shattered]
 
-// HASH_VALUE C3E0F7D1EA953E03
-// INDEX 6572
-uiWelcome_matis	[Discutez ici avec les joueurs dont l'avatar est lui aussi un vassal.]
+// HASH_VALUE 69F8A4B2EBC9C4B1
+// INDEX 6588
+uiitShiningLake	[shining]
 
-// HASH_VALUE 3FD0F7F686091E17
-// INDEX 6573
-uiWelcome_marauder	[Discutez ici avec les joueurs dont l'avatar est lui aussi un maraudeur.]
+// HASH_VALUE 2DD9ECB16ABAC8AA
+// INDEX 6589
+uiitDunesOfExil	[dunes]
 
-// HASH_VALUE C08FF7CDEA955607
-// INDEX 6574
-uiWelcome_ranger	[Discutez ici avec les joueurs dont l'avatar est lui aussi un ranger.]
+// HASH_VALUE 70FAF8BAEEEAECB3
+// INDEX 6590
+uiitDyron	[dyron]
+
+// HASH_VALUE 6CA8FC8EEEF8FC89
+// INDEX 6591
+uiitFraharTowers	[frahar]
+
+// HASH_VALUE AA39E0B06AD888B1
+// INDEX 6592
+uiitOflovaksOasis	[oflovak]
+
+// HASH_VALUE 709A38B3B24940A5
+// INDEX 6593
+uiitOutlawCanyon	[outlaw]
+
+// HASH_VALUE 32EC54CB74CC38D4
+// INDEX 6594
+uiitPyr	[pyr]
+
+// HASH_VALUE 617B24C3614B34B7
+// INDEX 6595
+uiitSavageDunes	[savage]
+
+// HASH_VALUE 6F4BC8AF2A0BF0CF
+// INDEX 6596
+uiitSawdustMines	[sawdust]
+
+// HASH_VALUE 70D834CC6458848C
+// INDEX 6597
+uiitScorchedCorridor	[scorched]
+
+// HASH_VALUE AEE9DCBCECDA08B7
+// INDEX 6598
+uiitThesos	[thesos]
+
+// HASH_VALUE 6DFAB8B4EDE9D4B1
+// INDEX 6599
+uiitGroveOfUmbra	[grove]
+
+// HASH_VALUE E959B89C68E974B1
+// INDEX 6600
+uiitHavenOfPurity	[haven]
+
+// HASH_VALUE 6638C4A16928C4A1
+// INDEX 6601
+uiitHoiCho	[hoicho]
+
+// HASH_VALUE E98880A32748909A
+// INDEX 6602
+uiitJenLai	[jenlai]
+
+// HASH_VALUE 74D8E4AC74D8E4AC
+// INDEX 6603
+uiitKnotOfDementia	[knot]
+
+// HASH_VALUE 255854A8649888A0
+// INDEX 6604
+uiitMaidenGrove	[maiden]
+
+// HASH_VALUE E52894B06718ACAB
+// INDEX 6605
+uiitMinCho	[mincho]
+
+// HASH_VALUE 6458F4D86458F4D8
+// INDEX 6606
+uiitVoid	[void]
+
+// HASH_VALUE 609CF4E8609CF4E8
+// INDEX 6607
+uiitZora	[zora]
+
+// HASH_VALUE AE0AC0A92A0AA8C0
+// INDEX 6608
+uiitAbyssOfIchor	[abyss]
+
+// HASH_VALUE 2C8BF8B9ADC9B4A9
+// INDEX 6609
+uiitElusiveForest	[elusive]
+
+// HASH_VALUE A869A49DE54888AC
+// INDEX 6610
+uiitForbiddenDepths	[forbidden]
+
+// HASH_VALUE 641C149C641C149C
+// INDEX 6611
+uiitGateOfObscurity	[gate]
+
+// HASH_VALUE 649814B0649814B0
+// INDEX 6612
+uiitLandOfContinuity	[land]
+
+// HASH_VALUE B01AFCBB6FFAF0CE
+// INDEX 6613
+uiitNexus	[nexus]
+
+// HASH_VALUE AC5910B92FAAF4AB
+// INDEX 6614
+uiitSunkenCity	[sunken]
+
+// HASH_VALUE EC29ECB0ED1AC49F
+// INDEX 6615
+uiitTrenchOfTrials	[trench]
+
+// HASH_VALUE A9D9E8BA6AAAECB0
+// INDEX 6616
+uiitUnderSpring	[under]
+
+// HASH_VALUE 6C3920BDEB8AF8C2
+// INDEX 6617
+uiitWindyGate	[windy]
+
+// HASH_VALUE 6C58648464181490
+// INDEX 6618
+uiitAvendale	[avendale]
+
+// HASH_VALUE 6F1B18ADAFEA40BF
+// INDEX 6619
+uiitBountyBeaches	[bounty]
+
+// HASH_VALUE ECB994A5293ACCBC
+// INDEX 6620
+uiitCrystabell	[crystabell]
+
+// HASH_VALUE ACDACCA4681AA4B5
+// INDEX 6621
+uiitDewDrops	[dewdrop]
+
+// HASH_VALUE E6B874A269C96C9A
+// INDEX 6622
+uiitEnchantedIsle	[enchanted]
+
+// HASH_VALUE E7F86CAF682A94A4
+// INDEX 6623
+uiitFairhaven	[fairhaven]
+
+// HASH_VALUE F099FCB76CFAE0BD
+// INDEX 6624
+uiitFount	[fount]
+
+// HASH_VALUE A9A880AE26F8B4B1
+// INDEX 6625
+uiitLagoonsOfLoria	[lagoon]
+
+// HASH_VALUE EBFAD8BEEE2AB4B0
+// INDEX 6626
+uiitRestingWater	[resting]
+
+// HASH_VALUE 6889CCAE6889C8AF
+// INDEX 6627
+uiitWindermeer	[windermeer]
+
+// HASH_VALUE EA3908B7EB2AE0BC
+// INDEX 6628
+uiitWindsOfMuse	[winds]
+
+// HASH_VALUE 2C58F884AE58B484
+// INDEX 6629
+uiitAvalae	[avalae]
+
+// HASH_VALUE A6D9848B661930A0
+// INDEX 6630
+uiitDavae	[davae]
+
+// HASH_VALUE 6458C498649894D0
+// INDEX 6631
+uiitFleetingGarden	[fleeting]
+
+// HASH_VALUE 6DFAB8B4EDE9D4B1
+// INDEX 6632
+uiitGroveOfConfusion	[grove]
+
+// HASH_VALUE A85AC4A4683968A8
+// INDEX 6633
+uiitHereticsHovel	[heretic]
+
+// HASH_VALUE 2768949968A8A896
+// INDEX 6634
+uiitHiddenSource	[hidden]
+
+// HASH_VALUE AC58D4B16B58C8B2
+// INDEX 6635
+uiitKnollOfDissent	[knoll]
+
+// HASH_VALUE 2659A495689958A8
+// INDEX 6636
+uiitNatae	[natae]
+
+// HASH_VALUE 2DBB20BCEE8CF4BC
+// INDEX 6637
+uiitUpperBog	[upper]
+
+// HASH_VALUE 2948B4B72CAB20C3
+// INDEX 6638
+uiitYrkanis	[yrkanis]
+
+// HASH_VALUE F25F5861435C0FC9
+// INDEX 6639
+uiMP3SoundDisabled	[Le son du lecteur MP3 doit être activé]
+
+// HASH_VALUE 5625C0951A26AC98
+// INDEX 6640
+uiWindowSnapDistance	[Window snap distance]
+
+// HASH_VALUE 64B7F3EAD415ACC5
+// INDEX 6641
+uiWindowSnapInvert	[Snap only when SHIFT is held down]
+
+// HASH_VALUE 661A3BAA69A32459
+// INDEX 6642
+uiWindowSnap	[Window snap]
 

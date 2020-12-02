@@ -973,3 +973,27 @@ function game:updateCrystallizedSpellTooltip(crystallizedSpell)
 	updateTooltipCoords()	
 	return text
 end
+
+------------------------------------------------------------------------------------------------------------
+-- update craft window craftplan or item name and description
+-- craftphan
+--   uiCaller == ui:interface:phrase_faber_execution:header_opened
+--   dbPath   == UI:PHRASE:FABER:FABER_PLAN:SHEET
+-- selected item
+--   uiCaller == ui:interface:phrase_faber_execution:header_opened:item_result
+--   dbPath   == UI:PHRASE:FABER:RESULT_ITEM:SHEET
+function game:updatePhraseFaberPreview(dbPath)
+	local ui= getUICaller();
+	local sheet = getSheetName(getDbProp(dbPath))
+
+	local name = ui:find("name")
+	if (name ~= nil) then
+		ui:find("name").uc_hardtext = getSheetLocalizedName(sheet)
+	end
+
+	local desc = ui:find("desc")
+	if (desc ~= nil) then
+		ui:find("desc").uc_hardtext = getSheetLocalizedDesc(sheet)
+	end
+end
+

@@ -1,0 +1,27 @@
+#output temp\extracted_bot_names.xml
+#text
+<extracted_bot_names>
+	<translated>
+#para translated
+		<bot>
+			<name>$bot name$</name>
+			<translated_name>$translated name$</translated_name>
+		</bot>
+#tabtbl translated
+#include temp\translated_bot_names_utf-8.txt
+#text
+	</translated>
+	<extracted>
+#para extracted
+		<bot>
+			<name>$name$</name>
+			<short_name>$short_name$</short_name>
+			<sheet>$sheet$</sheet>
+			<gender>$gender$</gender>
+			<race>$race$</race>
+		</bot>
+#tabtbl extracted
+#include temp\extracted_bot_names.txt
+#text
+	</extracted>
+</extracted_bot_names>

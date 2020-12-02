@@ -87,6 +87,9 @@
 	<command name="target" action="no_target" params="" />
 	<command name="tar" action="no_target" params="" />
 
+	<command name="lmtar" action="target_landmark" params="search=+" />
+	<command name="lmtar" action="set_compass_north" params="compass=ui:interface:compass" />
+
 	<command name="assist" action="assist_target" params="" />
 	<command name="as" action="assist_target" params="" />
 

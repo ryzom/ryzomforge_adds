@@ -562,6 +562,48 @@
               onclick_cancel="leave_modal"
               onclick_cancel_param="" />
   </group>
+  <group type="modal"
+         id="change_contact_group"
+         exit_click_out="true"
+         posref="MM MR"
+         w="212"
+         child_resize_h="true"
+         child_resize_hmargin="14"
+         options="skin_modal"
+         on_active="set_keyboard_focus"
+         on_active_params="target=ui:interface:change_contact_group:change_contact_group_eb:eb|select_all=false">
+    
+    <view type="text"
+          id="text"
+          posref="TL TL"
+          x="8"
+          y="-8"
+          color="255 255 255 255"
+          global_color="false"
+          fontsize="12"
+          shadow="true"
+          hardtext="uiPeopleChangeContactGroup" />
+    <instance template="edit_box_widget"
+              id="change_contact_group_eb"
+              posref="TL TL"
+              x="6"
+              y="-24"
+              child_resize_h="true"
+              w="200"
+              onenter="change_contact_group"
+              max_num_chars="255"
+              entry_type="text" />
+    <instance template="button_ok_cancel"
+              posparent="change_contact_group_eb"
+              posref="BR TR"
+              x="0"
+              y="0"
+              onclick_ok="change_contact_group"
+              onclick_ok_param=""
+              onclick_cancel="leave_modal"
+              onclick_cancel_param="" />
+  </group>
+  
   <!-- ***************** -->
   <!-- * CHAT TEMPLATE * -->
   <!-- ***************** -->
@@ -865,7 +907,7 @@
             name="uiFilterMenuGuild"
             handler="chat_target_selected"
             params="guild"
-            formatted="true" />
+            formatted="true"/>
   </group>
   <!-- actual action handlers are created in code, this just lists the emotes we want to appear in the quick access menu -->
   <group type="menu"
@@ -1788,6 +1830,36 @@
       </group>
     </group>
   </template>
+  <!-- group header in friend list -->
+  <template name="people_list_group_header"
+            keep="true"
+            active="true"
+            movable="false"
+            opened="true"
+            id="system">
+    <group type="container"
+           id="#id"
+           w="252"
+           active="#active"
+           movable="#movable"
+           opened="#opened"
+           header_color="UI:SAVE:WIN:COLORS:COM"
+           global_color="false"
+           global_color_over="true">
+      <group id="header_closed"
+             x="0"
+             y="0"
+             h="16"
+             posref="TL TL">
+      </group>
+      <group id="header_opened"
+             x="0"
+             y="0"
+             h="16"
+             posref="TL TL">
+      </group>
+    </group>
+  </template>
   <!-- when you want to directly chat with a friend -->
   <template name="contact_chat_friend"
             keep="true"
@@ -1916,7 +1988,8 @@
     <action id="toggle_chat_eb_vis"
             name="uimToggleChatEBVis"
             handler="toggle_chat_eb_vis"
-            params="" />
+            params="" 
+            icon="r2_icon_chat_small.tga" />
     <separator />
   </group>
   <!-- MainChat Group menu. Code appends entries for selecting chat source (if tab is user chat) -->
@@ -1969,7 +2042,7 @@
         <action id="guild"
                 name="uimGuild"
                 usergroup_l="chat_menu_button"
-                usergroup_params_l="chat_db=GUILD_CHAT" />
+                usergroup_params_l="chat_db=GUILD_CHAT"  />
         <action id="universe"
                 name="uiUNIVERSE"
                 usergroup_l="chat_menu_button"
@@ -2014,7 +2087,8 @@
       </action>
       <action id="save"
               name="uimChanSave"
-              handler="lua:game:saveChannel(true)" />
+              handler="lua:game:saveChannel(true)" 
+              icon="r2_icon_save_small.tga" />
     <separator />
   </group>
   <!-- User Chat menu. Code append entries for selecting chat source -->
@@ -2039,11 +2113,13 @@
     <action id="team_target"
             name="uiSAY"
             handler="chat_target_selected"
-            params="say" />
+            params="say" 
+            icon="r2_icon_dialog_mini.tga" />
     <action id="team_target"
             name="uiSHOUT"
             handler="chat_target_selected"
-            params="shout" />
+            params="shout" 
+            icon="r2_icon_dialog_mini_over.tga" />
   </group>
   <template name="around_me_id"
             keep="true"
@@ -2134,15 +2210,18 @@
     <action id="dismiss"
             name="uimDismiss"
             handler="dismiss_member"
-            params="" />
+            params="" 
+            icon="r2ed_kicked_char.tga" />
     <action id="leader"
             name="uimSetTeamLeader"
             handler="set_team_leader"
-            params=""/>
+            params="" 
+            icon="r2_toolbar_group_small.tga"/>
     <action id="successor"
             name="uimSetSuccesor"
             handler="set_successor"
-            params=""/>
+            params="" 
+            icon="r2_player_admin.tga"/>
     <!--            <action id="emote" name="uimEmotes" hanlder="" params="">
                         <action id="emote1"  name="uimEmote1" handler="emote" params="emote_id=0"/>     
                         <action id="emote2"  name="uimEmote2" handler="emote" params="emote_id=1"/>     
@@ -2163,11 +2242,13 @@
     <action id="target"
             name="uimTarget"
             handler="team_target"
-            params="" />
+            params=""
+            icon="ico_aim.tga" />
     <action id="compass"
             name="uimTeamCompass"
             handler="set_team_compas"
-            params="compass=ui:interface:compass" />
+            params="compass=ui:interface:compass"
+            icon="lm_user_pushed.tga" />
     <separator />
   </group>
   <!-- links to enable leader options -->
@@ -2214,6 +2295,11 @@
             name="uimMoveToIgnoreList"
             handler="move_contact"
             params="list=0" />
+    <action id="group"
+	    name="uimChangeGroup"
+	    handler="change_contact_group_begin"
+	    params="group=ui:interface:change_contact_group"
+	    />
     <separator />
   </group>
   <group type="menu"
