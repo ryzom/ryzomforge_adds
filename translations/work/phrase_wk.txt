@@ -6187,5 +6187,28 @@ MENU_KAMIA_ATA()
 	[Kamia'ata]
 }
 
+FACTION_USR_EN()
+{
+	[EN]
+}
 
+FACTION_USR_FR()
+{
+	[FR]
+}
+
+FACTION_USR_DE()
+{
+	[DE]
+}
+
+FACTION_USR_ES()
+{
+	[ES]
+}
+
+FACTION_USR_RU()
+{
+	[RU]
+}
 

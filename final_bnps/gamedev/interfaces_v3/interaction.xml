@@ -562,6 +562,48 @@
               onclick_cancel="leave_modal"
               onclick_cancel_param="" />
   </group>
+  <group type="modal"
+         id="change_contact_group"
+         exit_click_out="true"
+         posref="MM MR"
+         w="212"
+         child_resize_h="true"
+         child_resize_hmargin="14"
+         options="skin_modal"
+         on_active="set_keyboard_focus"
+         on_active_params="target=ui:interface:change_contact_group:change_contact_group_eb:eb|select_all=false">
+    
+    <view type="text"
+          id="text"
+          posref="TL TL"
+          x="8"
+          y="-8"
+          color="255 255 255 255"
+          global_color="false"
+          fontsize="12"
+          shadow="true"
+          hardtext="uiPeopleChangeContactGroup" />
+    <instance template="edit_box_widget"
+              id="change_contact_group_eb"
+              posref="TL TL"
+              x="6"
+              y="-24"
+              child_resize_h="true"
+              w="200"
+              onenter="change_contact_group"
+              max_num_chars="255"
+              entry_type="text" />
+    <instance template="button_ok_cancel"
+              posparent="change_contact_group_eb"
+              posref="BR TR"
+              x="0"
+              y="0"
+              onclick_ok="change_contact_group"
+              onclick_ok_param=""
+              onclick_cancel="leave_modal"
+              onclick_cancel_param="" />
+  </group>
+  
   <!-- ***************** -->
   <!-- * CHAT TEMPLATE * -->
   <!-- ***************** -->
@@ -845,32 +887,27 @@
             name="uiFilterMenuAround"
             handler="chat_target_selected"
             params="say"
-            formatted="true" 
-            icon="r2_toolbar_set_as_leader.tga" />
+            formatted="true" />
     <action id="region"
             name="uiFilterMenuRegion"
             handler="chat_target_selected"
             params="region"
-            formatted="true" 
-            icon="rpjobitem_203_c.tga" />
+            formatted="true" />
     <action id="universe"
             name="uiFilterMenuUniverse"
             handler="chat_target_selected"
             params="universe"
-            formatted="true" 
-            icon="ico_atys.tga" />
+            formatted="true" />
     <action id="team"
             name="uiFilterMenuTeam"
             handler="chat_target_selected"
             params="team"
-            formatted="true" 
-            icon="teammate_map.tga" />
+            formatted="true" />
     <action id="guild"
             name="uiFilterMenuGuild"
             handler="chat_target_selected"
             params="guild"
-            formatted="true" 
-            icon="spe_memory.tga" />
+            formatted="true"/>
   </group>
   <!-- actual action handlers are created in code, this just lists the emotes we want to appear in the quick access menu -->
   <group type="menu"
@@ -1793,6 +1830,36 @@
       </group>
     </group>
   </template>
+  <!-- group header in friend list -->
+  <template name="people_list_group_header"
+            keep="true"
+            active="true"
+            movable="false"
+            opened="true"
+            id="system">
+    <group type="container"
+           id="#id"
+           w="252"
+           active="#active"
+           movable="#movable"
+           opened="#opened"
+           header_color="UI:SAVE:WIN:COLORS:COM"
+           global_color="false"
+           global_color_over="true">
+      <group id="header_closed"
+             x="0"
+             y="0"
+             h="16"
+             posref="TL TL">
+      </group>
+      <group id="header_opened"
+             x="0"
+             y="0"
+             h="16"
+             posref="TL TL">
+      </group>
+    </group>
+  </template>
   <!-- when you want to directly chat with a friend -->
   <template name="contact_chat_friend"
             keep="true"
@@ -1963,33 +2030,27 @@
         <action id="around"
                 name="uiAroundMe"
                 usergroup_l="chat_menu_button"
-                usergroup_params_l="chat_db=AROUND_ME" 
-                icon="r2_toolbar_set_as_leader.tga" />
+                usergroup_params_l="chat_db=AROUND_ME" />
         <action id="region"
                 name="uiREGION"
                 usergroup_l="chat_menu_button"
-                usergroup_params_l="chat_db=REGION_CHAT" 
-                icon="rpjobitem_203_c.tga" />
+                usergroup_params_l="chat_db=REGION_CHAT" />
         <action id="team"
                 name="uiTeam"
                 usergroup_l="chat_menu_button"
-                usergroup_params_l="chat_db=TEAM_CHAT" 
-                icon="teammate_map.tga" />
+                usergroup_params_l="chat_db=TEAM_CHAT" />
         <action id="guild"
                 name="uimGuild"
                 usergroup_l="chat_menu_button"
-                usergroup_params_l="chat_db=GUILD_CHAT" 
-                icon="spe_memory.tga" />
+                usergroup_params_l="chat_db=GUILD_CHAT"  />
         <action id="universe"
                 name="uiUNIVERSE"
                 usergroup_l="chat_menu_button"
-                usergroup_params_l="chat_db=UNIVERSE_CHAT" 
-                icon="ico_atys.tga" />
+                usergroup_params_l="chat_db=UNIVERSE_CHAT" />
         <action id="system"
                 name="uiSystemInfo"
                 usergroup_l="chat_menu_button"
-                usergroup_params_l="chat_db=SYSTEM_INFO" 
-                icon="spe_options.tga" />
+                usergroup_params_l="chat_db=SYSTEM_INFO" />
         <!-- Bit of a hack as vector is not supported inside a submenu -->
         <action id="dyn0"
                 name="0"
@@ -2234,6 +2295,11 @@
             name="uimMoveToIgnoreList"
             handler="move_contact"
             params="list=0" />
+    <action id="group"
+	    name="uimChangeGroup"
+	    handler="change_contact_group_begin"
+	    params="group=ui:interface:change_contact_group"
+	    />
     <separator />
   </group>
   <group type="menu"

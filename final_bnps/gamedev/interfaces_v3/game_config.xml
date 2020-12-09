@@ -1848,6 +1848,14 @@
                   posref="BL TL"
                   x="0"
                   y="-8" />
+	<instance template="tgcw_checkbox"
+		  id="show_translation_only_as_tooltip_cb"
+		  text="uiShowTranslationOnlyAsTooltip"
+		  tooltip="uittShowTranslationOnlyAsTooltip"
+		  posparent="enter_dontquit_cb"
+		  posref="BL TL"
+		  x="0"
+		  y="-8" />
         <link expr="@UI:SAVE:CHAT:ENTER_DONT_QUIT_CB"
               target="enter_dontquit_cb:c:pushed" />
         <link expr="@UI:SAVE:CHAT:SAVE_CHANNEL"
@@ -1860,6 +1868,8 @@
               target="show_dyn_channel_name_in_chat_cb:c:pushed" />
         <link expr="@UI:SAVE:CHAT:SHOW_ONLINE_OFFLINE_NOTIFICATIONS_CB"
               target="show_online_offline_notifications_cb:c:pushed" />
+	<link expr="@UI:SAVE:CHAT:SHOW_TRANSLATION_ONLY_AS_TOOLTIP_CB"
+	      target="show_translation_only_as_tooltip_cb:c:pushed" />
 	  </group>
       <ctrl style="skin_scroll"
             id="sb_chat_colors"
@@ -3545,6 +3555,11 @@
                widget="boolbut"
                link="UI:SAVE:CHAT:SHOW_ONLINE_OFFLINE_NOTIFICATIONS_CB"
                realtime="true" />
+	<param ui="chat_colors:show_translation_only_as_tooltip_cb:c"
+	       type="db"
+	       widget="boolbut"
+	       link="UI:SAVE:CHAT:SHOW_TRANSLATION_ONLY_AS_TOOLTIP_CB"
+	       realtime="true" />
         <param ui="chat_colors:font_size:c"
                type="db"
                widget="sbint"

@@ -73,7 +73,7 @@ _69B978A6A878E0B4	place_galemus	Galemus	Galemus	Galemus			in	nach
 _A8543324AA29C8B0	region_libertylake	See der Freiheit	See der Freiheit	See der Freiheit	der	den	im	zum
 _A314F0B0E1C9D4B5	region_dewdrops	Tautropfen	Tautropfen	Tautropfen			in	nach
 _1D3C352DEA09F4A3	region_restingwater	Ruhiges Wasser	Ruhiges Wasser	Ruhiges Wasser	das		in	nach
-_E33311255F58B0C1	region_windsofmuse	Winde der Musen (WoM)	Winde der Musen (WoM)	Winden der Musen (WoM)	die	die	in den	zu den
+_E33311255F58B0C1	region_windsofmuse	Winde der Musen	Winde der Musen	Winden der Musen	die	die	in den	zu den
 _2D589CAE64D990C6	region_thefount	Ursprung	Ursprung	Ursprung	der	den	im	zum
 _FDFBBD1DA5D884F4	region_bountybeaches	Strände des Überflusses	Strände des Überflusses	Stränden des Überflusses	die	die	in den	zu den
 _7E503D166815C3EB	region_enchantedisle	Verzauberte Insel	Verzauberte Insel	Verzauberten Insel	die	die	in der	zu der
