@@ -5060,14 +5060,6 @@ uiCultZo	[LES ZORAÏS : MAGES DE LA JUNGLE DU PAYS MALADE\n
 	Les Zoraïs sont les êtres mystiques d'Atys.\n
 	Ils sont devenus maîtres dans la manipulation des champs magnétiques qu'ils utilisent pour la fabrication des armes et des bâtiments.]
 
-uiEcoFy	[]
-
-uiEcoMa	[]
-
-uiEcoTr	[]
-
-uiEcoZo	[]
-
 uiExplcarac	[CARACTÉRISTIQUES\n
 	\n
 	Vous avez 20 points à ajouter à vos caractéristiques.\n
@@ -5384,8 +5376,6 @@ uihelpItemMPCraftRequirement	[@{FFF9}Utilisé comme composant dans la fabricatio
 	]
 
 uihelpItemMPAllCraft	[Tous les composants de l'objet]
-
-iompfUnknown	[]
 
 iompfCommon	[Toutes les races]
 
@@ -6071,7 +6061,7 @@ fct_stablegirl_merchant	[Palefrenière]
 
 fct_barmaid	[Serveuse]
 
-fct_civil	[]
+fct_civil	[(Civil)]
 
 fct_sage	[Sage]
 
@@ -7245,8 +7235,6 @@ uittNextExecutingPhrase	[Action suivante]
 
 uiCancelCast	[Annuler l'action en cours]
 
-uiBotChatPhrase	[]
-
 uiPhraseFaberExecute	[Créer un objet : %item.]
 
 uiPhraseFaberExecuteNoPlan	[Créer un objet.]
@@ -7362,8 +7350,6 @@ uiSelectMission	[Choisir une mission]
 uiAcceptMission	[Accepter cette mission ?]
 
 uiBotChatNews	[Nouvelles]
-
-uiBotChatMissionEnd	[]
 
 uiBotChatDynamicMission	[Mission dynamique]
 
@@ -10336,8 +10322,6 @@ uiCP_Name_Submit	[VALIDER]
 
 uiCP_Name_Invalid	[Nom entré non valide]
 
-uiLocation_	[]
-
 uiLocation_Play	[Jouer maintenant]
 
 uiLocation_Back	[Jouer plus tard]
@@ -11156,7 +11140,8 @@ uiEulaDecline	[JE REFUSE]
 
 uiEulaContent	[LICENCE RYZOM\n
 	\n
-	AVIS À L'UTILISATEUR : CE DOCUMENT EST UN CONTRAT. AVANT DE CLIQUER SUR LE BOUTON « J'ACCEPTE » CI-DESSOUS ET D'ACHEVER LA PROCÉDURE D'INSTALLATION OU D'ENREGISTREMENT, VEUILLEZ LE LIRE ATTENTIVEMENT. EN CLIQUANT SUR LE BOUTON « J'ACCEPTE », VOUS ACCEPTEZ LES TERMES DU PRÉSENT CONTRAT ET LES OBLIGATIONS   QU'IL CONTIENT. SI VOUS NESOUHAITEZ PAS DEVENIR PARTIE AU PRÉSENT CONTRAT OU ÊTRE LIÉ PAR L'ENSEMBLE DE SES STIPULATIONS, CLIQUEZ SUR LE BOUTON « ANNULER »ET VEUILLEZ NE PAS INSTALLER (OU VEUILLEZ DÉSINSTALLER, SELON LECAS) LE LOGICIEL, ET NE PAS L'UTILISER. En cas de difficultés relatives à la présente Licence, veuillez contacter le service clients Ryzom à l'adresse suivante support@ryzom.com\n
+	AVIS À L'UTILISATEUR : CE DOCUMENT EST UN CONTRAT. AVANT DE CLIQUER SUR LE BOUTON « J'ACCEPTE » CI-DESSOUS ET D'ACHEVER LA PROCÉDURE D'INSTALLATION OU D'ENREGISTREMENT, VEUILLEZ LE LIRE ATTENTIVEMENT. EN CLIQUANT SUR LE BOUTON « J'ACCEPTE », VOUS ACCEPTEZ LES TERMES DU PRÉSENT CONTRAT ET LES OBLIGATIONS   QU'IL CONTIENT. SI VOUS NE SOUHAITEZ PAS DEVENIR PARTIE AU PRÉSENT CONTRAT OU ÊTRE LIÉ PAR L'ENSEMBLE DE SES STIPULATIONS, CLIQUEZ SUR LE BOUTON « ANNULER » ET VEUILLEZ NE PAS INSTALLER (OU VEUILLEZ DÉSINSTALLER, SELON LE CAS) LE LOGICIEL, ET NE PAS L'UTILISER. EN ACCEPTANT LES TERMES DE CE CONTRAT, VOUS ACCEPTEZ ÉGALEMENT DE VOUS SOUMETTRE AU CODE DE CONDUITE QUE VOUS TROUVEREZ ICI : https://ryzom.com/terms-of-service\n
+	En cas de difficultés relatives à la présente Licence, veuillez contacter le service clients Ryzom à l'adresse suivante support@ryzom.com\n
 	\n
 	1. OBJET DU CONTRAT. La présente Licence Ryzom (ci-après le « Contrat ») constitue uncontrat entre vous et Winch Gate Property Limited (ci-après « Winch Gate » ou « nous »). Il a pour objet de définir les conditions auxquelles Winch Gate concède à l'utilisateur autorisé (tel quedéfini à l'article 2 ci-après) les services suivants relatifs aujeu massivement multijoueur en ligne Ryzom (ci-après « Ryzom » ou le « Jeu » ou « Ryzom Arkitect » ), consistant dans l'ouverture et le maintien d'un compte permettant, par l'intermédiaire de l'Internet, de jouer au Jeu, et d'utiliser notre outil en jeu Ryzom Arkitect pour créer du contenu interne au jeu.\n
 	\n
@@ -12309,8 +12294,6 @@ uimItemTextEdit	[Écrire]
 uimItemTextDisplay	[Lire]
 
 uiTabInfo	[Clic-droit pour séparer]
-
-uiItemSpecialEffectFlyingTextISE_FIGHT_ADD_CRITICAL	[]
 
 uiItemSpecialEffectFlyingTextISE_FIGHT_VAMPIRISM	[Vol de vie : %param]
 
@@ -13882,9 +13865,7 @@ uiBGD_LoadPackageList	[Chargement de la liste des packages disponible]
 
 uiBGD_RequiredSize	[Taille requise : {0}]
 
-uiBGD_Download	[]
-
-uiBGD_Installing	[]
+uiBGD_Download	[Download]
 
 uiBGD_ScanData	[Vérification approfondie]
 
@@ -14621,4 +14602,12 @@ uiWindowSnapDistance	[Window snap distance]
 uiWindowSnapInvert	[Snap only when SHIFT is held down]
 
 uiWindowSnap	[Window snap]
+
+uimChangeGroup	[Déplacer dans un groupe d'amis]
+
+uiPeopleChangeContactGroup	[Nom du groupe d'amis]
+
+uiShowTranslationOnlyAsTooltip	[Messages originaux affichés par défaut et traductions en info-bulles]
+
+uittShowTranslationOnlyAsTooltip	[Si coché, les messages des joueurs seront affichés dans leur langue originale mais leur traduction ne sera affichée en info-bulle qu'au survol par la souris.]
 
