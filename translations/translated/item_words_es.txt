@@ -1598,15 +1598,15 @@
 -	m0001dxafd01	Manojo de Madera de Abhaya Selecta del Bosque	un	el	Manojos de Madera de Abhaya Selecta del Bosque		los	
 -	m0001dxafe01	Manojo de Madera de Abhaya Excelente del Bosque 	un	el	Manojos de Madera de Abhaya Excelente del Bosque 		los	
 -	m0001dxaff01	Manojo de Madera de Abhaya Suprema del Bosque	un	el	Manojos de Madera de Abhaya Suprema del Bosque		los	
--	m0001dxajd01	Manojo de Madera de Abhaya Suprema de la Selva	un	el	Manojos Selectos de Madera de Abhaya Suprema de la Selva		los	
+-	m0001dxajd01	Manojo de Madera de Abhaya Selecta de la Selva	un	el	Manojos de Madera de Abhaya Suprema Selecta de la Selva		los	
 -	m0001dxaje01	Manojo de Madera de Abhaya Excelente de la Selva 	un	el	Manojos de Madera de Abhaya Excelente de la Selva		los	
 -	m0001dxajf01	Manojo de Madera de Abhaya Selecta de la Selva 	un	el	Manojos de Madera de Abhaya Selecta de la Selva		los	
 -	m0001dxald01	Manojo de Madera de Abhaya Selecta de los Lagos	un	el	Manojos de Madera de Abhaya Selecta de los Lagos		los	
 -	m0001dxale01	Manojo de Madera de Abhaya Excelente de los Lagos 	un	el	Manojos de Madera de Abhaya Excelente de los Lagos 		los	
 -	m0001dxalf01	Manojo de Madera de Abhaya Suprema de los Lagos	un	el	Manojos de Madera de Abhaya Suprema de los Lagos 		los	
--	m0001dxapd01	Manojo de Madera de Abhaya de Selección de la Primera Raíz	un	el	Manojos de Madera de Abhaya de Selección de la Primera Raíz 		los	
+-	m0001dxapd01	Manojo de Madera de Abhaya Selecta de la Primera Raíz	un	el	Manojos de Madera de Abhaya Selecta de la Primera Raíz 		los	
 -	m0001dxape01	Manojo de Madera de Abhaya Excelente de la Primera Raíz	un	el	Manojos de Madera de Abhaya Excelente de la Primera Raíz		los	
--	m0001dxapf01	Manojo de Selección de Madera de Abhaya Suprema de la Primera Raíz	un	el	Manojos de Selección de Madera de Abhaya Suprema de la Primera Raíz		los	
+-	m0001dxapf01	Manojo de Madera de Abhaya Suprema de la Primera Raíz	un	el	Manojos de Madera de Abhaya Suprema de la Primera Raíz		los	
 -	m0006dxacb01	Fibra Básica de Anete 	algo de	la	Fibras Básicas de Anete 		las	
 -	m0006dxacc01	Fibra Fina de Anete 	algo de	la	Fibras Finas de Anete		las	
 -	m0006dxadd01	Fibra de Anete Selecta del Desierto	algo de 	la	Fibras de Anete Selectas del Desierto		las	
@@ -6949,3 +6949,5 @@
 -	zig_yubo_white	Zig Yubo	une	el	Zig Yubo	unos	los	
 -	zig_yubo_lakes	Zig Yubo	une	el	Zig Yubo	unos	los	
 -	zig_yubo_forest	Zig Yubo	une	el	Zig Yubo	unos	los	
+-	bag	
+-	mochilla	

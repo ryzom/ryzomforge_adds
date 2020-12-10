@@ -6658,9 +6658,13 @@ uiEulaAccept	[I ACCEPT]
 
 uiEulaContent	[RYZOM LICENSE\n
 	\n
+<<<<<<< HEAD
+	A NOTICE TO THE USER: THIS DOCUMENT IS A CONTRACT. BEFORE CLICKING ON THE "I ACCEPT" BUTTON BELOW AND COMPLETING THE INSTALLATION OR REGISTRATION PROCEDURE, PLEASE READ IT CAREFULLY. WHEN YOU CLICK ON "I ACCEPT", YOU ARE ACCEPTING THE TERMS OF THIS CONTRACT AND THE OBLIGATIONS CONTAINED IN IT. IF YOU DO NOT WANT TO BE A PARTY TO THIS CONTRACT OR TO BE BOUND BY ALL OF ITS TERMS, THEN CLICK "CANCEL" AND DO NOT INSTALL THE SOFTWARE (OR UNINSTALL IT IF INSTALLED), AND DO NOT USE IT. If you have any difficulty in relation to this License, please contact Ryzom Customer Service at support@ryzom.com.\n
+=======
 	A NOTICE TO THE USER: THIS DOCUMENT IS A CONTRACT. BEFORE CLICKING ON THE "I ACCEPT" BUTTON BELOW AND COMPLETING THE INSTALLATION OR REGISTRATION PROCEDURE, PLEASE READ IT CAREFULLY. WHEN YOU CLICK ON "I ACCEPT", YOU ARE ACCEPTING THE TERMS OF THIS CONTRACT AND THE OBLIGATIONS CONTAINED IN IT. IF YOU DO NOT WANT TO BE A PARTY TO THIS CONTRACT OR TO BE BOUND BY ALL OF ITS TERMS, THEN CLICK "CANCEL" AND DO NOT INSTALL THE SOFTWARE (OR UNINSTALL IT IF INSTALLED), AND DO NOT USE IT.\n
 	ACCEPTING THE TERMS OF THIS AGREEMENT, YOU ALSO AGREE TO ABIDE BY THE CODE OF CONDUCT THAT YOU WILL FIND HERE: https://ryzom.com/terms-of-service\n
 	If you have any difficulty in relation to this License, please contact Ryzom Customer Service at support@ryzom.com.\n
+>>>>>>> master
 	\n
 	1. OBJECT OF THE CONTRACT. This Ryzom License (from here on referred to as "the Contract") is a contract between you and Winch Gate Property Limited ("Winch Gate" or "We/us"). Its purpose is to establish the terms on which Winch Gate provides (as defined in Article 2 below) the following services to an authorized user in relation to the massively multiplayer on-line game Ryzom ("Ryzom" or "the Game" or "Ryzom Arkitect"). The services comprise the opening and maintenance of an account enabling the user to play the Game over the Internet and to use our ingame tool, Ryzom Arkitect, to create inside content for the game.\n
 	\n
@@ -7413,6 +7417,253 @@ uiGuildTeam	[GUILD & TEAM]
 uiGuildTitle	[GUILD INFO]
 
 uiGuildViewOutposts	[View Outposts]
+<<<<<<< HEAD
+
+uiGuildXP	[GUILD XP:]
+
+uihAbilitiesItem	[Abilities/Items]
+
+uihActionBook	[Actions]
+
+uiHair	[HAIR]
+
+uiHairColor	[HAIR COLOR]
+
+uiHaircut	[HAIRCUT]
+
+uihAmmo	[Ammo]
+
+uiHands	[Actions]
+
+uiHands2	[Actions #2]
+
+uiHandsTitle	[HANDS]
+
+uiHardwareCursor	[Hardware Cursor]
+
+uihArmor	[Armor]
+
+uiHarvestor	[Harvestor]
+
+uihBrick	[Stanzas]
+
+uihBuySellBot	[Buy/Sell]
+
+uihCompas	[Compass]
+
+uihCraftTool	[Crafting Tools]
+
+uihCreateNewChar	[Create character]
+
+uihCredits	[GAME CREDITS]
+
+uiHDTexture	[High Resolution Texture]
+
+uiHeadAccel	[Head Acceleration]
+
+uiHeadSpeed	[Head Speed]
+
+uiHeight	[HEIGHT]
+
+uiHelColor	[Help Windows]
+
+uiHelmet	[HELMET]
+
+uiHelp	[Help]
+
+uihelpAuraDisabled	[\n
+	\n
+	This aura is disabled.\n
+	You may be out of the area, or you may need to wait some time to be affected again by this aura.]
+
+uihelpBrickCombatSkillSeparator	[@{FFF9} or\n
+	@{T8}@{FFFF}]
+
+uihelpBrickFaberFormat	[@{FFF9}Level:@{T10}@{FFFF}%lvl\n
+	%ks@{FFF9}Skill:@{T10}@{FFFF}%skill\n
+	%ks@{FFF9}%hcost:@{T10}@{FFFF}%cost\n
+	\n
+	@{FFF9}Tool Type:@{T10}@{FFFF}%tool\n
+	@{FFF9}Item Parts Required:@{FFFF}\n
+	%mpinfo@{FFF9}Specific Items Required:@{FFFF}\n
+	%mpformula\n
+	@{FFFF}%desc]
+
+uihelpBrickFormat	[@{FFF9}Level:@{T10}@{FFFF}%lvl\n
+	%ks@{FFF9}Skill:@{T10}@{FFFF}%skill\n
+	%ks@{FFF9}%hcost:@{T10}@{FFFF}%cost\n
+	%magicresist\n
+	@{FFFF}%desc]
+
+uihelpBrickMagicResist	[@{FFF9}Magic Domain:\n
+	@{T4}@{FFFF}%t\n
+	]
+
+uihelpBuilding	[Building Details]
+
+uihelpBuildingRequirement	[Building Requirement Details]
+
+uihelpFaberMpHeader	[%f]
+
+uihelpItemAmmoFormat	[@{FFF9}@{HuittInfoOrigin}Origin:@{H}@{T10}@{FFFF}%origin\n
+	@{FFF9}@{HuittInfoWeaponQuality}Quality:@{H}@{T10}@{FFFF}%quality\n
+	@{FFF9}@{HuittInfoWeight}Weight:@{H}@{T10}@{FFFF}%weight Kg\n
+	@{FFF9}@{HuittInfoBulk}Bulk:@{H}@{T10}@{FFFF}%bulk\n
+	@{FFF9}@{HuittInfoHP}Hit Points:@{H}@{T10}@{FFFF}%hp/%hpmax\n
+	@{FFF9}@{HuittInfoItemSkill}Skill:@{H}@{T10}@{FFFF}%skill\n
+	%cansell\n
+	\n
+	@{FFF9}@{HuittInfoAmmoMagazine}Magazine:@{H}@{T16}@{FFFF}%magazine\n
+	@{FFF9}@{HuittInfoDamageType}Damage Type:@{H}@{T16}@{FFFF}%dmtype\n
+	@{FFF9}@{HuittInfoAmmoDamage}Damage:@{H}@{T16}@{FFFF}%dmg (@{T12}@{FFFF}%max_dmg)\n
+	@{FFF9}@{HuittInfoAmmoHitMin}Hit/Minute:@{H}@{T16}@{FFFF}%speed\n
+	@{FFF9}@{HuittInfoAmmoRange}Range:@{H}@{T16}@{FFFF}%range\n
+	\n
+	@{FFFF}%desc]
+
+uihelpItemAnimal	[This item represents your\n
+	animal #%petnumber.\n
+	\n
+	You can give or sell an animal through this item, but only if your animal's inventory is empty!\n
+	\n
+	%cansell\n
+	%desc%custom_text]
+
+uihelpItemAnySkillReqMetFmt	[\n
+	@{FFFF}%d @{FFF9}in @{FFFF}any skill]
+
+uihelpItemAnySkillReqNotMetFmt	[\n
+	@{F80B}%d in any skill]
+
+uihelpItemArmorFormat	[@{FFF9}@{HuittInfoOrigin}Origin:@{H}@{T10}@{FFFF}%origin\n
+	@{FFF9}@{HuittInfoArmorQuality}Quality:@{H}@{T10}@{FFFF}%quality\n
+	@{FFF9}@{HuittInfoWeight}Weight:@{H}@{T10}@{FFFF}%weight Kg\n
+	@{FFF9}@{HuittInfoBulk}Bulk:@{H}@{T10}@{FFFF}%bulk\n
+	@{FFF9}@{HuittInfoHP}Hit Points:@{H}@{T10}@{FFFF}%hp/%hpmax\n
+	%cansell\n
+	@{FFF9}@{HuittInfoRequirement}Requirements:@{H}@{T12}@{FFFF}%caracreq@{FFFF}%skillreq@{FFFF}%skillreq2\n
+	\n
+	@{FFF9}@{HuittInfoArmorType}Armor Type:@{H}@{T16}@{FFFF}%armor %armor_bonus\n
+	@{FFF9}@{HuittInfoDodgeMod}Dodge Modifier:@{H}@{T16}@{FFFF}%dodge\n
+	@{FFF9}@{HuittInfoParryMod}Parry Modifier:@{H}@{T16}@{FFFF}%parry\n
+	@{FFF9}@{HuittInfoMalus}Action Malus:@{H}@{T16}@{FFFF}+%actmalus\n
+	@{FFF9}@{HuittInfoArmorProtection}Protection:@{H}@{T16}@{FFFF}%protect%\n
+	@{FFF9}  @{HuittInfoArmorSlash}Max. vs Slash:@{H}@{T16}@{FFFF}%p_slash\n
+	@{FFF9}  @{HuittInfoArmorBlunt}Max. vs Smash:@{H}@{T16}@{FFFF}%p_blunt\n
+	@{FFF9}  @{HuittInfoArmorPierc}Max. vs Pierce:@{H}@{T16}@{FFFF}%p_pierce\n
+	%buffs%special_effects%desc%custom_text]
+
+uihelpItemCantSell	[@{F80B}This item cannot be sold to a merchant.@{FFFF}\n
+	]
+
+uihelpItemCaracReqAnd	[\n
+	@{FFF9}and@{FFFF}]
+
+uihelpItemCaracReqMetFmt	[\n
+	@{FFFF}%d @{FFF9}in @{FFFF}%s]
+
+uihelpItemCaracReqNone	[None]
+
+uihelpItemCaracReqNotMetFmt	[\n
+	@{F80B}%d in %s]
+
+uihelpItemChargeSpell	[@{FFF9}Sap Load:@{T10}@{FFFF}%quality\n
+	@{FFF9}@{HuittInfoBulk}Bulk:@{H}@{T10}@{FFFF}%bulk\n
+	\n
+	This item can be used\n
+	to reload the sap of an enchanted weapon.\n
+	\n
+	Place the weapon you want to reload in your right hand, then right-click on the recharge and choose "Reload Right Hand".\n
+	\n
+	The current sap load and maximum charge that the item can hold can be seen by clicking the right mouse button on the item and selecting 'Info'.\n
+	\n
+	%cansell%custom_text]
+
+uihelpItemConsumableFormat	[@{FFF9}Consumption Time:@{T16}@{FFFF}%consumption_time sec.\n
+	@{FFF9}Reuse Time:@{T16}@{FFFF}%overdose_timer_min minutes %overdose_timer_sec\n
+	\n
+	\n
+	@{FFFF}%consumable_effects%custom_text]
+
+uihelpItemCosmetic	[\n
+	\n
+	%cansell\n
+	@{FFFF}%desc]
+
+uihelpItemCosmeticDontFit	[@{F80B}This cosmetic feature cannot be applied on you because of your race or gender@{FFFF}\n
+	]
+
+uihelpItemCraftingToolFormat	[@{FFF9}@{HuittInfoOrigin}Origin:@{H}@{T10}@{FFFF}%origin\n
+	@{FFF9}@{HuittInfoToolQuality}Quality:@{H}@{T10}@{FFFF}%quality\n
+	@{FFF9}@{HuittInfoWeight}Weight:@{H}@{T10}@{FFFF}%weight Kg\n
+	@{FFF9}@{HuittInfoBulk}Bulk:@{H}@{T10}@{FFFF}%bulk\n
+	@{FFF9}@{HuittInfoHP}Hit Points:@{H}@{T10}@{FFFF}%hp/%hpmax\n
+	@{FFF9}@{HuittToolCraftType}Tool Type:@{H}@{T10}@{FFFF}%tool\n
+	%cansell\n
+	@{FFF9}@{HuittInfoRequirement}Requirements:@{H}@{T16}@{FFFF}%caracreq@{FFFF}%skillreq@{FFFF}%skillreq2\n
+	%buffs\n
+	%special_effects\n
+	\n
+	@{FFFF}%desc%custom_text]
+
+uihelpItemCrystalSpell	[This item can be used to\n
+	enchant a weapon.\n
+	\n
+	Place the weapon you want to enchant in your right hand.\n
+	\n
+	Then right-click on this crystal, and choose "Enchant Right Hand".\n
+	\n
+	Note that applying a Crystallized Spell overwrites any previous enchantment on the item.\n
+	\n
+	%cansell\n
+	%enchantment%custom_text]
+
+uihelpItemDefaultFormat	[@{FFF9}@{HuittInfoWeight}Weight:@{H}@{T10}@{FFFF}%weight Kg\n
+	@{FFF9}@{HuittInfoBulk}Bulk:@{H}@{T10}@{FFFF}%bulk\n
+	\n
+	%cansell\n
+	@{FFFF}%desc%no_rent@{FFFF}%descnr%custom_text]
+
+uihelpItemFaberPrefix	[%p %n]
+
+uihelpItemFaberPrefixAndSuffix	[%p %n %s]
+
+uihelpItemFocusBonus	[@{FFF9}Focus Bonus:@{T16}@{2F2F}%val\n
+	]
+
+uihelpItemFocusMalus	[@{FFF9}Focus Penalty:@{T16}@{F44F}%val\n
+	]
+
+uihelpItemHarvestToolFormat	[@{FFF9}@{HuittInfoOrigin}Origin:@{H}@{T10}@{FFFF}%origin\n
+	@{FFF9}@{HuittInfoToolQuality}Quality:@{H}@{T10}@{FFFF}%quality\n
+	@{FFF9}@{HuittInfoWeight}Weight:@{H}@{T10}@{FFFF}%weight Kg\n
+	@{FFF9}@{HuittInfoBulk}Bulk:@{H}@{T10}@{FFFF}%bulk\n
+	@{FFF9}@{HuittInfoHP}Hit Points:@{H}@{T10}@{FFFF}%hp/%hpmax\n
+	%cansell\n
+	@{FFF9}@{HuittInfoRequirement}Requirements:@{H}@{T16}@{FFFF}%caracreq@{FFFF}%skillreq@{FFFF}%skillreq2\n
+	%buffs\n
+	%special_effects\n
+	\n
+	@{FFFF}%desc%custom_text]
+
+uihelpItemHpBonus	[@{FFF9}HP Bonus:@{T16}@{2F2F}%val\n
+	]
+
+uihelpItemHpMalus	[@{FFF9}HP Penalty:@{T16}@{F44F}%val\n
+	]
+
+uihelpItemJewelFormat	[@{FFF9}@{HuittInfoOrigin}Origin:@{H}@{T10}@{FFFF}%origin\n
+	@{FFF9}@{HuittInfoJewelryQuality}Quality:@{H}@{T10}@{FFFF}%quality\n
+	@{FFF9}@{HuittInfoWeight}Weight:@{H}@{T10}@{FFFF}%weight Kg\n
+	@{FFF9}@{HuittInfoBulk}Bulk:@{H}@{T10}@{FFFF}%bulk\n
+	@{FFF9}@{HuittInfoHP}Hit Points:@{H}@{T10}@{FFFF}%hp/%hpmax\n
+	%cansell\n
+	@{FFF9}@{HuittInfoRequirement}Requirements:@{H}@{T16}@{FFFF}%caracreq@{FFFF}%skillreq@{FFFF}%skillreq2\n
+	\n
+	%magic_protection%magic_resistance%buffs%desc%enchantment%custom_text]
+
+uihelpItemMagicBonusAll	[@{FFF9}Bonus for All Magic:\n
+=======
 
 uiGuildXP	[GUILD XP:]
 
@@ -7668,10 +7919,35 @@ uihelpItemMagicBonusDefAffliction	[@{FFF9}Bonus For Defensive Affliction Magic:\
 	]
 
 uihelpItemMagicBonusDefHeal	[@{FFF9}Bonus For Defensive Heal Magic:\n
+>>>>>>> master
 	@{T3}Cast Speed:@{T16}@{FFFF}%cs%@{FFF9}\n
 	@{T3}Power:@{T16}@{FFFF}%mp%\n
 	]
 
+<<<<<<< HEAD
+uihelpItemMagicBonusDefAffliction	[@{FFF9}Bonus For Defensive Affliction Magic:\n
+	@{T3}Cast Speed:@{T16}@{FFFF}%cs%@{FFF9}\n
+	@{T3}Power:@{T16}@{FFFF}%mp%\n
+	]
+
+uihelpItemMagicBonusDefHeal	[@{FFF9}Bonus For Defensive Heal Magic:\n
+=======
+uihelpItemMagicBonusHeader	[\n
+	@{FFFF}Magic Bonus@{FFF9} if the spell has a Spell Level below or equal to @{FFFF}%mglvl@{FFF9}:\n
+	]
+
+uihelpItemMagicBonusOffAffliction	[@{FFF9}Bonus For Offensive Affliction Magic:\n
+	@{T3}Cast Speed:@{T16}@{FFFF}%cs%@{FFF9}\n
+	@{T3}Power:@{T16}@{FFFF}%mp%\n
+	]
+
+uihelpItemMagicBonusOffElemental	[@{FFF9}Bonus For Offensive Elemental Magic:\n
+>>>>>>> master
+	@{T3}Cast Speed:@{T16}@{FFFF}%cs%@{FFF9}\n
+	@{T3}Power:@{T16}@{FFFF}%mp%\n
+	]
+
+<<<<<<< HEAD
 uihelpItemMagicBonusHeader	[\n
 	@{FFFF}Magic Bonus@{FFF9} if the spell has a Spell Level below or equal to @{FFFF}%mglvl@{FFF9}:\n
 	]
@@ -10389,6 +10665,2711 @@ uiNumber14	[14]
 
 uiNumber15	[15]
 
+=======
+uihelpItemMeleeWeaponFormat	[@{FFF9}@{HuittInfoOrigin}Origin:@{H}@{T10}@{FFFF}%origin\n
+	@{FFF9}@{HuittInfoWeaponQuality}Quality:@{H}@{T10}@{FFFF}%quality\n
+	@{FFF9}@{HuittInfoWeight}Weight:@{H}@{T10}@{FFFF}%weight Kg\n
+	@{FFF9}@{HuittInfoBulk}Bulk:@{H}@{T10}@{FFFF}%bulk\n
+	@{FFF9}@{HuittInfoHP}Hit Points:@{H}@{T10}@{FFFF}%hp/%hpmax\n
+	@{FFF9}@{HuittInfoWeaponSapLoad}Sap Load:@{H}@{T10}@{FFFF}%sap/%sapmax\n
+	@{FFF9}@{HuittInfoItemSkill}Skill:@{H}@{T10}@{FFFF}%skill\n
+	%cansell\n
+	@{FFF9}@{HuittInfoRequirement}Requirements: @{H}@{T10}@{FFFF}%caracreq@{FFFF}%skillreq@{FFFF}%skillreq2\n
+	\n
+	@{FFF9}@{HuittInfoDamageType}Damage Type:@{H}@{T16}@{FFFF}%dmtype\n
+	@{FFF9}@{HuittInfoWeaponDamage}Damage:@{H}@{T16}@{FFFF}%dmg (@{T12}@{FFFF}%max_dmg)\n
+	@{FFF9}@{HuittInfoWeaponHitMin}Hit/Minute:@{H}@{T16}@{FFFF}%speed\n
+	@{FFF9}@{HuittInfoWeaponReach}Reach:@{H}@{T16}@{FFFF}%reach\n
+	@{FFF9}@{HuittInfoDodgeMod}Dodge Modifier:@{H}@{T20}@{FFFF}%dodge\n
+	@{FFF9}@{HuittInfoParryMod}Parry Modifier:@{H}@{T20}@{FFFF}%parry\n
+	@{FFF9}@{HuittInfoTargetDodgeMod}Adv. Dodge Modifier:@{H}@{T20}@{FFFF}%adv_dodge\n
+	@{FFF9}@{HuittInfoTargetParryMod}Adv. Parry Modifier:@{H}@{T20}@{FFFF}%adv_parry\n
+	@{FFF9}@{HuittInfoMalus}Action Malus:@{H}@{T20}@{FFFF}+%actmalus\n
+	%magic_bonus%buffs%special_effects%skill_mod_vs_type%desc%custom_text%enchantment]
+
+uihelpItemMPAllCraft	[All Item Parts]
+
+uihelpItemMPCraft	[@{FFF9}Can be used to Craft:\n
+	@{FFFF}@{T2}%ip\n
+	]
+
+uihelpItemMPCraftRequirement	[@{FFF9}Used as a component in the crafting of special items.@{FFFF}\n
+	]
+
+uihelpItemMPFormat	[@{FFF9}@{HuittInfoMpQuality}Quality:@{H}@{T10}@{FFFF}%quality\n
+	@{FFF9}@{HuittInfoWeight}Weight:@{H}@{T10}@{FFFF}%weight Kg\n
+	@{FFF9}@{HuittInfoBulk}Bulk:@{H}@{T10}@{FFFF}%bulk\n
+	%cansell\n
+	@{FFF9}@{HuittInfoMpEco}Ecosystem:@{H}@{T14}@{FFFF}%ecosystem\n
+	@{FFF9}@{HuittInfoMpFam}Family:@{H}@{T14}@{FFFF}%family\n
+	@{FFF9}@{HuittInfoMpColor}Color:@{H}@{T14}@{FFFF}%mpcolor\n
+	@{FFFF}%desc\n
+	%craft]
+
+uihelpItemMPNoCraft	[@{FFF9}This is a mission item and cannot be used to Craft.@{FFFF}\n
+	]
+
+uihelpItemNoRent	[@{F80B}Item No Rent: @{FFFF}]
+
+uihelpItemNoRentDesc	[@{F80B}This item will be destroyed few minutes after disconnect.@{FFFF}\n
+	]
+
+uihelpItemRangeWeaponFormat	[@{FFF9}@{HuittInfoOrigin}Origin:@{H}@{T10}@{FFFF}%origin\n
+	@{FFF9}@{HuittInfoWeaponQuality}Quality:@{H}@{T10}@{FFFF}%quality\n
+	@{FFF9}@{HuittInfoWeight}Weight:@{H}@{T10}@{FFFF}%weight Kg\n
+	@{FFF9}@{HuittInfoBulk}Bulk:@{H}@{T10}@{FFFF}%bulk\n
+	@{FFF9}@{HuittInfoHP}Hit Points:@{H}@{T10}@{FFFF}%hp/%hpmax\n
+	@{FFF9}@{HuittInfoWeaponSapLoad}Sap Load:@{H}@{T10}@{FFFF}%sap/%sapmax\n
+	@{FFF9}@{HuittInfoItemSkill}Skill:@{H}@{T10}@{FFFF}%skill\n
+	%cansell\n
+	@{FFF9}@{HuittInfoRequirement}Requirements:@{H}@{T10}@{FFFF}%caracreq@{FFFF}%skillreq@{FFFF}%skillreq2\n
+	\n
+	@{FFF9}@{HuittInfoWeaponRDamage}Damage:@{H}@{T14}@{FFFF}%dmg (@{T12}@{FFFF}%max_dmg)\n
+	@{FFF9}@{HuittInfoWeaponRHitMin}Hit/Minute:@{H}@{T14}@{FFFF}%speed\n
+	@{FFF9}@{HuittInfoWeaponRange}Range:@{H}@{T14}@{FFFF}%range\n
+	@{FFF9}@{HuittInfoDodgeMod}Dodge Modifier:@{H}@{T20}@{FFFF}%dodge\n
+	@{FFF9}@{HuittInfoParryMod}Parry Modifier:@{H}@{T20}@{FFFF}%parry\n
+	@{FFF9}@{HuittInfoTargetDodgeMod}Adv. Dodge Modifier:@{H}@{T20}@{FFFF}%adv_dodge\n
+	@{FFF9}@{HuittInfoTargetParryMod}Adv. Parry Modifier:@{H}@{T20}@{FFFF}%adv_parry\n
+	@{FFF9}@{HuittInfoMalus}Action Malus:@{H}@{T20}@{FFFF}+%actmalus\n
+	%magic_bonus%buffs%special_effects%skill_mod_vs_type%desc%custom_text%enchantment]
+
+uihelpItemSapBonus	[@{FFF9}Sap Bonus:@{T16}@{2F2F}%val\n
+	]
+
+uihelpItemSapMalus	[@{FFF9}Sap Penalty:@{T16}@{F44F}%val\n
+	]
+
+uihelpItemScroll	[%custom_text]
+
+uihelpItemScrollR2	[@{ffff}%r2_description_text\n
+	@{ffff}%r2_comment_text]
+
+uihelpItemShieldFormat	[@{FFF9}@{HuittInfoOrigin}Origin:@{H}@{T10}@{FFFF}%origin\n
+	@{FFF9}@{HuittInfoArmorQuality}Quality:@{H}@{T10}@{FFFF}%quality\n
+	@{FFF9}@{HuittInfoWeight}Weight:@{H}@{T10}@{FFFF}%weight Kg\n
+	@{FFF9}@{HuittInfoBulk}Bulk:@{H}@{T10}@{FFFF}%bulk\n
+	@{FFF9}@{HuittInfoHP}Hit Points:@{H}@{T10}@{FFFF}%hp/%hpmax\n
+	%cansell\n
+	@{FFF9}@{HuittInfoRequirement}Requirements:@{H}@{T12}@{FFFF}%caracreq@{FFFF}%skillreq@{FFFF}%skillreq2\n
+	\n
+	@{FFF9}@{HuittInfoShieldCat}Category:@{H}@{T16}@{FFFF}%cat\n
+	@{FFF9}@{HuittInfoDodgeMod}Dodge Modifier:@{H}@{T16}@{FFFF}%dodge\n
+	@{FFF9}@{HuittInfoParryMod}Parry Modifier:@{H}@{T16}@{FFFF}%parry\n
+	@{FFF9}@{HuittInfoMalus}Action Malus:@{H}@{T16}@{FFFF}+%actmalus\n
+	@{FFF9}@{HuittInfoArmorProtection}Protection:@{H}@{T16}@{FFFF}%protect%\n
+	@{FFF9}  @{HuittInfoArmorSlash}Max. vs Slash:@{H}@{T16}@{FFFF}%p_slash\n
+	@{FFF9}  @{HuittInfoArmorBlunt}Max. vs Smash:@{H}@{T16}@{FFFF}%p_blunt\n
+	@{FFF9}  @{HuittInfoArmorPierc}Max. vs Pierce:@{H}@{T16}@{FFFF}%p_pierce\n
+	%buffs%special_effects%desc%custom_text]
+
+uihelpItemSkillReqMetFmt	[\n
+	@{FFFF}%d @{FFF9}in @{FFFF}%s]
+
+uihelpItemSkillReqNotMetFmt	[\n
+	@{F80B}%d in %s]
+
+uihelpItemStaBonus	[@{FFF9}Stamina Bonus:@{T16}@{2F2F}%val\n
+	]
+
+uihelpItemStaMalus	[@{FFF9}Stamina Penalty:@{T16}@{F44F}%val\n
+	]
+
+uihelpItemTamingToolFormat	[@{FFF9}@{HuittInfoOrigin}Origin:@{H}@{T10}@{FFFF}%origin\n
+	@{FFF9}@{HuittInfoToolQuality}Quality:@{H}@{T10}@{FFFF}%quality\n
+	@{FFF9}@{HuittInfoWeight}Weight:@{H}@{T10}@{FFFF}%weight Kg\n
+	@{FFF9}@{HuittInfoBulk}Bulk:@{H}@{T10}@{FFFF}%bulk\n
+	@{FFF9}@{HuittInfoHP}Hit Points:@{H}@{T10}@{FFFF}%hp/%hpmax\n
+	@{FFF9}@{HuittInfoItemSkill}Skill:@{H}@{T10}@{FFFF}%skill\n
+	%cansell\n
+	@{FFF9}Command Range:@{T12}@{FFFF}%cmdrange\n
+	@{FFF9}Max Packers:@{T12}@{FFFF}%maxpacker\n
+	\n
+	@{FFFF}%desc%custom_text]
+
+uihelpItemTeleport	[To use, right-click and choose\n
+	"USE TELEPORT"\n
+	\n
+	%cansell\n
+	%desc%custom_text]
+
+uihelpMagicProtectFormat	[@{T3}@{FFF9}%t:@{T18}@{FFFF}+%v%\n
+	]
+
+uihelpMagicProtectFormatHeader	[@{FFF9}@{HuittInfoProt}Protections:@{H}\n
+	]
+
+uihelpMagicProtectMaxAbsorbFormat	[@{T3}@{FFF9}Max. Absorbed:@{T18}@{FFFF}+%v\n
+	]
+
+uihelpMagicResistFormat	[@{T3}@{FFF9}%t:@{T18}@{FFFF}+%v\n
+	]
+
+uihelpMagicResistFormatHeader	[@{FFF9}@{HuittInfoResist}Resistance:@{H}\n
+	]
+
+uihelpMission	[Mission Details]
+
+uihelpMpNone	[@{T4}None\n
+	]
+
+uihelpOBFormat_Driller	[@{FFFF}%name\n
+	\n
+	@{FFF9}This building is a drill, able to extract raw materials.\n
+	\n
+	@{FFF9}There can only be one drill per outpost.\n
+	\n
+	@{FFF9}Installation time: @{T20}@{FFFF}%costtime\n
+	@{FFF9}Installation cost: @{T20}@{FFFF}%costdapper\n
+	\n
+	@{FFFF}--- Extracted Materials ---\n
+	@{FFF9}This drill extracts level @{FFFF}%lvl materials]
+
+uihelpOBFormat_Empty	[@{FFFF}This is a building land.\n
+	By constructing this space the current building will be destroyed.\n
+	However, you will be able to build a new one.\n
+	\n
+	@{FFF9}Construction time: @{T20}@{FFFF}%costtime\n
+	@{FFF9}Construction cost: @{T20}@{FFFF}%costdapper\n
+	]
+
+uihelpOBFormat_TownHall	[@{FFFF}This is the Outpost hall.\n
+	This building gives access to the guild's inventory when one is close to it.\n
+	It is automatically acquired when the Outpost is won.\n
+	]
+
+uihelpOutpostBuilding	[Building Details]
+
+uihelpPactFormat	[@{FFF9}Level:@{T14}@{FFFF}%lvl\n
+	@{FFF9}Lost hit points:@{T14}@{FFFF}%hp\n
+	@{FFF9}Lost stamina:@{T14}@{FFFF}%sta\n
+	@{FFF9}Lost sap:@{T14}@{FFFF}%sap\n
+	@{FFF9}Lost skills:@{T14}@{FFFF}%skill\n
+	]
+
+uihelpPhraseBrickRequirement	[@{FFF9}@{HuittActionStanzaReq}Stanzas Required:@{H}@{FFFF}\n
+	]
+
+uihelpPhraseCharacteristic	[@{FFFF}This is an upgrade which increases some characteristics.\n
+	You cannot cast it nor put it into your action-bar.\n
+	@{FFFF}%desc%req]
+
+uihelpPhraseCombatFormat	[@{FFF9}Action Name:@{T14}@{FFFF}%name\n
+	@{FFF9}Action Cost:@{T14}@{FFFF}%cost\n
+	@{FFF9}Action Credit:@{T14}@{FFFF}%credit\n
+	@{FFF9}Usable With:@{T14}@{FFFF}%wcomp\n
+	\n
+	%compostartThese stats depend on your equipped weapon.\n
+	@{FFF9}@{HuittActionSuccessRateSF}Success Rate:@{H}@{T20}@{FFFF}%success%\n
+	@{FFF9}Stamina Cost:@{T20}@{FFFF}%energy_cost\n
+	@{FFF9}HP Cost:@{T20}@{FFFF}%hp_cost\n
+	@{FFFF}%desc%req]
+
+uihelpPhraseCraftFormat	[@{FFF9}Action Name:@{T14}@{FFFF}%name\n
+	@{FFF9}Action Cost:@{T14}@{FFFF}%cost\n
+	@{FFF9}Action Credit:@{T14}@{FFFF}%credit\n
+	\n
+	%compostart@{FFF9}@{HuittActionSuccessRateSC}Success Rate:@{H}@{T16}@{FFFF}Depends on item crafted.\n
+	@{FFF9}Action Duration:@{T16}@{FFFF}%duration sec.\n
+	@{FFF9}Focus Cost:@{T16}@{FFFF}%energy_cost\n
+	@{FFFF}%desc%req]
+
+uihelpPhraseCrystalSpellFormat	[@{FFFF}--- Enchantment ---\n
+	@{FFF9}This item can enchant a weapon with this action:\n
+	@{FFF9}Action Cost:@{T14}@{FFFF}%cost\n
+	@{FFF9}Action Credit:@{T14}@{FFFF}%credit\n
+	\n
+	@{FFF9}Actions on enchanted items always succeed\n
+	@{FFF9}Cast Duration:@{T16}@{FFFF}%duration sec.\n
+	@{FFF9}Sap Cost:@{T16}@{FFFF}%energy_cost\n
+	@{FFF9}HP Cost:@{T16}@{FFFF}%hp_cost\n
+	@{FFF9}Range:@{T16}@{FFFF}%range\n
+	]
+
+uihelpPhraseEnchantmentFormat	[\n
+	@{FFFF}--- Enchantment ---\n
+	@{FFF9}This item is enchanted with this action:\n
+	@{FFF9}Action Cost:@{T14}@{FFFF}%cost\n
+	@{FFF9}Action Credit:@{T14}@{FFFF}%credit\n
+	\n
+	@{FFF9}Actions on enchanted items always succeed\n
+	@{FFF9}Cast Duration:@{T16}@{FFFF}%duration sec.\n
+	@{FFF9}Sap Cost:@{T16}@{FFFF}%energy_cost\n
+	@{FFF9}HP Cost:@{T16}@{FFFF}%hp_cost\n
+	@{FFF9}Range:@{T16}@{FFFF}%range\n
+	]
+
+uihelpPhraseForageExtractionFormat	[@{FFF9}Action Name:@{T14}@{FFFF}%name\n
+	@{FFF9}Action Cost:@{T14}@{FFFF}%cost\n
+	@{FFF9}Action Credit:@{T14}@{FFFF}%credit\n
+	\n
+	%compostart%suc_forage@{FFF9}Cast Duration:@{T20}@{FFFF}%duration sec.\n
+	@{FFF9}Focus Cost:@{T20}@{FFFF}%energy_cost\n
+	@{FFFF}%desc%req]
+
+uihelpPhraseForageSuccessAll	[@{FFF9}@{HuittActionSuccessRateSH}Success Rate@{H} (Desert/Forest/Jungle/Lakes/Prime Roots):\n
+	@{T4}@{FFFF}%suc_desert%@{FFF9} / @{FFFF}%suc_forest%@{FFF9} / @{FFFF}%suc_jungle%@{FFF9} / @{FFFF}%suc_lake%@{FFF9} / @{FFFF}%suc_prime%\n
+	]
+
+uihelpPhraseForageSuccessDesert	[@{FFF9}@{HuittActionSuccessRateSH}Success Rate@{H} In Desert:@{T16}@{FFFF}%suc_desert\n
+	]
+
+uihelpPhraseForageSuccessForest	[@{FFF9}@{HuittActionSuccessRateSH}Success Rate@{H} In Forest:@{T16}@{FFFF}%suc_forest\n
+	]
+
+uihelpPhraseForageSuccessJungle	[@{FFF9}@{HuittActionSuccessRateSH}Success Rate@{H} In Jungle:@{T16}@{FFFF}%suc_jungle\n
+	]
+
+uihelpPhraseForageSuccessLacustre	[@{FFF9}@{HuittActionSuccessRateSH}Success Rate@{H} In Lakes:@{T16}@{FFFF}%suc_lake\n
+	]
+
+uihelpPhraseForageSuccessPrimaryRoot	[@{FFF9}@{HuittActionSuccessRateSH}Success Rate@{H} In Prime Roots:@{T16}@{FFFF}%suc_prime\n
+	]
+
+uihelpPhraseHeaderBricks	[ ]
+
+uihelpPhraseMagicFormat	[@{FFF9}Action Name:@{T14}@{FFFF}%name\n
+	@{FFF9}Action Cost:@{T14}@{FFFF}%cost\n
+	@{FFF9}Action Credit:@{T14}@{FFFF}%credit\n
+	@{FFF9}@{HuittActionSpellLevel}Spell Level:@{H}@{T14}@{FFFF}%mglvl\n
+	%magicresist\n
+	%compostart@{FFF9}@{HuittActionSuccessRateSM}Success Rate:@{H}@{T16}@{FFFF}%success%\n
+	@{FFF9}Cast Duration:@{T16}@{FFFF}%duration sec.\n
+	@{FFF9}Sap Cost:@{T16}@{FFFF}%energy_cost\n
+	@{FFF9}HP Cost:@{T16}@{FFFF}%hp_cost\n
+	@{FFF9}Range:@{T16}@{FFFF}%range\n
+	@{FFFF}%desc%req]
+
+uihelpPhraseMagicResist	[@{FFF9}Magic Domain:\n
+	@{T4}@{FFFF}%t\n
+	]
+
+uihelpPhraseNotCastableFormat	[@{FFFF}This is an action upgrade which teaches you some new stanzas.\n
+	You cannot cast it nor put it into your action-bar.\n
+	@{FFFF}%desc%req]
+
+uihelpPhraseOtherFormat	[@{FFF9}Action Name:@{T14}@{FFFF}%name\n
+	@{FFF9}Action Cost:@{T14}@{FFFF}%cost\n
+	@{FFF9}Action Credit:@{T14}@{FFFF}%credit\n
+	\n
+	%compostart@{FFF9}Success Rate:@{T16}@{FFFF}%success%\n
+	@{FFF9}Cast Duration:@{T16}@{FFFF}%duration sec.\n
+	@{FFF9}Focus Cost:@{T16}@{FFFF}%energy_cost\n
+	@{FFFF}%desc%req]
+
+uihelpPhraseProcEnchantment	[@{FFFF}With this action you activate the enchantment on the item in your right hand.\n
+	\n
+	If your right hand item is not enchanted, this action cannot be executed.\n
+	]
+
+uihelpPhraseRangeMeters	[%dist meters]
+
+uihelpPhraseRangeSelf	[Self]
+
+uihelpPhraseRequirementHeader	[\n
+	@{FFFF}--- Requirements ---\n
+	@{FFF9}@{HuittActionSkillPoint}Skill Points Cost:@{H}@{T16}@{FFFF}%sp/%basesp\n
+	@{FFF9}@{HuittActionSkillReq}Skills Required:@{H}\n
+	]
+
+uihelpPhraseRequirementLine	[@{T4}@{FFFF}%s@{FFF9} at level @{FFFF}%d\n
+	]
+
+uihelpPhraseRequirementNotMetLine	[@{T4}@{F80F}%s@{F80B} at level @{F80F}%d\n
+	]
+
+uihelpPhraseRequirementOR	[@{FFFF}OR\n
+	]
+
+uihelpPhraseSpecialPowerFormat	[@{FFF9}Action Name:@{T14}@{FFFF}%name\n
+	@{FFF9}Action Cost:@{T14}@{FFFF}%cost\n
+	@{FFF9}Action Credit:@{T14}@{FFFF}%credit\n
+	\n
+	%compostart@{FFF9}Range:@{T14}@{FFFF}%range\n
+	@{FFFF}%desc%req]
+
+uihelpRMBuy	[Role Master Details]
+
+uihelpRMUpgrade	[Role Master Upgrade Details]
+
+uihelpSabrinaCost	[Cost]
+
+uihelpSabrinaCredit	[Credit]
+
+uihelpSkillModVsType	[@{FFF9}Skill bonus: @{FFFF}+%mod @{FFF9}versus @{FFFF}%type]
+
+uiHelpTitle	[HELP]
+
+uihelpTitleFormat	[@{FFF9}Name:@{T8}@{FFFF}%name\n
+	@{FFF9}Title:@{T8}@{FFFF}%title\n
+	%skills%bricks]
+
+uihelpTitleInfo	[INFORMATION]
+
+uihelpToolType	[Tool Type: ]
+
+uihelpZCCharge	[Zone Details]
+
+uihelpZCRequirement	[Zone Requirement Details]
+
+uihFight	[Fight]
+
+uihGameInfo	[GAME INFO]
+
+uihGauges	[My Bars]
+
+uihHands	[Action Bar]
+
+uihHarvestTool	[Harvesting Tools]
+
+uihHowTo	[HOW TO]
+
+uihHowToCastOffensiveSpells	[Cast Offensive Spells]
+
+uihHowToChangeItemsInHand	[Change Items in Hand]
+
+uihHowToCraft	[Craft]
+
+uihHowToExtractRMFromASource	[Extract Raw MaterialS]
+
+uihHowToFindRMSources	[Find Raw Materials]
+
+uihHowToHealOther	[Heal Others]
+
+uihHowToResurectADeadFriend	[Resurrect a Dead Friend]
+
+uihHowToSelfHeal	[Heal yourself]
+
+uiHide	[Hide]
+
+uihIdentity	[My Statistics]
+
+uihInterfaces	[INTERFACES]
+
+uihIntro	[INTRODUCTION]
+
+uihItem	[Items]
+
+uihItemMisc	[Miscellaneous]
+
+uihJewelry	[Jewelry]
+
+uihMainChat	[Main Chat]
+
+uihManageChar	[Manage character]
+
+uihMaps	[MAPS]
+
+uihMatisGenMap	[Matis General]
+
+uihMission	[Missions]
+
+uihMWeapon	[Melee Weapons]
+
+uiHoleth	[Holeth]
+
+uiHOME	[HOME]
+
+uiHome	[Home]
+
+uiHorizontal	[Horizontal]
+
+uiHP	[HP]
+
+uihPA	[Animals]
+
+uihPact	[Pacts]
+
+uiHPDesc	[@{6F6F}HP@{FFFF},\n
+	hit points measure the amount of damage a character can take before going into a coma.]
+
+uihPhrase	[Actions]
+
+uiHpMax	[Hit Points Max]
+
+uiHpReg	[Hit Points Reg]
+
+uihRawMat	[Raw Materials]
+
+uihRWeapon	[Range Weapons]
+
+uihShield	[Shields]
+
+uihTalkToBot	[Talk to a bot]
+
+uihTarget	[Target]
+
+uihTradeNPC	[NPC Trade]
+
+uihTutorial	[TUTORIAL]
+
+uiHud	[HUD]
+
+uiHumidity	[Humidity]
+
+uiHunger	[Hunger]
+
+uihUseSpell	[Use spell]
+
+uihWhatIs	[WHAT IS?]
+
+uihWhatIsSkillPoints	[Skill points]
+
+uihWhatIsYourStatsAndCharac	[Your stats and characteristics]
+
+uiIconBack	[Background]
+
+uiIconCreation	[Create Icon]
+
+uiIconFore	[Foreground]
+
+uiIconPat	[Pattern]
+
+uiIcons	[Icons]
+
+uiIconTxt	[Text]
+
+uiIgnoreList	[IGNORE LIST]
+
+uiImmediatePrice	[Base Price]
+
+uiImpact	[Impact]
+
+uiInfColor	[Information Windows]
+
+uiInfo	[INFO]
+
+uiInfosSystem	[MY INFO SYSTEM]
+
+uiInfos_Close	[CLOSE]
+
+uiInitHelp	[Click on me to get help!]
+
+uiInitHelp1	[These buttons represent your 4 virtual desktops.]
+
+uiInitHelp2	[You can switch between them by clicking on these buttons or by pressing the shortcut keys F1, F2, F3 and F4 respectively (by default).]
+
+uiInitHelp3	[When you click and hold the button, you display the main window menu which allows you to show/hide window on the current desktop.]
+
+uiInitHelp4	[You can also hold down the desktop shortcut key to display the main menu and keep it down while doing your window modification.]
+
+uiInitHelp5	[Or use this small window bar.]
+
+uiInitHelp6	[Now you can customize your 4 desktops.]
+
+uiIntDesc	[@{6F6F}Intelligence@{FFFF},\n
+	a measure of how well a character can focus their mental abilities.]
+
+uiInterfaceScale	[Interface scale]
+
+uiInterrupt	[Interrupted!]
+
+uiInvalid	[is not a valid name]
+
+uiInvalidPartyChatName	[Party chat name already exists or is invalid.]
+
+uiInvColor	[Action Progression Window]
+
+uiInventory	[Inventory]
+
+uiInventoryFull	[INVENTORY FULL]
+
+uiInventoryTitle	[INVENTORY]
+
+uiInvEquipTitle	[EQUIPMENT]
+
+uiInvertNames	[Toggle names]
+
+uiInvFull	[INVENTORY FULL]
+
+uiInviteCmd	[<invite> Two arguments required: <player name> <party chat name>.]
+
+uiInviteToRingSession	[Invite]
+
+uiInviteToRingSessionTooltip	[Invite the character to this Ring Scenario, allowing them to join in via a @{6F6F}Ring Terminal@{FFFF}]
+
+uiInvRoomTitle	[ROOM]
+
+uiitAbyssOfIchor	[abyss]
+
+uiitAlmati	[almati]
+
+uiitAvalae	[avalae]
+
+uiitAvendale	[avendale]
+
+uiitBountyBeaches	[bounty]
+
+uiitCrystabell	[crystabell]
+
+uiitDavae	[davae]
+
+uiitDewDrops	[dewdrop]
+
+uiitDunesOfExil	[dunes]
+
+uiitDyron	[dyron]
+
+uiitElusiveForest	[elusive]
+
+uiItem1to5	[Item level from 1 to 5]
+
+uiItem6to10	[Item level from 6 to 10]
+
+uiItem11to15	[Item level from 11 to 15]
+
+uiItem16to20	[Item level from 16 to 20]
+
+uiItem21to25	[Item level from 21 to 25]
+
+uiItemCannotUseColor	[@{F80B}]
+
+uiItemConsumableEffectDownCharac	[Gives a malus of @{F22F}%bonus@{FFFF} points(s) to your @{2F2F}%charac@{FFFF}\n
+	for %minutes min and %secondes sec.]
+
+uiItemConsumableEffectLifeAura	[An @{2F2F}Aura of Life@{FFFF} with a bonus of @{2F2F}%modifier@{FFFF} for %minutes min and %secondes sec with radius of %radius m.\n
+	Disabled for target: %targetDisableTime sec, user: %userDisableTime sec.]
+
+uiItemConsumableEffectModCraftSuccess	[Modifies your Craft skills by %modifier point(s) for %minutes min and %secondes sec.]
+
+uiItemConsumableEffectModDefenseSuccess	[Modifies your Defense by %modifier point(s) for %minutes min and %secondes sec.]
+
+uiItemConsumableEffectModDesertForageSuccess	[Modifies your Desert Forage skills by %modifier point(s) for %minutes min and %secondes sec.]
+
+uiItemConsumableEffectModDodgeSuccess	[Modifies your Dodge by %modifier point(s) for %minutes min and %secondes sec.]
+
+uiItemConsumableEffectModForageSuccess	[Modifies your Forage skills by %modifier point(s) for %minutes min and %secondes sec.]
+
+uiItemConsumableEffectModForestForageSuccess	[Modifies your Forest Forage skills by %modifier point(s) for %minutes min and %secondes sec.]
+
+uiItemConsumableEffectModJungleForageSuccess	[Modifies your Jungle Forage skills by %modifier point(s) for %minutes min and %secondes sec.]
+
+uiItemConsumableEffectModLacustreForageSuccess	[Modifies your Lakes Forage skills by %modifier point(s) for %minutes min and %secondes sec.]
+
+uiItemConsumableEffectModMagicSuccess	[Modifies your Magic skills by %modifier point(s) for %minutes min and %secondes sec.]
+
+uiItemConsumableEffectModMeleeSuccess	[Modifies your Melee Fight skills by %modifier point(s) for %minutes min and %secondes sec.]
+
+uiItemConsumableEffectModParrySuccess	[Modifies your Parry by %modifier point(s) for %minutes min and %secondes sec.]
+
+uiItemConsumableEffectModPrimaryRootForageSuccess	[Modifies your Prime Roots Forage skills by %modifier point(s) for %minutes min and %secondes sec.]
+
+uiItemConsumableEffectModRangeSuccess	[Modifies your Ranged Fight skills by %modifier point(s) for %minutes min and %secondes sec.]
+
+uiItemConsumableEffectSapAura	[An @{2F2F}Aura of Sap@{FFFF} with a bonus of @{2F2F}%modifier@{FFFF} for %minutes min and %secondes sec with radius of %radius m.\n
+	Disabled for target: %targetDisableTime sec, user: %userDisableTime sec.]
+
+uiItemConsumableEffectStaminaAura	[An @{2F2F}Aura of Stamina@{FFFF} with a bonus of @{2F2F}%modifier@{FFFF} for %minutes min and %secondes sec with a radius of %radius m.\n
+	Disabled for target: %targetDisableTime sec, user: %userDisableTime sec.]
+
+uiItemConsumableEffectUpCharac	[Gives a bonus of @{2F2F}%bonus@{FFFF} points(s) to your @{2F2F}%charac@{FFFF}\n
+	for %minutes min and %secondes sec.]
+
+uiItemFX_ISE_CRAFT_ADD_LIMIT	[@{2F2F}%p0%@{FFFF} chance of increasing all stats of the crafted item by @{2F2F}%p1%@{FFFF}.]
+
+uiItemFX_ISE_CRAFT_ADD_STAT_BONUS	[@{2F2F}%p%@{FFFF} chance of adding a @{2F2F}%r@{FFFF} bonus, plus a bonus related to the quality of the crafted item, to one of the stats of the item.]
+
+uiItemFX_ISE_FIGHT_ADD_CRITICAL	[@{2F2F}+%p%@{FFFF} chance of performing a critical hit.]
+
+uiItemFX_ISE_FIGHT_VAMPIRISM	[@{2F2F}%p%@{FFFF} chance of stealing life from the enemy (inflicted damage is added to your own hit points).]
+
+uiItemFX_ISE_FORAGE_ADD_RM	[@{2F2F}%p0%@{FFFF} chance of increasing the quantity of foraged materials per action by @{2F2F}%p1%@{FFFF}.]
+
+uiItemFX_ISE_FORAGE_NO_RISK	[@{2F2F}%p%@{FFFF} chance that one of the raw material sources of a prospect appears without explosion risk.]
+
+uiItemFX_ISE_MAGIC_DIVINE_INTERVENTION	[@{2F2F}%p%@{FFFF} chance that the cast will not apply action credits.]
+
+uiItemFX_ISE_MAGIC_SHOOT_AGAIN	[@{2F2F}%p%@{FFFF} chance that the next cast will not apply time credits, provided it is cast in less than @{2F2F}%r @{FFFF}sec.]
+
+uiItemMpCanCraft	[Can craft: ]
+
+uiItemMpCraftRequirement	[Required for the crafting of special items]
+
+uiItemMpNoCraft	[Cannot be used to craft]
+
+uiItemRMClass0	[Basic]
+
+uiItemRMClass1	[Fine]
+
+uiItemRMClass2	[Choice]
+
+uiItemRMClass3	[Excellent]
+
+uiItemRMClass4	[Supreme]
+
+uiItems	[ITEMS]
+
+uiItemSold	[Item Sold]
+
+uiItemSoldColor	[@{08FF}]
+
+uiItemSpecialEffectFlyingTextISE_CRAFT_ADD_LIMIT	[All Stats Bonus]
+
+uiItemSpecialEffectFlyingTextISE_CRAFT_ADD_STAT_BONUS	[Stat Bonus]
+
+uiItemSpecialEffectFlyingTextISE_FIGHT_VAMPIRISM	[Life Stealer: %param]
+
+uiItemSpecialEffectFlyingTextISE_FORAGE_ADD_RM	[Forage Bonus]
+
+uiItemSpecialEffectFlyingTextISE_FORAGE_NO_RISK	[No-Risk Forage]
+
+uiItemSpecialEffectFlyingTextISE_MAGIC_DIVINE_INTERVENTION	[Divine Intervention]
+
+uiItemSpecialEffectFlyingTextISE_MAGIC_SHOOT_AGAIN	[Instant Cast]
+
+uiItemTextEdition	[Item text]
+
+uiItemTextMessageFromCrafter	[@{FFF9}Message from the crafter:\n
+	@{FFFF}]
+
+uiItemUserSellColor	[@{FF0F}]
+
+uiItemUserSellColorNotRetirable	[@{FF08}]
+
+uiitEnchantedIsle	[enchanted]
+
+uiitFairhaven	[fairhaven]
+
+uiitFleetingGarden	[fleeting]
+
+uiitForbiddenDepths	[forbidden]
+
+uiitFount	[fount]
+
+uiitFraharTowers	[frahar]
+
+uiitGateOfObscurity	[gate]
+
+uiitGroveOfConfusion	[grove]
+
+uiitGroveOfUmbra	[grove]
+
+uiitHavenOfPurity	[haven]
+
+uiitHereticsHovel	[heretic]
+
+uiitHiddenSource	[hidden]
+
+uiitHoiCho	[hoicho]
+
+uiitJenLai	[jenlai]
+
+uiitKnollOfDissent	[knoll]
+
+uiitKnotOfDementia	[knot]
+
+uiitLagoonsOfLoria	[lagoon]
+
+uiitLandOfContinuity	[land]
+
+uiitMaidenGrove	[maiden]
+
+uiitMinCho	[mincho]
+
+uiitNatae	[natae]
+
+uiitNexus	[nexus]
+
+uiitOflovaksOasis	[oflovak]
+
+uiitOutlawCanyon	[outlaw]
+
+uiitPyr	[pyr]
+
+uiitRangerCamp	[ranger]
+
+uiitRestingWater	[resting]
+
+uiitSavageDunes	[savage]
+
+uiitSawdustMines	[sawdust]
+
+uiitScorchedCorridor	[scorched]
+
+uiitShatteredRuins	[shattered]
+
+uiitShiningLake	[shining]
+
+uiitSunkenCity	[sunken]
+
+uiitThesos	[thesos]
+
+uiitTrenchOfTrials	[trench]
+
+uiitUnderSpring	[under]
+
+uiitUpperBog	[upper]
+
+uiitVoid	[void]
+
+uiitWindermeer	[windermeer]
+
+uiitWindsOfMuse	[winds]
+
+uiitWindyGate	[windy]
+
+uiitYrkanis	[yrkanis]
+
+uiitZora	[zora]
+
+uiJauges	[PLAYER]
+
+uiJenaYear	[JY]
+
+uiJewelry	[Jewelry]
+
+uiJewelryTitle	[JEWELRY]
+
+uiJobFreezeTime	[Frozen]
+
+uiJoinChatQuestion	[Do you want to join party chat?]
+
+uiJoinClanProposalDesc	[You enter a Clan PvP area. Choose a Clan or stay Neutral. Warning: choosing a Clan may impact your fame! ]
+
+uiJoinClanProposalTitle	[PvP Clan]
+
+uiJoinDuelProposal	[WARNING - DUEL PROPOSAL]
+
+uiJoinGuildProposal	[GUILD INVITATION]
+
+uiJoinLeagueProposal	[LEAGUE INVITATION]
+
+uiJoinTeamProposal	[TEAM INVITATION]
+
+uiJournal	[Missions]
+
+uiJournalTitle	[MISSIONS]
+
+uiJungleRawMats	[Jungle Exotic Raw Materials]
+
+uiKb	[KiB]
+
+uiKeepInfoButton	[Keep]
+
+uiKey0	[0]
+
+uiKey1	[1]
+
+uiKey2	[2]
+
+uiKey3	[3]
+
+uiKey4	[4]
+
+uiKey5	[5]
+
+uiKey6	[6]
+
+uiKey7	[7]
+
+uiKey8	[8]
+
+uiKey9	[9]
+
+uiKeyA	[A]
+
+uiKeyACCEPT	[ACCEPT]
+
+uiKeyADD	[ADD]
+
+uiKeyAPOSTROPHE	[APOSTROPHE]
+
+uiKeyAPPS	[APPS]
+
+uiKeyATTN	[ATTN]
+
+uiKeyB	[B]
+
+uiKeyBACK	[BACKSPACE]
+
+uiKeyBACKSLASH	[BACKSLASH]
+
+uiKeybCamera	[Camera Speed]
+
+uiKeybCamSpeedMax	[Maximum]
+
+uiKeybCamSpeedMin	[Minimum]
+
+uiKeybOptions	[Keyboard Options]
+
+uiKeyC	[C]
+
+uiKeyCALC	[Calculator]
+
+uiKeyCANCEL	[CANCEL]
+
+uiKeyCAPITAL	[CAPITAL]
+
+uiKeyCLEAR	[CLEAR]
+
+uiKeyCOMMA	[COMMA]
+
+uiKeyCONTROL	[CTRL]
+
+uiKeyCONVERT	[CONVERT]
+
+uiKeyCRSEL	[CRSEL]
+
+uiKeyD	[D]
+
+uiKeyDASH	[DASH]
+
+uiKeyDECIMAL	[DECIMAL]
+
+uiKeyDELETE	[DELETE]
+
+uiKeyDIVIDE	[DIVIDE]
+
+uiKeyDOWN	[DOWN]
+
+uiKeyE	[E]
+
+uiKeyEND	[END]
+
+uiKeyEQUALS	[EQUALS]
+
+uiKeyEREOF	[EREOF]
+
+uiKeyESCAPE	[ESCAPE]
+
+uiKeyEXECUTE	[EXECUTE]
+
+uiKeyEXSEL	[EXSEL]
+
+uiKeyF	[F]
+
+uiKeyF1	[F1]
+
+uiKeyF2	[F2]
+
+uiKeyF3	[F3]
+
+uiKeyF4	[F4]
+
+uiKeyF5	[F5]
+
+uiKeyF6	[F6]
+
+uiKeyF7	[F7]
+
+uiKeyF8	[F8]
+
+uiKeyF9	[F9]
+
+uiKeyF10	[F10]
+
+uiKeyF11	[F11]
+
+uiKeyF12	[F12]
+
+uiKeyF13	[F13]
+
+uiKeyF14	[F14]
+
+uiKeyF15	[F15]
+
+uiKeyF16	[F16]
+
+uiKeyF17	[F17]
+
+uiKeyF18	[F18]
+
+uiKeyF19	[F19]
+
+uiKeyF20	[F20]
+
+uiKeyF21	[F21]
+
+uiKeyF22	[F22]
+
+uiKeyF23	[F23]
+
+uiKeyF24	[F24]
+
+uiKeyFINAL	[FINAL]
+
+uiKeyG	[G]
+
+uiKeyH	[H]
+
+uiKeyHANGEUL	[HANGEUL]
+
+uiKeyHANGUL	[HANGUL]
+
+uiKeyHANJA	[HANJA]
+
+uiKeyHELP	[HELP]
+
+uiKeyHOME	[HOME]
+
+uiKeyI	[I]
+
+uiKeyINSERT	[INSERT]
+
+uiKeyJ	[J]
+
+uiKeyJUNJA	[JUNJA]
+
+uiKeyK	[K]
+
+uiKeyKANA	[KANA]
+
+uiKeyKANJI	[KANJI]
+
+uiKeyL	[L]
+
+uiKeyLBRACKET	[LBRACKET]
+
+uiKeyLBUTTON	[LBUTTON]
+
+uiKeyLCONTROL	[LCONTROL]
+
+uiKeyLEFT	[LEFT]
+
+uiKeyLMENU	[LMENU]
+
+uiKeyLSHIFT	[LSHIFT]
+
+uiKeyLWIN	[LWIN]
+
+uiKeyM	[M]
+
+uiKeyMBUTTON	[MBUTTON]
+
+uiKeyMENU	[ALT]
+
+uiKeyMODECHANGE	[MODECHANGE]
+
+uiKeyMULTIPLY	[MULTIPLY]
+
+uiKeyMUTE	[Mute]
+
+uiKeyN	[N]
+
+uiKeyNEXT	[PAGE DOWN]
+
+uiKeyNONAME	[NONAME]
+
+uiKeyNONCONVERT	[NONCONVERT]
+
+uiKeyNUMLOCK	[NUMLOCK]
+
+uiKeyNUMPAD0	[NUMPAD 0]
+
+uiKeyNUMPAD1	[NUMPAD 1]
+
+uiKeyNUMPAD2	[NUMPAD 2]
+
+uiKeyNUMPAD3	[NUMPAD 3]
+
+uiKeyNUMPAD4	[NUMPAD 4]
+
+uiKeyNUMPAD5	[NUMPAD 5]
+
+uiKeyNUMPAD6	[NUMPAD 6]
+
+uiKeyNUMPAD7	[NUMPAD 7]
+
+uiKeyNUMPAD8	[NUMPAD 8]
+
+uiKeyNUMPAD9	[NUMPAD 9]
+
+uiKeyO	[O]
+
+uiKeyOEM_102	[OEM 102]
+
+uiKeyOEM_CLEAR	[OEM CLEAR]
+
+uiKeyP	[P]
+
+uiKeyPA1	[PA1]
+
+uiKeyPARAGRAPH	[Paragraph]
+
+uiKeyPAUSE	[PAUSE]
+
+uiKeyPERIOD	[PERIOD]
+
+uiKeyPLAY	[PLAY]
+
+uiKeyPLAYPAUSE	[Play / pause]
+
+uiKeyPRINT	[PRINT]
+
+uiKeyPRIOR	[PAGE UP]
+
+uiKeyPROCESSKEY	[PROCESSKEY]
+
+uiKeyQ	[Q]
+
+uiKeyR	[R]
+
+uiKeyRBRACKET	[RBRACKET]
+
+uiKeyRBUTTON	[RBUTTON]
+
+uiKeyRCONTROL	[RCONTROL]
+
+uiKeyRETURN	[RETURN]
+
+uiKeyRIGHT	[RIGHT]
+
+uiKeyRMENU	[RMENU]
+
+uiKeyRSHIFT	[RSHIFT]
+
+uiKeyRWIN	[RWIN]
+
+uiKeys	[Keys]
+
+uiKeyS	[S]
+
+uiKeysActionsTitle	[ACTION KEYS]
+
+uiKeysActionsTitle2	[Action Shortcuts #2]
+
+uiKeysChatTitle	[CHAT KEYS]
+
+uiKeySCROLL	[SCROLL]
+
+uiKeysDebugTitle	[DEBUG KEYS]
+
+uiKeysEditTitle	[EDIT KEYS]
+
+uiKeySELECT	[SELECT]
+
+uiKeySEMICOLON	[SEMICOLON]
+
+uiKeySEPARATOR	[SEPARATOR]
+
+uiKeySHIFT	[SHIFT]
+
+uiKeySLASH	[SLASH]
+
+uiKeysMovementTitle	[MOVE KEYS]
+
+uiKeySNAPSHOT	[PRINT SCREEN]
+
+uiKeySPACE	[SPACE]
+
+uiKeysPlayerTitle	[PLAYER KEYS]
+
+uiKeysSystemTitle	[SYSTEM KEYS]
+
+uiKeysTitle	[KEYS]
+
+uiKeySUBTRACT	[SUBTRACT]
+
+uiKeysViewTitle	[VIEW KEYS]
+
+uiKeysWindowsTitle	[WINDOWS KEYS]
+
+uiKeyT	[T]
+
+uiKeyTAB	[TAB]
+
+uiKeyTILDE	[TILDE]
+
+uiKeyU	[U]
+
+uiKeyUP	[UP]
+
+uiKeyV	[V]
+
+uiKeyVOLUMEDOWN	[Volume down]
+
+uiKeyVOLUMEUP	[Volume up]
+
+uiKeyW	[W]
+
+uiKeyX	[X]
+
+uiKeyY	[Y]
+
+uiKeyZ	[Z]
+
+uiKeyZOOM	[ZOOM]
+
+uiKilometerUnit	[km]
+
+uiKit	[Kit]
+
+uiKitTitle	[KIT]
+
+uiLabColor	[Orientation Windows]
+
+uiLaboratory	[LABORATORY]
+
+uiLakeRawMats	[Lakes Exotic Raw Materials]
+
+uiLand	[Landscape]
+
+uiLandGeneral	[Landscape Options]
+
+uiLandmarkColors	[Landmark Colors]
+
+uiLaunchEditor	[SCENARIO EDITOR]
+
+uiLearn	[LEARN]
+
+uiLearnFrom	[Learn from ]
+
+uiLegs	[LEGS]
+
+uiLess	[Less]
+
+uiLetResell	[SELL ON TO OTHERS]
+
+uiLevel	[Level]
+
+uiLife	[Life]
+
+uiLight	[Light]
+
+uiLightOnOff	[Light On / Off]
+
+uiLinkInfo	[Details]
+
+uiLinks	[Active links]
+
+uiLinksCosts	[COSTS]
+
+uiLinksTitle	[ACTIVE LINKS]
+
+uiLMAmberColor	[Amber]
+
+uiLMBanditColor	[Bandit]
+
+uiLMBarkColor	[Bark]
+
+uiLMCitizenColor	[Citizen]
+
+uiLMConstructionColor	[Construction]
+
+uiLMFaunaColor	[Fauna]
+
+uiLMFaunaExcelColor	[Named Creature]
+
+uiLMFaunaSupColor	[Boss Creature]
+
+uiLMFiberColor	[Fiber]
+
+uiLMFoodColor	[Food]
+
+uiLMForageColor	[Forage]
+
+uiLMForageExcelColor	[Excellent Materials]
+
+uiLMForageSupColor	[Supreme Materials]
+
+uiLMGooColor	[Goo]
+
+uiLMInsectColor	[Insect]
+
+uiLMKitinColor	[Kitin]
+
+uiLMMiscColor	[Miscellaneous]
+
+uiLMMissionColor	[Mission]
+
+uiLMNociveColor	[Harmful]
+
+uiLMNodeColor	[Node]
+
+uiLMOilColor	[Oil]
+
+uiLMPassageColor	[Portal]
+
+uiLMPreservativeColor	[Preservative]
+
+uiLMResinColor	[Resin]
+
+uiLMSapColor	[Sap]
+
+uiLMSeedColor	[Seed]
+
+uiLMShellColor	[Shell]
+
+uiLMTeleporterColor	[Teleporter]
+
+uiLMTribeColor	[Tribe]
+
+uiLMWoodColor	[Wood]
+
+uiLoadingString0	[Installing ninja Yubos...]
+
+uiLoadingString1	[Facepainting support staff...]
+
+uiLoadingString2	[Distracting the Ragus...]
+
+uiLoadingString3	[Calculating the gravitational constant of Atys...]
+
+uiLoadingString4	[Powering secret underground military facilities...]
+
+uiLoadingString5	[Brewing Zoraï ale...]
+
+uiLoadingString6	[Where am I? ]
+
+uiLoadingString7	[Hiding stuff in the ground...]
+
+uiLoadingString8	[Annoying the Gingos for improved aggressiveness...]
+
+uiLoadingString9	[Raytracing sunlight beams...]
+
+uiLoadingString10	[Growing grass...]
+
+uiLoadingString11	[Checking water temperature...]
+
+uiLoadingString12	[Loading random loading messages...]
+
+uiLoadingString13	[Soaking up system resources...]
+
+uiLoadingString14	[Growing vines...]
+
+uiLoadingString15	[Releasing Kitins...]
+
+uiLoadingString16	[Teasing Frahars...]
+
+uiLoadingString17	[Careplanning server...]
+
+uiLoadingString18	[Distributing Ma-Duk...]
+
+uiLoadingString19	[Installing Jena...]
+
+uiLoadingString20	[Training skills...]
+
+uiLoadingString21	[Gaining XP...]
+
+uiLoadingString22	[Putting masks on all the Zoraïs...]
+
+uiLoadingString23	[Shrinking Trykers...]
+
+uiLoadingString24	[Dry cleaning Fairhaven...]
+
+uiLoadingString25	[Vacuuming Pyr...]
+
+uiLoadingString26	[Telling the Kinchers to eat some Homins...]
+
+uiLoadingString27	[Just making something...]
+
+uiLoadingString28	[Writing Fyros battle hymns...]
+
+uiLoadingString29	[Singing Tryker sleeping songs...]
+
+uiLoadingString30	[Planting Jublas...]
+
+uiLoadingString31	[Stalking a Stinga...]
+
+uiLoadingString32	[Feeding the Ybers...]
+
+uiLoadingString33	[Trading jewels...]
+
+uiLoadingString34	[Drinking firewine...]
+
+uiLoadingString35	[Brewing Stinga rum...]
+
+uiLoadingString36	[Caffeinenating support team...]
+
+uiLoadingString37	[For the latest gossip, try IRC.]
+
+uiLoadingString38	[Shrinking Trykers...]
+
+uiLoadingString39	[Vaining Matis...]
+
+uiLoadingString40	[Tanning Fyros...]
+
+uiLoadingString41	[Dyeing Zoraïs...]
+
+uiLoadingString42	[You'd load faster with more RAM and a better processor you know...]
+
+uiLoadingString43	[Just hanging around...]
+
+uiLoadingString44	[Watching who started me...]
+
+uiLoadingString45	[Hey, you're looking good today...]
+
+uiLoadingString46	[Have a nice day on Atys...]
+
+uiLoadingString47	[Oh my god, look, a flying Yubo!  ]
+
+uiLoadingString48	[Spare Yubos, who knows, maybe one day, they will save your life?  ]
+
+uiLoadingString49	[Yubos, probably your best friends!  ]
+
+uiLoadingString50	[Dum Di Dum...]
+
+uiLoadingString51	[If you read this twice, you might want to upgrade your system...]
+
+uiLoadingString52	[Optimizing Tryker windmill rotation algorithms...]
+
+uiLoadingString53	[Refueling Fyros citygates...]
+
+uiLocalAlpha	[LOCAL SETTINGS]
+
+uiLocationTitle	[WHERE DO YOU WANT TO GO?]
+
+uiLocation_Back	[PLAY LATER]
+
+uiLocation_Infos	[Location Info]
+
+uiLocation_Play	[PLAY NOW]
+
+uiLocDest1Fyros	[AEGUS]
+
+uiLocDest1Matis	[STALLI]
+
+uiLocDest1Tryker	[AUBERMOUTH]
+
+uiLocDest1Zorai	[QAÏ-LO]
+
+uiLocDest2Fyros	[KAEMON]
+
+uiLocDest2Matis	[BOREA]
+
+uiLocDest2Tryker	[BARKDELL]
+
+uiLocDest2Zorai	[SHENG-WO]
+
+uiLocDest3Fyros	[SEKOVIX]
+
+uiLocDest3Matis	[NISTIA]
+
+uiLocDest3Tryker	[HOBWELLY]
+
+uiLocDest3Zorai	[NEN-XING]
+
+uiLocDest4Fyros	[PHYXON]
+
+uiLocDest4Matis	[ROSILIO]
+
+uiLocDest4Tryker	[WAVERTON]
+
+uiLocDest4Zorai	[KOÏ-ZUN]
+
+uiLocDest5Fyros	[GALEMUS]
+
+uiLocDest5Matis	[MIANI]
+
+uiLocDest5Tryker	[DINGLETON]
+
+uiLocDest5Zorai	[YIN-PIANG]
+
+uiLock	[Lock]
+
+uiLodValue	[NORMAL]
+
+uiLodValueCustom	[CUSTOM]
+
+uiLodValueHigh	[HIGH]
+
+uiLodValueLow	[LOW]
+
+uiLodValueMedium	[MEDIUM]
+
+uiLodValueNormal	[NORMAL]
+
+uiLog	[Log on/off]
+
+uiLogin	[Login]
+
+uiLoginGetFile	[Getting File:]
+
+uiLoginQuit	[QUIT]
+
+uiLoginSupport	[SUPPORT]
+
+uiLOGLod	[Level of Detail]
+
+uiLOGResolution	[Game Resolution]
+
+uiLogTurnedOff	[Chat logging is OFF.]
+
+uiLogTurnedOn	[Chat logging is ON.]
+
+uiLuminosity	[Luminosity]
+
+uiLVL	[Level]
+
+uiMacroAddCmd	[Add Command]
+
+uiMacroAddCom	[Add Command]
+
+uiMacroCat	[MACRO]
+
+uiMacroCom	[Commands]
+
+uiMacroExec	[EXEC MACRO]
+
+uiMacroIcon	[Icon]
+
+uiMacroItemGroupDestination	[Item group destination]
+
+uiMacroItemGroupEquip	[Equip an item group]
+
+uiMacroItemGroupMove	[Move an item group]
+
+uiMacroItemGroupName	[Item group name]
+
+uiMacroKey	[Key]
+
+uiMacroName	[Name]
+
+uiMacroNone	[Not assigned]
+
+uiMacros	[Macros]
+
+uiMacrosTitle	[MACROS]
+
+uiMaCulture	[MATIS-CULTURE]
+
+uimAddAllGM	[ADD ALL GUILD MEMBERS]
+
+uimAddAllTM	[ADD ALL TEAM MEMBERS]
+
+uiMaEco	[MATIS-ECOSYSTEM]
+
+uiMagic	[Magic]
+
+uiMagicCreateNewSpell	[NEW SPELL: ]
+
+uiMagicEditDifficulty	[DIFFICULTY]
+
+uiMagicEditNotEnoughSap	[Warning! Not Enough Sap!]
+
+uiMagicEditSapCost	[SAP COST]
+
+uiMagicEditSpell	[EDIT SPELL]
+
+uiMagicEditSpellName	[Spell Name]
+
+uiMagicProtectTable	[PROTECTIONS]
+
+uiMagicResist	[Magic]
+
+uiMagicSpellIcon	[Icon]
+
+uiMagicSuffixTitle	[MAGIC SUFFIXES]
+
+uiMagicTitle	[MAGIC]
+
+uiMailBox	[Mailbox]
+
+uiMailboxTitle	[MAILBOX]
+
+uiMainChat	[Main Chat]
+
+uiMainChatTitle	[MAIN CHAT]
+
+uiMale	[Male]
+
+uiMaName	[MATIS]
+
+uiManCrea	[Manual creation]
+
+uiMap	[Map]
+
+uiMaPeople	[MATIS-PEOPLE]
+
+uiMapSearch	[Map search]
+
+uiMapTitle	[MAP]
+
+uimAssignKey	[Assign Key]
+
+uimAssist	[Assist]
+
+uiMasterFilter	[Master Filter]
+
+uiMaterials	[Materials]
+
+uiMaxTracks	[Max. Tracks]
+
+uiMb	[MiB]
+
+uimBlock	[BLOCK]
+
+uimBoldInfo	[INFO]
+
+uimCall	[CALL]
+
+uimCareer	[CAREER]
+
+uimChangeGroup	[Move to friends group]
+
+uimChanSave	[Save]
+
+uimChatTab	[Tabs]
+
+uimChooseUIAlpha	[WINDOW OPACITY]
+
+uimClear	[CLEAR]
+
+uimCombat	[COMBAT]
+
+uimCommand1	[COMMAND 1]
+
+uimCommand2	[COMMAND 2]
+
+uimCommand3	[COMMAND 3]
+
+uimCommand4	[COMMAND 4]
+
+uimCommand5	[COMMAND 5]
+
+uimCommand6	[COMMAND 6]
+
+uimCommands	[COMMANDS]
+
+uimCommerce	[TRADE]
+
+uimCompassAnimal	[Animals]
+
+uimCompassDialogs	[Dialogs]
+
+uimCompassLandMarks	[Landmarks]
+
+uimCompassMissions	[Missions]
+
+uimCompassTeam	[Team]
+
+uimCristalEnchant	[ENCHANT RIGHT HAND]
+
+uimCristalize	[CRYSTALLIZE]
+
+uimCristalReload	[RECHARGE RIGHT HAND]
+
+uimCustomer	[SUPPORT]
+
+uimDeleteKey	[Delete Key]
+
+uimDestroy	[DESTROY]
+
+uimDismiss	[Dismiss]
+
+uimDrop	[DROP]
+
+uiMedis	[Medis]
+
+uimEditKey	[Edit Key]
+
+uiMemColor	[Guild, Team and Chat Windows]
+
+uiMemCombat	[Combat]
+
+uiMemCombatFull	[MEMORY COMBAT]
+
+uiMemCombatTitle	[COMBAT]
+
+uiMemMagic	[Magic]
+
+uiMemMagicFull	[MEMORY MAGIC]
+
+uiMemMagicTitle	[MAGIC]
+
+uiMemory	[Memory]
+
+uiMemoryTitle	[MEMORY]
+
+uimEmote1	[Emote 1]
+
+uimEmote2	[Emote 2]
+
+uimEmote3	[Emote 3]
+
+uimEmote4	[Emote 4]
+
+uimEmote5	[Emote 5]
+
+uimEmote6	[Emote 6]
+
+uimEmote7	[Emote 7]
+
+uimEmotes	[EMOTES]
+
+uiMemSpecial	[Special]
+
+uiMemSpecialFul	[SPECIAL MEMORY]
+
+uiMemSpecialTitle	[SPECIAL]
+
+uimEnterBag	[Enter on the bag]
+
+uimEnterStable	[Enter Stable]
+
+uiMenuCenter	[CENTER MAP ON YOURSELF]
+
+uimEquip	[EQUIP]
+
+uiMessageOfTheDay	[Breach Reality and Be Reborn!]
+
+uiMetaDesc	[@{6F6F}Metabolism@{FFFF},\n
+	measures the rate at which a character's body can recover from injury.]
+
+uiMeterUnit	[m]
+
+uimFaber	[COLLECT]
+
+uimFaClear	[Clear]
+
+uimFaCrea	[CREATE]
+
+uimFaInfos	[Info]
+
+uimFaRefi	[REFINE]
+
+uimFaRepa	[REPAIR]
+
+uimFaReset	[Reset to Default]
+
+uiMFAuthor	[Author]
+
+uiMFDate	[Date]
+
+uiMFDeleteMailTitle	[Delete mail]
+
+uiMFEraseMail	[Erase mail?]
+
+uiMFEraseMailQuestion	[Do you really want to delete this mail? Click on the Back or Home button to cancel]
+
+uiMFFrom	[From]
+
+uiMFIDate	[%day %month, %year]
+
+uiMFInbox	[Inbox]
+
+uiMFLastPost	[Last Post]
+
+uiMFMailBody	[Message]
+
+uiMFMailContent	[Mail content:]
+
+uiMFMailServer	[Mail Server]
+
+uiMFMessage	[Message]
+
+uiMFMessageFrom	[Message from]
+
+uiMFMessages	[Messages]
+
+uiMFNewMessage	[New message]
+
+uiMFNewPost	[New post:]
+
+uiMFNewtopic	[New topic:]
+
+uiMFNext	[Next]
+
+uimFollow	[Follow]
+
+uimFollowMe	[FOLLOW ME]
+
+uimForgetMacro	[FORGET MACRO]
+
+uimForgetPhrase	[FORGET ACTION]
+
+uiMFPosts	[Posts]
+
+uiMFPrevious	[Previous]
+
+uimFree	[FREE]
+
+uimFreezeJob	[FREEZE JOB]
+
+uimFriendList	[FRIENDS LIST]
+
+uiMFSubject	[Subject]
+
+uiMFTopics	[Topics]
+
+uiMFUndelivrableMail	[Undeliverable Mail]
+
+uiMFUndelivrableMailCheck	[Please check mail recipient name.]
+
+uiMFUndelivrableMailTo	[Server was unable to send mail to]
+
+uimGcmAddToFriendList	[ADD TO FRIENDS LIST]
+
+uimGcmAttack	[ATTACK]
+
+uimGcmAvailableMissions	[AVAILABLE MISSIONS]
+
+uimGcmBullying	[Question roughly]
+
+uimGcmBuyRM	[HIRE ROLE MASTER]
+
+uimGcmCancelZoneCharge	[ABANDON CHARGE]
+
+uimGcmChat	[Ask politely]
+
+uimGcmChooseBuilding	[BUILD BUILDING]
+
+uimGcmContinueMissions	[CONTINUE MISSION]
+
+uimGcmCosmetic	[BUY COSMETICS]
+
+uimGcmCreateGuild	[CREATE GUILD]
+
+uimGcmDeclareWar	[DECLARE WAR]
+
+uimGcmDestroyBuilding	[DESTROY BUILDING]
+
+uimGcmDigging	[DIG]
+
+uimGcmDisengage	[DISENGAGE]
+
+uimGcmDiving	[DIVE]
+
+uimGcmDuel	[PROPOSE DUEL]
+
+uimGcmEnterStable	[Enter stable]
+
+uimGcmExchange	[EXCHANGE]
+
+uimGcmExtractRM	[EXTRACT RAW MATERIALS]
+
+uimGcmFaction	[BUY FACTION ITEMS]
+
+uimGcmFinishMissions	[FINISH MISSION]
+
+uimGcmFishing	[FISH]
+
+uimGcmFree	[Free]
+
+uimGcmGuildInvit	[GUILD INVITE]
+
+uimGcmGuildOptions	[BUILDING TRADE]
+
+uimGcmGuildRoleMaster	[LEARN GUILD ACTION]
+
+uimGcmHarvest	[SHEARING]
+
+uimGcmHarvesting	[SHEAR]
+
+uimGcmInfo	[INFO]
+
+uimGcmInvit	[TEAM INVITE]
+
+uimGcmLearnSkills	[LEARN SKILLS]
+
+uimGcmLift	[LIFT]
+
+uimGcmLook	[LOOK]
+
+uimGcmLoot	[LOOT]
+
+uimGcmMissions	[MISSIONS]
+
+uimGcmMount	[MOUNT]
+
+uimGcmMove	[Move]
+
+uimGcmNews	[NEWS]
+
+uimGcmOutpostBanishGuild	[Ban Guild]
+
+uimGcmOutpostBanishPlayer	[Ban Player]
+
+uimGcmOutpostBuilding	[BUILDING TRADE]
+
+uimGcmPvpChallenge	[PROPOSE PVP CHALLENGE]
+
+uimGcmQuartering	[QUARTER]
+
+uimGcmQuitGuild	[Leave Guild]
+
+uimGcmQuitTeam	[Leave Team]
+
+uimGcmStop	[Stop]
+
+uimGcmStopMove	[STOP MOVING]
+
+uimGcmTalk	[TALK]
+
+uimGcmTeleport	[MAKE A PACT]
+
+uimGcmTrade	[TRADE]
+
+uimGcmTradePact	[TRADE PACT]
+
+uimGcmTradePhase	[DEVELOP SKILLS]
+
+uimGcmUnDuel	[ABANDON DUEL]
+
+uimGcmUnPvpChanllenge	[ABANDON PVP CHALLENGE]
+
+uimGcmUpgradeRM	[UPGRADE ROLE MASTER]
+
+uimGcmUse	[USE]
+
+uimGcmZoneCharge	[REVIEW CHARGES]
+
+uimGive	[GIVE]
+
+uimGroup	[Groups]
+
+uimGuild	[GUILD]
+
+uimGuildBearer	[Set rank to Bearer]
+
+uimGuildHighOfficer	[Set rank to High Officer]
+
+uimGuildKick	[Kick member from Guild]
+
+uimGuildLeader	[Set rank to Leader]
+
+uimGuildMember	[Set rank to Member]
+
+uimGuildOfficer	[Set rank to Officer]
+
+uimGuildRecruiter	[Set rank to Recruiter]
+
+uimHarvest	[COLLECT]
+
+uimHelp	[HELP]
+
+uimIcloseOnTp	[Close window after teleport ]
+
+uimIcompact	[Toggle compact mode]
+
+uiMicroVeget	[Micro-Vegetation]
+
+uiMicroVegetDensity	[Density]
+
+uimIgnoreList	[IGNORE LIST]
+
+uimIhideBanner	[Hide faction banner]
+
+uiMilko	[PAD]
+
+uimInfos	[Info]
+
+uiMiniMissionIcon	[Small Icons]
+
+uimInvite	[Team Invite]
+
+uimIopenOnTp	[Reopen window after teleport ]
+
+uimIrefresh	[Refresh]
+
+uimIshowBanner	[Show faction banner]
+
+uiMissionAnd	[ -    ]
+
+uiMissionCatalog	[Open Mission Booklet]
+
+uiMissionDesc	[Description:]
+
+uiMissionDetails	[MISSION DETAILS]
+
+uiMissionIcon	[Mission Information]
+
+uiMissionOptionNotReceived	[???]
+
+uiMissionOr	[or ]
+
+uiMissionPrereq	[Prerequisites:]
+
+uiMissionRingNameNotReceived	[???]
+
+uiMissionTimerDay	[d]
+
+uiMissionTimerHour	[h]
+
+uiMissionTimerMinute	[m]
+
+uiMissionTimerSecond	[s]
+
+uiMissionTitle	[Title:]
+
+uiMisty	[Misty]
+
+uimItemConsume	[CONSUME ITEM]
+
+uimItemTextDisplay	[Read]
+
+uimItemTextEdit	[Write]
+
+uimJournal	[JOURNAL]
+
+uimKeys	[KEYS]
+
+uiMk_action1_0	[Move]
+
+uiMk_action1_0_tt	[Click to @{6F6F}Move@{FFFF}.\n
+	You can also click and hold the 2 buttons of your mouse.]
+
+uiMk_action1_1	[Stop]
+
+uiMk_action1_1_tt	[Click to @{6F6F}Stop@{FFFF}.\n
+	You can also click and release the 2 buttons of the mouse.]
+
+uiMk_action2_0	[Sitting]
+
+uiMk_action2_0_tt	[You are @{6F6F}Sitting@{FFFF}.\n
+	While you are sitting down, your hit points, stamina, sap and focus regenerate twice as fast.\n
+	Click to stand up.]
+
+uiMk_action2_1	[Standing]
+
+uiMk_action2_1_tt	[You are @{6F6F}Standing@{FFFF}.\n
+	Sitting regenerates your hit points, stamina, sap and focus twice as fast.\n
+	Click to sit down.]
+
+uiMk_action3_0	[Walking]
+
+uiMk_action3_0_tt	[You are in @{6F6F}Walking@{FFFF} mode.\n
+	Click to run]
+
+uiMk_action3_1	[Running]
+
+uiMk_action3_1_tt	[You are in @{6F6F}Running@{FFFF} mode.\n
+	Click to walk]
+
+uiMk_action4_0	[Dodge]
+
+uiMk_action4_0_tt	[You are in @{6F6F}Dodge@{FFFF} mode.\n
+	Your chances of dodging depend on your dodge score and particularly on your equipment (see @{6F6F}Identity@{FFFF} window).\n
+	Click to switch to Parry mode.]
+
+uiMk_action4_1	[Parry]
+
+uiMk_action4_1_tt	[You are in @{6F6F}Parry@{FFFF} mode.\n
+	Your chances of parrying depend on your parry score and particularly on your equipment (see @{6F6F}Identity@{FFFF} window).\n
+	Click to switch to Dodge mode.]
+
+uiMk_action5_0	[Attack]
+
+uiMk_action5_0_tt	[Click to @{6F6F}Attack@{FFFF} the selected target.\n
+	You can also use one of the combat actions from your action bar at the top of the screen (by default).]
+
+uiMk_action5_1	[Disengage]
+
+uiMk_action5_1_tt	[Click to @{6F6F}Disengage@{FFFF}]
+
+uiMk_action6	[Extract]
+
+uiMk_action6_tt	[Click to @{6F6F}Extract@{FFFF} the selected source.\n
+	You can also use one of the extraction actions from your action bar at the top of the screen (by default).]
+
+uiMk_action7	[Invite]
+
+uiMk_action7_tt	[Click to @{6F6F}Invite@{FFFF} the selected player to your team.\n
+	You can also invite players through the context menu (right click on a character).]
+
+uiMk_action8	[Leave Team]
+
+uiMk_action8_tt	[Click to @{6F6F}Leave@{FFFF} your team.\n
+	You can also leave your team through the context menu (right click on a character).]
+
+uiMk_action9	[Talk]
+
+uiMk_action9_tt	[Click to @{6F6F}Talk@{FFFF} to the selected player.\n
+	You can also talk to player through the context menu (right click on a character).]
+
+uiMK_Actions	[ACTIONS]
+
+uiMK_Action_1	[EXTRACT]
+
+uiMK_Action_2	[DISBAND]
+
+uiMK_Action_3	[TALK TO]
+
+uiMK_Attack	[ATTACK/DISENGAGE TOGGLE]
+
+uiMK_Attack_0	[ATTACK]
+
+uiMK_Attack_1	[DISENGAGE]
+
+uiMK_Defense	[DODGE/PARRY TOGGLE]
+
+uiMK_Defense_0	[DODGE MODE]
+
+uiMK_Defense_1	[PARRY MODE]
+
+uiMK_Emotes	[EMOTES]
+
+uiMK_Game	[GAME]
+
+uiMK_Game_1	[HELP]
+
+uiMK_Game_2	[WINDOWS]
+
+uiMK_Game_3	[1st DESKTOP]
+
+uiMK_Game_4	[2nd DESKTOP]
+
+uiMK_Game_5	[3rd DESKTOP]
+
+uiMK_Game_6	[4th DESKTOP]
+
+uiMK_Game_7	[QUIT GAME]
+
+uiMK_Game_8	[CONFIGURATION]
+
+uiMK_Game_Desk	[DESKTOPS]
+
+uiMk_interaction1	[Contact List]
+
+uiMk_interaction2	[Guild]
+
+uiMk_interaction3	[Forums]
+
+uiMk_interaction4	[Fame]
+
+uiMk_interaction5	[Mailbox]
+
+uiMk_interaction5b	[Web]
+
+uiMk_interaction6	[Team]
+
+uiMk_interaction7	[Animals]
+
+uiMk_interaction8	[Ryzom Ring]
+
+uiMK_Kick	[INVITE/KICK/DISBAND]
+
+uiMK_Kick_0	[INVITE]
+
+uiMK_Kick_1	[KICK]
+
+uiMk_mode	[Change display mode]
+
+uiMK_MoreWin	[MORE...]
+
+uiMK_Move	[STOP/MOVE TOGGLE]
+
+uiMK_Move_0	[MOVE]
+
+uiMK_Move_1	[STOP]
+
+uiMK_Run	[WALK/RUN TOGGLE]
+
+uiMK_Run_0	[WALK MODE]
+
+uiMK_Run_1	[RUN MODE]
+
+uiMK_Sit	[STAND/SIT TOGGLE]
+
+uiMK_Sit_0	[SIT]
+
+uiMK_Sit_1	[STAND]
+
+uiMk_system1	[Configuration]
+
+uiMk_system2	[Keys]
+
+uiMk_system3	[Windows]
+
+uiMk_system4	[Macros]
+
+uiMk_system5	[Connection]
+
+uiMk_system6	[MP3 Player]
+
+uiMk_system7	[Quit]
+
+uiMk_system8	[Patcher]
+
+uiMk_tab1	[Windows]
+
+uiMk_tab2	[Actions]
+
+uiMk_window1	[Identity]
+
+uiMk_window2	[Inventory]
+
+uiMk_window3	[Actions]
+
+uiMk_window4	[Missions]
+
+uiMk_window5	[Map]
+
+uiMk_window6	[Communication...]
+
+uiMk_window7	[Help]
+
+uiMk_window8	[Support]
+
+uiMk_window9	[System...]
+
+uiMk_window10	[Help...]
+
+uiMk_window11	[Ryzom Ring]
+
+uiMK_Wins	[WINDOWS]
+
+uimLeaveBag	[Leave from the bag]
+
+uimLeaveStable	[Leave Stable]
+
+uimLockItem	[Lock]
+
+uimLockUnlock	[LOCK / UNLOCK]
+
+uimMacErase	[ERASE]
+
+uimMacInfos	[INFO]
+
+uimMaClear	[CLEAR]
+
+uimMacroCopy	[COPY]
+
+uimMacroDel	[DELETE]
+
+uimMacroEdit	[EDIT]
+
+uimMacroExec	[EXECUTE]
+
+uimMacros	[MACROS]
+
+uimMaDel	[DELETE SENTENCE]
+
+uimMaEdit	[EDIT SENTENCE]
+
+uimMagic	[MAGIC]
+
+uimMaInfos	[INFO]
+
+uimMaReset	[RESET TO DEFAULT]
+
+uimMCCopy	[COPY]
+
+uimMCDel	[DELETE]
+
+uimMCEdit	[EDIT]
+
+uimMCMoveDown	[MOVE DOWN]
+
+uimMCMoveUp	[MOVE UP]
+
+uimMount	[MOUNT]
+
+uimMoveTo	[MOVE TO]
+
+uimMoveToFriendList	[MOVE TO FRIENDS LIST]
+
+uimMoveToIgnoreList	[MOVE TO IGNORE LIST]
+
+uimMtBag	[BAG]
+
+uimMtGuild	[GUILD]
+
+uimMtPaDemon0	[DEMON 1]
+
+uimMtPaDemon1	[DEMON 2]
+
+uimMtPaDemon2	[DEMON 3]
+
+uimMtPaDemon3	[DEMON 4]
+
+uimMtPaMount0	[MOUNT 1]
+
+uimMtPaMount1	[MOUNT 2]
+
+uimMtPaMount2	[MOUNT 3]
+
+uimMtPaMount3	[MOUNT 4]
+
+uimMtPaPacker0	[PACKER 1]
+
+uimMtPaPacker1	[PACKER 2]
+
+uimMtPaPacker2	[PACKER 3]
+
+uimMtPaPacker3	[PACKER 4]
+
+uimMtRoom	[ROOM]
+
+uimMtSelf	[SELF]
+
+uimMtSheath	[SHEATH]
+
+uimNewPartyChat	[NEW PARTY CHAT]
+
+uimNewUserChat	[NEW USER CHAT]
+
+uiMoney	[Dappers]
+
+uiMoneyFromGuild	[TAKE DAPPERS FROM GUILD BANK]
+
+uiMoneyTitle	[DAPPERS]
+
+uiMoneyToGuild	[GIVE DAPPERS TO GUILD BANK]
+
+uiMonth01	[January]
+
+uiMonth02	[February]
+
+uiMonth03	[March]
+
+uiMonth04	[April]
+
+uiMonth05	[May]
+
+uiMonth06	[June]
+
+uiMonth07	[July]
+
+uiMonth08	[August]
+
+uiMonth09	[September]
+
+uiMonth10	[October]
+
+uiMonth11	[November]
+
+uiMonth12	[December]
+
+uiMore	[More]
+
+uiMoreFFy	[FYROS WARRIOR: THE BERSERKER]
+
+uiMoreFMa	[MATISIAN WARRIOR: THE SWORD-BEARER]
+
+uiMoreFTr	[TRYKER WARRIOR: THE SWASHBUCKLER]
+
+uiMoreFZo	[ZORAÏ WARRIOR: KAMIC FIST]
+
+uiMoreMFy	[FYROS MAGICIAN: THE CORRUPTER]
+
+uiMoreMMa	[MATISIAN MAGICIAN: THE PESTILENT]
+
+uiMoreMTr	[TRYKER MAGICIAN: THE MIND-BOGGLER]
+
+uiMoreMZo	[ZORAÏ MAGICIAN: THE KAMIC FURY]
+
+uiMoreRFy	[FYROS RANGER: THE SCARLET HUNTER]
+
+uiMoreRMa	[MATISIAN RANGER: THE GREEN HUNTER]
+
+uiMoreRTr	[TRYKER RANGER: THE SHADOW HUNTER]
+
+uiMoreRZo	[ZORAÏ RANGER: THE GUARDIAN OF ATYS]
+
+uiMountColor	[Mount]
+
+uiMountUnmount	[Mount / Dismount]
+
+uiMouseDblClickMode	[Double Click Mode]
+
+uiMouseHardware	[Hardware]
+
+uiMouseHead	[Free Look]
+
+uiMouseInterface	[Interface]
+
+uiMouseInverted	[Invert Mouse]
+
+uiMouseOptions	[Mouse Options]
+
+uiMouseOverOpacity	[Mouse-Over Opacity]
+
+uiMoveBackward	[Backward]
+
+uiMoveForward	[Forward]
+
+uiMoveLookDown	[Look Down]
+
+uiMoveLookUp	[Look Up]
+
+uiMovement	[Move]
+
+uiMoveRunWalk	[Run / Walk]
+
+uiMoveStrafeLeft	[Strafe Left]
+
+uiMoveStrafeRight	[Strafe Right]
+
+uiMoveToggleAutoWalk	[Auto Run]
+
+uiMoveToggleSitStand	[Sit / Stand]
+
+uiMoveToNoMoreSlot	[You have no more free slots in this inventory]
+
+uiMoveTurnLeft	[Turn Left]
+
+uiMoveTurnRight	[Turn Right]
+
+uiMP3Next	[Next]
+
+uiMP3Open	[Open]
+
+uiMP3Pause	[Pause]
+
+uiMP3Play	[Play]
+
+uiMP3Playlist	[Playlist]
+
+uiMP3Prev	[Previous]
+
+uiMP3SoundDisabled	[Media player requires sound to be enabled]
+
+uiMP3Stop	[Stop]
+
+uiMP3Volume	[Volume]
+
+uimPhraseDel	[Delete Action]
+
+uimPhraseEdit	[Edit Action]
+
+uimPhraseInfos	[Info]
+
+uimPhraseNew	[New Action]
+
+uimPhraseRemoveOptionalBrick	[Remove Stanza]
+
+uimPlayer	[PLAYER]
+
+uimQuantityDestroy	[QUANTITY TO DESTROY]
+
+uimQuantityDrop	[QUANTITY TO DROP]
+
+uimQuickChat	[Quick Chat]
+
+uimQuickHelp	[QUICK HELP]
+
+uimQuitTeam	[Leave Team]
+
+uimRefine	[REFINE]
+
+uimRemove	[REMOVE]
+
+uimRemoveAllGM	[REMOVE ALL GUILD MEMBERS]
+
+uimRemoveAllTM	[REMOVE ALL TEAM MEMBERS]
+
+uimRemovePartyChat	[REMOVE PARTY CHAT]
+
+uimRemoveUserChat	[REMOVE USER CHAT]
+
+uimRepair	[REPAIR]
+
+uimSeedsSharing	[SHARING SEEDS]
+
+uimSetSuccesor	[Set Successor]
+
+uimSetTeamLeader	[Set Leader]
+
+uimSkills	[SKILLS]
+
+uimSort	[Sort]
+
+uimSortName	[Sort: NAME]
+
+uimSortQuantity	[Sort: QUANTITY]
+
+uimSortType	[Sort: TYPE]
+
+uimSortUser	[Sort: USER]
+
+uimSpecial	[SPECIAL]
+
+uimStatus	[STATUS]
+
+uimStop	[STOP]
+
+uimSwapJob	[SWAP JOBS]
+
+uimTarget	[Target]
+
+uimTeamCompass	[Compass Target]
+
+uimTeleportUse	[USE TELEPORT]
+
+uimTell	[TELL]
+
+uimToggleChatEBVis	[SHOW/HIDE CHAT WINDOW]
+
+uimTouchpad	[PAD]
+
+uimTutorial	[TUTORIAL]
+
+uimUnBlock	[UNBLOCK]
+
+uimUnlockItem	[Unlock]
+
+uimUnmount	[UNMOUNT]
+
+uimwAbilities	[ABILITIES]
+
+uimwAppZone	[AppZone]
+
+uimwArmor	[ARMOR]
+
+uimwAroundMe	[AROUND ME]
+
+uimwBags	[BAGS]
+
+uimwBars	[MY BARS]
+
+uimwBGDownloader	[PATCHER]
+
+uimwBonusMalus	[BONUS/MALUS]
+
+uimwBuff	[AFFECTED BY]
+
+uimwChat	[MAIN CHAT]
+
+uimwChatMode0	["ESC" TO EXIT CHAT]
+
+uimwChatMode1	["ENTER" TO EXIT CHAT]
+
+uimwColors	[CONFIGURATION]
+
+uimwCombat	[COMBAT]
+
+uimwCommerce	[COMMERCE]
+
+uimwCompas	[COMPASS]
+
+uimwConnection	[CONNECTION]
+
+uimwContactList	[CONTACT LIST]
+
+uimwCosmetics	[COSMETICS]
+
+uimwEncyclopedia	[ENCYCLOPEDIA]
+
+uimwFaberCreate	[CRAFTER CREATE]
+
+uimwFaberRefine	[CRAFTER REFINE]
+
+uimwFaberRepair	[CRAFTER REPAIR]
+
+uimwFame	[FAME]
+
+uimwGuild	[GUILD INFO]
+
+uimwGuildChat	[GUILD CHAT]
+
+uimwGuildForum	[GUILD FORUM]
+
+uimwHands	[ACTION BAR #1/HANDS]
+
+uimwHands2	[ACTION BAR #2]
+
+uimwInfoSys	[SYSTEM INFO]
+
+uimwInventory	[INVENTORY]
+
+uimwJewelry	[JEWELRY]
+
+uimwKeys	[KEYBINDINGS]
+
+uimwMacros	[MACROS]
+
+uimwMagic	[SPELL BOOK]
+
+uimwMailbox	[MAILBOX]
+
+uimwMainChat	[MAIN CHAT]
+
+uimwMap	[MAP]
+
+uimwMemCombat	[MEMORY COMBAT]
+
+uimwMemMagic	[MEMORY MAGIC]
+
+uimwMemSpecial	[MEMORY SPECIAL]
+
+uimwMissions	[MISSONS]
+
+uimwMoney	[DAPPERS]
+
+uimwMP3Player	[MP3 Player]
+
+uimwPA	[ANIMALS]
+
+uimwPet	[PET]
+
+uimwProgression	[IDENTITY]
+
+uimwProgression2	[IDENTITY]
+
+uimwRadar	[RADAR]
+
+uimwSet	[SETS]
+
+uimwSpecial	[SPECIAL]
+
+uimwStatus	[STATUS]
+
+uimwSteed	[MOUNT]
+
+uimwTarget	[TARGET HP]
+
+uimwTaskBar	[Taskbar]
+
+uimwTeam	[TEAM LIST]
+
+uimwTeamChat	[TEAM CHAT]
+
+uimwTeamList	[TEAM]
+
+uimwTell	[TELL]
+
+uimwTracking	[TRACKING]
+
+uimwWebIG	[WEB]
+
+uimwWindowsBar	[WINDOWS BAR]
+
+uimXpCatalyserUse	[ACTIVATE CATALYZER]
+
+uiMystia	[Mystia]
+
+uimZoomIn	[Zoom in]
+
+uimZoomOut	[Zoom out]
+
+uiN	[N]
+
+uiName	[NAME]
+
+uiNameCmd	[<name> One argument required: name of the new chat to create.]
+
+uiNameLandMark	[Name]
+
+uiNE	[NE]
+
+uiNeededPatches	[Required Patches:]
+
+uiNeedToPatch	[Information: You need to patch to access to this shard.]
+
+uiNegativeSymbol	[Invert Symbol]
+
+uiNetStatus	[Network status]
+
+uiNewCmd	[NEW COMMAND]
+
+uiNewKey	[NEW KEY]
+
+uiNewMacro	[NEW MACRO]
+
+uiNewPartyChat	[NEW PARTY CHAT]
+
+uiNewSpell	[New Spell: ]
+
+uiNewTitleBold	[YOU WIN A NEW TITLE: ]
+
+uiNext	[NEXT]
+
+uiNextSheath	[Next Sheath]
+
+uiNextStep	[Next Step]
+
+uiNextTryton	[Next]
+
+uiNightWarningContent	[It is night on Atys.\n
+	\n
+	You can illuminate your surroundings by pressing 'L' (by default) on your keyboard.\n
+	]
+
+uiNightWarningTitle	[Night]
+
+uiNivia	[Nivia]
+
+uiNNE	[NNE]
+
+uiNNW	[NNW]
+
+uiNo	[No]
+
+uiNoAvailableAnimals	[Animals are unavailable in the Ring]
+
+uiNoAvailableMission	[Your mission journal is empty.]
+
+uiNoAvailableMissions	[Mission Journal is unavailable in the Ring]
+
+uiNoFiles	[No Files...]
+
+uiNoGuild	[None]
+
+uiNoMoreLandMarks	[No more landmarks available! Please remove one of them.]
+
+uiNoMoreURI	[No more patch URL, try emergency patch server]
+
+uiNoNewPartyChatCReated	[<name>: No new party chat has been created.]
+
+uiNorth	[North]
+
+uiNoTarget	[No Target]
+
+uiNotAssigned	[N/A]
+
+uiNoteClose	[CLOSE]
+
+uiNotEnoughFP_Fyros	[NOT ENOUGH FYROS POINTS]
+
+uiNotEnoughFP_Kami	[NOT ENOUGH KAMI POINTS]
+
+uiNotEnoughFP_Karavan	[NOT ENOUGH KARAVAN POINTS]
+
+uiNotEnoughFP_Matis	[NOT ENOUGH MATIS POINTS]
+
+uiNotEnoughFP_Tryker	[NOT ENOUGH TRYKER POINTS]
+
+uiNotEnoughFP_Zorai	[NOT ENOUGH ZORAÏ POINTS]
+
+uiNotEnoughGuildMoney	[NOT ENOUGH GUILD DAPPERS]
+
+uiNotEnoughGuildXP	[NOT ENOUGH GUILD XP]
+
+uiNotEnoughMoney	[NOT ENOUGH RESOURCES]
+
+uiNotEnoughSkillPoints	[NOT ENOUGH SKILL POINTS]
+
+uiNoTrainingAvailable	[No training available for this category]
+
+uiNotReceived	[NOT RECEIVED]
+
+uiNotYet	[NOT YET]
+
+uiNoVersionFound	[No Version Found]
+
+uiNowDate	[Now the date is:]
+
+uiNpcColor	[NPC]
+
+uiNPCColor	[NPC]
+
+uiNPCGiver	[GIVER: ]
+
+uiNpcTitle	[NPC Title]
+
+uiNumber00	[00]
+
+uiNumber01	[01]
+
+uiNumber02	[02]
+
+uiNumber03	[03]
+
+uiNumber04	[04]
+
+uiNumber05	[05]
+
+uiNumber06	[06]
+
+uiNumber07	[07]
+
+uiNumber08	[08]
+
+uiNumber09	[09]
+
+uiNumber10	[10]
+
+uiNumber11	[11]
+
+uiNumber12	[12]
+
+uiNumber13	[13]
+
+uiNumber14	[14]
+
+uiNumber15	[15]
+
+>>>>>>> master
 uiNumber16	[16]
 
 uiNumber17	[17]
@@ -10408,6 +13389,7 @@ uiOnChecking	[CHECKING FILES FOR PATCH...]
 uiOnConnect	[CONNECT]
 
 uiOnDataScanning	[CHECKING ALL FILES...]
+<<<<<<< HEAD
 
 uiOnDataScanningHelp	[This process verify all your data files (takes several minutes). Click cancel to abort.]
 
@@ -10514,6 +13496,114 @@ uiOutpostDel	[DEL]
 
 uiOutpostDescription	[Description: ]
 
+=======
+
+uiOnDataScanningHelp	[This process verify all your data files (takes several minutes). Click cancel to abort.]
+
+uiOnline	[ONLINE]
+
+uiOnLogin	[LOGIN]
+
+uiOnMainland	[MAINLANDS]
+
+uiOnMainlandValidation	[Ok]
+
+uiOnPatch	[PATCH]
+
+uiOnPatchDetail	[PATCH DETAILS]
+
+uiOnPatchOpt	[OPTIONAL: Add/Remove Files From Patch]
+
+uiOnRelease	[VERSION NOTES]
+
+uiOnStatus	[STATUS]
+
+uiOnVersion	[VERSION]
+
+uiOpacity	[OPACITY]
+
+uiOpen	[Open]
+
+uiOpenWindow	[Open]
+
+uiOptColor	[Configuration Windows]
+
+uiOptionals	[OPTIONS]
+
+uiOptTitle	[OPTIONS]
+
+uiOrganization	[ORGANIZATION]
+
+uiOrganizationStatus	[Rank:]
+
+uiOrganization_0	[Undefined]
+
+uiOrganization_5	[Marauders]
+
+uiOrganization_7	[Ranger]
+
+uiOrgPointTable	[ORGANIZATION POINTS]
+
+uiOrientation	[ORIENTATION]
+
+uiOtherGive	[OTHER GIVES]
+
+uiOutpostAttackAfter	[After Attack]
+
+uiOutpostAttackBefore	[Before Attack]
+
+uiOutpostAttacker	[Attacker: ]
+
+uiOutpostAttackRound	[Attack Phase]
+
+uiOutpostAttHour	[Attack Time: ]
+
+uiOutpostAttPeriod	[Attack Phase: ]
+
+uiOutpostAutoTimeZone	[Auto]
+
+uiOutpostBuildingInfoNotOwned	[You cannot obtain more information about the enemy buildings.]
+
+uiOutpostBuildingInfoOwned	[Buildings in your Outpost: ]
+
+uiOutpostCapital	[WAR COFFER]
+
+uiOutpostCapitalDoc	[The squads that you edit here do not cost the guild any dappers right away.\n
+	It only costs dappers when the squads come out for a round.\n
+	Nonetheless, if the guild does not have enough dappers to pay for a @{6F6F}squad spawn@{FFFF}, a default squad (much less powerful) will be used.\n
+	You also can limit squad expenses @{6F6F}via Outpost@{FFFF} by changing the @{6F6F}Coffers@{FFFF} below.\n
+	Every time there is a @{6F6F}squad spawn@{FFFF}, both the Guild's and the Outpost's (if possible) @{6F6F}Coffers@{FFFF} decrease.\n
+	Every time a @{6F6F}squad@{FFFF} comes back alive (even if only partially), the Guild's and the Outpost's @{6F6F}Coffers@{FFFF} increase.\n
+	]
+
+uiOutpostCapitalEditKO	[Only a Guild Leader or High Officer can edit an Outpost's @{6F6F}Coffer@{FFFF}.]
+
+uiOutpostCapitalEditOK	[Click to edit the Outpost's war @{6F6F}Coffer@{FFFF}.]
+
+uiOutpostCapitalHeader	[Coffer: ]
+
+uiOutpostChangeCapital	[Change Coffer.]
+
+uiOutpostCrash	[A server crash during the Attack or Defense Phase has canceled the Outpost war.\n
+	Any dapper spent on this war has been reimbursed to the guilds (i.e. the cost for declaring, for buying squads, etc.)]
+
+uiOutpostDeclareWar	[DECLARE WAR]
+
+uiOutpostDefenseAfter	[After Defense]
+
+uiOutpostDefenseBefore	[Before Defense]
+
+uiOutpostDefenseRound	[Defense Phase]
+
+uiOutpostDefHour	[Defense Time: ]
+
+uiOutpostDefPeriod	[Defense Phase: ]
+
+uiOutpostDel	[DEL]
+
+uiOutpostDescription	[Description: ]
+
+>>>>>>> master
 uiOutpostInsertSquad	[Insert]
 
 uiOutpostJoinPVPAttack	[ATTACK]

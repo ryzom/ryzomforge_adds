@@ -32842,9 +32842,9 @@ HARVEST_SUCCESS_OTHER (player p, int nb, item item, int quality)
 	HEAL_CLOUD_HIT (score s, int v)
 	{
 			heal_hit	[&SPLM&You feel the effects of benevolent magic and get a bonus of $s$ of $v$.]
-	
+
 	}
-	
+
 ] */
 // Clause 0 : identifier changed.
 // HASH_VALUE 185C26D22AA1B90A
@@ -37136,7 +37136,7 @@ MENU_TRADE ()
 // HASH_VALUE 5E79C47B9AFAE07D
 MENU_USE_PA ()
 {
-			[Use your Elyps]
+			[Rewards and Services]
 
 }
 

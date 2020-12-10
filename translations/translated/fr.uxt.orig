@@ -4847,6 +4847,7 @@ uiCaNaM	[Mage]
 uiCaNaR	[Artisan]
 
 uiCancelCast	[Annuler l'action en cours]
+<<<<<<< HEAD
 
 uiCancelCreateAccount	[Retour à la page d'accueil]
 
@@ -5553,6 +5554,714 @@ uiCP_Keyset_Ok	[OK]
 
 uiCP_LastName	[Nom]
 
+=======
+
+uiCancelCreateAccount	[Retour à la page d'accueil]
+
+uiCancelingScanData	[Annulation du scan des données. Veuillez patienter...]
+
+uiCancelScanData	[Annuler]
+
+uiCanNotDownload	[Un problème est survenu pendant le téléchargement d'un des fichiers d'installation de Ryzom.\n
+	Merci de vous assurer que vous avez suffisamment d'espace disque et que votre connexion internet est fonctionnelle.]
+
+uiCanNotInstall	[Un problème est survenu pendant l'installation d'un des fichiers d'installation de Ryzom.\n
+	Merci de vous assurer que vous avez suffisamment d'espace disque pour procéder à l'installation.]
+
+uiCannotWriteDynChat	[Vous ne pouvez pas écrire dans ce chat.]
+
+uiCantAddYourSelfInContactList	[Impossible de vous ajouter à la liste des contacts]
+
+uiCantBuildItem	[Impossible de fabriquer l'objet]
+
+uiCantRemovePartyChat	[Impossible de supprimer la session de chat.]
+
+uiCantResaleCauseDamaged	[Cet objet ne sera pas revendu car il est abîmé.]
+
+uiCantResaleCauseTooLate	[Cet objet ne sera pas revendu car le délai de revente a expiré.]
+
+uiCantUseBuiltItem	[Impossible d'utiliser l'objet fabriqué]
+
+uiCantUseItem	[Vous n'avez pas la compétence pour utiliser cet objet.]
+
+uiCap	[Ver Maj]
+
+uiCaptionToggle	[Barre de titre on / off]
+
+uiCarA	[Artisan - caractéristiques]
+
+uiCaracId0	[Constitution]
+
+uiCaracId1	[Métabolisme]
+
+uiCaracId2	[Intelligence]
+
+uiCaracId3	[Sagesse]
+
+uiCaracId4	[Force]
+
+uiCaracId5	[Équilibre]
+
+uiCaracId6	[Dextérité]
+
+uiCaracId7	[Volonté]
+
+uiCaracMisc	[Divers]
+
+uiCaracs	[CARACTÉRISTIQUES]
+
+uiCaracsTable	[Caractéristiques]
+
+uiCarac_HpMax	[Constitution]
+
+uiCarac_HpReg	[Métabolisme]
+
+uiCarac_SapMax	[Intelligence]
+
+uiCarac_SapReg	[Sagesse]
+
+uiCarac_StaMax	[Force]
+
+uiCarac_StaReg	[Équilibre]
+
+uiCarac_WishMax	[Dextérité]
+
+uiCarac_WishReg	[Volonté]
+
+uiCarAM	[Attaquant - Caractéristiques]
+
+uiCarBM	[Buffer - Caractéristiques]
+
+uiCareers	[CARRIÈRES]
+
+uiCareerTitle	[Que souhaitez-vous devenir ?]
+
+uiCarH	[Foreur - caractéristiques]
+
+uiCarHM	[Guérisseur - Caractéristiques]
+
+uiCarM	[Marchand - caractéristiques]
+
+uiCarMF	[Combattant de mêlée - caractéristiques]
+
+uiCarRF	[Tireur - caractéristiques]
+
+uiCategory	[Catégorie]
+
+uiCCDActivities	[Couleur de l'en-tête "Activités"]
+
+uiCCDAni	[Couleur de l'en-tête "Animaux"]
+
+uiCCDBot	[Couleur de l'en-tête "PNJ"]
+
+uiCCDCivi	[Couleur des messages de la "civilisation"]
+
+uiCCDCom	[Couleur de l'en-tête "Communication"]
+
+uiCCDConnect	[Couleur de l'en-tête "Connexion"]
+
+uiCCDCustom_look	[Couleur de l'en-tête "Personnaliser l'apparence"]
+
+uiCCDDialogs	[Couleur de l'en-tête "Dialogues"]
+
+uiCCDDyn0	[Couleur des messages du 'canal dynamique 0']
+
+uiCCDDyn1	[Couleur des messages du 'Canal dynamique 1']
+
+uiCCDDyn2	[Couleur des messages du 'canal dynamique 2']
+
+uiCCDDyn3	[Couleur des messages du 'canal dynamique 3']
+
+uiCCDDyn4	[Couleur des messages du 'canal dynamique 4']
+
+uiCCDDyn5	[Couleur des messages du 'canal dynamique 5']
+
+uiCCDDyn6	[Couleur des messages du 'canal dynamique 6']
+
+uiCCDDyn7	[Couleur des messages du 'canal dynamique 7']
+
+uiCCDEvents	[Couleur de l'en-tête "Événements"]
+
+uiCCDFeature_help	[Couleur de l'en-tête "Aide contextuelle"]
+
+uiCCDForm	[Couleur de l'en-tête "Formulaires"]
+
+uiCCDGuild	[Couleur des messages de la guilde]
+
+uiCCDHel	[Couleur de l' en-tête "Aide"]
+
+uiCCDInf	[Couleur de l'en-tête "Informations"]
+
+uiCCDInv	[Couleur de l'en-tête "Inventaire"]
+
+uiCCDLab	[Couleur de l'en-tête "Orientation"]
+
+uiCCDLMAmber	[Couleur des repères "Ambre"]
+
+uiCCDLMBandit	[Couleur des repères "Bandits"]
+
+uiCCDLMBark	[Couleur des repères "Écorce"]
+
+uiCCDLMCitizen	[Couleur des repères "Citoyen"]
+
+uiCCDLMConstruction	[Couleur des repères "Construction"]
+
+uiCCDLMFauna	[Couleur des repères "Faune"]
+
+uiCCDLMFaunaExcel	[Couleur des repères "Nommé"]
+
+uiCCDLMFaunaSup	[Couleur des repères "Roi"]
+
+uiCCDLMFiber	[Couleur des repères "Fibre"]
+
+uiCCDLMFood	[Couleur des repères "Nourriture"]
+
+uiCCDLMForage	[Couleur des repères "Source"]
+
+uiCCDLMForageExcel	[Couleur des repères "Source excellente"]
+
+uiCCDLMForageSup	[Couleur des repères "Source suprême"]
+
+uiCCDLMGoo	[Couleur des repères "Goo"]
+
+uiCCDLMInsect	[Couleur des repères "Insecte"]
+
+uiCCDLMKitin	[Couleur des repères "Kitin"]
+
+uiCCDLMMisc	[Couleur des repères "Divers"]
+
+uiCCDLMMission	[Couleur des repères "Mission"]
+
+uiCCDLMNocive	[Couleur des repères "Matière nocive"]
+
+uiCCDLMNode	[Couleur des repères "Boucle"]
+
+uiCCDLMOil	[Couleur des repères "Huile"]
+
+uiCCDLMPassage	[Couleur des repères "Chemin"]
+
+uiCCDLMPreservative	[Couleur des repères "Matière de conservation"]
+
+uiCCDLMResin	[Couleur des repères "Résine"]
+
+uiCCDLMSap	[Couleur des repères "Sève"]
+
+uiCCDLMSeed	[Couleur des repères "Graine"]
+
+uiCCDLMShell	[Couleur des repères "Carapace"]
+
+uiCCDLMTeleporter	[Couleur des repères "Téléporteur"]
+
+uiCCDLMTribe	[Couleur des repères "Tribu"]
+
+uiCCDLMWood	[Couleur des repères "Bois"]
+
+uiCCDMem	[Couleur de l'en-tête "Guilde & Équipe"]
+
+uiCCDNpc	[Couleur des messages des "PNJ"]
+
+uiCCDOpt	[Couleur de l'en-tête "Options"]
+
+uiCCDPalette	[Couleur de l'en-tête "Palette"]
+
+uiCCDPla	[Couleur de l'en-tête "Joueur"]
+
+uiCCDPlayer_tracking	[Couleur de l'en-tête "Gestion des joueurs"]
+
+uiCCDProp_window	[Couleur de l'en-tête "Propriétés"]
+
+uiCCDRegion	[Couleur des messages du canal Région]
+
+uiCCDSay	[Couleur des messages "dire"]
+
+uiCCDScenario	[Couleur de l'en-tête "Scénario"]
+
+uiCCDScenario_control	[Couleur de l'en-tête Gestionnaire de Scénario]
+
+uiCCDSession_browser	[Couleur de l'en-tête "Gestionnaire de session"]
+
+uiCCDShout	[Couleur des messages "crier"]
+
+uiCCDTeam	[Couleur des messages de l'équipe]
+
+uiCCDTell	[Couleur des "messages privés"]
+
+uiCCDTerri	[Couleur des messages du "territoire"]
+
+uiCCDTra	[Couleur de l'en-tête "Échange"]
+
+uiCCDUniv	[Couleur des messages du canal Univers]
+
+uiChanAutoCB	[Restauration des canaux dynamiques]
+
+uiChangeDate	[Changement de la date du fichier :]
+
+uiChannel	[Canal :]
+
+uiChanSaveCB	[Enregistrer les canaux dynamiques]
+
+uiChapterI	[Chapitre I : les temps changent]
+
+uiChapterII	[Chapitre II : prêt à se battre]
+
+uiChapterIII	[Chapitre III : avant-postes]
+
+uiChapterIV	[Chapitre IV : métiers élémentaires]
+
+uiChapterV	[Chapitre V : l'appel du pouvoir]
+
+uiCharFade	[Fondu du personnage utilisateur]
+
+uiCharFarClip	[Netteté lointaine]
+
+uiCharMaxNotCLod	[Haute déf. max]
+
+uiCharMaxPoly	[Polygones max.]
+
+uiCharModel	[Modèle]
+
+uiCharOpacityMin	[Opacité minimale]
+
+uiCharPoly	[Options du personnage]
+
+uiCharSel_CreateNew	[CRÉER NOUVEAU]
+
+uiCharSel_CreateRan	[Aléatoire]
+
+uiCharSel_Del	[SUPPRIMER]
+
+uiCharSel_DelChar	[Souhaitez-vous vraiment supprimer ce personnage ?]
+
+uiCharSel_EmptySlot	[EMPLACEMENT LIBRE]
+
+uiCharSel_Infos1	[Infos de sélection du personnage - non vide]
+
+uiCharSel_Infos2	[Infos de sélection du personnage - vide]
+
+uiCharSel_Play	[JOUER]
+
+uiCharSel_Quit	[QUITTER]
+
+uiCharSel_ResumeSession	[Reprendre le scénario]
+
+uiChat	[Chat]
+
+uiChatColors	[Couleurs du chat]
+
+uiChatIS	[Messages du Chat en scène]
+
+uiCheckEndNoErr	[Fin de vérification des fichiers - Pas d'erreur]
+
+uiCheckEndWithErr	[Fin de vérification des fichiers - Erreur(s) :]
+
+uiCheckInBNP	[Vérification du BNP :]
+
+uiChecking	[Vérification]
+
+uiCheckingFile	[Vérification du fichier]
+
+uiCheckInt	[Vérification de l'intégrité :]
+
+uiCheckPasword	[SAISIR UTILISATEUR ET MOT DE PASSE]
+
+uiChgDateErr	[Impossible de modifier le fichier heure :]
+
+uiCiviColor	[Civilisation]
+
+uiClickToSelectAMission	[Cliquez ici pour sélectionner une mission.]
+
+uiClientVersion	[Version du client]
+
+uiClose	[Fermer]
+
+uiCloseHelp	[Fermer toutes les aides]
+
+uiCloseScanData	[Fermer]
+
+uiCloseWindow	[Fermer]
+
+uiClothes	[Vêtements]
+
+uiCloudy	[le temps est nuageux.]
+
+uiCmdKey	[TOUCHE]
+
+uiColorB	[B]
+
+uiColorD	[Pendant la journée]
+
+uiColorG	[V]
+
+uiColorN	[Pendant la nuit]
+
+uiColorR	[R]
+
+uiColorT	[T]
+
+uiCombat	[Combat]
+
+uiCombatTitle	[Combat]
+
+uiComColor	[Communication]
+
+uiCommandNotExists	[Commande inconnue]
+
+uiCommandWrongArgumentCount	[Mauvais compte des éléments dans la commande.]
+
+uiCommerce	[Commerce]
+
+uiCommerceTitle	[Commerce]
+
+uiComMissions	[MISSIONS TERMINÉES]
+
+uiCommunication	[Interaction]
+
+uiCompas	[Radar]
+
+uiComStaminaCost	[Coût en Endurance :]
+
+uiConfigAboutRyzomConfiguration	[À propos de la configuration de Ryzom]
+
+uiConfigActivateSound	[Activer le son]
+
+uiConfigAdvanced	[Avancé]
+
+uiConfigAdvancedComment	[Modifiez ces réglages uniquement si vous rencontrez des problèmes en lançant le jeu.]
+
+uiConfigApply	[&Appliquer]
+
+uiConfigAuto	[Auto]
+
+uiConfigBits	[bits]
+
+uiConfigCancel	[&Annuler]
+
+uiConfigCharacters	[Personnages]
+
+uiConfigCopyright	[Copyright Winch Gate Property Limited (C) 2008]
+
+uiConfigDefault	[&Défaut]
+
+uiConfigDescription	[Description : ]
+
+uiConfigDirect3D	[Direct3D]
+
+uiConfigDisableAGP	[Désactiver AGP pour les vertices]
+
+uiConfigDisableDXTC	[Désactiver la compression de la texture]
+
+uiConfigDisableTextureShader	[Désactiver pixel shaders]
+
+uiConfigDisableVP	[Désactiver vertex shaders]
+
+uiConfigDisplay	[Affichage]
+
+uiConfigDisplayAdvanced	[Affichage avancé]
+
+uiConfigDisplayD3DInfo	[Informations Direct3D]
+
+uiConfigDisplayDetails	[Détails de l'affichage]
+
+uiConfigDisplayOpenGLInfo	[Informations OpenGL]
+
+uiConfigDisplaySysInfo	[Informations Système]
+
+uiConfigDriver	[Pilote]
+
+uiConfigDriverDesc	[Pilote : ]
+
+uiConfigDriverVersion	[Version du pilote :]
+
+uiConfigEnableEAX	[Activer EAX]
+
+uiConfigEnableFMod	[Utiliser le mode FMod]
+
+uiConfigErrorReadingTheFile	[Erreur de lecture du fichier]
+
+uiConfigErrorWritingTheFile	[Erreur d'écriture du fichier]
+
+uiConfigExtensions	[Extensions : ]
+
+uiConfigFullscreen	[Plein écran]
+
+uiConfigFX	[Effets spéciaux]
+
+uiConfigGeneral	[Général]
+
+uiConfigHeight	[Hauteur :]
+
+uiConfigHz	[Hz]
+
+uiConfigLandscape	[Paysage]
+
+uiConfigLanguage	[Langue :]
+
+uiConfigLaunch	[Jouer à Ryzom]
+
+uiConfigLOD	[Niveau de détail :]
+
+uiConfigMedium	[Moyen]
+
+uiConfigMenuAbout	[&À propos de la configuration de Ryzom...]
+
+uiConfigNormal	[Normal]
+
+uiConfigOK	[&OK]
+
+uiConfigOpenGL	[OpenGL]
+
+uiConfigOpenGLOrD3D	[Précisez si Ryzom doit être exécuté en OpenGL ou en Direct3D :]
+
+uiConfigParameters	[Paramètres]
+
+uiConfigPoor	[Faible]
+
+uiConfigPositionX	[PositionX :]
+
+uiConfigPositionY	[PositionY :]
+
+uiConfigQuitWithoutSaving	[Souhaitez-vous vraiment quitter sans sauvegarder la configuration ?]
+
+uiConfigRenderer	[Rendu : ]
+
+uiConfigRestaureDefault	[Souhaitez-vous vraiment restaurer la configuration par défaut ?]
+
+uiConfigRyzomConfigurationVersion	[Configuration de Ryzom Version 0.9]
+
+uiConfigSaveConfig	[Sauvegarder le fichier de configuration en quittant le jeu]
+
+uiConfigSlowDown	[Ralentir le jeu (Traitement en priorité faible)]
+
+uiConfigSound	[Son]
+
+uiConfigSoundBuffer	[Nombre de pistes :]
+
+uiConfigSoundForceSoftware	[Son du jeu logiciel (peut augmenter les FPS)]
+
+uiConfigSuper	[Fort]
+
+uiConfigSystemInfoCPU	[Unité centrale : ]
+
+uiConfigSystemInfoOS	[Système d'exploitation : ]
+
+uiConfigSystemInfoPhyMem	[Mémoire physique : ]
+
+uiConfigSystemInfoVideo	[Matériel vidéo : ]
+
+uiConfigSystemInfoVideoDriver	[Version du pilote vidéo : ]
+
+uiConfigTexture	[Textures]
+
+uiConfigTextureNormal	[Normale (64 Mio VRAM)]
+
+uiConfigTexturePoor	[Faible (32 Mio VRAM)]
+
+uiConfigTextureSuper	[Haute (128 Mio VRAM)]
+
+uiConfigTitle	[Configurer Ryzom]
+
+uiConfigTracks	[Pistes]
+
+uiConfigVendor	[Vendeur : ]
+
+uiConfigVersion	[Version : ]
+
+uiConfigVideoMode	[Précisez un mode vidéo :]
+
+uiConfigWidth	[Largeur :]
+
+uiConfigWindowed	[Fenêtré]
+
+uiConfigWindowedOrFullscreen	[Précisez si Ryzom doit être exécuté en mode plein écran ou fenêtré :]
+
+uiConfirmCloseBCReward	[Il reste des objets, fermer tout de même ?]
+
+uiConfirmFreezeJob	[Bloquer ce travail ?]
+
+uiConfirmPassword	[Confirmer le mot de passe]
+
+uiConfirmSwapJob	[Vous confirmer le changement de travail ?]
+
+uiConfirmUnfreezeJob	[Confirmez-vous le déblocage du travail ?]
+
+uiCongifExplanation	[Sélectionnez le type de configuration en utilisant l'explorateur sur la gauche\n
+	\n
+	- La Résolution vidéo est modifiée uniquement si vous cliquez sur "APPLIQUER".\n
+	- La Résolution de la texture sera modifiée lors de la prochaine partie.\n
+	\n
+	- Les boutons "ANNULER" et "FERMER" annuleront uniquement les changements qui n'ont pas été appliqués.]
+
+uiConnecting	[Connexion en cours...]
+
+uiConnection	[Connexion]
+
+uiConnectionTitle	[CONNEXION]
+
+uiConnectionTitle_short	[Net]
+
+uiConsDesc	[@{6F6F}Constitution@{FFFF},\n
+	mesure la résistance physique d'un personnage.]
+
+uiContactAlreadyInList	[Impossible d'ajouter le contact : déjà présent dans la liste.]
+
+uiContactList	[Contacts]
+
+uiContactListTitle	[Contacts]
+
+uiContainer	[Conteneur]
+
+uiContinentBagne	[le Gouffre d'Ichor]
+
+uiContinentFyros	[le Désert Ardent]
+
+uiContinentIndoors	[intérieurs]
+
+uiContinentLeCarrefour	[le Nexus]
+
+uiContinentLePaysMalade	[le Pays Malade]
+
+uiContinentLesFalaises	[les Sommets Verdoyants]
+
+uiContinentLesIlesVivantes	[les Îles Vivantes]
+
+uiContinentRouteGouffre	[la Route des Ombres]
+
+uiContinentSources	[les Sources Interdites]
+
+uiContinentTerre	[les Terres Abandonnées]
+
+uiContinentTryker	[Aeden Aqueous]
+
+uiContrast	[Contraste]
+
+uiCopy	[Copier]
+
+uiCopyToDesktop	[Copier le bureau actuel sur le bureau]
+
+uiCorruptedFile	[Fichier corrompu ou manquant : ]
+
+uiCosmColor	[Changer de couleur de cheveux]
+
+uiCosmTatoo	[Changer de tatouages]
+
+uiCP_Abort	[ABANDONNER]
+
+uiCP_Abort2	[Abandonner implique la perte de vos modifications...]
+
+uiCP_Abort_no	[ANNULER]
+
+uiCP_Abort_yes	[CONTINUER]
+
+uiCP_Actions	[ACTIONS :]
+
+uiCP_BP1	[Spécialisation : ]
+
+uiCP_BP_Des	[DÉTAILS DU CONTENU]
+
+uiCP_Choose_Keyset	[Choisissez votre configuration clavier]
+
+uiCP_Choose_Mainland	[Choisissez un continent]
+
+uiCP_Craft1	[Artisan débutant]
+
+uiCP_Craft2	[Apprenti artisan]
+
+uiCP_creation	[CRÉATION]
+
+uiCP_Delete_no	[NON]
+
+uiCP_Delete_yes	[OUI]
+
+uiCP_Fight1	[Combattant débutant]
+
+uiCP_Fight2	[Apprenti combattant]
+
+uiCP_Finish	[TERMINER]
+
+uiCP_FirstName	[Prénom]
+
+uiCP_Forage1	[Foreur débutant]
+
+uiCP_Forage2	[Apprenti foreur]
+
+uiCP_Infos	[Infos]
+
+uiCP_InRingSession	[Le scénario du Ring lancé par ce personnage est toujours en cours. Cliquez sur @{6F6F}'Reprendre le scénario' @{FFFF}pour continuer.]
+
+uiCP_Items	[OBJETS :]
+
+uiCP_JOB1	[Combat]
+
+uiCP_JOB2	[Magie]
+
+uiCP_JOB3	[Extraction]
+
+uiCP_JOB4	[Artisanat]
+
+uiCP_Job_C1	[1 - Outil de création d'armure\n
+	2 - 50 Matières premières génériques de qualité 10\n
+	3 - 1ère action pour créer une armure de votre race\n
+	4 - Plan de création de bottes]
+
+uiCP_Job_C2	[1 - Outil de création d'armure\n
+	2 - 100 Matières premières génériques de qualité 10\n
+	3 - 1ère action pour créer une armure de votre race\n
+	4 - Plan de création de bottes\n
+	5 - Plan de création de gants]
+
+uiCP_Job_F1	[1- Dague\n
+	2 - Action Attaque précise 1]
+
+uiCP_Job_F2	[1- Dague\n
+	2 - Action Attaque précise 1\n
+	3 - Action Coup puissant 1]
+
+uiCP_Job_G1	[1 - Pioche\n
+	2 - Action Extraction de base]
+
+uiCP_Job_G2	[1 - Pioche\n
+	2 - Action Extraction de base\n
+	3 - Action Prospection de base]
+
+uiCP_Job_M1	[1 - Amplificateur magique de niveau 10\n
+	2 - Action dégât d'acide 1]
+
+uiCP_Job_M2	[1 - Amplificateur magique de niveau 10\n
+	2 - Action dégât d'acide 1\n
+	3 - Action Peur 1]
+
+uiCP_KeysetImport_Editor	[Importer la configuration clavier de ce personnage.\n
+	@{6F6F}EDITOR ONLY]
+
+uiCP_KeysetImport_Game	[Importer la configuration clavier de ce personnag.e\n
+	@{6F6F}GAME ONLY]
+
+uiCP_KeysetImport_Game_Editor	[Importer la configuration clavier de ce personnage.\n
+	@{6F6F}GAME & EDITOR]
+
+uiCP_KeysetName_	[Déplacement avec les flèches.]
+
+uiCP_KeysetName_bi_wasd	[Déplacement avec 'WASD']
+
+uiCP_KeysetName_bi_wow_alike	[Autre 1]
+
+uiCP_KeysetName_bi_zqsd	[Déplacement avec 'ZQSD']
+
+uiCP_KeysetTooltip_	[Déplacer votre avatar avec @{6F6F}les flèches@{FFFF} seulement.]
+
+uiCP_KeysetTooltip_bi_wasd	[Déplacer votre avatar avec les touches @{6F6F}WASD@{FFFF} à la façon des 'First person shooters'. Ceci convient pour les claviers américains, anglais, ou allemands.]
+
+uiCP_KeysetTooltip_bi_wow_alike	[Pour les personnes habituées à la configuration des touches d'un autre MMO, cela peut éventuellement vous permettre de retrouver vos marques. Ceci ne s'applique qu'à Ryzom (La configuration du Ring reste la même).]
+
+uiCP_KeysetTooltip_bi_zqsd	[Déplacer votre avatar avec les touches @{6F6F}ZQSD@{FFFF} à la façon des 'First person shooters'. Ceci convient pour les claviers français et belges.]
+
+uiCP_Keyset_Cancel	[ANNULER]
+
+uiCP_Keyset_Ok	[OK]
+
+uiCP_LastName	[Nom]
+
+>>>>>>> master
 uiCP_Location_Back	[Etes-vous sûr(e) de vouloir commencer avec ce personnage et cette destination\n
 	  plus tard ?]
 
@@ -6657,8 +7366,12 @@ uiEulaAccept	[J'ACCEPTE]
 
 uiEulaContent	[LICENCE RYZOM\n
 	\n
+<<<<<<< HEAD
+	AVIS À L'UTILISATEUR : CE DOCUMENT EST UN CONTRAT. AVANT DE CLIQUER SUR LE BOUTON « J'ACCEPTE » CI-DESSOUS ET D'ACHEVER LA PROCÉDURE D'INSTALLATION OU D'ENREGISTREMENT, VEUILLEZ LE LIRE ATTENTIVEMENT. EN CLIQUANT SUR LE BOUTON « J'ACCEPTE », VOUS ACCEPTEZ LES TERMES DU PRÉSENT CONTRAT ET LES OBLIGATIONS   QU'IL CONTIENT. SI VOUS NESOUHAITEZ PAS DEVENIR PARTIE AU PRÉSENT CONTRAT OU ÊTRE LIÉ PAR L'ENSEMBLE DE SES STIPULATIONS, CLIQUEZ SUR LE BOUTON « ANNULER »ET VEUILLEZ NE PAS INSTALLER (OU VEUILLEZ DÉSINSTALLER, SELON LECAS) LE LOGICIEL, ET NE PAS L'UTILISER. En cas de difficultés relatives à la présente Licence, veuillez contacter le service clients Ryzom à l'adresse suivante support@ryzom.com\n
+=======
 	AVIS À L'UTILISATEUR : CE DOCUMENT EST UN CONTRAT. AVANT DE CLIQUER SUR LE BOUTON « J'ACCEPTE » CI-DESSOUS ET D'ACHEVER LA PROCÉDURE D'INSTALLATION OU D'ENREGISTREMENT, VEUILLEZ LE LIRE ATTENTIVEMENT. EN CLIQUANT SUR LE BOUTON « J'ACCEPTE », VOUS ACCEPTEZ LES TERMES DU PRÉSENT CONTRAT ET LES OBLIGATIONS   QU'IL CONTIENT. SI VOUS NE SOUHAITEZ PAS DEVENIR PARTIE AU PRÉSENT CONTRAT OU ÊTRE LIÉ PAR L'ENSEMBLE DE SES STIPULATIONS, CLIQUEZ SUR LE BOUTON « ANNULER » ET VEUILLEZ NE PAS INSTALLER (OU VEUILLEZ DÉSINSTALLER, SELON LE CAS) LE LOGICIEL, ET NE PAS L'UTILISER. EN ACCEPTANT LES TERMES DE CE CONTRAT, VOUS ACCEPTEZ ÉGALEMENT DE VOUS SOUMETTRE AU CODE DE CONDUITE QUE VOUS TROUVEREZ ICI : https://ryzom.com/terms-of-service\n
 	En cas de difficultés relatives à la présente Licence, veuillez contacter le service clients Ryzom à l'adresse suivante support@ryzom.com\n
+>>>>>>> master
 	\n
 	1. OBJET DU CONTRAT. La présente Licence Ryzom (ci-après le « Contrat ») constitue uncontrat entre vous et Winch Gate Property Limited (ci-après « Winch Gate » ou « nous »). Il a pour objet de définir les conditions auxquelles Winch Gate concède à l'utilisateur autorisé (tel quedéfini à l'article 2 ci-après) les services suivants relatifs aujeu massivement multijoueur en ligne Ryzom (ci-après « Ryzom » ou le « Jeu » ou « Ryzom Arkitect » ), consistant dans l'ouverture et le maintien d'un compte permettant, par l'intermédiaire de l'Internet, de jouer au Jeu, et d'utiliser notre outil en jeu Ryzom Arkitect pour créer du contenu interne au jeu.\n
 	\n
@@ -10497,6 +11210,7 @@ uiOutpostDefenseAfter	[Attente du résultat]
 uiOutpostDefenseBefore	[Attente de défense]
 
 uiOutpostDefenseRound	[Période de défense !]
+<<<<<<< HEAD
 
 uiOutpostDefHour	[Horaire de défense : ]
 
@@ -10579,6 +11293,90 @@ uiOutpostSSquadStart	[Début du round]
 
 uiOutpostStatus	[État : ]
 
+=======
+
+uiOutpostDefHour	[Horaire de défense : ]
+
+uiOutpostDefPeriod	[Période de défense : ]
+
+uiOutpostDel	[SUPPR]
+
+uiOutpostDescription	[Description : ]
+
+uiOutpostInsertSquad	[Insérer]
+
+uiOutpostJoinPVPAttack	[ATTAQUER]
+
+uiOutpostJoinPVPAttHeader	[Attaquant :]
+
+uiOutpostJoinPVPDefend	[DÉFENDRE]
+
+uiOutpostJoinPVPDefHeader	[Défenseur :]
+
+uiOutpostJoinPVPDefMarauder	[Clan maraudeurs.]
+
+uiOutpostJoinPVPNeutral	[NEUTRE]
+
+uiOutpostJoinPVPProposalDesc	[Vous êtes dans la zone d'un avant-poste.\n
+	Vous pouvez participer à la bataille pour conquérir ou défendre l'avant-poste.\n
+	Si votre guilde y participe, vous ne pourrez pas vous battre contre elle (mais vous pourrez rester neutre).\n
+	]
+
+uiOutpostJoinPVPProposalTitle	[PvP d'avant-poste]
+
+uiOutpostJoinPVPTimer	[@{FFFA}Vous serez automatiquement déclaré neutre dans @{FFFF}%time@{FFFA} secondes.]
+
+uiOutpostLevel	[Niveau : ]
+
+uiOutpostLvlCurrent	[Niveau de round courant : ]
+
+uiOutpostLvlMaxAttacker	[Niveau max. des attaquants : ]
+
+uiOutpostLvlMaxDefender	[Niveau max. des Défenseurs : ]
+
+uiOutpostLvlThreshold	[Seuil minimum : ]
+
+uiOutpostManagerTitle	[Avant-postes]
+
+uiOutpostOwner	[Propriétaire : ]
+
+uiOutpostPeace	[Paix]
+
+uiOutpostPeriodEnded	[Attaque terminée]
+
+uiOutpostPeriodFormat	[%dayname %daynumber %month de %timestart à %timeend]
+
+uiOutpostRemoveSquad	[Supprimer]
+
+uiOutpostRoundCur	[Round courant : ]
+
+uiOutpostSetSquad	[RECRUTER]
+
+uiOutpostSpawnZone	[Zone]
+
+uiOutpostSquadEditAtt	[Vous attaquez cet avant-poste.\n
+	Pendant la @{6F6F}période de défense@{FFFF}, des escouades vont sortir pour contrer les défenseurs qui essaieront de récupérer cet avant-poste.\n
+	Dans cette fenêtre, vous pouvez voir les escouades sorties ainsi que changer les escouades qui sortiront.\n
+	Note : Seuls les officiers supérieurs et le chef de guilde peuvent éditer les escouades.]
+
+uiOutpostSquadEditDef	[Vous défendez cet avant-poste.\n
+	Pendant la @{6F6F}période d'attaque@{FFFF}, des escouades vont sortir pour défendre cet avant-poste.\n
+	Dans cette fenêtre, vous pouvez voir les escouades sorties ainsi que changer les escouades qui sortiront.\n
+	Note : Seuls les officiers supérieurs et le chef de guilde peuvent éditer les escouades.]
+
+uiOutpostSquadShopTitle	[Recrutement de l'escouade]
+
+uiOutpostSS	[Escouades]
+
+uiOutpostSSquad	[ESCOUADES ACTIVES]
+
+uiOutpostSSquadDuring	[Pendant le round]
+
+uiOutpostSSquadStart	[Début du round]
+
+uiOutpostStatus	[État : ]
+
+>>>>>>> master
 uiOutpostTimeZone	[Fuseau horaire : ]
 
 uiOutpostTitle	[AVANT-POSTE]

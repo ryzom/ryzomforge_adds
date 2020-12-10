@@ -11969,9 +11969,15 @@ uiShortcutNumber	[Shortcut Number]
 
 uiShortCutTT	[Drag here a combat or magic spell]
 
+<<<<<<< HEAD
+uiShout	[SHOUT]
+
+uiSHOUT	[SHOUT]
+=======
 uiSHOUT	[SHOUT]
 
 uiShout	[SHOUT]
+>>>>>>> master
 
 uiShoutColor	[Shout]
 
