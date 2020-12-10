@@ -38101,7 +38101,7 @@ MENU_TRADE ()
 // HASH_VALUE 5E79C47B9AFAE07D
 MENU_USE_PA ()
 {
-			[Utilisez vos Elyps]
+			[Récompenses et Services]
 
 }
 
