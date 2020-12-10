@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *HASH_VALUE	item ID	name	ia	da	p	pia	pda	description
 -	amber_cube_common_ancient	Cubo de Ámbar Antiguo 	un	el	Cubos de Ámbar Antiguos		los	
 -	amber_cube_common_recent	Cubo de Ámbar Reciente	un	el	Cubos de Ámbar Recientes		los	
@@ -7996,3 +7997,8 @@
 -	m0694ccije01	Cuero de Zerx Supremo la Selva	algo de	el	Cueros de Zerx Supremo la Selva		los	
 -	m0694ccile01	Cuero de Zerx Supremo los Lagos	algo de	el	Cueros de Zerx Supremo los Lagos		los	
 -	m0694ccile01	Cuero de Zerx Supremo 	algo de	el	Cueros de Zerx Supremo 		los	
+=======
+
+-	bag	
+-	mochilla	
+>>>>>>> master

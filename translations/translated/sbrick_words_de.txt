@@ -1,4 +1,4 @@
-﻿*HASH_VALUE	sbrick ID	name	named	p	pd	* noms français	ia	da	pia	pda	description	description2
+*HASH_VALUE	sbrick ID	name	named	p	pd	* noms français	ia	da	pia	pda	description	description2
 _982C1DC616A579D5	BFPA01	Standardangriff     	Standardangriff     	Standardangriffe     	Standardangriffe     		ein	der		die	Standard Stanza für alle Kampfaktionen.	Standardangriff-Basisstanza
 _CD9CEEBCAF485D13	BFOA01	Erhöhter Schaden     	Erhöhter Schaden     	Erhöhte Schäden     	Erhöhte Schäden     		eine	die		die	Erhöht den Schaden eines Schlages.	Schadenserhöhungs-Option
 _4A8C98814E07227B	BFOA02	Feuerrate	Feuerrate	Feuerraten	Feuerraten		eine	die		die	Verbessert die Feuergeschwindigkeit	Erhöht die Feuergeschwindigkeit
