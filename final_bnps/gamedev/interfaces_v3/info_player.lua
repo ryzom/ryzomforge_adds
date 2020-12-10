@@ -319,13 +319,41 @@ function game:initNpcWebPage()
 end
 
 ------------------------------------------------------------------------------------------------------------
+function string:split(Pattern)
+	local Results = {}
+	local Start = 1
+	local SplitStart, SplitEnd = string.find(self, Pattern, Start)
+	while(SplitStart)do
+		table.insert(Results, string.sub(self, Start, SplitStart-1))
+		Start = SplitEnd+1
+		SplitStart, SplitEnd = string.find(self, Pattern, Start)
+	end
+	table.insert(Results, string.sub(self, Start))
+	return Results
+end
+
+function game:getOpenAppPageMessage()
+	local ucUrl = getDynString(self.NpcWebPage.UrlTextId)
+	local url = ucUrl:toUtf8()
+	surl = url:split("&")
+	for i=1,#surl do
+		if surl[i]:sub(1, 12) == "open_message" then
+			debug(surl[i]:sub(14))
+			return base64.decode(surl[i]:sub(14))
+		end
+	end
+	return ""
+end
+
 function game:onDbChangeAppPage()
 	if getDbProp("UI:VARIABLES:CURRENT_SERVER_TICK") > self.NpcWebPage.Timeout then
 		local npcName = getTargetName()
+
 		local message  = ucstring()
-		-- local text = i18n.get("uiTalkMemMsg00")
-		-- message:fromUtf8("@{FFFF}"..text:toUtf8())
-		-- displaySystemInfo(message, "BC")
+
+		local text = game:getOpenAppPageMessage()
+		message:fromUtf8(text)
+		displaySystemInfo(message, "AMB")
 		removeOnDbChange(getUI("ui:interface:npc_web_browser"),"@UI:VARIABLES:CURRENT_SERVER_TICK")
 	end
 end
