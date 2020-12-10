@@ -6658,7 +6658,9 @@ uiEulaAccept	[I ACCEPT]
 
 uiEulaContent	[RYZOM LICENSE\n
 	\n
-	A NOTICE TO THE USER: THIS DOCUMENT IS A CONTRACT. BEFORE CLICKING ON THE "I ACCEPT" BUTTON BELOW AND COMPLETING THE INSTALLATION OR REGISTRATION PROCEDURE, PLEASE READ IT CAREFULLY. WHEN YOU CLICK ON "I ACCEPT", YOU ARE ACCEPTING THE TERMS OF THIS CONTRACT AND THE OBLIGATIONS CONTAINED IN IT. IF YOU DO NOT WANT TO BE A PARTY TO THIS CONTRACT OR TO BE BOUND BY ALL OF ITS TERMS, THEN CLICK "CANCEL" AND DO NOT INSTALL THE SOFTWARE (OR UNINSTALL IT IF INSTALLED), AND DO NOT USE IT. If you have any difficulty in relation to this License, please contact Ryzom Customer Service at support@ryzom.com.\n
+	A NOTICE TO THE USER: THIS DOCUMENT IS A CONTRACT. BEFORE CLICKING ON THE "I ACCEPT" BUTTON BELOW AND COMPLETING THE INSTALLATION OR REGISTRATION PROCEDURE, PLEASE READ IT CAREFULLY. WHEN YOU CLICK ON "I ACCEPT", YOU ARE ACCEPTING THE TERMS OF THIS CONTRACT AND THE OBLIGATIONS CONTAINED IN IT. IF YOU DO NOT WANT TO BE A PARTY TO THIS CONTRACT OR TO BE BOUND BY ALL OF ITS TERMS, THEN CLICK "CANCEL" AND DO NOT INSTALL THE SOFTWARE (OR UNINSTALL IT IF INSTALLED), AND DO NOT USE IT.\n
+	ACCEPTING THE TERMS OF THIS AGREEMENT, YOU ALSO AGREE TO ABIDE BY THE CODE OF CONDUCT THAT YOU WILL FIND HERE: https://ryzom.com/terms-of-service\n
+	If you have any difficulty in relation to this License, please contact Ryzom Customer Service at support@ryzom.com.\n
 	\n
 	1. OBJECT OF THE CONTRACT. This Ryzom License (from here on referred to as "the Contract") is a contract between you and Winch Gate Property Limited ("Winch Gate" or "We/us"). Its purpose is to establish the terms on which Winch Gate provides (as defined in Article 2 below) the following services to an authorized user in relation to the massively multiplayer on-line game Ryzom ("Ryzom" or "the Game" or "Ryzom Arkitect"). The services comprise the opening and maintenance of an account enabling the user to play the Game over the Internet and to use our ingame tool, Ryzom Arkitect, to create inside content for the game.\n
 	\n

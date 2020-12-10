@@ -19887,7 +19887,7 @@ ENCY_THM_04_12 ()
 // HASH_VALUE 2B19E86E278AF49F
 ENCY_THM_04_13 ()
 {
-			[Konstruktion]
+			[Baustoffe]
 
 }
 
