@@ -2,9 +2,9 @@
 	ABANDON_GROUP_MISSION ()
 	{
 				[&SYS&Der Leiter deines Teams hat eine Teammission abgebrochen.]
-	
+
 	}
-	
+
 ] */
 // Clause 0 : text changed.
 // HASH_VALUE 8857DE7C383C5498
@@ -33292,9 +33292,9 @@ HARVEST_SUCCESS_OTHER (player p, int nb, item item, int quality)
 	HEAL_CLOUD_HIT (score s, int v)
 	{
 			heal_hit	[&SPLM&You feel the effects of benevolent magic and get a bonus of $s$ of $v$.]
-	
+
 	}
-	
+
 ] */
 // Clause 0 : identifier changed.
 // HASH_VALUE 185C26D22AA1B90A
@@ -37700,7 +37700,7 @@ MENU_TRADE ()
 // HASH_VALUE 5E79C47B9AFAE07D
 MENU_USE_PA ()
 {
-			[Ihre Elyps nutzen]
+			[Belohnungen und Services]
 
 }
 
