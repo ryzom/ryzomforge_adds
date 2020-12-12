@@ -10,13 +10,9 @@ end
 
 function getUCtf8(text)
 	local uctext = ucstring()
-	if type(text) == "string" then
-		uctext:fromUtf8(text)
-		return uctext
-	end
-	return text
+	uctext:fromUtf8(text)
+	return uctext
 end
-
 
 
 function webig:addSheet(dst, sheet, quality, quantity, worned, user_color, rm_class_type, rm_faber_stat_type)
@@ -67,13 +63,13 @@ function webig:swapItems(src, dst)
 	local rm_faber_stat_type = getDbProp(dst..":RM_FABER_STAT_TYPE")
 
 	addDbProp(dst..":SHEET", getDbProp(src..":SHEET"))
-	addDbProp(dst..":WORNED", getDbProp(src..":WORNED"))
+	addDbProp(dst..":WORNED", getDbProp(src..":WORNED"))	
 	addDbProp(dst..":QUALITY", getDbProp(src..":QUALITY"))
 	addDbProp(dst..":QUANTITY", getDbProp(src..":QUANTITY"))
 	addDbProp(dst..":USER_COLOR", getDbProp(src..":USER_COLOR"))
 	addDbProp(dst..":RM_CLASS_TYPE", getDbProp(src..":RM_CLASS_TYPE"))
 	addDbProp(dst..":RM_FABER_STAT_TYPE", getDbProp(src..":RM_FABER_STAT_TYPE"))
-
+	
 	addDbProp(src..":SHEET", sheet)
 	addDbProp(src..":WORNED", worned)
 	addDbProp(src..":QUALITY", quality)
