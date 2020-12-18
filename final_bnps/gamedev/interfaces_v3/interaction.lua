@@ -907,6 +907,9 @@ function arkNpcShop:updateWindow(px, py)
 		local w = getUI("ui:interface:ark_npc_shop")
 		w.active = false
 		setOnDraw(w, "")
+		getUI("ui:interface:ark_shop_buy_item").active = false
+		arkNpcShop.player_can_buy = false
+		broadcast(arkNpcShop.TooFar)
 	end
 
 	local diff = math.floor((nltime.getLocalTime() - arkNpcShop.lastMultipleItemsUpdate ) / 10)
