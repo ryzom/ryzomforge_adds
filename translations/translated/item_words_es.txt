@@ -6945,9 +6945,8 @@
 -	zo_underwear_hand	Guantes Zoraï	unos	el	Guantes Zoraï		los	Guantes Zoraï
 -	zo_underwear_pantabottes	Pantalones Zoraï	unos	el	Pantalones Zoraï		los	Pantalones Zoraï
 -	zo_visage	Mascara Zoraï 	una	la	Mascaras Zoraï		las	Mascaras Zoraï
--	zo_weapon_leader_mabreka	Mazo de Mabreka	un	el	Mazos de Mabreka		los
--	zig_yubo_white	Zig Yubo	une	el	Zig Yubo	unos	los
--	zig_yubo_lakes	Zig Yubo	une	el	Zig Yubo	unos	los
--	zig_yubo_forest	Zig Yubo	une	el	Zig Yubo	unos	los
--	bag
--	mochilla
+-	zo_weapon_leader_mabreka	Mazo de Mabreka	un	el	Mazos de Mabreka		los	
+-	zig_yubo_white	Zig Yubo	une	el	Zig Yubo	unos	los	
+-	zig_yubo_lakes	Zig Yubo	une	el	Zig Yubo	unos	los	
+-	zig_yubo_forest	Zig Yubo	une	el	Zig Yubo	unos	los	
+-	gnoof_mount_0	

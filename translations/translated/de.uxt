@@ -289,9 +289,9 @@ Expert_Shield_Smith	[Erfahrener Schildschmied]
 
 ExtremelyDifficult	[Extrem schwer]
 
-Faber	[Handwerker]
-
 faber	[Handwerker]
+
+Faber	[Handwerker]
 
 FaberCompetences	[HANDWERKSFERTIGKEITEN]
 
@@ -4698,6 +4698,8 @@ uiBotChatOffer	[MACH DEIN ANGEBOT]
 
 uiBotChatPact	[Pakt: ]
 
+uibotchatphrase	[ ]
+
 uiBotChatPrice	[Preis: ]
 
 uiBotChatRefresh	[Aktualisieren]
@@ -7302,9 +7304,9 @@ uiGloves	[HANDSCHUHE]
 
 uiGroupColor	[Team-Mitglieder]
 
-uiGuild	[Gilde]
-
 uiGUILD	[GILDE]
+
+uiGuild	[Gilde]
 
 uiGuildBearer	[Bote]
 
@@ -10333,9 +10335,9 @@ uiNoVersionFound	[Keine Version gefunden]
 
 uiNowDate	[Wir haben den :]
 
-uiNpcColor	[NPC]
-
 uiNPCColor	[NPC]
+
+uiNpcColor	[NPC]
 
 uiNPCGiver	[MISSIONSGEBER: ]
 
@@ -12168,9 +12170,9 @@ uiShortcutNumber	[Schnelltasten-Zahl]
 
 uiShortCutTT	[Leg eine Kampfaktion oder Magieaktion (Zauberspruch) hier ab]
 
-uiShout	[RUFEN]
-
 uiSHOUT	[RUFEN]
+
+uiShout	[RUFEN]
 
 uiShoutColor	[Rufen]
 

@@ -6348,610 +6348,609 @@
 -	test_conso	<TEST>Consumable	a	the				Test Item
 -	test_conso_emot	<TEST>Consumable - Emote	a	the				Test Item
 -	test_scroll	Parchemin usé	un	le	Parchemins usés	des	les	@{FFF9}Ce parchemin usé est illisible...
--	tf60_ailes	Aile de Kizoar grillée	une	l'	Ailes de Kizoar grillées	des	les
--	tf70_dague	Dague Tordue	une	la	Dagues Tordues	des	les
--	tf80_armure	Armure basique	une	la	Armures basiques	des	les
--	tf80_colis	Colis à livrer	un	le	Colis à livrer	des	les
--	tf80_dague	Dague des Lagons	une	la	Dagues des Lagons	des	les
--	tf80_fragment	Fragment de Clopper Grondant	un	le	Fragments de Clopper Grondant	des	les
--	tf90_insigne	Insigne des Sculpteurs	un	l'	Insignes des Sculpteurs	des	les
--	tf90_outil	Outil spécial	un	l'	Outils spéciaux	des	les
--	tf100_cristal	Cristal des Lagons	un	le	Cristaux des Lagons	des	les
--	th50_pioche	Pioche spéciale	une	la	Pioches spéciales	des	les
--	th60_fiole	Fiole malodorante	une	la	Fioles malodorantes	des	les
--	th60_mousse	Mousse de Stinga Eveillée	de la	la	Mousses de Stinga Eveillée	des	les
--	th70_feuilles	Feuilles fraîches	une	la	Feuilles fraîches	des	les
--	th70_graines	Graine à Yubo	une	la	Graines à Yubo	des	les
--	th80_antidote	Antidote	un	l'	Antidotes	des	les
--	th80_miel	Miel Kizoar	du	le	Miels Kizoar	des	les
--	th80_plantes	Plante précieuse	une	la	Plantes précieuses	des	les
--	th90_ailes	Ailes d'Yber Secondaire	une	l'	Ailes d'Yber Secondaire	des	les
--	th90_fiole	Fiole de poison	une	la	Fioles de poison	des	les
--	th100_carapace	Carapace Spéciale	une	la	Carapaces Spéciales	des	les
--	tiny_worms	Petit ver	un	le	Petits vers	des	les
--	tm60_carapace	Carapace de Clopper Angoissant	une	la	Carapaces de Clopper Angoissant	des	les
--	tm60_mandibule	Mandibule de Kizoar Vigilant	une	la	Mandibules de Kizoar Vigilant	des	les
--	tm60_mousse	Mousse de Stinga Robuste	de la	la	Mousses de Stinga Robuste	des	les
--	tm70_lettre	Lettre	une	la	Lettres	des	les
--	tm80_carapace	Carapace des Vents	une	la	Carapaces des Vents	des	les
--	tm90_insigne	Insigne de la guilde	un	l'	Insignes de la guilde	des	les
--	tm90_pince	Pince parfaite de Kipee Mauvais	une	la	Pinces parfaites de Kipee Mauvais	des	les
--	tm100_cristal	Cristal imprégné de magie	un	le	Cristaux imprégnés de magie	des	les
--	tools_ticket	Outil amélioré	un	l'	Outils améliorés	des	les
--	tp_interface_kami	Kami Artefact de téléportation	un	l'	Kami Artefact de téléportation	des	les
--	tp_interface_karavan	Karavan Artefact de téléportation	un	l'	Karavan Artefact de téléportation	des	les
--	tp_kami_almati	Pacte kami / Téléporteur vers le bois d'Almati	un	le	Pactes Kami/Téléporteur vers le bois d'Almati	des	les
--	tp_kami_avalae	Pacte kami / Téléporteur vers Avalae	un	le	Pactes kamis / Téléporteur vers Avalae	des	les
--	tp_kami_avendale	Pacte kami / Téléporteur vers Avendale	un	le	Pactes kamis / Téléporteur vers Avendale	des	les
--	tp_kami_bountybeaches	Pacte kami / Téléporteur vers les Plages d'Abondance	un	le	Pactes kamis / Téléporteur vers les Plages d'Abondance	des	les
--	tp_kami_citiesofintuition	Pacte kami / Téléporteur vers les Cités de l'Intuition	un	le	Pactes kamis / Téléporteur vers les Cités de l'Intuition	des	les
--	tp_kami_crystabell	Pacte kami / Téléporteur vers Crystabell	un	le	Pactes kamis / Téléporteur vers Crystabell	des	les
--	tp_kami_davae	Pacte kami / Téléporteur vers Davae	un	le	Pactes kamis / Téléporteur vers Davae	des	les
--	tp_kami_dewdrops	Pacte kami / Téléporteur vers les Chutes de la Rosée	un	le	Pactes kamis / Téléporteur vers les Chutes de la Rosée	des	les
--	tp_kami_dunesofexil	Pacte kami / Téléporteur vers les Dunes de l'Exil	un	le	Pactes kamis / Téléporteur vers les Dunes de l'Exil	des	les
--	tp_kami_dyron	Pacte kami / Téléporteur vers Dyron	un	le	Pactes kamis / Téléporteur vers Dyron	des	les
--	tp_kami_enchantedisle	Pacte kami / Téléporteur vers l'Île Enchantée	un	le	Pactes kamis / Téléporteur vers l'Île Enchantée	des	les
--	tp_kami_fairhaven	Pacte kami / Téléporteur vers Fairhaven	un	le	Pactes kamis / Téléporteur vers Fairhaven	des	les
--	tp_kami_fleetinggarden	Pacte kami / Téléporteur vers le Jardin Fugace	un	le	Pactes kamis / Téléporteur vers le Jardin Fugace	des	les
--	tp_kami_forbidden_depths	Pacte kami / Téléporteur vers les Profondeurs Interdites	un	le	Pactes kamis / Téléporteur vers les Profondeurs Interdites	des	les
--	tp_kami_frahartowers	Pacte kami / Téléporteur vers les Tours Frahars	un	le	Pactes kamis / Téléporteur vers les Tours Frahars	des	les
--	tp_kami_gate_of_obscurity	Pacte kami / Téléporteur vers la Porte de l'Obscurité	un	le	Pactes kamis / Téléporteur vers la Porte de l'Obscurité	des	les
--	tp_kami_groveofconfusion	Pacte kami / Téléporteur vers le Bosquet de la Confusion	un	le	Pactes kamis / Téléporteur vers le Bosquet de la Confusion	des	les
--	tp_kami_groveofumbra	Pacte kami / Téléporteur vers le Bosquet de l'Ombre	un	le	Pactes kamis / Téléporteur vers le Bosquet de l'Ombre	des	les
--	tp_kami_havenofpurity	Pacte kami / Téléporteur vers le Havre de Pureté	un	le	Pactes kamis / Téléporteur vers le Havre de Pureté	des	les
--	tp_kami_hereticshovel	Pacte kami / Téléporteur vers la Masure de l'Hérétique	un	le	Pactes kamis / Téléporteur vers la Masure de l'Hérétique	des	les
--	tp_kami_hiddensource	Pacte kami / Téléporteur vers la Source Cachée	un	le	Pactes kamis / Téléporteur vers la Source Cachée	des	les
--	tp_kami_hoi_cho	Pacte kami / Téléporteur vers Hoï-Cho	un	le	Pactes kamis / Téléporteur vers Hoï-Cho	des	les
--	tp_kami_jen_lai	Pacte kami / Téléporteur vers Jen-Laï	un	le	Pactes kamis / Téléporteur vers Jen-Laï	des	les
--	tp_kami_knollofdissent	Pacte kami / Téléporteur vers le Tertre de la Dissidence	un	le	Pactes kamis / Téléporteur vers le Tertre de la Dissidence	des	les
--	tp_kami_knotofdementia	Pacte kami / Téléporteur vers le Noeud de la Démence	un	le	Pactes kamis / Téléporteur vers le Noeud de la Démence	des	les
--	tp_kami_lagoonsofloria	Pacte kami / Téléporteur vers les Lagons de Loria	un	le	Pactes kamis / Téléporteur vers les Lagons de Loria	des	les
--	tp_kami_maidengrove	Pacte kami / Téléporteur vers le Bosquet Vierge	un	le	Pactes kamis / Téléporteur vers le Bosquet Vierge	des	les
--	tp_kami_min_cho	Pacte kami / Téléporteur vers Min-Cho	un	le	Pactes kamis / Téléporteur vers Min-Cho	des	les
--	tp_kami_natae	Pacte kami / Téléporteur vers Natae	un	le	Pactes kamis / Téléporteur vers Natae	des	les
--	tp_kami_nexus_bagne	Pacte kami / Téléporteur vers Nexus 	un	le	Pactes kamis / Téléporteur vers Nexus 	des	les
--	tp_kami_nexus_route_gouffre	Pacte kami / Téléporteur vers le Tunnel au départ du Nexus vers la Route des Ombres 	un	le	Pactes kamis / Téléporteur vers le Tunnel au départ du Nexus vers la Route des Ombres 	des	les
--	tp_kami_nexus_terre	Pacte kami / Téléporteur vers le Nexus	un	le	Pactes kamis / Téléporteur vers le Nexus	des	les
--	tp_kami_oflovaksoasis	Pacte kami / Téléporteur vers l'Oasis d'Oflovak	un	le	Pactes kamis / Téléporteur vers l'Oasis d'Oflovak	des	les
--	tp_kami_outlawcanyon	Pacte kami / Téléporteur vers le Canyon Interdit	un	le	Pactes kamis / Téléporteur vers le Canyon Interdit	des	les
--	tp_kami_pyr	Pacte kami / Téléporteur vers Pyr	un	le	Pactes kamis / Téléporteur vers Pyr	des	les
--	tp_kami_ranger_camp	Pacte Kami / Téléporteur vers le Campement Ranger	un	le	Pactes Kami / Téléporteurs vers le Campement Ranger	des	les
--	tp_kami_restingwater	Pacte kami / Téléporteur Kami vers l'Eau du Repos	un	le	Pactes kamis / Téléporteur Kamis vers l'Eau du Repos	des	les
--	tp_kami_sawdustmines	Pacte kami / Téléporteur vers les Mines de Sciure	un	le	Pactes kamis / Téléporteur vers les Mines de Sciure	des	les
--	tp_kami_shining_lake	Pacte Kami / Téléporteur vers le Lac étincelant	un	le	Pactes Kami / Téléporteurs vers le Lac étincelant	des	les
--	tp_kami_thefount	Pacte kami / Téléporteur vers la Source	un	le	Pactes kamis / Téléporteur vers la Source	des	les
--	tp_kami_thesavagedunes	Pacte kami / Téléporteur vers les Dunes Sauvages	un	le	Pactes kamis / Téléporteur vers les Dunes Sauvages	des	les
--	tp_kami_thescorchedcorridor	Pacte kami / Téléporteur vers le Couloir Brûlé	un	le	Pactes kamis / Téléporteur vers le Couloir Brûlé	des	les
--	tp_kami_thesos	Pacte kami / Téléporteur vers Thesos	un	le	Pactes kamis / Téléporteur vers Thesos	des	les
--	tp_kami_thevoid	Pacte kami / Téléporteur vers le Vide	un	le	Pactes kamis / Téléporteur vers le Vide	des	les
--	tp_kami_the_abyss_of_ichor_matis	Pacte kami / Téléporteur vers le Gouffre d'Ichor	un	le	Pactes kamis / Téléporteur vers le Gouffre d'Ichor	des	les
--	tp_kami_the_abyss_of_ichor_nexus	Pacte kami / Téléporteur vers le Tunnel au départ du Gouffre d'Ichor vers le Nexus	un	le	Pactes kamis / Téléporteur vers le Tunnel au départ du Gouffre d'Ichor vers le Nexus	des	les
--	tp_kami_the_elusive_forest	Pacte kami / Téléporteur vers la Forêt Insaisissable	un	le	Pactes kamis / Téléporteur vers la Forêt Insaisissable	des	les
--	tp_kami_the_land_of_continuity	Pacte kami / Téléporteur vers la Terre de la Continuité	un	le	Pactes kamis / Téléporteur vers la Terre de la Continuité	des	les
--	tp_kami_the_sunken_city	Pacte kami / Téléporteur vers la Cité Engloutie	un	le	Pactes kamis / Téléporteur vers la Cité Engloutie	des	les
--	tp_kami_the_trench_of_trials_tryker	Pacte kami / Téléporteur vers le Tunnel au départ de la Fosse aux Épreuves vers les terres trykers	un	le	Pactes kamis / Téléporteur vers le Tunnel au départ de la Fosse aux Épreuves vers les terres trykers	des	les
--	tp_kami_the_trench_of_trials_zorai	Pacte kami / Téléporteur vers la Fosse aux Épreuves	un	le	Pactes kamis / Téléporteur vers la Fosse aux Épreuves	des	les
--	tp_kami_the_under_spring_fyros	Pacte kami / Téléporteur vers les Sources Interdites	un	le	Pactes kamis / Téléporteur vers les Sources Interdites	des	les
--	tp_kami_the_under_spring_zorai	Pacte kami / Téléporteur vers le Tunnel au départ du Nexus vers les terres zoraïs 	un	le	Pactes kamis / Téléporteur vers le Tunnel au départ du Nexus vers les terres zoraïs 	des	les
--	tp_kami_the_windy_gate	Pacte kami / Téléporteur vers la Porte des Vents	un	le	Pactes kamis / Téléporteur vers la Porte des Vents	des	les
--	tp_kami_upperbog	Pacte kami / Téléporteur vers le Marais Supérieur	un	le	Pactes kamis / Téléporteur vers le Marais Supérieur	des	les
--	tp_kami_windermeer	Pacte kami / Téléporteur vers Windermeer	un	le	Pactes kamis / Téléporteur vers Windermeer	des	les
--	tp_kami_windsofmuse	Pacte kami / Téléporteur vers les Vents du Songe	un	le	Pactes kamis / Téléporteur vers les Vents du Songe	des	les
--	tp_kami_yrkanis	Pacte kami / Téléporteur vers Yrkanis	un	le	Pactes kamis / Téléporteur vers Yrkanis	des	les
--	tp_kami_zora	Pacte kami / Téléporteur vers Zora	un	le	Pactes kamis / Téléporteur vers Zora	des	les
--	tp_kami_zorai_nland	Pacte kami / Téléporteur vers l'Île Zoraï	un	le	Pactes kamis / Téléporteur vers l'Île Zoraï	des	les
--	tp_karavan_almati	Pacte karavan / Téléporteur vers le bois d'Almati	un	le	Pactes Karavan/Téléporteur vers le bois d'Almati	des	les
--	tp_karavan_avalae	Pacte karavan / Téléporteur vers Avalae	un	le	Pactes karavans / Téléporteur vers Avalae	des	les
--	tp_karavan_avendale	Pacte karavan / Téléporteur vers Avendale	un	le	Pactes karavans / Téléporteur vers Avendale	des	les
--	tp_karavan_bountybeaches	Pacte karavan / Téléporteur vers les Plages d'Abondance	un	le	Pactes karavans / Téléporteur vers les Plages d'Abondance	des	les
--	tp_karavan_crystabell	Pacte karavan / Téléporteur vers Crystabell	un	le	Pactes karavans / Téléporteur vers Crystabell	des	les
--	tp_karavan_davae	Pacte karavan / Téléporteur vers Davae	un	le	Pactes karavans / Téléporteur vers Davae	des	les
--	tp_karavan_dewdrops	Pacte karavan / Téléporteur vers les Chutes de la Rosée	un	le	Pactes karavans / Téléporteur vers les Chutes de la Rosée	des	les
--	tp_karavan_dunesofexil	Pacte karavan / Téléporteur vers les Dunes de l'Exil	un	le	Pactes karavans / Téléporteur vers les Dunes de l'Exil	des	les
--	tp_karavan_dyron	Pacte karavan / Téléporteur vers Dyron	un	le	Pactes karavans / Téléporteur vers Dyron	des	les
--	tp_karavan_enchantedisle	Pacte karavan / Téléporteur vers l'Île Enchantée	un	le	Pactes karavans / Téléporteur vers l'Île Enchantée	des	les
--	tp_karavan_fairhaven	Pacte karavan / Téléporteur vers Fairhaven 	un	le	Pactes karavans / Téléporteur vers Fairhaven 	des	les
--	tp_karavan_fleetinggarden	Pacte karavan / Téléporteur vers le Jardin Fugace	un	le	Pactes karavans / Téléporteur vers le Jardin Fugace	des	les
--	tp_karavan_forbidden_depths	Pacte karavan / Téléporteur vers les Profondeurs Interdites	un	le	Pactes karavans / Téléporteur vers les Profondeurs Interdites	des	les
--	tp_karavan_frahartowers	Pacte karavan / Téléporteur vers les Tours Frahars	un	le	Pactes karavans / Téléporteur vers les Tours Frahars	des	les
--	tp_karavan_gate_of_obscurity	Pacte karavan / Téléporteur vers la Porte de l'Obscurité	un	le	Pactes karavans / Téléporteur vers la Porte de l'Obscurité	des	les
--	tp_karavan_groveofconfusion	Pacte karavan / Téléporteur vers le Bosquet de la Confusion	un	le	Pactes karavans / Téléporteur vers le Bosquet de la Confusion	des	les
--	tp_karavan_groveofumbra	Pacte karavan / Téléporteur vers le Bosquet de l'Ombre	un	le	Pactes karavans / Téléporteur vers le Bosquet de l'Ombre	des	les
--	tp_karavan_havenofpurity	Pacte karavan / Téléporteur vers le Havre de Pureté	un	le	Pactes karavans / Téléporteur vers le Havre de Pureté	des	les
--	tp_karavan_hereticshovel	Pacte karavan / Téléporteur vers la Masure de l'Hérétique	un	le	Pactes karavans / Téléporteur vers la Masure de l'Hérétique	des	les
--	tp_karavan_hiddensource	Pacte karavan / Téléporteur vers la Source Cachée	un	le	Pactes karavans / Téléporteur vers la Source Cachée	des	les
--	tp_karavan_hoi_cho	Pacte karavan / Téléporteur vers Hoï-Cho	un	le	Pactes karavans / Téléporteur vers Hoï-Cho	des	les
--	tp_karavan_jen_lai	Pacte karavan / Téléporteur vers Jen-Laï	un	le	Pactes karavans / Téléporteur vers Jen-Laï	des	les
--	tp_karavan_knollofdissent	Pacte karavan / Téléporteur vers le Tertre de la Dissidence	un	le	Pactes karavans / Téléporteur vers le Tertre de la Dissidence	des	les
--	tp_karavan_knotofdementia	Pacte karavan / Téléporteur vers le Nœud de la Démence	un	le	Pactes karavans / Téléporteur vers le Nœud de la Démence	des	les
--	tp_karavan_lagoonsofloria	Pacte karavan / Téléporteur vers les Lagons de Loria	un	le	Pactes karavans / Téléporteur vers les Lagons de Loria	des	les
--	tp_karavan_maidengrove	Pacte karavan / Téléporteur vers le Bosquet Vierge	un	le	Pactes karavans / Téléporteur vers le Bosquet Vierge	des	les
--	tp_karavan_majesticgarden	Pacte karavan / Téléporteur vers le Jardin Majestueux	un	le	Pactes karavans / Téléporteur vers le Jardin Majestueux	des	les
--	tp_karavan_matis_nland	Pacte karavan / Téléporteur vers l'Île Matis	un	le	Pactes karavans / Téléporteur vers l'Île Matis	des	les
--	tp_karavan_min_cho	Pacte karavan / Téléporteur vers Min-Cho	un	le	Pactes karavans / Téléporteur vers Min-Cho	des	les
--	tp_karavan_natae	Pacte karavan / Téléporteur vers Natae	un	le	Pactes karavans / Téléporteur vers Natae	des	les
--	tp_karavan_nexus_bagne	Pacte karavan / Téléporteur vers Nexus	un	le	Pactes karavans / Téléporteur vers Nexus	des	les
--	tp_karavan_nexus_route_gouffre	Pacte karavan / Téléporteur vers le Tunnel au départ de Nexus vers la Route des Ombres	un	le	Pactes karavans / Téléporteur vers le Tunnel au départ de Nexus vers la Route des Ombres	des	les
--	tp_karavan_nexus_terre	Pacte karavan / Téléporteur vers le Nexus 	un	le	Pactes karavans / Téléporteur vers le Nexus  	des	les
--	tp_karavan_oflovaksoasis	Pacte karavan / Téléporteur vers l'Oasis d'Oflovak	un	le	Pactes karavans / Téléporteur vers l'Oasis d'Oflovak	des	les
--	tp_karavan_outlawcanyon	Pacte karavan / Téléporteur vers le Canyon Interdit	un	le	Pactes karavans / Téléporteur vers le Canyon Interdit	des	les
--	tp_karavan_pyr	Pacte karavan / Téléporteur vers Pyr	un	le	Pactes karavans / Téléporteur vers Pyr	des	les
--	tp_karavan_ranger_camp	Pacte Karavan / Téléporteur vers le Campement ranger	un	le	Pactes Karavan / Téléporteurs vers le Campement ranger	des	les
--	tp_karavan_restingwater	Pacte karavan / Téléporteur vers l'Eau du Repos	un	le	Pactes karavans / Téléporteur vers l'Eau du Repos	des	les
--	tp_karavan_sawdustmines	Pacte karavan / Téléporteur vers les Mines de Sciure	un	le	Pactes karavans / Téléporteur vers les Mines de Sciure	des	les
--	tp_karavan_shattered_ruins	Pacte Karavan / Téléporteur vers les Ruines dévastées	un	le	Pactes Karavan / Téléporteurs vers les Ruines dévastées	des	les
--	tp_karavan_thefount	Pacte karavan / Téléporteur vers la Source	un	le	Pactes karavans / Téléporteur vers la Source	des	les
--	tp_karavan_thesavagedunes	Pacte karavan / Téléporteur vers les Dunes Sauvages	un	le	Pactes karavans / Téléporteur vers les Dunes Sauvages	des	les
--	tp_karavan_thescorchedcorridor	Pacte karavan / Téléporteur vers le Couloir Brûlé	un	le	Pactes karavans / Téléporteur vers le Couloir Brûlé	des	les
--	tp_karavan_thesos	Pacte karavan / Téléporteur vers Thesos	un	le	Pactes karavans / Téléporteur vers Thesos	des	les
--	tp_karavan_thevoid	Pacte karavan / Téléporteur vers le Vide	un	le	Pactes karavans / Téléporteur vers le Vide	des	les
--	tp_karavan_the_abyss_of_ichor_matis	Pacte karavan / Téléporteur vers le Gouffre d'Ichor 	un	le	Pactes karavans / Téléporteur vers le Gouffre d'Ichor 	des	les
--	tp_karavan_the_abyss_of_ichor_nexus	Pacte karavan / Téléporteur vers le Tunnel au départ du Gouffre d'Ichor vers Nexus 	un	le	Pactes karavans / Téléporteur vers le Tunnel au départ du Gouffre d'Ichor vers Nexus 	des	les
--	tp_karavan_the_elusive_forest	Pacte karavan / Téléporteur vers la Forêt Insaisissable	un	le	Pactes karavans / Téléporteur vers la Forêt Insaisissable	des	les
--	tp_karavan_the_land_of_continuity	Pacte karavan / Téléporteur vers la Terre de la Continuité	un	le	Pactes karavans / Téléporteur vers la Terre de la Continuité	des	les
--	tp_karavan_the_sunken_city	Pacte karavan / Téléporteur vers la Cité Engloutie	un	le	Pactes karavans / Téléporteur vers la Cité Engloutie	des	les
--	tp_karavan_the_trench_of_trials_tryker	Pacte karavan / Téléporteur vers le Tunnel au départ de la Fosse aux Épreuves vers les terres trykers 	un	le	Pactes karavans / Téléporteur vers le Tunnel au départ de la Fosse aux Épreuves vers les terres trykers 	des	les
--	tp_karavan_the_trench_of_trials_zorai	Pacte karavan / Téléporteur vers la Fosse aux Épreuves 	un	le	Pactes karavans / Téléporteur vers la Fosse aux Épreuves 	des	les
--	tp_karavan_the_under_spring_fyros	Pacte karavan / Téléporteur vers les Sources Interdites 	un	le	Pactes karavans / Téléporteur vers les Sources Interdites 	des	les
--	tp_karavan_the_under_spring_zorai	Pacte karavan / Téléporteur vers le Tunnel au départ du Nexus vers les terres zoraïs	un	le	Pactes karavans / Téléporteur vers le Tunnel au départ du Nexus vers les terres zoraïs	des	les
--	tp_karavan_the_windy_gate	Pacte karavan / Téléporteur vers la Porte des Vents	un	le	Pactes karavans / Téléporteur vers la Porte des Vents	des	les
--	tp_karavan_upperbog	Pacte karavan / Téléporteur vers le Marais Supérieur	un	le	Pactes karavans / Téléporteur vers le Marais Supérieur	des	les
--	tp_karavan_windermeer	Pacte karavan / Téléporteur vers Windermeer	un	le	Pactes karavans / Téléporteur vers Windermeer	des	les
--	tp_karavan_windsofmuse	Pacte karavan / Téléporteur vers les Vents du Songe 	un	le	Pactes karavans / Téléporteur vers les Vents du Songe 	des	les
--	tp_karavan_yrkanis	Pacte karavan / Téléporteur vers Yrkanis	un	le	Pactes karavans / Téléporteur vers Yrkanis	des	les
--	tp_karavan_zora	Pacte karavan / Téléporteur vers Zora	un	le	Pactes karavans / Téléporteur vers Zora	des	les
--	tp_kara_almati	Pacte karavan / Téléporteur vers le bois d'Almati	un	le	Pactes Karavan/Téléporteur vers le bois d'Almati	des	les
--	tr_armor01_armpad	Manches d'armure tryker	des	les	Manches d'armures trykers	des	les
--	tr_armor01_bottes	Bottes d'armure tryker	des	les	Bottes d'armures trykers	des	les
--	tr_armor01_gilet	Gilet d'armure tryker	un	le	Gilets d'armures trykers	des	les
--	tr_armor01_hand	Gants d'armure tryker	des	les	Gants d'armures trykers	des	les
--	tr_armor01_pantabotte	Pantalon d'armure tryker	un	le	Pantalons d'armures trykers	des	les
--	tr_banner_gm	Bannière de Maître de Jeu tryker	une	la	Bannières de Maître de Jeu tryker	des	les
--	tr_banner_gu	Bannière de Guide tryker	une	la	Bannières de Guide tryker	des	les
--	tr_banner_sgm	Bannière de Maître de Jeu Senior tryker	une	la	Bannières de Maître de Jeu Senior tryker	des	les
--	tr_banner_sgu	Bannière de Guide Senior tryker	une	la	Bannières de Guide Senior tryker	des	les
--	tr_cheveux_long01	Cheveu long de Tryker	un	le	Cheveux longs de Trykers	des	les
--	tr_cheveux_medium01	Cheveu mi-long de Tryker	un	le	Cheveux mi-longs de Trykers	des	les
--	tr_cheveux_shave01	Cheveu rasé de Tryker	un	le	Cheveux rasés de Trykers	des	les
--	tr_cheveux_short01	Cheveu court de Tryker	un	le	Cheveux courts de Trykers	des	les
--	tr_civil01_armpad	Manches trykers	des	les	Manches trykers	des	les
--	tr_civil01_bottes	Bottes trykers	des	les	Bottes trykers	des	les
--	tr_civil01_gilet	Gilet tryker	un	le	Gilets trykers	des	les
--	tr_civil01_hand	Gants trykers	des	les	Gants trykers	des	les
--	tr_civil01_pantabotte	Pantalon tryker	un	le	Pantalons trykers	des	les
--	tr_hof_haircolor0	Verte Claire	une	la	Vertes Claires	des	les
--	tr_hof_haircolor1	Blonde	une	la	Blondes	des	les
--	tr_hof_haircolor2	Châtain	un	le	Châtains	des	les
--	tr_hof_haircolor3	Rose	une	la	Roses	des	les
--	tr_hof_haircolor4	Violette	une	la	Violettes	des	les
--	tr_hof_haircolor5	Verte Foncée	une	la	Vertes Foncées	des	les
--	tr_hof_hair_artistic01	Coupe artistique - Queue de Cheval façon Papillon	une	la	Coupes artistiques - Queue de Cheval façon Papillon	des	les
--	tr_hof_hair_artistic02	Coupe artistique - Frange Épaisse relevée d'un Chapeau	une	la	Coupes artistiques - Frange Épaisse relevée d'un Chapeau	des	les
--	tr_hof_hair_artistic03	Coupe artistique - Chignon Relevé	une	la	Coupes artistiques - Chignon Relevé	des	les
--	tr_hof_hair_artistic04	Coupe artistique - Carré Déstructuré	une	la	Coupes artistiques - Carré Déstructuré	des	les
--	tr_hof_hair_artistic05	Coupe artistique - Lunettes
--	tr_hof_hair_basic01	Coupe basique  - Rasés	une	la	Coupes basiques  - Rasés	des	les
--	tr_hof_hair_basic02	Coupe basique  - Courts Dégagés à l'Arrière et sur les Côtés	une	la	Coupes basiques  - Courts Dégagés à l'Arrière et sur les Côtés	des	les
--	tr_hof_hair_basic03	Coupe basique  - Effet Brosse Ondulé	une	la	Coupes basiques  - Effet Brosse Ondulé	des	les
--	tr_hof_hair_basic04	Coupe basique  - Carré Ébouriffé	une	la	Coupes basiques  - Carré Ébouriffé	des	les
--	tr_hof_hair_basic05	Coupe basique - Franges sauvages
--	tr_hof_hair_style01	Coupe stylée  - Couettes Hautes	une	la	Coupes stylées  - Couettes Hautes	des	les
--	tr_hof_hair_style02	Coupe stylée  - Couettes Hautes et Frange	une	la	Coupes stylées  - Couettes Hautes et Frange	des	les
--	tr_hof_hair_style03	Coupe stylée  - Effet Relevé	une	la	Coupes stylées  - Effet Relevé	des	les
--	tr_hof_hair_style04	Coupe stylée  - Couettes Basses	une	la	Coupes stylées  - Couettes Basses	des	les
--	tr_hof_hair_style05	Coupe stylée - Natte serrée
--	tr_hof_tatoo0	Pas de Tatouage			Pas de Tatouage
--	tr_hof_tatoo1	Lignes des Yeux Légères	des	les	Lignes des Yeux Légères	des	les
--	tr_hof_tatoo2	Fard à Joues	un	le	Fards à Joues	des	les
--	tr_hof_tatoo3	Fard à Joues et Eyeliner	un	le	Fards à Joues et Eyeliners	des	les
--	tr_hof_tatoo4	Soleil Embrasé	un	le	Soleils Embrasés	des	les
--	tr_hof_tatoo5	Taches de Pensée et Fards à Joues	des	les	Taches de Pensée et Fards à Joues	des	les
--	tr_hof_tatoo6	Mouvements Naturels du Soleil	des	les	Mouvements Naturels du Soleil	des	les
--	tr_hof_tatoo7	Lignes des Yeux Rouges	des	les	Lignes des Yeux Rouges	des	les
--	tr_hof_tatoo8	Taches de Pensée et Eyeliner	des	les	Taches de Pensée et Eyeliner	des	les
--	tr_hof_tatoo9	Garde Ancrée	une	la	Gardes Ancrées	des	les
--	tr_hof_tatoo10	Regard Circulaire Orné	un	le	Regards Circulaire Orné	des	les
--	tr_hof_tatoo11	Échelle verte	une	l'	Échelles vertes	des	les
--	tr_hof_tatoo12	Échelle Mauve	une	l'	Échelles Mauves	des	les
--	tr_hof_tatoo13	Ombre d'Échelle	une	l'	Ombres d'Échelle	des	les
--	tr_hof_tatoo14	Échelle Maléfique	une	l'	Échelles Maléfiques	des	les
--	tr_hof_tatoo15	Soleil sur Échelle	un	le	Soleils sur Échelle	des	les
--	tr_hof_tatoo16	Spray Rose	un	le	Sprays Roses	des	les
--	tr_hof_tatoo17	Spray Vert	un	le	Sprays verts	des	les
--	tr_hof_tatoo18	Spray Jaune	un	le	Sprays Jaunes	des	les
--	tr_hof_tatoo19	Vert Délavé	un	le	Verts Délavés	des	les
--	tr_hof_tatoo20	Spray Jaune et Yeux Rouges	un	le	Sprays Jaunes et Yeux Rouges	des	les
--	tr_hof_tatoo21	Spray Bleu	un	le	Sprays bleus	des	les
--	tr_hof_tatoo22	Feuille Orange	une	la	Feuilles oranges	des	les
--	tr_hof_tatoo23	Feuille Rose	une	la	Feuilles Roses	des	les
--	tr_hof_tatoo24	Rivage Orange	un	le	Rivages oranges	des	les
--	tr_hof_tatoo25	Rivage violet	un	le	Rivages violets	des	les
--	tr_hof_tatoo26	Échelle sur le Rivage	une	l'	Échelles sur le Rivage	des	les
--	tr_hof_tatoo27	Flanc Rose	un	le	Flancs Roses	des	les
--	tr_hof_tatoo28	Regard Circulaire Flanqué	un	le	Regards Circulaires Flanqués	des	les
--	tr_hof_tatoo29	Route de Corail Rose	une	la	Routes de Corail Rose	des	les
--	tr_hof_tatoo30	Route de Corail Verte	une	la	Routes de Corail Verte	des	les
--	tr_hof_tatoo31	Route de Corail Bleu	une	la	Routes de Corail Bleu	des	les
--	tr_hof_tatoo32	Fertilité	une	la	Fertilités	des	les
--	tr_hof_tatoo33	Danse des Poissons	une	la	Danses des Poissons	des	les
--	tr_hof_tatoo34	Vagues ondulantes	des	les	Vagues ondulantes	des	les
--	tr_hof_tatoo35	Coucher de Soleil	un	le	Couchers de Soleil	des	les
--	tr_hof_tatoo36	Dent de Prakker	une	la	Dents de Prakker	des	les
--	tr_hof_tatoo37	Dévouement	un	le	Dévouements	des	les
--	tr_hof_tatoo38	Oeil de Cactus	un	l'	Yeux de Cactus	des	les
--	tr_hof_tatoo39	Équilibre	un	l'	Équilibres	des	les
--	tr_hof_tatoo40	Crochets	des	les	Crochets	des	les
--	tr_hof_tatoo41	Sur la Vague			Sur la Vague	des	les
--	tr_hof_tatoo42	Danse du Crépuscule	une	la	Danses du Crépuscule	des	les
--	tr_hof_tatoo43	Le Sillage			Le Sillage
--	tr_hof_tatoo44	Danse Aquatique	une	la	Danses Aquatiques	des	les
--	tr_hof_tatoo45	Méandres	des	les	Méandres	des	les
--	tr_hof_tatoo46	Volubile			Volubiles	des	les
--	tr_hof_tatoo47	Méandres Rosés	des	les	Méandres Rosés	des	les
--	tr_hof_tatoo48	Sabot de Messab	un	le	Sabots de Messab	des	les
--	tr_hof_tatoo49	Bourgeonnement	un	le	Bourgeonnements	des	les
--	tr_hof_tatoo50	Harpons	des	les	Harpons	des	les
--	tr_hof_tatoo51	Prakkers Jumeaux	des	les	Prakkers Jumeaux	des	les
--	tr_hof_tatoo52	Poisson Ange	un	le	Poissons Anges	des	les
--	tr_hof_tatoo53	Tiges d'Algues	des	les	Tiges d'Algues	des	les
--	tr_hof_tatoo54	Vengeance Sanglante	une	la	Vengeances Sanglantes	des	les
--	tr_hof_tatoo55	Taches de Sang	des	les	Taches de Sang	des	les
--	tr_hof_tatoo56	Entaille Sanglante	une	l'	Entailles Sanglantes	des	les
--	tr_hof_tatoo57	Connaissances Vertes	des	les	Connaissances Vertes	des	les
--	tr_hof_tatoo58	Amble de Madakam	un	l'	Ambles de Madakam	des	les
--	tr_hof_tatoo59	Danse de Bolobi	une	la	Danses de Bolobi	des	les
--	tr_hof_tatoo60	Garde de Soldats	une	la	Gardes de Soldats	des	les
--	tr_hof_tatoo61	Rose Dégoulinant	un	le	Roses Dégoulinants	des	les
--	tr_hof_tatoo62	Carapace de Clopper	une	la	Carapaces de Clopper	des	les
--	tr_hof_tatoo63	Fer de lance	un	le	Fers de lance	des	les
--	tr_hom_haircolor0	Vert Clair	un	le	Verts Clairs	des	les
--	tr_hom_haircolor1	Blond	un	le	Blonds	des	les
--	tr_hom_haircolor2	Châtain	un	le	Châtains	des	les
--	tr_hom_haircolor3	Rose	un	le	Roses	des	les
--	tr_hom_haircolor4	Violet	un	le	Violets	des	les
--	tr_hom_haircolor5	Vert Foncé	un	le	Verts Foncés	des	les
--	tr_hom_hair_artistic01	Coupe artistique - Queue de Cheval Épaisse	une	la	Coupes artistiques - Queue de Cheval Épaisse	des	les
--	tr_hom_hair_artistic02	Coupe artistique - Façon Enturbannée	une	la	Coupes artistiques - Façon Enturbannée	des	les
--	tr_hom_hair_artistic03	Coupe artistique - Piques	une	la	Coupes artistiques - Piques	des	les
--	tr_hom_hair_artistic04	Coupe artistique - Coiffe	une	la	Coupes artistiques - Coiffe	des	les
--	tr_hom_hair_artistic05	Coupe artistique – Mi-Long avec Bandeau				des	les
--	tr_hom_hair_basic01	Coupe basique  - Rasés	une	la	Coupes basiques  - Rasés
--	tr_hom_hair_basic02	Coupe basique  - Brosse Courte	une	la	Coupes basiques  - Brosse Courte	des	les
--	tr_hom_hair_basic03	Coupe basique  - Frange Ornée	une	la	Coupes basiques  - Frange Ornée	des	les
--	tr_hom_hair_basic04	Coupe basique  - Courts Dégagés à l'Arrière et sur les Côtés	une	la	Coupes basiques  - Courts Dégagés à l'Arrière et sur les Côtés	des	les
--	tr_hom_hair_basic05	Coupe basique - Flamme courte
--	tr_hom_hair_style01	Coupe stylée  - Façon Touffes	une	la	Coupes stylées  - Façon Touffes	des	les
--	tr_hom_hair_style02	Coupe stylée - Tresses	une	la	Coupes stylées - Tresses	des	les
--	tr_hom_hair_style03	Coupe stylée  - Frange Épaisse	une	la	Coupes stylées  - Frange Épaisse	des	les
--	tr_hom_hair_style04	Coupe stylée  - Coque	une	la	Coupes stylées  - Coque	des	les
--	tr_hom_hair_style05	Coupe stylée - Houppette
--	tr_hom_tatoo0	Pas de Tatouage			Pas de Tatouage
--	tr_hom_tatoo1	Broussailleux			Broussailleux	des	les
--	tr_hom_tatoo2	Barbelés	des	les	Barbelés	des	les
--	tr_hom_tatoo3	Barbelés Épais	des	les	Barbelés Épais	des	les
--	tr_hom_tatoo4	Taches d'Encre	des	les	Taches d'Encre	des	les
--	tr_hom_tatoo5	Taches de Réflexion	des	les	Taches de Réflexion	des	les
--	tr_hom_tatoo6	Harmonie verte	une	l'	Harmonies Vertes	des	les
--	tr_hom_tatoo7	Harmonie Orange	une	l'	Harmonies Oranges	des	les
--	tr_hom_tatoo8	Harmonie Violette	une	l'	Harmonies Violettes	des	les
--	tr_hom_tatoo9	Taches d'Encre et Barbelés	des	les	Taches d'Encre et Barbelés	des	les
--	tr_hom_tatoo10	Garde Ancrée Sanglante	une	la	Gardes Ancrées Sanglantes	des	les
--	tr_hom_tatoo11	Garde des Lacs Ancrées	une	la	Gardes des Lacs Ancrées	des	les
--	tr_hom_tatoo12	Passage Vert	un	le	Passages Verts	des	les
--	tr_hom_tatoo13	Sentier de Wooky	un	le	Sentiers de Wooky	des	les
--	tr_hom_tatoo14	Pont de Jeniah	un	le	Ponts de Jeniah	des	les
--	tr_hom_tatoo15	Stries Vertes Doubles	des	les	Stries Vertes Doubles	des	les
--	tr_hom_tatoo16	Garde du Pont de Jeniah	une	la	Gardes du Pont de Jeniah	des	les
--	tr_hom_tatoo17	Regard Violet	un	le	Regards Violets	des	les
--	tr_hom_tatoo18	Taches Vertes	des	les	Taches Vertes	des	les
--	tr_hom_tatoo19	Taches Harmonieuses	des	les	Taches Harmonieuses	des	les
--	tr_hom_tatoo20	Décor Harmonieux	un	le	Décors Harmonieux	des	les
--	tr_hom_tatoo21	Harmonie	une	l'	Harmonies	des	les
--	tr_hom_tatoo22	Échelle verte	une	l'	Échelles vertes	des	les
--	tr_hom_tatoo23	Spray Jaune	un	le	Sprays Jaunes	des	les
--	tr_hom_tatoo24	Spray Rouge	un	le	Sprays Rouges	des	les
--	tr_hom_tatoo25	Fusion du Soleil	une	la	Fusions du Soleil	des	les
--	tr_hom_tatoo26	Échelles Violettes	des	les	Échelles Violettes	des	les
--	tr_hom_tatoo27	Fusion Violette du Soleil	une	la	Fusions Violettes du Soleil	des	les
--	tr_hom_tatoo28	Élégance Harmonieuse	une	l'	Élégances Harmonieuses	des	les
--	tr_hom_tatoo29	Points et Tirés	des	les	Points et Tirés	des	les
--	tr_hom_tatoo30	Rivage	un	le	Rivages	des	les
--	tr_hom_tatoo31	Dévalant les Champs			Dévalant les Champs
--	tr_hom_tatoo32	Visage Vengeur	un	le	Visages Vengeurs	des	les
--	tr_hom_tatoo33	Meute de Prakkers	une	la	Meutes de Prakkers	des	les
--	tr_hom_tatoo34	Chemin du Retour	un	le	Chemins du Retour	des	les
--	tr_hom_tatoo35	Vengeance Sanglante	une	la	Vengeances Sanglantes	des	les
--	tr_hom_tatoo36	Flux de Sang	un	le	Flux de Sang	des	les
--	tr_hom_tatoo37	Froncement Appuyé	un	le	Froncements Appuyés	des	les
--	tr_hom_tatoo38	Sabot de Messab	un	le	Sabots de Messab	des	les
--	tr_hom_tatoo39	Élévation	une	l'	Élévations	des	les
--	tr_hom_tatoo40	Taches Roses	des	les	Taches Roses	des	les
--	tr_hom_tatoo41	Grosses Taches	des	les	Grosses Taches	des	les
--	tr_hom_tatoo42	Lacs de Trykoth	des	les	Lacs de Trykoth	des	les
--	tr_hom_tatoo43	Grandes Marques Jaunes	des	les	Grandes Marques Jaunes	des	les
--	tr_hom_tatoo44	Crevasse Profonde	une	la	Crevasses Profondes	des	les
--	tr_hom_tatoo45	Gué dans la Jungle	un	le	Gués dans la Jungle	des	les
--	tr_hom_tatoo46	Prakkers Jumeaux	des	les	Prakkers Jumeaux	des	les
--	tr_hom_tatoo47	Dévouement	un	le	Dévouements	des	les
--	tr_hom_tatoo48	Carapace de Clopper	une	le	Carapaces de Clopper	des	les
--	tr_hom_tatoo49	Bulbes Bourgeonnantes	des	les	Bulbes Bourgeonnantes	des	les
--	tr_hom_tatoo50	Petites Bottes	des	les	Petites Bottes	des	les
--	tr_hom_tatoo51	Pointes Barbelées	des	les	Pointes Barbelées	des	les
--	tr_hom_tatoo52	Soif d'Ambre	une	la	Soifs d'Ambre	des	les
--	tr_hom_tatoo53	Taches d'ambre	des	les	Taches d'Ambre	des	les
--	tr_hom_tatoo54	Arche de Breneth	une	l'	Arches de Breneth	des	les
--	tr_hom_tatoo55	Danse Mouvementée	une	la	Danses Mouvementées	des	les
--	tr_hom_tatoo56	Algues Dégoulinantes	des	les	Algues Dégoulinantes	des	les
--	tr_hom_tatoo57	Danse des Algues	une	la	Danses des Algues	des	les
--	tr_hom_tatoo58	Danse de Guerre	une	la	Danses de Guerre	des	les
--	tr_hom_tatoo59	Danse du Dévouement	une	la	Danses du Dévouement	des	les
--	tr_hom_tatoo60	Tiges d'Algues	des	les	Tiges d'Algues	des	les
--	tr_hom_tatoo61	Prise de Tidican	une	la	Prises de Tidican	des	les
--	tr_hom_tatoo62	Taches de Sang	des	les	Taches de Sang	des	les
--	tr_hom_tatoo63	Entaille Sanglante	une	l'	Entailles Sanglantes	des	les
--	tr_leader_01	Coiffure de Still Wyler	une	la	Coiffures de Still Wyler	des	les
--	tr_underwear_armpad	Manches trykers	des	les	Manches trykers	des	les
--	tr_underwear_bottes	Bottes trykers	des	les	Bottes trykers	des	les
--	tr_underwear_gilet	Gilet tryker	un	le	Gilets trykers	des	les
--	tr_underwear_hand	Gants trykers	des	les	Gants trykers	des	les
--	tr_underwear_pantabottes	Pantalon tryker	un	le	Pantalons trykers	des	les
--	tr_visage	Masque tryker	un	le	Masque trykers	des	les
--	tr_weapon_leader_still_wyler	Pique de Still Wyler	une	la	Piques de Still Wyler	des	les
--	unstable_goo_vial	Potion Instable de Goo	une	la	Potions Instables	des	les
--	water_barrel	Eau stimulante	une	l'	Eaux stimulantes	des	les
--	web_transaction	Transaction	une	la	Transactions	des	les
--	wheel_token_anlor	jeton flétri	un	le	jetons flétris	des	les
--	wheel_token_atysmas	jeton flétri	un	le	jetons flétris	des	les
--	wheel_token_basic	jeton flétri	un	le	jetons flétris	des	les
--	wheel_token_choice	jeton flétri	un	le	jetons flétris	des	les
--	wheel_token_fine	jeton flétri	un	le	jetons flétris	des	les
--	wheel_token_suprem	jeton flétri	un	le	jetons flétris	des	les
--	wheel_token_xl	jeton flétri	un	le	jetons flétris	des	les
--	white_medicine	Médicament blanc	un	le	Médicaments blancs	des	les
--	winch	Canne à pêche	une	la	Cannes à pêche	des	les
--	winch_2	Canne à pêche	une	la	Cannes à pêche	des	les
--	winch_3	Canne à pêche	une	la	Cannes à pêche	des	les
--	xmas_gingerbread	Bonhomme de pain d'épice	un	le	Bonshommes de pain d'épice	des	les
--	xmas_gingeryubo	Yubo de pain d'épice	un	le	Yubos de pain d'épice	des	les
--	yellow_medicine	Médicament jaune	un	le	Médicaments jaunes	des	les
--	young_girl_pendant	Pendentif de jeune fille	un	le	Pendentifs de jeune fille	des	les
--	young_live_seed	Jeune graine vivante	une	la	Jeunes graines vivantes	des	les
--	zc50_plans	Plan Volé	un	le	Plans Volés	des	les
--	zc60_aile	Aile de Javing Commun	une	l'	Ailes de Javing Commun	des	les
--	zc60_ambre	Ambre Ancien	de l'	l'	Ambres Anciens	des	les
--	zc60_dents	Dents de Slaveni Somnolent	un	le	Dents de Slaveni Somnolent	des	les
--	zc80_aile_izam	Aile d'Izam Intimidant	une	l'	Ailes d'Izam Intimidant	des	les
--	zc80_aile_yber	Aile d'Yber Vigilant	une	l'	Ailes d'Yber Vigilant	des	les
--	zc80_lettre	Lettre	une	la	Lettres	des	les
--	zc90_ambre	Excellent Ambre Ancien	de l'	l'	Excellents Ambres Anciens	des	les
--	zc90_dent	Dent de Slaveni Eveillé	une	la	Dents de Slaveni Eveillé	des	les
--	zc100_graines	Graine Solide	une	la	Graines Solides	des	les
--	zerx_stomach	Estomac de Zerx	un	l'	Estomacs de Zerx	des	les
--	zerx_tusks	Défense de Zerx	une	la	Défenses de Zerx	des	les
--	zf50_corne	Corne de Messab Robuste	une	la	Cornes de Messab Robuste	des	les
--	zf60_croc	Croc de Torbak Angoissant	un	le	Crocs de Torbak Angoissant	des	les
--	zf60_feuilles	Feuilles de Slaveni Robuste	une	la	Feuilles de Slaveni Robuste	des	les
--	zf70_ailes	Ailes d'Izam Pilleur	une	l'	Ailes d'Izam Pilleur	des	les
--	zf80_feuilles	Feuilles de Psykopla Dépéri	une	la	Feuilles de Psykopla Dépéri	des	les
--	zf90_feuilles	Feuilles de Slaveni Affamé	une	la	Feuilles de Slaveni Affamé	des	les
--	zf90_sphere	Sphère de Détection de la magie	une	la	Sphères de Détection de la magie	des	les
--	zf100_lettre	Lettre scellée	une	la	Lettres scellées	des	les
--	zf100_materiau	Matériau précieux	un	le	Matériaux précieux	des	les
--	zh50_sphere	Sphère de Détection des Matériaux	une	la	Sphères de Détection des Matériaux	des	les
--	zh70_graines	Graine Régénérante	une	la	Graines Régénérantes	des	les
--	zh80_lettre	Résultat de l'Analyse	un	le	Résultats de l'Analyse	des	les
--	zh80_pioche	Pioche spéciale	une	la	Pioches spéciales	des	les
--	zh80_terre	Terre Polluée	de la	la	Terres Polluées	des	les
--	zh90_bouclier	Bouclier Rayé	un	le	Boucliers Rayés	des	les
--	zh100_outils	Outils Perdus	un	l'	Outils Perdus	des	les
--	zm50_ecailles	Écailles de Bawaab Robuste	une	la	Écailles de Bawaab Robuste	des	les
--	zm50_feuilles	Feuilles de Slaveni Robuste	une	la	Feuilles de Slaveni Robuste	des	les
--	zm60_artefact	Artéfact Corrompu	un	l'	Artéfacts Corrompus	des	les
--	zm60_bouclier	Bouclier protecteur	un	le	Boucliers protecteurs	des	les
--	zm60_carapace	Carapace de Kipee Fort	une	la	Carapaces de Kipee Fort	des	les
--	zm60_sphere	Sphère de Détection d'Objet	une	la	Sphères de Détection d'Objet	des	les
--	zm70_amplificateur	Amplificateur	un	l'	Amplificateurs	des	les
--	zm70_epurateur	Épurateur	un	l'	Épurateurs	des	les
--	zm80_anneau	Anneau de Purification	un	l'	Anneaux de Purification	des	les
--	zm90_bec	Bec d'Igara Brutal	un	le	Becs d'Igara Brutal	des	les
--	zm90_feuilles	Feuilles de Psykopla Dépéri	une	la	Feuilles de Psykopla Dépéri	des	les
--	zo_armor01_armpad	Manches d'armure zoraï	des	les	Manches d'armures zoraïs	des	les
--	zo_armor01_bottes	Bottes d'armure zoraï	des	les	Bottes d'armures zoraïs	des	les
--	zo_armor01_gilet	Gilet d'armure zoraï	un	le	Gilets d'armures zoraïs	des	les
--	zo_armor01_hand	Gants d'armure zoraï	des	les	Gants d'armures zoraïs	des	les
--	zo_armor01_pantabotte	Pantalon d'armure zoraï	un	le	Pantalons d'armures zoraïs	des	les
--	zo_banner_gm	Bannière de Maître de Jeu zoraï	une	la	Bannières de Maître de Jeu zoraï	des	les
--	zo_banner_gu	Bannière de Guide zoraï	une	la	Bannières de Guide zoraï	des	les
--	zo_banner_sgm	Bannière de Maître de Jeu Senior zoraï	une	la	Bannières de Maître de Jeu Senior zoraï	des	les
--	zo_banner_sgu	Bannière de Guide Senior zoraï	une	la	Bannières de Guide Senior zoraï	des	les
--	zo_cheveux_long01	Cheveu long de Zoraï	un	le	Cheveux longs de Zoraïs	des	les
--	zo_cheveux_medium01	Cheveu mi-long de Zoraï	un	le	Cheveux mi-longs de Zoraïs	des	les
--	zo_cheveux_shave01	Cheveu rasé de Zoraï	un	le	Cheveux rasés de Zoraïs	des	les
--	zo_cheveux_short01	Cheveu court de Zoraï	un	le	Cheveux courts de Zoraïs	des	les
--	zo_civil01_armpad	Manches zoraïs	des	les	Manches zoraïs	des	les
--	zo_civil01_bottes	Bottes zoraïs	des	les	Bottes zoraïs	des	les
--	zo_civil01_gilet	Gilet zoraï	un	le	Gilets zoraïs	des	les
--	zo_civil01_pantabotte	Pantalon Zoraï	un	le	Pantalons Zoraïs	des	les
--	zo_hof_haircolor0	Blonde	une	la	Blondes	des	les
--	zo_hof_haircolor1	Verte Claire	une	la	Vertes Claires	des	les
--	zo_hof_haircolor2	Verte Foncée	une	la	Vertes Foncées	des	les
--	zo_hof_haircolor3	Auburn	un	l'	Auburns	des	les
--	zo_hof_haircolor4	Bleue	une	la	Bleues	des	les
--	zo_hof_haircolor5	Violette	une	la	Violettes	des	les
--	zo_hof_hair_artistic01	Coupe artistique - Cornes Couronnées	une	la	Coupes artistiques - Cornes Couronnées	des	les
--	zo_hof_hair_artistic02	Coupe artistique - Coque	une	la	Coupes artistiques - Coque	des	les
--	zo_hof_hair_artistic03	Coupe artistique - Façon Dreadlocks	une	la	Coupes artistiques - Façon Dreadlocks	des	les
--	zo_hof_hair_artistic04	Coupe artistique - Effet Épi	une	la	Coupes artistiques - Effet Eéi	des	les
--	zo_hof_hair_artistic05	Coupe artistique - Mèches avec ornement
--	zo_hof_hair_basic01	Coupe basique  - Rasés	une	la	Coupes basiques  - Rasés	des	les
--	zo_hof_hair_basic02	Coupe basique  - Piques Longs	une	la	Coupes basiques  - Piques Longs	des	les
--	zo_hof_hair_basic03	Coupe basique  - Façon Dreadlocks	une	la	Coupes basiques  - Façon Dreadlocks	des	les
--	zo_hof_hair_basic04	Coupe basique  - Piques	une	la	Coupes basiques  - Piques	des	les
--	zo_hof_hair_basic05	Coupe basique - Mèches planquées en arrière
--	zo_hof_hair_style01	Coupe stylée  - Attachés sur le Côté	une	la	Coupes stylées  - Attachés sur le Côté	des	les
--	zo_hof_hair_style02	Coupe stylée  - Enroulés sur le Côté	une	la	Coupes stylées  - Enroulés sur le Côté	des	les
--	zo_hof_hair_style03	Coupe stylée  - Enroulés sur le Haut	une	la	Coupes stylées  - Enroulés sur le Haut	des	les
--	zo_hof_hair_style04	Coupe stylée - Effet Empilé sur le Haut	une	la	Coupes stylées - Effet Empilé sur le Haut	des	les
--	zo_hof_hair_style05	Coupe stylée - Printanière
--	zo_hof_tatoo0	Pas de Tatouage			Pas de Tatouage
--	zo_hof_tatoo1	Rose Beng-Do	un	le	Roses Beng-Dos	des	les
--	zo_hof_tatoo2	Maintien Sinaï	un	le	Maintiens Sinaïs	des	les
--	zo_hof_tatoo3	Multi-couleurs Stin-Byn	un	le	Multi-couleurs Stin-Byns	des	les
--	zo_hof_tatoo4	Rouge Foncé Fung	un	le	Rouges Foncés Fungs	des	les
--	zo_hof_tatoo5	Rose Wyn	un	le	Roses Wyns	des	les
--	zo_hof_tatoo6	Teinte Orange	une	la	Teintes Oranges	des	les
--	zo_hof_tatoo7	Ondulations de Zin	des	les	Ondulations de Zin	des	les
--	zo_hof_tatoo8	Pensées Fuchsia	des	les	Pensées Fuchsia	des	les
--	zo_hof_tatoo9	Bleu Spiral	un	le	Bleus Spirals	des	les
--	zo_hof_tatoo10	Rose Spiral	un	le	Roses Spirals	des	les
--	zo_hof_tatoo11	Jaune Len-Sen	un	le	Jaunes Len-Sens	des	les
--	zo_hof_tatoo12	Bleu Mad-Kan	un	le	Bleus Mad-Kans	des	les
--	zo_hof_tatoo13	Spirale Mauve	une	la	Spirales Mauves	des	les
--	zo_hof_tatoo14	Orange Indeng	un	l'	Oranges Indengs	des	les
--	zo_hof_tatoo15	Esquisse Jesting	une	l'	Esquisses Jestings	des	les
--	zo_hof_tatoo16	Yeux Ensanglantés	des	les	Yeux Ensanglantés	des	les
--	zo_hof_tatoo17	Orange Blu-Too	un	l'	Oranges Blu-Toos	des	les
--	zo_hof_tatoo18	Rose Pa-Kin	un	le	Roses Pa-Kins	des	les
--	zo_hof_tatoo19	Bleu Papillon	un	le	Bleus Papillons	des	les
--	zo_hof_tatoo20	Ambre de Zon	un	l'	Ambres de Zon	des	les
--	zo_hof_tatoo21	Striation Rose	une	la	Striations Roses	des	les
--	zo_hof_tatoo22	Pensées Meurtrières	des	les	Pensées Meurtrières	des	les
--	zo_hof_tatoo23	Vert Fa-Ta	un	le	Verts Fa-Tas	des	les
--	zo_hof_tatoo24	Bleu Tin-Too	un	le	Bleus Tin-Toos	des	les
--	zo_hof_tatoo25	Entrecroisement	un	l'	Entrecroisements	des	les
--	zo_hof_tatoo26	Décor Ensanglanté	un	le	Décors Ensanglantés	des	les
--	zo_hof_tatoo27	Rouge Vengeur	un	le	Rouges Vengeurs	des	les
--	zo_hof_tatoo28	Décor Rose	un	le	Décors Roses	des	les
--	zo_hof_tatoo29	Froncement Orange	un	le	Froncements Oranges	des	les
--	zo_hof_tatoo30	Violet Za-Chin	un	le	Violets Za-Chins	des	les
--	zo_hof_tatoo31	Pli en Deux Temps	un	le	Plis en Deux Temps	des	les
--	zo_hof_tatoo32	Striation Ambre	une	la	Striations Ambres	des	les
--	zo_hof_tatoo33	Sen Lisse	un	le	Sens Lisses	des	les
--	zo_hof_tatoo34	Bing Lisse	un	le	Bings Lisses	des	les
--	zo_hof_tatoo35	Wo Lisse	un	le	Wos Lisses	des	les
--	zo_hof_tatoo36	Baiser de Seng	un	le	Baisers de Seng	des	les
--	zo_hof_tatoo37	Baiser de Sérénité	un	le	Baisers de Sérénité	des	les
--	zo_hof_tatoo38	Hurlement Sinistre	un	le	Hurlements Sinistres	des	les
--	zo_hof_tatoo39	Feuille de Tonab	une	la	Feuilles de Tonab	des	les
--	zo_hof_tatoo40	Grain de Shian	un	le	Grains de Shian	des	les
--	zo_hof_tatoo41	Grain de Xia	un	le	Grains de Xia	des	les
--	zo_hof_tatoo42	Feuille Verte	une	la	Feuilles Vertes	des	les
--	zo_hof_tatoo43	Vieille Feuille	une	la	Vieilles Feuilles	des	les
--	zo_hof_tatoo44	Clairvoyance	une	la	Clairvoyances	des	les
--	zo_hof_tatoo45	Gravure de Cho	une	la	Gravures de Cho	des	les
--	zo_hof_tatoo46	Hurlement Agité	un	le	Hurlements Agités	des	les
--	zo_hof_tatoo47	Sérénité Verte	une	la	Sérénités vertes	des	les
--	zo_hof_tatoo48	Sérénité Violette	une	la	Sérénités violettes	des	les
--	zo_hof_tatoo49	Sérénité Rouge	une	la	Sérénités rouges	des	les
--	zo_hof_tatoo50	Sérénité Sombre	une	la	Sérénités Sombres	des	les
--	zo_hof_tatoo51	Front Coléreux	un	le	Fronts Coléreux	des	les
--	zo_hof_tatoo52	Incrustation d'ambre	une	l'	Incrustations d'ambre	des	les
--	zo_hof_tatoo53	Incrustation d'Ambre et de Sève	une	l'	Incrustations d'Ambre et de Sève	des	les
--	zo_hof_tatoo54	Roseaux	des	les	Roseaux	des	les
--	zo_hof_tatoo55	Hurlement Vengeur	un	le	Hurlements Vengeurs	des	les
--	zo_hof_tatoo56	Striation Bleue	une	la	Striations Bleues	des	les
--	zo_hof_tatoo57	Gravure de Fung	une	la	Gravures de Fung	des	les
--	zo_hof_tatoo58	Tiges Tubulaires	des	les	Tiges Tubulaires	des	les
--	zo_hof_tatoo59	Incrustation du Front	une	l'	Incrustations du Front	des	les
--	zo_hof_tatoo60	Spirale de Daïsha	une	la	Spirales de Daïsha	des	les
--	zo_hof_tatoo61	Clin d'Oeil de  Kami	un	le	Clins d'oeil de  Kami	des	les
--	zo_hof_tatoo62	Plénitude Totale	une	la	Plénitudes Totales	des	les
--	zo_hof_tatoo63	Sphère Kami	une	la	Sphères Kamis	des	les
--	zo_hom_haircolor0	Blond	un	le	Blonds	des	les
--	zo_hom_haircolor1	Vert Clair	un	le	Verts Clairs	des	les
--	zo_hom_haircolor2	Vert Foncé	un	le	Verts Foncés	des	les
--	zo_hom_haircolor3	Auburn	un	l'	Auburns	des	les
--	zo_hom_haircolor4	Bleu	un	le	Bleus	des	les
--	zo_hom_haircolor5	Violet	un	le	Violets	des	les
--	zo_hom_hair_artistic01	Coupe artistique - Dressés	une	la	Coupes artistiques - Dressés	des	les
--	zo_hom_hair_artistic02	Coupe artistique - Cornes Couronnées	une	la	Coupes artistiques - Cornes Couronnées	des	les
--	zo_hom_hair_artistic03	Coupe artistique - Piques Longs	une	la	Coupes artistiques - Piques Longs	des	les
--	zo_hom_hair_artistic04	Coupe artistique - Façon Trident	une	la	Coupes artistiques - Façon Trident	des	les
--	zo_hom_hair_artistic05	Coupe artistique - Feuilles avec Complément au Masque
--	zo_hom_hair_basic01	Coupe basique  - Rasés	une	la	Coupes basiques  - Rasés	des	les
--	zo_hom_hair_basic02	Coupe basique  - Piques Longs	une	la	Coupes basiques  - Piques Longs	des	les
--	zo_hom_hair_basic03	Coupe basique  - Piques Courts	une	la	Coupes basiques  - Piques Courts	des	les
--	zo_hom_hair_basic04	Coupe basique  - Façon Dreadlocks	une	la	Coupes basiques  - Façon Dreadlocks	des	les
--	zo_hom_hair_basic05	Coupe basique - Graine
--	zo_hom_hair_style01	Coupe stylée  - Enroulés sur le Haut	une	la	Coupes stylées  - Enroulés sur le Haut	des	les
--	zo_hom_hair_style02	Coupe stylée  - Enroulés sur l'Arrière	une	la	Coupes stylées  - Enroulés sur l'Arrière	des	les
--	zo_hom_hair_style03	Coupe stylée  - Tresses Longues	une	la	Coupes stylées  - Tresses Longues	des	les
--	zo_hom_hair_style04	Coupe stylée  - Façon Dreadlocks	une	la	Coupes stylées  - Façon Dreadlocks	des	les
--	zo_hom_hair_style05	Coupe stylée - Automnale
--	zo_hom_tatoo0	Pas de Tatouage			Pas de Tatouage
--	zo_hom_tatoo1	Fard de Tan-Li	un	le	Fards de Tan-Li	des	les
--	zo_hom_tatoo2	Bleu Ran-Yo	un	le	Bleus Ran-Yos	des	les
--	zo_hom_tatoo3	Colère de Si-Len	une	la	Colères de Si-Len	des	les
--	zo_hom_tatoo4	Vert Go-Nin	un	le	Verts Go-Nins	des	les
--	zo_hom_tatoo5	Arbre de Cho	un	l'	Arbres de Cho	des	les
--	zo_hom_tatoo6	Arbre de Zin	un	l'	Arbres de Zin	des	les
--	zo_hom_tatoo7	Mauve Mul-Zo	un	le	Mauves Mul-Zos	des	les
--	zo_hom_tatoo8	Rayures de Won-Tu	des	les	Rayures de Won-Tu	des	les
--	zo_hom_tatoo9	Mauve Sli-Teng	un	le	Mauves Sli-Tengs	des	les
--	zo_hom_tatoo10	Stries de Camouflage	des	les	Stries de Camouflage	des	les
--	zo_hom_tatoo11	Lueur Agressive	une	la	Lueurs Agressives	des	les
--	zo_hom_tatoo12	Rouge Maï-Laï	un	le	Rouges Maï-Laïs	des	les
--	zo_hom_tatoo13	Vert Campagne	un	le	Verts Campagnes	des	les
--	zo_hom_tatoo14	Mauve Ci-Lyn	un	le	Mauves Ci-Lyns	des	les
--	zo_hom_tatoo15	Marque de Taï-Lo	une	la	Marques de Taï-Lo	des	les
--	zo_hom_tatoo16	Lueur Livide	une	la	Lueurs Livides	des	les
--	zo_hom_tatoo17	Rouge Guerre	un	le	Rouges Guerres	des	les
--	zo_hom_tatoo18	Bleu Vague	un	le	Bleus Vagues	des	les
--	zo_hom_tatoo19	Mauve Foncé	un	le	Mauves Foncés	des	les
--	zo_hom_tatoo20	Lueur d'Existence	une	la	Lueurs d'Existence	des	les
--	zo_hom_tatoo21	Feuilles Bourgeonnantes	des	les	Feuilles Bourgeonnantes	des	les
--	zo_hom_tatoo22	Lueur Grave	une	le	Lueurs Graves	des	les
--	zo_hom_tatoo23	Silence Sanglant	un	le	Silences Sanglants	des	les
--	zo_hom_tatoo24	Dan-Yo Lisse	un	le	Dan-Yos Lisses	des	les
--	zo_hom_tatoo25	Harmonie Bleue	une	l'	Harmonies bleues	des	les
--	zo_hom_tatoo26	Cérémonie du Souvenir	une	la	Cérémonies du Souvenir	des	les
--	zo_hom_tatoo27	Bleu de Gué	un	le	Bleus de Gué	des	les
--	zo_hom_tatoo28	Furie Ensanglantée	une	la	Furies Ensanglantées	des	les
--	zo_hom_tatoo29	Bleu Mo-Chi	un	le	Bleus Mo-Chi	des	les
--	zo_hom_tatoo30	Li-Vert	un	le	Li-Verts	des	les
--	zo_hom_tatoo31	Spirale Rose	une	la	Spirales Roses	des	les
--	zo_hom_tatoo32	Ambre de Seng	un	l'	Ambres de Seng	des	les
--	zo_hom_tatoo33	Incrustation de Fibres	une	l'	Incrustations de Fibres	des	les
--	zo_hom_tatoo34	Incrustation Tissée	une	l'	Incrustations Tissées	des	les
--	zo_hom_tatoo35	Baiser de fFbres	un	le	Baisers de Fibres	des	les
--	zo_hom_tatoo36	Incrustation Entaillée	une	l'	Incrustations Entaillées	des	les
--	zo_hom_tatoo37	Incrustation Mystique	une	l'	Incrustations Mystiques	des	les
--	zo_hom_tatoo38	Hurlement Agité	un	le	Hurlements Agités	des	les
--	zo_hom_tatoo39	Grain de Yin	un	le	Grains de Yin	des	les
--	zo_hom_tatoo40	Peau de Capryni	une	la	Peaux de Capryni	des	les
--	zo_hom_tatoo41	Incrustation d'ambre	une	l'	Incrustations d'ambre	des	les
--	zo_hom_tatoo42	Sérénité Rouge	une	la	Sérénités rouges	des	les
--	zo_hom_tatoo43	Déchirure Zo-Baï	une	la	Déchirures Zo-Baïs	des	les
--	zo_hom_tatoo44	Baiser de la Colère	un	le	Baisers de la Colère	des	les
--	zo_hom_tatoo45	Séparation de l'Esprit	une	la	Séparations de l'Esprit	des	les
--	zo_hom_tatoo46	Clairvoyance	une	la	Clairvoyances	des	les
--	zo_hom_tatoo47	Masque du Souvenir	un	le	Masques du Souvenir	des	les
--	zo_hom_tatoo48	Gravure de la Continuité	une	la	Gravures de la Continuité	des	les
--	zo_hom_tatoo49	Fibre Écaillée	une	la	Fibres Écaillées	des	les
--	zo_hom_tatoo50	Front Coléreux	un	le	Fronts Coléreux	des	les
--	zo_hom_tatoo51	Sérénité Verte	une	la	Sérénités vertes	des	les
--	zo_hom_tatoo52	Sérénité Dorée	une	la	Sérénités Dorées	des	les
--	zo_hom_tatoo53	Sérénité Violette	une	la	Sérénités violettes	des	les
--	zo_hom_tatoo54	Front Fantaisiste	un	le	Fronts Fantaisistes	des	les
--	zo_hom_tatoo55	Front Serein	un	le	Fronts Sereins	des	les
--	zo_hom_tatoo56	Incrustation Rouge	une	l'	Incrustations Rouges	des	les
--	zo_hom_tatoo57	Incrustation Violette	une	l'	Incrustations Violettes	des	les
--	zo_hom_tatoo58	Texte Sacré du Dévouement	un	le	Textes Sacrés du Dévouement	des	les
--	zo_hom_tatoo59	Regard Interrogateur	un	le	Regards Interrogateurs	des	les
--	zo_hom_tatoo60	Incrustation de Ty-Win	une	l'	Incrustations de Ty-Win	des	les
--	zo_hom_tatoo61	Hurlement Sinistre	un	le	Hurlements Sinistres	des	les
--	zo_hom_tatoo62	Sphère Kami	une	la	Sphères Kamis	des	les
--	zo_hom_tatoo63	Incrustation de Grain	une	l'	Incrustations de Grain	des	les
--	zo_leader_01	Coiffure de Mabreka	une	la	Coiffures de Mabreka	des	les
--	zo_underwear_armpad	Manches zoraïs	des	les	Manches zoraïs	des	les
--	zo_underwear_bottes	Bottes zoraïs	des	les	Bottes zoraïs	des	les
--	zo_underwear_gilet	Gilet zoraï	un	le	Gilets zoraïs	des	les
--	zo_underwear_hand	Gants zoraïs	des	les	Gants zoraïs	des	les
--	zo_underwear_pantabottes	Pantalon zoraï	un	le	Pantalons Zoraïs	des	les
--	zo_visage	Masque zoraï	un	le	Masques zoraïs	des	les
--	zo_weapon_leader_mabreka	Massue de Mabreka	une	la	Massues de Mabreka	des	les
--	zig_yubo_white	Zig Yubo	un	le	Zig Yubo	des	les
--	zig_yubo_lakes	Zig Yubo	un	le	Zig Yubo	des	les
--	zig_yubo_forest	Zig Yubo	un	le	Zig Yubo	des	les
--	bag
--	mochilla
+-	tf60_ailes	Aile de Kizoar grillée	une	l'	Ailes de Kizoar grillées	des	les	
+-	tf70_dague	Dague Tordue	une	la	Dagues Tordues	des	les	
+-	tf80_armure	Armure basique	une	la	Armures basiques	des	les	
+-	tf80_colis	Colis à livrer	un	le	Colis à livrer	des	les	
+-	tf80_dague	Dague des Lagons	une	la	Dagues des Lagons	des	les	
+-	tf80_fragment	Fragment de Clopper Grondant	un	le	Fragments de Clopper Grondant	des	les	
+-	tf90_insigne	Insigne des Sculpteurs	un	l'	Insignes des Sculpteurs	des	les	
+-	tf90_outil	Outil spécial	un	l'	Outils spéciaux	des	les	
+-	tf100_cristal	Cristal des Lagons	un	le	Cristaux des Lagons	des	les	
+-	th50_pioche	Pioche spéciale	une	la	Pioches spéciales	des	les	
+-	th60_fiole	Fiole malodorante	une	la	Fioles malodorantes	des	les	
+-	th60_mousse	Mousse de Stinga Eveillée	de la	la	Mousses de Stinga Eveillée	des	les	
+-	th70_feuilles	Feuilles fraîches	une	la	Feuilles fraîches	des	les	
+-	th70_graines	Graine à Yubo	une	la	Graines à Yubo	des	les	
+-	th80_antidote	Antidote	un	l'	Antidotes	des	les	
+-	th80_miel	Miel Kizoar	du	le	Miels Kizoar	des	les	
+-	th80_plantes	Plante précieuse	une	la	Plantes précieuses	des	les	
+-	th90_ailes	Ailes d'Yber Secondaire	une	l'	Ailes d'Yber Secondaire	des	les	
+-	th90_fiole	Fiole de poison	une	la	Fioles de poison	des	les	
+-	th100_carapace	Carapace Spéciale	une	la	Carapaces Spéciales	des	les	
+-	tiny_worms	Petit ver	un	le	Petits vers	des	les	
+-	tm60_carapace	Carapace de Clopper Angoissant	une	la	Carapaces de Clopper Angoissant	des	les	
+-	tm60_mandibule	Mandibule de Kizoar Vigilant	une	la	Mandibules de Kizoar Vigilant	des	les	
+-	tm60_mousse	Mousse de Stinga Robuste	de la	la	Mousses de Stinga Robuste	des	les	
+-	tm70_lettre	Lettre	une	la	Lettres	des	les	
+-	tm80_carapace	Carapace des Vents	une	la	Carapaces des Vents	des	les	
+-	tm90_insigne	Insigne de la guilde	un	l'	Insignes de la guilde	des	les	
+-	tm90_pince	Pince parfaite de Kipee Mauvais	une	la	Pinces parfaites de Kipee Mauvais	des	les	
+-	tm100_cristal	Cristal imprégné de magie	un	le	Cristaux imprégnés de magie	des	les	
+-	tools_ticket	Outil amélioré	un	l'	Outils améliorés	des	les	
+-	tp_interface_kami	Kami Artefact de téléportation	un	l'	Kami Artefact de téléportation	des	les	
+-	tp_interface_karavan	Karavan Artefact de téléportation	un	l'	Karavan Artefact de téléportation	des	les	
+-	tp_kami_almati	Pacte kami / Téléporteur vers le bois d'Almati	un	le	Pactes Kami/Téléporteur vers le bois d'Almati	des	les	
+-	tp_kami_avalae	Pacte kami / Téléporteur vers Avalae	un	le	Pactes kamis / Téléporteur vers Avalae	des	les	
+-	tp_kami_avendale	Pacte kami / Téléporteur vers Avendale	un	le	Pactes kamis / Téléporteur vers Avendale	des	les	
+-	tp_kami_bountybeaches	Pacte kami / Téléporteur vers les Plages d'Abondance	un	le	Pactes kamis / Téléporteur vers les Plages d'Abondance	des	les	
+-	tp_kami_citiesofintuition	Pacte kami / Téléporteur vers les Cités de l'Intuition	un	le	Pactes kamis / Téléporteur vers les Cités de l'Intuition	des	les	
+-	tp_kami_crystabell	Pacte kami / Téléporteur vers Crystabell	un	le	Pactes kamis / Téléporteur vers Crystabell	des	les	
+-	tp_kami_davae	Pacte kami / Téléporteur vers Davae	un	le	Pactes kamis / Téléporteur vers Davae	des	les	
+-	tp_kami_dewdrops	Pacte kami / Téléporteur vers les Chutes de la Rosée	un	le	Pactes kamis / Téléporteur vers les Chutes de la Rosée	des	les	
+-	tp_kami_dunesofexil	Pacte kami / Téléporteur vers les Dunes de l'Exil	un	le	Pactes kamis / Téléporteur vers les Dunes de l'Exil	des	les	
+-	tp_kami_dyron	Pacte kami / Téléporteur vers Dyron	un	le	Pactes kamis / Téléporteur vers Dyron	des	les	
+-	tp_kami_enchantedisle	Pacte kami / Téléporteur vers l'Île Enchantée	un	le	Pactes kamis / Téléporteur vers l'Île Enchantée	des	les	
+-	tp_kami_fairhaven	Pacte kami / Téléporteur vers Fairhaven	un	le	Pactes kamis / Téléporteur vers Fairhaven	des	les	
+-	tp_kami_fleetinggarden	Pacte kami / Téléporteur vers le Jardin Fugace	un	le	Pactes kamis / Téléporteur vers le Jardin Fugace	des	les	
+-	tp_kami_forbidden_depths	Pacte kami / Téléporteur vers les Profondeurs Interdites	un	le	Pactes kamis / Téléporteur vers les Profondeurs Interdites	des	les	
+-	tp_kami_frahartowers	Pacte kami / Téléporteur vers les Tours Frahars	un	le	Pactes kamis / Téléporteur vers les Tours Frahars	des	les	
+-	tp_kami_gate_of_obscurity	Pacte kami / Téléporteur vers la Porte de l'Obscurité	un	le	Pactes kamis / Téléporteur vers la Porte de l'Obscurité	des	les	
+-	tp_kami_groveofconfusion	Pacte kami / Téléporteur vers le Bosquet de la Confusion	un	le	Pactes kamis / Téléporteur vers le Bosquet de la Confusion	des	les	
+-	tp_kami_groveofumbra	Pacte kami / Téléporteur vers le Bosquet de l'Ombre	un	le	Pactes kamis / Téléporteur vers le Bosquet de l'Ombre	des	les	
+-	tp_kami_havenofpurity	Pacte kami / Téléporteur vers le Havre de Pureté	un	le	Pactes kamis / Téléporteur vers le Havre de Pureté	des	les	
+-	tp_kami_hereticshovel	Pacte kami / Téléporteur vers la Masure de l'Hérétique	un	le	Pactes kamis / Téléporteur vers la Masure de l'Hérétique	des	les	
+-	tp_kami_hiddensource	Pacte kami / Téléporteur vers la Source Cachée	un	le	Pactes kamis / Téléporteur vers la Source Cachée	des	les	
+-	tp_kami_hoi_cho	Pacte kami / Téléporteur vers Hoï-Cho	un	le	Pactes kamis / Téléporteur vers Hoï-Cho	des	les	
+-	tp_kami_jen_lai	Pacte kami / Téléporteur vers Jen-Laï	un	le	Pactes kamis / Téléporteur vers Jen-Laï	des	les	
+-	tp_kami_knollofdissent	Pacte kami / Téléporteur vers le Tertre de la Dissidence	un	le	Pactes kamis / Téléporteur vers le Tertre de la Dissidence	des	les	
+-	tp_kami_knotofdementia	Pacte kami / Téléporteur vers le Noeud de la Démence	un	le	Pactes kamis / Téléporteur vers le Noeud de la Démence	des	les	
+-	tp_kami_lagoonsofloria	Pacte kami / Téléporteur vers les Lagons de Loria	un	le	Pactes kamis / Téléporteur vers les Lagons de Loria	des	les	
+-	tp_kami_maidengrove	Pacte kami / Téléporteur vers le Bosquet Vierge	un	le	Pactes kamis / Téléporteur vers le Bosquet Vierge	des	les	
+-	tp_kami_min_cho	Pacte kami / Téléporteur vers Min-Cho	un	le	Pactes kamis / Téléporteur vers Min-Cho	des	les	
+-	tp_kami_natae	Pacte kami / Téléporteur vers Natae	un	le	Pactes kamis / Téléporteur vers Natae	des	les	
+-	tp_kami_nexus_bagne	Pacte kami / Téléporteur vers Nexus 	un	le	Pactes kamis / Téléporteur vers Nexus 	des	les	
+-	tp_kami_nexus_route_gouffre	Pacte kami / Téléporteur vers le Tunnel au départ du Nexus vers la Route des Ombres 	un	le	Pactes kamis / Téléporteur vers le Tunnel au départ du Nexus vers la Route des Ombres 	des	les	
+-	tp_kami_nexus_terre	Pacte kami / Téléporteur vers le Nexus	un	le	Pactes kamis / Téléporteur vers le Nexus	des	les	
+-	tp_kami_oflovaksoasis	Pacte kami / Téléporteur vers l'Oasis d'Oflovak	un	le	Pactes kamis / Téléporteur vers l'Oasis d'Oflovak	des	les	
+-	tp_kami_outlawcanyon	Pacte kami / Téléporteur vers le Canyon Interdit	un	le	Pactes kamis / Téléporteur vers le Canyon Interdit	des	les	
+-	tp_kami_pyr	Pacte kami / Téléporteur vers Pyr	un	le	Pactes kamis / Téléporteur vers Pyr	des	les	
+-	tp_kami_ranger_camp	Pacte Kami / Téléporteur vers le Campement Ranger	un	le	Pactes Kami / Téléporteurs vers le Campement Ranger	des	les	
+-	tp_kami_restingwater	Pacte kami / Téléporteur Kami vers l'Eau du Repos	un	le	Pactes kamis / Téléporteur Kamis vers l'Eau du Repos	des	les	
+-	tp_kami_sawdustmines	Pacte kami / Téléporteur vers les Mines de Sciure	un	le	Pactes kamis / Téléporteur vers les Mines de Sciure	des	les	
+-	tp_kami_shining_lake	Pacte Kami / Téléporteur vers le Lac étincelant	un	le	Pactes Kami / Téléporteurs vers le Lac étincelant	des	les	
+-	tp_kami_thefount	Pacte kami / Téléporteur vers la Source	un	le	Pactes kamis / Téléporteur vers la Source	des	les	
+-	tp_kami_thesavagedunes	Pacte kami / Téléporteur vers les Dunes Sauvages	un	le	Pactes kamis / Téléporteur vers les Dunes Sauvages	des	les	
+-	tp_kami_thescorchedcorridor	Pacte kami / Téléporteur vers le Couloir Brûlé	un	le	Pactes kamis / Téléporteur vers le Couloir Brûlé	des	les	
+-	tp_kami_thesos	Pacte kami / Téléporteur vers Thesos	un	le	Pactes kamis / Téléporteur vers Thesos	des	les	
+-	tp_kami_thevoid	Pacte kami / Téléporteur vers le Vide	un	le	Pactes kamis / Téléporteur vers le Vide	des	les	
+-	tp_kami_the_abyss_of_ichor_matis	Pacte kami / Téléporteur vers le Gouffre d'Ichor	un	le	Pactes kamis / Téléporteur vers le Gouffre d'Ichor	des	les	
+-	tp_kami_the_abyss_of_ichor_nexus	Pacte kami / Téléporteur vers le Tunnel au départ du Gouffre d'Ichor vers le Nexus	un	le	Pactes kamis / Téléporteur vers le Tunnel au départ du Gouffre d'Ichor vers le Nexus	des	les	
+-	tp_kami_the_elusive_forest	Pacte kami / Téléporteur vers la Forêt Insaisissable	un	le	Pactes kamis / Téléporteur vers la Forêt Insaisissable	des	les	
+-	tp_kami_the_land_of_continuity	Pacte kami / Téléporteur vers la Terre de la Continuité	un	le	Pactes kamis / Téléporteur vers la Terre de la Continuité	des	les	
+-	tp_kami_the_sunken_city	Pacte kami / Téléporteur vers la Cité Engloutie	un	le	Pactes kamis / Téléporteur vers la Cité Engloutie	des	les	
+-	tp_kami_the_trench_of_trials_tryker	Pacte kami / Téléporteur vers le Tunnel au départ de la Fosse aux Épreuves vers les terres trykers	un	le	Pactes kamis / Téléporteur vers le Tunnel au départ de la Fosse aux Épreuves vers les terres trykers	des	les	
+-	tp_kami_the_trench_of_trials_zorai	Pacte kami / Téléporteur vers la Fosse aux Épreuves	un	le	Pactes kamis / Téléporteur vers la Fosse aux Épreuves	des	les	
+-	tp_kami_the_under_spring_fyros	Pacte kami / Téléporteur vers les Sources Interdites	un	le	Pactes kamis / Téléporteur vers les Sources Interdites	des	les	
+-	tp_kami_the_under_spring_zorai	Pacte kami / Téléporteur vers le Tunnel au départ du Nexus vers les terres zoraïs 	un	le	Pactes kamis / Téléporteur vers le Tunnel au départ du Nexus vers les terres zoraïs 	des	les	
+-	tp_kami_the_windy_gate	Pacte kami / Téléporteur vers la Porte des Vents	un	le	Pactes kamis / Téléporteur vers la Porte des Vents	des	les	
+-	tp_kami_upperbog	Pacte kami / Téléporteur vers le Marais Supérieur	un	le	Pactes kamis / Téléporteur vers le Marais Supérieur	des	les	
+-	tp_kami_windermeer	Pacte kami / Téléporteur vers Windermeer	un	le	Pactes kamis / Téléporteur vers Windermeer	des	les	
+-	tp_kami_windsofmuse	Pacte kami / Téléporteur vers les Vents du Songe	un	le	Pactes kamis / Téléporteur vers les Vents du Songe	des	les	
+-	tp_kami_yrkanis	Pacte kami / Téléporteur vers Yrkanis	un	le	Pactes kamis / Téléporteur vers Yrkanis	des	les	
+-	tp_kami_zora	Pacte kami / Téléporteur vers Zora	un	le	Pactes kamis / Téléporteur vers Zora	des	les	
+-	tp_kami_zorai_nland	Pacte kami / Téléporteur vers l'Île Zoraï	un	le	Pactes kamis / Téléporteur vers l'Île Zoraï	des	les	
+-	tp_karavan_almati	Pacte karavan / Téléporteur vers le bois d'Almati	un	le	Pactes Karavan/Téléporteur vers le bois d'Almati	des	les	
+-	tp_karavan_avalae	Pacte karavan / Téléporteur vers Avalae	un	le	Pactes karavans / Téléporteur vers Avalae	des	les	
+-	tp_karavan_avendale	Pacte karavan / Téléporteur vers Avendale	un	le	Pactes karavans / Téléporteur vers Avendale	des	les	
+-	tp_karavan_bountybeaches	Pacte karavan / Téléporteur vers les Plages d'Abondance	un	le	Pactes karavans / Téléporteur vers les Plages d'Abondance	des	les	
+-	tp_karavan_crystabell	Pacte karavan / Téléporteur vers Crystabell	un	le	Pactes karavans / Téléporteur vers Crystabell	des	les	
+-	tp_karavan_davae	Pacte karavan / Téléporteur vers Davae	un	le	Pactes karavans / Téléporteur vers Davae	des	les	
+-	tp_karavan_dewdrops	Pacte karavan / Téléporteur vers les Chutes de la Rosée	un	le	Pactes karavans / Téléporteur vers les Chutes de la Rosée	des	les	
+-	tp_karavan_dunesofexil	Pacte karavan / Téléporteur vers les Dunes de l'Exil	un	le	Pactes karavans / Téléporteur vers les Dunes de l'Exil	des	les	
+-	tp_karavan_dyron	Pacte karavan / Téléporteur vers Dyron	un	le	Pactes karavans / Téléporteur vers Dyron	des	les	
+-	tp_karavan_enchantedisle	Pacte karavan / Téléporteur vers l'Île Enchantée	un	le	Pactes karavans / Téléporteur vers l'Île Enchantée	des	les	
+-	tp_karavan_fairhaven	Pacte karavan / Téléporteur vers Fairhaven 	un	le	Pactes karavans / Téléporteur vers Fairhaven 	des	les	
+-	tp_karavan_fleetinggarden	Pacte karavan / Téléporteur vers le Jardin Fugace	un	le	Pactes karavans / Téléporteur vers le Jardin Fugace	des	les	
+-	tp_karavan_forbidden_depths	Pacte karavan / Téléporteur vers les Profondeurs Interdites	un	le	Pactes karavans / Téléporteur vers les Profondeurs Interdites	des	les	
+-	tp_karavan_frahartowers	Pacte karavan / Téléporteur vers les Tours Frahars	un	le	Pactes karavans / Téléporteur vers les Tours Frahars	des	les	
+-	tp_karavan_gate_of_obscurity	Pacte karavan / Téléporteur vers la Porte de l'Obscurité	un	le	Pactes karavans / Téléporteur vers la Porte de l'Obscurité	des	les	
+-	tp_karavan_groveofconfusion	Pacte karavan / Téléporteur vers le Bosquet de la Confusion	un	le	Pactes karavans / Téléporteur vers le Bosquet de la Confusion	des	les	
+-	tp_karavan_groveofumbra	Pacte karavan / Téléporteur vers le Bosquet de l'Ombre	un	le	Pactes karavans / Téléporteur vers le Bosquet de l'Ombre	des	les	
+-	tp_karavan_havenofpurity	Pacte karavan / Téléporteur vers le Havre de Pureté	un	le	Pactes karavans / Téléporteur vers le Havre de Pureté	des	les	
+-	tp_karavan_hereticshovel	Pacte karavan / Téléporteur vers la Masure de l'Hérétique	un	le	Pactes karavans / Téléporteur vers la Masure de l'Hérétique	des	les	
+-	tp_karavan_hiddensource	Pacte karavan / Téléporteur vers la Source Cachée	un	le	Pactes karavans / Téléporteur vers la Source Cachée	des	les	
+-	tp_karavan_hoi_cho	Pacte karavan / Téléporteur vers Hoï-Cho	un	le	Pactes karavans / Téléporteur vers Hoï-Cho	des	les	
+-	tp_karavan_jen_lai	Pacte karavan / Téléporteur vers Jen-Laï	un	le	Pactes karavans / Téléporteur vers Jen-Laï	des	les	
+-	tp_karavan_knollofdissent	Pacte karavan / Téléporteur vers le Tertre de la Dissidence	un	le	Pactes karavans / Téléporteur vers le Tertre de la Dissidence	des	les	
+-	tp_karavan_knotofdementia	Pacte karavan / Téléporteur vers le Nœud de la Démence	un	le	Pactes karavans / Téléporteur vers le Nœud de la Démence	des	les	
+-	tp_karavan_lagoonsofloria	Pacte karavan / Téléporteur vers les Lagons de Loria	un	le	Pactes karavans / Téléporteur vers les Lagons de Loria	des	les	
+-	tp_karavan_maidengrove	Pacte karavan / Téléporteur vers le Bosquet Vierge	un	le	Pactes karavans / Téléporteur vers le Bosquet Vierge	des	les	
+-	tp_karavan_majesticgarden	Pacte karavan / Téléporteur vers le Jardin Majestueux	un	le	Pactes karavans / Téléporteur vers le Jardin Majestueux	des	les	
+-	tp_karavan_matis_nland	Pacte karavan / Téléporteur vers l'Île Matis	un	le	Pactes karavans / Téléporteur vers l'Île Matis	des	les	
+-	tp_karavan_min_cho	Pacte karavan / Téléporteur vers Min-Cho	un	le	Pactes karavans / Téléporteur vers Min-Cho	des	les	
+-	tp_karavan_natae	Pacte karavan / Téléporteur vers Natae	un	le	Pactes karavans / Téléporteur vers Natae	des	les	
+-	tp_karavan_nexus_bagne	Pacte karavan / Téléporteur vers Nexus	un	le	Pactes karavans / Téléporteur vers Nexus	des	les	
+-	tp_karavan_nexus_route_gouffre	Pacte karavan / Téléporteur vers le Tunnel au départ de Nexus vers la Route des Ombres	un	le	Pactes karavans / Téléporteur vers le Tunnel au départ de Nexus vers la Route des Ombres	des	les	
+-	tp_karavan_nexus_terre	Pacte karavan / Téléporteur vers le Nexus 	un	le	Pactes karavans / Téléporteur vers le Nexus  	des	les	
+-	tp_karavan_oflovaksoasis	Pacte karavan / Téléporteur vers l'Oasis d'Oflovak	un	le	Pactes karavans / Téléporteur vers l'Oasis d'Oflovak	des	les	
+-	tp_karavan_outlawcanyon	Pacte karavan / Téléporteur vers le Canyon Interdit	un	le	Pactes karavans / Téléporteur vers le Canyon Interdit	des	les	
+-	tp_karavan_pyr	Pacte karavan / Téléporteur vers Pyr	un	le	Pactes karavans / Téléporteur vers Pyr	des	les	
+-	tp_karavan_ranger_camp	Pacte Karavan / Téléporteur vers le Campement ranger	un	le	Pactes Karavan / Téléporteurs vers le Campement ranger	des	les	
+-	tp_karavan_restingwater	Pacte karavan / Téléporteur vers l'Eau du Repos	un	le	Pactes karavans / Téléporteur vers l'Eau du Repos	des	les	
+-	tp_karavan_sawdustmines	Pacte karavan / Téléporteur vers les Mines de Sciure	un	le	Pactes karavans / Téléporteur vers les Mines de Sciure	des	les	
+-	tp_karavan_shattered_ruins	Pacte Karavan / Téléporteur vers les Ruines dévastées	un	le	Pactes Karavan / Téléporteurs vers les Ruines dévastées	des	les	
+-	tp_karavan_thefount	Pacte karavan / Téléporteur vers la Source	un	le	Pactes karavans / Téléporteur vers la Source	des	les	
+-	tp_karavan_thesavagedunes	Pacte karavan / Téléporteur vers les Dunes Sauvages	un	le	Pactes karavans / Téléporteur vers les Dunes Sauvages	des	les	
+-	tp_karavan_thescorchedcorridor	Pacte karavan / Téléporteur vers le Couloir Brûlé	un	le	Pactes karavans / Téléporteur vers le Couloir Brûlé	des	les	
+-	tp_karavan_thesos	Pacte karavan / Téléporteur vers Thesos	un	le	Pactes karavans / Téléporteur vers Thesos	des	les	
+-	tp_karavan_thevoid	Pacte karavan / Téléporteur vers le Vide	un	le	Pactes karavans / Téléporteur vers le Vide	des	les	
+-	tp_karavan_the_abyss_of_ichor_matis	Pacte karavan / Téléporteur vers le Gouffre d'Ichor 	un	le	Pactes karavans / Téléporteur vers le Gouffre d'Ichor 	des	les	
+-	tp_karavan_the_abyss_of_ichor_nexus	Pacte karavan / Téléporteur vers le Tunnel au départ du Gouffre d'Ichor vers Nexus 	un	le	Pactes karavans / Téléporteur vers le Tunnel au départ du Gouffre d'Ichor vers Nexus 	des	les	
+-	tp_karavan_the_elusive_forest	Pacte karavan / Téléporteur vers la Forêt Insaisissable	un	le	Pactes karavans / Téléporteur vers la Forêt Insaisissable	des	les	
+-	tp_karavan_the_land_of_continuity	Pacte karavan / Téléporteur vers la Terre de la Continuité	un	le	Pactes karavans / Téléporteur vers la Terre de la Continuité	des	les	
+-	tp_karavan_the_sunken_city	Pacte karavan / Téléporteur vers la Cité Engloutie	un	le	Pactes karavans / Téléporteur vers la Cité Engloutie	des	les	
+-	tp_karavan_the_trench_of_trials_tryker	Pacte karavan / Téléporteur vers le Tunnel au départ de la Fosse aux Épreuves vers les terres trykers 	un	le	Pactes karavans / Téléporteur vers le Tunnel au départ de la Fosse aux Épreuves vers les terres trykers 	des	les	
+-	tp_karavan_the_trench_of_trials_zorai	Pacte karavan / Téléporteur vers la Fosse aux Épreuves 	un	le	Pactes karavans / Téléporteur vers la Fosse aux Épreuves 	des	les	
+-	tp_karavan_the_under_spring_fyros	Pacte karavan / Téléporteur vers les Sources Interdites 	un	le	Pactes karavans / Téléporteur vers les Sources Interdites 	des	les	
+-	tp_karavan_the_under_spring_zorai	Pacte karavan / Téléporteur vers le Tunnel au départ du Nexus vers les terres zoraïs	un	le	Pactes karavans / Téléporteur vers le Tunnel au départ du Nexus vers les terres zoraïs	des	les	
+-	tp_karavan_the_windy_gate	Pacte karavan / Téléporteur vers la Porte des Vents	un	le	Pactes karavans / Téléporteur vers la Porte des Vents	des	les	
+-	tp_karavan_upperbog	Pacte karavan / Téléporteur vers le Marais Supérieur	un	le	Pactes karavans / Téléporteur vers le Marais Supérieur	des	les	
+-	tp_karavan_windermeer	Pacte karavan / Téléporteur vers Windermeer	un	le	Pactes karavans / Téléporteur vers Windermeer	des	les	
+-	tp_karavan_windsofmuse	Pacte karavan / Téléporteur vers les Vents du Songe 	un	le	Pactes karavans / Téléporteur vers les Vents du Songe 	des	les	
+-	tp_karavan_yrkanis	Pacte karavan / Téléporteur vers Yrkanis	un	le	Pactes karavans / Téléporteur vers Yrkanis	des	les	
+-	tp_karavan_zora	Pacte karavan / Téléporteur vers Zora	un	le	Pactes karavans / Téléporteur vers Zora	des	les	
+-	tp_kara_almati	Pacte karavan / Téléporteur vers le bois d'Almati	un	le	Pactes Karavan/Téléporteur vers le bois d'Almati	des	les	
+-	tr_armor01_armpad	Manches d'armure tryker	des	les	Manches d'armures trykers	des	les	
+-	tr_armor01_bottes	Bottes d'armure tryker	des	les	Bottes d'armures trykers	des	les	
+-	tr_armor01_gilet	Gilet d'armure tryker	un	le	Gilets d'armures trykers	des	les	
+-	tr_armor01_hand	Gants d'armure tryker	des	les	Gants d'armures trykers	des	les	
+-	tr_armor01_pantabotte	Pantalon d'armure tryker	un	le	Pantalons d'armures trykers	des	les	
+-	tr_banner_gm	Bannière de Maître de Jeu tryker	une	la	Bannières de Maître de Jeu tryker	des	les	
+-	tr_banner_gu	Bannière de Guide tryker	une	la	Bannières de Guide tryker	des	les	
+-	tr_banner_sgm	Bannière de Maître de Jeu Senior tryker	une	la	Bannières de Maître de Jeu Senior tryker	des	les	
+-	tr_banner_sgu	Bannière de Guide Senior tryker	une	la	Bannières de Guide Senior tryker	des	les	
+-	tr_cheveux_long01	Cheveu long de Tryker	un	le	Cheveux longs de Trykers	des	les	
+-	tr_cheveux_medium01	Cheveu mi-long de Tryker	un	le	Cheveux mi-longs de Trykers	des	les	
+-	tr_cheveux_shave01	Cheveu rasé de Tryker	un	le	Cheveux rasés de Trykers	des	les	
+-	tr_cheveux_short01	Cheveu court de Tryker	un	le	Cheveux courts de Trykers	des	les	
+-	tr_civil01_armpad	Manches trykers	des	les	Manches trykers	des	les	
+-	tr_civil01_bottes	Bottes trykers	des	les	Bottes trykers	des	les	
+-	tr_civil01_gilet	Gilet tryker	un	le	Gilets trykers	des	les	
+-	tr_civil01_hand	Gants trykers	des	les	Gants trykers	des	les	
+-	tr_civil01_pantabotte	Pantalon tryker	un	le	Pantalons trykers	des	les	
+-	tr_hof_haircolor0	Verte Claire	une	la	Vertes Claires	des	les	
+-	tr_hof_haircolor1	Blonde	une	la	Blondes	des	les	
+-	tr_hof_haircolor2	Châtain	un	le	Châtains	des	les	
+-	tr_hof_haircolor3	Rose	une	la	Roses	des	les	
+-	tr_hof_haircolor4	Violette	une	la	Violettes	des	les	
+-	tr_hof_haircolor5	Verte Foncée	une	la	Vertes Foncées	des	les	
+-	tr_hof_hair_artistic01	Coupe artistique - Queue de Cheval façon Papillon	une	la	Coupes artistiques - Queue de Cheval façon Papillon	des	les	
+-	tr_hof_hair_artistic02	Coupe artistique - Frange Épaisse relevée d'un Chapeau	une	la	Coupes artistiques - Frange Épaisse relevée d'un Chapeau	des	les	
+-	tr_hof_hair_artistic03	Coupe artistique - Chignon Relevé	une	la	Coupes artistiques - Chignon Relevé	des	les	
+-	tr_hof_hair_artistic04	Coupe artistique - Carré Déstructuré	une	la	Coupes artistiques - Carré Déstructuré	des	les	
+-	tr_hof_hair_artistic05	Coupe artistique - Lunettes						
+-	tr_hof_hair_basic01	Coupe basique  - Rasés	une	la	Coupes basiques  - Rasés	des	les	
+-	tr_hof_hair_basic02	Coupe basique  - Courts Dégagés à l'Arrière et sur les Côtés	une	la	Coupes basiques  - Courts Dégagés à l'Arrière et sur les Côtés	des	les	
+-	tr_hof_hair_basic03	Coupe basique  - Effet Brosse Ondulé	une	la	Coupes basiques  - Effet Brosse Ondulé	des	les	
+-	tr_hof_hair_basic04	Coupe basique  - Carré Ébouriffé	une	la	Coupes basiques  - Carré Ébouriffé	des	les	
+-	tr_hof_hair_basic05	Coupe basique - Franges sauvages						
+-	tr_hof_hair_style01	Coupe stylée  - Couettes Hautes	une	la	Coupes stylées  - Couettes Hautes	des	les	
+-	tr_hof_hair_style02	Coupe stylée  - Couettes Hautes et Frange	une	la	Coupes stylées  - Couettes Hautes et Frange	des	les	
+-	tr_hof_hair_style03	Coupe stylée  - Effet Relevé	une	la	Coupes stylées  - Effet Relevé	des	les	
+-	tr_hof_hair_style04	Coupe stylée  - Couettes Basses	une	la	Coupes stylées  - Couettes Basses	des	les	
+-	tr_hof_hair_style05	Coupe stylée - Natte serrée						
+-	tr_hof_tatoo0	Pas de Tatouage			Pas de Tatouage			
+-	tr_hof_tatoo1	Lignes des Yeux Légères	des	les	Lignes des Yeux Légères	des	les	
+-	tr_hof_tatoo2	Fard à Joues	un	le	Fards à Joues	des	les	
+-	tr_hof_tatoo3	Fard à Joues et Eyeliner	un	le	Fards à Joues et Eyeliners	des	les	
+-	tr_hof_tatoo4	Soleil Embrasé	un	le	Soleils Embrasés	des	les	
+-	tr_hof_tatoo5	Taches de Pensée et Fards à Joues	des	les	Taches de Pensée et Fards à Joues	des	les	
+-	tr_hof_tatoo6	Mouvements Naturels du Soleil	des	les	Mouvements Naturels du Soleil	des	les	
+-	tr_hof_tatoo7	Lignes des Yeux Rouges	des	les	Lignes des Yeux Rouges	des	les	
+-	tr_hof_tatoo8	Taches de Pensée et Eyeliner	des	les	Taches de Pensée et Eyeliner	des	les	
+-	tr_hof_tatoo9	Garde Ancrée	une	la	Gardes Ancrées	des	les	
+-	tr_hof_tatoo10	Regard Circulaire Orné	un	le	Regards Circulaire Orné	des	les	
+-	tr_hof_tatoo11	Échelle verte	une	l'	Échelles vertes	des	les	
+-	tr_hof_tatoo12	Échelle Mauve	une	l'	Échelles Mauves	des	les	
+-	tr_hof_tatoo13	Ombre d'Échelle	une	l'	Ombres d'Échelle	des	les	
+-	tr_hof_tatoo14	Échelle Maléfique	une	l'	Échelles Maléfiques	des	les	
+-	tr_hof_tatoo15	Soleil sur Échelle	un	le	Soleils sur Échelle	des	les	
+-	tr_hof_tatoo16	Spray Rose	un	le	Sprays Roses	des	les	
+-	tr_hof_tatoo17	Spray Vert	un	le	Sprays verts	des	les	
+-	tr_hof_tatoo18	Spray Jaune	un	le	Sprays Jaunes	des	les	
+-	tr_hof_tatoo19	Vert Délavé	un	le	Verts Délavés	des	les	
+-	tr_hof_tatoo20	Spray Jaune et Yeux Rouges	un	le	Sprays Jaunes et Yeux Rouges	des	les	
+-	tr_hof_tatoo21	Spray Bleu	un	le	Sprays bleus	des	les	
+-	tr_hof_tatoo22	Feuille Orange	une	la	Feuilles oranges	des	les	
+-	tr_hof_tatoo23	Feuille Rose	une	la	Feuilles Roses	des	les	
+-	tr_hof_tatoo24	Rivage Orange	un	le	Rivages oranges	des	les	
+-	tr_hof_tatoo25	Rivage violet	un	le	Rivages violets	des	les	
+-	tr_hof_tatoo26	Échelle sur le Rivage	une	l'	Échelles sur le Rivage	des	les	
+-	tr_hof_tatoo27	Flanc Rose	un	le	Flancs Roses	des	les	
+-	tr_hof_tatoo28	Regard Circulaire Flanqué	un	le	Regards Circulaires Flanqués	des	les	
+-	tr_hof_tatoo29	Route de Corail Rose	une	la	Routes de Corail Rose	des	les	
+-	tr_hof_tatoo30	Route de Corail Verte	une	la	Routes de Corail Verte	des	les	
+-	tr_hof_tatoo31	Route de Corail Bleu	une	la	Routes de Corail Bleu	des	les	
+-	tr_hof_tatoo32	Fertilité	une	la	Fertilités	des	les	
+-	tr_hof_tatoo33	Danse des Poissons	une	la	Danses des Poissons	des	les	
+-	tr_hof_tatoo34	Vagues ondulantes	des	les	Vagues ondulantes	des	les	
+-	tr_hof_tatoo35	Coucher de Soleil	un	le	Couchers de Soleil	des	les	
+-	tr_hof_tatoo36	Dent de Prakker	une	la	Dents de Prakker	des	les	
+-	tr_hof_tatoo37	Dévouement	un	le	Dévouements	des	les	
+-	tr_hof_tatoo38	Oeil de Cactus	un	l'	Yeux de Cactus	des	les	
+-	tr_hof_tatoo39	Équilibre	un	l'	Équilibres	des	les	
+-	tr_hof_tatoo40	Crochets	des	les	Crochets	des	les	
+-	tr_hof_tatoo41	Sur la Vague			Sur la Vague	des	les	
+-	tr_hof_tatoo42	Danse du Crépuscule	une	la	Danses du Crépuscule	des	les	
+-	tr_hof_tatoo43	Le Sillage			Le Sillage			
+-	tr_hof_tatoo44	Danse Aquatique	une	la	Danses Aquatiques	des	les	
+-	tr_hof_tatoo45	Méandres	des	les	Méandres	des	les	
+-	tr_hof_tatoo46	Volubile			Volubiles	des	les	
+-	tr_hof_tatoo47	Méandres Rosés	des	les	Méandres Rosés	des	les	
+-	tr_hof_tatoo48	Sabot de Messab	un	le	Sabots de Messab	des	les	
+-	tr_hof_tatoo49	Bourgeonnement	un	le	Bourgeonnements	des	les	
+-	tr_hof_tatoo50	Harpons	des	les	Harpons	des	les	
+-	tr_hof_tatoo51	Prakkers Jumeaux	des	les	Prakkers Jumeaux	des	les	
+-	tr_hof_tatoo52	Poisson Ange	un	le	Poissons Anges	des	les	
+-	tr_hof_tatoo53	Tiges d'Algues	des	les	Tiges d'Algues	des	les	
+-	tr_hof_tatoo54	Vengeance Sanglante	une	la	Vengeances Sanglantes	des	les	
+-	tr_hof_tatoo55	Taches de Sang	des	les	Taches de Sang	des	les	
+-	tr_hof_tatoo56	Entaille Sanglante	une	l'	Entailles Sanglantes	des	les	
+-	tr_hof_tatoo57	Connaissances Vertes	des	les	Connaissances Vertes	des	les	
+-	tr_hof_tatoo58	Amble de Madakam	un	l'	Ambles de Madakam	des	les	
+-	tr_hof_tatoo59	Danse de Bolobi	une	la	Danses de Bolobi	des	les	
+-	tr_hof_tatoo60	Garde de Soldats	une	la	Gardes de Soldats	des	les	
+-	tr_hof_tatoo61	Rose Dégoulinant	un	le	Roses Dégoulinants	des	les	
+-	tr_hof_tatoo62	Carapace de Clopper	une	la	Carapaces de Clopper	des	les	
+-	tr_hof_tatoo63	Fer de lance	un	le	Fers de lance	des	les	
+-	tr_hom_haircolor0	Vert Clair	un	le	Verts Clairs	des	les	
+-	tr_hom_haircolor1	Blond	un	le	Blonds	des	les	
+-	tr_hom_haircolor2	Châtain	un	le	Châtains	des	les	
+-	tr_hom_haircolor3	Rose	un	le	Roses	des	les	
+-	tr_hom_haircolor4	Violet	un	le	Violets	des	les	
+-	tr_hom_haircolor5	Vert Foncé	un	le	Verts Foncés	des	les	
+-	tr_hom_hair_artistic01	Coupe artistique - Queue de Cheval Épaisse	une	la	Coupes artistiques - Queue de Cheval Épaisse	des	les	
+-	tr_hom_hair_artistic02	Coupe artistique - Façon Enturbannée	une	la	Coupes artistiques - Façon Enturbannée	des	les	
+-	tr_hom_hair_artistic03	Coupe artistique - Piques	une	la	Coupes artistiques - Piques	des	les	
+-	tr_hom_hair_artistic04	Coupe artistique - Coiffe	une	la	Coupes artistiques - Coiffe	des	les	
+-	tr_hom_hair_artistic05	Coupe artistique – Mi-Long avec Bandeau				des	les	
+-	tr_hom_hair_basic01	Coupe basique  - Rasés	une	la	Coupes basiques  - Rasés			
+-	tr_hom_hair_basic02	Coupe basique  - Brosse Courte	une	la	Coupes basiques  - Brosse Courte	des	les	
+-	tr_hom_hair_basic03	Coupe basique  - Frange Ornée	une	la	Coupes basiques  - Frange Ornée	des	les	
+-	tr_hom_hair_basic04	Coupe basique  - Courts Dégagés à l'Arrière et sur les Côtés	une	la	Coupes basiques  - Courts Dégagés à l'Arrière et sur les Côtés	des	les	
+-	tr_hom_hair_basic05	Coupe basique - Flamme courte						
+-	tr_hom_hair_style01	Coupe stylée  - Façon Touffes	une	la	Coupes stylées  - Façon Touffes	des	les	
+-	tr_hom_hair_style02	Coupe stylée - Tresses	une	la	Coupes stylées - Tresses	des	les	
+-	tr_hom_hair_style03	Coupe stylée  - Frange Épaisse	une	la	Coupes stylées  - Frange Épaisse	des	les	
+-	tr_hom_hair_style04	Coupe stylée  - Coque	une	la	Coupes stylées  - Coque	des	les	
+-	tr_hom_hair_style05	Coupe stylée - Houppette						
+-	tr_hom_tatoo0	Pas de Tatouage			Pas de Tatouage			
+-	tr_hom_tatoo1	Broussailleux			Broussailleux	des	les	
+-	tr_hom_tatoo2	Barbelés	des	les	Barbelés	des	les	
+-	tr_hom_tatoo3	Barbelés Épais	des	les	Barbelés Épais	des	les	
+-	tr_hom_tatoo4	Taches d'Encre	des	les	Taches d'Encre	des	les	
+-	tr_hom_tatoo5	Taches de Réflexion	des	les	Taches de Réflexion	des	les	
+-	tr_hom_tatoo6	Harmonie verte	une	l'	Harmonies Vertes	des	les	
+-	tr_hom_tatoo7	Harmonie Orange	une	l'	Harmonies Oranges	des	les	
+-	tr_hom_tatoo8	Harmonie Violette	une	l'	Harmonies Violettes	des	les	
+-	tr_hom_tatoo9	Taches d'Encre et Barbelés	des	les	Taches d'Encre et Barbelés	des	les	
+-	tr_hom_tatoo10	Garde Ancrée Sanglante	une	la	Gardes Ancrées Sanglantes	des	les	
+-	tr_hom_tatoo11	Garde des Lacs Ancrées	une	la	Gardes des Lacs Ancrées	des	les	
+-	tr_hom_tatoo12	Passage Vert	un	le	Passages Verts	des	les	
+-	tr_hom_tatoo13	Sentier de Wooky	un	le	Sentiers de Wooky	des	les	
+-	tr_hom_tatoo14	Pont de Jeniah	un	le	Ponts de Jeniah	des	les	
+-	tr_hom_tatoo15	Stries Vertes Doubles	des	les	Stries Vertes Doubles	des	les	
+-	tr_hom_tatoo16	Garde du Pont de Jeniah	une	la	Gardes du Pont de Jeniah	des	les	
+-	tr_hom_tatoo17	Regard Violet	un	le	Regards Violets	des	les	
+-	tr_hom_tatoo18	Taches Vertes	des	les	Taches Vertes	des	les	
+-	tr_hom_tatoo19	Taches Harmonieuses	des	les	Taches Harmonieuses	des	les	
+-	tr_hom_tatoo20	Décor Harmonieux	un	le	Décors Harmonieux	des	les	
+-	tr_hom_tatoo21	Harmonie	une	l'	Harmonies	des	les	
+-	tr_hom_tatoo22	Échelle verte	une	l'	Échelles vertes	des	les	
+-	tr_hom_tatoo23	Spray Jaune	un	le	Sprays Jaunes	des	les	
+-	tr_hom_tatoo24	Spray Rouge	un	le	Sprays Rouges	des	les	
+-	tr_hom_tatoo25	Fusion du Soleil	une	la	Fusions du Soleil	des	les	
+-	tr_hom_tatoo26	Échelles Violettes	des	les	Échelles Violettes	des	les	
+-	tr_hom_tatoo27	Fusion Violette du Soleil	une	la	Fusions Violettes du Soleil	des	les	
+-	tr_hom_tatoo28	Élégance Harmonieuse	une	l'	Élégances Harmonieuses	des	les	
+-	tr_hom_tatoo29	Points et Tirés	des	les	Points et Tirés	des	les	
+-	tr_hom_tatoo30	Rivage	un	le	Rivages	des	les	
+-	tr_hom_tatoo31	Dévalant les Champs			Dévalant les Champs			
+-	tr_hom_tatoo32	Visage Vengeur	un	le	Visages Vengeurs	des	les	
+-	tr_hom_tatoo33	Meute de Prakkers	une	la	Meutes de Prakkers	des	les	
+-	tr_hom_tatoo34	Chemin du Retour	un	le	Chemins du Retour	des	les	
+-	tr_hom_tatoo35	Vengeance Sanglante	une	la	Vengeances Sanglantes	des	les	
+-	tr_hom_tatoo36	Flux de Sang	un	le	Flux de Sang	des	les	
+-	tr_hom_tatoo37	Froncement Appuyé	un	le	Froncements Appuyés	des	les	
+-	tr_hom_tatoo38	Sabot de Messab	un	le	Sabots de Messab	des	les	
+-	tr_hom_tatoo39	Élévation	une	l'	Élévations	des	les	
+-	tr_hom_tatoo40	Taches Roses	des	les	Taches Roses	des	les	
+-	tr_hom_tatoo41	Grosses Taches	des	les	Grosses Taches	des	les	
+-	tr_hom_tatoo42	Lacs de Trykoth	des	les	Lacs de Trykoth	des	les	
+-	tr_hom_tatoo43	Grandes Marques Jaunes	des	les	Grandes Marques Jaunes	des	les	
+-	tr_hom_tatoo44	Crevasse Profonde	une	la	Crevasses Profondes	des	les	
+-	tr_hom_tatoo45	Gué dans la Jungle	un	le	Gués dans la Jungle	des	les	
+-	tr_hom_tatoo46	Prakkers Jumeaux	des	les	Prakkers Jumeaux	des	les	
+-	tr_hom_tatoo47	Dévouement	un	le	Dévouements	des	les	
+-	tr_hom_tatoo48	Carapace de Clopper	une	le	Carapaces de Clopper	des	les	
+-	tr_hom_tatoo49	Bulbes Bourgeonnantes	des	les	Bulbes Bourgeonnantes	des	les	
+-	tr_hom_tatoo50	Petites Bottes	des	les	Petites Bottes	des	les	
+-	tr_hom_tatoo51	Pointes Barbelées	des	les	Pointes Barbelées	des	les	
+-	tr_hom_tatoo52	Soif d'Ambre	une	la	Soifs d'Ambre	des	les	
+-	tr_hom_tatoo53	Taches d'ambre	des	les	Taches d'Ambre	des	les	
+-	tr_hom_tatoo54	Arche de Breneth	une	l'	Arches de Breneth	des	les	
+-	tr_hom_tatoo55	Danse Mouvementée	une	la	Danses Mouvementées	des	les	
+-	tr_hom_tatoo56	Algues Dégoulinantes	des	les	Algues Dégoulinantes	des	les	
+-	tr_hom_tatoo57	Danse des Algues	une	la	Danses des Algues	des	les	
+-	tr_hom_tatoo58	Danse de Guerre	une	la	Danses de Guerre	des	les	
+-	tr_hom_tatoo59	Danse du Dévouement	une	la	Danses du Dévouement	des	les	
+-	tr_hom_tatoo60	Tiges d'Algues	des	les	Tiges d'Algues	des	les	
+-	tr_hom_tatoo61	Prise de Tidican	une	la	Prises de Tidican	des	les	
+-	tr_hom_tatoo62	Taches de Sang	des	les	Taches de Sang	des	les	
+-	tr_hom_tatoo63	Entaille Sanglante	une	l'	Entailles Sanglantes	des	les	
+-	tr_leader_01	Coiffure de Still Wyler	une	la	Coiffures de Still Wyler	des	les	
+-	tr_underwear_armpad	Manches trykers	des	les	Manches trykers	des	les	
+-	tr_underwear_bottes	Bottes trykers	des	les	Bottes trykers	des	les	
+-	tr_underwear_gilet	Gilet tryker	un	le	Gilets trykers	des	les	
+-	tr_underwear_hand	Gants trykers	des	les	Gants trykers	des	les	
+-	tr_underwear_pantabottes	Pantalon tryker	un	le	Pantalons trykers	des	les	
+-	tr_visage	Masque tryker	un	le	Masque trykers	des	les	
+-	tr_weapon_leader_still_wyler	Pique de Still Wyler	une	la	Piques de Still Wyler	des	les	
+-	unstable_goo_vial	Potion Instable de Goo	une	la	Potions Instables	des	les	
+-	water_barrel	Eau stimulante	une	l'	Eaux stimulantes	des	les	
+-	web_transaction	Transaction	une	la	Transactions	des	les	
+-	wheel_token_anlor	jeton flétri	un	le	jetons flétris	des	les	
+-	wheel_token_atysmas	jeton flétri	un	le	jetons flétris	des	les	
+-	wheel_token_basic	jeton flétri	un	le	jetons flétris	des	les	
+-	wheel_token_choice	jeton flétri	un	le	jetons flétris	des	les	
+-	wheel_token_fine	jeton flétri	un	le	jetons flétris	des	les	
+-	wheel_token_suprem	jeton flétri	un	le	jetons flétris	des	les	
+-	wheel_token_xl	jeton flétri	un	le	jetons flétris	des	les	
+-	white_medicine	Médicament blanc	un	le	Médicaments blancs	des	les	
+-	winch	Canne à pêche	une	la	Cannes à pêche	des	les	
+-	winch_2	Canne à pêche	une	la	Cannes à pêche	des	les	
+-	winch_3	Canne à pêche	une	la	Cannes à pêche	des	les	
+-	xmas_gingerbread	Bonhomme de pain d'épice	un	le	Bonshommes de pain d'épice	des	les	
+-	xmas_gingeryubo	Yubo de pain d'épice	un	le	Yubos de pain d'épice	des	les	
+-	yellow_medicine	Médicament jaune	un	le	Médicaments jaunes	des	les	
+-	young_girl_pendant	Pendentif de jeune fille	un	le	Pendentifs de jeune fille	des	les	
+-	young_live_seed	Jeune graine vivante	une	la	Jeunes graines vivantes	des	les	
+-	zc50_plans	Plan Volé	un	le	Plans Volés	des	les	
+-	zc60_aile	Aile de Javing Commun	une	l'	Ailes de Javing Commun	des	les	
+-	zc60_ambre	Ambre Ancien	de l'	l'	Ambres Anciens	des	les	
+-	zc60_dents	Dents de Slaveni Somnolent	un	le	Dents de Slaveni Somnolent	des	les	
+-	zc80_aile_izam	Aile d'Izam Intimidant	une	l'	Ailes d'Izam Intimidant	des	les	
+-	zc80_aile_yber	Aile d'Yber Vigilant	une	l'	Ailes d'Yber Vigilant	des	les	
+-	zc80_lettre	Lettre	une	la	Lettres	des	les	
+-	zc90_ambre	Excellent Ambre Ancien	de l'	l'	Excellents Ambres Anciens	des	les	
+-	zc90_dent	Dent de Slaveni Eveillé	une	la	Dents de Slaveni Eveillé	des	les	
+-	zc100_graines	Graine Solide	une	la	Graines Solides	des	les	
+-	zerx_stomach	Estomac de Zerx	un	l'	Estomacs de Zerx	des	les	
+-	zerx_tusks	Défense de Zerx	une	la	Défenses de Zerx	des	les	
+-	zf50_corne	Corne de Messab Robuste	une	la	Cornes de Messab Robuste	des	les	
+-	zf60_croc	Croc de Torbak Angoissant	un	le	Crocs de Torbak Angoissant	des	les	
+-	zf60_feuilles	Feuilles de Slaveni Robuste	une	la	Feuilles de Slaveni Robuste	des	les	
+-	zf70_ailes	Ailes d'Izam Pilleur	une	l'	Ailes d'Izam Pilleur	des	les	
+-	zf80_feuilles	Feuilles de Psykopla Dépéri	une	la	Feuilles de Psykopla Dépéri	des	les	
+-	zf90_feuilles	Feuilles de Slaveni Affamé	une	la	Feuilles de Slaveni Affamé	des	les	
+-	zf90_sphere	Sphère de Détection de la magie	une	la	Sphères de Détection de la magie	des	les	
+-	zf100_lettre	Lettre scellée	une	la	Lettres scellées	des	les	
+-	zf100_materiau	Matériau précieux	un	le	Matériaux précieux	des	les	
+-	zh50_sphere	Sphère de Détection des Matériaux	une	la	Sphères de Détection des Matériaux	des	les	
+-	zh70_graines	Graine Régénérante	une	la	Graines Régénérantes	des	les	
+-	zh80_lettre	Résultat de l'Analyse	un	le	Résultats de l'Analyse	des	les	
+-	zh80_pioche	Pioche spéciale	une	la	Pioches spéciales	des	les	
+-	zh80_terre	Terre Polluée	de la	la	Terres Polluées	des	les	
+-	zh90_bouclier	Bouclier Rayé	un	le	Boucliers Rayés	des	les	
+-	zh100_outils	Outils Perdus	un	l'	Outils Perdus	des	les	
+-	zm50_ecailles	Écailles de Bawaab Robuste	une	la	Écailles de Bawaab Robuste	des	les	
+-	zm50_feuilles	Feuilles de Slaveni Robuste	une	la	Feuilles de Slaveni Robuste	des	les	
+-	zm60_artefact	Artéfact Corrompu	un	l'	Artéfacts Corrompus	des	les	
+-	zm60_bouclier	Bouclier protecteur	un	le	Boucliers protecteurs	des	les	
+-	zm60_carapace	Carapace de Kipee Fort	une	la	Carapaces de Kipee Fort	des	les	
+-	zm60_sphere	Sphère de Détection d'Objet	une	la	Sphères de Détection d'Objet	des	les	
+-	zm70_amplificateur	Amplificateur	un	l'	Amplificateurs	des	les	
+-	zm70_epurateur	Épurateur	un	l'	Épurateurs	des	les	
+-	zm80_anneau	Anneau de Purification	un	l'	Anneaux de Purification	des	les	
+-	zm90_bec	Bec d'Igara Brutal	un	le	Becs d'Igara Brutal	des	les	
+-	zm90_feuilles	Feuilles de Psykopla Dépéri	une	la	Feuilles de Psykopla Dépéri	des	les	
+-	zo_armor01_armpad	Manches d'armure zoraï	des	les	Manches d'armures zoraïs	des	les	
+-	zo_armor01_bottes	Bottes d'armure zoraï	des	les	Bottes d'armures zoraïs	des	les	
+-	zo_armor01_gilet	Gilet d'armure zoraï	un	le	Gilets d'armures zoraïs	des	les	
+-	zo_armor01_hand	Gants d'armure zoraï	des	les	Gants d'armures zoraïs	des	les	
+-	zo_armor01_pantabotte	Pantalon d'armure zoraï	un	le	Pantalons d'armures zoraïs	des	les	
+-	zo_banner_gm	Bannière de Maître de Jeu zoraï	une	la	Bannières de Maître de Jeu zoraï	des	les	
+-	zo_banner_gu	Bannière de Guide zoraï	une	la	Bannières de Guide zoraï	des	les	
+-	zo_banner_sgm	Bannière de Maître de Jeu Senior zoraï	une	la	Bannières de Maître de Jeu Senior zoraï	des	les	
+-	zo_banner_sgu	Bannière de Guide Senior zoraï	une	la	Bannières de Guide Senior zoraï	des	les	
+-	zo_cheveux_long01	Cheveu long de Zoraï	un	le	Cheveux longs de Zoraïs	des	les	
+-	zo_cheveux_medium01	Cheveu mi-long de Zoraï	un	le	Cheveux mi-longs de Zoraïs	des	les	
+-	zo_cheveux_shave01	Cheveu rasé de Zoraï	un	le	Cheveux rasés de Zoraïs	des	les	
+-	zo_cheveux_short01	Cheveu court de Zoraï	un	le	Cheveux courts de Zoraïs	des	les	
+-	zo_civil01_armpad	Manches zoraïs	des	les	Manches zoraïs	des	les	
+-	zo_civil01_bottes	Bottes zoraïs	des	les	Bottes zoraïs	des	les	
+-	zo_civil01_gilet	Gilet zoraï	un	le	Gilets zoraïs	des	les	
+-	zo_civil01_pantabotte	Pantalon Zoraï	un	le	Pantalons Zoraïs	des	les	
+-	zo_hof_haircolor0	Blonde	une	la	Blondes	des	les	
+-	zo_hof_haircolor1	Verte Claire	une	la	Vertes Claires	des	les	
+-	zo_hof_haircolor2	Verte Foncée	une	la	Vertes Foncées	des	les	
+-	zo_hof_haircolor3	Auburn	un	l'	Auburns	des	les	
+-	zo_hof_haircolor4	Bleue	une	la	Bleues	des	les	
+-	zo_hof_haircolor5	Violette	une	la	Violettes	des	les	
+-	zo_hof_hair_artistic01	Coupe artistique - Cornes Couronnées	une	la	Coupes artistiques - Cornes Couronnées	des	les	
+-	zo_hof_hair_artistic02	Coupe artistique - Coque	une	la	Coupes artistiques - Coque	des	les	
+-	zo_hof_hair_artistic03	Coupe artistique - Façon Dreadlocks	une	la	Coupes artistiques - Façon Dreadlocks	des	les	
+-	zo_hof_hair_artistic04	Coupe artistique - Effet Épi	une	la	Coupes artistiques - Effet Eéi	des	les	
+-	zo_hof_hair_artistic05	Coupe artistique - Mèches avec ornement						
+-	zo_hof_hair_basic01	Coupe basique  - Rasés	une	la	Coupes basiques  - Rasés	des	les	
+-	zo_hof_hair_basic02	Coupe basique  - Piques Longs	une	la	Coupes basiques  - Piques Longs	des	les	
+-	zo_hof_hair_basic03	Coupe basique  - Façon Dreadlocks	une	la	Coupes basiques  - Façon Dreadlocks	des	les	
+-	zo_hof_hair_basic04	Coupe basique  - Piques	une	la	Coupes basiques  - Piques	des	les	
+-	zo_hof_hair_basic05	Coupe basique - Mèches planquées en arrière						
+-	zo_hof_hair_style01	Coupe stylée  - Attachés sur le Côté	une	la	Coupes stylées  - Attachés sur le Côté	des	les	
+-	zo_hof_hair_style02	Coupe stylée  - Enroulés sur le Côté	une	la	Coupes stylées  - Enroulés sur le Côté	des	les	
+-	zo_hof_hair_style03	Coupe stylée  - Enroulés sur le Haut	une	la	Coupes stylées  - Enroulés sur le Haut	des	les	
+-	zo_hof_hair_style04	Coupe stylée - Effet Empilé sur le Haut	une	la	Coupes stylées - Effet Empilé sur le Haut	des	les	
+-	zo_hof_hair_style05	Coupe stylée - Printanière						
+-	zo_hof_tatoo0	Pas de Tatouage			Pas de Tatouage			
+-	zo_hof_tatoo1	Rose Beng-Do	un	le	Roses Beng-Dos	des	les	
+-	zo_hof_tatoo2	Maintien Sinaï	un	le	Maintiens Sinaïs	des	les	
+-	zo_hof_tatoo3	Multi-couleurs Stin-Byn	un	le	Multi-couleurs Stin-Byns	des	les	
+-	zo_hof_tatoo4	Rouge Foncé Fung	un	le	Rouges Foncés Fungs	des	les	
+-	zo_hof_tatoo5	Rose Wyn	un	le	Roses Wyns	des	les	
+-	zo_hof_tatoo6	Teinte Orange	une	la	Teintes Oranges	des	les	
+-	zo_hof_tatoo7	Ondulations de Zin	des	les	Ondulations de Zin	des	les	
+-	zo_hof_tatoo8	Pensées Fuchsia	des	les	Pensées Fuchsia	des	les	
+-	zo_hof_tatoo9	Bleu Spiral	un	le	Bleus Spirals	des	les	
+-	zo_hof_tatoo10	Rose Spiral	un	le	Roses Spirals	des	les	
+-	zo_hof_tatoo11	Jaune Len-Sen	un	le	Jaunes Len-Sens	des	les	
+-	zo_hof_tatoo12	Bleu Mad-Kan	un	le	Bleus Mad-Kans	des	les	
+-	zo_hof_tatoo13	Spirale Mauve	une	la	Spirales Mauves	des	les	
+-	zo_hof_tatoo14	Orange Indeng	un	l'	Oranges Indengs	des	les	
+-	zo_hof_tatoo15	Esquisse Jesting	une	l'	Esquisses Jestings	des	les	
+-	zo_hof_tatoo16	Yeux Ensanglantés	des	les	Yeux Ensanglantés	des	les	
+-	zo_hof_tatoo17	Orange Blu-Too	un	l'	Oranges Blu-Toos	des	les	
+-	zo_hof_tatoo18	Rose Pa-Kin	un	le	Roses Pa-Kins	des	les	
+-	zo_hof_tatoo19	Bleu Papillon	un	le	Bleus Papillons	des	les	
+-	zo_hof_tatoo20	Ambre de Zon	un	l'	Ambres de Zon	des	les	
+-	zo_hof_tatoo21	Striation Rose	une	la	Striations Roses	des	les	
+-	zo_hof_tatoo22	Pensées Meurtrières	des	les	Pensées Meurtrières	des	les	
+-	zo_hof_tatoo23	Vert Fa-Ta	un	le	Verts Fa-Tas	des	les	
+-	zo_hof_tatoo24	Bleu Tin-Too	un	le	Bleus Tin-Toos	des	les	
+-	zo_hof_tatoo25	Entrecroisement	un	l'	Entrecroisements	des	les	
+-	zo_hof_tatoo26	Décor Ensanglanté	un	le	Décors Ensanglantés	des	les	
+-	zo_hof_tatoo27	Rouge Vengeur	un	le	Rouges Vengeurs	des	les	
+-	zo_hof_tatoo28	Décor Rose	un	le	Décors Roses	des	les	
+-	zo_hof_tatoo29	Froncement Orange	un	le	Froncements Oranges	des	les	
+-	zo_hof_tatoo30	Violet Za-Chin	un	le	Violets Za-Chins	des	les	
+-	zo_hof_tatoo31	Pli en Deux Temps	un	le	Plis en Deux Temps	des	les	
+-	zo_hof_tatoo32	Striation Ambre	une	la	Striations Ambres	des	les	
+-	zo_hof_tatoo33	Sen Lisse	un	le	Sens Lisses	des	les	
+-	zo_hof_tatoo34	Bing Lisse	un	le	Bings Lisses	des	les	
+-	zo_hof_tatoo35	Wo Lisse	un	le	Wos Lisses	des	les	
+-	zo_hof_tatoo36	Baiser de Seng	un	le	Baisers de Seng	des	les	
+-	zo_hof_tatoo37	Baiser de Sérénité	un	le	Baisers de Sérénité	des	les	
+-	zo_hof_tatoo38	Hurlement Sinistre	un	le	Hurlements Sinistres	des	les	
+-	zo_hof_tatoo39	Feuille de Tonab	une	la	Feuilles de Tonab	des	les	
+-	zo_hof_tatoo40	Grain de Shian	un	le	Grains de Shian	des	les	
+-	zo_hof_tatoo41	Grain de Xia	un	le	Grains de Xia	des	les	
+-	zo_hof_tatoo42	Feuille Verte	une	la	Feuilles Vertes	des	les	
+-	zo_hof_tatoo43	Vieille Feuille	une	la	Vieilles Feuilles	des	les	
+-	zo_hof_tatoo44	Clairvoyance	une	la	Clairvoyances	des	les	
+-	zo_hof_tatoo45	Gravure de Cho	une	la	Gravures de Cho	des	les	
+-	zo_hof_tatoo46	Hurlement Agité	un	le	Hurlements Agités	des	les	
+-	zo_hof_tatoo47	Sérénité Verte	une	la	Sérénités vertes	des	les	
+-	zo_hof_tatoo48	Sérénité Violette	une	la	Sérénités violettes	des	les	
+-	zo_hof_tatoo49	Sérénité Rouge	une	la	Sérénités rouges	des	les	
+-	zo_hof_tatoo50	Sérénité Sombre	une	la	Sérénités Sombres	des	les	
+-	zo_hof_tatoo51	Front Coléreux	un	le	Fronts Coléreux	des	les	
+-	zo_hof_tatoo52	Incrustation d'ambre	une	l'	Incrustations d'ambre	des	les	
+-	zo_hof_tatoo53	Incrustation d'Ambre et de Sève	une	l'	Incrustations d'Ambre et de Sève	des	les	
+-	zo_hof_tatoo54	Roseaux	des	les	Roseaux	des	les	
+-	zo_hof_tatoo55	Hurlement Vengeur	un	le	Hurlements Vengeurs	des	les	
+-	zo_hof_tatoo56	Striation Bleue	une	la	Striations Bleues	des	les	
+-	zo_hof_tatoo57	Gravure de Fung	une	la	Gravures de Fung	des	les	
+-	zo_hof_tatoo58	Tiges Tubulaires	des	les	Tiges Tubulaires	des	les	
+-	zo_hof_tatoo59	Incrustation du Front	une	l'	Incrustations du Front	des	les	
+-	zo_hof_tatoo60	Spirale de Daïsha	une	la	Spirales de Daïsha	des	les	
+-	zo_hof_tatoo61	Clin d'Oeil de  Kami	un	le	Clins d'oeil de  Kami	des	les	
+-	zo_hof_tatoo62	Plénitude Totale	une	la	Plénitudes Totales	des	les	
+-	zo_hof_tatoo63	Sphère Kami	une	la	Sphères Kamis	des	les	
+-	zo_hom_haircolor0	Blond	un	le	Blonds	des	les	
+-	zo_hom_haircolor1	Vert Clair	un	le	Verts Clairs	des	les	
+-	zo_hom_haircolor2	Vert Foncé	un	le	Verts Foncés	des	les	
+-	zo_hom_haircolor3	Auburn	un	l'	Auburns	des	les	
+-	zo_hom_haircolor4	Bleu	un	le	Bleus	des	les	
+-	zo_hom_haircolor5	Violet	un	le	Violets	des	les	
+-	zo_hom_hair_artistic01	Coupe artistique - Dressés	une	la	Coupes artistiques - Dressés	des	les	
+-	zo_hom_hair_artistic02	Coupe artistique - Cornes Couronnées	une	la	Coupes artistiques - Cornes Couronnées	des	les	
+-	zo_hom_hair_artistic03	Coupe artistique - Piques Longs	une	la	Coupes artistiques - Piques Longs	des	les	
+-	zo_hom_hair_artistic04	Coupe artistique - Façon Trident	une	la	Coupes artistiques - Façon Trident	des	les	
+-	zo_hom_hair_artistic05	Coupe artistique - Feuilles avec Complément au Masque						
+-	zo_hom_hair_basic01	Coupe basique  - Rasés	une	la	Coupes basiques  - Rasés	des	les	
+-	zo_hom_hair_basic02	Coupe basique  - Piques Longs	une	la	Coupes basiques  - Piques Longs	des	les	
+-	zo_hom_hair_basic03	Coupe basique  - Piques Courts	une	la	Coupes basiques  - Piques Courts	des	les	
+-	zo_hom_hair_basic04	Coupe basique  - Façon Dreadlocks	une	la	Coupes basiques  - Façon Dreadlocks	des	les	
+-	zo_hom_hair_basic05	Coupe basique - Graine						
+-	zo_hom_hair_style01	Coupe stylée  - Enroulés sur le Haut	une	la	Coupes stylées  - Enroulés sur le Haut	des	les	
+-	zo_hom_hair_style02	Coupe stylée  - Enroulés sur l'Arrière	une	la	Coupes stylées  - Enroulés sur l'Arrière	des	les	
+-	zo_hom_hair_style03	Coupe stylée  - Tresses Longues	une	la	Coupes stylées  - Tresses Longues	des	les	
+-	zo_hom_hair_style04	Coupe stylée  - Façon Dreadlocks	une	la	Coupes stylées  - Façon Dreadlocks	des	les	
+-	zo_hom_hair_style05	Coupe stylée - Automnale						
+-	zo_hom_tatoo0	Pas de Tatouage			Pas de Tatouage			
+-	zo_hom_tatoo1	Fard de Tan-Li	un	le	Fards de Tan-Li	des	les	
+-	zo_hom_tatoo2	Bleu Ran-Yo	un	le	Bleus Ran-Yos	des	les	
+-	zo_hom_tatoo3	Colère de Si-Len	une	la	Colères de Si-Len	des	les	
+-	zo_hom_tatoo4	Vert Go-Nin	un	le	Verts Go-Nins	des	les	
+-	zo_hom_tatoo5	Arbre de Cho	un	l'	Arbres de Cho	des	les	
+-	zo_hom_tatoo6	Arbre de Zin	un	l'	Arbres de Zin	des	les	
+-	zo_hom_tatoo7	Mauve Mul-Zo	un	le	Mauves Mul-Zos	des	les	
+-	zo_hom_tatoo8	Rayures de Won-Tu	des	les	Rayures de Won-Tu	des	les	
+-	zo_hom_tatoo9	Mauve Sli-Teng	un	le	Mauves Sli-Tengs	des	les	
+-	zo_hom_tatoo10	Stries de Camouflage	des	les	Stries de Camouflage	des	les	
+-	zo_hom_tatoo11	Lueur Agressive	une	la	Lueurs Agressives	des	les	
+-	zo_hom_tatoo12	Rouge Maï-Laï	un	le	Rouges Maï-Laïs	des	les	
+-	zo_hom_tatoo13	Vert Campagne	un	le	Verts Campagnes	des	les	
+-	zo_hom_tatoo14	Mauve Ci-Lyn	un	le	Mauves Ci-Lyns	des	les	
+-	zo_hom_tatoo15	Marque de Taï-Lo	une	la	Marques de Taï-Lo	des	les	
+-	zo_hom_tatoo16	Lueur Livide	une	la	Lueurs Livides	des	les	
+-	zo_hom_tatoo17	Rouge Guerre	un	le	Rouges Guerres	des	les	
+-	zo_hom_tatoo18	Bleu Vague	un	le	Bleus Vagues	des	les	
+-	zo_hom_tatoo19	Mauve Foncé	un	le	Mauves Foncés	des	les	
+-	zo_hom_tatoo20	Lueur d'Existence	une	la	Lueurs d'Existence	des	les	
+-	zo_hom_tatoo21	Feuilles Bourgeonnantes	des	les	Feuilles Bourgeonnantes	des	les	
+-	zo_hom_tatoo22	Lueur Grave	une	le	Lueurs Graves	des	les	
+-	zo_hom_tatoo23	Silence Sanglant	un	le	Silences Sanglants	des	les	
+-	zo_hom_tatoo24	Dan-Yo Lisse	un	le	Dan-Yos Lisses	des	les	
+-	zo_hom_tatoo25	Harmonie Bleue	une	l'	Harmonies bleues	des	les	
+-	zo_hom_tatoo26	Cérémonie du Souvenir	une	la	Cérémonies du Souvenir	des	les	
+-	zo_hom_tatoo27	Bleu de Gué	un	le	Bleus de Gué	des	les	
+-	zo_hom_tatoo28	Furie Ensanglantée	une	la	Furies Ensanglantées	des	les	
+-	zo_hom_tatoo29	Bleu Mo-Chi	un	le	Bleus Mo-Chi	des	les	
+-	zo_hom_tatoo30	Li-Vert	un	le	Li-Verts	des	les	
+-	zo_hom_tatoo31	Spirale Rose	une	la	Spirales Roses	des	les	
+-	zo_hom_tatoo32	Ambre de Seng	un	l'	Ambres de Seng	des	les	
+-	zo_hom_tatoo33	Incrustation de Fibres	une	l'	Incrustations de Fibres	des	les	
+-	zo_hom_tatoo34	Incrustation Tissée	une	l'	Incrustations Tissées	des	les	
+-	zo_hom_tatoo35	Baiser de fFbres	un	le	Baisers de Fibres	des	les	
+-	zo_hom_tatoo36	Incrustation Entaillée	une	l'	Incrustations Entaillées	des	les	
+-	zo_hom_tatoo37	Incrustation Mystique	une	l'	Incrustations Mystiques	des	les	
+-	zo_hom_tatoo38	Hurlement Agité	un	le	Hurlements Agités	des	les	
+-	zo_hom_tatoo39	Grain de Yin	un	le	Grains de Yin	des	les	
+-	zo_hom_tatoo40	Peau de Capryni	une	la	Peaux de Capryni	des	les	
+-	zo_hom_tatoo41	Incrustation d'ambre	une	l'	Incrustations d'ambre	des	les	
+-	zo_hom_tatoo42	Sérénité Rouge	une	la	Sérénités rouges	des	les	
+-	zo_hom_tatoo43	Déchirure Zo-Baï	une	la	Déchirures Zo-Baïs	des	les	
+-	zo_hom_tatoo44	Baiser de la Colère	un	le	Baisers de la Colère	des	les	
+-	zo_hom_tatoo45	Séparation de l'Esprit	une	la	Séparations de l'Esprit	des	les	
+-	zo_hom_tatoo46	Clairvoyance	une	la	Clairvoyances	des	les	
+-	zo_hom_tatoo47	Masque du Souvenir	un	le	Masques du Souvenir	des	les	
+-	zo_hom_tatoo48	Gravure de la Continuité	une	la	Gravures de la Continuité	des	les	
+-	zo_hom_tatoo49	Fibre Écaillée	une	la	Fibres Écaillées	des	les	
+-	zo_hom_tatoo50	Front Coléreux	un	le	Fronts Coléreux	des	les	
+-	zo_hom_tatoo51	Sérénité Verte	une	la	Sérénités vertes	des	les	
+-	zo_hom_tatoo52	Sérénité Dorée	une	la	Sérénités Dorées	des	les	
+-	zo_hom_tatoo53	Sérénité Violette	une	la	Sérénités violettes	des	les	
+-	zo_hom_tatoo54	Front Fantaisiste	un	le	Fronts Fantaisistes	des	les	
+-	zo_hom_tatoo55	Front Serein	un	le	Fronts Sereins	des	les	
+-	zo_hom_tatoo56	Incrustation Rouge	une	l'	Incrustations Rouges	des	les	
+-	zo_hom_tatoo57	Incrustation Violette	une	l'	Incrustations Violettes	des	les	
+-	zo_hom_tatoo58	Texte Sacré du Dévouement	un	le	Textes Sacrés du Dévouement	des	les	
+-	zo_hom_tatoo59	Regard Interrogateur	un	le	Regards Interrogateurs	des	les	
+-	zo_hom_tatoo60	Incrustation de Ty-Win	une	l'	Incrustations de Ty-Win	des	les	
+-	zo_hom_tatoo61	Hurlement Sinistre	un	le	Hurlements Sinistres	des	les	
+-	zo_hom_tatoo62	Sphère Kami	une	la	Sphères Kamis	des	les	
+-	zo_hom_tatoo63	Incrustation de Grain	une	l'	Incrustations de Grain	des	les	
+-	zo_leader_01	Coiffure de Mabreka	une	la	Coiffures de Mabreka	des	les	
+-	zo_underwear_armpad	Manches zoraïs	des	les	Manches zoraïs	des	les	
+-	zo_underwear_bottes	Bottes zoraïs	des	les	Bottes zoraïs	des	les	
+-	zo_underwear_gilet	Gilet zoraï	un	le	Gilets zoraïs	des	les	
+-	zo_underwear_hand	Gants zoraïs	des	les	Gants zoraïs	des	les	
+-	zo_underwear_pantabottes	Pantalon zoraï	un	le	Pantalons Zoraïs	des	les	
+-	zo_visage	Masque zoraï	un	le	Masques zoraïs	des	les	
+-	zo_weapon_leader_mabreka	Massue de Mabreka	une	la	Massues de Mabreka	des	les	
+-	zig_yubo_white	Zig Yubo	un	le	Zig Yubo	des	les	
+-	zig_yubo_lakes	Zig Yubo	un	le	Zig Yubo	des	les	
+-	zig_yubo_forest	Zig Yubo	un	le	Zig Yubo	des	les	
+-	gnoof_mount_0	

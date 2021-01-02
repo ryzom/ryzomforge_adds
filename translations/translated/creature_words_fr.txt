@@ -4056,10 +4056,10 @@
 -	ckdad4	Kincher vorace	un	le	Kinchers voraces	des	les	du	au
 -	ckjad4	Kipesta vorace	un	le	Kipestas voraces	des	les	du	au
 -	ckjbd4	Kipesta vorace	un	le	Kipestas voraces	des	les	du	au
--	cphfa4	Énorme Cadeau de Noël	un	le	Énormes Cadeaux de Noël	des	les		
--	cphfa3	Gros Cadeau de Noël	un	le	Gros Cadeaux de Noël	des	les		
--	cphfa2	Cadeau de Noël	un	le	Cadeaux de Noël	des	les		
--	cphfa1	Petit Cadeau de Noël	un	le	Petits Cadeaux de Noël	des	les		
+-	cphfa4	Énorme cadeau d'Atysoël	un	l'	Énormes cadeaux d'Atysoël	des	les	
+-	cphfa3	Gros cadeau d'Atysoël	un	le	Gros cadeaux d'Atysoël	des	les	
+-	cphfa2	Cadeau d'Atysoël	un	le	Cadeaux d'Atysoël	des	les	
+-	cphfa1	Petit cadeau d'Atysoël	un	le	Petits cadeaux d'Atysoël	des	les	
 -	chjlb9	Tenwo	un	le	Tenwo	des	les	du	au
 -	chdfx1	Yubo inexpérimenté	un	le	Yubos inexpérimentés	des	les	du	au
 -	chpfx1	Rendor docile	un	le	Rendors dociles	des	les	du	au
@@ -4188,3 +4188,4 @@
 -	zig_yubo_forest	Zig Yubo	un	le	Zigs Yubos	des	les	
 -	zig_yubo_lakes	Zig Yubo	un	le	Zigs Yubos	des	les	
 -	zig_yubo_pr	Zig Yubo	un	le	Zigs Yubos	des	les	
+-	gnoof_mount_00	

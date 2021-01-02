@@ -4188,3 +4188,4 @@
 -	zig_yubo_forest	Zig Yubo	Zig Yubo	Zig Yubo	Zigs Yubos	Zigs Yubos		die	ein	das	
 -	zig_yubo_lakes	Zig Yubo	Zig Yubo	Zig Yubo	Zig Yubo	Zig Yubo		die	ein	das	
 -	zig_yubo_pr	Zig Yubo	Zig Yubo	Zig Yubo	Zig Yubo	Zig Yubo		die	ein	das	
+-	gnoof_mount_00	
