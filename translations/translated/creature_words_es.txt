@@ -4056,10 +4056,10 @@
 -	ckdad4	Kincher Hambriento	un	el	Kinchers Hambrientos		los
 -	ckjad4	Kipesta Hambrienta	una	la	Kipestas Hambrientas		las
 -	ckjbd4	Kipesta Hambrienta	una	la	Kipestas Hambrientas		las
--	cphfa4	Regalo de Navidad Gigante	un	el	Regalos de Navidad Gigantes		los
--	cphfa3	Regalo de Navidad Grande	un	el	Regalos de Navidad Grandes		los
--	cphfa2	Regalo de Navidad	un	el	Regalos de Navidad		los
--	cphfa1	Regalo de Navidad Pequeño	un	el	Regalo de Navidad Pequeño		los
+-	cphfa4	Enorme regalo de Navidad	un	el	Enormes regalos de Navidad	unos	los	
+-	cphfa3	Gran regalo de Navidad 	un	el	Grandes regalos de Navidad 	unos	los	
+-	cphfa2	Regalo de Navidad	un	el	Regalos de Navidad	unos	los	
+-	cphfa1	Pequeño regalo de Navidad 	un	el	Pequeños regalos de Navidad 	unos	los	
 -	chjlb9	Tenwo	un	el	Tenwo		los
 -	chdfx1	Yuno Inexperto	un	the	Yubos Inexpertos		los
 -	chpfx1	Rendir Dócil	un	el	Rendors Dóciles		los
@@ -4085,12 +4085,12 @@
 -	ckifx4	Kizoar Débil	un	el	Kizoars Débiles		los
 -	ckjfx4	Kipesta Joven	una	el	Kipestas Jóvenes		los
 -	ckffx7	Kirosta Dominante	una	la	Kirostas Dominantes		las
--	object_1_crate_15_a	Crate	un	el	Crates		los
--	object_chest_wisdom_fyros_sel	Pecho de la Sabiduría	un	el	Pechos de la Sabiduría		los
--	object_chest_wisdom_matis_sel	Pecho de la Sabiduría	un	el	Pechos de la Sabiduría		los
--	object_chest_wisdom_std_sel	Pecho de la Sabiduría	un	el	Pechos de la Sabiduría		los
--	object_chest_wisdom_tryker_sel	Pecho de la Sabiduria	un	el	Pechos de la Sabiduría		los
--	object_chest_wisdom_zorai_sel	Pecho de la Sabiduría	un	el	Pechos de la Sabiduría		los
+-	object_1_crate_15_a	Caja	una	la	Cajas	algunas	las	
+-	object_chest_wisdom_fyros_sel	Cofre de la Sabiduría	un	el	Cofres de la Sabiduría	unos	los	
+-	object_chest_wisdom_matis_sel	Cofre de la Sabiduría	un	el	Cofres de la Sabiduría	unos	los	
+-	object_chest_wisdom_std_sel	Cofre de la Sabiduría	un	el	Cofres de la Sabiduría	unos	los	
+-	object_chest_wisdom_tryker_sel	Cofre de la Sabiduria	un	el	Cofres de la Sabiduría	unos	los	
+-	object_chest_wisdom_zorai_sel	Cofre de la Sabiduría	un	el	Cofres de la Sabiduría	unos	los	
 -	CHLCF4	Yelk Mortal	un	el	Yelks Mortales		los
 -	CCDCF4	Torbak Mortal	un	el	Torbaks Mortales		los
 -	CCEGF3	Ragus Diabólico	un	el	Ragus Diabólico		los
@@ -4163,13 +4163,13 @@
 -	object_backpack_loot_player	Mochilas	una	la	Mochilas		las
 -	object_backpack_loot_player_r2	Mochila	una	la	Mochilas		las
 -	object_pr_s3_ploomweed_a	Un poco de Maleza Ploom					
--	object_pr_s3_ploomweed_b	Maleza Ploom de Zuc					
+-	object_pr_s3_ploomweed_b	Maleza Ploom de Zuc	una	la	Malezas Ploom de Zuc	algunas	las	
 -	object_pr_s3_amoeba_a	Ameba de Dan					
 -	object_pr_s3_amoeba_b	Ameba de Tolz					
 -	object_pr_s3_amoeba_c	Ameba de Shon					
 -	object_pr_s3_cokamool_a	Cokamool de Frez					
--	object_pr_s3_cokamool_b	Cokamool de Kloro					
--	object_pr_s3_cokamool_c	Cokamool Pequeno					
+-	object_pr_s3_cokamool_b	Cokamool de Kloro	un	el	Cookamoles de Kloro	unos	los	
+-	object_pr_s3_cokamool_c	Cokamool Pequeño	un	el	Cokamooles Pequeños	unos	los	
 -	object_pr_s2_toopetz_a	Toopetz de Gret					
 -	object_pr_s2_toopetz_b	Toopetz Doble					
 -	object_pr_s2_toopetz_c	Prueba de Toopetz					
@@ -4188,3 +4188,19 @@
 -	zig_yubo_forest	Zig Yubo	un	el	Zigs Yubos	unos	los	
 -	zig_yubo_lakes	Zig Yubo	un	el	Zigs Yubos	unos	los	
 -	zig_yubo_pr	Zig Yubo	une	el	Zigs Yubos	unos	los	
+-	cpfjb7	Shookya					
+-	cpfjc7	Shookya						
+-	cpfjd7	Shookya					
+-	cpfje7	Shookya					
+-	cpfjf7	Shookya					
+-	cpflb7	Shookan					
+-	cpflc7	Shookan					
+-	cpfld7	Shookan					
+-	cpfle7	Shookan					
+-	cpflf7	Shookan					
+-	cpfpb7	Shookoo					
+-	cpfpc7	Shookoo					
+-	cpfpd7	Shookoo					
+-	cpfpe7	Shookoo					
+-	cpfpf7	Shookoo					
+-	gnoof_mount_00	Gnoof de Montar	un	el	Gnoofs de Montar		los	

@@ -6953,5 +6953,4 @@
 -	zig_yubo_white	Zig Yubo	un	le	Zig Yubo	des	les	
 -	zig_yubo_lakes	Zig Yubo	un	le	Zig Yubo	des	les	
 -	zig_yubo_forest	Zig Yubo	un	le	Zig Yubo	des	les	
--	bag	
--	mochilla	
+-	gnoof_mount_0	
