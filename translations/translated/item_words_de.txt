@@ -149,7 +149,7 @@
 -	event_missive_tryker	Tryker-Brief	Tryker-Brief	Tryker-Brief	Tryker-Briefe	Tryker-Briefe	einen	die	ein	der
 -	event_missive_zorai	Zoraï-Brief	Zoraï-Brief	Zoraï-Brief	Zoraï-Briefe	Zoraï-Briefe	einen	die	ein	der
 -	event_purified_sap	gereinigter Sap	gereinigte Sap	gereinigte Sap	gereinigte Sapportionen	gereinigten Sapportionen	ein	die	ein	der
--	event_sheet_music	Blatt	Blatt	Blatt	Blatt	Blatt	ein	das	einen	die		
+-	event_sheet_music	Blatt	Blatt	Blatt	Blatt	Blatt	ein	das	einen	die
 -	event_shooki_liquor	Shooki-Likör	Shooki-Likör	Shooki-Likör	Shooki-Liköre	Shooki-Liköre	einen	die	ein	der	aus intelligenten Pflanzen gewonnener Alkohol
 -	event_taliari_pearl_black	schwarze Perle der Taliari	schwarze Perle der Taliari	schwarze Perle der Taliari	schwarze Perlen der Taliari	schwarzen Perlen der Taliari	eine	die	eine	die
 -	event_taliari_pearl_blue	blaue Perle der Taliari	blaue Perle der Taliari	blaue Perle der Taliari	blaue Perlen der Taliari	blauen Perlen der Taliari	eine	die	eine	die
@@ -1825,7 +1825,7 @@
 -	m0046dxapf01	Erhabenes Klebharz, Urwurzeltyp	Erhabene Klebharz, Urwurzeltyp	Erhabene Klebharz, Urwurzeltyp	Erhabene Klebharzportionen, Urwurzeltyp	Erhabenen Klebharzportionen, Urwurzeltyp	ein	die	etwas	das
 -	m0048cccca01	Basis Goari-Panzerstück	Basis Goari-Panzerstück	Basis Goari-Panzerstück	Basis Goari-Panzerstücke	Basis Goari-Panzerstücke	ein	die	ein	das
 -	m0048ccccb01	Feines Goari-Panzerstück	Feine Goari-Panzerstück	Feine Goari-Panzerstück	Feine Goari-Panzerstücke	Feinen Goari-Panzerstücke	ein	die	ein	das
--	m0048cccdc01	Vorzügliches Wüsten-Goari-Panzerstück	Vorzügliche Wüsten-Goari-Panzerstück	Vorzügliche Wüsten-Goari-Panzerstück	Vorzügliche Wüsten-Goari-Panzerstücke	Vorzüglichen Wüsten-Goari-Panzerstücke	ein	die	ein	das
+-	m0048cccdc01	Vorzügliches Goari-Panzerstück, Wüstentyp	Vorzügliche Goari-Panzerstück, Wüstentyp	Vorzügliche Goari-Panzerstück, Wüstentyp	Vorzügliche Goari-Panzerstücke, Wüstentyp	Vorzüglichen Goari-Panzerstücke, Wüstentyp	ein	die	ein	das
 -	m0048cccde01	Erhabenes Goari-Panzerstück, Wüstentyp	Erhabene Goari-Panzerstück, Wüstentyp	Erhabene Goari-Panzerstück, Wüstentyp	Erhabene Goari-Panzerstücke, Wüstentyp	Erhabenen Goari-Panzerstücke, Wüstentyp	ein	die	ein	das
 -	m0048cccle01	Erhabenes Goari-Panzerstück, Seenlandtyp	Erhabene Goari-Panzerstück, Seenlandtyp	Erhabene Goari-Panzerstück, Seenlandtyp	Erhabene Goari-Panzerstücke, Seenlandtyp	Erhabenen Goari-Panzerstücke, Seenlandtyp	ein	die	ein	das
 -	m0049dxacb01	Basis Gulatch-Öl	Basis Gulatch-Öl	Basis Gulatch-Öl	Basis Gulatch-Ölportionen	Basis Gulatch-Ölportionen	ein	die	etwas	das
@@ -4810,7 +4810,7 @@
 -	m0602ckflc01	Vorzüglicher Kirosta-Panzerstück, Seenlandtyp   	Vorzügliche Kirosta-Panzerstück, Seenlandtyp   	Vorzügliche Kirosta-Panzerstück, Seenlandtyp   	Vorzügliche Kirosta-Panzerstücke, Seenlandtyp 	Vorzüglichen Kirosta-Panzerstücke, Seenlandtyp 	ein	die	ein	das
 -	m0602ckfpc01	Vorzüglicher Kirosta-Panzerstück, Urwurzeltyp   	Vorzügliche Kirosta-Panzerstück, Urwurzeltyp   	Vorzügliche Kirosta-Panzerstück, Urwurzeltyp   	Vorzügliche Kirosta-Panzerstücke, Urwurzeltyp 	Vorzüglichen Kirosta-Panzerstücke, Urwurzeltyp 	ein	die	ein	das
 -	m0602ckfpd01	Exzellenter Kirosta-Panzerstück, Urwurzeltyp  	Exzellente Kirosta-Panzerstück, Urwurzeltyp  	Exzellente Kirosta-Panzerstück, Urwurzeltyp  	Exzellente Kirosta-Panzerstücke, Urwurzeltyp 	Exzellenten Kirosta-Panzerstücke, Urwurzeltyp 	ein	die	ein	das
--	m0602ckfpe01	Exzellenter Kirosta-Panzerstück, Urwurzeltyp   	Exzellente Kirosta-Panzerstück, Urwurzeltyp   	Exzellente Kirosta-Panzerstück, Urwurzeltyp   	Exzellente Kirosta-Panzerstücke, Urwurzeltyp 	Exzellenten Kirosta-Panzerstücke, Urwurzeltyp 	ein	die	ein	das
+-	m0602ckfpe01	Erhabener Kirosta-Panzerstück, Urwurzeltyp   	Erhabene Kirosta-Panzerstück, Urwurzeltyp   	Erhabene Kirosta-Panzerstück, Urwurzeltyp   	Erhabene Kirosta-Panzerstücke, Urwurzeltyp 	Erhabenen Kirosta-Panzerstücke, Urwurzeltyp 	ein	die	ein	das
 -	m0603ckfca01	Basis Kirosta-Schwanz   	Basis Kirosta-Schwanz   	Basis Kirosta-Schwanz   	Basis Kirosta-Schwänze 	Basis Kirosta-Schwänze 	einen	die	ein	der
 -	m0603ckfcb01	Feiner Kirosta-Schwanz   	Feine Kirosta-Schwanz   	Feinen Kirosta-Schwanz   	Feine Kirosta-Schwänze 	Feinen Kirosta-Schwänze 	einen	die	ein	der
 -	m0603ckfdd01	Exzellenter Kirosta-Schwanz, Wüstentyp   	Exzellente Kirosta-Schwanz, Wüstentyp   	Exzellenten Kirosta-Schwanz, Wüstentyp   	Exzellente Kirosta-Schwänze, Wüstentyp 	Exzellenten Kirosta-Schwänze, Wüstentyp 	einen	die	ein	der
@@ -6707,8 +6707,8 @@
 -	winch	Angel	Angel	Angel	Angeln	Angeln	eine	die	eine	die
 -	winch_2	Angel	Angel	Angel	Angeln	Angeln	eine	die	eine	die
 -	winch_3	Angel	Angel	Angel	Angeln	Angeln	eine	die	eine	die
--	xmas_gingerbread	Lebkuchenmännchen	Lebkuchenmännchen	Lebkuchenmännchen	Lebkuchenmännchen	Lebkuchenmännchen	ein	der	einen	die		
--	xmas_gingeryubo	Lebkuchen Yubo	Lebkuchen Yubo	Lebkuchen Yubo	Lebkuchen Yubos	Lebkuchen Yubos	ein	der	einen	die		
+-	xmas_gingerbread	Lebkuchenmännchen	Lebkuchenmännchen	Lebkuchenmännchen	Lebkuchenmännchen	Lebkuchenmännchen	ein	der	einen	die
+-	xmas_gingeryubo	Lebkuchen Yubo	Lebkuchen Yubo	Lebkuchen Yubo	Lebkuchen Yubos	Lebkuchen Yubos	ein	der	einen	die
 -	yellow_medicine	gelbe Medizin	gelbe Medizin	gelbe Medizin	gelbe Medizinen	gelben Medizinen	eine	die	eine	die
 -	young_girl_pendant	Anhänger eines jungen Mädchens	Anhänger eines jungen Mädchens	Anhänger eines jungen Mädchens	Anhänger eines jungen Mädchens	Anhänger eines jungen Mädchens	einen	die	ein	der
 -	young_live_seed	junger lebender Samen	junger lebender Samen	jungen lebenden Samen	junge lebende Samen	jungen lebenden Samen	einen	die	ein	der
