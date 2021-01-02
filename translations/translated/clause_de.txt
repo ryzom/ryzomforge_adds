@@ -13991,7 +13991,7 @@ item_is_now_enchanted	[&SPLM&Du hast den Gegenstand $i$ verzaubert.]
 
 // HASH_VALUE 19F7F9BFE975348F
 // INDEX 3449
-item_is_recharged	[&ITM&Gegenstand $it$ ist nun aufgeladen. Sapladung ist $current$ von $max$.]
+item_is_recharged	[&ITM& Dein/e $it$ ist nun mit $current$ von möglichen $max$ aufgeladen.]
 
 // HASH_VALUE 5CA371121B20307C
 // INDEX 3450
