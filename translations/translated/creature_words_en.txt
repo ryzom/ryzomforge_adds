@@ -3364,7 +3364,7 @@
 -	ckele7	Kipukan					
 -	cdale7	Cukan					
 -	chsle7	Shakan					
--	chale7	Arkan					
+-	chale7	
 -	ccdle7	Torkan					
 -	ccdlf4	Great Torbak	a	the	Great Torbaks		the
 -	ccflf4	Great Najab	a	the	Great Najabs		the
@@ -3787,7 +3787,7 @@
 -	cclde7	Ocyketh					
 -	cclde8	Slayer Ocyx	a	the	Slayer Ocyxes		the
 -	cclfe8	Destroyer Ocyx	a	the	Destroyer Ocyxes		the
--	ccmff7	Jukin					
+-	ccmff7	Jugukin					
 -	ccmff8	Destroyer Jugula	a	the	Destroyer Jugulas		the
 -	ccmpf8	Terminator Jugula	a	the	Terminator Jugulas		the
 -	ccnfe8	Destroyer Horncher	a	the	Destroyer Hornchers		the
@@ -3898,7 +3898,7 @@
 -	ckdfe5	Kinitch					
 -	ckdfe7	Kincherkin					
 -	ckdfe8	Destroyer Kincher	a	the	Destroyer Kinchers		the
--	ckdjd7	Kincherkyaa					
+-	ckdjd7	Kincherkya					
 -	ckdjd8	Demolisher Kincher	a	the	Demolisher Kinchers		the
 -	ckdje7	Kincherkya					
 -	ckdjf4	Great Kincher	a	the	Great Kinchers		the
@@ -3906,13 +3906,13 @@
 -	ckdld8	Death Kincher	a	the	Death Kinchers		the
 -	ckdpf8	Terminator Kincher	a	the	Terminator Kinchers		the
 -	ckede5	Punka					
--	ckede7	Kipucketh					
+-	ckede7	Kipuketh					
 -	ckedf5	Pakuh					
 -	ckedf8	Slayer Kipucka	a	the	Slayer Kipuckas		the
 -	ckefe8	Destroyer Kipucka	a	the	Destroyer Kipuckas		the
 -	ckeff4	Great Kipucka	a	the	Great Kipuckas		the
 -	ckeje5	Pankom					
--	ckeje7	Kipuckya					
+-	ckeje7	Kipukya					
 -	ckeje8	Demolisher Kipucka	a	the	Demolisher Kipuckas		the
 -	ckepf8	Terminator Kipucka	a	the	Terminator Kipuckas		the
 -	ckfdf4	Great Kirosta	a	the	Great Kirostas		the
@@ -3975,13 +3975,13 @@
 -	chidf2	Mektoub Mount	a	the	Mektoub Mounts		the
 -	chpde4	Violent Rendor	a	the	Violent Rendors		the
 -	chpde7	Rendoketh					
--	chsdf7	Shalaketh					
+-	chsdf7	Shaketh					
 -	ckhdf7	Kipeeketh					
 -	cpfdf4	Devastating Shooki	a	the	Devastating Shookis		the
 -	cpfdf7	Shooketh					
 -	ccafe7	Ginkin					
 -	cceff4	Great Ragus	a	the	Great Raguses		the
--	cceff7	Ragukin					
+-	cceff7	Rakin					
 -	chifc2	Mektoub Mount	a	the	Mektoub Mounts		the
 -	chifd2	Mektoub Mount	a	the	Mektoub Mounts		the
 -	chife2	Mektoub Mount	a	the	Mektoub Mounts		the
@@ -4001,7 +4001,7 @@
 -	chije2	Mektoub Mount	a	the	Mektoub Mounts		the
 -	chijf2	Mektoub Mount	a	the	Mektoub Mounts		the
 -	chtjf7	Plodekya					
--	chuje7	Wombakya					
+-	chuje7	Womkya					
 -	ckdje5	Named Kincher	a	the	Named Kinchers		the
 -	ckfjf7	Kirokya					
 -	cpdje7	Slavekya					
@@ -4026,7 +4026,7 @@
 -	cchpe7	Varykoo					
 -	ccipd7	Zerkoo					
 -	chape7	Armkoo					
--	chgpd7	Lumpkoo					
+-	chgpd7	Lumkoo					
 -	chipd2	Mektoub Mount	a	the	Mektoub Mounts		the
 -	chipe2	Mektoub Mount	a	the	Mektoub Mounts		the
 -	chipf2	Mektoub Mount	a	the	Mektoub Mounts		the
@@ -4034,7 +4034,7 @@
 -	chvpf7	Madakoo					
 -	ckape7	Kidikoo					
 -	ckbpf7	Kinkoo					
--	ckjpf7	Kipekoo					
+-	ckjpf7	Kipeskoo					
 -	cpcpf4	Rattled Psykopla	a	the	Rattled Psykoplas		the
 -	cpcpf7	Psykokoo					
 -	mektoub_packer_test	Mektoub Packer	a	the	Mektoub Packers		the
@@ -4056,10 +4056,10 @@
 -	ckdad4	Hungry Kincher	a	the	Hungry Kinchers		the
 -	ckjad4	Hungry Kipesta	a	the	Hungry Kipestas		the
 -	ckjbd4	Hungry Kipesta	a	the	Hungry Kipestas		the
--	cphfa4	Huge Christmas Present	a	the	Huge Christmas Presents		the
--	cphfa3	Big Christmas Present	a	the	Big Christmas Presents		the
--	cphfa2	Christmas Present	a	the	Christmas Presents		the
--	cphfa1	Small Christmas Present	a	the	Small Christmas Presents		the
+-	cphfa4	Huge Atysmas Present	a	the	Huge Atysmas Presents		the	
+-	cphfa3	Big Atysmas Present	a	the	Big Atysmas Presents		the	
+-	cphfa2	Atysmas Present	a	the	Atysmas Presents		the	
+-	cphfa1	Small Atysmas Present	a	the	Small Atysmas Presents		the	
 -	chjlb9	Tenwo	a	the	Tenwo		the
 -	chdfx1	Inexperienced Yubo	an	the	Inexperienced Yubos		the
 -	chpfx1	Docile Rendor	a	the	Docile Rendors		the
@@ -4188,3 +4188,884 @@
 -	zig_yubo_forest	Zig Yubo	a	the	Zigs Yubos	the	the	
 -	zig_yubo_lakes	Zig Yubo	a	the	Zigs Yubos	the	the	
 -	zig_yubo_pr	Zig Yubo	a	the	Zigs Yubos	the	the	
+-	gnoof_mount_00	Gnoof Mount	a	the	Gnoof Mounts		the	
+-	cbadb7	Igaketh					
+-	cbadc7	Igaketh					
+-	cbadd7	Igaketh					
+-	cbade7	Igaketh					
+-	cbadf7	Igaketh					
+-	cbafc7	Igakin					
+-	cbafd7	Igakin					
+-	cbafe7	Igakin					
+-	cbaff7	Igakin					
+-	cbajc7	Igakya					
+-	cbajd7	Igakya					
+-	cbajf7	Igakya					
+-	cbaje7	Igakya					
+-	cbafb7	Igakin						
+-	cbalb7	Igakan					
+-	cbalc7	Igakan					
+-	cbald7	Igakan					
+-	cbale7	Igakan					
+-	cbalf7	Igakan					
+-	cbapb7	Igakoo					
+-	cbapc7	Igakoo					
+-	cbapd7	Igakoo					
+-	cbape7	Igakoo					
+-	cbapf7	Igakoo					
+-	cbbdb7	Izaketh					
+-	cbbdc7	Izaketh					
+-	cbbde7	Izaketh					
+-	cbbdf7	Izaketh					
+-	cbbfb7	Izakin					
+-	cbbfc7	Izakin					
+-	cbbfd7	Izakin					
+-	cbbfe7	Izakin					
+-	cbbff7	Izakin					
+-	cbbjb7	Izakya					
+-	cbbjc7	Izakya					
+-	cbbjd7	Izakya					
+-	cbbje7	Izakya					
+-	cbbjf7	Izakya					
+-	cbblb7	Izakan					
+-	cbblc7	Izakan					
+-	cbbld7	Izakan					
+-	cbble7	Izakan					
+-	cbblf7	Izakan					
+-	cbbpb7	Izakoo					
+-	cbbpc7	Izakoo					
+-	cbbpd7	Izakoo					
+-	cbbpf7	Izakoo					
+-	cbcdb7	Yberketh					
+-	cbcdc7	Yberketh					
+-	cbcdd7	Yberketh					
+-	ccjpd7	Javkoo					
+-	ccjpc7	Javkoo					
+-	ccjpb7	Javkoo					
+-	ccjlf7	Javkan					
+-	ccjld7	Javkan					
+-	ccjle7	Javkan					
+-	ccjlc7	Javkan					
+-	ccjlb7	Javkan					
+-	ccjjf7	Javkya					
+-	ccjje7	Javkya					
+-	ccjjd7	Javkya					
+-	ccjjc7	Javkya					
+-	ccjjb7	Javkya					
+-	ccjff7	Javkin					
+-	ccjfe7	Javkin					
+-	ccjfc7	Javkin					
+-	ccjfb7	Javkin					
+-	ccjdf7	Javketh					
+-	ccjde7	Javketh					
+-	ccjdd7	Javketh					
+-	ccjdc7	Javketh					
+-	ccjdb7	Javketh					
+-	ccipf7	Zerkoo					
+-	ccipe7	Zerkoo					
+-	ccipc7	Zerkoo					
+-	ccipb7	Zerkoo					
+-	ccilf7	Zerkan					
+-	ccile7	Zerkan					
+-	ccild7	Zerkan					
+-	ccilc7	Zerkan					
+-	ccilb7	Zerkan					
+-	ccije7	Zerkya					
+-	ccijd7	Zerkya						
+-	ccijc7	Zerkya					
+-	ccijb7	Zerkya					
+-	cciff7	Zerkin					
+-	ccife7	Zerkin					
+-	ccifd7	Zerkin					
+-	ccifc7	Zerkin					
+-	ccifb7	Zerkin					
+-	ccidf7	Zerketh					
+-	ccide7	Zerketh					
+-	ccidc7	Zerketh					
+-	ccidb7	Zerketh					
+-	cchpf7	Varykoo					
+-	cchpd7	Varykoo					
+-	cchpc7	Varykoo					
+-	cchpb7	Varykoo					
+-	cchlf7	Varykan					
+-	cchle7	Varykan					
+-	cbcde7	Yberketh					
+-	cbcdf7	Yberketh					
+-	cbcfb7	Yberkin					
+-	cbcfc7	Yberkin					
+-	cbcfd7	Yberkin					
+-	cbcfe7	Yberkin					
+-	cbcff7	Yberkin					
+-	cbcjb7	Yberkya					
+-	cbcjc7	Yberkya					
+-	cbcjd7	Yberkya					
+-	cbcje7	Yberkya					
+-	cbcjf7	Yberkya					
+-	cbclb7	Yberkan					
+-	cbcld7	Yberkan					
+-	cbcle7	Yberkan					
+-	cbclf7	Yberkan					
+-	cbcpb7	Yberkoo					
+-	cbcpc7	Yberkoo					
+-	cbcpd7	Yberkoo					
+-	cbcpe7	Yberkoo					
+-	cbcpf7	Yberkoo					
+-	ccadb7	Ginketh					
+-	ccadc7	Ginketh					
+-	ccadd7	Ginketh					
+-	ccade7	Ginketh					
+-	ccadf7	Ginketh					
+-	ccafb7	Ginkin					
+-	ccafc7	Ginkin					
+-	ccafd7	Ginkin					
+-	ccaff7	Ginkin					
+-	ccajb7	Ginkya					
+-	ccajc7	Ginkya					
+-	ccajd7	Ginkya					
+-	ccaje7	Ginkya					
+-	ccajf7	Ginkya					
+-	ccalb7	Ginkan					
+-	ccalc7	Ginkan					
+-	ccald7	Ginkan					
+-	ccale7	Ginkan					
+-	ccalf7	Ginkan					
+-	ccapb7	Ginkoo					
+-	ccapc7	Ginkoo					
+-	ccapd7	Ginkoo					
+-	ccape7	Ginkoo					
+-	ccapf7	Ginkoo					
+-	ccbdb7	Clopperketh					
+-	ccbdd7	Clopperketh					
+-	ccbde7	Clopperketh					
+-	ccbdf7	Clopperketh					
+-	ccbfb7	Clopperkin					
+-	ccbfc7	Clopperkin					
+-	ccbfd7	Clopperkin					
+-	ccbfe7	Clopperkin					
+-	ccbff7	Clopperkin					
+-	ccbjb7	Clopperkya					
+-	ccbjc7	Clopperkya					
+-	ccbjd7	Clopperkya					
+-	ccbje7	Clopperkya					
+-	ccbjf7	Clopperkya					
+-	ccblb7	Clopperkan					
+-	ccblc7	Clopperkan					
+-	ccbld7	Clopperkan					
+-	ccble7	Clopperkan					
+-	ccblf7	Clopperkan					
+-	ccbpb7	Clopperkoo					
+-	ccbpc7	Clopperkoo					
+-	ccbpd7	Clopperkoo					
+-	ccbpe7	Clopperkoo					
+-	ccbpf7	Clopperkoo					
+-	cccdc7	Goaketh					
+-	cccde7	Goaketh					
+-	cccdf7	Goaketh					
+-	cccfb7	Goakin					
+-	cccfc7	Goakin					
+-	cccfd7	Goakin					
+-	cccfe7	Goakin					
+-	cccff7	Goakin					
+-	cccjb7	Goakya					
+-	cccjc7	Goakya					
+-	cccjd7	Goakya					
+-	cccje7	Goakya					
+-	cccjf7	Goakya					
+-	ccclb7	Goakan					
+-	ccclc7	Goakan					
+-	cccld7	Goakan					
+-	cccle7	Goakan					
+-	cccpb7	Goakoo					
+-	cccpc7	Goakoo					
+-	cccpd7	Goakoo					
+-	cccpe7	Goakoo					
+-	cccpf7	Goakoo					
+-	ccddb7	Torketh					
+-	ccddc7	Torketh					
+-	ccddd7	Torketh					
+-	ccdde7	Torketh					
+-	ccddf7	Torketh					
+-	ccdfb7	Torkin					
+-	ccdfc7	Torkin					
+-	ccdfd7	Torkin					
+-	ccdff7	Torkin					
+-	ccflb7	Najakan					
+-	ccflc7	Najakan					
+-	ccfld7	Najakan					
+-	ccfle7	Najakan					
+-	ccflf7	Najakan					
+-	ccfpb7	Najakoo					
+-	ccfpc7	Najakoo					
+-	ccfpd7	Najakoo					
+-	ccfpf7	Najakoo					
+-	ccgdb7	
+-	ccgdc7	
+-	ccgdd7	
+-	ccgde7	
+-	ccgdf7	
+-	ccgfb7	
+-	ccgfc7	
+-	ccgfd7	
+-	ccgfe7	
+-	ccgff7	
+-	ccgjb7	
+-	ccgjc7	
+-	ccgjd7	
+-	ccgje7	
+-	ccgjf7	
+-	ccglb7	
+-	ccglc7	
+-	ccgld7	
+-	ccgle7	
+-	ccglf7	
+-	ccgpb7	
+-	ccgpc7	
+-	ccgpd7	
+-	ccgpe7	
+-	cchdb7	Varyketh					
+-	cchdc7	Varyketh					
+-	cchdd7	Varyketh					
+-	cchdf7	Varyketh					
+-	cchfb7	Varykin					
+-	cchfc7	Varykin					
+-	cchfd7	Varykin					
+-	cchfe7	Varykin					
+-	cchff7	Varykin					
+-	cchjb7	Varykya					
+-	cchjc7	Varykya					
+-	cchjd7	Varykya					
+-	cchje7	Varykya					
+-	cchjf7	Varykya					
+-	cchlb7	Varykan					
+-	cchlc7	Varykan					
+-	cchld7	Varykan					
+-	ccldc7	Ocyketh					
+-	ccldd7	Ocyketh					
+-	ccldf7	Ocyketh					
+-	cclfb7	Ocykin					
+-	cclfc7	Ocykin					
+-	cclfd7	Ocykin					
+-	cclfe7	Ocykin					
+-	cclff7	Ocykin					
+-	ccljb7	Ocykya					
+-	ccljc7	Ocykya					
+-	ccljd7	Ocykya					
+-	cclje7	Ocykya					
+-	ccljf7	Ocykya					
+-	ccllb7	Ocykan					
+-	ccllc7	Ocykan					
+-	cclld7	Ocykan					
+-	cclle7	Ocykan					
+-	ccllf7	Ocykan					
+-	cclpb7	Ocykoo					
+-	cclpc7	Ocykoo					
+-	cclpd7	Ocykoo					
+-	cclpe7	Ocykoo					
+-	cclpf7	Ocykoo					
+-	ccmdb7	Juguketh					
+-	ccmdc7	Juguketh					
+-	ccmdd7	Juguketh					
+-	ccmde7	Juguketh					
+-	ccmdf7	Juguketh					
+-	ccmfb7	Jugukin					
+-	ccmfc7	Jugukin					
+-	ccmfd7	Jugukin					
+-	ccmfe7	Jugukin					
+-	ccmjb7	Jugukya					
+-	ccmjc7	Jugukya					
+-	ccmjd7	Jugukya					
+-	ccmje7	Jugukya					
+-	ccmjf7	Jugukya					
+-	ccmlb7	Jugukan					
+-	ccmlc7	Jugukan					
+-	ccmld7	Jugukan					
+-	ccmle7	Jugukan					
+-	ccmlf7	Jugukan					
+-	ccmpb7	Jugukoo					
+-	ccmpc7	Jugukoo					
+-	ccmpd7	Jugukoo					
+-	ccmpe7	Jugukoo					
+-	ccndb7	Hornketh					
+-	ccndc7	Hornketh					
+-	ccndd7	Hornketh					
+-	ccldb7	Ocyketh					
+-	cckpf7	
+-	cckpe7	
+-	cckpd7	
+-	cckpc7	
+-	cckpb7	
+-	ccklf7	
+-	cckle7	
+-	cckld7	
+-	cckjf7	Cuttlekya					
+-	cckje7	Cuttlekya					
+-	cckjd7	Cuttlekya					
+-	cckjc7	Cuttlekya					
+-	cckjb7	Cuttlekya					
+-	cckff7	Cuttlekin					
+-	cckfd7	Cuttlekin					
+-	cckfc7	Cuttlekin					
+-	cckfb7	Cuttlekin					
+-	cckde7	Cuttleketh					
+-	cckdd7	Cuttleketh					
+-	cckdc7	Cuttleketh					
+-	cckdb7	Cuttleketh					
+-	ccjpf7	
+-	ccjpe7	
+-	ccdjb7	Torkya					
+-	ccdjc7	Torkya					
+-	ccdjd7	Torkya					
+-	ccdje7	Torkya					
+-	ccdjf7	Torkya					
+-	ccdlb7	Torkan					
+-	ccdlc7	Torkan					
+-	ccdld7	Torkan					
+-	ccdlf7	Torkan					
+-	ccffb7	Najakin					
+-	ccffc7	Najakin					
+-	ccffd7	Najakin					
+-	ccffe7	Najakin					
+-	ccfff7	Najakin					
+-	ccfjb7	Najakya					
+-	ccfjc7	Najakya					
+-	ccfje7	Najakya					
+-	ccfjf7	Najakya					
+-	ccnde7	
+-	ccndf7	
+-	ccnlb7	Hornkan					
+-	ccnlc7	Hornkan					
+-	ccnld7	Hornkan					
+-	ccnle7	Hornkan					
+-	ccnpb7	Hornkoo					
+-	ccnpc7	Hornkoo					
+-	ccnpe7	Hornkoo					
+-	ccnpf7	Hornkoo					
+-	ccodb7	Tyraketh					
+-	ccodc7	Tyraketh					
+-	ccode7	Tyraketh					
+-	ccodd7	Tyraketh					
+-	ccodf7	Tyraketh					
+-	ccofb7	Tyrakin					
+-	ccofc7	Tyrakin					
+-	ccofd7	Tyrakin					
+-	ccofe7	Tyrakin					
+-	ccopb7	Tyrakoo					
+-	ccopc7	Tyrakoo					
+-	ccopd7	Tyrakoo					
+-	ccpdb7	
+-	ccpdc7	
+-	ccpdd7	
+-	ccpfb7	Yetikin					
+-	ccpjb7	Yetikya					
+-	ccpjc7	Yetikya					
+-	ccpjd7	Yetikya					
+-	ccpje7	Yetikya					
+-	cdadb7	
+-	cdadc7	
+-	cdadd7	
+-	cdade7	
+-	cdalb7	Cukan					
+-	cdalc7	Cukan					
+-	cdald7	Cukan					
+-	cdalf7	Cukan					
+-	cdapb7	Cukoo					
+-	cdapc7	Cukoo					
+-	cdape7	Cukoo					
+-	cdapf7	Cukoo					
+-	cdbfb7	Gibbakin					
+-	cdbfc7	Gibbakin					
+-	cdbfd7	Gibbakin					
+-	cdbff7	Gibbakin					
+-	cdbjb7	Gibbakya					
+-	cdbjc7	Gibbakya					
+-	cdbjd7	Gibbakya					
+-	cdbjf7	Gibbakya					
+-	cdcdb7	Fraketh					
+-	cdcdc7	Fraketh					
+-	cdcde7	Fraketh					
+-	cdcdf7	Fraketh					
+-	chadb7	Arketh					
+-	chadc7	Arketh					
+-	chadd7	Arketh					
+-	chade7	Arketh					
+-	chadf7	Arketh					
+-	chafb7	Arkin					
+-	chafc7	Arkin					
+-	chafd7	Arkin					
+-	chafe7	Arkin					
+-	chaff7	Arkin					
+-	chbdb7	Bodoketh					
+-	chbdc7	Bodoketh					
+-	chbdd7	Bodoketh					
+-	chbde7	Bodoketh					
+-	chbdf7	Bodoketh					
+-	chbfc7	Bodokin					
+-	chbfd7	Bodokin					
+-	chbfe7	Bodokin					
+-	chbff7	Bodokin					
+-	chbjb7	Bodokya					
+-	chbjc7	Bodokya					
+-	chbjd7	Bodokya					
+-	chbje7	Bodokya					
+-	chbjf7	Bodokya					
+-	chblb7	Bodokan					
+-	chblc7	Bodokan					
+-	chbld7	Bodokan					
+-	chble7	Bodokan					
+-	chblf7	Bodokan					
+-	chbpb7	Bodokoo					
+-	chbpc7	Bodokoo					
+-	chbpd7	Bodokoo					
+-	chbpe7	Bodokoo					
+-	chbpf7	Bodokoo					
+-	chcdc7	Capryketh					
+-	chcdd7	Capryketh					
+-	chcde7	Capryketh					
+-	chcdf7	Capryketh					
+-	chcfb7	Caprykin					
+-	chcfc7	Caprykin					
+-	chcfd7	Caprykin					
+-	chcfe7	Caprykin					
+-	chcff7	Caprykin					
+-	chcjb7	Caprykya					
+-	chcjc7	Caprykya					
+-	chcjd7	Caprykya					
+-	chcje7	Caprykya					
+-	chcjf7	Caprykya					
+-	chclb7	Caprykan					
+-	chclc7	Caprykan					
+-	chcle7	Caprykan					
+-	chclf7	Caprykan					
+-	chelb7	Craykan					
+-	chelc7	Craykan					
+-	cheld7	Craykan					
+-	chelf7	Craykan					
+-	chfdc7	Messaketh					
+-	chfde7	Messaketh					
+-	chfdd7	Messaketh					
+-	chffb7	Messakin					
+-	chfdf7	Messaketh					
+-	chffc7	Messakin					
+-	chffd7	Messakin					
+-	chffe7	Messakin					
+-	chfff7	Messakin					
+-	chfjb7	Messakya					
+-	chfjc7	Messakya					
+-	chfjd7	Messakya					
+-	chfje7	Messakya					
+-	chfjf7	Messakya					
+-	chflc7	Messakan					
+-	chfld7	Messakan					
+-	chflf7	Messakan					
+-	chfle7	Messakan					
+-	chfdb7	Messaketh					
+-	chgdb7	Lumketh					
+-	chgdc7	Lumketh					
+-	chgdd7	Lumketh					
+-	chgde7	Lumketh					
+-	chgdf7	Lumketh					
+-	chgfb7	
+-	chgpb7	Lumkoo					
+-	chgpc7	Lumkoo					
+-	chgpe7	Lumkoo					
+-	chhdb7	Meketh					
+-	chhdc7	Meketh					
+-	chhdd7	Meketh					
+-	chhde7	Meketh					
+-	chhdf7	Meketh					
+-	chhfb7	Mekin					
+-	chhfc7	Mekin					
+-	chhfd7	Mekin					
+-	chhfe7	Mekin					
+-	chhff7	Mekin					
+-	chhjb7	Mekya					
+-	chhjc7	Mekya					
+-	chhjd7	Mekya					
+-	chhje7	Mekya					
+-	chhjf7	Mekya					
+-	chhlb7	Mekan					
+-	chhlc7	Mekan					
+-	chhld7	Mekan					
+-	chhle7	Mekan					
+-	chhlf7	Mekan					
+-	chhpb7	Mekoo					
+-	chhpc7	Mekoo					
+-	chlfc7	Yelkin					
+-	chlfd7	Yelkin					
+-	chlff7	Yelkin					
+-	chljb7	Yelkya					
+-	chljc7	Yelkya					
+-	chljd7	Yelkya					
+-	chlje7	Yelkya					
+-	chljf7	Yelkya					
+-	chllb7	Yelkan					
+-	chllc7	Yelkan					
+-	chlld7	Yelkan					
+-	chlle7	Yelkan					
+-	chllf7	Yelkan					
+-	chlpb7	Yelkoo					
+-	chlpc7	Yelkoo					
+-	chlpd7	Yelkoo					
+-	chmdb7	Raspaketh					
+-	chmdc7	Raspaketh					
+-	chmde7	Raspaketh					
+-	chmdf7	Raspaketh					
+-	chmfb7	Raspakin					
+-	chmfc7	Raspakin					
+-	chmfd7	Raspakin					
+-	chmfe7	Raspakin					
+-	chmff7	Raspakin					
+-	chhpd7	Mekoo					
+-	chhpe7	Mekoo					
+-	chkdb7	Timketh					
+-	chkdc7	Timketh					
+-	chkdd7	Timketh					
+-	chkde7	Timketh					
+-	chkdf7	Timketh					
+-	chkjb7	Timkya					
+-	chkjc7	Timkya					
+-	chkje7	Timkya					
+-	chkjf7	Timkya					
+-	chkpb7	Timkoo					
+-	chkpc7	Timkoo					
+-	chkpd7	Timkoo					
+-	chkpe7	Timkoo					
+-	chkpf7	Timkoo					
+-	chnjb7	Bawakya					
+-	chnjd7	Bawakya					
+-	chnje7	Bawakya					
+-	chnjf7	Bawakya					
+-	chnlb7	
+-	chnpb7	Bawakoo					
+-	chnpc7	Bawakoo					
+-	chnpd7	Bawakoo					
+-	chnpe7	Bawakoo					
+-	chnpf7	Bawakoo					
+-	chpdb7	Rendoketh					
+-	chpdc7	Rendoketh					
+-	chpdf7	Rendoketh					
+-	chpdd7	Rendoketh					
+-	chpfc7	Rendokin					
+-	chpfb7	Rendokin					
+-	chpfe7	Rendokin					
+-	chpff7	Rendokin					
+-	chqdb7	Gnooketh					
+-	chqdc7	Gnooketh					
+-	chqdd7	Gnooketh					
+-	chqde7	Gnooketh					
+-	chldb7	Yelketh					
+-	chldc7	Yelketh					
+-	chldd7	Yelketh					
+-	chlde7	Yelketh					
+-	chlfb7	Yelkin					
+-	chqdf7	Gnooketh					
+-	chqfb7	Gnookin					
+-	chqfc7	Gnookin					
+-	chqfd7	Gnookin					
+-	chqff7	Gnookin					
+-	chqjb7	Gnookya					
+-	chqjc7	Gnookya					
+-	chqjd7	Gnookya					
+-	chqje7	Gnookya					
+-	chqjf7	Gnookya					
+-	chqlb7	Gnookan					
+-	chqlc7	Gnookan					
+-	chqld7	Gnookan					
+-	chqle7	Gnookan					
+-	chqlf7	Gnookan					
+-	chqpb7	Gnookoo					
+-	chqpc7	
+-	chrfb7	Bolkin					
+-	chrdb7	
+-	chrfc7	Bolkin					
+-	chrfd7	Bolkin					
+-	chrff7	Bolkin					
+-	chrjb7	Bolkya					
+-	chrjc7	Bolkya					
+-	chrjd7	Bolkya					
+-	chrje7	Bolkya					
+-	chrjf7	Bolkya					
+-	chrlb7	Bolkan					
+-	chrlc7	Bolkan					
+-	chrld7	Bolkan					
+-	chrle7	Bolkan					
+-	chrlf7	Bolkan					
+-	chsdb7	Shaketh					
+-	chsdc7	Shaketh					
+-	chsdd7	Shaketh					
+-	chsde7	Shaketh					
+-	chsfb7	
+-	chsld7	Shakan					
+-	chslf7	Shakan					
+-	chtdb7	Plodeketh					
+-	chtdc7	Plodeketh					
+-	chtdd7	Plodeketh					
+-	chtdf7	Plodeketh					
+-	chtjb7	Plodekya					
+-	chtjc7	Plodekya					
+-	chtjd7	Plodekya					
+-	chtje7	Plodekya					
+-	chudb7	
+-	chufb7	Womkin					
+-	chufc7	Womkin					
+-	chufd7	Womkin					
+-	chufe7	Womkin					
+-	chuff7	Womkin					
+-	chujb7	Womkya					
+-	chujc7	Womkya					
+-	chujd7	Womkya					
+-	chujf7	Womkya					
+-	chulb7	Womkan					
+-	chulc7	Womkan					
+-	chuld7	Womkan					
+-	chule7	Womkan					
+-	chslc7	Shakan					
+-	chslb7	Shakan					
+-	chvfb7	Madakin					
+-	chvfc7	Madakin					
+-	chvfd7	Madakin					
+-	chvff7	Madakin					
+-	chvjb7	Madakya					
+-	chvjc7	Madakya					
+-	chvjd7	Madakya					
+-	chvjf7	Madakya					
+-	chwdb7	Aranaketh					
+-	chwdc7	Aranaketh					
+-	chwdd7	Aranaketh					
+-	chwdf7	Aranaketh					
+-	chwfb7	Aranakin					
+-	chwfc7	Aranakin					
+-	chwfd7	Aranakin					
+-	chwfe7	Aranakin					
+-	chxdb7	
+-	chxjb7	Gubakya					
+-	chxjc7	Gubakya					
+-	chxjd7	Gubakya					
+-	chxje7	Gubakya					
+-	chxlb7	
+-	chxpb7	Gubakoo					
+-	chxpc7	Gubakoo					
+-	chxpd7	Gubakoo					
+-	chxpf7	Gubakoo					
+-	ckapf7	Kidikoo					
+-	ckapd7	Kidikoo					
+-	ckapc7	Kidikoo					
+-	ckapb7	Kidikoo					
+-	ckbpe7	Kinkoo					
+-	ckbpd7	Kinkoo					
+-	ckbpc7	Kinkoo					
+-	ckbpb7	Kinkoo					
+-	ckddb7	Kincherketh					
+-	ckddc7	Kincherketh					
+-	ckddd7	Kincherketh					
+-	ckdde7	Kincherketh					
+-	ckdfb7	Kincherkin					
+-	ckdfc7	Kincherkin					
+-	ckdfd7	Kincherkin					
+-	ckdff7	Kincherkin					
+-	ckdjb7	Kincherkya					
+-	ckdjc7	Kincherkya					
+-	ckdjf7	Kincherkya					
+-	ckdlb7	Kincherkan					
+-	ckdlc7	Kincherkan					
+-	ckdle7	Kincherkan					
+-	ckdlf7	Kincherkan					
+-	ckdpb7	Kincherkoo					
+-	ckdpc7	Kincherkoo					
+-	ckdpe7	Kincherkoo					
+-	ckedb7	Kipuketh					
+-	ckedc7	Kipuketh					
+-	ckedd7	Kipuketh					
+-	ckedf7	Kipuketh					
+-	ckefb7	Kipukin					
+-	ckefc7	Kipukin					
+-	ckefd7	Kipukin					
+-	ckefe7	Kipukin					
+-	ckeff7	Kipukin					
+-	ckejb7	Kipukya					
+-	ckejc7	Kipukya					
+-	ckejd7	Kipukya					
+-	ckejf7	Kipukya					
+-	ckelb7	Kipukan					
+-	ckelc7	Kipukan					
+-	ckeld7	Kipukan					
+-	ckelf7	Kipukan					
+-	ckepb7	Kipukoo					
+-	ckepc7	Kipukoo					
+-	ckepd7	Kipukoo					
+-	ckepe7	Kipukoo					
+-	ckfdb7	Kiroketh					
+-	ckfdc7	Kiroketh					
+-	ckfdd7	Kiroketh					
+-	ckfde7	Kiroketh					
+-	ckfdf7	Kiroketh					
+-	ckffb7	Kirokin					
+-	ckffc7	Kirokin					
+-	ckffd7	Kirokin					
+-	ckffe7	Kirokin					
+-	ckfff7	Kirokin					
+-	ckfjb7	Kirokya					
+-	ckfjc7	Kirokya					
+-	ckfjd7	Kirokya					
+-	ckflb7	Kirokan					
+-	ckflc7	Kirokan					
+-	ckfld7	Kirokan					
+-	ckfle7	Kirokan					
+-	ckflf7	Kirokan					
+-	ckfpb7	Kirokoo					
+-	ckfpc7	Kirokoo					
+-	ckfpd7	Kirokoo					
+-	ckgdb7	Kibaketh					
+-	ckgdc7	Kibaketh					
+-	ckgdd7	Kibaketh					
+-	ckgde7	Kibaketh					
+-	ckgdf7	Kibaketh					
+-	ckgfb7	Kibakin					
+-	ckgfc7	Kibakin					
+-	ckgfd7	Kibakin					
+-	ckgfe7	Kibakin					
+-	ckgff7	Kibakin					
+-	ckgjb7	Kibakya					
+-	ckgjc7	Kibakya					
+-	ckgjd7	Kibakya					
+-	ckbfe7	Kinkin					
+-	ckbff7	Kinkin					
+-	ckbjb7	Kinkya					
+-	ckbjc7	Kinkya					
+-	ckbjd7	Kinkya					
+-	ckbje7	Kinkya					
+-	ckbjf7	Kinkya					
+-	ckblb7	Kinkan					
+-	ckblc7	Kinkan					
+-	ckbld7	Kinkan					
+-	ckble7	Kinkan					
+-	ckblf7	Kinkan					
+-	ckgje7	Kibakya					
+-	ckgjf7	Kibakya					
+-	ckglb7	Kibakan					
+-	ckgld7	Kibakan					
+-	ckglc7	Kibakan					
+-	ckgle7	Kibakan					
+-	ckgpb7	Kibakoo					
+-	ckgpc7	Kibakoo					
+-	ckgpd7	Kibakoo					
+-	ckgpe7	Kibakoo					
+-	ckhdb7	Kipeeketh					
+-	ckhdc7	Kipeeketh					
+-	ckhde7	Kipeeketh					
+-	ckhfb7	Kipeekin					
+-	ckhfc7	Kipeekin					
+-	ckhfe7	Kipeekin					
+-	ckhff7	Kipeekin					
+-	ckhjb7	Kipeekya					
+-	ckhjc7	Kipeekya					
+-	ckhjd7	Kipeekya					
+-	ckhje7	Kipeekya					
+-	ckhjf7	Kipeekya					
+-	ckhlb7	Kipeekan					
+-	ckhlc7	Kipeekan					
+-	ckhld7	Kipeekan					
+-	ckhle7	Kipeekan					
+-	ckhlf7	Kipeekan					
+-	ckhpb7	Kipeekoo					
+-	ckhpc7	Kipeekoo					
+-	ckhpd7	Kipeekoo					
+-	ckhpf7	Kipeekoo					
+-	ckidb7	Kizoketh					
+-	ckidc7	Kizoketh					
+-	ckidd7	Kizoketh					
+-	ckide7	Kizoketh					
+-	ckidf7	Kizoketh					
+-	ckifb7	Kizokin					
+-	ckifc7	Kizokin					
+-	ckifd7	Kizokin					
+-	ckife7	Kizokin					
+-	ckijb7	Kizokya					
+-	ckijc7	Kizokya					
+-	ckijd7	Kizokya					
+-	ckije7	Kizokya					
+-	ckijf7	Kizokya					
+-	ckilb7	Kizokan					
+-	ckilc7	Kizokan					
+-	ckild7	Kizokan					
+-	ckile7	Kizokan					
+-	ckilf7	Kizokan					
+-	ckipb7	Kizokoo					
+-	ckipc7	Kizokoo					
+-	ckipd7	Kizokoo					
+-	ckipe7	Kizokoo					
+-	ckjdb7	Kipesketh					
+-	ckjdc7	Kipesketh					
+-	ckjdd7	Kipesketh					
+-	ckjdf7	Kipesketh					
+-	ckjfb7	Kipeskin					
+-	ckjfc7	Kipeskin					
+-	ckjfd7	Kipeskin					
+-	ckjfe7	Kipeskin					
+-	ckjff7	Kipeskin					
+-	ckjjb7	Kipeskya					
+-	ckjjc7	Kipeskya					
+-	ckjjd7	Kipeskya					
+-	ckjje7	Kipeskya					
+-	ckjjf7	Kipeskya					
+-	ckjlb7	Kipeskan					
+-	ckjlc7	Kipeskan					
+-	ckjle7	Kipeskan					
+-	ckjlf7	Kipeskan					
+-	ckjpb7	Kipeskoo					
+-	ckjpc7	Kipeskoo					
+-	ckjpd7	Kipeskoo					
+-	ckjpe7	Kipeskoo					
+-	cpapb7	Jukoo					
+-	cpapc7	Jukoo					
+-	cpape7	Jukoo					
+-	cpblc7	Stinkan					
+-	cpbld7	Stinkan					
+-	cpble7	Stinkan					
+-	cpcff7	Psykokin					
+-	cpcfe7	Psykokin					
+-	cpcfd7	Psykokin					
+-	cpcfb7	Psykokin					
+-	cpcpb7	
+-	cpcpc7	
+-	cpcpd7	
+-	cpcpe7	
+-	cpdfb7	Slavekin					
+-	cpdfc7	Slavekin					
+-	cpdfd7	Slavekin					
+-	cpdfe7	Slavekin					
+-	cpdff7	Slavekin					
+-	cpefb7	Cratchakin					
+-	cpefc7	Cratchakin					
+-	cpefd7	Cratchakin					
+-	cpeff7	Cratchakin					
+-	cpejb7	Cratchakya					
+-	cpejc7	Cratchakya					
+-	cpejd7	Cratchakya					
+-	cpeje7	Cratchakya					
+-	cpejf7	Cratchakya					
+-	cpdjb7	Slavekya					
+-	cpdjd7	Slavekya					
+-	cpdjc7	Slavekya					
+-	cpdjf7	Slavekya					
+-	cpfdb7	Shooketh					
+-	cpfdc7	Shooketh					
+-	cpfdd7	Shooketh					
+-	cpfde7	Shooketh					
+-	ccefb7	Rakin					
+-	ccefc7	Rakin					
+-	ccefd7	Rakin					
+-	ccefe7	Rakin					
+-	ccejc7	Rakya					
+-	ccejd7	Rakya					
+-	cceje7	Rakya					
+-	ccejf7	Rakya					
+-	ccelb7	Rakan					
+-	cceld7	Rakan					
+-	ccele7	Rakan					
+-	ccelf7	Rakan					
+-	ccedf7	Raketh					
+-	ccede7	Raketh					
+-	ccedd7	Raketh					
+-	ccedb7	Raketh					
+-	ccedc7	Raketh					

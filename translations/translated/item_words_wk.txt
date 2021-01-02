@@ -21,7 +21,6 @@
 -	amber_cube_zorai_recent	Cube d'ambre Zoraï récent	un	le	Cubes d'ambre Zoraï récents	des	les	
 -	amber_cube_zorai_very_ancient	Cube d'ambre Zoraï très ancien	un	le	Cubes d'ambre Zoraï très anciens	des	les	
 -	aqua_speed	Aquatic Propulsor	a	the	Aquatic Propulsors		the	
--	bag	
 -	barman_bottle	Barman's Bottle	a	the	Barman's Bottles		the	
 -	big_barrel	Big Barrel	a	the	Big Barrels		the	
 -	big_living_sculpture	Big Living Sculpture	a	the	Big Living Sculptures		the	
@@ -381,6 +380,7 @@
 -	fy_leader_01	Coiffure de Dexton	une	la	Coiffures de Dexton	des	les	
 -	fy_visage	Fyros Mask	a	the	Fyros Masks		the	
 -	fy_weapon_leader_dexton	Épée Longue de Dexton	une	la	Épées Longue de Dexton	des	les	
+-	gnoof_mount_0	a	the	undefined	the	the	
 -	goo_covered_seeds	Graine couverte de Goo	une	la	Graines couvertes de Goo	des	les	
 -	goo_swarmplants_fiber	Goo Shooki Fiber	a	the	Goo Shooki Fibers		the	
 -	goo_swarmplants_fruit	Piece of Goo Shooki Fruit	a	the	Pieces of Goo Shooki Fruit		the	
@@ -7791,4 +7791,3 @@
 -	zo_underwear_pantabottes	Zoraï Pants	a	the	Zoraï Pants		the	Zoraï  Pants
 -	zo_visage	Zoraï Mask	a	the	Zoraï Masks		the	Zoraï Mask
 -	zo_weapon_leader_mabreka	Massue de Mabreka	une	la	Massues de Mabreka	des	les	
--	mochilla	

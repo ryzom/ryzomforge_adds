@@ -289,9 +289,9 @@ Expert_Shield_Smith	[Expert Shield Smith]
 
 ExtremelyDifficult	[Extremely difficult]
 
-Faber	[Faber]
-
 faber	[faber]
+
+Faber	[Faber]
 
 FaberCompetences	[FABER SKILLS]
 
@@ -4485,6 +4485,8 @@ uiBotChatOffer	[MAKE YOUR OFFER]
 
 uiBotChatPact	[Pact: ]
 
+uibotchatphrase	[ ]
+
 uiBotChatPrice	[Price: ]
 
 uiBotChatRefresh	[Refresh]
@@ -7088,9 +7090,9 @@ uiGloves	[GLOVES]
 
 uiGroupColor	[Team members]
 
-uiGuild	[Guild]
-
 uiGUILD	[GUILD]
+
+uiGuild	[Guild]
 
 uiGuildBearer	[Bearer]
 
@@ -10132,9 +10134,9 @@ uiNoVersionFound	[No Version Found]
 
 uiNowDate	[Now the date is :]
 
-uiNpcColor	[NPC]
-
 uiNPCColor	[NPC]
+
+uiNpcColor	[NPC]
 
 uiNPCGiver	[GIVER: ]
 
@@ -11969,9 +11971,9 @@ uiShortcutNumber	[Shortcut Number]
 
 uiShortCutTT	[Drag here a combat or magic spell]
 
-uiSHOUT	[SHOUT]
-
 uiShout	[SHOUT]
+
+uiSHOUT	[SHOUT]
 
 uiShoutColor	[Shout]
 
