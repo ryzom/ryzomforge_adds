@@ -12195,7 +12195,7 @@ EGS_ACTOR_VAMPIRISE_EI (entity target, int vampirise)
 // HASH_VALUE 7B2438D04B0B3990
 EGS_ALREADY_HAVE_MOUNT ()
 {
-			[&CHK&You can only have one mektoub mount.]
+			[&CHK&You can only have one mount.]
 
 }
 

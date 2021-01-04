@@ -3787,7 +3787,7 @@
 -	cclde7	Ocyketh	un	l'	Ocykeths	des	les	de l'	à l'
 -	cclde8	Ocyx égorgeur	un	l'	Ocyx égorgeurs	des	les	de l'	à l'
 -	cclfe8	Ocyx ravageur	un	l'	Ocyx ravageurs	des	les	de l'	à l'
--	ccmff7	Jukin	un	le	Jukins	des	les	du	au
+-	ccmff7	Jugukin	un	le	Jugukins	des	les	du	au
 -	ccmff8	Jugula ravageur	un	le	Jugulas ravageurs	des	les	du	au
 -	ccmpf8	Jugula exterminateur	un	le	Jugulas exterminateurs	des	les	du	au
 -	ccnfe8	Horncher ravageur	un	le	Hornchers ravageurs	des	les	du	au
@@ -3906,13 +3906,13 @@
 -	ckdld8	Kincher destructeur	un	le	Kinchers destructeurs	des	les	du	au
 -	ckdpf8	Kincher exterminateur	un	le	Kinchers exterminateurs	des	les	du	au
 -	ckede5	Punka	un	le	Punkas	des	les	du	au
--	ckede7	Kipucketh	un	le	Kipuckeths	des	les	du	au
+-	ckede7	Kipuketh	un	le	Kipukeths	des	les	du	au
 -	ckedf5	Pakuh	un	le	Pakuhs	des	les	du	au
 -	ckedf8	Kipucka égorgeur	un	le	Kipuckas égorgeurs	des	les	du	au
 -	ckefe8	Kipucka ravageur	un	le	Kipuckas ravageurs	des	les	du	au
 -	ckeff4	Grand Kipucka	un	le	Grands Kipuckas	des	les	du	au
 -	ckeje5	Pankom	un	le	Pankoms	des	les	du	au
--	ckeje7	Kipuckya	un	le	Kipuckyas	des	les	du	au
+-	ckeje7	Kipukya	un	le	Kipukyas	des	les	du	au
 -	ckeje8	Kipucka démolisseur	un	le	Kipuckas démolisseurs	des	les	du	au
 -	ckepf8	Kipucka exterminateur	un	le	Kipuckas exterminateurs	des	les	du	au
 -	ckfdf4	Grand Kirosta	un	le	Grands Kirostas	des	les	du	au
@@ -3975,13 +3975,13 @@
 -	chidf2	Monture Mektoub	une	la	Montures Mektoubs	des	les	de la	à la
 -	chpde4	Rendor violent	un	le	Rendors violents	des	les	du	au
 -	chpde7	Rendoketh	un	le	Rendokeths	des	les	du	au
--	chsdf7	Shalaketh	un	le	Shalakeths	des	les	du	au
+-	chsdf7	Shaketh	un	le	Shakeths	des	les	du	au
 -	ckhdf7	Kipeeketh	un	le	Kipeekeths	des	les	du	au
 -	cpfdf4	Shooki dévastateur	un	le	Shookis dévastateurs	des	les	du	au
 -	cpfdf7	Shooketh	un	le	Shookeths	des	les	du	au
 -	ccafe7	Ginkin	un	le	Ginkins	des	les	du	au
 -	cceff4	Grand Ragus	un	le	Grands Ragus	des	les	du	au
--	cceff7	Ragukin	un	le	Ragukins	des	les	du	au
+-	cceff7	Rakin	un	le	Rakins	des	les	du	au
 -	chifc2	Monture Mektoub	une	la	Montures Mektoubs	des	les	de la	à la
 -	chifd2	Monture Mektoub	une	la	Montures Mektoubs	des	les	de la	à la
 -	chife2	Monture Mektoub	une	la	Montures Mektoubs	des	les	de la	à la
@@ -4001,7 +4001,7 @@
 -	chije2	Monture Mektoub	une	la	Montures Mektoubs	des	les	de la	à la
 -	chijf2	Monture Mektoub	une	la	Montures Mektoubs	des	les	de la	à la
 -	chtjf7	Plodekya	un	le	Plodekyas	des	les	du	au
--	chuje7	Wombakya	un	le	Wombakyas	des	les	du	au
+-	chuje7	Womkya	un	le	Womkyas	des	les	du	au
 -	ckdje5	Kincher nommé	un	le	Kinchers Nommés	des	les	du	au
 -	ckfjf7	Kirokya	un	le	Kirokyas	des	les	du	au
 -	cpdje7	Slavekya	un	le	Slavekyas	des	les	du	au
@@ -4025,8 +4025,8 @@
 -	ccfpe7	Najakoo	un	le	Najakoos	des	les	du	au
 -	cchpe7	Varykoo	un	le	Varykoos	des	les	du	au
 -	ccipd7	Zerkoo	un	le	Zerkoos	des	les	du	au
--	chape7	Armkoo	un	l'	Armkoos	des	les	de l'	à l'
--	chgpd7	Lumpkoo	un	le	Lumpkoos	des	les	du	au
+-	chape7	Arkoo	un	le	Arkoos	des	les	du	au
+-	chgpd7	Lumkoo	un	le	Lumkoos	des	les	du	au
 -	chipd2	Monture Mektoub	une	la	Montures Mektoubs	des	les	de la 	à la
 -	chipe2	Monture Mektoub	une	la	Montures Mektoubs	des	les	de la	à la
 -	chipf2	Monture Mektoub	une	la	Montures Mektoubs	des	les	de la	à la
@@ -4034,7 +4034,7 @@
 -	chvpf7	Madakoo	un	le	Madakoos	des	les	du	au
 -	ckape7	Kidikoo	un	le	Kidikoos	des	les	du	au
 -	ckbpf7	Kinkoo	un	le	Kinkoos	des	les	du	au
--	ckjpf7	Kipekoo	un	le	Kipekoos	des	les	du	au
+-	ckjpf7	Kipeskoo	un	le	Kipeskoos	des	les	du	au
 -	cpcpf4	Psykopla énervé	un	le	Psykoplas énervés	des	les	du	au
 -	cpcpf7	Psykokoo	un	le	Psykokoos	des	les	du	au
 -	mektoub_packer_test	Mektoub de bât	un	le	Mektoubs de bât	des	les	du	au
@@ -4056,10 +4056,10 @@
 -	ckdad4	Kincher vorace	un	le	Kinchers voraces	des	les	du	au
 -	ckjad4	Kipesta vorace	un	le	Kipestas voraces	des	les	du	au
 -	ckjbd4	Kipesta vorace	un	le	Kipestas voraces	des	les	du	au
--	cphfa4	Énorme Cadeau de Noël	un	le	Énormes Cadeaux de Noël	des	les		
--	cphfa3	Gros Cadeau de Noël	un	le	Gros Cadeaux de Noël	des	les		
--	cphfa2	Cadeau de Noël	un	le	Cadeaux de Noël	des	les		
--	cphfa1	Petit Cadeau de Noël	un	le	Petits Cadeaux de Noël	des	les		
+-	cphfa4	Énorme cadeau d'Atysoël	un	l'	Énormes cadeaux d'Atysoël	des	les	
+-	cphfa3	Gros cadeau d'Atysoël	un	le	Gros cadeaux d'Atysoël	des	les	
+-	cphfa2	Cadeau d'Atysoël	un	le	Cadeaux d'Atysoël	des	les	
+-	cphfa1	Petit cadeau d'Atysoël	un	le	Petits cadeaux d'Atysoël	des	les	
 -	chjlb9	Tenwo	un	le	Tenwo	des	les	du	au
 -	chdfx1	Yubo inexpérimenté	un	le	Yubos inexpérimentés	des	les	du	au
 -	chpfx1	Rendor docile	un	le	Rendors dociles	des	les	du	au
@@ -4212,7 +4212,6 @@
 -	ccbde7	Clopperketh	un	le	Clopperkeths	des	les	du	au
 -	ccbdf7	Clopperketh	un	le	Clopperkeths	des	les	du	au
 -	cccdc7	Goaketh	un	le	Goakeths	des	les	du	au
--	cccdd7	Goaketh	un	le	Goakeths	des	les	du	au
 -	cccde7	Goaketh	un	le	Goakeths	des	les	du	au
 -	cccdf7	Goaketh	un	le	Goakeths	des	les	du	au
 -	ccddb7	Torketh	un	le	Torkeths	des	les	du	au
@@ -4333,7 +4332,6 @@
 -	chldc7	Yelketh	un	le	Yelkeths	des	les	du	au
 -	chldd7	Yelketh	un	le	Yelkeths	des	les	du	au
 -	chlde7	Yelketh	un	le	Yelkeths	des	les	du	au
--	chldf7	Yelketh	un	le	Yelkeths	des	les	du	au
 -	chmdb7	Raspaketh	un	le	Raspakeths	des	les	du	au
 -	chmdc7	Raspaketh	un	le	Raspakeths	des	les	du	au
 -	chmde7	Raspaketh	un	le	Raspakeths	des	les	du	au
@@ -4361,7 +4359,6 @@
 -	chsdc7	Shaketh	un	le	Shakeths	des	les	du	au
 -	chsdd7	Shaketh	un	le	Shakeths	des	les	du	au
 -	chsde7	Shaketh	un	le	Shakeths	des	les	du	au
--	chsdf7	Shaketh	un	le	Shakeths	des	les	du	au
 -	chtdb7	Plodeketh	un	le	Plodekeths	des	les	du	au
 -	chtdc7	Plodeketh	un	le	Plodekeths	des	les	du	au
 -	chtdd7	Plodeketh	un	le	Plodekeths	des	les	du	au
@@ -4399,11 +4396,9 @@
 -	ckddc7	Kincherketh	un	le	Kincherkeths	des	les	du	au
 -	ckddd7	Kincherketh	un	le	Kincherkeths	des	les	du	au
 -	ckdde7	Kincherketh	un	le	Kincherkeths	des	les	du	au
--	ckddf7	Kincherketh	un	le	Kincherkeths	des	les	du	au
 -	ckedb7	Kipuketh	un	le	Kipukeths	des	les	du	au
 -	ckedc7	Kipuketh	un	le	Kipukeths	des	les	du	au
 -	ckedd7	Kipuketh	un	le	Kipukeths	des	les	du	au
--	ckede7	Kipuketh	un	le	Kipukeths	des	les	du	au
 -	ckedf7	Kipuketh	un	le	Kipukeths	des	les	du	au
 -	ckfdb7	Kiroketh	un	le	Kirokeths	des	les	du	au
 -	ckfdc7	Kiroketh	un	le	Kirokeths	des	les	du	au
@@ -4417,9 +4412,7 @@
 -	ckgdf7	Kibaketh	un	le	Kibakeths	des	les	du	au
 -	ckhdb7	Kipeeketh	un	le	Kipeekeths	des	les	du	au
 -	ckhdc7	Kipeeketh	un	le	Kipeekeths	des	les	du	au
--	ckhdd7	Kipeeketh	un	le	Kipeekeths	des	les	du	au
 -	ckhde7	Kipeeketh	un	le	Kipeekeths	des	les	du	au
--	ckhdf7	Kipeeketh	un	le	Kipeekeths	des	les	du	au
 -	ckidb7	Kizoketh	un	le	Kizokeths	des	les	du	au
 -	ckidc7	Kizoketh	un	le	Kizokeths	des	les	du	au
 -	ckidd7	Kizoketh	un	le	Kizokeths	des	les	du	au
@@ -4490,13 +4483,11 @@
 -	ccdfb7	Torkin	un	le	Torkins	des	les	du	au
 -	ccdfc7	Torkin	un	le	Torkins	des	les	du	au
 -	ccdfd7	Torkin	un	le	Torkins	des	les	du	au
--	ccdfe7	Torkin	un	le	Torkins	des	les	du	au
 -	ccdff7	Torkin	un	le	Torkins	des	les	du	au
 -	ccefb7	Rakin	un	le	Rakins	des	les	du	au
 -	ccefc7	Rakin	un	le	Rakins	des	les	du	au
 -	ccefd7	Rakin	un	le	Rakins	des	les	du	au
 -	ccefe7	Rakin	un	le	Rakins	des	les	du	au
--	cceff7	Rakin	un	le	Rakins	des	les	du	au
 -	ccffb7	Najakin	un	le	Najakins	des	les	du	au
 -	ccffc7	Najakin	un	le	Najakins	des	les	du	au
 -	ccffd7	Najakin	un	le	Najakins	des	les	du	au
@@ -4524,7 +4515,6 @@
 -	cckfb7	Cuttlekin	un	le	Cuttlekins	des	les	du	au
 -	cckfc7	Cuttlekin	un	le	Cuttlekins	des	les	du	au
 -	cckfd7	Cuttlekin	un	le	Cuttlekins	des	les	du	au
--	cckfe7	Cuttlekin	un	le	Cuttlekins	des	les	du	au
 -	cckff7	Cuttlekin	un	le	Cuttlekins	des	les	du	au
 -	cclfb7	Ocykin	un	l'	Ocykins	des	les	de l'	à l'
 -	cclfc7	Ocykin	un	l'	Ocykins	des	les	de l'	à l'
@@ -4535,7 +4525,6 @@
 -	ccmfc7	Jugukin	un	le	Jugukins	des	les	du	au
 -	ccmfd7	Jugukin	un	le	Jugukins	des	les	du	au
 -	ccmfe7	Jugukin	un	le	Jugukins	des	les	du	au
--	ccmff7	Jugukin	un	le	Jugukins	des	les	du	au
 -	ccnfb7	Hornkin	un	le	Hornkins	des	les	du	au
 -	ccnfc7	Hornkin	un	le	Hornkins	des	les	du	au
 -	ccnfd7	Hornkin	un	le	Hornkins	des	les	du	au
@@ -4607,7 +4596,6 @@
 -	chlfb7	Yelkin	un	le	Yelkins	des	les	du	au
 -	chlfc7	Yelkin	un	le	Yelkins	des	les	du	au
 -	chlfd7	Yelkin	un	le	Yelkins	des	les	du	au
--	chlfe7	Yelkin	un	le	Yelkins	des	les	du	au
 -	chlff7	Yelkin	un	le	Yelkins	des	les	du	au
 -	chmfb7	Raspakin	un	le	Raspakins	des	les	du	au
 -	chmfc7	Raspakin	un	le	Raspakins	des	les	du	au
@@ -4621,7 +4609,6 @@
 -	chnff7	Bawakin	un	le	Bawakins	des	les	du	au
 -	chpfb7	Rendokin	un	le	Rendokins	des	les	du	au
 -	chpfc7	Rendokin	un	le	Rendokins	des	les	du	au
--	chpfd7	Rendokin	un	le	Rendokins	des	les	du	au
 -	chpfe7	Rendokin	un	le	Rendokins	des	les	du	au
 -	chpff7	Rendokin	un	le	Rendokins	des	les	du	au
 -	chqfb7	Gnookin	un	le	Gnookins	des	les	du	au
@@ -4650,13 +4637,11 @@
 -	chvfb7	Madakin	un	le	Madakins	des	les	du	au
 -	chvfc7	Madakin	un	le	Madakins	des	les	du	au
 -	chvfd7	Madakin	un	le	Madakins	des	les	du	au
--	chvfe7	Madakin	un	le	Madakins	des	les	du	au
 -	chvff7	Madakin	un	le	Madakins	des	les	du	au
 -	chwfb7	Aranakin	un	l'	Aranakins	des	les	de l'	à l'
 -	chwfc7	Aranakin	un	l'	Aranakins	des	les	de l'	à l'
 -	chwfd7	Aranakin	un	l'	Aranakins	des	les	de l'	à l'
 -	chwfe7	Aranakin	un	l'	Aranakins	des	les	de l'	à l'
--	chwff7	Aranakin	un	l'	Aranakins	des	les	de l'	à l'
 -	chxfb7	Gubakin	un	le	Gubakins	des	les	du	au
 -	chxfc7	Gubakin	un	le	Gubakins	des	les	du	au
 -	chxfd7	Gubakin	un	le	Gubakins	des	les	du	au
@@ -4675,7 +4660,6 @@
 -	ckdfb7	Kincherkin	un	le	Kincherkins	des	les	du	au
 -	ckdfc7	Kincherkin	un	le	Kincherkins	des	les	du	au
 -	ckdfd7	Kincherkin	un	le	Kincherkins	des	les	du	au
--	ckdfe7	Kincherkin	un	le	Kincherkins	des	les	du	au
 -	ckdff7	Kincherkin	un	le	Kincherkins	des	les	du	au
 -	ckefb7	Kipukin	un	le	Kipukins	des	les	du	au
 -	ckefc7	Kipukin	un	le	Kipukins	des	les	du	au
@@ -4694,14 +4678,12 @@
 -	ckgff7	Kibakin	un	le	Kibakins	des	les	du	au
 -	ckhfb7	Kipeekin	un	le	Kipeekins	des	les	du	au
 -	ckhfc7	Kipeekin	un	le	Kipeekins	des	les	du	au
--	ckhfd7	Kipeekin	un	le	Kipeekins	des	les	du	au
 -	ckhfe7	Kipeekin	un	le	Kipeekins	des	les	du	au
 -	ckhff7	Kipeekin	un	le	Kipeekins	des	les	du	au
 -	ckifb7	Kizokin	un	le	Kizokins	des	les	du	au
 -	ckifc7	Kizokin	un	le	Kizokins	des	les	du	au
 -	ckifd7	Kizokin	un	le	Kizokins	des	les	du	au
 -	ckife7	Kizokin	un	le	Kizokins	des	les	du	au
--	ckiff7	Kizokin	un	le	Kizokins	des	les	du	au
 -	ckjfb7	Kipeskin	un	le	Kipeskins	des	les	du	au
 -	ckjfc7	Kipeskin	un	le	Kipeskins	des	les	du	au
 -	ckjfd7	Kipeskin	un	le	Kipeskins	des	les	du	au
@@ -4791,7 +4773,6 @@
 -	ccijc7	Zerkya	un	le	Zerkyas	des	les	du	au
 -	ccijd7	Zerkya	un	le	Zerkyas	des	les	du	au
 -	ccije7	Zerkya	un	le	Zerkyas	des	les	du	au
--	ccijf7	Zerkya	un	le	Zerkyas	des	les	du	au
 -	ccjjb7	Javkya	un	le	Javkyas	des	les	du	au
 -	ccjjc7	Javkya	un	le	Javkyas	des	les	du	au
 -	ccjjd7	Javkya	un	le	Javkyas	des	les	du	au
@@ -4834,7 +4815,6 @@
 -	cdbjb7	Gibbakya	un	le	Gibbakyas	des	les	du	au
 -	cdbjc7	Gibbakya	un	le	Gibbakyas	des	les	du	au
 -	cdbjd7	Gibbakya	un	le	Gibbakyas	des	les	du	au
--	cdbje7	Gibbakya	un	le	Gibbakyas	des	les	du	au
 -	cdbjf7	Gibbakya	un	le	Gibbakyas	des	les	du	au
 -	cdcjb7	Frakya	un	le	Frakyas	des	les	du	au
 -	cdcjc7	Frakya	un	le	Frakyas	des	les	du	au
@@ -4918,11 +4898,9 @@
 -	chtjc7	Plodekya	un	le	Plodekyas	des	les	du	au
 -	chtjd7	Plodekya	un	le	Plodekyas	des	les	du	au
 -	chtje7	Plodekya	un	le	Plodekyas	des	les	du	au
--	chtjf7	Plodekya	un	le	Plodekyas	des	les	du	au
 -	chujb7	Womkya	un	le	Womkyas	des	les	du	au
 -	chujc7	Womkya	un	le	Womkyas	des	les	du	au
 -	chujd7	Womkya	un	le	Womkyas	des	les	du	au
--	chuje7	Womkya	un	le	Womkyas	des	les	du	au
 -	chujf7	Womkya	un	le	Womkyas	des	les	du	au
 -	chvjb7	Madakya	un	le	Madakyas	des	les	du	au
 -	chvjc7	Madakya	un	le	Madakyas	des	les	du	au
@@ -4937,7 +4915,6 @@
 -	chxjc7	Gubakya	un	le	Gubakyas	des	les	du	au
 -	chxjd7	Gubakya	un	le	Gubakyas	des	les	du	au
 -	chxje7	Gubakya	un	le	Gubakyas	des	les	du	au
--	chxjf7	Gubakya	un	le	Gubakyas	des	les	du	au
 -	ckajb7	Kidikya	un	le	Kidikyas	des	les	du	au
 -	ckajc7	Kidikya	un	le	Kidikyas	des	les	du	au
 -	ckajd7	Kidikya	un	le	Kidikyas	des	les	du	au
@@ -4950,19 +4927,14 @@
 -	ckbjf7	Kinkya	un	le	Kinkyas	des	les	du	au
 -	ckdjb7	Kincherkya	un	le	Kincherkyas	des	les	du	au
 -	ckdjc7	Kincherkya	un	le	Kincherkyas	des	les	du	au
--	ckdjd7	Kincherkya	un	le	Kincherkyas	des	les	du	au
--	ckdje7	Kincherkya	un	le	Kincherkyas	des	les	du	au
 -	ckdjf7	Kincherkya	un	le	Kincherkyas	des	les	du	au
 -	ckejb7	Kipukya	un	le	Kipukyas	des	les	du	au
 -	ckejc7	Kipukya	un	le	Kipukyas	des	les	du	au
 -	ckejd7	Kipukya	un	le	Kipukyas	des	les	du	au
--	ckeje7	Kipukya	un	le	Kipukyas	des	les	du	au
 -	ckejf7	Kipukya	un	le	Kipukyas	des	les	du	au
 -	ckfjb7	Kirokya	un	le	Kirokyas	des	les	du	au
 -	ckfjc7	Kirokya	un	le	Kirokyas	des	les	du	au
 -	ckfjd7	Kirokya	un	le	Kirokyas	des	les	du	au
--	ckfje7	Kirokya	un	le	Kirokyas	des	les	du	au
--	ckfjf7	Kirokya	un	le	Kirokyas	des	les	du	au
 -	ckgjb7	Kibakya	un	le	Kibakyas	des	les	du	au
 -	ckgjc7	Kibakya	un	le	Kibakyas	des	les	du	au
 -	ckgjd7	Kibakya	un	le	Kibakyas	des	les	du	au
@@ -5040,13 +5012,11 @@
 -	ccclc7	Goakan	un	le	Goakans	des	les	du	au
 -	cccld7	Goakan	un	le	Goakans	des	les	du	au
 -	cccle7	Goakan	un	le	Goakans	des	les	du	au
--	ccclf7	Goakan	un	le	Goakans	des	les	du	au
 -	ccdlb7	Torkan	un	le	Torkans	des	les	du	au
 -	ccdlc7	Torkan	un	le	Torkans	des	les	du	au
 -	ccdld7	Torkan	un	le	Torkans	des	les	du	au
 -	ccdlf7	Torkan	un	le	Torkans	des	les	du	au
 -	ccelb7	Rakan	un	le	Rakans	des	les	du	au
--	ccelc7	Rakan	un	le	Rakans	des	les	du	au
 -	cceld7	Rakan	un	le	Rakans	des	les	du	au
 -	ccele7	Rakan	un	le	Rakans	des	les	du	au
 -	ccelf7	Rakan	un	le	Rakans	des	les	du	au
@@ -5129,7 +5099,6 @@
 -	chblf7	Bodokan	un	le	Bodokans	des	les	du	au
 -	chclb7	Caprykan	un	le	Caprykans	des	les	du	au
 -	chclc7	Caprykan	un	le	Caprykans	des	les	du	au
--	chcld7	Caprykan	un	le	Caprykans	des	les	du	au
 -	chcle7	Caprykan	un	le	Caprykans	des	les	du	au
 -	chclf7	Caprykan	un	le	Caprykans	des	les	du	au
 -	chelb7	Craykan	un	le	Craykans	des	les	du	au
@@ -5225,7 +5194,6 @@
 -	ckblf7	Kinkan	un	le	Kinkans	des	les	du	au
 -	ckdlb7	Kincherkan	un	le	Kincherkans	des	les	du	au
 -	ckdlc7	Kincherkan	un	le	Kincherkans	des	les	du	au
--	ckdld7	Kincherkan	un	le	Kincherkans	des	les	du	au
 -	ckdle7	Kincherkan	un	le	Kincherkans	des	les	du	au
 -	ckdlf7	Kincherkan	un	le	Kincherkans	des	les	du	au
 -	ckelb7	Kipukan	un	le	Kipukans	des	les	du	au
@@ -5241,7 +5209,6 @@
 -	ckglc7	Kibakan	un	le	Kibakans	des	les	du	au
 -	ckgld7	Kibakan	un	le	Kibakans	des	les	du	au
 -	ckgle7	Kibakan	un	le	Kibakans	des	les	du	au
--	ckglf7	Kibakan	un	le	Kibakans	des	les	du	au
 -	ckhlb7	Kipeekan	un	le	Kipeekans	des	les	du	au
 -	ckhlc7	Kipeekan	un	le	Kipeekans	des	les	du	au
 -	ckhld7	Kipeekan	un	le	Kipeekans	des	les	du	au
@@ -5254,7 +5221,6 @@
 -	ckilf7	Kizokan	un	le	Kizokans	des	les	du	au
 -	ckjlb7	Kipeskan	un	le	Kipeskans	des	les	du	au
 -	ckjlc7	Kipeskan	un	le	Kipeskans	des	les	du	au
--	ckjld7	Kipeskan	un	le	Kipeskans	des	les	du	au
 -	ckjle7	Kipeskan	un	le	Kipeskans	des	les	du	au
 -	ckjlf7	Kipeskan	un	le	Kipeskans	des	les	du	au
 -	cpalb7	Jukan	un	le	Jukans	des	les	du	au
@@ -5294,7 +5260,6 @@
 -	cbbpb7	Izakoo	un	l'	Izakoos	des	les	de l'	à l'
 -	cbbpc7	Izakoo	un	l'	Izakoos	des	les	de l'	à l'
 -	cbbpd7	Izakoo	un	l'	Izakoos	des	les	de l'	à l'
--	cbbpe7	Izakoo	un	l'	Izakoos	des	les	de l'	à l'
 -	cbbpf7	Izakoo	un	l'	Izakoos	des	les	de l'	à l'
 -	cbcpb7	Yberkoo	un	l'	Yberkoos	des	les	de l'	au
 -	cbcpc7	Yberkoo	un	l'	Yberkoos	des	les	de l'	au
@@ -5325,11 +5290,9 @@
 -	ccepc7	Rakoo	un	le	Rakoos	des	les	du	au
 -	ccepd7	Rakoo	un	le	Rakoos	des	les	du	au
 -	ccepe7	Rakoo	un	le	Rakoos	des	les	du	au
--	ccepf7	Rakoo	un	le	Rakoos	des	les	du	au
 -	ccfpb7	Najakoo	un	le	Najakoos	des	les	du	au
 -	ccfpc7	Najakoo	un	le	Najakoos	des	les	du	au
 -	ccfpd7	Najakoo	un	le	Najakoos	des	les	du	au
--	ccfpe7	Najakoo	un	le	Najakoos	des	les	du	au
 -	ccfpf7	Najakoo	un	le	Najakoos	des	les	du	au
 -	ccgpb7	Vorkoo	un	le	Vorkoos	des	les	du	au
 -	ccgpc7	Vorkoo	un	le	Vorkoos	des	les	du	au
@@ -5338,11 +5301,9 @@
 -	cchpb7	Varykoo	un	le	Varykoos	des	les	du	au
 -	cchpc7	Varykoo	un	le	Varykoos	des	les	du	au
 -	cchpd7	Varykoo	un	le	Varykoos	des	les	du	au
--	cchpe7	Varykoo	un	le	Varykoos	des	les	du	au
 -	cchpf7	Varykoo	un	le	Varykoos	des	les	du	au
 -	ccipb7	Zerkoo	un	le	Zerkoos	des	les	du	au
 -	ccipc7	Zerkoo	un	le	Zerkoos	des	les	du	au
--	ccipd7	Zerkoo	un	le	Zerkoos	des	les	du	au
 -	ccipe7	Zerkoo	un	le	Zerkoos	des	les	du	au
 -	ccipf7	Zerkoo	un	le	Zerkoos	des	les	du	au
 -	ccjpb7	Javkoo	un	le	Javkoos	des	les	du	au
@@ -5366,13 +5327,11 @@
 -	ccmpe7	Jugukoo	un	le	Jugukoos	des	les	du	au
 -	ccnpb7	Hornkoo	un	le	Hornkoos	des	les	du	au
 -	ccnpc7	Hornkoo	un	le	Hornkoos	des	les	du	au
--	ccnpd7	Hornkoo	un	le	Hornkoos	des	les	du	au
 -	ccnpe7	Hornkoo	un	le	Hornkoos	des	les	du	au
 -	ccnpf7	Hornkoo	un	le	Hornkoos	des	les	du	au
 -	ccopb7	Tyrakoo	un	le	Tyrakoos	des	les	du	au
 -	ccopc7	Tyrakoo	un	le	Tyrakoos	des	les	du	au
 -	ccopd7	Tyrakoo	un	le	Tyrakoos	des	les	du	au
--	ccopf7	Tyrakoo	un	le	Tyrakoos	des	les	du	au
 -	ccppb7	Yetikoo	un	le	Yetikoos	des	les	du	au
 -	ccppc7	Yetikoo	un	le	Yetikoos	des	les	du	au
 -	ccppd7	Yetikoo	un	le	Yetikoos	des	les	du	au
@@ -5380,7 +5339,6 @@
 -	ccppf7	Yetikoo	un	le	Yetikoos	des	les	du	au
 -	cdapb7	Cukoo	un	le	Cukoos	des	les	du	au
 -	cdapc7	Cukoo	un	le	Cukoos	des	les	du	au
--	cdapd7	Cukoo	un	le	Cukoos	des	les	du	au
 -	cdape7	Cukoo	un	le	Cukoos	des	les	du	au
 -	cdapf7	Cukoo	un	le	Cukoos	des	les	du	au
 -	cdbpb7	Gibbakoo	un	le	Gibbakoos	des	les	du	au
@@ -5396,7 +5354,6 @@
 -	chapb7	Arkoo	un	le	Arkoos	des	les	du	au
 -	chapc7	Arkoo	un	le	Arkoos	des	les	du	au
 -	chapd7	Arkoo	un	le	Arkoos	des	les	du	au
--	chape7	Arkoo	un	le	Arkoos	des	les	du	au
 -	chapf7	Arkoo	un	le	Arkoos	des	les	du	au
 -	chbpb7	Bodokoo	un	le	Bodokoos	des	les	du	au
 -	chbpc7	Bodokoo	un	le	Bodokoos	des	les	du	au
@@ -5420,7 +5377,6 @@
 -	chfpf7	Messakoo	un	le	Messakoos	des	les	du	au
 -	chgpb7	Lumkoo	un	le	Lumkoos	des	les	du	au
 -	chgpc7	Lumkoo	un	le	Lumkoos	des	les	du	au
--	chgpd7	Lumkoo	un	le	Lumkoos	des	les	du	au
 -	chgpe7	Lumkoo	un	le	Lumkoos	des	les	du	au
 -	chhpb7	Mekoo	un	le	Mekoos	des	les	du	au
 -	chhpc7	Mekoo	un	le	Mekoos	des	les	du	au
@@ -5434,7 +5390,6 @@
 -	chlpb7	Yelkoo	un	le	Yelkoos	des	les	du	au
 -	chlpc7	Yelkoo	un	le	Yelkoos	des	les	du	au
 -	chlpd7	Yelkoo	un	le	Yelkoos	des	les	du	au
--	chlpf7	Yelkoo	un	le	Yelkoos	des	les	du	au
 -	chmpb7	Raspakoo	un	le	Raspakoos	des	les	du	au
 -	chmpc7	Raspakoo	un	le	Raspakoos	des	les	du	au
 -	chmpd7	Raspakoo	un	le	Raspakoos	des	les	du	au
@@ -5479,7 +5434,6 @@
 -	chvpc7	Madakoo	un	le	Madakoos	des	les	du	au
 -	chvpd7	Madakoo	un	le	Madakoos	des	les	du	au
 -	chvpe7	Madakoo	un	le	Madakoos	des	les	du	au
--	chvpf7	Madakoo	un	le	Madakoos	des	les	du	au
 -	chwpb7	Aranakoo	un	l'	Aranakoos	des	les	de l'	à l'
 -	chwpc7	Aranakoo	un	l'	Aranakoos	des	les	de l'	à l'
 -	chwpd7	Aranakoo	un	l'	Aranakoos	des	les	de l'	à l'
@@ -5500,16 +5454,13 @@
 -	ckdpb7	Kincherkoo	un	le	Kincherkoos	des	les	du	au
 -	ckdpc7	Kincherkoo	un	le	Kincherkoos	des	les	du	au
 -	ckdpe7	Kincherkoo	un	le	Kincherkoos	des	les	du	au
--	ckdpf7	Kincherkoo	un	le	Kincherkoos	des	les	du	au
 -	ckepb7	Kipukoo	un	le	Kipukoos	des	les	du	au
 -	ckepc7	Kipukoo	un	le	Kipukoos	des	les	du	au
 -	ckepd7	Kipukoo	un	le	Kipukoos	des	les	du	au
 -	ckepe7	Kipukoo	un	le	Kipukoos	des	les	du	au
--	ckepf7	Kipukoo	un	le	Kipukoos	des	les	du	au
 -	ckfpb7	Kirokoo	un	le	Kirokoos	des	les	du	au
 -	ckfpc7	Kirokoo	un	le	Kirokoos	des	les	du	au
 -	ckfpd7	Kirokoo	un	le	Kirokoos	des	les	du	au
--	ckfpf7	Kirokoo	un	le	Kirokoos	des	les	du	au
 -	ckgpb7	Kibakoo	un	le	Kibakoos	des	les	du	au
 -	ckgpc7	Kibakoo	un	le	Kibakoos	des	les	du	au
 -	ckgpd7	Kibakoo	un	le	Kibakoos	des	les	du	au
@@ -5526,11 +5477,9 @@
 -	ckjpc7	Kipeskoo	un	le	Kipeskoos	des	les	du	au
 -	ckjpd7	Kipeskoo	un	le	Kipeskoos	des	les	du	au
 -	ckjpe7	Kipeskoo	un	le	Kipeskoos	des	les	du	au
--	ckjpf7	Kipeskoo	un	le	Kipeskoos	des	les	du	au
 -	cpapb7	Jukoo	un	le	Jukoos	des	les	du	au
 -	cpapc7	Jukoo	un	le	Jukoos	des	les	du	au
 -	cpape7	Jukoo	un	le	Jukoos	des	les	du	au
--	cpapf7	Jukoo	un	le	Jukoos	des	les	du	au
 -	cpbpb7	Stinkoo	un	le	Stinkoos	des	les	du	au
 -	cpbpc7	Stinkoo	un	le	Stinkoos	des	les	du	au
 -	cpbpd7	Stinkoo	un	le	Stinkoos	des	les	du	au
@@ -5540,7 +5489,6 @@
 -	cpcpc7	Psykokoo	un	le	Psykokoos	des	les	du	au
 -	cpcpd7	Psykokoo	un	le	Psykokoos	des	les	du	au
 -	cpcpe7	Psykokoo	un	le	Psykokoos	des	les	du	au
--	cpcpf7	Psykokoo	un	le	Psykokoos	des	les	du	au
 -	cpdpb7	Slavekoo	un	le	Slavekoos	des	les	du	au
 -	cpdpc7	Slavekoo	un	le	Slavekoos	des	les	du	au
 -	cpdpd7	Slavekoo	un	le	Slavekoos	des	les	du	au
@@ -5556,3 +5504,4 @@
 -	cpfpd7	Shookoo	un	le	Shookoos	des	les	du	au
 -	cpfpe7	Shookoo	un	le	Shookoos	des	les	du	au
 -	cpfpf7	Shookoo	un	le	Shookoos	des	les	du	au
+-	gnoof_mount_00	Monture Gnoof	une	la	Montures Gnoof	des	les	
