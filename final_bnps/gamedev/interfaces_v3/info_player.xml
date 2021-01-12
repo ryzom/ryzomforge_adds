@@ -651,7 +651,7 @@
 
              <group id="cap_group" x="0" y="0" sizeref="w" w="0" h="48" posref="TL TL" active="true">
                 <view type="bitmap" id="cap_icon" w="40" h="40" y="0" scale="true" global_color="false" color="255 255 255 255" texture="ico_task_generic.tga" />
-                <view type="bitmap" id="cap_mini_icon" w="15" h="15" scale="true" posref="TR TL" posparent="cap_icon" x="2" y="0" texture="ico_cap.tga" global_color="false" inherit_gc_alpha="false" />
+                <view type="bitmap" id="cap_mini_icon" w="15" h="15" scale="true" posref="TR TL" posparent="cap_icon" x="2" y="0" texture="ico_cap_mini.tga" global_color="false" inherit_gc_alpha="false" />
                 <view type="text" id="cap_title" x="2" y="0" shadow="true" global_color="false" posref="TR TL" posparent="cap_mini_icon" color="255 189 0 255" fontsize="12" hardtext="uiWelcomeWhatTitle" />
                 <view type="text" id="cap_desc" x="4" y="-15" global_color="false" posref="TR TL" posparent="cap_icon" fontsize="10" hardtext="uittMissionJournal" />
                 <view type="bar" id="cap_progress" active="false" posparent="cap_icon" posref="TR TL" x="4" y="-32" mini="true" value="UI:TEMP:CAP_PROGRESS" range="100" />
