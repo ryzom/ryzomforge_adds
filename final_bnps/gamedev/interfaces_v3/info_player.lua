@@ -1373,6 +1373,11 @@ function game:setNextUrl(url)
 	game.CapNextUrl = url
 end
 
+function game:setRpMessage(message)
+	-- TODO
+end
+
+
 function setCap(channel, element, a, b)
 	if element == nil then
 		game.CapChannel = channel
@@ -1393,6 +1398,17 @@ function setCap(channel, element, a, b)
 		game:setCapIcon(a)
 	elseif element == "p" then
 		game:setCapProgress(a, b)
+	elseif element == "u" then
+		game:setInfosUrl(a)
+		game:setNextUrl(b)
+	elseif element == "n" then
+		game:setNextUrl(a)
+	elseif element == "o" then
+		game:setInfosUrl(a)
+	elseif element == "r" then
+		game:setRpMessage(a)
+	elseif element == "b" then
+		broadcast(a, b)
 	end
 end
 
