@@ -290,9 +290,9 @@ Expert_Shield_Smith	[Artesano de Escudos Experto]
 
 ExtremelyDifficult	[Extremadamente difícil]
 
-Faber	[Artesano]
-
 faber	[Artesano]
+
+Faber	[Artesano]
 
 FaberCompetences	[HABILIDADES DE ARTESANÍA]
 
@@ -4700,6 +4700,8 @@ uiBotChatOffer	[HAZ TU OFERTA]
 
 uiBotChatPact	[Pacto: ]
 
+uibotchatphrase	[ ]
+
 uiBotChatPrice	[Precio: ]
 
 uiBotChatRefresh	[Actualizar]
@@ -7307,9 +7309,9 @@ uiGloves	[GUANTES]
 
 uiGroupColor	[Miembros del Grupo]
 
-uiGuild	[Gremio]
-
 uiGUILD	[GREMIO]
+
+uiGuild	[Gremio]
 
 uiGuildBearer	[Mensajero]
 
@@ -10349,9 +10351,9 @@ uiNoVersionFound	[Ninguna Versión Encontrada]
 
 uiNowDate	[Ahora la fecha es:]
 
-uiNpcColor	[PNJ]
-
 uiNPCColor	[PNJ]
+
+uiNpcColor	[PNJ]
 
 uiNPCGiver	[DADOR: ]
 
@@ -12185,9 +12187,9 @@ uiShortcutNumber	[Número de Acceso Directo]
 
 uiShortCutTT	[Arrastrar hechizo de combate o de magia aquí]
 
-uiShout	[GRITAR]
-
 uiSHOUT	[GRITAR]
+
+uiShout	[GRITAR]
 
 uiShoutColor	[Gritar]
 
