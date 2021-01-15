@@ -1659,11 +1659,11 @@ _817F1832A9EF2088	ABHFPMH07	Prospecting with Extraction Time Bonus of 30 s		a	th
 _19BD145ECBA67B7F	ABHFPMK01	Prospection For Fine Materials And Lower		a	the				Allows to find up to fine & prime raw materials
 _98BB58925DFDFAD4	ABHFPMK02	Prospection For Choice Materials And Lower		a	the				Allows to find up to choice & select raw materials
 _BF9D00150AC0052D	ABHFPMK03	Prospection For Excellent Materials And Lower		a	the				Allows to find up to excellent & superb raw materials
-_50233C3C0B1461F8	ABHFPMK04	Prospection For Supreme Materials And Lower		a	the				Allows to find up to supreme & magnificient raw materials
+_50233C3C0B1461F8	ABHFPMK04	Prospection For Supreme Materials And Lower		a	the				Allows to find up to supreme & magnificent raw materials
 _E7C052A496165B67	ABHFPMK05	Prospection For Only Fine materials		a	the				Allows to find only fine & prime raw materials
 _9ADC44337143A03B	ABHFPMK06	Prospection For Only Choice materials		a	the				Allows to find only choice & select raw materials
 _824E15FA6BE910E4	ABHFPMK07	Prospection For Only Excellent materials		a	the				Allows to find only excellent & superb raw materials
-_C237770C76863EDD	ABHFPMK08	Prospection For Only Supreme materials		a	the				Allows to find only supreme & magnificient raw materials
+_C237770C76863EDD	ABHFPMK08	Prospection For Only Supreme materials		a	the				Allows to find only supreme & magnificent raw materials
 _D8E36F0CFD8D302B	ABHFPPMM01	Prospection For Private Source		a	the				 
 _398D771A7D8AC8F3	ABHFPPMM02	Prospection For Team Source		a	the				 
 _01EE7821AC9DD4F9	ABHFPPMM03	Prospection For Guild Source		a	the				 
