@@ -168,6 +168,7 @@ function WebBrowser:saveWindowPop(app)
 		app.winh = app.uiWindow.h
 		app.pop_min_h = app.uiWindow.pop_min_h
 		app.pop_max_h = app.uiWindow.pop_max_h
+		app.pop_min_w = app.uiWindow.pop_min_w
 		-- minimize
 		app.uiWindow.w = app.closedw
 		app.uiWindow.h =  app.closedh
@@ -186,8 +187,17 @@ function WebBrowser:restoreWindowPop(app)
 	if app and app.minimized then
 		app.uiWindow.w = app.winw
 		app.uiWindow.h = app.winh
-		app.uiWindow.pop_min_h = app.pop_min_h
-		app.uiWindow.pop_max_h = app.pop_max_h
+		if app.pop_min_h ~= nil  then
+			app.uiWindow.pop_min_h = app.pop_min_h
+		end
+
+		if app.pop_max_h ~= nil  then
+			app.uiWindow.pop_max_h = app.pop_max_h
+		end
+
+		if app.pop_min_w ~= nil  then
+			app.uiWindow.pop_min_w = app.pop_min_w
+		end
 		app.minimized = false
 	end
 end

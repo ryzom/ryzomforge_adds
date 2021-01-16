@@ -104,7 +104,7 @@ boss_mainland_craftpart1a_diag1	[Wenn du mich bezahlst und mir alle Teile überg
 
 // HASH_VALUE BC50B90E685601B7
 // INDEX 26
-boss_mainland_craftpart1a_diag2	[Lass mich das anschauen... Ich habe so etwas schon einmal zuvor gesehen...\n
+boss_mainland_craftpart1a_diag2	[Lass mal sehen... Ich habe so etwas schon einmal gesehen...\n
 	Hmmja... Es ist ein Handwerksplan der Marodeure... selten... und sehr wertvoll!\n
 	Ich kann ihn soweit zusammenfügen, dass er zu entziffern ist! Soll ich dir seine Geheimnisse lehren?]
 
@@ -4194,7 +4194,7 @@ cwintrozorai_outofroom_phrase	[Ich habe nicht genug Platz, um diesen Gegenstand 
 
 // HASH_VALUE 6FFF7E76745D3448
 // INDEX 1033
-cwintrozorai_shops_low_sysmes	[&AMB&Dieses Viertel heißt $shops_low$. Hier findest Du die Händler, wenn Du etwas benötigst.]
+cwintrozorai_shops_low_sysmes	[&AMB&Dieser Distrikt heißt $shops_low$. Hier findest Du die Händler, wenn Du etwas benötigst.]
 
 // HASH_VALUE ABB2B73D47936FAC
 // INDEX 1034
@@ -13991,7 +13991,7 @@ item_is_now_enchanted	[&SPLM&Du hast den Gegenstand $i$ verzaubert.]
 
 // HASH_VALUE 19F7F9BFE975348F
 // INDEX 3449
-item_is_recharged	[&ITM&Gegenstand $it$ ist nun aufgeladen. Sapladung ist $current$ von $max$.]
+item_is_recharged	[&ITM& Dein/e $it$ ist nun mit $current$ von möglichen $max$ aufgeladen.]
 
 // HASH_VALUE 5CA371121B20307C
 // INDEX 3450
@@ -14007,11 +14007,11 @@ item_sold_2	[&ITM&Du verkaufst $qty$ $item.p$ für $moneyNow$ Dapper.]
 
 // HASH_VALUE 0EF55C02449AABA9
 // INDEX 3453
-item_sold_market_1	[&ITM&Dein $item$ wurde verkauft und der Händler hat Dir schon die entsprechenden Dapper gegeben.]
+item_sold_market_1	[&ITM&Dein $item$ wurde nicht verkauft, aber Dir wurden bereits Dapper dafür gegeben.]
 
 // HASH_VALUE C06602DB6E0C9F1C
 // INDEX 3454
-item_sold_market_2	[&ITM&Deine $qty$ $item.p$ wurden verkauft und der Händler hat Dir schon die entsprechenden Dapper gegeben.]
+item_sold_market_2	[&ITM&Deine $qty$ $item.p$ wurden nicht verkauft, aber Dir wurden bereits Dapper dafür gegeben.]
 
 // HASH_VALUE 0C7FE46272EFB1A9
 // INDEX 3455
@@ -16505,7 +16505,7 @@ mission_fyros_01_gf_new_npe_gf_p_ldc_intro_m	[Willkommen, Homin. Ich bin $giverv
 	Er erlaubt, den Gegner nahezu bei jedem Schlag zu treffen. Je stärker dein Gegner ist, desto präziser muss dein Angriff sein. Ansonsten wird dein Gegner deinen Schlägen ausweichen. {break}Erhöhter Schaden:\n
 	\n
 	Er erlaubt dir, kräftiger zuzuschlagen. Der Schaden, den du anrichtest, ist sehr wichtig. Wie auch für den Präzisionsangriff gilt, dass je stärker dein Gegner ist, desto kräftiger muss dein Schlag sein. {break}Du wirst sehen, dass es möglich ist, den Präzisionsschlag und den Erhöhten Schaden miteinander zu kombinieren, sowie noch andere Optionen in deinen Angriff einzubauen - auf Kosten eines höheren Ausdauerverbrauchs. {break}Du kannst deine Erfahrungspunkte im Kampf (drücke 'P' um deine Charakterübersicht anzuzeigen) gegen neue Kampftechniken eintauschen.\n
-	Du kannst beispielsweise den Erhöhten Schaden kaufen, solltest du ihn noch nicht haben. {break}Ich habe dich mit meinen Erläuterungen nicht zu sehr gelangweilt? Nun, dann beweise mir, dass du alles verstanden hast! Erkunde die Umgebung des Lagers und zeige uns, dass du für Deine Gegner eine größere Gefahr darstellst als für Dich selbst.\n
+	Du kannst beispielsweise den erhöhten Schaden einlösen, solltest du ihn noch nicht haben. {break}Ich habe dich mit meinen Erläuterungen nicht zu sehr gelangweilt? Nun, dann beweise mir, dass du alles verstanden hast! Erkunde die Umgebung des Lagers und zeige uns, dass du für Deine Gegner eine größere Gefahr darstellst als für Dich selbst.\n
 	\n
 	Töte 3 $yubo.p$, und vergiss nicht, sie auszunehmen und zu mir zurückzukehren, wenn Du fertig bist.]
 
@@ -16520,47 +16520,47 @@ mission_fyros_01_gf_new_npe_gf_p_ldc_intro_f	[Willkommen, Homina. Ich bin $giver
 	\n
 	Er erlaubt, den Gegner nahezu bei jedem Schlag zu treffen. Je stärker dein Gegner ist, desto präziser muss dein Angriff sein. Ansonsten wird dein Gegner deinen Schlägen ausweichen. {break}Erhöhter Schaden:\n
 	\n
-	Er erlaubt dir, kräftiger zuzuschlagen. Der Schaden, den du anrichtest, ist sehr wichtig. Wie auch für den Präzisionsangriff gilt, dass je stärker dein Gegner ist, desto kräftiger muss dein Schlag sein. {break}Du wirst sehen, dass es möglich ist, den Präzisionsschlag und den Erhöhten Schaden miteinander zu kombinieren, sowie noch andere Optionen in deinen Angriff einzubauen - auf Kosten eines höheren Ausdauerverbrauchs. {break}Du kannst deine Erfahrungspunkte im Kampf (drücke 'P' um deine Charakterübersicht anzuzeigen) gegen neue Kampftechniken eintauschen.\n
-	Du kannst beispielsweise den Erhöhten Schaden kaufen, solltest du ihn noch nicht haben. {break}Ich habe dich mit meinen Erläuterungen nicht zu sehr gelangweilt? Nun, dann beweise mir, dass du alles verstanden hast! Erkunde die Umgebung des Lagers und zeige uns, dass du für Deine Gegner eine größere Gefahr darstellst als für Dich selbst.\n
+	Dieser erlaubt dir, kräftiger zuzuschlagen. Der Schaden, den du anrichtest, ist sehr wichtig. Wie auch für den Präzisionsangriff gilt, dass je stärker dein Gegner ist, desto kräftiger muss dein Schlag sein. {break}Du wirst sehen, dass es möglich ist, den Präzisionsschlag und den Erhöhten Schaden miteinander zu kombinieren, sowie noch andere Optionen in deinen Angriff einzubauen - auf Kosten eines höheren Ausdauerverbrauchs. {break}Du kannst deine Erfahrungspunkte im Kampf (drücke 'P' um deine Charakterübersicht anzuzeigen) gegen neue Kampftechniken eintauschen.\n
+	Du kannst beispielsweise den erhöhten Schaden gegen Fertigkeitspunkte einlösen, solltest du diesen noch nicht haben. {break}Ich habe dich mit meinen Erläuterungen nicht zu sehr gelangweilt? Nun, dann beweise mir, dass du alles verstanden hast! Erkunde die Umgebung des Lagers und zeige uns, dass du für deine Gegner eine größere Gefahr darstellst als für dich selbst.\n
 	\n
-	Töte 3 $yubo.p$, und vergiss nicht, sie auszunehmen und zu mir zurückzukehren, wenn Du fertig bist.]
+	Töte 3 $yubo.p$, und vergiss nicht, sie auszunehmen und zu mir zurückzukehren, wenn du fertig bist.]
 
 // HASH_VALUE 44EAE77FF8F82F2B
 // INDEX 4068
 mission_fyros_01_gf_new_npe_p_dc_giver	[Gut! Aber die Aufgabe, die du soeben erfüllt hast, war auch nicht gerade kompliziert.\n
-	Im Übrigen ist das Fleisch der Yubos sehr schmackhaft, und die Handwerker finden immer irgendetwas, das sie aus den erbeuteten Rohstoffen fertigen können, aber das ist keine wahre Herausforderung für einen Krieger. Dennoch muss jeder auf die eine oder andere Art etwas lernen, nicht wahr? {break}Bevor wir zur nächsten Lektion übergehen, empfehle ich dir dringend, den Kampflehrer aufzusuchen, er kann Dir neue Kampftechniken zeigen oder dir helfen, deine Werte zu steigern.]
+	Im Übrigen ist das Fleisch der Yubos sehr schmackhaft, und die Handwerker finden immer irgendetwas, dass sie aus den erbeuteten Rohstoffen fertigen können. Das ist jedoch keine wahre Herausforderung für einen Krieger. Dennoch muss jeder auf die eine oder andere Art etwas lernen, nicht wahr? {break}Bevor wir zur nächsten Lektion übergehen, empfehle ich dir dringend, den Kampflehrer aufzusuchen, er kann dir neue Kampftechniken zeigen oder dir helfen, deine Werte zu steigern.]
 
 // HASH_VALUE FC7F7394E2326CAF
 // INDEX 4069
-mission_fyros_01_gf_new_npe_p_t2_trainer_talk_m	[Sei gegrüßt, junger Krieger! Ich bin hier, um Dir beim Training zu helfen. Ich werde Dich lehren, Deine Kampffähigkeiten zu entwickeln, aber auch Deine körperliche Leistungsfähigkeit zu verbessern. {break}Je härter Du trainierst, desto mehr Erfahrungspunkte sammelst Du an. Du kannst sie dazu verwenden, neue Techniken bei allen Lehrern zu erlernen. {break}Ich werde Dir einige Ratschläge geben, die Dich interessieren dürften. Höre gut zu. {break}Konstitution:\n
+mission_fyros_01_gf_new_npe_p_t2_trainer_talk_m	[Sei gegrüßt, junger Krieger! Ich bin hier, um dir beim Training zu helfen. Ich werde dich lehren, deine Kampffähigkeiten zu entwickeln, aber auch deine körperliche Leistungsfähigkeit zu verbessern. {break}Je härter Du trainierst, desto mehr Erfahrungspunkte sammelst du an. Du kannst sie dazu verwenden, neue Techniken bei allen Lehrern zu erlernen. {break}Ich werde Dir einige Ratschläge geben, die dich interessieren dürften. Höre gut zu. {break}Konstitution:\n
 	\n
 	Eine Erhöhung der Konstitution bewirkt eine Erhöhung Deiner Lebenspunkte (HP). Du wirst also als Krieger schwieriger zu töten sein. {break}Metabolismus:\n
 	\n
-	Dabei hanelt es sich um Deine Fähigkeit, Deine Lebenspunkte zu regenerieren. Du kannst eine größere Anzahl von Gegnern gleichzeitig bekämpfen und die Kämpfe länger durchhalten. {break}Stärke:\n
+	Dabei handelt es sich um eine Fähigkeit, die deine Lebenspunkte regeneriert. Du kannst eine größere Anzahl von Gegnern gleichzeitig bekämpfen und Kämpfe länger durchhalten. {break}Stärke:\n
 	\n
-	Bestimmt die Höhe Deiner Ausdauer. Viele Ausdauerpunkte geben Dir die Möglichkeit, eine ganze Reihe von Spezialschlägen auszuführen. Gute Ausdauer ist für jeden Krieger unverzichtbar. Der einzige Angriff, der keine Ausdauer verwendet, ist der Standardangriff. Er ist aber auch der schwächste. {break}Gleichgewicht:\n
+	Bestimmt die Höhe deiner Ausdauer. Viele Ausdauerpunkte geben dir die Möglichkeit, eine ganze Reihe von Spezialschlägen auszuführen. Gute Ausdauer ist für jeden Krieger unverzichtbar. Der einzige Angriff, der keine Ausdauer verwendet, ist der Standardangriff. Dieser ist aber auch der Schwächste. {break}Gleichgewicht:\n
 	\n
-	Dabei handelt sich um Deine Fähigkeit, Deine Ausdauerpunkte zu regenerieren. Das ist genauso wichtig wie Dein Metabolismuswert. {break}Ich rate Dir, so bald wie möglich diese vier Verbesserungen zu erlernen. Wenn Du Deine Kraft steigerst, kannst Du auch Waffen höherer Qualität tragen, die mehr Schaden anrichten.\n
+	Dabei handelt sich um eine Fähigkeit, deine Ausdauerpunkte zu regenerieren. Das ist genauso wichtig wie dein Metabolismus-Wert. {break}Ich rate dir, so bald wie möglich diese vier Verbesserungen zu erlernen. Wenn du deine Kraft steigerst, kannst du auch Waffen höherer Qualität tragen, die mehr Schaden anrichten.\n
 	\n
-	Lies außerdem genau die Informationen, die ich Dir zur Verfügung stelle (indem Du rechts auf die jeweilige Aktion klickst), sie werden Dir sehr nützlich sein.]
+	Lies außerdem genau die Informationen, die ich dir zur Verfügung stelle (indem du mit Rechts auf die jeweilige Aktion klickst), diese werden dir sehr nützlich sein.]
 
 // HASH_VALUE B673F6C15BA8A74C
 // INDEX 4070
-mission_fyros_01_gf_new_npe_p_t2_trainer_talk_f	[Sei gegrüßt, junge Kriegerin! Ich bin hier, um Dir beim Training zu helfen. Ich werde Dich lehren, Deine Kampffähigkeiten zu entwickeln, aber auch Deine körperliche Leistungsfähigkeit zu verbessern. {break}Je härter Du trainierst, desto mehr Erfahrungspunkte sammelst Du an. Du kannst sie dazu verwenden, neue Techniken bei allen Lehrern zu erlernen. {break}Ich werde Dir einige Ratschläge geben, die Dich interessieren dürften. Höre gut zu. {break}Konstitution:\n
+mission_fyros_01_gf_new_npe_p_t2_trainer_talk_f	[Sei gegrüßt, junge Kriegerin! Ich bin hier, um dir beim Training zu helfen. Ich werde dich lehren, deine Kampffähigkeiten zu entwickeln, aber auch deine körperliche Leistungsfähigkeit zu verbessern. {break}Je härter du trainierst, desto mehr Erfahrungspunkte sammelst du an. Du kannst diese dazu verwenden, neue Techniken bei allen Lehrern zu erlernen. {break}Ich werde dir einige Ratschläge geben, die dich interessieren dürften. Höre gut zu. {break}Konstitution:\n
 	\n
-	Eine Erhöhung der Konstitution bewirkt eine Erhöhung Deiner Lebenspunkte (HP). Du wirst also als Kriegerin schwieriger zu töten sein. {break}Metabolismus:\n
+	Eine Erhöhung der Konstitution bewirkt eine Erhöhung deiner Lebenspunkte (HP). Du wirst also als Kriegerin schwieriger zu töten sein. {break}Metabolismus:\n
 	\n
-	Dabei hanelt es sich um Deine Fähigkeit, Deine Lebenspunkte zu regenerieren. Du kannst eine größere Anzahl von Gegnern gleichzeitig bekämpfen und die Kämpfe länger durchhalten. {break}Stärke:\n
+	Dabei handelt es sich um eine Fähigkeit, deine Lebenspunkte zu regenerieren. Du kannst eine größere Anzahl von Gegnern gleichzeitig bekämpfen und Kämpfe länger durchhalten. {break}Stärke:\n
 	\n
-	Bestimmt die Höhe Deiner Ausdauer. Viele Ausdauerpunkte geben Dir die Möglichkeit, eine ganze Reihe von Spezialschlägen auszuführen. Gute Ausdauer ist für jeden Krieger unverzichtbar. Der einzige Angriff, der keine Ausdauer verwendet, ist der Standardangriff. Er ist aber auch der schwächste. {break}Gleichgewicht:\n
+	Bestimmt die Höhe deiner Ausdauer. Viele Ausdauerpunkte geben dir die Möglichkeit, eine ganze Reihe von Spezialschlägen auszuführen. Gute Ausdauer ist für jeden Krieger unverzichtbar. Der einzige Angriff, der keine Ausdauer verwendet, ist der Standardangriff. Er ist aber auch der Schwächste. {break}Gleichgewicht:\n
 	\n
-	Dabei handelt sich um Deine Fähigkeit, Deine Ausdauerpunkte zu regenerieren. Das ist genauso wichtig wie Dein Metabolismuswert. {break}Ich rate Dir, so bald wie möglich diese vier Verbesserungen zu erlernen. Wenn Du Deine Kraft steigerst, kannst Du auch Waffen höherer Qualität tragen, die mehr Schaden anrichten.\n
+	Dabei handelt sich um eine Fähigkeit, deine Ausdauerpunkte zu regenerieren. Das ist genauso wichtig wie dein Metabolismuswert. {break}Ich rate dir, so bald wie möglich diese vier Verbesserungen zu erlernen. Wenn du deine Kraft steigerst, kannst du auch Waffen höherer Qualität tragen, die mehr Schaden anrichten.\n
 	\n
-	Lies außerdem genau die Informationen, die ich Dir zur Verfügung stelle (indem Du rechts auf die jeweilige Aktion klickst), sie werden Dir sehr nützlich sein.]
+	Lies außerdem genau die Informationen, die ich dir zur Verfügung stelle (indem du mit Rechts auf die jeweilige Aktion klickst), diese werden dir sehr nützlich sein.]
 
 // HASH_VALUE 2D07DF602D38636A
 // INDEX 4071
-mission_fyros_01_mis_desc	[Lerne die Grundlagen des Kampfes.]
+mission_fyros_01_mis_desc	[Lerne die Grundlagen des Kampfes]
 
 // HASH_VALUE F3849046C82B7B90
 // INDEX 4072
@@ -16576,8 +16576,8 @@ mission_fyros_01_p_da_trainer	[Ich mache diesen Schritt, gehe erst zum Trainer u
 
 // HASH_VALUE B03A370DF61DF107
 // INDEX 4075
-mission_fyros_01_p_dc_giver	[Gut! Aber die Aufgabe, die Du so eben erfüllt hast, war auch nicht gerade kompliziert.\n
-	Im Übrigen ist das Fleisch der Yubos sehr schmackhaft, und die Handwerker finden immer irgendetwas, das sie aus den erbeuteten Rohtsoffen fertigen können, aber das ist keine wahre Herausforderung für einen Krieger. Dennoch muss jeder auf die eine oder andere Art etwas lernen, nicht wahr?{break}Bevor wir zur nächsten Lektion übergehen, empfehle ich Dir dringend, den Kampflehrer aufzusuchen, er kann Dir neue Kampftechniken zeigen oder Dir helfen, Deine Werte zu steigern.]
+mission_fyros_01_p_dc_giver	[Gut! Aber die Aufgabe, die du so eben erfüllt hast, war auch nicht gerade kompliziert.\n
+	Im Übrigen ist das Fleisch der Yubos sehr schmackhaft, und die Handwerker finden immer irgendetwas, das sie aus den erbeuteten Rohstoffen fertigen können, aber das ist keine wahre Herausforderung für einen Krieger. Dennoch muss jeder auf die eine oder andere Art etwas lernen, nicht wahr?{break}Bevor wir zur nächsten Lektion übergehen, empfehle ich Dir dringend, den Kampflehrer aufzusuchen, er kann dir neue Kampftechniken zeigen oder dir helfen, deine Werte zu steigern.]
 
 // HASH_VALUE 1F1F8B93E56E9FE9
 // INDEX 4076
@@ -16593,7 +16593,7 @@ mission_fyros_01_p_ldc_intro_f	[Willkommen, Homin. Ich bin $givervar$, Kommandan
 // INDEX 4078
 mission_fyros_01_p_msgbox_fight	[@{W300}Um einen Feind mit einer Waffe zu bekämpfen, musst du die Waffe zuerst anlegen. Klicke auf deine rechte Hand in der Aktionsleiste am oberen Bildschirmrand und wähle eine Waffe.\n
 	\n
-	Danach musst du ein Ziel auswählen und das Symbol der jeweiligen Kampftechnik in der Aktionsleiste anklicken, die du benutzen willst (Leiste oben auf dem Bildschirm). Du können zum Beispiel den Basisangriff namens @{F90F}Standardangriff@{FFFF} wählen. \n
+	Danach musst du ein Ziel auswählen und das Symbol der jeweiligen Kampftechnik in der Aktionsleiste anklicken, die du benutzen willst (Leiste oben auf dem Bildschirm). Du kannst zum Beispiel den Basisangriff namens @{F90F}Standardangriff@{FFFF} wählen. \n
 	\n
 	Doppelklicke noch einmal auf dasselbe Symbol (oder auf ein anderes Symbol), um deinen Gegner automatisch anzugreifen.]
 
@@ -17017,7 +17017,7 @@ mission_karavan_01_p_ovl_give_1	[Bringen Sie $givervar$ das Goo, das Sie gesamme
 
 // HASH_VALUE 2AC004497F6BFD88
 // INDEX 4176
-mission_karavan_01_p_popup_fame	[@{W400}Sie haben etwas @{F90F}Ruhm@{FFFF} bei einer Faktion des Spiels gewonnen. Wenn dieser Ruhm noch zunimmt, kommen Sie an einen Punkt, an dem Sie sich für ein Lager (Kami, Karavan, Neutral) entscheiden müssen. Die Aktionen der NPCs Ihnen gegenüber hängen davon ab. Das übt einen Einfluss auf verschiedene Dinge aus: die Orte, die Sie besuchen können; die Preise bei manchen Händlern und den PvP (Player versus Player). Wenn Sie hier bleiben, können Sie diese Wahl nicht treffen.]
+mission_karavan_01_p_popup_fame	[@{W400}Du hast etwas @{F90F}Ruhm@{FFFF} bei einer Faktion des Spiels gewonnen. Wenn dieser Ruhm noch zunimmt, kommst du an einen Punkt, an dem du dich für ein Lager (Kami, Karavan, Neutral) entscheiden musst. Die Aktionen der NPCs dir gegenüber hängen davon ab. Das übt einen Einfluss auf verschiedene Dinge aus: die Orte, die du besuchen kannst; die Preise bei manchen Händlern und dem PvP (Player versus Player). Wenn du hier bleibst, kannst du diese Wahl nicht treffen.]
 
 // HASH_VALUE 209C54106C185448
 // INDEX 4177
@@ -17025,7 +17025,7 @@ mission_karavan_01_p_title_popup_fame	[Der Ruhm]
 
 // HASH_VALUE 1294B8898EE56899
 // INDEX 4178
-mission_karavan_02_mis_desc	[Suchen Sie Trockengoo]
+mission_karavan_02_mis_desc	[Suche nach normalem frischen Goo]
 
 // HASH_VALUE 46A1443C4B45544E
 // INDEX 4179
@@ -17664,7 +17664,7 @@ mission_matis_08_mis_desc	[Helfen, die Natur des Feindes verstehen zu lernen.]
 
 // HASH_VALUE 77549791C1F8AC91
 // INDEX 4319
-mission_matis_08_mis_title	[Die geheimnisse von silan #4]
+mission_matis_08_mis_title	[Die geheimnisse von Silan #4]
 
 // HASH_VALUE 72A6EF28F450F680
 // INDEX 4320
@@ -17746,20 +17746,20 @@ mission_tryker_01_mis_title	[Die Kunst des Erntens #1]
 
 // HASH_VALUE 32876ABA0844C30B
 // INDEX 4339
-mission_tryker_01_popup_desc_extract_mp	[@{W500}Um Rohmaterial abzubauen, musst du das Abbauwerkzeug zunächst anlegen. Dazu klickst du in der @{F90F}Aktionsleiste auf das rechte Handfeld@{FFFF} und wählst das @{F90F}Abbauwerkzeug@{FFFF} aus.\n
+mission_tryker_01_popup_desc_extract_mp	[@{W500}Um Rohmaterial abzubauen, musst du das Abbauwerkzeug zunächst anlegen. Dazu klickst du in der @{F90F}Aktionsleiste auf das rechte Hand auf der Aktionsleiste @{FFFF} und wählst das @{F90F}Abbauwerkzeug@{FFFF} aus.\n
 	\n
 	Jetzt musst du eine Rohstoffquelle finden. Eine Quelle ähnelt einem Häufchen auf dem Boden, das aus leuchtenden grünen Blasen besteht.\n
 	\n
-	Um eine Quelle abzubauen, wählst du sie mit einem Klick darauf aus und klickst dann auf das Symbol @{F90F}Standardrohstoffabbau@{FFFF} in der @{F90F}Aktionsleiste@{FFFF}. Dein Charakter beginnt dann mit der Arbeit.\n
+	Um eine Quelle abzubauen, wählst du sie mit einem Klick darauf aus und klickst dann auf das Symbol @{F90F}Standardrohstoffabbau@{FFFF} auf der @{F90F}Aktionsleiste@{FFFF}. Dein Charakter beginnt dann mit der Arbeit.\n
 	\n
 	Wenn du eine Quelle auswählst, erscheint ein Kasten mit 5 Leisten. Das sind die Eigenschaften der Quelle, die du beim Abbau beeinflusst. Gehen wir sie durch:\n
-	@{T5}- @{F90F}Verbleibende Abbauzeit@{FFFF}: Restzeit, ehe die Quelle versiegt.\n
+	@{T5}- @{F90F}Verbleibende Abbauzeit@{FFFF}: Restzeit bis die Quelle versiegt.\n
 	@{T5}- @{F90F}Quelleninhalt@{FFFF}: Gesamtmenge an Rohmaterial in dieser einen Quelle.\n
 	@{T5}- @{F90F}Quellenleben@{FFFF}: Wenn du abbaust, beschädigst du die Quelle, an der du arbeitest. Wenn das Quellenleben auf 0 sinkt, kann die Quelle nicht mehr abgebaut werden und sie verschwindet.\n
-	@{T5}- @{F90F}Abbaurisiko@{FFFF}: Wenn du eine Quelle abbaust, wird sie instabiler, und wenn die Leiste bei 0 ankommt, entsteht entweder eine giftige Wolke oder eine Explosion. Der Abbau kann jedoch fortgesetzt werden.\n
-	@{T5}- @{F90F}Kamitoleranz@{FFFF}: Passe beim Abbau auf. Je mehr ein Gebiet beansprucht wird, desto böser werden die Kami und wenn die Leiste auf 0 fällt, werden die Kami sie töten.@{T0}\n
+	@{T5}- @{F90F}Abbaurisiko@{FFFF}: Wenn du eine Quelle abbaust, wird sie instabiler, und wenn die Balken bei 0 ankommt, entsteht entweder eine giftige Wolke oder eine Explosion. Der Abbau kann jedoch fortgesetzt werden.\n
+	@{T5}- @{F90F}Kami-Toleranz@{FFFF}: Passe beim Abbau auf. Je mehr ein Gebiet beansprucht wird, desto böser werden die Kami und wenn der Balken auf 0 fällt, werden die Kami dich töten.@{T0}\n
 	\n
-	Während des Abbaus erscheint ein zweites Fenster, indem du das Vorankommen deiner Arbeit sehen kannst: Quantität und Qualität des Rohmaterials, das du bis zu dem Zeitpunkt abgebaut hast. Nachdem der Abbau beendet ist, klicke auf @{F90F}alles nehmen@{FFFF}. Es wird dann in deiner Tasche verstaut.]
+	Während des Abbaus erscheint ein zweites Fenster, indem du das Vorankommen deiner Arbeit sehen kannst: Quantität und Qualität des Rohmaterials, das du bis zu dem Zeitpunkt abgebaut hast. Nachdem der Abbau beendet ist, klicke auf @{F90F}Alles nehmen@{FFFF}. Es wird dann in deiner Tasche verstaut.]
 
 // HASH_VALUE CC2B126D6044A80A
 // INDEX 4340
@@ -18088,7 +18088,7 @@ mission_tryker_08_p_ldcc_intro	[Du hast dich bewiesen und das ist sehr gut so. N
 
 // HASH_VALUE 6525AEAA2333708B
 // INDEX 4410
-mission_tryker_08_p_ovl_visit_ilot	[Treffen auf der kleinen Insel nordöstlich des Lagers]
+mission_tryker_08_p_ovl_visit_ilot	[Treffen auf der kleinen Insel nordwestlich des Lagers]
 
 // HASH_VALUE 4304B496E224A89E
 // INDEX 4411
@@ -21857,7 +21857,7 @@ rangestate5	[Neue Bogenpistolen und -gewehre!]
 
 // HASH_VALUE A66EFCE78B999F9A
 // INDEX 5140
-rangestate6	[Der allerbeste Raketenwerfer auf dem Markt, hol ihn Dir jetzt!]
+rangestate6	[Der allerbeste Granatenwerfer auf dem Markt, hol ihn Dir jetzt!]
 
 // HASH_VALUE A8A891D4BA8E69AD
 // INDEX 5141
@@ -35446,7 +35446,7 @@ whoami_task_frontiers_supplier	[Ich betreibe ein Versorgungsnetz für Händler u
 
 // HASH_VALUE 281F24955C1541B1
 // INDEX 8417
-whoami_task_hawker	[Ich bin immer unterwegs, sammele Objekte auf diesem Kontinent und verkaufe sie an andere , das ist es was Hawker tun, weißt Du. Übrigents, wenn Du das eine oder andere Objekt oder Material für mich hast, hab ich auch die eine oder andere Kleinigkeit für Dich.]
+whoami_task_hawker	[Ich bin immer unterwegs, sammele Gegenstände auf diesem Kontinent und verkaufe diese an Andere , das ist es was Hausierer tun, weißt Du. Übrigens, wenn Du irgendeinen Gegenstand oder auch Material für mich hast, könnte ich Dir auch ein wenig dafür geben.]
 
 // HASH_VALUE 405CE43FC3AE08FE
 // INDEX 8418

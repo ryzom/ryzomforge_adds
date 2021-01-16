@@ -175,6 +175,13 @@ ANSWER_NO ()
 
 }
 
+// HASH_VALUE 7EFC12A90EF88F85
+ANSWER_NO_DISCOUNT ()
+{
+		answer_no_discount	[No discount? Never mind, I will come back later.]
+
+}
+
 // HASH_VALUE AB3950B1A2380081
 ANSWER_OK ()
 {
@@ -284,11 +291,10 @@ BAG_FULL (int qty)
 
 }
 
-// HASH_VALUE 6CEDB3B27CF4AFA7
+// HASH_VALUE EDC0CB6DC5EA60A9
 BOSS_MAINLAND_CRAFTPART1A_DIAG1 ()
 {
-		boss_mainland_craftpart1a_diag1	[Très bien.\n
-			Donnez moi les morceaux de l'ouvrage à restaurer ainsi que mon paiement et je me mettrais au travail immédiatement.]
+		boss_mainland_craftpart1a_diag1	[If you pay me and give me all pieces I'll go to work right away. The task is complex and worth 15M dappers. No refund once I've started]
 
 }
 
@@ -329,11 +335,10 @@ BOSS_MAINLAND_CRAFTPART1A_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B37CF4AFA7
+// HASH_VALUE EDC0CB6EC5EA60A9
 BOSS_MAINLAND_CRAFTPART1B_DIAG1 ()
 {
-		boss_mainland_craftpart1b_diag1	[Très bien.\n
-			Donnez moi les morceaux de l'ouvrage à restaurer ainsi que mon paiement et je me mettrais au travail immédiatement.]
+		boss_mainland_craftpart1b_diag1	[If you pay me and give me all pieces I'll go to work right away. The task is complex and worth 15M dappers. No refund once I've started]
 
 }
 
@@ -374,11 +379,10 @@ BOSS_MAINLAND_CRAFTPART1B_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B47CF4AFA7
+// HASH_VALUE EDC0CB6FC5EA60A9
 BOSS_MAINLAND_CRAFTPART1C_DIAG1 ()
 {
-		boss_mainland_craftpart1c_diag1	[Très bien.\n
-			Donnez moi les morceaux de l'ouvrage à restaurer ainsi que mon paiement et je me mettrais au travail immédiatement.]
+		boss_mainland_craftpart1c_diag1	[If you pay me and give me all pieces I'll go to work right away. The task is complex and worth 15M dappers. No refund once I've started]
 
 }
 
@@ -419,12 +423,10 @@ BOSS_MAINLAND_CRAFTPART1C_P_MIS_TITLE (bot giver)
 
 }
 
-// Clause 0 : text changed.
-// HASH_VALUE 6CEDB3B57CF4AFA7
+// HASH_VALUE EDC0CB70C5EA60A9
 BOSS_MAINLAND_CRAFTPART1D_DIAG1 ()
 {
-		boss_mainland_craftpart1d_diag1	[Très bien.\n
-			Donnez moi les morceaux de l'ouvrage à restaurer ainsi que mon paiement et je me mettrais au travail immédiatement.]
+		boss_mainland_craftpart1d_diag1	[If you pay me and give me all pieces I'll go to work right away. The task is complex and worth 15M dappers. No refund once I've started]
 
 }
 
@@ -465,11 +467,10 @@ BOSS_MAINLAND_CRAFTPART1D_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B67CF4AFA7
+// HASH_VALUE EDC0CB71C5EA60A9
 BOSS_MAINLAND_CRAFTPART1E_DIAG1 ()
 {
-		boss_mainland_craftpart1e_diag1	[Très bien.\n
-			Donnez moi les morceaux de l'ouvrage à restaurer ainsi que mon paiement et je me mettrais au travail immédiatement.]
+		boss_mainland_craftpart1e_diag1	[If you pay me and give me all pieces I'll go to work right away. The task is complex and worth 15M dappers. No refund once I've started]
 
 }
 
@@ -510,11 +511,10 @@ BOSS_MAINLAND_CRAFTPART1E_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B2BCF4AFA7
+// HASH_VALUE EDC0CB6D05EA60A9
 BOSS_MAINLAND_CRAFTPART2A_DIAG1 ()
 {
-		boss_mainland_craftpart2a_diag1	[Très bien.\n
-			Donnez moi les morceaux de l'ouvrage à restaurer ainsi que mon paiement et je me mettrais au travail immédiatement.]
+		boss_mainland_craftpart2a_diag1	[If you pay me and give me all pieces I'll go to work right away. The task is complex and worth 15M dappers. No refund once I've started]
 
 }
 
@@ -555,11 +555,10 @@ BOSS_MAINLAND_CRAFTPART2A_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B3BCF4AFA7
+// HASH_VALUE EDC0CB6E05EA60A9
 BOSS_MAINLAND_CRAFTPART2B_DIAG1 ()
 {
-		boss_mainland_craftpart2b_diag1	[Très bien.\n
-			Donnez moi les morceaux de l'ouvrage à restaurer ainsi que mon paiement et je me mettrais au travail immédiatement.]
+		boss_mainland_craftpart2b_diag1	[If you pay me and give me all pieces I'll go to work right away. The task is complex and worth 15M dappers. No refund once I've started]
 
 }
 
@@ -600,11 +599,10 @@ BOSS_MAINLAND_CRAFTPART2B_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B4BCF4AFA7
+// HASH_VALUE EDC0CB6F05EA60A9
 BOSS_MAINLAND_CRAFTPART2C_DIAG1 ()
 {
-		boss_mainland_craftpart2c_diag1	[Très bien.\n
-			Donnez moi les morceaux de l'ouvrage à restaurer ainsi que mon paiement et je me mettrais au travail immédiatement.]
+		boss_mainland_craftpart2c_diag1	[If you pay me and give me all pieces I'll go to work right away. The task is complex and worth 15M dappers. No refund once I've started]
 
 }
 
@@ -645,11 +643,10 @@ BOSS_MAINLAND_CRAFTPART2C_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B5BCF4AFA7
+// HASH_VALUE EDC0CB7005EA60A9
 BOSS_MAINLAND_CRAFTPART2D_DIAG1 ()
 {
-		boss_mainland_craftpart2d_diag1	[Très bien.\n
-			Donnez moi les morceaux de l'ouvrage à restaurer ainsi que mon paiement et je me mettrais au travail immédiatement.]
+		boss_mainland_craftpart2d_diag1	[If you pay me and give me all pieces I'll go to work right away. The task is complex and worth 15M dappers. No refund once I've started]
 
 }
 
@@ -690,11 +687,10 @@ BOSS_MAINLAND_CRAFTPART2D_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B6BCF4AFA7
+// HASH_VALUE EDC0CB7105EA60A9
 BOSS_MAINLAND_CRAFTPART2E_DIAG1 ()
 {
-		boss_mainland_craftpart2e_diag1	[Très bien.\n
-			Donnez moi les morceaux de l'ouvrage à restaurer ainsi que mon paiement et je me mettrais au travail immédiatement.]
+		boss_mainland_craftpart2e_diag1	[If you pay me and give me all pieces I'll go to work right away. The task is complex and worth 15M dappers. No refund once I've started]
 
 }
 
@@ -735,11 +731,10 @@ BOSS_MAINLAND_CRAFTPART2E_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B2FCF4AFA7
+// HASH_VALUE EDC0CB6D45EA60A9
 BOSS_MAINLAND_CRAFTPART3A_DIAG1 ()
 {
-		boss_mainland_craftpart3a_diag1	[Très bien.\n
-			Donnez moi les morceaux de l'ouvrage à restaurer ainsi que mon paiement et je me mettrais au travail immédiatement.]
+		boss_mainland_craftpart3a_diag1	[If you pay me and give me all pieces I'll go to work right away. The task is complex and worth 15M dappers. No refund once I've started]
 
 }
 
@@ -780,11 +775,10 @@ BOSS_MAINLAND_CRAFTPART3A_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B3FCF4AFA7
+// HASH_VALUE EDC0CB6E45EA60A9
 BOSS_MAINLAND_CRAFTPART3B_DIAG1 ()
 {
-		boss_mainland_craftpart3b_diag1	[Très bien.\n
-			Donnez moi les morceaux de l'ouvrage à restaurer ainsi que mon paiement et je me mettrais au travail immédiatement.]
+		boss_mainland_craftpart3b_diag1	[If you pay me and give me all pieces I'll go to work right away. The task is complex and worth 15M dappers. No refund once I've started]
 
 }
 
@@ -825,11 +819,10 @@ BOSS_MAINLAND_CRAFTPART3B_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B4FCF4AFA7
+// HASH_VALUE EDC0CB6F45EA60A9
 BOSS_MAINLAND_CRAFTPART3C_DIAG1 ()
 {
-		boss_mainland_craftpart3c_diag1	[Très bien.\n
-			Donnez moi les morceaux de l'ouvrage à restaurer ainsi que mon paiement et je me mettrais au travail immédiatement.]
+		boss_mainland_craftpart3c_diag1	[If you pay me and give me all pieces I'll go to work right away. The task is complex and worth 15M dappers. No refund once I've started]
 
 }
 
@@ -870,11 +863,10 @@ BOSS_MAINLAND_CRAFTPART3C_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B5FCF4AFA7
+// HASH_VALUE EDC0CB7045EA60A9
 BOSS_MAINLAND_CRAFTPART3D_DIAG1 ()
 {
-		boss_mainland_craftpart3d_diag1	[Très bien.\n
-			Donnez moi les morceaux de l'ouvrage à restaurer ainsi que mon paiement et je me mettrais au travail immédiatement.]
+		boss_mainland_craftpart3d_diag1	[If you pay me and give me all pieces I'll go to work right away. The task is complex and worth 15M dappers. No refund once I've started]
 
 }
 
@@ -915,11 +907,10 @@ BOSS_MAINLAND_CRAFTPART3D_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B6FCF4AFA7
+// HASH_VALUE EDC0CB7145EA60A9
 BOSS_MAINLAND_CRAFTPART3E_DIAG1 ()
 {
-		boss_mainland_craftpart3e_diag1	[Très bien.\n
-			Donnez moi les morceaux de l'ouvrage à restaurer ainsi que mon paiement et je me mettrais au travail immédiatement.]
+		boss_mainland_craftpart3e_diag1	[If you pay me and give me all pieces I'll go to work right away. The task is complex and worth 15M dappers. No refund once I've started]
 
 }
 
@@ -960,11 +951,10 @@ BOSS_MAINLAND_CRAFTPART3E_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B23DF4AFA7
+// HASH_VALUE EDC0CB6D86EA60A9
 BOSS_MAINLAND_CRAFTPART4A_DIAG1 ()
 {
-		boss_mainland_craftpart4a_diag1	[Très bien.\n
-			Donnez moi les morceaux de l'ouvrage à restaurer ainsi que mon paiement et je me mettrais au travail immédiatement.]
+		boss_mainland_craftpart4a_diag1	[If you pay me and give me all pieces I'll go to work right away. The task is complex and worth 15M dappers. No refund once I've started]
 
 }
 
@@ -1005,11 +995,10 @@ BOSS_MAINLAND_CRAFTPART4A_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B33DF4AFA7
+// HASH_VALUE EDC0CB6E86EA60A9
 BOSS_MAINLAND_CRAFTPART4B_DIAG1 ()
 {
-		boss_mainland_craftpart4b_diag1	[Très bien.\n
-			Donnez moi les morceaux de l'ouvrage à restaurer ainsi que mon paiement et je me mettrais au travail immédiatement.]
+		boss_mainland_craftpart4b_diag1	[If you pay me and give me all pieces I'll go to work right away. The task is complex and worth 15M dappers. No refund once I've started]
 
 }
 
@@ -1050,11 +1039,10 @@ BOSS_MAINLAND_CRAFTPART4B_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B43DF4AFA7
+// HASH_VALUE EDC0CB6F86EA60A9
 BOSS_MAINLAND_CRAFTPART4C_DIAG1 ()
 {
-		boss_mainland_craftpart4c_diag1	[Très bien.\n
-			Donnez moi les morceaux de l'ouvrage à restaurer ainsi que mon paiement et je me mettrais au travail immédiatement.]
+		boss_mainland_craftpart4c_diag1	[If you pay me and give me all pieces I'll go to work right away. The task is complex and worth 15M dappers. No refund once I've started]
 
 }
 
@@ -1095,11 +1083,10 @@ BOSS_MAINLAND_CRAFTPART4C_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B53DF4AFA7
+// HASH_VALUE EDC0CB7086EA60A9
 BOSS_MAINLAND_CRAFTPART4D_DIAG1 ()
 {
-		boss_mainland_craftpart4d_diag1	[Très bien.\n
-			Donnez moi les morceaux de l'ouvrage à restaurer ainsi que mon paiement et je me mettrais au travail immédiatement.]
+		boss_mainland_craftpart4d_diag1	[If you pay me and give me all pieces I'll go to work right away. The task is complex and worth 15M dappers. No refund once I've started]
 
 }
 
@@ -1140,11 +1127,10 @@ BOSS_MAINLAND_CRAFTPART4D_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B63DF4AFA7
+// HASH_VALUE EDC0CB7186EA60A9
 BOSS_MAINLAND_CRAFTPART4E_DIAG1 ()
 {
-		boss_mainland_craftpart4e_diag1	[Très bien.\n
-			Donnez moi les morceaux de l'ouvrage à restaurer ainsi que mon paiement et je me mettrais au travail immédiatement.]
+		boss_mainland_craftpart4e_diag1	[If you pay me and give me all pieces I'll go to work right away. The task is complex and worth 15M dappers. No refund once I've started]
 
 }
 
@@ -1185,11 +1171,10 @@ BOSS_MAINLAND_CRAFTPART4E_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B27DF4AFA7
+// HASH_VALUE EDC0CB6DC6EA60A9
 BOSS_MAINLAND_CRAFTPART5A_DIAG1 ()
 {
-		boss_mainland_craftpart5a_diag1	[Très bien.\n
-			Donnez moi les morceaux de l'ouvrage à restaurer ainsi que mon paiement et je me mettrais au travail immédiatement.]
+		boss_mainland_craftpart5a_diag1	[If you pay me and give me all pieces I'll go to work right away. The task is complex and worth 15M dappers. No refund once I've started]
 
 }
 
@@ -1230,11 +1215,10 @@ BOSS_MAINLAND_CRAFTPART5A_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B37DF4AFA7
+// HASH_VALUE EDC0CB6EC6EA60A9
 BOSS_MAINLAND_CRAFTPART5B_DIAG1 ()
 {
-		boss_mainland_craftpart5b_diag1	[Très bien.\n
-			Donnez moi les morceaux de l'ouvrage à restaurer ainsi que mon paiement et je me mettrais au travail immédiatement.]
+		boss_mainland_craftpart5b_diag1	[If you pay me and give me all pieces I'll go to work right away. The task is complex and worth 15M dappers. No refund once I've started]
 
 }
 
@@ -1275,11 +1259,10 @@ BOSS_MAINLAND_CRAFTPART5B_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B47DF4AFA7
+// HASH_VALUE EDC0CB6FC6EA60A9
 BOSS_MAINLAND_CRAFTPART5C_DIAG1 ()
 {
-		boss_mainland_craftpart5c_diag1	[Très bien.\n
-			Donnez moi les morceaux de l'ouvrage à restaurer ainsi que mon paiement et je me mettrais au travail immédiatement.]
+		boss_mainland_craftpart5c_diag1	[If you pay me and give me all pieces I'll go to work right away. The task is complex and worth 15M dappers. No refund once I've started]
 
 }
 
@@ -1320,11 +1303,10 @@ BOSS_MAINLAND_CRAFTPART5C_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B57DF4AFA7
+// HASH_VALUE EDC0CB70C6EA60A9
 BOSS_MAINLAND_CRAFTPART5D_DIAG1 ()
 {
-		boss_mainland_craftpart5d_diag1	[Très bien.\n
-			Donnez moi les morceaux de l'ouvrage à restaurer ainsi que mon paiement et je me mettrais au travail immédiatement.]
+		boss_mainland_craftpart5d_diag1	[If you pay me and give me all pieces I'll go to work right away. The task is complex and worth 15M dappers. No refund once I've started]
 
 }
 
@@ -1365,11 +1347,10 @@ BOSS_MAINLAND_CRAFTPART5D_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B67DF4AFA7
+// HASH_VALUE EDC0CB71C6EA60A9
 BOSS_MAINLAND_CRAFTPART5E_DIAG1 ()
 {
-		boss_mainland_craftpart5e_diag1	[Très bien.\n
-			Donnez moi les morceaux de l'ouvrage à restaurer ainsi que mon paiement et je me mettrais au travail immédiatement.]
+		boss_mainland_craftpart5e_diag1	[If you pay me and give me all pieces I'll go to work right away. The task is complex and worth 15M dappers. No refund once I've started]
 
 }
 
@@ -1410,11 +1391,10 @@ BOSS_MAINLAND_CRAFTPART5E_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B2BDF4AFA7
+// HASH_VALUE EDC0CB6D06EA60A9
 BOSS_MAINLAND_CRAFTPART6A_DIAG1 ()
 {
-		boss_mainland_craftpart6a_diag1	[Très bien.\n
-			Donnez moi les morceaux de l'ouvrage à restaurer ainsi que mon paiement et je me mettrais au travail immédiatement.]
+		boss_mainland_craftpart6a_diag1	[If you pay me and give me all pieces I'll go to work right away. The task is complex and worth 15M dappers. No refund once I've started]
 
 }
 
@@ -1455,11 +1435,10 @@ BOSS_MAINLAND_CRAFTPART6A_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B3BDF4AFA7
+// HASH_VALUE EDC0CB6E06EA60A9
 BOSS_MAINLAND_CRAFTPART6B_DIAG1 ()
 {
-		boss_mainland_craftpart6b_diag1	[Très bien.\n
-			Donnez moi les morceaux de l'ouvrage à restaurer ainsi que mon paiement et je me mettrais au travail immédiatement.]
+		boss_mainland_craftpart6b_diag1	[If you pay me and give me all pieces I'll go to work right away. The task is complex and worth 15M dappers. No refund once I've started]
 
 }
 
@@ -1500,11 +1479,10 @@ BOSS_MAINLAND_CRAFTPART6B_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B4BDF4AFA7
+// HASH_VALUE EDC0CB6F06EA60A9
 BOSS_MAINLAND_CRAFTPART6C_DIAG1 ()
 {
-		boss_mainland_craftpart6c_diag1	[Très bien.\n
-			Donnez moi les morceaux de l'ouvrage à restaurer ainsi que mon paiement et je me mettrais au travail immédiatement.]
+		boss_mainland_craftpart6c_diag1	[If you pay me and give me all pieces I'll go to work right away. The task is complex and worth 15M dappers. No refund once I've started]
 
 }
 
@@ -1545,11 +1523,10 @@ BOSS_MAINLAND_CRAFTPART6C_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B5BDF4AFA7
+// HASH_VALUE EDC0CB7006EA60A9
 BOSS_MAINLAND_CRAFTPART6D_DIAG1 ()
 {
-		boss_mainland_craftpart6d_diag1	[Très bien.\n
-			Donnez moi les morceaux de l'ouvrage à restaurer ainsi que mon paiement et je me mettrais au travail immédiatement.]
+		boss_mainland_craftpart6d_diag1	[If you pay me and give me all pieces I'll go to work right away. The task is complex and worth 15M dappers. No refund once I've started]
 
 }
 
@@ -1590,11 +1567,10 @@ BOSS_MAINLAND_CRAFTPART6D_P_MIS_TITLE (bot giver)
 
 }
 
-// HASH_VALUE 6CEDB3B6BDF4AFA7
+// HASH_VALUE EDC0CB7106EA60A9
 BOSS_MAINLAND_CRAFTPART6E_DIAG1 ()
 {
-		boss_mainland_craftpart6e_diag1	[Très bien.\n
-			Donnez moi les morceaux de l'ouvrage à restaurer ainsi que mon paiement et je me mettrais au travail immédiatement.]
+		boss_mainland_craftpart6e_diag1	[If you pay me and give me all pieces I'll go to work right away. The task is complex and worth 15M dappers. No refund once I've started]
 
 }
 
@@ -8508,10 +8484,10 @@ CWMH02_DESC (bot giver, place city)
 
 }
 
-// HASH_VALUE 7D9C48D073DE06A8
+// HASH_VALUE 6F80D9D90603EE2F
 CWMH02_DIALOG_BARMAN ()
 {
-		cwmh02_dialog_barman	[Bonjour. Vous tombez bien. Vous avez des compétences en forage ? J'aurais besoin de racines spéciales pour donner du goût à mes boissons. Vous pourrez en trouver en creusant à l'Ouest de la ville, là ou deux racines géantes sortent du sol. Attention j'ai besoin de racines de qualité fine.]
+		cwmh02_dialog_barman	[Bonjour. Vous tombez bien. Vous avez des compétences en forage ? J'aurais besoin de racines spéciales pour donner du goût à mes boissons. Vous pourrez en trouver en creusant à l'Ouest de la ville, là ou deux racines géantes sortent du sol.]
 
 }
 
@@ -27022,6 +26998,41 @@ FACTION_URASIES ()
 
 }
 
+// HASH_VALUE 4410541044105410
+FACTION_USR_DE ()
+{
+			[DE]
+
+}
+
+// HASH_VALUE 4C50E4144C50E414
+FACTION_USR_EN ()
+{
+			[EN]
+
+}
+
+// HASH_VALUE 5050341450503414
+FACTION_USR_ES ()
+{
+			[ES]
+
+}
+
+// HASH_VALUE 5090241850902418
+FACTION_USR_FR ()
+{
+			[FR]
+
+}
+
+// HASH_VALUE 5494544854945448
+FACTION_USR_RU ()
+{
+			[RU]
+
+}
+
 // HASH_VALUE 68B78C7557881055
 FACTION_ZORAI ()
 {
@@ -34242,7 +34253,7 @@ LEAGUE_INVITOR_NOT_LEADER ()
 }
 
 // HASH_VALUE 8FD6CB6B10B80ED5
-LEAGUE_PROPOSALL (player p)
+LEAGUE_PROPOSAL (player p)
 {
 	(p.gender = male)
 		league_proposal_m	[$p$ offers you to join his league.]
@@ -36846,6 +36857,13 @@ MENU_AN_OPENING ()
 
 }
 
+// HASH_VALUE E0171C64E0552494
+MENU_BANARC ()
+{
+			[Banarc]
+
+}
+
 // HASH_VALUE B4321C626C3A3484
 MENU_BUY_NATION_ITEMS ()
 {
@@ -36871,6 +36889,20 @@ MENU_CAN_I_HELP_YOU ()
 MENU_CASINO_INSERT_COIN ()
 {
 			[Play a token]
+
+}
+
+// HASH_VALUE A666705B25C4B47C
+MENU_DANGER ()
+{
+			[Danger]
+
+}
+
+// HASH_VALUE 8D69FC3CE7958B8C
+MENU_DELES_SILAM ()
+{
+			[Deles Silam]
 
 }
 
@@ -36937,10 +36969,24 @@ MENU_HOF ()
 
 }
 
+// HASH_VALUE DFB6088196347B98
+MENU_KAMIA_ATA ()
+{
+			[Kamia'ata]
+
+}
+
 // HASH_VALUE 6A5644916017488F
 MENU_LIGHT_UP ()
 {
 			[Light]
+
+}
+
+// HASH_VALUE 6B08F0792DA5189C
+MENU_LORDOY ()
+{
+			[Lordoy]
 
 }
 
@@ -36962,6 +37008,13 @@ MENU_NEED_SOME_INFORMATIONS ()
 MENU_OPEN_CHEST ()
 {
 			[Open the Chest]
+
+}
+
+// HASH_VALUE 6C58043C201C9480
+MENU_OPEN_IT ()
+{
+			[Open it!]
 
 }
 
@@ -37078,6 +37131,34 @@ MENU_WHOISKARAVAN (player p, bot b)
 {
 	(b.race = karavan)
 		menu_who_is_karavan	[What is the karavan?]
+
+}
+
+// HASH_VALUE 6018F45C6018F45C
+MENU_WOHA ()
+{
+			[Woha]
+
+}
+
+// HASH_VALUE 513A5C55ABC6D39F
+MENU_WOREN_SILOY ()
+{
+			[Woren Siloy]
+
+}
+
+// HASH_VALUE A1543F9ADEB3535D
+MENU_ZIGA ()
+{
+			[Caress Ari.]
+
+}
+
+// HASH_VALUE 12E8C386E6355467
+MENU_ZIGB ()
+{
+			[Caress Tynee.]
 
 }
 
