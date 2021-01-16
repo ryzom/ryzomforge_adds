@@ -2,9 +2,9 @@
 	ABANDON_GROUP_MISSION ()
 	{
 				[&SYS&Der Leiter deines Teams hat eine Teammission abgebrochen.]
-	
+
 	}
-	
+
 ] */
 // Clause 0 : text changed.
 // HASH_VALUE 8857DE7C383C5498
@@ -12427,7 +12427,7 @@ EGS_ACTOR_VAMPIRISE_EI (entity target, int vampirise)
 // HASH_VALUE 7B2438D04B0B3990
 EGS_ALREADY_HAVE_MOUNT ()
 {
-			[&CHK&Du kannst nur ein Mektoub Reittier besitzen.]
+			[&CHK&Du kannst nur ein Reittier besitzen.]
 
 }
 
@@ -19887,7 +19887,7 @@ ENCY_THM_04_12 ()
 // HASH_VALUE 2B19E86E278AF49F
 ENCY_THM_04_13 ()
 {
-			[Konstruktion]
+			[Baustoffe]
 
 }
 
@@ -33292,9 +33292,9 @@ HARVEST_SUCCESS_OTHER (player p, int nb, item item, int quality)
 	HEAL_CLOUD_HIT (score s, int v)
 	{
 			heal_hit	[&SPLM&You feel the effects of benevolent magic and get a bonus of $s$ of $v$.]
-	
+
 	}
-	
+
 ] */
 // Clause 0 : identifier changed.
 // HASH_VALUE 185C26D22AA1B90A
@@ -34119,7 +34119,7 @@ ITEM_IS_NOW_ENCHANTED (item i)
 // HASH_VALUE C4844F2DA6A049DC
 ITEM_IS_RECHARGED (item it, int current, int max )
 {
-		item_is_recharged	[&ITM&Gegenstand $it$ ist nun aufgeladen. Sapladung ist $current$ von $max$.]
+		item_is_recharged	[&ITM& Dein/e $it$ ist nun mit $current$ von möglichen $max$ aufgeladen.]
 
 }
 
@@ -37700,7 +37700,7 @@ MENU_TRADE ()
 // HASH_VALUE 5E79C47B9AFAE07D
 MENU_USE_PA ()
 {
-			[Ihre Elyps nutzen]
+			[Belohnungen und Services]
 
 }
 

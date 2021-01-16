@@ -3050,6 +3050,9 @@ This MUST follow the Enum MISSION_DESC::TIconId
   <variable entry="UI:SAVE:CHAT:SHOW_ONLINE_OFFLINE_NOTIFICATIONS_CB"
              type="bool"
              value="true" />
+  <variable entry="UI:SAVE:CHAT:SHOW_TRANSLATION_ONLY_AS_TOOLTIP_CB"
+	     type="bool"
+	     value="false" />
   <!-- ***************************** -->
   <!-- *    SYSTEM INFO COLORS     * -->
   <!-- ***************************** -->
