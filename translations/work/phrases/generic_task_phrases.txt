@@ -4715,6 +4715,7 @@ TEMPLATE_TASK_LOOT_GIVE_INTRO_3 (bot giver, item i1, int qt1, int ql1, item i2, 
 	template_task_loot_give_intro_3_fame	[Il me faut $qt1$ $i1$ de qualité $ql1$, $qt2$ $i2$ de qualité $ql2$ et $qt3$ $i3$ de qualité $ql3$. Si vous m'en rapportez, $f.mda$ $f.member$ vous en seront reconnaissants.]
 }
 
+
 /**************************************************************************************************************************
 TEMPLATE_TASK_KILL_NPC
 **************************************************************************************************************************/

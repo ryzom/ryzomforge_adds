@@ -12245,7 +12245,7 @@ EGS_ACTOR_VAMPIRISE_EI (entity target, int vampirise)
 // HASH_VALUE 7B2438D04B0B3990
 EGS_ALREADY_HAVE_MOUNT ()
 {
-			[&CHK&У вас может быть только один ездовой мектуб.]
+			[&CHK&У вас может быть только одно ездовой.]
 
 }
 
@@ -27591,6 +27591,41 @@ FACTION_URASIES ()
 
 }
 
+// HASH_VALUE 4410541044105410
+FACTION_USR_DE ()
+{
+			[DE]
+
+}
+
+// HASH_VALUE 4C50E4144C50E414
+FACTION_USR_EN ()
+{
+			[EN]
+
+}
+
+// HASH_VALUE 5050341450503414
+FACTION_USR_ES ()
+{
+			[ES]
+
+}
+
+// HASH_VALUE 5090241850902418
+FACTION_USR_FR ()
+{
+			[FR]
+
+}
+
+// HASH_VALUE 5494544854945448
+FACTION_USR_RU ()
+{
+			[RU]
+
+}
+
 // HASH_VALUE 68B78C7557881055
 FACTION_ZORAI ()
 {
@@ -33380,9 +33415,9 @@ HARVEST_SUCCESS_OTHER (player p, int nb, item item, int quality)
 	HEAL_CLOUD_HIT (score s, int v)
 	{
 			heal_hit	[&SPLM&You feel the effects of benevolent magic and get a bonus of $s$ of $v$.]
-	
+
 	}
-	
+
 ] */
 // Clause 0 : identifier changed.
 // HASH_VALUE 185C26D22AA1B90A
@@ -37581,6 +37616,13 @@ MELEESTATE6 ()
 
 }
 
+// HASH_VALUE A666705B25C4B47C
+MENU_DANGER ()
+{
+			[Опасность]
+
+}
+
 // HASH_VALUE 7730D811AC2AE891
 MENU_FIND_IT ()
 {
@@ -37599,6 +37641,13 @@ MENU_GET_FLOWER ()
 MENU_HOF ()
 {
 			[Изучить Стеллу Доблести]
+
+}
+
+// HASH_VALUE DFB6088196347B98
+MENU_KAMIA_ATA ()
+{
+			[Kamia'ata]
 
 }
 
@@ -37627,6 +37676,13 @@ MENU_ROOM_ACCESS ()
 MENU_STELE ()
 {
 			[Прочесть письмена]
+
+}
+
+// HASH_VALUE 5E79C47B9AFAE07D
+MENU_USE_PA ()
+{
+			[Награды и Сервисы]
 
 }
 
@@ -78359,5 +78415,4 @@ zm80_reward ()
 			[Ботинки Нин-Ка]
 
 }
-
 

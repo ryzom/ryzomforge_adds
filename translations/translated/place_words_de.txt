@@ -472,8 +472,8 @@ _422F691DA0BA1111	place_zora_p_cimetiere	Friedhof von Zora	Friedhof von Zora	Fri
 _362EEE95C6B05DF7	place_zora_p_marche_commun	Vorderer Markt	Vorderen Markt	Vorderen Markt	der	den	auf dem	zum
 _A715481EA9293757	place_zora_p_2	Tempelhallen-Distrikt	Tempelhallen-Distrikt	Tempelhallen-Distrikt	der	den	im	zum
 _6051582F6909CBA6	place_zora_p_3	West-Hollow-Distrikt	West-Hollow-Distrikt	West-Hollow-Distrikt	der	den	im	zum
-_68E7D432A958E750	place_zora_p_4	Daïsha-Viertel	Daïsha-Viertel	Daïsha-Viertel	das	das	im	zum
-_67866FC4E98682A3	place_zora_p_5	Win-Cho-Viertel	Win-Cho-Viertel	Win-Cho-Viertel	das	das	im	zum
+_68E7D432A958E750	place_zora_p_4	Daïsha-Distrikt	Daïsha-Distrikt	Daïsha-Distrikt	das	das	im	zum
+_67866FC4E98682A3	place_zora_p_5	Win-Cho-Distrikt	Win-Cho-Distrikt	Win-Cho-Distrikt	das	das	im	zum
 _28F478B3AA59D4B1	continent_indoors	Gebäude	Gebäude	Gebäude	das	das	im	zum
 _A645B49270E8B0A0	faihaven_stable	Stall von Fairhaven	Stall von Fairhaven	Stall von Fairhaven	der	den	am	zum
 _61C994A76EB8D819	place_yrk_p_1	Zachini-Bezirk	Zachini-Bezirk	Zachini-Bezirk	der	den	im	zum

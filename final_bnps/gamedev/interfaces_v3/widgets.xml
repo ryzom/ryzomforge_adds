@@ -84,10 +84,6 @@
                 <view type="bitmap" id="target" posref="TR TL" posparent="info0" x="4" texture="target.tga" global_color="false" />
                 <view type="bitmap" id="invisible_logo" posref="TR TL" posparent="target" x="2" y="3" scale="true" w="20" h="20" texture="ico_fear.tga" active="false" global_color="false" />
                 <view type="bitmap" id="mission_target" posref="TR TL" posparent="invisible_logo" x="2" y="4" texture="target_mission.tga" global_color="false" />
-                <view type="bitmap" id="rp_logo_1" posref="TR TL" x="2" y="0" w="24" h="24" scale="true" slot="false" posparent="mission_target" color="255 255 255 255" render_layer="1" texture="" active="false" global_color="false" />
-                <view type="bitmap" id="rp_logo_2" posref="TR TL" x="2" y="0" w="24" h="24" scale="true" slot="false" posparent="rp_logo_1" color="255 255 255 255" render_layer="1" texture="" active="false" global_color="false" />
-                <view type="bitmap" id="rp_logo_3" posref="TR TL" x="2" y="0" w="24" h="24" scale="true" slot="false" posparent="rp_logo_2" color="255 255 255 255" render_layer="1" texture="" active="false" global_color="false" />
-                <view type="bitmap" id="rp_logo_4" posref="TR TL" x="2" y="0" w="24" h="24" scale="true" slot="false" posparent="rp_logo_3" color="255 255 255 255" render_layer="1" texture="" active="false" global_color="false" />
                 <view type="bitmap" id="win_top" posparent="info2" posref="BL TL" y="-8" texture="Infos_top.tga" global_color="true" />
                 <view type="bitmap" id="win_mid" posparent="win_top" posref="BL TL" scale="true" w="70" h="1" texture="Infos_mid.tga" global_color="true" />
                 <view type="bitmap" id="win_bot" posparent="win_mid" posref="BL TL" texture="Infos_bot.tga" global_color="true" />
@@ -103,14 +99,21 @@
             <ctrl type="sheet" id="guild_logo" posref="TL TR" posparent="right" x="-4" y="-7" slot="false" nature="guild_flag" value="UI:TEMP:GUILD_SHEET" dragable="false" color="255 255 255 255" />
             <view type="bitmap" id="npc_mission_logo" posref="TL TL" slot="false" x="0" color="255 255 255 255" render_layer="1" texture="" global_color="false" />
             <view type="bitmap" id="npc_mission_logo_over" posref="TL TL" slot="false" x="0" color="255 255 255 255" render_layer="2" texture="" global_color="false" />
-            <group id="right_pvp" posref="TR TL" posparent="right" child_resize_w="true" child_resize_h="true">
-                <group id="top_pvp" posref="TL TL" w="0" h="0" child_resize_w="true" child_resize_h="true">
-                    <view type="bitmap" id="pvp_faction_logo" posref="TL TL" active="false" texture="mp_pearl.tga" global_color="false" />
-                    <view type="bitmap" id="pvp_safe_logo" posref="TR TL" active="false" posparent="pvp_faction_logo" texture="mp_pearl.tga" x="2" global_color="false" />
+
+            <group id="right_rp" posref="TR TL" posparent="right" x="4" child_resize_w="true" child_resize_h="true" child_resize_wmargin="4">
+                <view type="bitmap" id="rp_logo_3" posref="TL TL" x="0" w="24" h="24" scale="true" slot="false" color="255 255 255 255" render_layer="1" texture="" active="false" global_color="false" />
+                <view type="bitmap" id="rp_logo_4" posref="TR TL" x="0" w="24" h="24" scale="true" slot="false" posparent="rp_logo_3" color="255 255 255 255" render_layer="1" texture="" active="false" global_color="false" />
+            </group>
+            <group id="right_pvp" posref="BL TL" posparent="right_rp" x="-2" child_resize_w="true" child_resize_h="true" child_resize_wmargin="4"  child_resize_hmargin="4">
+                <group id="top_pvp" posref="TL TL" w="0" h="0" child_resize_w="true" child_resize_h="true" child_resize_wmargin="4" child_resize_hmargin="4">
+                    <view type="bitmap" id="pvp_faction_logo" posref="TL TL" active="false" texture="blank.tga" global_color="false" />
+                    <view type="bitmap" id="pvp_faction_logo2" posref="TR TL" x="-4" posparent="pvp_faction_logo" active="false" texture="blank.tga" global_color="false" />
+                    <view type="bitmap" id="rp_logo_1" posref="TL TL" x="2" y="-2" w="24" h="24" scale="true" slot="false" color="255 255 255 255" render_layer="1" texture="" active="false" global_color="false" />
+                    <view type="bitmap" id="rp_logo_2" posref="TR TL" w="24" h="24" scale="true" slot="false" posparent="rp_logo_1" color="255 255 255 255" render_layer="1" texture="" active="false" global_color="false" />
                 </group>
-                <group id="bottom_pvp" posref="BL TL" posparent="top_pvp" child_resize_w="true" child_resize_h="true">
-                    <view type="bitmap" id="pvp_outpost_logo" posref="TL TL" active="false" texture="building_state_24x24.tga" global_color="false" />
-                    <view type="bitmap" id="pvp_duel_logo" posref="TR TL" posparent="pvp_outpost_logo" active="false" x="2" texture="pvp_duel.tga" global_color="false" />
+                <group id="bottom_pvp" posref="BL TL" posparent="top_pvp" child_resize_w="true" child_resize_h="true" child_resize_wmargin="4" child_resize_hmargin="4">
+                    <view type="bitmap" id="pvp_outpost_logo" posref="TL TL" x="2" y="-2" active="false" texture="building_state_24x24.tga" global_color="false" />
+                    <view type="bitmap" id="pvp_duel_logo" posref="TR TL" posparent="pvp_outpost_logo" active="false"  texture="pvp_duel.tga" global_color="false" />
                 </group>
             </group>
         </group>
@@ -1409,14 +1412,14 @@
     <style style="inv_container" type="container" w="350" h="310" resizer="true" pop_min_w="350" pop_min_h="110" pop_max_w="920" pop_max_h="1600" movable="true" active="false" opened="true" openable="false" global_color="false" global_color_over="true" />
     <style style="inv_container_guild" type="container" w="336" h="310" resizer="true" pop_min_w="336" pop_min_h="110" pop_max_w="920" pop_max_h="1600" movable="true" active="false" opened="true" openable="false" global_color="false" global_color_over="true" />
     <!-- template for the bulk and the weight -->
-    <template name="tinv_nbslots_bulk_weight" id="" inv_branch_nb="256" inv_branch="" inv_bulk_max="" posparent="parent" posref="TL TL" x="0" y="0">
+    <template name="tinv_nbslots_bulk_weight" id="" inv_branch_nb="10000" inv_branch="" inv_bulk_max="" posparent="parent" posref="TL TL" x="0" y="0">
         <group id="#id" sizeref="w" h="16" posref="#posref">
-            <group id="bulk_weight" w="128" h="16" posref="BR BR" posparent="#posparent">
+            <group id="bulk_weight" child_resize_w="true" child_resize_wmargin="4" h="16" posref="BR BR" posparent="#posparent">
                 <view type="bitmap" id="weight" posref="MR MR" x="0" texture="W_weight.tga" global_color="false" />
                 <view type="text" id="weight_txt" posparent="weight" posref="ML MR" y="-2" x="-2" color="255 255 255 255" global_color="false" shadow="true" fontsize="10" />
                 <instance template="text_tt" tooltip="uittInventoryWeight" posparent="weight_txt" />
                 <link expr="identity(getItemsWeight('#inv_branch',0,#inv_branch_nb),@#inv_branch)" target="weight_txt:hardtext" />
-                <view type="bar" id="encombrement" mini="true" posref="MR MR" x="-48" range="#inv_bulk_max" color="%bulk_color" />
+                <view type="bar" id="encombrement" mini="true" posparent="weight_txt" posref="ML MR" x="-4" range="#inv_bulk_max" color="%bulk_color" />
                 <ctrl type="tooltip" id="encombrement_tt" posparent="encombrement" sizeref="wh" w="0" h="0" on_tooltip="get_tt_bulk" on_tooltip_params="dbbranch=#inv_branch|dbmax=#inv_bulk_max" />
                 <link expr="identity(getItemsBulk('#inv_branch',0,#inv_branch_nb),@#inv_branch)" target="encombrement:value" />
             </group>
@@ -1612,32 +1615,32 @@
         <group type="menu" id="#id" posref="BL TL" x="0" y="0" mouse_pos="false" space="2" shadow="false" color="255 255 255 128" color_over="255 255 255 255" color_grayed="0 0 0 255" fontsize="12" highlight_over="255 255 255 128" force_inside_screen="false"></group>
     </template>
 
-	<template name="html_meter" keep="true" id="meter" w="0" h="0" active="true" border_x2="0" bgtexture="blank.tga" bgcolor="0 0 0 255" value_w="0" value_texture="blank.tga" value_color="100 100 100 100">
-		<group id="#id" w="#w" h="#h" active="#active">
-			<view type="bitmap" id="bg" posref="MM MM"  sizeref="wh" scale="true" texture="#bgtexture" color="#bgcolor" />
-			<group id="inner" posref="MM MM" sizeref="wh" w="-#border_x2" h="-#border_x2">
-				<view type="bitmap" id="gauge" posref="ML ML" posparent="bg" sizeref="h" sizeparent="bg" w="#value_w" scale="true" texture="#value_texture" color="#value_color" />
-			</group>
-		</group>
-	</template>
+    <template name="html_meter" keep="true" id="meter" w="0" h="0" active="true" border_x2="0" bgtexture="blank.tga" bgcolor="0 0 0 255" value_w="0" value_texture="blank.tga" value_color="100 100 100 100">
+        <group id="#id" w="#w" h="#h" active="#active">
+            <view type="bitmap" id="bg" posref="MM MM"  sizeref="wh" scale="true" texture="#bgtexture" color="#bgcolor" />
+            <group id="inner" posref="MM MM" sizeref="wh" w="-#border_x2" h="-#border_x2">
+                <view type="bitmap" id="gauge" posref="ML ML" posparent="bg" sizeref="h" sizeparent="bg" w="#value_w" scale="true" texture="#value_texture" color="#value_color" />
+            </group>
+        </group>
+    </template>
 
-	<template name="html_progress" keep="true" id="meter" w="0" h="0" active="true" border_x2="0" bgtexture="blank.tga" bgcolor="0 0 0 255" value_w="0" value_texture="blank.tga" value_color="100 100 100 100">
-		<group id="#id" w="#w" h="#h" active="#active">
-			<view type="bitmap" id="bg" posref="MM MM"  sizeref="wh" scale="true" texture="#bgtexture" color="#bgcolor" />
-			<group id="inner" posref="MM MM" sizeref="wh" w="-#border_x2" h="-#border_x2">
-				<view type="bitmap" id="gauge" posref="ML ML" posparent="bg" sizeref="h" sizeparent="bg" w="#value_w" scale="true" texture="#value_texture" color="#value_color" />
-			</group>
-		</group>
-	</template>
-	
-	<!-- icon for menu user group -->
-	<template name="menu_row_icon" keep="true"
-		id="" posref="TL TL" sizeref="w" posparent="parent" x="0" y="0" w="24" h="18"
-		icon_id="icon" icon_x="0" icon_y="-1" icon_color="255 255 255 255" icon_texture="blank.tga">
-		<group id="#id" posref="#posref" posparent="#posparent" sizeref="#sizeref" x="#x" y="#y" w="#w" h="#h">
-			<view type="bitmap" id="#icon_id" posref="MM MM" x="#icon_x" y="#icon_y" color="#icon_color" w="16" h="16" scale="true"
-				global_color="false" texture="#icon_texture" />
-		</group>
-	</template>
+    <template name="html_progress" keep="true" id="meter" w="0" h="0" active="true" border_x2="0" bgtexture="blank.tga" bgcolor="0 0 0 255" value_w="0" value_texture="blank.tga" value_color="100 100 100 100">
+        <group id="#id" w="#w" h="#h" active="#active">
+            <view type="bitmap" id="bg" posref="MM MM"  sizeref="wh" scale="true" texture="#bgtexture" color="#bgcolor" />
+            <group id="inner" posref="MM MM" sizeref="wh" w="-#border_x2" h="-#border_x2">
+                <view type="bitmap" id="gauge" posref="ML ML" posparent="bg" sizeref="h" sizeparent="bg" w="#value_w" scale="true" texture="#value_texture" color="#value_color" />
+            </group>
+        </group>
+    </template>
+
+    <!-- icon for menu user group -->
+    <template name="menu_row_icon" keep="true"
+        id="" posref="TL TL" sizeref="w" posparent="parent" x="0" y="0" w="24" h="18"
+        icon_id="icon" icon_x="0" icon_y="-1" icon_color="255 255 255 255" icon_texture="blank.tga">
+        <group id="#id" posref="#posref" posparent="#posparent" sizeref="#sizeref" x="#x" y="#y" w="#w" h="#h">
+            <view type="bitmap" id="#icon_id" posref="MM MM" x="#icon_x" y="#icon_y" color="#icon_color" w="16" h="16" scale="true"
+                global_color="false" texture="#icon_texture" />
+        </group>
+    </template>
 
 </interface_config>
