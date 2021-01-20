@@ -740,6 +740,8 @@
         <group id="#id" child_resize_h="true" sizeref="w9" w="0" posparent="#posparent" posref="#posref" win_priority="%win_priority_highest" use_cursor="false">
             <!-- do not change id (used for setting right skill name) -->
             <view type="text" id="name" fontsize="16" posref="TM TM" shadow="true" global_color="false" line_maxw="1000" multi_line="true" justification="centered" />
+            <view type="bitmap" id="iconA" posparent="name" posref="ML MR" w="16" h="16" x="-5" color="255 255 255 255" render_layer="1" slot="false" texture="" global_color="false" />
+            <view type="bitmap" id="iconZ" posparent="name" posref="MR ML" w="16" h="16" x="5" color="255 255 255 255" render_layer="1" slot="false" texture="" global_color="false" />
         </group>
     </template>
     <!-- Skill popup -->
