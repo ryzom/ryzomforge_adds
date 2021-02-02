@@ -10008,7 +10008,7 @@ _EDC81F9D2986979C	marauder_civ_shop	Ving Mia-Wuan
 _14BA6066B049189D	zora_ranger_guide	Ba'duty Aepsie			
 _27F8A7C2AD787464	zora_ranger_instructor	Yio Go-Jin			
 _03F2BD312B87900E	pero_ranger_quartermaster	Pero Antorini			
-_ED67A092D70A90A0	trino_ranger_guide	Trino Lichioi			
+_ED67A092D70A90A0	trino_ranger_guide	Trino Lichio			
 _625A54D06A7A9CA8	zig_arionasis	Ari			
 _AC9AA0B2677A98B8	zig_tyneetryk	Tynee			
 _05BDC82232904505	water_bomb_barrel	$gn_fresh_water_barrel$			
