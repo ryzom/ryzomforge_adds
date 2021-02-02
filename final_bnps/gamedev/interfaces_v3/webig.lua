@@ -190,6 +190,11 @@ function webig:doRemoveDbSheetQuantity(sheet_list, ctrl)
 	end
 end
 
+function getUICallerRoot()
+	return getUI(getUICaller().id:match("(ui:interface:[^:]*):?"))
+end
+
+
 --assert(nil, "RELOADABLE SCRIPT")
 
 
