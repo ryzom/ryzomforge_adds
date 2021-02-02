@@ -3787,7 +3787,7 @@
 -	cclde7	Ocyketh					
 -	cclde8	Ocyx Asesino	un	el	Ocyxes Asesinos		los
 -	cclfe8	Ocyx Destructor	un	el	Ocyxes Destructores		los
--	ccmff7	Jugukin					
+-	ccmff7	Jukin					
 -	ccmff8	Jugula Destructora	una	la	Jugulas Destructoras		las
 -	ccmpf8	Jugula Terminadora	una	la	Jugulas Terminadoras		las
 -	ccnfe8	Horncher Destructor	un	el	Hornchers Destructores		los
@@ -3906,13 +3906,13 @@
 -	ckdld8	Kincher Letal	un	el	Kinchers Letales		los
 -	ckdpf8	Terminator Kincher	a	the	Terminator Kinchers		the
 -	ckede5	Punka					
--	ckede7	Kipuketh					
+-	ckede7	Kipucketh					
 -	ckedf5	Pakuh					
 -	ckedf8	Kipucka Asesina	una	la	Kipuckas Asesinas		las
 -	ckefe8	Kipucka Destructora	una	la	Kipuckas Destructoras		las
 -	ckeff4	Kipucka Grande	un	la			
 -	ckeje5	Pankom					
--	ckeje7	Kipukya					
+-	ckeje7	Kipuckya					
 -	ckeje8	Kipucka Demoledora	una	la	Kupuckas Demoledoras		las
 -	ckepf8	Kipucka Terminadora	una	la	Kipuckas Terminadoras		las
 -	ckfdf4	Kirosta Grande	una	la	Kirostas Grandes		las
@@ -3975,13 +3975,13 @@
 -	chidf2	Mektoub Mount	a	the	Mektoub Mounts		the
 -	chpde4	Rendor Violento	un	el	Rendors Violentos		los
 -	chpde7	Rendoketh					
--	chsdf7	Shaketh					
+-	chsdf7	Shalaketh					
 -	ckhdf7	Kipeeketh					
 -	cpfdf4	Shooki Devastador	un	el	Shookis Devastadores		los
 -	cpfdf7	Shooketh					
 -	ccafe7	Ginkin					
 -	cceff4	Ragus Grande	un	el	Raguses Grandes		los
--	cceff7	Rakin					
+-	cceff7	Ragukin					
 -	chifc2	Mektoub de Montar	un	el	Mektoubs de Montar		los
 -	chifd2	Mektoub de Montar	un	el	Mektoubs de Montar		los
 -	chife2	Mektoub de Montar	un	el	Mektoubs de Montar		los
@@ -4001,7 +4001,7 @@
 -	chije2	Mektoub de Montar	un	el	Mektoubs de Montar		los
 -	chijf2	Mektoub de Montar	un	el	Mektoubs de Montar		los
 -	chtjf7	Plodekya					
--	chuje7	Womkya					
+-	chuje7	Wombakya					
 -	ckdje5	Llamado Kincher	un	el	Llamados Kinchers		los
 -	ckfjf7	Kirokya					
 -	cpdje7	Slavekya					
@@ -4025,8 +4025,8 @@
 -	ccfpe7	Najakoo					
 -	cchpe7	Varykoo					
 -	ccipd7	Zerkoo					
--	chape7	Arkoo					
--	chgpd7	Lumkoo					
+-	chape7	Armkoo					
+-	chgpd7	Lumpkoo					
 -	chipd2	Mektoub de Montar	un	el	Mektoubs de Montar		los
 -	chipe2	Mektoub de Montar	un	el	Mektoubs de Montar		los
 -	chipf2	Mektoub de Montar	un	el	Mektoubs de Montar		los
@@ -4034,7 +4034,7 @@
 -	chvpf7	Madakoo					
 -	ckape7	Kidikoo					
 -	ckbpf7	Kinkoo					
--	ckjpf7	Kipeskoo					
+-	ckjpf7	Kipekoo					
 -	cpcpf4	Psykopla Sacudida	una	la	Psykoplas Sacudidas		las
 -	cpcpf7	Psykokoo					
 -	mektoub_packer_test	Mektoub Packer	a	the	Mektoub Packers		the
@@ -4188,6 +4188,7 @@
 -	zig_yubo_forest	Zig Yubo	un	el	Zigs Yubos	unos	los	
 -	zig_yubo_lakes	Zig Yubo	un	el	Zigs Yubos	unos	los	
 -	zig_yubo_pr	Zig Yubo	une	el	Zigs Yubos	unos	los	
+-	gnoof_mount_00	Gnoof de Montar	un	el	Gnoofs de Montar		los	
 -	cbadb7	Igaketh					
 -	cbadc7	Igaketh					
 -	cbadd7	Igaketh					
@@ -4211,6 +4212,7 @@
 -	ccbdd7	Clopperketh					
 -	ccbde7	Clopperketh					
 -	ccbdf7	Clopperketh					
+-	cccdb7	Goaketh					
 -	cccdc7	Goaketh					
 -	cccde7	Goaketh					
 -	cccdf7	Goaketh					
@@ -4219,11 +4221,11 @@
 -	ccddd7	Torketh					
 -	ccdde7	Torketh					
 -	ccddf7	Torketh					
--	ccedb7	Raketh					
--	ccedc7	Raketh					
--	ccedd7	Raketh					
--	ccede7	Raketh					
--	ccedf7	Raketh					
+-	ccedb7	Raguketh					
+-	ccedc7	Raguketh					
+-	ccedd7	Raguketh					
+-	ccede7	Raguketh					
+-	ccedf7	Raguketh					
 -	ccfdb7	Najaketh					
 -	ccfdc7	Najaketh					
 -	ccfdd7	Najaketh					
@@ -4289,11 +4291,11 @@
 -	cdcdc7	Fraketh					
 -	cdcde7	Fraketh					
 -	cdcdf7	Fraketh					
--	chadb7	Arketh					
--	chadc7	Arketh					
--	chadd7	Arketh					
--	chade7	Arketh					
--	chadf7	Arketh					
+-	chadb7	Armketh					
+-	chadc7	Armketh					
+-	chadd7	Armketh					
+-	chade7	Armketh					
+-	chadf7	Armketh					
 -	chbdb7	Bodoketh					
 -	chbdc7	Bodoketh					
 -	chbdd7	Bodoketh					
@@ -4313,11 +4315,11 @@
 -	chfdd7	Messaketh					
 -	chfde7	Messaketh					
 -	chfdf7	Messaketh					
--	chgdb7	Lumketh					
--	chgdc7	Lumketh					
--	chgdd7	Lumketh					
--	chgde7	Lumketh					
--	chgdf7	Lumketh					
+-	chgdb7	Lumpketh					
+-	chgdc7	Lumpketh					
+-	chgdd7	Lumpketh					
+-	chgde7	Lumpketh					
+-	chgdf7	Lumpketh					
 -	chhdb7	Meketh					
 -	chhdc7	Meketh					
 -	chhdd7	Meketh					
@@ -4355,19 +4357,19 @@
 -	chrdd7	Bolketh					
 -	chrde7	Bolketh					
 -	chrdf7	Bolketh					
--	chsdb7	Shaketh					
--	chsdc7	Shaketh					
--	chsdd7	Shaketh					
--	chsde7	Shaketh					
+-	chsdb7	Shalaketh					
+-	chsdc7	Shalaketh					
+-	chsdd7	Shalaketh					
+-	chsde7	Shalaketh					
 -	chtdb7	Plodeketh					
 -	chtdc7	Plodeketh					
 -	chtdd7	Plodeketh					
 -	chtdf7	Plodeketh					
--	chudb7	Womketh					
--	chudc7	Womketh					
--	chudd7	Womketh					
--	chude7	Womketh					
--	chudf7	Womketh					
+-	chudb7	Wombaketh					
+-	chudc7	Wombaketh					
+-	chudd7	Wombaketh					
+-	chude7	Wombaketh					
+-	chudf7	Wombaketh					
 -	chvdb7	Madaketh					
 -	chvdc7	Madaketh					
 -	chvdd7	Madaketh					
@@ -4396,10 +4398,10 @@
 -	ckddc7	Kincherketh					
 -	ckddd7	Kincherketh					
 -	ckdde7	Kincherketh					
--	ckedb7	Kipuketh					
--	ckedc7	Kipuketh					
--	ckedd7	Kipuketh					
--	ckedf7	Kipuketh					
+-	ckedb7	Kipucketh					
+-	ckedc7	Kipucketh					
+-	ckedd7	Kipucketh					
+-	ckedf7	Kipucketh					
 -	ckfdb7	Kiroketh					
 -	ckfdc7	Kiroketh					
 -	ckfdd7	Kiroketh					
@@ -4412,6 +4414,7 @@
 -	ckgdf7	Kibaketh					
 -	ckhdb7	Kipeeketh					
 -	ckhdc7	Kipeeketh					
+-	ckhdd7	Kipeeketh					
 -	ckhde7	Kipeeketh					
 -	ckidb7	Kizoketh					
 -	ckidc7	Kizoketh					
@@ -4484,10 +4487,10 @@
 -	ccdfc7	Torkin					
 -	ccdfd7	Torkin					
 -	ccdff7	Torkin					
--	ccefb7	Rakin					
--	ccefc7	Rakin					
--	ccefd7	Rakin					
--	ccefe7	Rakin					
+-	ccefb7	Ragukin					
+-	ccefc7	Ragukin					
+-	ccefd7	Ragukin					
+-	ccefe7	Ragukin					
 -	ccffb7	Najakin					
 -	ccffc7	Najakin					
 -	ccffd7	Najakin					
@@ -4521,10 +4524,10 @@
 -	cclfd7	Ocykin					
 -	cclfe7	Ocykin					
 -	cclff7	Ocykin					
--	ccmfb7	Jugukin					
--	ccmfc7	Jugukin					
--	ccmfd7	Jugukin					
--	ccmfe7	Jugukin					
+-	ccmfb7	Jukin					
+-	ccmfc7	Jukin					
+-	ccmfd7	Jukin					
+-	ccmfe7	Jukin					
 -	ccnfb7	Hornkin					
 -	ccnfc7	Hornkin					
 -	ccnfd7	Hornkin					
@@ -4554,11 +4557,11 @@
 -	cdcfd7	Frakin					
 -	cdcfe7	Frakin					
 -	cdcff7	Frakin					
--	chafb7	Arkin					
--	chafc7	Arkin					
--	chafd7	Arkin					
--	chafe7	Arkin					
--	chaff7	Arkin					
+-	chafb7	Armkin					
+-	chafc7	Armkin					
+-	chafd7	Armkin					
+-	chafe7	Armkin					
+-	chaff7	Armkin					
 -	chbfc7	Bodokin					
 -	chbfd7	Bodokin					
 -	chbfe7	Bodokin					
@@ -4578,11 +4581,11 @@
 -	chffd7	Messakin					
 -	chffe7	Messakin					
 -	chfff7	Messakin					
--	chgfb7	Lumkin					
--	chgfc7	Lumkin					
--	chgfd7	Lumkin					
--	chgfe7	Lumkin					
--	chgff7	Lumkin					
+-	chgfb7	Lumpkin					
+-	chgfc7	Lumpkin					
+-	chgfd7	Lumpkin					
+-	chgfe7	Lumpkin					
+-	chgff7	Lumpkin					
 -	chhfb7	Mekin					
 -	chhfc7	Mekin					
 -	chhfd7	Mekin					
@@ -4619,21 +4622,21 @@
 -	chrfc7	Bolkin					
 -	chrfd7	Bolkin					
 -	chrff7	Bolkin					
--	chsfb7	Shakin					
--	chsfc7	Shakin					
--	chsfd7	Shakin					
--	chsfe7	Shakin					
--	chsff7	Shakin					
+-	chsfb7	Shalakin					
+-	chsfc7	Shalakin					
+-	chsfd7	Shalakin					
+-	chsfe7	Shalakin					
+-	chsff7	Shalakin					
 -	chtfb7	Plodekin					
 -	chtfc7	Plodekin					
 -	chtfd7	Plodekin					
 -	chtfe7	Plodekin					
 -	chtff7	Plodekin					
--	chufb7	Womkin					
--	chufc7	Womkin					
--	chufd7	Womkin					
--	chufe7	Womkin					
--	chuff7	Womkin					
+-	chufb7	Wombakin					
+-	chufc7	Wombakin					
+-	chufd7	Wombakin					
+-	chufe7	Wombakin					
+-	chuff7	Wombakin					
 -	chvfb7	Madakin					
 -	chvfc7	Madakin					
 -	chvfd7	Madakin					
@@ -4661,11 +4664,11 @@
 -	ckdfc7	Kincherkin					
 -	ckdfd7	Kincherkin					
 -	ckdff7	Kincherkin					
--	ckefb7	Kipukin					
--	ckefc7	Kipukin					
--	ckefd7	Kipukin					
--	ckefe7	Kipukin					
--	ckeff7	Kipukin					
+-	ckefb7	Kipuckin					
+-	ckefc7	Kipuckin					
+-	ckefd7	Kipuckin					
+-	ckefe7	Kipuckin					
+-	ckeff7	Kipuckin					
 -	ckffb7	Kirokin					
 -	ckffc7	Kirokin					
 -	ckffd7	Kirokin					
@@ -4821,11 +4824,11 @@
 -	cdcjd7	Frakya					
 -	cdcje7	Frakya					
 -	cdcjf7	Frakya					
--	chajb7	Arkya					
--	chajc7	Arkya					
--	chajd7	Arkya					
--	chaje7	Arkya					
--	chajf7	Arkya					
+-	chajb7	Armkya					
+-	chajc7	Armkya					
+-	chajd7	Armkya					
+-	chaje7	Armkya					
+-	chajf7	Armkya					
 -	chbjb7	Bodokya					
 -	chbjc7	Bodokya					
 -	chbjd7	Bodokya					
@@ -4846,11 +4849,11 @@
 -	chfjd7	Messakya					
 -	chfje7	Messakya					
 -	chfjf7	Messakya					
--	chgjb7	Lumkya					
--	chgjc7	Lumkya					
--	chgjd7	Lumkya					
--	chgje7	Lumkya					
--	chgjf7	Lumkya					
+-	chgjb7	Lumpkya					
+-	chgjc7	Lumpkya					
+-	chgjd7	Lumpkya					
+-	chgje7	Lumpkya					
+-	chgjf7	Lumpkya					
 -	chhjb7	Mekya					
 -	chhjc7	Mekya					
 -	chhjd7	Mekya					
@@ -4889,19 +4892,19 @@
 -	chrjd7	Bolkya					
 -	chrje7	Bolkya					
 -	chrjf7	Bolkya					
--	chsjb7	Shakya					
--	chsjc7	Shakya					
--	chsjd7	Shakya					
--	chsje7	Shakya					
--	chsjf7	Shakya					
+-	chsjb7	Shalakya					
+-	chsjc7	Shalakya					
+-	chsjd7	Shalakya					
+-	chsje7	Shalakya					
+-	chsjf7	Shalakya					
 -	chtjb7	Plodekya					
 -	chtjc7	Plodekya					
 -	chtjd7	Plodekya					
 -	chtje7	Plodekya					
--	chujb7	Womkya					
--	chujc7	Womkya					
--	chujd7	Womkya					
--	chujf7	Womkya					
+-	chujb7	Wombakya					
+-	chujc7	Wombakya					
+-	chujd7	Wombakya					
+-	chujf7	Wombakya					
 -	chvjb7	Madakya					
 -	chvjc7	Madakya					
 -	chvjd7	Madakya					
@@ -4927,14 +4930,16 @@
 -	ckbjf7	Kinkya					
 -	ckdjb7	Kincherkya					
 -	ckdjc7	Kincherkya					
+-	ckdjd7	Kincherkya					
 -	ckdjf7	Kincherkya					
--	ckejb7	Kipukya					
--	ckejc7	Kipukya					
--	ckejd7	Kipukya					
--	ckejf7	Kipukya					
+-	ckejb7	Kipuckya					
+-	ckejc7	Kipuckya					
+-	ckejd7	Kipuckya					
+-	ckejf7	Kipuckya					
 -	ckfjb7	Kirokya					
 -	ckfjc7	Kirokya					
 -	ckfjd7	Kirokya					
+-	ckfje7	Kirokya					
 -	ckgjb7	Kibakya					
 -	ckgjc7	Kibakya					
 -	ckgjd7	Kibakya					
@@ -4980,7 +4985,7 @@
 -	cpeje7	Cratchakya					
 -	cpejf7	Cratchakya					
 -	cpfjb7	Shookya					
--	cpfjc7	Shookya						
+-	cpfjc7	Shookya					
 -	cpfjd7	Shookya					
 -	cpfje7	Shookya					
 -	cpfjf7	Shookya					
@@ -5109,11 +5114,11 @@
 -	chfld7	Messakan					
 -	chfle7	Messakan					
 -	chflf7	Messakan					
--	chglb7	Lumkan					
--	chglc7	Lumkan					
--	chgld7	Lumkan					
--	chgle7	Lumkan					
--	chglf7	Lumkan					
+-	chglb7	Lumpkan					
+-	chglc7	Lumpkan					
+-	chgld7	Lumpkan					
+-	chgle7	Lumpkan					
+-	chglf7	Lumpkan					
 -	chhlb7	Mekan					
 -	chhlc7	Mekan					
 -	chhld7	Mekan					
@@ -5332,6 +5337,7 @@
 -	ccopb7	Tyrakoo					
 -	ccopc7	Tyrakoo					
 -	ccopd7	Tyrakoo					
+-	ccope7	Tyrakoo					
 -	ccppb7	Yetikoo					
 -	ccppc7	Yetikoo					
 -	ccppd7	Yetikoo					
@@ -5351,10 +5357,10 @@
 -	cdcpd7	Frakoo					
 -	cdcpe7	Frakoo					
 -	cdcpf7	Frakoo					
--	chapb7	Arkoo					
--	chapc7	Arkoo					
--	chapd7	Arkoo					
--	chapf7	Arkoo					
+-	chapb7	Armkoo					
+-	chapc7	Armkoo					
+-	chapd7	Armkoo					
+-	chapf7	Armkoo					
 -	chbpb7	Bodokoo					
 -	chbpc7	Bodokoo					
 -	chbpd7	Bodokoo					
@@ -5375,9 +5381,10 @@
 -	chfpd7	Messakoo					
 -	chfpe7	Messakoo					
 -	chfpf7	Messakoo					
--	chgpb7	Lumkoo					
--	chgpc7	Lumkoo					
--	chgpe7	Lumkoo					
+-	chgpb7	Lumpkoo					
+-	chgpc7	Lumpkoo					
+-	chgpe7	Lumpkoo					
+-	chgpf7	Lumpkoo					
 -	chhpb7	Mekoo					
 -	chhpc7	Mekoo					
 -	chhpd7	Mekoo					
@@ -5390,6 +5397,7 @@
 -	chlpb7	Yelkoo					
 -	chlpc7	Yelkoo					
 -	chlpd7	Yelkoo					
+-	chlpe7	Yelkoo					
 -	chmpb7	Raspakoo					
 -	chmpc7	Raspakoo					
 -	chmpd7	Raspakoo					
@@ -5415,21 +5423,21 @@
 -	chrpd7	Bolkoo					
 -	chrpe7	Bolkoo					
 -	chrpf7	Bolkoo					
--	chspb7	Shakoo					
--	chspc7	Shakoo					
--	chspd7	Shakoo					
--	chspe7	Shakoo					
--	chspf7	Shakoo					
+-	chspb7	Shalakoo					
+-	chspc7	Shalakoo					
+-	chspd7	Shalakoo					
+-	chspe7	Shalakoo					
+-	chspf7	Shalakoo					
 -	chtpb7	Plodekoo					
 -	chtpc7	Plodekoo					
 -	chtpd7	Plodekoo					
 -	chtpe7	Plodekoo					
 -	chtpf7	Plodekoo					
--	chupb7	Womkoo					
--	chupc7	Womkoo					
--	chupd7	Womkoo					
--	chupe7	Womkoo					
--	chupf7	Womkoo					
+-	chupb7	Wombakoo					
+-	chupc7	Wombakoo					
+-	chupd7	Wombakoo					
+-	chupe7	Wombakoo					
+-	chupf7	Wombakoo					
 -	chvpb7	Madakoo					
 -	chvpc7	Madakoo					
 -	chvpd7	Madakoo					
@@ -5453,6 +5461,7 @@
 -	ckbpe7	Kinkoo					
 -	ckdpb7	Kincherkoo					
 -	ckdpc7	Kincherkoo					
+-	ckdpd7	Kincherkoo					
 -	ckdpe7	Kincherkoo					
 -	ckepb7	Kipukoo					
 -	ckepc7	Kipukoo					
@@ -5461,6 +5470,7 @@
 -	ckfpb7	Kirokoo					
 -	ckfpc7	Kirokoo					
 -	ckfpd7	Kirokoo					
+-	ckfpe7	Kirokoo					
 -	ckgpb7	Kibakoo					
 -	ckgpc7	Kibakoo					
 -	ckgpd7	Kibakoo					
@@ -5473,12 +5483,13 @@
 -	ckipc7	Kizokoo					
 -	ckipd7	Kizokoo					
 -	ckipe7	Kizokoo					
--	ckjpb7	Kipeskoo					
--	ckjpc7	Kipeskoo					
--	ckjpd7	Kipeskoo					
--	ckjpe7	Kipeskoo					
+-	ckjpb7	Kipekoo					
+-	ckjpc7	Kipekoo					
+-	ckjpd7	Kipekoo					
+-	ckjpe7	Kipekoo					
 -	cpapb7	Jukoo					
 -	cpapc7	Jukoo					
+-	cpapd7	Jukoo					
 -	cpape7	Jukoo					
 -	cpbpb7	Stinkoo					
 -	cpbpc7	Stinkoo					
@@ -5504,4 +5515,3 @@
 -	cpfpd7	Shookoo					
 -	cpfpe7	Shookoo					
 -	cpfpf7	Shookoo					
--	gnoof_mount_00	Gnoof de Montar	un	el	Gnoofs de Montar		los	
