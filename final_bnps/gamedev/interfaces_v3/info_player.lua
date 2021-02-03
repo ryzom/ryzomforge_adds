@@ -1336,6 +1336,54 @@ function game:setCapIcon(icon)
 	getUI("ui:interface:info_player_journal:content:cap_group:cap_icon").texture = icon
 end
 
+
+function game:autoHideCapPopup()
+
+	if game.autoHideCapTimer == 0 then
+		alpha = nltime.getLocalTime() - game.autoHideCapStartTime
+		if alpha >= 254*5 then
+			setOnDraw(getUI("ui:interface:cap_popup"), "")
+			getUI("ui:interface:cap_popup").active=false
+		else
+			getUI("ui:interface:cap_popup").alpha=255-math.floor(alpha/5)
+		end
+	else
+		if game.autoHideCapStartTime + game.autoHideCapTimer < nltime.getLocalTime() then
+			game.autoHideCapStartTime = nltime.getLocalTime()
+			game.autoHideCapTimer = 0
+		end
+	end
+end
+
+function game:displayRpMessage(message, icon)
+	if icon == nil then
+		icon = "rpjob_roleplay.tga"
+	end
+
+	local htmlcode = [[
+	<body style="font-style: italic; font-weight: bold; color: white; background-position: center; background-image: url(pretty_notif.tga)">
+	<table width="100%" cellspacing="0" cellpadding="0">
+	<tr>
+		<td id="icon" align="center" width="750" valign="middle" height="40px"><img src="]]..icon..[["/></td>
+	</tr><tr>
+	<tr>
+		<td align="center">]]..message..[[</td>
+	</tr>
+	</table>
+	</body>
+	]]
+
+	getUI("ui:interface:cap_popup:html"):renderHtml(htmlcode)
+	setTopWindow(getUI("ui:interface:cap_popup"))
+	getUI("ui:interface:cap_popup").alpha=255
+	getUI("ui:interface:cap_popup"):center()
+	getUI("ui:interface:cap_popup").y = getUI("ui:interface").h-170
+	getUI("ui:interface:cap_popup").active = true
+	game.autoHideCapStartTime = nltime.getLocalTime()
+	game.autoHideCapTimer = 3000
+	setOnDraw(getUI("ui:interface:cap_popup"), "game:autoHideCapPopup()")
+end
+
 function game:setCapProgress(value, text)
 	if value == nil then
 		getUI("ui:interface:info_player_journal:content:cap_group:cap_progress").active = false
@@ -1373,11 +1421,6 @@ function game:setNextUrl(url)
 	game.CapNextUrl = url
 end
 
-function game:setRpMessage(message)
-	-- TODO
-end
-
-
 function setCap(channel, element, a, b)
 	if element == nil then
 		game.CapChannel = channel
@@ -1406,12 +1449,11 @@ function setCap(channel, element, a, b)
 	elseif element == "o" then
 		game:setInfosUrl(a)
 	elseif element == "r" then
-		game:setRpMessage(a)
+		game:displayRpMessage(a, b)
 	elseif element == "b" then
 		broadcast(a, b)
 	end
 end
-
 
 
 function game:openMissionsCatalog()
