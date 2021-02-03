@@ -1376,8 +1376,8 @@ function game:displayRpMessage(message, icon)
 	getUI("ui:interface:cap_popup:html"):renderHtml(htmlcode)
 	setTopWindow(getUI("ui:interface:cap_popup"))
 	getUI("ui:interface:cap_popup").alpha=255
-	getUI("ui:interface:cap_popup"):center()
 	getUI("ui:interface:cap_popup").y = getUI("ui:interface").h-170
+	getUI("ui:interface:cap_popup").x = math.floor(getUI("ui:interface").w / 2) - 400
 	getUI("ui:interface:cap_popup").active = true
 	game.autoHideCapStartTime = nltime.getLocalTime()
 	game.autoHideCapTimer = 3000
