@@ -377,7 +377,7 @@ _CF9EF5874F0F7D3D	place_outpost_pr_10	Forteresse de la Ruelle	la	dans la	Fortere
 _946219632AAAB87C	place_outpost_pr_11	Centre de Recherche du Cromlech Supérieur	le	dans le	Centres de Recherche du Cromlech Supérieur	les	dans les
 _AAEC841D2EAA3907	place_outpost_pr_12	Forteresse des Basses Collines	la	dans la	Forteresses des Basses Collines	les	dans les
 _E9D34584471079BA	place_outpost_pr_13	Centre de Recherche des Basses Collines	le	dans le	Centres de Recherche des Basses Collines	les	dans les
-_58F7A636B023ED3F	place_outpost_nexus_01	Avant-poste Nexori ((En test, instable))	l'	dans l'	Avant-poste Nexori ((En test, instable))	les	dans les
+_58F7A636B023ED3F	place_outpost_nexus_01	Avant-poste Nexnor ((En test, instable))	l'	dans l'	Avant-poste Nexnor ((En test, instable))	les	dans les
 _18910A55823C680F	place_outpost_nexus_02	Centre d'observation karavanier	le	dans le	Centre d'observation karavanier	les	dans les
 _BF8095041987976A	place_outpost_nexus_03	Avant-poste Nexocc ((En test, instable))	l'	dans l'	Avant-poste Nexocc ((En test, instable))	les	dans les
 _263C57F8056069A2	place_outpost_nexus_04	Avant-poste Nexori ((En test, instable))	l'	dans l'	Avant-poste Nexori ((En test, instable))	les	dans les
