@@ -377,13 +377,13 @@ _CF9EF5874F0F7D3D	place_outpost_pr_10	Alleyways Bluff Stronghold	\d
 _946219632AAAB87C	place_outpost_pr_11	High Henge Research Center	\d
 _AAEC841D2EAA3907	place_outpost_pr_12	Lowhills Stronghold	\d
 _E9D34584471079BA	place_outpost_pr_13	Lowhills Research Center	\d
-_58F7A636B023ED3F	place_outpost_nexus_01	Ichorgate Research Center	\d
-_18910A55823C680F	place_outpost_nexus_02	Hammer Hills Trade Post	\d
-_BF8095041987976A	place_outpost_nexus_03	Umbragate Farm	\d
-_263C57F8056069A2	place_outpost_nexus_04	Destiny's End Diplomatic Outpost	\d
-_3DF09127326D24EB	place_outpost_nexus_05	Watchcomb Workshop	\d
-_3EE16D0918E65F7D	place_outpost_nexus_06	Highwatch Farm	\d
-_7D07A2802AA970CF	place_outpost_nexus_07	Wastegate Border Post	\d
+_58F7A636B023ED3F	place_outpost_nexus_01	Outpost of the Northern Nexus ((Experimental and Unstable))	\d
+_18910A55823C680F	place_outpost_nexus_02	Karavan Observation Camp	\d
+_BF8095041987976A	place_outpost_nexus_03	Outpost of the Western Nexus ((Experimental and Unstable))	\d
+_263C57F8056069A2	place_outpost_nexus_04	Outpost of the Eastern Nexus ((Experimental and Unstable))	\d
+_3DF09127326D24EB	place_outpost_nexus_05	Kamist Observation Camp	\d
+_3EE16D0918E65F7D	place_outpost_nexus_06	Marauder Observation Camp	\d
+_7D07A2802AA970CF	place_outpost_nexus_07	Outpost of the Southern Nexus ((Experimental and unstable))	\d
 _9A62193E9DCCD68A	place_outpost_pr_01	West Saprun Research Center	\d
 _7DEC8005D64D3D17	place_outpost_pr_02	East Saprun Workshop	\d
 _BAFC701971E1D9CD	place_outpost_pr_03	Nexusgate Stronghold	\d
