@@ -1917,3 +1917,5 @@ _1D75FA6A3E3B6D24	fct_ranger_quartermaster	Quartier-maître Ranger
 _A2167788E6C9D4AB	fct_arionasiszig	Zig d'Arionasis			
 _2456DF8A68093CAD	fct_tyneetrykzig	Zig de Tyneetryk			
 _884A89BAA76FDD16	gn_fresh_water_barrel	Fût d'eau fraîche			
+_	fct_marauder_ambassador	 Ambassadeur des Maraudeurs	Ambassadrice des Maraudeurs
+_	fct_marauder_windofmuse	(Vents du Songe)
