@@ -1919,3 +1919,4 @@ _2456DF8A68093CAD	fct_tyneetrykzig	Tyneetryk's Zig
 _884A89BAA76FDD16	gn_fresh_water_barrel	Barril de agua fresca		
 _	fct_marauder_ambassador	 Embajador Marauder	Embajadora Marauder	
 _	fct_marauder_windofmuse	(Vientos de la Musa)	
+_	gn_driller_marauder_const	Aklareen en construcción 		
