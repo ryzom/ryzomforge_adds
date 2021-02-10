@@ -377,13 +377,13 @@ _CF9EF5874F0F7D3D	place_outpost_pr_10	Festung am Klippendurchgang	Festung am Kli
 _946219632AAAB87C	place_outpost_pr_11	Forschungszentrum am Oberen Steinkreis	Forschungszentrum am Oberen Steinkreis	Forschungszentrum am Oberen Steinkreis	das	das	auf dem	zum
 _AAEC841D2EAA3907	place_outpost_pr_12	Festung in den Kleinen Hügeln	Festung in den Kleinen Hügeln	Festung in den Kleinen Hügeln	die	die	auf der	zur
 _E9D34584471079BA	place_outpost_pr_13	Forschungszentrum in den Kleinen Hügeln	Forschungszentrum in den Kleinen Hügeln	Forschungszentrum in den Kleinen Hügeln	das	das	auf dem	zum
-_58F7A636B023ED3F	place_outpost_nexus_01	Tor von Ichor - Forschungszentrum	Tor von Ichor - Forschungszentrum	Tor von Ichor - Forschungszentrum	das	das	auf dem	zum
-_18910A55823C680F	place_outpost_nexus_02	Hammerhöhen-Handelsposten	Hammerhöhen-Handelsposten	Hammerhöhen-Handelsposten	der	den	auf dem	zum
-_BF8095041987976A	place_outpost_nexus_03	Tor nach Umbra - Hof	Tor nach Umbra - Hof	Tor nach Umbra - Hof	der	den	auf dem	zum
-_263C57F8056069A2	place_outpost_nexus_04	Diplomatischer Außenposten am Schicksalsende	Diplomatischen Außenposten am Schicksalsende	Diplomatischen Außenposten am Schicksalsende	der	den	auf dem	zum
-_3DF09127326D24EB	place_outpost_nexus_05	Talwacht-Werkstatt	Talwacht-Werkstatt	Talwacht-Werkstatt	die	die	auf der	zur
-_3EE16D0918E65F7D	place_outpost_nexus_06	Hohe Wacht - Hof	Hohe Wacht - Hof	Hohe Wacht - Hof	der	den	auf dem	zum
-_7D07A2802AA970CF	place_outpost_nexus_07	Tor ins Niemandsland – Grenzposten	Tor ins Niemandsland - Grenzposten	Tor ins Niemandsland - Grenzposten	der	den	auf dem	zum
+_58F7A636B023ED3F	place_outpost_nexus_01	Außenposten des nördlichen Nexus (Experimentell und instabil)	Außenposten des nördlichen Nexus (Experimentell und instabil)	Außenposten des nördlichen Nexus (Experimentell und instabil)	das	das	auf dem	zum
+_18910A55823C680F	place_outpost_nexus_02	Beobachtungslager der Karavan	Beobachtungslager der Karavan	Beobachtungslager der Karavan	der	den	auf dem	zum
+_BF8095041987976A	place_outpost_nexus_03	Außenposten des westlichen Nexus (Experimentell und instabil)	Außenposten des westlichen Nexus (Experimentell und instabil)	Außenposten des westlichen Nexus (Experimentell und instabil)	der	den	auf dem	zum
+_263C57F8056069A2	place_outpost_nexus_04	Außenposten des östlichen Nexus (Experimentell und instabil)	Außenposten des östlichen Nexus (Experimentell und instabil)	Außenposten des östlichen Nexus (Experimentell und instabil)	der	den	auf dem	zum
+_3DF09127326D24EB	place_outpost_nexus_05	Beobachtungslager der Kami	Beobachtungslager der Kami	Beobachtungslager der Kami	die	die	auf der	zur
+_3EE16D0918E65F7D	place_outpost_nexus_06	Beobachtungslager der Marodeure	Beobachtungslager der Marodeure	Beobachtungslager der Marodeure	der	den	auf dem	zum
+_7D07A2802AA970CF	place_outpost_nexus_07	Außenposten des südlichen Nexus (Experimentell und instabil)	Außenposten des südlichen Nexus (Experimentell und instabil)	Außenposten des südlichen Nexus (Experimentell und instabil)	der	den	auf dem	zum
 _9A62193E9DCCD68A	place_outpost_pr_01	Forschungszentrum an der Westlichen Sapquelle	Forschungszentrum an der Westlichen Sapquelle	Forschungszentrum an der Westlichen Sapquelle	das	das	auf dem	zum
 _7DEC8005D64D3D17	place_outpost_pr_02	Werkstatt an der Östlichen Sapquelle	Werkstatt an der Östlichen Sapquelle	Werkstatt an der Östlichen Sapquelle	die	die	auf der	zur
 _BAFC701971E1D9CD	place_outpost_pr_03	Festung an der Nexuspforte	Festung an der Nexuspforte	Festung an der Nexuspforte	die	die	auf der	zur
@@ -1022,3 +1022,5 @@ _21DA6911ACFA50CE	uiR2_Primes24	Kitin Verwüstung	Kitin Verwüstung	Kitin Verwü
 _66F91C1DEB1D7CE3	uiR2_Primes07	Ruinen der Vergangenheit	Ruinen der Vergangenheit	Ruinen der Vergangenheit	der	den	beim	zum
 _56003123638648DA	uiR2_Primes11	Tal der Sporen	Tal der Sporen	Tal der Sporen	der	den	beim	zum
 _92D80067274BA75E	uiR2_Primes12	Der Bienenstock	Der Bienenstock	Der Bienenstock	der	den	beim	zum
+_	place_marauder_camp_restingwater	Lager der Marodeure	Lager der Marodeure	Lager der Marodeure	das	das	im	zum
+_	marauder_camp_stable	Stall der Marodeure	Stall der Marodeure	Stall der Marodeure	der	den	beim	zum

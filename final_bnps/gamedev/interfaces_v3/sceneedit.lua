@@ -13,7 +13,7 @@ if SceneEditor == nil then
 		Groups = {},
 		LastEditedGroup = nil,
 		HaveUpdate = nil
-		
+
 	};
 end
 
@@ -86,7 +86,7 @@ function SceneEditor:launch_menu(id)
 	subMenu:addIconLine(ucstring("Axe Y"), "lua", "ARK_SHAPE_LATEST_X, ARK_SHAPE_LATEST_Y = getMousePos(); setOnDraw(getUI('ui:interface:ark_scene_editor'), 'SceneEditor:scale(SelectedInstanceId, \"y\")')", "shape_scale_y", "ark_scale_y.tga")
 	subMenu:addIconLine(ucstring("Axe Z"), "lua", "ARK_SHAPE_LATEST_X, ARK_SHAPE_LATEST_Y = getMousePos(); setOnDraw(getUI('ui:interface:ark_scene_editor'), 'SceneEditor:scale(SelectedInstanceId, \"z\")')", "shape_scale_z", "ark_scale_z.tga")
 	subMenu:addIconLine(ucstring("Axes X & Y & Z"), "lua", "ARK_SHAPE_LATEST_X, ARK_SHAPE_LATEST_Y = getMousePos(); setOnDraw(getUI('ui:interface:ark_scene_editor'), 'SceneEditor:scale(SelectedInstanceId, \"xyz\")')", "shape_scale_xyz", "ark_scale_xyz.tga")
-	
+
 	menu:addLine(ucstring("-- COLLISION EDITION --"), "", "", "col_header")
 	menu:addLine(ucstring("Move"), "", "", "col_move")
 	menu:addSubMenu(5)
@@ -120,7 +120,7 @@ function arcc_tools_check_rclick()
 	end
 end
 
-function SceneEditor:move(id, axe)	
+function SceneEditor:move(id, axe)
 	local d, mx, my = getMouseDown()
 	if d then
 		setOnDraw(getUI("ui:interface:ark_scene_editor"), "")
@@ -143,7 +143,7 @@ function SceneEditor:move(id, axe)
 			SceneEditor:set_modified(id)
 			self:get_html("Moved to player")
 		end
-	   
+
 	end
 end
 
@@ -214,7 +214,7 @@ end
 
 function SceneEditor:col_move(id, axe)
 	local d, mx, my = getMouseDown()
-	
+
 	if d then
 		setOnDraw(getUI("ui:interface:ark_scene_editor"), "")
 		self:set_modified(id)
@@ -410,14 +410,14 @@ function SceneEditor:removeGroup(group, no_get_html)
 	if self.Groups[group] == nil then
 		return
 	end
-	
+
 	for k,shape_id in pairs(self.Groups[group]) do
 		if k ~= "props" then
 			self.Shapes[shape_id] = nil
 			deleteShape(shape_id)
 		end
 	end
-	
+
 	self.Groups[group] = nil
 	if self.LastEditedGroup == group then
 		self.LastEditedGroup = nil
@@ -433,7 +433,7 @@ end
 
 function SceneEditor:enc64(data)
 	local b='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/'
-    return ((data:gsub('.', function(x) 
+    return ((data:gsub('.', function(x)
         local r,b='',x:byte()
         for i=8,1,-1 do r=r..(b%2^i-b%2^(i-1)>0 and '1' or '0') end
         return r;
@@ -450,7 +450,7 @@ function SceneEditor:get_vector(x, y, z)
 	table.insert(vector, x)
 	table.insert(vector, y)
 	table.insert(vector, z)
-	
+
 	return vector
 end
 
@@ -459,7 +459,7 @@ function SceneEditor:get_random_color()
 	local g = math.random(44, 66);
 	local b = math.random(44, 66);
 	return '#'..tostring(r)..tostring(g)..tostring(b)
-	
+
 end
 
 function pairsByKeys(t, f)
@@ -501,7 +501,7 @@ function SceneEditor:getShapesByGroups()
 		if shape.group == nil then
 			shape.group = ""
 		end
-		
+
 		if groups[shape.group] == nil then
 			groups[shape.group] = {}
 		end
@@ -525,15 +525,15 @@ function SceneEditor:get_html(message, message_bg)
 
 	html = html .. '<form action="'..self.baseUrl..'_SaveShapes" method="POST"><input type="hidden" name="group" value="'..(self.LastEditedGroup or "")..'" /><input type="hidden" name="scene_id" value="'..self.sceneId..'" />\
 	<table width="100%" cellspacing="0" cellpadding="0">'
-	
+
 	local groups = self:getShapesByGroups()
-	
+
 	for group, shapes in pairsByKeys(self.Groups) do
 		debug("Group : "..group)
 		local groupname = group
 		html = html .. '<tr bgcolor="#444444"><td height="20px"><table width="100%"><tr><td>&nbsp;'..groupname..' ('..(self.Groups[group].props.count or '0')..') </td><td align="right"><input type="hidden" name="shape[]", value="#"/>'
-		
-		
+
+
 		if self.Groups[group].props.show then
 			debug("Group : show")
 			if self.Groups[group].props.edit then
@@ -549,8 +549,9 @@ function SceneEditor:get_html(message, message_bg)
 		else
 			html = html .. '<a class="ryzom-ui-button" href="'..self.baseUrl..'_SaveShapes&amp;show_group='..group..'">'..self.T["show"]..'</a>'
 		end
-		
+
 		local shapes_html = ""
+		local shapes_html_dict = {}
 		local show = self.Groups[group].props.show
 		if self.Groups[group].props.edit then
 			shapes_id = groups[group]
@@ -588,10 +589,16 @@ function SceneEditor:get_html(message, message_bg)
 								 text_color = "55aa55"
 							end
 						end
-						shapes_html = shapes_html .. "<tr bgcolor='#"..color.."'><td height='20px'>&nbsp;<input type='hidden' name='shape[]', value='"..SceneEditor:enc64((shape.db_id or '')..":"..Json.encode(shape)).."' />"..'#'..(shape.db_id or '0').." <a href='ah:lua:SceneEditor:launch_menu("..tostring(shape_id)..")'><font color='#"..text_color.."'>"..shape.file.."</font></a></td>\
-						<td width='16px'><a href='ah:lua:SceneEditor:removeShape("..tostring(shape_id)..")'><img src='"..self.iconsUrl.."/16/cross.png' /></a></td>\
-						</tr>"
+						shapes_html_dict.insert({id=shape.db_id, html="<tr bgcolor='#"..color.."'><td height='20px'>&nbsp;<input type='hidden' name='shape[]', value='"..SceneEditor:enc64((shape.db_id or '')..":"..Json.encode(shape)).."' />"..'#'..(shape.db_id or '0').." <a href='ah:lua:SceneEditor:launch_menu("..tostring(shape_id)..")'><font color='#"..text_color.."'>"..shape.file.."</font></a></td>\
+						<td width='30px'><a href='ah:lua:SceneEditor:editShapeProperties("..tostring(shape_id)..")'><img src='"..self.iconsUrl.."/16/layout_edit.png' /></a></td>\
+						<td width='3px'><a href='ah:lua:SceneEditor:removeShape("..tostring(shape_id)..")'><img src='"..self.iconsUrl.."/16/cross.png' /></a></td>\
+						</tr>"})
 					end
+				end
+
+				table.sort(shapes_html_dict, function (a, b) return a.id < b.idd end)
+				for k,shape in ipairs(shapes_html_dict) do
+					shapes_html = shape.html .. shapes_html
 				end
 			end
 		else
@@ -600,14 +607,14 @@ function SceneEditor:get_html(message, message_bg)
 				html = html .. '</td><td align="right"><a class="ryzom-ui-button" href="'..self.baseUrl..'_SaveShapes&amp;reset_scene=1&amp;del_group='..group..'">'..self.T["remove"]..'</a>'
 			end
 		end
-		
+
 		if self.Groups[group].props.modified then
 			html = html .. '&nbsp;&nbsp;<input type="submit" value="'..self.T["save"]..'" />'
 		end
 		html = html .. '</td></tr></table></td><td></td></tr>'..shapes_html
-		
+
 	end
-	
+
 	html = html .. '</table></form>'
 	ui = getUI("ui:interface:ark_scene_editor:browser:content:html", false)
 	if ui then

@@ -377,13 +377,13 @@ _CF9EF5874F0F7D3D	place_outpost_pr_10	Forteresse de la Ruelle	la	dans la	Fortere
 _946219632AAAB87C	place_outpost_pr_11	Centre de Recherche du Cromlech Supérieur	le	dans le	Centres de Recherche du Cromlech Supérieur	les	dans les
 _AAEC841D2EAA3907	place_outpost_pr_12	Forteresse des Basses Collines	la	dans la	Forteresses des Basses Collines	les	dans les
 _E9D34584471079BA	place_outpost_pr_13	Centre de Recherche des Basses Collines	le	dans le	Centres de Recherche des Basses Collines	les	dans les
-_58F7A636B023ED3F	place_outpost_nexus_01	Centre de Recherche de la Porte d'Ichor	le	dans le	Centres de Recherche de la Porte d'Ichor	les	dans les
-_18910A55823C680F	place_outpost_nexus_02	Poste d'Echange des Collines Martelées	le	dans le	Postes d'Echange des Collines Martelées	les	dans les
-_BF8095041987976A	place_outpost_nexus_03	Ferme de la Porte des Ombres	la	dans la	Fermes de la Porte des Ombres	les	dans les
-_263C57F8056069A2	place_outpost_nexus_04	Avant-Poste Diplomatique de la Fin de la Destinée	l'\d	dans l'	Avant-Postes Diplomatiques de la Fin de la Destinée	les	dans les
-_3DF09127326D24EB	place_outpost_nexus_05	Atelier de Gardecombe	l'\d	dans l'	Ateliers de Gardecombe	les	dans les
-_3EE16D0918E65F7D	place_outpost_nexus_06	Ferme de la Crête Surveillée	la	dans la	Fermes de la Crête Surveillée	les	dans les
-_7D07A2802AA970CF	place_outpost_nexus_07	Poste Frontière de la Porte des Terres Désolées	le	dans le	Postes Frontières de la Porte des Terres Désolées	les	dans les
+_58F7A636B023ED3F	place_outpost_nexus_01	Avant-poste Nexnor ((En test, instable))	l'	dans l'	Avant-poste Nexnor ((En test, instable))	les	dans les
+_18910A55823C680F	place_outpost_nexus_02	Centre d'observation karavanier	le	dans le	Centre d'observation karavanier	les	dans les
+_BF8095041987976A	place_outpost_nexus_03	Avant-poste Nexocc ((En test, instable))	l'	dans l'	Avant-poste Nexocc ((En test, instable))	les	dans les
+_263C57F8056069A2	place_outpost_nexus_04	Avant-poste Nexori ((En test, instable))	l'	dans l'	Avant-poste Nexori ((En test, instable))	les	dans les
+_3DF09127326D24EB	place_outpost_nexus_05	Centre d'observation kamiste	le	dans le	Centre d'observation kamiste	les	dans les
+_3EE16D0918E65F7D	place_outpost_nexus_06	Centre d'observation maraudeur	le	dans le	Centre d'observation maraudeur	les	dans les
+_7D07A2802AA970CF	place_outpost_nexus_07	Avant-poste Nexud ((En test, instable))	l'	dans l'	Avant-poste Nexud ((En test, instable))	les	dans les
 _9A62193E9DCCD68A	place_outpost_pr_01	Centre de Recherche de la Montée de Sève Ouest	le	dans le	Centres de Recherche de la Montée de Sève Ouest	les	dans les
 _7DEC8005D64D3D17	place_outpost_pr_02	Atelier de la Montée de Sève Est	l'\d	dans l'	Ateliers de la Montée de Sève Est	les	dans les
 _BAFC701971E1D9CD	place_outpost_pr_03	Forteresse de la Porte du Nexus	la	dans la	Forteresses de la Porte du Nexus	les	dans les
@@ -1022,3 +1022,5 @@ _21DA6911ACFA50CE	uiR2_Primes24	Désolation des Kitins	le	dans le
 _66F91C1DEB1D7CE3	uiR2_Primes07	Ruines du passé	le	dans le			
 _56003123638648DA	uiR2_Primes11	Vallée des spores	le	dans le			
 _92D80067274BA75E	uiR2_Primes12	La ruche	le	dans le			
+_	place_marauder_camp_restingwater	Camp Maraudeur	le	dans le			
+_	marauder_camp_stable	Etables Maraudeurs	les	dans les	Etables Maraudeurs	les	dans les
