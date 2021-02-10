@@ -822,3 +822,5 @@ _3FEFB69CBBDF4DAB	place_lieudit_marauder_arena	Arena Merodeadora	la
 _A59A81E8140A6CA7	marauder_stable	Establos Merodeadores	los
 _29AC391EC68F71FC	continent_r2_forest	Cumbres Borrascosas	las
 _BAA17AACA3D42E1E	region_zorai_islands	Camino de Oflovak -- Jungla	el
+_	place_marauder_camp_restingwater	Campamento Merodeador	el	
+_	marauder_camp_stable	Establos Merodeadores	los

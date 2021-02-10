@@ -1022,3 +1022,5 @@ _21DA6911ACFA50CE	uiR2_Primes24	Désolation des Kitins	le	dans le
 _66F91C1DEB1D7CE3	uiR2_Primes07	Ruines du passé	le	dans le			
 _56003123638648DA	uiR2_Primes11	Vallée des spores	le	dans le			
 _92D80067274BA75E	uiR2_Primes12	La ruche	le	dans le			
+_	place_marauder_camp_restingwater	Camp Maraudeur	le	dans le			
+_	marauder_camp_stable	Etables Maraudeurs	les	dans les	Etables Maraudeurs	les	dans les
