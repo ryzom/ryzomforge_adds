@@ -6950,3 +6950,5 @@
 -	zig_yubo_lakes	Zig Yubo	Zig Yubo		Zig Yubo	Zig Yubo	Zig Yubo	
 -	zig_yubo_forest	Zig Yubo	Zig Yubo		Zig Yubo	Zig Yubo	Zig Yubo	
 -	gnoof_mount_0	
+-	s2e1_seve_suc	
+-	s2e1_salins	

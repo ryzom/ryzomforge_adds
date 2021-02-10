@@ -4189,3 +4189,5 @@
 -	zig_yubo_lakes	Zig Yubo	un	le	Zigs Yubos	des	les	
 -	zig_yubo_pr	Zig Yubo	un	le	Zigs Yubos	des	les	
 -	gnoof_mount_00	
+-	object_trough_full_sel	auge pleine	une	la	auges pleines	des	les		
+-	object_trough_empty_sel		auge vide	une	la	auges vides	des	les		

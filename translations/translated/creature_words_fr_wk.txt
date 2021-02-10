@@ -5505,3 +5505,5 @@
 -	cpfpe7	Shookoo	un	le	Shookoos	des	les	du	au
 -	cpfpf7	Shookoo	un	le	Shookoos	des	les	du	au
 -	gnoof_mount_00	Monture Gnoof	une	la	Montures Gnoof	des	les	
+-	object_trough_empty_sel		auge vide	une	la	auges vides	des	les		
+-	object_trough_full_sel	auge pleine	une	la	auges pleines	des	les		

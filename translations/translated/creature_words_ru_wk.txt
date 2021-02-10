@@ -4180,13 +4180,13 @@
 -	zig_yubo_lakes	Zig Yubo	Zig Yubo		Zig Yubo	Zig Yubo	Zig Yubo	
 -	zig_yubo_pr	Zig Yubo	Zig Yubo		Zig Yubo	Zig Yubo	Zig Yubo	
 -	chdfa7	Yubokin	Yubokin		Yubokin	Yubokin	Yubokin	
--	gubani_mount_00						
--	gubani_mount_01	
+-	gubani_mount_00	
+-	gubani_mount_01					
 -	gubani_mount_02	
 -	gubani_mount_03	
 -	gubani_mount_04	
 -	chxjf_zig	Zigubani	Zigubani		Zigubani	Zigubani	Zigubani	
--	cpegf7	
+-	cpegf7				dd	
 -	chxjf2_zig	Zig Frippo	Zig Frippo		Zig Frippo	Zig Frippo	Zig Frippo	
 -	cbadb7	Игакет		Игакию	Игакию
 -	cbadc7	Игакет		Игакию	Игакию
@@ -5505,3 +5505,5 @@
 -	cpfpe7	Шуккуу		Шуккета	Шуккета
 -	cpfpf7	Шуккуу		Шуккета	Шуккета
 -	gnoof_mount_00	
+-	object_trough_full_sel	
+-	object_trough_empty_sel	

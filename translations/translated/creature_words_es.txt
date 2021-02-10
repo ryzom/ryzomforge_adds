@@ -3898,7 +3898,7 @@
 -	ckdfe5	Kinitch	un				
 -	ckdfe7	Kincherkin					
 -	ckdfe8	Kincher Destructor	un	el	Kinchers Destructores		los
--	ckdjd7	Kincherkyaa					
+-	ckdjd7	Kincherkya					
 -	ckdjd8	Kincher Demoledor	un	el	Kinchers Demoledores		los
 -	ckdje7	Kincherkya					
 -	ckdjf4	Kincher Grande	un	el	Kinchers Grandes		los
@@ -3906,7 +3906,7 @@
 -	ckdld8	Kincher Letal	un	el	Kinchers Letales		los
 -	ckdpf8	Terminator Kincher	a	the	Terminator Kinchers		the
 -	ckede5	Punka					
--	ckede7	Kipucketh					
+-	ckede7	Kipuketh					
 -	ckedf5	Pakuh					
 -	ckedf8	Kipucka Asesina	una	la	Kipuckas Asesinas		las
 -	ckefe8	Kipucka Destructora	una	la	Kipuckas Destructoras		las
@@ -3975,7 +3975,7 @@
 -	chidf2	Mektoub Mount	a	the	Mektoub Mounts		the
 -	chpde4	Rendor Violento	un	el	Rendors Violentos		los
 -	chpde7	Rendoketh					
--	chsdf7	Shalaketh					
+-	chsdf7	Shaketh					
 -	ckhdf7	Kipeeketh					
 -	cpfdf4	Shooki Devastador	un	el	Shookis Devastadores		los
 -	cpfdf7	Shooketh					
@@ -4204,3 +4204,5 @@
 -	cpfpe7	Shookoo					
 -	cpfpf7	Shookoo					
 -	gnoof_mount_00	Gnoof de Montar	un	el	Gnoofs de Montar		los	
+-	object_trough_full_sel	
+-	object_trough_empty_sel	

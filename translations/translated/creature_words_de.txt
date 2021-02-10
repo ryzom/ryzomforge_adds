@@ -4189,3 +4189,5 @@
 -	zig_yubo_lakes	Zig Yubo	Zig Yubo	Zig Yubo	Zig Yubo	Zig Yubo		die	ein	das	
 -	zig_yubo_pr	Zig Yubo	Zig Yubo	Zig Yubo	Zig Yubo	Zig Yubo		die	ein	das	
 -	gnoof_mount_00	
+-	object_trough_full_sel	
+-	object_trough_empty_sel	

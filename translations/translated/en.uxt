@@ -9216,7 +9216,7 @@ uimCall	[CALL]
 
 uimCareer	[CAREER]
 
-uimChangeGroup	[Move to friends group]
+uimChangeGroup	[MOVE TO FRIENDS GROUP]
 
 uimChanSave	[Save]
 
@@ -9313,10 +9313,6 @@ uiMemSpecial	[Special]
 uiMemSpecialFul	[SPECIAL MEMORY]
 
 uiMemSpecialTitle	[SPECIAL]
-
-uimEnterBag	[Enter on the bag]
-
-uimEnterStable	[Enter Stable]
 
 uiMenuCenter	[CENTER MAP ON YOURSELF]
 
@@ -9819,10 +9815,6 @@ uiMk_window10	[Help...]
 uiMk_window11	[Ryzom Ring]
 
 uiMK_Wins	[WINDOWS]
-
-uimLeaveBag	[Leave from the bag]
-
-uimLeaveStable	[Leave Stable]
 
 uimLockItem	[Lock]
 
@@ -10719,7 +10711,7 @@ uiPeopleAdd	[ADD]
 
 uiPeopleAddContact	[Add contact]
 
-uiPeopleChangeContactGroup	[Name of group]
+uiPeopleChangeContactGroup	[Name of the friends group]
 
 uiPet	[Pet]
 
