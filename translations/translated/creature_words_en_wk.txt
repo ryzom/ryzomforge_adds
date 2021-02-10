@@ -3975,7 +3975,7 @@
 -	chidf2	Mektoub Mount	a	the	Mektoub Mounts		the
 -	chpde4	Violent Rendor	a	the	Violent Rendors		the
 -	chpde7	Rendoketh					
--	chsdf7	Shaketh					
+-	chsdf7	Shalaketh					
 -	ckhdf7	Kipeeketh					
 -	cpfdf4	Devastating Shooki	a	the	Devastating Shookis		the
 -	cpfdf7	Shooketh					
@@ -4188,6 +4188,7 @@
 -	zig_yubo_forest	Zig Yubo	a	the	Zigs Yubos	the	the	
 -	zig_yubo_lakes	Zig Yubo	a	the	Zigs Yubos	the	the	
 -	zig_yubo_pr	Zig Yubo	a	the	Zigs Yubos	the	the	
+-	gnoof_mount_00	Gnoof Mount	a	the	Gnoof Mounts		the	
 -	cbadb7	Igaketh					
 -	cbadc7	Igaketh					
 -	cbadd7	Igaketh					
@@ -4211,6 +4212,7 @@
 -	ccbdd7	Clopperketh					
 -	ccbde7	Clopperketh					
 -	ccbdf7	Clopperketh					
+-	cccdb7	Goaketh					
 -	cccdc7	Goaketh					
 -	cccde7	Goaketh					
 -	cccdf7	Goaketh					
@@ -4355,10 +4357,10 @@
 -	chrdd7	Bolketh					
 -	chrde7	Bolketh					
 -	chrdf7	Bolketh					
--	chsdb7	Shaketh					
--	chsdc7	Shaketh					
--	chsdd7	Shaketh					
--	chsde7	Shaketh					
+-	chsdb7	Shalaketh					
+-	chsdc7	Shalaketh					
+-	chsdd7	Shalaketh					
+-	chsde7	Shalaketh					
 -	chtdb7	Plodeketh					
 -	chtdc7	Plodeketh					
 -	chtdd7	Plodeketh					
@@ -4412,6 +4414,7 @@
 -	ckgdf7	Kibaketh					
 -	ckhdb7	Kipeeketh					
 -	ckhdc7	Kipeeketh					
+-	ckhdd7	Kipeeketh					
 -	ckhde7	Kipeeketh					
 -	ckidb7	Kizoketh					
 -	ckidc7	Kizoketh					
@@ -4451,7 +4454,7 @@
 -	cpfdc7	Shooketh					
 -	cpfdd7	Shooketh					
 -	cpfde7	Shooketh					
--	cbafb7	Igakin						
+-	cbafb7	Igakin					
 -	cbafc7	Igakin					
 -	cbafd7	Igakin					
 -	cbafe7	Igakin					
@@ -4619,11 +4622,11 @@
 -	chrfc7	Bolkin					
 -	chrfd7	Bolkin					
 -	chrff7	Bolkin					
--	chsfb7	Shakin					
--	chsfc7	Shakin					
--	chsfd7	Shakin					
--	chsfe7	Shakin					
--	chsff7	Shakin					
+-	chsfb7	Shalakin					
+-	chsfc7	Shalakin					
+-	chsfd7	Shalakin					
+-	chsfe7	Shalakin					
+-	chsff7	Shalakin					
 -	chtfb7	Plodekin					
 -	chtfc7	Plodekin					
 -	chtfd7	Plodekin					
@@ -4760,7 +4763,7 @@
 -	ccfje7	Najakya					
 -	ccfjf7	Najakya					
 -	ccgjb7	Vorkya					
--	ccgjc7	Vorkya						
+-	ccgjc7	Vorkya					
 -	ccgjd7	Vorkya					
 -	ccgje7	Vorkya					
 -	ccgjf7	Vorkya					
@@ -4771,7 +4774,7 @@
 -	cchjf7	Varykya					
 -	ccijb7	Zerkya					
 -	ccijc7	Zerkya					
--	ccijd7	Zerkya						
+-	ccijd7	Zerkya					
 -	ccije7	Zerkya					
 -	ccjjb7	Javkya					
 -	ccjjc7	Javkya					
@@ -4889,11 +4892,11 @@
 -	chrjd7	Bolkya					
 -	chrje7	Bolkya					
 -	chrjf7	Bolkya					
--	chsjb7	Shakya					
--	chsjc7	Shakya					
--	chsjd7	Shakya					
--	chsje7	Shakya					
--	chsjf7	Shakya					
+-	chsjb7	Shalakya					
+-	chsjc7	Shalakya					
+-	chsjd7	Shalakya					
+-	chsje7	Shalakya					
+-	chsjf7	Shalakya					
 -	chtjb7	Plodekya					
 -	chtjc7	Plodekya					
 -	chtjd7	Plodekya					
@@ -4927,6 +4930,7 @@
 -	ckbjf7	Kinkya					
 -	ckdjb7	Kincherkya					
 -	ckdjc7	Kincherkya					
+-	ckdjd7	Kincherkya					
 -	ckdjf7	Kincherkya					
 -	ckejb7	Kipukya					
 -	ckejc7	Kipukya					
@@ -4935,6 +4939,7 @@
 -	ckfjb7	Kirokya					
 -	ckfjc7	Kirokya					
 -	ckfjd7	Kirokya					
+-	ckfje7	Kirokya					
 -	ckgjb7	Kibakya					
 -	ckgjc7	Kibakya					
 -	ckgjd7	Kibakya					
@@ -5027,7 +5032,7 @@
 -	ccflf7	Najakan					
 -	ccglb7	Vorkan					
 -	ccglc7	Vorkan					
--	ccgld7	Vorkan						
+-	ccgld7	Vorkan					
 -	ccgle7	Vorkan					
 -	ccglf7	Vorkan					
 -	cchlb7	Varykan					
@@ -5047,7 +5052,7 @@
 -	ccjlf7	Javkan					
 -	ccklb7	Cuttlekan					
 -	ccklc7	Cuttlekan					
--	cckld7	Cuttlekan						
+-	cckld7	Cuttlekan					
 -	cckle7	Cuttlekan					
 -	ccklf7	Cuttlekan					
 -	ccllb7	Ocykan					
@@ -5295,7 +5300,7 @@
 -	ccfpd7	Najakoo					
 -	ccfpf7	Najakoo					
 -	ccgpb7	Vorkoo					
--	ccgpc7	Vorkoo						
+-	ccgpc7	Vorkoo					
 -	ccgpd7	Vorkoo					
 -	ccgpe7	Vorkoo					
 -	cchpb7	Varykoo					
@@ -5309,7 +5314,7 @@
 -	ccjpb7	Javkoo					
 -	ccjpc7	Javkoo					
 -	ccjpd7	Javkoo					
--	ccjpe7	Javkoo						
+-	ccjpe7	Javkoo					
 -	ccjpf7	Javkoo					
 -	cckpb7	Cuttlekoo					
 -	cckpc7	Cuttlekoo					
@@ -5332,6 +5337,7 @@
 -	ccopb7	Tyrakoo					
 -	ccopc7	Tyrakoo					
 -	ccopd7	Tyrakoo					
+-	ccope7	Tyrakoo					
 -	ccppb7	Yetikoo					
 -	ccppc7	Yetikoo					
 -	ccppd7	Yetikoo					
@@ -5378,6 +5384,7 @@
 -	chgpb7	Lumkoo					
 -	chgpc7	Lumkoo					
 -	chgpe7	Lumkoo					
+-	chgpf7	Lumkoo					
 -	chhpb7	Mekoo					
 -	chhpc7	Mekoo					
 -	chhpd7	Mekoo					
@@ -5390,6 +5397,7 @@
 -	chlpb7	Yelkoo					
 -	chlpc7	Yelkoo					
 -	chlpd7	Yelkoo					
+-	chlpe7	Yelkoo					
 -	chmpb7	Raspakoo					
 -	chmpc7	Raspakoo					
 -	chmpd7	Raspakoo					
@@ -5415,11 +5423,11 @@
 -	chrpd7	Bolkoo					
 -	chrpe7	Bolkoo					
 -	chrpf7	Bolkoo					
--	chspb7	Shakoo					
--	chspc7	Shakoo					
--	chspd7	Shakoo					
--	chspe7	Shakoo					
--	chspf7	Shakoo					
+-	chspb7	Shalakoo					
+-	chspc7	Shalakoo					
+-	chspd7	Shalakoo					
+-	chspe7	Shalakoo					
+-	chspf7	Shalakoo					
 -	chtpb7	Plodekoo					
 -	chtpc7	Plodekoo					
 -	chtpd7	Plodekoo					
@@ -5453,6 +5461,7 @@
 -	ckbpe7	Kinkoo					
 -	ckdpb7	Kincherkoo					
 -	ckdpc7	Kincherkoo					
+-	ckdpd7	Kincherkoo					
 -	ckdpe7	Kincherkoo					
 -	ckepb7	Kipukoo					
 -	ckepc7	Kipukoo					
@@ -5461,6 +5470,7 @@
 -	ckfpb7	Kirokoo					
 -	ckfpc7	Kirokoo					
 -	ckfpd7	Kirokoo					
+-	ckfpe7	Kirokoo					
 -	ckgpb7	Kibakoo					
 -	ckgpc7	Kibakoo					
 -	ckgpd7	Kibakoo					
@@ -5479,6 +5489,7 @@
 -	ckjpe7	Kipeskoo					
 -	cpapb7	Jukoo					
 -	cpapc7	Jukoo					
+-	cpapd7	Jukoo					
 -	cpape7	Jukoo					
 -	cpbpb7	Stinkoo					
 -	cpbpc7	Stinkoo					

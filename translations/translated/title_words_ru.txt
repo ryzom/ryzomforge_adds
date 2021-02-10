@@ -1914,3 +1914,6 @@ _E1F7701F6D16ABC4	fct_to_new_horizons	Новые Горизонты
 _01F007050AF7EF10	fct_marauder_merchant	Торговец Мародёров	Торговщица Мародёров
 _E2688092DA7580B2	fct_ranger_guide	Рейнджер Гид	
 _1D75FA6A3E3B6D24	fct_ranger_quartermaster	Квартирмейстер Рейнджеров	Квартирмейстерша Рейнджеров
+_	fct_marauder_ambassador	 Посланник мародеров	
+_	fct_marauder_windofmuse	(Ветра Муз)
+_	gn_driller_marauder_const	Aklareen большого трепана	

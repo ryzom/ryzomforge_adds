@@ -17,6 +17,12 @@ game.InGameDbInitialized = false
 
 game.WebMissionLastDesc = {}
 
+game.CapTitle = ""
+game.CapDesc = ""
+game.CapChannel = ""
+game.CapInfosUrl = nil
+game.CapNextUrl = ""
+
 ------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------
@@ -1206,6 +1212,7 @@ function game:onMissionDBIndexChanged()
 		getUI("ui:interface:info_player_journal:content:mission_list:b_title" .. tostring(missionIndex)).pushed = true
 		getUI("ui:interface:mission_cb_menu:mission_list:b_title" .. tostring(missionIndex)).pushed = true
 	end
+	game:updateMissionWindowLayout()
 end
 
 --------------------------------------------------------------------------------------------------------------
@@ -1285,6 +1292,175 @@ end
 --	end
 --end
 
+function game:parseLangText(text)
+	local final = ""
+	local work = ""
+	local translated = ""
+	local stext = text:split("[[]")
+	for k, v in pairs(stext) do
+		if string.sub(v, 3, 3) == "]" then
+			if string.sub(v, 1, 2):upper() == getClientCfg("LanguageCode"):upper() then
+				work = ""
+				translated = string.sub(v, 4)
+			elseif string.sub(v, 1, 2):upper() == "WK" and translated == "" then
+				work = string.sub(v, 4)
+			end
+		else
+			if k > 1 then
+				final = final .. "["
+			end
+			final = final .. v
+		end
+	end
+	return final .. work .. translated
+end
+
+function game:updateCapTooltip()
+	local real_tooltip = "\n\n@{FFFC}Ceci est le @{6F6F}cap@{FFFC} sur lequel vous êtes actuellement fixé.\nCliquez pour obtenir plus d'@{6F6F}informations@{FFFC}.\n\nIl vous également possible de changer de cap en cliquant sur @{6F6F}Mettre le cap sur [...]@{FFFC} à chaque fois que l'option est disponible"
+	getUI("ui:interface:info_player_journal:content:cap_group:cap_ctrl").tooltip = getUCtf8("@{FB0F}"..game.CapTitle.."\n@{FFFF}"..game.CapDesc..real_tooltip)
+end
+
+function game:setCapTitle(text)
+	game.CapTitle = game:parseLangText(text)
+	getUI("ui:interface:info_player_journal:content:cap_group:cap_title").uc_hardtext = getUCtf8(game.CapTitle)
+	game:updateCapTooltip()
+end
+
+function game:setCapDesc(text)
+	game.CapDesc = game:parseLangText(text)
+	getUI("ui:interface:info_player_journal:content:cap_group:cap_desc").uc_hardtext = getUCtf8(game.CapDesc)
+	game:updateCapTooltip()
+end
+
+function game:setCapIcon(icon)
+	getUI("ui:interface:info_player_journal:content:cap_group:cap_icon").texture = icon
+end
+
+
+function game:autoHideCapPopup()
+
+	if game.autoHideCapTimer == 0 then
+		alpha = nltime.getLocalTime() - game.autoHideCapStartTime
+		if alpha >= 254*5 then
+			setOnDraw(getUI("ui:interface:cap_popup"), "")
+			getUI("ui:interface:cap_popup").active=false
+		else
+			getUI("ui:interface:cap_popup").alpha=255-math.floor(alpha/5)
+		end
+	else
+		if game.autoHideCapStartTime + game.autoHideCapTimer < nltime.getLocalTime() then
+			game.autoHideCapStartTime = nltime.getLocalTime()
+			game.autoHideCapTimer = 0
+		end
+	end
+end
+
+function game:displayRpMessage(message, icon)
+	if icon == nil then
+		icon = "rpjob_roleplay.tga"
+	end
+
+	local htmlcode = [[
+	<body style="font-style: italic; font-weight: bold; color: white; background-position: center; background-image: url(pretty_notif.tga)">
+	<table width="100%" cellspacing="0" cellpadding="0">
+	<tr>
+		<td id="icon" align="center" width="750" valign="middle" height="45px"><img src="]]..icon..[["/></td>
+	</tr><tr>
+	<tr>
+		<td align="center">]]..message..[[</td>
+	</tr>
+	</table>
+	</body>
+	]]
+
+	getUI("ui:interface:cap_popup:html"):renderHtml(htmlcode)
+	setTopWindow(getUI("ui:interface:cap_popup"))
+	getUI("ui:interface:cap_popup").alpha=255
+	getUI("ui:interface:cap_popup").y = getUI("ui:interface").h-170
+	getUI("ui:interface:cap_popup").x = math.floor(getUI("ui:interface").w / 2) - 400
+	getUI("ui:interface:cap_popup").active = true
+	game.autoHideCapStartTime = nltime.getLocalTime()
+	game.autoHideCapTimer = 3000
+	setOnDraw(getUI("ui:interface:cap_popup"), "game:autoHideCapPopup()")
+end
+
+function game:setCapProgress(value, text)
+	if value == nil then
+		getUI("ui:interface:info_player_journal:content:cap_group:cap_progress").active = false
+		getUI("ui:interface:info_player_journal:content:cap_group:cap_infos").x = 4
+	else
+		getUI("ui:interface:info_player_journal:content:cap_group:cap_progress").active = true
+		getUI("ui:interface:info_player_journal:content:cap_group:cap_infos").x = 72
+		if value >= 0 then
+			if value > 100 and game.CapNextUrl ~= "" then
+				getUI("ui:interface:web_transactions"):find("html"):browse(game.CapNextUrl)
+			else
+				setDbProp("UI:TEMP:CAP_PROGRESS", value)
+			end
+		end
+	end
+
+	if text ~= nil then
+		getUI("ui:interface:info_player_journal:content:cap_group:cap_infos").uc_hardtext = getUCtf8(text)
+	end
+end
+
+function game:openInfosUrl()
+	if game.CapInfosUrl == nil then
+		game:openMissionsCatalog()
+	elseif game.CapInfosUrl ~= "" then
+		getUI("ui:interface:web_transactions"):find("html"):browse(game.CapInfosUrl)
+	end
+end
+
+function game:setInfosUrl(url)
+	game.CapInfosUrl = url
+end
+
+function game:setNextUrl(url)
+	game.CapNextUrl = url
+end
+
+function setCap(channel, element, a, b)
+	if element == nil then
+		game.CapChannel = channel
+		game:setInfosUrl(a)
+		game:setNextUrl(b)
+		return
+	end
+
+	if channel ~= game.CapChannel then
+		return
+	end
+
+	if element == "t" then
+		game:setCapTitle(a)
+	elseif element == "d" then
+		game:setCapDesc(a)
+	elseif element == "i" then
+		game:setCapIcon(a)
+	elseif element == "p" then
+		game:setCapProgress(a, b)
+	elseif element == "u" then
+		game:setInfosUrl(a)
+		game:setNextUrl(b)
+	elseif element == "n" then
+		game:setNextUrl(a)
+	elseif element == "o" then
+		game:setInfosUrl(a)
+	elseif element == "r" then
+		game:displayRpMessage(a, b)
+	elseif element == "b" then
+		broadcast(a, b)
+	end
+end
+
+
+function game:openMissionsCatalog()
+	-- Setup this function in webig
+end
+
+
 --------------------------------------------------------------------------------------------------------------
 function game:onMissionFinished(index)
 	self:updateCurrMissionComboBox()
@@ -1307,39 +1483,41 @@ end
 --------------------------------------------------------------------------------------------------------------
 function game:updateMissionWindowLayout()
 	if not isInRingMode() then
-		local missionCB = getUI("ui:interface:info_player_journal:content:mission_combo")
-		local missionList = getUI("ui:interface:info_player_journal:content:mission_list")
-		local fake = getUI("ui:interface:info_player_journal:content:fake")
-		local desc = getUI("ui:interface:info_player_journal:content:desc")
+		local base = "ui:interface:info_player_journal:content:"
+		local missionCB = getUI(base.."mission_combo")
+		local missionList = getUI(base.."mission_list")
+		local fake = getUI(base.."fake")
+		local desc = getUI(base.."desc")
+		local separator = getUI(base.."separator")
 		local expanded
-		local popMinH
 		local win = getUI("ui:interface:info_player_journal")
 
 		if missionCB.active then
 			missionList.active = false
+			separator.active = false
 			fake.sizeref=""
-			fake.y = -32
-			fake.h = 0
+			fake.y = 0
+			fake.h = 70
 			expanded = 0
 			desc.max_sizeref ="wh"
-			desc.max_h= -42
-			win.pop_min_h = 152 - win.content_y_offset
+			desc.max_h = -60
+			win.pop_min_h = 157 - win.content_y_offset
 		else
 			missionList.active = true
-			fake.sizeref="wh5"
+			separator.active = true
+			fake.sizeref = "wh5"
 			fake.y = -8
-			fake.h = -42
+			fake.h = 0
 			expanded = 1
-			desc.max_sizeref ="wh5"
-			desc.max_h=16
-			win.pop_min_h = 152 - win.content_y_offset
+			desc.max_sizeref = "wh5"
+			desc.max_h = -5
+			win.pop_min_h = 157 - win.content_y_offset
 		end
 
 		setDbProp("UI:SAVE:EXPAND_MISSION_LIST", expanded)
-		getUI("ui:interface:info_player_journal"):invalidateCoords()
+		win:invalidateCoords()
 	end
 end
-
 --------------------------------------------------------------------------------------------------------------
 function game:onMissionJournalOpened()
 	local missionDesc = getUI("ui:interface:info_player_journal:content:desc")
@@ -1360,9 +1538,6 @@ function game:onMissionJournalOpened()
 	self:updateMissionJournalHeader()
 	self:updateMissionWindowLayout()
 	self:updateMissionJournalFixedEntry()
-
-
-
 end
 
 --------------------------------------------------------------------------------------------------------------
@@ -1684,6 +1859,34 @@ function game:ensureWebMissionVisibility()
 		getUI(descWnd.id..":web").h = 0
 	end
 
+	local base = "ui:interface:info_player_journal:content:"
+	local fake = getUI(base.."fake")
+	local missionCB = getUI(base.."mission_combo")
+	local missionL = getUI(base.."mission_list")
+	local desc = getUI(base.."desc")
+	local win = getUI("ui:interface:info_player_journal")
+
+	if missionCB.active then
+		fake.sizeref=""
+		fake.h = 70
+	else
+		if win.h > 200 then
+			desc.max_sizeref ="wh"
+			desc.max_h = -missionL.h + missionL.y
+			if win.h > 2*(missionL.h - missionL.y) then
+				fake.sizeref=""
+				fake.h = missionL.h - missionL.y - 7
+			else
+				fake.sizeref = "wh5"
+				fake.h = 0
+			end
+		else
+			fake.sizeref = "wh5"
+			fake.h = 0
+			desc.max_sizeref = "wh5"
+			desc.max_h = -5
+		end
+	end
 end
 
 --------------------------------------------------------------------------------------------------------------

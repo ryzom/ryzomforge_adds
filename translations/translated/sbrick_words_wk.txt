@@ -1491,11 +1491,11 @@ _4DE67148665B56E3	BHFPMH07	Extraction Time Bonus 7		a	the				Adds 30 seconds to 
 _2A5142CC638040CB	BHFPMK01	Up To Fine materials		a	the				Allows to find up to fine & prime raw materials		
 _6D673FB8ED7C70B7	BHFPMK02	Up To Choice materials		a	the				Allows to find up to choice & select raw materials		
 _A21167828B2735EF	BHFPMK03	Up To Excellent materials		a	the				Allows to find up to excellent & superb raw materials		
-_A9122592730B09C9	BHFPMK04	Up To Supreme materials		a	the				Allows to find up to supreme & magnificient raw materials		
+_A9122592730B09C9	BHFPMK04	Up To Supreme materials		a	the				Allows to find up to supreme & magnificent raw materials		
 _F259E45971466FDE	BHFPMK05	Only Fine materials		a	the				Allows to find only fine & prime raw materials		
 _E9C62B1554FD79F0	BHFPMK06	Only Choice materials		a	the				Allows to find only choice & select raw materials		
 _51C04649443A620B	BHFPMK07	Only Excellent materials		a	the				Allows to find only excellent & superb raw materials		
-_914EC0E2CBBE8997	BHFPMK08	Only Supreme materials		a	the				Allows to find only supreme & magnificient raw materials		
+_914EC0E2CBBE8997	BHFPMK08	Only Supreme materials		a	the				Allows to find only supreme & magnificent raw materials		
 _712A73B4692952BA	BHFPMM01	Private Source		a	the				Stanza forage Private source		
 _065252FB70B15EC7	BHFPMM02	Team Source		a	the				Brick forage Team source		
 _953E9E830DA4F80C	BHFPMM03	Guild Source		a	the				Stanza forage Guild source		
