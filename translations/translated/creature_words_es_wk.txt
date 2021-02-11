@@ -3395,7 +3395,7 @@
 -	ccipd8	Kipesta Terminadora	una	la	Kipestas Terminadoras		las
 -	ckdpd8	Kincher Terminador	un	el	Kinchers Teminadores		los
 -	cpapd7	Jukoo					
--	ckdpd7	Kincherkoo					los
+-	ckdpd7	Kincherkoo					
 -	cdapd7	Cukoo					
 -	ccnpd7	Hornkoo					
 -	chlpe5	Mukah					
@@ -3454,7 +3454,7 @@
 -	ccmpf7	Jugukoo					
 -	ccopf7	Tyrakoo					
 -	ckdpf7	Kincherkoo					
--	chgpf7	Lumkoo					
+-	chgpf7	Lumpkoo					
 -	ckfpf7	Kirokoo					
 -	ckipf7	Kizokoo					
 -	ckepf7	Kipukoo					
@@ -3898,7 +3898,7 @@
 -	ckdfe5	Kinitch	un				
 -	ckdfe7	Kincherkin					
 -	ckdfe8	Kincher Destructor	un	el	Kinchers Destructores		los
--	ckdjd7	Kincherkya			Kincherkya			
+-	ckdjd7	Kincherkya					
 -	ckdjd8	Kincher Demoledor	un	el	Kinchers Demoledores		los
 -	ckdje7	Kincherkya					
 -	ckdjf4	Kincher Grande	un	el	Kinchers Grandes		los
@@ -4212,7 +4212,6 @@
 -	ccbdd7	Clopperketh					
 -	ccbde7	Clopperketh					
 -	ccbdf7	Clopperketh					
--	cccdb7	Goaketh					
 -	cccdc7	Goaketh					
 -	cccde7	Goaketh					
 -	cccdf7	Goaketh					
@@ -4414,7 +4413,6 @@
 -	ckgdf7	Kibaketh					
 -	ckhdb7	Kipeeketh					
 -	ckhdc7	Kipeeketh					
--	ckhdd7	Kipeeketh					
 -	ckhde7	Kipeeketh					
 -	ckidb7	Kizoketh					
 -	ckidc7	Kizoketh					
@@ -4930,7 +4928,6 @@
 -	ckbjf7	Kinkya					
 -	ckdjb7	Kincherkya					
 -	ckdjc7	Kincherkya					
--	ckdjd7	Kincherkya					
 -	ckdjf7	Kincherkya					
 -	ckejb7	Kipuckya					
 -	ckejc7	Kipuckya					
@@ -4939,7 +4936,6 @@
 -	ckfjb7	Kirokya					
 -	ckfjc7	Kirokya					
 -	ckfjd7	Kirokya					
--	ckfje7	Kirokya					
 -	ckgjb7	Kibakya					
 -	ckgjc7	Kibakya					
 -	ckgjd7	Kibakya					
@@ -5337,7 +5333,6 @@
 -	ccopb7	Tyrakoo					
 -	ccopc7	Tyrakoo					
 -	ccopd7	Tyrakoo					
--	ccope7	Tyrakoo					
 -	ccppb7	Yetikoo					
 -	ccppc7	Yetikoo					
 -	ccppd7	Yetikoo					
@@ -5384,7 +5379,6 @@
 -	chgpb7	Lumpkoo					
 -	chgpc7	Lumpkoo					
 -	chgpe7	Lumpkoo					
--	chgpf7	Lumpkoo					
 -	chhpb7	Mekoo					
 -	chhpc7	Mekoo					
 -	chhpd7	Mekoo					
@@ -5397,7 +5391,6 @@
 -	chlpb7	Yelkoo					
 -	chlpc7	Yelkoo					
 -	chlpd7	Yelkoo					
--	chlpe7	Yelkoo					
 -	chmpb7	Raspakoo					
 -	chmpc7	Raspakoo					
 -	chmpd7	Raspakoo					
@@ -5461,7 +5454,6 @@
 -	ckbpe7	Kinkoo					
 -	ckdpb7	Kincherkoo					
 -	ckdpc7	Kincherkoo					
--	ckdpd7	Kincherkoo					
 -	ckdpe7	Kincherkoo					
 -	ckepb7	Kipukoo					
 -	ckepc7	Kipukoo					
@@ -5470,7 +5462,6 @@
 -	ckfpb7	Kirokoo					
 -	ckfpc7	Kirokoo					
 -	ckfpd7	Kirokoo					
--	ckfpe7	Kirokoo					
 -	ckgpb7	Kibakoo					
 -	ckgpc7	Kibakoo					
 -	ckgpd7	Kibakoo					
@@ -5489,7 +5480,6 @@
 -	ckjpe7	Kipekoo					
 -	cpapb7	Jukoo					
 -	cpapc7	Jukoo					
--	cpapd7	Jukoo					
 -	cpape7	Jukoo					
 -	cpbpb7	Stinkoo					
 -	cpbpc7	Stinkoo					
@@ -5515,6 +5505,5 @@
 -	cpfpd7	Shookoo					
 -	cpfpe7	Shookoo					
 -	cpfpf7	Shookoo					
--	gnoof_mount_00	Gnoof de Montar	un	el	Gnoofs de Montar		los	
--	object_trough_full_sel						undefined
--	object_trough_empty_sel				el			los
+-	object_trough_full_sel	comedero lleno	uno	el	comederos llenos	unos	los
+-	object_trough_empty_sel	comedero vacío	uno	el	comederos vacíos	unos	los

@@ -3454,7 +3454,7 @@
 -	ccmpf7	Jugukoo	un	le	Jugukoos	des	les	du	au
 -	ccopf7	Tyrakoo	un	le	Tyrakoos	des	les	du	au
 -	ckdpf7	Kincherkoo	un	le	Kincherkoos	des	les	du	au
--	chgpf7	Lumkoo	un	le	Lumkoos	des	les	du	au
+-	chgpf7		Lumpkoo	un	le	Lumpkoos	des	les	du	au
 -	ckfpf7	Kirokoo	un	le	Kirokoos	des	les	du	au
 -	ckipf7	Kizokoo	un	le	Kizokoos	des	les	du	au
 -	ckepf7	Kipukoo	un	le	Kipukoos	des	les	du	au
@@ -4212,7 +4212,6 @@
 -	ccbdd7	Clopperketh	un	le	Clopperkeths	des	les	du	au
 -	ccbde7	Clopperketh	un	le	Clopperkeths	des	les	du	au
 -	ccbdf7	Clopperketh	un	le	Clopperkeths	des	les	du	au
--	cccdb7	Goaketh	un	le	Goakeths	des	les	du	au
 -	cccdc7	Goaketh	un	le	Goakeths	des	les	du	au
 -	cccde7	Goaketh	un	le	Goakeths	des	les	du	au
 -	cccdf7	Goaketh	un	le	Goakeths	des	les	du	au
@@ -4414,7 +4413,6 @@
 -	ckgdf7	Kibaketh	un	le	Kibakeths	des	les	du	au
 -	ckhdb7	Kipeeketh	un	le	Kipeekeths	des	les	du	au
 -	ckhdc7	Kipeeketh	un	le	Kipeekeths	des	les	du	au
--	ckhdd7	Kipeeketh	un	le	Kipeekeths	des	les	du	au
 -	ckhde7	Kipeeketh	un	le	Kipeekeths	des	les	du	au
 -	ckidb7	Kizoketh	un	le	Kizokeths	des	les	du	au
 -	ckidc7	Kizoketh	un	le	Kizokeths	des	les	du	au
@@ -4930,7 +4928,6 @@
 -	ckbjf7	Kinkya	un	le	Kinkyas	des	les	du	au
 -	ckdjb7	Kincherkya	un	le	Kincherkyas	des	les	du	au
 -	ckdjc7	Kincherkya	un	le	Kincherkyas	des	les	du	au
--	ckdjd7	Kincherkya	un	le	Kincherkyas	des	les	du	au
 -	ckdjf7	Kincherkya	un	le	Kincherkyas	des	les	du	au
 -	ckejb7	Kipuckya	un	le	Kipuckyas	des	les	du	au
 -	ckejc7	Kipuckya	un	le	Kipuckyas	des	les	du	au
@@ -4939,7 +4936,6 @@
 -	ckfjb7	Kirokya	un	le	Kirokyas	des	les	du	au
 -	ckfjc7	Kirokya	un	le	Kirokyas	des	les	du	au
 -	ckfjd7	Kirokya	un	le	Kirokyas	des	les	du	au
--	ckfje7	Kirokya	un	le	Kirokyas	des	les	du	au
 -	ckgjb7	Kibakya	un	le	Kibakyas	des	les	du	au
 -	ckgjc7	Kibakya	un	le	Kibakyas	des	les	du	au
 -	ckgjd7	Kibakya	un	le	Kibakyas	des	les	du	au
@@ -5337,7 +5333,6 @@
 -	ccopb7	Tyrakoo	un	le	Tyrakoos	des	les	du	au
 -	ccopc7	Tyrakoo	un	le	Tyrakoos	des	les	du	au
 -	ccopd7	Tyrakoo	un	le	Tyrakoos	des	les	du	au
--	ccope7	Tyrakoo	un	le	Tyrakoos	des	les	du	au
 -	ccppb7	Yetikoo	un	le	Yetikoos	des	les	du	au
 -	ccppc7	Yetikoo	un	le	Yetikoos	des	les	du	au
 -	ccppd7	Yetikoo	un	le	Yetikoos	des	les	du	au
@@ -5384,7 +5379,6 @@
 -	chgpb7	Lumpkoo	un	le	Lumpkoos	des	les	du	au
 -	chgpc7	Lumpkoo	un	le	Lumpkoos	des	les	du	au
 -	chgpe7	Lumpkoo	un	le	Lumpkoos	des	les	du	au
--	chgpf7	Lumpkoo	un	le	Lumpkoos	des	les	du	au
 -	chhpb7	Mekoo	un	le	Mekoos	des	les	du	au
 -	chhpc7	Mekoo	un	le	Mekoos	des	les	du	au
 -	chhpd7	Mekoo	un	le	Mekoos	des	les	du	au
@@ -5397,7 +5391,6 @@
 -	chlpb7	Yelkoo	un	le	Yelkoos	des	les	du	au
 -	chlpc7	Yelkoo	un	le	Yelkoos	des	les	du	au
 -	chlpd7	Yelkoo	un	le	Yelkoos	des	les	du	au
--	chlpe7	Yelkoo	un	le	Yelkoos	des	les	du	au
 -	chmpb7	Raspakoo	un	le	Raspakoos	des	les	du	au
 -	chmpc7	Raspakoo	un	le	Raspakoos	des	les	du	au
 -	chmpd7	Raspakoo	un	le	Raspakoos	des	les	du	au
@@ -5461,7 +5454,6 @@
 -	ckbpe7	Kinkoo	un	le	Kinkoos	des	les	du	au
 -	ckdpb7	Kincherkoo	un	le	Kincherkoos	des	les	du	au
 -	ckdpc7	Kincherkoo	un	le	Kincherkoos	des	les	du	au
--	ckdpd7	Kincherkoo	un	le	Kincherkoos	des	les	du	au
 -	ckdpe7	Kincherkoo	un	le	Kincherkoos	des	les	du	au
 -	ckepb7	Kipukoo	un	le	Kipukoos	des	les	du	au
 -	ckepc7	Kipukoo	un	le	Kipukoos	des	les	du	au
@@ -5470,7 +5462,6 @@
 -	ckfpb7	Kirokoo	un	le	Kirokoos	des	les	du	au
 -	ckfpc7	Kirokoo	un	le	Kirokoos	des	les	du	au
 -	ckfpd7	Kirokoo	un	le	Kirokoos	des	les	du	au
--	ckfpe7	Kirokoo	un	le	Kirokoos	des	les	du	au
 -	ckgpb7	Kibakoo	un	le	Kibakoos	des	les	du	au
 -	ckgpc7	Kibakoo	un	le	Kibakoos	des	les	du	au
 -	ckgpd7	Kibakoo	un	le	Kibakoos	des	les	du	au
@@ -5489,7 +5480,6 @@
 -	ckjpe7	Kipekoo	un	le	Kipekoos	des	les	du	au
 -	cpapb7	Jukoo	un	le	Jukoos	des	les	du	au
 -	cpapc7	Jukoo	un	le	Jukoos	des	les	du	au
--	cpapd7	Jukoo	un	le	Jukoos	des	les	du	au
 -	cpape7	Jukoo	un	le	Jukoos	des	les	du	au
 -	cpbpb7	Stinkoo	un	le	Stinkoos	des	les	du	au
 -	cpbpc7	Stinkoo	un	le	Stinkoos	des	les	du	au
@@ -5515,6 +5505,5 @@
 -	cpfpd7	Shookoo	un	le	Shookoos	des	les	du	au
 -	cpfpe7	Shookoo	un	le	Shookoos	des	les	du	au
 -	cpfpf7	Shookoo	un	le	Shookoos	des	les	du	au
--	gnoof_mount_00	Monture Gnoof	une	la	Montures Gnoof	des	les	
 -	object_trough_empty_sel		auge vide	une	la	auges vides	des	les		
 -	object_trough_full_sel	auge pleine	une	la	auges pleines	des	les		

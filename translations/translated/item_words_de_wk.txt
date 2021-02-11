@@ -7770,8 +7770,8 @@
 -	m0693ccife01	Erhabene Zerx-Sehne, Waldtyp	Erhabene Zerx-Sehne, Waldtyp	Erhabene Zerx-Sehne, Waldtyp	Erhabene Zerx-Sehnen, Waldtyp	Erhabenen Zerx-Sehnen, Waldtyp	eine	die	eine	die		
 -	m0694ccile01	Erhabenes Zerx-Lederstück, Seenlandtyp	Erhabene Zerx-Lederstück, Seenlandtyp	Erhabene Zerx-Lederstück, Seenlandtyp	Erhabene Zerx-Lederstücke, Seenlandtyp	Erhabenen Zerx-Lederstücke, Seenlandtyp	ein	die	ein	das		
 -	m0694ccife01	Erhabenes Zerx-Lederstück, Waldtyp	Erhabene Zerx-Lederstück, Waldtyp	Erhabene Zerx-Lederstück, Waldtyp	Erhabene Zerx-Lederstücke, Waldtyp	Erhabenen Zerx-Lederstücke, Waldtyp	ein	die	ein	das		
--	s2e1_seve_suc	Tropfen Salina-Sap	Tropfen Salina-Sap	Tropfen Salina-Sap	Tropfen Salina-Sap	Tropfen Salina-Sap		die	ein	der	
--	s2e1_salins	reifer Salina	reife Salina	reifen Salina	reife Salinas	reifen Salinas		die	ein	der	
+-	s2e1_seve_suc	Tropfen Salina-Saft	Tropfen Salina-Saft	Tropfen Salina-Saft	Tropfen Salina-Saft	Tropfen Salina-Saft		die	ein	der	
+-	s2e1_salins	reife Salin	reife Salin	reifen Salin	reife Salins	reifen Salins		die	eine	die	
 -	nexus_neck_1				undefined
 -	nexus_neck_2			undefined
 -	nexus_neck_3	leuchtende Seenkette	leuchtende Seenkette	leuchtende Seenkette	leuchtende Seenketten	leuchtenden Seenketten		die	eine	die	

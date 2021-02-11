@@ -9314,6 +9314,10 @@ uiMemSpecialFul	[SPECIAL MEMORY]
 
 uiMemSpecialTitle	[SPECIAL]
 
+uimEnterBag	[Tuck in bag]
+
+uimEnterStable	[Enter stables]
+
 uiMenuCenter	[CENTER MAP ON YOURSELF]
 
 uimEquip	[EQUIP]
@@ -9815,6 +9819,8 @@ uiMk_window10	[Help...]
 uiMk_window11	[Ryzom Ring]
 
 uiMK_Wins	[WINDOWS]
+
+uimLeaveBag	[Let out of bag]
 
 uimLockItem	[Lock]
 
@@ -11994,9 +12000,9 @@ uiS2E0	[Episode 1: The one where Nexus is rediscovered]
 
 uiSandThundery	[Sand storm]
 
-uiSap	[Sap]
-
 uiSAP	[Sap]
+
+uiSap	[Sap]
 
 uiSapBarDisplay	[SAP DISPLAY]
 
@@ -14616,4 +14622,6 @@ _Natae_citizen	[ (Natae citizen)]
 _Yrkanis_citizen	[ (Yrkanis citizen)]
 
 ___faber_skill_sep___	[--------------------------------]
+
+uimLeaveStable	[Leave stables]
 

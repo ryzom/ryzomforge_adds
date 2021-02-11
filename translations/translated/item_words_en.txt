@@ -6953,7 +6953,7 @@
 -	zig_yubo_white	Zig Yubo	a	the	Zig Yubo	the	the	
 -	zig_yubo_lakes	Zig Yubo	a	the	Zig Yubo	the	the	
 -	zig_yubo_forest	Zig Yubo	a	the	Zig Yubo	the	the	
--	gnoof_mount_0	
+-	gnoof_mount_0	gnoof mount	a	the	gnoof mounts		the	
 -	m0009chade01	Fragment of Supreme Desert Arma Spine	a	the	Fragments of Supreme Desert Arma Spine		the
 -	m0009chafe01	Fragment of Supreme Forest Arma Spine	a	the	Fragments of Supreme Forest Arma Spine		the
 -	m0009chaje01	Fragment of Supreme Jungle Arma Spine	a	the	Fragments of Supreme Jungle Arma Spine		the
@@ -7774,5 +7774,5 @@
 -	m0693ccife01	Supreme Forest Zerx Ligament	a	the	Supreme Forest Zerx Ligaments		the
 -	m0694ccile01	Supreme Lakes Zerx Leather	a	the	Supreme Lakes Zerx Leathers		the
 -	m0694ccife01	Supreme Forest Zerx Leather	a	the	Supreme Forest Zerx Leathers		the
--	s2e1_seve_suc	
--	s2e1_salins	
+-	s2e1_seve_suc	drop of salina sap	a	the	drops of salina sap		the	
+-	s2e1_salins	ripe salin	a	the	ripe salins		the	
