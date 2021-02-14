@@ -243,6 +243,17 @@
 	<action handler="set" params="dblink=UI:SAVE:PLAYER:DISP_FOC|value=1" />
 	<action handler="set" params="dblink=UI:SAVE:ACT_BAR_OUT|value=1" />
 
+	<action handler="set" params="dblink=UI:SAVE:TRANSLATION:ENGLISH:INVERSE_DISPLAY|value=0" />
+	<action handler="set" params="dblink=UI:SAVE:TRANSLATION:ENGLISH:HIDE_FLAG|value=0" />
+	<action handler="set" params="dblink=UI:SAVE:TRANSLATION:FRENCH:INVERSE_DISPLAY|value=0" />
+	<action handler="set" params="dblink=UI:SAVE:TRANSLATION:FRENCH:HIDE_FLAG|value=0" />
+	<action handler="set" params="dblink=UI:SAVE:TRANSLATION:GERMAN:INVERSE_DISPLAY|value=0" />
+	<action handler="set" params="dblink=UI:SAVE:TRANSLATION:GERMAN:HIDE_FLAG|value=0" />
+	<action handler="set" params="dblink=UI:SAVE:TRANSLATION:RUSSIAN:INVERSE_DISPLAY|value=0" />
+	<action handler="set" params="dblink=UI:SAVE:TRANSLATION:RUSSIAN:HIDE_FLAG|value=0" />
+	<action handler="set" params="dblink=UI:SAVE:TRANSLATION:SPANISH:INVERSE_DISPLAY|value=0" />
+	<action handler="set" params="dblink=UI:SAVE:TRANSLATION:SPANISH:HIDE_FLAG|value=0" />
+	
 	<action handler="set" params="dblink=UI:SAVE:CHAT:FONT_SIZE|value=10" />
 	<action handler="set" params="dblink=UI:SAVE:CHAT:MULTI_LINE_SPACE|value=0" />
 	<action handler="set" params="dblink=UI:SAVE:CHAT:SHADOWED_TEXT|value=1" />
@@ -260,7 +271,6 @@
 	<action handler="set" params="dblink=UI:SAVE:CHAT:ENTER_DONT_QUIT_CB|value=0" />
 	<action handler="set" params="dblink=UI:SAVE:CHAT:SHOW_TIMES_IN_CHAT_CB|value=0" />
 	<action handler="set" params="dblink=UI:SAVE:CHAT:SHOW_DYN_CHANNEL_NAME_IN_CHAT_CB|value=0" />
-	<action handler="set" params="dblink=UI:SAVE:CHAT:SHOW_TRANSLATION_ONLY_AS_TOOLTIP_CB|value=0" />
 	
 	<action handler="set" params="dblink=UI:SAVE:INV_BAG:SORT_TYPE|value=0" />
 	<action handler="set" params="dblink=UI:SAVE:INV_BAG:ICON_LIST|value=0" />
