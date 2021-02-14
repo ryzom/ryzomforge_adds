@@ -2975,6 +2975,39 @@ This MUST follow the Enum MISSION_DESC::TIconId
   <variable entry="UI:SAVE:CHAT:SHADOWED_TEXT"
             type="bool"
             value="true" />
+  <!-- ******************************* -->
+  <!-- * CHAT TRANSLATION PARAMETERS * -->
+  <!-- ******************************* -->
+  <variable entry="UI:SAVE:TRANSLATION:ENGLISH:INVERSE_DISPLAY"
+	     type="bool"
+	     value="false" />
+  <variable entry="UI:SAVE:TRANSLATION:ENGLISH:HIDE_FLAG"
+	     type="bool"
+	     value="false" />
+  <variable entry="UI:SAVE:TRANSLATION:FRENCH:INVERSE_DISPLAY"
+	     type="bool"
+	     value="false" />
+  <variable entry="UI:SAVE:TRANSLATION:FRENCH:HIDE_FLAG"
+	     type="bool"
+	     value="false" />
+  <variable entry="UI:SAVE:TRANSLATION:GERMAN:INVERSE_DISPLAY"
+	     type="bool"
+	     value="false" />
+  <variable entry="UI:SAVE:TRANSLATION:GERMAN:HIDE_FLAG"
+	     type="bool"
+	     value="false" />
+  <variable entry="UI:SAVE:TRANSLATION:RUSSIAN:INVERSE_DISPLAY"
+	     type="bool"
+	     value="false" />
+  <variable entry="UI:SAVE:TRANSLATION:RUSSIAN:HIDE_FLAG"
+	     type="bool"
+	     value="false" />
+  <variable entry="UI:SAVE:TRANSLATION:SPANISH:INVERSE_DISPLAY"
+	     type="bool"
+	     value="false" />
+  <variable entry="UI:SAVE:TRANSLATION:SPANISH:HIDE_FLAG"
+	     type="bool"
+	     value="false" />
   <!-- ****************************** -->
   <!-- *         CHAT COLORS        * -->
   <!-- ****************************** -->
@@ -3050,9 +3083,6 @@ This MUST follow the Enum MISSION_DESC::TIconId
   <variable entry="UI:SAVE:CHAT:SHOW_ONLINE_OFFLINE_NOTIFICATIONS_CB"
              type="bool"
              value="true" />
-  <variable entry="UI:SAVE:CHAT:SHOW_TRANSLATION_ONLY_AS_TOOLTIP_CB"
-	     type="bool"
-	     value="false" />
   <!-- ***************************** -->
   <!-- *    SYSTEM INFO COLORS     * -->
   <!-- ***************************** -->
