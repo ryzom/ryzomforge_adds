@@ -243,16 +243,16 @@
 	<action handler="set" params="dblink=UI:SAVE:PLAYER:DISP_FOC|value=1" />
 	<action handler="set" params="dblink=UI:SAVE:ACT_BAR_OUT|value=1" />
 
-	<action handler="set" params="dblink=UI:SAVE:TRANSLATION:ENGLISH:INVERSE_DISPLAY|value=0" />
-	<action handler="set" params="dblink=UI:SAVE:TRANSLATION:ENGLISH:HIDE_FLAG|value=0" />
-	<action handler="set" params="dblink=UI:SAVE:TRANSLATION:FRENCH:INVERSE_DISPLAY|value=0" />
-	<action handler="set" params="dblink=UI:SAVE:TRANSLATION:FRENCH:HIDE_FLAG|value=0" />
-	<action handler="set" params="dblink=UI:SAVE:TRANSLATION:GERMAN:INVERSE_DISPLAY|value=0" />
-	<action handler="set" params="dblink=UI:SAVE:TRANSLATION:GERMAN:HIDE_FLAG|value=0" />
-	<action handler="set" params="dblink=UI:SAVE:TRANSLATION:RUSSIAN:INVERSE_DISPLAY|value=0" />
-	<action handler="set" params="dblink=UI:SAVE:TRANSLATION:RUSSIAN:HIDE_FLAG|value=0" />
-	<action handler="set" params="dblink=UI:SAVE:TRANSLATION:SPANISH:INVERSE_DISPLAY|value=0" />
-	<action handler="set" params="dblink=UI:SAVE:TRANSLATION:SPANISH:HIDE_FLAG|value=0" />
+	<action handler="set" params="dblink=UI:SAVE:TRANSLATION:EN:INVERSE_DISPLAY|value=0" />
+	<action handler="set" params="dblink=UI:SAVE:TRANSLATION:EN:HIDE_FLAG|value=0" />
+	<action handler="set" params="dblink=UI:SAVE:TRANSLATION:FR:INVERSE_DISPLAY|value=0" />
+	<action handler="set" params="dblink=UI:SAVE:TRANSLATION:FR:HIDE_FLAG|value=0" />
+	<action handler="set" params="dblink=UI:SAVE:TRANSLATION:DE:INVERSE_DISPLAY|value=0" />
+	<action handler="set" params="dblink=UI:SAVE:TRANSLATION:DE:HIDE_FLAG|value=0" />
+	<action handler="set" params="dblink=UI:SAVE:TRANSLATION:RU:INVERSE_DISPLAY|value=0" />
+	<action handler="set" params="dblink=UI:SAVE:TRANSLATION:RU:HIDE_FLAG|value=0" />
+	<action handler="set" params="dblink=UI:SAVE:TRANSLATION:ES:INVERSE_DISPLAY|value=0" />
+	<action handler="set" params="dblink=UI:SAVE:TRANSLATION:ES:HIDE_FLAG|value=0" />
 	
 	<action handler="set" params="dblink=UI:SAVE:CHAT:FONT_SIZE|value=10" />
 	<action handler="set" params="dblink=UI:SAVE:CHAT:MULTI_LINE_SPACE|value=0" />
