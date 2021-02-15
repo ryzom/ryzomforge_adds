@@ -1642,6 +1642,48 @@
 		  tooltip="uittTranslationHide"
 		  posparent="translation_spanish_inverse" />
 
+	<view style="sgc_title2"
+	      type="text"
+	      id="disable_translation_text"
+	      posref="BL TL"
+	      x="0"
+	      y="0"
+	      hardtext="uiTranslationDisable"
+	      posparent="translation_spanish_text" />
+	<instance template="tgcw_checkbox"
+		  id="disable_translation_around"
+		  posref="BL TL"
+		  x="0"
+		  y="0"
+		  text="uiTranslationDisableAround"
+		  tooltip="uittTranslationDisableAround"
+		  posparent="disable_translation_text" />
+	<instance template="tgcw_checkbox"
+		  id="disable_translation_guild"
+		  posref="BL TL"
+		  x="0"
+		  y="0"
+		  text="uiTranslationDisableGuild"
+		  tooltip="uittTranslationDisableGuild"
+		  posparent="disable_translation_around" />
+	<instance template="tgcw_checkbox"
+		  id="disable_translation_universe"
+		  posref="BL TL"
+		  x="0"
+		  y="0"
+		  text="uiTranslationDisableUniverse"
+		  tooltip="uittTranslationDisableUniverse"
+		  posparent="disable_translation_guild" />
+	<instance template="tgcw_checkbox"
+		  id="disable_translation_region"
+		  posref="BL TL"
+		  x="0"
+		  y="0"
+		  text="uiTranslationDisableRegion"
+		  tooltip="uittTranslationDisableRegion"
+		  posparent="disable_translation_universe" />
+
+
 	<link expr="@UI:SAVE:TRANSLATION:EN:INVERSE_DISPLAY"
 	      target="translation_english_inverse:c:pushed" />
 	<link expr="@UI:SAVE:TRANSLATION:EN:HIDE_FLAG"
@@ -1662,6 +1704,16 @@
 	      target="translation_spanish_inverse:c:pushed" />
 	<link expr="@UI:SAVE:TRANSLATION:ES:HIDE_FLAG"
 	      target="translation_spanish_hide_flag:c:pushed" />
+
+	<link expr="@UI:SAVE:TRANSLATION:ARROUND:DISABLE"
+	      target="disable_translation_around:c:pushed" />
+	<link expr="@UI:SAVE:TRANSLATION:GUILD:DISABLE"
+	      target="disable_translation_guild:c:pushed" />
+	<link expr="@UI:SAVE:TRANSLATION:UNIVERSE:DISABLE"
+	      target="disable_translation_universe:c:pushed" />
+	<link expr="@UI:SAVE:TRANSLATION:REGION:DISABLE"
+	      target="disable_translation_region:c:pushed" />
+
       </group>
       <ctrl style="skin_scroll"
             id="sb_language"
@@ -3635,7 +3687,30 @@
 	       widget="boolbut"
 	       link="UI:SAVE:TRANSLATION:ES:HIDE_FLAG"
 	       realtime="true" />
-        <param ui="chat_colors:cc_say:c"
+
+	<param ui="language:disable_translation_around:c"
+	       type="db"
+	       widget="boolbut"
+	       link="UI:SAVE:TRANSLATION:ARROUND:DISABLE"
+	       realtime="true" />
+	<param ui="language:disable_translation_guild:c"
+	       type="db"
+	       widget="boolbut"
+	       link="UI:SAVE:TRANSLATION:GUILD:DISABLE"
+	       realtime="true" />
+	<param ui="language:disable_translation_universe:c"
+	       type="db"
+	       widget="boolbut"
+	       link="UI:SAVE:TRANSLATION:UNIVERSE:DISABLE"
+	       realtime="true" />
+	<param ui="language:disable_translation_region:c"
+	       type="db"
+	       widget="boolbut"
+	       link="UI:SAVE:TRANSLATION:REGION:DISABLE"
+	       realtime="true" />
+
+	
+	<param ui="chat_colors:cc_say:c"
                type="db"
                widget="colbut"
                link="UI:SAVE:CHAT:COLORS:SAY"

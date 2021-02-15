@@ -253,6 +253,18 @@
 	<action handler="set" params="dblink=UI:SAVE:TRANSLATION:RU:HIDE_FLAG|value=0" />
 	<action handler="set" params="dblink=UI:SAVE:TRANSLATION:ES:INVERSE_DISPLAY|value=0" />
 	<action handler="set" params="dblink=UI:SAVE:TRANSLATION:ES:HIDE_FLAG|value=0" />
+	<action handler="set" params="dblink=UI:SAVE:TRANSLATION:SAY:DISABLE|value=0" />
+	<action handler="set" params="dblink=UI:SAVE:TRANSLATION:SHOUT:DISABLE|value=0" />
+	<action handler="set" params="dblink=UI:SAVE:TRANSLATION:TEAM:DISABLE|value=0" />
+	<action handler="set" params="dblink=UI:SAVE:TRANSLATION:GUILD:DISABLE|value=0" />
+	<action handler="set" params="dblink=UI:SAVE:TRANSLATION:CIVILIZATION:DISABLE|value=0" />
+	<action handler="set" params="dblink=UI:SAVE:TRANSLATION:TERRITORY:DISABLE|value=0" />
+	<action handler="set" params="dblink=UI:SAVE:TRANSLATION:UNIVERSE:DISABLE|value=0" />
+	<action handler="set" params="dblink=UI:SAVE:TRANSLATION:TELL:DISABLE|value=0" />
+	<action handler="set" params="dblink=UI:SAVE:TRANSLATION:PLAYER:DISABLE|value=0" />
+	<action handler="set" params="dblink=UI:SAVE:TRANSLATION:ARROUND:DISABLE|value=0" />
+	<action handler="set" params="dblink=UI:SAVE:TRANSLATION:SYSTEM:DISABLE|value=0" />
+	<action handler="set" params="dblink=UI:SAVE:TRANSLATION:REGION:DISABLE|value=0" />
 	
 	<action handler="set" params="dblink=UI:SAVE:CHAT:FONT_SIZE|value=10" />
 	<action handler="set" params="dblink=UI:SAVE:CHAT:MULTI_LINE_SPACE|value=0" />

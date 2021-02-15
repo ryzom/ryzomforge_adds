@@ -3008,6 +3008,42 @@ This MUST follow the Enum MISSION_DESC::TIconId
   <variable entry="UI:SAVE:TRANSLATION:ES:HIDE_FLAG"
 	     type="bool"
 	     value="false" />
+  <variable entry="UI:SAVE:TRANSLATION:SAY:DISABLE"
+	     type="bool"
+	     value="false" />
+  <variable entry="UI:SAVE:TRANSLATION:SHOUT:DISABLE"
+	     type="bool"
+	     value="false" />
+  <variable entry="UI:SAVE:TRANSLATION:TEAM:DISABLE"
+	     type="bool"
+	     value="false" />
+  <variable entry="UI:SAVE:TRANSLATION:GUILD:DISABLE"
+	     type="bool"
+	     value="false" />
+  <variable entry="UI:SAVE:TRANSLATION:CIVILIZATION:DISABLE"
+	     type="bool"
+	     value="false" />
+  <variable entry="UI:SAVE:TRANSLATION:TERRITORY:DISABLE"
+	     type="bool"
+	     value="false" />
+  <variable entry="UI:SAVE:TRANSLATION:UNIVERSE:DISABLE"
+	     type="bool"
+	     value="false" />
+  <variable entry="UI:SAVE:TRANSLATION:TELL:DISABLE"
+	     type="bool"
+	     value="false" />
+  <variable entry="UI:SAVE:TRANSLATION:PLAYER:DISABLE"
+	     type="bool"
+	     value="false" />
+  <variable entry="UI:SAVE:TRANSLATION:ARROUND:DISABLE"
+	     type="bool"
+	     value="false" />
+  <variable entry="UI:SAVE:TRANSLATION:SYSTEM:DISABLE"
+	     type="bool"
+	     value="false" />
+  <variable entry="UI:SAVE:TRANSLATION:REGION:DISABLE"
+	     type="bool"
+	     value="false" />
   <!-- ****************************** -->
   <!-- *         CHAT COLORS        * -->
   <!-- ****************************** -->
