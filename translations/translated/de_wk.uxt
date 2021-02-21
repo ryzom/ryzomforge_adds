@@ -14409,9 +14409,9 @@ uiPATitleMount7	[Zig 3]
 uittInBag	[Das Tier ist in deiner Tasche.\n
 	@{6F6F}Rechtsklicken, @{FFFF}um ihm eine Anweisung zu geben.]
 
-uimEnterBag	[Auf der Tasche einsteigen]
+uimEnterBag	[In die Tasche klettern lassen]
 
-uimLeaveBag	[Aus der Tasche lassen]
+uimLeaveBag	[Aus der Tasche heraus lassen]
 
 msgRollDiceLocal	[&SYS&@{FF1F}Du hast %roll gezogen, in einer Ziehung zwischen %min und %max.]
 

@@ -9216,7 +9216,7 @@ uimCall	[CALL]
 
 uimCareer	[CAREER]
 
-uimChangeGroup	[Move to friends group]
+uimChangeGroup	[MOVE TO FRIENDS GROUP]
 
 uimChanSave	[Save]
 
@@ -9314,9 +9314,9 @@ uiMemSpecialFul	[SPECIAL MEMORY]
 
 uiMemSpecialTitle	[SPECIAL]
 
-uimEnterBag	[Enter on the bag]
+uimEnterBag	[Tuck in bag]
 
-uimEnterStable	[Enter Stable]
+uimEnterStable	[Enter stables]
 
 uiMenuCenter	[CENTER MAP ON YOURSELF]
 
@@ -9820,9 +9820,7 @@ uiMk_window11	[Ryzom Ring]
 
 uiMK_Wins	[WINDOWS]
 
-uimLeaveBag	[Leave from the bag]
-
-uimLeaveStable	[Leave Stable]
+uimLeaveBag	[Let out of bag]
 
 uimLockItem	[Lock]
 
@@ -10719,7 +10717,7 @@ uiPeopleAdd	[ADD]
 
 uiPeopleAddContact	[Add contact]
 
-uiPeopleChangeContactGroup	[Name of group]
+uiPeopleChangeContactGroup	[Name of the friends group]
 
 uiPet	[Pet]
 
@@ -12002,9 +12000,9 @@ uiS2E0	[Episode 1: The one where Nexus is rediscovered]
 
 uiSandThundery	[Sand storm]
 
-uiSap	[Sap]
-
 uiSAP	[Sap]
+
+uiSap	[Sap]
 
 uiSapBarDisplay	[SAP DISPLAY]
 
@@ -14624,4 +14622,6 @@ _Natae_citizen	[ (Natae citizen)]
 _Yrkanis_citizen	[ (Yrkanis citizen)]
 
 ___faber_skill_sep___	[--------------------------------]
+
+uimLeaveStable	[Leave stables]
 

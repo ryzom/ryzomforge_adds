@@ -5515,3 +5515,6 @@
 -	cpfpd7	Shookoo					
 -	cpfpe7	Shookoo					
 -	cpfpf7	Shookoo					
+-	gnoof_mount_00	Gnoof Mount	a	the	Gnoof Mounts		the	
+-	object_trough_full_sel	full trough	a	the	full troughs		the	
+-	object_trough_empty_sel	empty trough	a	the	empty troughs		the	
