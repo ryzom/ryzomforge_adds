@@ -5511,8 +5511,11 @@
 -	cpepd7	Cratchakoo	Cratchakoo	Cratchakoo	Cratchakoo	einen	ein	eines	der	des	den	dem	Cratchakoos	Cratchakoos	Cratchakoos	die
 -	cpepe7	Cratchakoo	Cratchakoo	Cratchakoo	Cratchakoo	einen	ein	eines	der	des	den	dem	Cratchakoos	Cratchakoos	Cratchakoos	die
 -	cpepf7	Cratchakoo	Cratchakoo	Cratchakoo	Cratchakoo	einen	ein	eines	der	des	den	dem	Cratchakoos	Cratchakoos	Cratchakoos	die
--	cpfpb7	Shookoo	Shookoo	Shookoo	Shookoo	einen	ein	eines	der	des	den	dem	Shookoos	Shookoos	Shookoos	die
--	cpfpc7	Shookoo	Shookoo	Shookoo	Shookoo	einen	ein	eines	der	des	den	dem	Shookoos	Shookoos	Shookoos	die
--	cpfpd7	Shookoo	Shookoo	Shookoo	Shookoo	einen	ein	eines	der	des	den	dem	Shookoos	Shookoos	Shookoos	die
--	cpfpe7	Shookoo	Shookoo	Shookoo	Shookoo	einen	ein	eines	der	des	den	dem	Shookoos	Shookoos	Shookoos	die
--	cpfpf7	Shookoo	Shookoo	Shookoo	Shookoo	einen	ein	eines	der	des	den	dem	Shookoos	Shookoos	Shookoos	die
+-	cpfpb7	Shookoo	Shookoo	Shookoo	Shookoo	einen	ein	eines	der	des	den	dem	Shookoo 	Shookoo 	Shookoo 	die
+-	cpfpc7	Shookoo	Shookoo	Shookoo	Shookoo	einen	ein	eines	der	des	den	dem	Shookoo 	Shookoo 	Shookoo 	die
+-	cpfpd7	Shookoo	Shookoo	Shookoo	Shookoo	einen	ein	eines	der	des	den	dem	Shookoo 	Shookoo 	Shookoo 	die
+-	cpfpe7	Shookoo	Shookoo	Shookoo	Shookoo	einen	ein	eines	der	des	den	dem	Shookoo 	Shookoo 	Shookoo 	die
+-	cpfpf7	Shookoo	Shookoo	Shookoo	Shookoo	einen	ein	eines	der	des	den	dem	Shookoo 	Shookoo 	Shookoo 	die
+-	gnoof_mount_00	Reit-Gnoof	Reit-Gnoof	Reit-Gnoof	Reit-Gnoof	Reit-Gnoof		die	der	des	
+-	object_trough_full_sel	voller Trog	volle Trog	vollen Trog	volle Tröge	vollen Tröge		die	ein	der	
+-	object_trough_empty_sel		leerer Trog	leere Trog	leeren Trog	leere Tröge	eine		die	ein	der						
