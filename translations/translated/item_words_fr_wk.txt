@@ -7774,5 +7774,5 @@
 -	m0693ccife01	Ligament suprême / Zerx des Forêts	un	le	Ligaments suprêmes / Zerx des Forêts	des	les
 -	m0694ccile01	Cuir suprême / Zerx des Lacs	du	le	Cuirs suprêmes / Zerx des Lacs	des	les
 -	m0694ccife01	Cuir suprême / Zerx des Forêts	du	le	Cuirs suprêmes / Zerx des Forêts	des	les
--	s2e1_seve_suc	goutte de sève de salina	une	la	gouttes de sève de salina	des	les	
--	s2e1_salins	salin mûr	un	le	salins mûrs	des	les	
+-	s2e1_seve_suc		Goutelette de suc de salina du Nexus	une	la	Goutelettes de suc de salina du Nexus	des	les
+-	s2e1_salins	Sélection de salins mûrs du nexus	une	le	Sélections de salins mûrs du nexus	des	les

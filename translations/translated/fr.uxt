@@ -289,9 +289,9 @@ Expert_Shield_Smith	[Fabricant de boucliers expert]
 
 ExtremelyDifficult	[Extrêmement difficile]
 
-Faber	[Artisan]
-
 faber	[Artisan]
+
+Faber	[Artisan]
 
 FaberCompetences	[Compérences d'artisanat]
 
@@ -1538,6 +1538,11 @@ Mentalist	[Mentaliste]
 Mind_Lord	[Seigneur de l'Esprit]
 
 Misc	[Divers]
+
+mission_real_tooltip	[{FFFC}Ceci est le @{6F6F}Cap@{FFFC} sur lequel vous êtes actuellement fixé[gender=f]e[/gender].\n
+	Cliquez pour obtenir plus d'@{6F6F}informations@{FFFC}.\n
+	\n
+	Il est également possible de changer de cap en cliquant sur @{6F6F}Mettre le Cap sur [...]@{FFFC} à chaque fois que l'option est disponible.]
 
 mpcatExotic	[Exotique]
 
@@ -4700,6 +4705,8 @@ uiBotChatOffer	[Faites votre offre.]
 
 uiBotChatPact	[Pacte : ]
 
+uibotchatphrase	[]
+
 uiBotChatPrice	[Prix : ]
 
 uiBotChatRefresh	[Rafraîchir]
@@ -7306,9 +7313,9 @@ uiGloves	[Gants]
 
 uiGroupColor	[Co-équipiers]
 
-uiGuild	[Guilde]
-
 uiGUILD	[GUILDE]
+
+uiGuild	[Guilde]
 
 uiGuildBearer	[Titulaire]
 
@@ -10341,9 +10348,9 @@ uiNoVersionFound	[Pas de version trouvée]
 
 uiNowDate	[La date est :]
 
-uiNPCColor	[PNJ]
-
 uiNpcColor	[PNJ]
+
+uiNPCColor	[PNJ]
 
 uiNPCGiver	[Initiateur : ]
 
@@ -11991,9 +11998,9 @@ uiS2E0	[Épisode 1 : Celui où on redécouvre le Nexus]
 
 uiSandThundery	[il y a de l'orage de sciure dans l'air.]
 
-uiSap	[Sève]
-
 uiSAP	[Sève du personnage]
+
+uiSap	[Sève]
 
 uiSapBarDisplay	[Affichage Sève]
 
@@ -12010,9 +12017,9 @@ uiSaveMovie	[Sauvegarder le film]
 
 uiSaveUI	[Sauvegarder]
 
-uiSay	[Dire]
-
 uiSAY	[Dire]
+
+uiSay	[Dire]
 
 uiSayColor	[Dire]
 
@@ -12176,9 +12183,9 @@ uiShortcutNumber	[Numéro du raccourci]
 
 uiShortCutTT	[Glissez ici un sort de combat ou de magie]
 
-uiSHOUT	[Crier]
-
 uiShout	[Crier]
+
+uiSHOUT	[Crier]
 
 uiShoutColor	[Crier]
 
@@ -12590,9 +12597,9 @@ uiTatoos	[Tatouage]
 
 uitCenter	[Centrer sur vous-même]
 
-uiTEAM	[ÉQUIPE]
-
 uiTeam	[Équipe]
+
+uiTEAM	[ÉQUIPE]
 
 uiTeamChat	[Chat de l'équipe]
 
@@ -14211,6 +14218,10 @@ uittSetMoney	[Régler l'argent]
 
 uittShow3dItemPreview	[Si coché, affiche la prévisualisation en 3D de l'objet inspecté.]
 
+uittShowCapInMap	[Afficher sur la carte la position de l'objectif fixé par le Cap]
+
+uittShowCapPopup	[Afficher/Cacher la fenêtre du Cap au centre-haut de l'écran]
+
 uittShowClock	[Si coché, affiche l'heure courante au-dessus du radar.]
 
 uittShowClock12h	[Si coché, utilise le système horaire sur 12 heures dans le radar et les messages du chat.]
@@ -14610,6 +14621,4 @@ _Natae_citizen	[Citoyen de Natae]
 _Yrkanis_citizen	[Citoyen d'Yrkanis]
 
 ___faber_skill_sep___	[--------------------------------]
-
-uibotchatphrase	[]
 
