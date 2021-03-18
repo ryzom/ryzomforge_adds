@@ -36,8 +36,8 @@ Advanced_Shield_Smith	[Fortgeschrittener Schildschmied]
 
 Affliction_Bringer	[Peiniger]
 
-agp_trouble	[Dem Treiber war es nicht möglich, AGP-Speicher zu belegen, was zu Funktions- und Anzeigeproblemen führen kann.\n
-	Möchtest du mehr Details erfahren?]
+agp_trouble	[Dem Treiber war es nicht möglich AGP-Speicher zu belegen, was zu Funktions- und Anzeigeproblemen führen kann.\n
+	 Möchtest du mehr Details erfahren?]
 
 Alchemist	[Alchemist]
 
@@ -9300,7 +9300,7 @@ uiMemSpecialFul	[SPEZIELLES EINSTUDIEREN]
 
 uiMemSpecialTitle	[SPEZIAL]
 
-uimEnterBag	[Auf der Tasche einsteigen]
+uimEnterBag	[In die Tasche klettern lassen]
 
 uimEnterStable	[In den Stall schicken]
 
@@ -9804,7 +9804,7 @@ uiMk_window11	[Ryzom Ring]
 
 uiMK_Wins	[FENSTER]
 
-uimLeaveBag	[Aus der Tasche lassen]
+uimLeaveBag	[Aus der Tasche heraus lassen]
 
 uimLeaveStable	[Aus dem Stall holen]
 
@@ -12690,7 +12690,7 @@ uiTIError	[FEHLER: TITEL NICHT GEFUNDEN!]
 
 uiTIForageResult	[Geerntete Materialien]
 
-uiTIForaging	[%qt der Qualität %ql]
+uiTIForaging	[%qt Material/ien der Qualität %ql]
 
 uiTileNear	[Fern-Details]
 
