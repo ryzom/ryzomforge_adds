@@ -7776,3 +7776,5 @@
 -	m0694ccife01	Supreme Forest Zerx Leather	a	the	Supreme Forest Zerx Leathers		the
 -	s2e1_seve_suc	drop of salina sap	a	the	drops of salina sap		the	
 -	s2e1_salins	ripe salin	a	the	ripe salins		the	
+-	wheel_token_easter	
+-	slot_fingerl	

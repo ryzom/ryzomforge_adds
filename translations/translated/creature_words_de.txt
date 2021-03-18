@@ -5507,3 +5507,8 @@
 -	cpfpf7	Shookoo	Shookoo	Shookoo	Shookoo	einen	ein	eines	der	des	den	dem	Shookoo 	Shookoo 	Shookoo 	die
 -	object_trough_full_sel	voller Trog	volle Trog	vollen Trog	volle Tröge	vollen Tröge		die	ein	der	
 -	object_trough_empty_sel		leerer Trog	leere Trog	leeren Trog	leere Tröge	eine		die	ein	der						
+-	object_easter_egg_small	
+-	object_easter_egg	
+-	object_easter_egg_medium	
+-	object_easter_egg_big	
+-	object_easter_egg_hug	

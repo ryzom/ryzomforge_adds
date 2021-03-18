@@ -4122,7 +4122,7 @@
 -	CKBCF4	Kinrey Mortal	un	el	Kinreys Mortales		los
 -	CDCCF5	Lakisey					
 -	CCGCF5	Rhadab					
--	CBACF5	Dawil					
+-	CBACF5		Dawil	uno	el	Dawiles	unos	los
 -	CPFCF5	Firgin					
 -	CKFCF7	Wekotup					
 -	CDBCF7	Valcorenoch					
@@ -5507,3 +5507,8 @@
 -	cpfpf7	Shookoo					
 -	object_trough_full_sel	comedero lleno	uno	el	comederos llenos	unos	los
 -	object_trough_empty_sel	comedero vacío	uno	el	comederos vacíos	unos	los
+-	object_easter_egg_small	pequeño huevo	uno	el	pequeños huevos	unos	los
+-	object_easter_egg	huevo	uno	el	huevos	unos	los
+-	object_easter_egg_medium	mediano huevo	uno	el	medianos huevos	unos	los
+-	object_easter_egg_big	gran huevo	uno	el	grandes huevos	unos	los
+-	object_easter_egg_hug	enorme huevo	uno	el	enormes huevos	unos	los

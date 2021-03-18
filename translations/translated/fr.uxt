@@ -1539,10 +1539,10 @@ Mind_Lord	[Seigneur de l'Esprit]
 
 Misc	[Divers]
 
-mission_real_tooltip	[{FFFC}Ceci est le @{6F6F}Cap@{FFFC} sur lequel vous êtes actuellement fixé[gender=f]e[/gender].\n
+mission_real_tooltip	[{FFFC}Ceci est le @{6F6F}Cap@{FFFC} sur lequel vous êtes actuellement fixé(e).\n
 	Cliquez pour obtenir plus d'@{6F6F}informations@{FFFC}.\n
 	\n
-	Il est également possible de changer de cap en cliquant sur @{6F6F}Mettre le Cap sur [...]@{FFFC} à chaque fois que l'option est disponible.]
+	Il est également possible de changer de cap en cliquant sur @{6F6F}Mettre le Cap sur (...)@{FFFC} à chaque fois que l'option est disponible.]
 
 mpcatExotic	[Exotique]
 
