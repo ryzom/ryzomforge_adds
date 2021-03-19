@@ -717,6 +717,7 @@ function game:openChannels()
 				}
 			end
 			local t = {}
+
 			for k in pairs(channels) do table.insert(t, k) end
 			table.sort(t)
 			-- sorted
