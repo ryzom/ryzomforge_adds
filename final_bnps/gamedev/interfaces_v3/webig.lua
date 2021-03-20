@@ -17,6 +17,16 @@ function getUCtf8(text)
 	return text
 end
 
+function game:openUrlOnWebig(url)
+	local webig = getUI("ui:interface:webig")
+	webig.active=1
+	webig.opened=1
+	local html = webig:find("html")
+	html:browse(url)
+	setTopWindow(webig)
+	webig:blink(2)
+end
+
 
 
 function webig:addSheet(dst, sheet, quality, quantity, worned, user_color, rm_class_type, rm_faber_stat_type)

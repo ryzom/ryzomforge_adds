@@ -33,7 +33,7 @@ function game:addMapArkPoint(section, x, y, name, title, texture, url, h)
 		if h ~= nil and h > 0 then
 			game.mapArkPoints[section][name] = {x, y, title, texture, "", "game:openMapArkPointHelp([["..url.."]], "..tostring(h)..")"}
 		else
-			game.mapArkPoints[section][name] = {x, y, title, texture, "game:openMapArkPointUrl([["..url.."]])", "game:updateMapArkPointColor()"}
+			game.mapArkPoints[section][name] = {x, y, title, texture, "game:openUrlOnWebig([["..url.."]])", "game:updateMapArkPointColor()"}
 		end
 	end
 end
@@ -44,16 +44,6 @@ end
 
 function game:delMapArkSection(section)
 	game.mapArkPoints[section] = nil
-end
-
-function game:openMapArkPointUrl(url)
-	local webig = getUI("ui:interface:webig")
-	webig.active=1
-	webig.opened=1
-	local html = webig:find("html")
-	html:browse(url)
-	setTopWindow(webig)
-	webig:blink(2)
 end
 
 function game:updateMapArkPointColor()
@@ -135,4 +125,4 @@ end
 -- game:setAltMap("fyros_map.tga", "fyros_map_sp.tga")
 
 -- TEST
--- game:addMapArkPoint("test", 3785,-3233, "Ulu", "", "ico_visibility.tga", "https://app.ryzom.com/app_arcc/index.php?action=mScript_Run&script=9894", 140)
+-- game:addMapArkPoint("vip", 4154,-3305, "vip_allegory", "", "allegory_16.tga", "https://app.ryzom.com/app_arcc/index.php?action=mScript_Run&script=9894&vip=allegory_vip&title=fct_allegory_maker&gender=1", 140)
