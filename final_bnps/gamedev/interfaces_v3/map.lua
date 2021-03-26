@@ -79,14 +79,6 @@ function game:updateMapArkPointHelp(caller_id)
 	local x, y = getMousePos()
 	x0 = game.mapArkPointHelpMousePosX
 	y0 = game.mapArkPointHelpMousePosY
-	debug("-- X --")
-	debug(x)
-	debug(caller.x - 20)
-	debug(caller.x + caller.w + 20)
-	debug("-- Y --")
-	debug(y)
-	debug(caller.y - caller.h - 20)
-	debug(caller.y + 20)
 	if x < caller.x - 20 or x > caller.x + caller.w + 20 or y < caller.y - caller.h - 20 or y > caller.y + 20 then
 		setOnDraw(getUI("ui:interface:webig_html_modal"), "")
 		runAH(nil, "leave_modal", "group=ui:interface:webig_html_modal")
@@ -100,9 +92,7 @@ function game:onLoadMap(map)
 	delArkPoints()
 	game.mapMapArkPointHelpUrl = ""
 	for section, points in pairs(game.mapArkPoints) do
-		debug("Display section ["..section.."]")
 		for name, point in pairs(points) do
-			debug("  Display point "..name.." = "..point[5])
 			addLandMark(point[1], point[2], point[3], point[4], "lua", point[5], "", "", "lua", point[6])
 		end
 	end
