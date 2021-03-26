@@ -1293,6 +1293,9 @@ end
 --end
 
 function game:parseLangText(text)
+	if text == nil then
+		return ""
+	end
 	local final = ""
 	local work = ""
 	local translated = ""
