@@ -1539,6 +1539,9 @@ Mind_Lord	[Geistesfürst]
 
 Misc	[Verschiedenes]
 
+mission_real_tooltip	[{FFFC}Dies ist der @{6F6F}Kurs@{FFFC}, dem Du gerade folgst.\n
+	Klick, um @{6F6F}weitere Informationen@{FFFC} zu erhalten.]
+
 mpcatExotic	[exotisch]
 
 mpcatFaber	[Handwerker]
@@ -9563,7 +9566,7 @@ uimIshowBanner	[Fraktionswappen anzeigen]
 
 uiMissionAnd	[ -    ]
 
-uiMissionCatalog	[Öffnen: Missions-Tagebuch]
+uiMissionCatalog	[Öffne Missions-Tagebuch]
 
 uiMissionDesc	[Beschreibung:]
 
@@ -11985,9 +11988,9 @@ uiS2E0	[Episode 1: Die Wiederentdeckung des Nexus]
 
 uiSandThundery	[holzstaub-stürmisch]
 
-uiSap	[Sap]
-
 uiSAP	[Sap]
+
+uiSap	[Sap]
 
 uiSapBarDisplay	[Sapanzeige]
 
@@ -12004,9 +12007,9 @@ uiSaveMovie	[Film speichern]
 
 uiSaveUI	[Speichern]
 
-uiSAY	[SAGEN]
-
 uiSay	[SPRECHEN]
+
+uiSAY	[SAGEN]
 
 uiSayColor	[Sprechen]
 
@@ -12584,9 +12587,9 @@ uiTatoos	[TATTOOS]
 
 uitCenter	[Auf Spieler zentrieren]
 
-uiTEAM	[TEAM]
-
 uiTeam	[TEAM]
+
+uiTEAM	[TEAM]
 
 uiTeamChat	[Teamchat]
 
@@ -14202,6 +14205,10 @@ uittSelectPlan	[Wähle einen verfügbaren Handwerksplan aus, um einen Gegenstand
 uittSetMoney	[DAPPER EINGEBEN]
 
 uittShow3dItemPreview	[Wenn aktiviert, wird eine 3D-Ansicht oder Vorschau des mit "Info" betrachteten Gegenstandes angezeigt.]
+
+uittShowCapInMap	[Zeige das Kursziel auf der Karte]
+
+uittShowCapPopup	[Zeige/Verberge die Kursanzeige in der Mitte oben]
 
 uittShowClock	[Wenn aktiviert, wird die System-Zeit des Computers im Kompass angezeigt.]
 

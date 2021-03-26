@@ -14605,3 +14605,10 @@ uittShowTranslationOnlyAsTooltip	[If checked, messages will be displayed in thei
 
 uibotchatphrase	[ ]
 
+uittShowCapInMap	[Show the position of Course's goal on the map]
+
+uittShowCapPopup	[Display/hide the Course popup at top center of the screen]
+
+mission_real_tooltip	[{FFFC}This is the @{6F6F}Course@{FFFC} you are currently following.\n
+	Click for more @{6F6F}information@{FFFC}.]
+

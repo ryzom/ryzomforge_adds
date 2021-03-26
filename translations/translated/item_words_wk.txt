@@ -380,7 +380,7 @@
 -	fy_leader_01	Dexton's Haircut	a	the	Dexton's Haircuts		the	
 -	fy_visage	Fyros Mask	a	the	Fyros Masks		the	
 -	fy_weapon_leader_dexton	Dexton's Long Sword	a	the	Dexton's Long Swords		the	
--	gnoof_mount_0	
+-	gnoof_mount_0		Gnoof mount	a	the	Gnoof mounts		the
 -	goo_covered_seeds	Goo-Covered Seeds	some	the	Goo-Covered Seeds		the	
 -	goo_swarmplants_fiber	Goo Shooki Fiber	some	the	Goo Shooki Fibers		the	
 -	goo_swarmplants_fruit	Piece of Goo Shooki Fruit	a	the	Pieces of Goo Shooki Fruit		the	
@@ -7087,6 +7087,7 @@
 -	slaughter_week_token_boss_matis	Piece of Matis Exterminator	a	the	Pieces of Matis Exterminator		the	
 -	slaughter_week_token_boss_tryker	Piece of Tryker Exterminator	a	the	Pieces of Tryker Exterminator		the	
 -	slaughter_week_token_boss_zorai	Piece of Zoraï Exterminator	a	the	Pieces of Zoraï Exterminator		the	
+-	slot_fingerl	Equip a ring in left finger	a	the	Equip a ring in left finger		the
 -	small_barrel	Small Barrel	a	the	Small Barrels		the	
 -	small_brazier	Small Brazier	a	the	Small Braziers		the	
 -	small_conch	Small Conch	a	the	Small Conchs		the	
@@ -7527,6 +7528,7 @@
 -	wheel_token_atysmas	withered token	a	the	withered tokens	the		
 -	wheel_token_basic	withered token	a	the	withered tokens	the		
 -	wheel_token_choice	withered token	a	the	withered tokens	the		
+-	wheel_token_easter	Rusty Token	a	the	Rusty Tokens		the
 -	wheel_token_fine	withered token	a	the	withered tokens	the		
 -	wheel_token_suprem	withered token	a	the	withered tokens	the		
 -	wheel_token_xl	withered token	a	the	withered tokens	the		

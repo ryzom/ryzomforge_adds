@@ -5490,6 +5490,11 @@
 -	object_chest_wisdom_std_sel	Coffre de sagesse	un	le	du	au	Coffres de sagesse	des	les
 -	object_chest_wisdom_tryker_sel	Coffre de sagesse	un	le	du	au	Coffres de sagesse	des	les
 -	object_chest_wisdom_zorai_sel	Coffre de sagesse	un	le	du	au	Coffres de sagesse	des	les
+-	object_easter_egg	egg	a	the	eggs		the
+-	object_easter_egg_big	big egg	a	the	big eggs		the
+-	object_easter_egg_hug	huge egg	a	the	huge eggs		the
+-	object_easter_egg_medium	medium egg	a	the	medium eggs		the
+-	object_easter_egg_small	small egg	a	the	small eggs		the
 -	object_pr_s2_toopetz_a	Toopetz Gret							
 -	object_pr_s2_toopetz_b	Toopetz Dual							
 -	object_pr_s2_toopetz_c	Toopetz Try							

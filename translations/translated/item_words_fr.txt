@@ -7776,3 +7776,5 @@
 -	m0694ccife01	Cuir suprême / Zerx des Forêts	du	le	Cuirs suprêmes / Zerx des Forêts	des	les
 -	s2e1_seve_suc	goutte de sève de salina	une	la	gouttes de sève de salina	des	les	
 -	s2e1_salins	salin mûr	un	le	salins mûrs	des	les	
+-	wheel_token_easter	Jeton flétri	un	le	Jetons flétris	des	les
+-	slot_fingerl	

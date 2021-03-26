@@ -14623,3 +14623,10 @@ uiTextCommandFT3	[FT FT Mientras los nuevos templos daban la bienvenida a los ho
 
 uiTextCommandFT4	[FT FT Extracto de las Crónicas de Erlan]
 
+uittShowCapInMap	[Mostrar en el mapa la posición del Objetivo en Curso]
+
+uittShowCapPopup	[Mostrar/Ocultar el Curso emergente en el centro de mapa]
+
+mission_real_tooltip	[{FFFC}Este es el @{6F6F}Curso@{FFFC} que usted sigue actualmente.\n
+	Clic para más @{6F6F}información@{FFFC}.]
+

@@ -1540,6 +1540,9 @@ Mind_Lord	[Señor de la Mente]
 
 Misc	[Misceláneo]
 
+mission_real_tooltip	[{FFFC}Este es el @{6F6F}Curso@{FFFC} que usted sigue actualmente.\n
+	Clic para más @{6F6F}información@{FFFC}.]
+
 mpcatExotic	[Exótico]
 
 mpcatFaber	[Artesano]
@@ -12021,9 +12024,9 @@ uiSaveMovie	[Guardar Película]
 
 uiSaveUI	[Guardar]
 
-uiSAY	[DECIR]
-
 uiSay	[DECIR]
+
+uiSAY	[DECIR]
 
 uiSayColor	[Decir]
 
@@ -12601,9 +12604,9 @@ uiTatoos	[TATUAJES]
 
 uitCenter	[CENTRAR MAPA EN TU POSICIÓN]
 
-uiTEAM	[EQUIPO]
-
 uiTeam	[EQUIPO]
+
+uiTEAM	[EQUIPO]
 
 uiTeamChat	[Chat del Equipo]
 
@@ -14224,6 +14227,10 @@ uittSelectPlan	[Selecciona el plan del objeto a crear]
 uittSetMoney	[Ajustar cantidad]
 
 uittShow3dItemPreview	[Si se marca, muestra una imagen previa en 3D del objeto inspeccionado.]
+
+uittShowCapInMap	[Mostrar en el mapa la posición del Objetivo en Curso]
+
+uittShowCapPopup	[Mostrar/Ocultar el Curso emergente en el centro de mapa]
 
 uittShowClock	[Si se marca, muestra la hora actual en la brújula.]
 
