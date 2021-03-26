@@ -344,7 +344,6 @@ function game:getOpenAppPageMessage()
 	surl = url:split("&")
 	for i=1,#surl do
 		if surl[i]:sub(1, 12) == "open_message" then
-			debug(surl[i]:sub(14))
 			return base64.decode(surl[i]:sub(14))
 		end
 	end
@@ -1293,6 +1292,9 @@ end
 --end
 
 function game:parseLangText(text)
+	if text == nil then
+		return ""
+	end
 	local final = ""
 	local work = ""
 	local translated = ""
