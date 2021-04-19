@@ -6700,13 +6700,13 @@
 -	unstable_goo_vial	Unstable Potion	an	the	Unstable Potions		the	
 -	water_barrel	Stimulating Water	a	the	Stimulating Waters		the	
 -	web_transaction	Transaction	a	the	Transactions		the	
--	wheel_token_anlor	withered token	a	the	withered tokens	the		
--	wheel_token_atysmas	withered token	a	the	withered tokens	the		
--	wheel_token_basic	withered token	a	the	withered tokens	the		
--	wheel_token_choice	withered token	a	the	withered tokens	the		
--	wheel_token_fine	withered token	a	the	withered tokens	the		
--	wheel_token_suprem	withered token	a	the	withered tokens	the		
--	wheel_token_xl	withered token	a	the	withered tokens	the		
+-	wheel_token_anlor	Withered Token	a	the	Withered Tokens		the
+-	wheel_token_atysmas	Withered Token	a	the	Withered Tokens		the
+-	wheel_token_basic	Withered Token	a	the	Withered Tokens		the
+-	wheel_token_choice	Withered Token	a	the	Withered Tokens		the
+-	wheel_token_fine	Withered Token	a	the	Withered Tokens		the
+-	wheel_token_suprem	Withered Token	a	the	Withered Tokens		the
+-	wheel_token_xl	Withered Token	a	the	Withered Tokens		the
 -	white_medicine	White Medicine	a	the	White Medicines		the	
 -	winch	Winch	a	the	Winchs		the	
 -	winch_2	Winch	a	the	Winchs		the	
@@ -7776,5 +7776,6 @@
 -	m0694ccife01	Supreme Forest Zerx Leather	a	the	Supreme Forest Zerx Leathers		the
 -	s2e1_seve_suc	drop of salina sap	a	the	drops of salina sap		the	
 -	s2e1_salins	ripe salin	a	the	ripe salins		the	
--	wheel_token_easter	
--	slot_fingerl	
+-	wheel_token_easter	Refugees' days Event	a	the	Refugees' days Events		the
+-	slot_fingerl	Equip a ring on your left finger	a	the			
+1618579662	slot_neck	

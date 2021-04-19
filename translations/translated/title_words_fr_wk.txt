@@ -539,7 +539,7 @@
 -	Master_Hand_To_Hand_Fighter	Maître Martial	Maître Martial		
 -	Hand_To_Hand_Fighter	Pugiliste	Pugiliste		
 -	Close_Fighter	Combattant Rapproché	Combattante Rapprochée		
--	Advanced_Close_Fighter		Empoigneur	Empoigneuse
+-	Advanced_Close_Fighter	Empoigneur	Empoigneuse
 -	Defensive_Magician	Magicien Défensif	Magicienne Défensive		
 -	Offensive_Magician	Magicien Offensif	Magicienne Offensive		
 -	Elementalist_Apprentice	Apprenti Elémentaliste	Apprentie Elémentaliste		
@@ -786,7 +786,7 @@
 -	gn_corsairs_kami_ambassador_t1	Ambassadeur Kami des Corsaires			
 -	gn_duneriders_kami_ambassador_f1	Ambassadeur Kami des Sauvages			
 -	gn_ecowarriors_kami_ambassador_m1	Ambassadeur Kami des Embourbés			
--	gn_firstdeserters_kami_ambassador_m1	Ambassadeur Kami des Bagnards			
+-	gn_firstdeserters_kami_ambassador_m1	First Deserters Kami Ambassador	
 -	gn_fraharhunters_kami_ambassador_f1	Ambassadeur Kami des Chasseurs de Frahars			
 -	gn_hamazans_kami_ambassador_z1	Ambassadeur Kami des Amazones Matis			
 -	gn_kami_welcomer_f1	Hôte Kami des Dunes de l'Exil			
@@ -880,7 +880,7 @@
 -	gn_karavan_welcomer_z5	Hôte Karavan du Bosquet Vierge 			
 -	gn_karavan_welcomer_z6	Hôte Karavan du Vide			
 -	gn_kuilde_karavan_ambassador_p1	Ambassadeur Karavan de la Kuilde			
--	gn_lawless_karavan_ambassador_f1	Amabassadeur Karavan des Sans Loi			
+-	gn_lawless_karavan_ambassador_f1	Amabassadeur Karavan des Sans Loi	
 -	gn_masters_karavan_ambassador_z1	Ambassadeur Karavan des Maîtres de la Goo			
 -	gn_matisianborder_karavan_ambassador_m1	Ambassadeur Karavan des Gardes-Frontières			
 -	gn_oasisdiggers_karavan_ambassador_m1	Ambassadeur Karavan des Puisatiers			
@@ -890,7 +890,7 @@
 -	gn_siltsculptors_karavan_ambassador_t1	Ambassadeur Karavan des Sculpteurs de Vase			
 -	gn_slashandburn_karavan_ambassador_m1	Ambassadeur Karavan des Mercenaires Ecarlates			
 -	gn_slavers_karavan_ambassador_t1	Ambassadeur Karavan des Esclavagistes			
--	gn_smugglers_karavan_ambassador_t1	Ambassadeur Karavan des Contrebandiers			
+-	gn_smugglers_karavan_ambassador_t1	Embajador Karavan de los Contrabandistas		
 -	gn_fairhaven_karavan_officer	Officier Karavan de Fairhaven			
 -	gn_iconworshipers_kami_ambassador_z1	Ambassadeur Kami des Inconodoules			
 -	gn_yrkanis_kami_master	Maître Kami d'Yrkanis			
@@ -1745,9 +1745,9 @@
 -	gn_tower_kami	Tour de guet kami			
 -	gn_tower_karavan	Tour de guet karavan			
 -	gn_traitre_corsaire	traitre_corsaire			
--	gn_warmap_marauder_chief_250	warmap_marauder_chief_250			
--	gn_warmap_marauder_hero_200	warmap_marauder_hero_200			
--	gn_warmap_marauder_leader_200	warmap_marauder_leader_200			
+-	gn_warmap_marauder_chief_250	warmap_marauder_chief_250	
+-	gn_warmap_marauder_hero_200	warmap_marauder_hero_200	
+-	gn_warmap_marauder_leader_200	warmap_marauder_leader_200	
 -	gn_warrior_fyros_spire_kami	warrior_fyros_spire_kami			
 -	gn_warrior_fyros_spire_karavan	warrior_fyros_spire_karavan			
 -	gn_warrior_matis_spire_kami	warrior_matis_spire_kami			
@@ -1818,8 +1818,8 @@
 -	fct_fyros_prince	Prince fyros	Princesse fyros		
 -	fct_tryker_vice_governor	Vice-Gouverneur Tryker			
 -	fct_zorai_sage	Sage zoraï			
--	fct_marauder_scout	Eclaireur Maraudeur			
--	fct_marauder_chief	Chef Maraudeur			
+-	fct_marauder_scout	Marauder Scout	
+-	fct_marauder_chief	Marauder Chief	
 -	fct_spy	Espion	Espionne		
 -	Title00050	Apprenti Boucher	Apprentie Bouchère		
 -	Title00051	Boucher	Bouchère		
@@ -1911,13 +1911,14 @@
 -	gn_karavan_altar_silan_shattered_ruins	Autel Karavan des Ruines dévastées			
 -	gn_kami_altar_silan_shining_lake	Autel Kami du Lac étincelant			
 -	fct_to_new_horizons	To New Horizons			
--	fct_marauder_merchant	Marchand Marauder			
+-	fct_marauder_merchant	Marauder Merchant	
 -	fct_ranger_guide	Guide Ranger			
 -	fct_ranger_quartermaster	Quartier-maître Ranger			
 -	fct_arionasiszig	Zig d'Arionasis			
 -	fct_tyneetrykzig	Zig de Tyneetryk			
 -	gn_fresh_water_barrel	Fût d'eau fraîche			
--	fct_marauder_ambassador	 Ambassadeur des Maraudeurs	Ambassadrice des Maraudeurs
--	fct_marauder_windofmuse	(Vents du Songe)
--	gn_driller_marauder_const	Aklareen en construction			
--	fct_allegory_maker	
+-	fct_marauder_ambassador	 Marauder Ambassador	
+-	fct_marauder_windofmuse	(Winds of Muse)	
+-	gn_driller_marauder_const	Aklareen Under Construction	
+1616092237	fct_allegory_maker	Graveur d'Allégories	Graveuse d'Allégories
+1616152994	fct_animals_and_co	Représentant de "Animaux & Co"	Représentante de "Animaux & Co"

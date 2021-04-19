@@ -119,7 +119,7 @@
 -	gn_bandit_thefount_1		Prakkers	
 -	gn_bandit_thefount_2		Vejetes/Capataces del Manantial	
 -	gn_bandit_thefount_3		Filibusteros de la Fuente	
--	gn_bandit_thefount_4		Guardaparques de la Libertad	
+-	gn_bandit_thefount_4	Rangers de la Libertad	
 -	gn_bandit_thesavagedunes_1	Malvado de los Bosques		
 -	gn_bandit_thesavagedunes_2	Acuchilladores Salvajes		
 -	gn_bandit_thesavagedunes_3	Puñaleros del Canal		
@@ -263,7 +263,7 @@
 -	fct_mb_welcomer	 (Recibidor del Gremio del Lanzador de Parachoques)		
 -	fct_ma_welcomer	 (Recibidor del Gremio del Lanzador de Ataque)		
 -	fct_t_welcomer	 (Recibidor del Gremio del Comerciante)		
--	fct_h_welcomer	 (Recibidor del Gremio del Guardabosque)		
+-	fct_h_welcomer	 (Recibidor del Gremio de Rangers)	(Recibidora del Gremio de Rangers)
 -	fct_f_welcomer	 (Recibidor del Gremio del Artesano)		
 -	fct_welcomer	 (Recibidor del Gremio)		
 -	fct_p_caretaker	 (Conserje de Apartamento Homin)		
@@ -341,7 +341,7 @@
 -	fct_stablegirl_merchant	 (Chica del Establo)		
 -	fct_barmaid	 (Tavernero)		
 -	fct_civil			
--	fct_sage	 (Savio)		
+-	fct_sage	 (Sabio)	(Sabia)
 -	fct_craftsman	 (Artesano)		
 -	fct_supplier	 (Proveedor)		
 -	fct_hunter	 (Cazador)		
@@ -455,7 +455,7 @@
 -	Novice_Warrior	Aprendiz de Luchador	Aprendiz de Luchador	
 -	Novice_Harvester	Aprendiz de Recolector	Aprendiz de Recolector 	
 -	Novice_Magician	Aprendiz de Mago	Aprendiz de Mago	
--	Artisan_Apprentice	Aprendiz de Artesano	Aprendiz de Artesano	
+-	Artisan_Apprentice	Apprenti Artisan 	Apprentie Artisane		
 -	Warrior_Apprentice	Aprendiz de Artesano	Aprendiz de Artesano	
 -	Magician_Apprentice	Aprendiz de Mago	Aprendiz de Mago	
 -	Fyros_Artisan_Apprentice	Aprendiz de Artesano Fyros	Aprendiz de Artesano Fyros	
@@ -494,26 +494,26 @@
 -	Heavy_Armsman	Amero Pesado	Armera Pesada	
 -	Gunman	Pistolero	Pistolera	
 -	Heavy_Gunman	Artillero Pesado	Artillera Pesada	
--	Advanced_Gunman	Pistolero Avanzado	Pistolera Avanzada	
--	Advanced_Heavy_Gunman	Artillero Pesado Avanzado	Artillera Pesado Avanzada	
--	Bludgeoner	Aporreador/Garroteador	Aporreadora/Garroteadora	
+-	Advanced_Gunman	Franc-Tireur	Franc-Tireur		
+-	Advanced_Heavy_Gunman	Tirailleur	Tirailleur		
+-	Bludgeoner	Matraqueur	Matraqueuse		
 -	Skewerer	Espeton para Brochetas	Espeton para Brochetas	
 -	Slasher	Acuchillador	Acuchilladora	
 -	Smasher	Masacrador	Masacradora	
 -	Impaler	Empalador	Empaladora	
--	Cleaver	Cuchillada de Carnicero	Cuchillada de Carnicero	
--	Bowman	Arquero	Arquera	
+-	Cleaver	Fendeur	Fendeuse		
+-	Bowman	Archer	Archer		
 -	Heavy_Bowman	Arquero Pesado	Arquera Pesada	
 -	Pistoleer	Pistolero	Pistolera	
 -	Heavy_Artilleryman	Artillero Pesado	Artillera Pesada	
 -	Crossbowman	Ballestero	Ballestera	
--	Artilleryman	Artillero 	Artillera Pesada	
+-	Artilleryman	Artilleur	Artilleur		
 -	Rifleman	Fusilero	Fusilera	
 -	Maceman	Triturador	Trituradora	
--	Brute	Brutal	Brutal	
+-	Brute	Brute	Brute		
 -	Knifeman	Torbellino	Torbellino	
 -	Spearman	Lancero	Lancera	
--	Axeman	Segador	Segadora	
+-	Axeman	Tailladeur	Tailladeuse		
 -	Swordsman	Duelista	Duelista	
 -	Heavy_Maceman	Destructor	Destructora	
 -	Pikeman	Picador	Picadora	
@@ -538,8 +538,8 @@
 -	Master_Heavy_Swordsman	Maestro de la Cuchilla	Maestro de la Cuchilla	
 -	Master_Hand_To_Hand_Fighter	Aplastador con Fuerza	Aplastadora con Fuerza	
 -	Hand_To_Hand_Fighter	Brawler	Brawler	
--	Close_Fighter	Combate Cerrado	Combate Cerrado	
--	Advanced_Close_Fighter	Peleón 	Peleona	
+-	Close_Fighter	Combattant Rapproché	Combattante Rapprochée		
+-	Advanced_Close_Fighter	Empoigneur	Empoigneuse
 -	Defensive_Magician	Mago Defensivo	Maga Defensiva	
 -	Offensive_Magician	Mago Ofensivo	Maga Ofensiva	
 -	Elementalist_Apprentice	Aprendiz Elementalista	Aprendiz Elementalista	
@@ -552,21 +552,21 @@
 -	Shaman	Shaman	Shaman	
 -	Priest	Sacerdote	Sacerdotisa	
 -	Master_Of_Life	Mago de Vida	Maga de Vica	
--	Celestial_Guardian	Guardián Celestial	Guardiana Celestial	
--	Black_Mage	Mago Negro	Maga Negra	
--	Affliction_Bringer	Portador de Aflicción	Portador de Aflicción 	
+-	Celestial_Guardian	Gardien Céleste	Gardienne Céleste		
+-	Black_Mage	Mage Noir	Mage Noire		
+-	Affliction_Bringer	Ensorceleur	Ensorceleuse		
 -	Master_Of_Torment	Mago del Tormento	Maga del Tormento	
--	Avatar_Of_Sorrow	Avatar de las Penas	Avatar de las Penas	
+-	Avatar_Of_Sorrow	Avatar des Regrets	Avatar des Regrets		
 -	Destroyer	Destructor	Destructora	
 -	Warlock	Brujo	Bruja	
--	Archmage	Elementalista	Elementalista	
+-	Archmage	Elémentaliste	Elémentaliste		
 -	Master_Of_Pain	Mago del Dolor	Maga del Dolor	
--	Avatar_Of_Destruction	Avatar de la Destrucción 	Avatar de la Destrucción 	
+-	Avatar_Of_Destruction	Avatar de Destruction	Avatar de Destruction		
 -	Elementalist	Elementalista	Elementalista	
--	Alchemist	Alquimista	Alquimista	
--	Biomancer	Biomancer	Biomancer	
+-	Alchemist	Alchimiste	Alchimiste		
+-	Biomancer	Biomanceur	Biomanceur		
 -	Master_Of_Energies	Maestro de Energías	Maestra de Energías	
--	Chosen_Of_Atys	Escogido de Atys	Escogida de Atys	
+-	Chosen_Of_Atys	Elu d'Atys	Elue d'Atys		
 -	Title00079	Caminante	Caminante	
 -	FBT	Anciano de Atys	Anciana de Atys	
 -	SGM	Maestro del Juego Superior	Maestra del Juego Superior	
@@ -574,7 +574,7 @@
 -	VG	Guía de Veterano	Guía de Veterano	
 -	SG	Guía Superior	Guía Superior	
 -	G	Guía	Guía	
--	Armorer_Apprentice	Aprendiz de Armero	Aprendiz de Armero	
+-	Armorer_Apprentice	Apprenti Armurier	Apprentie Armurière		
 -	Jeweler_Apprentice	Aprendiz de Joyero	Aprendiz de Joyero	
 -	Melee_Weapon_Smith_Apprentice	Aprendiz de Fabricante de Armas  de Lucha Cuerpo a Cuerpo	Aprendiz de Fabricante de Armas de Lucha Cuerpo a Cuerpo	
 -	Range_Weapon_Smith_Apprentice	Aprendiz Fabricante de Armas de Alcance	Aprendiz Fabricante de Armas de Alcance	
@@ -588,16 +588,16 @@
 -	Melee_Light_Weapon_Smith	Herrero de Armas Livianas de Combate Cuerpo a Cuerpo	Herrera de Armas Livianas de Combate Cuerpo a Cuerpo	
 -	Range_Weapon_Smith	Herrero de Armas de Alcance	Herrera de Armas de Alcance	
 -	Range_Heavy_Weapon_Smith	Fabricante de Armas Pesadas de Alcance 	Herrera de Armas Pesadas de Alcance 	
--	Advanced_Heavy_Armorer	Armero Pesado Avanzado	Armera Pesada Avanzada	
--	Advanced_Light_Armorer	Armero Liviano Avanzado	Armera Mediana Avanzada	
--	Advanced_Medium_Armorer	Armero Mediano Avanzado	Armera Mediana Avanzada	
--	Advanced_Shield_Smith	Herrero de Escudos Avanzado	Herrera de Escudos Avanzada	
--	Advanced_Jeweler	Joyero Avanzado	Joyera Avanzada	
--	Advanced_Melee_Weapon_Smith	Herrero Avanzado de Armas  de Lucha Cuerpo a Cuerpo	Herrera Avanzada de Armas de Lucha Cuerpo a Cuerpo	
--	Advanced_Melee_Heavy_Weapon_Smith	Herrero de Armas Pesadas de Lucha Cuerpo a Cuerpo 	Herrera de Armas Pesadas de Lucha Cuerpo a Cuerpo	
--	Advanced_Melee_Light_Weapon_Smith	Herrero Avanzado de Armas Livianas de Lucha Cuerpo a Cuerpo	Herrera Avanzada de Armas Livianas de Lucha Cuerpo a Cuerpo	
--	Advanced_Range_Weapon_Smith	Herrero Avanzado de Armas de Alcance	Herrera Avanzado de Armas de Alcance	
--	Advanced_Range_Heavy_Weapon_Smith	Herrero Avanzado de Armas Pesadas de Alcance	Herrera Avanzada de Armas Pesadas de Alcance	
+-	Advanced_Heavy_Armorer	Armurier Lourd Avancé	Armurière Lourde Avancée		
+-	Advanced_Light_Armorer	Armurier Léger Avancé	Armurière Légère Avancée		
+-	Advanced_Medium_Armorer	Armurier Moyen Avancé	Armurière Moyenne Avancée		
+-	Advanced_Shield_Smith	Forgeron Avancé de Boucliers	Forgeronne Avancée de Boucliers		
+-	Advanced_Jeweler	Bijoutier Avancé	Bijoutière Avancée		
+-	Advanced_Melee_Weapon_Smith	Forgeron Avancé d'Armes de Mêlée	Forgeronne Avancée d'Armes de Mêlée		
+-	Advanced_Melee_Heavy_Weapon_Smith	Forgeron Avancé d'Armes de Mêlée Lourdes	Forgeronne Avancée d'Armes de Mêlée Lourdes		
+-	Advanced_Melee_Light_Weapon_Smith	Forgeron Avancé d'Armes de Mêlée Légères 	Forgeronne Avancée d'Armes de Mêlée Légères 		
+-	Advanced_Range_Weapon_Smith	Forgeron Avancé d'Armes de Tir	Forgeronne Avancée d'Armes de Tir		
+-	Advanced_Range_Heavy_Weapon_Smith	Forgeron Avancé d'Armes de Tir Lourdes	Forgeronne Avancée d'Armes de Tir Lourdes		
 -	Expert_Heavy_Armorer	Armero Pesado Experto	Armera Pesada Experta	
 -	Expert_Light_Armorer	Armero Liviano Experto	Armera Liviana Experta	
 -	Expert_Medium_Armorer	Armero Mediano Experto	Armera Mediana Experta	
@@ -625,11 +625,11 @@
 -	Jungle_Forager	Buscador de la Selva	Buscadora de la Selva	
 -	Lacustre_Forager	Buscador de la Tierra del Lago	Buscadora de la Tierra del Lago	
 -	Prime_Roots_Forager	Buscador de las Primeras Raíces	Buscadora de las Primeras Raíces	
--	Advanced_Desert_Forager	Buscador Avanzado del Desierto 	Buscadora Avanzada del Desierto 	
--	Advanced_Forest_Forager	Buscador Avanzado del Bosque 	Buscadora Avanzada del Bosque 	
--	Advanced_Jungle_Forager	Buscador Avanzado de las Selva	Buscadora Avanzada de la Selva 	
--	Advanced_Lacustre_Forager	Buscador Avanzado de la Tierra del Lago	Buscadora Avanzada de la Tierra del Lago	
--	Advanced_Prime_Roots_Forager	Buscador Avanzado de las Primeras Raíces	Buscadora Avanzada de las Primeras Raíces	
+-	Advanced_Desert_Forager	Foreur Avancé du Désert	Foreuse Avancée du Désert		
+-	Advanced_Forest_Forager	Foreur Avancé des Forêts	Foreuse Avancée des Forêts		
+-	Advanced_Jungle_Forager	Foreur Avancé de la Jungle	Foreuse Avancée de la Jungle		
+-	Advanced_Lacustre_Forager	Foreur Avancé des Lacs	Foreuse Avancée des Lacs		
+-	Advanced_Prime_Roots_Forager	Foreur Avancé des Primes Racines	Foreuse Avancée des Primes Racines		
 -	Expert_Desert_Forager	Buscador Experto del Desierto	Buscadora Experta del Desierto	
 -	Expert_Forest_Forager	Buscador Experto del Bosque	Buscadora Experta del Bosque	
 -	Expert_Jungle_Forager	Buscador Experto de la Selva	Buscadora Experta de la Selva	
@@ -643,7 +643,7 @@
 -	gn_green_seed_comrade	Líder Regular		
 -	gn_kitin_gatherers-magician_guard	Guardia Maestro		
 -	gn_kitin_gatheres_wander_guards	Guarda Maestro		
--	gn_matis_defender	Defensor Kamis		
+-	gn_matis_defender	Defensor Matis	Defensora Matis
 -	gn_recoverers_guard_6	Guardia Maestro		
 -	gn_zorai_voluteer_m	Defensor Zoraï		
 -	gn_antikamis_guard	Guardia Maestro		
@@ -692,11 +692,11 @@
 -	gn_zorai_kami_sentinel	Centinela Kami		
 -	Fighter	Luchador		
 -	Magician	Mago		
--	Craftsman	Artesano		
+-	Craftsman	Artisan			
 -	MeleeFighter	Luchador de Combate Cuerpo a Cuerpo		
 -	RangeFighter	Luchador de Alcance		
--	AttackCaster	Lanzador de Ataque		
--	BufferCaster	Lanzador de Parachoque		
+-	AttackCaster	Attaquant			
+-	BufferCaster	Buffer			
 -	HealerCaster	Curandero Lanzador		
 -	Harvester	Recolector		
 -	Shopkeeper	Comerciante		
@@ -704,14 +704,14 @@
 -	IreFighter	Luchador de la Ira		
 -	Swashbuckler	Bravucon		
 -	KamicFist	Puno Kami		
--	BladeBearer	Portador de la Cuchilla		
+-	BladeBearer	Porteur de Lames			
 -	WindChild	Hijo del Viento		
 -	Runner	Corredor 		
 -	Scout	Explorador 		
 -	FireLance	Lancero de Fuego		
 -	ScarletHunter	Cazador Escarlata		
 -	GreenHunter	Cazador Verde		
--	AtysGuardian	Guardia de Atys		
+-	AtysGuardian	Gardien d'Atys			
 -	ShadowHunter	Cazador de la Sombra		
 -	Witherer	Marchitador		
 -	Fouler	Viciado		
@@ -732,8 +732,8 @@
 -	Hawker	Halconero/Vendedor Ambulante		
 -	range_warrior	Guerrero de Alcance		
 -	harvester	Recolector		
--	attack_magician	Lanzador de Ataque		
--	buffer_magician	Lanzador de Parachoque		
+-	attack_magician	Attaquant			
+-	buffer_magician	Buffer			
 -	healer_magician	Curandeor Lanzador		
 -	faber	Artesano		
 -	FireMaster	Maestro del Fuego		
@@ -741,7 +741,7 @@
 -	gn_gibbay_guard	Guardia de Elite		
 -	gn_masters_of_the_goo_guard	Guardia de Elite		
 -	gn_tryker_tribe_slave	Esclavo Tryker		
--	CM	Administrador de la Comunidad	Administradora de la Comunidad	
+-	CM	Administrateur de la Communauté	Administratrice de la Communauté		
 -	EM	Director de Evento	Directora de Evento	
 -	EG	Guía  de Evento	Guía de Evento	
 -	OBSERVER	Observador	Observador	
@@ -786,7 +786,7 @@
 -	gn_corsairs_kami_ambassador_t1	Embajador de los Corsarios Kami		
 -	gn_duneriders_kami_ambassador_f1	Embajador Kami de los Jinetes de las Dunas		
 -	gn_ecowarriors_kami_ambassador_m1	Embajador Kami de los Ecoguerreros		
--	gn_firstdeserters_kami_ambassador_m1	Embajador Kami de los Primeros Desertores		
+-	gn_firstdeserters_kami_ambassador_m1	First Deserters Kami Ambassador	
 -	gn_fraharhunters_kami_ambassador_f1	Embajador Kami de los Cazadores de Frahar		
 -	gn_hamazans_kami_ambassador_z1	Embajador Kami de los Hamazans de la Semilla Muerta		
 -	gn_kami_welcomer_f1	Recibidor Kami de las Dunas del Exilio		
@@ -843,7 +843,7 @@
 -	gn_wovenbridles_kami_ambassador_m1	Embajador Kami de las Bridas Tejidas		
 -	gn_zorai_kami_master	Embajador Kami de la Montana Bighorn		
 -	gn_antikamis_karavan_ambassador_z1	Embajador Karavan Antikamis		
--	gn_aridmatis_karavan_ambassador_m1	Embajador Karavan de ljos Matis Áridos		
+-	gn_aridmatis_karavan_ambassador_m1	Embajador Karavan de los Matis Áridos	
 -	gn_barkers_karavan_ambassador_f1	Embajador Karavan de los Pregoneros/Descortezadores		
 -	gn_blackcircle_karavan_ambassador_z1	Embajador Karavan del Circulo Negro		
 -	gn_darkeningsap_karavan_ambassador_m1	Embajador Karavan de la Savia Oscurecedora		
@@ -880,7 +880,7 @@
 -	gn_karavan_welcomer_z5	Recibidor Karavan del Bosque de las Doncellas		
 -	gn_karavan_welcomer_z6	Recibidor Karavan del Vacio		
 -	gn_kuilde_karavan_ambassador_p1	Embajador del Gremio Karavan		
--	gn_lawless_karavan_ambassador_f1	Embajador Kravan de los Ilegales		
+-	gn_lawless_karavan_ambassador_f1	Amabassadeur Karavan des Sans Loi	
 -	gn_masters_karavan_ambassador_z1	Embajador Karavan de los Maestros del Goo		
 -	gn_matisianborder_karavan_ambassador_m1	Embajador Karavan de los Guardias de la Frontera Matis		
 -	gn_oasisdiggers_karavan_ambassador_m1	Embajador Karavan de los Excavadores de Oasis		
@@ -996,11 +996,11 @@
 -	gn_fyros_craftsman_master_event	Maestro Artesano Fyros		
 -	gn_fyros_armoury_master_event	Maestro Armero Fyros		
 -	gn_fyros_treasury_officer_event	Oficial del Tesoro Fyros		
--	gn_matis_war_master_event	Maestro de la Guerra Matis		
--	gn_matis_supply_master_event	Maestro de los Recursos Matis		
+-	gn_matis_war_master_event	Maestro Matis de la Guerra	
+-	gn_matis_supply_master_event	Maestro Matis de los Recursos	
 -	gn_matis_craftsman_master_event	Maestro Artesano Matis		
 -	gn_matis_armoury_master_event	Maestro Armero Matis		
--	gn_matis_treasury_officer_event	Maestro del Tesoro Matis		
+-	gn_matis_treasury_officer_event	Oficial Matis del Tesoro	
 -	gn_tryker_war_master_event	Maestro de la Guerra Tryker		
 -	gn_tryker_supply_master_event	Maestro de los Recursos Tryker		
 -	gn_tryker_craftsman_master_event	Maestro Artesano Tryker		
@@ -1015,7 +1015,7 @@
 -	gn_guerisseuse_gibbai	Curandero Gibbaï 		
 -	gn_gibbai_welcomer	Viejo Gibbaï		
 -	gn_zora_kami_master	Maestro Kami de Zora		
--	gn_matis_kami_master	Maestro Kama del Circulo Kama		
+-	gn_matis_kami_master	Maestro Kami del Círculo Kami	Maestra Kami del Círculo Kami
 -	gn_prime_roots_kami_master	Maestro Kami del Punto a Mitad del Camino		
 -	gn_tribe_sacred_sap_tribe_lieutenant	Señor de la Guerra		
 -	gn_fyros_karavan_officer	Oficial Karavan de las Dunas del Exilio 		
@@ -1256,7 +1256,7 @@
 -	gn_zorai_diplomat_event	Diplomático Zoraï		
 -	gn_fyros_citizen_event	Ciudadano Fyros		
 -	gn_fyros_old_citizen_event	Ciudadano Anciano Fyros		
--	gn_matis_citizen_event	Ciudadano Matis		
+-	gn_matis_citizen_event	Ciudadano Matis	Ciudadana Matis
 -	gn_matis_old_citizen_event	Ciudadano Anciano Matis		
 -	gn_tryker_citizen_event	Ciudadano Tryker		
 -	gn_tryker_old_citizen_event	Ciudadano Anciano Tryker		
@@ -1316,9 +1316,9 @@
 -	gn_fyros_kamist_combatant_event	Luchador Kamist Fyros		
 -	gn_fyros_kamist_gatherer_event	Recolector Kamist Fyros		
 -	gn_fyros_kamist_crafter_event	Artesano Kamist Fyros		
--	gn_matis_kamist_combatant_event	Luchador Kamist Matis		
--	gn_matis_kamist_gatherer_event	Recolector Kamist Matis		
--	gn_matis_kamist_crafter_event	Artesano Kamist Matis		
+-	gn_matis_kamist_combatant_event	Luchador Kamista Matis	Luchadora Kamista Matis
+-	gn_matis_kamist_gatherer_event	Recolector Kamista Matis	Recolectora Kamista Matis
+-	gn_matis_kamist_crafter_event	Artesano Kamista Matis	Artesana Kamista Matis
 -	gn_zorai_kamist_combatant_event	Luchador Kamist Zoraï		
 -	gn_zorai_kamist_gatherer_event	Recolector Kamist Zoraï		
 -	gn_zorai_kamist_crafter_event	Artesano Kamist Zoraï 		
@@ -1414,10 +1414,10 @@
 -	gn_outpost_townhall	Sala del Puesto de Avanzada		
 -	gn_outpost_flag	Banderín de Guerra		
 -	gn_outpost_info	Insignia del Puesto		
--	fct_rangers_master	Guardabosque Veterano		
+-	fct_rangers_master	Ranger Veterano	Ranger Veterana
 -	fct_rangers_fighter	Luchador de Alcance		
--	fct_rangers_artisan	Guardabosque Artesano		
--	fct_rangers_scout	Guardabosque Explorador		
+-	fct_rangers_artisan	Ranger Artesano	Ranger Artesana
+-	fct_rangers_scout	Explorador Ranger	Exploradora Ranger
 -	gn_newbieland_bandit_1	Saqueador de Cabezas de Goo		
 -	gn_newbieland_bandit_1_lieutnant	Lugarteniente de Cabezas de Goo		
 -	gn_newbieland_bandit_2	Saqueador de Chlorogoos		
@@ -1426,9 +1426,9 @@
 -	gn_karavan_ardent	Miembro de la Lanza Ardiente		
 -	gn_karavan_ardent_speaker	Vocero de la Lanza Ardiente		
 -	gn_chiang_the_strong	Chiang el Fuerte$fct_ranger_leader$		
--	gn_ranger_guard	Guardabosque Guardián		
--	gn_Ranger_elite_guard	Guardabosques Guardia de la Elite		
--	fct_ranger_leader	Guardabosque Comandante		
+-	gn_ranger_guard	Guardián Ranger	Guardiana Ranger
+-	gn_Ranger_elite_guard	Guardia Élite Ranger	Guardia Élite Ranger
+-	fct_ranger_leader	Comandante Ranger	Comandante Ranger
 -	fct_fyros_commander	Comandante Fyros		
 -	fct_matis_master_artisan	Maestro Artesano Matis		
 -	fct_chief_explorer	Jefe Explorador		
@@ -1505,12 +1505,12 @@
 -	gn_tcm_chlorogoo_shaman	Shaman		
 -	gn_tcm_chlorogoo_shaman_escort	Adepte		
 -	gn_tcm_chlorogoo_prisonners	Prisonnier		
--	gn_tcm_chlorogoo_camp_ranger	Épieur		
+-	gn_tcm_chlorogoo_camp_ranger	Vigilante	Vigilante
 -	gn_tcm_chlorogoo_camp_caster	Sorcier		
 -	gn_tcm_chlorogoo_camp_fighter	Assassin gooifié		
 -	gn_tcm_chlorogoo_caster	Alchimiste		
 -	gn_tcm_chlorogoo_healer	Guérisseur		
--	gn_tcm_chlorogoo_ranger	Fureteur		
+-	gn_tcm_chlorogoo_ranger	Explorador	Exploradora
 -	gn_tcm_chlorogoo_harvester	Récolteur de Goo		
 -	gn_tcm_chlorogoo_patrol_dill	Patrouilleur intoxiqué		
 -	fct_tcm_chlorogoo	Chlorogoo		
@@ -1557,13 +1557,13 @@
 -	fct_artisan_restaurateur	Especialista en Restauración 		
 -	gn_explosion_lixie	Explosión		
 -	gn_peipbae	Ira de Pei		
--	fct_ranger_worker	Trabajador de los Guardabosques		
--	fct_ranger_guard	Guardia de Guardabosque		
--	fct_ranger_intendant	Intentende de Guardabosque		
--	fct_ranger_great_mage	Archimago de Guardabosque		
--	fct_ranger_guard_captain	Capitán de la Guarida de Guardabosques		
--	fct_ranger_explorer	Explorador de Alcance		
--	fct_ranger_coord	Coordinador de Alcance		
+-	fct_ranger_worker	Trabajador Ranger	Trabajadora Ranger
+-	fct_ranger_guard	Guardia Ranger	Guardiana Ranger
+-	fct_ranger_intendant	Intendente Ranger	Intendente Ranger
+-	fct_ranger_great_mage	Archimago Ranger	Archimaga Ranger
+-	fct_ranger_guard_captain	Capitán de la Guardia Ranger	Capitana de la Guardia Ranger
+-	fct_ranger_explorer	Explorador Ranger	Exploradora Ranger
+-	fct_ranger_coord	Coordinador Ranger	Coordinadora Ranger
 -	title00014	Los Afortunados	Las Afortunadas	
 -	title00015	Gafe	Gafe	
 -	fct_confgu	Hermandad de los Afortunados Guabni		
@@ -1604,7 +1604,7 @@
 -	gn_chlorogoo_fighter	chlorogoo_luchador		
 -	gn_chlorogoo_harvester	chlorogoo_recolector		
 -	gn_chlorogoo_healer	chlorogoo_curandero		
--	gn_chlorogoo_ranger	chlorogoo_guardabosques		
+-	gn_chlorogoo_ranger	chlorogoo_ranger	chlorogoo_ranger
 -	gn_chu_ni_rama	Rama Chu Ni		
 -	gn_ckdic1	ckdic1		
 -	gn_ckdic2	ckdic2		
@@ -1733,7 +1733,7 @@
 -	gn_queen_guard	reina_guardia		
 -	gn_range	alcance		
 -	gn_relaus_xogips	Relaus Xogips		
--	gn_strangers_welcomer_t1	extranos_recibidor_t1		
+-	gn_strangers_welcomer_t1	Recibidor de extraños	Recibidora de extraños
 -	gn_target	frasco		
 -	gn_tcm_chlorogoo_patrol	tcm_chlorogoo_patrulla		
 -	gn_tcm_chlorogoo_prisonner	tcm_chlorogoo_prisionero		
@@ -1774,7 +1774,7 @@
 -	cwff03_termit	Termitero		
 -	cwff03_goari	Goari Recostado		
 -	stele_epee_bois	Estela		
--	corsaire_dechu_coffer	Pecho de Corsario 		
+-	corsaire_dechu_coffer	Coffre de Corsaire			
 -	kef0904observer100	Observador del Lago del Norte (1)		
 -	kef0904observer150	Observador de las Torres Altas (2)		
 -	kef0904observer200	Observador del Espinazo del Dragón (3)		
@@ -1846,13 +1846,13 @@
 -	tryker_rpjob_larvicultor_title	Maestro Criador de larvas		
 -	matis_rpjob_paper_title	Maestro fabricante de Rollos de papel		
 -	gn_fyros_rpjob_herbihunter_convert	Trabajo de Carnicería		
--	gn_matis_rpjob_florist_convert	Taller de Flores		
+-	gn_matis_rpjob_florist_convert	Taller del Florista	
 -	gn_zorai_rpjob_rescuer_convert	Puesto de Primeros Auxilios		
 -	gn_tryker_rpjob_aquamin_convert	Tabla indicadora de envíos		
 -	gn_zorai_rpjob_magnecarto_convert	Mapa de magnetismo		
 -	gn_fyros_rpjob_tooler_convert	Taller de Herramientas		
 -	gn_tryker_rpjob_larvicultor_convert	Mesa de preparación de Larvas		
--	gn_matis_rpjob_paper_convert	Taller de rollos de papel		
+-	gn_matis_rpjob_paper_convert	Taller del Escribano	
 -	gn_tryker_aquamin_source	Fuente de agua		
 -	gn_tryker_aquamin_barrel	Agua de los lagos		
 -	gn_tryker_aquamin_silo	Silo de recuperación del agua de lluvia		
@@ -1903,16 +1903,16 @@
 -	gn_karavan_altar_nexus	Alter Karavan Nexus		
 -	gn_gravats	Escombros		
 -	gn_room_access	Terminal		
--	fct_ranger_instructor	Ranger instructor	Ranger instructora	
--	fct_ranger_assistant	Instructor ayudante	Instructora ayudante	
--	fct_ranger_veteran	Ranger veterano	Ranger veterana	
--	gn_karavan_altar_silan_ranger_camp	Altar de la Karavan en el Campo Ranger		
--	gn_kami_altar_silan_ranger_camp	Altar de los Kamis en el Campo Ranger		
+-	fct_ranger_instructor	Instructor Ranger	Instructora Ranger
+-	fct_ranger_assistant	Instructor Asistente	Instructora Asistente
+-	fct_ranger_veteran	Ranger Veterano	Ranger Veterana
+-	gn_karavan_altar_silan_ranger_camp	Altar Karavan en el Campo Ranger	
+-	gn_kami_altar_silan_ranger_camp	Altar Kami del Campo Ranger	
 -	gn_karavan_altar_silan_shattered_ruins	Altar de las Ruinas devastadas		
 -	gn_kami_altar_silan_shining_lake	Altar del Lago reluciente		
 -	fct_to_new_horizons	To New Horizons		
 -	fct_marauder_merchant	Mercader Marauder		
--	fct_ranger_guide	Ranger Guide		
+-	fct_ranger_guide	Guía Ranger	Guía Ranger
 -	fct_ranger_quartermaster	Ranger Quartermaster		
 -	fct_arionasiszig	Arionasis's Zig		
 -	fct_tyneetrykzig	Tyneetryk's Zig		
@@ -1920,4 +1920,5 @@
 -	fct_marauder_ambassador	 Embajador Marauder	Embajadora Marauder	
 -	fct_marauder_windofmuse	(Vientos de la Musa)	
 -	gn_driller_marauder_const	Aklareen en construcción 		
--	fct_allegory_maker	
+1616092237	fct_allegory_maker	Graveur d'Allégories	Graveuse d'Allégories
+1616152994	fct_animals_and_co	Représentant de "Animaux & Co"	Représentante de "Animaux & Co"

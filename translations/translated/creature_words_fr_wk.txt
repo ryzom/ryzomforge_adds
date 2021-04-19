@@ -5512,3 +5512,4 @@
 -	object_easter_egg_medium	œuf moyen	un	l'	œufs moyens	des	les	de l'	à l'
 -	object_easter_egg_big	gros œuf	un	le	gros œufs	des	les	du	au
 -	object_easter_egg_hug	œuf énorme	un	l'	œufs énormes	des	les	de l'	à l'
+1617784668	egg	

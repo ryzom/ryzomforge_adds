@@ -1,50 +1,51 @@
 ﻿*HASH_VALUE	title_id	name	women_name
--	Advanced_Close_Fighter	Combattant de Mêlée Initié	Combattante de Mêlée Initiée
--	Advanced_Desert_Forager	Foreur Avancé du Désert	Foreur Avancé du Désert
--	Advanced_Forest_Forager	Foreur Avancé des Forêts	Foreur Avancé des Forêts
--	Advanced_Gunman	Initié en Armes à Feu	Initiée en Armes à Feu
--	Advanced_Heavy_Armorer	Armurier Lourd Avancé	Armurier Lourd Avancé
--	Advanced_Heavy_Gunman	Initié en Armes à Feu Lourdes	Initiée en Armes à Feu Lourdes
--	Advanced_Jeweler	Bijoutier Avancé	Bijoutière Avancée
--	Advanced_Jungle_Forager	Foreur Avancé de la Jungle	Foreur Avancé de la Jungle
--	Advanced_Lacustre_Forager	Foreur Avancé des Lacs	Foreur Avancé des Lacs
--	Advanced_Light_Armorer	Armurier Léger Avancé	Armurier Léger Avancé
--	Advanced_Medium_Armorer	Armurier Moyen Avancé	Armurier Moyen Avancé
--	Advanced_Melee_Heavy_Weapon_Smith	Forgeron Avancé/Armes de Mêlée Lourdes	Forgeron Avancé/Armes de Mêlée Lourdes
--	Advanced_Melee_Light_Weapon_Smith	Forgeron Avancé/Armes de Mêlée Légères 	Forgeron Avancé/Armes de Mêlée Légères 
--	Advanced_Melee_Weapon_Smith	Forgeron Avancé/Armes de Mêlée	Forgeron Avancé/Armes de Mêlée
--	Advanced_Prime_Roots_Forager	Foreur Avancé des Primes Racines	Foreur Avancé des Primes Racines
--	Advanced_Range_Heavy_Weapon_Smith	Forgeron Avancé/Armes de Tir Lourdes	Forgeron Avancé/Armes de Tir Lourdes
--	Advanced_Range_Weapon_Smith	Forgeron Avancé/Armes de Tir	Forgeron Avancé/Armes de Tir
--	Advanced_Shield_Smith	Forgeron Avancé/Boucliers	Forgeron Avancé/Boucliers
--	Affliction_Bringer	Porteur d'Affliction	Porteuse d'Affliction
--	Alchemist	Alchimiste	Alchimiste
--	Archmage	Archimage	Archimage
--	Armorer_Apprentice	Apprenti Armurier	Apprenti Armurier
--	Artilleryman	Artilleur	Artilleur
--	Artisan_Apprentice	Apprenti Artisan 	Apprentie Artisane
--	attack_magician	Attaquant	
--	AttackCaster	Attaquant	
--	AtysGuardian	Gardien d'Atys	
--	Avatar_Of_Destruction	Avatar de Destruction	Avatar de Destruction
--	Avatar_Of_Sorrow	Avatar des Regrets	Avatar des Regrets
--	Axeman	Expert en Hache	Experte en Hache
--	Biomancer	Biomanceur	Biomanceur
--	Black_Mage	Mage Noir	Mage Noir
--	BladeBearer	Porteur de Lames	
--	Bludgeoner	Matraqueur	Matraqueuse
--	Bowman	Archer	Archer
--	Brute	Brute	Brute
--	buffer_magician	Buffer	
--	BufferCaster	Buffer	
--	Celestial_Guardian	Gardien Céleste	Gardienne Céleste
--	Chosen_Of_Atys	Elu d'Atys	Elue d'Atys
--	Cleaver	Fendeur	Fendeuse
--	Close_Fighter	Combattant de Mêlée	Combattante de Mêlée
--	CM	Administrateur de la Communauté	Administratrice de la Communauté
--	corsaire_dechu_coffer	Coffre de Corsaire	
--	Craftsman	Artisan	
--	Crossbowman	Archer Croisé	Archer Croisé
+1616092237	fct_allegory_maker	Graveur für Allegorien	Graveurin für Allegorien
+-	Advanced_Close_Fighter	Fortgeschrittener Nahkämpfer	Fortgeschrittene Nahkämpferin
+-	Advanced_Desert_Forager	Fortgeschrittener Wüstenernter	Fortgeschrittene Wüstenernterin
+-	Advanced_Forest_Forager	Fortgeschrittener Waldernter	Fortgeschrittene Waldernterin
+-	Advanced_Gunman	Fortgeschrittener Einhandschütze	Fortgeschrittene Einhandschützin
+-	Advanced_Heavy_Armorer	Fortgeschrittener Schmied für schwere Rüstungen	Fortgeschrittene Schmiedin für schwere Rüstungen
+-	Advanced_Heavy_Gunman	Fortgeschrittener Zweihandschütze	Fortgeschrittene Zweihandschützin
+-	Advanced_Jeweler	Fortgeschrittener Juwelier	Fortgeschrittene Juwelierin
+-	Advanced_Jungle_Forager	Fortgeschrittener Dschungelernter	Fortgeschrittene Dschungelernterin
+-	Advanced_Lacustre_Forager	Fortgeschrittener Seenlandernter	Fortgeschrittene Seenlandernterin
+-	Advanced_Light_Armorer	Fortgeschrittener Hersteller von leichten Rüstungen	Fortgeschrittene Herstellerin von leichten Rüstungen
+-	Advanced_Medium_Armorer	Fortgeschrittener Schmied für mittelschwere Rüstungen	Fortgeschrittene Schmiedin für mittelschwere Rüstungen
+-	Advanced_Melee_Heavy_Weapon_Smith	Fortgeschrittener Schmied für schwere Nahkampfwaffen	Fortgeschrittene Schmiedin für schwere Nahkampfwaffen
+-	Advanced_Melee_Light_Weapon_Smith	Fortgeschrittener Schmied für leichte Nahkampfwaffen	Fortgeschrittene Schmiedin für leichte Nahkampfwaffen
+-	Advanced_Melee_Weapon_Smith	Fortgeschrittener Nahkampfwaffenschmied	Fortgeschrittene Nahkampfwaffenschmiedin
+-	Advanced_Prime_Roots_Forager	Fortgeschrittener Urwurzelernter	Fortgeschrittene Urwurzelernterin
+-	Advanced_Range_Heavy_Weapon_Smith	Fortgeschrittener Schmied für schwere Fernkampfwaffen	Fortgeschrittene Schmiedin für schwere Fernkampfwaffen
+-	Advanced_Range_Weapon_Smith	Fortgeschrittener Fernkampfwaffenschmied	Fortgeschrittene Fernkampfwaffenschmiedin
+-	Advanced_Shield_Smith	Fortgeschrittener Schildschmied	Fortgeschrittene Schildschmiedin
+-	Affliction_Bringer	Peiniger	Peinigerin
+-	Alchemist	Alchemist	Alchemistin
+-	Archmage	Elementarmagier	Elementarmagierin
+-	Armorer_Apprentice	Rüstungsmacherlehrling	Rüstungsmacherlehrling
+-	Artilleryman	Artillerist	Artilleristin
+-	Artisan_Apprentice	Handwerks-Lehrling	Handwerks-Lehrling
+-	attack_magician	Kampfmagier	Kampfmagierin
+-	AttackCaster	Kampfmagier	Kampfmagierin
+-	AtysGuardian	Wächter von Atys	Wächterin von Atys
+-	Avatar_Of_Destruction	Avatar der Zerstörung	Avatara der Zerstörung
+-	Avatar_Of_Sorrow	Avatar der Sorgen	Avatara der Sorgen
+-	Axeman	Axtkämpfer	Axtkämpferin
+-	Biomancer	Biomagier	Biomagier
+-	Black_Mage	Schwarzmagier	Schwarzmagierin
+-	BladeBearer	Schwertmeister	Schwertmeisterin
+-	Bludgeoner	Keulenschwinger	Keulenschwingerin
+-	Bowman	Bogenschütze	Bogenschützin
+-	Brute	Stabkämpfer	Stabkämpferin
+-	buffer_magician	Schutzmagier	Schutzmagierin
+-	BufferCaster	Schutzmagier	Schutzmagierin
+-	Celestial_Guardian	Himmelswächter	Himmelswächterin
+-	Chosen_Of_Atys	Auserwählter von Atys	Auserwählte von Atys
+-	Cleaver	Aufspalter	Aufspalterin
+-	Close_Fighter	Nahkämpfer	Nahkämpferin
+-	CM	Community Manager	Community Managerin
+-	corsaire_dechu_coffer	Korsaren-Kiste	Korsaren-Kiste
+-	Craftsman	Handwerker	Handwerkerin
+-	Crossbowman	Armbrustschütze	Armbrustschützin
 -	cwff03_goari	Goari Pondeuse	
 -	cwff03_termit	Termitière	
 -	cwmf03_bandit	Bandit d'Avalae	
@@ -80,7 +81,6 @@
 -	FBT	Ancien d'Atys	Ancienne d'Atys
 -	fct_actor	 (Acteur)	
 -	fct_actress	 (Actrice)	
--	fct_allegory_maker		Engraver of Allegories	Engraver of Allegories
 -	fct_amayor	 (Assistant du Maire)	
 -	fct_ambassador	 (Ambassadeur)	
 -	fct_ammo_merchant	 (Marchand de Munitions)	
@@ -1208,8 +1208,8 @@
 -	gn_karavan_frise	Colonne du Savoir	
 -	gn_karavan_gateway_1	karavan_gateway_1	
 -	gn_karavan_guard_h_1	Gardien de la Karavan	
--	gn_karavan_guardian	Gardien de la Karavan	
 -	gn_Karavan_Guardian	Gardien Karavan	
+-	gn_karavan_guardian	Gardien de la Karavan	
 -	gn_karavan_guide	Guide Karavan	
 -	gn_karavan_herald_event	Envoyé Karavan	
 -	gn_karavan_high_guide	Haut Guide Karavan	
@@ -1921,3 +1921,4 @@
 -	zorai_rpjob_rescuer_title	Master Rescuer	
 -	Zorai_Shield_Smith_Apprentice	Apprenti Forgeron/Boucliers Zoraïs	Apprenti Forgeron/Boucliers Zoraïs
 -	Zorai_Weapon_Smith_Apprentice	Apprenti Forgeron/Armes Zoraïs	Apprenti Forgeron/Armes Zoraïs
+1616152994	fct_animals_and_co	Vertreteter von "Tiere & Co"	Vertreterin von "Tiere & Co"

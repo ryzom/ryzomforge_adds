@@ -7746,7 +7746,7 @@ uihelpItemRangeWeaponFormat	[@{FFF9}@{HuittInfoOrigin}Origine :@{H}@{T12}@{FFFF}
 	@{FFF9}@{HuittInfoWeaponRHitMin}Coups / minute :@{H}@{T12}@{FFFF}%speed\n
 	@{FFF9}@{HuittInfoWeaponRange}Portée :@{H}@{T12}@{FFFF}%range\n
 	@{FFF9}@{HuittInfoDodgeMod}Modification d'Esquive :@{H}@{T12}@{FFFF}%dodge\n
-	@{FFF9}@{HuittInfoParryMod}Modiication. de Parade :@{H}@{T12}@{FFFF}%parry\n
+	@{FFF9}@{HuittInfoParryMod}Modification de Parade :@{H}@{T12}@{FFFF}%parry\n
 	@{FFF9}@{HuittInfoTargetDodgeMod}Modif. d'Esquive / cible :@{H}@{T12}@{FFFF}%adv_dodge\n
 	@{FFF9}@{HuittInfoTargetParryMod}Modif. de Parade / cible :@{H}@{T12}@{FFFF}%adv_parry\n
 	@{FFF9}@{HuittInfoMalus}Pénalité de l'action :@{H}@{T12}@{FFFF}+%actmalus\n
@@ -11998,9 +11998,9 @@ uiS2E0	[Épisode 1 : Celui où on redécouvre le Nexus]
 
 uiSandThundery	[il y a de l'orage de sciure dans l'air.]
 
-uiSAP	[Sève du personnage]
-
 uiSap	[Sève]
+
+uiSAP	[Sève du personnage]
 
 uiSapBarDisplay	[Affichage Sève]
 

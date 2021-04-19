@@ -1920,4 +1920,5 @@
 -	fct_marauder_ambassador	Botschafter der Marodeure	Botschafterin der Marodeure
 -	fct_marauder_windofmuse	(Winde der Musen)	
 -	gn_driller_marauder_const	Aklareen im Bau	Aklareen im Bau
--	fct_allegory_maker	
+1616092237	fct_allegory_maker	Graveur für Allegorien	Graveurin für Allegorien
+1616152994	fct_animals_and_co	Vertreteter von "Tiere & Co"	Vertreterin von "Tiere & Co"

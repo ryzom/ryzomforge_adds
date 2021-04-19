@@ -7528,7 +7528,7 @@
 -	wheel_token_atysmas	withered token	a	the	withered tokens	the		
 -	wheel_token_basic	withered token	a	the	withered tokens	the		
 -	wheel_token_choice	withered token	a	the	withered tokens	the		
--	wheel_token_easter	Rusty Token	a	the	Rusty Tokens		the
+-	wheel_token_easter	Event Refugee day	a	the	Event Refugee day		the
 -	wheel_token_fine	withered token	a	the	withered tokens	the		
 -	wheel_token_suprem	withered token	a	the	withered tokens	the		
 -	wheel_token_xl	withered token	a	the	withered tokens	the		
@@ -7778,3 +7778,4 @@
 -	zo_underwear_pantabottes	Zoraï Pants		the	Zoraï Pants		the	Zoraï Pants
 -	zo_visage	Zoraï Mask	a	the	Zoraï Masks		the	Zoraï Mask
 -	zo_weapon_leader_mabreka	Mabreka's Mace	a	the	Mabreka's Maces		the	
+1618579662	slot_neck	Equip a jewel on the Neck slot	a	the	Equip a jewel on the Neck slot		the

@@ -3528,7 +3528,7 @@
 -	cold	Dégât de Froid	un	le	Dégâts de Froid	des	les	Vous subissez des dégâts durables de froids.	
 -	fire	Dégât de Feu	un	le	Dégâts de Feu	des	les	Vous subissez des dégâts durables de feu.	
 -	electric	Dégât d'Electricité	un	le	Dégâts d'Electricité	des	les	Vous subissez des dégâts durables d'électricité.	
--	acid	Dégât d'Acide	un	le	Dégâts d'Acide	des	les	Vous subissez des dégâts durables d'acide.	
+-	acid	Acid Damage	an	the	Acid Damage			You suffer acid damage over time.	
 -	poison	Dégât de Poison	un	le	Dégâts de Poison	des	les	Vous subissez des dégâts durables de poison.	
 -	shockwave	Dégât d'Ondes de Choc	un	le	Dégâts d'Ondes de Choc	des	les	Vous subissez des dégâts durables d'ondes de choc.	
 -	shielding	Bouclier	un	le	Boucliers	des	les	Vous avez un garde du corps	
@@ -3537,7 +3537,7 @@
 -	sap_aura	Aura de Régénération de Sève	une	l'	Auras de Régénération de Sève	des	les	Vos sève se régénère plus rapidement.	
 -	umbrella_aura	Aura de Protection à Distance	une	l'	Auras de Protection à Distance	des	les	Vous êtes protégé contre les attaques à distance.	
 -	melee_protection_aura	Aura de Protection de Mêlée	une	l'	Auras de Protection de Mêlée	des	les	Vous êtes protégé contre les attaques de mêlée.	
--	anti_magic_shield_aura	Aura de Bouclier Anti-Magie	une	l'	Auras de Bouclier Anti-Magie	des	les	Vous êtes protégé contre les attaques magiques.	
+-	anti_magic_shield_aura	Anti Magic Shield Aura	an	the	Anti Magic Shield Aura			You are protected from magic attacks.	
 -	invulnerability	Invulnérabilité	une	l'	Invulnérabilités	des	les	Vous êtes invulnérable mais ne pouvez pas réagir.	
 -	war_cry_aura	Aura de Cri de Guerre	une	l'	Auras de Cri de Guerre	des	les	Vos dégâts de faible portée obtiennent un bonus.	
 -	speeding_up	Accélération	une	l'	Accélérations	des	les	Vous pouvez courir plus rapidement.	
@@ -3686,8 +3686,8 @@
 -	bcrmea06	Plan de Création/Dague de Réfugié	un 	le	Plans de Création/Dague de Réfugié	des	les	Brique de Création - plan de dague de réfugié	
 -	bcrmea10	Plan de Création/Epée de Réfugié 	un 	le	Plans de Création/Epée de Réfugié 	des	les	Brique de Création - plan d'épée de réfugié	
 -	bcrmea15	Plan de Création/Amplificateur Magique de Réfugié	un	le	Plans de Création/Amplificateur Magique de Réfugié	des	les	Plan de Création/Amplificateur Magique de Réfugié	
--	bapa01	Téléportation	une	la	Téléportations	des	les	Ticket de téléportation	
--	bapa02	Déconnexion	une	la	Déconnexions	des	les	Déconnexion de Ryzom	
+-	bapa01	Teleport	a	the				Teleport ticket	
+-	bapa02	Disconnection	a	the				Disconnection from game	
 -	bptea01	Titre de Champion Kami	un	le	Titre de Champion Kami	des	les	Titre de Champion Kami	
 -	bptea02	Titre de Champion Karavan	un	le	Titre de Champion Karavan	des	les	Titre de Champion Karavan	
 -	bsfeb08	Barrière de Feu	une	la	Barrières de Feu	des	les	Crée une barrière de feu autour de vous qui blesse tous les ennemis vous atteignant au corps à corps	
@@ -3732,34 +3732,34 @@
 -	bsfml04	Barrière Electrique 4	une	la	Barrières Electriques 4	des	les	Crée pendant $1SP_LIGHTNING_WALL_AURA secondes une barrière électrique autour de vous qui diminue provisoirement de $|4SP_LIGHTNING_WALL_AURA niveaux les compétences d'attaque de tous les ennemis qui vous atteignent au corps à corps.	
 -	bsfml05	Barrière Electrique 5	une	la	Barrières Electriques 5	des	les	Crée pendant $1SP_LIGHTNING_WALL_AURA secondes une barrière électrique autour de vous qui diminue provisoirement de $|4SP_LIGHTNING_WALL_AURA niveaux les compétences d'attaque de tous les ennemis qui vous atteignent au corps à corps.	
 -	bccrea02	Plan de Création/Fusil-Arbalète Générique	un	le			les	Brique de plan de création pour artisan d'un fusil-arbalète générique	
--	bcbmea01	Plan de Création/Hache à 2M des Percécorces	un	le			les	Plan de Création/Hache à 2M des Percécorces	
--	bcbmea01_2	Plan de Création/Hache à 2M des Pillards du Désert	un	le			les	Plan de Création/Hache à 2M des Pillards du Désert	
--	bcbmea01_3	Plan de Création/Hache à 2M des Veilleurs	un	le			les	Plan de Création/Hache à 2M des Veilleurs	
--	bcbmea02	Plan de Création/Pique des Gardes-frontières	un	le			les	Plan de Création/Pique des Gardes-frontières	
--	bcbmea02_2	Plan de Création/Pique des Kitiniers	un	le			les	Plan de Création/Pique des Kitiniers	
--	bcbmea02_3	Plan de Création/Pique des Dryades	un	le			les	Plan de Création/Pique des Dryades	
--	bcbmea03	Plan de Création/Massue à 2M des Tuteurs	un	le			les	Plan de Création/Massue à 2M des Tuteurs	
--	bcbmea03_2	Plan de Création/Massue à 2M des Recycleurs	un	le			les	Plan de Création/Massue à 2M des Recycleurs	
--	bcbmea04	Plan de Création/Epée à 2M des Sculpteurs de Vase	un	le			les	Plan de Création/Epée à 2M des Sculpteurs de Vase	
--	bcbmea04_2	Plan de Création/Epée à 2M des Embourbés	un	le			les	Plan de Création/Epée à 2M des Embourbés	
--	bcbmea05	Plan de Création/Hache des Taxeurs	un	le			les	Plan de Création/Hache des Taxeurs	
--	bcbmea05_2	Plan de Création/Hache des Renegades	un	le			les	Plan de Création/Hache des Renegades	
--	bcbmea05_3	Plan de Création/Hache des Fraiders	un	le			les	Plan de Création/Hache des Fraiders	
--	bcbmea06	Plan de Création/Dague des Corsaires	un	le			les	Plan de Création/Dague des Corsaires	
--	bcbmea06_2	Plan de Création/Dague des Illuminés	un	le			les	Plan de Création/Dague des Illuminés	
--	bcbmea06_3	Plan de Création/Dague des Cuzans	un	le			les	Plan de Création/Dague des Cuzans	
--	bcbmea07	Plan de Création/Lance des Amazones	un	le			les	Plan de Création/Lance des Amazones	
--	bcbmea07_2	Plan de Création/Lance des Matisec	un	le			les	Plan de Création/Lance des Matisec	
--	bcbmea07_3	Plan de Création/Lance des Esclaves de la sève	un	le			les	Plan de Création/Lance des Esclaves de la sève	
--	bcbmea08	Plan de Création/Massue de la Sève Sacrée	un	le			les	Plan de Création/Massue des Zokamis	
--	bcbmea08_2	Plan de Création/Massue du Cercle noir	un	le			les	Plan de Création/Massue du Cercle noir	
--	bcbmea08_3	Plan de Création/Massue des Gibads	un	le			les	Plan de Création/Massue des Gibads	
--	bcbmea09	Plan de Création/Bâton de l'Arbre éternel	un	le			les	Plan de Création/Bâton de l'Arbre éternel	
--	bcbmea09_2	Plan de Création/Bâton des Sèves sèches	un	le			les	Plan de Création/Bâton des Sèves sèches	
--	bcbmea09_3	Plan de Création/Bâton des Maîtres de la goo	un	le			les	Plan de Création/Bâton des Maîtres de la goo	
--	bcbmea10	Plan de Création/Epée des Contrebandiers	un	le			les	Plan de Création/Epée des Contrebandiers	
--	bcbmea10_2	Plan de Création/Epée des Mercenaires écarlates	un	le			les	Plan de Création/Epée des Mercenaires écarlates	
--	bcbmea10_3	Plan de Création/Epée des Frères de la lagune	un	le			les	Plan de Création/Epée des Frères de la lagune	
+-	bcbmea01	Plan de Création/Hache à 2M des Percécorces	un	le				Plan de Création/Hache à 2M des Percécorces	
+-	bcbmea01_2	Plan de Création/Hache à 2M des Pillards du Désert	un	le				Plan de Création/Hache à 2M des Pillards du Désert	
+-	bcbmea01_3	Plan de Création/Hache à 2M des Veilleurs	un	le				Plan de Création/Hache à 2M des Veilleurs	
+-	bcbmea02	Plan de Création/Pique des Gardes-frontières	un	le				Plan de Création/Pique des Gardes-frontières	
+-	bcbmea02_2	Plan de Création/Pique des Kitiniers	un	le				Plan de Création/Pique des Kitiniers	
+-	bcbmea02_3	Plan de Création/Pique des Dryades	un	le				Plan de Création/Pique des Dryades	
+-	bcbmea03	Plan de Création/Massue à 2M des Tuteurs	un	le				Plan de Création/Massue à 2M des Tuteurs	
+-	bcbmea03_2	Plan de Création/Massue à 2M des Recycleurs	un	le				Plan de Création/Massue à 2M des Recycleurs	
+-	bcbmea04	Plan de Création/Epée à 2M des Sculpteurs de Vase	un	le				Plan de Création/Epée à 2M des Sculpteurs de Vase	
+-	bcbmea04_2	Plan de Création/Epée à 2M des Embourbés	un	le				Plan de Création/Epée à 2M des Embourbés	
+-	bcbmea05	Plan de Création/Hache des Taxeurs	un	le				Plan de Création/Hache des Taxeurs	
+-	bcbmea05_2	Plan de Création/Hache des Renegades	un	le				Plan de Création/Hache des Renegades	
+-	bcbmea05_3	Plan de Création/Hache des Fraiders	un	le				Plan de Création/Hache des Fraiders	
+-	bcbmea06	Plan de Création/Dague des Corsaires	un	le				Plan de Création/Dague des Corsaires	
+-	bcbmea06_2	Plan de Création/Dague des Illuminés	un	le				Plan de Création/Dague des Illuminés	
+-	bcbmea06_3	Plan de Création/Dague des Cuzans	un	le				Plan de Création/Dague des Cuzans	
+-	bcbmea07	Plan de Création/Lance des Amazones	un	le				Plan de Création/Lance des Amazones	
+-	bcbmea07_2	Plan de Création/Lance des Matisec	un	le				Plan de Création/Lance des Matisec	
+-	bcbmea07_3	Plan de Création/Lance des Esclaves de la sève	un	le				Plan de Création/Lance des Esclaves de la sève	
+-	bcbmea08	Plan de Création/Massue des Zokamis	un	le				Plan de Création/Massue des Zokamis	
+-	bcbmea08_2	Plan de Création/Massue du Cercle noir	un	le				Plan de Création/Massue du Cercle noir	
+-	bcbmea08_3	Plan de Création/Massue des Gibads	un	le				Plan de Création/Massue des Gibads	
+-	bcbmea09	Plan de Création/Bâton de l'Arbre éternel	un	le				Plan de Création/Bâton de l'Arbre éternel	
+-	bcbmea09_2	Plan de Création/Bâton des Sèves sèches	un	le				Plan de Création/Bâton des Sèves sèches	
+-	bcbmea09_3	Plan de Création/Bâton des Maîtres de la goo	un	le				Plan de Création/Bâton des Maîtres de la goo	
+-	bcbmea10	Plan de Création/Epée des Contrebandiers	un	le				Plan de Création/Epée des Contrebandiers	
+-	bcbmea10_2	Plan de Création/Epée des Mercenaires écarlates	un	le				Plan de Création/Epée des Mercenaires écarlates	
+-	bcbmea10_3	Plan de Création/Epée des Frères de la lagune	un	le				Plan de Création/Epée des Frères de la lagune	
 -	bcbrea01	Plan de Création/Mitrailleuse des Façonneurs nocturnes	un	le			les	Plan de Création/Mitrailleuse des Façonneurs nocturnes	
 -	bcbrea01_2	Plan de Création/Mitrailleuse des Sauvages	un	le			les	Plan de Création/Mitrailleuse des Sauvages	
 -	bcbrea01_3	Plan de Création/Mitrailleuse des Sanguins	un	le			les	Plan de Création/Mitrailleuse des Sanguins	
@@ -4083,7 +4083,7 @@
 -	bctaea23	Plan de Création/Soutien-gorge Légères Tryker	un	le	Plans de Création/Soutien-gorge Légères Tryker	des	les	Brique de plan de création pour soutien-gorge légères tryker	
 -	bczaea22	Plan de Création/Culotte Légères Zoraïs	un	le	Plans de Création/Culotte Légères Zoraïs	des	les	Brique de plan de création pour culotte légères zoraïs	
 -	bczaea23	Plan de Création/Soutien-gorge Légères Zoraïs	un	le	Plans de Création/Soutien-gorge Légères Zoraïs	des	les	Brique de plan de création pour soutien-gorge légères zoraïs	
-1618581079	jmod_fulllife_tryker	
-1618581277	jmod_halflife_tryker	
-1618581323	jmod_goodlife_tryker	
-1618581536	jrez_nodp_tryker	
+1618581079	jmod_fulllife_tryker	Full recovery	a	the	Full recovery		the	1%% of chances to get stats full at 100%% after a ressurection. @{FAAF}Tryker continent and Nexus only	
+1618581277	jmod_halflife_tryker	Half recovery	a	the	Half recovery		the	3%% of chances to get stats full at 50%% after a ressurection. @{FAAF}Tryker continent and Nexus only	
+1618581323	jmod_goodlife_tryker	Good recovery	a	the	Good recovery		the	2%% of chances to get stats full at 75%% after a ressurection. @{FAAF}Tryker continent and Nexus only	
+1618581536	jrez_nodp_tryker	Mort douce	un	le	Mort douce		the	1% de chances de ne pas avoir de pénalité de mort après une résurrection. @{FAAF}Tryker continent and Nexus only	

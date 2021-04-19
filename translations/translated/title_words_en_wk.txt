@@ -340,7 +340,7 @@
 -	fct_zf_guard	 (Frontier Guard)	
 -	fct_stablegirl_merchant	 (Stable Girl)	
 -	fct_barmaid	 (Barmaid)	
--	fct_civil		
+-	fct_civil	
 -	fct_sage	 (Sage)	
 -	fct_craftsman	 (Crafter)	
 -	fct_supplier	 (Supplier)	
@@ -880,7 +880,7 @@
 -	gn_karavan_welcomer_z5	Maiden Grove Karavan Welcomer	
 -	gn_karavan_welcomer_z6	Void Karavan Welcomer	
 -	gn_kuilde_karavan_ambassador_p1	Kuilde Karavan Ambassador	
--	gn_lawless_karavan_ambassador_f1	Lawless Karavan Ambassador	
+-	gn_lawless_karavan_ambassador_f1	Amabassadeur Karavan des Sans Loi	
 -	gn_masters_karavan_ambassador_z1	Masters of the Goo Karavan Ambassador	
 -	gn_matisianborder_karavan_ambassador_m1	Matisian Border Guards Karavan Ambassador	
 -	gn_oasisdiggers_karavan_ambassador_m1	Oasis Diggers Karavan Ambassador	
@@ -1920,4 +1920,5 @@
 -	fct_marauder_ambassador	 Marauder Ambassador	
 -	fct_marauder_windofmuse	(Winds of Muse)	
 -	gn_driller_marauder_const	Aklareen Under Construction	
--	fct_allegory_maker	
+1616092237	fct_allegory_maker	Engraver of Allegories	Engraver of Allegories
+1616152994	fct_animals_and_co	

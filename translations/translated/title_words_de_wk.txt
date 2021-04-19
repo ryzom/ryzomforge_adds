@@ -786,7 +786,7 @@
 -	gn_corsairs_kami_ambassador_t1	Kami-Botschafter der Korsaren	Kami-Botschafterin der Korsaren
 -	gn_duneriders_kami_ambassador_f1	Kami-Botschafter der Dünenreiter	Kami-Botschafterin der Dünenreiter
 -	gn_ecowarriors_kami_ambassador_m1	Kami-Botschafter der Ökokrieger	Kami-Botschafterin der Ökokrieger
--	gn_firstdeserters_kami_ambassador_m1	Kami-Botschafter der Ersten Deserteure	Kami-Botschafterin der Ersten Deserteure
+-	gn_firstdeserters_kami_ambassador_m1	First Deserters Kami Ambassador	
 -	gn_fraharhunters_kami_ambassador_f1	Kami-Botschafter der Frahar-Jäger	Kami-Botschafterin der Frahar-Jäger
 -	gn_hamazans_kami_ambassador_z1	Kami-Botschafter der Hamazans	Kami-Botschafterin der Hamazans
 -	gn_kami_welcomer_f1	Kamiempfänger der Dünen der Verbannung	Kamiempfängerin der Dünen der Verbannung
@@ -880,7 +880,7 @@
 -	gn_karavan_welcomer_z5	Karavanempfänger des Jungfräulichen Wäldchens	Karavanempfängerin des Jungfräulichen Wäldchens
 -	gn_karavan_welcomer_z6	Karavanempfänger des Nichts	Karavanempfängerin des Nichts
 -	gn_kuilde_karavan_ambassador_p1	Karavanempfänger der Kuilde	Karavanempfängerin der Kuilde
--	gn_lawless_karavan_ambassador_f1	Karavanempfänger der Gesetzlosen	Karavanempfängerin der Gesetzlosen
+-	gn_lawless_karavan_ambassador_f1	Amabassadeur Karavan des Sans Loi	
 -	gn_masters_karavan_ambassador_z1	Karavanempfänger des Meister des Goo	Karavanempfängerin des Meister des Goo
 -	gn_matisianborder_karavan_ambassador_m1	Karavanempfänger der Matisianischen Grenzwächter	Karavanempfängerin der Matisianischen Grenzwächter
 -	gn_oasisdiggers_karavan_ambassador_m1	Karavanempfänger der Brunnengräber	Karavanempfängerin der Brunnengräber
@@ -1745,9 +1745,9 @@
 -	gn_tower_kami	Kami-Turm	Kami-Turm
 -	gn_tower_karavan	Karavan-Turm	Karavan-Turm
 -	gn_traitre_corsaire	Verräter der Korsaren	Verräterin der Korsaren
--	gn_warmap_marauder_chief_250	Marodeurs-Führungskraft	Marodeurs-Führungskraft
--	gn_warmap_marauder_hero_200	Marodeurs-Held	Marodeurs-Heldin
--	gn_warmap_marauder_leader_200	Marodeurs-Anführer	Marodeurs-Anführerin
+-	gn_warmap_marauder_chief_250	warmap_marauder_chief_250	
+-	gn_warmap_marauder_hero_200	warmap_marauder_hero_200	
+-	gn_warmap_marauder_leader_200	warmap_marauder_leader_200	
 -	gn_warrior_fyros_spire_kami	Fyros-Wächter des Kami-Turmes	Fyros-Wächterin des Kami-Turmes
 -	gn_warrior_fyros_spire_karavan	Fyros-Wächter des Karavan-Turmes	Fyros-Wächterin des Karavan-Turmes
 -	gn_warrior_matis_spire_kami	Matis-Wächter des Kami-Turmes	Matis-Wächterin des Kami-Turmes 
@@ -1818,8 +1818,8 @@
 -	fct_fyros_prince	Prinz der Fyros	Prinzessin der Fyros
 -	fct_tryker_vice_governor	Vize-Gouverneur	Vize-Gouverneurin
 -	fct_zorai_sage	Weiser der Zoraï	Weise der Zoraï
--	fct_marauder_scout	Späher der Marodeure	Späherin der Marodeure
--	fct_marauder_chief	Anführer der Marodeure	Anführerin der Marodeure
+-	fct_marauder_scout	Marauder Scout	
+-	fct_marauder_chief	Marauder Chief	
 -	fct_spy	Spion	Spionin
 -	Title00050	Fleischer-Lehrling	Fleischer-Lehrling
 -	Title00051	Fleischer	Fleischerin
@@ -1911,13 +1911,14 @@
 -	gn_karavan_altar_silan_shattered_ruins	Zerstörte Ruinen Karavan Altar	
 -	gn_kami_altar_silan_shining_lake	Funkelnder See Kami Altar	
 -	fct_to_new_horizons	Zu Neuen Horizonten	
--	fct_marauder_merchant	Marodeure Händler	Marodeure Händlerin
+-	fct_marauder_merchant	Marauder Merchant	
 -	fct_ranger_guide	Ranger-Guide	Ranger-Guide
 -	fct_ranger_quartermaster	Ranger-Quartiermeister	Ranger-Quartiermeisterin
 -	fct_arionasiszig	Arionasis's Zig	
 -	fct_tyneetrykzig	Tyneetryk's Zig	
 -	gn_fresh_water_barrel	Frischwasserfaß	
--	fct_marauder_ambassador	Botschafter der Marodeure	Botschafterin der Marodeure
--	fct_marauder_windofmuse	(Winde der Musen)	
--	gn_driller_marauder_const	Aklareen im Bau	Aklareen im Bau
--	fct_allegory_maker	
+-	fct_marauder_ambassador	 Marauder Ambassador	
+-	fct_marauder_windofmuse	(Winds of Muse)	
+-	gn_driller_marauder_const	Aklareen Under Construction	
+1616092237	fct_allegory_maker	Graveur für Allegorien	Graveurin für Allegorien
+1616152994	fct_animals_and_co	Vertreteter von "Tiere & Co"	Vertreterin von "Tiere & Co"
