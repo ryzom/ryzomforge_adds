@@ -817,3 +817,5 @@ _B04B51C19F5A18BD	place_cwzh02_mp1	Область добычи помета	Об
 _74DB3417A0D81801	place_cwzh03_mp1	Область добычи жемчуга	Области добычи кости	Области добычи кости	Области добычи кости
 _42DFA10429F6E8C4	place_cimetiere_avalae	Кладбище Эвелей	Кладбища Эвелей	Кладбище Эвелей	Кладбищу Эвелей
 _5193CA370C64AE7D	mission_ff60_emplacement_message	Message Location	Message Location	Message Location	Message Location
+_	place_marauder_camp_restingwater	Marauder Camp					
+_	marauder_camp_stable	Marauder Stables	the

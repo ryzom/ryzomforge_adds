@@ -10047,9 +10047,9 @@ uiForageToolMissing	[You don't have a foraging tool.]
 
 uiExtractionPhraseMissing	[There are no extraction actions available on your action bar.]
 
-uimEnterStable	[Enter Stable]
+uimEnterStable	[Enter stables]
 
-uimLeaveStable	[Leave Stable]
+uimLeaveStable	[Leave stables]
 
 uiAnimals	[Animals]
 
@@ -14411,9 +14411,9 @@ uiPATitleMount7	[Zig 3]
 uittInBag	[The animal is in your bag.\n
 	@{6F6F}Right click @{FFFF}to give an order.]
 
-uimEnterBag	[Enter on the bag]
+uimEnterBag	[Tuck in bag]
 
-uimLeaveBag	[Leave from the bag]
+uimLeaveBag	[Let out of bag]
 
 msgRollDiceLocal	[&SYS&@{FF1F}You pulled %roll in a draw between %min and %max.]
 
@@ -14597,7 +14597,7 @@ uiWindowSnap	[Window snap]
 
 uiShowTranslationOnlyAsTooltip	[Display by default original messages and the translated version in a tooltip.]
 
-uimChangeGroup	[Move to friends group]
+uimChangeGroup	[MOVE TO FRIENDS GROUP]
 
 uiPeopleChangeContactGroup	[Name of the friends group]
 
