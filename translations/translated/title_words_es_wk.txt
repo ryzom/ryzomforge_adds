@@ -455,7 +455,7 @@
 -	Novice_Warrior	Aprendiz de Luchador	Aprendiz de Luchador	
 -	Novice_Harvester	Aprendiz de Recolector	Aprendiz de Recolector 	
 -	Novice_Magician	Aprendiz de Mago	Aprendiz de Mago	
--	Artisan_Apprentice	Apprenti Artisan 	Apprentie Artisane		
+-	Artisan_Apprentice	Aprendiz de Artesano	Aprendiz de Artesano	
 -	Warrior_Apprentice	Aprendiz de Artesano	Aprendiz de Artesano	
 -	Magician_Apprentice	Aprendiz de Mago	Aprendiz de Mago	
 -	Fyros_Artisan_Apprentice	Aprendiz de Artesano Fyros	Aprendiz de Artesano Fyros	
@@ -494,26 +494,26 @@
 -	Heavy_Armsman	Amero Pesado	Armera Pesada	
 -	Gunman	Pistolero	Pistolera	
 -	Heavy_Gunman	Artillero Pesado	Artillera Pesada	
--	Advanced_Gunman	Franc-Tireur	Franc-Tireur		
--	Advanced_Heavy_Gunman	Tirailleur	Tirailleur		
--	Bludgeoner	Matraqueur	Matraqueuse		
+-	Advanced_Gunman	Pistolero Avanzado	Pistolera Avanzada	
+-	Advanced_Heavy_Gunman	Artillero Pesado Avanzado	Artillera Pesado Avanzada	
+-	Bludgeoner	Apaleador	Apaleadora
 -	Skewerer	Espeton para Brochetas	Espeton para Brochetas	
 -	Slasher	Acuchillador	Acuchilladora	
 -	Smasher	Masacrador	Masacradora	
 -	Impaler	Empalador	Empaladora	
--	Cleaver	Fendeur	Fendeuse		
--	Bowman	Archer	Archer		
+-	Cleaver	Cuchillada de Carnicero	Cuchillada de Carnicero	
+-	Bowman	Arquero	Arquera
 -	Heavy_Bowman	Arquero Pesado	Arquera Pesada	
 -	Pistoleer	Pistolero	Pistolera	
 -	Heavy_Artilleryman	Artillero Pesado	Artillera Pesada	
 -	Crossbowman	Ballestero	Ballestera	
--	Artilleryman	Artilleur	Artilleur		
+-	Artilleryman	Artillero 	Artillera Pesada	
 -	Rifleman	Fusilero	Fusilera	
 -	Maceman	Triturador	Trituradora	
--	Brute	Brute	Brute		
+-	Brute	Brutal	Brutal	
 -	Knifeman	Torbellino	Torbellino	
 -	Spearman	Lancero	Lancera	
--	Axeman	Tailladeur	Tailladeuse		
+-	Axeman	Segador	Segadora	
 -	Swordsman	Duelista	Duelista	
 -	Heavy_Maceman	Destructor	Destructora	
 -	Pikeman	Picador	Picadora	
@@ -538,8 +538,8 @@
 -	Master_Heavy_Swordsman	Maestro de la Cuchilla	Maestro de la Cuchilla	
 -	Master_Hand_To_Hand_Fighter	Aplastador con Fuerza	Aplastadora con Fuerza	
 -	Hand_To_Hand_Fighter	Brawler	Brawler	
--	Close_Fighter	Combattant Rapproché	Combattante Rapprochée		
--	Advanced_Close_Fighter	Empoigneur	Empoigneuse
+-	Close_Fighter	Combate Cerrado	Combate Cerrado	
+-	Advanced_Close_Fighter	Peleón 	Peleona	
 -	Defensive_Magician	Mago Defensivo	Maga Defensiva	
 -	Offensive_Magician	Mago Ofensivo	Maga Ofensiva	
 -	Elementalist_Apprentice	Aprendiz Elementalista	Aprendiz Elementalista	
@@ -552,21 +552,21 @@
 -	Shaman	Shaman	Shaman	
 -	Priest	Sacerdote	Sacerdotisa	
 -	Master_Of_Life	Mago de Vida	Maga de Vica	
--	Celestial_Guardian	Gardien Céleste	Gardienne Céleste		
--	Black_Mage	Mage Noir	Mage Noire		
--	Affliction_Bringer	Ensorceleur	Ensorceleuse		
+-	Celestial_Guardian	Guardián Celestial	Guardiana Celestial	
+-	Black_Mage	Mago Negro	Maga Negra	
+-	Affliction_Bringer	Portador de Aflicción	Portador de Aflicción 	
 -	Master_Of_Torment	Mago del Tormento	Maga del Tormento	
--	Avatar_Of_Sorrow	Avatar des Regrets	Avatar des Regrets		
+-	Avatar_Of_Sorrow	Avatar de las Penas	Avatar de las Penas	
 -	Destroyer	Destructor	Destructora	
 -	Warlock	Brujo	Bruja	
--	Archmage	Elémentaliste	Elémentaliste		
+-	Archmage	Elementalista	Elementalista	
 -	Master_Of_Pain	Mago del Dolor	Maga del Dolor	
--	Avatar_Of_Destruction	Avatar de Destruction	Avatar de Destruction		
+-	Avatar_Of_Destruction	Avatar de la Destrucción 	Avatar de la Destrucción 	
 -	Elementalist	Elementalista	Elementalista	
--	Alchemist	Alchimiste	Alchimiste		
--	Biomancer	Biomanceur	Biomanceur		
+-	Alchemist	Alquimista	Alquimista	
+-	Biomancer	Biomancer	Biomancer	
 -	Master_Of_Energies	Maestro de Energías	Maestra de Energías	
--	Chosen_Of_Atys	Elu d'Atys	Elue d'Atys		
+-	Chosen_Of_Atys	Escogido de Atys	Escogida de Atys	
 -	Title00079	Caminante	Caminante	
 -	FBT	Anciano de Atys	Anciana de Atys	
 -	SGM	Maestro del Juego Superior	Maestra del Juego Superior	
@@ -574,7 +574,7 @@
 -	VG	Guía de Veterano	Guía de Veterano	
 -	SG	Guía Superior	Guía Superior	
 -	G	Guía	Guía	
--	Armorer_Apprentice	Apprenti Armurier	Apprentie Armurière		
+-	Armorer_Apprentice	Aprendiz de Armero	Aprendiz de Armero	
 -	Jeweler_Apprentice	Aprendiz de Joyero	Aprendiz de Joyero	
 -	Melee_Weapon_Smith_Apprentice	Aprendiz de Fabricante de Armas  de Lucha Cuerpo a Cuerpo	Aprendiz de Fabricante de Armas de Lucha Cuerpo a Cuerpo	
 -	Range_Weapon_Smith_Apprentice	Aprendiz Fabricante de Armas de Alcance	Aprendiz Fabricante de Armas de Alcance	
@@ -588,16 +588,16 @@
 -	Melee_Light_Weapon_Smith	Herrero de Armas Livianas de Combate Cuerpo a Cuerpo	Herrera de Armas Livianas de Combate Cuerpo a Cuerpo	
 -	Range_Weapon_Smith	Herrero de Armas de Alcance	Herrera de Armas de Alcance	
 -	Range_Heavy_Weapon_Smith	Fabricante de Armas Pesadas de Alcance 	Herrera de Armas Pesadas de Alcance 	
--	Advanced_Heavy_Armorer	Armurier Lourd Avancé	Armurière Lourde Avancée		
--	Advanced_Light_Armorer	Armurier Léger Avancé	Armurière Légère Avancée		
--	Advanced_Medium_Armorer	Armurier Moyen Avancé	Armurière Moyenne Avancée		
--	Advanced_Shield_Smith	Forgeron Avancé de Boucliers	Forgeronne Avancée de Boucliers		
--	Advanced_Jeweler	Bijoutier Avancé	Bijoutière Avancée		
--	Advanced_Melee_Weapon_Smith	Forgeron Avancé d'Armes de Mêlée	Forgeronne Avancée d'Armes de Mêlée		
--	Advanced_Melee_Heavy_Weapon_Smith	Forgeron Avancé d'Armes de Mêlée Lourdes	Forgeronne Avancée d'Armes de Mêlée Lourdes		
--	Advanced_Melee_Light_Weapon_Smith	Forgeron Avancé d'Armes de Mêlée Légères 	Forgeronne Avancée d'Armes de Mêlée Légères 		
--	Advanced_Range_Weapon_Smith	Forgeron Avancé d'Armes de Tir	Forgeronne Avancée d'Armes de Tir		
--	Advanced_Range_Heavy_Weapon_Smith	Forgeron Avancé d'Armes de Tir Lourdes	Forgeronne Avancée d'Armes de Tir Lourdes		
+-	Advanced_Heavy_Armorer	Armero Pesado Avanzado	Armera Pesada Avanzada	
+-	Advanced_Light_Armorer	Armero Liviano Avanzado	Armera Mediana Avanzada	
+-	Advanced_Medium_Armorer	Armero Mediano Avanzado	Armera Mediana Avanzada	
+-	Advanced_Shield_Smith	Herrero Avanzado de Escudos	Herrera Avanzada de Escudos
+-	Advanced_Jeweler	Joyero Avanzado	Joyera Avanzada	
+-	Advanced_Melee_Weapon_Smith	Herrero Avanzado de Armas  de Lucha Cuerpo a Cuerpo	Herrera Avanzada de Armas de Lucha Cuerpo a Cuerpo	
+-	Advanced_Melee_Heavy_Weapon_Smith	Herrero de Armas Pesadas de Lucha Cuerpo a Cuerpo 	Herrera de Armas Pesadas de Lucha Cuerpo a Cuerpo	
+-	Advanced_Melee_Light_Weapon_Smith	Herrero Avanzado de Armas Livianas de Lucha Cuerpo a Cuerpo	Herrera Avanzada de Armas Livianas de Lucha Cuerpo a Cuerpo	
+-	Advanced_Range_Weapon_Smith	Herrero Avanzado de Armas de Alcance	Herrera Avanzado de Armas de Alcance	
+-	Advanced_Range_Heavy_Weapon_Smith	Herrero Avanzado de Armas Pesadas de Alcance	Herrera Avanzada de Armas Pesadas de Alcance	
 -	Expert_Heavy_Armorer	Armero Pesado Experto	Armera Pesada Experta	
 -	Expert_Light_Armorer	Armero Liviano Experto	Armera Liviana Experta	
 -	Expert_Medium_Armorer	Armero Mediano Experto	Armera Mediana Experta	
@@ -625,11 +625,11 @@
 -	Jungle_Forager	Buscador de la Selva	Buscadora de la Selva	
 -	Lacustre_Forager	Buscador de la Tierra del Lago	Buscadora de la Tierra del Lago	
 -	Prime_Roots_Forager	Buscador de las Primeras Raíces	Buscadora de las Primeras Raíces	
--	Advanced_Desert_Forager	Foreur Avancé du Désert	Foreuse Avancée du Désert		
--	Advanced_Forest_Forager	Foreur Avancé des Forêts	Foreuse Avancée des Forêts		
--	Advanced_Jungle_Forager	Foreur Avancé de la Jungle	Foreuse Avancée de la Jungle		
--	Advanced_Lacustre_Forager	Foreur Avancé des Lacs	Foreuse Avancée des Lacs		
--	Advanced_Prime_Roots_Forager	Foreur Avancé des Primes Racines	Foreuse Avancée des Primes Racines		
+-	Advanced_Desert_Forager	Buscador Avanzado del Desierto 	Buscadora Avanzada del Desierto 
+-	Advanced_Forest_Forager	Buscador Avanzado del Bosque 	Buscadora Avanzada del Bosque 	
+-	Advanced_Jungle_Forager	Buscador Avanzado de la Selva	Buscadora Avanzada de la Selva 
+-	Advanced_Lacustre_Forager	Buscador Avanzado de la Tierra del Lago	Buscadora Avanzada de la Tierra del Lago
+-	Advanced_Prime_Roots_Forager	Buscador Avanzado de las Primeras Raíces	Buscadora Avanzada de las Primeras Raíces	
 -	Expert_Desert_Forager	Buscador Experto del Desierto	Buscadora Experta del Desierto	
 -	Expert_Forest_Forager	Buscador Experto del Bosque	Buscadora Experta del Bosque	
 -	Expert_Jungle_Forager	Buscador Experto de la Selva	Buscadora Experta de la Selva	
@@ -692,11 +692,11 @@
 -	gn_zorai_kami_sentinel	Centinela Kami		
 -	Fighter	Luchador		
 -	Magician	Mago		
--	Craftsman	Artisan			
+-	Craftsman	Artesano		
 -	MeleeFighter	Luchador de Combate Cuerpo a Cuerpo		
 -	RangeFighter	Luchador de Alcance		
--	AttackCaster	Attaquant			
--	BufferCaster	Buffer			
+-	AttackCaster	Lanzador de Ataque		
+-	BufferCaster	Lanzador de Parachoque		
 -	HealerCaster	Curandero Lanzador		
 -	Harvester	Recolector		
 -	Shopkeeper	Comerciante		
@@ -704,14 +704,14 @@
 -	IreFighter	Luchador de la Ira		
 -	Swashbuckler	Bravucon		
 -	KamicFist	Puno Kami		
--	BladeBearer	Porteur de Lames			
+-	BladeBearer	Portador de la Cuchilla	Portadora de la Cuchilla
 -	WindChild	Hijo del Viento		
 -	Runner	Corredor 		
 -	Scout	Explorador 		
 -	FireLance	Lancero de Fuego		
 -	ScarletHunter	Cazador Escarlata		
 -	GreenHunter	Cazador Verde		
--	AtysGuardian	Gardien d'Atys			
+-	AtysGuardian	Guardia de Atys		
 -	ShadowHunter	Cazador de la Sombra		
 -	Witherer	Marchitador		
 -	Fouler	Viciado		
@@ -732,8 +732,8 @@
 -	Hawker	Halconero/Vendedor Ambulante		
 -	range_warrior	Guerrero de Alcance		
 -	harvester	Recolector		
--	attack_magician	Attaquant			
--	buffer_magician	Buffer			
+-	attack_magician	Lanzador de Ataque	Lanzadora de Ataque
+-	buffer_magician	Lanzador de Parachoque		
 -	healer_magician	Curandeor Lanzador		
 -	faber	Artesano		
 -	FireMaster	Maestro del Fuego		
@@ -741,7 +741,7 @@
 -	gn_gibbay_guard	Guardia de Elite		
 -	gn_masters_of_the_goo_guard	Guardia de Elite		
 -	gn_tryker_tribe_slave	Esclavo Tryker		
--	CM	Administrateur de la Communauté	Administratrice de la Communauté		
+-	CM	Administrador de la Comunidad	Administradora de la Comunidad	
 -	EM	Director de Evento	Directora de Evento	
 -	EG	Guía  de Evento	Guía de Evento	
 -	OBSERVER	Observador	Observador	
@@ -786,7 +786,7 @@
 -	gn_corsairs_kami_ambassador_t1	Embajador de los Corsarios Kami		
 -	gn_duneriders_kami_ambassador_f1	Embajador Kami de los Jinetes de las Dunas		
 -	gn_ecowarriors_kami_ambassador_m1	Embajador Kami de los Ecoguerreros		
--	gn_firstdeserters_kami_ambassador_m1	First Deserters Kami Ambassador	
+-	gn_firstdeserters_kami_ambassador_m1	Embajador Kami de los Primeros Desertores		
 -	gn_fraharhunters_kami_ambassador_f1	Embajador Kami de los Cazadores de Frahar		
 -	gn_hamazans_kami_ambassador_z1	Embajador Kami de los Hamazans de la Semilla Muerta		
 -	gn_kami_welcomer_f1	Recibidor Kami de las Dunas del Exilio		
@@ -880,7 +880,7 @@
 -	gn_karavan_welcomer_z5	Recibidor Karavan del Bosque de las Doncellas		
 -	gn_karavan_welcomer_z6	Recibidor Karavan del Vacio		
 -	gn_kuilde_karavan_ambassador_p1	Embajador del Gremio Karavan		
--	gn_lawless_karavan_ambassador_f1	Amabassadeur Karavan des Sans Loi	
+-	gn_lawless_karavan_ambassador_f1	Embajador Kravan de los Ilegales		
 -	gn_masters_karavan_ambassador_z1	Embajador Karavan de los Maestros del Goo		
 -	gn_matisianborder_karavan_ambassador_m1	Embajador Karavan de los Guardias de la Frontera Matis		
 -	gn_oasisdiggers_karavan_ambassador_m1	Embajador Karavan de los Excavadores de Oasis		
@@ -1774,7 +1774,7 @@
 -	cwff03_termit	Termitero		
 -	cwff03_goari	Goari Recostado		
 -	stele_epee_bois	Estela		
--	corsaire_dechu_coffer	Coffre de Corsaire			
+-	corsaire_dechu_coffer	Pecho de Corsario 		
 -	kef0904observer100	Observador del Lago del Norte (1)		
 -	kef0904observer150	Observador de las Torres Altas (2)		
 -	kef0904observer200	Observador del Espinazo del Dragón (3)		
@@ -1920,5 +1920,5 @@
 -	fct_marauder_ambassador	 Embajador Marauder	Embajadora Marauder	
 -	fct_marauder_windofmuse	(Vientos de la Musa)	
 -	gn_driller_marauder_const	Aklareen en construcción 		
-1616092237	fct_allegory_maker	Graveur d'Allégories	Graveuse d'Allégories
-1616152994	fct_animals_and_co	Représentant de "Animaux & Co"	Représentante de "Animaux & Co"
+1616092237	fct_allegory_maker	
+1616152994	fct_animals_and_co	

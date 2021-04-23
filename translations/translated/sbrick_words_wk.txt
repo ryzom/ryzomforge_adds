@@ -4083,7 +4083,9 @@
 -	bctaea23	Tryker Light Bra Craft Pattern	a	the				Brick Craftman's plan for tryker light bra	
 -	bczaea22	Zorai Light Panties Craft Pattern	a	the				Brick Craftman's plan for zorai light panties	
 -	bczaea23	Zorai Light Bra Craft Pattern	a	the				Brick Craftman's plan for zorai light bra	
-1618581079	jmod_fulllife_tryker	Full recovery (Tryker)	a	the	Full recovery (Tryker)		the	1%% of chances to get stats full at 100%% after a ressurection. @{FAAF}Tryker continent and Nexus only	
-1618581277	jmod_halflife_tryker	Half recovery (Tryker)	a	the	Half recovery (Tryker)		the	3%% of chances to get stats full at 50%% after a ressurection. @{FAAF}Tryker continent and Nexus only	
-1618581323	jmod_goodlife_tryker	Good recovery (Tryker)	a	the	Good recovery (Tryker)		the	2%% of chances to get stats full at 75%% after a ressurection. @{FAAF}Tryker continent and Nexus only	
 1618581536	jrez_nodp_tryker	Sweet death (Tryker)	a	the	Sweet death (Tryker)		the	1%% of chances to don't suffer death penality after a ressurection. @{FAAF}Tryker continent and Nexus only	
+1619198342	jboost_2x	Allegorical power amplifier	a	the	Allegorical power amplifier		the	Multiplies the Allegoric power by 	
+1619198360	tag_fyros_1	Fyros	a	the	Fyros		the		
+1619199443	jrez_fulllife_tryker	
+1619199449	jrez_halflife_tryker	
+1619199455	jrez_goodlife_tryker	

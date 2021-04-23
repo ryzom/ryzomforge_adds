@@ -4083,7 +4083,9 @@
 -	bctaea23	Plan de Création/Soutien-gorge Légères Tryker	un	le	Plans de Création/Soutien-gorge Légères Tryker	des	les	Brique de plan de création pour soutien-gorge légères tryker	
 -	bczaea22	Plan de Création/Culotte Légères Zoraïs	un	le	Plans de Création/Culotte Légères Zoraïs	des	les	Brique de plan de création pour culotte légères zoraïs	
 -	bczaea23	Plan de Création/Soutien-gorge Légères Zoraïs	un	le	Plans de Création/Soutien-gorge Légères Zoraïs	des	les	Brique de plan de création pour soutien-gorge légères zoraïs	
-1618581079	jmod_fulllife_tryker	Full recovery	a	the	Full recovery		the	1%% of chances to get stats full at 100%% after a ressurection. @{FAAF}Tryker continent and Nexus only	
-1618581277	jmod_halflife_tryker	Half recovery	a	the	Half recovery		the	3%% of chances to get stats full at 50%% after a ressurection. @{FAAF}Tryker continent and Nexus only	
-1618581323	jmod_goodlife_tryker	Good recovery	a	the	Good recovery		the	2%% of chances to get stats full at 75%% after a ressurection. @{FAAF}Tryker continent and Nexus only	
 1618581536	jrez_nodp_tryker	Mort douce	un	le	Mort douce		the	1% de chances de ne pas avoir de pénalité de mort après une résurrection. @{FAAF}Tryker continent and Nexus only	
+1619198342	jboost_2x	
+1619198360	tag_fyros_1	
+1619199443	jrez_fulllife_tryker	Retour en gloire	un	le	Retour en gloire	des	les	1%% de chances de récupérer, lors de votre résurrection, la totalité de vos maximums de vie, endurance, sève et concentration.	
+1619199449	jrez_halflife_tryker	Retour sur pied	un	le	Retour sur pied	des	les	3%% de chances de récupérer, lors de votre résurrection, la moitié de vos maximums de vie, endurance, sève et concentration. 	
+1619199455	jrez_goodlife_tryker	Retour en forme	un	le	Retour en forme	des	les	2% de chances de récupérer, lors de votre résurrection, les trois-quarts de vos maximums de vie, endurance, sève et concentration.	

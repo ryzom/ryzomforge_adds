@@ -4083,7 +4083,9 @@
 -	bctaea23	Plan de Fabricación de Sujetador Livianas tryker	un	el				Plan de fabricación de sujetador livianas Tryker.	
 -	bczaea22	Plan de Fabricación de Calzones Livianas Zoraï	un	el				Plan de fabricación de calzones livianas Zoraï.	
 -	bczaea23	Plan de Fabricación de Sujetador Livianas Zoraï	un	el				Plan de fabricación de sujetador livianas Zoraï.	
-1618581079	jmod_fulllife_tryker	
-1618581277	jmod_halflife_tryker	
-1618581323	jmod_goodlife_tryker	
 1618581536	jrez_nodp_tryker	
+1619198342	jboost_2x	
+1619198360	tag_fyros_1	
+1619199443	jrez_fulllife_tryker	
+1619199449	jrez_halflife_tryker	
+1619199455	jrez_goodlife_tryker	

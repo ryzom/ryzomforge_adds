@@ -1,5 +1,5 @@
 ﻿*HASH_VALUE	title_id	name	women_name
-1616092237	fct_allegory_maker	Graveur für Allegorien	Graveurin für Allegorien
+1616092237	fct_allegory_maker	Engraver of Allegories	Engraver of Allegories
 -	Advanced_Close_Fighter	Fortgeschrittener Nahkämpfer	Fortgeschrittene Nahkämpferin
 -	Advanced_Desert_Forager	Fortgeschrittener Wüstenernter	Fortgeschrittene Wüstenernterin
 -	Advanced_Forest_Forager	Fortgeschrittener Waldernter	Fortgeschrittene Waldernterin
@@ -1921,4 +1921,4 @@
 -	zorai_rpjob_rescuer_title	Master Rescuer	
 -	Zorai_Shield_Smith_Apprentice	Apprenti Forgeron/Boucliers Zoraïs	Apprenti Forgeron/Boucliers Zoraïs
 -	Zorai_Weapon_Smith_Apprentice	Apprenti Forgeron/Armes Zoraïs	Apprenti Forgeron/Armes Zoraïs
-1616152994	fct_animals_and_co	Vertreteter von "Tiere & Co"	Vertreterin von "Tiere & Co"
+1616152994	fct_animals_and_co	Representative of Animals & Co	Representative of Animals & Co

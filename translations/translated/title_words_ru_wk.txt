@@ -455,7 +455,7 @@
 -	Novice_Warrior	Начинающий боец	Начинающая воительница
 -	Novice_Harvester	Начинающий добытчик	Начинающая добытчица
 -	Novice_Magician	Начинающий маг	Начинающая волшебница
--	Artisan_Apprentice	Aprendiz de Artesano	Aprendiz de Artesano	
+-	Artisan_Apprentice	Подмастерье ремесленника	Подмастерье ремесленника
 -	Warrior_Apprentice	Ученик воина	Ученица воина
 -	Magician_Apprentice	Ученик мага	Ученица мага
 -	Fyros_Artisan_Apprentice	Подмастерье ремесленника файросов	Подмастерье ремесленника файросов
@@ -494,26 +494,26 @@
 -	Heavy_Armsman	Тяжелый фехтовальщик	Тяжелый фехтовальщик
 -	Gunman	Стрелок	Стрелок
 -	Heavy_Gunman	Тяжелый стрелок	Тяжелый стрелок
--	Advanced_Gunman	Pistolero Avanzado	Pistolera Avanzada	
--	Advanced_Heavy_Gunman	Artillero Pesado Avanzado	Artillera Pesado Avanzada	
--	Bludgeoner	Apaleador	Apaleadora
+-	Advanced_Gunman	Продвинутый стрелок	Продвинутый стрелок
+-	Advanced_Heavy_Gunman	Продвинутый тяжелый стрелок	Продвинутый тяжелый стрелок
+-	Bludgeoner	Боец с дубиной	Боец с дубиной
 -	Skewerer	Дырокол	Дырокол
 -	Slasher	Потрошитель	Потрошитель
 -	Smasher	Крушитель	Крушитель
 -	Impaler	Пронзатель	Пронзатель
--	Cleaver	Cuchillada de Carnicero	Cuchillada de Carnicero	
--	Bowman	Arquero	Arquera
+-	Cleaver	Рубака	Рубака
+-	Bowman	Лучник	Лучник
 -	Heavy_Bowman	Тяжелый лучник	Тяжелый лучник
 -	Pistoleer	Стрелок из пистолета	Стрелок из пистолета
 -	Heavy_Artilleryman	Тяжелый артиллерист	Тяжелый артиллерист
--	Crossbowman	Ballestero	Ballestera	
--	Artilleryman	Artillero 	Artillera Pesada	
+-	Crossbowman	Арбалетчик	Арбалетчик
+-	Artilleryman	Артиллерист	Артиллерист
 -	Rifleman	Стрелок из винтовки	Стрелок из винтовки
 -	Maceman	Сокрушитель	Сокрушитель
--	Brute	Brutal	Brutal	
+-	Brute	Громила	Громила
 -	Knifeman	Кинжальщик	Кинжальщик
 -	Spearman	Копейщик	Копейщик
--	Axeman	Segador	Segadora	
+-	Axeman	Жнец	Жнец
 -	Swordsman	Дуэлист	Дуэлист
 -	Heavy_Maceman	Крушитель	Крушитель
 -	Pikeman	Пикейщик	Пикейщик
@@ -538,8 +538,8 @@
 -	Master_Heavy_Swordsman	Владыка лезвия	Владычица лезвия
 -	Master_Hand_To_Hand_Fighter	Джаггернаут	Джаггернаут
 -	Hand_To_Hand_Fighter	Забияка	Забияка
--	Close_Fighter	Combate Cerrado	Combate Cerrado	
--	Advanced_Close_Fighter	Peleón 	Peleona	
+-	Close_Fighter	Боец в партере	Боец в партере
+-	Advanced_Close_Fighter	Драчун	Драчун
 -	Defensive_Magician	Маг защиты	Маг защиты
 -	Offensive_Magician	Боевой маг	Боевой маг
 -	Elementalist_Apprentice	Подмастерье стихий	Подмастерье стихий
@@ -552,21 +552,21 @@
 -	Shaman	Шаман	Шаман
 -	Priest	Жрец	Жрица
 -	Master_Of_Life	Владыка жизни	Владыка жизни
--	Celestial_Guardian	Guardián Celestial	Guardiana Celestial	
--	Black_Mage	Mago Negro	Maga Negra	
--	Affliction_Bringer	Portador de Aflicción	Portador de Aflicción 	
+-	Celestial_Guardian	Небесный страж	Небесный страж
+-	Black_Mage	Черный маг 	Черный маг 
+-	Affliction_Bringer	Приносящий беду	Приносящая беду
 -	Master_Of_Torment	Маг страданий	Маг страданий
--	Avatar_Of_Sorrow	Avatar de las Penas	Avatar de las Penas	
+-	Avatar_Of_Sorrow	Лик Печали	Лик Печали
 -	Destroyer	Уничтожитель	Уничтожитель
 -	Warlock	Чародей	Чародей
--	Archmage	Elementalista	Elementalista	
+-	Archmage	Архимаг	Архимаг
 -	Master_Of_Pain	Владыка боли	Владыка боли
--	Avatar_Of_Destruction	Avatar de la Destrucción 	Avatar de la Destrucción 	
+-	Avatar_Of_Destruction	Лик Разрушения	Лик Разрушения
 -	Elementalist	Маг стихий	Маг стихий
--	Alchemist	Alquimista	Alquimista	
--	Biomancer	Biomancer	Biomancer	
+-	Alchemist	Алхимик	Алхимик
+-	Biomancer	Биомаг	Биомаг
 -	Master_Of_Energies	Владыка энергии	Владыка энергии
--	Chosen_Of_Atys	Escogido de Atys	Escogida de Atys	
+-	Chosen_Of_Atys	Избранный Атиса	Избранная Атиса
 -	Title00079	Странник	Странница
 -	FBT	Старейшина Атиса	Старейшина Атиса
 -	SGM	Старший гейм-мастер	Старший гейм-мастер
@@ -574,7 +574,7 @@
 -	VG	Гид ветеран	Гид ветеран
 -	SG	Старший проводник	Старший проводник
 -	G	Проводник	Проводник
--	Armorer_Apprentice	Aprendiz de Armero	Aprendiz de Armero	
+-	Armorer_Apprentice	Подмастерье кузнеца	Подмастерье кузнеца
 -	Jeweler_Apprentice	Подмастерье ювелира	Подмастерье ювелира
 -	Melee_Weapon_Smith_Apprentice	Подмастерье оружейника	Подмастерье оружейника
 -	Range_Weapon_Smith_Apprentice	Подмастерье стрелкового оружейника	Подмастерье стрелкового оружейника
@@ -588,16 +588,16 @@
 -	Melee_Light_Weapon_Smith	Оружейник: легкое оружие	Оружейник: легкое оружие
 -	Range_Weapon_Smith	Оружейник: стрелковое оружие	Оружейник: стрелковое оружие
 -	Range_Heavy_Weapon_Smith	Оружейник: тяжелое стрелковое оружие	Оружейник: тяжелое стрелковое оружие
--	Advanced_Heavy_Armorer	Armero Pesado Avanzado	Armera Pesada Avanzada	
--	Advanced_Light_Armorer	Armero Liviano Avanzado	Armera Mediana Avanzada	
--	Advanced_Medium_Armorer	Armero Mediano Avanzado	Armera Mediana Avanzada	
--	Advanced_Shield_Smith	Herrero Avanzado de Escudos	Herrera Avanzada de Escudos
--	Advanced_Jeweler	Joyero Avanzado	Joyera Avanzada	
--	Advanced_Melee_Weapon_Smith	Herrero Avanzado de Armas  de Lucha Cuerpo a Cuerpo	Herrera Avanzada de Armas de Lucha Cuerpo a Cuerpo	
--	Advanced_Melee_Heavy_Weapon_Smith	Herrero de Armas Pesadas de Lucha Cuerpo a Cuerpo 	Herrera de Armas Pesadas de Lucha Cuerpo a Cuerpo	
--	Advanced_Melee_Light_Weapon_Smith	Herrero Avanzado de Armas Livianas de Lucha Cuerpo a Cuerpo	Herrera Avanzada de Armas Livianas de Lucha Cuerpo a Cuerpo	
--	Advanced_Range_Weapon_Smith	Herrero Avanzado de Armas de Alcance	Herrera Avanzado de Armas de Alcance	
--	Advanced_Range_Heavy_Weapon_Smith	Herrero Avanzado de Armas Pesadas de Alcance	Herrera Avanzada de Armas Pesadas de Alcance	
+-	Advanced_Heavy_Armorer	Продвинутый кузнец: тяжелый доспех	Продвинутый кузнец: тяжелый доспех
+-	Advanced_Light_Armorer	Продвинутый кузнец: легкий доспех	Продвинутый кузнец: легкий доспех
+-	Advanced_Medium_Armorer	Продвинутый кузнец: средний доспех	Продвинутый кузнец: средний доспех
+-	Advanced_Shield_Smith	Продвинутый кузнец: щиты	Продвинутый кузнец: щиты
+-	Advanced_Jeweler	Продвинутый ювелир	Продвинутый ювелир
+-	Advanced_Melee_Weapon_Smith	Продвинутый оружейник	Продвинутый оружейник
+-	Advanced_Melee_Heavy_Weapon_Smith	Продвинутый оружейник: тяжелое оружие	Продвинутый оружейник: тяжелое оружие
+-	Advanced_Melee_Light_Weapon_Smith	Продвинутый оружейник: легкое оружие	Продвинутый оружейник: легкое оружие
+-	Advanced_Range_Weapon_Smith	Продвинутый оружейник: стрелковое оружие	Продвинутый оружейник: стрелковое оружие
+-	Advanced_Range_Heavy_Weapon_Smith	Продвинутый оружейник: тяжелое стрелковое оружие	Продвинутый оружейник: тяжелое стрелковое оружие
 -	Expert_Heavy_Armorer	Опытный кузнец: тяжелый доспех	Опытный кузнец: тяжелый доспех
 -	Expert_Light_Armorer	Опытный кузнец: легкий доспех	Опытный кузнец: легкий доспех
 -	Expert_Medium_Armorer	Опытный кузнец: средний доспех	Опытный кузнец: средний доспех
@@ -625,11 +625,11 @@
 -	Jungle_Forager	Добытчик джунглей	Добытчик джунглей
 -	Lacustre_Forager	Добытчик озер	Добытчик озер
 -	Prime_Roots_Forager	Добытчик Изначальных Корней	Добытчик Изначальных Корней
--	Advanced_Desert_Forager	Buscador Avanzado del Desierto 	Buscadora Avanzada del Desierto 
--	Advanced_Forest_Forager	Buscador Avanzado del Bosque 	Buscadora Avanzada del Bosque 	
--	Advanced_Jungle_Forager	Buscador Avanzado de la Selva	Buscadora Avanzada de la Selva 
--	Advanced_Lacustre_Forager	Buscador Avanzado de la Tierra del Lago	Buscadora Avanzada de la Tierra del Lago
--	Advanced_Prime_Roots_Forager	Buscador Avanzado de las Primeras Raíces	Buscadora Avanzada de las Primeras Raíces	
+-	Advanced_Desert_Forager	Продвинутый добытчик пустыни	Продвинутый добытчик пустыни
+-	Advanced_Forest_Forager	Продвинутый добытчик лесов	Продвинутый добытчик лесов
+-	Advanced_Jungle_Forager	Продвинутый добытчик джунглей	Продвинутый добытчик джунглей
+-	Advanced_Lacustre_Forager	Продвинутый добытчик озер	Продвинутый добытчик озер
+-	Advanced_Prime_Roots_Forager	Продвинутый добытчик Изначальных Корней	Продвинутый добытчик Изначальных Корней
 -	Expert_Desert_Forager	Опытный добытчик пустыни	Опытный добытчик пустыни
 -	Expert_Forest_Forager	Опытный добытчик лесов	Опытный добытчик лесов
 -	Expert_Jungle_Forager	Опытный добытчик джунглей	Опытный добытчик джунглей
@@ -692,11 +692,11 @@
 -	gn_zorai_kami_sentinel	Страж Ками	
 -	Fighter	Воин	
 -	Magician	Маг	
--	Craftsman	Artesano		
+-	Craftsman	Ремесленник	
 -	MeleeFighter	Воин ближнего боя	
 -	RangeFighter	Воин дальнего боя	
--	AttackCaster	Lanzador de Ataque		
--	BufferCaster	Lanzador de Parachoque		
+-	AttackCaster	Боевой маг	
+-	BufferCaster	Маг поддержки	
 -	HealerCaster	Целитель	
 -	Harvester	Добытчик	
 -	Shopkeeper	Торговец	
@@ -704,14 +704,14 @@
 -	IreFighter	Берсерк	
 -	Swashbuckler	Головорез	
 -	KamicFist	Кулак Ками	
--	BladeBearer	Portador de la Cuchilla	Portadora de la Cuchilla
+-	BladeBearer	Меченосец	
 -	WindChild	Дитя ветра	
 -	Runner	Бегун	
 -	Scout	Лазутчик	
 -	FireLance	Пылающее копье	
 -	ScarletHunter	Алый охотник	
 -	GreenHunter	Зеленый охотник	
--	AtysGuardian	Guardia de Atys		
+-	AtysGuardian	Страж Атиса	
 -	ShadowHunter	Охотник теней	
 -	Witherer	Иссушитель	
 -	Fouler	Осквернитель	
@@ -732,8 +732,8 @@
 -	Hawker	Коробейник	
 -	range_warrior	Воин дальнего боя	
 -	harvester	Добытчик	
--	attack_magician	Lanzador de Ataque	Lanzadora de Ataque
--	buffer_magician	Lanzador de Parachoque		
+-	attack_magician	Боевой маг	
+-	buffer_magician	Маг поддержки	
 -	healer_magician	Целитель	
 -	faber	Ремесленник	
 -	FireMaster	Мастер Огня	
@@ -741,7 +741,7 @@
 -	gn_gibbay_guard	Элита стражи	
 -	gn_masters_of_the_goo_guard	Элита стражи	
 -	gn_tryker_tribe_slave	Раб трайкеров	
--	CM	Administrador de la Comunidad	Administradora de la Comunidad	
+-	CM	Community Manager	Community Manager
 -	EM	Event Manager	Event Manager
 -	EG	Event Guide	Event Guide
 -	OBSERVER	Observer	Observer
@@ -786,7 +786,7 @@
 -	gn_corsairs_kami_ambassador_t1	Посланник Ками у Корсаров	
 -	gn_duneriders_kami_ambassador_f1	Посланник Ками у Наездников Дюн	
 -	gn_ecowarriors_kami_ambassador_m1	Посланник Ками у Эковоинов	
--	gn_firstdeserters_kami_ambassador_m1	First Deserters Kami Ambassador	
+-	gn_firstdeserters_kami_ambassador_m1	Посланник Ками у Первых Дезертиров	
 -	gn_fraharhunters_kami_ambassador_f1	Посланник Ками у Охотников на Фрахаров	
 -	gn_hamazans_kami_ambassador_z1	Посланник Ками у Амазонок Мертвого Семени 	
 -	gn_kami_welcomer_f1	Глашатай Ками в Дюнах Изгнания	
@@ -1774,7 +1774,7 @@
 -	cwff03_termit	Термитник	
 -	cwff03_goari	Яйценосный гоари	
 -	stele_epee_bois	Стелла	
--	corsaire_dechu_coffer	Pecho de Corsario 		
+-	corsaire_dechu_coffer	Сундук корсаров	
 -	kef0904observer100	Часовой с Северного озера (1)	
 -	kef0904observer150	Часовой с Высоких башен (2)	
 -	kef0904observer200	Часовой с Драконьего хребта (3)	
@@ -1818,8 +1818,8 @@
 -	fct_fyros_prince	Файросский принц	Файросская принцесса
 -	fct_tryker_vice_governor	Вице-губернатор трайкеров	
 -	fct_zorai_sage	Мудрец Зораи	
--	fct_marauder_scout	Marauder Scout	
--	fct_marauder_chief	Marauder Chief	
+-	fct_marauder_scout	Лазутчик мародеров	
+-	fct_marauder_chief	Предводитель мародеров	
 -	fct_spy	Шпион	
 -	Title00050	Подмастерье мясника	Подмастерье мясника
 -	Title00051	Мясник	Мясник
@@ -1911,11 +1911,11 @@
 -	gn_karavan_altar_silan_shattered_ruins	Караван Алтарь в Разрушенных Руинах 	
 -	gn_kami_altar_silan_shining_lake	Ками Алтарь в Сияющем Озере	
 -	fct_to_new_horizons	Новые Горизонты	
--	fct_marauder_merchant	Marauder Merchant	
+-	fct_marauder_merchant	Торговец Мародёров	Торговщица Мародёров
 -	fct_ranger_guide	Рейнджер Гид	
 -	fct_ranger_quartermaster	Квартирмейстер Рейнджеров	Квартирмейстерша Рейнджеров
--	fct_marauder_ambassador	 Marauder Ambassador	
--	fct_marauder_windofmuse	(Winds of Muse)	
--	gn_driller_marauder_const	Aklareen Under Construction	
+-	fct_marauder_ambassador	 Посланник мародеров	
+-	fct_marauder_windofmuse	(Ветра Муз)
+-	gn_driller_marauder_const	Aklareen большого трепана	
 1616092237	fct_allegory_maker	
 1616152994	fct_animals_and_co	
