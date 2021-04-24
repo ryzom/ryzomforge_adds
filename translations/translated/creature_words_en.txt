@@ -5507,8 +5507,9 @@
 -	cpfpf7	Shookoo					
 -	object_trough_full_sel	full trough	a	the	full troughs		the	
 -	object_trough_empty_sel	empty trough	a	the	empty troughs		the	
--	object_easter_egg_small	
--	object_easter_egg	
--	object_easter_egg_medium	
--	object_easter_egg_big	
--	object_easter_egg_hug	
+-	object_easter_egg_small	small egg	a	the	small eggs		the
+-	object_easter_egg	egg	a	the	eggs		the
+-	object_easter_egg_medium	medium egg	a	the	medium eggs		the
+-	object_easter_egg_big	big egg	a	the	big eggs		the
+-	object_easter_egg_hug	huge egg	a	the	huge eggs		the
+1617784668	egg	

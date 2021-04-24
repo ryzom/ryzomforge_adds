@@ -43,14 +43,14 @@
 -	cartographier_kitiniere_parchemin_vierge	Tarjeta en blanco a ser completada en misiones de reconocimiento Kitin	una	la	Tarjetas en blanco a ser completada en misiones de reconocimiento Kitin		las
 -	casinoshield_pre_order	Escudo de Prestigio	un	el
 -	casino_ticket	Billete Ganador	una	el
--	casino_title1	Cupon para un Titulo (Afortunado)	un	el
--	casino_title2	Cupon para un Titulo (Desafortunado)	un	el
+-	casino_title1	Cupón para un Titulo (Afortunado)	un	el	Cupones para un Título (Afortunado)	unos	los
+-	casino_title2	Cupón para un Titulo (Desafortunado)	un	el	Cupones para un Título (Desafortunado)	unos	los
 -	casino_token	Ficha	una	la	Fichas		las
 -	casket	Cofre	un	el	Cofres		los
 -	cattlestick	Vara para el Ganado	una	la	Varas para el Ganado		las
 -	cattlestick_2	Vara para el Ganado	una	la	Varas para el Ganado		las
 -	cattlestick_3	Vara para el Ganado	una	la	Varas para el Ganado		las
--	chopper	Picador	un	el	Picadores		los
+-	chopper	Cuchillo de Carnicero	un	el	Cuchillos de Carnicero	unos	los
 -	chopper_2	Picador	un	el	Picadores		los
 -	chopper_3	Picador	un	el	Picadores		los
 -	citizenship_bothaya_fire	Fuego de Bothaya	un	el	Fuego de Bothaya		el
@@ -154,7 +154,7 @@
 -	event_taliari_pearl_black	Perla Taliari Negra	una	la	Perlas Taliari Negras	unas	las
 -	event_taliari_pearl_blue	Perla Taliari Azul	una	la	Perlas Taliari Azules	unas	las
 -	event_taliari_pearl_violet	Perla Taliari Violeta	una	la	Perlas Taliari Violetas	unas	las
--	extrait_substance_question_de_force	Extracto de Substancia Kitin de la Fuerza	un	el	Extractos de Substancia Kitin de la Fuerza	unos	los
+-	extrait_substance_question_de_force	Extracto de Substancia de Fuerza Kitin	un	el	Extractos de Substancia de Fuerza Kitin	unos	los
 -	extrait_substance_royale	Extracto de Sustancia Real Kitin	un	el	Extractos de Sustancia Real Kitin	unos	los
 -	fbt_conso	Sorpresa	una	la	Sorpresas	unas	las
 -	fc60_fiole	Frasco de Fragancia	un	el	Frascos de Fragancia	unos	los
@@ -180,10 +180,10 @@
 -	fh60_chair	Carne de Kipee Moderado	algo de	la	Carnes de Kipeee Moderado		las
 -	fh60_parchemin	Pergamino Misterioso	un	el	Pergaminos Misteriosos		los
 -	fh60_pendentif	Pendiente Precioso	un	el	Pendientes Preciosos		los
--	fh70_pince	Garra de Clopper Temeroso	una	la	Garras de Clopper Temoroso		las
+-	fh70_pince	Garra de Clopper Asustador	una	la	Garras de Clopper Asustador	unas	las
 -	fh80_echantillon	Muestra para Analizar	una	la	Muestras para Analizar	unas	las
 -	fh80_lettre	Carta	una	la	Cartas		las
--	fh80_tendons	Tendones de Capryini Enérgico	algo de	los	Tendones de Capryni Enérgico		los
+-	fh80_tendons	Tendones de Capryni Enérgico	algo de	los	Tendones de Capryni Enérgico	unos	los
 -	fh90_cendre	Ceniza Pura	algo de	la	Cenizas Puras		las
 -	fh100_sac	Bolsa de Materiales	una	la	Bolsas de Materiales		las
 -	fm50_pinces	Garra de Goari Aullador	algo de	la	Garras de Goari Aullador		las
@@ -191,14 +191,14 @@
 -	fm70_bracelet	Brazalete Floral	un	el	Brazaletes Florales		los
 -	fm70_cristal	Cristal Especial	un	el	Cristales Especiales		los
 -	fm70_feuilles	Flores de Shooki Floreciente	algo de	las	Flores de Shooki Floreciente		las
--	fm80_ailettes	Aletas de Raspal Hosco	algo de	las	Aletas de Raspal hosco		las
--	fm90_ailes	Alas de Kizoar Perverso	algo de	las	Alas de Kizoar Perverso		las
+-	fm80_ailettes	Aletas de Raspal Brusco	algo de	las	Aletas de Raspal Brusco	unas	las
+-	fm90_ailes	Alas de Kizoar Vicioso	algo de	las	Alas de Kizoar Vicioso	unas	las
 -	fm90_cristal	Cristal de la Verdad	un	el	Cristales de la Verdad		los
 -	fm100_cristal	Cristal de Revelación	un	el	Cristales de Revelación		los
 -	fragment_carapace_kitin_encore_plus_solide	Fragmento de Concha Kitin	un	el	Fragmento de Concha Kitin		los
 -	fv_arrowhead	Punta de Flecha Extraña	una	la	Puntas de Flecha Extrañas		las
 -	fv_seal1	Sello del minero	uno	el	Sellos del Minero	unos	los
--	fyler_dagger_crate	Daga Voladora de las Cabezas de Goo	una	la	Dagas Voladoras de las Cabezas de Goo	unas	las
+-	fyler_dagger_crate		Daga Voladora de Cabezas de Goo	una	la	Dagas Voladoras de Cabezas de Goo	unas	las
 -	fy_banner_gm	Banderín de Maestro de Juego Fyros	un	el	Banderines de Maestros de Juego Fyros	unos	los
 -	fy_banner_gu	Banderín de Guía Fyros	un	el	Banderines de Guía Fyros		los
 -	fy_banner_sgm	Banderín de Maestro de Juego Mayor Fyros	un	el	Banderines de Maestro de Juego Mayor Fyros		los
@@ -264,8 +264,8 @@
 -	fy_hof_tatoo33	Estrellado	unos	los			los
 -	fy_hof_tatoo34	Ojos en Llamas	unos	los			los
 -	fy_hof_tatoo35	Veta de Tithon	una	la			las
--	fy_hof_tatoo36	Vetass Continuas	unas	las			las
--	fy_hof_tatoo37	Vetass Elegantes	unas	las			las
+-	fy_hof_tatoo36	Vetas Continuas	unas	las			las
+-	fy_hof_tatoo37	Vetas Elegantes	unas	las			las
 -	fy_hof_tatoo38	Flancos Estilados	unos	los			los
 -	fy_hof_tatoo39	Veta de Lifton	unas	las			las
 -	fy_hof_tatoo40	Lifton Azul	un	el			los
@@ -275,7 +275,7 @@
 -	fy_hof_tatoo44	Triángulos de Guerra	unos	los			los
 -	fy_hof_tatoo45	Rayas de Flepos	unas	las			las
 -	fy_hof_tatoo46	Rayas de Hyte	una	la			las
--	fy_hof_tatoo47	Sombre de la Frente	una	la			las
+-	fy_hof_tatoo47	Sombra de la Frente	una	la			las
 -	fy_hof_tatoo48	Alta Serenidad	una	la			las
 -	fy_hof_tatoo49	Alas de Dragón	unas	las			las
 -	fy_hof_tatoo50	Línea de los Ojos Ondulante	unas	las			las
@@ -285,8 +285,8 @@
 -	fy_hof_tatoo54	Puente de Munshia	un	el			los
 -	fy_hof_tatoo55	Ojos de Trueno	unos	los			los
 -	fy_hof_tatoo56	Lanzamiento de Arena	un	el			los
--	fy_hof_tatoo57	Consiente Atento	un	el			los
--	fy_hof_tatoo58	Manchas Consientes	unas	las			las
+-	fy_hof_tatoo57	Atento	un	el			los
+-	fy_hof_tatoo58	Mancha Atenta	una	la	Manchas Atentas	unas	las
 -	fy_hof_tatoo59	Elegancia Simple	una	la			las
 -	fy_hof_tatoo60	Elegancia Ceremonial	una	la			las
 -	fy_hof_tatoo61	Elegancia	una	la			las
@@ -303,7 +303,7 @@
 -	fy_hom_hair_artistic03	Peinado Encrespado Artístico	un	el			los
 -	fy_hom_hair_artistic04	Peinado de Corona y Cola Artístico	un	el			los
 -	fy_hom_hair_artistic05	Peinado Artístico - Orgullo
--	fy_hom_hair_basic01	Peinado Afeitado Básico	un	el			los
+-	fy_hom_hair_basic01	Peinado Rapado Básico	un	el			los
 -	fy_hom_hair_basic02	Peinado Básico de Cola Rechoncha	un	el			los
 -	fy_hom_hair_basic03	Peinado Básico de Parte Trasera Rígida	un	el			los
 -	fy_hom_hair_basic04	Peinado Básico Desgreñado	un	el			los
@@ -7776,5 +7776,6 @@
 -	nexus_neck_2	Collar Iridiscente del Bosque	uno	el	Collares Iridiscentes del Bosque	unos	los
 -	nexus_neck_3	Collar Iridiscente de Los Lagos	uno	el	Collares Iridiscentes de los Lagos	unos	los
 -	nexus_neck_4	Collar Iridiscente de la Selva	uno	el	Collares Iridiscentes de la Selva	unos	los
--	wheel_token_easter	Ficha Oxidada	una	la	Fichas Oxidadas	unas	las
--	slot_fingerl	equipar el anillo en el dedo izquierdo	uno	el	equipar los anillos en el dedo izquierdo	unos	los
+-	wheel_token_easter	Evento días de Refugiado	una	la	Evento días de Refugiado	unas	las
+-	slot_fingerl		equipar el anillo en tu dedo izquierdo	uno	el	equipar los anillos en tu dedo izquierdo	unos	los
+1618579662	slot_neck	

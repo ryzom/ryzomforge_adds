@@ -5507,8 +5507,9 @@
 -	cpfpf7	Shookoo	Shookoo	Shookoo	Shookoo	einen	ein	eines	der	des	den	dem	Shookoo 	Shookoo 	Shookoo 	die
 -	object_trough_full_sel	voller Trog	volle Trog	vollen Trog	volle Tröge	vollen Tröge		die	ein	der	
 -	object_trough_empty_sel		leerer Trog	leere Trog	leeren Trog	leere Tröge	eine		die	ein	der						
--	object_easter_egg_small	kleine Ei	kleines Ei	kleinen Ei	kleine Ei	das	ein	das	das	des	den	dem	kleine Eier	kleinen Eier	kleinen Ei	die
+-	object_easter_egg_small	kleines Ei	kleine Ei	kleinen Ei	kleine Ei	das	ein	das	das	des	den	dem	kleine Eier	kleinen Eier	kleinen Ei	die
 -	object_easter_egg	Ei	Ei	Ei	Ei	das	ein	das	das	des	den	dem	Eier	Eiern	Ei	die
--	object_easter_egg_medium	mittelgroße Ei	mittelgroßes Ei	mittelgroßen Ei	mittelgroßes Ei	das	ein	das	das	des	den	dem	mittelgroße Eier	mittelgroßen Eier	mittelgroßem Ei	die
--	object_easter_egg_big	große Ei	großes Ei	große Ei	große Ei	das	ein	das	das	des	den	dem	große Eier	großen Eiern	großen Eis	die
--	object_easter_egg_hug	riesige Ei	riesiges Ei	riesigen Ei	riesige Ei	das	ein	das	das	des	den	dem	riesige Eier	riesigen Eiern	riesigen Ei	die
+-	object_easter_egg_medium	mittelgroßes Ei	mittelgroße Ei	mittelgroßen Ei	mittelgroßes Ei	das	ein	das	das	des	den	dem	mittelgroße Eier	mittelgroßen Eier	mittelgroßem Ei	die
+-	object_easter_egg_big	großes Ei	große Ei	große Ei	große Ei	das	ein	das	das	des	den	dem	große Eier	großen Eiern	großen Eis	die
+-	object_easter_egg_hug	riesiges Ei	riesige Ei	riesigen Ei	riesige Ei	das	ein	das	das	des	den	dem	riesige Eier	riesigen Eiern	riesigen Ei	die
+1617784668	egg	

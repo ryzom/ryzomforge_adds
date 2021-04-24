@@ -144,22 +144,22 @@
 -	cabpf1	Prakker Espantoso	un	el	Prakkers Espantosos		los
 -	cabpf2	Prakker Atroz	un	el	Prakkers Atroces		los
 -	cabpf3	Prakker Siniestro	un	el	Prakkers Atroces		los
--	cbada1	Igara Novata/Pichona	una	la	Igaras Novatas/Pichonas		las
+-	cbada1	Igara Pichona	una	la	Igaras Pichonas	unas	las
 -	cbada2	Igara Menor	un	la	Igaras Menores		las
 -	cbada3	Igara Mansa	una	la	Igaras Mansas		las
 -	cbada4	Igara Inmensa	una	la	Igaras Inmensas		las
--	cbadb1	Igara Infartada	una	la	Igaras Infartadas		las
+-	cbadb1	Igara Hartada	una	la	Igaras Hartadas	unas	las
 -	cbadb2	Igara Vulgar	una	la	Igaras Vulgares		las
 -	cbadb3	Igara Hinchada	una	la	Igaras Hinchadas		las
 -	cbadb4	Igara Principal	un	la	Igaras Principales		las
 -	cbadc1	Igara Vigilante	una	la	Igaras Vigilantes		las
 -	cbadc2	Igara Hambrienta	una	la	Igaras Hambrientas		las
--	cbadc3	Igara Carronera	una	la	Igaras Carroneras		las
--	cbadc4	Igara de Mirada Maliciosa	una	la	Igara de Mirada Maliciosa		las
+-	cbadc3	Igara Hurgadora	una	la	Igaras Hurgadoras	unas	las
+-	cbadc4	Igara Lasciva	una	la	Igaras Lascivas	unas	las
 -	cbadd1	Igara Viciosa	una	la	Igaras Viciosas		las
 -	cbadd2	Igara Maligna	una	la	Igaras Malignas		las
 -	cbadd3	Igara Burlona	una	la	Igaras Burlonas		las
--	cbadd4	Igara de Carroña	una	la	Igaras de Carroña		las
+-	cbadd4	Igara Carroñera	una	la	Igaras Carroñeras	unas	las
 -	cbade1	Igara Rastreadora	una	la	Igaras Rastreadoras		las
 -	cbade2	Igara Volátil	una	la	Igaras Volátiles		las
 -	cbade3	Igara Aterradora	una	la	Igaras Aterradoras		las
@@ -187,56 +187,56 @@
 -	cbagf1	Igara Demente	una	la	Igaras Dementes		las
 -	cbagf2	Igara Delirante	una	la	Igaras Delirantes		las
 -	cbagf3	Igara Diabólica	una	la	Igaras Diabólicas		las
--	cbaja1	Igara Novata/Pichona	una	la	Igaras Novatas/Pichonas		las
+-	cbaja1	Igara Pichona	una	la	Igaras Pichonas	unas	las
 -	cbaja2	Igara Menor	una	la	Igaras Menores		las
 -	cbaja3	Igara Mansa	una	la	Igaras Mansas		las
 -	cbaja4	Igara Inmensa	una	la	Igaras Inmensas		las
--	cbajb1	Igara Infartada	una	la	Igaras Infartadas		las
+-	cbajb1	Igara Hartada	una	la	Igaras Hartadas	unas	las
 -	cbajb2	Igara Vulgar	una	la	Igaras Vulgares		las
 -	cbajb3	Igara Hinchada	una	la	Igaras Hinchadas		las
 -	cbajb4	Igara Principal	una	la	Igaras Principales		las
 -	cbajc1	Igara Vigilante	una	la	Igaras Vigilantes		las
 -	cbajc2	Igara Hambrienta	una	la	Igaras Hambrientas		las
--	cbajc3	Igara Carroñera	una	la	Igaras Carroñeras		las
--	cbajc4	Igara de Mirada Maliciosa	una	la	Igaras de Miradas Maliciosas		las
+-	cbajc3	Igara Hurgadora	una	la	Igaras Hurgadoras	unas	las
+-	cbajc4	Igara Lasciva	una	la	Igaras Lascivas	unas	las
 -	cbajd1	Igara Viciosa	una	la	Igaras Viciosas		las
 -	cbajd2	Igara Maligna	una	la	Igaras Malignas		las
 -	cbajd3	Igara Burlona	una	la	Igaras Burlonas		las
--	cbajd4	Igara de Carroña	una	la	Igaras de Carroña		las
+-	cbajd4	Igara Carroñera	una	la	Igaras Carroñeras	unas	las
 -	cbaje1	Igara Rastreadora	una	la	Igaras Rastreadoras		las
 -	cbaje2	Igara Volátil	una	la	Volatile Igaras		las
 -	cbaje3	Igara Aterradora	una	la	Igaras Aterradoras		las
 -	cbaje4	Igara Rapaz	una	la	Igaras Rapaces		las
 -	cbajf5	Kim-Kol					
--	cbbda1	Izam Novato/Pichón	un	el	Izams Novatos/Pichones		los
+-	cbbda1	Izam Pichón	un	el	Izams Pichones	unos	los
 -	cbbda2	Izam Menor	un	el	Izams Menores		los
 -	cbbda3	Izam Manso	un	el	Izams Mansos		los
 -	cbbda4	Izam Inmenso	un	el	Izams Inmensos		los
--	cbbdb1	Izam Infartado	un	el	Izams Infartados		los
+-	cbbdb1	Izam Hartado	un	el	Izams Hartados	unos	los
 -	cbbdb2	Izam Vulgar	un	el	Izams Vulgares		los
 -	cbbdb3	Izam Hinchado	un	el	Izams Hinchados		los
 -	cbbdb4	Izam Principal	un	el	Izams Principales		los
 -	cbbdc1	Izam Vigilante	un	el	Izams Vigilantes		los
 -	cbbdc2	Izam Hambriento	un	el	Izams Hambrientos		los
--	cbbdc3	Izam Carroñero	un	el 	Izams Carroñeros		los 
--	cbbdc4	Izam de Mirada Maliciosa	un	el	Izams de Miradas Maliciosas		los
+-	cbbdc3	Izam Hurgador	un	el	Izams Hurgadores	unos	los
+-	cbbdc4	Izam Lascivo	un	el	Izams Lascivos	unos	los
 -	cbbde1	Izam Rastreador	un	el	Izams Rastreadores		los
 -	cbbde2	Izam Volátil	un	el	Izams Volátiles		los
 -	cbbde3	Izam Aterrador	un	el	Izams Aterradores		los
 -	cbbde4	Izam Rapaz	un	el	Izams Rapaces		los
 -	cbbde5	Dylion					
--	cbbja1	Izam Novato/Pichón	un	el	Izams Novatos/Pichones		los
+-	cbbja1	IzamPichón	un	el	Izams Pichones	unos	los
 -	cbbja2	Izam Menor	un	el	Izams Menores		los
 -	cbbja3	Izam Manso	un	el	Izams Mansos		los
 -	cbbja4	Izam Inmenso	un	el	Izams Inmensos		los
--	cbbjb1	Izam Infartado	un	el	Izams Infartados		los
+-	cbbjb1	Izam Hartado	un	el	Izams Hartados	unos	los
 -	cbbjb2	Izam Vulgar	un	el	Izams Vulgares		los
 -	cbbjb3	Izam Hinchado	un	el	Izams Hinchados		los
 -	cbbjb4	Izam Principal	un	el	Izams Principales		los
 -	cbbjc1	Izam Vigilante	un	el	Izams Vigilantes		los
 -	cbbjc2	Izam Hambriento	un	el	Izams Hambrientos		los
--	cbbjc3	Izam Carroñero	un	el	Izams Carroñeros		los
--	cbbjc4	Izam de Mirada Maliciosa	un	el	Izams de Miradas Maliciosas		los
+-	cbbjc3	Izam Hurgador	un	el	Izams Hurgadores	unos	los
+-	cbbjc4	Izam Lascivo	un	el	Izams Lascivos	unos	los
 -	cbbje1	Izam Rastreador	un	el	Izams Rastreadores		los
 -	cbbje2	Izam Volátil	un	el	Izams Volátiles		los
 -	cbbje3	Izam Aterrador	un	el	Izam Aterradores		los
@@ -244,38 +244,38 @@
 -	cbbjf1	Izam Amenazador	un	el 	Izams Amenazador		los
 -	cbbjf2	Izam Enfurecido	un	el	Izams Enfurecidos		los
 -	cbbjf3	Izam Tremendo	un	el	Izams Tremendos		los
--	cbbla1	Izam Novato/Pichón	un	el	Izams Novatos/Pichones		los
+-	cbbla1	Izam Pichón	un	el	Izams Pichones	unos	los
 -	cbbla2	Izam Menor	un	el	Izams Menores		los
 -	cbbla3	Izam Manso	un	el	Izams Mansos		los
 -	cbbla4	Izam Inmenso	un	el	Izam Inmensos		los
--	cbblb1	Izam Infartado	un	el	Izams Infartados		los
+-	cbblb1	Izam Hartado	un	el	Izams Hartados	unos	los
 -	cbblb2	Izam Vulgar	un	el	Izams Vulgares		los
 -	cbblb3	Izam Hinchado	un	el 	Izam Hinchados		los
 -	cbblb4	Izam Principal	un	el	Izams Principales		los
 -	cbblc1	Izam Vigilante	un	el	Izams Vigilantes		los
 -	cbblc2	Izam Hambriento	un	el	Izams Hambrientos		los
--	cbblc3	Izam Carroñero	un	el	Izams Carroñeros		los
--	cbblc4	Izam de Mirada Maliciosa	un	el	Izams de Miradas Maliciosas		los
+-	cbblc3	Izam Hurgador	un	el	Izams Hurgadores	unos	los
+-	cbblc4	Izam Lascivo	un	el	Izams Lascivos	unos	los
 -	cbbld1	Izam Vicioso	un	el	Izams Viciosos		los
 -	cbbld2	Izam Maligno	un	el	Izams Malignos		los
 -	cbbld3	Izam Burlon	un	el	Izams Burlones		los
--	cbbld4	Izam de Carroña	un	el	Izams de Carroña		los
--	cbbpa1	Izam Novato/Pichón	un	el	Izams Novatos/Pichones		los
+-	cbbld4	Izam Carroñero	un	el	Izams Carroñeros	unos	los
+-	cbbpa1	Izam Pichón	un	el	Izams Pichones	unos	los
 -	cbbpa2	Izam Menor	un	el	Izams Menores		los
 -	cbbpa3	Izam Apacible	un	el	Izams Apacibles		los
 -	cbbpa4	Izam Inmenso	un	el	Izams Inmensos		los
--	cbbpb1	Izam Infartado	un	el	Izams Infartados		los
+-	cbbpb1	Izam Hartado	un	el	Izams Hartados	unos	los
 -	cbbpb2	Izam Vulgar	un	el	Izams Vulgares		los
 -	cbbpb3	Izam Hinchado	un	el	Izams Hinchados		los
 -	cbbpb4	Izam Principal	un	el	Izams Principales		los
 -	cbbpc1	Izam Vigilante	un	el	Izams Vigilantes		los
 -	cbbpc2	Izam Hambriento	un	el	Izams Vigilantes		los
--	cbbpc3	Izam Carroñero	un	el	Izams Carroñeros		los
--	cbbpc4	Izam de Mirada Maliciosa	un	el	Izams de Miradas Maliciosas		los
+-	cbbpc3	Izam Hurgador	un	el	Izams Hurgadores	unos	los
+-	cbbpc4	Izam Lascivo	un	el	Izams Lascivos	unos	los
 -	cbbpd1	Izam Vicioso	un	el	Izams Viciosos		los
 -	cbbpd2	Izam Maligno	un	el	Izams Malignos		los
 -	cbbpd3	Izam Burlón	un	el	Izams Burlones		los
--	cbbpd4	Izam de Carroña	un	el	Izams de Carroña		los
+-	cbbpd4	Izam Carroñero	un	el	Izams Carroñero	unos	los
 -	cbcga1	Yber Impuro	un	el	Ybers Impuros		los
 -	cbcga2	Yber Arruinado	un	el	Ybers Arruinados		los
 -	cbcga3	Yber Contaminado	un	el	Ybers Contaminados		los
@@ -299,18 +299,18 @@
 -	cbcgf1	Yber Demente	un	el	Ybers Dementes		los
 -	cbcgf2	Yber Frenético	un	el	Ybers Frenéticos		los
 -	cbcgf3	Yber Diabólico	un	el	Ybers Diabólicos		los
--	cbcja1	Yber Novato/Pichón	un	el	Yves Novatos/Pichón		los
+-	cbcja1	Yber Pichón	un	el	Yves Pichón	unos	los
 -	cbcja2	Yber Menor	un	el	Ybers Menores		los
 -	cbcja3	Yber Manso	un	el	Ybers Mansos		los
 -	cbcja4	Yber Inmenso	un	el	Ybers Inmensos		los
--	cbcjb1	Yber Infartado	un	el	Ybers Infartados		los
+-	cbcjb1	Yber Hartado	un	el	Ybers Hartados	unos	los
 -	cbcjb2	Yber Vulgar	un	el	Ybers Vulgares		los
 -	cbcjb3	Yber Hinchado	un	el	Ybers Hinchados		los
 -	cbcjb4	Yber Principal	un	el	Ybers Principales		los
 -	cbcjc1	Yber Vigilante	un	el	Ybers Vigilantes		los
 -	cbcjc2	Yber Hambriento	un	el	Ybers Hambrientos		los
--	cbcjc3	Yber Carroñero	un	el	Ybers Carroñeros		los
--	cbcjc4	Yber de Mirada Maliciosa	un	el	Ybers de Miradas Maliciosas		los
+-	cbcjc3	Yber Hurgador	un	el	Ybers Hurgadores	unos	los
+-	cbcjc4	Yber Lascivo	un	el	Ybers Lascivos	unos	los
 -	cbcjd1	Yber Vicioso	un	el	Ybers Viciosos		los
 -	cbcjd2	Yber Maligno	un	el 	Ybers Malignos		los
 -	cbcjd3	Yber Burlón	un	el	Ybers Burlones		los
@@ -319,42 +319,42 @@
 -	cbcje2	Yber Volátil	un	el	Ybers Volátiles		los
 -	cbcje3	Yber Espantoso	un	el	Ybes Espantosos		los
 -	cbcje4	Yber Rapaz	un	el	Ybers Rapaces		los
--	cbcla1	Yber Novato/Pichón	un	el	Ybers Novatos/Pichón		los
+-	cbcla1	Yber Pichón	un	el	Ybers Pichones	unos	los
 -	cbcla2	Yber Menor	un	el	Ybers Menores		los
 -	cbcla3	Yber Apacible	un	el	Ybers Apacibles		los
 -	cbcla4	Yber Inmenso	un	el	Ybers Inmensos		los
--	cbclb1	Yber Infartados	un	el	Ybers Infartados		los
+-	cbclb1	Yber Hartado	un	el	Ybers Hartados	unos	los
 -	cbclb2	Yber Vulgar	un	el	Ybers Vulgares		los
 -	cbclb3	Yber Hinchados	un	el	Ybers Hinchados		los
 -	cbclb4	Yber Principal	un	el	Ybers Principales		los
 -	cbclc1	Yber Vigilante	un	el	Ybers Vigilantes		los
 -	cbclc2	Yber Hambriento	un	el	Ybers Hambrientos		los
--	cbclc3	Yber Carroñero	un	el	Ybers Carroñeros		los
--	cbclc4	Yber de Mirada Maliciosa	un	el	Ybers de Miradas Maliciosas		los
--	ccada1	Gingos de Pito	un	el	Gingos de Pito		los
--	ccada2	Gingo Insignificante	un	el	Gingos Insignificantes		los
+-	cbclc3	Yber Hurgador	un	el	Ybers Hurgadores	unos	los
+-	cbclc4	Yber Lascivo	un	el	Ybers Lascivos	unos	los
+-	ccada1	Gingo Diminuto	un	el	Gingos Diminutos	unos	los
+-	ccada2	Gingo Enclenque	un	el	Gingos Enclenques	unos	los
 -	ccada3	Gingo Joven	un	el	Gingos Jovenes		los
--	ccada4	Gingo Apacible	un	el	Gingos Apacibles		los
+-	ccada4	Gingo Moderado	un	el	Gingos Moderados	unos	los
 -	ccadb1	Gingo Vigoroso	un	el	Gingos Vigorosos		los
--	ccadb2	Gingo Gruñendo	un	el	Gingos Gruñendo		los
+-	ccadb2	Gingo Gruñón	un	el	Gingos Gruñones	unos	los
 -	ccadb3	Gingo Ceñudo	un	el	Gingos Ceñudos		los
 -	ccadb4	Gingo Aullando	un	el	Gingos Aullando		los
 -	ccade1	Gingo Cazando presas	un	el	Gingos Cazando Presas		los
 -	ccade2	Gingo Furioso	un	el	Gingos Furiosos		los
 -	ccade3	Gingo Temible	un	el	Gingos Temibles		los
 -	ccade4	Gingo Enorme	un	el	Gingos Enormes		los
--	ccafa1	Gingo de Pito	un	el	Gingos de Pito		los
--	ccafa2	Gingo Insignificante	un	el	Gingos Insignificantes		los
+-	ccafa1	Gingo Diminuto	un	el	Gingos Diminutos	unos	los
+-	ccafa2	Gingo Enclenque	un	el	Gingos Enclenques	unos	los
 -	ccafa3	Gingo Joven	un	el	Gingos Jóvenes		los
--	ccafa4	Gingo Apacible	un	el	Gingos Apacibles		los
+-	ccafa4	Gingo Moderado	un	el	Gingos Moderados	unos	los
 -	ccafb1	Gingo Vigoroso	un	el 	Gingos Vigorosos		los
--	ccafb2	Gingos Gruñendo	un	el 	Gingos Gruñendo		los
--	ccafb3	Gingo de Ceno Fruncido	un	el 	Gingos de Ceno Fruncido		los
+-	ccafb2	Gingo Gruñón	un	el	Gingos Gruñones	unos	los
+-	ccafb3	Gingo Ceñudo	un	el	Gingos Ceñudos	unos	los
 -	ccafb4	Gingo Aullando	un	el 	Gingos Aullando		los
--	ccafc1	Gingo Asustadizo	un	el 	Gingos Asustadizos		los
+-	ccafc1	Gingo Asustador	un	el	Gingos Asustadores	unos	los
 -	ccafc2	Gingo Malicioso	un	el 	Gingos Maliciosos		los
 -	ccafc3	Gingo Peligroso	un	el 	Gingos Peligrosos		los
--	ccafc4	Gingo Amenazador	un	el 	Gingos Amenazadores		los
+-	ccafc4	Gingo Amenazante	un	el	Gingos Amenazantes	unos	los
 -	ccafd5	Torrius					
 -	ccafe1	Gingo Cazando presas	un	el 	Gingos Cazando Presas		los
 -	ccafe2	Gingo Rabioso	un	el 	Gingos Rabiosos		los
@@ -383,10 +383,10 @@
 -	ccagf1	Gingo Demente	un	el	Gingos Dementes		los
 -	ccagf2	Gingo Enfurecido	un	el	Gingos Enfurecidos		los
 -	ccagf3	Gingo Diabólico	un	el	Gingos Diabólicos		los
--	ccaja1	Gingo de Pito	un	el	Gingos de Pito		los
--	ccaja2	Gingo Insignificante	un	el	Gingos Insignificantes		los
+-	ccaja1	Gingo Diminuto	un	el	Gingos Diminutos	unos	los
+-	ccaja2	Gingo Enclenque	un	el	Gingos Enclenques	unos	los
 -	ccaja3	Gingo Joven	un	el	Gingos Insignificantes		los
--	ccaja4	Gingo Apacible	un	el	Gingos Apacibles		los
+-	ccaja4	Gingo Moderado	un	el	Gingos Moderados	unos	los
 -	ccajd1	Gingo Rugiente	un	el	Gingos Rugientes		los
 -	ccajd2	Gingo Merodeador	un	el	Gingos Merodeadores		los
 -	ccajd3	Gingo de Caza	un	el	Gingos de Caza		los
@@ -395,15 +395,15 @@
 -	ccaje2	Gingo Furioso	un	el	Gignos Furiosos		los
 -	ccaje3	Gingo Temible	un	el	Gingos Temibles		los
 -	ccaje4	Gingo Gigante	un	el	Gingos Gigantes		los
--	ccbda1	Clopper de Pito	un	el	Cloppers de Pito		los
--	ccbda2	Clopper Insignificante	un	el	Cloppers Insignificantes		los
+-	ccbda1	Clopper Diminuto	un	el	Cloppers Diminutos	unos	los
+-	ccbda2	Clopper Enclenque	un	el	Cloppers Enclenques	unos	los
 -	ccbda3	Clopper Joven	un	el	Cloppers Jóvenes		los
--	ccbda4	Clopper Apacible	un	el	Cloppers Apacibles		los
+-	ccbda4	Clopper Moderado	un	el	Cloppers Moderados	unos	los
 -	ccbdb1	Cloppers Vigoroso	un	el	Cloppers Vigorosos		los
--	ccbdb2	Clopper Aullando	un	el	Cloppers Aullantes		los
+-	ccbdb2	Clopper Gruñón	un	el	Cloppers Gruñones	unos	los
 -	ccbdb3	Clopper Ceñudo	un	el	Cloppers Ceñudos		los
 -	ccbdb4	Clopper Aullando	un	el	Cloppers Aullando		los
--	ccbdc1	Clopper Asustadizo	un	el	Cloppers Asustadizos		los
+-	ccbdc1	Clopper Asustador	un	el	Cloppers Asustadores	unos	los
 -	ccbdc2	Clopper Malicioso	un	el	Cloppers Maliciosos		los
 -	ccbdc3	Clopper Peligroso	un	el	Cloppers Peligrosos		los
 -	ccbdc4	Clopper Amenazante	un	el	Cloppers Amenazantes		los
@@ -431,37 +431,37 @@
 -	ccbgf1	Clopper Demente	un	el	Cloppes Dementes		los
 -	ccbgf2	Clopper Delirante	un	el	Cloppers Delirantes		los
 -	ccbgf3	Clopper Diabólico	un	el	Cloppers Diabólicos		los
--	ccbla1	Clopper de Pito	un	el	Cloopers de Pito		los
--	ccbla2	Clopper Insignificante	un	el	Cloppers Insignificantes		los
+-	ccbla1	Clopper Diminuto	un	el	Cloopers Diminutos	unos	los
+-	ccbla2	Clopper Enclenque	un	el	Cloppers Enclenques	unos	los
 -	ccblb1	Clopper Vigoroso	un	el	Cloppers Vigorosos		los
--	ccblb2	Clopper Gruñendo	un	el	Cloppers Gruñendo		los
+-	ccblb2	Clopper Gruñón	un	el	Cloppers Gruñones	unos	los
 -	ccblb3	Clopper Ceñudo	un	el	Cloppers Ceñudos		los
 -	ccblb4	Clopper Aullando	un	el	Cloppers Aullando		los
--	ccblc1	Clopper Asustadizo	un	el	Cloppers Asustadizos		los
+-	ccblc1	Clopper Asustador	un	el	Cloppers Asustadores	unos	los
 -	ccblc2	Clopper Malicioso	un	el	Cloppers Maliciosos		los
 -	ccblc3	Clopper Peligroso	un	el	Cloppers Peligrosos		los
 -	ccblc4	Clopper Amenazante	un	el	Cloppers Amenazantes		los
--	ccbpa1	Clopper de Pito	un	el	Cloppes de Pito		los
--	ccbpa2	Clopper Insignificante	un	el	Cloppers Insignificantes		los
+-	ccbpa1	Clopper Diminuto	un	el	Cloppers Diminutos	unos	los
+-	ccbpa2	Clopper Enclenque	un	el	Cloppers Enclenques	unos	los
 -	ccbpa3	Clopper Joven	un	el	Cloppers Jóvenes		los
--	ccbpa4	Clopper Apacible	un	el	Cloppers Apacibles		los
+-	ccbpa4	Clopper Moderado	un	el	Cloppers Moderado	unos	los
 -	ccbpb1	Clopper Vigoroso	un	el	Cloppers Apacibles		los
--	ccbpb2	Clopper Gruñendo	un	el	Cloppers Gruñendo		los
+-	ccbpb2	Clopper Gruñón	un	el	Cloppers Gruñones	unos	los
 -	ccbpb3	Clopper Ceñudo	un	el	Cloppers Ceñudos		los
 -	ccbpb4	Clopper Aullando	un	el	Clopper Aullando		los
--	ccbpc1	Clopper Asustadizo	un	el	Clopper Asustadizos		los
+-	ccbpc1	Clopper Asustador	un	el	Clopper Asustadores	unos	los
 -	ccbpc2	Clopper Malicioso	un	el	Cloppers Maliciosos		los
 -	ccbpc3	Clopper Peligroso	un	el	Cloppers Peligrosos		los
 -	ccbpc4	Clopper Amenazante	un	el	Cloppers Amenazantes		los
--	cccda1	Goari de Pito	un	el	Goaris de Pito		los
--	cccda2	Goari Insignificante	un	el	Goaris Insignificantes		los
+-	cccda1	Goari Diminuto	un	el	Goaris Diminutos	unos	los
+-	cccda2	Goari Enclenque	un	el	Goaris Enclenques	unos	los
 -	cccda3	Goari Joven	un	el	Goaris Jóvenes 		los
--	cccda4	Goari Apacible	un	el	Goaris Apacibles		los
+-	cccda4	Goari Moderado	un	el	Goaris Moderados	unos	los
 -	cccdb1	Goari Vigoroso	un	el	Goaris Vigorosos		los
--	cccdb2	Goari Gruñendo	un	el	Goaris Gruñendo		los
+-	cccdb2	Goari Gruñón	un	el	Goaris Gruñones	unos	los
 -	cccdb3	Goari Ceñudo	un	el	Goaris Ceñudo		los
--	cccdb4	Goari Aullando	un	el	Goaris Aullando		los
--	cccdc1	Goari Asustadizo	un	el	Goaris Asustadizos		los
+-	cccdb4	Goari Aullador	un	el	Goaris Aulladores	unos	los
+-	cccdc1	Goari Asustador	un	el	Goaris Asustadores	unos	los
 -	cccdc2	Goari Malicioso	un	el	Goaris Asustadizos		los
 -	cccdc3	Goari Peligroso 	un	el	Goaris Peligroso		los
 -	cccdc4	Goari Amenazante	un	el	Goaris Amenazantes		los
@@ -469,49 +469,49 @@
 -	cccgb2	Goari Maloliente	un	el	Goaris Malolientes		los
 -	cccgb3	Goari Mórbido	un	el	Goaris Mórbidos		los
 -	cccgb4	Goari Envenenado	un	el	Goaris Envenenados		los
--	cccgc1	Goari Plaqado	un	el	Goaris Plagados		los
--	cccgc2	Goari Enfermizo	un	el	Goaris Enfermizos		los
--	cccgc3	Goari Putrefacto	un	el	Goaris Putrefactos		los
+-	cccgc1	Goari Plagado	un	el	Goaris Plagados	unos	los
+-	cccgc2	Goari Enfermizo	un	el	Goaris Enfermizos	unos	los
+-	cccgc3	Goari Putrefacto	un	el	Goaris Putrefactos	unos	los
 -	cccgc4	Goari Virulento	un	el	Goaris Virulentos		los
--	cccgd1	Goari Arruinado	un	el	Goaris Arruinados		los
--	cccgd2	Goari Enconado	un	el	Goaris Enconados		los
+-	cccgd1	Goari Arruinado	un	el	Goaris Arruinados	unos	los
+-	cccgd2	Goari Infectado	un	el	Goaris Infectados	unos	los
 -	cccgd3	Goari Pestífero	un	el	Goaris Pestíferos		los
 -	cccgd4	Goari Delirante	un	el	Goaris Delirantes		los
--	cccge1	Goari Pestilente	un	el	Goaris Pestilentes		los
--	cccge2	Goari Filtrante	un	el	Goaris Filtrantes		los
+-	cccge1	Goari Pustuloso	un	el	Goaris Pustulosos	unos	los
+-	cccge2	Goari Filtrante	un	el	Goaris Filtrantes	unos	los
 -	cccge3	Goari Espumoso	un	el	Goaris Espumosos		los
 -	cccge4	Goari Asqueroso	un	el	Goaris Asquerosos		los
 -	cccgf1	Goari Demente	un	el	Goaris Dementes		los
 -	cccgf2	Goari Delirante	un	el	Goaris Delirantes		los
 -	cccgf3	Goari Diabólico	un	el	Goaris Diabólicos		los
 -	cccgf4	Goari Letal 	un	el	Goaris Letales		los
--	cccla1	Goari de Pito	un	el	Goari de Pito		los
--	cccla2	Goari Insignificante	un	el	Goaris Insignificantes		los
+-	cccla1	Goari Diminuto	un	el	Goaris Diminutos	unos	los
+-	cccla2	Goari Enclenque	un	el	Goaris Enclenques	unos	los
 -	ccclb1	Goari Vigoroso	un	el	Goaris Vigorosos		los
--	ccclb2	Goari Gruñendo	un	el	Goaris Gruñendo		los
+-	ccclb2	Goari Gruñón	un	el	Goaris Gruñones	unos	los
 -	ccclb3	Goari Ceñudo	un	el	Goaris Ceñudos		los
--	ccclb4	Goari Aullando	un	el	Goaris Aullando		los
--	cccpa1	Goari de Pito	un	el	Goaris de Pito		los
--	cccpa2	Goari Insignificante	un	el	Goaris Insignificantes		los
+-	ccclb4	Goari Aullador	un	el	Goaris Aulladores	unos	los
+-	cccpa1	Goari Diminuto	un	el	Goaris Diminutos	unos	los
+-	cccpa2	Goari Enclenque	un	el	Goaris Enclenques	unos	los
 -	cccpa3	Goari Joven	un	el	Goaris Jóvenes 		los
--	cccpa4	Goari Apacible	un	el	Goaris Apacibles		los
+-	cccpa4	Goari Moderado	un	el	Goaris Moderados	unos	los
 -	cccpb1	Goari Vigoroso	un	el	Goaris Vigorosos		los
--	cccpb2	Goari Gruñendo	un	el	Goaris Gruñendo		los
+-	cccpb2	Goari Gruñón	un	el	Goaris Gruñones	unos	los
 -	cccpb3	Goari Ceñudo	un	el	Goaris Ceñudos		los
--	cccpb4	Goari Aullando	un	el	Goaris Aullando		los
--	cccpc1	Goari Asustadizo	un	el	Goaris Asustadizos		los
+-	cccpb4	Goari Aullador	un	el	Goaris Aulladores	unos	los
+-	cccpc1	Goari Asustador	un	el	Goaris Asustadores	unos	los
 -	cccpc2	Goari Malicioso	un	el	Goaris Maliciosos		los
 -	cccpc3	Goari Peligroso 	un	el	Goaris Peligroso		los
 -	cccpc4	Goari Amenazante	un	el	Goaris Amenazantes		los
--	ccdfa1	Torbak del Pito	un	el	Torbaks del Pito		los
--	ccdfa2	Torbak Insignificante	un	el	Torbaks Insignificantes		los
+-	ccdfa1	Torbak Diminuto	un	el	Torbaks Diminutos	unos	los
+-	ccdfa2	Torbak Enclenque	un	el	Torbaks Enclenques	unos	los
 -	ccdfa3	Torbak Joven	un	el	Torbaks Jóvenes		los
--	ccdfa4	Torbak Apacible	un	el	Torbaks Apacibles		los
+-	ccdfa4	Torbak Moderado	un	el	Torbaks Moderado	unos	los
 -	ccdfb1	Torbak Vigoroso	un	el	Torbaks Vigorosos		los
--	ccdfb2	Torbak Gruñendo	un	el	Torbaks Gruñendo		los
+-	ccdfb2	Torbak Gruñón	un	el	Torbaks Gruñones	unos	los
 -	ccdfb3	Torbak Ceñudo	un	el	Torbaks Ceñudos		los
 -	ccdfb4	Torbak Aullando	un	el	Torbaks Aullando		los
--	ccdfc1	Torbak Asustadizo	un	el	Torbaks Asustadizos		los
+-	ccdfc1	Torbak Asustador	un	el	Torbaks Asustadores	unos	los
 -	ccdfc2	Torbak Malicioso	un	el	Torbaks Maliciosos		los
 -	ccdfc3	Torbak Peligroso	un	el	Torbaks Peligrosos		los
 -	ccdfc4	Torbak Amenazante	un	el	Torbaks Amenazantes		los
@@ -528,15 +528,15 @@
 -	ccdgb2	Torbak Maloliente	un		Torbaks Malolientes		los
 -	ccdgb3	Torbak Mórbido	un		Torbak Mórbidos		los
 -	ccdgb4	Torbak Envenenado	un		Torbaks Envenenados		los
--	ccdja1	Torbak de Pito	un	el	Torbak de Pito		los
--	ccdja2	Torbak Insignificante	un	el	Torbaks Insignificantes		los
+-	ccdja1	Torbak Diminuto	un	el	Torbaks Diminutos	unos	los
+-	ccdja2	Torbak Enclenque	un	el	Torbaks Enclenques	unos	los
 -	ccdja3	Torbak Joven	un	el	Torbaks Jovenes		los
--	ccdja4	Torbak Apacible	un	el	Torbaks Apacibles		los
+-	ccdja4	Torbak Moderado	un	el	Torbaks Moderados	unos	los
 -	ccdjb1	Torbak Vigoroso	un	el	Torbaks Vigorosos		los
--	ccdjb2	Trobak Gruñendo	un	el	Torbaks Gruñendo		los
+-	ccdjb2	Torbak Gruñón	un	el	Torbaks Gruñones	unos	los
 -	ccdjb3	Torbak Ceñudo	un	el	Torbaks Ceñudos		los
 -	ccdjb4	Torbak Aullando	un	el	Torbask Aullando		los
--	ccdjc1	Torbak Asustadizo	un	el	Torbaks Asustadizos		los
+-	ccdjc1	Torbak Asustador	un	el	Torbaks Asustadores	unos	los
 -	ccdjc2	Torbak Malicioso	un	el	Torbaks Maliciosos		los
 -	ccdjc3	Torbak Peligroso	un	el	Torbaks Peligrosos		los
 -	ccdjc4	Torbak Amenazante	un	el	Torbaks Amenazantes		los
@@ -544,10 +544,10 @@
 -	ccdjd2	Torbak Merodeando	un	el	Torbaks Merodeando		los
 -	ccdjd3	Torbak de Caza	un	el	Torbaks de Caza		los
 -	ccdjd4	Torbak Merodeando	un	el	Torbaks Merodeando		los
--	ccdla1	Torbak de Pito	un	el	Torbaks de Pito		los
--	ccdla2	Torbak Insignificante	un	el	Torbaks Insignificantes		los
+-	ccdla1	Torbak Diminuto	un	el	Torbaks Diminutos	unos	los
+-	ccdla2	Torbak Enclenque	un	el	Torbaks Enclenques	unos	los
 -	ccdla3	Torbak Joven	un	el	Torbak Jóvenes		los
--	ccdla4	Torbak Apacible	un	el	Torbaks Apacibles		los
+-	ccdla4	Torbak Moderado	un	el	Torbaks Moderados	unos	los
 -	ccdle1	Torbak Depredador	un	el	Torbaks Depredadores		los
 -	ccdle2	Torbak Furioso	un	el	Torbaks Furiosos		los
 -	ccdle3	Torbak Temible	un	el	Torbaks Temibles		los
@@ -555,13 +555,13 @@
 -	ccdlf1	Torbak Espantoso	un	el	Torbaks Espantosos		los
 -	ccdlf2	Torbak Impresionante	un	el	Torbaks Impresionantes		los
 -	ccdlf3	Torbak Horrendo	un	el	Torbaks Horrendo		los
--	ccefa1	Ragús de Pito	un	el	Raguses de Pito		los
--	ccefa2	Ragús Insignificante	un	el	Raguseas Insignificantes		los
+-	ccefa1	Ragus Diminuto	un	el	Raguses Diminutos	unos	los
+-	ccefa2	Ragus Enclenque	un	el	Raguses Enclenques	unos	los
 -	ccefa3	Ragus Joven	un	el	Raguseas Jóvenes		los
--	ccefa4	Ragús Apacible	un	el	Raguseas Apacibles		los
+-	ccefa4	Ragus Moderado	un	el	Raguses Moderados	unos	los
 -	ccefb1	Ragús Vigoroso	un	el	Raguseas Vigorosos		los
--	ccefb2	Ragús Gruñendo	un	el	Raguseas Gruñendo		los
--	ccefb3	Ragús Ceñudo	un	el	Raguseas Ceñudos		los
+-	ccefb2	Ragus Gruñón	un	el	Raguses Gruñones	unos	los
+-	ccefb3	Ragus Ceñudo	un	el	Raguses Ceñudos	unos	los
 -	ccefb4	Ragús Aullando	un	el	Raguseas Aullando		los
 -	ccega1	Ragús Impuro	un	el	Raguseas Impuros		los
 -	ccega2	Ragús Hinchado	un	el	Raguseas Hinchados		los
@@ -586,29 +586,29 @@
 -	ccegf1	Ragús Demente	un	el	Raguseas Dementes		los
 -	ccegf2	Ragús Enfurecido	un	el	Raguseas Enfurecidos		los
 -	ccegf3	Ragús Diabólico	un	el	Raguseas Diabólicos		los
--	cceja1	Ragús de Pito	un	el	Raguseas de Pito		los
--	cceja2	Ragús Insignificante	un	el	Raguseas Insignificantes		los
+-	cceja1	Ragus Diminuto	un	el	Raguses Diminutos	unos	los
+-	cceja2	Ragus Enclenque	un	el	Raguses Enclenques	unos	los
 -	cceja3	Ragús Joven	un	el	Raguseas Jóvenes		los
--	cceja4	Ragús Apacible	un	el	Ragús Apacibles		los
+-	cceja4	Ragus Moderado	un	el	Raguses Moderados	unos	los
 -	ccejb1	Ragús Vigoroso	un	el	Raguseas Vigorosos		los
--	ccejb2	Ragús Gruñendo	un	el	Raguseas Gruñendo		los
--	ccejb3	Ragús Ceñudo	un	el	Raguseas Ceñudos		los
+-	ccejb2	Ragus Gruñón	un	el	Raguses Gruñones	unos	los
+-	ccejb3	Ragus Ceñudo	un	el	Raguses Ceñudos	unos	los
 -	ccejb4	Ragús Aullando	un	el	Raguseas Aullando		los
--	ccejc1	Ragús Asustadizo	un	el	Raguseas Asustadizos		los
--	ccejc2	Ragús Malicioso	un	el	Raguseas Maliciosos		los
+-	ccejc1	Ragus Asustador	un	el	Raguses Asustadores	unos	los
+-	ccejc2	Ragus Malicioso	un	el	Raguses Maliciosos	unos	los
 -	ccejc3	Ragús Peligroso	un	el	Raguseas Peligrosos		los
--	ccejc4	Ragús Amenazante	un	el	Raguseas Amenazantes		los
+-	ccejc4	Ragus Amenazante	un	el	Raguses Amenazantes	unos	los
 -	ccejf1	Ragús Espantoso	un	el	Raguseas Espantosos		los
 -	ccejf2	Ragús Impresionante	un	el	Raguseas Impresionantes		los
 -	ccejf3	Ragús Horrendo	un	el	Raguseas Horrendos		los
--	ccela1	Ragús de Pito	un	el	Raguseas de Pito		los
--	ccela2	Ragús Insignificante	un	el	Raguseas Insignificantes		los
+-	ccela1	Ragus Diminuto	un	el	Raguses Diminutos	unos	los
+-	ccela2	Ragus Enclenque	un	el	Raguses Enclenquea	unos	los
 -	ccela3	Ragús Joven	un	el	Raguseas Jóvenes		los
--	ccela4	Ragús Apacible	un	el	Raguseas Apacibles		los
--	ccelc1	Ragús Asustadizo	un	el	Raguseas Asustadizos		los
--	ccelc2	Ragús Malicioso	un	el	Raguseas Maliciosos		los
+-	ccela4	Ragus Moderado	un	el	Raguses Moderados	unos	los
+-	ccelc1	Ragus Asustador	un	el	Raguses Asustadores	unos	los
+-	ccelc2	Ragus Malicioso	un	el	Raguses Maliciosos	unos	los
 -	ccelc3	Ragús Peligroso	un	el	Raguseas Peligrosos		los
--	ccelc4	Ragús Amenazante	un	el	Raguseas Amenazantes		los
+-	ccelc4	Ragus Amenazante	un	el	Raguses Amenazantes	unos	los
 -	ccelc6	Ragús	un	el	Raguseas		los
 -	cceld1	Ragús Rugiendo	un	el	Raguseas Rugiendo		los
 -	cceld2	Ragús Merodeador	un	el	Raguseas Merodeadores		los
@@ -639,16 +639,16 @@
 -	ccfgf1	Najab Demente	una	la	Najabas Dementes		las
 -	ccfgf2	Najab Delirante	una	la	Najabas Delirantes		las
 -	ccfgf3	Najab Diabólica	una	la	Najabas Diabólica		las
--	ccfja1	Najab de Pito	una	la	Najabs de Pito		las
--	ccfja2	Najab Insignificante	una	la	Najabs Insignificantes		las
+-	ccfja1	Najab Diminuta	una	la	Najabs Diminutas	unas	las
+-	ccfja2	Najab Enclenque	una	la	Najabs Enclenques	unas	las
 -	ccfja3	Najab Joven	una	la	Najabs Jóvenes		las
--	ccfja4	Najab Apacible	una	la	Najabs Apacibles		las
+-	ccfja4	Najab Moderada	una	la	Najabs Moderadas	unas	las
 -	ccfjb1	Najab Vigorosa	una	la	Najabs Vigorosas		las
--	ccfjb2	Najab Grunendo	una	la	Najabas Grunendo		las
--	ccfjb3	Najab Cenuda	una	la	Najabas Cenudas		las
+-	ccfjb2	Najab Gruñona	una	la	Najabs Gruñonas	unas	las
+-	ccfjb3	Najab Ceñuda	una	la	Najabs Ceñudas	unas	las
 -	ccfjb4	Najab Aullando	una	la	Najabs Aullando		las
--	ccfjc1	Najab Asustadiza	una	la	Najabs Asustadizas		las
--	ccfjc2	Najab Maliciosa	una	la	Najabs Maliciosas		las
+-	ccfjc1	Najab Asustadora	una	la	Najabs Asustadoras	unas	las
+-	ccfjc2	Najab Maliciosa	una	la	Najabs Maliciosas	unas	las
 -	ccfjc3	Najab Peligrosa	una	la	Najabs Peligrosas		las
 -	ccfjc4	Najab Amenazante	una	la	Najabs Amenazantes		las
 -	ccfje1	Najab Depredadora	una	la	Najabs Depredadoras		las
@@ -658,13 +658,13 @@
 -	ccfjf1	Najab Espantosas	una	la	Najabas Espantosas		las
 -	ccfjf2	Najab Impresionante	una	la	Najabs Impresionantes		las
 -	ccfjf3	Najab Horrenda	una	la	Najabs Horrendas		las
--	ccfla1	Najab de Pito	una	la	Najabs de Pito		las
--	ccfla2	Najab Insignificante	una	la	Najabs Insignificantes		las
+-	ccfla1	Najab Diminuta	una	la	Najabs Diminutas	unas	las
+-	ccfla2	Najab Enclenque	una	la	Najabs Enclenques	unas	las
 -	ccfla3	Najab Joven	una	la	Najabs Jovenes		las
--	ccfla4	Najab Apacible	una	la	Najabs Apacibles		las
+-	ccfla4	Najab Moderada	una	la	Najabs Moderadas	unas	las
 -	ccflb1	Najab Vigorosa	una	la	Najabs Vigorosas		las
--	ccflb2	Najab Gruñendo	una	la	Najabs Gruñendo		las
--	ccflb3	Najab Ceñuda	una	la	Najabs Ceñudas		las
+-	ccflb2	Najab Gruñona	una	la	Najabs Gruñonas	unas	las
+-	ccflb3	Najab Ceñuda	una	la	Najabs Ceñudas	unas	las
 -	ccflb4	Najab Aullando	una	la	Najabs Aullando		las
 -	ccflf1	Najab Espantosas	una	la	Najabs Espantosas		las
 -	ccflf2	Najab Impresionante	una	la	Najabs Impresionantes		las
@@ -692,15 +692,15 @@
 -	ccggf1	Vorax Demente	un	el	Voraxes Dementes		los
 -	ccggf2	Vorax Delirante	un	el	Voraxes Delirantes		los
 -	ccggf3	Vorax Diabólico	un	el	Voraxes Diabólicos		los
--	ccgja1	Vorax de Pito	un	el 	Voraxes de Pito		los
--	ccgja2	Vorax Insignificantes	un	el	Voraxes Insignificantes		los
+-	ccgja1	Vorax Diminuto	un	el	Voraxes Diminutos	unos	los
+-	ccgja2	Vorax Enclenque	un	el	Voraxes Enclenques	unos	los
 -	ccgja3	Vorax Joven	un	el	Voraxes Jóvenes		los
--	ccgja4	Vorax Apacible	un	el	Voraxes Apacibles		los
+-	ccgja4	Vorax Moderado	un	el	Voraxes Moderados	unos	los
 -	ccgjb1	Vorax Vigoroso	un	el	Voraxes Vigorosos		los
--	ccgjb2	Vorax Gruñendo	un	el	Voraxes Gruñendo		los
+-	ccgjb2	Vorax Gruñón	un	el	Voraxes Gruñones	unos	los
 -	ccgjb3	Vorax Ceñudo	un	el	Voraxes Ceñudos		los
 -	ccgjb4	Vorax Aullando	un	el	Voraxes Aullando		los
--	ccgjc1	Vorax Asustadizo	un	el	Voraxes Asustadizos		los
+-	ccgjc1	Vorax Asustador	un	el	Voraxes Asustadores	unos	los
 -	ccgjc2	Vorax Malicioso	un	el	Voraxes Maliciosos		los
 -	ccgjc3	Vorax Peligroso	un	el	Voraxes Peligrosos		los
 -	ccgjc4	Vorax Amenazante	un	el	Voraxes Amenazantes		los
@@ -712,15 +712,15 @@
 -	ccgje2	Vorax Furioso	un	el	Voraxes Furiosos		los
 -	ccgje3	Vorax Temible	un	el	Voraxes Temibles		los
 -	ccgje4	Vorax Gigante	un	el	Voraxes Gigantes		los
--	ccgla1	Vorax de Pito	un	el 	Voraxes de Pito		los
--	ccgla2	Vorax Insignificante	un	el	Voraxes Insignificantes		los
+-	ccgla1	Vorax Diminuto	un	el	Voraxes Diminutos	unos	los
+-	ccgla2	Vorax Enclenque	un	el	Voraxes Enclenques	unos	los
 -	ccgla3	Vorax Joven	un	el	Voraxes Jóvenes		los
--	ccgla4	Vorax Apacible	un	el	Voraxes Apacibles		los
+-	ccgla4	Vorax Moderado	un	el	Voraxes Moderados	unos	los
 -	ccglb1	Vorax Vigoroso	un	el	Voraxes Vigorosos		los
--	ccglb2	Vorax Gruñendo	un	el	Voraxes Gruñendo		los
+-	ccglb2	Vorax Gruñón	un	el	Voraxes Gruñones	unos	los
 -	ccglb3	Vorax Cenudo	un	el	Voraxes Cenudos		los
 -	ccglb4	Vorax Aullando	un	el	Voraxes Aullando		los
--	ccglc1	Vorax Asustadizo	un	el	Voraxes Aullando		los
+-	ccglc1	Vorax Asustador	un	el	Voraxes Asustadores	unos	los
 -	ccglc2	Vorax Malicioso	un	el	Voraxes Maliciosos		los
 -	ccglc3	Vorax Peligroso	un	el	Voraxes Peligrosos		los
 -	ccglc4	Vorax Amenazante	un	el	Voraxes Amenazantes		los
@@ -739,16 +739,16 @@
 -	ccgpf2	Vorax Impresionante	un	el	Voraxes Impresionantes		los
 -	ccgpf3	Vorax Horrendo	un	el	Voraxes Horrandos		los
 -	ccgpf4	Vorax Grandioso	un	el 	Voraxes Grandiosos		los
--	cchda1	Varinx de Pito	un	el 	Varinxes de Pito		los
--	cchda2	Varinx Insignificante	un	el	Varinxes Insignificantes		los
+-	cchda1	Varinx Diminuto	un	el	Varinxes Diminutos	unos	los
+-	cchda2	Varinx Enclenque	un	el	Varinxes Enclenques	unos	los
 -	cchda3	Varinx Joven	un	el 	Varinxes Jóvenes		los
--	cchda4	Varinx Apacible	un	el 	Varinxes Apacibles		los
+-	cchda4	Varinx Moderado	un	el	Varinxes Moderados	unos	los
 -	cchdb1	Varinx Vigoroso	un	el	Varinxes Vigorosos		los
--	cchdb2	Varinx Gruñendo	un	el 	Varinxes Gruñendo		los
+-	cchdb2	Varinx Gruñón	un	el	Varinxes Gruñones	unos	los
 -	cchdb3	Varinx Ceñudo	un	el	Varinxes Ceñudos		los
 -	cchdb4	Varinx Aullando	un	el	Varinxes Aullando		los
--	cchdc1	Varinx Asustadizo	un	el 	Varinxes Asustadizos		los
--	cchdc2	Varinx Maliciosos	un	el	Varinxes Maliciosos		los
+-	cchdc1	Varinx Asustador	un	el	Varinxes Asustadores	unos	los
+-	cchdc2	Varinx Malicioso	un	el	Varinxes Maliciosos	unos	los
 -	cchdc3	Varinx Peligroso	un	el	Varinxes Peligrosos		los
 -	cchdc4	Varinx Amenazante	un	el 	Varinxes Amenazantes		los
 -	cchdd1	Varinx Rugiendo	un	el	Varinxes Rugiendo		los
@@ -784,31 +784,31 @@
 -	cchgf2	Varinx Delirante	un	el	Varinxes Delirantes		los
 -	cchgf3	Varinx Diabólico	un	el	Varinxes Diabólicos		los
 -	cchgf4	Varinx Letal	un	el	Varinxes Letales		los
--	cchpa1	Varinx de Pito	un	el	Varinxes de Pito		los
--	cchpa2	Varinx Insignificante	un	el	Varinxes Insignificantes		los
+-	cchpa1	Varinx Diminuto	un	el	Varinxes Diminutos	unos	los
+-	cchpa2	Varinx Enclenque	un	el	Varinxes Enclenques	unos	los
 -	cchpa3	Varinx Joven	un	el	Varinxes Jóvenes		los
--	cchpa4	Varinx Apacible	un	el	Varinxes Apacibles		los
+-	cchpa4	Varinx Moderado	un	el	Varinxes Moderados	unos	los
 -	cchpb1	Varinx Vigoroso	un	el	Varinxes Vigorosos		los
--	cchpb2	Varinx Gruñendo	un	el	Varinxes Gruñendo		los
+-	cchpb2	Varinx Gruñón	un	el	Varinxes Gruñones	unos	los
 -	cchpb3	Varinx Ceñudo	un	el	Varinxes Ceñudos		los
 -	cchpb4	Varinx Aullando	un	el	Varinxes Aullando		los
--	cchpc1	Varinx Asustadizo	un	el	Varinxes Asustadizos		los
--	cchpc2	Varinx Maliciososo	un	el	Varinxes Maliciosos		los
+-	cchpc1	Varinx Asustador	un	el	Varinxes Asustadores	unos	los
+-	cchpc2	Varinx Malicioso	un	el	Varinxes Maliciosos	unos	los
 -	cchpc3	Varinx Peligroso	un	el	Varinxes Peligrosos		los
 -	cchpc4	Varinx Amenazante	un	el	Varinxes Amenanzantes		los
 -	cchpe1	Varinx Rugiendo	un	el	Varinxes Rugiendo		los
 -	cchpe2	Varinx Merodeando	un	el	Varinxes Merodeando		los
 -	cchpe3	Varinx de Caza	un	el	Varinxes de Caza		los
 -	cchpe4	Varinx Rondando	un	el	Varinxes Rondando		los
--	ccida1	Zerx de Pito	un	el	Zerxes de Pito		los
--	ccida2	Zerx Insignificante	un	el	Zerxes Insignificantes		los
+-	ccida1	Zerx Diminuto	un	el	Zerxes Diminutos	unos	los
+-	ccida2	Zerx Enclenques	un	el	Zerxes Enclenques	unos	los
 -	ccida3	Zerx Joven 	un	el	Zerxes Jóvenes		los
--	ccida4	Zerx Apacible	un	el	Zerxes Apacibles		los
+-	ccida4	Zerx Moderado	un	el	Zerxes Moderados	unos	los
 -	ccidb1	Zerx Vigoroso	un	el	Zerxes Vigorosos		los
--	ccidb2	Zerx Gruñendo	un	el	Zerxes Gruñendo		los
+-	ccidb2	Zerx Gruñón	un	el	Zerxes Gruñones	unos	los
 -	ccidb3	Zerx Ceñudo	un	el	Zerxes Ceñudos		los
 -	ccidb4	Zerx Aullando	un	el	Zerxes Aullando		los
--	ccidc1	Zerx Asustadizo	un	el	Zerxes Asustadizo		los
+-	ccidc1	Zerx Asustador	un	el	Zerxes Asustadores	unos	los
 -	ccidc2	Zerx Malicioso	un	el	Zerxes Maliciosos		los
 -	ccidc3	Zerx Peligroso	un	el	Zerxes Peligrosos		los
 -	ccidc4	Zerx Amenazante	un	el	Zerxes Amenazantes		los
@@ -819,15 +819,15 @@
 -	ccidf1	Zerx Espantoso	un	el	Zerxes Espantosos		los
 -	ccidf2	Zerx Increible	un	el	Zerxes Increibles		los
 -	ccidf3	Zerx Horrendo	un	el	Zerxes Horrendos		los
--	ccija1	Zerx de Pito	un	el	Zerxes de Pito		los
--	ccija2	Zerx Insignificante	un	el	Zerxes Insignificantes		los
+-	ccija1	Zerx Diminuto	un	el	Zerxes Diminutos	unos	los
+-	ccija2	Zerx Enclenque	un	el	Zerxes Enclenques	unos	los
 -	ccija3	Zerx Joven 	un	el	Zerxes Jóvenes		los
--	ccija4	Zerx Apacible	un	el	Zerxes Apacibles		los
+-	ccija4	Zerx Moderado	un	el	Zerxes Moderados	unos	los
 -	ccijb1	Zerx Vigoroso	un	el	Zerxes Vigorosos		los
--	ccijb2	Zerx Grunendo	un	el	Zerxes Grunendo		los
+-	ccijb2	Zerx Gruñón	un	el	Zerxes Gruñones	unos	los
 -	ccijb3	Zerx Cenudo	un	el	Zerxes Cenudos		los
 -	ccijb4	Zerx Aullando	un	el	Zerxes Aullando		los
--	ccijc1	Zerx Asustadizo	un	el	Zerxes Asustadizos		los
+-	ccijc1	Zerx Asustador	un	el	Zerxes Asustadores	unos	los
 -	ccijc2	Zerx Malicioso	un	el	Zerxes Maliciosos		los
 -	ccijc3	Zerx Peligroso	un	el	Zerxes Peligrosos		los
 -	ccijc4	Zerx Amenazante	un	el	Zerxes Amenazantes		los
@@ -843,12 +843,12 @@
 -	ccijf1	Zerx Espantoso	un	el	Zerxes Espantosos		los
 -	ccijf2	Zerx Increíble	un	el	Zerxes Increíbles		los
 -	ccijf3	Zerx Horrendo	un	el	Zerxes Horrendos		los
--	ccila1	Zerx de Pito	un	el	Zerxes de Pito		los
--	ccila2	Zerx Insignificante	un	el	Zerxes Insignificantes		los
+-	ccila1	Zerx Diminuto	un	el	Zerxes Diminutos	unos	los
+-	ccila2	Zerx Enclenque	un	el	Zerxes Enclenques	unos	los
 -	ccila3	Zerx Joven 	un	el	Zerxes Jóvenes		los
--	ccila4	Zerx Apacible	un	el	Zerxes Apacibles		los
+-	ccila4	Zerx Moderado	un	el	Zerxes Moderados	unos	los
 -	ccilb1	Zerx Vigoroso	un	el	Zerxes Vigorosos		los
--	ccilb2	Zerx Gruñendo	un	el	Zerxes Gruñendo		los
+-	ccilb2	Zerx Gruñón	un	el	Zerxes Gruñones	unos	los
 -	ccilb3	Zerx Ceñudo	un	el	Zerxes Ceñudos		los
 -	ccilb4	Zerx Aullando	un	el	Zerxes Aullando		los
 -	ccilc1	Zerx Asustadizo	un	el	Zerxes Asustadizos		los
@@ -863,15 +863,15 @@
 -	ccile2	Zerx Furioso	un	el	Zerxes Furiosos		los
 -	ccile3	Zerx Temible	un	el	Zerxes Temibles		los
 -	ccile4	Zerx Gigante	un	el	Zerxes Gigantes		los
--	ccipa1	Zerx de Pito	un	el	Zerxes de Pito		los
--	ccipa2	Zerx Insignificante	un	el	Zerxes Insignificantes		los
+-	ccipa1	Zerx Diminuto	un	el	Zerxes Diminutos	unos	los
+-	ccipa2	Zerx Enclenque	un	el	Zerxes Enclenques	unos	los
 -	ccipa3	Zerx Joven 	un	el	Zerxes Jóvenes		los
--	ccipa4	Zerx Apacible	un	el	Zerxes Apacibles		los
+-	ccipa4	Zerx Moderado	un	el	Zerxes Moderados	unos	los
 -	ccipb1	Zerx Vigoroso	un	el	Zerxes Vigorosos		los
--	ccipb2	Zerx Grunendo	un	el	Zerxes Grunendo		los
--	ccipb3	Zerx Cenudo	un	el	Zerxes Cenudos		los
+-	ccipb2	Zerx Gruñón	un	el	Zerxes Gruñones	unos	los
+-	ccipb3	Zerx Ceñudo	un	el	Zerxes Ceñudos	unos	los
 -	ccipb4	Zerx Aullando	un	el	Zerxes Aullando		los
--	ccipc1	Zerx Asustadizo	un	el	Zerxes Asustadizo		los
+-	ccipc1	Zerx Asustador	un	el	Zerxes Asustadores	unos	los
 -	ccipc2	Zerx Malicioso	un	el	Zerxes Maliciosos		los
 -	ccipc3	Zerx Peligroso	un	el	Zerxes Peligrosos		los
 -	ccipc4	Zerx Amenazante	un	el	Zerxes Amenazantes		los
@@ -879,7 +879,7 @@
 -	ccipd2	Zerx Merodeando	un	el	Zerxes Merodeando		los
 -	ccipd3	Zerx de Caza	un	el	Zerxes de Caza		los
 -	ccipd4	Zerx Rondando	un	el	Zerxes Rondando		los
--	ccjfc1	Javing Asustadizo	un	el	Javings Asustadizos		los
+-	ccjfc1	Javing Asustador	un	el	Javings Asustadores	unos	los
 -	ccjfc2	Javing Malicioso	un	el	Javings Maliciosos		los
 -	ccjfc3	Javing Peligroso	un	el	Javings Peligrosos		los
 -	ccjfc4	Javing Amenazante	un	el	Javings Amenazante		los
@@ -887,7 +887,7 @@
 -	ccjfd2	Javing Maligno	un	el	Javings Malignos		los
 -	ccjfd3	Javing de Caza	un	el	Javings de Caza		los
 -	ccjfd4	Javing Rondando	un	el	Javings Rondando		los
--	ccjja1	Javing Novato/Pichón	un	el	Javings Novatos/Pichones		los
+-	ccjja1	Javing Pichón	un	el	Javings Pichones	unos	los
 -	ccjja2	Javing Menor	un	el	Javings Menores		los
 -	ccjjb1	Javing Vigoroso	un	el	Javings Vigorosos		los
 -	ccjjb2	Javing Vulgar	un	el	Javings Vulgares		los
@@ -919,7 +919,7 @@
 -	ccmff4	Jugula Grandiosa	una	la	Jugula Grandiosas		las
 -	ccmgb1	Jugula Nauseabunda	una	la	Jugulas Nauseabunda		las
 -	ccmgb2	Jugula Maloliente	una	la	Jugulas Malolientes		las
--	ccmgb3	Jugula Morbida	una	la	Jugulas Morbidas		las
+-	ccmgb3	Jugula Mórbida	una	la	Jugulas Mórbidas	unas	las
 -	ccmgb4	Jugula Envenenada	una	la	Jugulas Envenenadas		las
 -	ccmgc1	Jugula Plagada	una	la	Jugulas Plagadas		las
 -	ccmgc2	Jugula Enfermiza	una	la	Jugulas Enfermizas		las
@@ -1082,7 +1082,7 @@
 -	cdbga4	Gibbai Infectado	un	el	Gibbais Infectados		los
 -	cdbgb1	Gibbai Nauseabundo	un	el	Gibbais Nauseabundos		los
 -	cdbgb2	Gibbai Maloliente	un	el	Gibbais Malolientes		los
--	cdbgb3	Gibbai Mórbido	un	el	Gibbais Mórbidos		los
+-	cdbgb3	Gibbaï Mórbido	un	el	Gibbaïs Mórbidos	unos	los
 -	cdbgb4	Gibbai Envenenado	un	el	Gibbais Envenenados		los
 -	cdbgc1	Gibbai Plagado	un	el	Gibbais Plagados		los
 -	cdbgc2	Gibbai Enfermizo	un	el	Gibbais Enfermizos		los
@@ -1175,13 +1175,13 @@
 -	chada3	Arma Dócil	un	el	Armas Dóciles		las
 -	chada4	Arma Sumisa	un	el	Armas Sumisas		las
 -	chadb1	Arma Timorata	un	el	Armas Timoratas		las
--	chadb2	Arma Vagando	un	el	Armas Vagando		las
--	chadb3	Arma Correteando	un	el	Armas Correteando		las
+-	chadb2	Arma Vagabundo	un	el	Armas Vagabundas	unas	las
+-	chadb3	Arma Escurridizo	un	el	Armas Escurridizas	unas	las
 -	chadb4	Arma Enérgica	un	el	Armas Enérgicas		las
 -	chadc1	Arma Robusta	un	el	Armas Robustas		las
 -	chadc2	Arma Cautelosa	un	el	Armas Cautelosas		las
 -	chadc3	Arma Glotona	un	el	Armas Glotonas		las
--	chadc4	Armas Gruñendo	un	el	Armas Gruñendo		las
+-	chadc4	Arma Gruñón	un	el	Armas Gruñonas	unas	las
 -	chadf1	Arma Furiosa	un	el	Armas Furiosas		las
 -	chadf2	Arma Violenta	un	el	Armas Violentas		las
 -	chadf3	Arma Feroz	un	el	Armas Feroces		las
@@ -1190,14 +1190,14 @@
 -	chafa3	Arma Dócil	un	el	Armas Dóciles		las
 -	chafa4	Arma Sumisa	un	el	Armas Sumisas		las
 -	chafb1	Arma Timorata	un	el	Armas Timoratas		las
--	chafb2	Arma Vagando	un	el	Armas Vagando		las
--	chafb3	Arma Correteando	un	el	Armas Correteando		las
+-	chafb2	Arma Vagabundo	un	el	Armas Vagabundas	unas	las
+-	chafb3	Arma Escurridizo	un	el	Armas Escurridizas	unas	las
 -	chafb4	Arma Enérgica	un	el	Armas Enérgicas		las
 -	chafc5	Brusco					
 -	chafd1	Arma Brusca	un	el	Armas Bruscas		las
 -	chafd2	Arma Obstinada	un	el	Armas Obstinadas		las
 -	chafd3	Arma Enraizada	un	el	Armas Enraizadas		las
--	chafd4	Arma Robando	un	el	Armas Robando		las
+-	chafd4	Arma Gorrón	un	el	Armas Gorronas	unas	las
 -	chafe1	Arma Irritada	un	el	Armas Irritadas		las
 -	chafe2	Arma Viciosa	un	el	Armas Viciosas		las
 -	chafe3	Arma Salvaje	un	el	Armas Salvajes		las
@@ -1207,8 +1207,8 @@
 -	chaja3	Arma Dócil	un	el	Armas Dóciles		las
 -	chaja4	Arma Sumisa	un	el	Armas Sumisas		las
 -	chajb1	Arma Timorata	un	el	Armas Timoratas		las
--	chajb2	Arma Vagando	un	el	Armas Vagando		las
--	chajb3	Arma Correteando	un	el	Armas Correteando		las
+-	chajb2	Arma Vagabundo	un	el	Armas Vagabundas	unas	las
+-	chajb3	Arma Escurridizo	un	el	Armas Escurridizas	unas	las
 -	chajb4	Arma Enérgica	un	el	Armas Enérgicas		las
 -	chajf1	Arma Furiosa	un	el	Armas Furiosas		las
 -	chajf2	Arma Violenta	un	the	Armas Violentas		las
@@ -1219,8 +1219,8 @@
 -	chala3	Arma Dócil	un	el	Armas Dóciles		las
 -	chala4	Arma Sumisa	un	el	Armas Sumisas		las
 -	chalb1	Arma Timorata	un	el	Armas Timoratas		las
--	chalb2	Arma Vagando	un	el	Armas Vagando		las
--	chalb3	Arma Correteando	un	el	Armas Correteando		las
+-	chalb2	Arma Vagabundo	un	el	Armas Vagabundas	unas	las
+-	chalb3	Arma Escurridizo	un	el	Armas Escurridizas	unas	las
 -	chalb4	Arma Enérgica	un	el	Armas Enérgicas		las
 -	chale1	Arma Irritada	un	el	Armas Irritadas		las
 -	chale2	Arma Viciosa	un	el	Armas Viciosas		las
@@ -1235,17 +1235,17 @@
 -	chapa3	Arma Dócil	un	el	Armas Dóciles		las
 -	chapa4	Arma Sumisa	un	el	Armas Sumisas		las
 -	chapb1	Arma Timorata	un	el	Armas Timoratas		las
--	chapb2	Arma Vagando	un	el	Armas Vagando		las
--	chapb3	Arma Correteando	a	the	Armas Correteando		las
+-	chapb2	Arma Vagabundo	un	el	Armas Vagabundas	unas	las
+-	chapb3	Arma Escurridizo		el	Armas Escurridizas	unas	las
 -	chapb4	Arma Enérgica	un	el	Armas Enérgicas		las
 -	chapc1	Arma Robusta	un	el	Armas Robustas		las
 -	chapc2	Arma Cautelosa	un	el	Armas Cautelosas		las
 -	chapc3	Arma Glotona	un	el	Armas Glotonas		las
--	chapc4	Arma Gruñendo	un	el	Armas Gruñendo		las
+-	chapc4	Arma Gruñón	un	el	Armas Gruñonas	unas	las
 -	chapd1	Arma Brusca	un	el	Armas Bruscas		las
 -	chapd2	Armas Obstinadas	un	el	Armas Obstinadas		las
 -	chapd3	Arma Enraizada	un	el	Armas Enraizadas		las
--	chapd4	Arma Robando	un	el	Armas Robando		las
+-	chapd4	Arma Gorrón	un	el	Armas Gorronas	unas	las
 -	chape1	Arma Irritada	un	el	Armas Irritadas		las
 -	chape2	Arma Viciosa	un	el	Armas Viciosas		las
 -	chape3	Arma Salvaje	un	el	Arma Salvaje		las
@@ -1256,21 +1256,21 @@
 -	chbdc1	Bodoc Robusto	un	el	Bodocs Robustos		los
 -	chbdc2	Bodoc Cauteloso	un	el	Bodocs Cautelosos		los
 -	chbdc3	Bodoc Glotón	un	el	Bodocs Glotones		los
--	chbdc4	Bodoc Gruñendo	un	el	Bodocs Gruñendo		los
+-	chbdc4	Bodoc Gruñón	un	el	Bodocs Gruñones	unos	los
 -	chbfa1	Bodoc Lactante	un	el	Bodocs Lactantes		los
 -	chbfa2	Bodoc Destetado	un	el	Bodocs Destetados		los
 -	chbfa3	Bodoc Dócil	un	el	Bodocs Dóciles		los
 -	chbfa4	Bodoc Sumiso	un	el	Bodocs Sumisos		los
 -	chbfa5	Bodoc	un	el	Bodocs		los
 -	chbfb1	Bodoc Timorato	un	el	Bodocs Timoratos		los
--	chbfb2	Bodoc Vagando	un	el	Bodocs Vagando		los
--	chbfb3	Bodoc Correteando	un	el	Bodocs Correteando		los
+-	chbfb2	Bodoc Vagabundo	un	el	Bodocs Vagabundos	unos	los
+-	chbfb3	Bodoc Escurridizo	un	el	Bodocs Escurridizos	unos	los
 -	chbfb4	Bodoc Enérgico	un	el	Bodocs Enérgicos		los
 -	chbfb6	Bodoc Contagioso	un	el	Bodocs Contagiosos		los
 -	chbfc1	Bodoc Robusto	un	el	Bodocs Robustos		los
 -	chbfc2	Bodoc Cauteloso	un	el	Bodocs Cautelosos		los
 -	chbfc3	Bodoc Glotón	un	el	Bodocs Glotones		los
--	chbfc4	Bodoc Gruñendo	un	el	Bodocs Gruñendo		los
+-	chbfc4	Bodoc Gruñón	un	el	Bodocs Gruñones	unos	los
 -	chbje1	Bodoc Irritado	un	el	Bodocs Irritados		los
 -	chbje2	Bodoc Vicioso	un	el	Bodocs Viciosos		los
 -	chbje3	Bodoc Salvaje	un	el	Bodocs Salvajes		los
@@ -1278,23 +1278,23 @@
 -	chbld1	Bodoc Brusco	un	el	Bodocs Bruscos		los
 -	chbld2	Bodoc Obstinado	un	el	Bodocs Obstinados		los
 -	chbld3	Bodoc Enraizado	un	el	Bodocs Enraizados		los
--	chbld4	Bodoc Robando	un	el	Bodocs Robando		los
+-	chbld4	Bodoc Gorrón	un	el	Bodocs Gorrones	unos	los
 -	chbpa1	Bodoc Lactante	un	el	Bodocs Lactantes		los
 -	chbpa2	Bodoc Destetado	un	el	Bodocs Destetados		los
 -	chbpa3	Bodoc Docil	un	el	Bodocs Dociles		los
 -	chbpa4	Bodoc Sumiso	un	el	Bodocs Sumisos		los
 -	chbpb1	Bodoc Timorato	un	el	Bodocs Timoratos		los
--	chbpb2	Bodoc Vagando	un	el	Bodocs Vagando		los
--	chbpb3	Bodoc Correteando	un	el	Bodocs Correteando		los
+-	chbpb2	Bodoc Vagabundo	un	el	Bodocs Vagabundos	unos	los
+-	chbpb3	Bodoc Escurridizo	un	el	Bodocs Escurridizos	unos	los
 -	chbpb4	Bodoc Energico	un	el	Bodocs Energicos		los
 -	chbpc1	Bodoc Robusto	un	el	Bodocs Robustos		los
 -	chbpc2	Bodoc Cauteloso	un	el	Bodocs Cautelosos		los
 -	chbpc3	Bodoc Glotón	un	el	Bodocs Glotones		los
--	chbpc4	Bodoc Grunendo	un	el	Bodocs Grunendo		los
+-	chbpc4	Bodoc Gruñón	un	el	Bodocs Gruñones	unos	los
 -	chbpd1	Bodoc Brusco	un	el	Bodocs Bruscos		los
 -	chbpd2	Bodoc Obstinado	un	el	Bodocs Obstinados		los
 -	chbpd3	Bodoc Enraizado	un	el	Bodocs Enraizados		los
--	chbpd4	Bodoc Robando	un	el	Bodocs Robando		los
+-	chbpd4	Bodoc Gorrón	un	el	Bodocs Gorrones	unos	los
 -	chbpe1	Bodoc Irritado	un	el	Bodocs Irritados		los
 -	chbpe2	Bodoc Vicioso	un	el	Bodocs Viciosos		los
 -	chbpe3	Bodoc Salvaje	un	el	Bodocs Salvajes		los
@@ -1307,39 +1307,39 @@
 -	chcda3	Capryni Dócil	un	el	Caprynis Dóciles		los
 -	chcda4	Capryni Sumiso	un	el	Caprynis Sumisos		los
 -	chcdb1	Capryni Timorato	un	el	Caprynis Timoratos		los
--	chcdb2	Capryni Vagando	un	el	Caprynis Vagando		los
--	chcdb3	Capryni Correteando 	un	el	Caprynis Correteando		los
+-	chcdb2	Capryni Vagabundo	un	el	Caprynis Vagabundos	unos	los
+-	chcdb3	Capryni Escurridizo	un	el	Caprynis Escurridizos	unos	los
 -	chcdb4	Capryni Energico	un	el	Caprynis Energico		los
 -	chcfb1	Capryni Timorato	un	el	Caprynis Timoratos		los
 -	chcfb2	Capryni Vagabundo	un	el	Caprynis Vagabundos		los
--	chcfb3	Capryni Correteando 	un	el	Caprynis Correteando		los
+-	chcfb3	Capryni Escurridizo	un	el	Caprynis Escurridizos	unos	los
 -	chcfb4	Capryni Enérgico	un	el	Caprynis Enérgicos		los
 -	chcjd1	Capryni Brusco	un	el	Caprynis Bruscos		los
 -	chcjd2	Capryni Obstinado	un	el	Caprynis Obstinados		los
 -	chcjd3	Capryni Enraizado	un	el	Caprynis Enraizados		los
--	chcjd4	Capryni Robando	un	el	Caprynis Robando		los
+-	chcjd4	Capryni Gorrón	un	el	Caprynis Gorrones	unos	los
 -	chclc1	Capryni Robusto	un	el	Caprynis Robustos		los
 -	chclc2	Capryni Cauteloso	un	el	Caprynis Cuatelosos		los
 -	chclc3	Capryni Glotón	un	el	Caprynis Glotones		los
--	chclc4	Capryni Gruñendo	un	el	Caprynis Gruñendo		los
+-	chclc4	Capryni Gruñón	un	el	Caprynis Gruñones	unos	los
 -	chclc5	Runroy					
 -	chcpa1	Capryni Lactante	un	el	Caprynis Lactantes		los
 -	chcpa2	Capryni Destetado	un	el	Caprynis Destetados		los
 -	chcpa3	Capryni Dócil	un	el	Caprynis Dóciles		los
 -	chcpa4	Capryni Sumiso	un	el	Caprynis Sumisos		los
 -	chcpb1	Capryni Timorato	un	el	Caprynis Timoratos		los
--	chcpb2	Capryni Vagando	un	el	Caprynis Vagando		los
--	chcpb3	Capryni Correteando 	un	el	Caprynis Correteando		los
+-	chcpb2	Capryni Vagabundo	un	el	Caprynis Vagabundos	unos	los
+-	chcpb3	Capryni Escurridizo	un	el	Caprynis Escurridizos	unos	los
 -	chcpb4	Capryni Enérgico	un	el	Caprynis Enérgicos		los
 -	chcpc1	Capryni Robusto	un	el	Caprynis Robustos		los
 -	chcpc2	Capryni Cauteloso	un	el	Caprynis Cuatelosos		los
 -	chcpc3	Capryni Glotón	un	el	Caprynis Glotones		los
--	chcpc4	Capryni Gruñendo	un	el	Caprynis Gruñendo		los
+-	chcpc4	Capryni Gruñón	un	el	Caprynis Gruñones	unos	los
 -	chdda1	Yubo Lactante	un	el	Yubos Lactantes		los
 -	chdda2	Yubos Destetados	un	el	Yubos Destetados		los
 -	chddb1	Yubo Timorato	un	el	Yubos Destetados		los
--	chddb2	Yubo Vagando	un	el 	Yubos Vagando		los
--	chddb3	Yubo Correteando	un	el	Yubos Correteando		los
+-	chddb2	Yubo Vagabundo	un	el	Yubos Vagabundos	unos	los
+-	chddb3	Yubo Escurridizo	un	el	Yubos Escurridizos	unos	los
 -	chddb4	Yubo Enérgico	un	el	Yubo Enérgico		los
 -	chddf1	Yubo Furioso	un	el	Yubos Furiosos		los
 -	chddf2	Yubo Violento	un	el	Yubos Violentos		los
@@ -1348,15 +1348,15 @@
 -	chdfa2	Yubo Destetado	un	el	Yubos Destetados		los
 -	chdfa7	Yubokin					
 -	chdfb1	Yubo Timorato	un	el	Yubos Timoratos		los
--	chdfb2	Yubo Vagando	un	el	Yubos Vagando		los
--	chdfb3	Yubo Correteando	un	el	Yubos Correteando		los
+-	chdfb2	Yubo Vagabundo	un	el	Yubos Vagabundos	unos	los
+-	chdfb3	Yubo Escurridizo	un	el	Yubos Escurridizos	unos	los
 -	chdfb4	Yubo Enérgico	un	el	Yubos Enérgicos		los
 -	chdfb5	Ora					
 -	chdja1	Yubo Lactante	un	el	Yubos Lactantes		los
 -	chdja2	Yubo Destetado	un	el	Yubos Destetados		los
 -	chdjb1	Yubo Timorato	un	el	Yubos Timoratos		los
--	chdjb2	Yubo Vagando	un	el	Yubos Vagando		los
--	chdjb3	Yubo Correteando	un	e	Yubos Correteando		los
+-	chdjb2	Yubo Vagabundo	un	el	Yubos Vagabundos	unos	los
+-	chdjb3	Yubo Escurridizo	un	el	Yubos Escurridizos	unos	los
 -	chdjb4	Yubo Enérgico	un	el	Yubos Enérgicos		los
 -	chdjf1	Yubo Furioso	un	el	Yubos Furiosos		los
 -	chdjf2	Yubo Violento	un	el	Yubos Violentos		los
@@ -1364,21 +1364,21 @@
 -	chdla1	Yubo Lactante	un	el	Yubos Lactantes		los
 -	chdla2	Yubo Destetado	un	el	Yubos Destetados		los
 -	chdlb1	Yubo Timorato	un	el	Yubos Timoratos		los
--	chdlb2	Yubo Vagando	un	el	Yubos Vagando		los
--	chdlb3	Yubo Correteando	un	el	Yubos Correteando		los
+-	chdlb2	Yubo Vagabundo	un	el	Yubos Vagabundos	unos	los
+-	chdlb3	Yubo Escurridizo	un	el	Yubos Escurridizo	unos	los
 -	chdlb4	Yubo Enérgico	un	el	Yubos Enérgicos		los
 -	chdpa1	Yubo Lactante	un	el	Yubos Lactantes		los
 -	chdpa2	Yubo Destetado	un	el	Yubos Destetados		los
 -	chdpa3	Yubo Dócil	un	el	Yubos Dóciles		los
 -	chdpa4	Yubo Sumiso	un	el	Yubos Sumisos		los
 -	chdpb1	Yubo Timorato	un	el 	Yubos Timoratos		los
--	chdpb2	Yubo Vagando	un	el	Yubos Vagando		los
--	chdpb3	Yubo Correteando	un	el	Yubos Correteando		los
+-	chdpb2	Yubo Vagabundo	un	el	Yubos Vagabundos	unos	los
+-	chdpb3	Yubo Escurridizo	un	el	Yubos Escurridizos	unos	los
 -	chdpb4	Yubo Enérgico	un	el	Yubos Enérgicos		los
 -	chdpc1	Yubo Robusto	un	el	Yubos Robustos		los
 -	chdpc2	Yubo Cauteloso	un	el	Yubos Cautelosos		los
 -	chdpc3	Yubo Glotón	un	el	Yubos Glotones		los
--	chdpc4	Yubo Gruñendo	un	el	Yubos Gruñendo		los
+-	chdpc4	Yubo Gruñón	un	el	Yubos Gruñones	unos	los
 -	chdpf1	Yubo Furioso	un	el	Yubos Furiosos		los
 -	chdpf2	Yubo Feroz	un	el	Yubos Feroces		los
 -	chdpf3	Yubo Feroz	un	el	Yubos Feroces		the
@@ -1411,8 +1411,8 @@
 -	cheja3	Cray Dócil	un	el	Crays Dóciles		los
 -	cheja4	Cray Sumiso	un	el	Crays Sumisos		los
 -	chejb1	Cray Timorato	un	el	Crays Timoratos		los
--	chejb2	Cray Vagando	un	el	Crays Vagando		los
--	chejb3	Cray Correteando	un	el	Crays Correteando		los
+-	chejb2	Cray Vagabundo	un	el	Crays Vagabundos	unos	los
+-	chejb3	Cray Escurridizo	un	el	Crays Escurridizos	unos	los
 -	chejb4	Cray Enérgico	un	el	Crays Enérgicos		los
 -	chejc1	Cray Robusto	un	el	Crays Robustos		los
 -	chejc2	Cray Cauteloso	un	el	Crays Cautelosos		los
@@ -1421,7 +1421,7 @@
 -	chejd1	Cray Brusco	un	el	Crays Brusco		los
 -	chejd2	Cray Obstinado	un	el	Crays Obstinados		los
 -	chejd3	Cray Enraizados	un	el	Crays Enraizados		los
--	chejd4	Cray Robando	un	el	Cray Robando		los
+-	chejd4	Cray Gorrón	un	el	Cray Gorrones	unos	los
 -	cheje1	Cray Irritado	un	el	Crays Irritados		los
 -	cheje2	Cray Vicioso	un	el	Crays Viciosos		los
 -	cheje3	Cray Salvaje	un	el	Crays Salvajes		los
@@ -1432,8 +1432,8 @@
 -	chela3	Cray Dócil	un	el	Crays Dóciles		los
 -	chela4	Cray Sumiso	un	el	Crays Sumisos		los
 -	chelb1	Cray Timorato	un	el	Crays Timoratos		los
--	chelb2	Cray Vagando	un	el	Crays Vagando		los
--	chelb3	Cray Correteando	un	el	Crays Correteando		los
+-	chelb2	Cray Vagabundo	un	el	Crays Vagabundos	unos	los
+-	chelb3	Cray Escurridizo	un	el	Crays Escurridizos	unos	los
 -	chelb4	Cray Enérgico	un	el	Crays Enérgicos		los
 -	chelc1	Cray Robusto	un	el	Crays Robustos		los
 -	chelc2	Cray Cauteloso	un	el	Crays Cautelosos		los
@@ -1442,7 +1442,7 @@
 -	cheld1	Cray Brusco	un	el	Crays Brusco		los
 -	cheld2	Cray Obstinado	un	el	Crays Obstinados		los
 -	cheld3	Cray Enraizado	un	el 	Crays Enraizados		los
--	cheld4	Cray Robando	un	el	Crays Robando		los
+-	cheld4	Cray Gorrón	un	el	Crays Gorrones	unos	los
 -	chele1	Cray Irritado	un	el	Crays Irritados		los
 -	chele2	Cray Vicioso	un	el	Crays Irritados		los
 -	chele3	Cray Salvaje	un	el	Crays Salvajes		los
@@ -1471,63 +1471,63 @@
 -	chfja3	Messab Dócil	un	el	Messabs Dóciles		los
 -	chfja4	Messab Sumiso	un	el	Messabs Sumisos		los
 -	chfjb1	Messab Timorato	un	el	Messabs Timoratos		los
--	chfjb2	Messab Vagando	un	el	Messabs Vagando		los
--	chfjb3	Messab Correteando	un	el	Messabs Correteando		los
+-	chfjb2	Messab Vagabundo	un	el	Messabs Vagabundos	unos	los
+-	chfjb3	Messab Escurridizo	un	el	Messabs Escurridizos	unos	los
 -	chfjb4	Messab Enérgico	un	el	Messabs Enérgico		los
 -	chfjb5	Zoann					
 -	chfjc1	Messab Robusto	un	el	Messabs Robustos		los
 -	chfjc2	Messab Cauteloso	un	el	Messabs Cuatelosos		los
 -	chfjc3	Messab Glotón	un	el 	Messabs Glotones		los
--	chfjc4	Messab Gruñendo	un	el	Messabs Gruñendo		los
+-	chfjc4	Messab Gruñón	un	el	Messabs Gruñones	unos	los
 -	chfjd1	Messab Brusco	un	el	Messabs Bruscos		los
 -	chfjd2	Messab Obstinado	un	el	Messabs Obstinados		los
 -	chfjd3	Messab Enraizado	un	el	Messabs Enraizados		los
--	chfjd4	Messab Robando	un	el	Messabs Robando		los
+-	chfjd4	Messab Gorrón	un	el	Messabs Gorrones	unos	los
 -	chfla1	Messab Lactante	un	el	Messabs Lactantes		los
 -	chfla2	Messab Destetado	un	el	Messabs Destetados		los
 -	chfla3	Messab Dócil	un	el	Messabs Dóciles		los
 -	chfla4	Messab Sumiso	un	el	Messabs Sumisos		los
 -	chflb1	Messab Timorato	un	el	Messabs Timoratos		los
--	chflb2	Messab Vagando	un	el	Messabs Vagando		los
--	chflb3	Messab Correteando	un	el	Messab Correteando		los
+-	chflb2	Messab Vagabundo	un	el	Messabs Vagabundos	unos	los
+-	chflb3	Messab Escurridizo	un	el	Messabs Escurridizos	unos	los
 -	chflb4	Messab Enérgico	un	el	Messabs Enérgicos		los
 -	chflc1	Messab Robusto	un	el	Messabs Robustos		los
 -	chflc2	Messab Cauteloso	un	el	Messabs Cuatelosos		los
 -	chflc3	Messab Glotón	un	el	Messabs Glotones		los
--	chflc4	Messab Gruñendo	un	el	Messabs Gruñendo		los
+-	chflc4	Messab Gruñón	un	el	Messabs Gruñones	unos	los
 -	chfld1	Messab Brusco	un	el	Messabs Bruscos		los
 -	chfld2	Messab Obstinado	un	el	Messabs Obstinados		los
 -	chfld3	Messab Enraizado	un	el	Messabs Enraizados		los
--	chfld4	Messab Robando	un	el	Messabs Robando		los
+-	chfld4	Messab Gorrón	un	el	Messabs Gorrones	unos	los
 -	chfpa1	Messab Lactante	un	el	Messabs Lactantes		los
 -	chfpa2	Messab Destetado	un	el	Messabs Destetados		los
 -	chfpa3	Messab Dócil	un	el	Messabs Dóciles		los
 -	chfpa4	Messab Sumiso	un	el	Messabs Sumisos		los
 -	chfpb1	Messab Timorato	un	el	Messabs Timoratos		los
--	chfpb2	Messab Vagando	un	el	Messabs Vagando		los
--	chfpb3	Messab Correteando	un	el	Messabs Correteando		los
+-	chfpb2	Messab Vagabundo	un	el	Messabs Vagabundos	unos	los
+-	chfpb3	Messab Escurridizo	un	el	Messabs Escurridizos	unos	los
 -	chfpb4	Messab Enérgico	un	el	Messabs Enérgicos		los
 -	chfpc1	Messab Robusto	un	el	Messabs Robustos		los
 -	chfpc2	Messab Cauteloso	un	el	Messabs Cuatelosos		los
 -	chfpc3	Messab Glotón	un	el	Messabs Glotones		los
--	chfpc4	Messab Gruñendo	un	el	Messabs Gruñendo		los
+-	chfpc4	Messab Gruñón	un	el	Messabs Gruñones	unos	los
 -	chgda1	Lumper Lactante	un	el	Lumpers Lactantes		los
 -	chgda2	Lumper Destetado	un	el 	Lumpers Destetados		los
 -	chgda3	Lumper Dócil	un	el	Lumpers Dóciles		los
 -	chgda4	Lumper Sumiso	un	el	Lumpers Sumisos		los
 -	chgdb1	Lumper Timorato	un	el	Lumpers Timoratos		los
--	chgdb2	Lumper Vagando	un	el	Lumpers Vagando		los
--	chgdb3	Lumper Robando	un	el	Lumpers Robando		los
+-	chgdb2	Lumper Vagabundo	un	el	Lumpers Vagabundos	unos	los
+-	chgdb3	Lumper Escurridizo	un	el	Lumpers Escurridizos	unos	los
 -	chgdb4	Lumper Enérgico	un	el	Lumpers Enérgico		los
 -	chgdb5	Ibakus					
 -	chgdc1	Lumper Robusto	un	el	Lumpers Robustos		los
 -	chgdc2	Lumper Cauteloso	un	el	Lumpers Cautelosos		los
 -	chgdc3	Lumper Glotón	un	el	Lumpers Glotones		los
--	chgdc4	Lumper Gruñendo	un	el	Lumpers Gruñendo		los
+-	chgdc4	Lumper Gruñón	un	el	Lumpers Gruñones	unos	los
 -	chgdd1	Lumper Brusco	un	el	Lumpers Bruscos		los
 -	chgdd2	Lumper Obstinado	un	el	Lumpers Obstinados		los
 -	chgdd3	Lumper Enraizado	un	el	Lumpers Enraizados		los
--	chgdd4	Lumper Robando	un	el	Lumpers Robando		los
+-	chgdd4	Lumper Gorrón	un	el	Lumpers Gorrones	unos	los
 -	chgde1	Lumper Irritado	un	el	Lumpers Irritados		los
 -	chgde2	Lumper Vicioso	un	el	Lumpers Viciosos		los
 -	chgde3	Lumper Salvaje	un	el	Lumpers Salvajes		los
@@ -1561,17 +1561,17 @@
 -	chgpa3	Lumper Dócil	un	el	Lumpers Dóciles		los
 -	chgpa4	Lumper Sumiso	un	el	Lumpers Sumisos		los
 -	chgpb1	Lumper Timorato	un	el	Lumpers Timoratos		los
--	chgpb2	Lumper Vagando	un	el	Lumpers Vagando		los
--	chgpb3	Lumper Correteando	un	el	Lumpers Correteando		los
+-	chgpb2	Lumper Vagabundo	un	el	Lumpers Vagabundos	unos	los
+-	chgpb3	Lumper Escurridizo	un	el	Lumpers Escurridizos	unos	los
 -	chgpb4	Lumper Enérgico	un	el	Lumper Enérgicos		los
 -	chgpc1	Lumper Robusto	un	el	Lumpers Robustos		los
 -	chgpc2	Lumper Cuateloso	un	el	Lumpers Cautelosos		los
 -	chgpc3	Lumper Glotón	un	el	Lumpers Glotones		los
--	chgpc4	Lumper Gruñendo	un	el	Lumpers Gruñendo		los
+-	chgpc4	Lumper Gruñón	un	el	Lumpers Gruñones	unos	los
 -	chgpd1	Lumper Brusco	un	el	Lumpers Bruscos		los
 -	chgpd2	Lumper Obstinado	un	el	Lumpers Obstinados		los
 -	chgpd3	Lumper Enraizado	un	el	Lumpers Enraizados		los
--	chgpd4	Lumper Robando	un	el	Lumpers Robando		los
+-	chgpd4	Lumper Gorrón	un	el	Lumpers Gorrones	unos	los
 -	chgpe1	Lumper Irritado	un	el	Lumpers Irritados		los
 -	chgpe2	Lumper Vicioso	un	el	Lumpers Viciosos		los
 -	chgpe3	Lumper Salvaje	un	el	Lumpers Salvajes		los
@@ -1581,35 +1581,35 @@
 -	chgpf3	Lumper Feroz	un	el	Lumpers Feroces		los
 -	chhda1	Mektoub Lactante	un	el	Mektoubs Lactances		los
 -	chhda2	Mektoub Destetado	un	el	Mektoubs Destetados		los
--	chhda3	Mektoub Docil	un	el	Mektoubs Dociles		los
+-	chhda3	Mektoub Dócil	un	el	Mektoubs Dóciles	unos	los
 -	chhda4	Mektoub Sumiso	un	el	Mektoubs Sumisos		los
 -	chhdc5	Kussok					
 -	chhdd1	Mektoub Brusco	un	el	Mektoubs Bruscos		los
--	chhdd2	Mektoub Obstinados	un	el	Mektoubs Obstinados		los
+-	chhdd2	Mektoub Obstinado	un	el	Mektoubs Obstinados	unos	los
 -	chhdd3	Mektoub Enraizado	un	el	Mektoubs Enraizados		los
--	chhdd4	Mektoub Robando	un	el	Mektoubs Robando		los
+-	chhdd4	Mektoub Gorrón	un	el	Mektoubs Gorrones	unos	los
 -	chhdf1	Mektoub Furioso	un	el	Mektoubs Furiosos		los
 -	chhdf2	Mektoub Violento	un	el	Mektoubs Violentos		los
 -	chhdf3	Mektoub Feroz	un	el	Mektoubs Feroces		los
 -	chhfa1	Mektoub Lactante	un	el	Mektoubs Lactances		los
 -	chhfa2	Mektoub Destetado	un	el	Mektoubs Destetados		los
--	chhfa3	Mektoub Docil	un	el	Mektoubs Dociles		los
+-	chhfa3	Mektoub Dócil	un	el	Mektoubs Dóciles	unos	los
 -	chhfa4	Mektoub Sumiso	un	el	Mektoubs Sumisos		los
 -	chhfc1	Mektoub Robusto	un	el	Mektoubs Robustos		los
 -	chhfc2	Mektoub Cauteloso	un	el	Mektoubs Cautelosos		los
--	chhfc3	Mektoub Gloton	un	el	Mektoubs Glotones		los
--	chhfc4	Mektoub Grunendo	un	el	Mektoubs Grunendo		los
+-	chhfc3	Mektoub Glotón	un	el	Mektoubs Glotones	unos	los
+-	chhfc4	Mektoub Gruñón	un	el	Mektoubs Gruñones	unos	los
 -	chhfd1	Mektoub Brusco	un	el	Mektoubs Bruscos		los
 -	chhfd2	Mektoub Obstinado	un	el	Mektoubs Obstinados		los
 -	chhfd3	Mektoub Enraizado	un	el	Mektoubs Enraizados		los
--	chhfd4	Mektoubs Robando	un	el	Mektoubs Robando		los
+-	chhfd4	Mektoub Gorrón	un	el	Mektoubs Gorrones	unos	los
 -	chhja1	Mektoub Lactante	un	el	Mektoubs Lactances		los
 -	chhja2	Mektoub Destetado	un	el	Mektoubs Lactances		los
 -	chhja3	Mektoub Docil	un	el	Mektoubs Dociles		los
 -	chhja4	Mektoub Sumiso	un	el	Mektoubs Sumisos		los
 -	chhjb1	Mektoub Timorato	un	el	Mektoubs Timoratos		los
--	chhjb2	Mektoub Vagando	un	el	Mektoubs Vagando		los
--	chhjb3	Mektoub Correteando	un	el	Mektoubs Correteando		los
+-	chhjb2	Mektoub Vagabundo	un	el	Mektoubs Vagabundos	unos	los
+-	chhjb3	Mektoub Escurridizo	un	el	Mektoubs Escurridizos	unos	los
 -	chhjb4	Mektoub Enérgico	un	el	Mektoubs Enérgicos		los
 -	chhjf1	Mektoub Furioso	un	el	Mektoubs Furiosos		los
 -	chhjf2	Mektoub Violento	un	el	Mektoubs Violentos		los
@@ -1621,9 +1621,9 @@
 -	chhlc1	Mektoub Robusto	un	el	Mektoubs Robustos		los
 -	chhlc2	Mektoub Cauteloso	un	el	Mektoubs Cautelosos		los
 -	chhlc3	Mektoub Glotón	un	el	Mektoubs Glotones		los
--	chhlc4	Mektoub Gruñendo	un	el	Mektoubs Gruñendo		los
+-	chhlc4	Mektoub Gruñón	un	el	Mektoubs Gruñones	unos	los
 -	chhle1	Mektoub Irritado	un	el	Mektoubs Irritados		los
--	chhle2	Mektoub Viciosos	un	el	Mektoubs Viciosos		los
+-	chhle2	Mektoub Vicioso	un	el	Mektoubs Viciosos		los
 -	chhle3	Mektoub Salvaje	un	el	Mektoubs Salvajes		los
 -	chhle4	Mektoub Violento	un	el	Mektoubs Violentos		los
 -	chhlf1	Mektoub Furioso	un	el	Mektoubs Furiosos		los
@@ -1634,13 +1634,13 @@
 -	chhpa3	Mektoub Dócil	un	el	Mektoubs Dóciles		los
 -	chhpa4	Mektoub Sumiso	un	el	Mektoubs Sumisos		los
 -	chhpb1	Mektoub Timorato	un	el	Mektoubs Timoratos		los
--	chhpb2	Mektoub Vagando	un	el	Mektoubs Vagando		los
--	chhpb3	Mektoub Correteando	un	el	Mektoubs Correteando		los
+-	chhpb2	Mektoub Vagabundo	un	el	Mektoubs Vagabundos	unos	los
+-	chhpb3	Mektoub Escurridizo	un	el	Mektoubs Escurridizos	unos	los
 -	chhpb4	Mektoub Enérgico	un	el	Mektoubs Enérgicos		los
 -	chhpc1	Mektoub Robusto	un	el	Mektoubs Robustos		los
 -	chhpc2	Mektoub Cauteloso	un	el	Mektoubs Cautelosos		los
 -	chhpc3	Mektoub Glotón	un	el	Mektoubs Glotones		los
--	chhpc4	Mektoub Gruñendo	un	el	Mektoubs Gruñendo		los
+-	chhpc4	Mektoub Gruñón	un	el	Mektoubs Gruñones	unos	los
 -	chhpf1	Mektoub Furioso	un	el	Mektoubs Furiosos		los
 -	chhpf2	Mektoub Violento	un	el	Mektoubs Violentos		los
 -	chhpf3	Mektoub Feroz	un	el	Mektoubs Feroces		los
@@ -1765,17 +1765,17 @@
 -	chkda3	Timari Dócil	un	el	Timaris Dóciles		los
 -	chkda4	Timari Sumiso	un	el	Timaris Sumisos		los
 -	chkdb1	Timari Timorato	un	el	Timaris Timoratos		los
--	chkdb2	Timari Vagando	un	el	Timaris Vagando		los
--	chkdb3	Timari Correteando	un	el	Timaris Correteando		los
+-	chkdb2	Timari Vagabundo	un	el	Timaris Vagabundos	unos	los
+-	chkdb3	Timari Escurridizo	un	el	Timaris Escurridizos	unos	los
 -	chkdb4	Timari Enérgico	un	el	Timaris Enérgicos		los
 -	chkdc1	Timari Robusto	un	el	Timaris Robustos		el
 -	chkdc2	Timari Cauteloso	un	el	Timaris Cautelosos		los
 -	chkdc3	Timari Glotón	un	el	Timaris Glotones		los
--	chkdc4	Timari Gruñendo	un	el	Timaris Gruñendo		los
+-	chkdc4	Timari Gruñón	un	el	Timaris Gruñones	unos	los
 -	chkdd1	Timari Brusco	un	el	Timaris Bruscos		los
 -	chkdd2	Timari Obstiando	un	el	Timaris Obstiandos		los
 -	chkdd3	Timari Enraizado	un	el 	Timaris Enraizados		los
--	chkdd4	Timari Robando	un	e	Timaris Robando		los
+-	chkdd4	Timari Gorrón	un	e	Timaris Gorrones	unos	los
 -	chkde1	Timari Irritado	un	e	Timaris Irritados		los
 -	chkde2	Timari Vicioso	un	e	Timaris Viciosos		los
 -	chkde3	Timari Salvaje	un	e	Timaris Salvajes		los
@@ -1789,7 +1789,7 @@
 -	chkga4	Timari Infectado	un	el	Timaris Infectados		los
 -	chkgb1	Timari Nauseabundo	un	el	Timaris Nauseabundos		los
 -	chkgb2	Timari Maloliente	un	e	Timaris Malolientes		los
--	chkgb3	Timari Morbido	un	el	Timaris Morbidos		los
+-	chkgb3	Timari Mórbido	un	el	Timaris Mórbidos	unos	los
 -	chkgb4	Timari Envenenado	un	el	Timaris Envenenados		los
 -	chkgc1	Timari Plagado	un	el	Timaris Plagados		los
 -	chkgc2	Timari Enfermizo	un	el	Timaris Enfermizos		los
@@ -1811,17 +1811,17 @@
 -	chkja3	Timari Dócil	un	el	Timaris Dóciles		los
 -	chkja4	Timari Sumiso	un	el	Timaris Sumisos		los
 -	chkjb1	Timari Timorato	un	el	Timaris Timoratos		los
--	chkjb2	Timari Vagando	un	el	Timaris Vagando		los
--	chkjb3	Timari Correteando	un	el	Timaris Correteando		los
+-	chkjb2	Timari Vagabundo	un	el	Timaris Vagabundos	unos	los
+-	chkjb3	Timari Escurridizo	un	el	Timaris Escurridizos	unos	los
 -	chkjb4	Timari Enérgico	un	el	Timaris Enérgicos		los
 -	chkjc1	Timari Robusto	un	el	Timaris Robustos		los
 -	chkjc2	Timari Cauteloso	un	el	Timaris Cautelosos		los
 -	chkjc3	Timari Glotón	un	el	Timaris Glotones		los
--	chkjc4	Timari Gruñendo	un	el	Timaris Gruñendo		los
+-	chkjc4	Timari Gruñón	un	el	Timaris Gruñones	unos	los
 -	chkjd1	Timari Brusco	un	el	Timaris Bruscos		los
 -	chkjd2	Timari Obstinado	an	el	Timaris Obstiandos		los
 -	chkjd3	Timari Enraizado	un	el	Timaris Enraizados		los
--	chkjd4	Timari Robando	un	el	Timaris Robando		los
+-	chkjd4	Timari Gorrón	un	el	Timaris Gorrones	unos	los
 -	chkje1	Timari Irritado	un	el	Timaris Irritados		los
 -	chkje2	Timari Vicioso	un	el	Timaris Viciosos		los
 -	chkje3	Timari Salvaje	un	el	Timaris Salvajes		los
@@ -1831,24 +1831,24 @@
 -	chlda3	Yelk Dócil	un	el	Yelks Dóciles		los
 -	chlda4	Yelk Sumiso	un	el	Yelks Sumisos		los
 -	chldb1	Yelk Timorato	un	el	Yelks Timoratos		los
--	chldb2	Yelk Vagando	un	el	Yelks Vagando		los
--	chldb3	Yelk Correteando	un	el	Yelks Correteando		los
+-	chldb2	Yelk Vagabundo	un	el	Yelks Vagabundos	unos	los
+-	chldb3	Yelk Escurridizo	un	el	Yelks Escurridizos	unos	los
 -	chldb4	Yelk Enérgico	un	el	Yelks Enérgico		los
 -	chldc1	Yelk Robusto	un	el	Yelks Robustos		los
 -	chldc2	Yelk Cauteloso	un	el	Yelks Cautelosos		los
 -	chldc3	Yelk Glotón	un	el	Yelks Glotones		los
--	chldc4	Yelk Gruñendo	un	el	Yelks Gruñendo		los
+-	chldc4	Yelk Gruñón	un	el	Yelks Gruñones	unos	los
 -	chldd1	Yelk Brusco	un	el	Yelks Bruscos		los
 -	chldd2	Yelk Obstinado	un	el	Yelks Obstinados		los
 -	chldd3	Yelk Enraizado	un	el	Yelks Enraizados		los
--	chldd4	Yelk Robando	un	el	Yelks Robando		los
+-	chldd4	Yelk Gorrón	un	el	Yelks Gorrones	unos	los
 -	chldf1	Yelk Furioso	un	el	Yelks Furiosos		los
 -	chldf2	Yelk Violento	un	el	Yelks Violentos		los
 -	chldf3	Yelk Feroz	un	el	Yelks Feroces		los
 -	chlfa1	Yelk Lactante	un	el	Yelks Lactantes		los
 -	chlfa2	Yelk Destetado	un	el	Yelks Destetados		los
--	chlfa3	Dócil Yelk	un	el	Dóciles Yelks		los
--	chlfa4	Yelk Docil	un	el	Yelks Dociles		los
+-	chlfa3	Yelk Dócil	un	el	Yelks Dóciles	unos	los
+-	chlfa4	Yelk Dócil	un	el	Yelks Dóciles	unos	los
 -	chlfe1	Yelk Irritado	un	el	Yelks Irritados		los
 -	chlfe2	Yelk Vicioso	un	el	Yelks Viciosos		los
 -	chlfe3	Yelk Salvaje	un	el	Yelks Salvajes		los
@@ -1884,23 +1884,23 @@
 -	chlld1	Yelk Brusco	un	el	Yelks Bruscos		los
 -	chlld2	Yelk Obstinado	un	el	Yelks Obstinados		los
 -	chlld3	Yelk Enraizado	un	el	Yelks Enraizados		los
--	chlld4	Yelks Robando	un	el	Yelks Robando		los
+-	chlld4	Yelk Gorrón	un	el	Yelks Gorrones	unos	los
 -	chlpa1	Yelk Lactante	un	el	Yelks Lactantes		los
 -	chlpa2	Yelk Destetado	un	el	Yelks Destetados		los
 -	chlpa3	Yelk Dócil	un	el	Yelks Dóciles		los
 -	chlpa4	Yelk Sumiso	un	el	Yelks Sumisos		los
 -	chlpb1	Yelk Timorato	un	el	Yelk Timoratos		los
--	chlpb2	Yelks Vagando	un	el	Yelks Vagando		los
--	chlpb3	Yelk Correteando	un	el	Yelks Correteando		los
+-	chlpb2	Yelk Vagabundo	un	el	Yelks Vagabundos	unos	los
+-	chlpb3	Yelk Escurridizo	un	el	Yelks Escurridizos	unos	los
 -	chlpb4	Yelk Enérgico	un	el	Yelks Enérgico		los
 -	chlpc1	Yelk Robusto	un	el	Yelks Robustos		los
 -	chlpc2	Yelk Cauteloso	un	el	Yelks Cautelosos		los
 -	chlpc3	Yelk Glotón	un	el	Yelks Glotones		los
--	chlpc4	Yelk Gruñendo	un	el	Yelks Gruñendo		los
+-	chlpc4	Yelk Gruñón	un	el	Yelks Gruñones	unos	los
 -	chlpd1	Yelk Brusco	un	el	Yelks Bruscos		los
 -	chlpd2	Yelks Obstinado	un	el	Yelks Obstinados		los
 -	chlpd3	Yelk Enraizado	un	el	Yelks Enraizados		los
--	chlpd4	Yelk Robando	un	el	Yelks Robando		los
+-	chlpd4	Yelk Gorrón	un	el	Yelks Gorrones	unos	los
 -	chlpe1	Yelk Irritado	un	el	Yelks Irritados		los
 -	chlpe2	Yelk Vicioso	un	el	Yelks Viciosos		los
 -	chlpe3	Yelk Salvaje	un	el	Yelks Salvajes		los
@@ -1911,23 +1911,23 @@
 -	chmdd1	Raspal Brusco	un	el	Raspals Bruscos		los
 -	chmdd2	Raspal Obstinado	an	el	Raspales Obstiandos		los
 -	chmdd3	Raspal Enraizado	un	el	Raspals Enraizados		los
--	chmdd4	Raspal Robando	un	el	Raspals Robando		los
+-	chmdd4	Raspal Gorrón	un	el	Raspals Gorrones	unos	los
 -	chmfc1	Raspal Robusto	un	el	Raspal Robustos		los
 -	chmfc2	Raspal Cauteloso	un	el	Raspals Cautelosos		los
 -	chmfc3	Raspal Glotón	un	el	Raspals Glotones		los
--	chmfc4	Raspal Gruñendo	un	el	Raspals Gruñendo		los
--	chnfd1	Bawaad Brusco	un	el	Raspals Bruscos		los
--	chnfd2	Bawaad Obstinado	un	el	Bawaads Obstinados		los
--	chnfd3	Bawaad Enraizado	un	el 	Bawaads Enraizados		los
--	chnfd4	Bawwad Robando	un	el	Bawaads Robando		los
--	chnjc1	Bawaad Robusto	un	el	Bawaads Robustos		los
+-	chmfc4	Raspal Gruñón	un	el	Raspals Gruñones	unos	los
+-	chnfd1	Bawaab Brusco	un	el	Bawaabs Bruscos	unos	los
+-	chnfd2	Bawaab Obstinado	un	el	Bawaabs Obstinados	unos	los
+-	chnfd3	Bawaab Enraizado	un	el	Bawaabs Enraizados	unos	los
+-	chnfd4	Bawaab Gorrón	un	el	Bawaabs Gorrones	unos	los
+-	chnjc1	Bawaab Robusto	un	el	Bawaabs Robustos	unos	los
 -	chnjc2	Bawaad Cauteloso	un	el	Bawaads Cautelosos		los
--	chnjc3	Bawaad Glotón	un	el	Bawaads Glotones		los
--	chnjc4	Bawaad Gruñendo	un	el	Bawaads Gruñendo		los
+-	chnjc3	Bawaab Glotón	un	el	Bawaabs Glotones	unos	los
+-	chnjc4	Bawaab Gruñón	un	el	Bawaabs Gruñones	unos	los
 -	chofc1	Frippo Robusto	un	el	Frippos Robustos		los
 -	chofc2	Frippo Cauteloso	un	el	Frippos Cautelosos		los
 -	chofc3	Frippo Glotón	un	el	Frippos Glotones		los
--	chofc4	Frippo Gruñendo	un	el	Frippos Gruñendo		los
+-	chofc4	Frippo Gruñón	un	el	Frippos Gruñones	unos	los
 -	chogb1	Frippo Nauseabundo	un	el	Frippos Nauseabundos		los
 -	chogb2	Frippo Maloliente	un	el	Frippos Malolientes		los
 -	chogb3	Frippo Mórbido	un	el	Frippos Mórbidos		los
@@ -1949,13 +1949,13 @@
 -	chogf3	Frippo Diabólico	un	el	Frippos Diabólicos		los
 -	chogf4	Frippo Letal	un	el	Frippos Letales		los
 -	chpdc1	Rendor Robusto	un	el	Rendors Robustos		los
--	chpdc2	Rendor Cautelosos	un	el	Rendors Cautelosos		los
+-	chpdc2	Rendor Cauteloso	un	el	Rendors Cautelosos	unos	los
 -	chpdc3	Rendor Glotón	un	el	Rendors Glotones		los
--	chpdc4	Rendor Gruñendo	un	el	Rendors Gruñendo		los
+-	chpdc4	Rendor Gruñón	un	el	Rendors Gruñones	unos	los
 -	chpfd1	Rendor Brusco	un	el 	Rendors Bruscos		los
 -	chpfd2	Rendor Obstinado	un	el	Rendors Obstinados		los
 -	chpfd3	Rendor Enraizado	un	el	Rendors Enraizados		los
--	chpfd4	Rendors Robando	un	el	Rendors Robando		los
+-	chpfd4	Rendor Gorrón	un	el	Rendors Gorrones	unos	los
 -	chqfe1	Gnoof Irritado	un	el	Gnoofs Irritados		los
 -	chqfe2	Gnoof Vicioso	un	el	Gnoofs Viciosos		los
 -	chqfe3	Gnoof Salvaje	un	el	Gnoofs Salvajes		los
@@ -1963,7 +1963,7 @@
 -	chqlc1	Gnoof Robusto	un	el	Gnoof Robustos		los
 -	chqlc2	Gnoof Cauteloso	un	el	Gnoofs Cautelosos		los
 -	chqlc3	Gnoof Glotón 	un	el	Gnoofs Glotones		los
--	chqlc4	Gnoof Gruñendo	un	el	Gnoofs Grunendo		los
+-	chqlc4	Gnoof Gruñón	un	el	Gnoofs Gruñones	unos	los
 -	chrfe1	Bolobi Irritado	un	el	Bolobis Irritados		los
 -	chrfe2	Bolobi Vicioso	un	el	Bolobis Viciosos		los
 -	chrfe3	Bolobi Salvaje	un	el	Bolobis Salvajes		los
@@ -1977,7 +1977,7 @@
 -	chsdf3	Shalah Feroz	un	el	Shalahs Feroces		los
 -	chsdf4	Shalah Voraz	un	el	Shalahs Voraces		los
 -	chsle1	Shalah Irritado	un	el	Shalahs Irritados		los
--	chsle2	Shalah Viciosos	un	el 	Shalahs Viciosos		los
+-	chsle2	Shalah Vicioso	un	el	Shalahs Viciosos	unos	los
 -	chsle3	Shalah Salvaje	un	el	Shalahs Salvajes		los
 -	chsle4	Shalah Violento	un	el	Shalahas Violentos		los
 -	chtde1	Ploderos Irritados	un	el 	Ploderoses Irritados		los
@@ -2020,8 +2020,8 @@
 -	chxpe2	Gubani Vicioso	un	el	Gubanis Viciosos		los
 -	chxpe3	Gubani Salvaje	un	el	Gubanis Salvajes		los
 -	chxpe4	Gubani Violento	un	el	Gubanis Violentos		los
--	ckada1	Kidinak Cauteloso	un	el	Kidinaks Cautelosos		los
--	ckada2	Kidinak Insignificante	un	el	Kidkinaks Insignificantes		los
+-	ckada1	Kidinak Diminuto	un	el	Kidinaks Diminutos	unos	los
+-	ckada2	Kidinak Enclenque	un	el	Kidkinaks Enclenques	unos	los
 -	ckada3	Kidinak Endeble	un	el	Kidinaks Endebles		los
 -	ckada4	Kidinak Joven	un	el	Kidinaks Jóvenes		los
 -	ckadb1	Kidinak Vigoroso	un	el	Kidinaks Vigorosos		los
@@ -2090,8 +2090,8 @@
 -	ckalf2	Kidinak Lacerante	un	el	Kidinaks Lacerantes		los
 -	ckalf3	Kidinak Asesino	un	el	Kidinaks Asesinos		los
 -	ckalf4	Kidinak Grandioso	un	el	Kidinaks Grandiosos		los
--	ckapa1	Kidinak Cuateloso	un	el	Kidinaks Cautelosos		los
--	ckapa2	Kidinak Insignificante	un	el	Kidinaks Insingificantes		los
+-	ckapa1	Kidinak Diminuto	un	el	Kidinaks Diminutos	unos	los
+-	ckapa2	Kidinak Enclenque	un	el	Kidinaks Enclenques	unos	los
 -	ckapa3	Kidinak Débil	un	el	Kidinaks Débiles		los
 -	ckapa4	Kidinak Joven	un	el	Kidinaks Jovne		los
 -	ckapb1	Kidinak Vigoroso	un	el	Kidinaks Vigorosos		los
@@ -2113,8 +2113,8 @@
 -	ckapf1	Kidinak Horrible	un	el	Kidinaks Horribles		los
 -	ckapf2	Kidinak Lacerante	un	el	Kidinaks Lacerantes		los
 -	ckapf3	Kidinak Asesino	un	el	Kidinaks Asesinos		los
--	ckbda1	Kinrey Cauteloso	un	el	Kinreys Cautelosos		los
--	ckbda2	Kinrey Insignificante	un	el	Kinreys Insignificantes		los
+-	ckbda1	Kinrey Diminuto	un	el	Kinreys Diminutos	unos	los
+-	ckbda2	Kinrey Enclenque	un	el	Kinreys Enclenques	unos	los
 -	ckbda3	Kinrey Endeble	un	el	Kinreys Endebles		los
 -	ckbda4	Kinrey Joven	un	el	Kinreys Jovenes		los
 -	ckbdb1	Kinrey Vigoroso	un	el	Kinreys Vigorosos		los
@@ -2136,8 +2136,8 @@
 -	ckbdf1	Kinreys Horrible	un	el	Kinreys Horribles		the
 -	ckbdf2	Kinrey Lacerante	un	el	Kinreys Lacerantes		los
 -	ckbdf3	Kinrey Asesino	un	el	Kinreys Asesinos		los
--	ckbfa1	Kinreys Cauteloso	un	el	Kinreys Cautelosos		los
--	ckbfa2	Kinrey Insignificante	un	el	Kinreys Insignificantes		los
+-	ckbfa1	Kinrey Diminuto	un	el	Kinreys Diminutos	unos	los
+-	ckbfa2	Kinrey Enclenque	un	el	Kinreys Enclenques	unos	los
 -	ckbfa3	Kinrey Endeble	un	el	Kinreys Endebles		los
 -	ckbfa4	Kinrey Joven	un	el	Kinreys Jóvenes		los
 -	ckbfb1	Kinrey Vigoroso	un	el	Kinreys Vigorosos		los
@@ -2165,7 +2165,7 @@
 -	ckbga4	Kinrey Infectado	un	el	Kinreys Infectados		los
 -	ckbgb1	Kinrey Nauseabundo	un	el	Kinreys Nauseabundo		los
 -	ckbgb2	Kinrey Maloliente	un	el	Kinreys Malolientes		los
--	ckbgb3	Kinrey Morbido	un	el	Kinreys Morbidos		los
+-	ckbgb3	Kinrey Mórbido	un	el	Kinreys Mórbidos	unos	los
 -	ckbgb4	Kinrey Envenenado	un	el	Kinreys Envenenados		los
 -	ckbgc1	Kinrey Plagado	un	el	Kinreys Plagados		los
 -	ckbgc2	Kinrey Enfermizo	un	el	Kinreys Enfermizos		los
@@ -2190,8 +2190,8 @@
 -	ckbjf2	Kinrey Lacerante	un	el	Kinreys Lacerantes		los
 -	ckbjf3	Kinrey Asesino	un	el	Kinreys Asesinos		los
 -	ckbjf4	Kinrey Grandioso	un	el	Kinreys Grandiosos		los
--	ckbla1	Kinrey Cauteloso	un	el	Kinreys Cautelosos		los
--	ckbla2	Kinrey Insignificante	un	el	Kinreys Insignificantes		los
+-	ckbla1	Kinrey Diminuto	un	el	Kinreys Diminutos	unos	los
+-	ckbla2	Kinrey Enclenque	un	el	Kinreys Enclenques	unos	los
 -	ckbla3	Kinrey Endeble	un	el	Kinreys Endebles		los
 -	ckbla4	Kinrey Joven	un	el	Kinreys Jovenes		los
 -	ckblb1	Kinrey Vigoroso	un	el	Kinreys Vigorosos		los
@@ -2213,8 +2213,8 @@
 -	ckblf1	Kinrey Horrible	un	el	Kinreys Horribles		los
 -	ckblf2	Kinrey Lacerante	un	el	Kinreys Lacerantes		los
 -	ckblf3	Kinrey Asesino	un	el	Kinreys Asesinos		los
--	ckbpa1	Kinrey Cauteloso	un	el	Kinreys Cautelosos		los
--	ckbpa2	Kinrey Insignificante	un	el	Kinreys Insignificantes		los
+-	ckbpa1	Kinrey Diminuto	un	el	Kinreys Diminutos	unos	los
+-	ckbpa2	Kinrey Enclenque	un	el	Kinreys Enclenques	unos	los
 -	ckbpa3	Kinrey Endeble	un	el	Kinreys Endebles		los
 -	ckbpa4	Kinrey Joven	un	el	Kinreys Jóvenes		los
 -	ckbpb1	Kinrey Vigoroso	un	el	Kinreys Vigorosos		los
@@ -2236,8 +2236,8 @@
 -	ckbpf1	Kinrey Horrible	un	el	Kinreys Horribles		los
 -	ckbpf2	Kinrey Lacerante	un	el	Kinreys Lacerantes		los
 -	ckbpf3	Kinrey Asesino	un	el	Kinreys Asesinos		los
--	ckcda1	Kizark Cauteloso	un	el	Kizaraks Cautelosos		los
--	ckcda2	Kizarak Insignificante	un	el	Kizaraks Insignificantes		los
+-	ckcda1	Kizarak Diminuto	un	el	Kizaraks Diminutos	unos	los
+-	ckcda2	Kizarak Enclenque	un	el	Kizaraks Enclenques	unos	los
 -	ckcda3	Kizarak Endeble	un	el	Kizaraks Endebles		los
 -	ckcda4	Kizarak Joven	un	el	Kizaraks Jóvenes		los
 -	ckcdb1	Kizarak Vigoroso	un	el	Kizaraks Vigorosos		los
@@ -2259,8 +2259,8 @@
 -	ckcdf1	Kizarak Horrible	un	el	Kizaraks Horribles		los
 -	ckcdf2	Kizarak Lacerante	un	el	Kizaraks Lacerantes		los
 -	ckcdf3	Kizarak Asesino	un	el	Kizaraks Asesinos		los
--	ckcfa1	Kizarak Cauteloso	un	el	Kizaraks Cautelosos		los
--	ckcfa2	Kizarak Insignificante	un	el	Kizaraks Insignificantes		los
+-	ckcfa1	Kizarak Diminuto	un	el	Kizaraks Diminutos	unos	los
+-	ckcfa2	Kizarak Enclenque	un	el	Kizaraks Enclenques	unos	los
 -	ckcfa3	Kizarak Endeble	un	el	Kizaraks Endebles		los
 -	ckcfa4	Kizarak Joven	un	el	Kizaraks Jóvenes		los
 -	ckcfb1	Kizarak Vigoroso	un	el	Kizaraks Vigorosos		los
@@ -2305,8 +2305,8 @@
 -	ckcgf1	Kizarak Demente	un	el	Kizaraks Dementes		los
 -	ckcgf2	Kizarak Frenético	un	el	Kizaraks Frenéticos		los
 -	ckcgf3	Kizarak Diabólico	un	el	Kizaraks Diabólicos		los
--	ckcja1	Kizarak Cauteloso	un	el	Kizaraks Cuatelosos		los
--	ckcja2	Kizarak Insignificante	un	el	Kizaraks Insignificantes		los
+-	ckcja1	Kizarak Diminuto	un	el	Kizaraks Diminutos	unos	los
+-	ckcja2	Kizarak Enclenque	un	el	Kizaraks Enclenques	unos	los
 -	ckcja3	Kizarak Endeble	un	el	Kizaraks Endebles		los
 -	ckcja4	Kizark Joven	un	el	Kizaraks Jovenes		los
 -	ckcjb1	Kizarak Vigoroso	un	el	Kizaraks Vigorosos		los
@@ -2362,7 +2362,7 @@
 -	ckdga4	Kincher Infectado	un	el	Kinchers Infectados		los
 -	ckdgb1	Kincher Nauseabundo	un	el	Kinchers Nauseabundos		los
 -	ckdgb2	Kincher Maloliente	un	el	Kinchers Malolientes		los
--	ckdgb3	Kincher Morbido	un	el	Kinchers Morbidos		los
+-	ckdgb3	Kincher Mórbido	un	el	Kinchers Mórbidos	unos	los
 -	ckdgb4	Kincher Envenenado	un	el	Kinchers Envenenado		los
 -	ckdgc1	Kincher Plagado	un	el	Kinchers Plagados		los
 -	ckdgc2	Kincher Enfermizo	un	el	Kinchers Enfermizo		los
@@ -2379,8 +2379,8 @@
 -	ckdgf1	Kincher Demente	un	el	Kinchers Dementes		los
 -	ckdgf2	Kincher Frenético	un	el	Kinchers Frenéticos		los
 -	ckdgf3	Kincher Diabólico	un	el	Kinchers Diabólicos		los
--	ckdja1	Kincher Cauteloso	un	el	Kinchers Cuatelosos		los
--	ckdja2	Kincher Insignificante	un	el	Kinchers Insignificantes		los
+-	ckdja1	Kincher Diminuto	un	el	Kinchers Diminutos	unos	los
+-	ckdja2	Kincher Enclenque	un	el	Kinchers Enclenques	unos	los
 -	ckdja3	Kincher Endeble	un	el	Kinchers Endebles		los
 -	ckdja4	Kincher Joven	un	el	Kinchers Jovenes		los
 -	ckdjb1	Kincher Vigoroso	un	el	Kinchers Vigorosos		los
@@ -2436,8 +2436,8 @@
 -	ckedf2	Kipucka Lacerante	una	la	Kipuckas Lacerantes		las
 -	ckedf3	Kipucak Asesina	una	la	Kipuckas Asesinas		las
 -	ckedf4	Kipucka Grandiosa	una	la	Kipuckas Grandiosas		las
--	ckefa1	Kipucka Cautelosa	una	la	Kipuckas Cautelosas		las
--	ckefa2	Kipucka Indignada	una	la	Kipuckas Indignadas		las
+-	ckefa1	Kipucka Diminuta	una	la	Kipuckas Diminutas	unas	las
+-	ckefa2	Kipucka Enclenque	una	la	Kipuckas Enclenques	unas	las
 -	ckefa3	Kipucka Endeble	una	la	Kipuckas Endebles		las
 -	ckefa4	Kipucka Joven	una	la	Kipuckas Jóvenes		las
 -	ckefb1	Kipucka Vigorosa	una	la	Jipuchas Vigorosas		las
@@ -2499,8 +2499,8 @@
 -	ckelf2	Kipucka Lacerante	una	la	Kipuckas Lacerantes		las
 -	ckelf3	Kipucka Asesina	una	la	Kipuckas Asesinas		las
 -	ckelf4	Kipucka Grandiosa	una	la	Kipuckas Grandiosas		las
--	ckepa1	Kipucka Cautelosa	una	la	Kipuckas Cautelosas		las
--	ckepa2	Kipucka Insignificante	una	la	Kipuckas Insingnificantes		las
+-	ckepa1	Kipucka Diminuta	una	la	Kipuckas Diminutas	unas	las
+-	ckepa2	Kipucka Enclenque	una	la	Kipuckas Enclenques	unas	las
 -	ckepa3	Kipucka Endeble	una	la	Kipuckas Endebles		las
 -	ckepa4	Kipucka Joven	una	la	Kipuckas Jovenes		las
 -	ckepb1	Kipucka Vigorosa	una	la	Kipuckas Vigorosas		las
@@ -2522,8 +2522,8 @@
 -	ckepf1	Kipucka Horrible	una	la	Kipuckas Horribles		las
 -	ckepf2	Kipucka Lacerante	una	la	Kipuckas Lacerantes		las
 -	ckepf3	Kipucka Asesina	una	la	Kipuckas Asesinas		las
--	ckfda1	Kirosta Cautelosa	una	la	Kirostas Cautelosas		las
--	ckfda2	Kirosta Insignificante	una	la	Kirostas Insignificante		las
+-	ckfda1	Kirosta Diminuta	una	la	Kirostas Diminutas	unas	las
+-	ckfda2	Kirosta Enclenque	una	la	Kirostas Enclenques	unas	las
 -	ckfda3	Kirosta Endeble	una	la	Kirostas Endebles		las
 -	ckfda4	Kirosta Joven	una	la	Kirostas Jóvenes		las
 -	ckfdb1	Kirosta Vigorosa	una	la	Kirostas Vigorosas		las
@@ -2561,14 +2561,14 @@
 -	ckfga4	Kirosta Infectada	una	la	Kirostas Infectadas		las
 -	ckfgb1	Kirosta Nauseabunda	una	la	Kirostas Nauseabundas		las
 -	ckfgb2	Kirosta Maloliente	una	la	Kirostas Malolientes		las
--	ckfgb3	Kirosta Morbida	una	la	Kirostas Morbidas		las
+-	ckfgb3	Kirosta Mórbida	una	la	Kirostas Mórbidas	unas	las
 -	ckfgb4	Kirosta Envenenada	una	la	Kirostas Envenenadas		las
 -	ckfgc1	Kirosta Plagada	una	la	Kirostas Plagadas		las
 -	ckfgc2	Kirosta Enfermiza	una	la	Kirostas Enfermizas		las
 -	ckfgc3	Kirosta Putrefacta	una	la	Kirostas Putrefactas		las
 -	ckfgc4	Kirosta Virulenta	una	la	Kirostas Virulentas		las
--	ckfja1	Kirosta Cautelosa	una	la	Kirostas Cautelosas		las
--	ckfja2	Kirosta Insignificante	una	la	Kirostas Insignificantes		las
+-	ckfja1	Kirosta Diminuta	una	la	Kirostas Diminutas	unas	las
+-	ckfja2	Kirosta Enclenque	una	la	Kirostas Enclenques	unas	las
 -	ckfja3	Kirosta Endeble	una	la	Kirostas Endebles		las
 -	ckfja4	Kirosta Joven	una	la	Kirostas Jóvenes		las
 -	ckfjb1	Kirosta Vigorosa	una	la	Kirostas Vigorosas		las
@@ -2655,8 +2655,8 @@
 -	ckgjf2	Kiban Lacerante	un	el	Kibans Lacerantes		los
 -	ckgjf3	Kiban Asesino	un	el	Kibans Asesinos		los
 -	ckgjf4	Kiban Grandioso	un	el	Kibans Grandiosos		los
--	ckgla1	Kiban Cauteloso	un	el	Kibans Cautelosos		los
--	ckgla2	Kiban Insignificante	un	el	Kibans Insignificantes		los
+-	ckgla1	Kiban Diminuto	un	el	Kibans Diminutos	unos	los
+-	ckgla2	Kiban Enclenque	un	el	Kibans Enclenques	unos	los
 -	ckgla3	Kiban Débil	un	el	Kibans Débiles		los
 -	ckgla4	Kiban Joven	un	el	Kibans Jóvenes		los
 -	ckglb1	Kiban Vigoroso	un	el	Kibans Vigorosos		los
@@ -2679,8 +2679,8 @@
 -	ckglf1	Kiban Horrible	un	el	Kibans Horribles		los
 -	ckglf2	Kiban Lacerante	un	el	Kibans Lacerantes		los
 -	ckglf3	Kiban Asesino	un	el	Kibans Asesinos		los
--	ckgpa1	Kiban Cauteloso	un	el	Kibans Cautelosos		los
--	ckgpa2	Kiban Insignificante	un	el	Kibans Insignficantes		los
+-	ckgpa1	Kiban Diminuto	un	el	Kibans Diminutos	unos	los
+-	ckgpa2	Kiban Enclenque	un	el	Kibans Enclenques	unos	los
 -	ckgpa3	Kiban Endeble	un	el	Kibans Endebles		los
 -	ckgpa4	Kiban Joven	un	el	Kibans Jovenes		los
 -	ckgpb1	Kiban Vigoroso	un	el	Kibans Vigorosos		los
@@ -2701,8 +2701,8 @@
 -	ckgpf1	Kiban Horrible	un	el	Kibans Horribles		los
 -	ckgpf2	Kiban Lacerante	un	el	Kibans Lacerantes		los
 -	ckgpf3	Kiban Asesino	un	el	Kibans Asesinos		los
--	ckhda1	Kipees Cauteloso	un	el	Kipees Cauteloso		los
--	ckhda2	Kipee Insignificante	un	el	Kipees Insignificantes		los
+-	ckhda1	Kipee Diminuto	un	el	Kipees Diminutos	unos	los
+-	ckhda2	Kipee Enclenque	un	el	Kipees Enclenques	unos	los
 -	ckhda3	Kipee Endeble	un	el	Kipees Endebles		los
 -	ckhda4	Kipee Joven	un	el	Kipees Jóvenes		los
 -	ckhdb1	Hipee Vigoroso	un	el	Kipees Vigorosos		los
@@ -2725,8 +2725,8 @@
 -	ckhdf1	Kipee Horrible	un	el	Kipees Horribles		los
 -	ckhdf2	Kipees Lacerante	un	el	Kipees Lacerantes		los
 -	ckhdf3	Kipee Asesino	un	el	Kipees Asesinos		los
--	ckhfa1	Kipee Cauteloso	un	el	Kipees Cautelosos		los
--	ckhfa2	Kipee Insignificante	un	el	Kipees Insignificantes		los
+-	ckhfa1	Kipee Diminuto	un	el	Kipees Diminutos	unos	los
+-	ckhfa2	Kipee Enclenque	un	el	Kipees Enclenques	unos	los
 -	ckhfa3	Kipee Endeble	un	el	Kipees Endebles		los
 -	ckhfa4	Kipee Joven	un	el	Kipees Jóvenes		los
 -	ckhfb1	Kipee Vigoroso	un	el	Kipees Vigorosos		los
@@ -2748,8 +2748,8 @@
 -	ckhff1	Kipee Horrible	un	el	Kipees Horribles		los
 -	ckhff2	Kipee Lacerante	un	el	Kipees Lacerantes		los
 -	ckhff3	Kipee Asesino	un	el	Kipees Asesinos		los
--	ckhja1	Kipee Cauteloso	un	el	Kipees Cautelosos		los
--	ckhja2	Kipee Insignificante	un	el	Kipees Insignificantes		los
+-	ckhja1	Kipee Diminuto	un	el	Kipees Diminutos	unos	los
+-	ckhja2	Kipee Enclenque	un	el	Kipees Enclenques	unos	los
 -	ckhja3	Kipee Endeble	un	el	Kipees Endebles		los
 -	ckhja4	Kipee Joven	un	el	Kipees Jóvenes		los
 -	ckhjb1	Kipee Vigoroso	un	el	Kipees Vigorosos		los
@@ -2771,8 +2771,8 @@
 -	ckhjf1	Kipee Horrible	un	el	Kipees Horribles		los
 -	ckhjf2	Kipee Lacerante	un	el	Kipees Lacerantes		los
 -	ckhjf3	Kipee Asesino	un	el	Kipees Asesinos		los
--	ckhla1	Kipee Cauteloso	un	el	Kipees Cautelosos		los
--	ckhla2	Kipee Insignificante	un	el	Kipees Insignificantes		los
+-	ckhla1	Kipee Diminuto	un	el	Kipees Diminutos	unos	los
+-	ckhla2	Kipee Enclenque	un	el	Kipees Enclenques	unos	los
 -	ckhla3	Kipee Endeble	un	el	Kipees Endebles		los
 -	ckhla4	Kipee Joven	un	el	Kipees Jóvenes		los
 -	ckhlb1	Kipee Vigoroso	un	el	Kipees Vigorosos		los
@@ -2794,8 +2794,8 @@
 -	ckhlf1	Kipee Horrible	un	el	Kipees Horribles		los
 -	ckhlf2	Kipee Lacerante	un	el	Kipees Lacerantes		los
 -	ckhlf3	Kipee Asesino	un	el	Kipees Asesinos		los
--	ckhpa1	Kipee Cauteloso	un	el	Kipees Cautelosos		los
--	ckhpa2	Kipees Insignificant	un	el	Kipees Insignificantes		los
+-	ckhpa1	Kipee Diminuto	un	el	Kipees Diminutos	unos	los
+-	ckhpa2	Kipee Enclenque	un	el	Kipees Enclenques	unos	los
 -	ckhpa3	Kipee Endeble	un	el	Kipees Endebles		los
 -	ckhpa4	Kipee Joven	un	el	Kipees Jóvenes		los
 -	ckhpb1	Kipee Vigoroso	un	el	Kipees Vigorosos		los
@@ -2817,8 +2817,8 @@
 -	ckhpf1	Kipee Horrible	un	el	Kipees Horribles		los
 -	ckhpf2	Kipee Lacerante	un	el	Kipees Lacerantes		los
 -	ckhpf3	Kipee Asesino	un	el	Kipees Asesinos		los
--	ckida1	Kizoar Cauteloso	un	el	Kizoars Cautelosos		los
--	ckida2	Kizoar Insignificante	un	el	Kizoars Insignificantes		los
+-	ckida1	Kizoar Diminuto	un	el	Kizoars Diminutos	unos	los
+-	ckida2	Kizoar Enclenque	un	el	Kizoars Enclenques	unos	los
 -	ckida3	Kizoar Endeble	un	el	Kizoars Endebles		los
 -	ckida4	Kizoar Joven	un	el	Kizoars Jóvenes		los
 -	ckidb1	Kizoar Vigoroso	un	el	Kizoars Vigorosos		los
@@ -2879,8 +2879,8 @@
 -	ckigf1	Kizoar Demente	un	el	Kizoars Dementes		los
 -	ckigf2	Kizoar Frenético	un	el	Kizoars Frenéticos		los
 -	ckigf3	Kizoar Diabólico	un	el	Kizoars Diabólicos		los
--	ckija1	Kizoar Cauteloso	un	el	Kizoars Cautelosos		los
--	ckija2	Kizoar Indignado	un	el	Kizoars Indignados		los
+-	ckija1	Kizoar Diminuto	un	el	Kizoars Diminutos	unos	los
+-	ckija2	Kizoar Enclenque	un	el	Kizoars Enclenques	unos	los
 -	ckija3	Kizoar Endeble	un	el	Kizoars Endebles		los
 -	ckija4	Kizoar Joven	un	el	Kizoars Jóvenes		los
 -	ckijb1	Kizoar Vigoroso	un	el	Kizoars Vigorosos		los
@@ -2919,8 +2919,8 @@
 -	ckilf2	Kizoar Lacerante	un	el	Kizoars Lacerantes		los
 -	ckilf3	Kizoar Asesino	un	el	Kizoars Asesinos		los
 -	ckilf4	Kizoar Grandioso	un	el	Kizoars Grandiosos		los
--	ckipa1	Kizoar Cauteloso	un	el	Kizoars Cautelosos		los
--	ckipa2	Kizoar Insignificante	un	el	Kizoars Insignificantes		los
+-	ckipa1	Kizoar Diminuto	un	el	Kizoars Diminutos	unos	los
+-	ckipa2	Kizoar Enclenque	un	el	Kizoars Enclenques	unos	los
 -	ckipa3	Kizoar Endeble	un	el	Kizoars Endebles		los
 -	ckipa4	Kizoar Joven	un	el	Kizoars Jóvenes		los
 -	ckipb1	Kizoar Vigoroso	un	el	Kizoars Vigorosos		los
@@ -2972,7 +2972,7 @@
 -	ckjga4	Kipesta Infectada	una	la	Kipestas Infectadas		las
 -	ckjgb1	Kipesta Nauseabunda	una	la	Kipestas Nauseabundas		las
 -	ckjgb2	Kipesta Maoliente	una	la	Kipestas Malolientes		las
--	ckjgb3	Kipesta Morbida	una	la	Kipestas Morbidas		las
+-	ckjgb3	Kipesta Mórbida	una	la	Kipestas Mórbidas	unas	las
 -	ckjgb4	Kipestas Envenenada	una	la	Kipestas Envenenadas		las
 -	ckjgc1	Kipesta Plagada	una	la	Kipestas Plagadaas		las
 -	ckjgc2	Kipesta Enfermiza	una	la	Kipestas Enfermizas		las
@@ -3013,8 +3013,8 @@
 -	ckjlf2	Kipesta Lacerante	una	la	Kipestas Lacerantes		las
 -	ckjlf3	Kipesta Asesina	una	la	Kipestas Asesinas		las
 -	ckjlf4	Kipesta Grandiosa	una	la	Kipestas Asesinas		las
--	ckjpa1	Kipesta Cautelosa	una	la	Kipestas Cautelosas		las
--	ckjpa2	Kipesta Insignificante	una	la	Kipestas Insignificantes		las
+-	ckjpa1	Kipesta Diminuta	una	la	Kipestas Diminutas	unas	las
+-	ckjpa2	Kipesta Enclenque	una	la	Kipestas Enclenques	unas	las
 -	ckjpa3	Kipesta Endeble	una	la	Kipestas Endebles		las
 -	ckjpa4	Kipesa Joven	una	la	Kipestas Jóvenes		las
 -	ckjpb1	Kipesta Vigorosa	una	la	Kipestas Vigorosas		las
@@ -3042,7 +3042,7 @@
 -	cpaga4	Jubla Infectada	una	la	Jublas Infectadas		las
 -	cpagb1	Jubla Nauseabunda	una	la	Jublas Nauseabundas		las
 -	cpagb2	Jubla Maloliente	una	la	Jublas Malolientes		las
--	cpagb3	Jubla Morbida	una	la	Jublas Morbidas		las
+-	cpagb3	Jubla Mórbida	una	la	Jublas Mórbidas	unas	las
 -	cpagb4	Jubla Envenenada	una	la	Jublas Envenenadas		las
 -	cpagc1	Jubla Plagada	una	la	Jublas Plagadas		las
 -	cpagc2	Jubla Enfermiza	una	la	Jublas Enfermizas		las
@@ -3139,7 +3139,7 @@
 -	cpcga4	Psykopla Infectada	una	la	Psykoplas Infectadas		las
 -	cpcgb1	Psykopla Nauseabunda	una	la	Psykoplas Nauseabundas		las
 -	cpcgb2	Psykopla Maloliente	una	la	Psykoplas Malolientes		las
--	cpcgb3	Psykopla Morbida	una	la	Psykoplas Morbidas		las
+-	cpcgb3	Psykopla Mórbida	una	la	Psykoplas Mórbidas	unas	las
 -	cpcgb4	Psykopla Envenenada	una	la	Psykoplas Envenenadas		las
 -	cpcgc1	Psykopla Plagada	una	la	Psykoplas Plagadas		las
 -	cpcgc2	Psykopla Enfermiza	una	la	Psykoplas Enfermizas		las
@@ -3258,7 +3258,7 @@
 -	cpefe4	Cratcha Sacudida	una	la	Cratchas Sacudidas		las
 -	cpegb1	Cratcha Nauseabunda	una	la	Cratchas Nauseabundas		las
 -	cpegb2	Cratcha Maloliente	una	la	Cratchas Malolientes		las
--	cpegb3	Cratcha Morbida	una	la	Cratchas Morbidas		las
+-	cpegb3	Cratcha Mórbida	una	la	Cratchas Mórbidas	unas	las
 -	cpegb4	Cratcha Envenenada	una	la	Cratchas Envenenadas		las
 -	cpegc1	Cratcha Plagada	una	la	Cratchas Plagadas		las
 -	cpegc2	Cratcha Enfermiza	una	la	Cratchas Enfermizas		las
@@ -3353,14 +3353,14 @@
 -	ckdle5	Chaghan					
 -	chsle5	Shinkah					
 -	chhle5	Norse					
--	ccdle8	Muerte del Torbak	una	la	Muerte de los Torkbaks		las
--	ccile8	Muerte del Zerx	una	la	Muerte de los Zerxes		las
--	cdale8	Muerte del Cute	una	la	Muertes de los Cutes		las
--	ckjle8	Muerte de la Kipesta	una	la	Muertes de las Kipestas		las
--	ckfle8	Muerte de la Kirosta	una	la	Muertes de las Kirostas		las
--	ccnle8	Muerte del Horncher 	una	la	Muertes de los Hornchers		las
--	ckele8	Muerte de la Kipucka	una	la	Muertes de las Kipuckas		las
--	ccfle8	Muerte del Najab	una	la	Muertes de los Najbas		las
+-	ccdle8	Torbak Mortífero	uno	el	Torbaks Mortíferos	unos	los
+-	ccile8	Zerx Mortífero	uno	el	Zerxes Mortíferos	unos	los
+-	cdale8	Cute Mortífero	uno	el	Cutes Mortíferos	unos	los
+-	ckjle8	Kipesta Mortífera	una	la	Kipestas Mortíferas	unas	las
+-	ckfle8	Kirosta Mortífera	una	la	Kirostas Mortíferas	unas	las
+-	ccnle8	Horncher Mortífero	uno	el	Hornchers Mortíferos	unos	los
+-	ckele8	Kipucka Mortífera	una	la	Kipuckas Mortíferas	unas	las
+-	ccfle8	Najab Mortífera	una	la	Najbas Mortíferas	unas	las
 -	ckele7	Kipukan					
 -	cdale7	Cukan					
 -	chsle7	Shakan					
@@ -3375,11 +3375,11 @@
 -	ccflf5	Fijoo					
 -	chrlf5	Niobi					
 -	ckglf5	Tooroy					
--	ccnlf8	Muerte del Horncher 	una	la	Muerte de los Hornchers		las
--	cdalf8	Muerte del Cute	una	la	Muertes de los Cutes		las
--	ccflf8	Muerte del Najab	una	la	Muertes de los Najabs		las
--	chulf8	Muerte del Wombaï	una	la	Muertes de los Wombaïs		las
--	ckflf8	Muerte de la Kirosta	una	la	Muertes de las Kirostas		las
+-	ccnlf8	Horncher Mortífero	uno	el	Hornchers Mortíferos	unos	los
+-	cdalf8	Cute Mortífero	uno	el	Cutes Mortíferos	unos	los
+-	ccflf8	Najab Mortífera	una	la	Najabs Mortíferas	unas	las
+-	chulf8	Wombaï Mortífero	uno	el	Wombaïs Mortíferos	unos	los
+-	ckflf8	Kirosta Mortífera	una	la	Kirostas Mortíferas	unas	las
 -	ccnlf7	Hornkan					
 -	chulf7	Womkan					
 -	chgpd5	Spyker					
@@ -3504,7 +3504,7 @@
 -	ckdgf4	Kincher Letal	un	el	Kinchers Letales		los
 -	ckegf4	Kipucka Letal	una	la	Kipuckas Letales		las
 -	ckggf4	Kiban Letal	un	el	Kibans Letales		los
--	ckigf4	Kizoar Letales	un	el	Kizoars Letales		los
+-	ckigf4	Kizoar Letal	un	el	Kizoars Letales	unos	los
 -	ckjgf4	Kipesta Letal	una	la	Kipestas Letales		las
 -	cdagf4	Cute Letal	un	el	Cutes Letales		los
 -	cdcgf4	Frahar Letal	un	el	Frahars Letales		los
@@ -3739,7 +3739,7 @@
 -	ckjif4	Kipesta Jefa Suprema de Elite	una	la	Kipestas Jefas Supremas de Elite		las
 -	ckbif5	Rayza					
 -	ckeif7	Kipurok					
--	cbblc8	Izam Letal	un	el	Izams Letales		los
+-	cbblc8	Izam Mortífero	un	el	Izams Mortíferos	unos	los
 -	cbcld5	Corrah					
 -	ccafc5	Skoff					
 -	ccajd5	Freneq					
@@ -3747,7 +3747,7 @@
 -	ccaje8	Gingo Demoledor	un	el	Gingos Demoledores		los
 -	ccbdc7	Clopperketh					
 -	ccbde8	Clopper Asesino	un	el	Cloppers Asesinos		los
--	ccblb8	Clopper Letal	un	el	Cloppers Letales		
+-	ccblb8	Clopper Mortífero	un	el	Cloppers Mortíferos	unos	los
 -	cccdb7	Goaketh					
 -	cccdc8	Goari Asesino	un	el	Goaris Asesinos		los
 -	ccdfe5	Wyac					
@@ -3759,7 +3759,7 @@
 -	ccejb7	Rakya					
 -	ccejc8	Ragus Demoledor	un	el	Raguses Demoledores		los
 -	ccelc7	Rakan					
--	cceld8	Ragus Letal	un	el	Raguses Letales		los
+-	cceld8	Ragus Mortífero	un	el	Raguses Mortíferos	unos	los
 -	ccfjf4	Najab Grande	un	el	Najabs Grandes		los
 -	ccfjf5	Bajam					
 -	ccfld5	Dgambi					
@@ -3796,7 +3796,7 @@
 -	ccpfe8	Yetin Destructor	un	el	Yetins Destructores		los
 -	ccpff8	Yetin Destructor	un	el	Yetins Destructores		los
 -	ccpjf7	Yetikya					
--	cdald8	Cute Letal	un	el	Cutes Letales		los
+-	cdald8	Cute Mortífero	un	el	Cutes Mortíferos	unos	los
 -	cdapf8	Cute Terminador	un	el	Cutes Terminadores		los
 -	cdbfe7	Gibbakin					
 -	cdbfe8	Gibbaï Destructor	un	el	Gibbaïs Destructores		los
@@ -3815,8 +3815,8 @@
 -	chbfb8	Bodoc Destructor	un	el	Bodocs Destructores		los
 -	chblc5	Dabbin					
 -	chcjd5	Ferryni					
--	chdlb8	Yubo Letal	un	el	Yubos Letales		los
--	chelc8	Cray Letal	un	el	Crays Letales		los
+-	chdlb8	Yubo Mortifero	un	el	Yubos Mortíferos	unos	los
+-	chelc8	Cray Mortífero	un	el	Crays Mortíferos	unos	los
 -	cheld5	Crimp					
 -	chfjd8	Messab Demoledor	un	el	Messabs Demoledores		los
 -	chflb7	Messakan					
@@ -3846,7 +3846,7 @@
 -	chmdd5	Rucca					
 -	chmdd7	Raspaketh					
 -	chnfd5	Quadon					
--	chnfd8	Bawaabs Destructor	un	el	Bawaabs Destructores		los
+-	chnfd8	Bawaabs Destructor	un	el	Bawaabs Destructores	unos	los
 -	chnjc7	Bawakya					
 -	chpdc5	Bingle					
 -	chpdc8	Rendor Asesino	un	el	Rendors Asesinos		los
@@ -3903,7 +3903,7 @@
 -	ckdje7	Kincherkya					
 -	ckdjf4	Kincher Grande	un	el	Kinchers Grandes		los
 -	ckdld7	Kincherkan					
--	ckdld8	Kincher Letal	un	el	Kinchers Letales		los
+-	ckdld8	Kincher Mortifero	un	el	Kinchers Mortíferos	unos	los
 -	ckdpf8	Terminator Kincher	a	the	Terminator Kinchers		the
 -	ckede5	Punka					
 -	ckede7	Kipuketh						
@@ -3920,7 +3920,7 @@
 -	ckfje7	Kirokya					
 -	ckfjf4	Kirosta Grande	una	la	Kirostas Grandes		las
 -	ckfpf8	Kirosta Terminadora	una	la	Kirostas Terminadoras		las
--	ckgdd8	Kiban Asesina	una	la	Kibans Asesinos		los
+-	ckgdd8	Kiban Asesino	uno	el	Kibans Asesinos	unos	los
 -	ckgdf8	Kiban Asesino	un	el	Kibans Asesinos		los
 -	ckgfe5	Bakin					
 -	ckgff5	Naka					
@@ -3966,7 +3966,7 @@
 -	ckglf7	Kibakan					
 -	cbbdd4	Izam Carronero	un	el	Izams Carroneros		los
 -	cbbdd7	Izaketh					
--	cccdd4	Goari Merodenado	un	el	Goaris Merodeando		los
+-	cccdd4	Goari Merodeador	un	el	Goaris Merodeadores	unos	los
 -	cccdd7	Goaketh					
 -	chcdb7	Capryketh					
 -	chidc2	Mektoub Mount	a	the	Mektoub Mounts		the
@@ -4008,7 +4008,7 @@
 -	cbclc7	Yberkan					
 -	ccclf4	Goari Grande	un	el	Goaris Grandes		los
 -	ccclf7	Goakan					
--	chcld4	Capryni Robando	un	el	Caprynis Robando		los
+-	chcld4	Capryni Gorrón	un	el	Caprynis Gorrones	unos	los
 -	chcld7	Caprykan					
 -	chele7	Craykan					
 -	chilc2	Mektoub de Montar	un	el	Mektoub de Montar		los
@@ -4061,7 +4061,7 @@
 -	cphfa2	Regalo de Navidad	un	el	Regalos de Navidad	unos	los	
 -	cphfa1	Pequeño regalo de Navidad 	un	el	Pequeños regalos de Navidad 	unos	los	
 -	chjlb9	Tenwo	un	el	Tenwo		los
--	chdfx1	Yuno Inexperto	un	the	Yubos Inexpertos		los
+-	chdfx1	Yubo Inexperto	un	the	Yubos Inexpertos	unos	los
 -	chpfx1	Rendir Dócil	un	el	Rendors Dóciles		los
 -	ccjfx2	Javin Recién-nacido	un	el	Javins Recién-nacidos		los
 -	cpdfx1	Slaveni Placido	un	el	Slavenis Placidos		los
@@ -5507,8 +5507,9 @@
 -	cpfpf7	Shookoo					
 -	object_trough_full_sel	comedero lleno	uno	el	comederos llenos	unos	los
 -	object_trough_empty_sel	comedero vacío	uno	el	comederos vacíos	unos	los
--	object_easter_egg_small	pequeño huevo	uno	el	pequeños huevos	unos	los
+-	object_easter_egg_small	huevo pequeño	uno	el	huevos pequeños	unos	los
 -	object_easter_egg	huevo	uno	el	huevos	unos	los
--	object_easter_egg_medium	mediano huevo	uno	el	medianos huevos	unos	los
--	object_easter_egg_big	gran huevo	uno	el	grandes huevos	unos	los
--	object_easter_egg_hug	enorme huevo	uno	el	enormes huevos	unos	los
+-	object_easter_egg_medium	huevo mediano	uno	el	huevos medianos	unos	los
+-	object_easter_egg_big	huevo grande	uno	el	huevos grandes	unos	los
+-	object_easter_egg_hug	huevo enorme	uno	el	huevos enormes	unos	los
+1617784668	egg	

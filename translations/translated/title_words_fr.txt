@@ -539,7 +539,7 @@
 -	Master_Hand_To_Hand_Fighter	Maître Martial	Maître Martial		
 -	Hand_To_Hand_Fighter	Pugiliste	Pugiliste		
 -	Close_Fighter	Combattant Rapproché	Combattante Rapprochée		
--	Advanced_Close_Fighter	Empoigneur	Empoigneuse		
+-	Advanced_Close_Fighter	Empoigneur	Empoigneuse
 -	Defensive_Magician	Magicien Défensif	Magicienne Défensive		
 -	Offensive_Magician	Magicien Offensif	Magicienne Offensive		
 -	Elementalist_Apprentice	Apprenti Elémentaliste	Apprentie Elémentaliste		
@@ -1920,4 +1920,5 @@
 -	fct_marauder_ambassador	 Ambassadeur des Maraudeurs	Ambassadrice des Maraudeurs
 -	fct_marauder_windofmuse	(Vents du Songe)
 -	gn_driller_marauder_const	Aklareen en construction			
--	fct_allegory_maker	
+1616092237	fct_allegory_maker	Graveur d'Allégories	Graveuse d'Allégories
+1616152994	fct_animals_and_co	Représentant de "Animaux & Co"	Représentante de "Animaux & Co"

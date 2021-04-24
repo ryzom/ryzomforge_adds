@@ -6700,13 +6700,13 @@
 -	unstable_goo_vial	Potion Instable de Goo	une	la	Potions Instables	des	les	
 -	water_barrel	Eau stimulante	une	l'	Eaux stimulantes	des	les	
 -	web_transaction	Transaction	une	la	Transactions	des	les	
--	wheel_token_anlor	jeton flétri	un	le	jetons flétris	des	les	
--	wheel_token_atysmas	jeton flétri	un	le	jetons flétris	des	les	
--	wheel_token_basic	jeton flétri	un	le	jetons flétris	des	les	
--	wheel_token_choice	jeton flétri	un	le	jetons flétris	des	les	
--	wheel_token_fine	jeton flétri	un	le	jetons flétris	des	les	
--	wheel_token_suprem	jeton flétri	un	le	jetons flétris	des	les	
--	wheel_token_xl	jeton flétri	un	le	jetons flétris	des	les	
+-	wheel_token_anlor	Jeton Flétri	un	le	Jetons Flétris	des	les
+-	wheel_token_atysmas	Jeton Flétri	un	le	Jetons Flétris	des	les
+-	wheel_token_basic	Jeton Flétri	un	le	Jetons Flétris	des	les
+-	wheel_token_choice	Jeton Flétri	un	le	Jetons Flétris	des	les
+-	wheel_token_fine	Jeton Flétri	un	le	Jetons Flétris	des	les
+-	wheel_token_suprem	Jeton Flétri	un	le	Jetons Flétris	des	les
+-	wheel_token_xl	Jeton Flétri	un	le	Jetons Flétris	des	les
 -	white_medicine	Médicament blanc	un	le	Médicaments blancs	des	les	
 -	winch	Canne à pêche	une	la	Cannes à pêche	des	les	
 -	winch_2	Canne à pêche	une	la	Cannes à pêche	des	les	
@@ -7776,5 +7776,6 @@
 -	m0694ccife01	Cuir suprême / Zerx des Forêts	du	le	Cuirs suprêmes / Zerx des Forêts	des	les
 -	s2e1_seve_suc	goutte de sève de salina	une	la	gouttes de sève de salina	des	les	
 -	s2e1_salins	salin mûr	un	le	salins mûrs	des	les	
--	wheel_token_easter	Jeton flétri	un	le	Jetons flétris	des	les
+-	wheel_token_easter	Fête des Réfugiés	une	la	Fêtes des Réfugiés	des	les
 -	slot_fingerl	
+1618579662	slot_neck	

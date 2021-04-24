@@ -7776,5 +7776,6 @@
 -	nexus_neck_2	leuchtende Waldhalskette	leuchtende Waldhalskette	leuchtende Waldhalskette	leuchtende Waldhalsketten	leuchtenden Waldhalsketten		die	eine	die
 -	nexus_neck_3	leuchtende Seenhalskette	leuchtende Seenhalskette	leuchtende Seenhalskette	leuchtende Seenhalsketten	leuchtenden Seenhalsketten		die	eine	die
 -	nexus_neck_4	leuchtende Dschungelhalskette	leuchtende Dschungelhalskette	leuchtende Dschungelhalskette	leuchtende Dschungelhalsketten	leuchtenden Dschungelhalsketten		die	eine	die
--	wheel_token_easter	Rostiger Jeton	ein	Rostige Jetons	Rostige Jetons	rostigen Jetons	die	die	ein	der
+-	wheel_token_easter	Event Tage des Lichts	ein	Event Tage des Lichts	Event Tage des Lichts	Event Tage des Lichts	die	die	ein	der
 -	slot_fingerl		Lege am linken Finger einen Ring an		Lege am linken Finger einen Ring an						
+1618579662	slot_neck	
