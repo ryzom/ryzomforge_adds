@@ -377,13 +377,13 @@ _CF9EF5874F0F7D3D	place_outpost_pr_10	Fortaleza de los Callejones del Acantilado
 _946219632AAAB87C	place_outpost_pr_11	Centro de Investigación de Henge Alto	
 _AAEC841D2EAA3907	place_outpost_pr_12	Fortaleza de las Colinas Bajas	
 _E9D34584471079BA	place_outpost_pr_13	Centro de Investigación de las Colinas Altas	
-_58F7A636B023ED3F	place_outpost_nexus_01	Centro de Investigación de la Puerta de Ichor	
-_18910A55823C680F	place_outpost_nexus_02	Puesto de Comercio de las Colinas del Martillo	
-_BF8095041987976A	place_outpost_nexus_03	Granja de la Puerta de la Sombra	
-_263C57F8056069A2	place_outpost_nexus_04	Puesto Diplomático Final del Destino	
-_3DF09127326D24EB	place_outpost_nexus_05	Taller Watchcomb	
-_3EE16D0918E65F7D	place_outpost_nexus_06	Granja de la Alta Vigilancia	
-_7D07A2802AA970CF	place_outpost_nexus_07	Puesto Fronterizo de la Puerta de los Residuos	
+_58F7A636B023ED3F	place_outpost_nexus_01	Puesto de Avanzada del Nexo Norte ((Experimental e inestable))	
+_18910A55823C680F	place_outpost_nexus_02	Campamento de Observación Karavan	
+_BF8095041987976A	place_outpost_nexus_03	Puesto de Avanzada del Nexo Occidental ((Experimental e inestable))	
+_263C57F8056069A2	place_outpost_nexus_04	Puesto de Avanzada del Nexo Oriental ((Experimental e inestable))	
+_3DF09127326D24EB	place_outpost_nexus_05	Campamento de Observación Kamista	
+_3EE16D0918E65F7D	place_outpost_nexus_06	Campamento de Observación Marauder	
+_7D07A2802AA970CF	place_outpost_nexus_07	Puesto de Avanzada del Nexo Sur ((Experimental e inestable))	
 _9A62193E9DCCD68A	place_outpost_pr_01	Centro de Investigación de la Saprun del Oeste	
 _7DEC8005D64D3D17	place_outpost_pr_02	Taller de Saprun del Este	
 _BAFC701971E1D9CD	place_outpost_pr_03	Fortaleza de Nexusgate	
@@ -822,3 +822,5 @@ _3FEFB69CBBDF4DAB	place_lieudit_marauder_arena	Arena Merodeadora	la
 _A59A81E8140A6CA7	marauder_stable	Establos Merodeadores	los
 _29AC391EC68F71FC	continent_r2_forest	Cumbres Borrascosas	las
 _BAA17AACA3D42E1E	region_zorai_islands	Camino de Oflovak -- Jungla	el
+_	place_marauder_camp_restingwater	Campamento Merodeador	el	
+_	marauder_camp_stable	Establos Merodeadores	los

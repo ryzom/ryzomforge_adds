@@ -1917,3 +1917,6 @@ _1D75FA6A3E3B6D24	fct_ranger_quartermaster	Ranger-Quartiermeister	Ranger-Quartie
 _A2167788E6C9D4AB	fct_arionasiszig	Arionasis's Zig	
 _2456DF8A68093CAD	fct_tyneetrykzig	Tyneetryk's Zig	
 _884A89BAA76FDD16	gn_fresh_water_barrel	Frischwasserfaß	
+_	fct_marauder_ambassador	Botschafter der Marodeure	Botschafterin der Marodeure
+_	fct_marauder_windofmuse	(Winde der Musen)	
+_	gn_driller_marauder_const	Aklareen im Bau	Aklareen im Bau

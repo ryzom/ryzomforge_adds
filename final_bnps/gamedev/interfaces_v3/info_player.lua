@@ -1318,7 +1318,8 @@ function game:parseLangText(text)
 end
 
 function game:updateCapTooltip()
-	local real_tooltip = "\n\n@{FFFC}Ceci est le @{6F6F}cap@{FFFC} sur lequel vous êtes actuellement fixé.\nCliquez pour obtenir plus d'@{6F6F}informations@{FFFC}.\n\nIl vous également possible de changer de cap en cliquant sur @{6F6F}Mettre le cap sur [...]@{FFFC} à chaque fois que l'option est disponible"
+	--local real_tooltip = "\n\n@{FFFC}Ceci est le @{6F6F}cap@{FFFC} sur lequel vous êtes actuellement fixé.\nCliquez pour obtenir plus d'@{6F6F}informations@{FFFC}.\n\nIl vous également possible de changer de cap en cliquant sur @{6F6F}Mettre le cap sur [...]@{FFFC} à chaque fois que l'option est disponible"
+	local real_tooltip = game:parseLangText(mission_real_tooltip)
 	getUI("ui:interface:info_player_journal:content:cap_group:cap_ctrl").tooltip = getUCtf8("@{FB0F}"..game.CapTitle.."\n@{FFFF}"..game.CapDesc..real_tooltip)
 end
 
