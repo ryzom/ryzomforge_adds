@@ -917,7 +917,7 @@
                posref="TL TL"
                y="0"
                wspace="2"
-               hspace="12"
+               hspace="16"
                maxitem="%num_local_bonus_malus"
                rowmin="1"
                rowmax="4"
