@@ -6212,3 +6212,18 @@ FACTION_USR_RU()
 	[RU]
 }
 
+ALLEGORY_EFFECT_TRIGGERED (sbrick s)
+{
+	[&ISE2&The Allegorical "$s$" effect has been triggered]
+
+}
+
+
+JEWEL_WITH_ALLEGORIES ()
+{
+	[&CHK&You can't exchange a piece of jewelry with an Allegorical power engraved on it]
+
+}
+
+
+

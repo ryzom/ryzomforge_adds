@@ -19,6 +19,13 @@ ABANDON_TEAM_MISSION_REFUSED ()
 
 }
 
+// HASH_VALUE A1D75E12A4DD890B
+ALLEGORY_EFFECT_TRIGGERED (sbrick s)
+{
+			[&ISE2&El efecto Alegórico "$s$" ha sido activado.]
+
+}
+
 // HASH_VALUE 9A3F22E1C8901028
 ALREADY_TELEPORTING ()
 {
@@ -32608,9 +32615,7 @@ HARVEST_SUCCESS_OTHER (player p, int nb, item item, int quality)
 	HEAL_CLOUD_HIT (score s, int v)
 	{
 			heal_hit	[&SPLM&Sientes los efectos de una magia benevolente y obtienes un bono de $s$ de $v$.]
-
 	}
-
 ] */
 // Clause 0 : identifier changed.
 // HASH_VALUE 185C26D22AA1B90A
@@ -33534,6 +33539,13 @@ JEN_LAI_CITY_WELCOMER_1_P_T2_WELCOMER (bot givervar)
 
 }
 
+// HASH_VALUE B3C7AED152B4853F
+JEWEL_WITH_ALLEGORIES ()
+{
+			[&CHK&No puedes intercambiar una pieza de joyería con un poder Alegórico grabado en ella.]
+
+}
+
 // HASH_VALUE 192B79D91038E3DD
 KAMI_ANGER_DEFENDER_HIT (int damage, int reduction)
 {
@@ -33749,7 +33761,6 @@ KE0904_FYROS_TRANS1_100_DESC (bot giver, place camp_name)
 	{
 			ke0904_fyros_trans1_100_need_more_package	[Gracias por tu ayuda. Desafortunadamente, no hay suficientes materiales que nos permitan continuar. Nos podríamos mover más rápido si pudieras preguntar a los buscadores para que nos proporcionen más materias primas.]
 }
-
 ] */
 // Clause 0 : text changed.
 // HASH_VALUE 88884557F2512820
@@ -33865,13 +33876,6 @@ KE0904_NEED_EAT (bot b, int available, int kitin_count)
 			Pero el campamento ya está sitiado por los Kitines, por lo que debemos reabastecerlo tan pronto como sea posible, de otra forma nuestros guardias no van a estar lo suficientemente fuertes para repeler al enemigo. Las reservas de alimentos están bajas por el momento y tememos que el campamento tendrá que ser evacuado.\n
 			Las últimas encuestas muestran $available$ cajas de provisiones en espera de envío.\n
 			Solo el $kitin_count$% de los Kitines han sido repelidos.]
-
-}
-
-// HASH_VALUE 11A9E77AD7423696
-KE0904_NO_MORE_Kitines (bot b)
-{
-		ke0904_no_more_Kitines	[&bbl& ¡Grandes noticias! Nuestros esfuerzos han empujado a los Kitines fuera de la región. Pero por favor pregunta a mis colegas, otros campamentos aún pueden necesitar ayuda. ¡Todavía no hemos echado atrás a la invasión por completo!]
 
 }
 
@@ -36671,7 +36675,6 @@ MENU_HAVE_SOMETHINH_FOR_ME ()
 
 }
 
-// HASH_VALUE F5B43331E6ACE67F
 // HASH_VALUE D7065F6B15C44E92
 MENU_HELLO ()
 {
@@ -38196,7 +38199,7 @@ MISSION_FYROS_01_P_DA_TRAINER ()
 MISSION_FYROS_01_P_DC_GIVER ()
 {
 		mission_fyros_01_p_dc_giver	[¡Bien! Pero la tarea que acabas de realizar no era muy complicada. Sabes que la carne de yubo es sabrosa, y que los artesanos siempre encuentran algo que hacer con ella, pero no es un gran desafío para un guerrero. Aun así, todo el mundo tiene que aprender de alguna manera, ¿no? \n
-				Antes de pasar a la siguiente lección, te recomiendo encarecidamente que visites al Entrenador de Lucha, él puede enseñarte nuevas técnicas de lucha, a menos que ya lo hayas hecho.]
+			Antes de pasar a la siguiente lección, te recomiendo encarecidamente que visites al Entrenador de Lucha, él puede enseñarte nuevas técnicas de lucha, a menos que ya lo hayas hecho.]
 
 }
 
@@ -41862,14 +41865,14 @@ MISSION_ZORAI_06_P_LDC_NOFEAR ()
 MISSION_ZORAI_06_P_LDC_START ()
 {
 		mission_zorai_06_p_ldc_start	[Como habrás notado con el hechizo de Pudrición y el hechizo de Ácido, existen diferentes clases de magia ofensivas, pronto averiguarás sobre otros hechizos, tales como el Frio y el Fuego. \n
-				\n
-				También descubrirás que tus enemigos tienen sus propias fortalezas y debilidades. Las plantas, por ejemplo, son sensibles al hechizo de Pudrición, pero la vasta mayoría de los animales son solo ligeramente afectados por este o completamente inmunes. Por lo que utiliza tus hechizos con sabiduría. {break}Volviendo a nuestro problema principal: la ciudad de Silan. \n
-				\n
-				Esta ciudad, antiguamente de los Matis, sucumbió víctima de la locura de sus residentes. Los Matis tienen poco respeto por el medioambiente que los sostiene y no vacilan en explotar y manipular a la naturaleza. \n
-				\n
-				Este punto es el principal tema de discordia entre nuestros dos pueblos. Nosotros los Zoraï, como los Kami, veneramos a la naturaleza y hacemos todo lo que esté a nuestro alcance para protegerla.{break}Hace mucho tiempo, los residentes de la ciudad de Silan trataron de manipular a las plantas para extraer sustancias enterradas muy en lo profundo del suelo de Atys. \n
-				\n
-				Este experimento se volvió contra ellos: no fueron capaces de controlar las mutaciones que dieron vida a plantas más agresivas y más invasivas. El resultado fue la destrucción de su ciudad. {break}Los intereses de los Zoraï y de los Matis ahora se han unido debido a esta tragedia: los Zoraï no desean que estos mutantes se reproduzcan y molesten el equilibrio de la vida vegetal en Atys, y la propiedad. Así que vamos a ayudarlos a barrer con esas plantas mutantes. {break} Ve a las ruinas de Silan y utiliza tu hechizo de pudrición para acabar con quince Slavenis. ¡Completa esta misión y luego ven a verme!]
+			\n
+			También descubrirás que tus enemigos tienen sus propias fortalezas y debilidades. Las plantas, por ejemplo, son sensibles al hechizo de Pudrición, pero la vasta mayoría de los animales son solo ligeramente afectados por este o completamente inmunes. Por lo que utiliza tus hechizos con sabiduría. {break}Volviendo a nuestro problema principal: la ciudad de Silan. \n
+			\n
+			Esta ciudad, antiguamente de los Matis, sucumbió víctima de la locura de sus residentes. Los Matis tienen poco respeto por el medioambiente que los sostiene y no vacilan en explotar y manipular a la naturaleza. \n
+			\n
+			Este punto es el principal tema de discordia entre nuestros dos pueblos. Nosotros los Zoraï, como los Kami, veneramos a la naturaleza y hacemos todo lo que esté a nuestro alcance para protegerla.{break}Hace mucho tiempo, los residentes de la ciudad de Silan trataron de manipular a las plantas para extraer sustancias enterradas muy en lo profundo del suelo de Atys. \n
+			\n
+			Este experimento se volvió contra ellos: no fueron capaces de controlar las mutaciones que dieron vida a plantas más agresivas y más invasivas. El resultado fue la destrucción de su ciudad. {break}Los intereses de los Zoraï y de los Matis ahora se han unido debido a esta tragedia: los Zoraï no desean que estos mutantes se reproduzcan y molesten el equilibrio de la vida vegetal en Atys, y la propiedad. Así que vamos a ayudarlos a barrer con esas plantas mutantes. {break} Ve a las ruinas de Silan y utiliza tu hechizo de pudrición para acabar con quince Slavenis. ¡Completa esta misión y luego ven a verme!]
 
 }
 
@@ -41919,8 +41922,9 @@ MISSION_ZORAI_07_MIS_TITLE (bot giver)
 MISSION_ZORAI_07_P_LDC_CONTINUE ()
 {
 		mission_zorai_07_p_ldc_continue	[Perfecto, has hecho un buen trabajo. Realmente estás empezando a comprender nuestro arte. Tus habilidades de magia y tu destreza para utilizarlas están mejorando día a día. Me complace ver que mis enseñanzas están dando frutos. \n
-				\n
-				Continuemos nuestros esfuerzos y pasemos a la siguiente lección. {break}Hemos estudiado los hechizos de los Misiles Atysianos. Ej. Los hechizos ofensivos, los que permiten golpear a tu enemigo, también hemos visto a los Hechizos de Aflicción, los que te permiten perjudicar a tus enemigos, ahora demos un vistazo a los Hechizos de Misiles Celestiales.]
+			\n
+			Continuemos nuestros esfuerzos y pasemos a la siguiente lección. {break}Hemos estudiado los hechizos de los Misiles Atysianos. Ej. Los hechizos ofensivos, los que permiten golpear a tu enemigo, también hemos visto a los Hechizos de Aflicción, los que te permiten perjudicar a tus enemigos, ahora demos un vistazo a los Hechizos de Misiles Celestiales.]
+
 }
 
 /* OLD VALUE : [
@@ -41953,12 +41957,12 @@ MISSION_ZORAI_07_P_LDC_CONTINUE ()
 MISSION_ZORAI_07_P_LDC_INTRO ()
 {
 		mission_zorai_07_p_ldc_intro	[Ya hemos abordado los hechizos de aflicción mirando al hechizo de Pudrición. Hoy vamos a ver otro: el hechizo del Miedo. \n
-				Los hechizos de Aflicción permiten a un mago perjudicar a su enemigo: cegarlo, paralizarlo, atemorizarlo o incluso lo que ya hemos visto, pudrirlo.{break}El hechizo del Miedo puede ser de gran ayuda cuando una pelea va mal. \n
-				Cuando lanzas este hechizo a un enemigo, es presa de un miedo terrible y huye. Pero el hechizo no dura mucho y una vez que ha desaparecido puedes estar seguro que tu adversario atacará de nuevo. \n
-				Mientras el hechizo está funcionando, puedes tomar ventaja de este ya sea para golpear a tu enemigo desde lejos o huir. \n
-				Por lo que es un hechizo muy útil cuando estás solo. {break}Cerca de Silan encontrarás criaturas conocidas como Yelks que tienen una carne particularmente nutritiva y unos hongos. Los Yelks son omnívoros y criaturas pacíficas, pero son muy capaces de defenderse por si mismos. \n
-				El verdadero peligro con estas criaturas es el gas tóxico que liberan cuando mueren. Por lo que es prudente mantener distancia cuando se lucha con ellos, especialmente cuando están a punto de morir. \n
-				Es en un caso como este que un hechizo de miedo puede ser útil. Cuando ves que la criatura está agonizante, utiliza tu hechizo del Miedo para ahuyentarlo y acabarlo desde una distancia segura.{break}Esta prueba nos dará la oportunidad de llenar nuestras existencia de alimentos. Regresa a las ruinas de Silan y tráeme diez hongos de Yelk.]
+			Los hechizos de Aflicción permiten a un mago perjudicar a su enemigo: cegarlo, paralizarlo, atemorizarlo o incluso lo que ya hemos visto, pudrirlo.{break}El hechizo del Miedo puede ser de gran ayuda cuando una pelea va mal. \n
+			Cuando lanzas este hechizo a un enemigo, es presa de un miedo terrible y huye. Pero el hechizo no dura mucho y una vez que ha desaparecido puedes estar seguro que tu adversario atacará de nuevo. \n
+			Mientras el hechizo está funcionando, puedes tomar ventaja de este ya sea para golpear a tu enemigo desde lejos o huir. \n
+			Por lo que es un hechizo muy útil cuando estás solo. {break}Cerca de Silan encontrarás criaturas conocidas como Yelks que tienen una carne particularmente nutritiva y unos hongos. Los Yelks son omnívoros y criaturas pacíficas, pero son muy capaces de defenderse por si mismos. \n
+			El verdadero peligro con estas criaturas es el gas tóxico que liberan cuando mueren. Por lo que es prudente mantener distancia cuando se lucha con ellos, especialmente cuando están a punto de morir. \n
+			Es en un caso como este que un hechizo de miedo puede ser útil. Cuando ves que la criatura está agonizante, utiliza tu hechizo del Miedo para ahuyentarlo y acabarlo desde una distancia segura.{break}Esta prueba nos dará la oportunidad de llenar nuestras existencia de alimentos. Regresa a las ruinas de Silan y tráeme diez hongos de Yelk.]
 
 }
 
@@ -44970,37 +44974,6 @@ NEWBIELAND_GRAVESTSIN3_T2_CHIANG ()
 
 }
 
-// HASH_VALUE CAC2548CA3708291
-NEWBIELAND_GRAVESTSIN4_CHIANG_Kitines ()
-{
-		newbieland_gravestsin4_chiang_Kitines	[¿Qué? ¡Eso es imposible!Ellos no pueden estar...\n
-			Oh no... no los Kitines...\n
-			\n
-			¡¡¡Grrrrrrr!!!]
-
-}
-
-// HASH_VALUE 4F482A2470560D89
-NEWBIELAND_GRAVESTSIN4_KAMI_Kitines ()
-{
-	( self.gender = male )
-		newbieland_gravestsin4_kami_Kitines_m	[¡Los homin deben probar su fe a Ma-Duk! Por lo que los Kami temen que las acciones de los Chlorogoos hayan maldecido a todos los homins.\n
-			\n
-			Todo Atys está conectado, homin. El lago es alimentado por aguas subterráneas, sabes eso. ¿Pero sabes donde va el agua? \n
-			Los homins del lago infectado por el Goo, dejaron sus plantas y los rastros del Goo que contaminan el lago. Las aguas del lago no son estáticas, fluyen, muy rápido y profundamente, en el corazón de Atys en las Raíces Primarias. \n
-			En las profundidades de Atys, las cosas duermen, pero han sido despertadas por la corrupción y por el Goo llevado a ellos por el agua del lago. {break}Tu cuida de ti, Homin.\n
-			En la esquina sureste del lago, los Kami descubren un pequeño túnel en el agua. Nada por el túnel y descubre qué es lo que se ha despertado. Luego advierte a los homins del final de esta región y del final de los homins que no huyan de aquí. ]
-
-	( self.gender = female )
-		newbieland_gravestsin4_kami_Kitines_f	[¡Los homins deben probar su fe a Ma-Duk! Por lo que los Kami temen que las acciones de los Chlorogoos hayan maldecido a todos los homins.\n
-			\n
-			Todo Atys está conectado, homina. El lago es alimentado por las aguas subterráneas, sabes eso. ¿Pero sabes donde va esa agua?\n
-			Los homins del lago infectado por el Goo, dejaron sus plantas y los rastros del Goo que contaminan el lago. El agua no es estática, esta fluye, muy lejos y muy profundamente en el corazón de Atys en las Raíces Primarias. \n
-			En las profundidades de Atys, las cosas duermen, pero estas han sido despertadas por la corrupción y por el Goo llevado a ellos por el agua del lago. {break}Vela por ti, Homina.\n
-			En la esquina sureste del lago, los Kami descubren un pequeño túnel en el agua. Nada por el túnel y descubre lo que se ha despertado. Después advierte a los homins del final de esta región y del final de los homins que no huyan de aquí]
-
-}
-
 // HASH_VALUE 6993A103A9701BFC
 NEWBIELAND_GRAVESTSIN4_MIS_DESC (bot giver)
 {
@@ -45026,13 +44999,6 @@ NEWBIELAND_GRAVESTSIN4_REPORT_CHIANG_OBJ (bot givervar)
 NEWBIELAND_GRAVESTSIN4_REPORT_CHIANG_T2 (bot givervar)
 {
 		newbieland_gravestsin4_report_chiang_t2	[Vi monstruos horribles en la selva más allá del lago.]
-
-}
-
-// HASH_VALUE 18A85E1350FDB005
-NEWBIELAND_GRAVESTSIN4_TARGET_Kitines_OBJ ()
-{
-		newbieland_gravestsin4_target_Kitines_obj	[Descubre y explora el túnel descrito por los Kami, y averigua qué fue lo que despertó de las profundidades. Enumera las diferentes criaturas que han vuelto a aparecer.]
 
 }
 
@@ -48827,6 +48793,7 @@ RANGERS_WORKERS_7 ()
 RANGERS_WORKERS_8 ()
 {
 			[Espero que podamos destruir esta madriguera de Kitin antes de que venga un ataque masivo de ellos...]
+
 }
 
 // HASH_VALUE 788D9026A5961D3B
@@ -51619,7 +51586,7 @@ RPJOB_WHAT_DO_YOU_WANT_16_ ()
 // HASH_VALUE 251062188BBA82B9
 RPJOB_WHAT_DO_YOU_WANT_18_ ()
 {
-		rpjob_what_do_you_want_18_	Has producido 18 objetos.\n
+		rpjob_what_do_you_want_18_	[Has producido 18 objetos.\n
 			\n
 			¿Qué deseas hacer?]
 
@@ -53180,13 +53147,6 @@ R_03_26_P_BC_SPY_3 ()
 R_03_26_P_DA_1ST_DESERTERS_1 ()
 {
 		r_03_26_p_da_1st_deserters_1	[Los Primeros Desertores.]
-
-}
-
-// HASH_VALUE 1816606BD8B67F58
-R_03_26_P_DA_Kitines_1 ()
-{
-		r_03_26_p_da_Kitines_1	[Los Kitines.]
 
 }
 
@@ -54957,13 +54917,6 @@ R_06_08_LORIA_WAITING_FOR_YOU ()
 R_06_08_LORIA_WAIT_AND_TARGET_1 (creature_model gerder)
 {
 		r_06_08_loria_wait_and_target_1	[Espera por $gerder$ y enfócalo.]
-
-}
-
-// HASH_VALUE 451B7C8B8A7C58D3
-R_06_08_LORIA_WHAT_KNOW_ABOUT_Kitines ()
-{
-		r_06_08_loria_what_know_about_Kitines	[*Ríe* ¡Yo creo más bien que es ella la que me necesita! ¡Aunque ella no va a confesar eso en un corto tiempo! Pero estás aquí ahora, de modo que debes disfrutar mis enseñanzas, ¿no es así? Apuesto a que no sabes nada sobre los kinchers, ¿estoy en lo cierto?]
 
 }
 
@@ -73934,13 +73887,6 @@ encore_plus_solide_vest ()
 epee_detruire_garde_manger ()
 {
 			[TODO : Hoja Destructora del Kitinero]
-
-}
-
-// HASH_VALUE 25908781AC139824
-epee_pourfendeuse_des_princes_Kitines ()
-{
-			[TODO : Espada Principesca del Kitinero]
 
 }
 
