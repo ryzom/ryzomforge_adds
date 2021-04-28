@@ -6949,7 +6949,7 @@
 -	zig_yubo_forest	Zig Yubo	Zig Yubo	Zig Yubo	Zig Yubo	Zig Yubo		die	ein	das	
 -	zig_yubo_lakes	Zig Yubo	Zig Yubo	Zig Yubo	Zig Yubo	Zig Yubo		die	ein	das	
 -	zig_yubo_white	Zig Yubo	Zig Yubo	Zig Yubo	Zig Yubo	Zig Yubo		die	ein	das	
--	gnoof_mount_0	
+-	gnoof_mount_0	Gnoof-Reittier			Gnoof-Reittiere	Gnoof-Reittiere		die	ein	das
 -	m0009chade01	Erhabener Arma-Wirbel, Wüstentyp	Erhabene Arma-Wirbel, Wüstentyp	Erhabenen Arma-Wirbel, Wüstentyp	Erhabene Arma-Wirbel, Wüstentyp	Erhabenen Arma-Wirbel, Wüstentyp	einen	die	ein	der		
 -	m0009chafe01	Erhabener Arma-Wirbel, Waldtyp	Erhabene Arma-Wirbel, Waldtyp	Erhabenen Arma-Wirbel, Waldtyp	Erhabene Arma-Wirbel, Waldtyp	Erhabenen Arma-Wirbel, Waldtyp	einen	die	ein	der		
 -	m0009chaje01	Erhabener Arma-Wirbel, Dschungeltyp	Erhabene Arma-Wirbel, Dschungeltyp	Erhabenen Arma-Wirbel, Dschungeltyp	Erhabene Arma-Wirbel, Dschungeltyp	Erhabenen Arma-Wirbel, Dschungeltyp	einen	die	ein	der		
@@ -7770,9 +7770,12 @@
 -	m0693ccife01	Erhabene Zerx-Sehne, Waldtyp	Erhabene Zerx-Sehne, Waldtyp	Erhabene Zerx-Sehne, Waldtyp	Erhabene Zerx-Sehnen, Waldtyp	Erhabenen Zerx-Sehnen, Waldtyp	eine	die	eine	die		
 -	m0694ccile01	Erhabenes Zerx-Lederstück, Seenlandtyp	Erhabene Zerx-Lederstück, Seenlandtyp	Erhabene Zerx-Lederstück, Seenlandtyp	Erhabene Zerx-Lederstücke, Seenlandtyp	Erhabenen Zerx-Lederstücke, Seenlandtyp	ein	die	ein	das		
 -	m0694ccife01	Erhabenes Zerx-Lederstück, Waldtyp	Erhabene Zerx-Lederstück, Waldtyp	Erhabene Zerx-Lederstück, Waldtyp	Erhabene Zerx-Lederstücke, Waldtyp	Erhabenen Zerx-Lederstücke, Waldtyp	ein	die	ein	das		
--	s2e1_seve_suc	Tropfen Salina-Saft	Tropfen Salina-Saft	Tropfen Salina-Saft	Tropfen Salina-Saft	Tropfen Salina-Saft		die	ein	der	
--	s2e1_salins	reife Salin	reife Salin	reifen Salin	reife Salins	reifen Salins		die	eine	die	
--	nexus_neck_1				undefined
--	nexus_neck_2			undefined
--	nexus_neck_3	leuchtende Seenkette	leuchtende Seenkette	leuchtende Seenkette	leuchtende Seenketten	leuchtenden Seenketten		die	eine	die	
--	nexus_neck_4	leuchtende Wüstenkette	leuchtende Wüstenkette	leuctende Wüstenkette	leuchtende Wüstenketten	leuchtenden Wüstenketten		die	eine	die	
+-	s2e1_seve_suc	Tropfen Salina-Saft	Tropfen Salina-Saft	Tropfen Salina-Saft	Tropfen Salina-Saft	Tropfen Salina-Saft		die	ein	der
+-	s2e1_salins	reife Salin	reife Salin	reifen Salin	reife Salins	reifen Salins		die	eine	die
+-	nexus_neck_1	leuchtende Wüstenhalskette	leuchtende Wüstenhalskette	leuchtende Wüstenhalskette	leuchtende Wüstenhalsketten	leuchtenden Wüstenhalsketten		die	eine	die
+-	nexus_neck_2	leuchtende Waldhalskette	leuchtende Waldhalskette	leuchtende Waldhalskette	leuchtende Waldhalsketten	leuchtenden Waldhalsketten		die	eine	die
+-	nexus_neck_3	leuchtende Seenhalskette	leuchtende Seenhalskette	leuchtende Seenhalskette	leuchtende Seenhalsketten	leuchtenden Seenhalsketten		die	eine	die
+-	nexus_neck_4	leuchtende Dschungelhalskette	leuchtende Dschungelhalskette	leuchtende Dschungelhalskette	leuchtende Dschungelhalsketten	leuchtenden Dschungelhalsketten		die	eine	die
+-	wheel_token_easter	Event Tage des Lichts	ein	Event Tage des Lichts	Event Tage des Lichts	Event Tage des Lichts	die	die	ein	der
+-	slot_fingerl	Lege am linken Finger einen Ring an		Lege am linken Finger einen Ring an						
+1618579662	slot_neck	
