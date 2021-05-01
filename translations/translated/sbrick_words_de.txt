@@ -4083,24 +4083,24 @@
 -	bctaea23	Leichter Büstenhalter	Leichter Büstenhalter 	Leichter Büstenhalter 	Leichter Büstenhalter 	ein	der			Brick Craftman's plan for tryker light bra	
 -	bczaea22	Leichte Unterhosen	Leichte Unterhosen	Leichte Unterhosen	Leichte Unterhosen	eine	die			Brick Craftman's plan for zorai light panties	
 -	bczaea23	Leichter Büstenhalter 	Leichter Büstenhalter 	Leichter Büstenhalter 	Leichter Büstenhalter 	ein	der		die	Handwerksplan-Stanza (Teil einer Aktion) Leichter Zoraï Büstenhalter Ninka	
-1618581536	jrez_nodp_tryker	
-1619198342	jboost_2x	
-1619198360	tag_fyros_1	
-1619199443	jrez_fulllife_tryker	
-1619199449	jrez_halflife_tryker	
-1619199455	jrez_goodlife_tryker	
-1619275925	jrez_goodlife_matis	
-1619275929	jrez_goodlife_fyros	
-1619275932	jrez_goodlife_zorai	
-1619275939	jrez_halflife_matis	
-1619275943	jrez_halflife_zorai	
-1619275945	jrez_halflife_fyros	
-1619275952	jrez_fulllife_matis	
-1619275954	jrez_fulllife_zorai	
-1619275957	jrez_fulllife_fyros	
-1619275962	jrez_nodp_matis	
-1619275964	jrez_nodp_fyros	
-1619275966	jrez_nodp_zorai	
+1618581536	jrez_nodp_tryker	süßer Tod	süßer Tod	süßer Tod	süßer Tod			süßer Tod		süßer Tod	süßer Tod
+1619198342	jboost_2x	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	ein	der	Verstärker für Allegorie-Effekte	die	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte
+1619198360	tag_fyros_1	Fyros	Fyros	Fyros	Fyros			Fyros		Fyros	Fyros
+1619199443	jrez_fulllife_tryker	zurück zu Ruhm	zurück zu Ruhm	zurück zu Ruhm	zurück zu Ruhm			zurück zu Ruhm		zurück zu Ruhm	zurück zu Ruhm
+1619199449	jrez_halflife_tryker	gut zu Fuß	gut zu Fuß	gut zu Fuß	gut zu Fuß			gut zu Fuß		gut zu Fuß	gut zu Fuß
+1619199455	jrez_goodlife_tryker	gut in Form	gut in Form	gut in Form	gut in Form			gut in Form		gut in Form	gut in Form
+1619275925	jrez_goodlife_matis	gut in Form	gut in Form	gut in Form	gut in Form			gut in Form		gut in Form	gut in Form
+1619275929	jrez_goodlife_fyros	gut in Form	gut in Form	gut in Form	gut in Form			gut in Form		gut in Form	gut in Form
+1619275932	jrez_goodlife_zorai	gut in Form	gut in Form	gut in Form	gut in Form			gut in Form		gut in Form	gut in Form
+1619275939	jrez_halflife_matis	gut zu Fuß	gut zu Fuß	gut zu Fuß	gut zu Fuß			gut zu Fuß		gut zu Fuß	gut zu Fuß
+1619275943	jrez_halflife_zorai	gut zu Fuß	gut zu Fuß	gut zu Fuß	gut zu Fuß			gut zu Fuß		gut zu Fuß	gut zu Fuß
+1619275945	jrez_halflife_fyros	gut zu Fuß	gut zu Fuß	gut zu Fuß	gut zu Fuß			gut zu Fuß		gut zu Fuß	gut zu Fuß
+1619275952	jrez_fulllife_matis	zurück zu Ruhm	zurück zu Ruhm	zurück zu Ruhm	zurück zu Ruhm			zurück zu Ruhm		zurück zu Ruhm	zurück zu Ruhm
+1619275954	jrez_fulllife_zorai	zurück zu Ruhm	zurück zu Ruhm	zurück zu Ruhm	zurück zu Ruhm			zurück zu Ruhm		zurück zu Ruhm	zurück zu Ruhm
+1619275957	jrez_fulllife_fyros	zurück zu Ruhm	zurück zu Ruhm	zurück zu Ruhm	zurück zu Ruhm			zurück zu Ruhm		zurück zu Ruhm	zurück zu Ruhm
+1619275962	jrez_nodp_matis	süßer Tod	süßer Tod	süßer Tod	süßer Tod			süßer Tod		süßer Tod	süßer Tod
+1619275964	jrez_nodp_fyros	süßer Tod	süßer Tod	süßer Tod	süßer Tod	ein	der	süßer Tod	die	süßer Tod	süßer Tod
+1619275966	jrez_nodp_zorai	süßer Tod	süßer Tod	süßer Tod	süßer Tod	ein	der	süßer Tod	die	süßer Tod	süßer Tod
 -	bcomarem1bm_1	Handwerksplan: Tekorn-Mar Streitkolben	Handwerksplan: Tekorn-Mar Streitkolben	Handwerksplan: Tekorn-Mar Streitkolben	Handwerksplan: Tekorn-Mar Streitkolben	ein	der		die	Einhand-Streitkolben mit Tekorn-Mar in hoher Qualität	Tekorn-Mar Einhand-Streitkolben
 -	bcomarem1bs_1	Handwerksplan: Tekorn-Mar Stab	Handwerksplan: Tekorn-Mar Stab	Handwerksplan: Tekorn-Mar Stab	Handwerksplan: Tekorn-Mar Stab	ein	der		die	Einhand-Stab mit Tekorn-Mar in hoher Qualität	Tekorn-Mar Einhand-Stab
 -	bcomarem1pd_1	Handwerksplan: Tekorn-Mar Dolch	Handwerksplan: Tekorn-Mar Dolch	Handwerksplan: Tekorn-Mar Dolch	Handwerksplan: Tekorn-Mar Dolch	ein	der		die	Einhand-Dolch mit Tekorn-Mar in hoher Qualität	Tekorn-Mar Einhand-Dolch
