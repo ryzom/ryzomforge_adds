@@ -7795,3 +7795,95 @@
 1619876266	m0832dxacc01	Racine de Cheng raffinée	une	la	Racines de Cheng raffinées		des
 1619876266	m0833dxacc01	Gomme de Rubbarn raffinée	de la	la	Gommes de Rubbarn raffinées		des
 1619876266	m0834dxacc01	Pollen d'Égiros raffiné	du	le	Pollens d'Égiros raffinés		des
+1619876266	icogenm1bm_1	Masse Tekorn-Gen	une	la	Masses Tekorn-Gen	des	les
+1619876266	icogenm1bm_2	Masse Vedice-Gen	une	la	Masses Vedice-Gen	des	les
+1619876266	icogenm1bs_1	Bâton Tekorn-Gen	un	le	Bâtons Tekorn-Gen	des	les
+1619876266	icogenm1bs_2	Bâton Vedice-Gen	un	le	Bâtons Vedice-Gen	des	les
+1619876266	icogenm1pd_1	Dague Tekorn-Gen	une	la	Dagues Tekorn-Gen	des	les
+1619876266	icogenm1pd_2	Dague Vedice-Gen	une	la	Dagues Vedice-Gen	des	les
+1619876266	icogenm1ps_1	Lance Tekorn-Gen	une	la	Lances Tekorn-Gen	des	les
+1619876266	icogenm1ps_2	Lance Vedice-Gen	une	la	Lances Vedice-Gen	des	les
+1619876266	icogenm1sa_1	Hache Tekorn-Gen	une	la	Haches Tekorn-Gen	des	les
+1619876266	icogenm1sa_2	Hache Vedice-Gen	une	la	Haches Vedice-Gen	des	les
+1619876266	icogenm1ss_1	Épée Tekorn-Gen	une	l'	Épées Tekorn-Gen	des	les
+1619876266	icogenm1ss_2	Épée Vedice-Gen	une	l'	Épées Vedice-Gen	des	les
+1619876266	icogenm2bm_1	Masse à deux mains Tekorn-Gen	une	la	Massesà deux mains Tekorn-Gen	des	les
+1619876266	icogenm2bm_2	Masse à deux mains Vedice-Gen	une	la	Massesà deux mains Vedice-Gen	des	les
+1619876266	icogenm2ms_1	Amplificateurs magiques Maga-Gen	un	l'	Amplificateurs Magiques Maga-Gen	des	les
+1619876266	icogenm2ms_2	Amplificateurs magiques Cheng-Gen	un	l'	Amplificateurs Magiques Cheng-Gen	des	les
+1619876266	icogenm2pp_1	Pique Tekorn-Gen	une	la	Piques Tekorn-Gen	des	les
+1619876266	icogenm2pp_2	Pique Vedice-Gen	une	la	Piques Vedice-Gen	des	les
+1619876266	icogenm2sa_1	Hache à deux mains Tekorn-Gen	une	la	Haches à deux mains Tekorn-Gen	des	les
+1619876266	icogenm2sa_2	Hache à deux mains Vedice-Gen	une	la	Haches à deux mains Vedice-Gen	des	les
+1619876266	icogenm2ss_1	Épée à deux mains Tekorn-Gen	une	l'	Épées à deux mains Tekorn-Gen	des	les
+1619876266	icogenm2ss_2	Épée à deux mains Vedice-Gen	une	l'	Épées à deux mains Vedice-Gen	des	les
+1619876266	icogenr1b_1	Pistolet-arbalète Tekorn-Gen	un	le	Pistolets-Arbalète Tekorn-Gen	des	les
+1619876266	icogenr1b_2	Pistolet-arbalète Vedice-Gen	un	le	Pistolets-Arbalète Vedice-Gen	des	les
+1619876266	icogenr1p_1	Pistolet Tekorn-Gen	un	le	Pistolets Tekorn-Gen	des	les
+1619876266	icogenr1p_2	Pistolet Vedice-Gen	un	le	Pistolets Vedice-Gen	des	les
+1619876266	icogenr2a_1	Mitrailleuse Tekorn-Gen	une	la	Mitrailleuses Tekorn-Gen	des	les
+1619876266	icogenr2a_2	Mitrailleuse Vedice-Gen	une	la	Mitrailleuses Vedice-Gen	des	les
+1619876266	icogenr2b_1	Fusil-arbalète Tekorn-Gen	un	le	Fusils-Arbalète Tekorn-Gen	des	les
+1619876266	icogenr2b_2	Fusil-arbalète Vedice-Gen	un	le	Fusils-Arbalète Vedice-Gen	des	les
+1619876266	icogenr2l_1	Lance-grenades Tekorn-Gen	un	le	Lances-Grenades Tekorn-Gen	des	les
+1619876266	icogenr2l_2	Lance-grenades Vedice-Gen	un	le	Lances-Grenades Vedice-Gen	des	les
+1619876266	icogenr2r_1	Fusil Tekorn-Gen	un	le	Fusils Tekorn-Gen	des	les
+1619876266	icogenr2r_2	Fusil Vedice-Gen	un	le	Fusils Vedice-Gen	des	les
+1619876266	icogentammo_1	Outil de création de munitions Armilo-Gen	un	l'	Outils de création de munitions Armilo-Gen	des	les
+1619876266	icogentammo_2	Outil de création de munitions Rubbarn-Gen	un	l'	Outils de création de munitions Rubbarn-Gen	des	les
+1619876266	icogentarmor_1	Outil de création d'armures Armilo-Gen	un	l'	Outils de création d'armures Armilo-Gen	des	les
+1619876266	icogentarmor_2	Outil de création d'armures Rubbarn-Gen	un	l'	Outils de création d'armures Rubbarn-Gen	des	les
+1619876266	icogentforage_1	Pioche de forage Greslin-Gen	une	la	Pioches de forage Greslin-Gen	des	les
+1619876266	icogentforage_2	Pioche de forage Égiros-Gen	une	la	Pioches de forage Égiros-Gen	des	les
+1619876266	icogentjewel_1	Outil de création de bijoux Armilo-Gen	un	l'	Outils de création de bijoux Armilo-Gen	des	les
+1619876266	icogentjewel_2	Outil de création de bijoux Rubbarn-Gen	un	l'	Outils de création de bijoux Rubbarn-Gen	des	les
+1619876266	icogentmwea_1	Outil de création d'armes de mêlée Armilo-Gen	un	l'	Outils de création d'armes de mêlée Armilo-Gen	des	les
+1619876266	icogentmwea_2	Outil de création d'armes de mêlée Rubbarn-Gen	un	l'	Outils de création d'armes de mêlée Rubbarn-Gen	des	les
+1619876266	icogentrwea_1	Outil de création d'armes de tir Armilo-Gen	un	l'	Outils de création d'armes de tir Armilo-Gen	des	les
+1619876266	icogentrwea_2	Outil de création d'armes de tir Rubbarn-Gen	un	l'	Outils de création d'armes de tir Rubbarn-Gen	des	les
+1619876266	icomarm1bm_1	Masse Tekorn-Mar	une	la	Masses Tekorn-Mar	des	les
+1619876266	icomarm1bm_2	Masse Vedice-Mar	une	la	Masses Vedice-Mar	des	les
+1619876266	icomarm1bs_1	Bâton Tekorn-Mar	un	le	Bâtons Tekorn-Mar	des	les
+1619876266	icomarm1bs_2	Bâton Vedice-Mar	un	le	Bâtons Vedice-Mar	des	les
+1619876266	icomarm1pd_1	Dague Tekorn-Mar	une	la	Dagues Tekorn-Mar	des	les
+1619876266	icomarm1pd_2	Dague Vedice-Mar	une	la	Dagues Vedice-Mar	des	les
+1619876266	icomarm1ps_1	Lance Tekorn-Mar	une	la	Lances Tekorn-Mar	des	les
+1619876266	icomarm1ps_2	Lance Vedice-Mar	une	la	Lances Vedice-Mar	des	les
+1619876266	icomarm1sa_1	Hache Tekorn-Mar	une	la	Haches Tekorn-Mar	des	les
+1619876266	icomarm1sa_2	Hache Vedice-Mar	une	la	Haches Vedice-Mar	des	les
+1619876266	icomarm1ss_1	Épée Tekorn-Mar	une	l'	Épées Tekorn-Mar	des	les
+1619876266	icomarm1ss_2	Épée Vedice-Mar	une	l'	Épées Vedice-Mar	des	les
+1619876266	icomarm2bm_1	Masse à deux mains Tekorn-Mar	une	la	Massesà deux mains Tekorn-Mar	des	les
+1619876266	icomarm2bm_2	Masse à deux mains Vedice-Mar	une	la	Massesà deux mains Vedice-Mar	des	les
+1619876266	icomarm2ms_1	Amplificateurs magiques Maga-Mar	un	l'	Amplificateurs Magiques Maga-Mar	des	les
+1619876266	icomarm2ms_2	Amplificateurs magiques Cheng-Mar	un	l'	Amplificateurs Magiques Cheng-Mar	des	les
+1619876266	icomarm2pp_1	Pique Tekorn-Mar	une	la	Piques Tekorn-Mar	des	les
+1619876266	icomarm2pp_2	Pique Vedice-Mar	une	la	Piques Vedice-Mar	des	les
+1619876266	icomarm2sa_1	Hache à deux mains Tekorn-Mar	une	la	Haches à deux mains Tekorn-Mar	des	les
+1619876266	icomarm2sa_2	Hache à deux mains Vedice-Mar	une	la	Haches à deux mains Vedice-Mar	des	les
+1619876266	icomarm2ss_1	Épée à deux mains Tekorn-Mar	une	l'	Épées à deux mains Tekorn-Mar	des	les
+1619876266	icomarm2ss_2	Épée à deux mains Vedice-Mar	une	l'	Épées à deux mains Vedice-Mar	des	les
+1619876266	icomarr1b_1	Pistolet-arbalète Tekorn-Mar	un	le	Pistolets-Arbalète Tekorn-Mar	des	les
+1619876266	icomarr1b_2	Pistolet-arbalète Vedice-Mar	un	le	Pistolets-Arbalète Vedice-Mar	des	les
+1619876266	icomarr1p_1	Pistolet Tekorn-Mar	un	le	Pistolets Tekorn-Mar	des	les
+1619876266	icomarr1p_2	Pistolet Vedice-Mar	un	le	Pistolets Vedice-Mar	des	les
+1619876266	icomarr2a_1	Mitrailleuse Tekorn-Mar	une	la	Mitrailleuses Tekorn-Mar	des	les
+1619876266	icomarr2a_2	Mitrailleuse Vedice-Mar	une	la	Mitrailleuses Vedice-Mar	des	les
+1619876266	icomarr2b_1	Fusil-arbalète Tekorn-Mar	un	le	Fusils-Arbalète Tekorn-Mar	des	les
+1619876266	icomarr2b_2	Fusil-arbalète Vedice-Mar	un	le	Fusils-Arbalète Vedice-Mar	des	les
+1619876266	icomarr2l_1	Lance-grenades Tekorn-Mar	un	le	Lances-Grenades Tekorn-Mar	des	les
+1619876266	icomarr2l_2	Lance-grenades Vedice-Mar	un	le	Lances-Grenades Vedice-Mar	des	les
+1619876266	icomarr2r_1	Fusil Tekorn-Mar	un	le	Fusils Tekorn-Mar	des	les
+1619876266	icomarr2r_2	Fusil Vedice-Mar	un	le	Fusils Vedice-Mar	des	les
+1619876266	icomartammo_1	Outil de création de munitions Armilo-Mar	un	l'	Outils de création de munitions Armilo-Mar	des	les
+1619876266	icomartammo_2	Outil de création de munitions Rubbarn-Mar	un	l'	Outils de création de munitions Rubbarn-Mar	des	les
+1619876266	icomartarmor_1	Outil de création d'armures Armilo-Mar	un	l'	Outils de création d'armures Armilo-Mar	des	les
+1619876266	icomartarmor_2	Outil de création d'armures Rubbarn-Mar	un	l'	Outils de création d'armures Rubbarn-Mar	des	les
+1619876266	icomartforage_1	Pioche de forage Greslin-Mar	une	la	Pioches de forage Greslin-Mar	des	les
+1619876266	icomartforage_2	Pioche de forage Égiros-Mar	une	la	Pioches de forage Égiros-Mar	des	les
+1619876266	icomartjewel_1	Outil de création de bijoux Armilo-Mar	un	l'	Outils de création de bijoux Armilo-Mar	des	les
+1619876266	icomartjewel_2	Outil de création de bijoux Rubbarn-Mar	un	l'	Outils de création de bijoux Rubbarn-Mar	des	les
+1619876266	icomartmwea_1	Outil de création d'armes de mêlée Armilo-Mar	un	l'	Outils de création d'armes de mêlée Armilo-Mar	des	les
+1619876266	icomartmwea_2	Outil de création d'armes de mêlée Rubbarn-Mar	un	l'	Outils de création d'armes de mêlée Rubbarn-Mar	des	les
+1619876266	icomartrwea_1	Outil de création d'armes de tir Armilo-Mar	un	l'	Outils de création d'armes de tir Armilo-Mar	des	les
+1619876266	icomartrwea_2	Outil de création d'armes de tir Rubbarn-Mar	un	l'	Outils de création d'armes de tir Rubbarn-Mar	des	les
