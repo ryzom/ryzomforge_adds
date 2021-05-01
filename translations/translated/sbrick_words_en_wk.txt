@@ -4100,7 +4100,7 @@
 1619275957	jrez_fulllife_fyros	Back in Glory	a	the	Back in Glory		the	@{5F5F}1% @{FFFF}chance to recover, at the time of your resurrection, the @{5F5F}totality @{FFFF}of your life, stamina, sap and focus maxima. @{FAAF}Burning Desert and Nexus Minor only.	
 1619275962	jrez_nodp_matis	Sweet Death	a	the	Sweet Deaths		the	@{5F5F}1% @{FFFF}chance of @{5F5F}no death penality @{FFFF}after a resurrection. @{FAAF}Verdant Heights and Nexus Minor only.	
 1619275964	jrez_nodp_fyros	Sweet Death	a	the	Sweet Deaths		the	@{5F5F}1% @{FFFF}chance of @{5F5F}no death penality @{FFFF}after a resurrection. @{FAAF}Burning Desert and Nexus Minor only.	
-1619275966	jrez_nodp_zorai	Sweet Death	a	the	Sweet Deaths		the	@{5F5F}1% @{FFFF}chance of @{5F5F}no death penality @{FFFF}after a resurrection. @{FAAF}Witherings and Nexus Minor only.	
+1619275966	jrez_nodp_zorai	Sweet Death	a	the	Sweet Deaths		the	@{5F5F}1% @{FFFF}chance of {5F5F}no death penality @{FFFF}after a resurrection. @{FAAF}Witherings and Nexus Minor only.	
 -	bcomarem1bm_1	Tekorn-Mar Mace	a	the				Crafting plan for Tekorn-Mar Maces.	
 -	bcomarem1bs_1	Tekorn-Mar Staff	a	the				Crafting plan for Tekorn-Mar Staffs.	
 -	bcomarem1pd_1	Tekorn-Mar Dagger	a	the				Crafting plan for Tekorn-Mar Daggers.	

@@ -1539,6 +1539,9 @@ Mind_Lord	[Mind Lord]
 
 Misc	[Misc]
 
+mission_real_tooltip	[{FFFC}This is the @{6F6F}Course@{FFFC} you are currently following.\n
+	Click for more @{6F6F}information@{FFFC}.]
+
 mpcatExotic	[Exotic]
 
 mpcatFaber	[Faber]
@@ -11803,9 +11806,9 @@ uiSaveMovie	[Save Movie]
 
 uiSaveUI	[Save]
 
-uiSay	[SAY]
-
 uiSAY	[SAY]
+
+uiSay	[SAY]
 
 uiSayColor	[Say]
 
@@ -12385,9 +12388,9 @@ uiTatoos	[TATOOS]
 
 uitCenter	[CENTER ON PLAYER]
 
-uiTEAM	[TEAM]
-
 uiTeam	[TEAM]
+
+uiTEAM	[TEAM]
 
 uiTeamChat	[Team Chat]
 
@@ -14005,6 +14008,10 @@ uittSelectPlan	[Select the plan of the item to craft]
 uittSetMoney	[Set money]
 
 uittShow3dItemPreview	[If checked, displays a 3D preview of the inspected item.]
+
+uittShowCapInMap	[Show the position of Course goal in the map]
+
+uittShowCapPopup	[Display/Hide the Course popup at top center]
 
 uittShowClock	[If checked, displays the current time in the compass.]
 

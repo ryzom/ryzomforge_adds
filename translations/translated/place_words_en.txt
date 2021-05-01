@@ -715,8 +715,8 @@ _13D97FAB68F4205D	Kami_Enclave	Kami Enclave	the
 _710627533E632FDF	place_hunting_grounds_gingo_lair	Ragus Lair	the
 _CC0CE3C65B7FA15A	mission_place_tryker_02	Prospection Zone	the
 _CC0CE3C65B8FA15A	mission_place_tryker_03	Prospection Zone	the
-_AADAC0B4A615B39C	mission_place_ranger_01		
-_AADAC0B4A625B39C	mission_place_ranger_02		
+_AADAC0B4A615B39C	mission_place_ranger_01
+_AADAC0B4A625B39C	mission_place_ranger_02
 _A35A89087EC54678	mission_place_ilot	experimentation terrain	the
 _C2EB1553A7B1C119	newbieland	Controlled Lands	the
 _FB2D817EC31E3E85	region_newbieland	Lands to Explore	the
@@ -742,7 +742,7 @@ _729FB81B15BB49D6	place_tcm_karavan_raid_ceremony_trigger	Karavan Experimentatio
 _2B9C66C11C4631ED	place_tcm_karavan_raid_ceremony_target	Karavan Experimentation Camp	the
 _0CF23F6CE22867E1	place_tcm_company_raid_ceremony_trigger	Kami Mission	the
 _72621C2FB0575EE1	place_tcm_company_raid_ceremony_target	Kami Mission	the
-_2454F9A3756BE489	place_tcm_shaman_tent	If you see this text, it's a bug: place_tcm_shaman_tent	
+_2454F9A3756BE489	place_tcm_shaman_tent	If you see this text, it's a bug: place_tcm_shaman_tent
 _7086751EB6C58F8F	place_tcm_rock_fall	Former Karavan Depot	the
 _D986F2FBCC9A5D45	place_tcm_karavan_outpost	Karavan Outpost	the
 _57B18A7D7106EFE2	kitiniere_cattle_room	Cattle Room	the
@@ -754,6 +754,7 @@ _44F20D1B6CB6931E	kitiniere_princes_room	Princes' Room	the
 _ED795F15E6D9C493	kitiniere_queen_room	Queen's Room	the
 _2959ECAE0CB888AF	kitiniere	Kitins' Lair	the
 _9701C07FF26F0E41	continent_kitiniere	Kitins' Lair	the
+_9701C07FF26F0E41	cont_kitiniere	Kitins' Lair	the
 _7556019ACD0C07D7	place_mission_fyros_01_yubo	Yubo Garden	\d
 _46BF61EE6B3E0F09	place_mission_fyros_02_huntingground_t1	Group of Bodocs	the
 _2DED2FD120F0B5AB	place_mission_fyros_02_huntingground_t1exit	Place pipo	\d
@@ -798,7 +799,8 @@ _424A85186C58FC20	region_matis_island_2	Dante's Camp	\d
 _E438DC9DA9C9AC6E	region_matis_island_3		\d
 _DFD4F60155444143	continent_matis_island	Old Lands	the
 _5FE21E8487AF99BC	boss_tryker_light_island_zone	Dante's Camp	\d
-_4DF006937CDFE456	place_matis_island_1	Ranger Camp	the
+_4DF006937CDFE456	place_matis_island_1	Almati Wood	\d
+_4DF006937CDFE456	cont_newbieland	Silan	
 _D31864B75FE9A0B2	place_matis_island_3		\d
 _FCB64A9225573F9D	boss_zorai_light_maincamp	Pei-Ruz's Secret Camp	\d
 _0A052D7DE3336174	boss_zorai_light_startcamp	Pei-Ruz's Camp	\d

@@ -289,9 +289,9 @@ Expert_Shield_Smith	[Превосходный мастер по изготовл
 
 ExtremelyDifficult	[Чрезвычайно сложно]
 
-Faber	[Ремесленник]
-
 faber	[Ремесленник]
+
+Faber	[Ремесленник]
 
 FaberCompetences	[РЕМЕСЛЕННЫЕ НАВЫКИ]
 
@@ -4700,6 +4700,8 @@ uiBotChatOffer	[ВАШЕ ПРЕДЛОЖЕНИЕ]
 
 uiBotChatPact	[Соглашение: ]
 
+uibotchatphrase	[]
+
 uiBotChatPrice	[Цена: ]
 
 uiBotChatRefresh	[Обновить]
@@ -7307,9 +7309,9 @@ uiGloves	[ПЕРЧАТКИ]
 
 uiGroupColor	[Члены группы]
 
-uiGuild	[Гильдия]
-
 uiGUILD	[ГИЛЬДИЯ]
+
+uiGuild	[Гильдия]
 
 uiGuildBearer	[Знаменосец]
 
@@ -10346,9 +10348,9 @@ uiNoVersionFound	[Версия не обнаружена]
 
 uiNowDate	[Новая дата :]
 
-uiNPCColor	[NPC]
-
 uiNpcColor	[NPC]
+
+uiNPCColor	[NPC]
 
 uiNPCGiver	[ПОЛУЧЕНО У: ]
 
@@ -11997,9 +11999,9 @@ uiS2E0	[Эпизод 1: Тот, где Нексус вновь обнаруже�
 
 uiSandThundery	[песчаная буря]
 
-uiSap	[Сэп]
-
 uiSAP	[Сэп]
+
+uiSap	[Сэп]
 
 uiSapBarDisplay	[ОТОБРАЖЕНИЕ СЭП]
 
@@ -12181,9 +12183,9 @@ uiShortcutNumber	[Shortcut Number]
 
 uiShortCutTT	[Перетащите сюда боевое умение или магическое заклинание]
 
-uiShout	[КРИЧАТЬ]
-
 uiSHOUT	[ПРОКРИЧАТЬ]
+
+uiShout	[КРИЧАТЬ]
 
 uiShoutColor	[Прокричать]
 
@@ -14216,6 +14218,10 @@ uittSetMoney	[Утвердить сумму]
 
 uittShow3dItemPreview	[Пометьте для отображения трехмерной картинки в окне информации о предмете.]
 
+uittShowCapInMap	[]
+
+uittShowCapPopup	[]
+
 uittShowClock	[Пометьте для отображения времени в компасе.]
 
 uittShowClock12h	[If checked, use 12-hour clock in compass and in chat messages.]
@@ -14617,5 +14623,5 @@ _Yrkanis_citizen	[ (Гражданин Йрканиса)]
 
 ___faber_skill_sep___	[--------------------------------]
 
-uibotchatphrase	[]
+mission_real_tooltip	[]
 

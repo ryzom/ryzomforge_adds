@@ -1539,6 +1539,9 @@ Mind_Lord	[Mind Lord]
 
 Misc	[Misc]
 
+mission_real_tooltip	[{FFFC}This is the @{6F6F}Course@{FFFC} you are currently following.\n
+	Click for more @{6F6F}information@{FFFC}.]
+
 mpcatExotic	[Exotic]
 
 mpcatFaber	[Crafter]
@@ -9822,6 +9825,8 @@ uiMK_Wins	[WINDOWS]
 
 uimLeaveBag	[Let out of bag]
 
+uimLeaveStable	[Leave stables]
+
 uimLockItem	[Lock]
 
 uimLockUnlock	[LOCK / UNLOCK]
@@ -12000,9 +12005,9 @@ uiS2E0	[Episode 1: The one where Nexus is rediscovered]
 
 uiSandThundery	[Sand storm]
 
-uiSAP	[Sap]
-
 uiSap	[Sap]
+
+uiSAP	[Sap]
 
 uiSapBarDisplay	[SAP DISPLAY]
 
@@ -12019,9 +12024,9 @@ uiSaveMovie	[Save Movie]
 
 uiSaveUI	[Save]
 
-uiSAY	[SAY]
-
 uiSay	[SAY]
+
+uiSAY	[SAY]
 
 uiSayColor	[Say]
 
@@ -12599,9 +12604,9 @@ uiTatoos	[TATTOOS]
 
 uitCenter	[CENTER MAP ON YOURSELF]
 
-uiTEAM	[TEAM]
-
 uiTeam	[TEAM]
+
+uiTEAM	[TEAM]
 
 uiTeamChat	[Team Chat]
 
@@ -14223,6 +14228,10 @@ uittSetMoney	[Set amount]
 
 uittShow3dItemPreview	[If checked, displays a 3D preview of the inspected item.]
 
+uittShowCapInMap	[Show the position of Course's goal on the map]
+
+uittShowCapPopup	[Display/hide the Course popup at top center of the screen]
+
 uittShowClock	[If checked, displays the current time in the compass.]
 
 uittShowClock12h	[If checked, use 12-hour clock in compass and in chat messages.]
@@ -14622,6 +14631,4 @@ _Natae_citizen	[ (Natae citizen)]
 _Yrkanis_citizen	[ (Yrkanis citizen)]
 
 ___faber_skill_sep___	[--------------------------------]
-
-uimLeaveStable	[Leave stables]
 
