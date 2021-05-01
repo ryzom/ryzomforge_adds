@@ -3528,7 +3528,7 @@
 -	cold	Dégât de Froid	un	le	Dégâts de Froid	des	les	Vous subissez des dégâts durables de froids.	
 -	fire	Dégât de Feu	un	le	Dégâts de Feu	des	les	Vous subissez des dégâts durables de feu.	
 -	electric	Dégât d'Electricité	un	le	Dégâts d'Electricité	des	les	Vous subissez des dégâts durables d'électricité.	
--	acid	Acid Damage	an	the	Acid Damage			You suffer acid damage over time.	
+-	acid	Dégât d'acide	un	le	Dégâts d'acide	des	les	Vous subissez des dégâts d'acide au long cours.	
 -	poison	Dégât de Poison	un	le	Dégâts de Poison	des	les	Vous subissez des dégâts durables de poison.	
 -	shockwave	Dégât d'Ondes de Choc	un	le	Dégâts d'Ondes de Choc	des	les	Vous subissez des dégâts durables d'ondes de choc.	
 -	shielding	Bouclier	un	le	Boucliers	des	les	Vous avez un garde du corps	
@@ -3537,7 +3537,7 @@
 -	sap_aura	Aura de Régénération de Sève	une	l'	Auras de Régénération de Sève	des	les	Vos sève se régénère plus rapidement.	
 -	umbrella_aura	Aura de Protection à Distance	une	l'	Auras de Protection à Distance	des	les	Vous êtes protégé contre les attaques à distance.	
 -	melee_protection_aura	Aura de Protection de Mêlée	une	l'	Auras de Protection de Mêlée	des	les	Vous êtes protégé contre les attaques de mêlée.	
--	anti_magic_shield_aura	Anti Magic Shield Aura	an	the	Anti Magic Shield Aura			You are protected from magic attacks.	
+-	anti_magic_shield_aura	Aura de protection contre la magie	une	l'	Auras de protection contre la magie	des	les	Vous protège des attaques magiques.	
 -	invulnerability	Invulnérabilité	une	l'	Invulnérabilités	des	les	Vous êtes invulnérable mais ne pouvez pas réagir.	
 -	war_cry_aura	Aura de Cri de Guerre	une	l'	Auras de Cri de Guerre	des	les	Vos dégâts de faible portée obtiennent un bonus.	
 -	speeding_up	Accélération	une	l'	Accélérations	des	les	Vous pouvez courir plus rapidement.	
@@ -3686,8 +3686,8 @@
 -	bcrmea06	Plan de Création/Dague de Réfugié	un 	le	Plans de Création/Dague de Réfugié	des	les	Brique de Création - plan de dague de réfugié	
 -	bcrmea10	Plan de Création/Epée de Réfugié 	un 	le	Plans de Création/Epée de Réfugié 	des	les	Brique de Création - plan d'épée de réfugié	
 -	bcrmea15	Plan de Création/Amplificateur Magique de Réfugié	un	le	Plans de Création/Amplificateur Magique de Réfugié	des	les	Plan de Création/Amplificateur Magique de Réfugié	
--	bapa01	Teleport	a	the				Teleport ticket	
--	bapa02	Disconnection	a	the				Disconnection from game	
+-	bapa01	Pacte de Téléportation	un	le	Pactes de téléportation	des	les	Pacte pour se téléporter.	
+-	bapa02	Déconnexion	une	la	Déconnexions	des	les	Quitter le jeu.	
 -	bptea01	Titre de Champion Kami	un	le	Titre de Champion Kami	des	les	Titre de Champion Kami	
 -	bptea02	Titre de Champion Karavan	un	le	Titre de Champion Karavan	des	les	Titre de Champion Karavan	
 -	bsfeb08	Barrière de Feu	une	la	Barrières de Feu	des	les	Crée une barrière de feu autour de vous qui blesse tous les ennemis vous atteignant au corps à corps	
@@ -4083,9 +4083,21 @@
 -	bctaea23	Plan de Création/Soutien-gorge Légères Tryker	un	le	Plans de Création/Soutien-gorge Légères Tryker	des	les	Brique de plan de création pour soutien-gorge légères tryker	
 -	bczaea22	Plan de Création/Culotte Légères Zoraïs	un	le	Plans de Création/Culotte Légères Zoraïs	des	les	Brique de plan de création pour culotte légères zoraïs	
 -	bczaea23	Plan de Création/Soutien-gorge Légères Zoraïs	un	le	Plans de Création/Soutien-gorge Légères Zoraïs	des	les	Brique de plan de création pour soutien-gorge légères zoraïs	
-1618581536	jrez_nodp_tryker	Mort douce	un	le	Mort douce		the	1% de chances de ne pas avoir de pénalité de mort après une résurrection. @{FAAF}Tryker continent and Nexus only	
-1619198342	jboost_2x	
-1619198360	tag_fyros_1	
-1619199443	jrez_fulllife_tryker	Retour en gloire	un	le	Retour en gloire	des	les	1%% de chances de récupérer, lors de votre résurrection, la totalité de vos maximums de vie, endurance, sève et concentration.	
-1619199449	jrez_halflife_tryker	Retour sur pied	un	le	Retour sur pied	des	les	3%% de chances de récupérer, lors de votre résurrection, la moitié de vos maximums de vie, endurance, sève et concentration. 	
-1619199455	jrez_goodlife_tryker	Retour en forme	un	le	Retour en forme	des	les	2% de chances de récupérer, lors de votre résurrection, les trois-quarts de vos maximums de vie, endurance, sève et concentration.	
+1618581536	jrez_nodp_tryker	Mort douce	une	la	Morts douces	des	les	@{5F5F}1% @{FFFF}de chances de ne pas avoir de @{5F5F}pénalité de mort @{FFFF}après une résurrection. @{FAAF}Efficace uniquement en Aeden Aqueous et au Nexus Mineur.	
+1619198342	jboost_2x	Amplificateur d'effet allégorique	un	l'	Amplificateurs d'effet allégorique	des	les	Multiplie l'effet de l'Allégorie par @{5F5F}2@{FFFF}.	
+1619198360	tag_fyros_1	Fyros	un	le	Fyros	des	les		
+1619199443	jrez_fulllife_tryker	Retour en gloire	un	le	Retours en gloire	des	les	@{5F5F}1% @{FFFF}de chances de récupérer, lors de votre résurrection, la @{5F5F}totalité @{FFFF}de vos maximums de vie, endurance, sève et concentration. @{FAAF}Efficace uniquement en Aeden Aqueous et au Nexus Mineur.	
+1619199449	jrez_halflife_tryker	Retour sur pied	un	le	Retours sur pied	des	les	@{5F5F}3% @{FFFF}de chances de récupérer, lors de votre résurrection, la @{5F5F}moitié @{FFFF}de vos maximums de vie, endurance, sève et concentration. @{FAAF}Efficace uniquement en Aeden Aqueous et au Nexus Mineur.	
+1619199455	jrez_goodlife_tryker	Retour en forme	un	le	Retours en forme	des	les	@{5F5F}2%@{FFFF} de chances de récupérer, lors de votre résurrection, les @{5F5F}trois-quarts@{FFFF} de vos maximums de vie, endurance, sève et concentration. @{FAAF}Efficace uniquement en Aeden Aqueous et au Nexus.	
+1619275925	jrez_goodlife_matis	Retour en forme	un	le	Retours en forme	des	les	@{5F5F}2%@{FFFF} de chances de récupérer, lors de votre résurrection, les @{5F5F}trois-quarts@{FFFF} de vos maximums de vie, endurance, sève et concentration. @{FAAF}Efficace uniquement dans les Sommets Verdoyants et au Nexus Mineur.	
+1619275929	jrez_goodlife_fyros	Retour en forme	un	le	Retours en forme	des	les	@{5F5F}2%@{FFFF} de chances de récupérer, lors de votre résurrection, les @{5F5F}trois-quarts@{FFFF} de vos maximums de vie, endurance, sève et concentration. @{FAAF}Efficace uniquement dans le Désert Ardent et au Nexus Mineur.	
+1619275932	jrez_goodlife_zorai	Retour en forme	un	le	Retours en forme	des	les	@{5F5F}2%@{FFFF} de chances de récupérer, lors de votre résurrection, les @{5F5F}trois-quarts@{FFFF} de vos maximums de vie, endurance, sève et concentration. @{FAAF}Efficace uniquement dans le Pays Malade et au Nexus Mineur.	
+1619275939	jrez_halflife_matis	Retour sur pied	un	le	Retours sur pied	des	les	@{5F5F}3% @{FFFF}de chances de récupérer, lors de votre résurrection, la @{5F5F}moitié @{FFFF}de vos maximums de vie, endurance, sève et concentration. @{FAAF}Efficace uniquement dans les Sommets Verdoyants et au Nexus Mineur.	
+1619275943	jrez_halflife_zorai	Retour sur pied	un	le	Retours sur pied	des	les	@{5F5F}3% @{FFFF}de chances de récupérer, lors de votre résurrection, la @{5F5F}moitié @{FFFF}de vos maximums de vie, endurance, sève et concentration. @{FAAF}Efficace uniquement dans le Pays Malade et au Nexus Mineur.	
+1619275945	jrez_halflife_fyros	Retour sur pied	un	le	Retours sur pied	des	les	@{5F5F}3% @{FFFF}de chances de récupérer, lors de votre résurrection, la @{5F5F}moitié @{FFFF}de vos maximums de vie, endurance, sève et concentration. @{FAAF}Efficace uniquement dans le Désert Ardent et au Nexus Mineur.	
+1619275952	jrez_fulllife_matis	Retour en gloire	un	le	Retours en gloire	des	les	@{5F5F}1% @{FFFF}de chances de récupérer, lors de votre résurrection, la @{5F5F}totalité @{FFFF}de vos maximums de vie, endurance, sève et concentration. @{FAAF}Efficace uniquement dans les Sommets Verdoyants et au Nexus Mineur.	
+1619275954	jrez_fulllife_zorai	Retour en gloire	un	le	Retours en gloire	des	les	@{5F5F}1% @{FFFF}de chances de récupérer, lors de votre résurrection, la @{5F5F}totalité @{FFFF}de vos maximums de vie, endurance, sève et concentration. @{FAAF}Efficace uniquement dans le Pays Malade et au Nexus Mineur.	
+1619275957	jrez_fulllife_fyros	Retour en gloire	un	le	Retours en gloire	des	les	@{5F5F}1% @{FFFF}de chances de récupérer, lors de votre résurrection, la @{5F5F}totalité @{FFFF}de vos maximums de vie, endurance, sève et concentration. @{FAAF}Efficace uniquement dans le Désert Ardent et au Nexus Mineur.	
+1619275962	jrez_nodp_matis	Mort douce	une	la	Morts douces	des	les	@{5F5F}1% @{FFFF}de chances de ne pas avoir de @{5F5F}pénalité de mort @{FFFF}après une résurrection. @{FAAF}Efficace uniquement dans les Sommets Verdoyants et au Nexus Mineur.	
+1619275964	jrez_nodp_fyros	Mort douce	une	la	Morts douces	des	les	@{5F5F}1% @{FFFF}de chances de ne pas avoir de @{5F5F}pénalité de mort @{FFFF}après une résurrection. @{FAAF}Efficace uniquement dans le Désert Ardent et au Nexus Mineur.	
+1619275966	jrez_nodp_zorai	Mort douce	une	la	Morts douces	des	les	@{5F5F}1% @{FFFF}de chances de ne pas avoir de @{5F5F}pénalité de mort @{FFFF}après une résurrection. @{FAAF}Efficace uniquement dans le Pays Malade et au Nexus Mineur.	

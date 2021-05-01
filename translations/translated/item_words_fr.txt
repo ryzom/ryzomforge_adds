@@ -6047,10 +6047,10 @@
 -	nbland_goo_device	Arracheur de Goo	un	l'	Arracheurs de Goo	des	les
 -	newbie_diadem	diadème princier	un	le	diadèmes princiers	des	les
 -	newbie_plans	plan des bandits	un	le	plans des bandits	des	les
--	nexus_neck_1	Collier irisé du Désert	un	le	Colliers irisés du Désert	des	les
--	nexus_neck_2	Collier irisé de la Forêt	un	le	Colliers irisés de la Forêt	des	les
--	nexus_neck_3	Collier irisé des Lacs	un	le	Colliers irisés des Lacs	des	les
--	nexus_neck_4	Collier irisé de la Jungle	un	le	Colliers irisés de la Jungle	des	les
+-	nexus_neck1	Collier irisé du Désert	un	le	Colliers irisés du Désert	des	les
+-	nexus_neck2	Collier irisé de la Forêt	un	le	Colliers irisés de la Forêt	des	les
+-	nexus_neck3	Collier irisé des Lacs	un	le	Colliers irisés des Lacs	des	les
+-	nexus_neck4	Collier irisé de la Jungle	un	le	Colliers irisés de la Jungle	des	les
 -	old_man_materials	Matière de vieil homme	une	la	Matières de vieil homme	des	les
 -	old_man_seeds	Graine de vieil homme	une	la	Graines de vieil homme	des	les
 -	orange_medicine	Médicament orange	un	le	Médicaments orange	des	les

@@ -7772,10 +7772,10 @@
 -	m0694ccife01	Cuero de Zerx Supremo del Bosque	algo de	el	Cueros de Zerx Supremo del Bosque		los
 -	s2e1_seve_suc	gota de savia salina	una	la	gotas de savia salina	unas	las
 -	s2e1_salins	salina madura	una	la	salinas maduras	unas	las
--	nexus_neck_1	Collar Iridiscente del Desierto	uno	el	Collares Iridiscentes	unos	los
--	nexus_neck_2	Collar Iridiscente del Bosque	uno	el	Collares Iridiscentes del Bosque	unos	los
--	nexus_neck_3	Collar Iridiscente de Los Lagos	uno	el	Collares Iridiscentes de los Lagos	unos	los
--	nexus_neck_4	Collar Iridiscente de la Selva	uno	el	Collares Iridiscentes de la Selva	unos	los
+-	nexus_neck1	Collar Iridiscente del Desierto	uno	el	Collares Iridiscentes	unos	los
+-	nexus_neck2	Collar Iridiscente del Bosque	uno	el	Collares Iridiscentes del Bosque	unos	los
+-	nexus_neck3	Collar Iridiscente de Los Lagos	uno	el	Collares Iridiscentes de los Lagos	unos	los
+-	nexus_neck4	Collar Iridiscente de la Selva	uno	el	Collares Iridiscentes de la Selva	unos	los
 -	wheel_token_easter	Evento días de Refugiado	una	la	Evento días de Refugiado	unas	las
 -	slot_fingerl		equipar el anillo en tu dedo izquierdo	uno	el	equipar los anillos en tu dedo izquierdo	unos	los
 1618579662	slot_neck	

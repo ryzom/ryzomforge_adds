@@ -6047,10 +6047,10 @@
 -	nbland_goo_device	Goo Remover	a	the	Goo Removers		the	
 -	newbie_diadem	Prince diadem	a	the	Prince diadems		the	
 -	newbie_plans	Bandits' plan	a	the	Bandits' plans		the	
--	nexus_neck_1	Iridescent Desert Necklace	a	the	Iridescent Desert Necklace			
--	nexus_neck_2	Iridescent Forest Necklace	a	the	Iridescent Forest Necklace			
--	nexus_neck_3	Iridescent Lakes Necklace	a	the	Iridescent Lakes Necklace			
--	nexus_neck_4	Iridescent Jungle Necklace	a	the	Iridescent Jungle Necklace			
+-	nexus_neck1	Iridescent Desert Necklace	a	the	Iridescent Desert Necklace			
+-	nexus_neck2	Iridescent Forest Necklace	a	the	Iridescent Forest Necklace			
+-	nexus_neck3	Iridescent Lakes Necklace	a	the	Iridescent Lakes Necklace			
+-	nexus_neck4	Iridescent Jungle Necklace	a	the	Iridescent Jungle Necklace			
 -	old_man_materials	Old Man's Material	an	the	Old Man's Materials		the	
 -	old_man_seeds	Old Man's Seed	an	the	Old Man's Seeds		the	
 -	orange_medicine	Orange Medicine	an	the	Orange Medicines		the	
