@@ -4101,3 +4101,95 @@
 1619275962	jrez_nodp_matis	Sweet Death	a	the	Sweet Deaths		the	@{5F5F}1% @{FFFF}chance of @{5F5F}no death penality @{FFFF}after a resurrection. @{FAAF}Verdant Heights and Nexus Minor only.	
 1619275964	jrez_nodp_fyros	Sweet Death	a	the	Sweet Deaths		the	@{5F5F}1% @{FFFF}chance of @{5F5F}no death penality @{FFFF}after a resurrection. @{FAAF}Burning Desert and Nexus Minor only.	
 1619275966	jrez_nodp_zorai	Sweet Death	a	the	Sweet Deaths		the	@{5F5F}1% @{FFFF}chance of @{5F5F}no death penality @{FFFF}after a resurrection. @{FAAF}Witherings and Nexus Minor only.	
+-	bcomarem1bm_1	Tekorn-Mar Mace	a	the				Crafting plan for Tekorn-Mar Maces.	
+-	bcomarem1bs_1	Tekorn-Mar Staff	a	the				Crafting plan for Tekorn-Mar Staffs.	
+-	bcomarem1pd_1	Tekorn-Mar Dagger	a	the				Crafting plan for Tekorn-Mar Daggers.	
+-	bcomarem1ps_1	Tekorn-Mar Spear	a	the				Crafting plan for Tekorn-Mar Spears.	
+-	bcomarem1sa_1	Tekorn-Mar Axe	a	the				Crafting plan for Tekorn-Mar Axes.	
+-	bcomarem1ss_1	Tekorn-Mar Sword	a	the				Crafting plan for Tekorn-Mar Swords.	
+-	bcomarem2bm_1	Tekorn-Mar Two-handed Mace	a	the				Crafting plan for Tekorn-Mar Two-handed Maces.	
+-	bcomarem2ms_1	Maga-Mar Magic Amplifier	a	the				Crafting plan for Maga-Mar Magic Amplifiers.	
+-	bcomarem2pp_1	Tekorn-Mar Pike	a	the				Crafting plan for Tekorn-Mar Pikes.	
+-	bcomarem2sa_1	Tekorn-Mar Two-handed Axe	a	the				Crafting plan for Tekorn-Mar Two-handed Axes.	
+-	bcomarem2ss_1	Tekorn-Mar Two-handed Sword	a	the				Crafting plan for Tekorn-Mar Two-handed Swords.	
+-	bcomarem1bm_2	Vedice-Mar Mace	a	the				Crafting plan for Vedice-Mar Maces.	
+-	bcomarem1bs_2	Vedice-Mar Staff	a	the				Crafting plan for Vedice-Mar Staffs.	
+-	bcomarem1pd_2	Vedice-Mar Dagger	a	the				Crafting plan for Vedice-Mar Daggers.	
+-	bcomarem1ps_2	Vedice-Mar Spear	a	the				Crafting plan for Vedice-Mar Spears.	
+-	bcomarem1sa_2	Vedice-Mar Axe	a	the				Crafting plan for Vedice-Mar Axes.	
+-	bcomarem1ss_2	Vedice-Mar Sword	a	the				Crafting plan for Vedice-Mar Swords.	
+-	bcomarem2bm_2	Vedice-Mar Two-handed Mace	a	the				Crafting plan for Vedice-Mar Two-handed Maces.	
+-	bcomarem2ms_2	Cheng-Mar Magic Amplifier	a	the				Crafting plan for Cheng-Mar Magic Amplifiers.	
+-	bcomarem2pp_2	Vedice-Mar Pike	a	the				Crafting plan for Vedice-Mar Pikes.	
+-	bcomarem2sa_2	Vedice-Mar Two-handed Axe	a	the				Crafting plan for Vedice-Mar Two-handed Axes.	
+-	bcomarem2ss_2	Vedice-Mar Two-handed Sword	a	the				Crafting plan for Vedice-Mar Two-Handed Swords.	
+-	bcomarer1b_1	Tekorn-Mar Bowpistol	a	the				Crafting plan for Tekorn-Mar Bowpistols.	
+-	bcomarer1p_1	Tekorn-Mar Pistol	a	the				Crafting plan for Tekorn-Mar Pistols.	
+-	bcomarer2a_1	Tekorn-Mar Autolauncher	a	the				Crafting plan for Tekorn-Mar Autolaunchers.	
+-	bcomarer2b_1	Tekorn-Mar Bowrifle	a	the				Crafting plan for Tekorn-Mar Bowrifles.	
+-	bcomarer2l_1	Tekorn-Mar Launcher	a	the				Crafting plan for Tekorn-Mar Launchers.	
+-	bcomarer2r_1	Tekorn-Mar Rifle	a	the				Crafting plan for Tekorn-Mar Rifles.	
+-	bcomarer1b_2	Vedice-Mar Bowpistol	a	the				Crafting plan for Vedice-Mar Bowpistols.	
+-	bcomarer1p_2	Vedice-Mar Pistol	a	the				Crafting plan for Vedice-Mar Pistols.	
+-	bcomarer2a_2	Vedice-Mar Autolauncher	a	the				Crafting plan for Vedice-Mar Autolaunchers.	
+-	bcomarer2b_2	Vedice-Mar Bowrifle	a	the				Crafting plan for Vedice-Mar Bowrifles.	
+-	bcomarer2l_2	Vedice-Mar Launcher	a	the				Crafting plan for Vedice-Mar Launchers.	
+-	bcomarer2r_2	Vedice-Mar Rifle	a	the				Crafting plan for Vedice-Mar Rifles.	
+-	bcomaretammo_1	Armilo-Mar Ammo	an	the				Crafting plan for Armilo-Mar ammo crafting tools.	
+-	bcomaretarmor_1	Armilo-Mar Armor	an	the				Crafting plan for Armilo-Mar armor crafting tools.	
+-	bcomaretjewel_1	Armilo-Mar Jewel	an	the				Crafting plan for Armilo-Mar jewel crafting tools.	
+-	bcomaretmwea_1	Armilo-Mar Melee Weapon	an	the				Crafting plan for Armilo-Mar melee weapon crafting tools.	
+-	bcomaretrwea_1	Armilo-Mar Range Weapon	an	the				Crafting plan for Armilo-Mar range weapon crafting tools.	
+-	bcomaretforage_1	Greslin-Mar Pick	a	the				Crafting plan Greslin-Mar Picks.	
+-	bcomaretammo_2	Rubbarn-Mar Ammo	a	the				Crafting plan for Rubbarn-Mar ammo crafting tools.	
+-	bcomaretarmor_2	Rubbarn-Mar Armor	a	the				Crafting plan for Rubbarn-Mar armor crafting tools.	
+-	bcomaretjewel_2	Rubbarn-Mar Jewel	a	the				Crafting plan for Rubbarn-Mar jewel crafting tools.	
+-	bcomaretmwea_2	Rubbarn-Mar Melee Weapon	a	the				Crafting plan for Rubbarn-Mar melee weapon crafting tools.	
+-	bcomaretrwea_2	Rubbarn-Mar Range Weapon	a	the				Crafting plan for Rubbarn-Mar range weapon crafting tools.	
+-	bcomaretforage_2	Egiros-Mar Pick	an	the				Crafting plan Egiros-Mar Picks.	
+-	bcogenem1bm_1	Tekorn-Gen Mace	a	the				Crafting plan for Tekorn-Gen Maces.	
+-	bcogenem1bs_1	Tekorn-Gen Staff	a	the				Crafting plan for Tekorn-Gen Staffs.	
+-	bcogenem1pd_1	Tekorn-Gen Dagger	a	the				Crafting plan for Tekorn-Gen Daggers.	
+-	bcogenem1ps_1	Tekorn-Gen Spear	a	the				Crafting plan for Tekorn-Gen Spears.	
+-	bcogenem1sa_1	Tekorn-Gen Axe	a	the				Crafting plan for Tekorn-Gen Axes.	
+-	bcogenem1ss_1	Tekorn-Gen Sword	a	the				Crafting plan for Tekorn-Gen Swords.	
+-	bcogenem2bm_1	Tekorn-Gen Two-handed Mace	a	the				Crafting plan for Tekorn-Gen Two-handed Maces.	
+-	bcogenem2ms_1	Maga-Gen Magic Amplifier	a	the				Crafting plan for Maga-Gen Magic Amplifiers.	
+-	bcogenem2pp_1	Tekorn-Gen Pike	a	the				Crafting plan for Tekorn-Gen Pikes.	
+-	bcogenem2sa_1	Tekorn-Gen Two-handed Axe	a	the				Crafting plan for Tekorn-Gen Two-handed Axes.	
+-	bcogenem2ss_1	Tekorn-Gen Two-handed Sword	a	the				Crafting plan for Tekorn-Gen Two-handed Swords.	
+-	bcogenem1bm_2	Vedice-Gen Mace	a	the				Crafting plan for Vedice-Gen Maces.	
+-	bcogenem1bs_2	Vedice-Gen Staff	a	the				Crafting plan for Vedice-Gen Staffs.	
+-	bcogenem1pd_2	Vedice-Gen Dagger	a	the				Crafting plan for Vedice-Gen Daggers.	
+-	bcogenem1ps_2	Vedice-Gen Spear	a	the				Crafting plan for Vedice-Gen Spears.	
+-	bcogenem1sa_2	Vedice-Gen Axe	a	the				Crafting plan for Vedice-Gen Axes.	
+-	bcogenem1ss_2	Vedice-Gen Sword	a	the				Crafting plan for Vedice-Gen Swords.	
+-	bcogenem2bm_2	Vedice-Gen Two-handed Mace	a	the				Crafting plan for Vedice-Gen Two-handed Maces.	
+-	bcogenem2ms_2	Cheng-Gen Magic Amplifier	a	the				Crafting plan for Cheng-Gen Magic Amplifiers.	
+-	bcogenem2pp_2	Vedice-Gen Pike	a	the				Crafting plan for Vedice-Gen Pikes.	
+-	bcogenem2sa_2	Vedice-Gen Two-handed Axe	a	the				Crafting plan for Vedice-Gen Two-handed Axes.	
+-	bcogenem2ss_2	Vedice-Gen Two-handed Sword	a	the				Crafting plan for Vedice-Gen Two-Handed Swords.	
+-	bcogener1b_1	Tekorn-Gen Bowpistol	a	the				Crafting plan for Tekorn-Gen Bowpistols.	
+-	bcogener1p_1	Tekorn-Gen Pistol	a	the				Crafting plan for Tekorn-Gen Pistols.	
+-	bcogener2a_1	Tekorn-Gen Autolauncher	a	the				Crafting plan for Tekorn-Gen Autolaunchers.	
+-	bcogener2b_1	Tekorn-Gen Bowrifle	a	the				Crafting plan for Tekorn-Gen Bowrifles.	
+-	bcogener2l_1	Tekorn-Gen Launcher	a	the				Crafting plan for Tekorn-Gen Launchers.	
+-	bcogener2r_1	Tekorn-Gen Rifle	a	the				Crafting plan for Tekorn-Gen Rifles.	
+-	bcogener1b_2	Vedice-Gen Bowpistol	a	the				Crafting plan for Vedice-Gen Bowpistols.	
+-	bcogener1p_2	Vedice-Gen Pistol	a	the				Crafting plan for Vedice-Gen Pistols.	
+-	bcogener2a_2	Vedice-Gen Autolauncher	a	the				Crafting plan for Vedice-Gen Autolaunchers.	
+-	bcogener2b_2	Vedice-Gen Bowrifle	a	the				Crafting plan for Vedice-Gen Bowrifles.	
+-	bcogener2l_2	Vedice-Gen Launcher	a	the				Crafting plan for Vedice-Gen Launchers.	
+-	bcogener2r_2	Vedice-Gen Rifle	a	the				Crafting plan for Vedice-Gen Rifles.	
+-	bcogenetammo_1	Armilo-Gen Ammo	an	the				Crafting plan for Armilo-Gen ammo crafting tools.	
+-	bcogenetarmor_1	Armilo-Gen Armor	an	the				Crafting plan for Armilo-Gen armor crafting tools.	
+-	bcogenetjewel_1	Armilo-Gen Jewel	an	the				Crafting plan for Armilo-Gen jewel crafting tools.	
+-	bcogenetmwea_1	Armilo-Gen Melee Weapon	an	the				Crafting plan for Armilo-Gen melee weapon crafting tools.	
+-	bcogenetrwea_1	Armilo-Gen Range Weapon	an	the				Crafting plan for Armilo-Gen range weapon crafting tools.	
+-	bcogenetforage_1	Greslin-Gen Pick	a	the				Crafting plan Greslin-Gen Picks.	
+-	bcogenetammo_2	Rubbarn-Gen Ammo	a	the				Crafting plan for Rubbarn-Gen ammo crafting tools.	
+-	bcogenetarmor_2	Rubbarn-Gen Armor	a	the				Crafting plan for Rubbarn-Gen armor crafting tools.	
+-	bcogenetjewel_2	Rubbarn-Gen Jewel	a	the				Crafting plan for Rubbarn-Gen jewel crafting tools.	
+-	bcogenetmwea_2	Rubbarn-Gen Melee Weapon	a	the				Crafting plan for Rubbarn-Gen melee weapon crafting tools.	
+-	bcogenetrwea_2	Rubbarn-Gen Range Weapon	a	the				Crafting plan for Rubbarn-Gen range weapon crafting tools.	
+-	bcogenetforage_2	Egiros-Gen Pick	an	the				Crafting plan Egiros-Gen Picks.	
