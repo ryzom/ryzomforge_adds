@@ -90,7 +90,7 @@
 -	ct_gmisland_aniro	<CS> Telepuerto GM de la Isla Aniro	un	el				Este es un Articulo GM.
 -	ct_gmisland_arispotle	<CS> Telepuerto GM de la Isla Arispotle	un	el				Este es un Articulo GM.
 -	ct_gmisland_cho	<CS> Telepuerto GM de la Isla Cho	un	el				Este es un Articulo GM.
--	ct_gmisland_leanon	<CS>Telepuerto GM de la Isla Leanon	un	el			
+-	ct_gmisland_leanon	<CS>Telepuerto GM de la Isla Leanon	un	el
 -	cure_expert_letter	Carta del Experto en Curación	una	la	Cartas del Experto en Curación		las
 -	cwff03_egg	Huevo de Goari	un	el	Huevos de Goari		los
 -	cwmf03_bag	Paquete para ser Entregado	un	el	Paquetes para ser Entregados	unos	los
@@ -5611,7 +5611,7 @@
 -	m0750dxacc01	Raíz de Cheng Modificada	una	la	Raíces de Cheng Modificadas		las
 -	m0751dxacc01	Goma o Pegamento de Rubbarn Modificado		la	Gomas o Pegamentos de Rubbarn Modificado		las
 -	m0752dxacc01	Polen de Egiros Modificado		el	Polen de Egiros Modificados		los
--	m0753dxacc01	Savia de Vedice Modificada		la	Savias de Vedices Modificadas		las
+-	m0753dxacc01	Savia de Vedice Purificada		la	Savias de Vedices Purificadas		las
 -	m0754dxacc01	Raíz de Cheng Purificada	una	la	Raíces de Cheng Purificadas		las
 -	m0755dxacc01	Goma o Pegamento de Rubbarn Purificada		la	Gomas o Pegamentos de Rubbarn Purificados		las
 -	m0756dxacc01	Polen de Egiros Purificado		el	Polen de Egiros Purificados		los
@@ -6945,10 +6945,10 @@
 -	zo_underwear_hand	Guantes Zoraï	unos	el	Guantes Zoraï		los	Guantes Zoraï
 -	zo_underwear_pantabottes	Pantalones Zoraï	unos	el	Pantalones Zoraï		los	Pantalones Zoraï
 -	zo_visage	Mascara Zoraï	una	la	Mascaras Zoraï		las	Mascaras Zoraï
--	zo_weapon_leader_mabreka	Mazo de Mabreka	un	el	Mazos de Mabreka		los	
--	zig_yubo_white	Zig Yubo	une	el	Zig Yubo	unos	los	
--	zig_yubo_lakes	Zig Yubo	une	el	Zig Yubo	unos	los	
--	zig_yubo_forest	Zig Yubo	une	el	Zig Yubo	unos	los	
+-	zo_weapon_leader_mabreka	Mazo de Mabreka	un	el	Mazos de Mabreka		los
+-	zig_yubo_white	Zig Yubo	une	el	Zig Yubo	unos	los
+-	zig_yubo_lakes	Zig Yubo	une	el	Zig Yubo	unos	los
+-	zig_yubo_forest	Zig Yubo	une	el	Zig Yubo	unos	los
 -	m0009chade01	Fragmento Supremo de Espinazo de Arma del Desierto	un	el	Fragmentos Supremo de Espinazo de Arma del Desierto		los
 -	m0009chafe01	Fragmento Supremo de Espinazo de Arma del Bosque	un	el	Fragmentos Supremo de Espinazo de Arma del Bosque		los
 -	m0009chaje01	Fragmento Supremo de Espinazo de Arma de la Selva	un	el	Fragmentos Supremo de Espinazo de Arma de la Selva		los
@@ -7772,10 +7772,118 @@
 -	wheel_token_easter	Evento días de Refugiado	una	la	Evento días de Refugiado	unas	las
 -	slot_fingerl		equipar el anillo en tu dedo izquierdo	uno	el	equipar los anillos en tu dedo izquierdo	unos	los
 -	gnoof_mount_0	montura gnoof	una	la	monturas gnoof	unas	las
--	nexus_neck_1	Collar Iridiscente del Desierto	uno	el	Collares Iridiscentes	unos	los
--	nexus_neck_2	Collar Iridiscente del Bosque	uno	el	Collares Iridiscentes del Bosque	unos	los
--	nexus_neck_3	Collar Iridiscente de Los Lagos	uno	el	Collares Iridiscentes de los Lagos	unos	los
--	nexus_neck_4	Collar Iridiscente de la Selva	uno	el	Collares Iridiscentes de la Selva	unos	los
+-	nexus_neck1	Collar Iridiscente del Desierto	uno	el	Collares Iridiscentes	unos	los
+-	nexus_neck2	Collar Iridiscente del Bosque	uno	el	Collares Iridiscentes del Bosque	unos	los
+-	nexus_neck3	Collar Iridiscente de Los Lagos	uno	el	Collares Iridiscentes de los Lagos	unos	los
+-	nexus_neck4	Collar Iridiscente de la Selva	uno	el	Collares Iridiscentes de la Selva	unos	los
 -	s2e1_salins	salina madura	una	la	salinas maduras	unas	las
 -	s2e1_seve_suc	gota de savia salina	una	la	gotas de savia salina	unas	las
-1618579662	slot_neck	
+1618579662	slot_neck
+1619876266	m0819dxacc01	Zarza de Tekorn Bruta	una	la	Zarzas de Tekorn Bruta		las
+1619876266	m0820dxacc01	Enredadera de Maga Bruta	una	la	Enredaderas de Maga Brutas		las
+1619876266	m0821dxacc01	Liquen de Armilo Bruto	un	el	Líquenes de Armilo Brutos		los
+1619876266	m0822dxacc01	Filamento de Greslin Bruto	un	el	Filamentos de Greslin Bruto		los
+1619876266	m0823dxacc01	Savia de Vedice Bruta		la	Savias de Venices Brutas		las
+1619876266	m0824dxacc01	Raíz de Cheng Bruta	una	la	Raíces de Cheng Brutas		las
+1619876266	m0825dxacc01	Goma o Pegamento de Rubbarn Bruto		la	Gomas o Pegamentos de Rubbarn Bruto		las
+1619876266	m0826dxacc01	Polen de Egiros Bruto		el	Polen de Egiros Brutos		los
+1619876266	m0827dxacc01	Zarza de Tekorn Bruta	una	la	Zarzas de Tekorn Bruta		las
+1619876266	m0828dxacc01	Enredadera de Maga Bruta	una	la	Enredaderas de Maga Brutas		las
+1619876266	m0829dxacc01	Liquen de Armilo Bruto	un	el	Líquenes de Armilo Brutos		los
+1619876266	m0830dxacc01	Filamento de Greslin Bruto	un	el	Filamentos de Greslin Bruto		los
+1619876266	m0831dxacc01	Savia de Vedice Bruta		la	Savias de Venices Brutas		las
+1619876266	m0832dxacc01	Raíz de Cheng Bruta	una	la	Raíces de Cheng Brutas		las
+1619876266	m0833dxacc01	Goma o Pegamento de Rubbarn Bruto		la	Gomas o Pegamentos de Rubbarn Bruto		las
+1619876266	m0834dxacc01	Polen de Egiros Bruto		el	Polen de Egiros Brutos		los
+1619876266	icogenm1bm_1	Mazo Tekorn-Gen	un	el	Mazos Tekorn-Gen		los
+1619876266	icogenm1bm_2	Mazo Vedice-Gen	un	el	Mazos Vedice-Gen		los
+1619876266	icogenm1bs_1	Bastón Tekorn-Gen	un	el	Bastones Tekorn-Gen		los
+1619876266	icogenm1bs_2	Bastón Vedice-Gen	un	el	Bastones Vedice-Gen		los
+1619876266	icogenm1pd_1	Daga Tekorn-Gen	una	la	Dagas Tekorn-Gen		las
+1619876266	icogenm1pd_2	Daga Vedice-Gen	una	la	Dagas Vedice-Gen		las
+1619876266	icogenm1ps_1	Lanza Tekorn-Gen	una	la	Lanzas Tekorn-Gen		las
+1619876266	icogenm1ps_2	Lanza Vedice-Gen	una	la	Lanzas Vedice-Gen		las
+1619876266	icogenm1sa_1	Hacha Tekorn-Gen	una	la	Hachas Tekorn-Gen		las
+1619876266	icogenm1sa_2	Hacha Vedice-Gen	una	la	Hachas Vedice-Gen		las
+1619876266	icogenm1ss_1	Espada Tekorn-Gen	una	la	Espadas Tekorn-Gen		las
+1619876266	icogenm1ss_2	Espada Vedice-Gen	una	la	Espadas Vedice-Gen		las
+1619876266	icogenm2bm_1	Mazo de Dos Manos Tekorn-Gen	un	el	Mazos de Dos Manos Tekorn-Gen		los
+1619876266	icogenm2bm_2	Mazo de Dos Manos Vedice-Gen	un	el	Mazos de Dos Manos Vedice-Gen		los
+1619876266	icogenm2ms_1	Amplificador Mágico Maga-Gen	un	el	Maga-Gen Mágica Amplifiers		los
+1619876266	icogenm2ms_2	Amplificador Mágico Cheng-Gen	un	el	Amplicadores Mágico Cheng-Gen		los
+1619876266	icogenm2pp_1	Pico Tekorn-Gen	un	el	Picos Tekorn-Gen		las
+1619876266	icogenm2pp_2	Pico Vedice-Gen	un	el	Picos Vedice-Gen		los
+1619876266	icogenm2sa_1	Hacha de Dos Manos Tekorn-Gen	un	el	Hachas de Dos Manos Tekorn-Gen		las
+1619876266	icogenm2sa_2	Hacha de Dos Manos Vedice-Gen	un	el	Hachas de Dos Manos Vedice-Gen		las
+1619876266	icogenm2ss_1	Espada de Dos Manos Tekorn-Gen	una	la	Espadas de Dos Manos Tekorn-Gen		las
+1619876266	icogenm2ss_2	Espada de Dos Manos Vedice-Gen	una	la	Espadas de Dos Manos Vedice-Gen		las
+1619876266	icogenr1b_1	Pistola de Arco Tekorn-Gen	una	la	Tekorn-Gen Bowpistols		las
+1619876266	icogenr1b_2	Pistola de Arco Vedice-Gen	una	la	Pistolas de Arco Vedice-Gen		las
+1619876266	icogenr1p_1	Pistola Tekorn-Gen	una	la	Pistolas Tekorn-Gen		las
+1619876266	icogenr1p_2	Pistola Vedice-Gen	una	la	Pistolas Vedice-Gen		las
+1619876266	icogenr2a_1	Autolanzador Tekorn-Gen	un	el	Autolanzadors Tekorn-Gen		los
+1619876266	icogenr2a_2	Autolanzador Vedice-Gen	un	el	Autolanzadores Vedice-Gen		los
+1619876266	icogenr2b_1	Rifle de Arco Tekorn-Gen	un	el	Rifles de Arco Tekorn-Gen		los
+1619876266	icogenr2b_2	Rifle de Arco Vedice-Gen	un	el	Rifles de Arco Vedice-Gen		los
+1619876266	icogenr2l_1	Lanzador Tekorn-Gen	un	el	Lanzadores Tekorn-Gen		los
+1619876266	icogenr2l_2	Lanzador Vedice-Gen	un	el	Lanzadores Vedice-Gen		los
+1619876266	icogenr2r_1	Rifle de Tekorn-Gen	un	el	Rifles de Tekorn-Gen		los
+1619876266	icogenr2r_2	Rifle Vedice-Gen	un	el	Rifles Vedice-Gen		los
+1619876266	icogentammo_1	Herramienta para Fabricar Munición Armilo-Gen	una	la	Herramientas para Fabricar Munición Armilo-Gen		las
+1619876266	icogentammo_2	Herramienta para Fabricar Munición Rubbarn-Gen	una	la	Herramientas para Fabricar Munición Rubbarn-Gen		las
+1619876266	icogentarmor_1	Herramienta para Fabricar Armadura Armilo-Gen	una	la	Herramientas para Fabricar Armadura Armilo-Gen		las
+1619876266	icogentarmor_2	Herramienta para Fabricar Armadura Rubbarn-Gen	una	la	Herramientas para Fabricar Armadura Rubbarn-Gen Armor		las
+1619876266	icogentforage_1	Pico Greslin-Gen	un	el	Picos Greslin-Gen		los
+1619876266	icogentforage_2	Pico Egiros-Gen	un	el	Picos Egiros-Gen		los
+1619876266	icogentjewel_1	Herramienta para Fabricar Joya Armilo-Gen	una	la	Herramientas para Fabricar Joya Armilo-Gen		las
+1619876266	icogentjewel_2	Herramienta para Fabricar Joya Rubbarn-Gen	una	la	Herramientas para Fabricar Joya Rubbarn-Gen		las
+1619876266	icogentmwea_1	Herramienta para Fabricar Armas de Lucha Cuerpo a Cuerpo Armilo-Gen	una	la	Herramientas para Fabricar Armas de Lucha Cuerpo a Cuerpo Armilo-Gen		las
+1619876266	icogentmwea_2	Herramienta para Fabricar Armas de Lucha Cuerpo a Cuerpo Rubbarn-Gen	una	la	Herramientas para Fabricar Armas de Lucha Cuerpo a Cuerpo Rubbarn-Gen		las
+1619876266	icogentrwea_1	Herramienta para Fabricar Armas de Alcance Armilo-Gen Range	una	la	Herramientas para Fabricar Armas de Alcance Armilo-Gen Range		las
+1619876266	icogentrwea_2	Herramienta para Fabricar Armas de Alcance Rubbarn-Gen	una	la	Herramientas para Fabricar Armas de Alcance Rubbarn-Gen		las
+1619876266	icomarm1bm_1	Mazo Tekorn-Mar	un	el	Mazos Tekorn-Mar		los
+1619876266	icomarm1bm_2	Mazo Vedice-Mar	un	el	Mazos Vedice-Mar		los
+1619876266	icomarm1bs_1	Bastón Tekorn-Mar	un	el	Bastones Tekorn-Mar		los
+1619876266	icomarm1bs_2	Bastón Vedice-Mar	un	el	Bastones Vedice-Mar		los
+1619876266	icomarm1pd_1	Daga Tekorn-Mar	una	la	Dagas Tekorn-Mar		las
+1619876266	icomarm1pd_2	Daga Vedice-Mar	una	la	Dagas Vedice-Mar		las
+1619876266	icomarm1ps_1	Lanza Tekorn-Mar	una	la	Lanzas Tekorn-Mar		las
+1619876266	icomarm1ps_2	Lanza Vedice-Mar	una	la	Lanzas Vedice-Mar		las
+1619876266	icomarm1sa_1	Hacha Tekorn-Mar	una	la	Hachas Tekorn-Mar		las
+1619876266	icomarm1sa_2	Hacha Vedice-Mar	una	la	Hachas Vedice-Mar		las
+1619876266	icomarm1ss_1	Espada Tekorn-Mar	una	la	Espadas Tekorn-Mar		las
+1619876266	icomarm1ss_2	Espada Vedice-Mar	una	la	Espadas Vedice-Mar		las
+1619876266	icomarm2bm_1	Mazo de Dos Manos Tekorn-Mar	un	el	Mazos de Dos Manos Tekorn-Mar		los
+1619876266	icomarm2bm_2	Mazo de Dos Manos Vedice-Mar	un	el	Mazos de Dos Manos Vedice-Mar		los
+1619876266	icomarm2ms_1	Amplificador Mágico Maga-Mar	un	el	Maga-Mar Mágica Amplifiers		los
+1619876266	icomarm2ms_2	Amplificador Mágico Cheng-Mar	un	el	Amplicadores Mágico Cheng-Mar		los
+1619876266	icomarm2pp_1	Pico Tekorn-Mar	un	el	Picos Tekorn-Mar		las
+1619876266	icomarm2pp_2	Pico Vedice-Mar	un	el	Picos Vedice-Mar		los
+1619876266	icomarm2sa_1	Hacha de Dos Manos Tekorn-Mar	un	el	Hachas de Dos Manos Tekorn-Mar		las
+1619876266	icomarm2sa_2	Hacha de Dos Manos Vedice-Mar	un	el	Hachas de Dos Manos Vedice-Mar		las
+1619876266	icomarm2ss_1	Espada de Dos Manos Tekorn-Mar	una	la	Espadas de Dos Manos Tekorn-Mar		las
+1619876266	icomarm2ss_2	Espada de Dos Manos Vedice-Mar	una	la	Espadas de Dos Manos Vedice-Mar		las
+1619876266	icomarr1b_1	Pistola de Arco Tekorn-Mar	una	la	Tekorn-Mar Bowpistols		las
+1619876266	icomarr1b_2	Pistola de Arco Vedice-Mar	una	la	Pistolas de Arco Vedice-Mar		las
+1619876266	icomarr1p_1	Pistola Tekorn-Mar	una	la	Pistolas Tekorn-Mar		las
+1619876266	icomarr1p_2	Pistola Vedice-Mar	una	la	Pistolas Vedice-Mar		las
+1619876266	icomarr2a_1	Autolanzador Tekorn-Mar	un	el	Autolanzadors Tekorn-Mar		los
+1619876266	icomarr2a_2	Autolanzador Vedice-Mar	un	el	Autolanzadores Vedice-Mar		los
+1619876266	icomarr2b_1	Rifle de Arco Tekorn-Mar	un	el	Rifles de Arco Tekorn-Mar		los
+1619876266	icomarr2b_2	Rifle de Arco Vedice-Mar	un	el	Rifles de Arco Vedice-Mar		los
+1619876266	icomarr2l_1	Lanzador Tekorn-Mar	un	el	Lanzadores Tekorn-Mar		los
+1619876266	icomarr2l_2	Lanzador Vedice-Mar	un	el	Lanzadores Vedice-Mar		los
+1619876266	icomarr2r_1	Rifle de Tekorn-Mar	un	el	Rifles de Tekorn-Mar		los
+1619876266	icomarr2r_2	Rifle Vedice-Mar	un	el	Rifles Vedice-Mar		los
+1619876266	icomartammo_1	Herramienta para Fabricar Munición Armilo-Mar	una	la	Herramientas para Fabricar Munición Armilo-Mar		las
+1619876266	icomartammo_2	Herramienta para Fabricar Munición Rubbarn-Mar	una	la	Herramientas para Fabricar Munición Rubbarn-Mar		las
+1619876266	icomartarmor_1	Herramienta para Fabricar Armadura Armilo-Mar	una	la	Herramientas para Fabricar Armadura Armilo-Mar		las
+1619876266	icomartarmor_2	Herramienta para Fabricar Armadura Rubbarn-Mar	una	la	Herramientas para Fabricar Armadura Rubbarn-Mar Armor		las
+1619876266	icomartforage_1	Pico Greslin-Mar	un	el	Picos Greslin-Mar		los
+1619876266	icomartforage_2	Pico Egiros-Mar	un	el	Picos Egiros-Mar		los
+1619876266	icomartjewel_1	Herramienta para Fabricar Joya Armilo-Mar	una	la	Herramientas para Fabricar Joya Armilo-Mar		las
+1619876266	icomartjewel_2	Herramienta para Fabricar Joya Rubbarn-Mar	una	la	Herramientas para Fabricar Joya Rubbarn-Mar		las
+1619876266	icomartmwea_1	Herramienta para Fabricar Armas de Lucha Cuerpo a Cuerpo Armilo-Mar	una	la	Herramientas para Fabricar Armas de Lucha Cuerpo a Cuerpo Armilo-Mar		las
+1619876266	icomartmwea_2	Herramienta para Fabricar Armas de Lucha Cuerpo a Cuerpo Rubbarn-Mar	una	la	Herramientas para Fabricar Armas de Lucha Cuerpo a Cuerpo Rubbarn-Mar		las
+1619876266	icomartrwea_1	Herramienta para Fabricar Armas de Alcance Armilo-Mar Range	una	la	Herramientas para Fabricar Armas de Alcance Armilo-Mar Range		las
+1619876266	icomartrwea_2	Herramienta para Fabricar Armas de Alcance Rubbarn-Mar	una	la	Herramientas para Fabricar Armas de Alcance Rubbarn-Mar		las

@@ -3528,7 +3528,7 @@
 -	cold	Dégât de Froid	un	le	Dégâts de Froid	des	les	Vous subissez des dégâts durables de froids.	
 -	fire	Dégât de Feu	un	le	Dégâts de Feu	des	les	Vous subissez des dégâts durables de feu.	
 -	electric	Dégât d'Electricité	un	le	Dégâts d'Electricité	des	les	Vous subissez des dégâts durables d'électricité.	
--	acid	Dégât d'Acide	un	le	Dégâts d'Acide	des	les	Vous subissez des dégâts durables d'acide.	
+-	acid	Dégât d'acide	un	le	Dégâts d'acide	des	les	Vous subissez des dégâts d'acide au long cours.	
 -	poison	Dégât de Poison	un	le	Dégâts de Poison	des	les	Vous subissez des dégâts durables de poison.	
 -	shockwave	Dégât d'Ondes de Choc	un	le	Dégâts d'Ondes de Choc	des	les	Vous subissez des dégâts durables d'ondes de choc.	
 -	shielding	Bouclier	un	le	Boucliers	des	les	Vous avez un garde du corps	
@@ -3537,7 +3537,7 @@
 -	sap_aura	Aura de Régénération de Sève	une	l'	Auras de Régénération de Sève	des	les	Vos sève se régénère plus rapidement.	
 -	umbrella_aura	Aura de Protection à Distance	une	l'	Auras de Protection à Distance	des	les	Vous êtes protégé contre les attaques à distance.	
 -	melee_protection_aura	Aura de Protection de Mêlée	une	l'	Auras de Protection de Mêlée	des	les	Vous êtes protégé contre les attaques de mêlée.	
--	anti_magic_shield_aura	Aura de Bouclier Anti-Magie	une	l'	Auras de Bouclier Anti-Magie	des	les	Vous êtes protégé contre les attaques magiques.	
+-	anti_magic_shield_aura	Aura de protection contre la magie	une	l'	Auras de protection contre la magie	des	les	Vous protège des attaques magiques.	
 -	invulnerability	Invulnérabilité	une	l'	Invulnérabilités	des	les	Vous êtes invulnérable mais ne pouvez pas réagir.	
 -	war_cry_aura	Aura de Cri de Guerre	une	l'	Auras de Cri de Guerre	des	les	Vos dégâts de faible portée obtiennent un bonus.	
 -	speeding_up	Accélération	une	l'	Accélérations	des	les	Vous pouvez courir plus rapidement.	
@@ -3686,8 +3686,8 @@
 -	bcrmea06	Plan de Création/Dague de Réfugié	un 	le	Plans de Création/Dague de Réfugié	des	les	Brique de Création - plan de dague de réfugié	
 -	bcrmea10	Plan de Création/Epée de Réfugié 	un 	le	Plans de Création/Epée de Réfugié 	des	les	Brique de Création - plan d'épée de réfugié	
 -	bcrmea15	Plan de Création/Amplificateur Magique de Réfugié	un	le	Plans de Création/Amplificateur Magique de Réfugié	des	les	Plan de Création/Amplificateur Magique de Réfugié	
--	bapa01	Téléportation	une	la	Téléportations	des	les	Ticket de téléportation	
--	bapa02	Déconnexion	une	la	Déconnexions	des	les	Déconnexion de Ryzom	
+-	bapa01	Pacte de Téléportation	un	le	Pactes de téléportation	des	les	Pacte pour se téléporter.	
+-	bapa02	Déconnexion	une	la	Déconnexions	des	les	Quitter le jeu.	
 -	bptea01	Titre de Champion Kami	un	le	Titre de Champion Kami	des	les	Titre de Champion Kami	
 -	bptea02	Titre de Champion Karavan	un	le	Titre de Champion Karavan	des	les	Titre de Champion Karavan	
 -	bsfeb08	Barrière de Feu	une	la	Barrières de Feu	des	les	Crée une barrière de feu autour de vous qui blesse tous les ennemis vous atteignant au corps à corps	
@@ -4083,9 +4083,113 @@
 -	bctaea23	Plan de Création/Soutien-gorge Légères Tryker	un	le	Plans de Création/Soutien-gorge Légères Tryker	des	les	Brique de plan de création pour soutien-gorge légères tryker	
 -	bczaea22	Plan de Création/Culotte Légères Zoraïs	un	le	Plans de Création/Culotte Légères Zoraïs	des	les	Brique de plan de création pour culotte légères zoraïs	
 -	bczaea23	Plan de Création/Soutien-gorge Légères Zoraïs	un	le	Plans de Création/Soutien-gorge Légères Zoraïs	des	les	Brique de plan de création pour soutien-gorge légères zoraïs	
-1618581536	jrez_nodp_tryker	
-1619198342	jboost_2x	
-1619198360	tag_fyros_1	
-1619199443	jrez_fulllife_tryker	
-1619199449	jrez_halflife_tryker	
-1619199455	jrez_goodlife_tryker	
+1618581536	jrez_nodp_tryker	Mort douce	une	la	Morts douces	des	les	@{5F5F}1% @{FFFF}de chances de ne pas avoir de @{5F5F}pénalité de mort @{FFFF}après une résurrection. @{FAAF}Efficace uniquement en Aeden Aqueous et au Nexus Mineur.	
+1619198342	jboost_2x	Amplificateur d'effet allégorique	un	l'	Amplificateurs d'effet allégorique	des	les	Multiplie l'effet de l'Allégorie par @{5F5F}2@{FFFF}.	
+1619198360	tag_fyros_1	Fyros	un	le	Fyros	des	les		
+1619199443	jrez_fulllife_tryker	Retour en gloire	un	le	Retours en gloire	des	les	@{5F5F}1% @{FFFF}de chances de récupérer, lors de votre résurrection, la @{5F5F}totalité @{FFFF}de vos maximums de vie, endurance, sève et concentration. @{FAAF}Efficace uniquement en Aeden Aqueous et au Nexus Mineur.	
+1619199449	jrez_halflife_tryker	Retour sur pied	un	le	Retours sur pied	des	les	@{5F5F}3% @{FFFF}de chances de récupérer, lors de votre résurrection, la @{5F5F}moitié @{FFFF}de vos maximums de vie, endurance, sève et concentration. @{FAAF}Efficace uniquement en Aeden Aqueous et au Nexus Mineur.	
+1619199455	jrez_goodlife_tryker	Retour en forme	un	le	Retours en forme	des	les	@{5F5F}2%@{FFFF} de chances de récupérer, lors de votre résurrection, les @{5F5F}trois-quarts@{FFFF} de vos maximums de vie, endurance, sève et concentration. @{FAAF}Efficace uniquement en Aeden Aqueous et au Nexus.	
+1619275925	jrez_goodlife_matis	Retour en forme	un	le	Retours en forme	des	les	@{5F5F}2%@{FFFF} de chances de récupérer, lors de votre résurrection, les @{5F5F}trois-quarts@{FFFF} de vos maximums de vie, endurance, sève et concentration. @{FAAF}Efficace uniquement dans les Sommets Verdoyants et au Nexus Mineur.	
+1619275929	jrez_goodlife_fyros	Retour en forme	un	le	Retours en forme	des	les	@{5F5F}2%@{FFFF} de chances de récupérer, lors de votre résurrection, les @{5F5F}trois-quarts@{FFFF} de vos maximums de vie, endurance, sève et concentration. @{FAAF}Efficace uniquement dans le Désert Ardent et au Nexus Mineur.	
+1619275932	jrez_goodlife_zorai	Retour en forme	un	le	Retours en forme	des	les	@{5F5F}2%@{FFFF} de chances de récupérer, lors de votre résurrection, les @{5F5F}trois-quarts@{FFFF} de vos maximums de vie, endurance, sève et concentration. @{FAAF}Efficace uniquement dans le Pays Malade et au Nexus Mineur.	
+1619275939	jrez_halflife_matis	Retour sur pied	un	le	Retours sur pied	des	les	@{5F5F}3% @{FFFF}de chances de récupérer, lors de votre résurrection, la @{5F5F}moitié @{FFFF}de vos maximums de vie, endurance, sève et concentration. @{FAAF}Efficace uniquement dans les Sommets Verdoyants et au Nexus Mineur.	
+1619275943	jrez_halflife_zorai	Retour sur pied	un	le	Retours sur pied	des	les	@{5F5F}3% @{FFFF}de chances de récupérer, lors de votre résurrection, la @{5F5F}moitié @{FFFF}de vos maximums de vie, endurance, sève et concentration. @{FAAF}Efficace uniquement dans le Pays Malade et au Nexus Mineur.	
+1619275945	jrez_halflife_fyros	Retour sur pied	un	le	Retours sur pied	des	les	@{5F5F}3% @{FFFF}de chances de récupérer, lors de votre résurrection, la @{5F5F}moitié @{FFFF}de vos maximums de vie, endurance, sève et concentration. @{FAAF}Efficace uniquement dans le Désert Ardent et au Nexus Mineur.	
+1619275952	jrez_fulllife_matis	Retour en gloire	un	le	Retours en gloire	des	les	@{5F5F}1% @{FFFF}de chances de récupérer, lors de votre résurrection, la @{5F5F}totalité @{FFFF}de vos maximums de vie, endurance, sève et concentration. @{FAAF}Efficace uniquement dans les Sommets Verdoyants et au Nexus Mineur.	
+1619275954	jrez_fulllife_zorai	Retour en gloire	un	le	Retours en gloire	des	les	@{5F5F}1% @{FFFF}de chances de récupérer, lors de votre résurrection, la @{5F5F}totalité @{FFFF}de vos maximums de vie, endurance, sève et concentration. @{FAAF}Efficace uniquement dans le Pays Malade et au Nexus Mineur.	
+1619275957	jrez_fulllife_fyros	Retour en gloire	un	le	Retours en gloire	des	les	@{5F5F}1% @{FFFF}de chances de récupérer, lors de votre résurrection, la @{5F5F}totalité @{FFFF}de vos maximums de vie, endurance, sève et concentration. @{FAAF}Efficace uniquement dans le Désert Ardent et au Nexus Mineur.	
+1619275962	jrez_nodp_matis	Mort douce	une	la	Morts douces	des	les	@{5F5F}1% @{FFFF}de chances de ne pas avoir de @{5F5F}pénalité de mort @{FFFF}après une résurrection. @{FAAF}Efficace uniquement dans les Sommets Verdoyants et au Nexus Mineur.	
+1619275964	jrez_nodp_fyros	Mort douce	une	la	Morts douces	des	les	@{5F5F}1% @{FFFF}de chances de ne pas avoir de @{5F5F}pénalité de mort @{FFFF}après une résurrection. @{FAAF}Efficace uniquement dans le Désert Ardent et au Nexus Mineur.	
+1619275966	jrez_nodp_zorai	Mort douce	une	la	Morts douces	des	les	@{5F5F}1% @{FFFF}de chances de ne pas avoir de @{5F5F}pénalité de mort @{FFFF}après une résurrection. @{FAAF}Efficace uniquement dans le Pays Malade et au Nexus Mineur.	
+-	bcomarem1bm_1	Plan de Masse Tekorn-Mar	un	le	Plans de Masse Tekorn-Mar	des	les	Brique de plan de création pour Masse Tekorn-Mar	
+-	bcomarem1bs_1	Plan de Bâton Tekorn-Mar	un	le	Plans de Bâton Tekorn-Mar	des	les	Brique de plan de création pour Bâton Tekorn-Mar	
+-	bcomarem1pd_1	Plan de Dague Tekorn-Mar	un	le	Plans de Dague Tekorn-Mar	des	les	Brique de plan de création pour Dague Tekorn-Mar	
+-	bcomarem1ps_1	Plan de Lance Tekorn-Mar	un	le	Plans de Lance Tekorn-Mar	des	les	Brique de plan de création pour Lance Tekorn-Mar	
+-	bcomarem1sa_1	Plan de Hache Tekorn-Mar	un	le	Plans de Hache Tekorn-Mar	des	les	Brique de plan de création pour Hache Tekorn-Mar	
+-	bcomarem1ss_1	Plan d'Epée Tekorn-Mar	un	le	Plans d'Epée Tekorn-Mar	des	les	Brique de plan de création pour Epée Tekorn-Mar	
+-	bcomarem2bm_1	Plan de Masse à 2M Tekorn-Mar	un	le	Plans de Masse à 2M Tekorn-Mar	des	les	Brique de plan de création pour Masse à 2M Tekorn-Mar	
+-	bcomarem2ms_1	Plan d'Amplificateur Magique Maga-Mar	un	le	Plans d'Amplificateur Magique Maga-Mar	des	les	Brique de plan de création pour Amplificateur Magique Maga-Mar	
+-	bcomarem2pp_1	Plan de Pique Tekorn-Mar	un	le	Plans de Pique Tekorn-Mar	des	les	Brique de plan de création pour Pique Tekorn-Mar	
+-	bcomarem2sa_1	Plan de Hache à 2M Tekorn-Mar	un	le	Plans de Hache à 2M Tekorn-Mar	des	les	Brique de plan de création pour Hache à 2M Tekorn-Mar	
+-	bcomarem2ss_1	Plan d'Epée à 2M Tekorn-Mar	un	le	Plans d'Epée à 2M Tekorn-Mar	des	les	Brique de plan de création pour Epée à 2M Tekorn-Mar	
+-	bcomarem1bm_2	Plan de Masse Vedice-Mar	un	le	Plans de Masse Vedice-Mar	des	les	Brique de plan de création pour Masse Vedice-Mar	
+-	bcomarem1bs_2	Plan de Bâton Vedice-Mar	un	le	Plans de Bâton Vedice-Mar	des	les	Brique de plan de création pour Bâton Vedice-Mar	
+-	bcomarem1pd_2	Plan de Dague Vedice-Mar	un	le	Plans de Dague Vedice-Mar	des	les	Brique de plan de création pour Dague Vedice-Mar	
+-	bcomarem1ps_2	Plan de Lance Vedice-Mar	un	le	Plans de Lance Vedice-Mar	des	les	Brique de plan de création pour Lance Vedice-Mar	
+-	bcomarem1sa_2	Plan de Hache Vedice-Mar	un	le	Plans de Hache Vedice-Mar	des	les	Brique de plan de création pour Hache Vedice-Mar	
+-	bcomarem1ss_2	Plan d'Epée Vedice-Mar	un	le	Plans d'Epés Vedice-Mar	des	les	Brique de plan de création pour Epée Vedice-Mar	
+-	bcomarem2bm_2	Plan de Masse à 2M Vedice-Mar	un	le	Plans de Masse à 2M Vedice-Mar	des	les	Brique de plan de création pour Masse à 2M Vedice-Mar	
+-	bcomarem2ms_2	Plan d'Amplificateur Magique Cheng-Mar	un	le	Plans d'Amplificateur Magique Cheng-Mar	des	les	Brique de plan de création pour Amplificateur Magique Cheng-Mar	
+-	bcomarem2pp_2	Plan de Pique Vedice-Mar	un	le	Plans de Pique Vedice-Mar	des	les	Brique de plan de création pour Pique Vedice-Mar	
+-	bcomarem2sa_2	Plan de Hache à 2M Vedice-Mar	un	le	Plans de Hache à 2M Vedice-Mar	des	les	Brique de plan de création pour Hache à 2M Vedice-Mar	
+-	bcomarem2ss_2	Plan d'Epée à 2M Vedice-Mar	un	le	Plans d'Epée à 2M Vedice-Mar	des	les	Brique de plan de création pour Epée à 2M Vedice-Mar	
+-	bcomarer1b_1	Plan de Pistolet-Arbalète Tekorn-Mar	un	le	Plans de Pistolet-Arbalète Tekorn-Mar	des	les	Brique de plan de création pour Pistolet-Arbalète Tekorn-Mar	
+-	bcomarer1p_1	Plan de Pistolet Tekorn-Mar	un	le	Plans de Pistolet Tekorn-Mar	des	les	Brique de plan de création pour Pistolet Tekorn-Mar	
+-	bcomarer2a_1	Plan de Mitrailleuse Tekorn-Mar	un	le	Plans de Mitrailleuse Tekorn-Mar	des	les	Brique de plan de création pour Mitrailleuse Tekorn-Mar	
+-	bcomarer2b_1	Plan de Fusil-Arbalète Tekorn-Mar	un	le	Plans de Fusil-Arbalète Tekorn-Mar	des	les	Brique de plan de création pour Fusil-Arbalète Tekorn-Mar	
+-	bcomarer2l_1	Plan de Lance-Grenades Tekorn-Mar	un	le	Plans de Lance-Grenades Tekorn-Mar	des	les	Brique de plan de création pour Lance-Grenades Tekorn-Mar	
+-	bcomarer2r_1	Plan de Fusil Tekorn-Mar	un	le	Plans de Fusil Tekorn-Mar	des	les	Brique de plan de création pour Fusil Tekorn-Mar	
+-	bcomarer1b_2	Plan de Pistolet-Arbalète Vedice-Mar	un	le	Plans de Pistolet-Arbalète Vedice-Mar	des	les	Brique de plan de création pour Pistolet-Arbalète Vedice-Mar	
+-	bcomarer1p_2	Plan de Pistolet Vedice-Mar	un	le	Plans de Pistolet Vedice-Mar	des	les	Brique de plan de création pour Pistolet Vedice-Mar	
+-	bcomarer2a_2	Plan de Mitrailleuse Vedice-Mar	un	le	Plans de Mitrailleuse Vedice-Mar	des	les	Brique de plan de création pour Mitrailleuse Vedice-Mar	
+-	bcomarer2b_2	Plan de Fusil-Arbalète Vedice-Mar	un	le	Plans de Fusil-Arbalète Vedice-Mar	des	les	Brique de plan de création pour Fusil-Arbalète Vedice-Mar	
+-	bcomarer2l_2	Plan de Lance-Grenades Vedice-Mar	un	le	Plans de Lance-Grenades Vedice-Mar	des	les	Brique de plan de création pour Lance-Grenades Vedice-Mar	
+-	bcomarer2r_2	Plan de Fusil Vedice-Mar	un	le	Plans de Fusil Vedice-Mar	des	les	Brique de plan de création pour Fusil Vedice-Mar	
+-	bcomaretammo_1	Plan d'Outil de création de munitions Armilo-Mar	un	le	Plan d'Outil de création de munitions Armilo-Mar	des	les	Brique de plan de création pour Outil de création de munitions Armilo-Mar	
+-	bcomaretarmor_1	Plan d'Outil de création d'armures Armilo-Mar	un	le	Plan d'Outil de création d'armures Armilo-Mar	des	les	Brique de plan de création pour Outil de création d'armures Armilo-Mar	
+-	bcomaretjewel_1	Plan d'Outil de création de bijoux Armilo-Mar	un	le	Plan d'Outil de création de bijoux Armilo-Mar	des	les	Brique de plan de création pour Outil de création de bijoux Armilo-Mar	
+-	bcomaretmwea_1	Plan d'Outil de création d'armes de mêlée Armilo-Mar	un	le	Plan d'Outil de création d'armes de mêlée Armilo-Mar	des	les	Brique de plan de création pour Outil de création d'armes de mêlée Armilo-Mar	
+-	bcomaretrwea_1	Plan d'Outil de création d'armes de tir Armilo-Mar	un	le	Plan d'Outil de création d'armes de tir Armilo-Mar	des	les	Brique de plan de création pour Outil de création d'armes de tir Armilo-Mar	
+-	bcomaretforage_1	Plan de Pioche de Forage Greslin-Mar	un	le	Plan de Pioche de Forage Greslin-Mar	des	les	Brique de plan de création pour Pioche de Forage Greslin-Mar	
+-	bcomaretammo_2	Plan d'Outil de création de munitions Rubbarn-Mar	un	le	Plan d'Outil de création de munitions Rubbarn-Mar	des	les	Brique de plan de création pour Outil de création de munitions Rubbarn-Mar	
+-	bcomaretarmor_2	Plan d'Outil de création d'armures Rubbarn-Mar	un	le	Plan d'Outil de création d'armures Rubbarn-Mar	des	les	Brique de plan de création pour Outil de création d'armures Rubbarn-Mar	
+-	bcomaretjewel_2	Plan d'Outil de création de bijoux Rubbarn-Mar	un	le	Plan d'Outil de création de bijoux Rubbarn-Mar	des	les	Brique de plan de création pour Outil de création de bijoux Rubbarn-Mar	
+-	bcomaretmwea_2	Plan d'Outil de création d'armes de mêlée Rubbarn-Mar	un	le	Plan d'Outil de création d'armes de mêlée Rubbarn-Mar	des	les	Brique de plan de création pour Outil de création d'armes de mêlée Rubbarn-Mar	
+-	bcomaretrwea_2	Plan d'Outil de création d'armes de tir Rubbarn-Mar	un	le	Plan d'Outil de création d'armes de tir Rubbarn-Mar	des	les	Brique de plan de création pour Outil de création d'armes de tir Rubbarn-Mar	
+-	bcomaretforage_2	Plan de Pioche de Forage Egiros-Mar	un	le	Plan de Pioche de Forage Egiros-Mar	des	les	Brique de plan de création pour Pioche de Forage Egiros-Mar	
+-	bcogenem1bm_1	Plan de Masse Tekorn-Gen	un	le	Plans de Masse Tekorn-Gen	des	les	Brique de plan de création pour Masse Tekorn-Gen	
+-	bcogenem1bs_1	Plan de Bâton Tekorn-Gen	un	le	Plans de Bâton Tekorn-Gen	des	les	Brique de plan de création pour Bâton Tekorn-Gen	
+-	bcogenem1pd_1	Plan de Dague Tekorn-Gen	un	le	Plans de Dague Tekorn-Gen	des	les	Brique de plan de création pour Dague Tekorn-Gen	
+-	bcogenem1ps_1	Plan de Lance Tekorn-Gen	un	le	Plans de Lance Tekorn-Gen	des	les	Brique de plan de création pour Lance Tekorn-Gen	
+-	bcogenem1sa_1	Plan de Hache Tekorn-Gen	un	le	Plans de Hache Tekorn-Gen	des	les	Brique de plan de création pour Hache Tekorn-Gen	
+-	bcogenem1ss_1	Plan d'Epée Tekorn-Gen	un	le	Plans d'Epée Tekorn-Gen	des	les	Brique de plan de création pour Epée Tekorn-Gen	
+-	bcogenem2bm_1	Plan de Masse à 2M Tekorn-Gen	un	le	Plans de Masse à 2M Tekorn-Gen	des	les	Brique de plan de création pour Masse à 2M Tekorn-Gen	
+-	bcogenem2ms_1	Plan d'Amplificateur Magique Maga-Gen	un	le	Plans d'Amplificateur Magique Maga-Gen	des	les	Brique de plan de création pour Amplificateur Magique Maga-Gen	
+-	bcogenem2pp_1	Plan de Pique Tekorn-Gen	un	le	Plans de Pique Tekorn-Gen	des	les	Brique de plan de création pour Pique Tekorn-Gen	
+-	bcogenem2sa_1	Plan de Hache à 2M Tekorn-Gen	un	le	Plans de Hache à 2M Tekorn-Gen	des	les	Brique de plan de création pour Hache à 2M Tekorn-Gen	
+-	bcogenem2ss_1	Plan d'Epée à 2M Tekorn-Gen	un	le	Plans d'Epée à 2M Tekorn-Gen	des	les	Brique de plan de création pour Epée à 2M Tekorn-Gen	
+-	bcogenem1bm_2	Plan de Masse Vedice-Gen	un	le	Plans de Masse Vedice-Gen	des	les	Brique de plan de création pour Masse Vedice-Gen	
+-	bcogenem1bs_2	Plan de Bâton Vedice-Gen	un	le	Plans de Bâton Vedice-Gen	des	les	Brique de plan de création pour Bâton Vedice-Gen	
+-	bcogenem1pd_2	Plan de Dague Vedice-Gen	un	le	Plans de Dague Vedice-Gen	des	les	Brique de plan de création pour Dague Vedice-Gen	
+-	bcogenem1ps_2	Plan de Lance Vedice-Gen	un	le	Plans de Lance Vedice-Gen	des	les	Brique de plan de création pour Lance Vedice-Gen	
+-	bcogenem1sa_2	Plan de Hache Vedice-Gen	un	le	Plans de Hache Vedice-Gen	des	les	Brique de plan de création pour Hache Vedice-Gen	
+-	bcogenem1ss_2	Plan d'Epée Vedice-Gen	un	le	Plans d'Epés Vedice-Gen	des	les	Brique de plan de création pour Epée Vedice-Gen	
+-	bcogenem2bm_2	Plan de Masse à 2M Vedice-Gen	un	le	Plans de Masse à 2M Vedice-Gen	des	les	Brique de plan de création pour Masse à 2M Vedice-Gen	
+-	bcogenem2ms_2	Plan d'Amplificateur Magique Cheng-Gen	un	le	Plans d'Amplificateur Magique Cheng-Gen	des	les	Brique de plan de création pour Amplificateur Magique Cheng-Gen	
+-	bcogenem2pp_2	Plan de Pique Vedice-Gen	un	le	Plans de Pique Vedice-Gen	des	les	Brique de plan de création pour Pique Vedice-Gen	
+-	bcogenem2sa_2	Plan de Hache à 2M Vedice-Gen	un	le	Plans de Hache à 2M Vedice-Gen	des	les	Brique de plan de création pour Hache à 2M Vedice-Gen	
+-	bcogenem2ss_2	Plan d'Epée à 2M Vedice-Gen	un	le	Plans d'Epée à 2M Vedice-Gen	des	les	Brique de plan de création pour Epée à 2M Vedice-Gen	
+-	bcogener1b_1	Plan de Pistolet-Arbalète Tekorn-Gen	un	le	Plans de Pistolet-Arbalète Tekorn-Gen	des	les	Brique de plan de création pour Pistolet-Arbalète Tekorn-Gen	
+-	bcogener1p_1	Plan de Pistolet Tekorn-Gen	un	le	Plans de Pistolet Tekorn-Gen	des	les	Brique de plan de création pour Pistolet Tekorn-Gen	
+-	bcogener2a_1	Plan de Mitrailleuse Tekorn-Gen	un	le	Plans de Mitrailleuse Tekorn-Gen	des	les	Brique de plan de création pour Mitrailleuse Tekorn-Gen	
+-	bcogener2b_1	Plan de Fusil-Arbalète Tekorn-Gen	un	le	Plans de Fusil-Arbalète Tekorn-Gen	des	les	Brique de plan de création pour Fusil-Arbalète Tekorn-Gen	
+-	bcogener2l_1	Plan de Lance-Grenades Tekorn-Gen	un	le	Plans de Lance-Grenades Tekorn-Gen	des	les	Brique de plan de création pour Lance-Grenades Tekorn-Gen	
+-	bcogener2r_1	Plan de Fusil Tekorn-Gen	un	le	Plans de Fusil Tekorn-Gen	des	les	Brique de plan de création pour Fusil Tekorn-Gen	
+-	bcogener1b_2	Plan de Pistolet-Arbalète Vedice-Gen	un	le	Plans de Pistolet-Arbalète Vedice-Gen	des	les	Brique de plan de création pour Pistolet-Arbalète Vedice-Gen	
+-	bcogener1p_2	Plan de Pistolet Vedice-Gen	un	le	Plans de Pistolet Vedice-Gen	des	les	Brique de plan de création pour Pistolet Vedice-Gen	
+-	bcogener2a_2	Plan de Mitrailleuse Vedice-Gen	un	le	Plans de Mitrailleuse Vedice-Gen	des	les	Brique de plan de création pour Mitrailleuse Vedice-Gen	
+-	bcogener2b_2	Plan de Fusil-Arbalète Vedice-Gen	un	le	Plans de Fusil-Arbalète Vedice-Gen	des	les	Brique de plan de création pour Fusil-Arbalète Vedice-Gen	
+-	bcogener2l_2	Plan de Lance-Grenades Vedice-Gen	un	le	Plans de Lance-Grenades Vedice-Gen	des	les	Brique de plan de création pour Lance-Grenades Vedice-Gen	
+-	bcogener2r_2	Plan de Fusil Vedice-Gen	un	le	Plans de Fusil Vedice-Gen	des	les	Brique de plan de création pour Fusil Vedice-Gen	
+-	bcogenetammo_1	Plan d'Outil de création de munitions Armilo-Gen	un	le	Plan d'Outil de création de munitions Armilo-Gen	des	les	Brique de plan de création pour Outil de création de munitions Armilo-Gen	
+-	bcogenetarmor_1	Plan d'Outil de création d'armures Armilo-Gen	un	le	Plan d'Outil de création d'armures Armilo-Gen	des	les	Brique de plan de création pour Outil de création d'armures Armilo-Gen	
+-	bcogenetjewel_1	Plan d'Outil de création de bijoux Armilo-Gen	un	le	Plan d'Outil de création de bijoux Armilo-Gen	des	les	Brique de plan de création pour Outil de création de bijoux Armilo-Gen	
+-	bcogenetmwea_1	Plan d'Outil de création d'armes de mêlée Armilo-Gen	un	le	Plan d'Outil de création d'armes de mêlée Armilo-Gen	des	les	Brique de plan de création pour Outil de création d'armes de mêlée Armilo-Gen	
+-	bcogenetrwea_1	Plan d'Outil de création d'armes de tir Armilo-Gen	un	le	Plan d'Outil de création d'armes de tir Armilo-Gen	des	les	Brique de plan de création pour Outil de création d'armes de tir Armilo-Gen	
+-	bcogenetforage_1	Plan de Pioche de Forage Greslin-Gen	un	le	Plan de Pioche de Forage Greslin-Gen	des	les	Brique de plan de création pour Pioche de Forage Greslin-Gen	
+-	bcogenetammo_2	Plan d'Outil de création de munitions Rubbarn-Gen	un	le	Plan d'Outil de création de munitions Rubbarn-Gen	des	les	Brique de plan de création pour Outil de création de munitions Rubbarn-Gen	
+-	bcogenetarmor_2	Plan d'Outil de création d'armures Rubbarn-Gen	un	le	Plan d'Outil de création d'armures Rubbarn-Gen	des	les	Brique de plan de création pour Outil de création d'armures Rubbarn-Gen	
+-	bcogenetjewel_2	Plan d'Outil de création de bijoux Rubbarn-Gen	un	le	Plan d'Outil de création de bijoux Rubbarn-Gen	des	les	Brique de plan de création pour Outil de création de bijoux Rubbarn-Gen	
+-	bcogenetmwea_2	Plan d'Outil de création d'armes de mêlée Rubbarn-Gen	un	le	Plan d'Outil de création d'armes de mêlée Rubbarn-Gen	des	les	Brique de plan de création pour Outil de création d'armes de mêlée Rubbarn-Gen	
+-	bcogenetrwea_2	Plan d'Outil de création d'armes de tir Rubbarn-Gen	un	le	Plan d'Outil de création d'armes de tir Rubbarn-Gen	des	les	Brique de plan de création pour Outil de création d'armes de tir Rubbarn-Gen	
+-	bcogenetforage_2	Plan de Pioche de Forage Egiros-Gen	un	le	Plan de Pioche de Forage Egiros-Gen	des	les	Brique de plan de création pour Pioche de Forage Egiros-Gen	
