@@ -558,8 +558,8 @@ _A7C9D64A291C07C5	tr_crystabell_guard_chief_quarter	Crystabell Hauptmannsquartie
 _2959DAF99377CEFB	tr_crystabell_intendant_quarter	Crystabell Intendantenquartier	Crystabell Intendantenquartier	Crystabell Intendantenquartier	das	das	im	zum
 _ED2748C72CF6E4C0	zo_zora_mairie_ss	Zora-Hauptraum	Hauptraum	Hauptraum	der	den	im	zum
 _72572111A2B7D8B6	zo_zora_mairie_mainroom	Hauptraum	Hauptraum	Hauptraum	der	den	im	zum
-_84BF1DE6480C5928	fy_fortress_rdc	Festung Erdgeschoss	Festung Erdgeschoss	Festung Erdgeschoss				
-_6D4019DD10BB144B	fy_fortress_1st	Festung Erste Ebene	Festung Erste Ebene	Festung Erste Ebene				
+_84BF1DE6480C5928	fy_fortress_rdc	Festung Erdgeschoss	Festung Erdgeschoss	Festung Erdgeschoss
+_6D4019DD10BB144B	fy_fortress_1st	Festung Erste Ebene	Festung Erste Ebene	Festung Erste Ebene
 _E2A697A5283587B1	hoi_cho_stable	Stall von Hoï-Cho 	Stall von Hoï-Cho 	Stall von Hoï-Cho 	der	den	beim	zum
 _20866FACA6F56BB4	jen_lai_stable	Stall von Jen-Laï	Stall von Jen-Laï	Stall von Jen-Laï	der	den	beim	zum
 _E2F67FAFA78587B1	min_cho_stable	Stall von Min-Cho	Stall von Min-Cho	Stall von Min-Cho	der	den	beim	zum
@@ -580,17 +580,17 @@ _AF2D0919C1576A05	r_01_06_forage_place_1	Besonderes Vorkommen	Besondere Vorkomme
 _AAA9B7061540F1D4	r_05_36_mission_place_hunting_1	Platz zur Ragus-Jagd	Platz zur Ragus-Jagd	Platz zur Ragus-Jagd	der	den	auf dem	zum
 _8EB43958F24FD851	place_r_08_03_espionnage	Beobachtungspunkt	Beobachtungspunkt	Beobachtungspunkt	der	den	auf dem	zum
 _C78F426D3D0F1C2A	continent_fyros_islands	Alte Lande	Alten Lande	Alten Landen	die	die	in den	zu den
-_C343A9685F37CC90	region_fyros_island1pvp 3	Fyros Insel 1 PvP	Fyros-Insel 		die	den		
-_20188FF2F929407C	region_fyros_island2	Fyros Insel 2	Fyros-Insel 		die	den		
+_C343A9685F37CC90	region_fyros_island1pvp 3	Fyros Insel 1 PvP	Fyros-Insel 		die	den
+_20188FF2F929407C	region_fyros_island2	Fyros Insel 2	Fyros-Insel 		die	den
 _24BE643467D8C8C6	region_fyros_island3	Aelius-Dünen	Aelius-Dünen	Aelius-Dünen	die	die	in den	zu den
 _8FDA400352CEC92B	r_11_10_kitin_hunting_1	Erstes Jagdterrain	Erste Jagdterrain	Ersten Jagdterrain	das	das	im	zum
 _3ED36A63D73EA16C	r_11_10_kitin_hunting_2	Zweites Jagdterrain	Zweite Jagdterrain	Zweiten Jagdterrain	das	das	im	zum
 _50D58839A2EE9278	r_08_04_kitin_boss_1	Herausforderung	Herausforderung	Herausforderung	die	die	bei der	zur
 _65CACC23504263D7	r_05_34_place_lake_1	Uferstraße	Uferstraße	Uferstraße	die	die	in der	zur
-_16B10294F1118B4F	place_arrival_from_sources	Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: place_arrival_from_sources.						
-_E6013EFFB4FEB861	place_arrival_from_zorai	Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: place_arrival_from_zorai.						
-_20303EFF361FE055	place_arrival_from_matis	Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: place_arrival_from_matis.						
-_DACE98C5E36C7230	place_arrival_from_route_gouffre	Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: place_arrival_from_route_gouffre.						
+_16B10294F1118B4F	place_arrival_from_sources	Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: place_arrival_from_sources.
+_E6013EFFB4FEB861	place_arrival_from_zorai	Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: place_arrival_from_zorai.
+_20303EFF361FE055	place_arrival_from_matis	Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: place_arrival_from_matis.
+_DACE98C5E36C7230	place_arrival_from_route_gouffre	Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: place_arrival_from_route_gouffre.
 _68FB04BEDC8A4CC3	oasis_rdc	Dyron	Dyron	Dyron			in	nach
 _DADA0C766985AFA5	oasis_1st	Taverne der Oase	Taverne der Oase	Taverne der Oase	die	die	in der	zur
 _DBA1B2879853B535	war_school_rdc	Erdgeschoss der Militärschule	Erdgeschoss der Militärschule	Erdgeschoss der Militärschule	das	das	im	zum
@@ -601,21 +601,21 @@ _97B394C0997974A0	sherif_rdc	Platz des Leibwächters	Platz des Leibwächters	Pla
 _9902D8CF497984A0	sherif_1st	Obergeschoss der Leibwächter	Obergeschoss der Leibwächter	Obergeschoss der Leibwächter	das	das	im	zum
 _C68FF216063FADD6	zo_hoicho_sergent_quarter	Hoï-Cho Sergeantenquartier	Hoï-Cho Sergeantenquartier	Hoï-Cho Sergeantenquartier	das	das	im	zum
 _2A289CA228F9A0A7	region_matis_island	Almati-Wald	Almati-Wald	Almati-Wald	die	der	auf der	zur
-_64C03EFF367FF06B	place_arrival_from_fyros	Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: place_arrival_from_fyros.						
-_0F4F819946B886B3	place_arrival_from_tryker	Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: place_arrival_from_tryker.						
-_5D803EFFB38EC048	place_arrival_from_bagne	Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: place_arrival_from_bagne.						
+_64C03EFF367FF06B	place_arrival_from_fyros	Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: place_arrival_from_fyros.
+_0F4F819946B886B3	place_arrival_from_tryker	Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: place_arrival_from_tryker.
+_5D803EFFB38EC048	place_arrival_from_bagne	Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: place_arrival_from_bagne.
 _F598ACE61E4941CB	place_r_07_13_boss_kill	Söldner	Söldner	Söldnern	die	die	bei den	zu den
 _7735415374A70966	place_r_01_10_escort	Treffpunkt	Treffpunkt	Treffpunkt	der	den	bei den	zu den
-_59D5046521FB70DA	place_arena_warning	Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: place_arena_warning						
-_CC714C9FEBEF2433	r_01_06_hill_light	Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: r_01_06_hill_light.						
-_AC2EEFFFCD1C6926	r_05_36_mission_place_hunting_2	Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: r_05_36_mission_place_hunting_2.						
-_AC2EEFFFCD2C6927	r_05_36_mission_place_hunting_3	Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: r_05_36_mission_place_hunting_3.						
-_0144BC1A72366C6C	r_09_10_mission_forage_1	Sägemehl sammeln	Sägemehl sammeln	Sägemehl sammeln				
-_6543E020AE366C07	r_09_10_mission_forage_2	Wachs sammeln	Wachs sammeln	Wachs sammeln				
-_65EE17B7F2CAA4FD	r_09_10_mission_forage_3	Holz sammeln	Holz sammeln	Holz sammeln				
+_59D5046521FB70DA	place_arena_warning	Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: place_arena_warning
+_CC714C9FEBEF2433	r_01_06_hill_light	Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: r_01_06_hill_light.
+_AC2EEFFFCD1C6926	r_05_36_mission_place_hunting_2	Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: r_05_36_mission_place_hunting_2.
+_AC2EEFFFCD2C6927	r_05_36_mission_place_hunting_3	Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: r_05_36_mission_place_hunting_3.
+_0144BC1A72366C6C	r_09_10_mission_forage_1	Sägemehl sammeln	Sägemehl sammeln	Sägemehl sammeln
+_6543E020AE366C07	r_09_10_mission_forage_2	Wachs sammeln	Wachs sammeln	Wachs sammeln
+_65EE17B7F2CAA4FD	r_09_10_mission_forage_3	Holz sammeln	Holz sammeln	Holz sammeln
 _794C1D8BEBD85488	r_08_16_mission_place_2	Erster Hinterhalt	Ersten Hinterhalt	Ersten Hinterhalt	der	den	beim	zum
 _399DE9213CD418F4	r_08_16_mission_place_4	Zweiter Hinterhalt	Zweiten Hinterhalt	Zweiten Hinterhalt	der	den	beim	zum
-_FEF3F18880D42C69	r_08_16_mission_place_5	Der Anführer sucht Euch	Der Anführer sucht Euch	Der Anführer sucht Euch				
+_FEF3F18880D42C69	r_08_16_mission_place_5	Der Anführer sucht Euch	Der Anführer sucht Euch	Der Anführer sucht Euch
 _DEC9CC99E7779F78	ava_bar_ext1	Avalae	Avalae	Avalae			in	nach
 _D787078F0F8B4067	ava_bar_int2	Bar von Avalae	Bar von Avalae	Bar von Avalae	die	die	in der	zur
 _5636A84F67199C69	ava_bar_int_2	Bar von Avalae	Bar von Avalae	Bar von Avalae	die	die	in der	zur
@@ -632,27 +632,27 @@ _E7EAF4B9A48A14B3	yrk_bar_ext	Yrkanis	Yrkanis	Yrkanis			in	nach
 _99B903B9D54A188E	yrk_bar_int1	Bar von Yrkanis	Bar von Yrkanis	Bar von Yrkanis	die	die	in der	zur
 _A759546346C8BBCA	mairie_rdc	Untergeschoss 	Untergeschoss 	Untergeschoss 	das	das	im	zum
 _C45A9DE5178C1321	yrkanis mairie ss	Untergeschoss der Gemeinde	Untergeschoss der Gemeinde	Untergeschoss der Gemeinde	das	das	im	zum
-_61403EFF36E0205D	place_arrival_from_nexus	Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: place_arrival_from_nexus.						
-_E3A13EFFB3CFFC57	place_arrival_from_terre	Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: place_arrival_from_terre.						
+_61403EFF36E0205D	place_arrival_from_nexus	Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: place_arrival_from_nexus.
+_E3A13EFFB3CFFC57	place_arrival_from_terre	Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: place_arrival_from_terre.
 _C8E11A63023D3424	continent_tryker_island	Alte Lande	Alten Landen	Alten Landen	die	die	in den	zu den
-_782750B66DD50B84	region_tryker_island1	Tryker Insel 1	Tryker-Insel		der	die		
-_783750B66DD50B85	region_tryker_island2	Tryker Insel 2	Tryker-Insel		der	die		
-_784750B66DD50B86	region_tryker_island3	Tryker Inseln 3	Tryker-Inseln		der	die		
+_782750B66DD50B84	region_tryker_island1	Tryker Insel 1	Tryker-Insel		der	die
+_783750B66DD50B85	region_tryker_island2	Tryker Insel 2	Tryker-Insel		der	die
+_784750B66DD50B86	region_tryker_island3	Tryker Inseln 3	Tryker-Inseln		der	die
 _9FDAC1DE6DF71481	region_tryker_island4	Olkern-See	Olkern-See	Olkern-See	der	den	beim	zum
-_786750B66DD50B88	region_tryker_island5	Tryker Inseln 5	Tryker-Inseln		der	dem		
+_786750B66DD50B88	region_tryker_island5	Tryker Inseln 5	Tryker-Inseln		der	dem
 _06C2A8376442D645	r_01_28_mission_tp_1a	Grotte des Wirbels nach Tautropfen	Grotte des Wirbels nach Tautropfen	Grotte des Wirbels nach Tautropfen	die	die	in der	zur
 _5D3124100950F084	r_01_28_mission_tp_2a	Gang nach Tautropfen	Gang nach Tautropfen	Gang nach Tautropfen	der	den	im	zum
 _1EA438315D638A9E	r_05_33_creek_1	Clopper-Bucht	Clopper-Bucht	Clopper-Bucht	die	die	in der	zur
 _F27CBD6F00A82016	r_01_27_place_libertylake	Gefährlicher Strand	Gefährlichen Strand	Gefährlichen Strand	der	den	auf dem	zu dem
 _0F1086393F8B083C	r_01_27_place_libertylake_2	Clopper-Strand	Clopper-Strand	Clopper-Strand	der	den	auf dem	zu dem
-_53F9A97830AA1FE7	r_12_04	Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: r_12_04						
+_53F9A97830AA1FE7	r_12_04	Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: r_12_04
 _D8EE237CA3C73181	r_01_28_mission_tp_1	Grotte des Wirbels nach Gang der Winde der Muse	Grotte des Wirbels nach Gang der Winde der Muse	Grotte des Wirbels nach Gang der Winde der Muse	die	die	in der	zur
 _321059AE9A1F0970	r_01_28_mission_tp_2	Gang der Winde der Muse	Gang der Winde der Muse	Gang der Winde der Muse	der	den	im	zum
-_2C7D7F0D60A5B869	continent_zorai_island	Zorai Inseln	Oflovak's Straße					
-_DB798FE7FE88087C	region_zorai_island1	Zorai Insel 1	Zorai-Insel 					
-_1B798FE8FE88087C	region_zorai_island2	Zorai Insel 2	Zorai-Insel 					
-_5B798FE9FE88087C	region_zorai_island3	Zorai Insel 3	Zorai-Insel 					
-_9C798FEAFE88087C	region_zorai_island4	Zorai Insel 4	Zorai-Insel 					
+_2C7D7F0D60A5B869	continent_zorai_island	Zorai Inseln	Oflovak's Straße
+_DB798FE7FE88087C	region_zorai_island1	Zorai Insel 1	Zorai-Insel
+_1B798FE8FE88087C	region_zorai_island2	Zorai Insel 2	Zorai-Insel
+_5B798FE9FE88087C	region_zorai_island3	Zorai Insel 3	Zorai-Insel
+_9C798FEAFE88087C	region_zorai_island4	Zorai Insel 4	Zorai-Insel
 _FBA877B09500939C	r_06_12_forage_1	Harzquelle	Harzquelle	Harzquelle	die	die	bei der	zur
 _772E4C85FE065074	r_06_12_forage_2	Verfaulte Faserquelle	Verfaulte Faserquelle	Verfaulten Faserquelle	die	die	bei der	zur
 _8926187ED6A4F65B	r_06_12_hunting_1	Jagd	Jagd	Jagd	die	die	bei der	zur
@@ -666,9 +666,9 @@ _EA39D49BE04753AE	gmisland_stable	Atrium Stall	Atrium Stall	Atrium Stall	die	die
 _69670C5ADDE9CCB8	gmcampfire	Atrium Lager	Atrium Lager	Atrium Lager	das	das	beim	zum
 _EFD6BCAEA0A863B1	gmarena	Atrium Arena	Atrium Arena	Atrium Arena	die	die	bei der	zur
 _CDA66BB129164B9B	r_06_13_kitin	Kitin-Zone	Kitin-Zone	Kitin-Zone	die	die	in der	zur
-_E589639EDA4288B3	debug_place_visit	place de test 1	Testzone					
-_6C857FCF85DB7CA3	debug_place_visit2	place de test 2	Testzone					
-_46DF20FF673994DF	debug_place_teleport	place de teleport	Teleportzone					
+_E589639EDA4288B3	debug_place_visit	place de test 1	Testzone
+_6C857FCF85DB7CA3	debug_place_visit2	place de test 2	Testzone
+_46DF20FF673994DF	debug_place_teleport	place de teleport	Teleportzone
 _F48DF7D5800A5CC9	r_05_15_repere_bandits	Versteck der Banditen	Versteck der Banditen	Versteck der Banditen	das	das	beim	zum
 _F50B113966162410	r_03_38_village_shadowrunners	Lager	Lager	Lager	das	das	im	zum
 _33DA74E9E7B74760	place_r_05_41_foreuses	Rohmaterial-Lager	Rohmaterial-Lager	Rohmaterial-Lager	das	das	im	zum
@@ -742,7 +742,7 @@ _729FB81B15BB49D6	place_tcm_karavan_raid_ceremony_trigger	Karavan-Forschungslage
 _2B9C66C11C4631ED	place_tcm_karavan_raid_ceremony_target	Karavan-Forschungslager	Karavan-Forschungslager	Karavan-Forschungslager	das	das	im	zum
 _0CF23F6CE22867E1	place_tcm_company_raid_ceremony_trigger	Kami-Mission	Kami-Mission	Kami-Mission	die	die	in der	zur
 _72621C2FB0575EE1	place_tcm_company_raid_ceremony_target	Kami-Mission	Kami-Mission	Kami-Mission	die	die	in der	zur
-_2454F9A3756BE489	place_tcm_shaman_tent	Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: place_tcm_shaman_tent	Wenn Du diesen Text siehst, ist ein Bug aufgetreten: place_tcm_shaman_tent	Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: place_tcm_shaman_tent				
+_2454F9A3756BE489	place_tcm_shaman_tent	Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: place_tcm_shaman_tent	Wenn Du diesen Text siehst, ist ein Bug aufgetreten: place_tcm_shaman_tent	Wenn dieser Text angezeigt wird, handelt es sich um einen Bug: place_tcm_shaman_tent
 _7086751EB6C58F8F	place_tcm_rock_fall	Ehemaliges Karavan-Depot	Ehemalige Karavan-Depot	Ehemaligen Karavan-Depot	das	das	im	zum
 _D986F2FBCC9A5D45	place_tcm_karavan_outpost	Karavan-Außenposten	Karavan-Außenposten	Karavan-Außenposten	der	den	im	zum
 _57B18A7D7106EFE2	kitiniere_cattle_room	Zuchtkammer	Zuchtkammer	Zuchtkammer	die	die	in der	zur
@@ -753,6 +753,7 @@ _24CA70A7238454B2	kitiniere_old_mines	Alte Minen	Alten Minen	Alten Minen	die	die
 _44F20D1B6CB6931E	kitiniere_princes_room	Raum der Prinzen	Raum der Prinzen	Raum der Prinzen	der	den	im	zum
 _ED795F15E6D9C493	kitiniere_queen_room	Halle der Königin	Halle der Königin	Halle der Königin	die	die	in der	zur
 _2959ECAE0CB888AF	kitiniere	Kitin-Nest	Kitin-Nest	Kitin-Nest	das	das	im	zum
+_9701C07FF26F0E41	cont_kitiniere	Das Kitinnest	Kitinnest	Kitinnest	das	das	im	zum
 _9701C07FF26F0E41	continent_kitiniere	Das Kitinnest	Kitinnest	Kitinnest	das	das	im	zum
 _7556019ACD0C07D7	place_mission_fyros_01_yubo	Garten der Yubos	Garten der Yubos	Garten der Yubos	der	den	im	zum
 _46BF61EE6B3E0F09	place_mission_fyros_02_huntingground_t1	Bodoc-Herde	Bodoc-Herde	Bodoc-Herde	die	die	bei der	zur
@@ -798,7 +799,8 @@ _424A85186C58FC20	region_matis_island_2	Dantes Lager	Dantes Lager	Dantes Lager		
 _E438DC9DA9C9AC6E	region_matis_island_3	Almati-Insel	Almati-Insel	Almati-Insel	die	die	auf der	zur
 _DFD4F60155444143	continent_matis_island	Alte Lande	Alten Lande	Alten Landen	die	die	in den	zu den
 _5FE21E8487AF99BC	boss_tryker_light_island_zone	Dantes Lager	Dantes Lager	Dantes Lager	das	das	in	zu
-_4DF006937CDFE456	place_matis_island_1	Ranger-Lager	Ranger-Lager	Ranger-Lager	das	das	im	zum
+_4DF006937CDFE456	place_matis_island_1	Almati-Wald	Almati-Wald	Almati-Wald	der	den	im	zum
+_4DF006937CDFE456	cont_newbieland	Silan	Silan	Silan	das	das	im	zum
 _D31864B75FE9A0B2	place_matis_island_3	Ranger-Insel	Ranger-Insel	Ranger-Insel	die	die	auf der	zur
 _FCB64A9225573F9D	boss_zorai_light_maincamp	Pei-Ruz' geheimes Lager	Pei	Pei-Ruz' geheimem Lager	das	das	in	zu
 _0A052D7DE3336174	boss_zorai_light_startcamp	Pei-Ruz' Lager	Pei-Ruz' Lager	Pei-Ruz' Lager	das	das	in	zu

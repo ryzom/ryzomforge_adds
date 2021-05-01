@@ -4100,7 +4100,7 @@
 1619275957	jrez_fulllife_fyros	zurück zu Ruhm	zurück zu Ruhm	zurück zu Ruhm	zurück zu Ruhm			zurück zu Ruhm		zurück zu Ruhm	zurück zu Ruhm
 1619275962	jrez_nodp_matis	süßer Tod	süßer Tod	süßer Tod	süßer Tod			süßer Tod		süßer Tod	süßer Tod
 1619275964	jrez_nodp_fyros	süßer Tod	süßer Tod	süßer Tod	süßer Tod	ein	der	süßer Tod	die	süßer Tod	süßer Tod
-1619275966	jrez_nodp_zorai	süßer Tod	süßer Tod	süßer Tod	süßer Tod	ein	der	süßer Tod	die	süßer Tod	süßer Tod
+1619275966	jrez_nodp_zorai	süßer Tod								@{5F5F}1% @{FFFF}Chance auf @{5F5F}keine Todesstrafe @{FFFF}nach einer Auferstehung. @{FAAF}Nur Witherings und Nexus Minor.	
 -	bcomarem1bm_1	Handwerksplan: Tekorn-Mar Streitkolben	Handwerksplan: Tekorn-Mar Streitkolben	Handwerksplan: Tekorn-Mar Streitkolben	Handwerksplan: Tekorn-Mar Streitkolben	ein	der		die	Einhand-Streitkolben mit Tekorn-Mar in hoher Qualität	Tekorn-Mar Einhand-Streitkolben
 -	bcomarem1bs_1	Handwerksplan: Tekorn-Mar Stab	Handwerksplan: Tekorn-Mar Stab	Handwerksplan: Tekorn-Mar Stab	Handwerksplan: Tekorn-Mar Stab	ein	der		die	Einhand-Stab mit Tekorn-Mar in hoher Qualität	Tekorn-Mar Einhand-Stab
 -	bcomarem1pd_1	Handwerksplan: Tekorn-Mar Dolch	Handwerksplan: Tekorn-Mar Dolch	Handwerksplan: Tekorn-Mar Dolch	Handwerksplan: Tekorn-Mar Dolch	ein	der		die	Einhand-Dolch mit Tekorn-Mar in hoher Qualität	Tekorn-Mar Einhand-Dolch

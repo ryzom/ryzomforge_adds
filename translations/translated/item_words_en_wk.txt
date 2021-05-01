@@ -6047,10 +6047,10 @@
 -	nbland_goo_device	Goo Remover	a	the	Goo Removers		the	
 -	newbie_diadem	Prince diadem	a	the	Prince diadems		the	
 -	newbie_plans	Bandits' plan	a	the	Bandits' plans		the	
--	nexus_neck_1	Iridescent Desert Necklace	a	the	Iridescent Desert Necklace			
--	nexus_neck_2	Iridescent Forest Necklace	a	the	Iridescent Forest Necklace			
--	nexus_neck_3	Iridescent Lakes Necklace	a	the	Iridescent Lakes Necklace			
--	nexus_neck_4	Iridescent Jungle Necklace	a	the	Iridescent Jungle Necklace			
+-	nexus_neck1	Iridescent Desert Necklace	a	the	Iridescent Desert Necklace			
+-	nexus_neck2	Iridescent Forest Necklace	a	the	Iridescent Forest Necklace			
+-	nexus_neck3	Iridescent Lakes Necklace	a	the	Iridescent Lakes Necklace			
+-	nexus_neck4	Iridescent Jungle Necklace	a	the	Iridescent Jungle Necklace			
 -	old_man_materials	Old Man's Material	an	the	Old Man's Materials		the	
 -	old_man_seeds	Old Man's Seed	an	the	Old Man's Seeds		the	
 -	orange_medicine	Orange Medicine	an	the	Orange Medicines		the	
@@ -6700,13 +6700,13 @@
 -	unstable_goo_vial	Unstable Potion	an	the	Unstable Potions		the	
 -	water_barrel	Stimulating Water	a	the	Stimulating Waters		the	
 -	web_transaction	Transaction	a	the	Transactions		the	
--	wheel_token_anlor	withered token	a	the	withered tokens	the		
--	wheel_token_atysmas	withered token	a	the	withered tokens	the		
--	wheel_token_basic	withered token	a	the	withered tokens	the		
--	wheel_token_choice	withered token	a	the	withered tokens	the		
--	wheel_token_fine	withered token	a	the	withered tokens	the		
--	wheel_token_suprem	withered token	a	the	withered tokens	the		
--	wheel_token_xl	withered token	a	the	withered tokens	the		
+-	wheel_token_anlor	Withered Token	a	the	Withered Tokens		the
+-	wheel_token_atysmas	Withered Token	a	the	Withered Tokens		the
+-	wheel_token_basic	Withered Token	a	the	Withered Tokens		the
+-	wheel_token_choice	Withered Token	a	the	Withered Tokens		the
+-	wheel_token_fine	Withered Token	a	the	Withered Tokens		the
+-	wheel_token_suprem	Withered Token	a	the	Withered Tokens		the
+-	wheel_token_xl	Withered Token	a	the	Withered Tokens		the
 -	white_medicine	White Medicine	a	the	White Medicines		the	
 -	winch	Winch	a	the	Winchs		the	
 -	winch_2	Winch	a	the	Winchs		the	
@@ -7776,3 +7776,114 @@
 -	m0694ccife01	Supreme Forest Zerx Leather	a	the	Supreme Forest Zerx Leathers		the
 -	s2e1_seve_suc	drop of salina sap	a	the	drops of salina sap		the	
 -	s2e1_salins	ripe salin	a	the	ripe salins		the	
+-	wheel_token_easter	Refugees' days Event	a	the	Refugees' days Events		the
+-	slot_fingerl	Equip a ring on your left finger	a	the			
+1618579662	slot_neck	
+1619876266	m0819dxacc01	Natural Tekorn Bramble	a	the	Natural Tekorn Brambles		the	
+1619876266	m0820dxacc01	Natural Maga Creeper	a	the	Natural Maga Creepers		the	
+1619876266	m0821dxacc01	Natural Armilo Lichen	some	the	Natural Armilo Lichen		the	
+1619876266	m0822dxacc01	Natural Greslin Filament	a	the	Natural Greslin Filaments		the	
+1619876266	m0823dxacc01	Natural Vedice Sap	some	the	Natural Vedice Sap		the	
+1619876266	m0824dxacc01	Natural Cheng Root	a	the	Natural Cheng Roots		the	
+1619876266	m0825dxacc01	Natural Rubbarn Gum	some	the	Natural Rubbarn Gum		the	
+1619876266	m0826dxacc01	Natural Egiros Pollen	some	the	Natural Egiros Pollen		the	
+1619876266	m0827dxacc01	Refined Tekorn Bramble	a	the	Refined Tekorn Brambles		the	
+1619876266	m0828dxacc01	Refined Maga Creeper	a	the	Refined Maga Creepers		the	
+1619876266	m0829dxacc01	Refined Armilo Lichen	some	the	Refined Armilo Lichen		the	
+1619876266	m0830dxacc01	Refined Greslin Filament	a	the	Refined Greslin Filaments		the	
+1619876266	m0831dxacc01	Refined Vedice Sap	some	the	Refined Vedice Sap		the	
+1619876266	m0832dxacc01	Refined Cheng Root	a	the	Refined Cheng Roots		the	
+1619876266	m0833dxacc01	Refined Rubbarn Gum	some	the	Refined Rubbarn Gum		the	
+1619876266	m0834dxacc01	Refined Egiros Pollen	some	the	Refined Egiros Pollen		the	
+1619876266	icogenm1bm_1	Tekorn-Gen Mace	a	the	Tekorn-Gen Maces		the	
+1619876266	icogenm1bm_2	Vedice-Gen Mace	a	the	Vedice-Gen Maces		the	
+1619876266	icogenm1bs_1	Tekorn-Gen Staff	a	the	Tekorn-Gen Staffs		the	
+1619876266	icogenm1bs_2	Vedice-Gen Staff	a	the	Vedice-Gen Staffs		the	
+1619876266	icogenm1pd_1	Tekorn-Gen Dagger	a	the	Tekorn-Gen Daggers		the	
+1619876266	icogenm1pd_2	Vedice-Gen Dagger	a	the	Vedice-Gen Daggers		the	
+1619876266	icogenm1ps_1	Tekorn-Gen Spear	a	the	Tekorn-Gen Spears		the	
+1619876266	icogenm1ps_2	Vedice-Gen Spear	a	the	Vedice-Gen Spears		the	
+1619876266	icogenm1sa_1	Tekorn-Gen Axe	a	the	Tekorn-Gen Axes		the	
+1619876266	icogenm1sa_2	Vedice-Gen Axe	a	the	Vedice-Gen Axes		the	
+1619876266	icogenm1ss_1	Tekorn-Gen Sword	a	the	Tekorn-Gen Swords		the	
+1619876266	icogenm1ss_2	Vedice-Gen Sword	a	the	Vedice-Gen Swords		the	
+1619876266	icogenm2bm_1	Tekorn-Gen Two-handed Mace	a	the	Tekorn-Gen Two-handed Maces		the	
+1619876266	icogenm2bm_2	Vedice-Gen Two-handed Mace	a	the	Vedice-Gen Two-handed Maces		the	
+1619876266	icogenm2ms_1	Maga-Gen Magic Amplifier	a	the	Maga-Gen Magic Amplifiers		the	
+1619876266	icogenm2ms_2	Cheng-Gen Magic Amplifier	a	the	Cheng-Gen Magic Amplifiers		the	
+1619876266	icogenm2pp_1	Tekorn-Gen Pike	a	the	Tekorn-Gen Pikes		the	
+1619876266	icogenm2pp_2	Vedice-Gen Pike	a	the	Vedice-Gen Pikes		the	
+1619876266	icogenm2sa_1	Tekorn-Gen Two-handed Axe	a	the	Tekorn-Gen Two-handed Axes		the	
+1619876266	icogenm2sa_2	Vedice-Gen Two-handed Axe	a	the	Vedice-Gen Two-handed Axes		the	
+1619876266	icogenm2ss_1	Tekorn-Gen Two-handed Sword	a	the	Tekorn-Gen Two-handed Swords		the	
+1619876266	icogenm2ss_2	Vedice-Gen Two-handed Sword	a	the	Vedice-Gen Two-handed Swords		the	
+1619876266	icogenr1b_1	Tekorn-Gen Bowpistol	a	the	Tekorn-Gen Bowpistols		the	
+1619876266	icogenr1b_2	Vedice-Gen Bowpistol	a	the	Vedice-Gen Bowpistols		the	
+1619876266	icogenr1p_1	Tekorn-Gen Pistol	a	the	Tekorn-Gen Pistols		the	
+1619876266	icogenr1p_2	Vedice-Gen Pistol	a	the	Vedice-Gen Pistols		the	
+1619876266	icogenr2a_1	Tekorn-Gen Autolauncher	a	the	Tekorn-Gen Autolaunchers		the	
+1619876266	icogenr2a_2	Vedice-Gen Autolauncher	a	the	Vedice-Gen Autolaunchers		the	
+1619876266	icogenr2b_1	Tekorn-Gen Bowrifle	a	the	Tekorn-Gen Bowrifles		the	
+1619876266	icogenr2b_2	Vedice-Gen Bowrifle	a	the	Vedice-Gen Bowrifles		the	
+1619876266	icogenr2l_1	Tekorn-Gen Launcher	a	the	Tekorn-Gen Launchers		the	
+1619876266	icogenr2l_2	Vedice-Gen Launcher	a	the	Vedice-Gen Launchers		the	
+1619876266	icogenr2r_1	Tekorn-Gen Rifle	a	the	Tekorn-Gen Rifles		the	
+1619876266	icogenr2r_2	Vedice-Gen Rifle	a	the	Vedice-Gen Rifles		the	
+1619876266	icogentammo_1	Armilo-Gen Ammo Crafting Tool	an	the	Armilo-Gen Ammo Crafting Tools		the	
+1619876266	icogentammo_2	Rubbarn-Gen Ammo Crafting Tool	a	the	Rubbarn-Gen Ammo Crafting Tools		the	
+1619876266	icogentarmor_1	Armilo-Gen Armor Crafting Tool	an	the	Armilo-Gen Armor Crafting Tools		the	
+1619876266	icogentarmor_2	Rubbarn-Gen Armor Crafting Tool	a	the	Rubbarn-Gen Armor Crafting Tools		the	
+1619876266	icogentforage_1	Greslin-Gen Pick	a	the	Greslin-Gen Picks		the	
+1619876266	icogentforage_2	Egiros-Gen Pick	an	the	Egiros-Gen Picks		the	
+1619876266	icogentjewel_1	Armilo-Gen Jewel Crafting Tool	an	the	Armilo-Gen Jewel Crafting Tools		the	
+1619876266	icogentjewel_2	Rubbarn-Gen Jewel Crafting Tool	a	the	Rubbarn-Gen Jewel Crafting Tools		the	
+1619876266	icogentmwea_1	Armilo-Gen Melee Weapon Crafting Tool	an	the	Armilo-Gen Melee Weapon Crafting Tools		the	
+1619876266	icogentmwea_2	Rubbarn-Gen Melee Weapon Crafting Tool	a	the	Rubbarn-Gen Melee Weapon Crafting Tools		the	
+1619876266	icogentrwea_1	Armilo-Gen Range Weapon Crafting Tool	an	the	Armilo-Gen Range Weapon Crafting Tools		the	
+1619876266	icogentrwea_2	Rubbarn-Gen Range Weapon Crafting Tool	a	the	Rubbarn-Gen Range Weapon Crafting Tools		the	
+1619876266	icomarm1bm_1	Tekorn-Mar Mace	a	the	Tekorn-Mar Maces		the	
+1619876266	icomarm1bm_2	Vedice-Mar Mace	a	the	Vedice-Mar Maces		the	
+1619876266	icomarm1bs_1	Tekorn-Mar Staff	a	the	Tekorn-Mar Staffs		the	
+1619876266	icomarm1bs_2	Vedice-Mar Staff	a	the	Vedice-Mar Staffs		the	
+1619876266	icomarm1pd_1	Tekorn-Mar Dagger	a	the	Tekorn-Mar Daggers		the	
+1619876266	icomarm1pd_2	Vedice-Mar Dagger	a	the	Vedice-Mar Daggers		the	
+1619876266	icomarm1ps_1	Tekorn-Mar Spear	a	the	Tekorn-Mar Spears		the	
+1619876266	icomarm1ps_2	Vedice-Mar Spear	a	the	Vedice-Mar Spears		the	
+1619876266	icomarm1sa_1	Tekorn-Mar Axe	a	the	Tekorn-Mar Axes		the	
+1619876266	icomarm1sa_2	Vedice-Mar Axe	a	the	Vedice-Mar Axes		the	
+1619876266	icomarm1ss_1	Tekorn-Mar Sword	a	the	Tekorn-Mar Swords		the	
+1619876266	icomarm1ss_2	Vedice-Mar Sword	a	the	Vedice-Mar Swords		the	
+1619876266	icomarm2bm_1	Tekorn-Mar Two-handed Mace	a	the	Tekorn-Mar Two-handed Maces		the	
+1619876266	icomarm2bm_2	Vedice-Mar Two-handed Mace	a	the	Vedice-Mar Two-handed Maces		the	
+1619876266	icomarm2ms_1	Maga-Mar Magic Amplifier	a	the	Maga-Mar Magic Amplifiers		the	
+1619876266	icomarm2ms_2	Cheng-Mar Magic Amplifier	a	the	Cheng-Mar Magic Amplifiers		the	
+1619876266	icomarm2pp_1	Tekorn-Mar Pike	a	the	Tekorn-Mar Pikes		the	
+1619876266	icomarm2pp_2	Vedice-Mar Pike	a	the	Vedice-Mar Pikes		the	
+1619876266	icomarm2sa_1	Tekorn-Mar Two-handed Axe	a	the	Tekorn-Mar Two-handed Axes		the	
+1619876266	icomarm2sa_2	Vedice-Mar Two-handed Axe	a	the	Vedice-Mar Two-handed Axes		the	
+1619876266	icomarm2ss_1	Tekorn-Mar Two-handed Sword	a	the	Tekorn-Mar Two-handed Swords		the	
+1619876266	icomarm2ss_2	Vedice-Mar Two-handed Sword	a	the	Vedice-Mar Two-handed Swords		the	
+1619876266	icomarr1b_1	Tekorn-Mar Bowpistol	a	the	Tekorn-Mar Bowpistols		the	
+1619876266	icomarr1b_2	Vedice-Mar Bowpistol	a	the	Vedice-Mar Bowpistols		the	
+1619876266	icomarr1p_1	Tekorn-Mar Pistol	a	the	Tekorn-Mar Pistols		the	
+1619876266	icomarr1p_2	Vedice-Mar Pistol	a	the	Vedice-Mar Pistols		the	
+1619876266	icomarr2a_1	Tekorn-Mar Autolauncher	a	the	Tekorn-Mar Autolaunchers		the	
+1619876266	icomarr2a_2	Vedice-Mar Autolauncher	a	the	Vedice-Mar Autolaunchers		the	
+1619876266	icomarr2b_1	Tekorn-Mar Bowrifle	a	the	Tekorn-Mar Bowrifles		the	
+1619876266	icomarr2b_2	Vedice-Mar Bowrifle	a	the	Vedice-Mar Bowrifles		the	
+1619876266	icomarr2l_1	Tekorn-Mar Launcher	a	the	Tekorn-Mar Launchers		the	
+1619876266	icomarr2l_2	Vedice-Mar Launcher	a	the	Vedice-Mar Launchers		the	
+1619876266	icomarr2r_1	Tekorn-Mar Rifle	a	the	Tekorn-Mar Rifles		the	
+1619876266	icomarr2r_2	Vedice-Mar Rifle	a	the	Vedice-Mar Rifles		the	
+1619876266	icomartammo_1	Armilo-Mar Ammo Crafting Tool	an	the	Armilo-Mar Ammo Crafting Tools		the	
+1619876266	icomartammo_2	Rubbarn-Mar Ammo Crafting Tool	a	the	Rubbarn-Mar Ammo Crafting Tools		the	
+1619876266	icomartarmor_1	Armilo-Mar Armor Crafting Tool	an	the	Armilo-Mar Armor Crafting Tools		the	
+1619876266	icomartarmor_2	Rubbarn-Mar Armor Crafting Tool	a	the	Rubbarn-Mar Armor Crafting Tools		the	
+1619876266	icomartforage_1	Greslin-Mar Pick	a	the	Greslin-Mar Picks		the	
+1619876266	icomartforage_2	Egiros-Mar Pick	an	the	Egiros-Mar Picks		the	
+1619876266	icomartjewel_1	Armilo-Mar Jewel Crafting Tool	an	the	Armilo-Mar Jewel Crafting Tools		the	
+1619876266	icomartjewel_2	Rubbarn-Mar Jewel Crafting Tool	a	the	Rubbarn-Mar Jewel Crafting Tools		the	
+1619876266	icomartmwea_1	Armilo-Mar Melee Weapon Crafting Tool	an	the	Armilo-Mar Melee Weapon Crafting Tools		the	
+1619876266	icomartmwea_2	Rubbarn-Mar Melee Weapon Crafting Tool	a	the	Rubbarn-Mar Melee Weapon Crafting Tools		the	
+1619876266	icomartrwea_1	Armilo-Mar Range Weapon Crafting Tool	an	the	Armilo-Mar Range Weapon Crafting Tools		the	
+1619876266	icomartrwea_2	Rubbarn-Mar Range Weapon Crafting Tool	a	the	Rubbarn-Mar Range Weapon Crafting Tools		the	

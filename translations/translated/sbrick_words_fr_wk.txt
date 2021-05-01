@@ -3732,34 +3732,34 @@
 -	bsfml04	Barrière Electrique 4	une	la	Barrières Electriques 4	des	les	Crée pendant $1SP_LIGHTNING_WALL_AURA secondes une barrière électrique autour de vous qui diminue provisoirement de $|4SP_LIGHTNING_WALL_AURA niveaux les compétences d'attaque de tous les ennemis qui vous atteignent au corps à corps.	
 -	bsfml05	Barrière Electrique 5	une	la	Barrières Electriques 5	des	les	Crée pendant $1SP_LIGHTNING_WALL_AURA secondes une barrière électrique autour de vous qui diminue provisoirement de $|4SP_LIGHTNING_WALL_AURA niveaux les compétences d'attaque de tous les ennemis qui vous atteignent au corps à corps.	
 -	bccrea02	Plan de Création/Fusil-Arbalète Générique	un	le			les	Brique de plan de création pour artisan d'un fusil-arbalète générique	
--	bcbmea01	Plan de Création/Hache à 2M des Percécorces	un	le			les	Plan de Création/Hache à 2M des Percécorces	
--	bcbmea01_2	Plan de Création/Hache à 2M des Pillards du Désert	un	le			les	Plan de Création/Hache à 2M des Pillards du Désert	
--	bcbmea01_3	Plan de Création/Hache à 2M des Veilleurs	un	le			les	Plan de Création/Hache à 2M des Veilleurs	
--	bcbmea02	Plan de Création/Pique des Gardes-frontières	un	le			les	Plan de Création/Pique des Gardes-frontières	
--	bcbmea02_2	Plan de Création/Pique des Kitiniers	un	le			les	Plan de Création/Pique des Kitiniers	
--	bcbmea02_3	Plan de Création/Pique des Dryades	un	le			les	Plan de Création/Pique des Dryades	
--	bcbmea03	Plan de Création/Massue à 2M des Tuteurs	un	le			les	Plan de Création/Massue à 2M des Tuteurs	
--	bcbmea03_2	Plan de Création/Massue à 2M des Recycleurs	un	le			les	Plan de Création/Massue à 2M des Recycleurs	
--	bcbmea04	Plan de Création/Epée à 2M des Sculpteurs de Vase	un	le			les	Plan de Création/Epée à 2M des Sculpteurs de Vase	
--	bcbmea04_2	Plan de Création/Epée à 2M des Embourbés	un	le			les	Plan de Création/Epée à 2M des Embourbés	
--	bcbmea05	Plan de Création/Hache des Taxeurs	un	le			les	Plan de Création/Hache des Taxeurs	
--	bcbmea05_2	Plan de Création/Hache des Renegades	un	le			les	Plan de Création/Hache des Renegades	
--	bcbmea05_3	Plan de Création/Hache des Fraiders	un	le			les	Plan de Création/Hache des Fraiders	
--	bcbmea06	Plan de Création/Dague des Corsaires	un	le			les	Plan de Création/Dague des Corsaires	
--	bcbmea06_2	Plan de Création/Dague des Illuminés	un	le			les	Plan de Création/Dague des Illuminés	
--	bcbmea06_3	Plan de Création/Dague des Cuzans	un	le			les	Plan de Création/Dague des Cuzans	
--	bcbmea07	Plan de Création/Lance des Amazones	un	le			les	Plan de Création/Lance des Amazones	
--	bcbmea07_2	Plan de Création/Lance des Matisec	un	le			les	Plan de Création/Lance des Matisec	
--	bcbmea07_3	Plan de Création/Lance des Esclaves de la sève	un	le			les	Plan de Création/Lance des Esclaves de la sève	
--	bcbmea08	Plan de Création/Massue de la Sève Sacrée	un	le			les	Plan de Création/Massue des Zokamis	
--	bcbmea08_2	Plan de Création/Massue du Cercle noir	un	le			les	Plan de Création/Massue du Cercle noir	
--	bcbmea08_3	Plan de Création/Massue des Gibads	un	le			les	Plan de Création/Massue des Gibads	
--	bcbmea09	Plan de Création/Bâton de l'Arbre éternel	un	le			les	Plan de Création/Bâton de l'Arbre éternel	
--	bcbmea09_2	Plan de Création/Bâton des Sèves sèches	un	le			les	Plan de Création/Bâton des Sèves sèches	
--	bcbmea09_3	Plan de Création/Bâton des Maîtres de la goo	un	le			les	Plan de Création/Bâton des Maîtres de la goo	
--	bcbmea10	Plan de Création/Epée des Contrebandiers	un	le			les	Plan de Création/Epée des Contrebandiers	
--	bcbmea10_2	Plan de Création/Epée des Mercenaires écarlates	un	le			les	Plan de Création/Epée des Mercenaires écarlates	
--	bcbmea10_3	Plan de Création/Epée des Frères de la lagune	un	le			les	Plan de Création/Epée des Frères de la lagune	
+-	bcbmea01	Plan de Création/Hache à 2M des Percécorces	un	le				Plan de Création/Hache à 2M des Percécorces	
+-	bcbmea01_2	Plan de Création/Hache à 2M des Pillards du Désert	un	le				Plan de Création/Hache à 2M des Pillards du Désert	
+-	bcbmea01_3	Plan de Création/Hache à 2M des Veilleurs	un	le				Plan de Création/Hache à 2M des Veilleurs	
+-	bcbmea02	Plan de Création/Pique des Gardes-frontières	un	le				Plan de Création/Pique des Gardes-frontières	
+-	bcbmea02_2	Plan de Création/Pique des Kitiniers	un	le				Plan de Création/Pique des Kitiniers	
+-	bcbmea02_3	Plan de Création/Pique des Dryades	un	le				Plan de Création/Pique des Dryades	
+-	bcbmea03	Plan de Création/Massue à 2M des Tuteurs	un	le				Plan de Création/Massue à 2M des Tuteurs	
+-	bcbmea03_2	Plan de Création/Massue à 2M des Recycleurs	un	le				Plan de Création/Massue à 2M des Recycleurs	
+-	bcbmea04	Plan de Création/Epée à 2M des Sculpteurs de Vase	un	le				Plan de Création/Epée à 2M des Sculpteurs de Vase	
+-	bcbmea04_2	Plan de Création/Epée à 2M des Embourbés	un	le				Plan de Création/Epée à 2M des Embourbés	
+-	bcbmea05	Plan de Création/Hache des Taxeurs	un	le				Plan de Création/Hache des Taxeurs	
+-	bcbmea05_2	Plan de Création/Hache des Renegades	un	le				Plan de Création/Hache des Renegades	
+-	bcbmea05_3	Plan de Création/Hache des Fraiders	un	le				Plan de Création/Hache des Fraiders	
+-	bcbmea06	Plan de Création/Dague des Corsaires	un	le				Plan de Création/Dague des Corsaires	
+-	bcbmea06_2	Plan de Création/Dague des Illuminés	un	le				Plan de Création/Dague des Illuminés	
+-	bcbmea06_3	Plan de Création/Dague des Cuzans	un	le				Plan de Création/Dague des Cuzans	
+-	bcbmea07	Plan de Création/Lance des Amazones	un	le				Plan de Création/Lance des Amazones	
+-	bcbmea07_2	Plan de Création/Lance des Matisec	un	le				Plan de Création/Lance des Matisec	
+-	bcbmea07_3	Plan de Création/Lance des Esclaves de la sève	un	le				Plan de Création/Lance des Esclaves de la sève	
+-	bcbmea08	Plan de Création/Massue des Zokamis	un	le				Plan de Création/Massue des Zokamis	
+-	bcbmea08_2	Plan de Création/Massue du Cercle noir	un	le				Plan de Création/Massue du Cercle noir	
+-	bcbmea08_3	Plan de Création/Massue des Gibads	un	le				Plan de Création/Massue des Gibads	
+-	bcbmea09	Plan de Création/Bâton de l'Arbre éternel	un	le				Plan de Création/Bâton de l'Arbre éternel	
+-	bcbmea09_2	Plan de Création/Bâton des Sèves sèches	un	le				Plan de Création/Bâton des Sèves sèches	
+-	bcbmea09_3	Plan de Création/Bâton des Maîtres de la goo	un	le				Plan de Création/Bâton des Maîtres de la goo	
+-	bcbmea10	Plan de Création/Epée des Contrebandiers	un	le				Plan de Création/Epée des Contrebandiers	
+-	bcbmea10_2	Plan de Création/Epée des Mercenaires écarlates	un	le				Plan de Création/Epée des Mercenaires écarlates	
+-	bcbmea10_3	Plan de Création/Epée des Frères de la lagune	un	le				Plan de Création/Epée des Frères de la lagune	
 -	bcbrea01	Plan de Création/Mitrailleuse des Façonneurs nocturnes	un	le			les	Plan de Création/Mitrailleuse des Façonneurs nocturnes	
 -	bcbrea01_2	Plan de Création/Mitrailleuse des Sauvages	un	le			les	Plan de Création/Mitrailleuse des Sauvages	
 -	bcbrea01_3	Plan de Création/Mitrailleuse des Sanguins	un	le			les	Plan de Création/Mitrailleuse des Sanguins	
