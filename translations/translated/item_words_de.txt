@@ -7772,10 +7772,10 @@
 -	m0694ccife01	Erhabenes Zerx-Lederstück, Waldtyp	Erhabene Zerx-Lederstück, Waldtyp	Erhabene Zerx-Lederstück, Waldtyp	Erhabene Zerx-Lederstücke, Waldtyp	Erhabenen Zerx-Lederstücke, Waldtyp	ein	die	ein	das		
 -	s2e1_seve_suc	Tropfen Salina-Saft	Tropfen Salina-Saft	Tropfen Salina-Saft	Tropfen Salina-Saft	Tropfen Salina-Saft		die	ein	der
 -	s2e1_salins	reife Salin	reife Salin	reifen Salin	reife Salins	reifen Salins		die	eine	die
--	nexus_neck_1	leuchtende Wüstenhalskette	leuchtende Wüstenhalskette	leuchtende Wüstenhalskette	leuchtende Wüstenhalsketten	leuchtenden Wüstenhalsketten		die	eine	die
--	nexus_neck_2	leuchtende Waldhalskette	leuchtende Waldhalskette	leuchtende Waldhalskette	leuchtende Waldhalsketten	leuchtenden Waldhalsketten		die	eine	die
--	nexus_neck_3	leuchtende Seenhalskette	leuchtende Seenhalskette	leuchtende Seenhalskette	leuchtende Seenhalsketten	leuchtenden Seenhalsketten		die	eine	die
--	nexus_neck_4	leuchtende Dschungelhalskette	leuchtende Dschungelhalskette	leuchtende Dschungelhalskette	leuchtende Dschungelhalsketten	leuchtenden Dschungelhalsketten		die	eine	die
+-	nexus_neck1	leuchtende Wüstenhalskette	leuchtende Wüstenhalskette	leuchtende Wüstenhalskette	leuchtende Wüstenhalsketten	leuchtenden Wüstenhalsketten		die	eine	die
+-	nexus_neck2	leuchtende Waldhalskette	leuchtende Waldhalskette	leuchtende Waldhalskette	leuchtende Waldhalsketten	leuchtenden Waldhalsketten		die	eine	die
+-	nexus_neck3	leuchtende Seenhalskette	leuchtende Seenhalskette	leuchtende Seenhalskette	leuchtende Seenhalsketten	leuchtenden Seenhalsketten		die	eine	die
+-	nexus_neck4	leuchtende Dschungelhalskette	leuchtende Dschungelhalskette	leuchtende Dschungelhalskette	leuchtende Dschungelhalsketten	leuchtenden Dschungelhalsketten		die	eine	die
 -	wheel_token_easter	Event Tage des Lichts	ein	Event Tage des Lichts	Event Tage des Lichts	Event Tage des Lichts	die	die	ein	der
 -	slot_fingerl		Lege am linken Finger einen Ring an		Lege am linken Finger einen Ring an						
 1618579662	slot_neck	

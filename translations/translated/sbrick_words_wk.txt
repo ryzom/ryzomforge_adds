@@ -3528,7 +3528,7 @@
 -	cold	Cold Damage	a	the	Cold Damage			You suffer cold damage over time.	
 -	fire	Fire Damage	a	the	Fire Damage			You suffer fire damage over time.	
 -	electric	Electric Damage	an	the	Electric Damage			You suffer electric damage over time.	
--	acid	Acid Damage	an	the	Acid Damage			You suffer acid damage over time.	
+-	acid	Acid Damage	an	the	Acid Damages		the	You suffer acid damage over time.	
 -	poison	Poison Damage	a	the	Poison Damage			You suffer poison damage over time.	
 -	shockwave	Shockwave Damage	a	the	Shockwave Damage			You suffer shockwave damage over time.	
 -	shielding	Shielding	a	the	Shielding			You have a bodyguard.	
@@ -4083,9 +4083,21 @@
 -	bctaea23	Tryker Light Bra Craft Pattern	a	the				Brick Craftman's plan for tryker light bra	
 -	bczaea22	Zorai Light Panties Craft Pattern	a	the				Brick Craftman's plan for zorai light panties	
 -	bczaea23	Zorai Light Bra Craft Pattern	a	the				Brick Craftman's plan for zorai light bra	
-1618581536	jrez_nodp_tryker	Sweet death (Tryker)	a	the	Sweet death (Tryker)		the	1%% of chances to don't suffer death penality after a ressurection. @{FAAF}Tryker continent and Nexus only	
-1619198342	jboost_2x	Allegorical power amplifier	a	the	Allegorical power amplifier		the	Multiplies the Allegoric power by 	
+1618581536	jrez_nodp_tryker	Sweet death	a	the	Sweet deaths		the	@{5F5F}1% @{FFFF}chance of @{5F5F}no death penality @{FFFF}after a resurrection. @{FAAF}Aeden Aqueous and Nexus Minor only	
+1619198342	jboost_2x	Allegoric effect Amplifier	a	the	Allegoric effect Amplifiers		the	Multiplies the Allegoric effect by @{5F5F}2@{FFFF}.	
 1619198360	tag_fyros_1	Fyros	a	the	Fyros		the		
-1619199443	jrez_fulllife_tryker	
-1619199449	jrez_halflife_tryker	
-1619199455	jrez_goodlife_tryker	
+1619199443	jrez_fulllife_tryker	Back in Glory	a	the	Back in Glory		the	@{5F5F}1% @{FFFF}chance to recover, at the time of your resurrection, the @{5F5F}totality @{FFFF}of your life, stamina, sap and focus maxima. @{FAAF}Aeden Aqueous and Nexus Minor only.	
+1619199449	jrez_halflife_tryker	Back on Feet	a	the	Back on Feet		the	@{5F5F}3% @{FFFF}chance to recover, at the time of your resurrection, @{5F5F}half @{FFFF}of your life, stamina, sap and focus maxima. @{FAAF}Aeden Aqueous and Nexus Minor only.	
+1619199455	jrez_goodlife_tryker	Back in Good Shape	a	the	Back in Good Shape		the	@{5F5F}2% @{FFFF}chance to recover, at the time of your resurrection, @{5F5F}three quarters @{FFFF}of your life, stamina, sap and focus maxima. @{FAAF}Aeden Aqueous and Nexus Minor only.	
+1619275925	jrez_goodlife_matis	Back in Good Shape	a	the	Back in Good Shape		the	@{5F5F}2% @{FFFF}chance to recover, at the time of your resurrection, @{5F5F}three quarters @{FFFF}of your life, stamina, sap and focus maxima. @{FAAF}Verdant Heights and Nexus Minor only.	
+1619275929	jrez_goodlife_fyros	Back in Good Shape	a	the	Back in Good Shape		the	@{5F5F}2% @{FFFF}chance to recover, at the time of your resurrection, @{5F5F}three quarters @{FFFF}of your life, stamina, sap and focus maxima. @{FAAF}Burning Desert and Nexus Minor only.	
+1619275932	jrez_goodlife_zorai	Back in Good Shape	a	the	Back in Good Shape		the	@{5F5F}2% @{FFFF}chance to recover, at the time of your resurrection, @{5F5F}three quarters @{FFFF}of your life, stamina, sap and focus maxima. @{FAAF}Witherings and Nexus Minor only.	
+1619275939	jrez_halflife_matis	Back on Feet	a	the	Back on Feet		the	@{5F5F}3% @{FFFF}chance to recover, at the time of your resurrection, @{5F5F}half @{FFFF}of your life, stamina, sap and focus maxima. @{FAAF}Verdant Heights and Nexus Minor only.	
+1619275943	jrez_halflife_zorai	Back on Feet	a	the	Back on Feet		the	@{5F5F}3% @{FFFF}chance to recover, at the time of your resurrection, @{5F5F}half @{FFFF}of your life, stamina, sap and focus maxima. @{FAAF}Witherings and Nexus Minor only.	
+1619275945	jrez_halflife_fyros	Back on Feet	a	the	Back on Feet		the	@{5F5F}3% @{FFFF}chance to recover, at the time of your resurrection, @{5F5F}half @{FFFF}of your life, stamina, sap and focus maxima. @{FAAF}Burning Desert and Nexus Minor only.	
+1619275952	jrez_fulllife_matis	Back in Glory	a	the	Back in Glory		the	@{5F5F}1% @{FFFF}chance to recover, at the time of your resurrection, the @{5F5F}totality @{FFFF}of your life, stamina, sap and focus maxima. @{FAAF}Verdant Heights and Nexus Minor only.	
+1619275954	jrez_fulllife_zorai	Back in Glory	a	the	Back in Glory		the	@{5F5F}1% @{FFFF}chance to recover, at the time of your resurrection, the @{5F5F}totality @{FFFF}of your life, stamina, sap and focus maxima. @{FAAF}Witherings and Nexus Minor only.	
+1619275957	jrez_fulllife_fyros	Back in Glory	a	the	Back in Glory		the	@{5F5F}1% @{FFFF}chance to recover, at the time of your resurrection, the @{5F5F}totality @{FFFF}of your life, stamina, sap and focus maxima. @{FAAF}Burning Desert and Nexus Minor only.	
+1619275962	jrez_nodp_matis	Sweet Death	a	the	Sweet Deaths		the	@{5F5F}1% @{FFFF}chance of @{5F5F}no death penality @{FFFF}after a resurrection. @{FAAF}Verdant Heights and Nexus Minor only	
+1619275964	jrez_nodp_fyros	Sweet Death	a	the	Sweet Deaths		the	@{5F5F}1% @{FFFF}chance of @{5F5F}no death penality @{FFFF}after a resurrection. @{FAAF}Burning Desert and Nexus Minor only	
+1619275966	jrez_nodp_zorai	Sweet Death	a	the	Sweet Deaths		the	@{5F5F}1% @{FFFF}chance of @{5F5F}no death penality @{FFFF}after a resurrection. @{FAAF}Witherings and Nexus Minor only	

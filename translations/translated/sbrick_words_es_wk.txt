@@ -2754,7 +2754,7 @@
 -	bcfaea21_3	Plan de Fabricación para Chaleco de Lanzador de Alta Calidad Fyros	un	el				Plan de Fabricación para Chalecos de Lanzador de Alta Calidad Fyros.	
 -	bcfaea01_3	Plan de Fabricación para Botas Pesadas de Alta Calidad Fyros	un	el				Plan de Fabricación para Botas Pesadas de Alta Calidad Fyros.	
 -	bcfaea02_3	Plan de Fabricación para Guantes Pesados de Alta Calidad Fyros	un	el				Plan de Fabricación para Guantes Pesados de Alta Calidad Fyros.	
--	bcfaea03_3	Plan de Fabricación para Casco Pesada de Alta Calidad Fyros	un	el				Plan de Fabricación para Casco Pesada de Alta Calidad Fyros.	
+-	bcfaea03_3	Plan de Fabricación para Casco Pesado de Alta Calidad Fyros	un	el				Plan de Fabricación para Casco Pesado de Alta Calidad Fyros.	
 -	bcfaea04_3	Plan de Fabricación para Pantalones Pesados de Alta Calidad Fyros	un	el				Plan de Fabricación para Pantalones Pesados de Alta Calidad Fyros.	
 -	bcfaea05_3	Plan de Fabricación para Mangas Pesadas de Alta Calidad Fyros	un	el				Plan de Fabricación para Mangas Pesadas de Alta Calidad Fyros.	
 -	bcfaea06_3	Plan de Fabricación para Chaleco Pesado de Alta Calidad Fyros	un	el				Plan de Fabricación para Chalecos Pesados de Alta Calidad Fyros.	
@@ -4083,9 +4083,21 @@
 -	bctaea23	Plan de Fabricación de Sujetador Livianas tryker	un	el				Plan de fabricación de sujetador livianas Tryker.	
 -	bczaea22	Plan de Fabricación de Calzones Livianas Zoraï	un	el				Plan de fabricación de calzones livianas Zoraï.	
 -	bczaea23	Plan de Fabricación de Sujetador Livianas Zoraï	un	el				Plan de fabricación de sujetador livianas Zoraï.	
-1618581536	jrez_nodp_tryker	
-1619198342	jboost_2x	
-1619198360	tag_fyros_1	
-1619199443	jrez_fulllife_tryker	
-1619199449	jrez_halflife_tryker	
-1619199455	jrez_goodlife_tryker	
+1618581536	jrez_nodp_tryker	Dulce Muerte	una	la	Dulces Muertes	unas	las	el @{5F5F}1% de @{FFFF}chance de @{5F5F}no sufrir penalización por muerte @{FFFF}después de una resurrección. 	@{FAAF}Solo en Aeden Acuoso y el Nexo.
+1619198342	jboost_2x	Amplificador del Efecto Alegórico		el	Amplificadores del Efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}2@{FFFF}.	
+1619198360	tag_fyros_1	Fyros		el	Fyros	unos	los		
+1619199443	jrez_fulllife_tryker	Regreso en Gloria		el	Regresos en Gloria	unos	los	el @{5F5F}1% de @{FFFF}chance de recuperar, al momento de tu resurrección, la @{5F5F}totalidad @{FFFF}de tu salud, savia, resistencia y concentración máxima. 	@{FAAF}Solo en Aeden Acuoso y el Nexo.
+1619199449	jrez_halflife_tryker	Regreso de Pie		el	Regresos de Pie	unos	los	el @{5F5F}3% de @{FFFF}chance de recuperar, al momento de tu resurrección, @{5F5F}la mitad @{FFFF}de tu salud, savia, resistencia y concentración máxima.	@{FAAF}Solo en Aeden Acuoso y el Nexo.
+1619199455	jrez_goodlife_tryker	Regreso en Buena Forma		el	Regresos en Buena Forma	unos	los	el @{5F5F}2% de @{FFFF}chance de recuperar, al momento de tu resurrección, @{5F5F}75% @{FFFF}de tu salud, savia, resistencia y concentración máxima.	 @{FAAF}Solo en Aeden Acuoso y el Nexo.
+1619275925	jrez_goodlife_matis	Regreso en Buena Forma		el	Regresos en Buena Forma	unos	los	el @{5F5F}2% de @{FFFF}chance de recuperar, al momento de tu resurrección, @{5F5F}75% @{FFFF}de tu salud, savia, resistencia y concentración máxima.	@{FAAF}Solo en Alturas Verdes y el Nexo.
+1619275929	jrez_goodlife_fyros	Regreso en Buena Forma	uno	el	Regresos en Buena Forma	unos	los		
+1619275932	jrez_goodlife_zorai	Regreso en Buena Forma		el	Regresos en Buena Forma	unos	los	el @{5F5F}2% de @{FFFF}chance de recuperar, al momento de tu resurrección, @{5F5F}el 75% @{FFFF}de tu salud, savia, resistencia y concentración máxima.	@{FAAF}Solo en Witherings y el Nexo.
+1619275939	jrez_halflife_matis	Regreso de Pie	uno	el	Regresos de Pie	unos	los	el @{5F5F}3% de @{FFFF}chance de recuperar, al momento de tu resurrección, @{5F5F}la mitad @{FFFF}de tu salud, savia, resistencia y concentración máxima.	@{FAAF}Solo en Alturas Verdes y el Nexo.
+1619275943	jrez_halflife_zorai	Regreso de Pie	uno	el	Regresos de Pie	unos	los	el @{5F5F}3% de @{FFFF}chance de recuperar, al momento de tu resurrección,  @{5F5F}la mitad @{FFFF}de tu salud, savia, resistencia y concentración máxima.	@{FAAF}Solo en Witherings y el Nexo.
+1619275945	jrez_halflife_fyros	Regresar de Pie	uno	el	Regresos de Pie	unos	los	el @{5F5F}3% de  @{FFFF}chance de recuperar, al momento de tu resurrección,  @{5F5F}la mitad @{FFFF}de tu salud, savia, resistencia y concentración máxima. 	@{FAAF}Solo en el Desierto Ardiente y el Nexo.
+1619275952	jrez_fulllife_matis	Regreso en Gloria		el	Regresos en Gloria	unos	los	el @{5F5F}1% de @{FFFF}chance de recuperar, al momento de la resurrección, la @{5F5F}totalidad @{FFFF}de su salud, savia, resistencia y concentración máxima.	@{FAAF}Solo en Alturas Verdes y el Nexo.
+1619275954	jrez_fulllife_zorai	Regreso en Gloria		el	Regresos en Gloria	unos	los	el @{5F5F}1% de @{FFFF}chance de recuperar, al momento de la resurrección, la @{5F5F}totalidad @{FFFF}de su salud, savia, resistencia y concentración máxima.	@{FAAF}Solo en Witherings y el Nexo.
+1619275957	jrez_fulllife_fyros	Regreso en Gloria		el	Regresos en Gloria	unos	los	el @{5F5F}1% de @{FFFF}chance de recuperar, al momento de tu resurrección, la @{5F5F}totalidad @{FFFF}de tu salud, savia, resistencia y concentración máxima. 	@{FAAF}Solo en en Desierto Ardiente y el Nexo.
+1619275962	jrez_nodp_matis	Dulce Muerte	una	la	Dulces Muertes	unas	las	el @{5F5F}1% de @{FFFF}chance de @{5F5F}no sufrir penalización por muerte @{FFFF}después de una resurrección. 	@{FAAF}Solo en Alturas Verdes y el Nexo.
+1619275964	jrez_nodp_fyros	Dulce Muerte	una	la	Dulces Muertes	unas	las	el @{5F5F}1% de @{FFFF}chance de @{5F5F}no sufrir penalización por muerte @{FFFF}después de una resurrección.	@{FAAF}Solo en el Desierto Ardiente y el Nexo.
+1619275966	jrez_nodp_zorai	Dulce Muerte	una	la	Dulces Muertes	unas	las	el @{5F5F}1% de @{FFFF}chance de @{5F5F}no sufrir penalización por muerte @{FFFF}después de una resurrección. 	@{FAAF}Solo en Witherings y el Nexo.
