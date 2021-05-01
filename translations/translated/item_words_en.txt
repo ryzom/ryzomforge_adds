@@ -7779,3 +7779,19 @@
 -	wheel_token_easter	Refugees' days Event	a	the	Refugees' days Events		the
 -	slot_fingerl	Equip a ring on your left finger	a	the			
 1618579662	slot_neck	
+1619876266	m0819dxacc01	Natural Tekorn Bramble	a	the	Natural Tekorn Brambles		the	
+1619876266	m0820dxacc01	Natural Maga Creeper	a	the	Natural Maga Creepers		the	
+1619876266	m0821dxacc01	Natural Armilo Lichen	some	the	Natural Armilo Lichen		the	
+1619876266	m0822dxacc01	Natural Greslin Filament	a	the	Natural Greslin Filaments		the	
+1619876266	m0823dxacc01	Natural Vedice Sap	some	the	Natural Vedice Sap		the	
+1619876266	m0824dxacc01	Natural Cheng Root	a	the	Natural Cheng Roots		the	
+1619876266	m0825dxacc01	Natural Rubbarn Gum	some	the	Natural Rubbarn Gum		the	
+1619876266	m0826dxacc01	Natural Egiros Pollen	some	the	Natural Egiros Pollen		the	
+1619876266	m0827dxacc01	Refined Tekorn Bramble	a	the	Refined Tekorn Brambles		the	
+1619876266	m0828dxacc01	Refined Maga Creeper	a	the	Refined Maga Creepers		the	
+1619876266	m0829dxacc01	Refined Armilo Lichen	some	the	Refined Armilo Lichen		the	
+1619876266	m0830dxacc01	Refined Greslin Filament	a	the	Refined Greslin Filaments		the	
+1619876266	m0831dxacc01	Refined Vedice Sap	some	the	Refined Vedice Sap		the	
+1619876266	m0832dxacc01	Refined Cheng Root	a	the	Refined Cheng Roots		the	
+1619876266	m0833dxacc01	Refined Rubbarn Gum	some	the	Refined Rubbarn Gum		the	
+1619876266	m0834dxacc01	Refined Egiros Pollen	some	the	Refined Egiros Pollen		the	

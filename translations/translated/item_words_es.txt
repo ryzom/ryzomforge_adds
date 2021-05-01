@@ -90,7 +90,7 @@
 -	ct_gmisland_aniro	<CS> Telepuerto GM de la Isla Aniro	un	el				Este es un Articulo GM.
 -	ct_gmisland_arispotle	<CS> Telepuerto GM de la Isla Arispotle	un	el				Este es un Articulo GM.
 -	ct_gmisland_cho	<CS> Telepuerto GM de la Isla Cho	un	el				Este es un Articulo GM.
--	ct_gmisland_leanon	<CS>Telepuerto GM de la Isla Leanon	un	el			
+-	ct_gmisland_leanon	<CS>Telepuerto GM de la Isla Leanon	un	el
 -	cure_expert_letter	Carta del Experto en Curación	una	la	Cartas del Experto en Curación		las
 -	cwff03_egg	Huevo de Goari	un	el	Huevos de Goari		los
 -	cwmf03_bag	Paquete para ser Entregado	un	el	Paquetes para ser Entregados	unos	los
@@ -5611,7 +5611,7 @@
 -	m0750dxacc01	Raíz de Cheng Modificada	una	la	Raíces de Cheng Modificadas		las
 -	m0751dxacc01	Goma o Pegamento de Rubbarn Modificado		la	Gomas o Pegamentos de Rubbarn Modificado		las
 -	m0752dxacc01	Polen de Egiros Modificado		el	Polen de Egiros Modificados		los
--	m0753dxacc01	Savia de Vedice Modificada		la	Savias de Vedices Modificadas		las
+-	m0753dxacc01	Savia de Vedice Purificada		la	Savias de Vedices Purificadas		las
 -	m0754dxacc01	Raíz de Cheng Purificada	una	la	Raíces de Cheng Purificadas		las
 -	m0755dxacc01	Goma o Pegamento de Rubbarn Purificada		la	Gomas o Pegamentos de Rubbarn Purificados		las
 -	m0756dxacc01	Polen de Egiros Purificado		el	Polen de Egiros Purificados		los
@@ -6945,10 +6945,10 @@
 -	zo_underwear_hand	Guantes Zoraï	unos	el	Guantes Zoraï		los	Guantes Zoraï
 -	zo_underwear_pantabottes	Pantalones Zoraï	unos	el	Pantalones Zoraï		los	Pantalones Zoraï
 -	zo_visage	Mascara Zoraï	una	la	Mascaras Zoraï		las	Mascaras Zoraï
--	zo_weapon_leader_mabreka	Mazo de Mabreka	un	el	Mazos de Mabreka		los	
--	zig_yubo_white	Zig Yubo	une	el	Zig Yubo	unos	los	
--	zig_yubo_lakes	Zig Yubo	une	el	Zig Yubo	unos	los	
--	zig_yubo_forest	Zig Yubo	une	el	Zig Yubo	unos	los	
+-	zo_weapon_leader_mabreka	Mazo de Mabreka	un	el	Mazos de Mabreka		los
+-	zig_yubo_white	Zig Yubo	une	el	Zig Yubo	unos	los
+-	zig_yubo_lakes	Zig Yubo	une	el	Zig Yubo	unos	los
+-	zig_yubo_forest	Zig Yubo	une	el	Zig Yubo	unos	los
 -	m0009chade01	Fragmento Supremo de Espinazo de Arma del Desierto	un	el	Fragmentos Supremo de Espinazo de Arma del Desierto		los
 -	m0009chafe01	Fragmento Supremo de Espinazo de Arma del Bosque	un	el	Fragmentos Supremo de Espinazo de Arma del Bosque		los
 -	m0009chaje01	Fragmento Supremo de Espinazo de Arma de la Selva	un	el	Fragmentos Supremo de Espinazo de Arma de la Selva		los
@@ -7778,4 +7778,20 @@
 -	nexus_neck4	Collar Iridiscente de la Selva	uno	el	Collares Iridiscentes de la Selva	unos	los
 -	s2e1_salins	salina madura	una	la	salinas maduras	unas	las
 -	s2e1_seve_suc	gota de savia salina	una	la	gotas de savia salina	unas	las
-1618579662	slot_neck	
+1618579662	slot_neck
+1619876266	m0819dxacc01	Zarza de Tekorn Bruta	una	la	Zarzas de Tekorn Bruta		las
+1619876266	m0820dxacc01	Enredadera de Maga Bruta	una	la	Enredaderas de Maga Brutas		las
+1619876266	m0821dxacc01	Liquen de Armilo Bruto	un	el	Líquenes de Armilo Brutos		los
+1619876266	m0822dxacc01	Filamento de Greslin Bruto	un	el	Filamentos de Greslin Bruto		los
+1619876266	m0823dxacc01	Savia de Vedice Bruta		la	Savias de Venices Brutas		las
+1619876266	m0824dxacc01	Raíz de Cheng Bruta	una	la	Raíces de Cheng Brutas		las
+1619876266	m0825dxacc01	Goma o Pegamento de Rubbarn Bruto		la	Gomas o Pegamentos de Rubbarn Bruto		las
+1619876266	m0826dxacc01	Polen de Egiros Bruto		el	Polen de Egiros Brutos		los
+1619876266	m0827dxacc01	Zarza de Tekorn Bruta	una	la	Zarzas de Tekorn Bruta		las
+1619876266	m0828dxacc01	Enredadera de Maga Bruta	una	la	Enredaderas de Maga Brutas		las
+1619876266	m0829dxacc01	Liquen de Armilo Bruto	un	el	Líquenes de Armilo Brutos		los
+1619876266	m0830dxacc01	Filamento de Greslin Bruto	un	el	Filamentos de Greslin Bruto		los
+1619876266	m0831dxacc01	Savia de Vedice Bruta		la	Savias de Venices Brutas		las
+1619876266	m0832dxacc01	Raíz de Cheng Bruta	una	la	Raíces de Cheng Brutas		las
+1619876266	m0833dxacc01	Goma o Pegamento de Rubbarn Bruto		la	Gomas o Pegamentos de Rubbarn Bruto		las
+1619876266	m0834dxacc01	Polen de Egiros Bruto		el	Polen de Egiros Brutos		los

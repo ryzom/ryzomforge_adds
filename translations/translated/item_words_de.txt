@@ -7779,3 +7779,19 @@
 -	wheel_token_easter	Event Tage des Lichts	ein	Event Tage des Lichts	Event Tage des Lichts	Event Tage des Lichts	die	die	ein	der
 -	slot_fingerl		Lege am linken Finger einen Ring an		Lege am linken Finger einen Ring an						
 1618579662	slot_neck	
+1619876266	m0819dxacc01	natürlicher Tekorn-Strauch	natürliche Tekorn-Strauch	natürliche Tekorn-Strauch	natürliche Tekorn-Sträucher	natürlichen Tekorn-Sträucher	einen	die	ein	der
+1619876266	m0820dxacc01	natürliche Maga-Liane	natürliche Maga-Liane	natürliche Maga-Liane	natürliche Maga-Lianen	natürlichen Maga-Lianen	eine	die	eine	die
+1619876266	m0821dxacc01	natürliche Armilo-Flechte	natürliche Armilo-Flechte	natürliche Armilo-Flechte	natürliche Armilo-Flechten	natürlichen Armilo-Flechten	eine	die	eine	die
+1619876266	m0822dxacc01	natürlicher Greslin-Faden	natürliche Greslin-Faden	natürlichen Greslin-Faden	natürliche Greslin-Fäden	natürlichen Greslin-Fäden	einen	die	ein	der
+1619876266	m0823dxacc01	Portion natürlicher Vedice-Saft	Portion natürlicher Vedice-Saft	Portion natürlicher Vedice-Saft	Portionen natürlicher Vedice-Saft	Portionen natürlicher Vedice-Saft	eine	die	eine	die
+1619876266	m0824dxacc01	natürliche Cheng-Wurzel	natürliche Cheng-Wurzel	natürliche Cheng-Wurzel	natürliche Cheng-Wurzeln	natürlichen Cheng-Wurzeln	eine	die	eine	die
+1619876266	m0825dxacc01	natürlicher Rubbarn-Gummi	natürliche Rubbarn-Gummi	natürlichen Rubbarn-Gummi	natürliche Rubbarn-Gummis	natürlichen Rubbarn-Gummis	einen	die	ein	der
+1619876266	m0826dxacc01	natürlicher Egiros-Pollen	natürliche Egiros-Pollen	natürlichen Egiros-Pollen	natürliche Egiros-Pollen	natürlichen Egiros-Pollen	einen	die	ein	der
+1619876266	m0827dxacc01	raffinierter Tekorn-Strauch	raffinierte Tekorn-Strauch	raffinierte Tekorn-Strauch	raffinierte Tekorn-Sträucher	raffinierten Tekorn-Sträucher	einen	die	ein	der
+1619876266	m0828dxacc01	raffinierte Maga-Liane	raffinierte Maga-Liane	raffinierte Maga-Liane	raffinierte Maga-Lianen	raffinierten Maga-Lianen	eine	die	eine	die
+1619876266	m0829dxacc01	raffinierte Armilo-Flechte	raffinierte Armilo-Flechte	raffinierte Armilo-Flechte	raffinierte Armilo-Flechten	raffinierten Armilo-Flechten	eine	die	eine	die
+1619876266	m0830dxacc01	raffinierter Greslin-Faden	raffinierte Greslin-Faden	raffinierten Greslin-Faden	raffinierte Greslin-Fäden	raffinierten Greslin-Fäden	einen	die	ein	der
+1619876266	m0831dxacc01	Portion raffinierter Vedice-Saft	Portion raffinierter Vedice-Saft	Portion raffinierter Vedice-Saft	Portionen raffinierter Vedice-Saft	Portionen raffinierter Vedice-Saft	eine	die	eine	die
+1619876266	m0832dxacc01	raffinierte Cheng-Wurzel	raffinierte Cheng-Wurzel	raffinierte Cheng-Wurzel	raffinierte Cheng-Wurzeln	raffinierten Cheng-Wurzeln	eine	die	eine	die
+1619876266	m0833dxacc01	raffinierter Rubbarn-Gummi	raffinierte Rubbarn-Gummi	raffinierten Rubbarn-Gummi	raffinierte Rubbarn-Gummis	raffinierten Rubbarn-Gummis	einen	die	ein	der
+1619876266	m0834dxacc01	raffinierter Egiros-Pollen	raffinierte Egiros-Pollen	raffinierten Egiros-Pollen	raffinierte Egiros-Pollen	raffinierten Egiros-Pollen	einen	die	ein	der

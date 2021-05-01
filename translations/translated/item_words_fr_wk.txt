@@ -7779,3 +7779,19 @@
 -	wheel_token_easter	Fête des Réfugiés	une	la	Fêtes des Réfugiés	des	les
 -	slot_fingerl	
 1618579662	slot_neck	
+1619876266	m0819dxacc01	Ronce de Tekorn raffinée	une	la	Ronces de Tekorn raffinées		des
+1619876266	m0820dxacc01	Liane de Maga raffinée	une	la	Lianes de Maga raffinées		des
+1619876266	m0821dxacc01	Lichen d'Armilo raffiné	du	le	Lichens d'Armilo raffinés		des
+1619876266	m0822dxacc01	Filament de Greslin raffiné	un	le	Filaments de Greslin raffinés		des
+1619876266	m0823dxacc01	Suc de Vedice raffiné	du	le	Sucs de Vedice raffiné		des
+1619876266	m0824dxacc01	Racine de Cheng raffinée	une	la	Racines de Cheng raffinées		des
+1619876266	m0825dxacc01	Gomme de Rubbarn raffinée	de la	la	Gommes de Rubbarn raffinées		des
+1619876266	m0826dxacc01	Pollen d'Égiros raffiné	du	le	Pollens d'Égiros raffinés		des
+1619876266	m0827dxacc01	Ronce de Tekorn raffinée	une	la	Ronces de Tekorn raffinées		des
+1619876266	m0828dxacc01	Liane de Maga raffinée	une	la	Lianes de Maga raffinées		des
+1619876266	m0829dxacc01	Lichen d'Armilo raffiné	du	le	Lichens d'Armilo raffinés		des
+1619876266	m0830dxacc01	Filament de Greslin raffiné	un	le	Filaments de Greslin raffinés		des
+1619876266	m0831dxacc01	Suc de Vedice raffiné	du	le	Sucs de Vedice raffiné		des
+1619876266	m0832dxacc01	Racine de Cheng raffinée	une	la	Racines de Cheng raffinées		des
+1619876266	m0833dxacc01	Gomme de Rubbarn raffinée	de la	la	Gommes de Rubbarn raffinées		des
+1619876266	m0834dxacc01	Pollen d'Égiros raffiné	du	le	Pollens d'Égiros raffinés		des
