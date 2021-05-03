@@ -6666,6 +6666,13 @@ CRAFT_NEED_CRAFTING_TOOL ()
 
 }
 
+// HASH_VALUE F5B43331E6ACE67F
+CRAFT_NEED_RECOMMENDED_CRAFTING_TOOL ()
+{
+		craft_need_recommended_crafting_tool	[&CHK&La calidad de tu herramienta es muy baja para fabricar este ítem.]
+
+}
+
 // HASH_VALUE AE804008862C02E2
 CRAFT_SENTENCE_INCORRECT ()
 {
@@ -26883,6 +26890,34 @@ FACTION_AGNOS ()
 
 }
 
+// HASH_VALUE 5B26C071D86687AE
+FACTION_DE ()
+{
+			[Alemán Uni]
+
+}
+
+// HASH_VALUE 9DA4C47498F58FAD
+FACTION_EN ()
+{
+			[Inglés Uni]
+
+}
+
+// HASH_VALUE D9BEBC79FB85A33E
+FACTION_ES ()
+{
+			[Español Uni]
+
+}
+
+// HASH_VALUE 87D8C0D71A58D0C8
+FACTION_FR ()
+{
+			[Francés Uni]
+
+}
+
 // HASH_VALUE EBB7DC6F5729C05F
 FACTION_FYROS ()
 {
@@ -28447,6 +28482,13 @@ FORAGE_SOURCE_OBSTACLE ()
 FORAGE_SOURCE_SITE_DEPLETED ()
 {
 		forage_source_site_depleted	[&ITMF&¡La fuente fue destruida prematuramente y el área está exhausta!]
+
+}
+
+// HASH_VALUE EC777BA0970DF7B6
+FORAGE_TOOL_QUALITY_TOO_LOW ()
+{
+		forage_tool_quality_too_low	[&CHK&La calidad de tu pico es muy baja para usarse en la perforación de esta fuente.]
 
 }
 
@@ -31568,6 +31610,209 @@ GUARD_NEWB_ZORAI_KILL_2 ()
 
 }
 
+// HASH_VALUE 8ADCC112AA16D3FA
+GUILDCIVCULT_MISSION_1_GBE_YES_ASW ()
+{
+		guildcivcult_mission_1_gbe_yes_asw	[Si]
+
+}
+
+// HASH_VALUE 5305D43F31FA38D8
+GUILDCIVCULT_MISSION_1_P_BE_FYROS ()
+{
+		guildcivcult_mission_1_p_be_fyros	[¿Estás seguro que quieres que tu gremio sea un gremio Fyros?]
+
+}
+
+// HASH_VALUE B18FCB8EFD1967DA
+GUILDCIVCULT_MISSION_1_P_BE_KAMI ()
+{
+		guildcivcult_mission_1_p_be_kami	[¿Estás seguro que quieres que tu gremio sea un gremio Kami?]
+
+}
+
+// HASH_VALUE 531F86C2D8BB0583
+GUILDCIVCULT_MISSION_1_P_BE_KARAVAN ()
+{
+		guildcivcult_mission_1_p_be_karavan	[¿Estás seguro que quieres que tu gremio sea un gremio Karavan?]
+
+}
+
+// HASH_VALUE 4D75D43FB01AC0E1
+GUILDCIVCULT_MISSION_1_P_BE_MATIS ()
+{
+		guildcivcult_mission_1_p_be_matis	[¿Estás seguro que quieres que tu gremio sea un gremio Matis?]
+
+}
+
+// HASH_VALUE 6D5DF325F153D397
+GUILDCIVCULT_MISSION_1_P_BE_NEUTRAL_CIV ()
+{
+		guildcivcult_mission_1_p_be_neutral_civ	[¿Estás seguro que quieres que tu gremio sea un gremio sin ciudadanía?]
+
+}
+
+// HASH_VALUE 66EF2BD69E159140
+GUILDCIVCULT_MISSION_1_P_BE_NEUTRAL_CULT ()
+{
+		guildcivcult_mission_1_p_be_neutral_cult	[¿Estás seguro que quieres que tu gremio sea un gremio sin culto?]
+
+}
+
+// HASH_VALUE ABC6495C8B115038
+GUILDCIVCULT_MISSION_1_P_BE_TRYKER ()
+{
+		guildcivcult_mission_1_p_be_tryker	[¿Estás seguro que quieres que tu gremio sea un gremio Tryker?]
+
+}
+
+// HASH_VALUE D046D435AEC1D8EC
+GUILDCIVCULT_MISSION_1_P_BE_ZORAI ()
+{
+		guildcivcult_mission_1_p_be_zorai	[¿Estás seguro que quieres que tu gremio sea un gremio Zoraï?]
+
+}
+
+// HASH_VALUE 2797965C179FC53C
+GUILDCIVCULT_MISSION_1_P_CHOOSE_CIV ()
+{
+		guildcivcult_mission_1_p_choose_civ	[Si quieres cambiar el culto o ciudadanía de tu gremio, debes ir al lugar correcto.]
+
+}
+
+// HASH_VALUE 6155CBE1E335D16E
+GUILDCIVCULT_MISSION_1_P_CHOOSE_CIV_FYROS_ASW ()
+{
+		guildcivcult_mission_1_p_choose_civ_fyros_asw	[Fyros]
+
+}
+
+// HASH_VALUE 6155CBDBE3D48D75
+GUILDCIVCULT_MISSION_1_P_CHOOSE_CIV_MATIS_ASW ()
+{
+		guildcivcult_mission_1_p_choose_civ_matis_asw	[Matis]
+
+}
+
+// HASH_VALUE 798AF7DDE2537978
+GUILDCIVCULT_MISSION_1_P_CHOOSE_CIV_TRYKER_ASW ()
+{
+		guildcivcult_mission_1_p_choose_civ_tryker_asw	[Tryker]
+
+}
+
+// HASH_VALUE 6155BDC96094F982
+GUILDCIVCULT_MISSION_1_P_CHOOSE_CIV_ZORAI_ASW ()
+{
+		guildcivcult_mission_1_p_choose_civ_zorai_asw	[Zoraï]
+
+}
+
+// HASH_VALUE E3C4DED422A3AD67
+GUILDCIVCULT_MISSION_1_P_CHOOSE_FAME_KAMI_ASW ()
+{
+		guildcivcult_mission_1_p_choose_fame_kami_asw	[Kami]
+
+}
+
+// HASH_VALUE FAEBBFAEE5AA8AC5
+GUILDCIVCULT_MISSION_1_P_CHOOSE_FAME_KARAVAN_ASW ()
+{
+		guildcivcult_mission_1_p_choose_fame_karavan_asw	[Karavan]
+
+}
+
+// HASH_VALUE DC737DA4C8ED8F2A
+GUILDCIVCULT_MISSION_1_P_CHOOSE_NEUTRAL_CIV_ASW ()
+{
+		guildcivcult_mission_1_p_choose_neutral_civ_asw	[Ciudadanía Neutral]
+
+}
+
+// HASH_VALUE 2212B01E283A62D4
+GUILDCIVCULT_MISSION_1_P_CHOOSE_NEUTRAL_CULT_ASW ()
+{
+		guildcivcult_mission_1_p_choose_neutral_cult_asw	[Culto Neutral]
+
+}
+
+// HASH_VALUE 42B4F90FB30A5079
+GUILDCIVCULT_MISSION_1_P_END_FYROS ()
+{
+		guildcivcult_mission_1_p_end_fyros	[Muy bien, $self$, tu gremio es ahora un gremio Fyros.]
+
+}
+
+// HASH_VALUE 3916F0DB68D694BA
+GUILDCIVCULT_MISSION_1_P_END_KAMI ()
+{
+		guildcivcult_mission_1_p_end_kami	[Muy bien, $self$, tu gremio es ahora un gremio Kami.]
+
+}
+
+// HASH_VALUE 8BBC0EEB3CCBD1A7
+GUILDCIVCULT_MISSION_1_P_END_KARAVAN ()
+{
+		guildcivcult_mission_1_p_end_karavan	[Muy bien, $self$, tu gremio es ahora un gremio Karavan.]
+
+}
+
+// HASH_VALUE 425401F1F6896C79
+GUILDCIVCULT_MISSION_1_P_END_MATIS ()
+{
+		guildcivcult_mission_1_p_end_matis	[Muy bien, $self$, tu gremio es ahora un gremio Matis.]
+
+}
+
+// HASH_VALUE 33168FFC134A3C8B
+GUILDCIVCULT_MISSION_1_P_END_NEUTRAL_CIV ()
+{
+		guildcivcult_mission_1_p_end_neutral_civ	[Muy bien, $self$, tu gremio es ahora un gremio sin ciudadanía.]
+
+}
+
+// HASH_VALUE D860942EAFD7721E
+GUILDCIVCULT_MISSION_1_P_END_NEUTRAL_CULT ()
+{
+		guildcivcult_mission_1_p_end_neutral_cult	[Muy bien, $self$, tu gremio es ahora un gremio sin culto.]
+
+}
+
+// HASH_VALUE 747D6531BEA50400
+GUILDCIVCULT_MISSION_1_P_END_TRYKER ()
+{
+		guildcivcult_mission_1_p_end_tryker	[Muy bien, $self$, tu gremio es ahora un gremio Tryker.]
+
+}
+
+// HASH_VALUE 61D4D1F7B869A079
+GUILDCIVCULT_MISSION_1_P_END_ZORAI ()
+{
+		guildcivcult_mission_1_p_end_zorai	[Muy bien, $self$, tu gremio es ahora un gremio Zoraï.]
+
+}
+
+// HASH_VALUE 7D43FB3017F11774
+GUILDCIVCULT_MISSION_1_P_MIS_DESC (bot giver)
+{
+		guildcivcult_mission_1_p_mis_desc	[Te permite cambiar el culto o ciudadanía de tu gremio.]
+
+}
+
+// HASH_VALUE D5806033BF7E511D
+GUILDCIVCULT_MISSION_1_P_MIS_MENU ()
+{
+		guildcivcult_mission_1_p_mis_menu	[Quiero cambiar el culto o ciudadanía de mi gremio]
+
+}
+
+// HASH_VALUE 5641813403063593
+GUILDCIVCULT_MISSION_1_P_MIS_TITLE (bot giver)
+{
+		guildcivcult_mission_1_p_mis_title	[Cambiar culto o ciudadanía del gremio]
+
+}
+
 // HASH_VALUE 7AF5DE1D3A433E5B
 GUILD_ALREADY_HAS_JOIN_PROPOSAL (player p)
 {
@@ -33077,6 +33322,13 @@ INVALID_FORAGE_TOOL ()
 
 }
 
+// HASH_VALUE DA5EDB3D405644F0
+INVALID_LEAGUE_TARGET ()
+{
+			[&CHK& Tu objetivo no puede ser invitado en una liga]
+
+}
+
 // HASH_VALUE 13477814241634CD
 INVALID_TARGET ()
 {
@@ -33879,6 +34131,13 @@ KE0904_NEED_EAT (bot b, int available, int kitin_count)
 
 }
 
+// HASH_VALUE 11A9E77AD7423696
+KE0904_NO_MORE_KITINS (bot b)
+{
+		ke0904_no_more_kitins	[&bbl&¡Excelentes noticias! Nuestros esfuerzos han logrado expulsar a los kitins de la zona, al menos más allá de los límites del campamento. Pero habla con mis colegas, otros campamentos pueden necesitar de tu ayuda. ¡Aún no hemos repelido completamente la invasión!]
+
+}
+
 // HASH_VALUE C2A07CC50C1E95B1
 KE0904_NO_NEED (bot b, int available, int count, int kitin_count)
 {
@@ -33997,6 +34256,61 @@ KE0904_ZORAI_INSTRUCTIONS_PHASE_1_P_END_WHO_PAY_ME_NO_CIV (bot reward_giver)
 KILLED_BY_GOO ()
 {
 			[&CHKCB&¡Has sido asesinado por el Goo!]
+
+}
+
+// HASH_VALUE B67C9EB34FD34518
+LEAGUE_ALREADY_INVITED ()
+{
+			[&CHK&Tu objetivo ya está siendo invitado en una liga]
+
+}
+
+// HASH_VALUE 82285BD5310E1028
+LEAGUE_ALREADY_IN_LEAGUE ()
+{
+			[&CHK&Tu objetivo ya está en una liga]
+
+}
+
+// HASH_VALUE A9ED208557AC96A3
+LEAGUE_DECLINE (player p)
+{
+		league_decline	[&AROUND&$p$ declina tu oferta para unirse a tu liga.]
+
+}
+
+// HASH_VALUE D1860FFE53B20E1D
+LEAGUE_INVITE (player p)
+{
+		legaue_invite	[&AROUND&Tu ofreces a $p$ que se una a tu liga.]
+
+}
+
+////////////////////////////////////////////////////////////////////////////////////
+// league related messages
+////////////////////////////////////////////////////////////////////////////////////
+// HASH_VALUE 63A36830DF0F4729
+LEAGUE_INVITOR_NOT_LEADER ()
+{
+			[&CHK& Debes ser líder de equipo para crear o invitar a alguien en tu liga]
+
+}
+
+// HASH_VALUE 8FD6CB6B10B80ED5
+LEAGUE_PROPOSAL (player p)
+{
+	(p.gender = male)
+		league_proposal_m	[$p$ te ofrece que te unas a su liga.]
+
+		league_proposal_f	[$p$ te ofrece que te unas a su liga.]
+
+}
+
+// HASH_VALUE 99ACE380C198B7A2
+LEAGUE_YOU_DECLINE (player p)
+{
+		league_you_decline	[&SYS&Tu rechazas unirte a la liga de $p$.]
 
 }
 
@@ -44974,6 +45288,36 @@ NEWBIELAND_GRAVESTSIN3_T2_CHIANG ()
 
 }
 
+// HASH_VALUE CAC2548CA3708291
+NEWBIELAND_GRAVESTSIN4_CHIANG_KITINS ()
+{
+		newbieland_gravestsin4_chiang_kitins	[¡¡¡¿Qué?!!!! Eso es imposible. No pudieron hacerlo.Oh, no. Los kitines no.\n
+			\n
+			 ¡¡¡Grrrrrrr!!!]
+
+}
+
+// HASH_VALUE 4F482A2470560D89
+NEWBIELAND_GRAVESTSIN4_KAMI_KITINS ()
+{
+	( self.gender = male )
+		newbieland_gravestsin4_kami_kitins_m	[¡Homin debe demostrar su fe a Ma-Duk! Porque Kami teme que los actos de los Chlorogoos hayan maldecido a todos los homins.\n
+			\n
+			Todo Atys está conectado, homin. El lago es alimentado por aguas subterráneas, sabes eso. ¿Pero sabes hacia dónde va el agua? \n
+			Los homins del lago infectados por el Goo, dejaron sus plantas y los rastros del Goo que contaminan el lago. Las aguas del lago no son estáticas, fluyen, muy rápido y profundamente, hacia el corazón de Atys a las Raíces Primarias. \n
+			En las profundidades de Atys, las cosas duermen, pero han sido despertadas por la corrupción y por el Goo llevado a ellos por el agua del lago. {break}Tu cuida de ti, Homin. \n
+			En la esquina sureste del lago, los Kami descubren un pequeño túnel en el agua. Nada por el túnel y descubre qué es lo que se ha despertado. Luego advierte a los homins del final de esta región y del final de los homins que no huyan de aquí.]
+
+	( self.gender = female )
+		newbieland_gravestsin4_kami_kitins_f	[¡Homina debe demostrar su fe a Ma-Duk! Porque Kami teme que los actos de los Chlorogoos hayan maldecido a todos los homins.\n
+			\n
+			Todo Atys está conectado, homina. El lago es alimentado por aguas subterráneas, sabes eso. ¿Pero sabes hacia dónde va el agua? \n
+			Los homins del lago infectados por el Goo, dejaron sus plantas y los rastros del Goo que contaminan el lago. Las aguas del lago no son estáticas, fluyen, muy rápido y profundamente, hacia el corazón de Atys a las Raíces Primarias. \n
+			En las profundidades de Atys, las cosas duermen, pero han sido despertadas por la corrupción y por el Goo llevado a ellos por el agua del lago. {break}Tu cuida de ti, Homina. \n
+			En la esquina sureste del lago, los Kami descubren un pequeño túnel en el agua. Nada por el túnel y descubre qué es lo que se ha despertado. Luego advierte a los homins del final de esta región y del final de los homins que no huyan de aquí.]
+
+}
+
 // HASH_VALUE 6993A103A9701BFC
 NEWBIELAND_GRAVESTSIN4_MIS_DESC (bot giver)
 {
@@ -44999,6 +45343,13 @@ NEWBIELAND_GRAVESTSIN4_REPORT_CHIANG_OBJ (bot givervar)
 NEWBIELAND_GRAVESTSIN4_REPORT_CHIANG_T2 (bot givervar)
 {
 		newbieland_gravestsin4_report_chiang_t2	[Vi monstruos horribles en la selva más allá del lago.]
+
+}
+
+// HASH_VALUE 18A85E1350FDB005
+NEWBIELAND_GRAVESTSIN4_TARGET_KITINS_OBJ ()
+{
+		newbieland_gravestsin4_target_kitins_obj	[Descubre y explora el túnel descrito por los Kami, y averigua qué fue lo que despertó de las profundidades. Enumera las diferentes criaturas que han vuelto a aparecer.]
 
 }
 
@@ -47080,6 +47431,13 @@ ONLY_ONE_ROOT_FABER ()
 OPEN_SILAN_ANNOUNCE_TEXT ()
 {
 			[¿Sabes que puedes llegar a Silan allende la Corteza? Se dice que los Rangers mantienen un paso cuya entrada se encuentra en la punta del Bosque de la Confusión.]
+
+}
+
+// HASH_VALUE 11B9ACA166796C0B
+OPERATION_NOTEXIST ()
+{
+			[&CHK&El personaje no existe.]
 
 }
 
@@ -53150,6 +53508,13 @@ R_03_26_P_DA_1ST_DESERTERS_1 ()
 
 }
 
+// HASH_VALUE 1816606BD8B67F58
+R_03_26_P_DA_KITINS_1 ()
+{
+		r_03_26_p_da_kitins_1	[Los kitines.]
+
+}
+
 // HASH_VALUE F6F907C5EFCEAD88
 R_03_26_P_DA_NO_1 ()
 {
@@ -54917,6 +55282,13 @@ R_06_08_LORIA_WAITING_FOR_YOU ()
 R_06_08_LORIA_WAIT_AND_TARGET_1 (creature_model gerder)
 {
 		r_06_08_loria_wait_and_target_1	[Espera por $gerder$ y enfócalo.]
+
+}
+
+// HASH_VALUE 451B7C8B8A7C58D3
+R_06_08_LORIA_WHAT_KNOW_ABOUT_KITINS ()
+{
+		r_06_08_loria_what_know_about_kitins	[*Risas* ¡Creo que es más bien que me necesita! ¡Pero no lo admitirá! Pero ya que estás aquí, puedes aprovechar mis enseñanzas, ¿no? Apuesto a que no sabes mucho sobre los kinchers, ¿verdad?]
 
 }
 
@@ -59231,6 +59603,13 @@ TEAM_INVITED_CHARACTER_MUST_BE_ONLINE ()
 
 }
 
+// HASH_VALUE AA5A11E6349DC1E4
+TEAM_JOIN_LEAGUE ()
+{
+		team_join_league	[&AROUND&Te unes a una liga.]
+
+}
+
 // HASH_VALUE B510F853ACE37A0A
 TEAM_KICKED (player p)
 {
@@ -59325,6 +59704,13 @@ TEAM_PVP_HELPER_KICKED (player a, player v)
 TEAM_PVP_HELPER_KICKED_YOU (player v)
 {
 			[&SYS&Ayudaste a $v$, una facción aliada que no es de tu equipo. No puedes estar en este equipo.]
+
+}
+
+// HASH_VALUE 73347AEEB1AEE1A1
+TEAM_QUIT_LEAGUE ()
+{
+		team_quit_league	[&AROUND&Has dejado la liga.]
 
 }
 
@@ -69421,6 +69807,20 @@ WHOIS_KARAVAN (player p, bot b)
 
 }
 
+/* OLD VALUE : [
+	WHO_CHANNEL_INTRO (literal name)
+	{
+				[&SYS&Personajes en el canal "$name$":]
+	}
+] */
+// WARNING : Hash code changed ! check translation workflow.
+// HASH_VALUE 08D63EF1E7B7513D
+WHO_CHANNEL_INTRO (literal name)
+{
+			[&SYS&Personajes en el canal "$name$":]
+
+}
+
 // HASH_VALUE 6C79658D9F36B30C
 WHO_CHANNEL_NOT_CONNECTED (literal name)
 {
@@ -73887,6 +74287,13 @@ encore_plus_solide_vest ()
 epee_detruire_garde_manger ()
 {
 			[TODO : Hoja Destructora del Kitinero]
+
+}
+
+// HASH_VALUE 25908781AC139824
+epee_pourfendeuse_des_princes_kitins ()
+{
+			[Espada Principesca del Kitinero]
 
 }
 
