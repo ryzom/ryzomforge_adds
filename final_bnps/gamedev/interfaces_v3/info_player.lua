@@ -15,6 +15,14 @@ game.PrevSessionMission = - 1
 -- flag set to true when the in game db has been initialized
 game.InGameDbInitialized = false
 
+game.WebMissionLastDesc = {}
+
+game.CapTitle = ""
+game.CapDesc = ""
+game.CapChannel = ""
+game.CapInfosUrl = nil
+game.CapNextUrl = ""
+
 ------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------
@@ -243,6 +251,7 @@ function game:initNpcWebPageData()
 		self.NpcWebPage= {};
 		self.NpcWebPage.UrlTextId= 0;
 		self.NpcWebPage.BrowseDone= false;
+		self.NpcWebPage.WaitingDynStr = false
 	end
 end
 
@@ -307,6 +316,7 @@ function game:onDrawNpcWebPage()
 end
 
 ------------------------------------------------------------------------------------------------------------
+-- UNUSED???
 function game:initNpcWebPage()
 	local	ui= getUICaller();
 	if(ui~=nil) then
@@ -315,24 +325,85 @@ function game:initNpcWebPage()
 end
 
 ------------------------------------------------------------------------------------------------------------
+function string:split(Pattern)
+	local Results = {}
+	local Start = 1
+	local SplitStart, SplitEnd = string.find(self, Pattern, Start)
+	while(SplitStart)do
+		table.insert(Results, string.sub(self, Start, SplitStart-1))
+		Start = SplitEnd+1
+		SplitStart, SplitEnd = string.find(self, Pattern, Start)
+	end
+	table.insert(Results, string.sub(self, Start))
+	return Results
+end
+
+function game:getOpenAppPageMessage()
+	local ucUrl = getDynString(self.NpcWebPage.UrlTextId)
+	local url = ucUrl:toUtf8()
+	surl = url:split("&")
+	for i=1,#surl do
+		if surl[i]:sub(1, 12) == "open_message" then
+			return base64.decode(surl[i]:sub(14))
+		end
+	end
+	return ""
+end
+
+function game:onDbChangeAppPage()
+	if getDbProp("UI:VARIABLES:CURRENT_SERVER_TICK") > self.NpcWebPage.Timeout then
+		local npcName = getTargetName()
+
+		local message  = ucstring()
+
+		local text = game:getOpenAppPageMessage()
+		message:fromUtf8(text)
+		displaySystemInfo(message, "AMB")
+		removeOnDbChange(getUI("ui:interface:npc_web_browser"),"@UI:VARIABLES:CURRENT_SERVER_TICK")
+	end
+end
+
 function game:startNpcWebPage()
 	self:initNpcWebPageData();
 
 	-- set the new page to explore.
 	-- NB: must backup the Database, because don't want that the page change when clicking an other NPC
-	self.NpcWebPage.UrlTextId= getDbProp('LOCAL:TARGET:CONTEXT_MENU:WEB_PAGE_URL');
-	self.NpcWebPage.BrowseDone= false;
-
-	-- reset the page (empty url) and undo / redo
-	runAH(nil, "browse", "name=ui:interface:npc_web_browser:content:html|url=release_wk.html|localize=1");
-	clearHtmlUndoRedo("ui:interface:npc_web_browser:content:html");
-	local ui= getUI("ui:interface:npc_web_browser");
-	if(ui~=nil) then
-		ui.active= true;
+	if not self.NpcWebPage.WaitingDynStr then
+		self.NpcWebPage.UrlTextId = getDbProp("LOCAL:TARGET:CONTEXT_MENU:WEB_PAGE_URL");
 	end
-	ui:find("browse_redo").active = false
-	ui:find("browse_undo").active = false
-	ui:find("browse_refresh").active = false
+	self.NpcWebPage.BrowseDone = false;
+
+	available = isDynStringAvailable(self.NpcWebPage.UrlTextId)
+	if available then
+		if self.NpcWebPage.WaitingDynStr then
+			self.NpcWebPage.WaitingDynStr = false
+			removeOnDbChange(getUI("ui:interface:npc_web_browser"),"@UI:VARIABLES:CURRENT_SERVER_TICK")
+		end
+		local ucUrl = getDynString(self.NpcWebPage.UrlTextId)
+		local utf8Url = ucUrl:toUtf8()
+
+		if utf8Url:sub(1, 4) == "http" then
+			runAH(nil, "browse", "name=ui:interface:npc_web_browser:content:html|url=release_wk.html|localize=1");
+			clearHtmlUndoRedo("ui:interface:npc_web_browser:content:html");
+			local ui= getUI("ui:interface:npc_web_browser");
+			if(ui~=nil) then
+				ui.active= true;
+			end
+			ui:find("browse_redo").active = false
+			ui:find("browse_undo").active = false
+			ui:find("browse_refresh").active = false
+		else
+			setTargetAsInterlocutor()
+			self.NpcWebPage.Timeout = getDbProp("UI:VARIABLES:CURRENT_SERVER_TICK")+7
+			addOnDbChange(getUI("ui:interface:npc_web_browser"),"@UI:VARIABLES:CURRENT_SERVER_TICK", "game:onDbChangeAppPage()")
+
+			-- App url, need sign it with server
+			runCommand("a", "openTargetApp", utf8Url)
+		end
+	else
+		self.NpcWebPage.WaitingDynStr = true
+		addOnDbChange(getUI("ui:interface:npc_web_browser"),"@UI:VARIABLES:CURRENT_SERVER_TICK", "game:startNpcWebPage()")
+	end
 end
 
 ------------------------------------------------------------------------------------------------------------
@@ -375,29 +446,6 @@ end
 ------------------------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------------------------------
-function game:initFamePos()
-	local	ui = getUICaller();
-
-	-- assign good bar with good text
-
-	local	uiList = { 'fyros', 'matis', 'tryker', 'zorai', 'kami', 'karavan', 'black_kami'};
-
-	for k,v in pairs(uiList) do
-		-- get ui text
-		local uiTextRef = getUI(getUIId(ui) .. ':' .. v);
-		local fameIdx = getFameDBIndex(getFameIndex(v));
-		-- put bar in front of it
-		if (fameIdx >= 0) and (fameIdx <= 6) then
-			local uiBar = getUI(getUIId(ui) .. ':fb' .. fameIdx);
-			uiBar.y = uiTextRef.y - uiTextRef.h / 2 + uiBar.h / 2;
-		else
-			debugInfo('Error init fame bar pos for ' .. v);
-		end
-	end
-
-end
-
-------------------------------------------------------------------------------------------------------------
 function game:initFameTribe()
 	local	ui = getUICaller();
 
@@ -415,10 +463,28 @@ end
 
 ------------------------------------------------------------------------------------------------------------
 function game:updateFameBar(path)
+	local	ui = getUICaller();
 	local	thresholdKOS = getDbProp('SERVER:FAME:THRESHOLD_KOS');
 	local	thresholdTrade = getDbProp('SERVER:FAME:THRESHOLD_TRADE');
 	local	fameValue = getDbProp(path .. ':VALUE');
 	local	fameMax = getDbProp(path .. ':THRESHOLD');
+
+	-- known/unknown fame
+	local	fameVisible = fameValue ~= -128
+	if fameVisible then
+		-- show unmodified value stored in #path:VALUE
+		ui.t.hardtext = fameValue
+	else
+		ui.t.hardtext = "?"
+	end
+	-- show/hide fame bar components
+	ui.m.active = fameVisible
+	ui.p0.active = fameVisible
+	ui.p1.active = fameVisible
+	ui.p2.active = fameVisible
+	ui.p3.active = fameVisible
+	ui.p4.active = fameVisible
+	ui.bar3d.active = fameVisible
 
 	if (thresholdKOS < -100) then thresholdKOS = -100; end
 	if (thresholdKOS > 100) then thresholdKOS = 100; end
@@ -432,7 +498,6 @@ function game:updateFameBar(path)
 	if (thresholdKOS > thresholdTrade) then thresholdKOS = thresholdTrade; end
 	if (fameValue > fameMax) then fameValue = fameMax; end
 
-	local	ui = getUICaller();
 	local	uiPart0 = ui.p0;
 	local	uiPart1 = ui.p1;
 	local	uiPart2 = ui.p2;
@@ -1123,6 +1188,8 @@ end
 function game:onMissionSelected(index)
 	disableModalWindow()
 	self:updateCurrMissionComboBox()
+	game.WebMissionLastDesc = {}
+	setOnDraw(getMissionWindow(), "game:ensureWebMissionVisibility()")
 end
 
 --------------------------------------------------------------------------------------------------------------
@@ -1144,6 +1211,7 @@ function game:onMissionDBIndexChanged()
 		getUI("ui:interface:info_player_journal:content:mission_list:b_title" .. tostring(missionIndex)).pushed = true
 		getUI("ui:interface:mission_cb_menu:mission_list:b_title" .. tostring(missionIndex)).pushed = true
 	end
+	game:updateMissionWindowLayout()
 end
 
 --------------------------------------------------------------------------------------------------------------
@@ -1223,6 +1291,179 @@ end
 --	end
 --end
 
+function game:parseLangText(text)
+	if text == nil then
+		return ""
+	end
+	local final = ""
+	local work = ""
+	local translated = ""
+	local stext = text:split("[[]")
+	for k, v in pairs(stext) do
+		if string.sub(v, 3, 3) == "]" then
+			if string.sub(v, 1, 2):upper() == getClientCfg("LanguageCode"):upper() then
+				work = ""
+				translated = string.sub(v, 4)
+			elseif string.sub(v, 1, 2):upper() == "WK" and translated == "" then
+				work = string.sub(v, 4)
+			end
+		else
+			if k > 1 then
+				final = final .. "["
+			end
+			final = final .. v
+		end
+	end
+	return final .. work .. translated
+end
+
+function game:updateCapTooltip()
+	--local real_tooltip = "\n\n@{FFFC}Ceci est le @{6F6F}cap@{FFFC} sur lequel vous êtes actuellement fixé.\nCliquez pour obtenir plus d'@{6F6F}informations@{FFFC}.\n\nIl vous également possible de changer de cap en cliquant sur @{6F6F}Mettre le cap sur [...]@{FFFC} à chaque fois que l'option est disponible"
+	local real_tooltip = game:parseLangText(mission_real_tooltip)
+	getUI("ui:interface:info_player_journal:content:cap_group:cap_ctrl").tooltip = getUCtf8("@{FB0F}"..game.CapTitle.."\n@{FFFF}"..game.CapDesc..real_tooltip)
+end
+
+function game:setCapTitle(text)
+	game.CapTitle = game:parseLangText(text)
+	getUI("ui:interface:info_player_journal:content:cap_group:cap_title").uc_hardtext = getUCtf8(game.CapTitle)
+	game:updateCapTooltip()
+end
+
+function game:setCapDesc(text)
+	game.CapDesc = game:parseLangText(text)
+	getUI("ui:interface:info_player_journal:content:cap_group:cap_desc").uc_hardtext = getUCtf8(game.CapDesc)
+	game:updateCapTooltip()
+end
+
+function game:setCapIcon(icon)
+	getUI("ui:interface:info_player_journal:content:cap_group:cap_icon").texture = icon
+end
+
+
+function game:autoHideCapPopup()
+
+	if game.autoHideCapTimer == 0 then
+		alpha = nltime.getLocalTime() - game.autoHideCapStartTime
+		if alpha >= 254*5 then
+			setOnDraw(getUI("ui:interface:cap_popup"), "")
+			getUI("ui:interface:cap_popup").active=false
+		else
+			getUI("ui:interface:cap_popup").alpha=255-math.floor(alpha/5)
+		end
+	else
+		if game.autoHideCapStartTime + game.autoHideCapTimer < nltime.getLocalTime() then
+			game.autoHideCapStartTime = nltime.getLocalTime()
+			game.autoHideCapTimer = 0
+		end
+	end
+end
+
+function game:displayRpMessage(message, icon)
+	if icon == nil then
+		icon = "rpjob_roleplay.tga"
+	end
+
+	local htmlcode = [[
+	<body style="font-style: italic; font-weight: bold; color: white; background-position: center; background-image: url(pretty_notif.tga)">
+	<table width="100%" cellspacing="0" cellpadding="0">
+	<tr>
+		<td id="icon" align="center" width="750" valign="middle" height="45px"><img src="]]..icon..[["/></td>
+	</tr><tr>
+	<tr>
+		<td align="center">]]..message..[[</td>
+	</tr>
+	</table>
+	</body>
+	]]
+
+	getUI("ui:interface:cap_popup:html"):renderHtml(htmlcode)
+	setTopWindow(getUI("ui:interface:cap_popup"))
+	getUI("ui:interface:cap_popup").alpha=255
+	getUI("ui:interface:cap_popup").y = getUI("ui:interface").h-170
+	getUI("ui:interface:cap_popup").x = math.floor(getUI("ui:interface").w / 2) - 400
+	getUI("ui:interface:cap_popup").active = true
+	game.autoHideCapStartTime = nltime.getLocalTime()
+	game.autoHideCapTimer = 3000
+	setOnDraw(getUI("ui:interface:cap_popup"), "game:autoHideCapPopup()")
+end
+
+function game:setCapProgress(value, text)
+	if value == nil then
+		getUI("ui:interface:info_player_journal:content:cap_group:cap_progress").active = false
+		getUI("ui:interface:info_player_journal:content:cap_group:cap_infos").x = 4
+	else
+		getUI("ui:interface:info_player_journal:content:cap_group:cap_progress").active = true
+		getUI("ui:interface:info_player_journal:content:cap_group:cap_infos").x = 72
+		if value >= 0 then
+			if value > 100 and game.CapNextUrl ~= "" then
+				getUI("ui:interface:web_transactions"):find("html"):browse(game.CapNextUrl)
+			else
+				setDbProp("UI:TEMP:CAP_PROGRESS", value)
+			end
+		end
+	end
+
+	if text ~= nil then
+		getUI("ui:interface:info_player_journal:content:cap_group:cap_infos").uc_hardtext = getUCtf8(text)
+	end
+end
+
+function game:openInfosUrl()
+	if game.CapInfosUrl == nil then
+		game:openMissionsCatalog()
+	elseif game.CapInfosUrl ~= "" then
+		getUI("ui:interface:web_transactions"):find("html"):browse(game.CapInfosUrl)
+	end
+end
+
+function game:setInfosUrl(url)
+	game.CapInfosUrl = url
+end
+
+function game:setNextUrl(url)
+	game.CapNextUrl = url
+end
+
+function setCap(channel, element, a, b)
+	if element == nil then
+		game.CapChannel = channel
+		game:setInfosUrl(a)
+		game:setNextUrl(b)
+		return
+	end
+
+	if channel ~= game.CapChannel then
+		return
+	end
+
+	if element == "t" then
+		game:setCapTitle(a)
+	elseif element == "d" then
+		game:setCapDesc(a)
+	elseif element == "i" then
+		game:setCapIcon(a)
+	elseif element == "p" then
+		game:setCapProgress(a, b)
+	elseif element == "u" then
+		game:setInfosUrl(a)
+		game:setNextUrl(b)
+	elseif element == "n" then
+		game:setNextUrl(a)
+	elseif element == "o" then
+		game:setInfosUrl(a)
+	elseif element == "r" then
+		game:displayRpMessage(a, b)
+	elseif element == "b" then
+		broadcast(a, b)
+	end
+end
+
+
+function game:openMissionsCatalog()
+	-- Setup this function in webig
+end
+
+
 --------------------------------------------------------------------------------------------------------------
 function game:onMissionFinished(index)
 	self:updateCurrMissionComboBox()
@@ -1245,46 +1486,41 @@ end
 --------------------------------------------------------------------------------------------------------------
 function game:updateMissionWindowLayout()
 	if not isInRingMode() then
-		local missionCB = getUI("ui:interface:info_player_journal:content:mission_combo")
-		local missionList = getUI("ui:interface:info_player_journal:content:mission_list")
-		local fake = getUI("ui:interface:info_player_journal:content:fake")
-		local sepBis = getUI("ui:interface:info_player_journal:content:separator_bis")
-		local desc = getUI("ui:interface:info_player_journal:content:desc")
+		local base = "ui:interface:info_player_journal:content:"
+		local missionCB = getUI(base.."mission_combo")
+		local missionList = getUI(base.."mission_list")
+		local fake = getUI(base.."fake")
+		local desc = getUI(base.."desc")
+		local separator = getUI(base.."separator")
 		local expanded
-		local popMinH
 		local win = getUI("ui:interface:info_player_journal")
 
 		if missionCB.active then
-			sepBis.active = false
 			missionList.active = false
+			separator.active = false
 			fake.sizeref=""
-			fake.y = -32
-			fake.h = 0
+			fake.y = 0
+			fake.h = 70
 			expanded = 0
 			desc.max_sizeref ="wh"
-			desc.max_h= -42
-			win.pop_min_h = 152 - win.content_y_offset
+			desc.max_h = -60
+			win.pop_min_h = 157 - win.content_y_offset
 		else
-			sepBis.active =	true
 			missionList.active = true
-			fake.sizeref="wh5"
+			separator.active = true
+			fake.sizeref = "wh5"
 			fake.y = -8
-			fake.h = -42
+			fake.h = 0
 			expanded = 1
-			desc.max_sizeref ="wh5"
-			desc.max_h=16
-			win.pop_min_h = 152 - win.content_y_offset
+			desc.max_sizeref = "wh5"
+			desc.max_h = -5
+			win.pop_min_h = 157 - win.content_y_offset
 		end
 
-		local fixedEntry = getUI("ui:interface:info_player_journal:content:mission_fixed_entry")
-		fixedEntry:updateCoords()
-		desc.max_h = desc.max_h - fixedEntry.h
-
 		setDbProp("UI:SAVE:EXPAND_MISSION_LIST", expanded)
-		getUI("ui:interface:info_player_journal"):invalidateCoords()
+		win:invalidateCoords()
 	end
 end
-
 --------------------------------------------------------------------------------------------------------------
 function game:onMissionJournalOpened()
 	local missionDesc = getUI("ui:interface:info_player_journal:content:desc")
@@ -1305,9 +1541,6 @@ function game:onMissionJournalOpened()
 	self:updateMissionJournalHeader()
 	self:updateMissionWindowLayout()
 	self:updateMissionJournalFixedEntry()
-
-
-
 end
 
 --------------------------------------------------------------------------------------------------------------
@@ -1329,34 +1562,6 @@ end
 --------------------------------------------------------------------------------------------------------------
 function game:updateMissionJournalFixedEntry()
 	-- update fixed entry text
-
-	local fixedEntryRing = getUI("ui:interface:info_player_journal:no_available_missions:main:mission_fixed_entry")
-	local fixedEntryMain = getUI("ui:interface:info_player_journal:content:mission_fixed_entry")
-
-	fixedEntryRing.active = game.InGameDbInitialized and isInRingMode()
-	fixedEntryMain.active = game.InGameDbInitialized and not isInRingMode()
-
-
-
-	local id = "uiFixedMissionEntry"
-	if isPlayerNewbie() then
-		id = id .."_Newbie"
-		if isInRingMode() then
-			id = id .. "_R2"
-		end
-		if isPlayerFreeTrial() then
-			id = id .. "_Trial"
-		end
-	else
-		if isInRingMode() then
-			id = id .. "_R2"
-		else
-			id = id .. "_Mainland_" .. getUserRace()
-		end
-	end
-	fixedEntryMain.uc_hardtext = i18n.get(id)
-	fixedEntryRing.uc_hardtext = i18n.get(id)
-
 	self:updateMissionWindowLayout()
 end
 
@@ -1431,15 +1636,18 @@ function game:onInGameDbInitialized()
 	end
 
 	game:setInfoPlayerCharacterRace()
+	--
+	game:openChannels()
 
 	runAH(nil, "sort_tribefame", "")
+	local ency = getUI("ui:interface:encyclopedia")
+	setOnDraw(ency, "ArkMissionCatalog:startResize()")
 end
 
 function game:onWebIgReady()
 	-- Call init webig
 	getUI("ui:interface:web_transactions:content:html"):browse("home")
 	getUI("ui:interface:webig:content:html"):browse("home")
-
 end
 
 --------------------------------------------------------------------------------------------------------------
@@ -1447,6 +1655,12 @@ end
 function game:onFarTpStart()
 	debugInfo("game:onFarTpStart()")
 	--game:deinitWebIgApps()
+	--
+	if getDbProp("UI:SAVE:CHAT:SAVE_CHANNEL") > 0 then
+		game:saveChannel()
+	end
+
+	artefact:onClose()
 end
 
 --------------------------------------------------------------------------------------------------------------
@@ -1461,7 +1675,12 @@ end
 function game:onMainLoopEnd()
 	game.InGameDbInitialized = false
 	game:updateMissionJournalFixedEntry()
+	--
+	if getDbProp("UI:SAVE:CHAT:SAVE_CHANNEL") > 0 then
+		game:saveChannel()
+	end
 
+	artefact:onClose()
 end
 
 --------------------------------------------------------------------------------------------------------------
@@ -1535,6 +1754,7 @@ function game:onNewMissionStepAdded(stepIndex)
 		setOnDraw(missionWnd, "game:ensureLastMissionStepVisibility0()")
 	else
 	end
+	game.WebMissionLastDesc = {}
 end
 
 function game:ensureLastMissionStepVisibility0()
@@ -1565,6 +1785,7 @@ end
 
 function game:ensureLastMissionStepVisibility1()
 	local missionWnd = getMissionWindow()
+	local missionIndex = getDbProp("UI:SAVE:MISSION_SELECTED")
 	local scrollBar = missionWnd:find("sv_desc")
 	--scrollBar.trackPos = 20000 -- move upward
 	--scrollBar:updateCoords()
@@ -1578,7 +1799,7 @@ function game:ensureLastMissionStepVisibility1()
 			topStep = currStep
 		end
 	end
-	-- debugInfo("Found step : " .. topStep.hardtext)
+
 	if topStep == nil then
 		return
 	end
@@ -1593,14 +1814,90 @@ function game:ensureLastMissionStepVisibility1()
 	--descWnd:invalidateCoords()
 	--descWnd:updateCoords()
 
-	setOnDraw(missionWnd, "")
+	game.WebMissionLastDesc = {}
+	setOnDraw(missionWnd, "game:ensureWebMissionVisibility()")
 
+end
+
+function game:ensureWebMissionVisibility()
+	local missionWnd = getMissionWindow()
+	local missionIndex = getDbProp("UI:SAVE:MISSION_SELECTED")
+	local scrollBar = missionWnd:find("sv_desc")
+	local descWnd = missionWnd:find("desc")
+	local maxNumSteps = getDefine("ipj_nb_goal")
+	local topStep
+	local haveWeb = false
+	for  stepIndex = 0, maxNumSteps -1 do
+		local currStep = descWnd["step" .. tostring(stepIndex)]
+		if missionIndex < 15 then
+			dbPath = "SERVER:MISSIONS:" .. tostring(missionIndex) .. ":GOALS:" .. tostring(stepIndex) .. ":TEXT"
+			local stringID = getDbProp(dbPath)
+			local uctext = getDynString(stringID)
+			local text = uctext:toUtf8()
+			if text ~= "" and game.WebMissionLastDesc[stepIndex] ~= text then
+				game.WebMissionLastDesc[stepIndex] = text
+				if string.sub(text, 1, 4) == "@WEB" then
+					text = string.sub(text, 6)
+					haveWeb = true
+					local win = getUI(descWnd.id..":web:html")
+					for web, final_text in string.gmatch(text, "(.*)\n@@@\n(.*)") do
+						win:renderHtml(web)
+						currStep.hardtext = final_text
+						break
+					end
+				else
+					currStep.uc_hardtext = uctext
+				end
+			end
+		end
+
+		if (game.WebMissionLastDesc[stepIndex] ~= nil) and (string.sub(game.WebMissionLastDesc[stepIndex], 1, 4) == "@WEB") then
+			haveWeb = true
+		end
+	end
+
+	if haveWeb then
+		getUI(descWnd.id..":web").h = 56
+	else
+		getUI(descWnd.id..":web").h = 0
+	end
+
+	local base = "ui:interface:info_player_journal:content:"
+	local fake = getUI(base.."fake")
+	local missionCB = getUI(base.."mission_combo")
+	local missionL = getUI(base.."mission_list")
+	local desc = getUI(base.."desc")
+	local win = getUI("ui:interface:info_player_journal")
+
+	if missionCB.active then
+		fake.sizeref=""
+		fake.h = 70
+	else
+		if win.h > 200 then
+			desc.max_sizeref ="wh"
+			desc.max_h = -missionL.h + missionL.y
+			if win.h > 2*(missionL.h - missionL.y) then
+				fake.sizeref=""
+				fake.h = missionL.h - missionL.y - 7
+			else
+				fake.sizeref = "wh5"
+				fake.h = 0
+			end
+		else
+			fake.sizeref = "wh5"
+			fake.h = 0
+			desc.max_sizeref = "wh5"
+			desc.max_h = -5
+		end
+	end
 end
 
 --------------------------------------------------------------------------------------------------------------
 -- This handler is triggered when a new mission has been added. In this case, we select the mission automatically
 function game:onNewMissionAdded(missionIndex)
+	setOnDraw(missionWnd, "game:ensureWebMissionVisibility()")
 	debugInfo("Mission " .. missionIndex .. " has been added")
+	game.WebMissionLastDesc = {}
 end
 
 --------------------------------------------------------------------------------------------------------------

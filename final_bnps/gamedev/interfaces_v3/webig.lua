@@ -10,9 +10,23 @@ end
 
 function getUCtf8(text)
 	local uctext = ucstring()
-	uctext:fromUtf8(text)
-	return uctext
+	if type(text) == "string" then
+		uctext:fromUtf8(text)
+		return uctext
+	end
+	return text
 end
+
+function game:openUrlOnWebig(url)
+	local webig = getUI("ui:interface:webig")
+	webig.active=1
+	webig.opened=1
+	local html = webig:find("html")
+	html:browse(url)
+	setTopWindow(webig)
+	webig:blink(2)
+end
+
 
 
 function webig:addSheet(dst, sheet, quality, quantity, worned, user_color, rm_class_type, rm_faber_stat_type)
@@ -63,13 +77,13 @@ function webig:swapItems(src, dst)
 	local rm_faber_stat_type = getDbProp(dst..":RM_FABER_STAT_TYPE")
 
 	addDbProp(dst..":SHEET", getDbProp(src..":SHEET"))
-	addDbProp(dst..":WORNED", getDbProp(src..":WORNED"))	
+	addDbProp(dst..":WORNED", getDbProp(src..":WORNED"))
 	addDbProp(dst..":QUALITY", getDbProp(src..":QUALITY"))
 	addDbProp(dst..":QUANTITY", getDbProp(src..":QUANTITY"))
 	addDbProp(dst..":USER_COLOR", getDbProp(src..":USER_COLOR"))
 	addDbProp(dst..":RM_CLASS_TYPE", getDbProp(src..":RM_CLASS_TYPE"))
 	addDbProp(dst..":RM_FABER_STAT_TYPE", getDbProp(src..":RM_FABER_STAT_TYPE"))
-	
+
 	addDbProp(src..":SHEET", sheet)
 	addDbProp(src..":WORNED", worned)
 	addDbProp(src..":QUALITY", quality)
@@ -185,6 +199,11 @@ function webig:doRemoveDbSheetQuantity(sheet_list, ctrl)
 		addDbProp(db..":"..ctrl..":QUANTITY", new_quantity)
 	end
 end
+
+function getUICallerRoot()
+	return getUI(getUICaller().id:match("(ui:interface:[^:]*):?"))
+end
+
 
 --assert(nil, "RELOADABLE SCRIPT")
 

@@ -1407,6 +1407,7 @@ _CF6C7FE306E28B16	ABHFPMA02	Especialización en Prospección/Exploración del De
 _8E6D97E406F17318	ABHFPMA03	Especialización en Prospección/Exploración de la Selva		una	la				Reduce el consumo de enfoque de las acciones de seguimiento del depósito y añade un bono a la tasa de extracción de las fuentes exploradas.		
 _FC1AE4071B754897	ABHFPMA04	Especialización en Prospección/Exploración de los Lagos		una	la				Reduce el consumo de enfoque de las acciones de seguimiento del depósito y añade un bono a la tasa de extracción de las fuentes exploradas.		
 _57213D28799CCD13	ABHFPMA05	Especialización en Prospección/Exploración de la Raíz Primaria		una	la				Reduce el consumo de enfoque de las acciones de seguimiento del depósito y añade un bono a la tasa de extracción de las fuentes exploradas.		
+_F31B752C68E6ABBB	ABHFPMA06	Especialización en Prospección/Exploración de la Atys		una	la				Reduce el consumo de enfoque de las acciones de seguimiento del depósito y añade un bono a la tasa de extracción de las fuentes exploradas.		
 _36D7DE7E168D6513	ABHFPMB01	Prospección/Exploración Menor de Savia en Plantas		una	la				Búsqueda de fuentes de materiales específicos.		
 _A2C1E11449FD195F	ABHFPMB02	Prospección/Exploración Menor de Ámbar 		una	la				Búsqueda de fuentes de material especifico.		
 _D1A5A0682A5F3084	ABHFPMB03	Prospección/Exploración Menor de Nodo		una	la				Búsqueda de fuentes de material especifico.		
@@ -1427,6 +1428,13 @@ _07D7EDB0E1E1A117	ABHFPMB17	Prospección/Exploración Mayor de Conchas		una	la		
 _87A725AEA1E1A117	ABHFPMB18	Prospección/Exploración Mayor de Resina		una	la				"Búsqueda de fuentes de materiales específicos, con mayores posibilidades de éxito."		
 _3D4E932D11936725	ABHFPMB19	Prospección/Exploración Mayor de Madera		una	la				"Búsqueda de fuentes de materiales específicos, con mayores posibilidades de éxito."		
 _C05C457E6C5F5397	ABHFPMB20	Prospección/Exploración Mayor de Madera		una	la				"Búsqueda de fuentes de materiales específicos, con mayores posibilidades de éxito."		
+_10F5D056E4511F93	ABHFPMB21	Prospección/Exploración de Construcción		una	la				Búsqueda de fuentes de material especifico.		
+_755F0BF4872A4E16	ABHFPMB22	Prospección/Exploración de Comida		una	la				Búsqueda de fuentes de material especifico.		
+_837BDCAD6BE27395	ABHFPMB23	Prospección/Exploración de Goo		una	la				Búsqueda de fuentes de material especifico.		
+_3AA019035BAF7F21	ABHFPMB24	Prospección/Exploración de Insecto		una	la				Búsqueda de fuentes de material especifico.		
+_47CC406FAC977CE7	ABHFPMB25	Prospección/Exploración de Kitin		una	la				Búsqueda de fuentes de material especifico.		
+_0C5868BCBE7C84F6	ABHFPMB26	Prospección/Exploración de Dañino		una	la				Búsqueda de fuentes de material especifico.		
+_9026045A2451E38A	ABHFPMB27	Prospección/Exploración de Conservante		una	la				Búsqueda de fuentes de material especifico.		
 _2AD655DE1965C1D0	ABHFPRMFMA02	Prospección/Exploración de Savia Roja Caliente		una	la						
 _2449BA213BE9F5E9	ABHFPRMFMA03	Prospección/Exploración de Savia de Maleza Plateada		una	la						
 _EB79ED82DF28D45A	ABHFPRMFMA04	Prospección/Exploración de Savia Visc		una	la						
@@ -1470,6 +1478,99 @@ _714928D01C15E1D1	ABHFPRMFMJ03	Prospección/Exploración de la Madera de Eyotaa	
 _1CFAD1ABF5DC1DC6	ABHFPRMFMJ04	Prospección/Exploración de la Madera Kachine 		una	la						
 _E7653DAE17EDF9F0	ABHFPRMFMJ05	Prospección/Exploración de la Madera Motega 		una	la						
 _6CCBE18B60451FD0	ABHFPRMFMJ06	Prospección/Exploración de la Madera Tama 		una	la						
+_C054F46F0A64646B	ABHFPRMFMK02	Prospección/Exploración de Hoja Muerta		una	la						
+_CCE5E8BB1245888E	ABHFPRMFMK03	Prospección/Exploración de Resina Fresca		una	la						
+_5940C0815C526D38	ABHFPRMFMK04	Prospección/Exploración de Madera Fresca		una	la						
+_D1CE0D4786422D34	ABHFPRMFMK05	Prospección/Exploración de Madera Seca		una	la						
+_204BB1E66559D4DD	ABHFPRMFMK06	Prospección/Exploración de Aserrín de Madera Húmeda		una	la						
+_5C470CE4D525C1CD	ABHFPRMFMK07	Prospección/Exploración de Hoja de Caña Pequeña		una	la						
+_9D470CDD933691C6	ABHFPRMFMK08	Prospección/Exploración de Hoja de Caña Grande		una	la						
+_DD470CEC5525B1C1	ABHFPRMFMK09	Prospección/Exploración de Hoja de Caña Gigante		una	la						
+_D5FFC0815C52893B	ABHFPRMFMK10	Prospección/Exploración de Corteza Fresca		una	la						
+_910FD53286422D34	ABHFPRMFMK11	Prospección/Exploración de Corteza Seca		una	la						
+_C1346895F9E59877	ABHFPRMFMK12	Prospección/Exploración de Fibra Seca		una	la						
+_D57159399CD2612C	ABHFPRMFMK13	Prospección/Exploración de Fibra Húmeda		una	la						
+_30660DA5F9D842A3	ABHFPRMFMK14	Prospección/Exploración de Concha Nacarada Pequeña		una	la						
+_70660D9EB7E9129C	ABHFPRMFMK15	Prospección/Exploración de Concha Nacarada Grande		una	la						
+_B0660DAD79D83297	ABHFPRMFMK16	Prospección/Exploración de Concha Nacarada Gigante		una	la						
+_CDD5E8BF51E59889	ABHFPRMFMK17	Prospección/Exploración de Perla Pequeña		una	la						
+_0ED5E8B80FF66882	ABHFPRMFMK18	Prospección/Exploración de Perla Grande		una	la						
+_4ED5E8C7D1E5887D	ABHFPRMFMK19	Prospección/Exploración de Perla Gigante		una	la						
+_DDB8569E37F9F288	ABHFPRMFMK20	Prospección/Exploración de Escama de Pez Plateado		una	la						
+_D4360907129A59D6	ABHFPRMFMK21	Prospección/Exploración de Escama de Pez Dorado		una	la						
+_83B4106F4C758C83	ABHFPRMFMK22	Prospección/Exploración de Gusano de Seda		una	la						
+_47E231B84F558C91	ABHFPRMFMK23	Prospección/Exploración de Araña de Seda		una	la						
+_9CD71CF39625C1CD	ABHFPRMFMK24	Prospección/Exploración de Tallo de Junco Pequeño		una	la						
+_DCD71CEC543691C6	ABHFPRMFMK25	Prospección/Exploración de Tallo de Junco Grande		una	la						
+_EE528DAB6257FAA5	ABHFPRMFMK26	Prospección/Exploración de Tierra Suelta Fresca		una	la						
+_2E528DA7DF97FAA3	ABHFPRMFMK27	Prospección/Exploración de Tierra Suelta Seca		una	la						
+_76277DCBA35932A0	ABHFPRMFMK28	Prospección/Exploración de Fósil de Planta Pequeña		una	la						
+_B6277DC4616A0299	ABHFPRMFMK29	Prospección/Exploración de Fósil de Planta Grande		una	la						
+_0E660DA33E96688C	ABHFPRMFMK30	Prospección/Exploración de Pigmento Rojo		una	la						
+_97363CE1D0F754BF	ABHFPRMFMK31	Prospección/Exploración de Pigmento Verde		una	la						
+_E324924EE162A961	ABHFPRMFMK32	Prospección/Exploración de Pigmento Azul		una	la						
+_60E1AE9EE5B4859D	ABHFPRMFMK33	Prospección/Exploración de Pigmento Amarillo		una	la						
+_58363CDE4FB73CBA	ABHFPRMFMK34	Prospección/Exploración de Pigmento Negro		una	la						
+_568FC487D952752B	ABHFPRMFML02	Prospección/Exploración de Hoja Verde		una	la						
+_758505A1F8A86A99	ABHFPRMFML03	Prospección/Exploración de Pétalo de Flores Frescas		una	la						
+_B685059D75E86A97	ABHFPRMFML04	Prospección/Exploración de Pétalo de Flor Seca		una	la						
+_862247BB0C648478	ABHFPRMFML05	Prospección/Exploración de Brote Pequeño		una	la						
+_C62247B4CA755471	ABHFPRMFML06	Prospección/Exploración de Brote Grande		una	la						
+_5BE648E49EB9D5C9	ABHFPRMFML07	Prospección/Exploración de Diente de León Fresco		una	la						
+_9CE648E01BF9D5C7	ABHFPRMFML08	Prospección/Exploración de Diente de León Seco		una	la						
+_F2777EEAF6088E54	ABHFPRMFML09	Prospección/Exploración de Diente de León Floreciente		una	la						
+_E993399C6755A9A1	ABHFPRMFML10	Prospección/Exploración de Hongo Pequeño		una	la						
+_299339952566799A	ABHFPRMFML11	Prospección/Exploración de Hongo Grande		una	la						
+_DD96893568DC6501	ABHFPRMFML12	Prospección/Exploración de Larva de Insecto Viviente		una	la						
+_A3A2D5966291C16A	ABHFPRMFML13	Prospección/Exploración de Cereal Fresco		una	la						
+_E4A2D592DFD1C168	ABHFPRMFML14	Prospección/Exploración de Cereal Seco		una	la						
+_A21B71BB12ABF1CB	ABHFPRMFML15	Prospección/Exploración de Larva de Insecto Muerto		una	la						
+_426247BB0C64847B	ABHFPRMFML16	Prospección/Exploración de Huevo Pequeño		una	la						
+_826247B4CA755474	ABHFPRMFML17	Prospección/Exploración de Huevo Grande		una	la						
+_9054ECBB12F67889	ABHFPRMFML18	Prospección/Exploración de Miel Fresca		una	la						
+_D054ECB78F367887	ABHFPRMFML19	Prospección/Exploración de Miel Seca		una	la						
+_6CFC6FF540DBF28C	ABHFPRMFML20	Prospección/Exploración de Planta Aromática con Pimienta		una	la						
+_7A9462107DB75EE0	ABHFPRMFML21	Prospección/Exploración de Planta Aromática Picante		una	la						
+_D5592E4CEC7EE915	ABHFPRMFML22	Prospección/Exploración de Planta Aromática Amarga		una	la						
+_EF949DBDEA03BEA2	ABHFPRMFML23	Prospección/Exploración de Baya Salvaje Fresca		una	la						
+_30949DB96743BEA0	ABHFPRMFML24	Prospección/Exploración de Baya Salvaje Seca		una	la						
+_9044ECBF5166749D	ABHFPRMFML25	Prospección/Exploración de Fruta Pequeña		una	la						
+_D044ECB80F774496	ABHFPRMFML26	Prospección/Exploración de Fruta Grande		una	la						
+_ACA159E6B6B8428E	ABHFPRMFMM02	Prospección/Exploración de Savia Fresca Modificada		una	la						
+_ECA159E233F8428C	ABHFPRMFMM03	Prospección/Exploración de Savia Seca Modificada		una	la						
+_21B8F02A26C918DB	ABHFPRMFMM04	Prospección/Exploración de Residuo de Goo Fresco		una	la						
+_61B8F026A30918D9	ABHFPRMFMM05	Prospección/Exploración de Residuo de Goo Seco		una	la						
+_D61481EADD8AE9C2	ABHFPRMFMN02	Prospección/Exploración de Parásito Viviente		una	la						
+_5917098412F738B6	ABHFPRMFMN03	Prospección/Exploración de Parásito Muerto		una	la						
+_F079C8526B9DDD3A	ABHFPRMFMN04	Prospección/Exploración de Abdomen de Luciernaga Pequeño		una	la						
+_3079C84B29AEAD33	ABHFPRMFMN05	Prospección/Exploración de Abdomen de Luciérnaga Pequeño		una	la						
+_7587A1D4A3A80EA8	ABHFPRMFMN06	Prospección/Exploración de Ala de Mariposa Roja		una	la						
+_B0198E0239B7A2C4	ABHFPRMFMN07	Prospección/Exploración de Ala de Mariposa Verde		una	la						
+_A71962DF28FD19F4	ABHFPRMFMN08	Prospección/Exploración de Ala de Mariposa Azul		una	la						
+_2DC93E47EBEE99FF	ABHFPRMFMN09	Prospección/Exploración de Ala de Mariposa Amarilla		una	la						
+_2A5A0DDF6E1B090E	ABHFPRMFMN10	Prospección/Exploración de Fósil de Insecto Pequeño		una	la						
+_6A5A0DD82C2CD907	ABHFPRMFMN11	Prospección/Exploración de Fósil de Insecto Grande		una	la						
+_32B58DC464383AAC	ABHFPRMFMO02	Prospección/Exploración de Capullo de Kitin Fresco		una	la						
+_2C15C29E612595AD	ABHFPRMFMO03	Prospección/Exploración de Capullo de Kitin Viejo		una	la						
+_E393E19C1DD3AD69	ABHFPRMFMO04	Prospección/Exploración de Saliva de Kitin		una	la						
+_4C84F8C190669892	ABHFPRMFMO05	Prospección/Exploración de Larva de Kitin		una	la						
+_12D41E972182B550	ABHFPRMFMP02	Prospección/Exploración de Hoja Podrida		una	la						
+_52D41E97A162DD5B	ABHFPRMFMP03	Prospección/Exploración de Madera Podrida		una	la						
+_CE05FCBF51059897	ABHFPRMFMP04	Prospección/Exploración de Espina Pequeña		una	la						
+_0E05FCB80F166890	ABHFPRMFMP05	Prospección/Exploración de Espina Grande		una	la						
+_4E05FCC7D105888B	ABHFPRMFMP06	Prospección/Exploración de Espina Gigante		una	la						
+_4B5E652E885C38F6	ABHFPRMFMP07	Prospección/Exploración de Polvo		una	la						
+_077789DA52B838A9	ABHFPRMFMP08	Prospección/Exploración de Fibra Podrida		una	la						
+_6D63417C3517AAAC	ABHFPRMFMP09	Prospección/Exploración de Tela de Araña Pequeña		una	la						
+_2B734175F3287AA5	ABHFPRMFMP10	Prospección/Exploración de Tela de Araña Grande		una	la						
+_C23570A1F9E59873	ABHFPRMFMQ02	Prospección/Exploración de Resina Seca		una	la						
+_6D05FAAB63587A54	ABHFPRMFMQ03	Prospección/Exploración de Serrín de Madera Seca		una	la						
+_4125ACA2F9E5987C	ABHFPRMFMQ04	Prospección/Exploración de Paja Seca		una	la						
+_5A12A5399CD27528	ABHFPRMFMQ05	Prospección/Exploración de Paja Húmeda		una	la						
+_C1735BB7CDA4987F	ABHFPRMFMQ06	Prospección/Exploración de Cera Fresca		una	la						
+_0343A46AAFA44459	ABHFPRMFMQ07	Prospección/Exploración de Cera Seca		una	la						
+_5A9FD8815C52A93C	ABHFPRMFMQ08	Prospección/Exploración de Musgo Fresco		una	la						
+_950F253D86422D34	ABHFPRMFMQ09	Prospección/Exploración de Musgo Seco		una	la						
 _59E979BB16ECF9CA	ABHFPRMFMW02	Prospección/Exploración del Aceite Gulatch		una	la						
 _2AC938D96035BFD4	ABHFPRMFMW03	Prospección/Exploración del Aceite Pilan		una	la						
 _EAF93582A287F84D	ABHFPRMFMW04	Prospección/Exploración del Aceite Irin 		una	la						
@@ -1646,6 +1747,7 @@ _46DB9F8AAB1B8F76	ABHFEMA02	Especialización en Extracción del Desierto		una	la
 _05DCB78BAB2A7778	ABHFEMA03	Especialización en Extracción de la Selva		una	la				Reduce la agresividad de la tasa y la calidad.		
 _D09502B2C1C159D3	ABHFEMA04	Especialización en Extracción de los Lagos		una	la				Reduce la agresividad de la tasa y la calidad.		
 _2B9C5BD31FE8DE4F	ABHFEMA05	Especialización en Extracción de la Raíz Primaria		una	la				Reduce la agresividad de la tasa y la calidad.		
+_54C656B4C1C359E1	ABHFEMA06	Especialización en Extracción de la Atys		una	la				Reduce la agresividad de la tasa y la calidad.		
 _2ECA504A12589008	ABHFEMB01	Especialización en Extracción de la Savia de las Plantas		una	la				Aumenta la calidad y reduce la agresividad de la velocidad.		
 _5B8C98C851A44321	ABHFEMB02	Especialización en Extracción de Ámbar		una	la				Aumenta la calidad y reduce la agresividad de la velocidad.		
 _45C488D45F738F79	ABHFEMB03	Especialización en Extracción de Nodo		una	la				Aumenta la calidad y reduce la agresividad de la velocidad.		
@@ -1655,6 +1757,13 @@ _85249CD75F738F78	ABHFEMB06	Especialización en Extracción de Semilla		una	la		
 _1C3CE0CD51A42B28	ABHFEMB07	Especialización de Extracción de Concha		una	la				Aumenta la calidad y reduce la agresividad de la velocidad.		
 _9F0CDCCF51A43325	ABHFEMB09	Especialización de Extracción de Resina		una	la				Aumenta la calidad y reduce la agresividad de la velocidad.		
 _07C4ACD19F738F78	ABHFEMB10	Especialización de Extracción de Madera		una	la				Aumenta la calidad y reduce la agresividad de la velocidad.		
+_46727AE2FBEDCFA1	ABHFEMB11	Especialización de Extracción de Construcción		una	la				Aumenta la calidad y reduce la agresividad de la velocidad.		
+_ABDCB5809EC6FE24	ABHFEMB12	Especialización de Extracción de Comida		una	la				Aumenta la calidad y reduce la agresividad de la velocidad.		
+_084638168D761835	ABHFEMB13	Especialización de Extracción de Goo		una	la				Aumenta la calidad y reduce la agresividad de la velocidad.		
+_11777CEB4450EFEC	ABHFEMB14	Especialización de Extracción de Insecto		una	la				Aumenta la calidad y reduce la agresividad de la velocidad.		
+_3C8173C7E45FE2B7	ABHFEMB15	Especialización de Extracción de Kitin		una	la				Aumenta la calidad y reduce la agresividad de la velocidad.		
+_6EEC0D670347E054	ABHFEMB16	Especialización de Extracción de Dañino		una	la				Aumenta la calidad y reduce la agresividad de la velocidad.		
+_C6A3AEE63BED9398	ABHFEMB17	Especialización de Extracción de Conservante		una	la				Aumenta la calidad y reduce la agresividad de la velocidad.		
 _5CBF93C3A1B5C399	ABHFEMB23	Especialización de Extracción de Aceite		una	la				Aumenta la calidad y reduce la agresividad de la velocidad.		
 _604E23F81FE64B45	ABHFEMC01	Preservación de Recursos 1		una	la				"Aumenta la vida de una fuente encontrada, para evitar su desaparición prematura y el agotamiento de la zona."		
 _604E23FA1FE64B45	ABHFEMC02	Preservación de Recursos 2		una	la				"Aumenta la vida de una fuente encontrada, para evitar su desaparición prematura y el agotamiento de la zona."		
@@ -3683,3 +3792,95 @@ _FA7C38A20667F398	abcbahh	Plan de Casco Erouk'an		un	el	Erouk'an's Helmet Plans	
 _295050CC9C53F6B4	abcbahp	Erouk'an's Leggings Plan		un	el	Erouk'an's Leggings Plans		los	Plan de fabricación para las Polainas de Erouk'an.		
 _451B5F17B08DE756	abcbahs	Plan de Mangas Erouk'an 		un	el	Erouk'an's Sleeves Plans		el 	Plan de  fabricación para Mangas Erouk'an.		
 _A611E84DA94DBB9D	abcbahv	Plan de Corazas y Erouk		un	el	Erouk'an's Breastplate Plans		el 	Plan de fabricación para Corazas Erouk'an.		
+_352E2EE85E84AC10	abcomaretammo_1	Plan de Fabricación de Herramienta para Municiones Armilo-Mar 		un	el	Armilo-Mar Ammo Crafting Tool Plans		los	Plan de fabricación de Herramientas para la elaboración de Municiones Armilo-Mar.		
+_16B24713D47AFB35	abcomaretammo_2	Plan de Fabricación de Herramienta para Municiones Rubbarn-Mar 		un	el	Rubbarn-Mar Ammo Crafting Tool Plans		los	Plan de fabricación de Herramientas para la elaboración de Municiones Rubbarn-Mar .		
+_54DD23BB6D8BB0F5	abcomaretarmor_1	Plan de Fabricación de Herramienta para Armadura Armilo-Mar		un	el	Armilo-Mar Armour Crafting Tool Plans		los	Plan de fabricación de Herramientas para la elaboración de Armadura Armilo-Mar.		
+_6BD2E0DFAA1A807A	abcomaretarmor_2	Plan de Fabricación de Herramienta para Armadura Rubbarn-Mar 		un	el	Rubbarn-Mar Armour Crafting Tool Plans		los	Plan de fabricación de Herramientas para la elaboración de Armadura Rubbarn-Mar.		
+_930853803944CE55	abcomaretforage_1	Plan de Pico Greslin-Mar		un	el	Greslin-Mar Pick Plans		los	Plan de fabricación de Picos Greslin-Mar.		
+_8851F7D50898C001	abcomaretforage_2	Plan de Pico Egiros-Mar		un	el	Egiros-Mar Pick Plans		los	Plan de fabricación de Picos Egiros-Mar.		
+_07403FB05BBD9729	abcomaretjewel_1	Plan de Herramienta para la Fabricación de Joyas Armilo-Mar 		un	el	Armilo-Mar Jewel Crafting Tool Plans		los	Plan de fabricación de herramientas para la elaboración de joyas Armilo-Mar.		
+_A0B3E7292756455A	abcomaretjewel_2	Plan de Herramienta para la Fabricación de Joyas Rubbarn-Mar		un	el	Rubbarn-Mar Jewel Crafting Tool Plans		los	Plan de fabricación de herramientas para la elaboración de joyas Rubbarn-Mar.		
+_AB2E9D4A6A239073	abcomaretmwea_1	Plan de Herramienta para la Fabricación de Armas de Lucha Cuerpo a Cuerpo Armilo-Mar 		un	el	Armilo-Mar Melee Weapon Crafting Tool Plans		los	Plan de fabricación de herramientas para la elaboración de Armas de Lucha Cuerpo a Cuerpo Armilo-Mar.		
+_B8937F36FFF50BA4	abcomaretmwea_2	Plan de Herramienta para la Fabricación de Armas de Lucha Cuerpo a Cuerpo Rubbarn-Mar		un	el	Rubbarn-Mar Melee Weapon Crafting Tool Plans		los	Plan de fabricación de herramientas para la elaboración de Armas de Lucha Cuerpo a Cuerpo  Rubbarn-Mar.		
+_7667CF593C185993	abcomaretrwea_1	Plan de Herramienta para la Fabricación de Armas de Alcance Armilo-Mar		un	el	Armilo-Mar Range Weapon Crafting Tool Plans		los	Plan de fabricación de herramientas para la elaboración de Armas de Alcance Armilo-Mar.		
+_2A5FE43DC55571B8	abcomaretrwea_2	Plan de Herramienta para la Fabricación de Armas de Alcance Rubbarn-Mar 		un	el	Rubbarn-Mar Range Weapon Crafting Tool Plans		los	Plan de fabricación de herramientas para la elaboración de Armas de alcance Rubbarn-Mar.		
+_1AAAC019A8C06736	abcomarem1bm_1	Plan de Mazo Tekorn-Mar		un	el	Tekorn-Mar Mace Plans		los	Plan de fabricación de Mazos Tekorn-Mar.		
+_1AF9B49B87CF6BB7	abcomarem1bs_1	Plan de Bastón/Palo Tekorn-Mar		un	el	Tekorn-Mar Staff Plans		los	Plan de fabricación de Bastones/Palos Tekorn-Mar.		
+_96AB980D66503736	abcomarem1pd_1	Plan de Daga Tekorn-Mar 		un	el	Tekorn-Mar Dagger Plans		los	Plan de fabricación de Dagas Tekorn-Mar.		
+_5B8A6C1468AF5336	abcomarem1ps_1	Plan de Lanza Tekorn-Mar		un	el	Tekorn-Mar Spear Plans		los	Plan de fabricación de Lanzas Tekorn-Mar.		
+_D60A540967BF2736	abcomarem1sa_1	Plan de Hacha Tekorn-Mar		un	el	Tekorn-Mar Axe Plans		los	Plan de fabricación de Hachas  Tekorn-Mar.		
+_FBFFFB37643D288B	abcomarem1ss_1	Plan de Espada Tekorn-Mar 		un	el	Tekorn-Mar Sword Plans		los	Plan de fabricación de Espadas de Dos Manos Tekorn-Mar.		
+_A1FE8D4ADAC9D2CB	abcomarem2bm_1	Plan de Mazo de Dos Manos Tekorn-Mar		un	el	Tekorn-Mar Two-handed Mace Plans		los	Plan de fabricación de Mazos de Dos Manos Tekorn-Mar.		
+_C5B4E15E9B97B09D	abcomarem2ms_1	Plan de Amplificador Mágico Maga-Mar		un	el	Maga-Mar Magic Amplifier Plans		los	Plan de fabricación de Amplificadores Mágicos Maga-Mar.		
+_9CABC41F6B115F3E	abcomarem2pp_1	Plan de Pico Tekorn-Mar		un	el	Tekorn-Mar Pike Plans		los	Plan de fabricación de Picos Tekorn-Mar.		
+_D80E4D35DA79D2C0	abcomarem2sa_1	Plan de Hacha de Dos Manos Tekorn-Mar		un	el	Tekorn-Mar Two-handed Axe Plans		los	Plan de fabricación de Hachas de Dos Manos Tekorn-Mar.		
+_8D0CAD8A84A76BB6	abcomarem2ss_1	Plan de Espada de Dos Manos Tekorn-Mar		un	el	Tekorn-Mar Two-handed Sword Plans		los	plan de fabricación de Espadas de Dos Manos Tekorn-Mar.		
+_591A680466C03732	abcomarem1bm_2	Plan de Mazo Vedice-Mar		un	el	Vedice-Mar Mace Plans		los	Plan de fabricación de Mazos Vedice-Mar.		
+_59695C8645CF3BB3	abcomarem1bs_2	Plan de Bastón/Palo Vedice-Mar		un	el	Vedice-Mar Staff Plans		los	Plan de fabricación de Bastones/Varas Vedice-Mars.		
+_D51B40F824500732	abcomarem1pd_2	Plan de Daga Vedice-Mar		un	el	Vedice-Mar Dagger Plans		los	Plan de fabricación de Dagas Vedice-Mar.		
+_9AFA14FF26AF2332	abcomarem1ps_2	Plan de Lanza Vedice-Mar 		un	el	Vedice-Mar Spear Plans		los	Plan de fabricación de Lanzas Vedice-Mar.		
+_157AFCF425BFF732	abcomarem1sa_2	Plan de Hacha Vedice-Mar		un	el	Vedice-Mar Axe Plans		los	Plan de fabricación de Hachas Vedice-Mar.		
+_FD1FBF33614CF875	abcomarem1ss_2	Plan de Espada Vedice-Mar		un	el	Vedice-Mar Sword Plans		los	Plan de fabricación de Espadas Vedice-Mar.		
+_60FE713295697EC7	abcomarem2bm_2	Plan de Mazo de Dos Manos Vedice-Mar		un	el	Vedice-Mar Two-handed Mace Plans		los 	Plan de fabricación de Mazos de Dos Manos Vedice-Mar.		
+_49452E34B00EB642	abcomarem2ms_2	Plan de Amplificador Mágico Cheng-Mar		un	el	Cheng-Mar Magic Amplifier Plans		los	Plan de fabricación de Amplificadores Mágicos Cheng-Mar.		
+_DB1B6C0A29112F3A	abcomarem2pp_2	Plan de Pico Vedice-Mar		un	el	Vedice-Mar Pike Plans		los	Plan de fabricación de picos Vedice-Mar.		
+_970E311D95197EBC	abcomarem2sa_2	Plan de Hacha de Dos Manos Vedice-Mar		un	el	Vedice-Mar Two-handed Axe Plans		los	Plan de fabricación de Hachas de Dos Manos Vedice-Mar.		
+_41EC598A04A76F9B	abcomarem2ss_2	Plan de Espada de Dos Manos Vedice-Mar 		un	el	Vedice-Mar Two-handed Sword Plans		los	Plan de fabricación de Espada de Dos Manos Vedice-Mar.		
+_3980D184F8F2E2D3	abcomarer1b_1	Plan de Pistola de Arco Tekorn-Mar		un	el	Tekorn-Mar Bowpistol Plans		los	Plan de fabricación de Pistolas de Arco Tekorn-Mar.		
+_A34C1CE23496EC5B	abcomarer1p_1	Plan de Pistola Tekorn-Mar		un	el	Tekorn-Mar Pistol Plans		los	Plan de fabricación de Pistolas Tekorn-Mar.		
+_1367926E588FE5D9	abcomarer2a_1	Plan de Autolanzador Tekorn-Mar 		un	el	Tekorn-Mar Autolauncher Plans		los	Plan de fabricación de Autolanzadores Tekorn-Mar.		
+_EE96D9449D994304	abcomarer2b_1	Plan de Rifle de Arco Tekorn-Mar 		un	el	Tekorn-Mar Bowrifle Plans		los	Plan de fabricación de Rifles de Arco Tekorn-Mar.		
+_0F167DD113E05FE7	abcomarer2l_1	Plan de Lanzador Tekorn-Mar		un	el	Tekorn-Mar Launcher Plans		los	Plan de fabricación de Lanzadores Tekorn-Mar.		
+_CF51D2632D253521	abcomarer2r_1	Plan de Rifle Tekorn-Mar		un	el	Tekorn-Mar Rifle Plans		los	Plan de fabricación de Rifles Tekorn-Mar.		
+_7340B58878F29AAD	abcomarer1b_2	Plan de Pistola de Arco Vedice-Mar 		un	el	Vedice-Mar Bowpistol Plans		los	Plan de fabricación de Pistolas de Arco Vedice-Mar.		
+_1FDAB0CE73D6F45C	abcomarer1p_2	Plan de Pistola Vedice-Mar 		un	el	Vedice-Mar Pistol Plans		los	Plan de fabricación de pistolas Vedice-Mar.		
+_10968267162E91CD	abcomarer2a_2	Plan de Autolanzador Vedice-Mar 		un	el	Vedice-Mar Autolauncher Plans		los	Plan de fabricación para Autolanzadores Vedice-Mar.		
+_2A5699355A382BF7	abcomarer2b_2	Plan de Rifle de Arco Vedice-Mar 		un	el	Vedice-Mar Bowrifle Plans		los	Plan de fabricación para Rifles de Arco Vedice-Mar.		
+_4BD63DC2D07F47DA	abcomarer2l_2	Plan de Lanzador Vedice-Mar		un	el	Vedice-Mar Launcher Plans		los	Plan de fabricación para Lanzadores Vedice-Mar.		
+_CEE1AE4DE855F515	abcomarer2r_2	Plan de Rifle Vedice-Mar 		un	el	Vedice-Mar Rifle Plans		los	Plan de fabricación para Rifles Vedice-Mar.		
+_352E2EE85E84AC10	abcogenetammo_1	Plan de Fabricación de Herramienta para Municiones Armilo-Gen 		un	el	Armilo-Gen Ammo Crafting Tool Plans		los	Plan de fabricación de Herramientas para la elaboración de Municiones Armilo-Gen.		
+_16B24713D47AFB35	abcogenetammo_2	Plan de Fabricación de Herramienta para Municiones Rubbarn-Gen 		un	el	Rubbarn-Gen Ammo Crafting Tool Plans		los	Plan de fabricación de Herramientas para la elaboración de Municiones Rubbarn-Gen .		
+_54DD23BB6D8BB0F5	abcogenetarmor_1	Plan de Fabricación de Herramienta para Armadura Armilo-Gen		un	el	Armilo-Gen Armour Crafting Tool Plans		los	Plan de fabricación de Herramientas para la elaboración de Armadura Armilo-Gen.		
+_6BD2E0DFAA1A807A	abcogenetarmor_2	Plan de Fabricación de Herramienta para Armadura Rubbarn-Gen 		un	el	Rubbarn-Gen Armour Crafting Tool Plans		los	Plan de fabricación de Herramientas para la elaboración de Armadura Rubbarn-Gen.		
+_930853803944CE55	abcogenetforage_1	Plan de Pico Greslin-Gen		un	el	Greslin-Gen Pick Plans		los	Plan de fabricación de Picos Greslin-Gen.		
+_8851F7D50898C001	abcogenetforage_2	Plan de Pico Egiros-Gen		un	el	Egiros-Gen Pick Plans		los	Plan de fabricación de Picos Egiros-Gen.		
+_07403FB05BBD9729	abcogenetjewel_1	Plan de Herramienta para la Fabricación de Joyas Armilo-Gen 		un	el	Armilo-Gen Jewel Crafting Tool Plans		los	Plan de fabricación de herramientas para la elaboración de joyas Armilo-Gen.		
+_A0B3E7292756455A	abcogenetjewel_2	Plan de Herramienta para la Fabricación de Joyas Rubbarn-Gen		un	el	Rubbarn-Gen Jewel Crafting Tool Plans		los	Plan de fabricación de herramientas para la elaboración de joyas Rubbarn-Gen.		
+_AB2E9D4A6A239073	abcogenetmwea_1	Plan de Herramienta para la Fabricación de Armas de Lucha Cuerpo a Cuerpo Armilo-Gen 		un	el	Armilo-Gen Melee Weapon Crafting Tool Plans		los	Plan de fabricación de herramientas para la elaboración de Armas de Lucha Cuerpo a Cuerpo Armilo-Gen.		
+_B8937F36FFF50BA4	abcogenetmwea_2	Plan de Herramienta para la Fabricación de Armas de Lucha Cuerpo a Cuerpo Rubbarn-Gen		un	el	Rubbarn-Gen Melee Weapon Crafting Tool Plans		los	Plan de fabricación de herramientas para la elaboración de Armas de Lucha Cuerpo a Cuerpo  Rubbarn-Gen.		
+_7667CF593C185993	abcogenetrwea_1	Plan de Herramienta para la Fabricación de Armas de Alcance Armilo-Gen		un	el	Armilo-Gen Range Weapon Crafting Tool Plans		los	Plan de fabricación de herramientas para la elaboración de Armas de Alcance Armilo-Gen.		
+_2A5FE43DC55571B8	abcogenetrwea_2	Plan de Herramienta para la Fabricación de Armas de Alcance Rubbarn-Gen 		un	el	Rubbarn-Gen Range Weapon Crafting Tool Plans		los	Plan de fabricación de herramientas para la elaboración de Armas de alcance Rubbarn-Gen.		
+_1AAAC019A8C06736	abcogenem1bm_1	Plan de Mazo Tekorn-Gen		un	el	Tekorn-Gen Mace Plans		los	Plan de fabricación de Mazos Tekorn-Gen.		
+_1AF9B49B87CF6BB7	abcogenem1bs_1	Plan de Bastón/Palo Tekorn-Gen		un	el	Tekorn-Gen Staff Plans		los	Plan de fabricación de Bastones/Palos Tekorn-Gen.		
+_96AB980D66503736	abcogenem1pd_1	Plan de Daga Tekorn-Gen 		un	el	Tekorn-Gen Dagger Plans		los	Plan de fabricación de Dagas Tekorn-Gen.		
+_5B8A6C1468AF5336	abcogenem1ps_1	Plan de Lanza Tekorn-Gen		un	el	Tekorn-Gen Spear Plans		los	Plan de fabricación de Lanzas Tekorn-Gen.		
+_D60A540967BF2736	abcogenem1sa_1	Plan de Hacha Tekorn-Gen		un	el	Tekorn-Gen Axe Plans		los	Plan de fabricación de Hachas  Tekorn-Gen.		
+_FBFFFB37643D288B	abcogenem1ss_1	Plan de Espada Tekorn-Gen 		un	el	Tekorn-Gen Sword Plans		los	Plan de fabricación de Espadas de Dos Manos Tekorn-Gen.		
+_A1FE8D4ADAC9D2CB	abcogenem2bm_1	Plan de Mazo de Dos Manos Tekorn-Gen		un	el	Tekorn-Gen Two-handed Mace Plans		los	Plan de fabricación de Mazos de Dos Manos Tekorn-Gen.		
+_C5B4E15E9B97B09D	abcogenem2ms_1	Plan de Amplificador Mágico Maga-Gen		un	el	Maga-Gen Magic Amplifier Plans		los	Plan de fabricación de Amplificadores Mágicos Maga-Gen.		
+_9CABC41F6B115F3E	abcogenem2pp_1	Plan de Pico Tekorn-Gen		un	el	Tekorn-Gen Pike Plans		los	Plan de fabricación de Picos Tekorn-Gen.		
+_D80E4D35DA79D2C0	abcogenem2sa_1	Plan de Hacha de Dos Manos Tekorn-Gen		un	el	Tekorn-Gen Two-handed Axe Plans		los	Plan de fabricación de Hachas de Dos Manos Tekorn-Gen.		
+_8D0CAD8A84A76BB6	abcogenem2ss_1	Plan de Espada de Dos Manos Tekorn-Gen		un	el	Tekorn-Gen Two-handed Sword Plans		los	plan de fabricación de Espadas de Dos Manos Tekorn-Gen.		
+_591A680466C03732	abcogenem1bm_2	Plan de Mazo Vedice-Gen		un	el	Vedice-Gen Mace Plans		los	Plan de fabricación de Mazos Vedice-Gen.		
+_59695C8645CF3BB3	abcogenem1bs_2	Plan de Bastón/Palo Vedice-Gen		un	el	Vedice-Gen Staff Plans		los	Plan de fabricación de Bastones/Varas Vedice-Gens.		
+_D51B40F824500732	abcogenem1pd_2	Plan de Daga Vedice-Gen		un	el	Vedice-Gen Dagger Plans		los	Plan de fabricación de Dagas Vedice-Gen.		
+_9AFA14FF26AF2332	abcogenem1ps_2	Plan de Lanza Vedice-Gen 		un	el	Vedice-Gen Spear Plans		los	Plan de fabricación de Lanzas Vedice-Gen.		
+_157AFCF425BFF732	abcogenem1sa_2	Plan de Hacha Vedice-Gen		un	el	Vedice-Gen Axe Plans		los	Plan de fabricación de Hachas Vedice-Gen.		
+_FD1FBF33614CF875	abcogenem1ss_2	Plan de Espada Vedice-Gen		un	el	Vedice-Gen Sword Plans		los	Plan de fabricación de Espadas Vedice-Gen.		
+_60FE713295697EC7	abcogenem2bm_2	Plan de Mazo de Dos Manos Vedice-Gen		un	el	Vedice-Gen Two-handed Mace Plans		los 	Plan de fabricación de Mazos de Dos Manos Vedice-Gen.		
+_49452E34B00EB642	abcogenem2ms_2	Plan de Amplificador Mágico Cheng-Gen		un	el	Cheng-Gen Magic Amplifier Plans		los	Plan de fabricación de Amplificadores Mágicos Cheng-Gen.		
+_DB1B6C0A29112F3A	abcogenem2pp_2	Plan de Pico Vedice-Gen		un	el	Vedice-Gen Pike Plans		los	Plan de fabricación de picos Vedice-Gen.		
+_970E311D95197EBC	abcogenem2sa_2	Plan de Hacha de Dos Manos Vedice-Gen		un	el	Vedice-Gen Two-handed Axe Plans		los	Plan de fabricación de Hachas de Dos Manos Vedice-Gen.		
+_41EC598A04A76F9B	abcogenem2ss_2	Plan de Espada de Dos Manos Vedice-Gen 		un	el	Vedice-Gen Two-handed Sword Plans		los	Plan de fabricación de Espada de Dos Manos Vedice-Gen.		
+_3980D184F8F2E2D3	abcogener1b_1	Plan de Pistola de Arco Tekorn-Gen		un	el	Tekorn-Gen Bowpistol Plans		los	Plan de fabricación de Pistolas de Arco Tekorn-Gen.		
+_A34C1CE23496EC5B	abcogener1p_1	Plan de Pistola Tekorn-Gen		un	el	Tekorn-Gen Pistol Plans		los	Plan de fabricación de Pistolas Tekorn-Gen.		
+_1367926E588FE5D9	abcogener2a_1	Plan de Autolanzador Tekorn-Gen 		un	el	Tekorn-Gen Autolauncher Plans		los	Plan de fabricación de Autolanzadores Tekorn-Gen.		
+_EE96D9449D994304	abcogener2b_1	Plan de Rifle de Arco Tekorn-Gen 		un	el	Tekorn-Gen Bowrifle Plans		los	Plan de fabricación de Rifles de Arco Tekorn-Gen.		
+_0F167DD113E05FE7	abcogener2l_1	Plan de Lanzador Tekorn-Gen		un	el	Tekorn-Gen Launcher Plans		los	Plan de fabricación de Lanzadores Tekorn-Gen.		
+_CF51D2632D253521	abcogener2r_1	Plan de Rifle Tekorn-Gen		un	el	Tekorn-Gen Rifle Plans		los	Plan de fabricación de Rifles Tekorn-Gen.		
+_7340B58878F29AAD	abcogener1b_2	Plan de Pistola de Arco Vedice-Gen 		un	el	Vedice-Gen Bowpistol Plans		los	Plan de fabricación de Pistolas de Arco Vedice-Gen.		
+_1FDAB0CE73D6F45C	abcogener1p_2	Plan de Pistola Vedice-Gen 		un	el	Vedice-Gen Pistol Plans		los	Plan de fabricación de pistolas Vedice-Gen.		
+_10968267162E91CD	abcogener2a_2	Plan de Autolanzador Vedice-Gen 		un	el	Vedice-Gen Autolauncher Plans		los	Plan de fabricación para Autolanzadores Vedice-Gen.		
+_2A5699355A382BF7	abcogener2b_2	Plan de Rifle de Arco Vedice-Gen 		un	el	Vedice-Gen Bowrifle Plans		los	Plan de fabricación para Rifles de Arco Vedice-Gen.		
+_4BD63DC2D07F47DA	abcogener2l_2	Plan de Lanzador Vedice-Gen		un	el	Vedice-Gen Launcher Plans		los	Plan de fabricación para Lanzadores Vedice-Gen.		
+_CEE1AE4DE855F515	abcogener2r_2	Plan de Rifle Vedice-Gen 		un	el	Vedice-Gen Rifle Plans		los	Plan de fabricación para Rifles Vedice-Gen.		

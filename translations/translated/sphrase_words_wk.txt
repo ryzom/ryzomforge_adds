@@ -1407,6 +1407,7 @@ _9C9D64F92E37A233	ABHFPMA02	Desert Prospecting Specialization		a	the				"Reduces
 _5B9E7CFA2E468A35	ABHFPMA03	Jungle Prospecting Specialization		a	the				"Reduces the focus consumption of deposit tracking actions; adds a bonus to the extraction rate of the prospected sources."
 _6FEAA12A68E6ABAD	ABHFPMA04	Lake Prospecting Specialization		a	the				"Reduces the focus consumption of deposit tracking actions; adds a bonus to the extraction rate of the prospected sources."
 _CAF1FA4BC60D3029	ABHFPMA05	Primary Root Prospecting Specialization		a	the				"Reduces the focus consumption of deposit tracking actions; adds a bonus to the extraction rate of the prospected sources."
+_F31B752C68E6ABBB	ABHFPMA06	Atys prospection specialization		a	the				"Reduce the focus consumption of deposit tracking actions; add a bonus to the extraction rate of the prospected sources"
 _169D0D0181D808B8	ABHFPMB01	Minor Plant Sap Prospection		a	the				Search for specific material sources
 _E7717D1943E4D805	ABHFPMB02	Minor Amber Prospection		a	the				Search for specific material sources
 _FBB48C4F6C5CE94D	ABHFPMB03	Minor Node Prospection		a	the				Search for specific material sources
@@ -1427,6 +1428,13 @@ _FBE23B5C254CA698	ABHFPMB17	Major Shell Prospection		a	the				Search for specifi
 _7BB2735AE54CA698	ABHFPMB18	Major Resin Prospection		a	the				Search for specific material sources, with increased chance of success
 _9D4A95003DA33FA7	ABHFPMB19	Major Wood Prospection		a	the				Search for specific material sources, with increased chance of success
 _2174833E602B964C	ABHFPMB20	Major Oil Prospection		a	the				Search for specific material sources, with increased chance of success
+_10F5D056E4511F93	ABHFPMB21	Construction Group Prospecting		a	the				Search for specific materials
+_755F0BF4872A4E16	ABHFPMB22	Food Group Prospecting		a	the				Search for specific materials
+_837BDCAD6BE27395	ABHFPMB23	Goo Group Prospecting		a	the				Search for specific materials
+_3AA019035BAF7F21	ABHFPMB24	Insect Group Prospecting		a	the				Search for specific materials
+_47CC406FAC977CE7	ABHFPMB25	Kitin Group Prospecting		a	the				Search for specific materials
+_0C5868BCBE7C84F6	ABHFPMB26	Harmful Group Prospecting		a	the				Search for specific materials
+_9026045A2451E38A	ABHFPMB27	Preservative Group Prospecting		a	the				Search for specific materials
 _2AD655DE1965C1D0	ABHFPRMFMA02	Redhot Sap Prospection		a	the				 
 _2449BA213BE9F5E9	ABHFPRMFMA03	Silverweed Sap Prospection		a	the				 
 _EB79ED82DF28D45A	ABHFPRMFMA04	Visc Sap Prospection		a	the				 
@@ -1470,6 +1478,99 @@ _71490CCF1C15E1D1	ABHFPRMFMJ03	Eyota Wood Prospection		a	the
 _5AEAD1ABF5DC1DC6	ABHFPRMFMJ04	Kachine Wood Prospection		a	the				 
 _E7F539AE17EDF9F0	ABHFPRMFMJ05	Motega Wood Prospection		a	the				 
 _6CCBE18420451FD0	ABHFPRMFMJ06	Tama Wood Prospection		a	the				
+_C054F46F0A64646B	ABHFPRMFMK02	Dead Leaf Prospection		a	the				Search for specific material sources.
+_CCE5E8BB1245888E	ABHFPRMFMK03	Fresh Resin Prospection		a	the				Search for specific material sources.
+_5940C0815C526D38	ABHFPRMFMK04	Fresh Wood Prospection		a	the				Search for specific material sources.
+_D1CE0D4786422D34	ABHFPRMFMK05	Dry Wood Prospection		a	the				Search for specific material sources.
+_204BB1E66559D4DD	ABHFPRMFMK06	Damp Wood Sawdust Prospection		a	the				Search for specific material sources.
+_5C470CE4D525C1CD	ABHFPRMFMK07	Small Reed Leaf Prospection		a	the				Search for specific material sources.
+_9D470CDD933691C6	ABHFPRMFMK08	Large Reed Leaf Prospection		a	the				Search for specific material sources.
+_DD470CEC5525B1C1	ABHFPRMFMK09	Giant Reed Leaf Prospection		a	the				Search for specific material sources.
+_D5FFC0815C52893B	ABHFPRMFMK10	Fresh Bark Prospection		a	the				Search for specific material sources.
+_910FD53286422D34	ABHFPRMFMK11	Dry Bark Prospection		a	the				Search for specific material sources.
+_C1346895F9E59877	ABHFPRMFMK12	Dry Fiber Prospection		a	the				Search for specific material sources.
+_D57159399CD2612C	ABHFPRMFMK13	Damp Fiber Prospection		a	the				Search for specific material sources.
+_30660DA5F9D842A3	ABHFPRMFMK14	Small Pearly Shell Prospection		a	the				Search for specific material sources.
+_70660D9EB7E9129C	ABHFPRMFMK15	Large Pearly Shell Prospection		a	the				Search for specific material sources.
+_B0660DAD79D83297	ABHFPRMFMK16	Giant Pearly Shell Prospection		a	the				Search for specific material sources.
+_CDD5E8BF51E59889	ABHFPRMFMK17	Small Pearl Prospection		a	the				Search for specific material sources.
+_0ED5E8B80FF66882	ABHFPRMFMK18	Large Pearl Prospection		a	the				Search for specific material sources.
+_4ED5E8C7D1E5887D	ABHFPRMFMK19	Giant Pearl Prospection		a	the				Search for specific material sources.
+_DDB8569E37F9F288	ABHFPRMFMK20	Silvery Fish Scale Prospection		a	the				Search for specific material sources.
+_D4360907129A59D6	ABHFPRMFMK21	Golden Fish Scale Prospection		a	the				Search for specific material sources.
+_83B4106F4C758C83	ABHFPRMFMK22	Worm Silk Prospection		a	the				Search for specific material sources.
+_47E231B84F558C91	ABHFPRMFMK23	Spider Silk Prospection		a	the				Search for specific material sources.
+_9CD71CF39625C1CD	ABHFPRMFMK24	Small Reed Stem Prospection		a	the				Search for specific material sources.
+_DCD71CEC543691C6	ABHFPRMFMK25	Large Reed Stem Prospection		a	the				Search for specific material sources.
+_EE528DAB6257FAA5	ABHFPRMFMK26	Fresh Loose Soil Prospection		a	the				Search for specific material sources.
+_2E528DA7DF97FAA3	ABHFPRMFMK27	Dried Loose Soil Prospection		a	the				Search for specific material sources.
+_76277DCBA35932A0	ABHFPRMFMK28	Small Plant Fossil Prospection		a	the				Search for specific material sources.
+_B6277DC4616A0299	ABHFPRMFMK29	Large Plant Fossil Prospection		a	the				Search for specific material sources.
+_0E660DA33E96688C	ABHFPRMFMK30	Red Pigment Prospection		a	the				Search for specific material sources.
+_97363CE1D0F754BF	ABHFPRMFMK31	Green Pigment Prospection		a	the				Search for specific material sources.
+_E324924EE162A961	ABHFPRMFMK32	Blue Pigment Prospection		a	the				Search for specific material sources.
+_60E1AE9EE5B4859D	ABHFPRMFMK33	Yellow Pigment Prospection		a	the				Search for specific material sources.
+_58363CDE4FB73CBA	ABHFPRMFMK34	Black Pigment Prospection		a	the				Search for specific material sources.
+_568FC487D952752B	ABHFPRMFML02	Green Leaf Prospection		a	the				Search for specific material sources.
+_758505A1F8A86A99	ABHFPRMFML03	Fresh Flower Petal Prospection		a	the				Search for specific material sources.
+_B685059D75E86A97	ABHFPRMFML04	Dried Flower Petal Prospection		a	the				Search for specific material sources.
+_862247BB0C648478	ABHFPRMFML05	Small Bud Prospection		a	the				Search for specific material sources.
+_C62247B4CA755471	ABHFPRMFML06	Large Bud Prospection		a	the				Search for specific material sources.
+_5BE648E49EB9D5C9	ABHFPRMFML07	Fresh Dandelion Prospection		a	the				Search for specific material sources.
+_9CE648E01BF9D5C7	ABHFPRMFML08	Dried Dandelion Prospection		a	the				Search for specific material sources.
+_F2777EEAF6088E54	ABHFPRMFML09	Blooming Dandelion Prospection		a	the				Search for specific material sources.
+_E993399C6755A9A1	ABHFPRMFML10	Small Mushroom Prospection		a	the				Search for specific material sources.
+_299339952566799A	ABHFPRMFML11	Large Mushroom Prospection		a	the				Search for specific material sources.
+_DD96893568DC6501	ABHFPRMFML12	Living Insect Larva Prospection		a	the				Search for specific material sources.
+_A3A2D5966291C16A	ABHFPRMFML13	Fresh Cereal Prospection		a	the				Search for specific material sources.
+_E4A2D592DFD1C168	ABHFPRMFML14	Dried Cereal Prospection		a	the				Search for specific material sources.
+_A21B71BB12ABF1CB	ABHFPRMFML15	Dead Insect Larva Prospection		a	the				Search for specific material sources.
+_426247BB0C64847B	ABHFPRMFML16	Small Egg Prospection		a	the				Search for specific material sources.
+_826247B4CA755474	ABHFPRMFML17	Large Egg Prospection		a	the				Search for specific material sources.
+_9054ECBB12F67889	ABHFPRMFML18	Fresh Honey Prospection		a	the				Search for specific material sources.
+_D054ECB78F367887	ABHFPRMFML19	Dried Honey Prospection		a	the				Search for specific material sources.
+_6CFC6FF540DBF28C	ABHFPRMFML20	Peppery Aromatic Plant Prospection		a	the				Search for specific material sources.
+_7A9462107DB75EE0	ABHFPRMFML21	Spicy Aromatic Plant Prospection		a	the				Search for specific material sources.
+_D5592E4CEC7EE915	ABHFPRMFML22	Bitter Aromatic Plant Prospection		a	the				Search for specific material sources.
+_EF949DBDEA03BEA2	ABHFPRMFML23	Fresh Wild Berry Prospection		a	the				Search for specific material sources.
+_30949DB96743BEA0	ABHFPRMFML24	Dried Wild Berry Prospection		a	the				Search for specific material sources.
+_9044ECBF5166749D	ABHFPRMFML25	Small Fruit Prospection		a	the				Search for specific material sources.
+_D044ECB80F774496	ABHFPRMFML26	Large Fruit Prospection		a	the				Search for specific material sources.
+_ACA159E6B6B8428E	ABHFPRMFMM02	Fresh Modified Sap Prospection		a	the				Search for specific material sources.
+_ECA159E233F8428C	ABHFPRMFMM03	Dried Modified Sap Prospection		a	the				Search for specific material sources.
+_21B8F02A26C918DB	ABHFPRMFMM04	Fresh Goo Residue Prospection		a	the				Search for specific material sources.
+_61B8F026A30918D9	ABHFPRMFMM05	Dried Goo Residue Prospection		a	the				Search for specific material sources.
+_D61481EADD8AE9C2	ABHFPRMFMN02	Living Parasite Prospection		a	the				Search for specific material sources.
+_5917098412F738B6	ABHFPRMFMN03	Dead Parasite Prospection		a	the				Search for specific material sources.
+_F079C8526B9DDD3A	ABHFPRMFMN04	Small Firefly Abdomen Prospection		a	the				Search for specific material sources.
+_3079C84B29AEAD33	ABHFPRMFMN05	Large Firefly Abdomen Prospection		a	the				Search for specific material sources.
+_7587A1D4A3A80EA8	ABHFPRMFMN06	Red Butterfly Wing Prospection		a	the				Search for specific material sources.
+_B0198E0239B7A2C4	ABHFPRMFMN07	Green Butterfly Wing Prospection		a	the				Search for specific material sources.
+_A71962DF28FD19F4	ABHFPRMFMN08	Blue Butterfly Wing Prospection		a	the				Search for specific material sources.
+_2DC93E47EBEE99FF	ABHFPRMFMN09	Yellow Butterfly Wing Prospection		a	the				Search for specific material sources.
+_2A5A0DDF6E1B090E	ABHFPRMFMN10	Small Insect Fossil Prospection		a	the				Search for specific material sources.
+_6A5A0DD82C2CD907	ABHFPRMFMN11	Large Insect Fossil Prospection		a	the				Search for specific material sources.
+_32B58DC464383AAC	ABHFPRMFMO02	Fresh Kitin Cocoon Prospection		a	the				Search for specific material sources.
+_2C15C29E612595AD	ABHFPRMFMO03	Old Kitin Cocoon Prospection		a	the				Search for specific material sources.
+_E393E19C1DD3AD69	ABHFPRMFMO04	Kitin Saliva Prospection		a	the				Search for specific material sources.
+_4C84F8C190669892	ABHFPRMFMO05	Kitin Larva Prospection		a	the				Search for specific material sources.
+_12D41E972182B550	ABHFPRMFMP02	Rotting Leaf Prospection		a	the				Search for specific material sources.
+_52D41E97A162DD5B	ABHFPRMFMP03	Rotting Wood Prospection		a	the				Search for specific material sources.
+_CE05FCBF51059897	ABHFPRMFMP04	Small Thorn Prospection		a	the				Search for specific material sources.
+_0E05FCB80F166890	ABHFPRMFMP05	Large Thorn Prospection		a	the				Search for specific material sources.
+_4E05FCC7D105888B	ABHFPRMFMP06	Giant Thorn Prospection		a	the				Search for specific material sources.
+_4B5E652E885C38F6	ABHFPRMFMP07	Dust Prospection		a	the				Search for specific material sources.
+_077789DA52B838A9	ABHFPRMFMP08	Rotting Fiber Prospection		a	the				Search for specific material sources.
+_6D63417C3517AAAC	ABHFPRMFMP09	Small Spider Web Prospection		a	the				Search for specific material sources.
+_2B734175F3287AA5	ABHFPRMFMP10	Large Spider Web Prospection		a	the				Search for specific material sources.
+_C23570A1F9E59873	ABHFPRMFMQ02	Dry Resin Prospection		a	the				Search for specific material sources.
+_6D05FAAB63587A54	ABHFPRMFMQ03	Dry Wood Sawdust Prospection		a	the				Search for specific material sources.
+_4125ACA2F9E5987C	ABHFPRMFMQ04	Dry Straw Prospection		a	the				Search for specific material sources.
+_5A12A5399CD27528	ABHFPRMFMQ05	Damp Straw Prospection		a	the				Search for specific material sources.
+_C1735BB7CDA4987F	ABHFPRMFMQ06	Fresh Wax Prospection		a	the				Search for specific material sources.
+_0343A46AAFA44459	ABHFPRMFMQ07	Dry Wax Prospection		a	the				Search for specific material sources.
+_5A9FD8815C52A93C	ABHFPRMFMQ08	Fresh Moss Prospection		a	the				Search for specific material sources.
+_950F253D86422D34	ABHFPRMFMQ09	Dry Moss Prospection		a	the				Search for specific material sources.
 _59E979BB16ECF9CA	ABHFPRMFMW02	Gulatch Oil Prospection		a	the				 
 _2AC938D96035BFD4	ABHFPRMFMW03	Pilan Oil Prospection		a	the				 
 _EAF93582A287F84D	ABHFPRMFMW04	Irin Oil Prospection		a	the				 
@@ -1558,11 +1659,11 @@ _817F1832A9EF2088	ABHFPMH07	Prospecting with Extraction Time Bonus of 30 s		a	th
 _19BD145ECBA67B7F	ABHFPMK01	Prospection For Fine Materials And Lower		a	the				Allows to find up to fine & prime raw materials
 _98BB58925DFDFAD4	ABHFPMK02	Prospection For Choice Materials And Lower		a	the				Allows to find up to choice & select raw materials
 _BF9D00150AC0052D	ABHFPMK03	Prospection For Excellent Materials And Lower		a	the				Allows to find up to excellent & superb raw materials
-_50233C3C0B1461F8	ABHFPMK04	Prospection For Supreme Materials And Lower		a	the				Allows to find up to supreme & magnificient raw materials
+_50233C3C0B1461F8	ABHFPMK04	Prospection For Supreme Materials And Lower		a	the				Allows to find up to supreme & magnificent raw materials
 _E7C052A496165B67	ABHFPMK05	Prospection For Only Fine materials		a	the				Allows to find only fine & prime raw materials
 _9ADC44337143A03B	ABHFPMK06	Prospection For Only Choice materials		a	the				Allows to find only choice & select raw materials
 _824E15FA6BE910E4	ABHFPMK07	Prospection For Only Excellent materials		a	the				Allows to find only excellent & superb raw materials
-_C237770C76863EDD	ABHFPMK08	Prospection For Only Supreme materials		a	the				Allows to find only supreme & magnificient raw materials
+_C237770C76863EDD	ABHFPMK08	Prospection For Only Supreme materials		a	the				Allows to find only supreme & magnificent raw materials
 _D8E36F0CFD8D302B	ABHFPPMM01	Prospection For Private Source		a	the				 
 _398D771A7D8AC8F3	ABHFPPMM02	Prospection For Team Source		a	the				 
 _01EE7821AC9DD4F9	ABHFPPMM03	Prospection For Guild Source		a	the				 
@@ -1646,6 +1747,7 @@ _4EDB9FAAAB1B8F76	ABHFEMA02	Desert Extraction Specialization		a	the				Reduce th
 _0DDCB7ABAB2A7778	ABHFEMA03	Jungle Extraction Specialization		a	the				Reduce the aggressiveness of rate and quality
 _D09582B2C1C359D3	ABHFEMA04	Lake Extraction Specialization		a	the				Reduce the aggressiveness of rate and quality
 _2B9CDBD31FEADE4F	ABHFEMA05	Primary Root Extraction Specialization		a	the				Reduce the aggressiveness of rate and quality
+_54C656B4C1C359E1	ABHFEMA06	Atys extraction specialization		a	the				Reduce the aggressiveness of rate and quality
 _41BDACCCEE30BA3C	ABHFEMB01	Plant Sap Extraction Specialization		a	the				Increase quality and reduce the aggressiveness of speed
 _FC3D9560C1D08008	ABHFEMB02	Amber Extraction Specialization		a	the				Increase quality and reduce the aggressiveness of speed
 _3EECB4F3434D1AE8	ABHFEMB03	Node Extraction Specialization		a	the				Increase quality and reduce the aggressiveness of speed
@@ -1655,6 +1757,13 @@ _7E4CC8F6434D1AE7	ABHFEMB06	Seed Extraction Specialization		a	the				Increase qu
 _BDEDDD65C1D0680F	ABHFEMB07	Shell Extraction Specialization		a	the				Increase quality and reduce the aggressiveness of speed
 _40BD5967B9D0F00C	ABHFEMB09	Resin Extraction Specialization		a	the				Increase quality and reduce the aggressiveness of speed
 _00ECD810834F1A07	ABHFEMB10	Wood Extraction Specialization		a	the				Increase quality and reduce the aggressiveness of speed
+_46727AE2FBEDCFA1	ABHFEMB11	Construction Extraction Specialization		an	the				Increase quality and reduce the aggressiveness of speed.
+_ABDCB5809EC6FE24	ABHFEMB12	Food Extraction Specialization		an	the				Increase quality and reduce the aggressiveness of speed.
+_084638168D761835	ABHFEMB13	Goo Extraction Specialization		an	the				Increase quality and reduce the aggressiveness of speed.
+_11777CEB4450EFEC	ABHFEMB14	Insect Extraction Specialization		an	the				Increase quality and reduce the aggressiveness of speed.
+_3C8173C7E45FE2B7	ABHFEMB15	Kitin Extraction Specialization		an	the				Increase quality and reduce the aggressiveness of speed.
+_6EEC0D670347E054	ABHFEMB16	Harmful Extraction Specialization		an	the				Increase quality and reduce the aggressiveness of speed.
+_C6A3AEE63BED9398	ABHFEMB17	Preservative Extraction Specialization		an	the				Increase quality and reduce the aggressiveness of speed.
 _383D9CCE66303A3C	ABHFEMB23	Oil Extraction Specialization		a	the				Increase quality and reduce the aggressiveness of speed
 _1AE8C73DC7635B69	ABHFEMC01	Resources Preservation 1		a	the				Increase the life of a forage source, to avoid its untimely disappearance and possible exhaustion of the area
 _1AE8C73FC7635B69	ABHFEMC02	Resources Preservation 2		a	the				Increase the life of a forage source, to avoid its untimely disappearance and possible exhaustion of the area
@@ -3683,3 +3792,95 @@ _FA7C38A20667F398	abcbahh	Plan de casque Erouk'an		un	le	Plans de casque Erouk'a
 _295050CC9C53F6B4	abcbahp	Plan de jambières Erouk'an		un	le	Plans de jambières Erouk'an	des	les	Plan de création de jambières Erouk'an
 _451B5F17B08DE756	abcbahs	Plan de manches Erouk'an		un	le	Plans de manches Erouk'an	des	les	Plan de création de manches Erouk'an
 _A611E84DA94DBB9D	abcbahv	Plan de plastron Erouk'an		un	le	Plans de plastron Erouk'an	des	les	Plan de création de plastron Erouk'an
+_352E2EE85E84AC10	abcomaretammo_1	Plan d'Outil de création de munitions Armilo-Mar		un	le	Plans d'Outil de création de munitions Armilo-Mar	des	les	Plan de création pour Outil de création de munitions Armilo-Mar
+_16B24713D47AFB35	abcomaretammo_2	Plan d'Outil de création de munitions Rubbarn-Mar		un	le	Plans d'Outil de création de munitions Rubbarn-Mar	des	les	Plan de création pour Outil de création de munitions Rubbarn-Mar
+_54DD23BB6D8BB0F5	abcomaretarmor_1	Plan d'Outil de création d'armures Armilo-Mar		un	le	Plans d'Outil de création d'armures Armilo-Mar	des	les	Plan de création pour Outil de création d'armures Armilo-Mar
+_6BD2E0DFAA1A807A	abcomaretarmor_2	Plan d'Outil de création d'armures Rubbarn-Mar		un	le	Plans d'Outil de création d'armures Rubbarn-Mar	des	les	Plan de création pour Outil de création d'armures Rubbarn-Mar
+_930853803944CE55	abcomaretforage_1	Plan de Pioche de Forage Greslin-Mar		un	le	Plans de Pioche de Forage Greslin-Mar	des	les	Plan de création pour Pioche de Forage Greslin-Mar
+_8851F7D50898C001	abcomaretforage_2	Plan de Pioche de Forage Egiros-Mar		un	le	Plans de Pioche de Forage Egiros-Mar	des	les	Plan de création pour Pioche de Forage Egiros-Mar
+_07403FB05BBD9729	abcomaretjewel_1	Plan d'Outil de création de bijoux Armilo-Mar		un	le	Plans d'Outil de création de bijoux Armilo-Mar	des	les	Plan de création pour Outil de création de bijoux Armilo-Mar
+_A0B3E7292756455A	abcomaretjewel_2	Plan d'Outil de création de bijoux Rubbarn-Mar		un	le	Plans d'Outil de création de bijoux Rubbarn-Mar	des	les	Plan de création pour Outil de création de bijoux Rubbarn-Mar
+_AB2E9D4A6A239073	abcomaretmwea_1	Plan d'Outil de création d'armes de mêlée Armilo-Mar		un	le	Plans d'Outil de création d'armes de mêlée Armilo-Mar	des	les	Plan de création pour Outil de création d'armes de mêlée Armilo-Mar
+_B8937F36FFF50BA4	abcomaretmwea_2	Plan d'Outil de création d'armes de mêlée Rubbarn-Mar		un	le	Plans d'Outil de création d'armes de mêlée Rubbarn-Mar	des	les	Plan de création pour Outil de création d'armes de mêlée Rubbarn-Mar
+_7667CF593C185993	abcomaretrwea_1	Plan d'Outil de création d'armes de tir Armilo-Mar		un	le	Plans d'Outil de création d'armes de tir Armilo-Mar	des	les	Plan de création pour Outil de création d'armes de tir Armilo-Mar
+_2A5FE43DC55571B8	abcomaretrwea_2	Plan d'Outil de création d'armes de tir Rubbarn-Mar		un	le	Plans d'Outil de création d'armes de tir Rubbarn-Mar	des	les	Plan de création pour Outil de création d'armes de tir Rubbarn-Mar
+_1AAAC019A8C06736	abcomarem1bm_1	Plan de Masse Tekorn-Mar		un	le	Plans de Masse Tekorn-Mar	des	les	Plan de création pour Masse Tekorn-Mar
+_1AF9B49B87CF6BB7	abcomarem1bs_1	Plan de Bâton Tekorn-Mar		un	le	Plans de Bâton Tekorn-Mar	des	les	Plan de création pour Bâton Tekorn-Mar
+_96AB980D66503736	abcomarem1pd_1	Plan de Dague Tekorn-Mar		un	le	Plans de Dague Tekorn-Mar	des	les	Plan de création pour Dague Tekorn-Mar
+_5B8A6C1468AF5336	abcomarem1ps_1	Plan de Lance Tekorn-Mar		un	le	Plans de Lance Tekorn-Mar	des	les	Plan de création pour Lance Tekorn-Mar
+_D60A540967BF2736	abcomarem1sa_1	Plan de Hache Tekorn-Mar		un	le	Plans de Hache Tekorn-Mar	des	les	Plan de création pour Hache Tekorn-Mar
+_FBFFFB37643D288B	abcomarem1ss_1	Plan d'Epée Tekorn-Mar		un	le	Plans d'Epée Tekorn-Mar	des	les	Plan de création pour Epée Tekorn-Mar
+_A1FE8D4ADAC9D2CB	abcomarem2bm_1	Plan de Masse à 2M Tekorn-Mar		un	le	Plans de Masse à 2M Tekorn-Mar	des	les	Plan de création pour Masse à 2M Tekorn-Mar
+_C5B4E15E9B97B09D	abcomarem2ms_1	Plan d'Amplificateur Magique Maga-Mar		un	le	Plans d'Amplificateur Magique Maga-Mar	des	les	Plan de création pour Amplificateur Magique Maga-Mar
+_9CABC41F6B115F3E	abcomarem2pp_1	Plan de Pique Tekorn-Mar		un	le	Plans de Pique Tekorn-Mar	des	les	Plan de création pour Pique Tekorn-Mar
+_D80E4D35DA79D2C0	abcomarem2sa_1	Plan de Hache à 2M Tekorn-Mar		un	le	Plans de Hache à 2M Tekorn-Mar	des	les	Plan de création pour Hache à 2M Tekorn-Mar
+_8D0CAD8A84A76BB6	abcomarem2ss_1	Plan d'Epée à 2M Tekorn-Mar		un	le	Plans d'Epée à 2M Tekorn-Mar	des	les	Plan de création pour Epée à 2M Tekorn-Mar
+_591A680466C03732	abcomarem1bm_2	Plan de Masse Vedice-Mar		un	le	Plans de Masse Vedice-Mar	des	les	Plan de création pour Masse Vedice-Mar
+_59695C8645CF3BB3	abcomarem1bs_2	Plan de Bâton Vedice-Mar		un	le	Plans de Bâton Vedice-Mar	des	les	Plan de création pour Bâton Vedice-Mar
+_D51B40F824500732	abcomarem1pd_2	Plan de Dague Vedice-Mar		un	le	Plans de Dague Vedice-Mar	des	les	Plan de création pour Dague Vedice-Mar
+_9AFA14FF26AF2332	abcomarem1ps_2	Plan de Lance Vedice-Mar		un	le	Plans de Lance Vedice-Mar	des	les	Plan de création pour Lance Vedice-Mar
+_157AFCF425BFF732	abcomarem1sa_2	Plan de Hache Vedice-Mar		un	le	Plans de Hache Vedice-Mar	des	les	Plan de création pour Hache Vedice-Mar
+_FD1FBF33614CF875	abcomarem1ss_2	Plan d'Epée Vedice-Mar		un	le	Plans d'Epés Vedice-Mar	des	les	Plan de création pour Epée Vedice-Mar
+_60FE713295697EC7	abcomarem2bm_2	Plan de Masse à 2M Vedice-Mar		un	le	Plans de Masse à 2M Vedice-Mar	des	les	Plan de création pour Masse à 2M Vedice-Mar
+_49452E34B00EB642	abcomarem2ms_2	Plan d'Amplificateur Magique Cheng-Mar		un	le	Plans d'Amplificateur Magique Cheng-Mar	des	les	Plan de création pour Amplificateur Magique Cheng-Mar
+_DB1B6C0A29112F3A	abcomarem2pp_2	Plan de Pique Vedice-Mar		un	le	Plans de Pique Vedice-Mar	des	les	Plan de création pour Pique Vedice-Mar
+_970E311D95197EBC	abcomarem2sa_2	Plan de Hache à 2M Vedice-Mar		un	le	Plans de Hache à 2M Vedice-Mar	des	les	Plan de création pour Hache à 2M Vedice-Mar
+_41EC598A04A76F9B	abcomarem2ss_2	Plan d'Epée à 2M Vedice-Mar		un	le	Plans d'Epée à 2M Vedice-Mar	des	les	Plan de création pour Epée à 2M Vedice-Mar
+_3980D184F8F2E2D3	abcomarer1b_1	Plan de Pistolet-Arbalète Tekorn-Mar		un	le	Plans de Pistolet-Arbalète Tekorn-Mar	des	les	Plan de création pour Pistolet-Arbalète Tekorn-Mar
+_A34C1CE23496EC5B	abcomarer1p_1	Plan de Pistolet Tekorn-Mar		un	le	Plans de Pistolet Tekorn-Mar	des	les	Plan de création pour Pistolet Tekorn-Mar
+_1367926E588FE5D9	abcomarer2a_1	Plan de Mitrailleuse Tekorn-Mar		un	le	Plans de Mitrailleuse Tekorn-Mar	des	les	Plan de création pour Mitrailleuse Tekorn-Mar
+_EE96D9449D994304	abcomarer2b_1	Plan de Fusil-Arbalète Tekorn-Mar		un	le	Plans de Fusil-Arbalète Tekorn-Mar	des	les	Plan de création pour Fusil-Arbalète Tekorn-Mar
+_0F167DD113E05FE7	abcomarer2l_1	Plan de Lance-Grenades Tekorn-Mar		un	le	Plans de Lance-Grenades Tekorn-Mar	des	les	Plan de création pour Lance-Grenades Tekorn-Mar
+_CF51D2632D253521	abcomarer2r_1	Plan de Fusil Tekorn-Mar		un	le	Plans de Fusil Tekorn-Mar	des	les	Plan de création pour Fusil Tekorn-Mar
+_7340B58878F29AAD	abcomarer1b_2	Plan de Pistolet-Arbalète Vedice-Mar		un	le	Plans de Pistolet-Arbalète Vedice-Mar	des	les	Plan de création pour Pistolet-Arbalète Vedice-Mar
+_1FDAB0CE73D6F45C	abcomarer1p_2	Plan de Pistolet Vedice-Mar		un	le	Plans de Pistolet Vedice-Mar	des	les	Plan de création pour Pistolet Vedice-Mar
+_10968267162E91CD	abcomarer2a_2	Plan de Mitrailleuse Vedice-Mar		un	le	Plans de Mitrailleuse Vedice-Mar	des	les	Plan de création pour Mitrailleuse Vedice-Mar
+_2A5699355A382BF7	abcomarer2b_2	Plan de Fusil-Arbalète Vedice-Mar		un	le	Plans de Fusil-Arbalète Vedice-Mar	des	les	Plan de création pour Fusil-Arbalète Vedice-Mar
+_4BD63DC2D07F47DA	abcomarer2l_2	Plan de Lance-Grenades Vedice-Mar		un	le	Plans de Lance-Grenades Vedice-Mar	des	les	Plan de création pour Lance-Grenades Vedice-Mar
+_CEE1AE4DE855F515	abcomarer2r_2	Plan de Fusil Vedice-Mar		un	le	Plans de Fusil Vedice-Mar	des	les	Plan de création pour Fusil Vedice-Mar
+_352E2EE85E84AC10	abcogenetammo_1	Plan d'Outil de création de munitions Armilo-Gen		un	le	Plans d'Outil de création de munitions Armilo-Gen	des	les	Plan de création pour Outil de création de munitions Armilo-Gen
+_16B24713D47AFB35	abcogenetammo_2	Plan d'Outil de création de munitions Rubbarn-Gen		un	le	Plans d'Outil de création de munitions Rubbarn-Gen	des	les	Plan de création pour Outil de création de munitions Rubbarn-Gen
+_54DD23BB6D8BB0F5	abcogenetarmor_1	Plan d'Outil de création d'armures Armilo-Gen		un	le	Plans d'Outil de création d'armures Armilo-Gen	des	les	Plan de création pour Outil de création d'armures Armilo-Gen
+_6BD2E0DFAA1A807A	abcogenetarmor_2	Plan d'Outil de création d'armures Rubbarn-Gen		un	le	Plans d'Outil de création d'armures Rubbarn-Gen	des	les	Plan de création pour Outil de création d'armures Rubbarn-Gen
+_930853803944CE55	abcogenetforage_1	Plan de Pioche de Forage Greslin-Gen		un	le	Plans de Pioche de Forage Greslin-Gen	des	les	Plan de création pour Pioche de Forage Greslin-Gen
+_8851F7D50898C001	abcogenetforage_2	Plan de Pioche de Forage Egiros-Gen		un	le	Plans de Pioche de Forage Egiros-Gen	des	les	Plan de création pour Pioche de Forage Egiros-Gen
+_07403FB05BBD9729	abcogenetjewel_1	Plan d'Outil de création de bijoux Armilo-Gen		un	le	Plans d'Outil de création de bijoux Armilo-Gen	des	les	Plan de création pour Outil de création de bijoux Armilo-Gen
+_A0B3E7292756455A	abcogenetjewel_2	Plan d'Outil de création de bijoux Rubbarn-Gen		un	le	Plans d'Outil de création de bijoux Rubbarn-Gen	des	les	Plan de création pour Outil de création de bijoux Rubbarn-Gen
+_AB2E9D4A6A239073	abcogenetmwea_1	Plan d'Outil de création d'armes de mêlée Armilo-Gen		un	le	Plans d'Outil de création d'armes de mêlée Armilo-Gen	des	les	Plan de création pour Outil de création d'armes de mêlée Armilo-Gen
+_B8937F36FFF50BA4	abcogenetmwea_2	Plan d'Outil de création d'armes de mêlée Rubbarn-Gen		un	le	Plans d'Outil de création d'armes de mêlée Rubbarn-Gen	des	les	Plan de création pour Outil de création d'armes de mêlée Rubbarn-Gen
+_7667CF593C185993	abcogenetrwea_1	Plan d'Outil de création d'armes de tir Armilo-Gen		un	le	Plans d'Outil de création d'armes de tir Armilo-Gen	des	les	Plan de création pour Outil de création d'armes de tir Armilo-Gen
+_2A5FE43DC55571B8	abcogenetrwea_2	Plan d'Outil de création d'armes de tir Rubbarn-Gen		un	le	Plans d'Outil de création d'armes de tir Rubbarn-Gen	des	les	Plan de création pour Outil de création d'armes de tir Rubbarn-Gen
+_1AAAC019A8C06736	abcogenem1bm_1	Plan de Masse Tekorn-Gen		un	le	Plans de Masse Tekorn-Gen	des	les	Plan de création pour Masse Tekorn-Gen
+_1AF9B49B87CF6BB7	abcogenem1bs_1	Plan de Bâton Tekorn-Gen		un	le	Plans de Bâton Tekorn-Gen	des	les	Plan de création pour Bâton Tekorn-Gen
+_96AB980D66503736	abcogenem1pd_1	Plan de Dague Tekorn-Gen		un	le	Plans de Dague Tekorn-Gen	des	les	Plan de création pour Dague Tekorn-Gen
+_5B8A6C1468AF5336	abcogenem1ps_1	Plan de Lance Tekorn-Gen		un	le	Plans de Lance Tekorn-Gen	des	les	Plan de création pour Lance Tekorn-Gen
+_D60A540967BF2736	abcogenem1sa_1	Plan de Hache Tekorn-Gen		un	le	Plans de Hache Tekorn-Gen	des	les	Plan de création pour Hache Tekorn-Gen
+_FBFFFB37643D288B	abcogenem1ss_1	Plan d'Epée Tekorn-Gen		un	le	Plans d'Epée Tekorn-Gen	des	les	Plan de création pour Epée Tekorn-Gen
+_A1FE8D4ADAC9D2CB	abcogenem2bm_1	Plan de Masse à 2M Tekorn-Gen		un	le	Plans de Masse à 2M Tekorn-Gen	des	les	Plan de création pour Masse à 2M Tekorn-Gen
+_C5B4E15E9B97B09D	abcogenem2ms_1	Plan d'Amplificateur Magique Maga-Gen		un	le	Plans d'Amplificateur Magique Maga-Gen	des	les	Plan de création pour Amplificateur Magique Maga-Gen
+_9CABC41F6B115F3E	abcogenem2pp_1	Plan de Pique Tekorn-Gen		un	le	Plans de Pique Tekorn-Gen	des	les	Plan de création pour Pique Tekorn-Gen
+_D80E4D35DA79D2C0	abcogenem2sa_1	Plan de Hache à 2M Tekorn-Gen		un	le	Plans de Hache à 2M Tekorn-Gen	des	les	Plan de création pour Hache à 2M Tekorn-Gen
+_8D0CAD8A84A76BB6	abcogenem2ss_1	Plan d'Epée à 2M Tekorn-Gen		un	le	Plans d'Epée à 2M Tekorn-Gen	des	les	Plan de création pour Epée à 2M Tekorn-Gen
+_591A680466C03732	abcogenem1bm_2	Plan de Masse Vedice-Gen		un	le	Plans de Masse Vedice-Gen	des	les	Plan de création pour Masse Vedice-Gen
+_59695C8645CF3BB3	abcogenem1bs_2	Plan de Bâton Vedice-Gen		un	le	Plans de Bâton Vedice-Gen	des	les	Plan de création pour Bâton Vedice-Gen
+_D51B40F824500732	abcogenem1pd_2	Plan de Dague Vedice-Gen		un	le	Plans de Dague Vedice-Gen	des	les	Plan de création pour Dague Vedice-Gen
+_9AFA14FF26AF2332	abcogenem1ps_2	Plan de Lance Vedice-Gen		un	le	Plans de Lance Vedice-Gen	des	les	Plan de création pour Lance Vedice-Gen
+_157AFCF425BFF732	abcogenem1sa_2	Plan de Hache Vedice-Gen		un	le	Plans de Hache Vedice-Gen	des	les	Plan de création pour Hache Vedice-Gen
+_FD1FBF33614CF875	abcogenem1ss_2	Plan d'Epée Vedice-Gen		un	le	Plans d'Epés Vedice-Gen	des	les	Plan de création pour Epée Vedice-Gen
+_60FE713295697EC7	abcogenem2bm_2	Plan de Masse à 2M Vedice-Gen		un	le	Plans de Masse à 2M Vedice-Gen	des	les	Plan de création pour Masse à 2M Vedice-Gen
+_49452E34B00EB642	abcogenem2ms_2	Plan d'Amplificateur Magique Cheng-Gen		un	le	Plans d'Amplificateur Magique Cheng-Gen	des	les	Plan de création pour Amplificateur Magique Cheng-Gen
+_DB1B6C0A29112F3A	abcogenem2pp_2	Plan de Pique Vedice-Gen		un	le	Plans de Pique Vedice-Gen	des	les	Plan de création pour Pique Vedice-Gen
+_970E311D95197EBC	abcogenem2sa_2	Plan de Hache à 2M Vedice-Gen		un	le	Plans de Hache à 2M Vedice-Gen	des	les	Plan de création pour Hache à 2M Vedice-Gen
+_41EC598A04A76F9B	abcogenem2ss_2	Plan d'Epée à 2M Vedice-Gen		un	le	Plans d'Epée à 2M Vedice-Gen	des	les	Plan de création pour Epée à 2M Vedice-Gen
+_3980D184F8F2E2D3	abcogener1b_1	Plan de Pistolet-Arbalète Tekorn-Gen		un	le	Plans de Pistolet-Arbalète Tekorn-Gen	des	les	Plan de création pour Pistolet-Arbalète Tekorn-Gen
+_A34C1CE23496EC5B	abcogener1p_1	Plan de Pistolet Tekorn-Gen		un	le	Plans de Pistolet Tekorn-Gen	des	les	Plan de création pour Pistolet Tekorn-Gen
+_1367926E588FE5D9	abcogener2a_1	Plan de Mitrailleuse Tekorn-Gen		un	le	Plans de Mitrailleuse Tekorn-Gen	des	les	Plan de création pour Mitrailleuse Tekorn-Gen
+_EE96D9449D994304	abcogener2b_1	Plan de Fusil-Arbalète Tekorn-Gen		un	le	Plans de Fusil-Arbalète Tekorn-Gen	des	les	Plan de création pour Fusil-Arbalète Tekorn-Gen
+_0F167DD113E05FE7	abcogener2l_1	Plan de Lance-Grenades Tekorn-Gen		un	le	Plans de Lance-Grenades Tekorn-Gen	des	les	Plan de création pour Lance-Grenades Tekorn-Gen
+_CF51D2632D253521	abcogener2r_1	Plan de Fusil Tekorn-Gen		un	le	Plans de Fusil Tekorn-Gen	des	les	Plan de création pour Fusil Tekorn-Gen
+_7340B58878F29AAD	abcogener1b_2	Plan de Pistolet-Arbalète Vedice-Gen		un	le	Plans de Pistolet-Arbalète Vedice-Gen	des	les	Plan de création pour Pistolet-Arbalète Vedice-Gen
+_1FDAB0CE73D6F45C	abcogener1p_2	Plan de Pistolet Vedice-Gen		un	le	Plans de Pistolet Vedice-Gen	des	les	Plan de création pour Pistolet Vedice-Gen
+_10968267162E91CD	abcogener2a_2	Plan de Mitrailleuse Vedice-Gen		un	le	Plans de Mitrailleuse Vedice-Gen	des	les	Plan de création pour Mitrailleuse Vedice-Gen
+_2A5699355A382BF7	abcogener2b_2	Plan de Fusil-Arbalète Vedice-Gen		un	le	Plans de Fusil-Arbalète Vedice-Gen	des	les	Plan de création pour Fusil-Arbalète Vedice-Gen
+_4BD63DC2D07F47DA	abcogener2l_2	Plan de Lance-Grenades Vedice-Gen		un	le	Plans de Lance-Grenades Vedice-Gen	des	les	Plan de création pour Lance-Grenades Vedice-Gen
+_CEE1AE4DE855F515	abcogener2r_2	Plan de Fusil Vedice-Gen		un	le	Plans de Fusil Vedice-Gen	des	les	Plan de création pour Fusil Vedice-Gen
