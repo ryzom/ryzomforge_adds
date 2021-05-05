@@ -648,6 +648,10 @@
             type="sint32"
             value="0"
             size="%num_local_bonus_malus" />
+  <variable entry="UI:VARIABLES:BONUS:$i:DISABLED_TIME"
+            type="sint32"
+            value="0"
+            size="%num_local_bonus_malus" />
   <variable entry="UI:VARIABLES:BONUS:$i:SPECIAL_TOOLTIP"
             type="sint32"
             value="0"
@@ -657,6 +661,10 @@
             value="0"
             size="%num_local_bonus_malus" />
   <variable entry="UI:VARIABLES:MALUS:$i:DISABLED"
+            type="sint32"
+            value="0"
+            size="%num_local_bonus_malus" />
+  <variable entry="UI:VARIABLES:MALUS:$i:DISABLED_TIME"
             type="sint32"
             value="0"
             size="%num_local_bonus_malus" />
@@ -766,7 +774,7 @@
   <!-- The Bonus Malus Window -->
   <group type="container"
          id="bonus_malus"
-         w="116"
+         w="118"
          h="80"
          title=""
          global_color="false"
@@ -793,7 +801,7 @@
     <group id="header_opened"
            x="0"
            y="0"
-           w="116"
+           w="118"
            child_resize_h="true"
            child_resize_hmargin="7"
            posref="TL TL">
@@ -829,14 +837,14 @@
                posref="TL TL"
                y="0"
                wspace="2"
-               hspace="12"
+               hspace="16"
                maxitem="%num_local_bonus_malus"
                rowmin="1"
                rowmax="4"
                nature="sbrick"
                array="false"
-               lmargin="0"
-               rmargin="0"
+               lmargin="2"
+               rmargin="2"
                tmargin="0"
                bmargin="1"
                column_max="4"
@@ -847,7 +855,12 @@
                onclick_l="lua:game:onLeftClickBonus()"
                on_tooltip="aura_modifier_tooltip"
                child_resize_h="true"
-               tooltip_parent="win"></group>
+               tooltip_parent="win"
+               regen_text="true"
+               regen_text_y="-12"
+               regen_text_fontsize="9"
+               regen_text_color="255 255 0"
+               regen_text_disabled_color="200 200 200"></group>
         <!-- small texts under icons. For now do only the first 4th bonus. Do it later for other if needed -->
         <instance template="t_text_bonus"
                   id="text0"
@@ -904,7 +917,7 @@
                posref="TL TL"
                y="0"
                wspace="2"
-               hspace="12"
+               hspace="16"
                maxitem="%num_local_bonus_malus"
                rowmin="1"
                rowmax="4"
@@ -922,7 +935,12 @@
                onclick_l="lua:game:onLeftClickMalus()"
                on_tooltip="aura_modifier_tooltip"
                child_resize_h="true"
-               tooltip_parent="win"></group>
+               tooltip_parent="win"
+               regen_text="true"
+               regen_text_y="-12"
+               regen_text_fontsize="9"
+               regen_text_color="255 255 0"
+               regen_text_disabled_color="200 200 200"></group>
         <link expr="@UI:VARIABLES:SHOW_MALUS"
               target="active" />
       </group>
