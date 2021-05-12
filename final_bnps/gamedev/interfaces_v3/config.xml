@@ -2975,6 +2975,75 @@ This MUST follow the Enum MISSION_DESC::TIconId
   <variable entry="UI:SAVE:CHAT:SHADOWED_TEXT"
             type="bool"
             value="true" />
+  <!-- ******************************* -->
+  <!-- * CHAT TRANSLATION PARAMETERS * -->
+  <!-- ******************************* -->
+  <variable entry="UI:SAVE:TRANSLATION:EN:INVERSE_DISPLAY"
+	     type="bool"
+	     value="false" />
+  <variable entry="UI:SAVE:TRANSLATION:EN:HIDE_FLAG"
+	     type="bool"
+	     value="false" />
+  <variable entry="UI:SAVE:TRANSLATION:FR:INVERSE_DISPLAY"
+	     type="bool"
+	     value="false" />
+  <variable entry="UI:SAVE:TRANSLATION:FR:HIDE_FLAG"
+	     type="bool"
+	     value="false" />
+  <variable entry="UI:SAVE:TRANSLATION:DE:INVERSE_DISPLAY"
+	     type="bool"
+	     value="false" />
+  <variable entry="UI:SAVE:TRANSLATION:DE:HIDE_FLAG"
+	     type="bool"
+	     value="false" />
+  <variable entry="UI:SAVE:TRANSLATION:RU:INVERSE_DISPLAY"
+	     type="bool"
+	     value="false" />
+  <variable entry="UI:SAVE:TRANSLATION:RU:HIDE_FLAG"
+	     type="bool"
+	     value="false" />
+  <variable entry="UI:SAVE:TRANSLATION:ES:INVERSE_DISPLAY"
+	     type="bool"
+	     value="false" />
+  <variable entry="UI:SAVE:TRANSLATION:ES:HIDE_FLAG"
+	     type="bool"
+	     value="false" />
+  <variable entry="UI:SAVE:TRANSLATION:SAY:DISABLE"
+	     type="bool"
+	     value="false" />
+  <variable entry="UI:SAVE:TRANSLATION:SHOUT:DISABLE"
+	     type="bool"
+	     value="false" />
+  <variable entry="UI:SAVE:TRANSLATION:TEAM:DISABLE"
+	     type="bool"
+	     value="false" />
+  <variable entry="UI:SAVE:TRANSLATION:GUILD:DISABLE"
+	     type="bool"
+	     value="false" />
+  <variable entry="UI:SAVE:TRANSLATION:CIVILIZATION:DISABLE"
+	     type="bool"
+	     value="false" />
+  <variable entry="UI:SAVE:TRANSLATION:TERRITORY:DISABLE"
+	     type="bool"
+	     value="false" />
+  <variable entry="UI:SAVE:TRANSLATION:UNIVERSE:DISABLE"
+	     type="bool"
+	     value="false" />
+  <variable entry="UI:SAVE:TRANSLATION:TELL:DISABLE"
+	     type="bool"
+	     value="false" />
+  <variable entry="UI:SAVE:TRANSLATION:PLAYER:DISABLE"
+	     type="bool"
+	     value="false" />
+  <variable entry="UI:SAVE:TRANSLATION:ARROUND:DISABLE"
+	     type="bool"
+	     value="false" />
+  <variable entry="UI:SAVE:TRANSLATION:SYSTEM:DISABLE"
+	     type="bool"
+	     value="false" />
+  <variable entry="UI:SAVE:TRANSLATION:REGION:DISABLE"
+	     type="bool"
+	     value="false" />
   <!-- ****************************** -->
   <!-- *         CHAT COLORS        * -->
   <!-- ****************************** -->
@@ -3050,9 +3119,6 @@ This MUST follow the Enum MISSION_DESC::TIconId
   <variable entry="UI:SAVE:CHAT:SHOW_ONLINE_OFFLINE_NOTIFICATIONS_CB"
              type="bool"
              value="true" />
-  <variable entry="UI:SAVE:CHAT:SHOW_TRANSLATION_ONLY_AS_TOOLTIP_CB"
-	     type="bool"
-	     value="false" />
   <!-- ***************************** -->
   <!-- *    SYSTEM INFO COLORS     * -->
   <!-- ***************************** -->
