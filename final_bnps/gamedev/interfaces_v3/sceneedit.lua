@@ -589,14 +589,14 @@ function SceneEditor:get_html(message, message_bg)
 								 text_color = "55aa55"
 							end
 						end
-						shapes_html_dict.insert({id=shape.db_id, html="<tr bgcolor='#"..color.."'><td height='20px'>&nbsp;<input type='hidden' name='shape[]', value='"..SceneEditor:enc64((shape.db_id or '')..":"..Json.encode(shape)).."' />"..'#'..(shape.db_id or '0').." <a href='ah:lua:SceneEditor:launch_menu("..tostring(shape_id)..")'><font color='#"..text_color.."'>"..shape.file.."</font></a></td>\
+						table.insert(shapes_html_dict, {id=shape.db_id, html="<tr bgcolor='#"..color.."'><td height='20px'>&nbsp;<input type='hidden' name='shape[]', value='"..SceneEditor:enc64((shape.db_id or '')..":"..Json.encode(shape)).."' />"..'#'..(shape.db_id or '0').." <a href='ah:lua:SceneEditor:launch_menu("..tostring(shape_id)..")'><font color='#"..text_color.."'>"..shape.file.."</font></a></td>\
 						<td width='30px'><a href='ah:lua:SceneEditor:editShapeProperties("..tostring(shape_id)..")'><img src='"..self.iconsUrl.."/16/layout_edit.png' /></a></td>\
 						<td width='3px'><a href='ah:lua:SceneEditor:removeShape("..tostring(shape_id)..")'><img src='"..self.iconsUrl.."/16/cross.png' /></a></td>\
 						</tr>"})
 					end
 				end
 
-				table.sort(shapes_html_dict, function (a, b) return a.id < b.idd end)
+				table.sort(shapes_html_dict, function (a, b) return a.id < b.id end)
 				for k,shape in ipairs(shapes_html_dict) do
 					shapes_html = shape.html .. shapes_html
 				end
