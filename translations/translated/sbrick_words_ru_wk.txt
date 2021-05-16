@@ -4083,7 +4083,7 @@
 -	bctaea23	Tryker Light Bra Craft Pattern	Brick Craftman's plan for tryker light bra	
 -	bczaea22	Zorai Light Panties Craft Pattern	Brick Craftman's plan for zorai light panties	
 -	bczaea23	Zorai Light Bra Craft Pattern	Brick Craftman's plan for zorai light bra	
-1618581536	jrez_nodp_tryker	
+1618581536	jrez_nodp_tryker	Сладкая Смерть	Сладкие Смерти	@{5F5F}1% @{FFFF}шанса @{5F5F}избежать посмертного штрафа, следующего за воскрешением. @{FAAF}Только для Эден Аквеос и Нексуса.
 1619198342	jboost_2x	
 1619198360	tag_fyros_1	
 1619199443	jrez_fulllife_tryker	
@@ -4098,9 +4098,9 @@
 1619275952	jrez_fulllife_matis	
 1619275955	jrez_fulllife_zorai	
 1619275957	jrez_fulllife_fyros	
-1619275962	jrez_nodp_matis	
-1619275964	jrez_nodp_fyros	
-1619275966	jrez_nodp_zorai	
+1619275962	jrez_nodp_matis	Сладкая Смерть	Сладкие Смерти	@{5F5F}1% @{FFFF}шанса @{5F5F}избежать посмертного штрафа, следующего за воскрешением. @{FAAF}Только для Цветущих Высей и Нексуса.
+1619275964	jrez_nodp_fyros	Сладкая Смерть	Сладкие Смерти	@{5F5F}1% @{FFFF}шанса @{5F5F}избежать посмертного штрафа, следующего за воскрешением. @{FAAF}Только для Пылающей Пустыни и Нексуса.
+1619275966	jrez_nodp_zorai	Сладкая Смерть	Сладкие Смерти	@{5F5F}1% @{FFFF}шанса @{5F5F}избежать посмертного штрафа, следующего за воскрешением. @{FAAF}Только для Увядающих Земель и Нексуса.
 -	bcomarem1bm_1	Чертеж палицы Тэкорн-Map	Чертеж для изготовления палиц Тэкорн-Map.	
 -	bcomarem1bs_1	Чертеж посоха Тэкорн-Map	Чертеж для изготовления посохов Тэкорн-Map.	
 -	bcomarem1pd_1	Чертеж кинжала Тэкорн-Map	Чертеж для изготовления кинжалов Тэкорн-Map.	

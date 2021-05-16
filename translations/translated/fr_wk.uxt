@@ -2382,7 +2382,7 @@ uiOutpostOwner	[Propriétaire : ]
 
 uittOutpostOwner	[Propriétaire de l'avant-poste]
 
-uiOutpostTribe	[L'avant-poste est détenu par un clan de Maraudeurs.]
+uiOutpostTribe	[L'avant-poste est détenu par une tribu hostile.]
 
 uiOutpostAttacker	[Attaquant : ]
 
@@ -14621,4 +14621,36 @@ mission_real_tooltip	[{FFFC}Ceci est le @{6F6F}Cap@{FFFC} sur lequel vous êtes 
 	Cliquez pour obtenir plus d'@{6F6F}informations@{FFFC}.\n
 	\n
 	Il est également possible de changer de cap en cliquant sur @{6F6F}Mettre le Cap sur (...)@{FFFC} à chaque fois que l'option est disponible.]
+
+uiTranslationHeader	[Translations]
+
+uiTranslationLanguages	[Language]
+
+uiTranslationEnglish	[English]
+
+uiTranslationFrench	[French]
+
+uiTranslationGerman	[German]
+
+uiTranslationRussian	[Russian]
+
+uiTranslationSpanish	[Spanish]
+
+uiTranslationInverse	[Invert display]
+
+uittTranslationInverse	[Inverts the display of the original message and the translation]
+
+uittTranslationHide	[Hide flag"]
+
+uiTranslationHide	[Hide flag]
+
+uiTranslationDisable	[Disable translations for some channels]
+
+uiTranslationDisableAround	[Around, shout and emotes]
+
+uiTranslationDisableGuild	[Guild]
+
+uiTranslationDisableUniverse	[Universe]
+
+uiTranslationDisableRegion	[Region]
 

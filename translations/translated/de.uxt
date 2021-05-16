@@ -7307,9 +7307,9 @@ uiGloves	[HANDSCHUHE]
 
 uiGroupColor	[Team-Mitglieder]
 
-uiGUILD	[GILDE]
-
 uiGuild	[Gilde]
+
+uiGUILD	[GILDE]
 
 uiGuildBearer	[Bote]
 
@@ -8079,9 +8079,9 @@ uihMWeapon	[Nahkampfwaffen]
 
 uiHoleth	[Holeth]
 
-uiHOME	[STARTSEITE]
-
 uiHome	[Startseite]
+
+uiHOME	[STARTSEITE]
 
 uiHorizontal	[Horizontal]
 
@@ -10592,8 +10592,6 @@ uiOutpostTitleTime	[Zeit]
 
 uiOutpostTitleTotal	[Total]
 
-uiOutpostTribe	[Der Außenposten wird von einem Marodeurs-Stamm gehalten.]
-
 uiOutpostTSquad	[BEREITSTEHENDE TRUPPEN]
 
 uiOutpostTSquadDuring	[Während der Runde]
@@ -12007,9 +12005,9 @@ uiSaveMovie	[Film speichern]
 
 uiSaveUI	[Speichern]
 
-uiSay	[SPRECHEN]
-
 uiSAY	[SAGEN]
+
+uiSay	[SPRECHEN]
 
 uiSayColor	[Sprechen]
 
@@ -12587,9 +12585,9 @@ uiTatoos	[TATTOOS]
 
 uitCenter	[Auf Spieler zentrieren]
 
-uiTeam	[TEAM]
-
 uiTEAM	[TEAM]
+
+uiTeam	[TEAM]
 
 uiTeamChat	[Teamchat]
 
@@ -12822,6 +12820,34 @@ uiTrade2Player	[TAUSCHEN]
 uiTradeInvitation	[Einladung zum Tausch]
 
 uiTradeWith	[HANDEL MIT?]
+
+uiTranslationDisable	[]
+
+uiTranslationDisableAround	[]
+
+uiTranslationDisableGuild	[]
+
+uiTranslationDisableRegion	[]
+
+uiTranslationDisableUniverse	[]
+
+uiTranslationEnglish	[]
+
+uiTranslationFrench	[]
+
+uiTranslationGerman	[]
+
+uiTranslationHeader	[]
+
+uiTranslationHide	[]
+
+uiTranslationInverse	[]
+
+uiTranslationLanguages	[]
+
+uiTranslationRussian	[]
+
+uiTranslationSpanish	[]
 
 uiTrCulture	[TRYKER - KULTUR]
 
@@ -14278,6 +14304,18 @@ uittTitle	[Titel über dem Charakter anzeigen]
 
 uittToolCraftType	[@{6F6F}Werkzeugtyp @{FFFF}:\n
 	Ehe du mit einem Handwerk beginnen kannst, musst du das dafür jeweils nötige Werkzeug in die rechte Hand nehmen.]
+
+uittTranslationDisableAround	[]
+
+uittTranslationDisableGuild	[]
+
+uittTranslationDisableRegion	[]
+
+uittTranslationDisableUniverse	[]
+
+uittTranslationHide	[]
+
+uittTranslationInverse	[]
 
 uittUserColor	[Farbe, in welcher dein Charakter angezeigt wird]
 

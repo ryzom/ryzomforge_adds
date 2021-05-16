@@ -7313,9 +7313,9 @@ uiGloves	[GLOVES]
 
 uiGroupColor	[Team Members]
 
-uiGUILD	[GUILD]
-
 uiGuild	[Guild]
+
+uiGUILD	[GUILD]
 
 uiGuildBearer	[Bearer]
 
@@ -8093,9 +8093,9 @@ uihMWeapon	[Melee Weapons]
 
 uiHoleth	[Holeth]
 
-uiHOME	[HOME]
-
 uiHome	[Home]
+
+uiHOME	[HOME]
 
 uiHorizontal	[Horizontal]
 
@@ -10608,7 +10608,7 @@ uiOutpostTitleTime	[Time]
 
 uiOutpostTitleTotal	[Total]
 
-uiOutpostTribe	[The Outpost is owned by a Marauding Tribe.]
+uiOutpostTribe	[The Outpost is in the hands of a hostile tribe.]
 
 uiOutpostTSquad	[PENDING SQUADS]
 
@@ -12024,9 +12024,9 @@ uiSaveMovie	[Save Movie]
 
 uiSaveUI	[Save]
 
-uiSay	[SAY]
-
 uiSAY	[SAY]
+
+uiSay	[SAY]
 
 uiSayColor	[Say]
 
@@ -12604,9 +12604,9 @@ uiTatoos	[TATTOOS]
 
 uitCenter	[CENTER MAP ON YOURSELF]
 
-uiTeam	[TEAM]
-
 uiTEAM	[TEAM]
+
+uiTeam	[TEAM]
 
 uiTeamChat	[Team Chat]
 
@@ -12839,6 +12839,34 @@ uiTrade2Player	[EXCHANGE]
 uiTradeInvitation	[TRADE INVITATION]
 
 uiTradeWith	[TRADE WITH?]
+
+uiTranslationDisable	[]
+
+uiTranslationDisableAround	[]
+
+uiTranslationDisableGuild	[]
+
+uiTranslationDisableRegion	[]
+
+uiTranslationDisableUniverse	[]
+
+uiTranslationEnglish	[]
+
+uiTranslationFrench	[]
+
+uiTranslationGerman	[]
+
+uiTranslationHeader	[]
+
+uiTranslationHide	[]
+
+uiTranslationInverse	[]
+
+uiTranslationLanguages	[]
+
+uiTranslationRussian	[]
+
+uiTranslationSpanish	[]
 
 uiTrCulture	[TRYKER-CULTURE]
 
@@ -14300,6 +14328,18 @@ uittTitle	[Show the character's title above the character]
 
 uittToolCraftType	[@{6F6F}Tool Type@{FFFF}:\n
 	Before crafting, you must equip the appropriate crafting tool.]
+
+uittTranslationDisableAround	[]
+
+uittTranslationDisableGuild	[]
+
+uittTranslationDisableRegion	[]
+
+uittTranslationDisableUniverse	[]
+
+uittTranslationHide	[]
+
+uittTranslationInverse	[]
 
 uittUserColor	[Color used to display your character]
 

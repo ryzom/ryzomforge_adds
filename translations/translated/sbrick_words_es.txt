@@ -4083,24 +4083,24 @@
 -	bctaea23	Plan de Fabricación de Sujetador Livianas tryker	un	el				Plan de fabricación de sujetador livianas Tryker.	
 -	bczaea22	Plan de Fabricación de Calzones Livianas Zoraï	un	el				Plan de fabricación de calzones livianas Zoraï.	
 -	bczaea23	Plan de Fabricación de Sujetador Livianas Zoraï	un	el				Plan de fabricación de sujetador livianas Zoraï.	
-1618581536	jrez_nodp_tryker	
-1619198342	jboost_2x	
-1619198360	tag_fyros_1	
-1619199443	jrez_fulllife_tryker	
-1619199449	jrez_halflife_tryker	
-1619199455	jrez_goodlife_tryker	
-1619275925	jrez_goodlife_matis	
-1619275929	jrez_goodlife_fyros	
-1619275932	jrez_goodlife_zorai	
-1619275939	jrez_halflife_matis	
-1619275943	jrez_halflife_zorai	
-1619275945	jrez_halflife_fyros	
-1619275952	jrez_fulllife_matis	
-1619275954	jrez_fulllife_zorai	
-1619275957	jrez_fulllife_fyros	
-1619275962	jrez_nodp_matis	
-1619275964	jrez_nodp_fyros	
-1619275966	jrez_nodp_zorai	
+1618581536	jrez_nodp_tryker	Dulce Muerte	una	la	Dulces Muertes	unas	las	el @{5F5F}1% de @{FFFF}chance de @{5F5F}no sufrir penalización por muerte @{FFFF}después de una resurrección. 	@{FAAF}Solo en Aeden Acuoso y el Nexo.
+1619198342	jboost_2x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}2@{FFFF}.	
+1619198360	tag_fyros_1	Fyros		el	Fyros	unos	los		
+1619199443	jrez_fulllife_tryker	Regreso en gloria		el	Regresos en gloria	unos	los	el @{5F5F}1% de @{FFFF}chance de recuperar, al momento de tu resurrección, la @{5F5F}totalidad @{FFFF}de tu salud, savia, resistencia y concentración máxima. 	@{FAAF}Solo en Aeden Acuoso y el Nexo.
+1619199449	jrez_halflife_tryker	Regreso de pie		el	Regresos de pie	unos	los	el @{5F5F}3% de @{FFFF}chance de recuperar, al momento de tu resurrección, @{5F5F}la mitad @{FFFF}de tu salud, savia, resistencia y concentración máxima.	@{FAAF}Solo en Aeden Acuoso y el Nexo.
+1619199455	jrez_goodlife_tryker	Regreso en buena forma		el	Regresos en buena forma	unos	los	el @{5F5F}2% de @{FFFF}chance de recuperar, al momento de tu resurrección, @{5F5F}75% @{FFFF}de tu salud, savia, resistencia y concentración máxima.	 @{FAAF}Solo en Aeden Acuoso y el Nexo.
+1619275925	jrez_goodlife_matis	Regreso en buena forma		el	Regresos en buena forma	unos	los	el @{5F5F}2% de @{FFFF}chance de recuperar, al momento de tu resurrección, @{5F5F}75% @{FFFF}de tu salud, savia, resistencia y concentración máxima.	@{FAAF}Solo en Alturas Verdes y el Nexo.
+1619275929	jrez_goodlife_fyros	Regreso en buena forma	uno	el	Regresos en buena forma	unos	los		
+1619275932	jrez_goodlife_zorai	Regreso en buena forma		el	Regresos en buena forma	unos	los	el @{5F5F}2% de @{FFFF}chance de recuperar, al momento de tu resurrección, @{5F5F}el 75% @{FFFF}de tu salud, savia, resistencia y concentración máxima.	@{FAAF}Solo en Witherings y el Nexo.
+1619275939	jrez_halflife_matis	Regreso de pie	uno	el	Regresos de pie	unos	los	el @{5F5F}3% de @{FFFF}chance de recuperar, al momento de tu resurrección, @{5F5F}la mitad @{FFFF}de tu salud, savia, resistencia y concentración máxima.	@{FAAF}Solo en Alturas Verdes y el Nexo.
+1619275943	jrez_halflife_zorai	Regreso de pie	uno	el	Regresos de pie	unos	los	el @{5F5F}3% de @{FFFF}chance de recuperar, al momento de tu resurrección,  @{5F5F}la mitad @{FFFF}de tu salud, savia, resistencia y concentración máxima.	@{FAAF}Solo en Witherings y el Nexo.
+1619275945	jrez_halflife_fyros	Regreso de pie	uno	el	Regresos de pie	unos	los	el @{5F5F}3% de  @{FFFF}chance de recuperar, al momento de tu resurrección,  @{5F5F}la mitad @{FFFF}de tu salud, savia, resistencia y concentración máxima. 	@{FAAF}Solo en el Desierto Ardiente y el Nexo.
+1619275952	jrez_fulllife_matis	Regreso en gloria		el	Regresos en gloria	unos	los	el @{5F5F}1% de @{FFFF}chance de recuperar, al momento de la resurrección, la @{5F5F}totalidad @{FFFF}de su salud, savia, resistencia y concentración máxima.	@{FAAF}Solo en Alturas Verdes y el Nexo.
+1619275954	jrez_fulllife_zorai	Regreso en gloria		el	Regresos en gloria	unos	los	el @{5F5F}1% de @{FFFF}chance de recuperar, al momento de la resurrección, la @{5F5F}totalidad @{FFFF}de su salud, savia, resistencia y concentración máxima.	@{FAAF}Solo en Witherings y el Nexo.
+1619275957	jrez_fulllife_fyros	Regreso en gloria		el	Regresos en gloria	unos	los	el @{5F5F}1% de @{FFFF}chance de recuperar, al momento de tu resurrección, la @{5F5F}totalidad @{FFFF}de tu salud, savia, resistencia y concentración máxima. 	@{FAAF}Solo en en Desierto Ardiente y el Nexo.
+1619275962	jrez_nodp_matis	Dulce muerte	una	la	Dulces muerte	unas	las	el @{5F5F}1% de @{FFFF}chance de @{5F5F}no sufrir penalización por muerte @{FFFF}después de una resurrección. 	@{FAAF}Solo en Alturas Verdes y el Nexo.
+1619275964	jrez_nodp_fyros	Dulce muerte	una	la	Dulces muerte	unas	las	el @{5F5F}1% de @{FFFF}chance de @{5F5F}no sufrir penalización por muerte @{FFFF}después de una resurrección.	@{FAAF}Solo en el Desierto Ardiente y el Nexo.
+1619275966	jrez_nodp_zorai	Dulce muerte	una	la	Dulces muerte	unas	las	el @{5F5F}1% de @{FFFF}chance de @{5F5F}no sufrir penalización por muerte @{FFFF}después de una resurrección. 	@{FAAF}Solo en Witherings y el Nexo.
 -	bcomarem1bm_1	Plan de Mazo Tekorn-Mar	un	el	Planes de Mazo Tekorn-Mar		los	Plan de Fabricación para Mazos Tekorn-Mar.	
 -	bcomarem1bs_1	Plan de Bastón Tekorn-Mar	un	el	Planes de Bastón Tekorn-Mar		los	Plan de Fabricación para Bastones Tekorn-Mar.	
 -	bcomarem1pd_1	Plan de Daga Tekorn-Mar	un	el	Planes de Daga Tekorn-Mar		los	Plan de Fabricación para Dagas Tekorn-Mar.	

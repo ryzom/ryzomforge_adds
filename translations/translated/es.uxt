@@ -7312,9 +7312,9 @@ uiGloves	[GUANTES]
 
 uiGroupColor	[Miembros del Grupo]
 
-uiGUILD	[GREMIO]
-
 uiGuild	[Gremio]
+
+uiGUILD	[GREMIO]
 
 uiGuildBearer	[Mensajero]
 
@@ -8093,9 +8093,9 @@ uihMWeapon	[Armas de Combate Cuerpo a Cuerpo]
 
 uiHoleth	[Holeth]
 
-uiHOME	[INICIO]
-
 uiHome	[Inicio]
+
+uiHOME	[INICIO]
 
 uiHorizontal	[Horizontal]
 
@@ -12024,9 +12024,9 @@ uiSaveMovie	[Guardar Película]
 
 uiSaveUI	[Guardar]
 
-uiSay	[DECIR]
-
 uiSAY	[DECIR]
+
+uiSay	[DECIR]
 
 uiSayColor	[Decir]
 
@@ -12604,9 +12604,9 @@ uiTatoos	[TATUAJES]
 
 uitCenter	[CENTRAR MAPA EN TU POSICIÓN]
 
-uiTeam	[EQUIPO]
-
 uiTEAM	[EQUIPO]
+
+uiTeam	[EQUIPO]
 
 uiTeamChat	[Chat del Equipo]
 
@@ -12839,6 +12839,34 @@ uiTrade2Player	[INTERCAMBIAR]
 uiTradeInvitation	[INVITACIÓN A COMERCIAR]
 
 uiTradeWith	[¿INTERCAMBIAR CON?]
+
+uiTranslationDisable	[]
+
+uiTranslationDisableAround	[]
+
+uiTranslationDisableGuild	[]
+
+uiTranslationDisableRegion	[]
+
+uiTranslationDisableUniverse	[]
+
+uiTranslationEnglish	[]
+
+uiTranslationFrench	[]
+
+uiTranslationGerman	[]
+
+uiTranslationHeader	[]
+
+uiTranslationHide	[]
+
+uiTranslationInverse	[]
+
+uiTranslationLanguages	[]
+
+uiTranslationRussian	[]
+
+uiTranslationSpanish	[]
 
 uiTrCulture	[CULTURA-TRYKER]
 
@@ -14301,6 +14329,16 @@ uittTitle	[Mostrar el título del personaje sobre el personaje]
 uittToolCraftType	[@{6F6F}Tipo de Herramienta@{FFFF}:\n
 	Antes fabricar, debes equiparte la herramienta de fabricación apropiada.]
 
+uittTranslationDisableAround	[]
+
+uittTranslationDisableGuild	[]
+
+uittTranslationDisableUniverse	[]
+
+uittTranslationHide	[]
+
+uittTranslationInverse	[]
+
 uittUserColor	[Color usado para visualizar tu personaje]
 
 uittUserMessages	[Mostrar tus mensajes de chat sobre tu personaje]
@@ -14631,4 +14669,6 @@ _Natae_citizen	[ (Ciudadano de Natae)]
 _Yrkanis_citizen	[ (Ciudadano de Yrkanis)]
 
 ___faber_skill_sep___	[--------------------------------]
+
+uittTranslationDisableRegion	[]
 

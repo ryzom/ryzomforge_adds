@@ -1539,6 +1539,8 @@ Mind_Lord	[Повелитель разума]
 
 Misc	[Прочее]
 
+mission_real_tooltip	[]
+
 mpcatExotic	[Экзотический]
 
 mpcatFaber	[Ремесленник]
@@ -7309,9 +7311,9 @@ uiGloves	[ПЕРЧАТКИ]
 
 uiGroupColor	[Члены группы]
 
-uiGUILD	[ГИЛЬДИЯ]
-
 uiGuild	[Гильдия]
+
+uiGUILD	[ГИЛЬДИЯ]
 
 uiGuildBearer	[Знаменосец]
 
@@ -8088,9 +8090,9 @@ uihMWeapon	[Оружие ближнего боя]
 
 uiHoleth	[Холет]
 
-uiHOME	[ВЕРНУТЬСЯ]
-
 uiHome	[Вернуться]
+
+uiHOME	[ВЕРНУТЬСЯ]
 
 uiHorizontal	[Horizontal]
 
@@ -10602,8 +10604,6 @@ uiOutpostTitleTime	[Время]
 
 uiOutpostTitleTotal	[Сумма]
 
-uiOutpostTribe	[Застава во власти племени мародеров.]
-
 uiOutpostTSquad	[ОТРЯДЫ, ГОТОВЫЕ ДЕЙСТВОВАТЬ]
 
 uiOutpostTSquadDuring	[В ходе раунда]
@@ -11999,9 +11999,9 @@ uiS2E0	[Эпизод 1: Тот, где Нексус вновь обнаруже�
 
 uiSandThundery	[песчаная буря]
 
-uiSAP	[Сэп]
-
 uiSap	[Сэп]
+
+uiSAP	[Сэп]
 
 uiSapBarDisplay	[ОТОБРАЖЕНИЕ СЭП]
 
@@ -12832,6 +12832,34 @@ uiTrade2Player	[ОБМЕН]
 uiTradeInvitation	[ПРЕДЛОЖЕНИЕ ТОРГОВАТЬ]
 
 uiTradeWith	[ТОРГОВАТЬ С ?]
+
+uiTranslationDisable	[]
+
+uiTranslationDisableAround	[]
+
+uiTranslationDisableGuild	[]
+
+uiTranslationDisableRegion	[]
+
+uiTranslationDisableUniverse	[]
+
+uiTranslationEnglish	[]
+
+uiTranslationFrench	[]
+
+uiTranslationGerman	[]
+
+uiTranslationHeader	[]
+
+uiTranslationHide	[]
+
+uiTranslationInverse	[]
+
+uiTranslationLanguages	[]
+
+uiTranslationRussian	[]
+
+uiTranslationSpanish	[]
 
 uiTrCulture	[КУЛЬТУРА ТРАЙКЕРОВ]
 
@@ -14292,6 +14320,18 @@ uittTitle	[Показывать титул персонажа над голов�
 uittToolCraftType	[@{6F6F}Тип инструмента @{FFFF}:\n
 	Перед тем, как заниматься изготовлением предмета, вам необходимо подготовить инструмент нужного типа.]
 
+uittTranslationDisableAround	[]
+
+uittTranslationDisableGuild	[]
+
+uittTranslationDisableRegion	[]
+
+uittTranslationDisableUniverse	[]
+
+uittTranslationHide	[]
+
+uittTranslationInverse	[]
+
 uittUserColor	[Цвет для обозначения вашего персонажа]
 
 uittUserMessages	[Показывать ваши сообщения в чате над головой вашего персонажа]
@@ -14622,6 +14662,4 @@ _Natae_citizen	[ (Гражданин Нэтей)]
 _Yrkanis_citizen	[ (Гражданин Йрканиса)]
 
 ___faber_skill_sep___	[--------------------------------]
-
-mission_real_tooltip	[]
 

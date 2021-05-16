@@ -7313,9 +7313,9 @@ uiGloves	[Gants]
 
 uiGroupColor	[Co-équipiers]
 
-uiGUILD	[GUILDE]
-
 uiGuild	[Guilde]
+
+uiGUILD	[GUILDE]
 
 uiGuildBearer	[Titulaire]
 
@@ -8085,9 +8085,9 @@ uihMWeapon	[Armes de mêlée]
 
 uiHoleth	[Holeth]
 
-uiHOME	[ACCUEIL]
-
 uiHome	[Accueil]
+
+uiHOME	[ACCUEIL]
 
 uiHorizontal	[Horizontale]
 
@@ -10602,8 +10602,6 @@ uiOutpostTitleTime	[Temps]
 
 uiOutpostTitleTotal	[Total]
 
-uiOutpostTribe	[L'avant-poste est détenu par un clan de Maraudeurs.]
-
 uiOutpostTSquad	[ESCOUADES EN ATTENTE]
 
 uiOutpostTSquadDuring	[Pendant le round]
@@ -12017,9 +12015,9 @@ uiSaveMovie	[Sauvegarder le film]
 
 uiSaveUI	[Sauvegarder]
 
-uiSAY	[Dire]
-
 uiSay	[Dire]
+
+uiSAY	[Dire]
 
 uiSayColor	[Dire]
 
@@ -12597,9 +12595,9 @@ uiTatoos	[Tatouage]
 
 uitCenter	[Centrer sur vous-même]
 
-uiTeam	[Équipe]
-
 uiTEAM	[ÉQUIPE]
+
+uiTeam	[Équipe]
 
 uiTeamChat	[Chat de l'équipe]
 
@@ -12836,6 +12834,34 @@ uiTrade2Player	[Échanger]
 uiTradeInvitation	[Invitation à échanger]
 
 uiTradeWith	[Échanger avec ?]
+
+uiTranslationDisable	[]
+
+uiTranslationDisableAround	[]
+
+uiTranslationDisableGuild	[]
+
+uiTranslationDisableRegion	[]
+
+uiTranslationDisableUniverse	[]
+
+uiTranslationEnglish	[]
+
+uiTranslationFrench	[]
+
+uiTranslationGerman	[]
+
+uiTranslationHeader	[]
+
+uiTranslationHide	[]
+
+uiTranslationInverse	[]
+
+uiTranslationLanguages	[]
+
+uiTranslationRussian	[]
+
+uiTranslationSpanish	[]
 
 uiTrCulture	[CULTURE TRYKER]
 
@@ -14290,6 +14316,18 @@ uittTitle	[Afficher le titre du personnage au-dessus de lui]
 
 uittToolCraftType	[@{6F6F}Type d'outil @{FFFF}:\n
 	Avant de vous lancer dans l'artisanat, vous devez équiper l'outil de création approprié dans votre main droite.]
+
+uittTranslationDisableAround	[]
+
+uittTranslationDisableGuild	[]
+
+uittTranslationDisableRegion	[]
+
+uittTranslationDisableUniverse	[]
+
+uittTranslationHide	[]
+
+uittTranslationInverse	[]
 
 uittUserColor	[Couleur utilisée pour l'affichage de votre personnage]
 

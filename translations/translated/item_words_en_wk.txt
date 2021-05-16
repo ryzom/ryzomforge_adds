@@ -7774,7 +7774,7 @@
 -	m0693ccife01	Supreme Forest Zerx Ligament	a	the	Supreme Forest Zerx Ligaments		the
 -	m0694ccile01	Supreme Lakes Zerx Leather	a	the	Supreme Lakes Zerx Leathers		the
 -	m0694ccife01	Supreme Forest Zerx Leather	a	the	Supreme Forest Zerx Leathers		the
--	s2e1_seve_suc	drop of salina sap	a	the	drops of salina sap		the	
+-	s2e1_seve_suc	Drop of Salina sap	a	the	Drops of Salina sap		the
 -	s2e1_salins	ripe salin	a	the	ripe salins		the	
 -	wheel_token_easter	Refugees' days Event	a	the	Refugees' days Events		the
 -	slot_fingerl	Equip a ring on your left finger	a	the			
