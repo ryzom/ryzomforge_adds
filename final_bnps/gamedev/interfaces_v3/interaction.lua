@@ -924,7 +924,7 @@ function arkNpcShop:updateWindow(px, py)
 				for i = 1,5 do
 					local w = getUI("ui:interface:ark_npc_shop"):find("ark_npc_shop_item_"..item.."_price"..tostring(i))
 					if w ~= nil and arkNpcShop.all_items[item] ~= nil and arkNpcShop.all_items[item][i] ~= nil then
-						if price[i] < 1 then
+						if price[i] ~= nil and price[i] < 1 then
 							if arkNpcShop.lastMultipleItemsIndex[item][i] == nil then
 								arkNpcShop.lastMultipleItemsIndex[item][i] = 0
 							end
