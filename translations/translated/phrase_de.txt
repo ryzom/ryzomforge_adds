@@ -2,9 +2,7 @@
 	ABANDON_GROUP_MISSION ()
 	{
 				[&SYS&Der Leiter deines Teams hat eine Teammission abgebrochen.]
-	
 	}
-	
 ] */
 // Clause 0 : text changed.
 // HASH_VALUE 8857DE7C383C5498
@@ -25,6 +23,13 @@ ABANDON_MISSION ()
 ABANDON_TEAM_MISSION_REFUSED ()
 {
 		abandon_team_mission_refused	[&CHK& Nur Teamleiter können eine Teammission abbrechen.]
+
+}
+
+// HASH_VALUE A1D75E12A4DD890B
+ALLEGORY_EFFECT_TRIGGERED (sbrick s)
+{
+			[&ISE2&Der Effekt "$s$" der Alegorie wurde ausgelöst.]
 
 }
 
@@ -12427,7 +12432,7 @@ EGS_ACTOR_VAMPIRISE_EI (entity target, int vampirise)
 // HASH_VALUE 7B2438D04B0B3990
 EGS_ALREADY_HAVE_MOUNT ()
 {
-			[&CHK&Du kannst nur ein Mektoub Reittier besitzen.]
+			[&CHK&Du kannst nur ein Reittier besitzen.]
 
 }
 
@@ -33292,9 +33297,7 @@ HARVEST_SUCCESS_OTHER (player p, int nb, item item, int quality)
 	HEAL_CLOUD_HIT (score s, int v)
 	{
 			heal_hit	[&SPLM&You feel the effects of benevolent magic and get a bonus of $s$ of $v$.]
-	
 	}
-	
 ] */
 // Clause 0 : identifier changed.
 // HASH_VALUE 185C26D22AA1B90A
@@ -34119,7 +34122,7 @@ ITEM_IS_NOW_ENCHANTED (item i)
 // HASH_VALUE C4844F2DA6A049DC
 ITEM_IS_RECHARGED (item it, int current, int max )
 {
-		item_is_recharged	[&ITM&Gegenstand $it$ ist nun aufgeladen. Sapladung ist $current$ von $max$.]
+		item_is_recharged	[&ITM& Dein/e $it$ ist nun mit $current$ von möglichen $max$ aufgeladen.]
 
 }
 
@@ -34258,6 +34261,13 @@ ITEM_WORN_STATE_4 (item item)
 JEN_LAI_CITY_WELCOMER_1_P_T2_WELCOMER (bot givervar)
 {
 		jen_lai_city_welcomer_1_p_t2_welcomer	[Ich suche bestimmte Personen in der Stadt.]
+
+}
+
+// HASH_VALUE B3C7AED152B4853F
+JEWEL_WITH_ALLEGORIES ()
+{
+			[&CHK&Du kannst ein Schmuckstück mit eingravierter Alegorie nicht handeln.]
 
 }
 
@@ -37700,7 +37710,7 @@ MENU_TRADE ()
 // HASH_VALUE 5E79C47B9AFAE07D
 MENU_USE_PA ()
 {
-			[Ihre Elyps nutzen]
+			[Belohnungen und Services]
 
 }
 

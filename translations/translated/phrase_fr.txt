@@ -19,6 +19,13 @@ ABANDON_TEAM_MISSION_REFUSED ()
 
 }
 
+// HASH_VALUE A1D75E12A4DD890B
+ALLEGORY_EFFECT_TRIGGERED (sbrick s)
+{
+			[&ISE2&L'effet de l'allégorie "$s$" a été déclenché.]
+
+}
+
 // HASH_VALUE 9A3F22E1C8901028
 ALREADY_TELEPORTING ()
 {
@@ -34710,6 +34717,13 @@ JEN_LAI_CITY_WELCOMER_1_P_T2_WELCOMER (bot givervar)
 
 }
 
+// HASH_VALUE B3C7AED152B4853F
+JEWEL_WITH_ALLEGORIES ()
+{
+			[&CHK&Vous ne pouvez pas échanger un bijou sur lequel une Allégorie est gravée.]
+
+}
+
 // HASH_VALUE 192B79D91038E3DD
 KAMI_ANGER_DEFENDER_HIT (int damage, int reduction)
 {
@@ -38101,7 +38115,7 @@ MENU_TRADE ()
 // HASH_VALUE 5E79C47B9AFAE07D
 MENU_USE_PA ()
 {
-			[Utilisez vos Elyps]
+			[Récompenses et Services]
 
 }
 

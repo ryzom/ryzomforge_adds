@@ -19,6 +19,13 @@ ABANDON_TEAM_MISSION_REFUSED ()
 
 }
 
+// HASH_VALUE A1D75E12A4DD890B
+ALLEGORY_EFFECT_TRIGGERED (sbrick s)
+{
+			[&ISE2&The Allegorical effect "$s$" has been triggered.]
+
+}
+
 // HASH_VALUE 9A3F22E1C8901028
 ALREADY_TELEPORTING ()
 {
@@ -12195,7 +12202,7 @@ EGS_ACTOR_VAMPIRISE_EI (entity target, int vampirise)
 // HASH_VALUE 7B2438D04B0B3990
 EGS_ALREADY_HAVE_MOUNT ()
 {
-			[&CHK&You can only have one mektoub mount.]
+			[&CHK&You can only have one mount.]
 
 }
 
@@ -32842,9 +32849,7 @@ HARVEST_SUCCESS_OTHER (player p, int nb, item item, int quality)
 	HEAL_CLOUD_HIT (score s, int v)
 	{
 			heal_hit	[&SPLM&You feel the effects of benevolent magic and get a bonus of $s$ of $v$.]
-	
 	}
-	
 ] */
 // Clause 0 : identifier changed.
 // HASH_VALUE 185C26D22AA1B90A
@@ -33772,6 +33777,13 @@ ITEM_WORN_STATE_4 (item item)
 JEN_LAI_CITY_WELCOMER_1_P_T2_WELCOMER (bot givervar)
 {
 		jen_lai_city_welcomer_1_p_t2_welcomer	[I'm looking for somebody in the city]
+
+}
+
+// HASH_VALUE B3C7AED152B4853F
+JEWEL_WITH_ALLEGORIES ()
+{
+			[&CHK&You can't exchange a piece of jewelry with an Allegorical effect engraved on it.]
 
 }
 
@@ -37136,7 +37148,7 @@ MENU_TRADE ()
 // HASH_VALUE 5E79C47B9AFAE07D
 MENU_USE_PA ()
 {
-			[Use your Elyps]
+			[Rewards and Services]
 
 }
 
