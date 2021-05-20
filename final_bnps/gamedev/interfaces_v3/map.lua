@@ -28,7 +28,7 @@ function game:addMapArkPoint(section, x, y, name, title, texture, url, h)
 		game.mapArkPoints[section] = {}
 	end
 	if url == nil then
-		game.mapArkPoints[section][name] = {x, y, title, texture, ""}
+		game.mapArkPoints[section][name] = {x, y, title, texture, "", ""}
 	else
 		if h ~= nil and h > 0 then
 			game.mapArkPoints[section][name] = {x, y, title, texture, "", "game:openMapArkPointHelp([["..url.."]], "..tostring(h)..")"}
