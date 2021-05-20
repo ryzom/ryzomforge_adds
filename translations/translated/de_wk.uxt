@@ -14409,9 +14409,9 @@ uiPATitleMount7	[Zig 3]
 uittInBag	[Das Tier ist in deiner Tasche.\n
 	@{6F6F}Rechtsklicken, @{FFFF}um ihm eine Anweisung zu geben.]
 
-uimEnterBag	[Auf der Tasche einsteigen]
+uimEnterBag	[In die Tasche klettern lassen]
 
-uimLeaveBag	[Aus der Tasche lassen]
+uimLeaveBag	[Aus der Tasche heraus lassen]
 
 msgRollDiceLocal	[&SYS&@{FF1F}Du hast %roll gezogen, in einer Ziehung zwischen %min und %max.]
 
@@ -14467,7 +14467,7 @@ uittChanSave	[Wenn diese Option aktiviert ist, werden dynamische Chat-Kanäle be
 uittChanAuto	[Wenn dieses Kontrollkästchen aktiviert ist, werden deine dynamischen Chat-Kanäle wiederhergestellt, sofern sie nicht bereits geöffnet sind.\n
 	Verhindert den Verlust von Kanälen beim Neustart oder im Falle eines Serverausfalls.]
 
-uiMissionCatalog	[Öffnen: Missions-Tagebuch]
+uiMissionCatalog	[Öffne Missions-Tagebuch]
 
 uiS2	[Die Staffel in Schwarz gegen Weiß]
 
@@ -14604,4 +14604,11 @@ uittShowTranslationOnlyAsTooltip	[Setze ein Häkchen, um Nachrichten generell in
 uiBGD_Download	[Herunterladen]
 
 uibotchatphrase	[ ]
+
+uittShowCapInMap	[Zeige das Kursziel auf der Karte]
+
+uittShowCapPopup	[Zeige/Verberge die Kursanzeige in der Mitte oben]
+
+mission_real_tooltip	[{FFFC}Dies ist der @{6F6F}Kurs@{FFFC}, dem Du gerade folgst.\n
+	Klick, um @{6F6F}weitere Informationen@{FFFC} zu erhalten.]
 

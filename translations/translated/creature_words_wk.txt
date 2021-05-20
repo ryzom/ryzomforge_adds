@@ -1,4 +1,4 @@
-
+﻿*HASH_VALUE	creature ID	name	ia	da	p	pia	pda
 -	caaga1	Impure Baldusa	an	the			Impure Baldusas		the
 -	caaga2	Blighted Baldusa	a	the			Blighted Baldusas		the
 -	caaga3	Contaminated Baldusa	a	the			Contaminated Baldusas		the
@@ -5490,6 +5490,11 @@
 -	object_chest_wisdom_std_sel	Coffre de sagesse	un	le	du	au	Coffres de sagesse	des	les
 -	object_chest_wisdom_tryker_sel	Coffre de sagesse	un	le	du	au	Coffres de sagesse	des	les
 -	object_chest_wisdom_zorai_sel	Coffre de sagesse	un	le	du	au	Coffres de sagesse	des	les
+-	object_easter_egg	egg	a	the	eggs		the
+-	object_easter_egg_big	big egg	a	the	big eggs		the
+-	object_easter_egg_hug	huge egg	a	the	huge eggs		the
+-	object_easter_egg_medium	medium egg	a	the	medium eggs		the
+-	object_easter_egg_small	small egg	a	the	small eggs		the
 -	object_pr_s2_toopetz_a	Toopetz Gret							
 -	object_pr_s2_toopetz_b	Toopetz Dual							
 -	object_pr_s2_toopetz_c	Toopetz Try							
@@ -5501,7 +5506,10 @@
 -	object_pr_s3_cokamool_c	Cokamool Tiny							
 -	object_pr_s3_ploomweed_a	Ploomweed Dash							
 -	object_pr_s3_ploomweed_b	Ploomweed Zuc							
+-	object_trough_empty_sel	empty trough	an	the	empty troughs		the	
+-	object_trough_full_sel	full trough	a	the	full troughs		the	
 -	shooter_mektoub_packer	Shooter Packer							
 -	zig_yubo_forest	
 -	zig_yubo_lakes	
 -	zig_yubo_pr	
+1617784668	egg	

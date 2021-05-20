@@ -36,8 +36,8 @@ Advanced_Shield_Smith	[Fortgeschrittener Schildschmied]
 
 Affliction_Bringer	[Peiniger]
 
-agp_trouble	[Dem Treiber war es nicht möglich, AGP-Speicher zu belegen, was zu Funktions- und Anzeigeproblemen führen kann.\n
-	Möchtest du mehr Details erfahren?]
+agp_trouble	[Dem Treiber war es nicht möglich AGP-Speicher zu belegen, was zu Funktions- und Anzeigeproblemen führen kann.\n
+	 Möchtest du mehr Details erfahren?]
 
 Alchemist	[Alchemist]
 
@@ -1538,6 +1538,9 @@ Mentalist	[Mentalist]
 Mind_Lord	[Geistesfürst]
 
 Misc	[Verschiedenes]
+
+mission_real_tooltip	[{FFFC}Dies ist der @{6F6F}Kurs@{FFFC}, dem Du gerade folgst.\n
+	Klick, um @{6F6F}weitere Informationen@{FFFC} zu erhalten.]
 
 mpcatExotic	[exotisch]
 
@@ -9300,7 +9303,7 @@ uiMemSpecialFul	[SPEZIELLES EINSTUDIEREN]
 
 uiMemSpecialTitle	[SPEZIAL]
 
-uimEnterBag	[Auf der Tasche einsteigen]
+uimEnterBag	[In die Tasche klettern lassen]
 
 uimEnterStable	[In den Stall schicken]
 
@@ -9563,7 +9566,7 @@ uimIshowBanner	[Fraktionswappen anzeigen]
 
 uiMissionAnd	[ -    ]
 
-uiMissionCatalog	[Öffnen: Missions-Tagebuch]
+uiMissionCatalog	[Öffne Missions-Tagebuch]
 
 uiMissionDesc	[Beschreibung:]
 
@@ -9804,7 +9807,7 @@ uiMk_window11	[Ryzom Ring]
 
 uiMK_Wins	[FENSTER]
 
-uimLeaveBag	[Aus der Tasche lassen]
+uimLeaveBag	[Aus der Tasche heraus lassen]
 
 uimLeaveStable	[Aus dem Stall holen]
 
@@ -11985,9 +11988,9 @@ uiS2E0	[Episode 1: Die Wiederentdeckung des Nexus]
 
 uiSandThundery	[holzstaub-stürmisch]
 
-uiSap	[Sap]
-
 uiSAP	[Sap]
+
+uiSap	[Sap]
 
 uiSapBarDisplay	[Sapanzeige]
 
@@ -12004,9 +12007,9 @@ uiSaveMovie	[Film speichern]
 
 uiSaveUI	[Speichern]
 
-uiSAY	[SAGEN]
-
 uiSay	[SPRECHEN]
+
+uiSAY	[SAGEN]
 
 uiSayColor	[Sprechen]
 
@@ -12584,9 +12587,9 @@ uiTatoos	[TATTOOS]
 
 uitCenter	[Auf Spieler zentrieren]
 
-uiTEAM	[TEAM]
-
 uiTeam	[TEAM]
+
+uiTEAM	[TEAM]
 
 uiTeamChat	[Teamchat]
 
@@ -12690,7 +12693,7 @@ uiTIError	[FEHLER: TITEL NICHT GEFUNDEN!]
 
 uiTIForageResult	[Geerntete Materialien]
 
-uiTIForaging	[%qt der Qualität %ql]
+uiTIForaging	[%qt Material/ien der Qualität %ql]
 
 uiTileNear	[Fern-Details]
 
@@ -14202,6 +14205,10 @@ uittSelectPlan	[Wähle einen verfügbaren Handwerksplan aus, um einen Gegenstand
 uittSetMoney	[DAPPER EINGEBEN]
 
 uittShow3dItemPreview	[Wenn aktiviert, wird eine 3D-Ansicht oder Vorschau des mit "Info" betrachteten Gegenstandes angezeigt.]
+
+uittShowCapInMap	[Zeige das Kursziel auf der Karte]
+
+uittShowCapPopup	[Zeige/Verberge die Kursanzeige in der Mitte oben]
 
 uittShowClock	[Wenn aktiviert, wird die System-Zeit des Computers im Kompass angezeigt.]
 

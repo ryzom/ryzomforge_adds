@@ -136,7 +136,7 @@ range_warrior	[Luchador a Distancia]
 
 harvester	[Recolector]
 
-attack_magician	[Lanzador de Ataque]
+attack_magician	[Lanzador de Hechizos]
 
 buffer_magician	[Lanzador de Defensa]
 
@@ -652,7 +652,7 @@ uiEmail	[Dirección de Correo Electrónico]
 
 uiOnLogin	[INICIAR SESIÓN]
 
-uiShardDisp	[ESCOGE TU SHARD]
+uiShardDisp	[ESCOGE TU FRAGMENTO]
 
 uiLoginQuit	[ABANDONAR]
 
@@ -762,7 +762,7 @@ uiUnpack	[Descompresión BNP:]
 
 uiUnpackErrHead	[No se puede leer el encabezamiento bnp:]
 
-uiRebootConfirm	[Ryzom volverá a ejecutar. Por favor esperé que haya restablecido completamente.]
+uiRebootConfirm	[Ryzom volverá a ejecutarse. Por favor espere que se haya restablecido completamente.]
 
 uiRebootBut	[PINCHAR AQUI PARA REINICIAR]
 
@@ -1502,7 +1502,7 @@ uiItem16to20	[Nivel del objeto del 16 al 20]
 
 uiItem21to25	[Nivel del objeto del 21 al 25]
 
-uittClickSelMat	[Haz clic para seleccionar materia prima de tu inventario]
+uittClickSelMat	[Haz clic para seleccionar una materia prima de tu inventario]
 
 uittDropPlan	[Arrastra un plan de Artesanía aquí para crear un objeto]
 
@@ -1520,7 +1520,7 @@ uittClickTool	[Haz clic para seleccionar una herramienta de tu estuche]
 
 uittStartFaRepair	[Iniciar la reparación del Artesano]
 
-uittDropItRef	[Arrrastra un objeto aquí para refinarlo]
+uittDropItRef	[Arrastra un objeto aquí para refinarlo]
 
 uittStartFaRefine	[Iniciar refinado del Artesano]
 
@@ -1862,7 +1862,7 @@ uittChooseComColor	[Seleccionar color del encabezado de la ventana Comunicación
 
 uittChooseInvColor	[Seleccionar color del encabezado de la ventana acción]
 
-uittChooseOptColor	[Seleccionar color del encabezado de la ventana Configurción]
+uittChooseOptColor	[Seleccionar color del encabezado de la ventana Configuración]
 
 uittChooseLabColor	[Seleccionar color del encabezado de la ventana mapa]
 
@@ -2054,7 +2054,7 @@ uittChooseLMPreservativeColor	[Elegir Color de marcador 'Conservante']
 
 uittChooseLMPassageColor	[Elegir Color de marcador 'Portal']
 
-uittChooseLMTeleporterColor	[Elegir Color de marcador 'Teleportador']
+uittChooseLMTeleporterColor	[Elegir Color de marcador 'Teletransportador']
 
 uiMouseOptions	[Opciones del Ratón]
 
@@ -2335,7 +2335,7 @@ uittOutpostAttackBefore	[@{6F6F}Antes del Ataque@{FFFF}\n
 	Durante este periodo, los atacantes tratarán de ir más allá del @{6F6F}Umbral Mínimo@{FFFF} establecido por los defensores.]
 
 uittOutpostAttackRound	[@{6F6F}Ataque@{FFFF}\n
-	Los atacantes deberán de alcanzar el mayor @{6F6F}Nivel de Ronda@{FFFF} posible.\n
+	Los atacantes deberán alcanzar el mayor @{6F6F}Nivel de Ronda@{FFFF} posible.\n
 	Deben al menos exceder el @{6F6F}Umbral Mínimo@{FFFF} establecido por los defensores durante el periodo de cuenta atrás.\n
 	Por cada ronda ganada, el @{6F6F}Nivel de Ronda@{FFFF} y el número de escuadrones a ser eliminados incrementará.\n
 	Por cada ronda perdida, el @{6F6F}Nivel de Ronda@{FFFF} y el número de escuadrones a ser eliminados decrecerá.\n
@@ -2381,7 +2381,7 @@ uittOutpostLevel	[@{6F6F}Nivel del Puesto de Avanzada@{FFFF}\n
 
 uiOutpostOwner	[Propietario: ]
 
-uittOutpostOwner	[Gremio Proprietario del Puesto de Avanzada. ]
+uittOutpostOwner	[Gremio Propietario del Puesto de Avanzada. ]
 
 uiOutpostTribe	[El Puesto de Avanzada es propiedad de una Tribu Marauder.]
 
@@ -2460,7 +2460,7 @@ uiOutpostPeriodEnded	[Ataque Terminado]
 
 uiOutpostTimeZone	[Zona Horaria: ]
 
-uittOutpostTimeZone	[Seleciona tu zona horaria para mostrar la hora adecuada.\n
+uittOutpostTimeZone	[Selecciona tu zona horaria para mostrar la hora adecuada.\n
 	@{6F6F}¡Cuidado!@{FFFF} Tienes que tener en cuenta el horario de verano si es aplicable.\n
 	Lo mismo para el @{6F6F}modo automático@{FFFF}. Por ejemplo, en Francia, durante el horario de verano, el modo visualizado será GMT+2 (aunque Francia normalmente sea GMT+1).]
 
@@ -2629,7 +2629,7 @@ uittOutpostSquadCost	[Coste de reclutamiento de escuadrón]
 
 uittOutpostSS	[Escuadrones que pueden ser reclutados]
 
-uiSquadSpawnTitle	[POSICIÓN DE SALIDA DE ESCUADRÓN]
+uiSquadSpawnTitle	[POSICIÓN DE SALIDA DEL ESCUADRÓN]
 
 uiOutpostSquadShopTitle	[RECLUTAMIENTO DE ESCUADRÓN]
 
@@ -2643,7 +2643,7 @@ uiRespawn	[RESURRECIÓN]
 
 uiRespawnPoint	[Punto de Resurrección]
 
-uiSquadSpawnPoint	[Posición de Generación de Escuadrón]
+uiSquadSpawnPoint	[Posición de salida]
 
 uiStable	[Establo]
 
@@ -2683,7 +2683,7 @@ uiTIBagFull	[Mochila Llena]
 
 uiTICraft	[Objetos Fabricados]
 
-uiTIMissionItem	[Objetos Recividos]
+uiTIMissionItem	[Objetos Recibidos]
 
 uiTICrystallize	[Hechizo Cristalizado]
 
@@ -2793,7 +2793,7 @@ uiLife	[Salud]
 
 uiSap	[Savia]
 
-uiStamina	[Resis.]
+uiStamina	[Resistencia]
 
 uiFocus	[Concentr.]
 
@@ -2805,7 +2805,7 @@ uiHunger	[Hambre]
 
 uiActionStatus	[Progreso de la Acción Actual]
 
-uiSapBarDisplay	[VISUALIZACIÓN DE SABIA]
+uiSapBarDisplay	[VISUALIZACIÓN DE SAVIA]
 
 uiStaBarDisplay	[VISUALIZACIÓN DE RESISTENCIA]
 
@@ -2930,17 +2930,17 @@ uittFameAllegianceCult0	[Su lealtad de culto es @{2F2F}indeterminada@{FFFF}.\n
 
 uittFameAllegianceCult1	[Es un @{2F2F}no creyente@{FFFF}.\n
 	Está limitado en sus famas de culto, pero puede unirse a cualquier gremio.\n
-	Para jurar lealtad a un culto, tiene que ir a ver al @{2F2F}sacerdote@{FFFF} o al @{2F2F}bonze@{FFFF} en el templo apropiado.\n
+	Para jurar lealtad a un culto, tiene que ir a ver al @{2F2F}sacerdote@{FFFF} o al @{2F2F}bonzo@{FFFF} en el templo apropiado.\n
 	Debe tener al menos @{2F2F}30@{FFFF} de fama con ese culto.]
 
 uittFameAllegianceCult2	[Ha jurado su lealtad a los @{2F2F}Kami@{FFFF}.\n
 	Esto le permite tener una fama Kami mayor, pero cualquier gremio al que quiera unirse tiene que tener también lealtad con los Kami.\n
-	Para renunciar a su lealtad, puede ir a ver a un @{2F2F}sacerdorte@{FFFF} o @{2F2F}bonze@{FFFF} en un templo.\n
+	Para renunciar a su lealtad, puede ir a ver a un @{2F2F}sacerdote@{FFFF} o @{2F2F}bonzo@{FFFF} en un templo.\n
 	Perderá automáticamente su lealtad si su fama @{2F2F}Kami@{FFFF} llega a 0.]
 
 uittFameAllegianceCult3	[Ha jurado su lealtad a la @{2F2F}Karavan@{FFFF}.\n
 	Esto le permite tener una fama Karavan mayor, pero cualquier gremio al que quiera unirse tiene que tener también lealtad con la Karavan.\n
-	Para renunciar a su lealtad, puede ir a ver a un @{2F2F}sacerdorte@{FFFF} o @{2F2F}bonze@{FFFF} en un templo.\n
+	Para renunciar a su lealtad, puede ir a ver a un @{2F2F}sacerdorte@{FFFF} o @{2F2F}bonzo@{FFFF} en un templo.\n
 	Perderá automáticamente su lealtad si su fama @{2F2F}Karavan@{FFFF} llega a 0.]
 
 uittFameAllegianceCivGuild0	[La lealtad de civilización de su gremio es @{2F2F}indeterminada@{FFFF}.\n
@@ -2976,21 +2976,21 @@ uittFameAllegianceCivGuild7	[Su gremio ha jurado lealtad a los @{2F2F}Zoraïs@{F
 uittFameAllegianceCultGuild0	[La lealtad de culto de su gremio es @{2F2F}indeterminada@{FFFF}.\n
 	Su gremio no puede ganar más fama ahora. El líder del gremio puede:\n
 	@{T4}- hacer la lealtad del gremio neutral\n
-	@{T4}- jurar lealtad a un culto yendo a un @{2F2F}sacerdote@{FFFF} de gremio o al @{2F2F}bonze@{FFFF} de gremio en un templo apropiado (no se requiere un mínimo de fama).]
+	@{T4}- jurar lealtad a un culto yendo a un @{2F2F}sacerdote@{FFFF} de gremio o al @{2F2F}bonzo@{FFFF} de gremio en un templo apropiado (no se requiere un mínimo de fama).]
 
 uittFameAllegianceCultGuild1	[Su gremio es @{2F2F}no creyente@{FFFF}.\n
 	Está limitado en sus famas de culto y sólo puede reclutar miembros con lealtad Neutral.\n
-	Para jurar lealtad a un culto, el líder del gremio tiene que ir a ver a un @{2F2F}bonze@{FFFF} de gremio o a un @{2F2F}sacerdote@{FFFF} de gremio en un templo apropiado.\n
+	Para jurar lealtad a un culto, el líder del gremio tiene que ir a ver a un @{2F2F}bonzo@{FFFF} de gremio o a un @{2F2F}sacerdote@{FFFF} de gremio en un templo apropiado.\n
 	El gremio debe tener al menos @{2F2F}30@{FFFF} de fama con el culto correspondiente.]
 
 uittFameAllegianceCultGuild2	[Su gremio ha jurado lealtad a los @{2F2F}Kami@{FFFF}.\n
 	Esto le permite tener una fama Kami mayor y reclutar miembros que tengan lealtad Kami o Neutral.\n
-	Para renunciar a la lealtad, el líder del gremio puede ir a ver a un @{2F2F}bonze@{FFFF} de gremio o al @{2F2F}sacerdote@{FFFF} de gremio en un templo.\n
+	Para renunciar a la lealtad, el líder del gremio puede ir a ver a un @{2F2F}bonzo@{FFFF} de gremio o al @{2F2F}sacerdote@{FFFF} de gremio en un templo.\n
 	Su gremio pierde automáticamente su lealtad si su fama @{2F2F}Kami@{FFFF} llega a 0. Los miembros tendrán entonces una lealtad indeterminada.]
 
 uittFameAllegianceCultGuild3	[Su gremio ha jurado lealtad a la @{2F2F}Karavan@{FFFF}.\n
 	Esto le permite tener una fama Karavan mayor y reclutar miembros que tengan lealtad Karavan o Neutral.\n
-	Para renunciar a la lealtad, el líder del gremio puede ir a ver a un @{2F2F}bonze@{FFFF} de gremio o al @{2F2F}sacerdote@{FFFF} de gremio en un templo.\n
+	Para renunciar a la lealtad, el líder del gremio puede ir a ver a un @{2F2F}bonzo@{FFFF} de gremio o al @{2F2F}sacerdote@{FFFF} de gremio en un templo.\n
 	Su gremio pierde automáticamente su lealtad si su fama @{2F2F}Karavan@{FFFF} llega a 0. Los miembros tendrán entonces una lealtad indeterminada.]
 
 uiFameAllegianceCivSetNeutral	[Volverse Neutral]
@@ -3127,7 +3127,7 @@ uittFameWeakTrade	[Comercio débil]
 
 uittFameNormal	[Comercio normal]
 
-uittFameMaxPossible	[Fama Máx Posible: %famemax]
+uittFameMaxPossible	[Fama Máxima Posible: %famemax]
 
 uiPvpFameAllegiance	[Lealtades:]
 
@@ -3488,7 +3488,7 @@ uiStatusTitle	[ESTADO]
 
 uiCareers	[CARRERAS]
 
-uiSkillsTitle	[IDENTIDAD]
+uiSkillsTitle	[$p 's IDENTIDAD]
 
 uiJournalTitle	[MISIONES]
 
@@ -3552,7 +3552,7 @@ uiInfosSystem	[MI INFORMACIÓN DE SISTEMA]
 
 uiAscensorTeleportList	[DESTINOS]
 
-uiTeleportLocation	[LOCALIZACIOONES PARA TELEPORTACIÓN]
+uiTeleportLocation	[LOCALIZACIONES PARA TELETRANSPORTACIÓN]
 
 uimNewPartyChat	[NUEVA SALA DE CHAT]
 
@@ -3640,7 +3640,7 @@ uitabChatUniverse	[UNIVERSO]
 
 uitabChatRegion	[REGIÓN]
 
-uitabChatTeam	[GRUPO]
+uitabChatTeam	[EQUIPO]
 
 uitabChatGuild	[GREMIO]
 
@@ -3672,7 +3672,7 @@ uittFilterChat	[Clic para establecer el modo de chat]
 
 uittEmote	[Clic para seleccionar y realizar un emoticono]
 
-uittTell	[Decir a amigo]
+uittTell	[Hablar a un amigo]
 
 uiTempMemory	[MOCHILA TEMPORAL]
 
@@ -3682,7 +3682,7 @@ uittDropAll	[Soltar Todo]
 
 uiIcons	[Iconos]
 
-uiTeamShareTitle	[COMPARTIDO CON EL GRUPO]
+uiTeamShareTitle	[COMPARTIDO CON EL EQUIPO]
 
 uiValidate	[VÁLIDO]
 
@@ -3694,13 +3694,13 @@ uiTeamShareChance	[%]
 
 uiTeamShareValid	[VALIDACIONES]
 
-uiTS_Select	[La selección de tu objeto]
+uiTS_Select	[Su selección del objeto]
 
 uiTS_Items	[Descripciones de objetos]
 
 uiTS_Times	[Cantidad de jugadores que desean este objeto]
 
-uiTS_Chances	[Porcentaje de oportunidad de obtener este objeto]
+uiTS_Chances	[Porcentaje de oportunidad para obtener este objeto]
 
 uiTS_Valids	[Jugadores que validan el intercambio]
 
@@ -3708,29 +3708,29 @@ uitabInvEquip	[EQUIPO]
 
 uitabInvBag	[MOCHILA]
 
-uitabInvSteed	[CORCEL]
+uitabInvSteed	[MONTURA]
 
 uitabInvPAMount0	[MONTURA 1]
 
-uitabInvPAPacker0	[MONTURA CARGA 1]
+uitabInvPAPacker0	[CARGADOR 1]
 
 uitabInvPADemon0	[DEMONIO 1]
 
 uitabInvPAMount1	[MONTURA 2]
 
-uitabInvPAPacker1	[MONTURA CARGA 2]
+uitabInvPAPacker1	[CARGADOR 2]
 
 uitabInvPADemon1	[DEMONIO 2]
 
 uitabInvPAMount2	[MONTURA 3]
 
-uitabInvPAPacker2	[MONTURA  CARGA 3]
+uitabInvPAPacker2	[CARGADOR 3]
 
 uitabInvPADemon2	[DEMONIO 3]
 
 uitabInvPAMount3	[MONTURA 4]
 
-uitabInvPAPacker3	[MONTURA  CARGA 4]
+uitabInvPAPacker3	[CARGADOR 4]
 
 uitabInvPADemon3	[DEMONIO 4]
 
@@ -3758,7 +3758,7 @@ uittFilterMP	[Filtrar @{6F6F}Materiales\n
 	@{FFFF}Haga un click derecho para seleccionar sólo @{6F6F}Materiales@{FFFF}.]
 
 uittFilterMissMP	[Filtrar @{6F6F}Objetos de Misión o Materiales de Misión\n
-	@{FFFF}Click derecho para seleccionar sólo @{6F6F}Objetos de Misión o Materiales de Misiónn@{FFFF}.]
+	@{FFFF}Click derecho para seleccionar sólo @{6F6F}Objetos de Misión o Materiales de Misión@{FFFF}.]
 
 uittDragToMacro	[Arrastra este ladrillo para componer una macro]
 
@@ -4306,7 +4306,7 @@ uimMaDel	[BORRAR FRASE]
 
 uimMaEdit	[EDITAR FRASE]
 
-uittSelectBrick	[Haga click aquí para seleccionar una Ladrillo Raíz]
+uittSelectBrick	[Haga click aquí para seleccionar un Ladrillo Raíz]
 
 uittRename	[Renombrar]
 
@@ -4330,7 +4330,7 @@ uiMagicEditDifficulty	[DIFICULTAD]
 
 uiMagicEditNotEnoughSap	[¡Cuidado! ¡No hay Suficiente Savia!]
 
-uiTextHelpSelectRootBrick	[<- Haz clic en la ranura o espacio de RAÍZ para definer tu TIPO DE ACCIÓN.]
+uiTextHelpSelectRootBrick	[<- Haz clic en la ranura o espacio de RAÍZ para definir tu TIPO DE ACCIÓN.]
 
 uiTextHelpSelectEffectBrick	[<- Haz clic para seleccionar EFECTO]
 
@@ -4436,7 +4436,7 @@ uimCristalize	[CRISTALIZAR]
 
 uittHelmet	[Casco]
 
-uittChest	[Covertura de pecho]
+uittChest	[Cobertura de pecho]
 
 uittArms	[Mangas]
 
@@ -4484,7 +4484,7 @@ uittPvPModeTagOffChange	[@{6F6F}Facción JcJ@{FFFF}\n
 
 uittPvPModeTagOn	[@{6F6F}Facción JcJ@{FFFF}\n
 	Estás @{6F6F}Etiquetado JcJ@{FFFF}.\n
-	Puedes atacar y ser atacado por jugadores de las facciones de las facciones contrarias.\n
+	Puedes atacar y ser atacado por jugadores de las facciones contrarias.\n
 	Haz clic para cambiar a modo JcE.]
 
 uittPvPModeTagOnChange	[@{6F6F}Facción JcJ@{FFFF}\n
@@ -4519,7 +4519,7 @@ uiAccept	[ACEPTAR]
 
 uiRefuse	[RECHAZAR]
 
-uiTradeWith	[¿INTERCABIAR CON?]
+uiTradeWith	[¿INTERCAMBIAR CON?]
 
 uittSetMoney	[Ajustar cantidad]
 
@@ -4719,7 +4719,7 @@ uimItemConsume	[CONSUMIR OBJETO]
 
 uimXpCatalyserUse	[ACTIVAR CATALIZADOR]
 
-uittClose	[Cerrar]
+uittClose	[{@{FFFE}ESC@{FFFF}}Cerrar]
 
 uittSeed1	[Semilla Muerta Putrefacta]
 
@@ -5103,7 +5103,7 @@ uiMoreRTr	[RANGER TRYKER: EL CAZADOR DE LAS SOMBRAS]
 
 uiMoreRZo	[RANGER ZORAÏ: EL GUARDIÁN DE ATYS]
 
-uiTeamChatTitle	[CHAT DE GRUPO]
+uiTeamChatTitle	[CHAT DEL EQUIPO]
 
 uiFriendList	[LISTA DE AMIGOS]
 
@@ -5123,11 +5123,11 @@ uiPartyChat	[CHAT DE LA FIESTA]
 
 uiNewPartyChat	[CHAT DE FIESTA NUEVA]
 
-uiTeamTitle	[GRUPO]
+uiTeamTitle	[EQUIPO]
 
 uiGUILD	[GREMIO]
 
-uiTEAM	[GRUPO]
+uiTEAM	[EQUIPO]
 
 uiSAY	[DECIR]
 
@@ -5135,7 +5135,7 @@ uiSHOUT	[GRITAR]
 
 uiKeepInfoButton	[Mantener]
 
-uittKeepInfo	[@{6F6F}Fijar@{FFFF} esta ventaNa.\n
+uittKeepInfo	[@{6F6F}Fijar@{FFFF} esta ventana.\n
 	Si se fija, la información de otros objetos será mostrada en una nueva ventana.\n
 	Si no se fija, esta ventana se reutilizará.]
 
@@ -5764,7 +5764,7 @@ FeatureUnderConstruction	[Característica en construcción]
 
 InvalidSentence	[Frase no válida]
 
-ErrorCreating	[Error al crear frase]
+ErrorCreating	[Error al crear la frase]
 
 Uncomplete	[Frase incompleta]
 
@@ -6761,7 +6761,7 @@ uiAroundMe	[Alrededor de Mi]
 
 uiTellWinAct	[Ventana de Conversación]
 
-uiTeamChat	[Chat del Grupo]
+uiTeamChat	[Chat del Equipo]
 
 uiTeamList	[Lista del Equipo]
 
@@ -6815,7 +6815,7 @@ uiTargetCmd	[Fijar como objetivo a una entidad]
 
 uiTargetCmdEntity	[Nombre de la entidad a fijar como objetivo]
 
-uiTargetTeammateCmd	[Fijar como objetivo al Compañero de Grupo #]
+uiTargetTeammateCmd	[Fijar como objetivo al Compañero de Equipo #]
 
 uiTargetTeammateCmdI	[Número]
 
@@ -6903,7 +6903,7 @@ uiTalkCmdModeWhisper	[Susurrar]
 
 uiTalkCmdModeShout	[Gritar]
 
-uiTalkCmdModeTeam	[Grupo]
+uiTalkCmdModeTeam	[Equipo]
 
 uiTalkCmdModeGuild	[Gremio]
 
@@ -7138,13 +7138,13 @@ uiBubbleBL	[ABAJO A LA IZQUIERDA]
 
 uiBubbleTL	[ARRIBA A LA IZQUIERDA]
 
-uiTryton1	[Por muchos siglos he viajado a través de los corredores aquiescentes de Ryzom. Doy testimonio del Crecimiento Verde de Atys, y del nacimiento de la hominidad. Fui testigo de su lucha por la supervivencia en un mundo sin piedad de plantas asesinas y un montón de bestias . Aún peor, atrincherados en su brutal ignorancia se dieron un baño de sangre en la pugna por el poder contra los suyos. Así debilitados por guerras interraciales y apegados a sus territorios en su segregación auto-impuesta, cayeron víctimas de un terrible enjambre de kitins.]
+uiTryton1	[Por muchos siglos he viajado a través de los corredores aquiescentes de Ryzom. Doy testimonio del Crecimiento Verde de Atys, y del nacimiento de la hominidad. Fui testigo de su lucha por la supervivencia en un mundo sin piedad de plantas asesinas y un montón de bestias. Aún peor, atrincherados en su brutal ignorancia se dieron un baño de sangre en la pugna por el poder contra los suyos. Así debilitados por guerras inter-raciales y apegados a sus territorios en su segregación auto-impuesta, cayeron víctimas de un terrible enjambre de kitins.]
 
 uiTryton2	[Incluso las grandes fuerzas Atysianas de los Kami y de la Karavan juntas resultaron impotentes contra los ataques de los kitins en ese catastrófico año. Poblaciones enteras perecieron. Cuando las terribles noticias llegaron a mis oídos, no tardé en brindar toda la ayuda que pude para salvar a los últimos supervivientes, muchos de los cuales se habían dispersado y huido a tierras salvajes.]
 
 uiTryton3	[Desde entonces han pasado ya tres generaciones para curar las heridas, reconstruyendo vidas, para la introspección y reavivar el espíritu de la hominidad. Ha llegado el momento para los sabios y los valientes de tomar las riendas de la ambición, para forjar el camino a un nuevo orden, para cubrir las desavenencias entre los continentes y forjar los destinos de sus civilizaciones.]
 
-uiTryton4	[Esta es mi única esperanza, que en la unidad estaremos mejor armados para repeler la marea del mal que avanza. Ciertamente, ya escuché los ominosos rumores de Mega Corp que, ¡Ay! algun día sacudirán las mismas entrañas del planeta verde.\n
+uiTryton4	[Esta es mi única esperanza, que en la unidad estaremos mejor armados para repeler la marea del mal que avanza. Ciertamente, ya escuché los ominosos rumores de Mega Corp que, ¡Ay! algún día sacudirán las mismas entrañas del planeta verde.\n
 	Pero todavía tengo fe en esto, el Nuevo Comienzo de la Humanidad\n
 	\n
 	E. Tryton]
@@ -7225,7 +7225,7 @@ uiPhraseRESTRICTION	[Compatibilidad de Arma: ]
 
 uittPhraseEditNewOptional	[Añadir Opción]
 
-uittPhraseEditNewCredit	[Añadirr Crédito]
+uittPhraseEditNewCredit	[Añadir Crédito]
 
 uiPhraseEditNewOptional	[Añadirr Opción: ]
 
@@ -7241,7 +7241,7 @@ uiPhraseEditCredit	[Crédito de Acción: ]
 
 uittMemoryPhrase	[Memorizar la Acción]
 
-uittExecutingPhrase	[Ación en Progreso.\n
+uittExecutingPhrase	[Acción en Progreso.\n
 	@{6F6F}Clic aquí@{FFFF} para cancelar la acción.]
 
 uittNextExecutingPhrase	[Próxima Acción]
@@ -7292,7 +7292,7 @@ uiLearnFrom	[Aprender de ]
 
 uiBuy	[COMPRAR]
 
-uiTeleport	[TELEPORTAR]
+uiTeleport	[TELETRANSPORTAR]
 
 uiLearn	[APRENDER]
 
@@ -7378,7 +7378,7 @@ uiCreateUserLM	[CREAR MARCADOR]
 
 uiCreateUserLMAtUserPos	[CREAR MARCADOR EN UBICACIÓN ACTUAL]
 
-uiTargetLM	[OBEJTIVO EN LA BRÚJULA]
+uiTargetLM	[OBJETIVO EN LA BRÚJULA]
 
 uiNoMoreLandMarks	[¡No hay más marcados disponibles! Por favor quita algunos.]
 
@@ -7438,11 +7438,11 @@ uiImmediatePrice	[Precio Base]
 
 uittPriceWithFameEqual	[Este precio depende de tu fama]
 
-uittPriceWithFameDiff	[Este precio depende de tu fama (el vendedor agregará un márgen)]
+uittPriceWithFameDiff	[Este precio depende de tu fama (el vendedor agregará un margen)]
 
 uiResaleHeader	[Precio de Reventa]
 
-uiResaleMargin	[Márgen de Reventa]
+uiResaleMargin	[Margen de Reventa]
 
 uiUnitResalePrice	[Precio de Reventa de la Unidad]
 
@@ -7470,7 +7470,7 @@ uitabBuyNpc	[Mercader]
 
 uitabBuyResaleAndNpc	[Reventa y Mercader]
 
-uitabBuyPlayer	[Tus venta]
+uitabBuyPlayer	[Tus ventas]
 
 uiRetire	[RECUPERAR]
 
@@ -7488,7 +7488,7 @@ uiUnitFPPrice	[P.F. %fac unitarios]
 
 uiTotalFPPrice	[P.F. %fac totales]
 
-uiTipsTitle	[Consejos ]
+uiTipsTitle	[Consejos]
 
 uiTipsEnd	[Presiona las teclas Arriba o Abajo para el consejo siguiente o anterior.]
 
@@ -7499,20 +7499,20 @@ uiTips0	[En vez de arrastrar y soltar tus objetos en una Armadura/Equipo o Ranur
 
 uiTips1	[Para aprender a usar el juego haz clic en el botón '?' y selecciona AYUDA]
 
-uiTips2	[Haciendo clic derecho en cualquier ventana te permite bloquearlas/desbloquearla y cambiar sue opacidad.]
+uiTips2	[Haciendo clic derecho en cualquier ventana te permite bloquearlas/desbloquearla y cambiar su opacidad.]
 
 uiTips3	[Haciendo clic derecho sobre la ventana del Chat Principal podrás filtrar los mensajes.]
 
 uiTips4	[Pulsa 'F1','F2','F3' or 'F4' para cambiar el escritorio virtual\n
-	Presionar y mantener 'F1', 'F2', 'F3' or 'F4' para visualizar la interfaz de la ventana de selección]
+	Presionar y mantener 'F1', 'F2', 'F3' o 'F4' para visualizar la interfaz de la ventana de selección]
 
 uiTips5	[Presionar '1', '2' ... '9' para ejecutar tus accesos rápidos.\n
-	Presionar SHIFT + '1', '2' ... '9' para ejecutar el segundo juego de accesos rapidos.]
+	Presionar SHIFT + '1', '2' ... '9' para ejecutar el segundo juego de accesos rápidos.]
 
 uiTips6	[Haciendo clic derecho sobre una habilidad o sobre un icono de hechizo se abre una ventana de información.]
 
 uiTips7	[Pulsarr ALT + '1', '2' ... '0' para enviar frases de chat prememorizadas.\n
-	Presionar ALT + SHIFT + '1', '2' ... '0' para enviar el segundo jeugo de frases de chat prememorizadas.]
+	Presionar ALT + SHIFT + '1', '2' ... '0' para enviar el segundo juego de frases de chat prememorizadas.]
 
 uiTips8	[Pulsar 'ENTER' para activar la ventana de chat]
 
@@ -7598,7 +7598,7 @@ uiHP	[SALUD]
 
 uittHP	[Mostrar los puntos de salud sobre el personaje]
 
-uiTeam	[GRUPO]
+uiTeam	[EQUIPO]
 
 uiDebugCommand	[Comando Debug]
 
@@ -7646,7 +7646,7 @@ uiGuildSymbol	[Símbolo del Gremio]
 
 uittGuildSymbol	[Mostrar el símbolo del gremio sobre el personaje]
 
-uittName	[Motrar el nombre del personaje sobre el personaje]
+uittName	[Mostrar el nombre del personaje sobre el personaje]
 
 uiTitle	[Título]
 
@@ -7710,7 +7710,7 @@ uittTargetColor	[Color usado para visualizar el objetivo actual]
 
 uiGroupColor	[Miembros del Grupo]
 
-uittGroupColor	[Color usado para visualizar a los miebros del grupo]
+uittGroupColor	[Color usado para visualizar a los miembros del equipo]
 
 uiGuildRadarColor	[Miembros del Gremio]
 
@@ -7792,7 +7792,7 @@ uiTalkMemMsg	[Mensaje]
 
 uiTalkMemMsg00	[¡Hola!]
 
-uiTalkMemMsg01	[¡Adios!]
+uiTalkMemMsg01	[¡Adiós!]
 
 uiTalkMemMsg02	[Si]
 
@@ -7804,7 +7804,7 @@ uiTalkMemMsg05	[Ayúdame]
 
 uiTalkMemMsg06	[Necesito Sanador]
 
-uiTalkMemMsg07	[Estoy buscando a un miembro de grupo]
+uiTalkMemMsg07	[Estoy buscando a un miembro de equipo.]
 
 uiTalkMemMsg08	[Abrazar]
 
@@ -7917,7 +7917,7 @@ uiFrontSelectionFriend	[Amigos]
 
 uiFrontSelectionEnnemy	[Enemigos]
 
-uiTeamSelectNotInVision	[Este miembro del grupo está muy lejos para ser seleccionado.]
+uiTeamSelectNotInVision	[Este miembro del equipo está muy lejos para ser seleccionado.]
 
 Refugee	[Refugiado]
 
@@ -8009,9 +8009,9 @@ Gunman	[Portador de Armas]
 
 Heavy_Gunman	[Portador de Armas Pesado]
 
-Advanced_Gunman	[Portador de Armas Avanzado]
+Advanced_Gunman	[Portador Avanzado de Armas]
 
-Advanced_Heavy_Gunman	[Portador de Armas Pesado Avanzado]
+Advanced_Heavy_Gunman	[Portador Avanzado de Armas Pesadas]
 
 Bludgeoner	[Apaleador]
 
@@ -8099,7 +8099,7 @@ Hand_To_Hand_Fighter	[Luchador Mano a Mano]
 
 Close_Fighter	[Luchador de Cerca]
 
-Advanced_Close_Fighter	[Luchador de Cerca Avanzado]
+Advanced_Close_Fighter	[Luchador Avanzado de Cerca]
 
 Defensive_Magician	[Mago Defensivo]
 
@@ -8165,7 +8165,7 @@ SG	[Guía Senior]
 
 G	[Guía]
 
-Armorer_Apprentice	[Arendiz de Artesano de Armaduras]
+Armorer_Apprentice	[Aprendiz de Artesano de Armaduras]
 
 Jeweler_Apprentice	[Aprendiz de Joyero]
 
@@ -8193,45 +8193,45 @@ Range_Weapon_Smith	[Artesano de Armas de Alcance]
 
 Range_Heavy_Weapon_Smith	[Artesano de Armas de Alcance Pesadas]
 
-Advanced_Heavy_Armorer	[Artesano de Armaduras Pesadas Avanzado]
+Advanced_Heavy_Armorer	[Artesano Avanzado de Armaduras Pesadas]
 
-Advanced_Light_Armorer	[Artesano de Armaduras Ligeras Avanzado]
+Advanced_Light_Armorer	[Artesano Avanzado de Armaduras Ligeras]
 
-Advanced_Medium_Armorer	[Artesano de Armaduras Medianas Avanzado]
+Advanced_Medium_Armorer	[Artesano Avanzado de Armaduras Medianas]
 
-Advanced_Shield_Smith	[Artesano de Escudos Avanzado]
+Advanced_Shield_Smith	[Artesano Avanzado de Escudos]
 
 Advanced_Jeweler	[Joyero Avanzado]
 
-Advanced_Melee_Weapon_Smith	[Artesano de Armas Avanzado]
+Advanced_Melee_Weapon_Smith	[Artesano Avanzado de Armas]
 
-Advanced_Melee_Heavy_Weapon_Smith	[Artesano de Armas Pesadas Avanzado]
+Advanced_Melee_Heavy_Weapon_Smith	[Artesano Avanzado de Armas Pesadas]
 
-Advanced_Melee_Light_Weapon_Smith	[Artesano de Armas Ligeras Avanzado]
+Advanced_Melee_Light_Weapon_Smith	[Artesano Avanzado de Armas Ligeras]
 
-Advanced_Range_Weapon_Smith	[Artesano de Armas de Alcance Avanzado]
+Advanced_Range_Weapon_Smith	[Artesano Avanzado de Armas de Largo Alcance]
 
-Advanced_Range_Heavy_Weapon_Smith	[Artesano de Armas de Alcance Pesadas Avanzado]
+Advanced_Range_Heavy_Weapon_Smith	[Artesano Avanzado de Armas Pesadas de Largo Alcance]
 
-Expert_Heavy_Armorer	[Artesano de Armaduras Pesadas Experto]
+Expert_Heavy_Armorer	[Experto Artesano de Armaduras Pesadas]
 
-Expert_Light_Armorer	[Artesano de Armaduras Ligeras Experto]
+Expert_Light_Armorer	[Experto Artesano de Armaduras Ligeras]
 
-Expert_Medium_Armorer	[Artesano de Armaduras Medianas Experto]
+Expert_Medium_Armorer	[Experto Artesano de Armaduras Medianas]
 
-Expert_Shield_Smith	[Artesano de Escudos Experto]
+Expert_Shield_Smith	[Experto Artesano de Escudos]
 
 Expert_Jeweler	[Joyero Experto]
 
-Expert_Melee_Weapon_Smith	[Artesano de Armas Experto]
+Expert_Melee_Weapon_Smith	[Experto Artesano de Armas]
 
-Expert_Melee_Heavy_Weapon_Smith	[Artesano de Armas Pesadas Experto]
+Expert_Melee_Heavy_Weapon_Smith	[Experto Artesano de Armas Pesadas]
 
-Expert_Melee_Light_Weapon_Smith	[Artesano de Armas Ligeras Experto]
+Expert_Melee_Light_Weapon_Smith	[Experto Artesano de Armas Ligeras]
 
-Expert_Range_Weapon_Smith	[Artesano de Armas de Alcance Experto]
+Expert_Range_Weapon_Smith	[Experto Artesano de Armas de Largo Alcance]
 
-Expert_Range_Heavy_Weapon_Smith	[Artesano de Armas de Alcance Pesadas Experto]
+Expert_Range_Heavy_Weapon_Smith	[Experto Artesano de Armas Pesadas de Largo Alcance]
 
 Heavy_Armorer_Master	[Maestro Artesano de Armaduras Pesadas]
 
@@ -8267,15 +8267,15 @@ Lacustre_Forager	[Recolector de los Lagos]
 
 Prime_Roots_Forager	[Recolector de las Primeras Raíces]
 
-Advanced_Desert_Forager	[Recolector del Desierto Avanzado]
+Advanced_Desert_Forager	[Recolector Avanzado del Desierto]
 
-Advanced_Forest_Forager	[Recolector del Bosque Avanzado]
+Advanced_Forest_Forager	[Recolector Avanzado del Bosque]
 
-Advanced_Jungle_Forager	[Recolector de la Jungla Avanzado]
+Advanced_Jungle_Forager	[Recolector Avanzado de la Jungla]
 
-Advanced_Lacustre_Forager	[Recolector de los Lagos Avanzado]
+Advanced_Lacustre_Forager	[Recolector Avanzado de los Lagos]
 
-Advanced_Prime_Roots_Forager	[Recolector de las Primeras Raíces Avanzado]
+Advanced_Prime_Roots_Forager	[Recolector Avanzado de las Raíces Primarias]
 
 Expert_Desert_Forager	[Experto Recolector del Desierto]
 
@@ -8285,7 +8285,7 @@ Expert_Jungle_Forager	[Experto Recolector de la Jungla]
 
 Expert_Lacustre_Forager	[Experto Recolector de los Lagos]
 
-Expert_Prime_Roots_Forager	[Experto Recolector de las Primeras Raíces]
+Expert_Prime_Roots_Forager	[Experto Recolector de las Raíces Primarias]
 
 Master_Desert_Forager	[Maestro Recolector del Desierto]
 
@@ -8309,7 +8309,7 @@ uiSandThundery	[Tormenta de arena]
 
 uiSapThundery	[Tormenta de savia]
 
-uiSnowy	[Nieve]
+uiSnowy	[Nevada]
 
 uiThundery	[Tormentoso]
 
@@ -8339,7 +8339,7 @@ uiContinentTerre	[Tierras Olvidadas]
 
 uiContinentBagne	[Abismo Icórico]
 
-uiTheSeasonIs	[Es ]
+uiTheSeasonIs	[La estación es]
 
 uiAndTheWeatherIs	[ y el clima es ]
 
@@ -8693,7 +8693,7 @@ mpfam180	[Madera Seca]
 
 mpfam181	[Madera Podrida]
 
-mpfam182	[Serrín de Madera Seca]
+mpfam182	[Aserrín de Madera Seca]
 
 mpfam183	[Aserrín de Madera Húmeda]
 
@@ -8741,7 +8741,7 @@ mpfam204	[Escama de Pez Plateado]
 
 mpfam205	[Escama de Pez Dorado]
 
-mpfam206	[Parásito Viviente]
+mpfam206	[Parásito Vivo]
 
 mpfam207	[Parásito Muerto]
 
@@ -8749,9 +8749,9 @@ mpfam208	[Tela de Araña Pequeña]
 
 mpfam209	[Tela de Araña Grande]
 
-mpfam210	[Gusano de Seda]
+mpfam210	[Seda de gusano]
 
-mpfam211	[Araña de Seda]
+mpfam211	[Seda de araña]
 
 mpfam212	[Abdomen de Luciernaga Pequeño]
 
@@ -10168,21 +10168,21 @@ uittLmPA2	[Cargador 3]
 
 uittLmPA3	[Cargador 4]
 
-uittLMTeam0	[Grupo 0]
+uittLMTeam0	[Equipo 0]
 
-uittLMTeam1	[Grupo 1]
+uittLMTeam1	[Equipo 1]
 
-uittLMTeam2	[Grupo 2]
+uittLMTeam2	[Equipo 2]
 
-uittLMTeam3	[Grupo 3]
+uittLMTeam3	[Equipo 3]
 
-uittLMTeam4	[Grupo 4]
+uittLMTeam4	[Equipo 4]
 
-uittLMTeam5	[Grupo 5]
+uittLMTeam5	[Equipo 5]
 
-uittLMTeam6	[Grupo 6]
+uittLMTeam6	[Equipo 6]
 
-uittLMTeam7	[Grupo 7]
+uittLMTeam7	[Equipo 7]
 
 uiCP_Infos	[INFO]
 
@@ -10930,13 +10930,13 @@ uiBagBulk	[Volumen de la Mochila]
 
 uiWeightSpeedFactor	[Factor de Velocidad]
 
-uiUpdateDisplayDriversNotUpToDate	[Los drivers de video no están actualizados.]
+uiUpdateDisplayDriversNotUpToDate	[Los controladores de video no están actualizados.]
 
-uiUpdateDisplayDrivers	[¿Desea actualizar sus drivers?]
+uiUpdateDisplayDrivers	[¿Desea actualizar sus controladores?]
 
-uiUpdateDisplayDriversCurrent	[Versión driver actual: ]
+uiUpdateDisplayDriversCurrent	[Versión actual del controlador: ]
 
-uiUpdateDisplayDriversRecommanded	[Versión driver recomendada: ]
+uiUpdateDisplayDriversRecommanded	[Versión recomendada del controlador: ]
 
 uiUpdateDisplayDriversVendor	[Distribuidor: ]
 
@@ -10950,7 +10950,7 @@ uiPhraseLevelFmt	[Nivel Requerido: %d]
 
 uiPhraseSectionFmt	[Nivel Requerido %min-%max:]
 
-uiSkillTree	[Arbol de Habilidad]
+uiSkillTree	[Árbol de Habilidad]
 
 uiMessageOfTheDay	[¡Rompe la Realidad y Renace!]
 
@@ -10963,7 +10963,7 @@ uiAlwaysSendReport	[Enviar el informe siempre]
 uiStatReport	[¿Deseas enviar un informe de estadísticas?\n
 	Este informe nos ayudará con el seguimiento y corrección de los problemas del juego.]
 
-uiSendingStatReport	[Enviando un informe de estadíticas...]
+uiSendingStatReport	[Enviando un informe de estadísticas...]
 
 uiDeathXPMalus	[Penalización EXP por Muerte]
 
@@ -10981,9 +10981,9 @@ uiBrowseRefresh	[Refrescar]
 
 uiBrowseHome	[Inicio]
 
-uittBrowseUndo	[Navegar en la página anterior]
+uittBrowseUndo	[Navegar en la página previa de ayuda]
 
-uittBrowseRedo	[Navegar en la página siguiente]
+uittBrowseRedo	[Navegar en la siguiente página de ayuda]
 
 uittBrowseRefresh	[Refrescar la página actual]
 
@@ -11657,19 +11657,19 @@ uiEncyTheme	[TEMA]
 
 uiRite	[RITO: Rito dado por el PNJ de nombre...]
 
-uiTask1	[Tarea de Ritual 1: Tarea dada por el PNJ de nombre...]
+uiTask1	[Tarea 1 del Ritual: Tarea dada por el PNJ de nombre...]
 
-uiTask2	[Tarea de Ritual 2: Tarea dada por el PNJ de nombre...]
+uiTask2	[Tarea 2 del Ritual: Tarea dada por el PNJ de nombre...]
 
-uiTask3	[Tarea de Ritual 3: Tarea dada por el PNJ de nombre...]
+uiTask3	[Tarea 3 del Ritual: Tarea dada por el PNJ de nombre...]
 
-uiTask4	[Tarea de Ritual 4: Tarea dada por el PNJ de nombre...]
+uiTask4	[Tarea 4 del Ritual: Tarea dada por el PNJ de nombre...]
 
-uiTask5	[Tarea de Ritual 5: Tarea dada por el PNJ de nombre...]
+uiTask5	[Tarea 5 del Ritual: Tarea dada por el PNJ de nombre...]
 
-uiTask6	[Tarea de Ritual 6: Tarea dada por el PNJ de nombre...]
+uiTask6	[Tarea 6 del Ritual: Tarea dada por el PNJ de nombre...]
 
-uiTask7	[Tarea de Ritual 7: Tarea dada por el PNJ de nombre...]
+uiTask7	[Tarea 7 del Ritual: Tarea dada por el PNJ de nombre...]
 
 gn_zorai_voluteer_m	[Voluntario Zoraï]
 
@@ -11723,7 +11723,7 @@ uiBCFilterMin	[Mín:]
 
 uiBCFilterMax	[Máx:]
 
-uittBCNoItemPartFilter	[Mostrar Todas Las Materias Primas Sin Filtro De Parte De Objeto.]
+uittBCNoItemPartFilter	[Mostrar todas las Materias Primas sin Filtro de Parte se Objeto.]
 
 uiBCFilterReset	[Reiniciar]
 
@@ -11743,8 +11743,8 @@ uiBCDestroy	[Destruir]
 
 uiBCAutoReset	[Reiniciar los filtros al abrir]
 
-uittBCAutoReset	[Si se seleciona, todos los @{6F6F}filtros@{FFFF} serán reiniciados cuando la ventana se abra de nuevo.\n
-	Deselccionar esta opción para mantener los filtros de  @{6F6F}Clase@{FFFF}, @{6F6F}Calidad@{FFFF} y @{6F6F}Precio@{FFFF}.]
+uittBCAutoReset	[Si se selecciona, todos los @{6F6F}filtros@{FFFF} serán reiniciados cuando la ventana se abra de nuevo.\n
+	Deseleccionar esta opción para mantener los filtros de  @{6F6F}Clase@{FFFF}, @{6F6F}Calidad@{FFFF} y @{6F6F}Precio@{FFFF}.]
 
 uiCriticalHit	[Golpe Crítico]
 
@@ -11794,7 +11794,7 @@ uittNotEnoughGuildMoney	[Tu gremio no tiene suficientes dappers para comprar est
 
 uittNotEnoughGuildXP	[No tienes suficiente EXP de Gremio para comprar esto.]
 
-uittNotEnoughSkillPoints	[No tienes suficientes Puntos de Habilidad paa aprender esta acción.]
+uittNotEnoughSkillPoints	[No tienes suficientes Puntos de Habilidad para aprender esta acción.]
 
 uittBCNotAvailable	[No puedes coger tu objeto desde aquí, pero lo puedes destruir.]
 
@@ -11804,7 +11804,7 @@ uittBadResalePrice	[Has introducido un precio de reventa no válido. El precio d
 
 uittWontBuyThis	[No voy a comprar esto.]
 
-uiYuboChat	[Chat de Suporte]
+uiYuboChat	[Chat de Soporte]
 
 uiCreatorHeader	[Artesano: ]
 
@@ -11816,7 +11816,7 @@ uiMagicProtectTable	[PROTECCIONES]
 
 uittMagicProtectTable	[Las @{6F6F}protecciones mágicas@{FFFF} absorben un porcentaje del daño mágico prolongado. La cantidad de absorción depende de:\n
 	@{T4}- @{6F6F}tipo de daño@{FFFF} causado por la magia\n
-	@{T4}- caracteríticas de la protección mágica otorgado por las @{6F6F}joyas@{FFFF} puestas\n
+	@{T4}- características de la protección mágica otorgado por las @{6F6F}joyas@{FFFF} puestas\n
 	@{T4}- la @{6F6F}calidad@{FFFF} total de las joyas puestas\n
 	@{T4}- la @{6F6F}raza@{FFFF} del jugador.]
 
@@ -11852,8 +11852,8 @@ uittProtect_Shockwave	[Absorción de daño Onda de Choque: @{6F6F}%v%@{FFFF} %ma
 
 uittProtect_MaxReached	[(máximo)]
 
-uittProtect_MaxAbsorb	[Máximo Daño Mágico Absorvido.\n
-	Total del @{6F6F}daño máximo absorvido@{FFFF} por las joyas + @{6F6F}máximo nivel@{FFFF} del jugador.]
+uittProtect_MaxAbsorb	[Máximo Daño Mágico Absorbido.\n
+	Total del @{6F6F}daño máximo absorbido@{FFFF} por las joyas + @{6F6F}máximo nivel@{FFFF} del jugador.]
 
 uiResistsTable	[RESISTENCIAS]
 
@@ -11877,7 +11877,7 @@ uiResist_Lacustre	[Dominio de los Lagos]
 
 uiResist_Jungle	[Dominio de la Selva]
 
-uiResist_PrimRoot	[Dominio de las Primeras Raíces]
+uiResist_PrimRoot	[Dominio de las Raíces Primarias]
 
 uittResist_Desert	[Resistencia contra los hechizos del Dominio del Desierto: @{6F6F}%v@{FFFF} %max\n
 	@{T4}- Posibilidades de resistir un hechizo de @{6F6F}Magia Elemental@{FFFF} de nivel @{6F6F}%eml@{FFFF}: @{6F6F}%emr%@{FFFF}\n
@@ -11942,7 +11942,7 @@ uiFactionPointTable	[PUNTOS DE FACCIÓN Y NACIÓN]
 
 uiOrgPointTable	[ORGANIZATION POINTS]
 
-uittIdentityOrganization	[Los puntos de la organización se ganan cuando tú participas en @{6F6F}eventos especiales o misiones@{FFFF} para la organización: Marauder y Ranger. Estos puntos pueden ser intercambiados para obtener objetos útiles y únicos en las capitales..]
+uittIdentityOrganization	[Los puntos de la organización se ganan cuando tú participas en @{6F6F}eventos especiales o misiones@{FFFF} para la organización: Marauder y Ranger. Estos puntos pueden ser intercambiados para obtener objetos útiles y únicos en las capitales.]
 
 uiAFK	[{AFK}]
 
@@ -12112,7 +12112,7 @@ uiCancelingScanData	[Cancelando Exploración de Datos. Por favor espere...]
 uiScanDataSucess	[La Exploración de Datos indica ausencia de Archivos corruptos.\n
 	Pulse 'Cerrar']
 
-uiScanDataErrors	[La Exploración de Datos indica la existenci de %d Archivos corruptos. Se recargarán por completo en el siguiente parche. Pulse 'Cerrar']
+uiScanDataErrors	[La Exploración de Datos indica la existencia de %d Archivos corruptos. Se recargarán por completo en el siguiente parche. Pulse 'Cerrar']
 
 uiErrDataScanning	[Error: La Exploración de Datos falló]
 
@@ -12372,7 +12372,7 @@ uittModLacustreForageSuccess	[Tu habilidad de Recolección de Los Lagos ha sido 
 
 uittModJungleForageSuccess	[Tu habilidad de Recolección de la Jungla ha sido modificada en %modifier punto(s)]
 
-uittModPrimaryRootForageSuccess	[Tu habilidad de Recolección de las Raices Primarias ha sido modificada en %modifier punto(s)]
+uittModPrimaryRootForageSuccess	[Tu habilidad de Recolección de las Raíces Primarias ha sido modificada en %modifier punto(s)]
 
 uiOnMainlandValidation	[De Acuerdo]
 
@@ -12388,13 +12388,13 @@ uittReturnToMainland	[Volver al Continente]
 
 uiLaunchEditor	[EDITOR DE ESCENARIO]
 
-uiSessionVanishedFarTP	[La Aventura del Ring en la que estabas está ahora cerrada. Te estamos teleportando al continente...]
+uiSessionVanishedFarTP	[La Aventura del Anillo en la que estabas está ahora cerrada. Te estamos teletransportando al continente...]
 
-uiSessionUnreachable	[El servidor asociado a este personaje está cerrado, favor intental más tarde.]
+uiSessionUnreachable	[El servidor asociado a este personaje está cerrado, favor intenta más tarde.]
 
 uiR2EDActionCategory	[COMANDOS DEL RING DE RYZOM]
 
-uiRingAccessPoint	[Terminal Ring]
+uiRingAccessPoint	[Anillo Terminal]
 
 uiRingAccessPointFilter	[Filtro]
 
@@ -12567,7 +12567,7 @@ uiWelcomeCSTitle	[Contactar Atención del Cliente]
 
 uiWelcomeCS	[Un dedicado equipo representantes de atención al cliente (CSR por sus siglas en inglés) están atentos a Atys noche y día. Se les puede contactar hacienco clic en el botón 'Ayuda' (signo de interrogación) del menú de botones (abajo a la derecha de la pantalla por defecto), y luego pulsando 'SOPORTE'. ]
 
-uittIdentityTitle	[Clic en el @{6F6F}título@{FFFF}actual para visualizar la lista de los @{6F6F}títulos @{FFFF}que has ganado y selecciona el que más orgullos te haga sentir.\n
+uittIdentityTitle	[Clic en el @{6F6F}título@{FFFF}actual para visualizar la lista de los @{6F6F}títulos @{FFFF}que has ganado y selecciona el que más orgulloso te haga sentir.\n
 	A medida que progresas en el juego, obtendrás nuevos @{6F6F}títulos @{FFFF}los que serán agregados automáticamente a esta lista.]
 
 uittIdentityInfo	[Muestra los requisitos necesarios para obtener tu @{6F6F}título @{FFFF}actual.]
@@ -12581,7 +12581,7 @@ uittIdentitySap	[@{6F6F}Savia@{FFFF} %n\n
 uittIdentitySta	[@{6F6F}Resistencia@{FFFF} %n\n
 	Cuando tu nivel de resistencia es muy bajo, ya no puedes llevar a cabo ataques especiales y tendrás que usar ataque por defecto hasta que tu resistencia esté regenerada.]
 
-uittIdentityFoc	[@{6F6F}Concetración@{FFFF} %n\n
+uittIdentityFoc	[@{6F6F}Concentración@{FFFF} %n\n
 	Cuando tu nivel de concentración es muy bajo, no podrás llevar a cabo acciones de recolección o acciones de artesanía con ladrillos de mejora en ellas.]
 
 uittIdentityHPReg	[@{6F6F}Regeneración de Salud@{FFFF}: %n\n
@@ -12624,7 +12624,7 @@ uittIdentityTotalMalus	[Indica la penalización total de la acción cuando lanza
 	Un @{6F6F}malus alto @{FFFF}significa un mayor coste de energía, mayor tiempo de lanzamiento y menor rango de acción.\n
 	Este total está determinado por la combinación del @{6F6F}Malus de Acción @{FFFF}de las ropas, armaduras y armas equipadas.]
 
-uittIdentitBagBulk	[Indica el @{6F6F}espacio total @{FFFF}ocupado por todos los objetos en tu inventario. Cuando el volumen máximo es alcanzado, no puedes agregar objetos en tu inventario.]
+uittIdentitBagBulk	[Indica el @{6F6F}espacio total @{FFFF}ocupado por todos los objetos en tu inventario. Cuando el volumen máximo es alcanzado, no puedes agregar más objetos en tu inventario.]
 
 uittIdentitySpeedFactor	[Indica el impacto de los objetos que tienes en tu inventario, o que llevas puestos o estás cargando, en tu @{6F6F}velocidad de movimiento@{FFFF}. También puede verse afectada por hechizos (negativa y positivamente.)]
 
@@ -12632,7 +12632,7 @@ uittIdentityDodge	[@{6F6F}Evasión@{FFFF}: %n\n
 	Oportunidad para evadir un ataque cuerpo a cuerpo de un enemigo de nivel @{6F6F}%l@{FFFF}: @{6F6F}%p@{FFFF}%.]
 
 uittIdentityParry	[@{6F6F}Bloqueo@{FFFF}: %n\n
-	Oportunida de bloquear un ataque cuerpo a cuerpo de un enemigo de nivel @{6F6F}%l@{FFFF}: @{6F6F}%p@{FFFF}%.]
+	Oportunidad de bloquear un ataque cuerpo a cuerpo de un enemigo de nivel @{6F6F}%l@{FFFF}: @{6F6F}%p@{FFFF}%.]
 
 uittIdentityFaction	[Los puntos de facción y nación se ganan cuando participas en @{6F6F}eventos y misiones especiales@{FFFF} para las facciones: Kami y Karavan, y para las naciones: Fyros, Tryker, Matis y Zoraï. Estos puntos pueden ser intercambiados para conseguir objetos únicos y útiles en las capitales.]
 
@@ -12649,7 +12649,7 @@ uittGaugesSap	[@{6F6F}Savia@{FFFF}:\n
 uittGaugesSta	[@{6F6F}Resistencia@{FFFF}:\n
 	Cuando tu nivel de resistencia es muy bajo, ya no puedes llevar a cabo ataques especiales y tendrás que usar ataque por defecto hasta que tu resistencia esté regenerada.]
 
-uittGaugesFoc	[@{6F6F}Concetración@{FFFF}:\n
+uittGaugesFoc	[@{6F6F}Concentración@{FFFF}:\n
 	Cuando tu nivel de concentración es muy bajo, no podrás llevar a cabo acciones de recolección.]
 
 uittHandR	[@{6F6F}Mano Derecha\n
@@ -12664,7 +12664,7 @@ uittAnimalBar	[@{E42F}Vida @{FFFF}- Saciedad - @{EB2F}Volumen]
 
 uittAnimalWeight	[Peso @{6F6F}Total @{FFFF}cargado por tu animal.]
 
-uittAnimalInv	[El @{6F6F}inventaio @{FFFF}da acceso a los objetos cargados por este animal.]
+uittAnimalInv	[El @{6F6F}inventario @{FFFF}da acceso a los objetos cargados por este animal.]
 
 uittChatAround	[@{6F6F}Alrededor\n
 	@{FFFF}Muestra los mensajes a todos los jugadores situados a 25 metros a tu alrededor.\n
@@ -12710,7 +12710,7 @@ uittPhraseXPMalus	[@{6F6F}Pena de Muerte\n
 
 uittInventoryWeight	[Peso @{6F6F}Total @{FFFF}de la mochila]
 
-uittFriendsOnline	[Conectado en el mismo Contienente o Escenario del Anillo]
+uittFriendsOnline	[Conectado en el mismo Continente o Escenario del Anillo]
 
 uittFriendsOnlineAbroad	[Conectado a otro Continente o Escenario del Anillo]
 
@@ -12754,7 +12754,7 @@ uittInfoParryMod	[@{6F6F}Modificador de Bloqueo@{FFFF}:\n
 	Bonus o Malus en tu @{6F6F}Bloqueo@{FFFF} cuando llevas ese objeto.]
 
 uittInfoProt	[@{6F6F}Protecciones@{FFFF}:\n
-	Bonu para la absorción del daño mágico continuado.]
+	Bonus para la absorción del daño mágico continuado.]
 
 uittInfoResist	[@{6F6F}Resistencias@{FFFF}:\n
 	Bonus a la resistencia mágica.]
@@ -12775,13 +12775,13 @@ uittInfoArmorProtection	[@{6F6F}Protección@{FFFF}:\n
 	El daño inflingido por un golpe es reducido por este factor, con un máximo de los valores que se muestran debajo.]
 
 uittInfoArmorSlash	[@{6F6F}Max. vs Golpe Cortante@{FFFF}:\n
-	Máximos puntos de golpes absorbidos poara un golpe "cortante".]
+	Máximos puntos de golpes absorbidos para un golpe "cortante".]
 
 uittInfoArmorPierc	[@{6F6F}Max. vs Golpe Perforante@{FFFF}:\n
-	Máximos puntos de golpe absorvidos paraun golpe "perforante".]
+	Máximos puntos de golpe absorbidos para un golpe "perforante".]
 
 uittInfoArmorBlunt	[@{6F6F}Max. vs Golpe Contundente@{FFFF}:\n
-	Máximos puntos de golpe absorvidos para un golpe "contundente".]
+	Máximos puntos de golpe absorbidos para un golpe "contundente".]
 
 uittInfoArmorType	[@{6F6F}Tipo de Armadura@{FFFF}:\n
 	El tipo de armadura afecta por lo general al malus de acción. Las armaduras medianas y pesadas otorgan bonus de Salud adicionales.]
@@ -12803,7 +12803,7 @@ uittInfoWeaponDamage	[@{6F6F}Daño@{FFFF}:\n
 	Inflinges el máximo daño si tu nivel de habilidad es igual o superior a la calidad del arma.]
 
 uittInfoWeaponHitMin	[@{6F6F}Golpe/Minuto@{FFFF}:\n
-	Velocida de ataque del arma.]
+	Velocidad de ataque del arma.]
 
 uittInfoWeaponRDamage	[@{6F6F}Daño@{FFFF}:\n
 	@{AAAF}Daño actual (Daño máximo)@{FFFF}\n
@@ -12814,7 +12814,7 @@ uittInfoWeaponRHitMin	[@{6F6F}Golpe/Minuto@{FFFF}:\n
 	Cadencia de tiro de este arma.]
 
 uittInfoWeaponReach	[@{6F6F}Alcance@{FFFF}:\n
-	Alcance de esta arma. Cuanto mayor sea comparado con la del enemigo, mayor será las posibilida de golpear a tu objetivo.]
+	Alcance de esta arma. Cuanto mayor sea comparado con la del enemigo, mayor será las posibilidad de golpear a tu objetivo.]
 
 uittInfoWeaponRange	[@{6F6F}Alcance@{FFFF}:\n
 	Distancia máxima a la cual puedes disparar a tu enemigo.]
@@ -12823,7 +12823,7 @@ uittInfoTargetDodgeMod	[@{6F6F}Modificador de Evasión del Adversario@{FFFF}:\n
 	Bono o Malus a la @{6F6F}Evasión@{FFFF} de tu enemigo.]
 
 uittInfoTargetParryMod	[@{6F6F}Modificador de Bloqueo del Objetivo@{FFFF}:\n
-	Bonus o Malus al @{6F6F}Bloqueoo@{FFFF} de tu enemigo.]
+	Bonus o Malus al @{6F6F}Bloqueo@{FFFF} de tu enemigo.]
 
 uittInfoDamageType	[@{6F6F}Tipo de Daño@{FFFF}:\n
 	Algunos enemigos son más vulnerables a ciertos tipos de daño que a otros.]
@@ -12857,7 +12857,7 @@ uittInfoMpFam	[@{6F6F}Familia@{FFFF}:\n
 
 uittActionSpellLevel	[@{6F6F}Nivel de hechizo@{FFFF}:\n
 	Calculado de acuerdo con el ladrillo más costoso.\n
-	Si el nivel del hechizo es mayor que la @{6F6F}calidd@{FFFF} de los amplificadores mágicos, los bonus de los amplificadores no se aplicarán.]
+	Si el nivel del hechizo es mayor que la @{6F6F}calidad@{FFFF} de los amplificadores mágicos, los bonus de los amplificadores no se aplicarán.]
 
 uittActionSuccessRateSF	[@{6F6F}Tasa de éxito@{FFFF}:\n
 	La tasa de éxito depende del nivel del arma utilizada.]
@@ -12873,15 +12873,15 @@ uittActionSuccessRateSH	[@{6F6F}Tasa de éxito@{FFFF}:\n
 
 uittActionSkillPoint	[@{6F6F}Puntos de habilidad@{FFFF}:\n
 	@{AAAF}Puntos necesarios/Coste total\n
-	@{FFFF}Cuando dominas todas los ladrillos de una acción, el primer número es 0 y se anula el sombreado de la acción en la Ventana de Acciones.]
+	@{FFFF}Cuando dominas todos los ladrillos de una acción, el primer número es 0 y se anula el sombreado de la acción en la Ventana de Acciones.]
 
 uittActionSkillReq	[@{6F6F}Requisitos de la habilidad@{FFFF}:\n
 	Indica las habilidades y los niveles que debes tener.\n
-	Los requesitos que no sea cumplan se mostrarán en @{F80F}Naranja@{FFFF}.]
+	Los requisitos que no sea cumplan se mostrarán en @{F80F}Naranja@{FFFF}.]
 
 uittActionStanzaReq	[@{6F6F}Ladrillos Requeridos@{FFFF}:\n
 	Debes conocer estos ladrillos antes de ser capaz de aprender esta acción.\n
-	Los requesitos que no sea cumplan se mostrarán en @{F80F}Naranja@{FFFF}.]
+	Los requisitos que no se cumplan se mostrarán en @{F80F}Naranja@{FFFF}.]
 
 uittToolCraftType	[@{6F6F}Tipo de Herramienta@{FFFF}:\n
 	Antes fabricar, debes equiparte la herramienta de fabricación apropiada.]
@@ -12890,7 +12890,7 @@ uittInfoToolQuality	[@{6F6F}Calidad@{FFFF}:\n
 	La calidad de las herramientas limita el nivel de las acciones que se pueden usar.]
 
 uittInfoJewelryQuality	[@{6F6F}Calidad@{FFFF}:\n
-	Una calidad superior siginifica por lo general protecciones mágicas superiores.]
+	Una calidad superior significa por lo general protecciones mágicas superiores.]
 
 uiQuickEmote	[/hola]
 
@@ -13067,7 +13067,7 @@ uiRAP_NoSessionForLangFilter	[Se encontraron algunos escenarios, ¡Pero no para 
 
 uiRAP_NoSessionFound	[Ningún escenario encontrado]
 
-uiRAP_NotInvited	[Para unirte a este escenario, tienes que haber sido invitado apor el propietario del escenario. Haz clic en el botón 'PEDIR INVITACIÓN' para contactarlos.]
+uiRAP_NotInvited	[Para unirte a este escenario, tienes que haber sido invitado por el propietario del escenario. Haz clic en el botón 'PEDIR INVITACIÓN' para contactarlos.]
 
 uiRAP_Level0	[Novato]
 
@@ -13110,7 +13110,7 @@ uiRAP_EnlargeTooltip	[Alarga las columnas para que su contenido sea totalmente v
 uiRAP_FlagsTooltip	[Una @{6F6F}CONFIRMACIÓN@{FFFF} se muestra cuando el propietario del escenario te ha invitado a unirte al escenario.\n
 	Un icono de un @{6F6F}OJO@{FFFF} indica que el propietario está presente en este escenario. Hagla clic para ordenar por este criterio.]
 
-uiRAP_OwnerTooltip	[Nombre del jugador que ha creado el escenario. Puedes enviarle un @{6F6F}mensaje@{FFFF}a este jugador a través del menú del botón derecho, o por el botón en la esquina inferior derecha de esa ventana. Haciendo doble clic en el escenario al cual no has sido todavía invitado enviará un mensaje al propietario del escenario, pidiendo una invitación. Hacer click para ordenar por propietario.]
+uiRAP_OwnerTooltip	[Nombre del jugador que ha creado el escenario. Puedes enviarle un @{6F6F}mensaje@{FFFF}a este jugador a través del menú del botón derecho, o por el botón en la esquina inferior derecha de esa ventana. Haciendo doble clic en el escenario al cual no has sido todavía invitado enviará un mensaje al propietario del escenario, pidiendo una invitación. Hacer clic para ordenar por propietario.]
 
 uiRAP_TitleTooltip	[Título para el escenario, dado por su creador. Hacer clic para ordenar por título.]
 
@@ -13125,9 +13125,9 @@ uiRAP_LevelTooltip	[Dificultad del escenario. Este nivel determina el tipo de pu
 	@{6F6F}Maestro@{FFFF}: Habilidades de al menos nivel 201\n
 	Clic para ordenar por este criterio.]
 
-uiRAP_PlayerCountTooltip	[Número de jugadores que están jugando ahora en el escenario. Click para ordenar los escenarios por el número de jugadores conectados.]
+uiRAP_PlayerCountTooltip	[Número de jugadores que están jugando ahora en el escenario. Clic para ordenar los escenarios por el número de jugadores conectados.]
 
-uiRAP_LanguageTooltip	[Iidioma del escenario. Click para organizar los escenarios por idioma.]
+uiRAP_LanguageTooltip	[Idioma del escenario. Clic para organizar los escenarios por idioma.]
 
 uiRAP_LaunchDateTooltip	[Tiempo en el que el escenario comenzó. Click para ordenar los escenarios según el momento de inicio.]
 
@@ -13135,7 +13135,7 @@ uiRAP_ScenarioTypeTooltip	[El Tipo de Escenario de acuerdo a su creador. Clic pa
 
 uiRAP_AuthorRRPRatingTooltip	[Puntos de recompensa del autor del escenario]
 
-uiRAP_OwnerRRPRatingTooltip	[Puntos de recompense del propietario del escenario.]
+uiRAP_OwnerRRPRatingTooltip	[Puntos de recompensa del propietario del escenario.]
 
 uiRAP_ScenarioRRPRatingTooltip	[Puntos de recompensa de este escenario]
 
@@ -13233,7 +13233,7 @@ uiRAP_TellSentTo	[Solicitud para invitación enviada a:]
 
 uiRingInviteNotification	[<R2_INVITE>Has sido invitado para unirte a un escenario ring. Si seleccionas el escenario en una Terminal Ring serás capaz de unírte directamente.]
 
-uiRingInvitationSent	[ha sido invitado a unirse a este Escenario Ring]
+uiRingInvitationSent	[ha sido invitado a unirse a este Escenario]
 
 uiRingPlotItemDesc	[descripción: ]
 
@@ -13241,40 +13241,40 @@ uiRingPlotItemComment	[comentar: ]
 
 uiRingPlotItemEmpty	[ - ]
 
-uiRingAutoInviteToggle	[Cuando @{6F6F}está sin marcar@{FFFF}, los jugadores deben solicitar una invitación antes de poder unirse a este escenario en una @{6F6F}Terminal Ring@{FFFF}.]
+uiRingAutoInviteToggle	[Cuando @{6F6F}está sin marcar@{FFFF}, los jugadores deben solicitar una invitación antes de poder unirse a este escenario en una @{6F6F}Anillo Terminal@{FFFF}.]
 
-uiRingGlobalAccessToggle	[Cuando @{6F6F}está sin marcar@{FFFF}, sólo los jugadores invitados verán este escenario en las @{6F6F}Terminales Ring@{FFFF}.]
+uiRingGlobalAccessToggle	[Cuando @{6F6F}está sin marcar@{FFFF}, sólo los jugadores invitados verán este escenario en las @{6F6F}Terminales@{FFFF}.]
 
-uiRingFilterFyros	[Cuando @{6F6F}está sin marcar@{FFFF} los jugadores Fyros que no han sido invitados no podrán ver tu escenario en las @{6F6F}Terminales Ring@{FFFF}.]
+uiRingFilterFyros	[Cuando @{6F6F}está sin marcar@{FFFF} los jugadores Fyros que no han sido invitados no podrán ver tu escenario en las @{6F6F}Terminales@{FFFF}.]
 
-uiRingFilterMatis	[Cuando @{6F6F}está sin marcar@{FFFF} los jugadores Matis que no han sido invitados no podrán ver tu escenario en las @{6F6F}Terminales Ring@{FFFF}.]
+uiRingFilterMatis	[Cuando @{6F6F}está sin marcar@{FFFF} los jugadores Matis que no han sido invitados no podrán ver tu escenario en las @{6F6F}Terminales@{FFFF}.]
 
-uiRingFilterZorai	[Cuando @{6F6F}está sin marcar@{FFFF} los jugadores Zoraï que no han sido invitados no podrán ver tu escenario en las @{6F6F}Terminales Ring@{FFFF}.]
+uiRingFilterZorai	[Cuando @{6F6F}está sin marcar@{FFFF} los jugadores Zoraï que no han sido invitados no podrán ver tu escenario en las @{6F6F}Terminales@{FFFF}.]
 
-uiRingFilterTryker	[Cuando @{6F6F}está sin marcar@{FFFF} los jugadores Tryker que no han sido invitados no podrán ver tu escenario en las @{6F6F}Terminales Ring@{FFFF}.]
+uiRingFilterTryker	[Cuando @{6F6F}está sin marcar@{FFFF} los jugadores Tryker que no han sido invitados no podrán ver tu escenario en las @{6F6F}Terminales@{FFFF}.]
 
-uiRingFilterGuild	[Cuando @{6F6F}está sin marcar@{FFFF} los jugadores que no hayas invitado y que no son parte de tu gremio no podrán ver tu escenario en las @{6F6F}Terminales Ring@{FFFF}.\n
+uiRingFilterGuild	[Cuando @{6F6F}está sin marcar@{FFFF} los jugadores que no hayas invitado y que no son parte de tu gremio no podrán ver tu escenario en las @{6F6F}Terminales@{FFFF}.\n
 	Esta opción no tiene ningún efecto si no tienes un gremio.]
 
-uiRingFilterCombatLevel0	[Cuando @{6F6F}está sin marcar@{FFFF} los jugadores que no hayas invitado y que su mejor habilidad de combate no sea mayor que el nivel @{6F6F}20@{FFFF} no podrán ver tu escenario en las @{6F6F}Terminales Ring@{FFFF}.]
+uiRingFilterCombatLevel0	[Cuando @{6F6F}está sin marcar@{FFFF} los jugadores que no hayas invitado y que su mejor habilidad de combate no sea mayor que el nivel @{6F6F}20@{FFFF} no podrán ver tu escenario en los @{6F6F}Anillos Terminales@{FFFF}.]
 
-uiRingFilterCombatLevel1	[Cuando @{6F6F}está sin marcar@{FFFF} los jugadores que no hayas invitado y que su mejor habilidad de combate esté entre los niveles @{6F6F}21@{FFFF} y @{6F6F}50@{FFFF} no podrán ver tu escenario en las @{6F6F}Terminales Ring@{FFFF}.]
+uiRingFilterCombatLevel1	[Cuando @{6F6F}está sin marcar@{FFFF} los jugadores que no hayas invitado y que su mejor habilidad de combate esté entre los niveles @{6F6F}21@{FFFF} y @{6F6F}50@{FFFF} no podrán ver tu escenario en las @{6F6F}Terminales @{FFFF}.]
 
-uiRingFilterCombatLevel2	[Cuando @{6F6F}está sin marcar@{FFFF} los jugadores que no hayas invitado y que su mejor habilidad de combate esté entre los niveles @{6F6F}51@{FFFF} y @{6F6F}100@{FFFF} no podrán ver tu escenario en las @{6F6F}Terminales Ring@{FFFF}.]
+uiRingFilterCombatLevel2	[Cuando @{6F6F}está sin marcar@{FFFF} los jugadores que no hayas invitado y que su mejor habilidad de combate esté entre los niveles @{6F6F}51@{FFFF} y @{6F6F}100@{FFFF} no podrán ver tu escenario en las @{6F6F}Terminales@{FFFF}.]
 
-uiRingFilterCombatLevel3	[Cuando @{6F6F}está sin marcar@{FFFF} los jugadores que no hayas invitado y que su mejor habilidad de combate esté entre los niveles @{6F6F}101@{FFFF} y @{6F6F}150@{FFFF} no podrán ver tu escenario en las @{6F6F}Terminales Ring@{FFFF}.]
+uiRingFilterCombatLevel3	[Cuando @{6F6F}está sin marcar@{FFFF} los jugadores que no hayas invitado y que su mejor habilidad de combate esté entre los niveles @{6F6F}101@{FFFF} y @{6F6F}150@{FFFF} no podrán ver tu escenario en las @{6F6F}Terminales@{FFFF}.]
 
-uiRingFilterCombatLevel4	[Cuando @{6F6F}está sin marcar@{FFFF} los jugadores que no hayas invitado y que su mejor habilidad de combate esté entre los niveles @{6F6F}151@{FFFF} y @{6F6F}200@{FFFF} no podrán ver tu escenario en las @{6F6F}Terminales Ring@{FFFF}.]
+uiRingFilterCombatLevel4	[Cuando @{6F6F}está sin marcar@{FFFF} los jugadores que no hayas invitado y que su mejor habilidad de combate esté entre los niveles @{6F6F}151@{FFFF} y @{6F6F}200@{FFFF} no podrán ver tu escenario en las @{6F6F}Terminales@{FFFF}.]
 
-uiRingFilterCombatLevel5	[Cuando @{6F6F}está sin marcar@{FFFF} los jugadores que no hayas invitado y que su mejor habilidad de combate esté entre los niveles @{6F6F}201@{FFFF} y @{6F6F}250@{FFFF} no podrán ver tu escenario en las @{6F6F}Terminales Ring@{FFFF}.]
+uiRingFilterCombatLevel5	[Cuando @{6F6F}está sin marcar@{FFFF} los jugadores que no hayas invitado y que su mejor habilidad de combate esté entre los niveles @{6F6F}201@{FFFF} y @{6F6F}250@{FFFF} no podrán ver tu escenario en las @{6F6F}Terminales @{FFFF}.]
 
-uiRingFilterReligionKami	[Cuando @{6F6F}está sin marcar@{FFFF} los jugadores con lealtad Kami no podrán ver tu escenario en las @{6F6F}Terminales Ring@{FFFF}.]
+uiRingFilterReligionKami	[Cuando @{6F6F}está sin marcar@{FFFF} los jugadores con lealtad Kami no podrán ver tu escenario en las @{6F6F}Terminales@{FFFF}.]
 
-uiRingFilterReligionKaravan	[Cuando @{6F6F}está sin marcar@{FFFF} los jugadores con lealtad Karava no podrán ver tu escenario en las @{6F6F}Terminales Ring@{FFFF}.]
+uiRingFilterReligionKaravan	[Cuando @{6F6F}está sin marcar@{FFFF} los jugadores con lealtad Karava no podrán ver tu escenario en las @{6F6F}Terminales@{FFFF}.]
 
-uiRingFilterReligionNeutral	[Cuando @{6F6F}está sin marcar@{FFFF} los jugadores sin lealtada no podrán ver tu escenario en las @{6F6F}Terminales Ring@{FFFF}.]
+uiRingFilterReligionNeutral	[Cuando @{6F6F}está sin marcar@{FFFF} los jugadores sin lealtada no podrán ver tu escenario en las @{6F6F}Terminales@{FFFF}.]
 
-uiRingFilterShard	[Cuando @{6F6F}está sin marcar@{FFFF} los jugadores de este shard que no hayas invitado no podrán ver tu escenario en las @{6F6F}Terminales Ring@{FFFF}.]
+uiRingFilterShard	[Cuando @{6F6F}está sin marcar@{FFFF} los jugadores de este fragmento que no hayas invitado no podrán ver tu escenario en las @{6F6F}Terminales@{FFFF}.]
 
 uiRAP_AskForTall	[Solicite hablar]
 
@@ -13298,11 +13298,11 @@ uiRAP_InvitedAndNotConnected	[Este personaje que has invitado a unirse a este es
 
 uiRAP_Kick	[EXPULSAR]
 
-uiRAP_MenuCharTell	[Envíar un 'mensjae' a ]
+uiRAP_MenuCharTell	[Enviar un 'mensaje' a ]
 
 uiRAP_MenuKick	[Expulsar ]
 
-uiRAP_MenuTeleportTo	[Teleportarse a ]
+uiRAP_MenuTeleportTo	[Teletransportarse a ]
 
 uiRAP_MenuUnkick	[Des-expulsar ]
 
@@ -13312,7 +13312,7 @@ uiRAP_Resize	[Reajustar]
 
 uiRAP_ResizeTooltip	[Reajustar el tamaño de las columnas a su contenido]
 
-uiRAP_TeleportTo	[Teleportar a]
+uiRAP_TeleportTo	[Teletransportar a]
 
 uiRAP_Unkick	[DES-EXPULSAR]
 
@@ -13320,7 +13320,7 @@ uiRAP_WaitChars0	[Recuperando personajes.]
 
 uiRAP_WaitChars1	[Recuperando personajes..]
 
-uiRAP_WaitChars2	[Recuperarando personajes...]
+uiRAP_WaitChars2	[Recuperando personajes...]
 
 uiR2EDso_newbie_training	[Entrenamiento de Novato]
 
@@ -13358,13 +13358,13 @@ uiR2EDApplyScenarioFilters	[Aplicar]
 
 uiRingLaunchScenarioTooltip	[Lanzar una sesión del escenario que has escogido.]
 
-uiRingDescriptionScenarioTooltip	[Describir el escenario que vas a lanzar. Será visible para todos los jugadores en cada Terminal Ring.]
+uiRingDescriptionScenarioTooltip	[Describir el escenario que vas a lanzar. Será visible para todos los jugadores en cada Anillo Terminal.]
 
 uiRingWarningFreeTrial	[LIMITACIONES DE LA PRUEBA GRATUITA:\n
 	\n
 	No puedes unirte a esta aventura Ring con una cuenta de prueba gratuita.\n
 	\n
-	Con el fin de obtener acceso complet a Ryzom Ring necesitas suscribirte a Ryzom.\n
+	Con el fin de obtener acceso completo a Ryzom Ring necesitas suscribirte a Ryzom.\n
 	\n
 	Para actualizar tu cuenta ve a\n
 	www.ryzom.com\n
@@ -13376,7 +13376,7 @@ uiRingWarningInviteFreeTrial	[No puedes invitar a este jugador porque tiene una 
 uiRingWarningNewcomer	[No puedes invitar a este jugador porque uno de ustedes es un recién llegado.\n
 	]
 
-uiRingWarningBanishedPlayer	[Has sido baneado. Has perdido la habilidad de lanzar un escenario.]
+uiRingWarningBanishedPlayer	[Has sido vetado. Has perdido la habilidad de lanzar un escenario.]
 
 uiRingLaunchScenarioError	[Ha ocurrido un error cuando has tratado de lanzar tu escenario.]
 
@@ -13579,7 +13579,7 @@ uiR2EDMasterlessRingRatingTooltip	[@{6F6F}Calificación de Organizador @{FFFF}: 
 
 uiRingLoadingNotARoSScenario	[No puedes cargar un escenario del Continente mientras estás en las Ruinas de Silan. ]
 
-uiRingNoRatings	[Puntuaciónes de escenario no disponibles en el Continente.]
+uiRingNoRatings	[Puntuaciones de escenario no disponibles en el Continente.]
 
 uiR2EDScenarioScores	[PUNTUACIONES PROMEDIO DEL ESCENARIO]
 
@@ -13591,7 +13591,7 @@ uiNoAvailableMission	[Tu diario de misión está vacío.]
 
 uittExpandMissionList	[Clic para alternar entre la lista ampliada y visualización del menú desplegable.]
 
-uittMissionCombo	[Este es tu diario de misión. Clic para seleccionar o mover la @{6F6F}Rueda del ratón hacía arriba@{FFFF} o @{6F6F}Rueda del ratón hacia abajo@{FFFF} para intercambiar entre las misiones.]
+uittMissionCombo	[Este es tu diario de misión. Has clic para seleccionar o mover la @{6F6F}Rueda del ratón hacía arriba@{FFFF} o @{6F6F}Rueda del ratón hacia abajo@{FFFF} para intercambiar entre las misiones.]
 
 uittMissionJournal	[Este es tu diario de misión]
 
@@ -13835,7 +13835,7 @@ uiDownloadingMetadata	[Descargando información meta]
 
 uiFinished	[Terminando]
 
-uiSeeding	[Seeding]
+uiSeeding	[Siembra]
 
 uiAllocating	[Asignando]
 
@@ -13961,7 +13961,7 @@ uiNightWarningContent	[Es de noche en Atys.\n
 
 uitabBuyAll	[Todo]
 
-uitabBuyAction	[Aciones]
+uitabBuyAction	[Acciones]
 
 uitabBuyUpgrade	[Actualizaciones]
 
@@ -13973,9 +13973,9 @@ uittConsiderTargetNoSelection	[Ningún objetivo seleccionado]
 
 uittConsiderTargetLevel	[@{6F6F}Nivel@{FFFF} del objetivo]
 
-uittConsiderBoss	[Esta criatura es @{6F6F}un reto del gremio@{FFFF}.]
+uittConsiderBoss	[Esta criatura es @{6F6F}un reto de nivel gremio@{FFFF}.]
 
-uittConsiderBossNpc	[Este personaje es un @{6F6F}reto nivel de gremio@{FFFF}.]
+uittConsiderBossNpc	[Este personaje es un @{6F6F}reto de nivel gremio@{FFFF}.]
 
 uittConsiderNamedOrMiniBoss	[Esta criatura es un @{6F6F}reto de nivel de equipo@{FFFF}.]
 
@@ -13983,7 +13983,7 @@ uittConsiderUnknownLevel	[El nivel del objetivo es @{F00F}muy alto@{FFFF} compar
 	\n
 	@{888F}Nota: Puedes ver el nivel de tu objetivo hasta 10 niveles por encima de tu propio nivel. Obtienes un bono de 10 niveles por cada jugador en tu equipo.]
 
-uittConsiderBothPVPToSeeLevel	[@{6F6F}Consejo:@{FFFF} Tanto tu como tu objetivo debeis estar en modo JcJ para que puedas ver el nivel de tu oponente.]
+uittConsiderBothPVPToSeeLevel	[@{6F6F}Consejo:@{FFFF} Tanto tu como tu objetivo deben estar en modo JcJ para que puedas ver el nivel de tu oponente.]
 
 uittTabBuyAll	[Mostrar todo el entrenamiento disponible]
 
@@ -14031,7 +14031,7 @@ uiRpJobs	[Ocupaciones]
 
 uiRpJobsElementary	[Ocupaciones Básicas]
 
-uiRpJobsAdvanced	[Ocupaciones Avanzadss]
+uiRpJobsAdvanced	[Ocupaciones Avanzadas]
 
 uiRpJobsRoleplay	[Ocupaciones Rol]
 
@@ -14077,11 +14077,11 @@ uiUntranslatedToken	[Ficha inválida: '%s'. No devuelve ningún valor y no tiene
 
 uiShow3dItemPreview	[Muestra una imagen previa del objeto en 3D]
 
-uittShow3dItemPreview	[Si se marca, muestra una imagen previa en 3d del objeto inspeccionado.]
+uittShow3dItemPreview	[Si se marca, muestra una imagen previa en 3D del objeto inspeccionado.]
 
-uiShowDynChannelNameInChatCB	[Mostrar Nombre del Canal de Dinamico en el Canal Usuario]
+uiShowDynChannelNameInChatCB	[Mostrar Nombre del Canal de Dinámico en el Canal Usuario]
 
-uittShowDynChannelNameInChat	[Si se marca, el nombre del canal de chat dinamico se muestra al frente si el mensaje es visualizado en la pestaña del usuario.]
+uittShowDynChannelNameInChat	[Si se marca, el nombre del canal de chat dinámico se muestra al frente si el mensaje es visualizado en la pestaña del usuario.]
 
 uiShowReticle	[Mostrar Retícula del Objetivo]
 
@@ -14107,8 +14107,8 @@ uiThousandsSeparator	[.]
 
 uiRaceBold	[RAZA: ]
 
-uittFilterTP	[Filtrar @{6F6F}Pactos de Teleportación\n
-	@{FFFF}Botón derecho para seleccionar sólo@{6F6F}Pactos de Teleportación@{FFFF}.]
+uittFilterTP	[Filtrar @{6F6F}Pactos de Teletransportación\n
+	@{FFFF}Botón derecho para seleccionar sólo@{6F6F}Pactos de Teletransportación@{FFFF}.]
 
 uiShowOnlineOfflineNotifications	[Mostrar Notificaciones de Conexión/Desconexión]
 
@@ -14212,9 +14212,9 @@ uiPoints	[Puntos:]
 
 uiOrganizationStatus	[Rango:]
 
-uittOrganization	[Puedes unirte a una @{6F6F}Organización@{FFFF} y obtener las ventajas de pertenezer a esa organización pasadon un ritual.\n
+uittOrganization	[Puedes unirte a una @{6F6F}Organización@{FFFF} y obtener las ventajas de pertenecer a esa organización pasando un ritual.\n
 	\n
-	Necesitarás tener los requesitos de fama necerarios antes de hacer el ritual. El sabio (o equivalente) de la organización puede darte más información.]
+	Necesitarás tener los requisitos de fama necesarios antes de hacer el ritual. El sabio (o equivalente) de la organización puede darte más información.]
 
 uiRpTags	[Etiquetas Rol]
 
@@ -14254,7 +14254,7 @@ uittShowIconBuffs	[Mostrar las estadísticas y el hechizo del artículo]
 
 uiShowClock12h	[Usar reloj de 12 horas]
 
-uittShowClock12h	[Si marcado, usa el sistema horario de 12 horas en el reloj de la brújula y en los mensajes de chat.]
+uittShowClock12h	[Si se marca, usa el sistema horario de 12 horas en el reloj de la brújula y en los mensajes de chat.]
 
 uiRadarUseCamera	[El radar sigue la rotación de la cámara]
 
@@ -14376,9 +14376,9 @@ uiMapSearch	[Búsqueda en el mapa]
 
 uittMapSearch	[Búsqueda en el mapa]
 
-uiTargetLandmarkCmd	[Punto de referencia del Mapa]
+uiTargetLandmarkCmd	[Objetivo en el mapa]
 
-uiTargetLandmarkCmdEntity	[Palabras clave de la búsqueda de referencia]
+uiTargetLandmarkCmdEntity	[Palabras clave de la búsqueda del objetivo en el mapa]
 
 uittInventorySearch	[Buscar]
 
@@ -14419,27 +14419,27 @@ msgRollDiceLocal	[&SYS&@{FF1F}Tiraste de la %roll en un empate entre un %min y u
 
 uiGuildTabIsland	[Isla]
 
-uiWelcome_around	[El juego de roles es uno de los principales intereses de Ryzom, y alrededor del canal es un lugar importante para practicarlo.]
+uiWelcome_around	[El juego de roles es uno de los principales intereses de Ryzom, y el canal alrededor es un lugar importante para practicarlo.]
 
-uiWelcome_region	[Chatea aquí con otros jugadores que tengan su avatar en la misma región que el tuyo.]
+uiWelcome_region	[Chatea aquí con otros jugadores que tengan su avatar en la misma región que tu.]
 
-uiWelcome_universe	[El Canal Universo es multilingüe está destinado en primer lugar a los jugadores que piden ayuda sobre el juego y a los que les ayudan. Es un canal amigable que también puede ser utilizado para chatear relacionado con Ryzom.]
+uiWelcome_universe	[El Canal Universo es multilingüe y está destinado en primer lugar a los jugadores que piden ayuda sobre el juego y a los que les ayudan. Es un canal amigable que también puede ser utilizado para chatear relacionado con Ryzom.]
 
-uiWelcome_kami	[Chatea aquí con jugadores que tienen su avatar compartiendo el mismo culto que el tuyo.]
+uiWelcome_kami	[Chatea aquí con jugadores cuyos avatares comparten el mismo culto que el tuyo.]
 
-uiWelcome_karavan	[Chatea aquí con jugadores que tienen su avatar compartiendo el mismo culto que el tuyo.]
+uiWelcome_karavan	[Chatea aquí con jugadores cuyos avatares comparten el mismo culto que el tuyo.]
 
-uiWelcome_fyros	[Chatea aquí con jugadores cuyo avatar es también un patriota.]
+uiWelcome_fyros	[Chatea aquí con jugadores cuyos avatares también son patriotas.]
 
-uiWelcome_tryker	[Chatea aquí con jugadores cuyo avatar es también ciudadano.]
+uiWelcome_tryker	[Chatea aquí con jugadores cuyos avatares también son ciudadanos.]
 
-uiWelcome_zorai	[Chatea aquí con jugadores cuyo avatar también es un iniciado.]
+uiWelcome_zorai	[Chatea aquí con jugadores cuyos avatares también son iniciados.]
 
-uiWelcome_matis	[Chatea aquí con jugadores cuyo avatar también es un vasallo.]
+uiWelcome_matis	[Chatea aquí con jugadores cuyos avatares también son vasallos.]
 
-uiWelcome_marauder	[Chatea aquí con jugadores cuyo avatar también es un marauder.]
+uiWelcome_marauder	[Chatea aquí con jugadores cuyos avatares también son Marauders.]
 
-uiWelcome_ranger	[Chatea aquí con jugadores cuyo avatar también es un ranger.]
+uiWelcome_ranger	[Chatea aquí con jugadores cuyos avatares también son Rangers.]
 
 uiArtefactRestrict	[@{C02F}Su lealtad o nivel de fama no le permite usar este artículo.]
 
@@ -14597,11 +14597,36 @@ uiWindowSnap	[Window snap]
 
 uiPeopleChangeContactGroup	[Nombre del grupo]
 
-uiShowTranslationOnlyAsTooltip	[Mostrar los mensajes originales por defecto, la versión traducida en un tooltip]
+uiShowTranslationOnlyAsTooltip	[Mostrar los mensajes originales por defecto, la versión traducida en un texto]
 
 uittShowTranslationOnlyAsTooltip	[Si se marca, los mensajes se mostrarán en su idioma original, pero su traducción sólo se mostrará como una herramienta de ayuda al pasar el ratón por encima.]
 
 uimChangeGroup	[Mover a un grupo de amigos]
 
 uibotchatphrase	[ ]
+
+fct_civil	[(Civil)]
+
+uiTextCommand1	[*La Conquista del Nexo*]
+
+uiTextCommand4	[Extracto de las crónicas de Erlan]
+
+uiTextCommand2	[Han pasado cuarenta años desde que se cerraron los puestos de avanzada. En sus emplazamientos se explotaba una vez al nexo que palpitaba en las profundidades de Atys.]
+
+uiTextCommand3	[Mientras los nuevos templos daban la bienvenida a los homines, los representantes de las deidades anunciaron que había llegado el momento de reclamar los puestos de avanzada: sus recursos se habían convertido en una apuesta en la guerra entre las Potencias. La batalla no había hecho más que empezar. Y todos sabían que quien controlara el nexo controlaría a todo Atys.]
+
+uiTextCommandFT1	[* FT FT La Conquista del Nexo*]
+
+uiTextCommandFT2	[FT FT Han pasado cuarenta años desde que se cerraron los puestos de avanzada. En sus emplazamientos se explotaba una vez al nexo que palpitaba en las profundidades de Atys.]
+
+uiTextCommandFT3	[FT FT Mientras los nuevos templos daban la bienvenida a los homines, los representantes de las deidades anunciaron que había llegado el momento de reclamar los puestos de avanzada: sus recursos se habían convertido en una apuesta en la guerra entre las Potencias. La batalla no había hecho más que empezar. Y todos sabían que quien controlara el nexo controlaría a todo Atys.]
+
+uiTextCommandFT4	[FT FT Extracto de las Crónicas de Erlan]
+
+uittShowCapInMap	[Mostrar en el mapa la posición del Objetivo en Curso]
+
+uittShowCapPopup	[Mostrar/Ocultar el Curso emergente en el centro de mapa]
+
+mission_real_tooltip	[{FFFC}Este es el @{6F6F}Curso@{FFFC} que usted sigue actualmente.\n
+	Clic para más @{6F6F}información@{FFFC}.]
 

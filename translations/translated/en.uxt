@@ -1539,6 +1539,9 @@ Mind_Lord	[Mind Lord]
 
 Misc	[Misc]
 
+mission_real_tooltip	[{FFFC}This is the @{6F6F}Course@{FFFC} you are currently following.\n
+	Click for more @{6F6F}information@{FFFC}.]
+
 mpcatExotic	[Exotic]
 
 mpcatFaber	[Crafter]
@@ -9216,7 +9219,7 @@ uimCall	[CALL]
 
 uimCareer	[CAREER]
 
-uimChangeGroup	[Move to friends group]
+uimChangeGroup	[MOVE TO FRIENDS GROUP]
 
 uimChanSave	[Save]
 
@@ -9314,9 +9317,9 @@ uiMemSpecialFul	[SPECIAL MEMORY]
 
 uiMemSpecialTitle	[SPECIAL]
 
-uimEnterBag	[Enter on the bag]
+uimEnterBag	[Tuck in bag]
 
-uimEnterStable	[Enter Stable]
+uimEnterStable	[Enter stables]
 
 uiMenuCenter	[CENTER MAP ON YOURSELF]
 
@@ -9820,9 +9823,9 @@ uiMk_window11	[Ryzom Ring]
 
 uiMK_Wins	[WINDOWS]
 
-uimLeaveBag	[Leave from the bag]
+uimLeaveBag	[Let out of bag]
 
-uimLeaveStable	[Leave Stable]
+uimLeaveStable	[Leave stables]
 
 uimLockItem	[Lock]
 
@@ -10719,7 +10722,7 @@ uiPeopleAdd	[ADD]
 
 uiPeopleAddContact	[Add contact]
 
-uiPeopleChangeContactGroup	[Name of group]
+uiPeopleChangeContactGroup	[Name of the friends group]
 
 uiPet	[Pet]
 
@@ -12021,9 +12024,9 @@ uiSaveMovie	[Save Movie]
 
 uiSaveUI	[Save]
 
-uiSAY	[SAY]
-
 uiSay	[SAY]
+
+uiSAY	[SAY]
 
 uiSayColor	[Say]
 
@@ -12601,9 +12604,9 @@ uiTatoos	[TATTOOS]
 
 uitCenter	[CENTER MAP ON YOURSELF]
 
-uiTEAM	[TEAM]
-
 uiTeam	[TEAM]
+
+uiTEAM	[TEAM]
 
 uiTeamChat	[Team Chat]
 
@@ -14224,6 +14227,10 @@ uittSelectPlan	[Select the plan of the item to craft]
 uittSetMoney	[Set amount]
 
 uittShow3dItemPreview	[If checked, displays a 3D preview of the inspected item.]
+
+uittShowCapInMap	[Show the position of Course's goal on the map]
+
+uittShowCapPopup	[Display/hide the Course popup at top center of the screen]
 
 uittShowClock	[If checked, displays the current time in the compass.]
 

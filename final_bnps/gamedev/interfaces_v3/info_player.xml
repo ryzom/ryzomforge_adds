@@ -656,7 +656,9 @@
                 <view type="text" id="cap_desc" x="4" y="-15" global_color="false" posref="TR TL" posparent="cap_icon" fontsize="10" hardtext="uittMissionJournal" />
                 <view type="bar" id="cap_progress" active="false" posparent="cap_icon" posref="TR TL" x="4" y="-32" mini="true" value="UI:TEMP:CAP_PROGRESS" range="100" />
                 <view type="text" id="cap_infos"  posparent="cap_icon"  posref="TR TL" sizeref="w" x="72" y="-28" global_color="false" fontsize="10" hardtext="" />
-                <ctrl type="button" button_type="push_button" id="cap_ctrl" w="0" h="40" x="0" y="0" sizeref="w" col_over="255 255 255 90" tx_over="blank.tga" scale="true" onclick_l="lua:game:openInfosUrl()" tooltip="uittExpandMissionList" tooltip_posref="TR TL"/>
+                <ctrl type="button" button_type="push_button" id="cap_ctrl" w="-22" h="40" x="0" y="0" sizeref="w" col_over="255 255 255 90" tx_over="blank.tga" scale="true" onclick_l="lua:game:openInfosUrl()" tooltip="uittExpandMissionList" tooltip_posref="TR TL"/>
+                <ctrl type="button" active="true" button_type="push_button" id="expand_mission_list" posparent="cap_ctrl" posref="TR TL" w="20" h="20" x="-1" y="-2" scale="true" color="192 192 192 255" tx_normal="w_pad_popup.tga" col_over="255 255 255 225" tx_over="w_pad_popup.tga" col_pushed="192 192 192 255" tx_pushed="w_pad_popup.tga" tooltip="uittShowCapPopup" onclick_l="lua:game:switchCapPopup()" />
+                <ctrl type="button" active="true" button_type="push_button" id="show_in_map" posparent="cap_ctrl" posref="TR TL" w="20" h="20" x="-1" y="-24" scale="true" color="192 192 192 255" tx_normal="lm_mission.tga" col_over="255 255 255 225" tx_over="lm_mission.tga" col_pushed="192 192 192 255" tx_pushed="lm_mission.tga" tooltip="uittShowCapInMap" onclick_l="lua:game:showCapInMap()" />
 
             </group>
 
@@ -719,6 +721,17 @@
         </group>
     </group>
     <tree node="info_player_journal" />
+
+	<group id="cap_popup" title=""  type="container" posref="MM MM" x="" y="" movable="false" pop_max_h="80" pop_min_h="80" pop_min_w="800" pop_max_w="800" resizer="true" opened="false" openable="false" options="compass" header_active="false" right_button="false">
+		<group id="html" type="html" posref="TL TL" url="" title_prefix="uiQuickhelpTitle" sizeref="wh" x="0" y="0" w="0" h="0" background_color="0 0 0 0" error_color="255 240 48 255" link_color="240 155 100 255" text_color="210 210 210 255" h1_color="255 255 255 255" h2_color="255 255 255 255" h3_color="255 255 255 255" h4_color="255 255 255 255" h5_color="255 255 255 255" h6_color="255 255 255 255" text_font_size="10" h1_font_size="16" h2_font_size="14" h3_font_size="13" h4_font_size="12" h5_font_size="11" h6_font_size="11" paragraph_begin_space="12" multi_line_space_factor="0.25" td_begin_space="0" li_begin_space="4" ul_begin_space="12" li_indent="-10" ul_indent="30" checkbox_bitmap_normal="patch_off.tga" checkbox_bitmap_pushed="patch_on.tga" checkbox_bitmap_over="" background_bitmap_view="" home="" browse_next_time="false" timeout="0" form_text_area_group="edit_box_widget_multiline" >
+			<group id="black" posref="BR BR" sizeref="hw" inherit_gc_alpha="true"/>
+			<view type="bitmap" id="black2" posparent="black" posref="MM MM" sizeref="wh" w="-2" h="-2" inherit_gc_alpha="true" scale="true" color="0 0 0 0" texture="blank.tga" global_color="false"/>
+			<group type="list" id="text_list" fontsize="9" posref="TL TL" posparent="black" x="2" y="-2" space="0" sizeref="hw" w="-4" h="-4" maxelements="2000"/>
+			<ctrl style="skin_scroll" id="scroll_bar" />
+		</group>
+	</group>
+    <tree node="cap_popup" />
+
     <!-- update ui when one goes from start island to mainland -->
     <link expr="depends(@SERVER:USER:IS_NEWBIE)" action="lua:game:onMissionJournalOpened()" />
     <link expr="depends(@SERVER:USER:IS_TRIAL)" action="lua:game:onMissionJournalOpened()" />
@@ -742,6 +755,8 @@
         <group id="#id" child_resize_h="true" sizeref="w9" w="0" posparent="#posparent" posref="#posref" win_priority="%win_priority_highest" use_cursor="false">
             <!-- do not change id (used for setting right skill name) -->
             <view type="text" id="name" fontsize="16" posref="TM TM" shadow="true" global_color="false" line_maxw="1000" multi_line="true" justification="centered" />
+            <view type="bitmap" id="iconA" posparent="name" posref="ML MR" w="16" h="16" x="-5" color="255 255 255 255" render_layer="1" slot="false" texture="" global_color="false" />
+            <view type="bitmap" id="iconZ" posparent="name" posref="MR ML" w="16" h="16" x="5" color="255 255 255 255" render_layer="1" slot="false" texture="" global_color="false" />
         </group>
     </template>
     <!-- Skill popup -->
