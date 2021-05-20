@@ -634,7 +634,7 @@
         <action id="caption_toggle" name="uiCaptionToggle" handler="lua:game:toggleMissionJournalCaption()" icon="r2_icon_properties.tga" />
     </group>
     <!-- Main container : info_player_journal -->
-    <group type="container" id="info_player_journal" w="280" h="182" title="uiJournalTitle" global_color="false" opened="true" openable="false" header_color="UI:SAVE:WIN:COLORS:PLA" resizer="true" pop_min_w="292" pop_min_h="137" pop_max_w="800" pop_max_h="800" movable="true" active="false" on_active="proc" on_active_params="mission_proc_active" on_deactive="set" on_deactive_params="dblink=UI:VARIABLES:ISACTIVE:MISSIONS|value=0">
+    <group type="container" id="info_player_journal" w="280" h="382" title="uiJournalTitle" global_color="false" opened="true" openable="false" header_color="UI:SAVE:WIN:COLORS:PLA" resizer="true" pop_min_w="292" pop_min_h="137" pop_max_w="800" pop_max_h="800" movable="true" active="false" on_active="proc" on_active_params="mission_proc_active" on_deactive="set" on_deactive_params="dblink=UI:VARIABLES:ISACTIVE:MISSIONS|value=0">
         <group id="header_opened" x="0" y="0" w="0" h="16" posref="TL TL" group_onclick_r="active_menu" group_params_r="menu=ui:interface:mission_journal_menu"></group>
         <group id="no_available_missions" x="0" y="0" sizeref="wh" w="0" h="0" posref="TL TL" active="false" group_onclick_r="active_menu" group_params_r="menu=ui:interface:mission_journal_menu">
             <group id="main" sizeref="w" w="-16" posref="MM MM" child_resize_h="true">

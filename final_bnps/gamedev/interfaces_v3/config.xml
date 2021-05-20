@@ -5,8 +5,8 @@
         w="800"
         h="600"
         active="true" />
-  <!-- This value is saved/loaded in the .icfg (default: 0). 
-        It is used in combination with RESET_VER_* defines, to avoid loading old DB parts of .icfg 
+  <!-- This value is saved/loaded in the .icfg (default: 0).
+        It is used in combination with RESET_VER_* defines, to avoid loading old DB parts of .icfg
         Increment it each time you want to force to reset some db vars, and add/replace the RESET_VER_* defines
         of the variables you want to force
 -->
@@ -239,7 +239,7 @@
   <link expr="depends(@UI:SAVE:ENTITY:COLORS)"
         action="update_entities_color"
         params="" />
-  <!-- at .icfg load: don't load those variables if the define value is < UI_DB_SAVE_VERSION that is in the old .icfg 
+  <!-- at .icfg load: don't load those variables if the define value is < UI_DB_SAVE_VERSION that is in the old .icfg
         NB: replace the ':' of the db name with '_'
 -->
   <define id="RESET_VER_UI_SAVE_ENTITY_COLORS_TARGET"
@@ -2330,7 +2330,7 @@ This MUST follow the Enum MISSION_DESC::TIconId
   <define id="set_base"
           value="LOCAL:INVENTORY" />
   <!-- Sheathes -->
-  <!-- mgt of active sheath is special: must write in %ui_set_active but must read in %set_active 
+  <!-- mgt of active sheath is special: must write in %ui_set_active but must read in %set_active
         It's because Server Replication will write in %set_active. Since we need to put observers on %ui_set_active
         to send msg to servers when the value change, %ui_set_active and %set_active MUST NOT be the same variable.
         Else it will loops: receive SERVER:INVENTORY:ACTIVE_SHEAT, copies to LOCAL:INVENTORY:ACTIVE_SHEAT, and if different
@@ -2815,6 +2815,15 @@ This MUST follow the Enum MISSION_DESC::TIconId
   <variable entry="UI:VARIABLES:FORUM_UPDATED"
             type="sint64"
             value="0" />
+  <variable entry="UI:VARIABLES:DYNE_UPDATED"
+            type="bool"
+            value="0" />
+  <variable entry="UI:VARIABLES:COMPASS_ICON_USER1"
+            type="bool"
+            value="0" />
+  <variable entry="UI:VARIABLES:COMPASS_ICON_USER2"
+            type="bool"
+            value="0" />
   <variable entry="UI:VARIABLES:CURRENT_TIME"
             type="sint64"
             value="0" />
@@ -2918,7 +2927,7 @@ This MUST follow the Enum MISSION_DESC::TIconId
         target="@UI:SAVE:COLOR:G" />
   <link expr="identity(ilinear(getLightLevel(), getBlue(intToColor(@UI:SAVE:DAY_COLOR)), getBlue(intToColor(@UI:SAVE:NIGHT_COLOR))), @UI:VARIABLES:CURRENT_TIME)"
         target="@UI:SAVE:COLOR:B" />
-  <!--<link expr="depends(@UI:VARIABLES:CURRENT_TIME)" action="set" 
+  <!--<link expr="depends(@UI:VARIABLES:CURRENT_TIME)" action="set"
                 params="dblink=UI:SAVE:COLOR:A|value=ilinear(getLightLevel(), @UI:SAVE:DAY_COLOR:A, @UI:SAVE:NIGHT_COLOR:A)" />-->
   <!-- The User Target Slot and UID -->
   <variable entry="UI:VARIABLES:TARGET:UID"
