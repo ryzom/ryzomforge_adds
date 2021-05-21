@@ -2382,7 +2382,7 @@ uiOutpostOwner	[Владелец: ]
 
 uittOutpostOwner	[Гильдия, контролирующая заставу]
 
-uiOutpostTribe	[Застава во власти племени мародеров.]
+uiOutpostTribe	[Аванпост находится в руках раждебного племени.]
 
 uiOutpostAttacker	[Нападающий: ]
 
@@ -14597,35 +14597,35 @@ uittShowTranslationOnlyAsTooltip	[Если опция выбрана, сообщ
 
 uibotchatphrase	[ ]
 
-uiTranslationHeader	[Translations]
+uiTranslationHeader	[Переводы]
 
-uiTranslationLanguages	[Language]
+uiTranslationLanguages	[Язык]
 
-uiTranslationEnglish	[English]
+uiTranslationEnglish	[Английский]
 
-uiTranslationFrench	[French]
+uiTranslationFrench	[Французский]
 
-uiTranslationGerman	[German]
+uiTranslationGerman	[Немецкий]
 
-uiTranslationRussian	[Russian]
+uiTranslationRussian	[Русский]
 
-uiTranslationSpanish	[Spanish]
+uiTranslationSpanish	[Испанский]
 
-uiTranslationInverse	[Invert display]
+uiTranslationInverse	[Инвертировать отображение]
 
-uittTranslationInverse	[Inverts the display of the original message and the translation]
+uittTranslationInverse	[Инвертирует отображение оригинала]
 
-uittTranslationHide	[Hide flag"]
+uittTranslationHide	[Скрывает флаг языка для сообщений, исходящих с этого языка]
 
-uiTranslationHide	[Hide flag]
+uiTranslationHide	[Скрыть флаг]
 
-uiTranslationDisable	[Disable translations for some channels]
+uiTranslationDisable	[Отключить переводы для некоторых каналов]
 
-uiTranslationDisableAround	[Around, shout and emotes]
+uiTranslationDisableAround	[Общение, крики и эмоти]
 
-uiTranslationDisableGuild	[Guild]
+uiTranslationDisableGuild	[Гильдия]
 
-uiTranslationDisableUniverse	[Universe]
+uiTranslationDisableUniverse	[Вселенная]
 
-uiTranslationDisableRegion	[Region]
+uiTranslationDisableRegion	[Регион]
 

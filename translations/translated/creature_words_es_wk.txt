@@ -2705,7 +2705,7 @@
 -	ckhda2	Kipee Enclenque	un	el	Kipees Enclenques	unos	los
 -	ckhda3	Kipee Endeble	un	el	Kipees Endebles		los
 -	ckhda4	Kipee Joven	un	el	Kipees Jóvenes		los
--	ckhdb1	Hipee Vigoroso	un	el	Kipees Vigorosos		los
+-	ckhdb1	Kipee Vigoroso	un	el	Kipees Vigorosos		los
 -	ckhdb2	Kipee Vulgar	un	el	Kipees Vulgares		los
 -	ckhdb3	Kipee Moderado	un	el	Kipees Moderados		los
 -	ckhdb4	Kipee Duro	un	el	Kipees Duros		los

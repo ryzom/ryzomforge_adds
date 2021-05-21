@@ -10592,6 +10592,8 @@ uiOutpostTitleTime	[Zeit]
 
 uiOutpostTitleTotal	[Total]
 
+uiOutpostTribe	[Der Außenposten ist in der Hand eines feindlichen Stammes.]
+
 uiOutpostTSquad	[BEREITSTEHENDE TRUPPEN]
 
 uiOutpostTSquadDuring	[Während der Runde]
@@ -12515,7 +12517,7 @@ uiTalkMemMsg08	[*knuddel*]
 
 uiTalkMemMsg09	[Hurra!]
 
-uiTalkMemMsg10	[Was ist denn hier los?]
+uiTalkMemMsg10	[Was ist los?]
 
 uiTalkMemMsg11	[Bitte?]
 
@@ -12821,33 +12823,33 @@ uiTradeInvitation	[Einladung zum Tausch]
 
 uiTradeWith	[HANDEL MIT?]
 
-uiTranslationDisable	[]
+uiTranslationDisable	[Übersetzungen für einige Kanäle deaktivieren]
 
-uiTranslationDisableAround	[]
+uiTranslationDisableAround	[Around, shout and emotes]
 
-uiTranslationDisableGuild	[]
+uiTranslationDisableGuild	[Gilde]
 
-uiTranslationDisableRegion	[]
+uiTranslationDisableRegion	[Region]
 
-uiTranslationDisableUniverse	[]
+uiTranslationDisableUniverse	[Universum]
 
-uiTranslationEnglish	[]
+uiTranslationEnglish	[Englisch]
 
-uiTranslationFrench	[]
+uiTranslationFrench	[Französisch]
 
-uiTranslationGerman	[]
+uiTranslationGerman	[Deutsch]
 
-uiTranslationHeader	[]
+uiTranslationHeader	[Übersetzungen]
 
-uiTranslationHide	[]
+uiTranslationHide	[Flagge ausblenden]
 
-uiTranslationInverse	[]
+uiTranslationInverse	[Anzeige invertieren]
 
-uiTranslationLanguages	[]
+uiTranslationLanguages	[Sprache]
 
-uiTranslationRussian	[]
+uiTranslationRussian	[Russisch]
 
-uiTranslationSpanish	[]
+uiTranslationSpanish	[Spanisch]
 
 uiTrCulture	[TRYKER - KULTUR]
 
@@ -14313,9 +14315,9 @@ uittTranslationDisableRegion	[]
 
 uittTranslationDisableUniverse	[]
 
-uittTranslationHide	[]
+uittTranslationHide	[Blendet das Sprachflag für Nachrichten aus, die aus dieser Sprache stammen]
 
-uittTranslationInverse	[]
+uittTranslationInverse	[Invertiert die Anzeige des Originals]
 
 uittUserColor	[Farbe, in welcher dein Charakter angezeigt wird]
 

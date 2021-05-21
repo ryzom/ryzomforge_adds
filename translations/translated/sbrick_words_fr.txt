@@ -4193,3 +4193,26 @@
 -	bcogenetmwea_2	Plan d'Outil de création d'armes de mêlée Rubbarn-Gen	un	le	Plan d'Outil de création d'armes de mêlée Rubbarn-Gen	des	les	Brique de plan de création pour Outil de création d'armes de mêlée Rubbarn-Gen	
 -	bcogenetrwea_2	Plan d'Outil de création d'armes de tir Rubbarn-Gen	un	le	Plan d'Outil de création d'armes de tir Rubbarn-Gen	des	les	Brique de plan de création pour Outil de création d'armes de tir Rubbarn-Gen	
 -	bcogenetforage_2	Plan de Pioche de Forage Egiros-Gen	un	le	Plan de Pioche de Forage Egiros-Gen	des	les	Brique de plan de création pour Pioche de Forage Egiros-Gen	
+1619198342	jboost_3x	Amplificateur d'effet allégorique	un	l'	Amplificateurs d'effet allégorique	des	les	Multiplie l'effet de l'Allégorie par @{5F5F}3@{FFFF}.
+1619198342	jboost_4x	Amplificateur d'effet allégorique	un	l'	Amplificateurs d'effet allégorique	des	les	Multiplie l'effet de l'Allégorie par @{5F5F}4@{FFFF}.
+1619198342	jboost_5x	Amplificateur d'effet allégorique	un	l'	Amplificateurs d'effet allégorique	des	les	Multiplie l'effet de l'Allégorie par @{5F5F}5@{FFFF}.
+1619198342	jboost_6x	Amplificateur d'effet allégorique	un	l'	Amplificateurs d'effet allégorique	des	les	Multiplie l'effet de l'Allégorie par @{5F5F}6@{FFFF}.
+1619198342	jboost_7x	Amplificateur d'effet allégorique	un	l'	Amplificateurs d'effet allégorique	des	les	Multiplie l'effet de l'Allégorie par @{5F5F}7@{FFFF}.
+1619198342	jboost_8x	Amplificateur d'effet allégorique	un	l'	Amplificateurs d'effet allégorique	des	les	Multiplie l'effet de l'Allégorie par @{5F5F}8@{FFFF}.
+1619198342	jboost_9x	Amplificateur d'effet allégorique	un	l'	Amplificateurs d'effet allégorique	des	les	Multiplie l'effet de l'Allégorie par @{5F5F}9@{FFFF}.
+1619198342	jboost_10x	Amplificateur d'effet allégorique	un	l'	Amplificateurs d'effet allégorique	des	les	Multiplie l'effet de l'Allégorie par @{5F5F}10@{FFFF}.
+1619198342	jboost_11x	Amplificateur d'effet allégorique	un	l'	Amplificateurs d'effet allégorique	des	les	Multiplie l'effet de l'Allégorie par @{5F5F}11@{FFFF}.
+1619198342	jboost_12x	Amplificateur d'effet allégorique	un	l'	Amplificateurs d'effet allégorique	des	les	Multiplie l'effet de l'Allégorie par @{5F5F}12@{FFFF}.
+1619198342	jboost_13x	Amplificateur d'effet allégorique	un	l'	Amplificateurs d'effet allégorique	des	les	Multiplie l'effet de l'Allégorie par @{5F5F}13@{FFFF}.
+1619198342	jboost_14x	Amplificateur d'effet allégorique	un	l'	Amplificateurs d'effet allégorique	des	les	Multiplie l'effet de l'Allégorie par @{5F5F}14@{FFFF}.
+1619198342	jboost_15x	Amplificateur d'effet allégorique	un	l'	Amplificateurs d'effet allégorique	des	les	Multiplie l'effet de l'Allégorie par @{5F5F}15@{FFFF}.
+1619198342	jboost_16x	Amplificateur d'effet allégorique	un	l'	Amplificateurs d'effet allégorique	des	les	Multiplie l'effet de l'Allégorie par @{5F5F}16@{FFFF}.
+1619198342	jboost_17x	Amplificateur d'effet allégorique	un	l'	Amplificateurs d'effet allégorique	des	les	Multiplie l'effet de l'Allégorie par @{5F5F}17@{FFFF}.
+1619198342	jboost_18x	Amplificateur d'effet allégorique	un	l'	Amplificateurs d'effet allégorique	des	les	Multiplie l'effet de l'Allégorie par @{5F5F}18@{FFFF}.
+1619198342	jboost_19x	Amplificateur d'effet allégorique	un	l'	Amplificateurs d'effet allégorique	des	les	Multiplie l'effet de l'Allégorie par @{5F5F}19@{FFFF}.
+1619198342	jboost_20x	Amplificateur d'effet allégorique	un	l'	Amplificateurs d'effet allégorique	des	les	Multiplie l'effet de l'Allégorie par @{5F5F}20@{FFFF}.
+1619198342	jboost_21x	Amplificateur d'effet allégorique	un	l'	Amplificateurs d'effet allégorique	des	les	Multiplie l'effet de l'Allégorie par @{5F5F}21@{FFFF}.
+1619198342	jboost_22x	Amplificateur d'effet allégorique	un	l'	Amplificateurs d'effet allégorique	des	les	Multiplie l'effet de l'Allégorie par @{5F5F}22@{FFFF}.
+1619198342	jboost_23x	Amplificateur d'effet allégorique	un	l'	Amplificateurs d'effet allégorique	des	les	Multiplie l'effet de l'Allégorie par @{5F5F}23@{FFFF}.
+1619198342	jboost_24x	Amplificateur d'effet allégorique	un	l'	Amplificateurs d'effet allégorique	des	les	Multiplie l'effet de l'Allégorie par @{5F5F}24@{FFFF}.
+1619198342	jboost_25x	Amplificateur d'effet allégorique	un	l'	Amplificateurs d'effet allégorique	des	les	Multiplie l'effet de l'Allégorie par @{5F5F}25@{FFFF}.

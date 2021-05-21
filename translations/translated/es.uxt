@@ -10608,7 +10608,7 @@ uiOutpostTitleTime	[Tiempo]
 
 uiOutpostTitleTotal	[Total]
 
-uiOutpostTribe	[El Puesto de Avanzada es propiedad de una Tribu Merodeadora.]
+uiOutpostTribe	[El puesto de avanzada está en manos de una tribu hostil.]
 
 uiOutpostTSquad	[ESCUADRONES PENDIENTES]
 
@@ -12534,7 +12534,7 @@ uiTalkMemMsg08	[Abrazar]
 
 uiTalkMemMsg09	[¡Yeah!]
 
-uiTalkMemMsg10	[Qué estás pasando?]
+uiTalkMemMsg10	[¿Qué Pasa?]
 
 uiTalkMemMsg11	[¿Tío?]
 
@@ -12840,33 +12840,33 @@ uiTradeInvitation	[INVITACIÓN A COMERCIAR]
 
 uiTradeWith	[¿INTERCAMBIAR CON?]
 
-uiTranslationDisable	[]
+uiTranslationDisable	[Desactivar las traducciones de algunos canales]
 
-uiTranslationDisableAround	[]
+uiTranslationDisableAround	[Alrededor, gritos y emotes]
 
-uiTranslationDisableGuild	[]
+uiTranslationDisableGuild	[Gremio]
 
-uiTranslationDisableRegion	[]
+uiTranslationDisableRegion	[Región]
 
-uiTranslationDisableUniverse	[]
+uiTranslationDisableUniverse	[Universo]
 
-uiTranslationEnglish	[]
+uiTranslationEnglish	[Inglés]
 
-uiTranslationFrench	[]
+uiTranslationFrench	[Francés]
 
-uiTranslationGerman	[]
+uiTranslationGerman	[Alemán]
 
-uiTranslationHeader	[]
+uiTranslationHeader	[Traducciones]
 
-uiTranslationHide	[]
+uiTranslationHide	[Ocultar la bandera]
 
-uiTranslationInverse	[]
+uiTranslationInverse	[Invertir la visualización]
 
-uiTranslationLanguages	[]
+uiTranslationLanguages	[Idioma]
 
-uiTranslationRussian	[]
+uiTranslationRussian	[Ruso]
 
-uiTranslationSpanish	[]
+uiTranslationSpanish	[Español]
 
 uiTrCulture	[CULTURA-TRYKER]
 
@@ -14333,11 +14333,13 @@ uittTranslationDisableAround	[]
 
 uittTranslationDisableGuild	[]
 
+uittTranslationDisableRegion	[]
+
 uittTranslationDisableUniverse	[]
 
-uittTranslationHide	[]
+uittTranslationHide	[Oculta la bandera del idioma para los mensajes originados en este idioma]
 
-uittTranslationInverse	[]
+uittTranslationInverse	[Invierte la visualización del original]
 
 uittUserColor	[Color usado para visualizar tu personaje]
 
@@ -14669,6 +14671,4 @@ _Natae_citizen	[ (Ciudadano de Natae)]
 _Yrkanis_citizen	[ (Ciudadano de Yrkanis)]
 
 ___faber_skill_sep___	[--------------------------------]
-
-uittTranslationDisableRegion	[]
 

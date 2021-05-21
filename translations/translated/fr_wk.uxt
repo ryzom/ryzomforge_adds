@@ -14622,35 +14622,35 @@ mission_real_tooltip	[{FFFC}Ceci est le @{6F6F}Cap@{FFFC} sur lequel vous êtes 
 	\n
 	Il est également possible de changer de cap en cliquant sur @{6F6F}Mettre le Cap sur (...)@{FFFC} à chaque fois que l'option est disponible.]
 
-uiTranslationHeader	[Translations]
+uiTranslationHeader	[Traductions]
 
-uiTranslationLanguages	[Language]
+uiTranslationLanguages	[Langue]
 
-uiTranslationEnglish	[English]
+uiTranslationEnglish	[Anglais]
 
-uiTranslationFrench	[French]
+uiTranslationFrench	[Français]
 
-uiTranslationGerman	[German]
+uiTranslationGerman	[Allemand]
 
-uiTranslationRussian	[Russian]
+uiTranslationRussian	[Russe]
 
-uiTranslationSpanish	[Spanish]
+uiTranslationSpanish	[Espagnol]
 
-uiTranslationInverse	[Invert display]
+uiTranslationInverse	[Inverser l'affichage]
 
-uittTranslationInverse	[Inverts the display of the original message and the translation]
+uittTranslationInverse	[Inverse l'affichage de l'original]
 
-uittTranslationHide	[Hide flag"]
+uittTranslationHide	[Cache le drapeau de la langue pour les messages provenant de cette langue.]
 
-uiTranslationHide	[Hide flag]
+uiTranslationHide	[Cacher le drapeau]
 
-uiTranslationDisable	[Disable translations for some channels]
+uiTranslationDisable	[Désactiver les traductions pour certains canaux]
 
-uiTranslationDisableAround	[Around, shout and emotes]
+uiTranslationDisableAround	[Alentours, crier et emotes]
 
-uiTranslationDisableGuild	[Guild]
+uiTranslationDisableGuild	[Guilde]
 
-uiTranslationDisableUniverse	[Universe]
+uiTranslationDisableUniverse	[Univers]
 
-uiTranslationDisableRegion	[Region]
+uiTranslationDisableRegion	[Région]
 

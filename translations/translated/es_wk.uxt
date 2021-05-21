@@ -2383,7 +2383,7 @@ uiOutpostOwner	[Propietario: ]
 
 uittOutpostOwner	[Gremio Propietario del Puesto de Avanzada. ]
 
-uiOutpostTribe	[El Puesto de Avanzada es propiedad de una Tribu Marauder.]
+uiOutpostTribe	[El puesto de avanzada está en manos de una tribu hostil.]
 
 uiOutpostAttacker	[Atacante: ]
 
@@ -7810,7 +7810,7 @@ uiTalkMemMsg08	[Abrazar]
 
 uiTalkMemMsg09	[¡Yeah!]
 
-uiTalkMemMsg10	[Qué estás pasando?]
+uiTalkMemMsg10	[¿Qué Pasa?]
 
 uiTalkMemMsg11	[¿Tío?]
 
@@ -14630,35 +14630,35 @@ uittShowCapPopup	[Mostrar/Ocultar el Curso emergente en el centro de mapa]
 mission_real_tooltip	[{FFFC}Este es el @{6F6F}Curso@{FFFC} que usted sigue actualmente.\n
 	Clic para más @{6F6F}información@{FFFC}.]
 
-uiTranslationHeader	[Translations]
+uiTranslationHeader	[Traducciones]
 
-uiTranslationLanguages	[Language]
+uiTranslationLanguages	[Idioma]
 
-uiTranslationEnglish	[English]
+uiTranslationEnglish	[Inglés]
 
-uiTranslationFrench	[French]
+uiTranslationFrench	[Francés]
 
-uiTranslationGerman	[German]
+uiTranslationGerman	[Alemán]
 
-uiTranslationRussian	[Russian]
+uiTranslationRussian	[Ruso]
 
-uiTranslationSpanish	[Spanish]
+uiTranslationSpanish	[Español]
 
-uiTranslationInverse	[Invert display]
+uiTranslationInverse	[Invertir la visualización]
 
-uittTranslationInverse	[Inverts the display of the original message and the translation]
+uittTranslationInverse	[Invierte la visualización del original]
 
-uittTranslationHide	[Hide flag"]
+uittTranslationHide	[Oculta la bandera del idioma para los mensajes originados en este idioma]
 
-uiTranslationHide	[Hide flag]
+uiTranslationHide	[Ocultar la bandera]
 
-uiTranslationDisable	[Disable translations for some channels]
+uiTranslationDisable	[Desactivar las traducciones de algunos canales]
 
-uiTranslationDisableAround	[Around, shout and emotes]
+uiTranslationDisableAround	[Alrededor, gritos y emotes]
 
-uiTranslationDisableGuild	[Guild]
+uiTranslationDisableGuild	[Gremio]
 
-uiTranslationDisableUniverse	[Universe]
+uiTranslationDisableUniverse	[Universo]
 
-uiTranslationDisableRegion	[Region]
+uiTranslationDisableRegion	[Región]
 

@@ -12534,7 +12534,7 @@ uiTalkMemMsg08	[Hug]
 
 uiTalkMemMsg09	[Yeah!]
 
-uiTalkMemMsg10	[What's going on?]
+uiTalkMemMsg10	[What's up?]
 
 uiTalkMemMsg11	[Dude?]
 
@@ -12840,33 +12840,33 @@ uiTradeInvitation	[TRADE INVITATION]
 
 uiTradeWith	[TRADE WITH?]
 
-uiTranslationDisable	[]
+uiTranslationDisable	[Disable translations for some channels]
 
-uiTranslationDisableAround	[]
+uiTranslationDisableAround	[Around, shout and emotes]
 
-uiTranslationDisableGuild	[]
+uiTranslationDisableGuild	[Guild]
 
-uiTranslationDisableRegion	[]
+uiTranslationDisableRegion	[Region]
 
-uiTranslationDisableUniverse	[]
+uiTranslationDisableUniverse	[Universe]
 
-uiTranslationEnglish	[]
+uiTranslationEnglish	[English]
 
-uiTranslationFrench	[]
+uiTranslationFrench	[French]
 
-uiTranslationGerman	[]
+uiTranslationGerman	[German]
 
-uiTranslationHeader	[]
+uiTranslationHeader	[Translations]
 
-uiTranslationHide	[]
+uiTranslationHide	[Hide flag]
 
-uiTranslationInverse	[]
+uiTranslationInverse	[Invert display]
 
-uiTranslationLanguages	[]
+uiTranslationLanguages	[Language]
 
-uiTranslationRussian	[]
+uiTranslationRussian	[Russian]
 
-uiTranslationSpanish	[]
+uiTranslationSpanish	[Spanish]
 
 uiTrCulture	[TRYKER-CULTURE]
 
@@ -14337,9 +14337,9 @@ uittTranslationDisableRegion	[]
 
 uittTranslationDisableUniverse	[]
 
-uittTranslationHide	[]
+uittTranslationHide	[Hide flag"]
 
-uittTranslationInverse	[]
+uittTranslationInverse	[Inverts the display of the original message and the translation]
 
 uittUserColor	[Color used to display your character]
 

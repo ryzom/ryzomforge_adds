@@ -4193,3 +4193,26 @@
 -	bcogenetmwea_2	Plan de Fabricacion de Arma de Combate Cuerpo a Cuerpo Rubbarn-Gen	un	el	Planes de Fabricacion de Arma de Combate Cuerpo a Cuerpo Rubbarn-Gen		los	Plan de fabricacion de herramientas para la elaboracion de arma de combate cuerpo a cuerpo Rubbarn-Gen.	
 -	bcogenetrwea_2	Plan de Fabricación de Arma de Alcance Rubbarn-Gen 	un	el	Planes de Fabricación de Arma de Alcance Rubbarn-Gen 		lo	Plan de Fabricación para herramientas de elaboración de armas de alcance Rubbarn-Gen.	
 -	bcogenetforage_2	Plan de Pico Egiros-Gen	un	el	Planes de Pico Egiros-Gen		los	Plan de fabricación de Picos Egiros-Gen.	
+1619198342	jboost_3x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}3@{FFFF}.
+1619198342	jboost_4x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}4@{FFFF}.
+1619198342	jboost_5x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}5@{FFFF}.
+1619198342	jboost_6x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}6@{FFFF}.
+1619198342	jboost_7x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}7@{FFFF}.
+1619198342	jboost_8x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}8@{FFFF}.
+1619198342	jboost_9x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}9@{FFFF}.
+1619198342	jboost_10x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}10@{FFFF}.
+1619198342	jboost_11x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}11@{FFFF}.
+1619198342	jboost_12x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}12@{FFFF}.
+1619198342	jboost_13x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}13@{FFFF}.
+1619198342	jboost_14x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}14@{FFFF}.
+1619198342	jboost_15x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}15@{FFFF}.
+1619198342	jboost_16x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}16@{FFFF}.
+1619198342	jboost_17x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}17@{FFFF}.
+1619198342	jboost_18x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}18@{FFFF}.
+1619198342	jboost_19x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}19@{FFFF}.
+1619198342	jboost_20x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}20@{FFFF}.
+1619198342	jboost_21x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}21@{FFFF}.
+1619198342	jboost_22x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}22@{FFFF}.
+1619198342	jboost_23x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}23@{FFFF}.
+1619198342	jboost_24x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}24@{FFFF}.
+1619198342	jboost_25x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}25@{FFFF}.

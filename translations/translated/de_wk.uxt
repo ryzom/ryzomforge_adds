@@ -2380,7 +2380,7 @@ uiOutpostOwner	[Besitzer: ]
 
 uittOutpostOwner	[Besitzer des Außenpostens.]
 
-uiOutpostTribe	[Der Außenposten wird von einem Marodeurs-Stamm gehalten.]
+uiOutpostTribe	[Der Außenposten ist in der Hand eines feindlichen Stammes.]
 
 uiOutpostAttacker	[Angreifer: ]
 
@@ -7795,7 +7795,7 @@ uiTalkMemMsg08	[*knuddel*]
 
 uiTalkMemMsg09	[Hurra!]
 
-uiTalkMemMsg10	[Was ist denn hier los?]
+uiTalkMemMsg10	[Was ist los?]
 
 uiTalkMemMsg11	[Bitte?]
 
@@ -14612,35 +14612,35 @@ uittShowCapPopup	[Zeige/Verberge die Kursanzeige in der Mitte oben]
 mission_real_tooltip	[{FFFC}Dies ist der @{6F6F}Kurs@{FFFC}, dem Du gerade folgst.\n
 	Klick, um @{6F6F}weitere Informationen@{FFFC} zu erhalten.]
 
-uiTranslationHeader	[Translations]
+uiTranslationHeader	[Übersetzungen]
 
-uiTranslationLanguages	[Language]
+uiTranslationLanguages	[Sprache]
 
-uiTranslationEnglish	[English]
+uiTranslationEnglish	[Englisch]
 
-uiTranslationFrench	[French]
+uiTranslationFrench	[Französisch]
 
-uiTranslationGerman	[German]
+uiTranslationGerman	[Deutsch]
 
-uiTranslationRussian	[Russian]
+uiTranslationRussian	[Russisch]
 
-uiTranslationSpanish	[Spanish]
+uiTranslationSpanish	[Spanisch]
 
-uiTranslationInverse	[Invert display]
+uiTranslationInverse	[Anzeige invertieren]
 
-uittTranslationInverse	[Inverts the display of the original message and the translation]
+uittTranslationInverse	[Invertiert die Anzeige des Originals]
 
-uittTranslationHide	[Hide flag"]
+uittTranslationHide	[Blendet das Sprachflag für Nachrichten aus, die aus dieser Sprache stammen]
 
-uiTranslationHide	[Hide flag]
+uiTranslationHide	[Flagge ausblenden]
 
-uiTranslationDisable	[Disable translations for some channels]
+uiTranslationDisable	[Übersetzungen für einige Kanäle deaktivieren]
 
-uiTranslationDisableAround	[Around, shout and emotes]
+uiTranslationDisableAround	[Um, Shout und Emotes]
 
-uiTranslationDisableGuild	[Guild]
+uiTranslationDisableGuild	[Gilde]
 
-uiTranslationDisableUniverse	[Universe]
+uiTranslationDisableUniverse	[Universum]
 
 uiTranslationDisableRegion	[Region]
 

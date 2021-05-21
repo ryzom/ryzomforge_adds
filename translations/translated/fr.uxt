@@ -10602,6 +10602,8 @@ uiOutpostTitleTime	[Temps]
 
 uiOutpostTitleTotal	[Total]
 
+uiOutpostTribe	[L'avant-poste est détenu par une tribu hostile.]
+
 uiOutpostTSquad	[ESCOUADES EN ATTENTE]
 
 uiOutpostTSquadDuring	[Pendant le round]
@@ -12015,9 +12017,9 @@ uiSaveMovie	[Sauvegarder le film]
 
 uiSaveUI	[Sauvegarder]
 
-uiSay	[Dire]
-
 uiSAY	[Dire]
+
+uiSay	[Dire]
 
 uiSayColor	[Dire]
 
@@ -12181,9 +12183,9 @@ uiShortcutNumber	[Numéro du raccourci]
 
 uiShortCutTT	[Glissez ici un sort de combat ou de magie]
 
-uiShout	[Crier]
-
 uiSHOUT	[Crier]
+
+uiShout	[Crier]
 
 uiShoutColor	[Crier]
 
@@ -12595,9 +12597,9 @@ uiTatoos	[Tatouage]
 
 uitCenter	[Centrer sur vous-même]
 
-uiTEAM	[ÉQUIPE]
-
 uiTeam	[Équipe]
+
+uiTEAM	[ÉQUIPE]
 
 uiTeamChat	[Chat de l'équipe]
 
@@ -12835,33 +12837,33 @@ uiTradeInvitation	[Invitation à échanger]
 
 uiTradeWith	[Échanger avec ?]
 
-uiTranslationDisable	[]
+uiTranslationDisable	[Désactiver les traductions pour certains canaux]
 
-uiTranslationDisableAround	[]
+uiTranslationDisableAround	[Alentours, crier et emotes]
 
-uiTranslationDisableGuild	[]
+uiTranslationDisableGuild	[Guilde]
 
-uiTranslationDisableRegion	[]
+uiTranslationDisableRegion	[Région]
 
-uiTranslationDisableUniverse	[]
+uiTranslationDisableUniverse	[Univers]
 
-uiTranslationEnglish	[]
+uiTranslationEnglish	[Anglais]
 
-uiTranslationFrench	[]
+uiTranslationFrench	[Français]
 
-uiTranslationGerman	[]
+uiTranslationGerman	[Allemand]
 
-uiTranslationHeader	[]
+uiTranslationHeader	[Traductions]
 
-uiTranslationHide	[]
+uiTranslationHide	[Cacher le drapeau]
 
-uiTranslationInverse	[]
+uiTranslationInverse	[Inverser l'affichage]
 
-uiTranslationLanguages	[]
+uiTranslationLanguages	[Langue]
 
-uiTranslationRussian	[]
+uiTranslationRussian	[Russe]
 
-uiTranslationSpanish	[]
+uiTranslationSpanish	[Espagnol]
 
 uiTrCulture	[CULTURE TRYKER]
 
@@ -14325,9 +14327,9 @@ uittTranslationDisableRegion	[]
 
 uittTranslationDisableUniverse	[]
 
-uittTranslationHide	[]
+uittTranslationHide	[Cache le drapeau de la langue pour les messages provenant de cette langue.]
 
-uittTranslationInverse	[]
+uittTranslationInverse	[Inverse l'affichage de l'original]
 
 uittUserColor	[Couleur utilisée pour l'affichage de votre personnage]
 

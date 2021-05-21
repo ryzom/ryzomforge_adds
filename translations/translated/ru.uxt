@@ -10604,6 +10604,8 @@ uiOutpostTitleTime	[Время]
 
 uiOutpostTitleTotal	[Сумма]
 
+uiOutpostTribe	[Аванпост находится в руках раждебного племени.]
+
 uiOutpostTSquad	[ОТРЯДЫ, ГОТОВЫЕ ДЕЙСТВОВАТЬ]
 
 uiOutpostTSquadDuring	[В ходе раунда]
@@ -12018,9 +12020,9 @@ uiSaveMovie	[Сохранить видеоролик]
 
 uiSaveUI	[Save]
 
-uiSAY	[СКАЗАТЬ]
-
 uiSay	[SAY]
+
+uiSAY	[СКАЗАТЬ]
 
 uiSayColor	[Сказать]
 
@@ -12183,9 +12185,9 @@ uiShortcutNumber	[Shortcut Number]
 
 uiShortCutTT	[Перетащите сюда боевое умение или магическое заклинание]
 
-uiSHOUT	[ПРОКРИЧАТЬ]
-
 uiShout	[КРИЧАТЬ]
+
+uiSHOUT	[ПРОКРИЧАТЬ]
 
 uiShoutColor	[Прокричать]
 
@@ -12597,9 +12599,9 @@ uiTatoos	[ТАТУИРОВКИ]
 
 uitCenter	[ЦЕНТРИРОВАТЬ КАРТУ ОТНОСИТЕЛЬНО СЕБЯ]
 
-uiTEAM	[ГРУППА]
-
 uiTeam	[ГРУППА]
+
+uiTEAM	[ГРУППА]
 
 uiTeamChat	[Групповой чат]
 
@@ -12833,33 +12835,33 @@ uiTradeInvitation	[ПРЕДЛОЖЕНИЕ ТОРГОВАТЬ]
 
 uiTradeWith	[ТОРГОВАТЬ С ?]
 
-uiTranslationDisable	[]
+uiTranslationDisable	[Отключить переводы для некоторых каналов]
 
-uiTranslationDisableAround	[]
+uiTranslationDisableAround	[Общение, крики и эмоти]
 
-uiTranslationDisableGuild	[]
+uiTranslationDisableGuild	[Гильдия]
 
-uiTranslationDisableRegion	[]
+uiTranslationDisableRegion	[Регион]
 
-uiTranslationDisableUniverse	[]
+uiTranslationDisableUniverse	[Вселенная]
 
-uiTranslationEnglish	[]
+uiTranslationEnglish	[Английский]
 
-uiTranslationFrench	[]
+uiTranslationFrench	[Французский]
 
-uiTranslationGerman	[]
+uiTranslationGerman	[Немецкий]
 
-uiTranslationHeader	[]
+uiTranslationHeader	[Переводы]
 
-uiTranslationHide	[]
+uiTranslationHide	[Скрыть флаг]
 
-uiTranslationInverse	[]
+uiTranslationInverse	[Инвертировать отображение]
 
-uiTranslationLanguages	[]
+uiTranslationLanguages	[Язык]
 
-uiTranslationRussian	[]
+uiTranslationRussian	[Русский]
 
-uiTranslationSpanish	[]
+uiTranslationSpanish	[Испанский]
 
 uiTrCulture	[КУЛЬТУРА ТРАЙКЕРОВ]
 
@@ -14328,9 +14330,9 @@ uittTranslationDisableRegion	[]
 
 uittTranslationDisableUniverse	[]
 
-uittTranslationHide	[]
+uittTranslationHide	[Скрывает флаг языка для сообщений, исходящих с этого языка]
 
-uittTranslationInverse	[]
+uittTranslationInverse	[Инвертирует отображение оригинала]
 
 uittUserColor	[Цвет для обозначения вашего персонажа]
 
