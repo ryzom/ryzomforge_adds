@@ -6949,7 +6949,7 @@
 -	zig_yubo_forest	Zig Yubo	Zig Yubo	Zig Yubo	Zig Yubo	Zig Yubo		die	ein	das	
 -	zig_yubo_lakes	Zig Yubo	Zig Yubo	Zig Yubo	Zig Yubo	Zig Yubo		die	ein	das	
 -	zig_yubo_white	Zig Yubo	Zig Yubo	Zig Yubo	Zig Yubo	Zig Yubo		die	ein	das	
--	gnoof_mount_0	
+-	gnoof_mount_0	Gnoof-Reittier			Gnoof-Reittiere	Gnoof-Reittiere		die	ein	das
 -	m0009chade01	Erhabener Arma-Wirbel, Wüstentyp	Erhabene Arma-Wirbel, Wüstentyp	Erhabenen Arma-Wirbel, Wüstentyp	Erhabene Arma-Wirbel, Wüstentyp	Erhabenen Arma-Wirbel, Wüstentyp	einen	die	ein	der		
 -	m0009chafe01	Erhabener Arma-Wirbel, Waldtyp	Erhabene Arma-Wirbel, Waldtyp	Erhabenen Arma-Wirbel, Waldtyp	Erhabene Arma-Wirbel, Waldtyp	Erhabenen Arma-Wirbel, Waldtyp	einen	die	ein	der		
 -	m0009chaje01	Erhabener Arma-Wirbel, Dschungeltyp	Erhabene Arma-Wirbel, Dschungeltyp	Erhabenen Arma-Wirbel, Dschungeltyp	Erhabene Arma-Wirbel, Dschungeltyp	Erhabenen Arma-Wirbel, Dschungeltyp	einen	die	ein	der		
@@ -7770,5 +7770,120 @@
 -	m0693ccife01	Erhabene Zerx-Sehne, Waldtyp	Erhabene Zerx-Sehne, Waldtyp	Erhabene Zerx-Sehne, Waldtyp	Erhabene Zerx-Sehnen, Waldtyp	Erhabenen Zerx-Sehnen, Waldtyp	eine	die	eine	die		
 -	m0694ccile01	Erhabenes Zerx-Lederstück, Seenlandtyp	Erhabene Zerx-Lederstück, Seenlandtyp	Erhabene Zerx-Lederstück, Seenlandtyp	Erhabene Zerx-Lederstücke, Seenlandtyp	Erhabenen Zerx-Lederstücke, Seenlandtyp	ein	die	ein	das		
 -	m0694ccife01	Erhabenes Zerx-Lederstück, Waldtyp	Erhabene Zerx-Lederstück, Waldtyp	Erhabene Zerx-Lederstück, Waldtyp	Erhabene Zerx-Lederstücke, Waldtyp	Erhabenen Zerx-Lederstücke, Waldtyp	ein	die	ein	das		
--	s2e1_seve_suc	
--	s2e1_salins	
+-	s2e1_seve_suc	Tropfen Salina-Saft	Tropfen Salina-Saft	Tropfen Salina-Saft	Tropfen Salina-Saft	Tropfen Salina-Saft		die	ein	der
+-	s2e1_salins	reife Salin	reife Salin	reifen Salin	reife Salins	reifen Salins		die	eine	die
+-	nexus_neck1	leuchtende Wüstenhalskette	leuchtende Wüstenhalskette	leuchtende Wüstenhalskette	leuchtende Wüstenhalsketten	leuchtenden Wüstenhalsketten		die	eine	die
+-	nexus_neck2	leuchtende Waldhalskette	leuchtende Waldhalskette	leuchtende Waldhalskette	leuchtende Waldhalsketten	leuchtenden Waldhalsketten		die	eine	die
+-	nexus_neck3	leuchtende Seenhalskette	leuchtende Seenhalskette	leuchtende Seenhalskette	leuchtende Seenhalsketten	leuchtenden Seenhalsketten		die	eine	die
+-	nexus_neck4	leuchtende Dschungelhalskette	leuchtende Dschungelhalskette	leuchtende Dschungelhalskette	leuchtende Dschungelhalsketten	leuchtenden Dschungelhalsketten		die	eine	die
+-	wheel_token_easter	Event Tage des Lichts	ein	Event Tage des Lichts	Event Tage des Lichts	Event Tage des Lichts	die	die	ein	der
+-	slot_fingerl		Lege am linken Finger einen Ring an		Lege am linken Finger einen Ring an						
+1618579662	slot_neck	
+1619876266	m0819dxacc01	natürlicher Tekorn-Strauch	natürliche Tekorn-Strauch	natürliche Tekorn-Strauch	natürliche Tekorn-Sträucher	natürlichen Tekorn-Sträucher	einen	die	ein	der
+1619876266	m0820dxacc01	natürliche Maga-Liane	natürliche Maga-Liane	natürliche Maga-Liane	natürliche Maga-Lianen	natürlichen Maga-Lianen	eine	die	eine	die
+1619876266	m0821dxacc01	natürliche Armilo-Flechte	natürliche Armilo-Flechte	natürliche Armilo-Flechte	natürliche Armilo-Flechten	natürlichen Armilo-Flechten	eine	die	eine	die
+1619876266	m0822dxacc01	natürlicher Greslin-Faden	natürliche Greslin-Faden	natürlichen Greslin-Faden	natürliche Greslin-Fäden	natürlichen Greslin-Fäden	einen	die	ein	der
+1619876266	m0823dxacc01	Portion natürlicher Vedice-Saft	Portion natürlicher Vedice-Saft	Portion natürlicher Vedice-Saft	Portionen natürlicher Vedice-Saft	Portionen natürlicher Vedice-Saft	eine	die	eine	die
+1619876266	m0824dxacc01	natürliche Cheng-Wurzel	natürliche Cheng-Wurzel	natürliche Cheng-Wurzel	natürliche Cheng-Wurzeln	natürlichen Cheng-Wurzeln	eine	die	eine	die
+1619876266	m0825dxacc01	natürlicher Rubbarn-Gummi	natürliche Rubbarn-Gummi	natürlichen Rubbarn-Gummi	natürliche Rubbarn-Gummis	natürlichen Rubbarn-Gummis	einen	die	ein	der
+1619876266	m0826dxacc01	natürlicher Egiros-Pollen	natürliche Egiros-Pollen	natürlichen Egiros-Pollen	natürliche Egiros-Pollen	natürlichen Egiros-Pollen	einen	die	ein	der
+1619876266	m0827dxacc01	raffinierter Tekorn-Strauch	raffinierte Tekorn-Strauch	raffinierte Tekorn-Strauch	raffinierte Tekorn-Sträucher	raffinierten Tekorn-Sträucher	einen	die	ein	der
+1619876266	m0828dxacc01	raffinierte Maga-Liane	raffinierte Maga-Liane	raffinierte Maga-Liane	raffinierte Maga-Lianen	raffinierten Maga-Lianen	eine	die	eine	die
+1619876266	m0829dxacc01	raffinierte Armilo-Flechte	raffinierte Armilo-Flechte	raffinierte Armilo-Flechte	raffinierte Armilo-Flechten	raffinierten Armilo-Flechten	eine	die	eine	die
+1619876266	m0830dxacc01	raffinierter Greslin-Faden	raffinierte Greslin-Faden	raffinierten Greslin-Faden	raffinierte Greslin-Fäden	raffinierten Greslin-Fäden	einen	die	ein	der
+1619876266	m0831dxacc01	Portion raffinierter Vedice-Saft	Portion raffinierter Vedice-Saft	Portion raffinierter Vedice-Saft	Portionen raffinierter Vedice-Saft	Portionen raffinierter Vedice-Saft	eine	die	eine	die
+1619876266	m0832dxacc01	raffinierte Cheng-Wurzel	raffinierte Cheng-Wurzel	raffinierte Cheng-Wurzel	raffinierte Cheng-Wurzeln	raffinierten Cheng-Wurzeln	eine	die	eine	die
+1619876266	m0833dxacc01	raffinierter Rubbarn-Gummi	raffinierte Rubbarn-Gummi	raffinierten Rubbarn-Gummi	raffinierte Rubbarn-Gummis	raffinierten Rubbarn-Gummis	einen	die	ein	der
+1619876266	m0834dxacc01	raffinierter Egiros-Pollen	raffinierte Egiros-Pollen	raffinierten Egiros-Pollen	raffinierte Egiros-Pollen	raffinierten Egiros-Pollen	einen	die	ein	der
+1619876266	icogenm1bm_1	Tekorn-Gen Streitkolben	Tekorn-Gen Streitkolben	Tekorn-Gen Streitkolben	Tekorn-Gen Streitkolben	Tekorn-Gen Streitkolben	einen	die	ein	der	Einhand-Streitkolben mit Tekorn-Gen in hoher Qualität
+1619876266	icogenm1bm_2	Vedice-Gen Streitkolben	Vedice-Gen Streitkolben	Vedice-Gen Streitkolben	Vedice-Gen Streitkolben	Vedice-Gen Streitkolben	einen	die	ein	der	Einhand-Streitkolben mit Vedice-Gen in hoher Qualität
+1619876266	icogenm1bs_1	Tekorn-Gen Stab	Tekorn-Gen Stab	Tekorn-Gen Stab	Tekorn-Gen Stäbe	Tekorn-Gen Stäbe	einen	die	ein	der	Einhand-Stab mit Tekorn-Gen in hoher Qualität
+1619876266	icogenm1bs_2	Vedice-Gen Stab	Vedice-Gen Stab	Vedice-Gen Stab	Vedice-Gen Stäbe	Vedice-Gen Stäbe	einen	die	ein	der	Einhand-Stab mit Vedice-Gen in hoher Qualität
+1619876266	icogenm1pd_1	Tekorn-Gen Dolch	Tekorn-Gen Dolch	Tekorn-Gen Dolch	Tekorn-Gen Dolche	Tekorn-Gen Dolche	einen	die	ein	der	Einhand-Dolch mit Tekorn-Gen in hoher Qualität
+1619876266	icogenm1pd_2	Vedice-Gen Dolch	Vedice-Gen Dolch	Vedice-Gen Dolch	Vedice-Gen Dolche	Vedice-Gen Dolche	einen	die	ein	der	Einhand-Dolch mit Vedice-Gen in hoher Qualität
+1619876266	icogenm1ps_1	Tekorn-Gen Lanze	Tekorn-Gen Lanze	Tekorn-Gen Lanze	Tekorn-Gen Lanzen	Tekorn-Gen Lanzen	eine	die	eine	die	Einhand-Lanze mit Tekorn-Gen in hoher Qualität
+1619876266	icogenm1ps_2	Vedice-Gen Lanze	Vedice-Gen Lanze	Vedice-Gen Lanze	Vedice-Gen Lanzen	Vedice-Gen Lanzen	eine	die	eine	die	Einhand-Lanze mit Vedice-Gen in hoher Qualität
+1619876266	icogenm1sa_1	Tekorn-Gen Axt	Tekorn-Gen Axt	Tekorn-Gen Axt	Tekorn-Gen Äxte	Tekorn-Gen Äxte	eine	die	eine	die	Einhand-Axt mit Tekorn-Gen in hoher Qualität
+1619876266	icogenm1sa_2	Vedice-Gen Axt	Vedice-Gen Axt	Vedice-Gen Axt	Vedice-Gen Äxte	Vedice-Gen Äxte	eine	die	eine	die	Einhand-Axt mit Vedice-Gen in hoher Qualität
+1619876266	icogenm1ss_1	Tekorn-Gen Schwert	Tekorn-Gen Schwert	Tekorn-Gen Schwert	Tekorn-Gen Schwerter	Tekorn-Gen Schwerter	ein	die	ein	das	Einhand-Schwert mit Tekorn-Gen in hoher Qualität
+1619876266	icogenm1ss_2	Vedice-Gen Schwert	Vedice-Gen Schwert	Vedice-Gen Schwert	Vedice-Gen Schwerter	Vedice-Gen Schwerter	ein	die	ein	das	Einhand-Schwert mit Vedice-Gen in hoher Qualität
+1619876266	icogenm2bm_1	Tekorn-Gen Zweihand-Streitkolben	Tekorn-Gen Zweihand-Streitkolben	Tekorn-Gen Zweihand-Streitkolben	Tekorn-Gen Zweihand-Streitkolben	Tekorn-Gen Zweihand-Streitkolben	einen	die	ein	der	Zweihand-Streitkolben mit Tekorn-Gen in hoher Qualität
+1619876266	icogenm2bm_2	Vedice-Gen Zweihand-Streitkolben	Vedice-Gen Zweihand-Streitkolben	Vedice-Gen Zweihand-Streitkolben	Vedice-Gen Zweihand-Streitkolben	Vedice-Gen Zweihand-Streitkolben	einen	die	ein	der	Zweihand-Streitkolben mit Vedice-Gen in hoher Qualität
+1619876266	icogenm2ms_1	Maga-Gen Magieverstärker	Maga-Gen Magieverstärker	Maga-Gen Magieverstärker	Maga-Gen Magieverstärker	Maga-Gen Magieverstärker	einen	die	ein	der	Magieverstärker mit Maga-Gen in hoher Qualität
+1619876266	icogenm2ms_2	Cheng-Gen Magieverstärker	Cheng-Gen Magieverstärker	Cheng-Gen Magieverstärker	Cheng-Gen Magieverstärker	Cheng-Gen Magieverstärker	einen	die	ein	der	Magieverstärker mit Cheng-Gen in hoher Qualität
+1619876266	icogenm2pp_1	Tekorn-Gen Pike	Tekorn-Gen Pike	Tekorn-Gen Pike	Tekorn-Gen Piken	Tekorn-Gen Piken	eine	die	eine	die	Zweihand-Pike mit Tekorn-Gen in hoher Qualität
+1619876266	icogenm2pp_2	Vedice-Gen Pike	Vedice-Gen Pike	Vedice-Gen Pike	Vedice-Gen Piken	Vedice-Gen Piken	eine	die	eine	die	Zweihand-Pike mit Vedice-Gen in hoher Qualität
+1619876266	icogenm2sa_1	Tekorn-Gen Zweihand-Axt	Tekorn-Gen Zweihand-Axt	Tekorn-Gen Zweihand-Axt	Tekorn-Gen Zweihandäxte	Tekorn-Gen Zweihandäxte	eine	die	eine	die	Zweihand-Axt mit Tekorn-Gen in hoher Qualität
+1619876266	icogenm2sa_2	Vedice-Gen Zweihand-Axt	Vedice-Gen Zweihand-Axt	Vedice-Gen Zweihand-Axt	Vedice-Gen Zweihandäxte	Vedice-Gen Zweihandäxte	eine	die	eine	die	Zweihand-Axt mit Vedice-Gen in hoher Qualität
+1619876266	icogenm2ss_1	Tekorn-Gen Zweihand-Schwert	Tekorn-Gen Zweihand-Schwert	Tekorn-Gen Zweihand-Schwert	Tekorn-Gen Zweihand-Schwerter	Tekorn-Gen Zweihand-Schwerter	ein	die	ein	das	Zweihand-Schwert mit Tekorn-Gen in hoher Qualität
+1619876266	icogenm2ss_2	Vedice-Gen Zweihand-Schwert	Vedice-Gen Zweihand-Schwert	Vedice-Gen Zweihand-Schwert	Vedice-Gen Zweihand-Schwerter	Vedice-Gen Zweihand-Schwerter	ein	die	ein	das	Zweihand-Schwert mit Vedice-Gen in hoher Qualität
+1619876266	icogenr1b_1	Tekorn-Gen Bogenpistole	Tekorn-Gen Bogenpistole	Tekorn-Gen Bogenpistole	Tekorn-Gen Bogenpistolen	Tekorn-Gen Bogenpistolen	eine	die	eine	die	Einhand-Bogenpistole mit Tekorn-Gen in hoher Qualität
+1619876266	icogenr1b_2	Vedice-Gen Bogenpistole	Vedice-Gen Bogenpistole	Vedice-Gen Bogenpistole	Vedice-Gen Bogenpistolen	Vedice-Gen Bogenpistolen	eine	die	eine	die	Einhand-Bogenpistole mit Vedice-Gen in hoher Qualität
+1619876266	icogenr1p_1	Tekorn-Gen Pistole	Tekorn-Gen Pistole	Tekorn-Gen Pistole	Tekorn-Gen Pistolen	Tekorn-Gen Pistolen	eine	die	eine	die	Einhand-Pistole mit Tekorn-Gen in hoher Qualität
+1619876266	icogenr1p_2	Vedice-Gen Pistole	Vedice-Gen Pistole	Vedice-Gen Pistole	Vedice-Gen Pistolen	Vedice-Gen Pistolen	eine	die	eine	die	Einhand-Pistole mit Vedice-Gen in hoher Qualität
+1619876266	icogenr2a_1	Tekorn-Gen Automatikgewehr	Tekorn-Gen Automatikgewehr	Tekorn-Gen Automatikgewehr	Tekorn-Gen Automatikgewehre	Tekorn-Gen Automatikgewehre	ein	die	ein	das	Zweihand-Automatikgewehr mit Tekorn-Gen in hoher Qualität
+1619876266	icogenr2a_2	Vedice-Gen Automatikgewehr	Vedice-Gen Automatikgewehr	Vedice-Gen Automatikgewehr	Vedice-Gen Automatikgewehre	Vedice-Gen Automatikgewehre	ein	die	ein	das	Zweihand-Automatikgewehr mit Vedice-Gen in hoher Qualität
+1619876266	icogenr2b_1	Tekorn-Gen Bogengewehr	Tekorn-Gen Bogengewehr	Tekorn-Gen Bogengewehr	Tekorn-Gen Bogengewehre	Tekorn-Gen Bogengewehre	ein	die	ein	das	Zweihand-Bogengewehr mit Tekorn-Gen in hoher Qualität
+1619876266	icogenr2b_2	Vedice-Gen Bogengewehr	Vedice-Gen Bogengewehr	Vedice-Gen Bogengewehr	Vedice-Gen Bogengewehre	Vedice-Gen Bogengewehre	ein	die	ein	das	Zweihand-Bogengewehr mit Vedice-Gen in hoher Qualität
+1619876266	icogenr2l_1	Tekorn-Gen Granatenwerfer	Tekorn-Gen Granatenwerfer	Tekorn-Gen Granatenwerfer	Tekorn-Gen Granatenwerfer	Tekorn-Gen Granatenwerfer	einen	die	ein	der	Zweihand-Granatenwerfer mit Tekorn-Gen in hoher Qualität
+1619876266	icogenr2l_2	Vedice-Gen Granatenwerfer	Vedice-Gen Granatenwerfer	Vedice-Gen Granatenwerfer	Vedice-Gen Granatenwerfer	Vedice-Gen Granatenwerfer	einen	die	ein	der	Zweihand-Granatenwerfer mit Vedice-Gen in hoher Qualität
+1619876266	icogenr2r_1	Tekorn-Gen Gewehr	Tekorn-Gen Gewehr	Tekorn-Gen Gewehr	Tekorn-Gen Gewehre	Tekorn-Gen Gewehre	ein	die	ein	das	Zweihand-Gewehr mit Tekorn-Gen in hoher Qualität
+1619876266	icogenr2r_2	Vedice-Gen Gewehr	Vedice-Gen Gewehr	Vedice-Gen Gewehr	Vedice-Gen Gewehre	Vedice-Gen Gewehre	ein	die	ein	das	ZweihandGewehr mit Vedice-Gen in hoher Qualität
+1619876266	icogentammo_1	Armilo-Gen-Muntionswerkzeug	Armilo-Gen-Muntionswerkzeug	Armilo-Gen-Muntionswerkzeug	Armilo-Gen-Muntionswerkzeug	Armilo-Gen-Muntionswerkzeug	ein	das	ein	das	Armilo-Gen-Muntionswerkzeug
+1619876266	icogentammo_2	Rubbarn-Gen Muntionswerkzeug	Rubbarn-Gen Muntionswerkzeug	Rubbarn-Gen Muntionswerkzeug	Rubbarn-Gen Muntionswerkzeug	Rubbarn-Gen Muntionswerkzeug	ein	das	ein	das	Rubbarn-Gen Muntionswerkzeug
+1619876266	icogentarmor_1	Armilo-Gen-Rüstungswerkzeug	Armilo-Gen-Rüstungswerkzeug	Armilo-Gen-Rüstungswerkzeug	Armilo-Gen-Rüstungswerkzeug	Armilo-Gen-Rüstungswerkzeug	ein	das	ein	das	Armilo-Gen-Rüstungswerkzeug
+1619876266	icogentarmor_2	Rubbarn-Gen Rüstungswerkzeug	Rubbarn-Gen Rüstungswerkzeug	Rubbarn-Gen Rüstungswerkzeug	Rubbarn-Gen Rüstungswerkzeug	Rubbarn-Gen Rüstungswerkzeug	ein	das	ein	das	Rubbarn-Gen Rüstungswerkzeug
+1619876266	icogentforage_1	Greslin-Gen Ernte-Hacke	Greslin-Gen Ernte-Hacke	Greslin-Gen Ernte-Hacke	Greslin-Gen Ernte-Hacke	Greslin-Gen Ernte-Hacke	eine	die	eine	die	Greslin-Gen Ernte-Hacke
+1619876266	icogentforage_2	Egiros-Gen Ernte-Hacke	Egiros-Gen Ernte-Hacke	Egiros-Gen Ernte-Hacke	Egiros-Gen Ernte-Hacke	Egiros-Gen Ernte-Hacke	eine	die	eine	die	Egiros-Gen Ernte-Hacke
+1619876266	icogentjewel_1	Armilo-Gen Juwelier-Werkzeug	Armilo-Gen Juwelier-Werkzeug	Armilo-Gen Juwelier-Werkzeug	Armilo-Gen Juwelier-Werkzeug	Armilo-Gen Juwelier-Werkzeug	ein	das	ein	das	Armilo-Gen Juwelier-Werkzeug
+1619876266	icogentjewel_2	Rubbarn-Gen Juwelier-Werkzeug	Rubbarn-Gen Juwelier-Werkzeug	Rubbarn-Gen Juwelier-Werkzeug	Rubbarn-Gen Juwelier-Werkzeug	Rubbarn-Gen Juwelier-Werkzeug	ein	das	ein	das	Rubbarn-Gen Juwelier-Werkzeug
+1619876266	icogentmwea_1	Armilo-Gen Nahkampfwaffen-Werkzeug	Armilo-Gen Nahkampfwaffen-Werkzeug	Armilo-Gen Nahkampfwaffen-Werkzeug	Armilo-Gen Nahkampfwaffen-Werkzeug	Armilo-Gen Nahkampfwaffen-Werkzeug	ein	das	ein	das	Armilo-Gen Nahkampfwaffen-Werkzeug
+1619876266	icogentmwea_2	Rubbarn-Gen Nahkampfwaffen-Werkzeug	Rubbarn-Gen Nahkampfwaffen-Werkzeug	Rubbarn-Gen Nahkampfwaffen-Werkzeug	Rubbarn-Gen Nahkampfwaffen-Werkzeug	Rubbarn-Gen Nahkampfwaffen-Werkzeug	ein	das	ein	das	Rubbarn-Gen Nahkampfwaffen-Werkzeug
+1619876266	icogentrwea_1	Armilo-Gen Fernkampfwaffen-Werkzeug	Armilo-Gen Fernkampfwaffen-Werkzeug	Armilo-Gen Fernkampfwaffen-Werkzeug	Armilo-Gen Fernkampfwaffen-Werkzeug	Armilo-Gen Fernkampfwaffen-Werkzeug	ein	das	ein	das	Armilo-Gen Fernkampfwaffen-Werkzeug
+1619876266	icogentrwea_2	Rubbarn-Gen Fernkampfwaffen-Werkzeug	Rubbarn-Gen Fernkampfwaffen-Werkzeug	Rubbarn-Gen Fernkampfwaffen-Werkzeug	Rubbarn-Gen Fernkampfwaffen-Werkzeug	Rubbarn-Gen Fernkampfwaffen-Werkzeug	ein	das	ein	das	Rubbarn-Gen Fernkampfwaffen-Werkzeug
+1619876266	icomarm1bm_1	Tekorn-Mar Streitkolben	Tekorn-Mar Streitkolben	Tekorn-Mar Streitkolben	Tekorn-Mar Streitkolben	Tekorn-Mar Streitkolben	einen	die	ein	der	Einhand-Streitkolben mit Tekorn-Mar in hoher Qualität
+1619876266	icomarm1bm_2	Vedice-Mar Streitkolben	Vedice-Mar Streitkolben	Vedice-Mar Streitkolben	Vedice-Mar Streitkolben	Vedice-Mar Streitkolben	einen	die	ein	der	Einhand-Streitkolben mit Vedice-Mar in hoher Qualität
+1619876266	icomarm1bs_1	Tekorn-Mar Stab	Tekorn-Mar Stab	Tekorn-Mar Stab	Tekorn-Mar Stäbe	Tekorn-Mar Stäbe	einen	die	ein	der	Einhand-Stab mit Tekorn-Mar in hoher Qualität
+1619876266	icomarm1bs_2	Vedice-Mar Stab	Vedice-Mar Stab	Vedice-Mar Stab	Vedice-Mar Stäbe	Vedice-Mar Stäbe	einen	die	ein	der	Einhand-Stab mit Vedice-Mar in hoher Qualität
+1619876266	icomarm1pd_1	Tekorn-Mar Dolch	Tekorn-Mar Dolch	Tekorn-Mar Dolch	Tekorn-Mar Dolche	Tekorn-Mar Dolche	einen	die	ein	der	Einhand-Dolch mit Tekorn-Mar in hoher Qualität
+1619876266	icomarm1pd_2	Vedice-Mar Dolch	Vedice-Mar Dolch	Vedice-Mar Dolch	Vedice-Mar Dolche	Vedice-Mar Dolche	einen	die	ein	der	Einhand-Dolch mit Vedice-Mar in hoher Qualität
+1619876266	icomarm1ps_1	Tekorn-Mar Lanze	Tekorn-Mar Lanze	Tekorn-Mar Lanze	Tekorn-Mar Lanzen	Tekorn-Mar Lanzen	eine	die	eine	die	Einhand-Lanze mit Tekorn-Mar in hoher Qualität
+1619876266	icomarm1ps_2	Vedice-Mar Lanze	Vedice-Mar Lanze	Vedice-Mar Lanze	Vedice-Mar Lanzen	Vedice-Mar Lanzen	eine	die	eine	die	Einhand-Lanze mit Vedice-Mar in hoher Qualität
+1619876266	icomarm1sa_1	Tekorn-Mar Axt	Tekorn-Mar Axt	Tekorn-Mar Axt	Tekorn-Mar Äxte	Tekorn-Mar Äxte	eine	die	eine	die	Einhand-Axt mit Tekorn-Mar in hoher Qualität
+1619876266	icomarm1sa_2	Vedice-Mar Axt	Vedice-Mar Axt	Vedice-Mar Axt	Vedice-Mar Äxte	Vedice-Mar Äxte	eine	die	eine	die	Einhand-Axt mit Vedice-Mar in hoher Qualität
+1619876266	icomarm1ss_1	Tekorn-Mar Schwert	Tekorn-Mar Schwert	Tekorn-Mar Schwert	Tekorn-Mar Schwerter	Tekorn-Mar Schwerter	ein	die	ein	das	Einhand-Schwert mit Tekorn-Mar in hoher Qualität
+1619876266	icomarm1ss_2	Vedice-Mar Schwert	Vedice-Mar Schwert	Vedice-Mar Schwert	Vedice-Mar Schwerter	Vedice-Mar Schwerter	ein	die	ein	das	Einhand-Schwert mit Vedice-Mar in hoher Qualität
+1619876266	icomarm2bm_1	Tekorn-Mar Zweihand-Streitkolben	Tekorn-Mar Zweihand-Streitkolben	Tekorn-Mar Zweihand-Streitkolben	Tekorn-Mar Zweihand-Streitkolben	Tekorn-Mar Zweihand-Streitkolben	einen	die	ein	der	Zweihand-Streitkolben mit Tekorn-Mar in hoher Qualität
+1619876266	icomarm2bm_2	Vedice-Mar Zweihand-Streitkolben	Vedice-Mar Zweihand-Streitkolben	Vedice-Mar Zweihand-Streitkolben	Vedice-Mar Zweihand-Streitkolben	Vedice-Mar Zweihand-Streitkolben	einen	die	ein	der	Zweihand-Streitkolben mit Vedice-Mar in hoher Qualität
+1619876266	icomarm2ms_1	Maga-Mar Magieverstärker	Maga-Mar Magieverstärker	Maga-Mar Magieverstärker	Maga-Mar Magieverstärker	Maga-Mar Magieverstärker	einen	die	ein	der	Magieverstärker mit Maga-Mar in hoher Qualität
+1619876266	icomarm2ms_2	Cheng-Mar Magieverstärker	Cheng-Mar Magieverstärker	Cheng-Mar Magieverstärker	Cheng-Mar Magieverstärker	Cheng-Mar Magieverstärker	einen	die	ein	der	Magieverstärker mit Cheng-Mar in hoher Qualität
+1619876266	icomarm2pp_1	Tekorn-Mar Pike	Tekorn-Mar Pike	Tekorn-Mar Pike	Tekorn-Mar Piken	Tekorn-Mar Piken	eine	die	eine	die	Zweihand-Pike mit Tekorn-Mar in hoher Qualität
+1619876266	icomarm2pp_2	Vedice-Mar Pike	Vedice-Mar Pike	Vedice-Mar Pike	Vedice-Mar Piken	Vedice-Mar Piken	eine	die	eine	die	Zweihand-Pike mit Vedice-Mar in hoher Qualität
+1619876266	icomarm2sa_1	Tekorn-Mar Zweihand-Axt	Tekorn-Mar Zweihand-Axt	Tekorn-Mar Zweihand-Axt	Tekorn-Mar Zweihandäxte	Tekorn-Mar Zweihandäxte	eine	die	eine	die	Zweihand-Axt mit Tekorn-Mar in hoher Qualität
+1619876266	icomarm2sa_2	Vedice-Mar Zweihand-Axt	Vedice-Mar Zweihand-Axt	Vedice-Mar Zweihand-Axt	Vedice-Mar Zweihandäxte	Vedice-Mar Zweihandäxte	eine	die	eine	die	Zweihand-Axt mit Vedice-Mar in hoher Qualität
+1619876266	icomarm2ss_1	Tekorn-Mar Zweihand-Schwert	Tekorn-Mar Zweihand-Schwert	Tekorn-Mar Zweihand-Schwert	Tekorn-Mar Zweihand-Schwerter	Tekorn-Mar Zweihand-Schwerter	ein	die	ein	das	Zweihand-Schwert mit Tekorn-Mar in hoher Qualität
+1619876266	icomarm2ss_2	Vedice-Mar Zweihand-Schwert	Vedice-Mar Zweihand-Schwert	Vedice-Mar Zweihand-Schwert	Vedice-Mar Zweihand-Schwerter	Vedice-Mar Zweihand-Schwerter	ein	die	ein	das	Zweihand-Schwert mit Vedice-Mar in hoher Qualität
+1619876266	icomarr1b_1	Tekorn-Mar Bogenpistole	Tekorn-Mar Bogenpistole	Tekorn-Mar Bogenpistole	Tekorn-Mar Bogenpistolen	Tekorn-Mar Bogenpistolen	eine	die	eine	die	Einhand-Bogenpistole mit Tekorn-Mar in hoher Qualität
+1619876266	icomarr1b_2	Vedice-Mar Bogenpistole	Vedice-Mar Bogenpistole	Vedice-Mar Bogenpistole	Vedice-Mar Bogenpistolen	Vedice-Mar Bogenpistolen	eine	die	eine	die	Einhand-Bogenpistole mit Vedice-Mar in hoher Qualität
+1619876266	icomarr1p_1	Tekorn-Mar Pistole	Tekorn-Mar Pistole	Tekorn-Mar Pistole	Tekorn-Mar Pistolen	Tekorn-Mar Pistolen	eine	die	eine	die	Einhand-Pistole mit Tekorn-Mar in hoher Qualität
+1619876266	icomarr1p_2	Vedice-Mar Pistole	Vedice-Mar Pistole	Vedice-Mar Pistole	Vedice-Mar Pistolen	Vedice-Mar Pistolen	eine	die	eine	die	Einhand-Pistole mit Vedice-Mar in hoher Qualität
+1619876266	icomarr2a_1	Tekorn-Mar Automatikgewehr	Tekorn-Mar Automatikgewehr	Tekorn-Mar Automatikgewehr	Tekorn-Mar Automatikgewehre	Tekorn-Mar Automatikgewehre	ein	die	ein	das	Zweihand-Automatikgewehr mit Tekorn-Mar in hoher Qualität
+1619876266	icomarr2a_2	Vedice-Mar Automatikgewehr	Vedice-Mar Automatikgewehr	Vedice-Mar Automatikgewehr	Vedice-Mar Automatikgewehre	Vedice-Mar Automatikgewehre	ein	die	ein	das	Zweihand-Automatikgewehr mit Vedice-Mar in hoher Qualität
+1619876266	icomarr2b_1	Tekorn-Mar Bogengewehr	Tekorn-Mar Bogengewehr	Tekorn-Mar Bogengewehr	Tekorn-Mar Bogengewehre	Tekorn-Mar Bogengewehre	ein	die	ein	das	Zweihand-Bogengewehr mit Tekorn-Mar in hoher Qualität
+1619876266	icomarr2b_2	Vedice-Mar Bogengewehr	Vedice-Mar Bogengewehr	Vedice-Mar Bogengewehr	Vedice-Mar Bogengewehre	Vedice-Mar Bogengewehre	ein	die	ein	das	Zweihand-Bogengewehr mit Vedice-Mar in hoher Qualität
+1619876266	icomarr2l_1	Tekorn-Mar Granatenwerfer	Tekorn-Mar Granatenwerfer	Tekorn-Mar Granatenwerfer	Tekorn-Mar Granatenwerfer	Tekorn-Mar Granatenwerfer	einen	die	ein	der	Zweihand-Granatenwerfer mit Tekorn-Mar in hoher Qualität
+1619876266	icomarr2l_2	Vedice-Mar Granatenwerfer	Vedice-Mar Granatenwerfer	Vedice-Mar Granatenwerfer	Vedice-Mar Granatenwerfer	Vedice-Mar Granatenwerfer	einen	die	ein	der	Zweihand-Granatenwerfer mit Vedice-Mar in hoher Qualität
+1619876266	icomarr2r_1	Tekorn-Mar Gewehr	Tekorn-Mar Gewehr	Tekorn-Mar Gewehr	Tekorn-Mar Gewehre	Tekorn-Mar Gewehre	ein	die	ein	das	Zweihand-Gewehr mit Tekorn-Mar in hoher Qualität
+1619876266	icomarr2r_2	Vedice-Mar Gewehr	Vedice-Mar Gewehr	Vedice-Mar Gewehr	Vedice-Mar Gewehre	Vedice-Mar Gewehre	ein	die	ein	das	ZweihandGewehr mit Vedice-Mar in hoher Qualität
+1619876266	icomartammo_1	Armilo-Mar-Muntionswerkzeug	Armilo-Mar-Muntionswerkzeug	Armilo-Mar-Muntionswerkzeug	Armilo-Mar-Muntionswerkzeug	Armilo-Mar-Muntionswerkzeug	ein	das	ein	das	Armilo-Mar-Muntionswerkzeug
+1619876266	icomartammo_2	Rubbarn-Mar Muntionswerkzeug	Rubbarn-Mar Muntionswerkzeug	Rubbarn-Mar Muntionswerkzeug	Rubbarn-Mar Muntionswerkzeug	Rubbarn-Mar Muntionswerkzeug	ein	das	ein	das	Rubbarn-Mar Muntionswerkzeug
+1619876266	icomartarmor_1	Armilo-Mar-Rüstungswerkzeug	Armilo-Mar-Rüstungswerkzeug	Armilo-Mar-Rüstungswerkzeug	Armilo-Mar-Rüstungswerkzeug	Armilo-Mar-Rüstungswerkzeug	ein	das	ein	das	Armilo-Mar-Rüstungswerkzeug
+1619876266	icomartarmor_2	Rubbarn-Mar Rüstungswerkzeug	Rubbarn-Mar Rüstungswerkzeug	Rubbarn-Mar Rüstungswerkzeug	Rubbarn-Mar Rüstungswerkzeug	Rubbarn-Mar Rüstungswerkzeug	ein	das	ein	das	Rubbarn-Mar Rüstungswerkzeug
+1619876266	icomartforage_1	Greslin-Mar Ernte-Hacke	Greslin-Mar Ernte-Hacke	Greslin-Mar Ernte-Hacke	Greslin-Mar Ernte-Hacke	Greslin-Mar Ernte-Hacke	eine	die	eine	die	Greslin-Mar Ernte-Hacke
+1619876266	icomartforage_2	Egiros-Mar Ernte-Hacke	Egiros-Mar Ernte-Hacke	Egiros-Mar Ernte-Hacke	Egiros-Mar Ernte-Hacke	Egiros-Mar Ernte-Hacke	eine	die	eine	die	Egiros-Mar Ernte-Hacke
+1619876266	icomartjewel_1	Armilo-Mar Juwelier-Werkzeug	Armilo-Mar Juwelier-Werkzeug	Armilo-Mar Juwelier-Werkzeug	Armilo-Mar Juwelier-Werkzeug	Armilo-Mar Juwelier-Werkzeug	ein	das	ein	das	Armilo-Mar Juwelier-Werkzeug
+1619876266	icomartjewel_2	Rubbarn-Mar Juwelier-Werkzeug	Rubbarn-Mar Juwelier-Werkzeug	Rubbarn-Mar Juwelier-Werkzeug	Rubbarn-Mar Juwelier-Werkzeug	Rubbarn-Mar Juwelier-Werkzeug	ein	das	ein	das	Rubbarn-Mar Juwelier-Werkzeug
+1619876266	icomartmwea_1	Armilo-Mar Nahkampfwaffen-Werkzeug	Armilo-Mar Nahkampfwaffen-Werkzeug	Armilo-Mar Nahkampfwaffen-Werkzeug	Armilo-Mar Nahkampfwaffen-Werkzeug	Armilo-Mar Nahkampfwaffen-Werkzeug	ein	das	ein	das	Armilo-Mar Nahkampfwaffen-Werkzeug
+1619876266	icomartmwea_2	Rubbarn-Mar Nahkampfwaffen-Werkzeug	Rubbarn-Mar Nahkampfwaffen-Werkzeug	Rubbarn-Mar Nahkampfwaffen-Werkzeug	Rubbarn-Mar Nahkampfwaffen-Werkzeug	Rubbarn-Mar Nahkampfwaffen-Werkzeug	ein	das	ein	das	Rubbarn-Mar Nahkampfwaffen-Werkzeug
+1619876266	icomartrwea_1	Armilo-Mar Fernkampfwaffen-Werkzeug	Armilo-Mar Fernkampfwaffen-Werkzeug	Armilo-Mar Fernkampfwaffen-Werkzeug	Armilo-Mar Fernkampfwaffen-Werkzeug	Armilo-Mar Fernkampfwaffen-Werkzeug	ein	das	ein	das	Armilo-Mar Fernkampfwaffen-Werkzeug
+1619876266	icomartrwea_2	Rubbarn-Mar Fernkampfwaffen-Werkzeug	Rubbarn-Mar Fernkampfwaffen-Werkzeug	Rubbarn-Mar Fernkampfwaffen-Werkzeug	Rubbarn-Mar Fernkampfwaffen-Werkzeug	Rubbarn-Mar Fernkampfwaffen-Werkzeug	ein	das	ein	das	Rubbarn-Mar Fernkampfwaffen-Werkzeug

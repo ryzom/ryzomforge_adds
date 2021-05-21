@@ -28,7 +28,7 @@ function game:addMapArkPoint(section, x, y, name, title, texture, url, h)
 		game.mapArkPoints[section] = {}
 	end
 	if url == nil then
-		game.mapArkPoints[section][name] = {x, y, title, texture, ""}
+		game.mapArkPoints[section][name] = {x, y, title, texture, "", ""}
 	else
 		if h ~= nil and h > 0 then
 			game.mapArkPoints[section][name] = {x, y, title, texture, "", "game:openMapArkPointHelp([["..url.."]], "..tostring(h)..")"}
@@ -53,6 +53,10 @@ end
 
 function game:openMapArkPointHelp(url, h)
 	local whm = getUI("ui:interface:webig_html_modal")
+	local x, y = getMousePos()
+	whm.x = x
+	whm.y = y
+	debug(whm)
 	if whm.active == false  then
 		runAH(nil, "enter_modal", "group=ui:interface:webig_html_modal")
 		whm.child_resize_h = false
@@ -63,25 +67,26 @@ function game:openMapArkPointHelp(url, h)
 		whm.h = h
 		if game.mapMapArkPointHelpUrl ~= url then
 			whm_html = getUI("ui:interface:webig_html_modal:html")
+			whm_html:renderHtml("<body style:'background-color: #ffffff00'>...</body>")
 			if whm_html ~= nil then
 				whm_html:browse(url)
 				game.mapMapArkPointHelpUrl = url
 			end
 		end
-		game.mapArkPointHelpMousePosX , game.mapArkPointHelpMousePosY = getMousePos()
-		setOnDraw(getUI("ui:interface:webig_html_modal"), "game:updateMapArkPointHelp('"..getUICaller().id.."')")
+		setOnDraw(getUI("ui:interface:webig_html_modal"), "game:updateMapArkPointHelp()")
 		game.mapArkPointHelpOpened = 1
 	end
 end
 
-function game:updateMapArkPointHelp(caller_id)
+function game:updateMapArkPointHelp()
 	local caller = getUI("ui:interface:webig_html_modal")
 	local x, y = getMousePos()
 	x0 = game.mapArkPointHelpMousePosX
-	y0 = game.mapArkPointHelpMousePosY
-	if x < caller.x - 20 or x > caller.x + caller.w + 20 or y < caller.y - caller.h - 20 or y > caller.y + 20 then
-		setOnDraw(getUI("ui:interface:webig_html_modal"), "")
-		runAH(nil, "leave_modal", "group=ui:interface:webig_html_modal")
+	if caller.x ~= 0 or caller.y ~= 0 then
+		if x < caller.x - 20 or x > caller.x + caller.w + 20 or y < caller.y - caller.h - 20 or y > caller.y + 20 then
+			setOnDraw(getUI("ui:interface:webig_html_modal"), "")
+			runAH(nil, "leave_modal", "group=ui:interface:webig_html_modal")
+		end
 	end
 end
 
