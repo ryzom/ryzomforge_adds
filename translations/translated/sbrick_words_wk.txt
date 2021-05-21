@@ -4085,7 +4085,6 @@
 -	bczaea23	Zorai Light Bra Craft Pattern	a	the				Brick Craftman's plan for zorai light bra	
 1618581536	jrez_nodp_tryker	Sweet death	a	the	Sweet deaths		the	@{5F5F}1% @{FFFF}chance of @{5F5F}no death penality @{FFFF}after a resurrection. @{FAAF}Aeden Aqueous and Nexus Minor only	
 1619198342	jboost_2x	Allegoric effect Amplifier	a	the	Allegoric effect Amplifiers		the	Multiplies the Allegoric effect by @{5F5F}2@{FFFF}.	
-1619198360	tag_fyros_1	Fyros	a	the	Fyros		the		
 1619199443	jrez_fulllife_tryker	Back in Glory	a	the	Back in Glory		the	@{5F5F}1% @{FFFF}chance to recover, at the time of your resurrection, the @{5F5F}totality @{FFFF}of your life, stamina, sap and focus maxima. @{FAAF}Aeden Aqueous and Nexus Minor only.	
 1619199449	jrez_halflife_tryker	Back on Feet	a	the	Back on Feet		the	@{5F5F}3% @{FFFF}chance to recover, at the time of your resurrection, @{5F5F}half @{FFFF}of your life, stamina, sap and focus maxima. @{FAAF}Aeden Aqueous and Nexus Minor only.	
 1619199455	jrez_goodlife_tryker	Back in Good Shape	a	the	Back in Good Shape		the	@{5F5F}2% @{FFFF}chance to recover, at the time of your resurrection, @{5F5F}three quarters @{FFFF}of your life, stamina, sap and focus maxima. @{FAAF}Aeden Aqueous and Nexus Minor only.	

@@ -4085,7 +4085,6 @@
 -	bczaea23	Plan de Création/Soutien-gorge Légères Zoraïs	un	le	Plans de Création/Soutien-gorge Légères Zoraïs	des	les	Brique de plan de création pour soutien-gorge légères zoraïs	
 1618581536	jrez_nodp_tryker	Mort douce	une	la	Morts douces	des	les	@{5F5F}1% @{FFFF}de chances de ne pas avoir de @{5F5F}pénalité de mort @{FFFF}après une résurrection. @{FAAF}Efficace uniquement en Aeden Aqueous et au Nexus Mineur.	
 1619198342	jboost_2x	Amplificateur d'effet allégorique	un	l'	Amplificateurs d'effet allégorique	des	les	Multiplie l'effet de l'Allégorie par @{5F5F}2@{FFFF}.	
-1619198360	tag_fyros_1	Fyros	un	le	Fyros	des	les		
 1619199443	jrez_fulllife_tryker	Retour en gloire	un	le	Retours en gloire	des	les	@{5F5F}1% @{FFFF}de chances de récupérer, lors de votre résurrection, la @{5F5F}totalité @{FFFF}de vos maximums de vie, endurance, sève et concentration. @{FAAF}Efficace uniquement en Aeden Aqueous et au Nexus Mineur.	
 1619199449	jrez_halflife_tryker	Retour sur pied	un	le	Retours sur pied	des	les	@{5F5F}3% @{FFFF}de chances de récupérer, lors de votre résurrection, la @{5F5F}moitié @{FFFF}de vos maximums de vie, endurance, sève et concentration. @{FAAF}Efficace uniquement en Aeden Aqueous et au Nexus Mineur.	
 1619199455	jrez_goodlife_tryker	Retour en forme	un	le	Retours en forme	des	les	@{5F5F}2%@{FFFF} de chances de récupérer, lors de votre résurrection, les @{5F5F}trois-quarts@{FFFF} de vos maximums de vie, endurance, sève et concentration. @{FAAF}Efficace uniquement en Aeden Aqueous et au Nexus.	

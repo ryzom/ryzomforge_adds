@@ -4085,7 +4085,6 @@
 -	bczaea23	Plan de Fabricación de Sujetador Livianas Zoraï	un	el				Plan de fabricación de sujetador livianas Zoraï.	
 1618581536	jrez_nodp_tryker	Dulce Muerte	una	la	Dulces Muertes	unas	las	el @{5F5F}1% de @{FFFF}chance de @{5F5F}no sufrir penalización por muerte @{FFFF}después de una resurrección. 	@{FAAF}Solo en Aeden Acuoso y el Nexo.
 1619198342	jboost_2x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}2@{FFFF}.	
-1619198360	tag_fyros_1	Fyros		el	Fyros	unos	los		
 1619199443	jrez_fulllife_tryker	Regreso en gloria		el	Regresos en gloria	unos	los	el @{5F5F}1% de @{FFFF}chance de recuperar, al momento de tu resurrección, la @{5F5F}totalidad @{FFFF}de tu salud, savia, resistencia y concentración máxima. 	@{FAAF}Solo en Aeden Acuoso y el Nexo.
 1619199449	jrez_halflife_tryker	Regreso de pie		el	Regresos de pie	unos	los	el @{5F5F}3% de @{FFFF}chance de recuperar, al momento de tu resurrección, @{5F5F}la mitad @{FFFF}de tu salud, savia, resistencia y concentración máxima.	@{FAAF}Solo en Aeden Acuoso y el Nexo.
 1619199455	jrez_goodlife_tryker	Regreso en buena forma		el	Regresos en buena forma	unos	los	el @{5F5F}2% de @{FFFF}chance de recuperar, al momento de tu resurrección, @{5F5F}75% @{FFFF}de tu salud, savia, resistencia y concentración máxima.	 @{FAAF}Solo en Aeden Acuoso y el Nexo.

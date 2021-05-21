@@ -4085,7 +4085,6 @@
 -	bczaea23	Leichter Büstenhalter 	Leichter Büstenhalter 	Leichter Büstenhalter 	Leichter Büstenhalter 	ein	der		die	Handwerksplan-Stanza (Teil einer Aktion) Leichter Zoraï Büstenhalter Ninka	
 1618581536	jrez_nodp_tryker	Süßer Tod	süßer Tod	süßer Tod	süßer Tod			süßer Tod		@{5F5F}1% @{FFFF}Chance @{5F5F}keine Todesstrafe @{FFFF}nach einer Wiederauferstehung zu erhalten. @{FAAF}Nur in Aeden Aqueous und im Nexus.	süßer Tod
 1619198342	jboost_2x	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	ein	der	Verstärker für Allegorie-Effekte	die	Multipliziert den allegorischen Effekt mit @{5F5F}2@{FFFF}.	Verstärker für Allegorie-Effekte
-1619198360	tag_fyros_1	Fyros	Fyros	Fyros	Fyros			Fyros		Fyros	Fyros
 1619199443	jrez_fulllife_tryker	Glorreiche Rückkehr	Glorreiche Rückkehr					Glorreiche Rückkehr		@{5F5F}1% @{FFFF}Chance bei Wiederauferstehung @{5F5F}alles@{FFFF} an Leben, Ausdauer, Sap und Fokus wiederzuerlangen. @{FAAF}Nur in Aeden Aqueous und dem Nexus	
 1619199449	jrez_halflife_tryker	Stehenden Fußes	Stehenden Fußes					Stehenden Fußes		@{5F5F}3% @{FFFF}Chance bei Wiederauferstehung @{5F5F}die Hälfte @{FFFF}des Lebens, der Ausdauer, des Sap und des Fokus wiederzuerlangen. @{FAAF}Nur in Aeden Aqueous und im Nexus.	gut zu Fuß
 1619199455	jrez_goodlife_tryker	
