@@ -212,6 +212,9 @@ function getUICallerRoot()
 	return getUI(getUICaller().id:match("(ui:interface:[^:]*):?"))
 end
 
+function webig:openUrl(url)
+	getUI("ui:interface:web_transactions"):find("html"):browse(url)
+end
 
 --assert(nil, "RELOADABLE SCRIPT")
 
