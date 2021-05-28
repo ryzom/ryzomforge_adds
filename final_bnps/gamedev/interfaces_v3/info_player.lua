@@ -1367,7 +1367,7 @@ function game:displayRpMessage(message, icon)
 	<body style="font-style: italic; font-weight: bold; color: white; background-position: center; background-image: url(pretty_notif.tga)">
 	<table width="100%" cellspacing="0" cellpadding="0">
 	<tr>
-		<td id="icon" align="center" width="750" valign="middle" height="45px"><img src="]]..icon..[["/></td>
+		<td id="icon" align="center" width="750" valign="middle" height="30px"><img width="32px" src="]]..icon..[["/></td>
 	</tr><tr>
 	<tr>
 		<td align="center">]]..message..[[</td>
