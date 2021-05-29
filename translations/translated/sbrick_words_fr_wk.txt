@@ -4215,3 +4215,35 @@
 1619198342	jboost_23x	Amplificateur d'effet allégorique	un	l'	Amplificateurs d'effet allégorique	des	les	Multiplie l'effet de l'Allégorie par @{5F5F}23@{FFFF}.
 1619198342	jboost_24x	Amplificateur d'effet allégorique	un	l'	Amplificateurs d'effet allégorique	des	les	Multiplie l'effet de l'Allégorie par @{5F5F}24@{FFFF}.
 1619198342	jboost_25x	Amplificateur d'effet allégorique	un	l'	Amplificateurs d'effet allégorique	des	les	Multiplie l'effet de l'Allégorie par @{5F5F}25@{FFFF}.
+1619198360	tag_fyros_1	FYROS	un	le	FYROS	des	les	
+1619198360	tag_fyros_2	FYROS	un	le	FYROS	des	les	
+1619198360	tag_fyros_3	FYROS	un	le	FYROS	des	les	
+1619198360	tag_fyros_4	FYROS	un	le	FYROS	des	les	
+1619198360	tag_matis_1	MATIS	un	le	MATIS	des	les	
+1619198360	tag_matis_2	MATIS	un	le	MATIS	des	les	
+1619198360	tag_matis_3	MATIS	un	le	MATIS	des	les	
+1619198360	tag_matis_4	MATIS	un	le	MATIS	des	les	
+1619198360	tag_zorai_1	ZORAI	un	le	ZORAI	des	les	
+1619198360	tag_zorai_2	ZORAI	un	le	ZORAI	des	les	
+1619198360	tag_zorai_3	ZORAI	un	le	ZORAI	des	les	
+1619198360	tag_zorai_4	ZORAI	un	le	ZORAI	des	les	
+1619198360	tag_tryker_1	TRYKER	un	le	TRYKER	des	les	
+1619198360	tag_tryker_2	TRYKER	un	le	TRYKER	des	les	
+1619198360	tag_tryker_3	TRYKER	un	le	TRYKER	des	les	
+1619198360	tag_tryker_4	TRYKER	un	le	TRYKER	des	les	
+1619198360	tag_kami_1	KAMI	un	le	KAMI	des	les	
+1619198360	tag_kami_2	KAMI	un	le	KAMI	des	les	
+1619198360	tag_kami_3	KAMI	un	le	KAMI	des	les	
+1619198360	tag_kami_4	KAMI	un	le	KAMI	des	les	
+1619198360	tag_karavan_1	KARAVAN	un	le	KARAVAN	des	les	
+1619198360	tag_karavan_2	KARAVAN	un	le	KARAVAN	des	les	
+1619198360	tag_karavan_3	KARAVAN	un	le	KARAVAN	des	les	
+1619198360	tag_karavan_4	KARAVAN	un	le	KARAVAN	des	les	
+1619198360	tag_marauder_1	MARAUDER	un	le	MARAUDER	des	les	
+1619198360	tag_marauder_2	MARAUDER	un	le	MARAUDER	des	les	
+1619198360	tag_marauder_3	MARAUDER	un	le	MARAUDER	des	les	
+1619198360	tag_marauder_4	MARAUDER	un	le	MARAUDER	des	les	
+1619198360	tag_ranger_1	RANGER	un	le	RANGER	des	les	
+1619198360	tag_ranger_2	RANGER	un	le	RANGER	des	les	
+1619198360	tag_ranger_3	RANGER	un	le	RANGER	des	les	
+1619198360	tag_ranger_4	RANGER	un	le	RANGER	des	les	

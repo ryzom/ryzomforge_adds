@@ -7064,8 +7064,8 @@
 -	r_06_09_report	Report	a	the	Reports		the	
 -	R_09_12_grande_perle	Pearl of Syk	a	the	Pearls of Syk		the	
 -	r_10_05_recueil_poemes	Anthology of Poems	an	the	Anthologies of Poems		the	
--	s2e1_salins	ripe salin	a	the	ripe salins		the	
--	s2e1_seve_suc	drop of salina sap	a	the	drops of salina sap		the	
+-	s2e1_salins	Handful of Ripe Salins	a	the	Handfuls of Ripe Salins		the
+-	s2e1_seve_suc	Drop of Iridescent Salina Sap	a	the	Drops of Iridescent Salina Sap		the
 -	sage_flower	Sage's Flower	a	the	Sage's Flowers		the	
 -	sage_letter	Sage's Letter	a	the	Sage's Letters		the	
 -	scraper	Scraper	a	the	Scrapers		the	

@@ -7774,19 +7774,19 @@
 -	m0693ccife01	Ligament suprême / Zerx des Forêts	un	le	Ligaments suprêmes / Zerx des Forêts	des	les
 -	m0694ccile01	Cuir suprême / Zerx des Lacs	du	le	Cuirs suprêmes / Zerx des Lacs	des	les
 -	m0694ccife01	Cuir suprême / Zerx des Forêts	du	le	Cuirs suprêmes / Zerx des Forêts	des	les
--	s2e1_seve_suc	Goutelette de suc de salina du Nexus	une	la	Goutelettes de suc de salina du Nexus	des	les
--	s2e1_salins	salin mûr	un	le	salins mûrs	des	les	
+-	s2e1_seve_suc	Gouttelette de suc irisé de salina	une	la	Gouttelettes de suc irisé de salina	des	les
+-	s2e1_salins	Poignée de salins mûrs	une	la	Poignées de salins mûrs	des	les
 -	wheel_token_easter	Fête des Réfugiés	une	la	Fêtes des Réfugiés	des	les
 -	slot_fingerl	
 1618579662	slot_neck	
-1619876266	m0819dxacc01	Ronce de Tekorn raffinée	une	la	Ronces de Tekorn raffinées		des
-1619876266	m0820dxacc01	Liane de Maga raffinée	une	la	Lianes de Maga raffinées		des
-1619876266	m0821dxacc01	Lichen d'Armilo raffiné	du	le	Lichens d'Armilo raffinés		des
-1619876266	m0822dxacc01	Filament de Greslin raffiné	un	le	Filaments de Greslin raffinés		des
-1619876266	m0823dxacc01	Suc de Vedice raffiné	du	le	Sucs de Vedice raffiné		des
-1619876266	m0824dxacc01	Racine de Cheng raffinée	une	la	Racines de Cheng raffinées		des
-1619876266	m0825dxacc01	Gomme de Rubbarn raffinée	de la	la	Gommes de Rubbarn raffinées		des
-1619876266	m0826dxacc01	Pollen d'Égiros raffiné	du	le	Pollens d'Égiros raffinés		des
+1619876266	m0819dxacc01	Ronce de Tekorn naturelle	une	la	Ronces de Tekorn naturelles		des
+1619876266	m0820dxacc01	Liane de Maga naturelle	une	la	Lianes de Maga naturelles		des
+1619876266	m0821dxacc01	Lichen d'Armilo naturel	du	le	Lichens d'Armilo naturel		des
+1619876266	m0822dxacc01	Filament de Greslin naturel	un	le	Filaments de Greslin naturels		des
+1619876266	m0823dxacc01	Suc de Vedice naturel	du	le	Sucs de Vedice naturels		des
+1619876266	m0824dxacc01	Racine de Cheng naturelle	une	la	Racines de Cheng naturelles		des
+1619876266	m0825dxacc01	Gomme de Rubbarn naturelle	de la	la	Gommes de Rubbarn naturelles		des
+1619876266	m0826dxacc01	Pollen d'Égiros naturel	du	le	Pollens d'Égiros naturels		des
 1619876266	m0827dxacc01	Ronce de Tekorn raffinée	une	la	Ronces de Tekorn raffinées		des
 1619876266	m0828dxacc01	Liane de Maga raffinée	une	la	Lianes de Maga raffinées		des
 1619876266	m0829dxacc01	Lichen d'Armilo raffiné	du	le	Lichens d'Armilo raffinés		des

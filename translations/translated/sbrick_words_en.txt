@@ -4215,3 +4215,35 @@
 1619198342	jboost_23x	Allegoric effect Amplifier	a	the	Allegoric effect Amplifiers			Multiplies the Allegoric effect by @{5F5F}23@{FFFF}.	
 1619198342	jboost_24x	Allegoric effect Amplifier	a	the	Allegoric effect Amplifiers			Multiplies the Allegoric effect by @{5F5F}24@{FFFF}.	
 1619198342	jboost_25x	Allegoric effect Amplifier	a	the	Allegoric effect Amplifiers			Multiplies the Allegoric effect by @{5F5F}25@{FFFF}.	
+1619198360	tag_fyros_1	FYROS	a	the	FYROS				
+1619198360	tag_fyros_2	FYROS	a	the	FYROS				
+1619198360	tag_fyros_3	FYROS	a	the	FYROS				
+1619198360	tag_fyros_4	FYROS	a	the	FYROS				
+1619198360	tag_matis_1	MATIS	a	the	MATIS				
+1619198360	tag_matis_2	MATIS	a	the	MATIS				
+1619198360	tag_matis_3	MATIS	a	the	MATIS				
+1619198360	tag_matis_4	MATIS	a	the	MATIS				
+1619198360	tag_zorai_1	ZORAI	a	the	ZORAI				
+1619198360	tag_zorai_2	ZORAI	a	the	ZORAI				
+1619198360	tag_zorai_3	ZORAI	a	the	ZORAI				
+1619198360	tag_zorai_4	ZORAI	a	the	ZORAI				
+1619198360	tag_tryker_1	TRYKER	a	the	TRYKER				
+1619198360	tag_tryker_2	TRYKER	a	the	TRYKER				
+1619198360	tag_tryker_3	TRYKER	a	the	TRYKER				
+1619198360	tag_tryker_4	TRYKER	a	the	TRYKER				
+1619198360	tag_kami_1	KAMI	a	the	KAMI				
+1619198360	tag_kami_2	KAMI	a	the	KAMI				
+1619198360	tag_kami_3	KAMI	a	the	KAMI				
+1619198360	tag_kami_4	KAMI	a	the	KAMI				
+1619198360	tag_karavan_1	KARAVAN	a	the	KARAVAN				
+1619198360	tag_karavan_2	KARAVAN	a	the	KARAVAN				
+1619198360	tag_karavan_3	KARAVAN	a	the	KARAVAN				
+1619198360	tag_karavan_4	KARAVAN	a	the	KARAVAN				
+1619198360	tag_marauder_1	MARAUDER	a	the	MARAUDER				
+1619198360	tag_marauder_2	MARAUDER	a	the	MARAUDER				
+1619198360	tag_marauder_3	MARAUDER	a	the	MARAUDER				
+1619198360	tag_marauder_4	MARAUDER	a	the	MARAUDER				
+1619198360	tag_ranger_1	RANGER	a	the	RANGER				
+1619198360	tag_ranger_2	RANGER	a	the	RANGER				
+1619198360	tag_ranger_3	RANGER	a	the	RANGER				
+1619198360	tag_ranger_4	RANGER	a	the	RANGER				

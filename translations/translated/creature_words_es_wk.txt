@@ -756,7 +756,7 @@
 -	cchdd3	Varinx de Caza	un	el 	Varinxes de Caza		los
 -	cchdd4	Varinx Rondando	un	el 	Varinxes Rondando		los
 -	cchdd5	Blacosis					
--	cchde1	Varinx Depredadores	un	el	Varinxes Depredadores		los
+-	cchde1	Varinx Depredador	un	el	Varinxes Depredadores		los
 -	cchde2	Varinx Furioso	un	el	Varinxes Furiosos		los
 -	cchde3	Varinx Temible	un	el	Varinxes Temibles		los
 -	cchde4	Varinx Gigante	un	el	Varinxes Gigantes		los

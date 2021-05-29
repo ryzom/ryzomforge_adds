@@ -4215,3 +4215,35 @@
 1619198342	jboost_23x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}23@{FFFF}.
 1619198342	jboost_24x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}24@{FFFF}.
 1619198342	jboost_25x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}25@{FFFF}.
+1619198360	tag_fyros_1	FYROS		el	FYROS	unos	los	FYROS
+1619198360	tag_fyros_2	FYROS		el	FYROS	unos	los	FYROS
+1619198360	tag_fyros_3	FYROS		el	FYROS	unos	los	FYROS
+1619198360	tag_fyros_4	FYROS		el	FYROS	unos	los	FYROS
+1619198360	tag_matis_1	MATIS		el	MATIS	unos	los	MATIS
+1619198360	tag_matis_2	MATIS		el	MATIS	unos	los	MATIS
+1619198360	tag_matis_3	MATIS		el	MATIS	unos	los	MATIS
+1619198360	tag_matis_4	MATIS		el	MATIS	unos	los	MATIS
+1619198360	tag_zorai_1	ZORAI		el	ZORAI	unos	los	ZORAI
+1619198360	tag_zorai_2	ZORAI		el	ZORAI	unos	los	ZORAI
+1619198360	tag_zorai_3	ZORAI		el	ZORAI	unos	los	ZORAI
+1619198360	tag_zorai_4	ZORAI		el	ZORAI	unos	los	ZORAI
+1619198360	tag_tryker_1	TRYKER		el	TRYKER	unos	los	TRYKER
+1619198360	tag_tryker_2	TRYKER		el	TRYKER	unos	los	TRYKER
+1619198360	tag_tryker_3	TRYKER		el	TRYKER	unos	los	TRYKER
+1619198360	tag_tryker_4	TRYKER		el	TRYKER	unos	los	TRYKER
+1619198360	tag_kami_1	KAMI		el	KAMI	unos	los	KAMI
+1619198360	tag_kami_2	KAMI		el	KAMI	unos	los	KAMI
+1619198360	tag_kami_3	KAMI		el	KAMI	unos	los	KAMI
+1619198360	tag_kami_4	KAMI		el	KAMI	unos	los	KAMI
+1619198360	tag_karavan_1	KARAVAN		el	KARAVAN	unos	los	KARAVAN
+1619198360	tag_karavan_2	KARAVAN		el	KARAVAN	unos	los	KARAVAN
+1619198360	tag_karavan_3	KARAVAN		el	KARAVAN	unos	los	KARAVAN
+1619198360	tag_karavan_4	KARAVAN		el	KARAVAN	unos	los	KARAVAN
+1619198360	tag_marauder_1	MARAUDER		el	MARAUDER	unos	los	MARAUDER
+1619198360	tag_marauder_2	MARAUDER		el	MARAUDER	unos	los	MARAUDER
+1619198360	tag_marauder_3	MARAUDER		el	MARAUDER	unos	los	MARAUDER
+1619198360	tag_marauder_4	MARAUDER		el	MARAUDER	unos	los	MARAUDER
+1619198360	tag_ranger_1	RANGER		el	RANGER	unos	los	RANGER
+1619198360	tag_ranger_2	RANGER		el	RANGER	unos	los	RANGER
+1619198360	tag_ranger_3	RANGER		el	RANGER	unos	los	RANGER
+1619198360	tag_ranger_4	RANGER		el	RANGER	unos	los	RANGER

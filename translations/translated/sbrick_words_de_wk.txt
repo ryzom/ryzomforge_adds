@@ -2965,10 +2965,10 @@
 -	bfob02	Scheinangriff	Scheinangriff	Scheinangriffe	Scheinangriffe	ein	der		die	Diese Attacke ist ein Scheinangriff und verursacht keinen Schaden.	
 -	bsfea05	Wutausbruch	Wutausbruch	Wutausbrüche	Wutausbrüche	ein	der		die	Erhöht den verursachten Schaden, aber verursacht einen eigenen kontinuierlichen Lebenskraft-Verlust.	
 -	bsmea06	Lebens-Balance fürs Team	Lebens-Balance fürs Team	Lebens-Balancen fürs Team	Lebens-Balancen fürs Team	eine	die		die	Verteilt die Gesamt-Lebenskraft der Gruppe proportional auf alle Teammitglieder (mit etwas Verlust).	
--	bsxea07	Lebens-Wiederherstellung	Lebens-Wiederherstellung	Lebens-Wiederherstellungen	Lebens-Wiederherstellungen	eine	die		die	Heilt augenblicklich eine große Menge an eigener Lebenskraft	
--	bsfea08	Ausdauer-Wiederherstellung	Ausdauer-Wiederherstellung	Ausdauer-Wiederherstellungen	Ausdauer-Wiederherstellungen	eine	die		die	Heilt augenblicklich eine große Menge an eigenen Ausdauerpunkten	
--	bsmea09	Sap-Wiederherstellung	Sap-Wiederherstellung	Sap-Wiederherstellungen	Sap-Wiederherstellungen	eine	die		die	Heilt augenblicklich eine große Menge an eigenem Sap	
--	bsgea10	Fokus-Wiederherstellung	Fokus-Wiederherstellung	Fokus-Wiederherstellungen	Fokus-Wiederherstellungen	eine	die		die	Heilt augenblicklich eine große Menge an eigenen Fokuspunkten	
+-	bsxea07	Lebenswiederherstellung	Lebenswiederherstellung	Lebenswiederherstellungen	Lebenswiederherstellungen	eine	die		die	Heilt augenblicklich eine große Menge an eigener Lebenskraft	
+-	bsfea08	Ausdauerwiederherstellung	Ausdauerwiederherstellung	Ausdauerwiederherstellungen	Ausdauerwiederherstellungen	eine	die		die	Heilt augenblicklich eine große Menge an eigenen Ausdauerpunkten	
+-	bsmea09	Sapwiederherstellung	Sapwiederherstellung	Sapwiederherstellungen	Sapwiederherstellungen	eine	die		die	Heilt augenblicklich eine große Menge an eigenem Sap	
+-	bsgea10	Fokuswiederherstellung	Fokuswiederherstellung	Fokuswiederherstellungen	Fokuswiederherstellungen	eine	die		die	Heilt augenblicklich eine große Menge an eigenen Fokuspunkten	
 -	bsfeb07	Kriegsschrei-Aura	Kriegsschrei-Aura	Kriegsschrei-Auren	Kriegsschrei-Auren	eine	die		die	Erhöht den vom Zaubernden und allen Teammitgliedern verursachten Schaden	
 -	bsfmf01	Wutausbruch 1	Wutausbruch 1	Wutausbrüche 1	Wutausbrüche 1	ein	der		die	Erhöht für $1SP_BERSERK Sekunden den Schaden um $4SP_BERSERK, aber lässt alle $3SP_BERSERK Sekunden $2SP_BERSERK Leben verlieren.	
 -	bsfmf02	Wutausbruch 2	Wutausbruch 2	Wutausbrüche 2	Wutausbrüche 2	ein	der		die	Erhöht für $1SP_BERSERK Sekunden den Schaden um $4SP_BERSERK, aber lässt alle $3SP_BERSERK Sekunden $2SP_BERSERK Leben verlieren.	
@@ -4215,3 +4215,35 @@
 1619198342	jboost_23x	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	ein	der	Verstärker für Allegorie-Effekte	die	Multipliziert den allegorischen Effekt mit @{5F5F}23@{FFFF}.	Verstärker für Allegorie-Effekte
 1619198342	jboost_24x	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	ein	der	Verstärker für Allegorie-Effekte	die	Multipliziert den allegorischen Effekt mit @{5F5F}24@{FFFF}.	Verstärker für Allegorie-Effekte
 1619198342	jboost_25x	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	ein	der	Verstärker für Allegorie-Effekte	die	Multipliziert den allegorischen Effekt mit @{5F5F}25@{FFFF}.	Verstärker für Allegorie-Effekte
+1619198360	tag_fyros_1	FYROS	FYROS	FYROS	FYROS	ein	der	FYROS	die		FYROS
+1619198360	tag_fyros_2	FYROS	FYROS	FYROS	FYROS	ein	der	FYROS	die		FYROS
+1619198360	tag_fyros_3	FYROS	FYROS	FYROS	FYROS	ein	der	FYROS	die		FYROS
+1619198360	tag_fyros_4	FYROS	FYROS	FYROS	FYROS	ein	der	FYROS	die		FYROS
+1619198360	tag_matis_1	MATIS	MATIS	MATIS	MATIS	ein	der	MATIS	die		MATIS
+1619198360	tag_matis_2	MATIS	MATIS	MATIS	MATIS	ein	der	MATIS	die		MATIS
+1619198360	tag_matis_3	MATIS	MATIS	MATIS	MATIS	ein	der	MATIS	die		MATIS
+1619198360	tag_matis_4	MATIS	MATIS	MATIS	MATIS	ein	der	MATIS	die		MATIS
+1619198360	tag_zorai_1	ZORAI	ZORAI	ZORAI	ZORAI	ein	der	ZORAI	die		ZORAI
+1619198360	tag_zorai_2	ZORAI	ZORAI	ZORAI	ZORAI	ein	der	ZORAI	die		ZORAI
+1619198360	tag_zorai_3	ZORAI	ZORAI	ZORAI	ZORAI	ein	der	ZORAI	die		ZORAI
+1619198360	tag_zorai_4	ZORAI	ZORAI	ZORAI	ZORAI	ein	der	ZORAI	die		ZORAI
+1619198360	tag_tryker_1	TRYKER	TRYKER	TRYKER	TRYKER	ein	der	TRYKER	die		TRYKER
+1619198360	tag_tryker_2	TRYKER	TRYKER	TRYKER	TRYKER	ein	der	TRYKER	die		TRYKER
+1619198360	tag_tryker_3	TRYKER	TRYKER	TRYKER	TRYKER	ein	der	TRYKER	die		TRYKER
+1619198360	tag_tryker_4	TRYKER	TRYKER	TRYKER	TRYKER	ein	der	TRYKER	die		TRYKER
+1619198360	tag_kami_1	KAMI	KAMI	KAMI	KAMI	ein	der	KAMI	die		KAMI
+1619198360	tag_kami_2	KAMI	KAMI	KAMI	KAMI	ein	der	KAMI	die		KAMI
+1619198360	tag_kami_3	KAMI	KAMI	KAMI	KAMI	ein	der	KAMI	die		KAMI
+1619198360	tag_kami_4	KAMI	KAMI	KAMI	KAMI	ein	der	KAMI	die		KAMI
+1619198360	tag_karavan_1	KARAVAN	KARAVAN	KARAVAN	KARAVAN	ein	der	KARAVAN	die		KARAVAN
+1619198360	tag_karavan_2	KARAVAN	KARAVAN	KARAVAN	KARAVAN	ein	der	KARAVAN	die		KARAVAN
+1619198360	tag_karavan_3	KARAVAN	KARAVAN	KARAVAN	KARAVAN	ein	der	KARAVAN	die		KARAVAN
+1619198360	tag_karavan_4	KARAVAN	KARAVAN	KARAVAN	KARAVAN	ein	der	KARAVAN	die		KARAVAN
+1619198360	tag_marauder_1	MARAUDEUR	MARAUDEUR	MARAUDEURE	MARAUDEURS	ein	der	MARAUDEURE	die		MARAUDEUR
+1619198360	tag_marauder_2	MARAUDEUR	MARAUDEUR	MARAUDEURE	MARAUDEURS	ein	der	MARAUDEURE	die		MARAUDEUR
+1619198360	tag_marauder_3	MARAUDEUR	MARAUDEUR	MARAUDEURE	MARAUDEURS	ein	der	MARAUDEURE	die		MARAUDEUR
+1619198360	tag_marauder_4	MARAUDEUR	MARAUDEUR	MARAUDEURE	MARAUDEURS	ein	der	MARAUDEURE	die		MARAUDEUR
+1619198360	tag_ranger_1	RANGER	RANGER	RANGER	RANGER	ein	der	RANGER	die		RANGER
+1619198360	tag_ranger_2	RANGER	RANGER	RANGER	RANGER	ein	der	RANGER	die		RANGER
+1619198360	tag_ranger_3	RANGER	RANGER	RANGER	RANGER	ein	der	RANGER	die		RANGER
+1619198360	tag_ranger_4	RANGER	RANGER	RANGER	RANGER	ein	der	RANGER	die		RANGER

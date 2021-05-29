@@ -7776,9 +7776,8 @@
 -	nexus_neck2	Collar Iridiscente del Bosque	uno	el	Collares Iridiscentes del Bosque	unos	los
 -	nexus_neck3	Collar Iridiscente de Los Lagos	uno	el	Collares Iridiscentes de los Lagos	unos	los
 -	nexus_neck4	Collar Iridiscente de la Selva	uno	el	Collares Iridiscentes de la Selva	unos	los
--	s2e1_salins	salina madura	una	la	salinas maduras	unas	las
--	s2e1_seve_suc	gota de savia salina	una	la	gotas de savia salina	unas	las
-1618579662	slot_neck
+-	s2e1_salins	
+-	s2e1_seve_suc	
 1619876266	m0819dxacc01	Zarza de Tekorn Bruta	una	la	Zarzas de Tekorn Bruta		las
 1619876266	m0820dxacc01	Enredadera de Maga Bruta	una	la	Enredaderas de Maga Brutas		las
 1619876266	m0821dxacc01	Liquen de Armilo Bruto	un	el	Líquenes de Armilo Brutos		los
