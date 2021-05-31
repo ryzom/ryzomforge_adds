@@ -7778,7 +7778,7 @@
 -	s2e1_salins	Poignée de salins mûrs	une	la	Poignées de salins mûrs	des	les
 -	wheel_token_easter	Fête des Réfugiés	une	la	Fêtes des Réfugiés	des	les
 -	slot_fingerl	
-1618579662	slot_neck	
+1618579662	slot_neck	Équipez un bijou sur l'emplacement des colliers.	un	l'	Équipez un bijou sur l'emplacement des colliers.	des	les
 1619876266	m0819dxacc01	Ronce de Tekorn naturelle	une	la	Ronces de Tekorn naturelles		des
 1619876266	m0820dxacc01	Liane de Maga naturelle	une	la	Lianes de Maga naturelles		des
 1619876266	m0821dxacc01	Lichen d'Armilo naturel	du	le	Lichens d'Armilo naturel		des
@@ -7887,3 +7887,4 @@
 1619876266	icomartmwea_2	Outil de création d'armes de mêlée Rubbarn-Mar	un	l'	Outils de création d'armes de mêlée Rubbarn-Mar	des	les
 1619876266	icomartrwea_1	Outil de création d'armes de tir Armilo-Mar	un	l'	Outils de création d'armes de tir Armilo-Mar	des	les
 1619876266	icomartrwea_2	Outil de création d'armes de tir Rubbarn-Mar	un	l'	Outils de création d'armes de tir Rubbarn-Mar	des	les
+1622476678	phial_stackable	
