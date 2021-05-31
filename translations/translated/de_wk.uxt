@@ -2380,7 +2380,7 @@ uiOutpostOwner	[Besitzer: ]
 
 uittOutpostOwner	[Besitzer des Außenpostens.]
 
-uiOutpostTribe	[Der Außenposten wird von einem Marodeurs-Stamm gehalten.]
+uiOutpostTribe	[Der Außenposten ist in der Hand eines feindlichen Stammes.]
 
 uiOutpostAttacker	[Angreifer: ]
 
@@ -7795,7 +7795,7 @@ uiTalkMemMsg08	[*knuddel*]
 
 uiTalkMemMsg09	[Hurra!]
 
-uiTalkMemMsg10	[Was ist denn hier los?]
+uiTalkMemMsg10	[Was ist los?]
 
 uiTalkMemMsg11	[Bitte?]
 
@@ -14611,4 +14611,36 @@ uittShowCapPopup	[Zeige/Verberge die Kursanzeige in der Mitte oben]
 
 mission_real_tooltip	[{FFFC}Dies ist der @{6F6F}Kurs@{FFFC}, dem Du gerade folgst.\n
 	Klick, um @{6F6F}weitere Informationen@{FFFC} zu erhalten.]
+
+uiTranslationHeader	[Übersetzungen]
+
+uiTranslationLanguages	[Sprache]
+
+uiTranslationEnglish	[Englisch]
+
+uiTranslationFrench	[Französisch]
+
+uiTranslationGerman	[Deutsch]
+
+uiTranslationRussian	[Russisch]
+
+uiTranslationSpanish	[Spanisch]
+
+uiTranslationInverse	[Anzeige invertieren]
+
+uittTranslationInverse	[Invertiert die Anzeige des Originals]
+
+uittTranslationHide	[Blendet das Sprachflag für Nachrichten aus, die aus dieser Sprache stammen]
+
+uiTranslationHide	[Flagge ausblenden]
+
+uiTranslationDisable	[Übersetzungen für einige Kanäle deaktivieren]
+
+uiTranslationDisableAround	[Um, Shout und Emotes]
+
+uiTranslationDisableGuild	[Gilde]
+
+uiTranslationDisableUniverse	[Universum]
+
+uiTranslationDisableRegion	[Region]
 

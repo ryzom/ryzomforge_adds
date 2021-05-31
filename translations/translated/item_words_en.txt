@@ -7774,11 +7774,11 @@
 -	m0693ccife01	Supreme Forest Zerx Ligament	a	the	Supreme Forest Zerx Ligaments		the
 -	m0694ccile01	Supreme Lakes Zerx Leather	a	the	Supreme Lakes Zerx Leathers		the
 -	m0694ccife01	Supreme Forest Zerx Leather	a	the	Supreme Forest Zerx Leathers		the
--	s2e1_seve_suc	drop of salina sap	a	the	drops of salina sap		the	
--	s2e1_salins	ripe salin	a	the	ripe salins		the	
+-	s2e1_seve_suc	Drop of Iridescent Salina Sap	a	the	Drops of Iridescent Salina Sap		the
+-	s2e1_salins	Handful of Ripe Salins	a	the	Handfuls of Ripe Salins		the
 -	wheel_token_easter	Refugees' days Event	a	the	Refugees' days Events		the
 -	slot_fingerl	Equip a ring on your left finger	a	the			
-1618579662	slot_neck	
+1618579662	slot_neck	Equip a jewel on the Necklace slot.	a	the	Equip a jewel on the Necklace slot.		the
 1619876266	m0819dxacc01	Natural Tekorn Bramble	a	the	Natural Tekorn Brambles		the	
 1619876266	m0820dxacc01	Natural Maga Creeper	a	the	Natural Maga Creepers		the	
 1619876266	m0821dxacc01	Natural Armilo Lichen	some	the	Natural Armilo Lichen		the	
@@ -7887,3 +7887,4 @@
 1619876266	icomartmwea_2	Rubbarn-Mar Melee Weapon Crafting Tool	a	the	Rubbarn-Mar Melee Weapon Crafting Tools		the	
 1619876266	icomartrwea_1	Armilo-Mar Range Weapon Crafting Tool	an	the	Armilo-Mar Range Weapon Crafting Tools		the	
 1619876266	icomartrwea_2	Rubbarn-Mar Range Weapon Crafting Tool	a	the	Rubbarn-Mar Range Weapon Crafting Tools		the	
+1622476678	phial_stackable	Phial	a	the	Phials		the

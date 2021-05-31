@@ -2965,10 +2965,10 @@
 -	bfob02	Scheinangriff	Scheinangriff	Scheinangriffe	Scheinangriffe	ein	der		die	Diese Attacke ist ein Scheinangriff und verursacht keinen Schaden.	
 -	bsfea05	Wutausbruch	Wutausbruch	Wutausbrüche	Wutausbrüche	ein	der		die	Erhöht den verursachten Schaden, aber verursacht einen eigenen kontinuierlichen Lebenskraft-Verlust.	
 -	bsmea06	Lebens-Balance fürs Team	Lebens-Balance fürs Team	Lebens-Balancen fürs Team	Lebens-Balancen fürs Team	eine	die		die	Verteilt die Gesamt-Lebenskraft der Gruppe proportional auf alle Teammitglieder (mit etwas Verlust).	
--	bsxea07	Lebens-Wiederherstellung	Lebens-Wiederherstellung	Lebens-Wiederherstellungen	Lebens-Wiederherstellungen	eine	die		die	Heilt augenblicklich eine hohe Menge an eigener Lebenskraft	
--	bsfea08	Ausdauer-Wiederherstellung	Ausdauer-Wiederherstellung	Ausdauer Wiederherstellungen	Ausdauer Wiederherstellungen	eine	die		die	Heilt augenblicklich eine hohe Menge an eigenen Ausdauerpunkten	
--	bsmea09	Sap-Wiederherstellung	Sap-Wiederherstellung	Sap-Wiederherstellungen	Sap-Wiederherstellungen	eine	die		die	Heilt augenblicklich eine hohe Menge an eigenem Sap	
--	bsgea10	Fokus-Wiederherstellung	Fokus-Wiederherstellung	Fokus Wiederherstellungen	Fokus Wiederherstellungen	eine	die		die	Heilt augenblicklich eine hohe Menge an eigenen Fokuspunkten	
+-	bsxea07	Lebenswiederherstellung	Lebenswiederherstellung	Lebenswiederherstellungen	Lebenswiederherstellungen	eine	die		die	Heilt augenblicklich eine große Menge an eigener Lebenskraft	
+-	bsfea08	Ausdauerwiederherstellung	Ausdauerwiederherstellung	Ausdauerwiederherstellungen	Ausdauerwiederherstellungen	eine	die		die	Heilt augenblicklich eine große Menge an eigenen Ausdauerpunkten	
+-	bsmea09	Sapwiederherstellung	Sapwiederherstellung	Sapwiederherstellungen	Sapwiederherstellungen	eine	die		die	Heilt augenblicklich eine große Menge an eigenem Sap	
+-	bsgea10	Fokuswiederherstellung	Fokuswiederherstellung	Fokuswiederherstellungen	Fokuswiederherstellungen	eine	die		die	Heilt augenblicklich eine große Menge an eigenen Fokuspunkten	
 -	bsfeb07	Kriegsschrei-Aura	Kriegsschrei-Aura	Kriegsschrei-Auren	Kriegsschrei-Auren	eine	die		die	Erhöht den vom Zaubernden und allen Teammitgliedern verursachten Schaden	
 -	bsfmf01	Wutausbruch 1	Wutausbruch 1	Wutausbrüche 1	Wutausbrüche 1	ein	der		die	Erhöht für $1SP_BERSERK Sekunden den Schaden um $4SP_BERSERK, aber lässt alle $3SP_BERSERK Sekunden $2SP_BERSERK Leben verlieren.	
 -	bsfmf02	Wutausbruch 2	Wutausbruch 2	Wutausbrüche 2	Wutausbrüche 2	ein	der		die	Erhöht für $1SP_BERSERK Sekunden den Schaden um $4SP_BERSERK, aber lässt alle $3SP_BERSERK Sekunden $2SP_BERSERK Leben verlieren.	
@@ -3537,7 +3537,7 @@
 -	sap_aura	Sap-Aura	Sap-Aura	Sap-Auren	Sap-Auren	eine	die		die	Dein Sap regeneriert durch eine Aura jetzt schneller	
 -	umbrella_aura	Fernkampf-Aura	Fernkampf-Aura	Fernkampf-Auren	Fernkampf-Auren	eine	die		die	Du bist jetzt durch eine Aura vor Fernangriffen geschützt	
 -	melee_protection_aura	Nahkampf-Aura	Nahkampf-Aura	Nahkampf-Auren	Nahkampf-Auren	eine	die		die	Du bist jetzt durch eine Aura vor Angriffen mit Nahkampfwaffen geschützt	
--	anti_magic_shield_aura	Magie-Schildaura	Magie-Schildaura	Magie-Schildauren	Magie-Schildauren	eine	die		die	Du bist jetzt durch eine Aura vor magischen Attacken geschützt	
+-	anti_magic_shield_aura	Aura: magisches Schild	Aura: magisches Schild	Auren: magisches Schild	Auren: magisches Schild	eine	die	Aura: magisches Schild	die	Du bist jetzt durch eine Aura vor magischen Attacken geschützt	
 -	invulnerability	Unverwundbarkeit	Unverwundbarkeit	Unverwundbarkeiten	Unverwundbarkeiten	eine	die		die	Du bist jetzt unverwundbar, kannst aber dadurch jetzt keine Aktion verwenden	
 -	war_cry_aura	Kriegsschrei-Aura	Kriegsschrei-Aura	Kriegsschrei-Auren	Kriegsschrei-Auren	eine	die		die	Dein Nahkampfschaden bekommt jetzt einen Bonus	
 -	speeding_up	Sprint	Sprint	Sprints	Sprints	ein	der		die	Deine Lauf-Geschwindigkeit wird jetzt erhöht	
@@ -3547,7 +3547,7 @@
 -	shoot_again	Kostenloses Feuer	Kostenlose Feuer	Kostenlose Feuer	Kostenlosen Feuer	ein	das		die	Dein nächster Zauber wird jetzt in kürzester Zeit ausgelöst, egal welcher Zeit-Ausgleich für die Aktion gewählt wurden	
 -	bcfmea15	Fyros-Handwerksplan: Magieverstärker	Fyros-Handwerksplan: Magieverstärker	Fyros-Handwerksplan: Magieverstärker	Fyros-Handwerksplan: Magieverstärker	ein	der		die	Magieverstärker in Basis-Qualität	Fyros-Magieverstärker basis
 -	bcfmea15_2	Fyros-Handwerksplan: Magieverstärker mittelqualitativ	Fyros-Handwerksplan: Magieverstärker mittelqualitativ	Fyros-Handwerksplan: Magieverstärker mittelqualitativ	Fyros-Handwerksplan: Magieverstärker mittelqualitativ	ein	der		die	Magieverstärker in mittlerer Qualität	Fyros-Magieverstärker mittel
--	bcfmea15_3	Fyros-Handwerksplan: Magieverstärker hochqualitativ	Fyros-Handwerksplan: Magieverstärker hochqualitativ	Fyros-Handwerksplan: Magieverstärker hochqualitativ	Fyros-Handwerksplan: Magieverstärker hochqualitativ	ein	der		die	Magieverstärker in hoher Qualität	Fyros-Magieverstärker hoch
+-	bcfmea15_3	Fyros-Handwerksplan: Magieverstärker hochqualitativ	Fyros-Handwerksplan: Magieverstärker hochqualitativ	Fyros-Handwerksplan: Magieverstärker hochqualitativ	Fyros-Handwerksplan: Magieverstärker hochqualitativ	ein	der		die	Magieverstärker in hoher Qualität	Hochqualitativer Fyros-Magieverstärker
 -	bcmmea15	Matis-Handwerksplan: Magieverstärker	Matis-Handwerksplan: Magieverstärker	Matis-Handwerksplan: Magieverstärker	Matis-Handwerksplan: Magieverstärker	ein	der		die	Magieverstärker in Basis-Qualität	Matis-Magieverstärker basis
 -	bcmmea15_2	Matis-Handwerksplan: Magieverstärker mittelqualitativ	Matis-Handwerksplan: Magieverstärker mittelqualitativ	Matis-Handwerksplan: Magieverstärker mittelqualitativ	Matis-Handwerksplan: Magieverstärker mittelqualitativ	ein	der		die	Magieverstärker in mittlerer Qualität	Matis-Magieverstärker mittel
 -	bcmmea15_3	Matis-Handwerksplan: Magieverstärker hochqualitativ	Matis-Handwerksplan: Magieverstärker hochqualitativ	Matis-Handwerksplan: Magieverstärker hochqualitativ	Matis-Handwerksplan: Magieverstärker hochqualitativ	ein	der		die	Magieverstärker in hoher Qualität	Matis-Magieverstärker hoch
@@ -3894,12 +3894,12 @@
 -	bczjea04_2	Handwerksplan: Mittelqualitativer Zoraï-Ohrring 	Mittelqualitative Zoraï-Ohrring 	Mittelqualitative Zoraï-Ohrring 	Mittelqualitative Zoraï-Ohrring 	ein	der		die	Ohrring in mittlerer Qualität	Mittlerer Zoraï-Ohrring
 -	bczjea05_2	Handwerksplan: Mittelqualitativer Zoraï-Anhänger 	Mittelqualitative Zoraï-Anhänger 	Mittelqualitative Zoraï-Anhänger 	Mittelqualitative Zoraï-Anhänger 	ein	der		die	Anhänger in mittlerer Qualität	Mittlerer Zoraï-Anhänger
 -	bczjea06_2	Handwerksplan: Mittelqualitativer Zoraï-Ring 	Mittelqualitative Zoraï-Ring 	Mittelqualitative Zoraï-Ring 	Mittelqualitative Zoraï-Ring 	ein	der		die	Ring in mittlerer Qualität	Mittlerer Zoraï-Ring
--	bcfjea01_3	Handwerksplan: Hochqualitativer Fyros-Fußring 	Handwerksplan: Hochqualitativer Fyros-Fußring 	Handwerksplan: Hochqualitativer Fyros-Fußring 	Handwerksplan: Hochqualitativer Fyros-Fußring 	ein	der		die	Fußring in hoher Qualität 	Hoher Fyros-Fußring
--	bcfjea02_3	Handwerksplan: Hochqualitativer Fyros-Armband 	Handwerksplan: Hochqualitativer Fyros-Armband 	Handwerksplan: Hochqualitativer Fyros-Armband 	Handwerksplan: Hochqualitativer Fyros-Armband 	ein	der		die	Armband in hoher Qualität	Hoher Fyros-Armband
--	bcfjea03_3	Handwerksplan: Hochqualitativer Fyros-Diadem 	Handwerksplan: Hochqualitativer Fyros-Diadem 	Handwerksplan: Hochqualitativer Fyros-Diadem 	Handwerksplan: Hochqualitativer Fyros-Diadem 	ein	der		die	Diadem in hoher Qualität	Hoher Fyros-Diadam
--	bcfjea04_3	Handwerksplan: Hochqualitativer Fyros-Ohrring 	Handwerksplan: Hochqualitativer Fyros-Ohrring 	Handwerksplan: Hochqualitativer Fyros-Ohrring 	Handwerksplan: Hochqualitativer Fyros-Ohrring 	ein	der		die	Ohrring in hoher Qualität	Hoher Fyros-Ohrring
--	bcfjea05_3	Handwerksplan: Hochqualitativer Fyros-Anhänger 	Handwerksplan: Hochqualitativer Fyros-Anhänger 	Handwerksplan: Hochqualitativer Fyros-Anhänger 	Handwerksplan: Hochqualitativer Fyros-Anhänger 	ein	der		die	Anhänger in hoher Qualität	Hoher Fyros-Anhänger
--	bcfjea06_3	Handwerksplan: Hochqualitativer Fyros-Ring 	Handwerksplan: Hochqualitativer Fyros-Ring 	Handwerksplan: Hochqualitativer Fyros-Ring 	Handwerksplan: Hochqualitativer Fyros-Ring 	ein	der		die	Ring in hoher Qualität	Hoher Fyros-Ring
+-	bcfjea01_3	Handwerksplan: Hochqualitativer Fyros-Fußring 	Handwerksplan: Hochqualitativer Fyros-Fußring 	Handwerksplan: Hochqualitativer Fyros-Fußring 	Handwerksplan: Hochqualitativer Fyros-Fußring 	ein	der		die	Fußring in hoher Qualität 	Hochqualitativer Fyros-Fußring
+-	bcfjea02_3	Handwerksplan: Hochqualitativer Fyros-Armband 	Handwerksplan: Hochqualitativer Fyros-Armband 	Handwerksplan: Hochqualitativer Fyros-Armband 	Handwerksplan: Hochqualitativer Fyros-Armband 	ein	der		die	Armband in hoher Qualität	Hochqualitatives Fyros-Armband
+-	bcfjea03_3	Handwerksplan: Hochqualitativer Fyros-Diadem 	Handwerksplan: Hochqualitativer Fyros-Diadem 	Handwerksplan: Hochqualitativer Fyros-Diadem 	Handwerksplan: Hochqualitativer Fyros-Diadem 	ein	der		die	Diadem in hoher Qualität	Hochqualitatives Fyros-Diadam
+-	bcfjea04_3	Handwerksplan: Hochqualitativer Fyros-Ohrring 	Handwerksplan: Hochqualitativer Fyros-Ohrring 	Handwerksplan: Hochqualitativer Fyros-Ohrring 	Handwerksplan: Hochqualitativer Fyros-Ohrring 	ein	der		die	Ohrring in hoher Qualität	Hochqualitativer Fyros-Ohrring
+-	bcfjea05_3	Handwerksplan: Hochqualitativer Fyros-Anhänger 	Handwerksplan: Hochqualitativer Fyros-Anhänger 	Handwerksplan: Hochqualitativer Fyros-Anhänger 	Handwerksplan: Hochqualitativer Fyros-Anhänger 	ein	der		die	Anhänger in hoher Qualität	Hochqualitativer Fyros-Anhänger
+-	bcfjea06_3	Handwerksplan: Hochqualitativer Fyros-Ring 	Handwerksplan: Hochqualitativer Fyros-Ring 	Handwerksplan: Hochqualitativer Fyros-Ring 	Handwerksplan: Hochqualitativer Fyros-Ring 	ein	der		die	Ring in hoher Qualität	Hochqualitativer Fyros-Ring
 -	bcmjea01_3	Handwerksplan: Hochqualitativer Matis-Fußring 	Handwerksplan: Hochqualitativer Matis-Fußring 	Handwerksplan: Hochqualitativer Matis-Fußring 	Handwerksplan: Hochqualitativer Matis-Fußring 	ein	der		die	Fußring in hoher Qualität 	Hoher Matis-Fußring
 -	bcmjea02_3	Handwerksplan: Hochqualitativer Matis-Armband 	Handwerksplan: Hochqualitativer Matis-Armband 	Handwerksplan: Hochqualitativer Matis-Armband 	Handwerksplan: Hochqualitativer Matis-Armband 	ein	der		die	Armband in hoher Qualität	Hoher Matis-Armband
 -	bcmjea03_3	Handwerksplan: Hochqualitativer Matis-Diadem 	Handwerksplan: Hochqualitativer Matis-Diadem 	Handwerksplan: Hochqualitativer Matis-Diadem 	Handwerksplan: Hochqualitativer Matis-Diadem 	ein	der		die	Diadem in hoher Qualität	Hoher Matis-Diadam
@@ -4049,8 +4049,8 @@
 -	bcbahp_m	Marodeur-Handwerkswissen	Marodeur-Handwerkswissen	Marodeur-Handwerkswissen	Marodeur-Handwerkswissen		das	ein	das	Marodeur-Handwerkwissen	
 -	bcbahs_m	Marodeur-Handwerkswissen	Marodeur-Handwerkswissen	Marodeur-Handwerkswissen	Marodeur-Handwerkswissen		das	ein	das	Marodeur-Handwerkwissen	
 -	bcbahv_m	Marodeur-Handwerkswissen	Marodeur-Handwerkswissen	Marodeur-Handwerkswissen	Marodeur-Handwerkswissen		das	ein	das	Marodeur-Handwerkwissen	
--	bcbahb	Erouk'an-Stiefel	Erouk'an-Stiefel	Erouk'an-Stiefel	Erouk'an-Stiefel	ein	der		die	Handwerksplan: Erouk'an-Stiefeln	
--	bcbahg	Erouk'an-Handschuhe	Erouk'an-Handschuhe	Erouk'an-Handschuhe	Erouk'an-Handschuhe	ein	der		die	Handwerksplan: Erouk'an-Handschuhe	
+-	bcbahb	Bauplan für Erouk'an-Stiefel	Bauplan für Erouk'an-Stiefel	Bauplänen für Erouk'an-Stiefel	Baupläne für Erouk'an-Stiefel	ein	der		die	Bauplan: Erouk'an-Stiefel	
+-	bcbahg	Bauplan für Erouk'an-Handschuhe	Bauplan für Erouk'an-Handschuhe	Bauplänen für Erouk'an-Handschuhe	Baupläne für Erouk'an-Handschuhe	ein	der		die	Bauplan: Erouk'an-Handschuhe	
 -	bcbahh	Erouk'an-Helm	Erouk'an-Helm	Erouk'an-Helm	Erouk'an-Helm	ein	der		die	Handwerksplan: Erouk'an-Helmen	
 -	bcbahp	Erouk'an-Hosen	Erouk'an-Hosen	Erouk'an-Hosen	Erouk'an-Hosen	ein	der		die	Handwerksplan: Erouk'an-Hosen	
 -	bcbahs	Erouk'an-Armschützer	Erouk'an-Armschützer	Erouk'an-Armschützer	Erouk'an-Armschützer	ein	der		die	Handwerksplan: Erouk'an-Armschützer	
@@ -4083,24 +4083,23 @@
 -	bctaea23	Leichter Büstenhalter	Leichter Büstenhalter 	Leichter Büstenhalter 	Leichter Büstenhalter 	ein	der			Brick Craftman's plan for tryker light bra	
 -	bczaea22	Leichte Unterhosen	Leichte Unterhosen	Leichte Unterhosen	Leichte Unterhosen	eine	die			Brick Craftman's plan for zorai light panties	
 -	bczaea23	Leichter Büstenhalter 	Leichter Büstenhalter 	Leichter Büstenhalter 	Leichter Büstenhalter 	ein	der		die	Handwerksplan-Stanza (Teil einer Aktion) Leichter Zoraï Büstenhalter Ninka	
-1618581536	jrez_nodp_tryker	süßer Tod	süßer Tod	süßer Tod	süßer Tod			süßer Tod		süßer Tod	süßer Tod
-1619198342	jboost_2x	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	ein	der	Verstärker für Allegorie-Effekte	die	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte
-1619198360	tag_fyros_1	Fyros	Fyros	Fyros	Fyros			Fyros		Fyros	Fyros
-1619199443	jrez_fulllife_tryker	zurück zu Ruhm	zurück zu Ruhm	zurück zu Ruhm	zurück zu Ruhm			zurück zu Ruhm		zurück zu Ruhm	zurück zu Ruhm
-1619199449	jrez_halflife_tryker	gut zu Fuß	gut zu Fuß	gut zu Fuß	gut zu Fuß			gut zu Fuß		gut zu Fuß	gut zu Fuß
-1619199455	jrez_goodlife_tryker	gut in Form	gut in Form	gut in Form	gut in Form			gut in Form		gut in Form	gut in Form
-1619275925	jrez_goodlife_matis	gut in Form	gut in Form	gut in Form	gut in Form			gut in Form		gut in Form	gut in Form
-1619275929	jrez_goodlife_fyros	gut in Form	gut in Form	gut in Form	gut in Form			gut in Form		gut in Form	gut in Form
-1619275932	jrez_goodlife_zorai	gut in Form	gut in Form	gut in Form	gut in Form			gut in Form		gut in Form	gut in Form
-1619275939	jrez_halflife_matis	gut zu Fuß	gut zu Fuß	gut zu Fuß	gut zu Fuß			gut zu Fuß		gut zu Fuß	gut zu Fuß
-1619275943	jrez_halflife_zorai	gut zu Fuß	gut zu Fuß	gut zu Fuß	gut zu Fuß			gut zu Fuß		gut zu Fuß	gut zu Fuß
-1619275945	jrez_halflife_fyros	gut zu Fuß	gut zu Fuß	gut zu Fuß	gut zu Fuß			gut zu Fuß		gut zu Fuß	gut zu Fuß
-1619275952	jrez_fulllife_matis	zurück zu Ruhm	zurück zu Ruhm	zurück zu Ruhm	zurück zu Ruhm			zurück zu Ruhm		zurück zu Ruhm	zurück zu Ruhm
-1619275954	jrez_fulllife_zorai	zurück zu Ruhm	zurück zu Ruhm	zurück zu Ruhm	zurück zu Ruhm			zurück zu Ruhm		zurück zu Ruhm	zurück zu Ruhm
-1619275957	jrez_fulllife_fyros	zurück zu Ruhm	zurück zu Ruhm	zurück zu Ruhm	zurück zu Ruhm			zurück zu Ruhm		zurück zu Ruhm	zurück zu Ruhm
-1619275962	jrez_nodp_matis	süßer Tod	süßer Tod	süßer Tod	süßer Tod			süßer Tod		süßer Tod	süßer Tod
-1619275964	jrez_nodp_fyros	süßer Tod	süßer Tod	süßer Tod	süßer Tod	ein	der	süßer Tod	die	süßer Tod	süßer Tod
-1619275966	jrez_nodp_zorai	süßer Tod	süßer Tod	süßer Tod	süßer Tod	ein	der	süßer Tod	die	süßer Tod	süßer Tod
+1618581536	jrez_nodp_tryker	Süßer Tod	süßer Tod	süßer Tod	süßer Tod			süßer Tod		@{5F5F}1% @{FFFF}Chance @{5F5F}keine Todesstrafe @{FFFF}nach einer Wiederauferstehung zu erhalten. @{FAAF}Nur in Aeden Aqueous und im Nexus.	süßer Tod
+1619198342	jboost_2x	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	ein	der	Verstärker für Allegorie-Effekte	die	Multipliziert den allegorischen Effekt mit @{5F5F}2@{FFFF}.	Verstärker für Allegorie-Effekte
+1619199443	jrez_fulllife_tryker	Glorreiche Rückkehr	Glorreiche Rückkehr					Glorreiche Rückkehr		@{5F5F}1% @{FFFF}Chance bei Wiederauferstehung @{5F5F}alles@{FFFF} an Leben, Ausdauer, Sap und Fokus wiederzuerlangen. @{FAAF}Nur in Aeden Aqueous und dem Nexus	
+1619199449	jrez_halflife_tryker	Stehenden Fußes	Stehenden Fußes					Stehenden Fußes		@{5F5F}3% @{FFFF}Chance bei Wiederauferstehung @{5F5F}die Hälfte @{FFFF}des Lebens, der Ausdauer, des Sap und des Fokus wiederzuerlangen. @{FAAF}Nur in Aeden Aqueous und im Nexus.	gut zu Fuß
+1619199455	jrez_goodlife_tryker	Gut in Form	gut in Form	gut in Form	gut in Form			gut in Form		@{5F5F}2% @{FFFF}Chance bei Wiederauferstehung @{5F5F}dreiviertel @{FFFF}des Lebens, der Ausdauer, des Sap und des Fokus wiederzuerlangen. @{FAAF}Nur in Aeden Aqueous und im Nexus.	gut in Form
+1619275925	jrez_goodlife_matis	Gut in Form	gut in Form	gut in Form	gut in Form			gut in Form		@{5F5F}2% @{FFFF}Chance bei Wiederauferstehung @{5F5F}dreiviertel @{FFFF}des Lebens, der Ausdauer, des Sap und des Fokus wiederzuerlangen. @{FAAF}Nur in den Grünen Anhöhen und im Nexus.	gut in Form
+1619275929	jrez_goodlife_fyros	Gut in Form	gut in Form	gut in Form	gut in Form			gut in Form		@{5F5F}2% @{FFFF}Chance bei Wiederauferstehung @{5F5F}dreiviertel @{FFFF}des Lebens, der Ausdauer, des Sap und des Fokus wiederzuerlangen. @{FAAF}Nur in der Brennenden Wüste und im Nexus.	gut in Form
+1619275932	jrez_goodlife_zorai	Gut in Form	gut in Form	gut in Form	gut in Form			gut in Form		@{5F5F}2% @{FFFF}Chance bei Wiederauferstehung @{5F5F}dreiviertel @{FFFF}des Lebens, der Ausdauer, des Sap und des Fokus wiederzuerlangen. @{FAAF}Nur in den Verdorrenden Landen und im Nexus.	gut in Form
+1619275939	jrez_halflife_matis	Stehenden Fußes	Stehenden Fußes					Stehenden Fußes		@{5F5F}3% @{FFFF}Chance bei Wiederauferstehung @{5F5F}die Hälfte @{FFFF}des Lebens, der Ausdauer, des Sap und des Fokus wiederzuerlangen. @{FAAF}Nur in den Grünen Anhöhen und im Nexus.	gut zu Fuß
+1619275943	jrez_halflife_zorai	Stehenden Fußes	Stehenden Fußes					Stehenden Fußes		@{5F5F}3% @{FFFF}Chance bei Wiederauferstehung @{5F5F}die Hälfte @{FFFF}des Lebens, der Ausdauer, des Sap und des Fokus wiederzuerlangen. @{FAAF}Nur in den Verdorrenden Landen und im Nexus.	gut zu Fuß
+1619275945	jrez_halflife_fyros	Stehenden Fußes	Stehenden Fußes					Stehenden Fußes		@{5F5F}3% @{FFFF}Chance bei Wiederauferstehung @{5F5F}die Hälfte @{FFFF}des Lebens, der Ausdauer, des Sap und des Fokus wiederzuerlangen. @{FAAF}Nur in der Brennenden Wüste und im Nexus.	gut zu Fuß
+1619275952	jrez_fulllife_matis	Glorreiche Rückkehr	Glorreiche Rückkehr					Glorreiche Rückkehr		@{5F5F}1% @{FFFF}Chance bei Wiederauferstehung @{5F5F}alles@{FFFF} an Leben, Ausdauer, Sap und Fokus wiederzuerlangen. @{FAAF}Nur in den Grünen Anhöhen und dem Nexus	
+1619275954	jrez_fulllife_zorai	Glorreiche Rückkehr	Glorreiche Rückkehr			eine	die	Glorreiche Rückkehr		@{5F5F}1% @{FFFF}Chance bei Wiederauferstehung @{5F5F}alles an @{FFFF}Leben, Ausdauer, Sap und Fokus wiederzuerlangen. @{FAAF}Nur in den Verdorrenden Landen und dem Nexus	
+1619275957	jrez_fulllife_fyros	Glorreiche Rückkehr	Glorreiche Rückkehr					Glorreiche Rückkehr		@{5F5F}1% @{FFFF}Chance bei Wiederauferstehung @{5F5F}alles @{FFFF}an Leben, Ausdauer, Sap und Fokus wiederzuerlangen. @{FAAF}Nur in der Brennenden Wüste und dem Nexus	
+1619275962	jrez_nodp_matis	Süßer Tod	süßer Tod	süßer Tod	süßer Tod			süßer Tod		@{5F5F}1% @{FFFF}Chance @{5F5F}keine Todesstrafe @{FFFF}nach einer Wiederauferstehung zu erhalten. @{FAAF}Nur in den Grünen Anhöhen und im Nexus.	süßer Tod
+1619275964	jrez_nodp_fyros	Süßer Tod	süßer Tod	süßer Tod	süßer Tod	ein	der	süßer Tod	die	@{5F5F}1% @{FFFF}Chance @{5F5F}keine Todesstrafe @{FFFF}nach einer Wiederauferstehung zu erhalten. @{FAAF}Nur in der Brennenden Wüste und im Nexus.	süßer Tod
+1619275966	jrez_nodp_zorai	Süßer Tod								@{5F5F}1% @{FFFF}Chance @{5F5F}keine Todesstrafe @{FFFF}nach einer Wiederauferstehung zu erhalten. @{FAAF}Nur in den Verdorrenden Landen und im Nexus.	
 -	bcomarem1bm_1	Handwerksplan: Tekorn-Mar Streitkolben	Handwerksplan: Tekorn-Mar Streitkolben	Handwerksplan: Tekorn-Mar Streitkolben	Handwerksplan: Tekorn-Mar Streitkolben	ein	der		die	Einhand-Streitkolben mit Tekorn-Mar in hoher Qualität	Tekorn-Mar Einhand-Streitkolben
 -	bcomarem1bs_1	Handwerksplan: Tekorn-Mar Stab	Handwerksplan: Tekorn-Mar Stab	Handwerksplan: Tekorn-Mar Stab	Handwerksplan: Tekorn-Mar Stab	ein	der		die	Einhand-Stab mit Tekorn-Mar in hoher Qualität	Tekorn-Mar Einhand-Stab
 -	bcomarem1pd_1	Handwerksplan: Tekorn-Mar Dolch	Handwerksplan: Tekorn-Mar Dolch	Handwerksplan: Tekorn-Mar Dolch	Handwerksplan: Tekorn-Mar Dolch	ein	der		die	Einhand-Dolch mit Tekorn-Mar in hoher Qualität	Tekorn-Mar Einhand-Dolch
@@ -4193,3 +4192,58 @@
 -	bcogenetmwea_2	Handwerksplan: Rubbarn-Gen Nahkampfwaffen-Werkzeug	Handwerksplan: Rubbarn-Gen Nahkampfwaffen-Werkzeug	Handwerksplan: Rubbarn-Gen Nahkampfwaffen-Werkzeug	Handwerksplan: Rubbarn-Gen Nahkampfwaffen-Werkzeug	ein	der		die	Rubbarn-Gen Nahkampfwaffen-Werkzeug	Rubbarn-Gen Nahkampfwaffen-Werkzeug
 -	bcogenetrwea_2	Handwerksplan: Rubbarn-Gen Fernkampfwaffen-Werkzeug	Handwerksplan: Rubbarn-Gen Fernkampfwaffen-Werkzeug	Handwerksplan: Rubbarn-Gen Fernkampfwaffen-Werkzeug	Handwerksplan: Rubbarn-Gen Fernkampfwaffen-Werkzeug	ein	der		die	Rubbarn-Gen Fernkampfwaffen-Werkzeug	Rubbarn-Gen Fernkampfwaffen-Werkzeug
 -	bcogenetforage_2	Handwerksplan: Egiros-Gen Ernte-Hacke	Handwerksplan: Egiros-Gen Ernte-Hacke	Handwerksplan: Egiros-Gen Ernte-Hacke	Handwerksplan: Egiros-Gen Ernte-Hacke	ein	der		die	Egiros-Gen Ernte-Hacke	Egiros-Gen Ernte-Hacke
+1619198342	jboost_3x	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	ein	der	Verstärker für Allegorie-Effekte	die	Multipliziert den allegorischen Effekt mit @{5F5F}3@{FFFF}.	Verstärker für Allegorie-Effekte
+1619198342	jboost_4x	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	ein	der	Verstärker für Allegorie-Effekte	die	Multipliziert den allegorischen Effekt mit @{5F5F}4@{FFFF}.	Verstärker für Allegorie-Effekte
+1619198342	jboost_5x	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	ein	der	Verstärker für Allegorie-Effekte	die	Multipliziert den allegorischen Effekt mit @{5F5F}5@{FFFF}.	Verstärker für Allegorie-Effekte
+1619198342	jboost_6x	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	ein	der	Verstärker für Allegorie-Effekte	die	Multipliziert den allegorischen Effekt mit @{5F5F}6@{FFFF}.	Verstärker für Allegorie-Effekte
+1619198342	jboost_7x	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	ein	der	Verstärker für Allegorie-Effekte	die	Multipliziert den allegorischen Effekt mit @{5F5F}7@{FFFF}.	Verstärker für Allegorie-Effekte
+1619198342	jboost_8x	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	ein	der	Verstärker für Allegorie-Effekte	die	Multipliziert den allegorischen Effekt mit @{5F5F}8@{FFFF}.	Verstärker für Allegorie-Effekte
+1619198342	jboost_9x	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	ein	der	Verstärker für Allegorie-Effekte	die	Multipliziert den allegorischen Effekt mit @{5F5F}9@{FFFF}.	Verstärker für Allegorie-Effekte
+1619198342	jboost_10x	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	ein	der	Verstärker für Allegorie-Effekte	die	Multipliziert den allegorischen Effekt mit @{5F5F}10@{FFFF}.	Verstärker für Allegorie-Effekte
+1619198342	jboost_11x	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	ein	der	Verstärker für Allegorie-Effekte	die	Multipliziert den allegorischen Effekt mit @{5F5F}11@{FFFF}.	Verstärker für Allegorie-Effekte
+1619198342	jboost_12x	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	ein	der	Verstärker für Allegorie-Effekte	die	Multipliziert den allegorischen Effekt mit @{5F5F}12@{FFFF}.	Verstärker für Allegorie-Effekte
+1619198342	jboost_13x	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	ein	der	Verstärker für Allegorie-Effekte	die	Multipliziert den allegorischen Effekt mit @{5F5F}13@{FFFF}.	Verstärker für Allegorie-Effekte
+1619198342	jboost_14x	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	ein	der	Verstärker für Allegorie-Effekte	die	Multipliziert den allegorischen Effekt mit @{5F5F}14@{FFFF}.	Verstärker für Allegorie-Effekte
+1619198342	jboost_15x	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	ein	der	Verstärker für Allegorie-Effekte	die	Multipliziert den allegorischen Effekt mit @{5F5F}15@{FFFF}.	Verstärker für Allegorie-Effekte
+1619198342	jboost_16x	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	ein	der	Verstärker für Allegorie-Effekte	die	Multipliziert den allegorischen Effekt mit @{5F5F}16@{FFFF}.	Verstärker für Allegorie-Effekte
+1619198342	jboost_17x	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	ein	der	Verstärker für Allegorie-Effekte	die	Multipliziert den allegorischen Effekt mit @{5F5F}17@{FFFF}.	Verstärker für Allegorie-Effekte
+1619198342	jboost_18x	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	ein	der	Verstärker für Allegorie-Effekte	die	Multipliziert den allegorischen Effekt mit @{5F5F}18@{FFFF}.	Verstärker für Allegorie-Effekte
+1619198342	jboost_19x	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	ein	der	Verstärker für Allegorie-Effekte	die	Multipliziert den allegorischen Effekt mit @{5F5F}19@{FFFF}.	Verstärker für Allegorie-Effekte
+1619198342	jboost_20x	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	ein	der	Verstärker für Allegorie-Effekte	die	Multipliziert den allegorischen Effekt mit @{5F5F}20@{FFFF}.	Verstärker für Allegorie-Effekte
+1619198342	jboost_21x	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	ein	der	Verstärker für Allegorie-Effekte	die	Multipliziert den allegorischen Effekt mit @{5F5F}21@{FFFF}.	Verstärker für Allegorie-Effekte
+1619198342	jboost_22x	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	ein	der	Verstärker für Allegorie-Effekte	die	Multipliziert den allegorischen Effekt mit @{5F5F}22@{FFFF}.	Verstärker für Allegorie-Effekte
+1619198342	jboost_23x	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	ein	der	Verstärker für Allegorie-Effekte	die	Multipliziert den allegorischen Effekt mit @{5F5F}23@{FFFF}.	Verstärker für Allegorie-Effekte
+1619198342	jboost_24x	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	ein	der	Verstärker für Allegorie-Effekte	die	Multipliziert den allegorischen Effekt mit @{5F5F}24@{FFFF}.	Verstärker für Allegorie-Effekte
+1619198342	jboost_25x	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	Verstärker für Allegorie-Effekte	ein	der	Verstärker für Allegorie-Effekte	die	Multipliziert den allegorischen Effekt mit @{5F5F}25@{FFFF}.	Verstärker für Allegorie-Effekte
+1619198360	tag_fyros_1	FYROS	FYROS	FYROS	FYROS	ein	der	FYROS	die		FYROS
+1619198360	tag_fyros_2	FYROS	FYROS	FYROS	FYROS	ein	der	FYROS	die		FYROS
+1619198360	tag_fyros_3	FYROS	FYROS	FYROS	FYROS	ein	der	FYROS	die		FYROS
+1619198360	tag_fyros_4	FYROS	FYROS	FYROS	FYROS	ein	der	FYROS	die		FYROS
+1619198360	tag_matis_1	MATIS	MATIS	MATIS	MATIS	ein	der	MATIS	die		MATIS
+1619198360	tag_matis_2	MATIS	MATIS	MATIS	MATIS	ein	der	MATIS	die		MATIS
+1619198360	tag_matis_3	MATIS	MATIS	MATIS	MATIS	ein	der	MATIS	die		MATIS
+1619198360	tag_matis_4	MATIS	MATIS	MATIS	MATIS	ein	der	MATIS	die		MATIS
+1619198360	tag_zorai_1	ZORAI	ZORAI	ZORAI	ZORAI	ein	der	ZORAI	die		ZORAI
+1619198360	tag_zorai_2	ZORAI	ZORAI	ZORAI	ZORAI	ein	der	ZORAI	die		ZORAI
+1619198360	tag_zorai_3	ZORAI	ZORAI	ZORAI	ZORAI	ein	der	ZORAI	die		ZORAI
+1619198360	tag_zorai_4	ZORAI	ZORAI	ZORAI	ZORAI	ein	der	ZORAI	die		ZORAI
+1619198360	tag_tryker_1	TRYKER	TRYKER	TRYKER	TRYKER	ein	der	TRYKER	die		TRYKER
+1619198360	tag_tryker_2	TRYKER	TRYKER	TRYKER	TRYKER	ein	der	TRYKER	die		TRYKER
+1619198360	tag_tryker_3	TRYKER	TRYKER	TRYKER	TRYKER	ein	der	TRYKER	die		TRYKER
+1619198360	tag_tryker_4	TRYKER	TRYKER	TRYKER	TRYKER	ein	der	TRYKER	die		TRYKER
+1619198360	tag_kami_1	KAMI	KAMI	KAMI	KAMI	ein	der	KAMI	die		KAMI
+1619198360	tag_kami_2	KAMI	KAMI	KAMI	KAMI	ein	der	KAMI	die		KAMI
+1619198360	tag_kami_3	KAMI	KAMI	KAMI	KAMI	ein	der	KAMI	die		KAMI
+1619198360	tag_kami_4	KAMI	KAMI	KAMI	KAMI	ein	der	KAMI	die		KAMI
+1619198360	tag_karavan_1	KARAVAN	KARAVAN	KARAVAN	KARAVAN	ein	der	KARAVAN	die		KARAVAN
+1619198360	tag_karavan_2	KARAVAN	KARAVAN	KARAVAN	KARAVAN	ein	der	KARAVAN	die		KARAVAN
+1619198360	tag_karavan_3	KARAVAN	KARAVAN	KARAVAN	KARAVAN	ein	der	KARAVAN	die		KARAVAN
+1619198360	tag_karavan_4	KARAVAN	KARAVAN	KARAVAN	KARAVAN	ein	der	KARAVAN	die		KARAVAN
+1619198360	tag_marauder_1	MARAUDEUR	MARAUDEUR	MARAUDEURE	MARAUDEURS	ein	der	MARAUDEURE	die		MARAUDEUR
+1619198360	tag_marauder_2	MARAUDEUR	MARAUDEUR	MARAUDEURE	MARAUDEURS	ein	der	MARAUDEURE	die		MARAUDEUR
+1619198360	tag_marauder_3	MARAUDEUR	MARAUDEUR	MARAUDEURE	MARAUDEURS	ein	der	MARAUDEURE	die		MARAUDEUR
+1619198360	tag_marauder_4	MARAUDEUR	MARAUDEUR	MARAUDEURE	MARAUDEURS	ein	der	MARAUDEURE	die		MARAUDEUR
+1619198360	tag_ranger_1	RANGER	RANGER	RANGER	RANGER	ein	der	RANGER	die		RANGER
+1619198360	tag_ranger_2	RANGER	RANGER	RANGER	RANGER	ein	der	RANGER	die		RANGER
+1619198360	tag_ranger_3	RANGER	RANGER	RANGER	RANGER	ein	der	RANGER	die		RANGER
+1619198360	tag_ranger_4	RANGER	RANGER	RANGER	RANGER	ein	der	RANGER	die		RANGER

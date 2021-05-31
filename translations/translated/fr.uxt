@@ -7313,9 +7313,9 @@ uiGloves	[Gants]
 
 uiGroupColor	[Co-équipiers]
 
-uiGUILD	[GUILDE]
-
 uiGuild	[Guilde]
+
+uiGUILD	[GUILDE]
 
 uiGuildBearer	[Titulaire]
 
@@ -8085,9 +8085,9 @@ uihMWeapon	[Armes de mêlée]
 
 uiHoleth	[Holeth]
 
-uiHOME	[ACCUEIL]
-
 uiHome	[Accueil]
+
+uiHOME	[ACCUEIL]
 
 uiHorizontal	[Horizontale]
 
@@ -10602,7 +10602,7 @@ uiOutpostTitleTime	[Temps]
 
 uiOutpostTitleTotal	[Total]
 
-uiOutpostTribe	[L'avant-poste est détenu par un clan de Maraudeurs.]
+uiOutpostTribe	[L'avant-poste est détenu par une tribu hostile.]
 
 uiOutpostTSquad	[ESCOUADES EN ATTENTE]
 
@@ -12183,9 +12183,9 @@ uiShortcutNumber	[Numéro du raccourci]
 
 uiShortCutTT	[Glissez ici un sort de combat ou de magie]
 
-uiShout	[Crier]
-
 uiSHOUT	[Crier]
+
+uiShout	[Crier]
 
 uiShoutColor	[Crier]
 
@@ -12836,6 +12836,34 @@ uiTrade2Player	[Échanger]
 uiTradeInvitation	[Invitation à échanger]
 
 uiTradeWith	[Échanger avec ?]
+
+uiTranslationDisable	[Désactiver les traductions pour certains canaux]
+
+uiTranslationDisableAround	[Alentours, crier et emotes]
+
+uiTranslationDisableGuild	[Guilde]
+
+uiTranslationDisableRegion	[Région]
+
+uiTranslationDisableUniverse	[Univers]
+
+uiTranslationEnglish	[Anglais]
+
+uiTranslationFrench	[Français]
+
+uiTranslationGerman	[Allemand]
+
+uiTranslationHeader	[Traductions]
+
+uiTranslationHide	[Cacher le drapeau]
+
+uiTranslationInverse	[Inverser l'affichage]
+
+uiTranslationLanguages	[Langue]
+
+uiTranslationRussian	[Russe]
+
+uiTranslationSpanish	[Espagnol]
 
 uiTrCulture	[CULTURE TRYKER]
 
@@ -14290,6 +14318,18 @@ uittTitle	[Afficher le titre du personnage au-dessus de lui]
 
 uittToolCraftType	[@{6F6F}Type d'outil @{FFFF}:\n
 	Avant de vous lancer dans l'artisanat, vous devez équiper l'outil de création approprié dans votre main droite.]
+
+uittTranslationDisableAround	[]
+
+uittTranslationDisableGuild	[]
+
+uittTranslationDisableRegion	[]
+
+uittTranslationDisableUniverse	[]
+
+uittTranslationHide	[Cache le drapeau de la langue pour les messages provenant de cette langue.]
+
+uittTranslationInverse	[Inverse l'affichage de l'original]
 
 uittUserColor	[Couleur utilisée pour l'affichage de votre personnage]
 

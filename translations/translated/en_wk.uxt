@@ -2382,7 +2382,7 @@ uiOutpostOwner	[Owner: ]
 
 uittOutpostOwner	[The Guild owning the Outpost]
 
-uiOutpostTribe	[The Outpost is owned by a Marauding Tribe.]
+uiOutpostTribe	[The Outpost is in the hands of a hostile tribe.]
 
 uiOutpostAttacker	[Attacker: ]
 
@@ -7808,7 +7808,7 @@ uiTalkMemMsg08	[Hug]
 
 uiTalkMemMsg09	[Yeah!]
 
-uiTalkMemMsg10	[What's going on?]
+uiTalkMemMsg10	[What's up?]
 
 uiTalkMemMsg11	[Dude?]
 
@@ -14611,4 +14611,36 @@ uittShowCapPopup	[Display/hide the Course popup at top center of the screen]
 
 mission_real_tooltip	[{FFFC}This is the @{6F6F}Course@{FFFC} you are currently following.\n
 	Click for more @{6F6F}information@{FFFC}.]
+
+uiTranslationHeader	[Translations]
+
+uiTranslationLanguages	[Language]
+
+uiTranslationEnglish	[English]
+
+uiTranslationFrench	[French]
+
+uiTranslationGerman	[German]
+
+uiTranslationRussian	[Russian]
+
+uiTranslationSpanish	[Spanish]
+
+uiTranslationInverse	[Invert display]
+
+uittTranslationInverse	[Inverts the display of the original message and the translation]
+
+uittTranslationHide	[Hide flag"]
+
+uiTranslationHide	[Hide flag]
+
+uiTranslationDisable	[Disable translations for some channels]
+
+uiTranslationDisableAround	[Around, shout and emotes]
+
+uiTranslationDisableGuild	[Guild]
+
+uiTranslationDisableUniverse	[Universe]
+
+uiTranslationDisableRegion	[Region]
 

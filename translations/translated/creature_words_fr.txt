@@ -5505,7 +5505,7 @@
 -	cpfpd7	Shookoo	un	le	Shookoos	des	les	du	au
 -	cpfpe7	Shookoo	un	le	Shookoos	des	les	du	au
 -	cpfpf7	Shookoo	un	le	Shookoos	des	les	du	au
--	object_trough_empty_sel		auge vide	une	la	auges vides	des	les		
+-	object_trough_empty_sel	auge vide	une	la	auges vides	des	les		
 -	object_trough_full_sel	auge pleine	une	la	auges pleines	des	les		
 -	object_easter_egg_small	petit œuf	un	le	petits œufs	des	les	du	au
 -	object_easter_egg	œuf	un	l'	œufs	des	les	de l'	à l'

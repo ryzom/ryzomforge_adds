@@ -7307,9 +7307,9 @@ uiGloves	[HANDSCHUHE]
 
 uiGroupColor	[Team-Mitglieder]
 
-uiGUILD	[GILDE]
-
 uiGuild	[Gilde]
+
+uiGUILD	[GILDE]
 
 uiGuildBearer	[Bote]
 
@@ -8079,9 +8079,9 @@ uihMWeapon	[Nahkampfwaffen]
 
 uiHoleth	[Holeth]
 
-uiHOME	[STARTSEITE]
-
 uiHome	[Startseite]
+
+uiHOME	[STARTSEITE]
 
 uiHorizontal	[Horizontal]
 
@@ -10592,7 +10592,7 @@ uiOutpostTitleTime	[Zeit]
 
 uiOutpostTitleTotal	[Total]
 
-uiOutpostTribe	[Der Außenposten wird von einem Marodeurs-Stamm gehalten.]
+uiOutpostTribe	[Der Außenposten ist in der Hand eines feindlichen Stammes.]
 
 uiOutpostTSquad	[BEREITSTEHENDE TRUPPEN]
 
@@ -12007,9 +12007,9 @@ uiSaveMovie	[Film speichern]
 
 uiSaveUI	[Speichern]
 
-uiSay	[SPRECHEN]
-
 uiSAY	[SAGEN]
+
+uiSay	[SPRECHEN]
 
 uiSayColor	[Sprechen]
 
@@ -12517,7 +12517,7 @@ uiTalkMemMsg08	[*knuddel*]
 
 uiTalkMemMsg09	[Hurra!]
 
-uiTalkMemMsg10	[Was ist denn hier los?]
+uiTalkMemMsg10	[Was ist los?]
 
 uiTalkMemMsg11	[Bitte?]
 
@@ -12587,9 +12587,9 @@ uiTatoos	[TATTOOS]
 
 uitCenter	[Auf Spieler zentrieren]
 
-uiTeam	[TEAM]
-
 uiTEAM	[TEAM]
+
+uiTeam	[TEAM]
 
 uiTeamChat	[Teamchat]
 
@@ -12822,6 +12822,34 @@ uiTrade2Player	[TAUSCHEN]
 uiTradeInvitation	[Einladung zum Tausch]
 
 uiTradeWith	[HANDEL MIT?]
+
+uiTranslationDisable	[Übersetzungen für einige Kanäle deaktivieren]
+
+uiTranslationDisableAround	[Around, shout and emotes]
+
+uiTranslationDisableGuild	[Gilde]
+
+uiTranslationDisableRegion	[Region]
+
+uiTranslationDisableUniverse	[Universum]
+
+uiTranslationEnglish	[Englisch]
+
+uiTranslationFrench	[Französisch]
+
+uiTranslationGerman	[Deutsch]
+
+uiTranslationHeader	[Übersetzungen]
+
+uiTranslationHide	[Flagge ausblenden]
+
+uiTranslationInverse	[Anzeige invertieren]
+
+uiTranslationLanguages	[Sprache]
+
+uiTranslationRussian	[Russisch]
+
+uiTranslationSpanish	[Spanisch]
 
 uiTrCulture	[TRYKER - KULTUR]
 
@@ -14278,6 +14306,18 @@ uittTitle	[Titel über dem Charakter anzeigen]
 
 uittToolCraftType	[@{6F6F}Werkzeugtyp @{FFFF}:\n
 	Ehe du mit einem Handwerk beginnen kannst, musst du das dafür jeweils nötige Werkzeug in die rechte Hand nehmen.]
+
+uittTranslationDisableAround	[]
+
+uittTranslationDisableGuild	[]
+
+uittTranslationDisableRegion	[]
+
+uittTranslationDisableUniverse	[]
+
+uittTranslationHide	[Blendet das Sprachflag für Nachrichten aus, die aus dieser Sprache stammen]
+
+uittTranslationInverse	[Invertiert die Anzeige des Originals]
 
 uittUserColor	[Farbe, in welcher dein Charakter angezeigt wird]
 

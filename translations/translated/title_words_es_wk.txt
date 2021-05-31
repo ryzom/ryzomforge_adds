@@ -1920,5 +1920,6 @@
 -	fct_marauder_ambassador	 Embajador Marauder	Embajadora Marauder	
 -	fct_marauder_windofmuse	(Vientos de la Musa)	
 -	gn_driller_marauder_const	Aklareen en construcción 		
-1616092237	fct_allegory_maker	
-1616152994	fct_animals_and_co	
+1616092237	fct_allegory_maker	Grabador de alegorías	Grabadora de alegorías
+1616152994	fct_animals_and_co	Representante de "Animales & Co"	Representante de "Animales & Co"
+1620041114	fct_artisan_aklareen	 (Artesano del Aklareen)	

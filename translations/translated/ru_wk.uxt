@@ -2382,7 +2382,7 @@ uiOutpostOwner	[Владелец: ]
 
 uittOutpostOwner	[Гильдия, контролирующая заставу]
 
-uiOutpostTribe	[Застава во власти племени мародеров.]
+uiOutpostTribe	[Аванпост находится в руках раждебного племени.]
 
 uiOutpostAttacker	[Нападающий: ]
 
@@ -14596,4 +14596,36 @@ uiPeopleChangeContactGroup	[Название группы]
 uittShowTranslationOnlyAsTooltip	[Если опция выбрана, сообщения игроков будут отображаться на оригинальном языке, а их перевод - во всплывающий подсказке при наведении на них курсора.]
 
 uibotchatphrase	[ ]
+
+uiTranslationHeader	[Переводы]
+
+uiTranslationLanguages	[Язык]
+
+uiTranslationEnglish	[Английский]
+
+uiTranslationFrench	[Французский]
+
+uiTranslationGerman	[Немецкий]
+
+uiTranslationRussian	[Русский]
+
+uiTranslationSpanish	[Испанский]
+
+uiTranslationInverse	[Инвертировать отображение]
+
+uittTranslationInverse	[Инвертирует отображение оригинала]
+
+uittTranslationHide	[Скрывает флаг языка для сообщений, исходящих с этого языка]
+
+uiTranslationHide	[Скрыть флаг]
+
+uiTranslationDisable	[Отключить переводы для некоторых каналов]
+
+uiTranslationDisableAround	[Общение, крики и эмоти]
+
+uiTranslationDisableGuild	[Гильдия]
+
+uiTranslationDisableUniverse	[Вселенная]
+
+uiTranslationDisableRegion	[Регион]
 

@@ -2383,7 +2383,7 @@ uiOutpostOwner	[Propietario: ]
 
 uittOutpostOwner	[Gremio Propietario del Puesto de Avanzada. ]
 
-uiOutpostTribe	[El Puesto de Avanzada es propiedad de una Tribu Marauder.]
+uiOutpostTribe	[El puesto de avanzada está en manos de una tribu hostil.]
 
 uiOutpostAttacker	[Atacante: ]
 
@@ -7810,7 +7810,7 @@ uiTalkMemMsg08	[Abrazar]
 
 uiTalkMemMsg09	[¡Yeah!]
 
-uiTalkMemMsg10	[Qué estás pasando?]
+uiTalkMemMsg10	[¿Qué Pasa?]
 
 uiTalkMemMsg11	[¿Tío?]
 
@@ -14629,4 +14629,36 @@ uittShowCapPopup	[Mostrar/Ocultar el Curso emergente en el centro de mapa]
 
 mission_real_tooltip	[{FFFC}Este es el @{6F6F}Curso@{FFFC} que usted sigue actualmente.\n
 	Clic para más @{6F6F}información@{FFFC}.]
+
+uiTranslationHeader	[Traducciones]
+
+uiTranslationLanguages	[Idioma]
+
+uiTranslationEnglish	[Inglés]
+
+uiTranslationFrench	[Francés]
+
+uiTranslationGerman	[Alemán]
+
+uiTranslationRussian	[Ruso]
+
+uiTranslationSpanish	[Español]
+
+uiTranslationInverse	[Invertir la visualización]
+
+uittTranslationInverse	[Invierte la visualización del original]
+
+uittTranslationHide	[Oculta la bandera del idioma para los mensajes originados en este idioma]
+
+uiTranslationHide	[Ocultar la bandera]
+
+uiTranslationDisable	[Desactivar las traducciones de algunos canales]
+
+uiTranslationDisableAround	[Alrededor, gritos y emotes]
+
+uiTranslationDisableGuild	[Gremio]
+
+uiTranslationDisableUniverse	[Universo]
+
+uiTranslationDisableRegion	[Región]
 

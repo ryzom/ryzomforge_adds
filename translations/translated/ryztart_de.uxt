@@ -32,6 +32,8 @@ ryzom_config_ini.name_profile	[]
 
 ryzom_config_ini.of_the_profile	[]
 
+ryzom_config_ini.of_the_shortcut	[]
+
 ryzom_config_ini.only_works_with_account_password	[]
 
 ryzom_config_ini.profile	[]
@@ -76,5 +78,5 @@ ryzom_installer.select_shortcut_to_use	[]
 
 ryzom_installer.upgrade_your_account	[]
 
-ryzom_config_ini.of_the_shortcut	[]
+ryzom_installer.check_installation	[]
 
