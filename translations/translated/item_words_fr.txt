@@ -7887,4 +7887,4 @@
 1619876266	icomartmwea_2	Outil de création d'armes de mêlée Rubbarn-Mar	un	l'	Outils de création d'armes de mêlée Rubbarn-Mar	des	les
 1619876266	icomartrwea_1	Outil de création d'armes de tir Armilo-Mar	un	l'	Outils de création d'armes de tir Armilo-Mar	des	les
 1619876266	icomartrwea_2	Outil de création d'armes de tir Rubbarn-Mar	un	l'	Outils de création d'armes de tir Rubbarn-Mar	des	les
-1622476678	phial_stackable	
+1622476678	phial_stackable	Flacon de sève de Salina	un	le	Flacons de sève de Salina	des	les
