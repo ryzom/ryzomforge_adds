@@ -7887,4 +7887,4 @@
 1619876266	icomartmwea_2	Rubbarn-Mar Melee Weapon Crafting Tool	a	the	Rubbarn-Mar Melee Weapon Crafting Tools		the	
 1619876266	icomartrwea_1	Armilo-Mar Range Weapon Crafting Tool	an	the	Armilo-Mar Range Weapon Crafting Tools		the	
 1619876266	icomartrwea_2	Rubbarn-Mar Range Weapon Crafting Tool	a	the	Rubbarn-Mar Range Weapon Crafting Tools		the	
-1622476678	phial_stackable	Phial	a	the	Phials		the
+1622476678	phial_stackable	Vial of Salina sap	a	the	Vials of Salina sap		the

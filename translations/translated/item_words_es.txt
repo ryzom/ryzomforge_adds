@@ -6233,7 +6233,7 @@
 -	rpjob_advanced	Trabajo Avanzado	un	e	Trabajos Avanzados		los
 -	rpjob_elementary	Trabajo Rudimentario	un	e	Trabajos Rudimentarios		los
 -	rpjob_roleplay	Trabajo Rudimentario	un	e	Trabajos Rudimentarios		los
--	r_06_08_phial_full	Phial	a	the	Phials		the
+-	r_06_08_phial_full	Frasco	uno	el	Frascos	unos	los
 -	r_06_08_report	Informe	un	el	Informes		los
 -	r_06_09_kizoar_element	Ala de Kizoar Letal	una	el	Alas de Kozoar Letales		las
 -	r_06_09_report	Informe	un	el	Informes		the
@@ -7886,5 +7886,5 @@
 1619876266	icomartmwea_2	Herramienta para Fabricar Armas de Lucha Cuerpo a Cuerpo Rubbarn-Mar	una	la	Herramientas para Fabricar Armas de Lucha Cuerpo a Cuerpo Rubbarn-Mar		las
 1619876266	icomartrwea_1	Herramienta para Fabricar Armas de Alcance Armilo-Mar Range	una	la	Herramientas para Fabricar Armas de Alcance Armilo-Mar Range		las
 1619876266	icomartrwea_2	Herramienta para Fabricar Armas de Alcance Rubbarn-Mar	una	la	Herramientas para Fabricar Armas de Alcance Rubbarn-Mar		las
-1622476678	phial_stackable	
+1622476678	phial_stackable	Frasco	uno	el	Frascos	unos	los
 -	slot_neck	Equipa una joya en la ranura del collar.	uno	el	Equipa una joya en la ranura del collar.	unos	los
