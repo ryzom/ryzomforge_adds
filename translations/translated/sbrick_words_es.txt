@@ -4083,24 +4083,23 @@
 -	bctaea23	Plan de Fabricación de Sujetador Livianas tryker	un	el				Plan de fabricación de sujetador livianas Tryker.	
 -	bczaea22	Plan de Fabricación de Calzones Livianas Zoraï	un	el				Plan de fabricación de calzones livianas Zoraï.	
 -	bczaea23	Plan de Fabricación de Sujetador Livianas Zoraï	un	el				Plan de fabricación de sujetador livianas Zoraï.	
-1618581536	jrez_nodp_tryker	
-1619198342	jboost_2x	
-1619198360	tag_fyros_1	
-1619199443	jrez_fulllife_tryker	
-1619199449	jrez_halflife_tryker	
-1619199455	jrez_goodlife_tryker	
-1619275925	jrez_goodlife_matis	
-1619275929	jrez_goodlife_fyros	
-1619275932	jrez_goodlife_zorai	
-1619275939	jrez_halflife_matis	
-1619275943	jrez_halflife_zorai	
-1619275945	jrez_halflife_fyros	
-1619275952	jrez_fulllife_matis	
-1619275954	jrez_fulllife_zorai	
-1619275957	jrez_fulllife_fyros	
-1619275962	jrez_nodp_matis	
-1619275964	jrez_nodp_fyros	
-1619275966	jrez_nodp_zorai	
+1618581536	jrez_nodp_tryker	Dulce Muerte	una	la	Dulces Muertes	unas	las	el @{5F5F}1% de @{FFFF}chance de @{5F5F}no sufrir penalización por muerte @{FFFF}después de una resurrección. 	@{FAAF}Solo en Aeden Acuoso y el Nexo.
+1619198342	jboost_2x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}2@{FFFF}.	
+1619199443	jrez_fulllife_tryker	Regreso en gloria		el	Regresos en gloria	unos	los	el @{5F5F}1% de @{FFFF}chance de recuperar, al momento de tu resurrección, la @{5F5F}totalidad @{FFFF}de tu salud, savia, resistencia y concentración máxima. 	@{FAAF}Solo en Aeden Acuoso y el Nexo.
+1619199449	jrez_halflife_tryker	Regreso de pie		el	Regresos de pie	unos	los	el @{5F5F}3% de @{FFFF}chance de recuperar, al momento de tu resurrección, @{5F5F}la mitad @{FFFF}de tu salud, savia, resistencia y concentración máxima.	@{FAAF}Solo en Aeden Acuoso y el Nexo.
+1619199455	jrez_goodlife_tryker	Regreso en buena forma		el	Regresos en buena forma	unos	los	el @{5F5F}2% de @{FFFF}chance de recuperar, al momento de tu resurrección, @{5F5F}75% @{FFFF}de tu salud, savia, resistencia y concentración máxima.	 @{FAAF}Solo en Aeden Acuoso y el Nexo.
+1619275925	jrez_goodlife_matis	Regreso en buena forma		el	Regresos en buena forma	unos	los	el @{5F5F}2% de @{FFFF}chance de recuperar, al momento de tu resurrección, @{5F5F}75% @{FFFF}de tu salud, savia, resistencia y concentración máxima.	@{FAAF}Solo en Alturas Verdes y el Nexo.
+1619275929	jrez_goodlife_fyros	Regreso en buena forma	uno	el	Regresos en buena forma	unos	los		
+1619275932	jrez_goodlife_zorai	Regreso en buena forma		el	Regresos en buena forma	unos	los	el @{5F5F}2% de @{FFFF}chance de recuperar, al momento de tu resurrección, @{5F5F}el 75% @{FFFF}de tu salud, savia, resistencia y concentración máxima.	@{FAAF}Solo en Witherings y el Nexo.
+1619275939	jrez_halflife_matis	Regreso de pie	uno	el	Regresos de pie	unos	los	el @{5F5F}3% de @{FFFF}chance de recuperar, al momento de tu resurrección, @{5F5F}la mitad @{FFFF}de tu salud, savia, resistencia y concentración máxima.	@{FAAF}Solo en Alturas Verdes y el Nexo.
+1619275943	jrez_halflife_zorai	Regreso de pie	uno	el	Regresos de pie	unos	los	el @{5F5F}3% de @{FFFF}chance de recuperar, al momento de tu resurrección,  @{5F5F}la mitad @{FFFF}de tu salud, savia, resistencia y concentración máxima.	@{FAAF}Solo en Witherings y el Nexo.
+1619275945	jrez_halflife_fyros	Regreso de pie	uno	el	Regresos de pie	unos	los	el @{5F5F}3% de  @{FFFF}chance de recuperar, al momento de tu resurrección,  @{5F5F}la mitad @{FFFF}de tu salud, savia, resistencia y concentración máxima. 	@{FAAF}Solo en el Desierto Ardiente y el Nexo.
+1619275952	jrez_fulllife_matis	Regreso en gloria		el	Regresos en gloria	unos	los	el @{5F5F}1% de @{FFFF}chance de recuperar, al momento de la resurrección, la @{5F5F}totalidad @{FFFF}de su salud, savia, resistencia y concentración máxima.	@{FAAF}Solo en Alturas Verdes y el Nexo.
+1619275954	jrez_fulllife_zorai	Regreso en gloria		el	Regresos en gloria	unos	los	el @{5F5F}1% de @{FFFF}chance de recuperar, al momento de la resurrección, la @{5F5F}totalidad @{FFFF}de su salud, savia, resistencia y concentración máxima.	@{FAAF}Solo en Witherings y el Nexo.
+1619275957	jrez_fulllife_fyros	Regreso en gloria		el	Regresos en gloria	unos	los	el @{5F5F}1% de @{FFFF}chance de recuperar, al momento de tu resurrección, la @{5F5F}totalidad @{FFFF}de tu salud, savia, resistencia y concentración máxima. 	@{FAAF}Solo en en Desierto Ardiente y el Nexo.
+1619275962	jrez_nodp_matis	Dulce muerte	una	la	Dulces muerte	unas	las	el @{5F5F}1% de @{FFFF}chance de @{5F5F}no sufrir penalización por muerte @{FFFF}después de una resurrección. 	@{FAAF}Solo en Alturas Verdes y el Nexo.
+1619275964	jrez_nodp_fyros	Dulce muerte	una	la	Dulces muerte	unas	las	el @{5F5F}1% de @{FFFF}chance de @{5F5F}no sufrir penalización por muerte @{FFFF}después de una resurrección.	@{FAAF}Solo en el Desierto Ardiente y el Nexo.
+1619275966	jrez_nodp_zorai	Dulce muerte	una	la	Dulces muerte	unas	las	el @{5F5F}1% de @{FFFF}chance de @{5F5F}no sufrir penalización por muerte @{FFFF}después de una resurrección. 	@{FAAF}Solo en Witherings y el Nexo.
 -	bcomarem1bm_1	Plan de Mazo Tekorn-Mar	un	el	Planes de Mazo Tekorn-Mar		los	Plan de Fabricación para Mazos Tekorn-Mar.	
 -	bcomarem1bs_1	Plan de Bastón Tekorn-Mar	un	el	Planes de Bastón Tekorn-Mar		los	Plan de Fabricación para Bastones Tekorn-Mar.	
 -	bcomarem1pd_1	Plan de Daga Tekorn-Mar	un	el	Planes de Daga Tekorn-Mar		los	Plan de Fabricación para Dagas Tekorn-Mar.	
@@ -4193,3 +4192,58 @@
 -	bcogenetmwea_2	Plan de Fabricacion de Arma de Combate Cuerpo a Cuerpo Rubbarn-Gen	un	el	Planes de Fabricacion de Arma de Combate Cuerpo a Cuerpo Rubbarn-Gen		los	Plan de fabricacion de herramientas para la elaboracion de arma de combate cuerpo a cuerpo Rubbarn-Gen.	
 -	bcogenetrwea_2	Plan de Fabricación de Arma de Alcance Rubbarn-Gen 	un	el	Planes de Fabricación de Arma de Alcance Rubbarn-Gen 		lo	Plan de Fabricación para herramientas de elaboración de armas de alcance Rubbarn-Gen.	
 -	bcogenetforage_2	Plan de Pico Egiros-Gen	un	el	Planes de Pico Egiros-Gen		los	Plan de fabricación de Picos Egiros-Gen.	
+1619198342	jboost_3x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}3@{FFFF}.
+1619198342	jboost_4x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}4@{FFFF}.
+1619198342	jboost_5x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}5@{FFFF}.
+1619198342	jboost_6x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}6@{FFFF}.
+1619198342	jboost_7x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}7@{FFFF}.
+1619198342	jboost_8x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}8@{FFFF}.
+1619198342	jboost_9x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}9@{FFFF}.
+1619198342	jboost_10x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}10@{FFFF}.
+1619198342	jboost_11x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}11@{FFFF}.
+1619198342	jboost_12x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}12@{FFFF}.
+1619198342	jboost_13x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}13@{FFFF}.
+1619198342	jboost_14x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}14@{FFFF}.
+1619198342	jboost_15x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}15@{FFFF}.
+1619198342	jboost_16x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}16@{FFFF}.
+1619198342	jboost_17x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}17@{FFFF}.
+1619198342	jboost_18x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}18@{FFFF}.
+1619198342	jboost_19x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}19@{FFFF}.
+1619198342	jboost_20x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}20@{FFFF}.
+1619198342	jboost_21x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}21@{FFFF}.
+1619198342	jboost_22x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}22@{FFFF}.
+1619198342	jboost_23x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}23@{FFFF}.
+1619198342	jboost_24x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}24@{FFFF}.
+1619198342	jboost_25x	Amplificador del efecto Alegórico		el	Amplificadores del efecto Alegórico	unos	los	Multiplica el efecto Alegórico por @{5F5F}25@{FFFF}.
+1619198360	tag_fyros_1	FYROS		el	FYROS	unos	los	FYROS
+1619198360	tag_fyros_2	FYROS		el	FYROS	unos	los	FYROS
+1619198360	tag_fyros_3	FYROS		el	FYROS	unos	los	FYROS
+1619198360	tag_fyros_4	FYROS		el	FYROS	unos	los	FYROS
+1619198360	tag_matis_1	MATIS		el	MATIS	unos	los	MATIS
+1619198360	tag_matis_2	MATIS		el	MATIS	unos	los	MATIS
+1619198360	tag_matis_3	MATIS		el	MATIS	unos	los	MATIS
+1619198360	tag_matis_4	MATIS		el	MATIS	unos	los	MATIS
+1619198360	tag_zorai_1	ZORAI		el	ZORAI	unos	los	ZORAI
+1619198360	tag_zorai_2	ZORAI		el	ZORAI	unos	los	ZORAI
+1619198360	tag_zorai_3	ZORAI		el	ZORAI	unos	los	ZORAI
+1619198360	tag_zorai_4	ZORAI		el	ZORAI	unos	los	ZORAI
+1619198360	tag_tryker_1	TRYKER		el	TRYKER	unos	los	TRYKER
+1619198360	tag_tryker_2	TRYKER		el	TRYKER	unos	los	TRYKER
+1619198360	tag_tryker_3	TRYKER		el	TRYKER	unos	los	TRYKER
+1619198360	tag_tryker_4	TRYKER		el	TRYKER	unos	los	TRYKER
+1619198360	tag_kami_1	KAMI		el	KAMI	unos	los	KAMI
+1619198360	tag_kami_2	KAMI		el	KAMI	unos	los	KAMI
+1619198360	tag_kami_3	KAMI		el	KAMI	unos	los	KAMI
+1619198360	tag_kami_4	KAMI		el	KAMI	unos	los	KAMI
+1619198360	tag_karavan_1	KARAVAN		el	KARAVAN	unos	los	KARAVAN
+1619198360	tag_karavan_2	KARAVAN		el	KARAVAN	unos	los	KARAVAN
+1619198360	tag_karavan_3	KARAVAN		el	KARAVAN	unos	los	KARAVAN
+1619198360	tag_karavan_4	KARAVAN		el	KARAVAN	unos	los	KARAVAN
+1619198360	tag_marauder_1	MARAUDER		el	MARAUDER	unos	los	MARAUDER
+1619198360	tag_marauder_2	MARAUDER		el	MARAUDER	unos	los	MARAUDER
+1619198360	tag_marauder_3	MARAUDER		el	MARAUDER	unos	los	MARAUDER
+1619198360	tag_marauder_4	MARAUDER		el	MARAUDER	unos	los	MARAUDER
+1619198360	tag_ranger_1	RANGER		el	RANGER	unos	los	RANGER
+1619198360	tag_ranger_2	RANGER		el	RANGER	unos	los	RANGER
+1619198360	tag_ranger_3	RANGER		el	RANGER	unos	los	RANGER
+1619198360	tag_ranger_4	RANGER		el	RANGER	unos	los	RANGER

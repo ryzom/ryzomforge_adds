@@ -1922,3 +1922,4 @@
 -	gn_driller_marauder_const	Aklareen im Bau	Aklareen im Bau
 1616092237	fct_allegory_maker	Graveur für Allegorien	Graveurin für Allegorien
 1616152994	fct_animals_and_co	Vertreteter von "Tiere & Co"	Vertreterin von "Tiere & Co"
+1620041114	fct_artisan_aklareen	(Handwerker das Aklareen)	(Handwerkerin das Aklareen)

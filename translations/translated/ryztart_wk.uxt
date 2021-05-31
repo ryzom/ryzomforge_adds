@@ -1,0 +1,72 @@
+app.account_name	[Account Name]
+
+app.close	[Close]
+
+app.name	[Name]
+
+app.password	[Password]
+
+app.validate	[Validate]
+
+client_installer.ryzom_uptodate	[Ryzom is up to date at version]
+
+ryzom_config_ini.connect_char_on_slot	[Connect the character on slot]
+
+ryzom_config_ini.folder	[Folder]
+
+ryzom_config_ini.let_choose_char	[Let me choose the character]
+
+ryzom_config_ini.manage_profiles	[Manage Ryzom profiles]
+
+ryzom_config_ini.manage_servers	[Manage Ryzom installations]
+
+ryzom_config_ini.manage_shortcuts	[Manage Shortcuts for fast connexions]
+
+ryzom_config_ini.of_the_profile	[of the profile]
+
+ryzom_config_ini.of_the_shortcut	[of the shortcut]
+
+ryzom_config_ini.only_works_with_account_password	[Only works if account and password are setup]
+
+ryzom_config_ini.profile	[Profile]
+
+ryzom_config_ini.profiles	[Profiles]
+
+ryzom_config_ini.servers	[Servers]
+
+ryzom_config_ini.shard_profile	[Server]
+
+ryzom_config_ini.shortcuts	[Shortcuts]
+
+ryzom_config_ini.used_to_login	[Used to log into the game]
+
+ryzom_config_ini.what_char_connect	[What character do you want connect in an automatic way?]
+
+ryzom_content_manager.config	[Manage Server locations, Profiles and Shortcuts]
+
+ryzom_content_manager.me	[Open Payment Account website]
+
+ryzom_content_manager.play_ryzom	[Play RYZOM]
+
+ryzom_content_manager.ryzom_chat	[Talk in the Ryzom Chat]
+
+ryzom_installer.check_installation	[Click to check files integrity]
+
+ryzom_installer.click_to_buy_more	[Click to buy more premium time]
+
+ryzom_installer.login	[Login]
+
+ryzom_installer.logout	[Logout]
+
+ryzom_installer.not_valid_path	[Not a valid path]
+
+ryzom_installer.remaning_premium_time	[Remaning premium time:]
+
+ryzom_installer.select_playing_server	[Select the server where play]
+
+ryzom_installer.select_profile_to_use	[Select the profile to use]
+
+ryzom_installer.select_shortcut_to_use	[Select the shortcut to use]
+
+ryzom_installer.upgrade_your_account	[Upgrade your account]
+

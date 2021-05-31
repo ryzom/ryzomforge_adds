@@ -1916,6 +1916,7 @@
 -	fct_ranger_quartermaster	Квартирмейстер Рейнджеров	Квартирмейстерша Рейнджеров
 -	fct_marauder_ambassador	 Посланник мародеров	
 -	fct_marauder_windofmuse	(Ветра Муз)
--	gn_driller_marauder_const	Aklareen большого трепана	
+-	gn_driller_marauder_const	Аклареен большого трепана	
 1616092237	fct_allegory_maker	
 1616152994	fct_animals_and_co	
+1620041114	fct_artisan_aklareen	(Создатель Аклареен)	(Создатель Аклареен)

@@ -7093,9 +7093,9 @@ uiGloves	[GLOVES]
 
 uiGroupColor	[Team members]
 
-uiGUILD	[GUILD]
-
 uiGuild	[Guild]
+
+uiGUILD	[GUILD]
 
 uiGuildBearer	[Bearer]
 
@@ -7877,9 +7877,9 @@ uihMWeapon	[Melee Weapons]
 
 uiHoleth	[Holeth]
 
-uiHOME	[HOME]
-
 uiHome	[Home]
+
+uiHOME	[HOME]
 
 uiHorizontal	[Horizontal]
 
@@ -10391,7 +10391,7 @@ uiOutpostTitleTime	[Temps]
 
 uiOutpostTitleTotal	[Total]
 
-uiOutpostTribe	[L'Avant Poste est détenu par la tribu des Marauders.]
+uiOutpostTribe	[The Outpost is in the hands of a hostile tribe.]
 
 uiOutpostTSquad	[ESCOUADES EN ATTENTE]
 
@@ -11806,9 +11806,9 @@ uiSaveMovie	[Save Movie]
 
 uiSaveUI	[Save]
 
-uiSAY	[SAY]
-
 uiSay	[SAY]
+
+uiSAY	[SAY]
 
 uiSayColor	[Say]
 
@@ -12388,9 +12388,9 @@ uiTatoos	[TATOOS]
 
 uitCenter	[CENTER ON PLAYER]
 
-uiTeam	[TEAM]
-
 uiTEAM	[TEAM]
+
+uiTeam	[TEAM]
 
 uiTeamChat	[Team Chat]
 
@@ -12627,6 +12627,34 @@ uiTrade2Player	[EXCHANGE]
 uiTradeInvitation	[TRADE INVITATION]
 
 uiTradeWith	[TRADE WITH ?]
+
+uiTranslationDisable	[Disable translations for some channels]
+
+uiTranslationDisableAround	[Around, shout and emotes]
+
+uiTranslationDisableGuild	[Guild]
+
+uiTranslationDisableRegion	[Region]
+
+uiTranslationDisableUniverse	[Universe]
+
+uiTranslationEnglish	[English]
+
+uiTranslationFrench	[French]
+
+uiTranslationGerman	[German]
+
+uiTranslationHeader	[Translations]
+
+uiTranslationHide	[Hide flag]
+
+uiTranslationInverse	[Invert display]
+
+uiTranslationLanguages	[Language]
+
+uiTranslationRussian	[Russian]
+
+uiTranslationSpanish	[Spanish]
 
 uiTrCulture	[TRYKER-CULTURE]
 
@@ -14082,6 +14110,18 @@ uittTitle	[Show the character title above the character]
 
 uittToolCraftType	[@{6F6F}Type d'outil @{FFFF}:\n
 	Avant de vous lancer dans l'Artisanat, vous devez équiper l'outil de création approprié dans votre main droite.]
+
+uittTranslationDisableAround	[]
+
+uittTranslationDisableGuild	[]
+
+uittTranslationDisableRegion	[]
+
+uittTranslationDisableUniverse	[]
+
+uittTranslationHide	[Hides the language flag for messages originating from this language]
+
+uittTranslationInverse	[Inverts the display of the original message and the translation]
 
 uittUserColor	[Color used to display your character]
 

@@ -1922,3 +1922,4 @@
 -	Zorai_Shield_Smith_Apprentice	Apprenti Forgeron/Boucliers Zoraïs	Apprenti Forgeron/Boucliers Zoraïs
 -	Zorai_Weapon_Smith_Apprentice	Apprenti Forgeron/Armes Zoraïs	Apprenti Forgeron/Armes Zoraïs
 1616152994	fct_animals_and_co	Representative of Animals & Co	Representative of Animals & Co
+1620041114	fct_artisan_aklareen	
