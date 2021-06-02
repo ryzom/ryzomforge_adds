@@ -6233,7 +6233,7 @@
 -	rpjob_advanced	Trabajo Avanzado	un	e	Trabajos Avanzados		los
 -	rpjob_elementary	Trabajo Rudimentario	un	e	Trabajos Rudimentarios		los
 -	rpjob_roleplay	Trabajo Rudimentario	un	e	Trabajos Rudimentarios		los
--	r_06_08_phial_full	Phial	a	the	Phials		the
+-	r_06_08_phial_full	Frasco	uno	el	Frascos	unos	los
 -	r_06_08_report	Informe	un	el	Informes		los
 -	r_06_09_kizoar_element	Ala de Kizoar Letal	una	el	Alas de Kozoar Letales		las
 -	r_06_09_report	Informe	un	el	Informes		the
@@ -7776,9 +7776,8 @@
 -	nexus_neck2	Collar Iridiscente del Bosque	uno	el	Collares Iridiscentes del Bosque	unos	los
 -	nexus_neck3	Collar Iridiscente de Los Lagos	uno	el	Collares Iridiscentes de los Lagos	unos	los
 -	nexus_neck4	Collar Iridiscente de la Selva	uno	el	Collares Iridiscentes de la Selva	unos	los
--	s2e1_salins	salina madura	una	la	salinas maduras	unas	las
--	s2e1_seve_suc	gota de savia salina	una	la	gotas de savia salina	unas	las
-1618579662	slot_neck
+-	s2e1_salins	puñado de salina madura		el	puñados de salinas maduras	unos	los
+-	s2e1_seve_suc	gota de savia salina iridiscente	una	la	gotas de savia salina iridiscente	unas	las
 1619876266	m0819dxacc01	Zarza de Tekorn Bruta	una	la	Zarzas de Tekorn Bruta		las
 1619876266	m0820dxacc01	Enredadera de Maga Bruta	una	la	Enredaderas de Maga Brutas		las
 1619876266	m0821dxacc01	Liquen de Armilo Bruto	un	el	Líquenes de Armilo Brutos		los
@@ -7887,3 +7886,5 @@
 1619876266	icomartmwea_2	Herramienta para Fabricar Armas de Lucha Cuerpo a Cuerpo Rubbarn-Mar	una	la	Herramientas para Fabricar Armas de Lucha Cuerpo a Cuerpo Rubbarn-Mar		las
 1619876266	icomartrwea_1	Herramienta para Fabricar Armas de Alcance Armilo-Mar Range	una	la	Herramientas para Fabricar Armas de Alcance Armilo-Mar Range		las
 1619876266	icomartrwea_2	Herramienta para Fabricar Armas de Alcance Rubbarn-Mar	una	la	Herramientas para Fabricar Armas de Alcance Rubbarn-Mar		las
+1622476678	phial_stackable	Frasco	uno	el	Frascos	unos	los
+-	slot_neck	Equipa una joya en la ranura del collar.	uno	el	Equipa una joya en la ranura del collar.	unos	los

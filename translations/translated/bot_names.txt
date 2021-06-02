@@ -10600,3 +10600,4 @@
 1618327956	firstdeserters_marauder_ambassador_m1	Frenni Trirello	tribe_first_deserter_diplomat_m_f
 1618412013	lawless_marauder_ambassador_f1	Meo Wua-Piang	tribe_lawless_milician_z_f
 1618422673	smugglers_marauder_ambassador_t1	Mac'tooliam Cagger	tribe_smuglers_trader_t_f
+1620048570	ranger_op_artisan	Mio Wua-Sang	

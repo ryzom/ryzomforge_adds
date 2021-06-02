@@ -5,3 +5,5 @@ translations/diff/*.txt
 translations/diff/*.uxt
 
 .*
+
+*.pyc

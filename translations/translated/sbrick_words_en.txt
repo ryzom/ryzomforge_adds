@@ -4085,7 +4085,6 @@
 -	bczaea23	Zorai Light Bra Craft Pattern	a	the				Brick Craftman's plan for zorai light bra	
 1618581536	jrez_nodp_tryker	Sweet Death	a	the	Sweet Death		the	@{5F5F}1% @{FFFF}chance of @{5F5F}no death penality @{FFFF}after a resurrection. @{FAAF}Aeden Aqueous and Nexus Minor only.	
 1619198342	jboost_2x	Allegoric effect Amplifier	a	the	Allegoric effect Amplifiers			Multiplies the Allegoric effect by @{5F5F}2@{FFFF}.	
-1619198360	tag_fyros_1	Fyros	a	the	Fyros		the		
 1619199443	jrez_fulllife_tryker	Back in glory	a	the	Back in glory		the	@{5F5F}1% @{FFFF}chance to recover, at the time of your resurrection, the @{5F5F}totality @{FFFF}of your life, stamina, sap and focus maxima. @{FAAF}Aeden Aqueous and Nexus Minor only.	
 1619199449	jrez_halflife_tryker	Back on Feet	a	the	Back on Feet		the	@{5F5F}3% @{FFFF}chance to recover, at the time of your resurrection, @{5F5F}half @{FFFF}of your life, stamina, sap and focus maxima. @{FAAF}Aeden Aqueous and Nexus Minor only.	
 1619199455	jrez_goodlife_tryker	Back in Good Shape	a	the	Back in Good Shape		the	@{5F5F}2% @{FFFF}chance to recover, at the time of your resurrection, @{5F5F}three quarters @{FFFF}of your life, stamina, sap and focus maxima. @{FAAF}Aeden Aqueous and Nexus Minor only.	
@@ -4193,3 +4192,58 @@
 -	bcogenetmwea_2	Rubbarn-Gen Melee Weapon	a	the				Crafting plan for Rubbarn-Gen melee weapon crafting tools.	
 -	bcogenetrwea_2	Rubbarn-Gen Range Weapon	a	the				Crafting plan for Rubbarn-Gen range weapon crafting tools.	
 -	bcogenetforage_2	Egiros-Gen Pick	an	the				Crafting plan Egiros-Gen Picks.	
+1619198342	jboost_3x	Allegoric effect Amplifier	a	the	Allegoric effect Amplifiers			Multiplies the Allegoric effect by @{5F5F}3@{FFFF}.	
+1619198342	jboost_4x	Allegoric effect Amplifier	a	the	Allegoric effect Amplifiers			Multiplies the Allegoric effect by @{5F5F}4@{FFFF}.	
+1619198342	jboost_5x	Allegoric effect Amplifier	a	the	Allegoric effect Amplifiers			Multiplies the Allegoric effect by @{5F5F}5@{FFFF}.	
+1619198342	jboost_6x	Allegoric effect Amplifier	a	the	Allegoric effect Amplifiers			Multiplies the Allegoric effect by @{5F5F}6@{FFFF}.	
+1619198342	jboost_7x	Allegoric effect Amplifier	a	the	Allegoric effect Amplifiers			Multiplies the Allegoric effect by @{5F5F}7@{FFFF}.	
+1619198342	jboost_8x	Allegoric effect Amplifier	a	the	Allegoric effect Amplifiers			Multiplies the Allegoric effect by @{5F5F}8@{FFFF}.	
+1619198342	jboost_9x	Allegoric effect Amplifier	a	the	Allegoric effect Amplifiers			Multiplies the Allegoric effect by @{5F5F}9@{FFFF}.	
+1619198342	jboost_10x	Allegoric effect Amplifier	a	the	Allegoric effect Amplifiers			Multiplies the Allegoric effect by @{5F5F}10@{FFFF}.	
+1619198342	jboost_11x	Allegoric effect Amplifier	a	the	Allegoric effect Amplifiers			Multiplies the Allegoric effect by @{5F5F}11@{FFFF}.	
+1619198342	jboost_12x	Allegoric effect Amplifier	a	the	Allegoric effect Amplifiers			Multiplies the Allegoric effect by @{5F5F}12@{FFFF}.	
+1619198342	jboost_13x	Allegoric effect Amplifier	a	the	Allegoric effect Amplifiers			Multiplies the Allegoric effect by @{5F5F}13@{FFFF}.	
+1619198342	jboost_14x	Allegoric effect Amplifier	a	the	Allegoric effect Amplifiers			Multiplies the Allegoric effect by @{5F5F}14@{FFFF}.	
+1619198342	jboost_15x	Allegoric effect Amplifier	a	the	Allegoric effect Amplifiers			Multiplies the Allegoric effect by @{5F5F}15@{FFFF}.	
+1619198342	jboost_16x	Allegoric effect Amplifier	a	the	Allegoric effect Amplifiers			Multiplies the Allegoric effect by @{5F5F}16@{FFFF}.	
+1619198342	jboost_17x	Allegoric effect Amplifier	a	the	Allegoric effect Amplifiers			Multiplies the Allegoric effect by @{5F5F}17@{FFFF}.	
+1619198342	jboost_18x	Allegoric effect Amplifier	a	the	Allegoric effect Amplifiers			Multiplies the Allegoric effect by @{5F5F}18@{FFFF}.	
+1619198342	jboost_19x	Allegoric effect Amplifier	a	the	Allegoric effect Amplifiers			Multiplies the Allegoric effect by @{5F5F}19@{FFFF}.	
+1619198342	jboost_20x	Allegoric effect Amplifier	a	the	Allegoric effect Amplifiers			Multiplies the Allegoric effect by @{5F5F}20@{FFFF}.	
+1619198342	jboost_21x	Allegoric effect Amplifier	a	the	Allegoric effect Amplifiers			Multiplies the Allegoric effect by @{5F5F}21@{FFFF}.	
+1619198342	jboost_22x	Allegoric effect Amplifier	a	the	Allegoric effect Amplifiers			Multiplies the Allegoric effect by @{5F5F}22@{FFFF}.	
+1619198342	jboost_23x	Allegoric effect Amplifier	a	the	Allegoric effect Amplifiers			Multiplies the Allegoric effect by @{5F5F}23@{FFFF}.	
+1619198342	jboost_24x	Allegoric effect Amplifier	a	the	Allegoric effect Amplifiers			Multiplies the Allegoric effect by @{5F5F}24@{FFFF}.	
+1619198342	jboost_25x	Allegoric effect Amplifier	a	the	Allegoric effect Amplifiers			Multiplies the Allegoric effect by @{5F5F}25@{FFFF}.	
+1619198360	tag_fyros_1	FYROS	a	the	FYROS				
+1619198360	tag_fyros_2	FYROS	a	the	FYROS				
+1619198360	tag_fyros_3	FYROS	a	the	FYROS				
+1619198360	tag_fyros_4	FYROS	a	the	FYROS				
+1619198360	tag_matis_1	MATIS	a	the	MATIS				
+1619198360	tag_matis_2	MATIS	a	the	MATIS				
+1619198360	tag_matis_3	MATIS	a	the	MATIS				
+1619198360	tag_matis_4	MATIS	a	the	MATIS				
+1619198360	tag_zorai_1	ZORAI	a	the	ZORAI				
+1619198360	tag_zorai_2	ZORAI	a	the	ZORAI				
+1619198360	tag_zorai_3	ZORAI	a	the	ZORAI				
+1619198360	tag_zorai_4	ZORAI	a	the	ZORAI				
+1619198360	tag_tryker_1	TRYKER	a	the	TRYKER				
+1619198360	tag_tryker_2	TRYKER	a	the	TRYKER				
+1619198360	tag_tryker_3	TRYKER	a	the	TRYKER				
+1619198360	tag_tryker_4	TRYKER	a	the	TRYKER				
+1619198360	tag_kami_1	KAMI	a	the	KAMI				
+1619198360	tag_kami_2	KAMI	a	the	KAMI				
+1619198360	tag_kami_3	KAMI	a	the	KAMI				
+1619198360	tag_kami_4	KAMI	a	the	KAMI				
+1619198360	tag_karavan_1	KARAVAN	a	the	KARAVAN				
+1619198360	tag_karavan_2	KARAVAN	a	the	KARAVAN				
+1619198360	tag_karavan_3	KARAVAN	a	the	KARAVAN				
+1619198360	tag_karavan_4	KARAVAN	a	the	KARAVAN				
+1619198360	tag_marauder_1	MARAUDER	a	the	MARAUDER				
+1619198360	tag_marauder_2	MARAUDER	a	the	MARAUDER				
+1619198360	tag_marauder_3	MARAUDER	a	the	MARAUDER				
+1619198360	tag_marauder_4	MARAUDER	a	the	MARAUDER				
+1619198360	tag_ranger_1	RANGER	a	the	RANGER				
+1619198360	tag_ranger_2	RANGER	a	the	RANGER				
+1619198360	tag_ranger_3	RANGER	a	the	RANGER				
+1619198360	tag_ranger_4	RANGER	a	the	RANGER				

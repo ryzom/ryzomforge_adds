@@ -7770,15 +7770,15 @@
 -	m0693ccife01	Erhabene Zerx-Sehne, Waldtyp	Erhabene Zerx-Sehne, Waldtyp	Erhabene Zerx-Sehne, Waldtyp	Erhabene Zerx-Sehnen, Waldtyp	Erhabenen Zerx-Sehnen, Waldtyp	eine	die	eine	die		
 -	m0694ccile01	Erhabenes Zerx-Lederstück, Seenlandtyp	Erhabene Zerx-Lederstück, Seenlandtyp	Erhabene Zerx-Lederstück, Seenlandtyp	Erhabene Zerx-Lederstücke, Seenlandtyp	Erhabenen Zerx-Lederstücke, Seenlandtyp	ein	die	ein	das		
 -	m0694ccife01	Erhabenes Zerx-Lederstück, Waldtyp	Erhabene Zerx-Lederstück, Waldtyp	Erhabene Zerx-Lederstück, Waldtyp	Erhabene Zerx-Lederstücke, Waldtyp	Erhabenen Zerx-Lederstücke, Waldtyp	ein	die	ein	das		
--	s2e1_seve_suc	Tropfen Salina-Saft	Tropfen Salina-Saft	Tropfen Salina-Saft	Tropfen Salina-Saft	Tropfen Salina-Saft		die	ein	der
--	s2e1_salins	reife Salin	reife Salin	reifen Salin	reife Salins	reifen Salins		die	eine	die
--	nexus_neck1	leuchtende Wüstenhalskette	leuchtende Wüstenhalskette	leuchtende Wüstenhalskette	leuchtende Wüstenhalsketten	leuchtenden Wüstenhalsketten		die	eine	die
--	nexus_neck2	leuchtende Waldhalskette	leuchtende Waldhalskette	leuchtende Waldhalskette	leuchtende Waldhalsketten	leuchtenden Waldhalsketten		die	eine	die
--	nexus_neck3	leuchtende Seenhalskette	leuchtende Seenhalskette	leuchtende Seenhalskette	leuchtende Seenhalsketten	leuchtenden Seenhalsketten		die	eine	die
--	nexus_neck4	leuchtende Dschungelhalskette	leuchtende Dschungelhalskette	leuchtende Dschungelhalskette	leuchtende Dschungelhalsketten	leuchtenden Dschungelhalsketten		die	eine	die
+-	s2e1_seve_suc	Tropfen schillernder Salina-Saft	Tropfen schillernder Salina-Saft	Tropfen schillernder Salina-Saft	Tropfen schillernder Salina-Saft	Tropfen schillernder Salina-Saft	Tropfen schillernder Salina-Saft	die	ein	der
+-	s2e1_salins	Handvoll reife Salinen	Handvoll reife Salinen	Handvoll reife Salinen	Handvoll reife Salinen	Handvoll reife Salinen	Handvoll reife Salinen	die	eine	die
+-	nexus_neck1	schillernde Wüstenhalskette	schillernde Wüstenhalskette	schillernde Wüstenhalskette	schillernde Wüstenhalsketten	schillernde Wüstenhalsketten		die	eine	die
+-	nexus_neck2	schillernde Waldhalskette	schillernde Waldhalskette	schillernde Waldhalskette	schillernde Waldhalsketten	schillernde Waldhalsketten		die	eine	die
+-	nexus_neck3	schillernde Seenhalskette	schillernde Seenhalskette	schillernde Seenhalskette	schillernde Seenhalsketten	schillernde Seenhalsketten		die	eine	die
+-	nexus_neck4	schillernde Dschungelhalskette	schillernde Dschungelhalskette	schillernde Dschungelhalskette	schillernde Dschungelhalsketten	schillernde Dschungelhalsketten		die	eine	die
 -	wheel_token_easter	Event Tage des Lichts	ein	Event Tage des Lichts	Event Tage des Lichts	Event Tage des Lichts	die	die	ein	der
--	slot_fingerl		Lege am linken Finger einen Ring an		Lege am linken Finger einen Ring an						
-1618579662	slot_neck	
+-	slot_fingerl	Lege am linken Finger einen Ring an		Lege am linken Finger einen Ring an						
+1618579662	slot_neck	Rüste eine Halskette aus					Rüste eine Halskette aus			
 1619876266	m0819dxacc01	natürlicher Tekorn-Strauch	natürliche Tekorn-Strauch	natürliche Tekorn-Strauch	natürliche Tekorn-Sträucher	natürlichen Tekorn-Sträucher	einen	die	ein	der
 1619876266	m0820dxacc01	natürliche Maga-Liane	natürliche Maga-Liane	natürliche Maga-Liane	natürliche Maga-Lianen	natürlichen Maga-Lianen	eine	die	eine	die
 1619876266	m0821dxacc01	natürliche Armilo-Flechte	natürliche Armilo-Flechte	natürliche Armilo-Flechte	natürliche Armilo-Flechten	natürlichen Armilo-Flechten	eine	die	eine	die
@@ -7887,3 +7887,4 @@
 1619876266	icomartmwea_2	Rubbarn-Mar Nahkampfwaffen-Werkzeug	Rubbarn-Mar Nahkampfwaffen-Werkzeug	Rubbarn-Mar Nahkampfwaffen-Werkzeug	Rubbarn-Mar Nahkampfwaffen-Werkzeug	Rubbarn-Mar Nahkampfwaffen-Werkzeug	ein	das	ein	das	Rubbarn-Mar Nahkampfwaffen-Werkzeug
 1619876266	icomartrwea_1	Armilo-Mar Fernkampfwaffen-Werkzeug	Armilo-Mar Fernkampfwaffen-Werkzeug	Armilo-Mar Fernkampfwaffen-Werkzeug	Armilo-Mar Fernkampfwaffen-Werkzeug	Armilo-Mar Fernkampfwaffen-Werkzeug	ein	das	ein	das	Armilo-Mar Fernkampfwaffen-Werkzeug
 1619876266	icomartrwea_2	Rubbarn-Mar Fernkampfwaffen-Werkzeug	Rubbarn-Mar Fernkampfwaffen-Werkzeug	Rubbarn-Mar Fernkampfwaffen-Werkzeug	Rubbarn-Mar Fernkampfwaffen-Werkzeug	Rubbarn-Mar Fernkampfwaffen-Werkzeug	ein	das	ein	das	Rubbarn-Mar Fernkampfwaffen-Werkzeug
+1622476678	phial_stackable	Phiole mit Saliniasaft	Phiole mit Saliniasaft	Phiole mit Saliniasaft	Phiole mit Saliniasaft	Phiole mit Saliniasaft	Phiole mit Saliniasaft	die	eine	die

@@ -1922,3 +1922,4 @@
 -	gn_driller_marauder_const	Aklareen en construcción 		
 1616092237	fct_allegory_maker	
 1616152994	fct_animals_and_co	
+1620041114	fct_artisan_aklareen	 (Artesano del Aklareen)	

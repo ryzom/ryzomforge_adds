@@ -1,0 +1,82 @@
+app.account_name	[]
+
+app.close	[]
+
+app.name	[]
+
+app.password	[]
+
+app.validate	[]
+
+client_installer.ryzom_update	[]
+
+client_installer.ryzom_uptodate	[]
+
+main.close	[]
+
+ryzom_config_ini.connect_char_on_slot	[]
+
+ryzom_config_ini.content	[]
+
+ryzom_config_ini.folder	[]
+
+ryzom_config_ini.let_choose_char	[]
+
+ryzom_config_ini.manage_profiles	[]
+
+ryzom_config_ini.manage_servers	[]
+
+ryzom_config_ini.manage_shortcuts	[]
+
+ryzom_config_ini.name_profile	[]
+
+ryzom_config_ini.of_the_profile	[]
+
+ryzom_config_ini.of_the_shortcut	[]
+
+ryzom_config_ini.only_works_with_account_password	[]
+
+ryzom_config_ini.profile	[]
+
+ryzom_config_ini.profiles	[]
+
+ryzom_config_ini.servers	[]
+
+ryzom_config_ini.shard_profile	[]
+
+ryzom_config_ini.shortcuts	[]
+
+ryzom_config_ini.used_to_login	[]
+
+ryzom_config_ini.validate	[]
+
+ryzom_config_ini.what_char_connect	[]
+
+ryzom_content_manager.config	[]
+
+ryzom_content_manager.me	[]
+
+ryzom_content_manager.play_ryzom	[]
+
+ryzom_content_manager.ryzom_chat	[]
+
+ryzom_installer.click_to_buy_more	[]
+
+ryzom_installer.login	[]
+
+ryzom_installer.logout	[]
+
+ryzom_installer.not_valid_path	[]
+
+ryzom_installer.remaning_premium_time	[]
+
+ryzom_installer.select_playing_server	[]
+
+ryzom_installer.select_profile_to_use	[]
+
+ryzom_installer.select_shortcut_to_use	[]
+
+ryzom_installer.upgrade_your_account	[]
+
+ryzom_installer.check_installation	[]
+

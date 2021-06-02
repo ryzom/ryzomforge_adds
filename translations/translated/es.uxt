@@ -7312,9 +7312,9 @@ uiGloves	[GUANTES]
 
 uiGroupColor	[Miembros del Grupo]
 
-uiGUILD	[GREMIO]
-
 uiGuild	[Gremio]
+
+uiGUILD	[GREMIO]
 
 uiGuildBearer	[Mensajero]
 
@@ -8093,9 +8093,9 @@ uihMWeapon	[Armas de Combate Cuerpo a Cuerpo]
 
 uiHoleth	[Holeth]
 
-uiHOME	[INICIO]
-
 uiHome	[Inicio]
+
+uiHOME	[INICIO]
 
 uiHorizontal	[Horizontal]
 
@@ -10608,7 +10608,7 @@ uiOutpostTitleTime	[Tiempo]
 
 uiOutpostTitleTotal	[Total]
 
-uiOutpostTribe	[El Puesto de Avanzada es propiedad de una Tribu Merodeadora.]
+uiOutpostTribe	[El puesto de avanzada está en manos de una tribu hostil.]
 
 uiOutpostTSquad	[ESCUADRONES PENDIENTES]
 
@@ -12024,9 +12024,9 @@ uiSaveMovie	[Guardar Película]
 
 uiSaveUI	[Guardar]
 
-uiSay	[DECIR]
-
 uiSAY	[DECIR]
+
+uiSay	[DECIR]
 
 uiSayColor	[Decir]
 
@@ -12534,7 +12534,7 @@ uiTalkMemMsg08	[Abrazar]
 
 uiTalkMemMsg09	[¡Yeah!]
 
-uiTalkMemMsg10	[Qué estás pasando?]
+uiTalkMemMsg10	[¿Qué Pasa?]
 
 uiTalkMemMsg11	[¿Tío?]
 
@@ -12604,9 +12604,9 @@ uiTatoos	[TATUAJES]
 
 uitCenter	[CENTRAR MAPA EN TU POSICIÓN]
 
-uiTeam	[EQUIPO]
-
 uiTEAM	[EQUIPO]
+
+uiTeam	[EQUIPO]
 
 uiTeamChat	[Chat del Equipo]
 
@@ -12839,6 +12839,34 @@ uiTrade2Player	[INTERCAMBIAR]
 uiTradeInvitation	[INVITACIÓN A COMERCIAR]
 
 uiTradeWith	[¿INTERCAMBIAR CON?]
+
+uiTranslationDisable	[Desactivar las traducciones de algunos canales]
+
+uiTranslationDisableAround	[Alrededor, gritos y emotes]
+
+uiTranslationDisableGuild	[Gremio]
+
+uiTranslationDisableRegion	[Región]
+
+uiTranslationDisableUniverse	[Universo]
+
+uiTranslationEnglish	[Inglés]
+
+uiTranslationFrench	[Francés]
+
+uiTranslationGerman	[Alemán]
+
+uiTranslationHeader	[Traducciones]
+
+uiTranslationHide	[Ocultar la bandera]
+
+uiTranslationInverse	[Invertir la visualización]
+
+uiTranslationLanguages	[Idioma]
+
+uiTranslationRussian	[Ruso]
+
+uiTranslationSpanish	[Español]
 
 uiTrCulture	[CULTURA-TRYKER]
 
@@ -14300,6 +14328,18 @@ uittTitle	[Mostrar el título del personaje sobre el personaje]
 
 uittToolCraftType	[@{6F6F}Tipo de Herramienta@{FFFF}:\n
 	Antes fabricar, debes equiparte la herramienta de fabricación apropiada.]
+
+uittTranslationDisableAround	[]
+
+uittTranslationDisableGuild	[]
+
+uittTranslationDisableRegion	[]
+
+uittTranslationDisableUniverse	[]
+
+uittTranslationHide	[Oculta la bandera del idioma para los mensajes originados en este idioma]
+
+uittTranslationInverse	[Invierte la visualización del original]
 
 uittUserColor	[Color usado para visualizar tu personaje]
 
