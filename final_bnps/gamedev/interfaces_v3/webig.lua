@@ -17,14 +17,22 @@ function getUCtf8(text)
 	return text
 end
 
-function game:openUrlOnWebig(url)
-	local webig = getUI("ui:interface:webig")
-	webig.active=1
-	webig.opened=1
-	local html = webig:find("html")
-	html:browse(url)
-	setTopWindow(webig)
-	webig:blink(2)
+function game:openUrlOnWebig(url, noblink, close_if_open)
+	local winframe = getUI("ui:interface:open_url_window")
+	if close_if_open and  winframe ~= nil and winframe.active == true then
+		winframe.active = false
+	else
+		WebBrowser:openWindow("open_url_window", url)
+		winframe = getUI("ui:interface:open_url_window")
+		winframe.opened=true
+		winframe.active=true
+		winframe.w = 830
+		winframe.h = 600
+		setTopWindow(winframe)
+		if noblink == nil then
+			winframe:blink(2)
+		end
+	end
 end
 
 
@@ -204,6 +212,9 @@ function getUICallerRoot()
 	return getUI(getUICaller().id:match("(ui:interface:[^:]*):?"))
 end
 
+function webig:openUrl(url)
+	getUI("ui:interface:web_transactions"):find("html"):browse(url)
+end
 
 --assert(nil, "RELOADABLE SCRIPT")
 
